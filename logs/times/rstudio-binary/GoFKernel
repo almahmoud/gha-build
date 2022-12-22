@@ -1,0 +1,55 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   5a2e6329..27693205  main       -> origin/main
+Updating 5a2e6329..27693205
+Fast-forward
+ logs/run_ids/rstudio-binaries/IMPCdata | 2 ++
+ logs/run_ids/rstudio-binaries/gridSVG  | 2 ++
+ logs/run_ids/rstudio-binaries/hunspell | 2 ++
+ 3 files changed, 6 insertions(+)
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=GoFKernel
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "GoFKernel"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency KernSmooth is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''GoFKernel'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv GoFKernel_2.1-1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/GoFKernel
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'GoFKernel'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/GoFKernel_2.1-1.tar.gz'
+Content type 'binary/octet-stream' length 59954 bytes (58 KB)
+==================================================
+downloaded 58 KB
+
+* installing *binary* package ‘GoFKernel’ ...
+* ‘GoFKernel’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘GoFKernel’ as ‘GoFKernel_2.1-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GoFKernel)
+
+The downloaded source packages are in
+	‘/tmp/RtmpskB9rh/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+3.40user 0.31system 0:05.93elapsed 62%CPU (0avgtext+0avgdata 146100maxresident)k
+272inputs+9776outputs (4major+58328minor)pagefaults 0swaps
