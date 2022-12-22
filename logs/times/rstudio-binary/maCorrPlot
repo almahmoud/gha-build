@@ -1,0 +1,75 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   14a9af0a..add165f0  main       -> origin/main
+Updating 14a9af0a..add165f0
+Fast-forward
+ lists/maptpx                                  |  2 +-
+ lists/markdown                                |  2 +-
+ lists/maxstat                                 |  2 +-
+ logs/run_ids/rstudio-binaries/Peptides        |  2 +
+ logs/run_ids/rstudio-binaries/munsell         |  2 +
+ logs/sizes/rstudio-binaries/binaries/maxstat  |  1 +
+ logs/sizes/rstudio-binaries/libraries/maxstat |  1 +
+ logs/times/rstudio-binary/maxstat             | 69 +++++++++++++++++++++++++++
+ packages.json                                 | 57 ----------------------
+ 9 files changed, 78 insertions(+), 60 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/maxstat
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/maxstat
+ create mode 100644 logs/times/rstudio-binary/maxstat
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=maCorrPlot
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "maCorrPlot"/,/^    "/p' directdeps.json
++ '[' -s /tmp/deps ']'
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
++ cat /tmp/deps
+Dependency lattice is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''maCorrPlot'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv maCorrPlot_1.68.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/maCorrPlot
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'maCorrPlot'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/maCorrPlot_1.68.0.tar.gz'
+Content type 'application/x-gzip' length 1320290 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+* installing *source* package ‘maCorrPlot’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘maCorrPlot’ as ‘maCorrPlot_1.68.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (maCorrPlot)
+
+The downloaded source packages are in
+	‘/tmp/RtmpTZMCzg/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+6.27user 0.81system 0:09.59elapsed 73%CPU (0avgtext+0avgdata 145960maxresident)k
+864inputs+27224outputs (9major+133207minor)pagefaults 0swaps
