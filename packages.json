@@ -8685,7 +8685,6 @@
         "knitr",
         "latticeExtra",
         "lme4",
-        "magic",
         "memoise",
         "mgcv",
         "nlme",
@@ -14875,7 +14874,6 @@
         "knitr",
         "latticeExtra",
         "lme4",
-        "magic",
         "mgcv",
         "mrfDepth",
         "ncdfFlow",
@@ -15886,7 +15884,6 @@
         "geometry",
         "ggplot2",
         "hms",
-        "magic",
         "mgcv",
         "nlme",
         "pcaPP",
@@ -44331,7 +44328,6 @@
         "jquerylib",
         "klaR",
         "labelled",
-        "magic",
         "memoise",
         "mgcv",
         "miniUI",
@@ -74658,7 +74654,6 @@
     "FME": [],
     "SpatialTools": [
         "RcppArmadillo",
-        "magic",
         "sp",
         "spBayes"
     ],
@@ -74705,10 +74700,8 @@
         "waldo"
     ],
     "spBayes": [
-        "magic",
         "sp"
     ],
-    "magic": [],
     "EnvStats": [
         "ggplot2",
         "mgcv",
@@ -76195,7 +76188,6 @@
         "RcppEigen",
         "geometry",
         "ggplot2",
-        "magic",
         "mgcv",
         "nlme",
         "pillar",
@@ -76223,9 +76215,7 @@
         "vctrs",
         "viridis"
     ],
-    "geometry": [
-        "magic"
-    ],
+    "geometry": [],
     "GEOmap": [
         "fields",
         "ggplot2",
@@ -79295,8 +79285,7 @@
         "vctrs"
     ],
     "pdfCluster": [
-        "geometry",
-        "magic"
+        "geometry"
     ],
     "diceR": [
         "NMF",
