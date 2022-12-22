@@ -1,0 +1,71 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   0ec98bf6..b5dc190b  main       -> origin/main
+Updating 0ec98bf6..b5dc190b
+Fast-forward
+ logs/run_ids/rstudio-binaries/EntropyExplorer | 2 ++
+ logs/run_ids/rstudio-binaries/ecolitk         | 2 ++
+ 2 files changed, 4 insertions(+)
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=graph
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "graph"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency BiocGenerics is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''graph'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv graph_1.76.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/graph
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'graph'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/graph_1.76.0.tar.gz'
+Content type 'application/x-gzip' length 837753 bytes (818 KB)
+==================================================
+downloaded 818 KB
+
+* installing *source* package ‘graph’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c graph.c -o graph.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o graph.so graph.o -L/usr/local/lib/R/lib -lR
+mv graph.so BioC_graph.so
+installing to /__w/gha-build/gha-build/built/00LOCK-graph/00new/graph/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘graph’ as ‘graph_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (graph)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp7pVDVu/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+12.55user 0.80system 0:14.36elapsed 92%CPU (0avgtext+0avgdata 148652maxresident)k
+1424inputs+39648outputs (22major+150978minor)pagefaults 0swaps
