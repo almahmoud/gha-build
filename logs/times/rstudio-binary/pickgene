@@ -1,0 +1,74 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   88f6ff72..14a9af0a  main       -> origin/main
+Updating 88f6ff72..14a9af0a
+Fast-forward
+ lists/MBCB                                 |  2 +-
+ logs/run_ids/rstudio-binaries/maCorrPlot   |  2 +
+ logs/run_ids/rstudio-binaries/multicool    |  2 +
+ logs/run_ids/rstudio-binaries/plyr         |  2 +
+ logs/sizes/rstudio-binaries/binaries/MBCB  |  1 +
+ logs/sizes/rstudio-binaries/libraries/MBCB |  1 +
+ logs/times/rstudio-binary/MBCB             | 78 ++++++++++++++++++++++++++++++
+ packages.json                              |  1 -
+ 8 files changed, 87 insertions(+), 2 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/MBCB
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/MBCB
+ create mode 100644 logs/times/rstudio-binary/MBCB
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=pickgene
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "pickgene"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency MASS is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''pickgene'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv pickgene_1.70.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/pickgene
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'pickgene'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/pickgene_1.70.0.tar.gz'
+Content type 'application/x-gzip' length 194255 bytes (189 KB)
+==================================================
+downloaded 189 KB
+
+* installing *source* package ‘pickgene’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Note: possible error in 'oddsplot(exp(data[[x]]), ': unused argument (chip = "") 
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pickgene’ as ‘pickgene_1.70.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pickgene)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp1TSvaT/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+5.56user 0.75system 0:08.83elapsed 71%CPU (0avgtext+0avgdata 145912maxresident)k
+864inputs+17312outputs (9major+127005minor)pagefaults 0swaps
