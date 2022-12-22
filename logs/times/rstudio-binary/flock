@@ -1,0 +1,220 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   b0b3557d..2ee329de  main       -> origin/main
+Updating b0b3557d..2ee329de
+Fast-forward
+ lists/ACME                         |  1 +
+ lists/ALL                          |  1 +
+ lists/BAGS                         |  1 +
+ lists/BayesKnockdown               |  1 +
+ lists/CMA                          |  1 +
+ lists/Ckmeans.1d.dp                |  1 +
+ lists/DExMAdata                    |  1 +
+ lists/DFP                          |  1 +
+ lists/DiffLogo                     |  1 +
+ lists/EBarrays                     |  1 +
+ lists/GSEAlm                       |  1 +
+ lists/GeneExpressionSignature      |  1 +
+ lists/GeneSelectMMD                |  1 +
+ lists/HELP                         |  1 +
+ lists/HEM                          |  1 +
+ lists/HilbertVisGUI                |  1 +
+ lists/KEGGandMetacoreDzPathwaysGEO |  1 +
+ lists/KEGGdzPathwaysGEO            |  1 +
+ lists/LIM                          |  1 +
+ lists/MethPed                      |  1 +
+ lists/MiChip                       |  1 +
+ lists/NanoStringDiff               |  1 +
+ lists/PLPE                         |  1 +
+ lists/PSEA                         |  1 +
+ lists/ROTS                         |  1 +
+ lists/RTCA                         |  1 +
+ lists/RUVnormalizeData             |  1 +
+ lists/ReadqPCR                     |  1 +
+ lists/Rmisc                        |  1 +
+ lists/UNDO                         |  1 +
+ lists/a4Preproc                    |  1 +
+ lists/affycomp                     |  1 +
+ lists/annotationTools              |  1 +
+ lists/baseline                     |  1 +
+ lists/bayestestR                   |  1 +
+ lists/bcellViper                   |  1 +
+ lists/bioDist                      |  1 +
+ lists/bladderbatch                 |  1 +
+ lists/cancerclass                  |  1 +
+ lists/chk                          |  1 +
+ lists/clusterStab                  |  1 +
+ lists/conicfit                     |  2 +-
+ lists/copa                         |  1 +
+ lists/ddCt                         |  1 +
+ lists/ecolitk                      |  1 +
+ lists/fabia                        |  1 +
+ lists/factDesign                   |  1 +
+ lists/fst                          |  1 +
+ lists/futile.logger                |  1 +
+ lists/future                       |  1 +
+ lists/gbutils                      |  1 +
+ lists/gcatest                      |  1 +
+ lists/gdtools                      |  1 +
+ lists/geneClassifiers              |  1 +
+ lists/geneRecommender              |  1 +
+ lists/hopach                       |  1 +
+ lists/iGC                          |  1 +
+ lists/iterClust                    |  1 +
+ lists/lapmix                       |  1 +
+ lists/lubridate                    |  1 +
+ lists/maanova                      |  1 +
+ lists/miRcomp                      |  1 +
+ lists/multiscan                    |  1 +
+ lists/mzR                          |  1 +
+ lists/pROC                         |  1 +
+ lists/pals                         |  1 +
+ lists/pcaMethods                   |  1 +
+ lists/phosphonormalizer            |  1 +
+ lists/plgem                        |  1 +
+ lists/randPack                     |  1 +
+ lists/randRotation                 |  1 +
+ lists/rcellminerData               |  1 +
+ lists/reshape                      |  1 +
+ lists/rmelting                     |  1 +
+ lists/rmio                         |  1 +
+ lists/scales                       |  1 +
+ lists/sjlabelled                   |  1 +
+ lists/spkTools                     |  1 +
+ lists/svglite                      |  1 +
+ lists/textshaping                  |  1 +
+ lists/twilight                     |  1 +
+ lists/vctrs                        |  1 +
+ lists/yeastCC                      |  1 +
+ logs/run_ids/rstudio-binaries/clue |  2 +
+ packages.json                      |  2 -
+ tobuild.txt                        | 82 ++++++++++++++++++++++++++++++++++++++
+ 86 files changed, 167 insertions(+), 3 deletions(-)
+ create mode 100644 lists/ACME
+ create mode 100644 lists/ALL
+ create mode 100644 lists/BAGS
+ create mode 100644 lists/BayesKnockdown
+ create mode 100644 lists/CMA
+ create mode 100644 lists/Ckmeans.1d.dp
+ create mode 100644 lists/DExMAdata
+ create mode 100644 lists/DFP
+ create mode 100644 lists/DiffLogo
+ create mode 100644 lists/EBarrays
+ create mode 100644 lists/GSEAlm
+ create mode 100644 lists/GeneExpressionSignature
+ create mode 100644 lists/GeneSelectMMD
+ create mode 100644 lists/HELP
+ create mode 100644 lists/HEM
+ create mode 100644 lists/HilbertVisGUI
+ create mode 100644 lists/KEGGandMetacoreDzPathwaysGEO
+ create mode 100644 lists/KEGGdzPathwaysGEO
+ create mode 100644 lists/LIM
+ create mode 100644 lists/MethPed
+ create mode 100644 lists/MiChip
+ create mode 100644 lists/NanoStringDiff
+ create mode 100644 lists/PLPE
+ create mode 100644 lists/PSEA
+ create mode 100644 lists/ROTS
+ create mode 100644 lists/RTCA
+ create mode 100644 lists/RUVnormalizeData
+ create mode 100644 lists/ReadqPCR
+ create mode 100644 lists/Rmisc
+ create mode 100644 lists/UNDO
+ create mode 100644 lists/a4Preproc
+ create mode 100644 lists/affycomp
+ create mode 100644 lists/annotationTools
+ create mode 100644 lists/baseline
+ create mode 100644 lists/bayestestR
+ create mode 100644 lists/bcellViper
+ create mode 100644 lists/bioDist
+ create mode 100644 lists/bladderbatch
+ create mode 100644 lists/cancerclass
+ create mode 100644 lists/chk
+ create mode 100644 lists/clusterStab
+ create mode 100644 lists/copa
+ create mode 100644 lists/ddCt
+ create mode 100644 lists/ecolitk
+ create mode 100644 lists/fabia
+ create mode 100644 lists/factDesign
+ create mode 100644 lists/fst
+ create mode 100644 lists/futile.logger
+ create mode 100644 lists/future
+ create mode 100644 lists/gbutils
+ create mode 100644 lists/gcatest
+ create mode 100644 lists/gdtools
+ create mode 100644 lists/geneClassifiers
+ create mode 100644 lists/geneRecommender
+ create mode 100644 lists/hopach
+ create mode 100644 lists/iGC
+ create mode 100644 lists/iterClust
+ create mode 100644 lists/lapmix
+ create mode 100644 lists/lubridate
+ create mode 100644 lists/maanova
+ create mode 100644 lists/miRcomp
+ create mode 100644 lists/multiscan
+ create mode 100644 lists/mzR
+ create mode 100644 lists/pROC
+ create mode 100644 lists/pals
+ create mode 100644 lists/pcaMethods
+ create mode 100644 lists/phosphonormalizer
+ create mode 100644 lists/plgem
+ create mode 100644 lists/randPack
+ create mode 100644 lists/randRotation
+ create mode 100644 lists/rcellminerData
+ create mode 100644 lists/reshape
+ create mode 100644 lists/rmelting
+ create mode 100644 lists/rmio
+ create mode 100644 lists/scales
+ create mode 100644 lists/sjlabelled
+ create mode 100644 lists/spkTools
+ create mode 100644 lists/svglite
+ create mode 100644 lists/textshaping
+ create mode 100644 lists/twilight
+ create mode 100644 lists/vctrs
+ create mode 100644 lists/yeastCC
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=flock
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "flock"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
++ cat /tmp/deps
+Dependency Rcpp is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''flock'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv flock_0.7_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/flock
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'flock'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/flock_0.7.tar.gz'
+Content type 'binary/octet-stream' length 315449 bytes (308 KB)
+==================================================
+downloaded 308 KB
+
+* installing *binary* package ‘flock’ ...
+* ‘flock’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘flock’ as ‘flock_0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (flock)
+
+The downloaded source packages are in
+	‘/tmp/RtmpQ6AlpD/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+3.98user 0.32system 0:06.83elapsed 63%CPU (0avgtext+0avgdata 145936maxresident)k
+824inputs+18912outputs (8major+62090minor)pagefaults 0swaps

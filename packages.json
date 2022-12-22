@@ -33548,7 +33548,6 @@
         "depmixS4",
         "dplyr",
         "e1071",
-        "flock",
         "futile.logger",
         "future",
         "future.apply",
@@ -37131,7 +37130,6 @@
         "doRNG",
         "dplyr",
         "fields",
-        "flock",
         "foreach",
         "futile.logger",
         "genefilter",
@@ -86078,7 +86076,6 @@
         "Rsolnp",
         "nlme"
     ],
-    "flock": [],
     "Rsolnp": [],
     "golem": [
         "askpass",
@@ -86475,7 +86472,6 @@
         "bigparallelr",
         "cowplot",
         "doParallel",
-        "flock",
         "foreach",
         "ggplot2",
         "mgcv",
@@ -86496,7 +86492,6 @@
     ],
     "bigparallelr": [
         "doParallel",
-        "flock",
         "foreach"
     ],
     "rmio": [],
