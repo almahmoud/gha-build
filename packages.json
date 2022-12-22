@@ -60826,7 +60826,6 @@
     "TileDBArray": [
         "DelayedArray",
         "IRanges",
-        "RcppSpdlog",
         "S4Vectors",
         "nanotime",
         "spdl",
@@ -74532,15 +74531,11 @@
         "vctrs"
     ],
     "tiledb": [
-        "RcppSpdlog",
         "nanotime",
         "spdl"
     ],
     "nanotime": [],
-    "spdl": [
-        "RcppSpdlog"
-    ],
-    "RcppSpdlog": [],
+    "spdl": [],
     "FreqProf": [
         "bslib",
         "fontawesome",
