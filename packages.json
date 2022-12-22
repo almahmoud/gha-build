@@ -16622,7 +16622,6 @@
         "nlme",
         "openssl",
         "pillar",
-        "pscl",
         "purrr",
         "qvalue",
         "reshape2",
@@ -19462,7 +19461,6 @@
         "maxLik",
         "miscTools",
         "nlme",
-        "pscl",
         "sandwich",
         "survival",
         "zoo"
@@ -32578,7 +32576,6 @@
         "openssl",
         "pillar",
         "progress",
-        "pscl",
         "purrr",
         "restfulr",
         "rmarkdown",
@@ -35514,7 +35511,6 @@
         "processx",
         "progressr",
         "promises",
-        "pscl",
         "purrr",
         "quantreg",
         "qvalue",
@@ -37907,7 +37903,6 @@
         "pillar",
         "pkgload",
         "processx",
-        "pscl",
         "purrr",
         "quantreg",
         "rematch2",
@@ -38001,7 +37996,6 @@
         "pillar",
         "pkgload",
         "processx",
-        "pscl",
         "psych",
         "purrr",
         "quantreg",
@@ -41259,7 +41253,6 @@
         "processx",
         "progress",
         "promises",
-        "pscl",
         "purrr",
         "quantreg",
         "readr",
@@ -44208,7 +44201,6 @@
         "nlme",
         "pheatmap",
         "pillar",
-        "pscl",
         "purrr",
         "reshape2",
         "scales",
@@ -44790,7 +44782,6 @@
         "pkgload",
         "prabclus",
         "processx",
-        "pscl",
         "purrr",
         "quantreg",
         "rematch2",
@@ -66347,7 +66338,6 @@
         "nlme",
         "penalized",
         "preseqR",
-        "pscl",
         "rsvd",
         "survival"
     ],
@@ -66539,8 +66529,7 @@
         "coda",
         "emdbook",
         "futile.logger",
-        "lambda.r",
-        "pscl"
+        "lambda.r"
     ],
     "scTensor": [
         "AnnotationDbi",
@@ -86892,7 +86881,6 @@
         "pcaPP",
         "robustbase"
     ],
-    "pscl": [],
     "AhoCorasickTrie": [],
     "cytometree": [
         "GoFKernel",
