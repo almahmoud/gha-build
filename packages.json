@@ -35588,7 +35588,6 @@
         "e1071",
         "ggplot2",
         "gplots",
-        "irr",
         "mgcv",
         "nlme",
         "pillar",
@@ -85964,7 +85963,6 @@
     "akima": [
         "sp"
     ],
-    "irr": [],
     "scam": [
         "Matrix",
         "mgcv",
