@@ -12963,7 +12963,6 @@
         "irlba",
         "knitr",
         "openssl",
-        "polylabelr",
         "skmeans",
         "stringr",
         "vctrs"
@@ -30842,8 +30841,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "polylabelr"
+        "XVector"
     ],
     "HilbertVisGUI": [],
     "HiLDA": [
@@ -63443,7 +63441,6 @@
         "mgcv",
         "nlme",
         "pillar",
-        "polylabelr",
         "restfulr",
         "rtracklayer",
         "scales",
@@ -81052,10 +81049,8 @@
     ],
     "skmeans": [],
     "eulerr": [
-        "RcppArmadillo",
-        "polylabelr"
+        "RcppArmadillo"
     ],
-    "polylabelr": [],
     "cobs": [
         "Matrix",
         "MatrixModels",
