@@ -1147,7 +1147,6 @@
         "jquerylib",
         "knitr",
         "lambda.r",
-        "limSolve",
         "memoise",
         "mgcv",
         "missForest",
@@ -5182,7 +5181,6 @@
         "graph",
         "hyperdraw",
         "hypergraph",
-        "limSolve",
         "rsbml",
         "stringr",
         "vctrs"
@@ -18720,7 +18718,6 @@
     "DeconRNASeq": [
         "Matrix",
         "ggplot2",
-        "limSolve",
         "mgcv",
         "munsell",
         "nlme",
@@ -21947,7 +21944,6 @@
         "lambda.r",
         "later",
         "libcoin",
-        "limSolve",
         "lme4",
         "locfit",
         "memoise",
@@ -31734,7 +31730,6 @@
         "htmltools",
         "jquerylib",
         "knitr",
-        "limSolve",
         "lubridate",
         "memoise",
         "mgcv",
@@ -49220,7 +49215,6 @@
         "lambda.r",
         "later",
         "latticeExtra",
-        "limSolve",
         "locfit",
         "memoise",
         "metap",
@@ -58933,7 +58927,6 @@
         "dplyr",
         "ellipsis",
         "ggplot2",
-        "limSolve",
         "mgcv",
         "munsell",
         "nlme",
@@ -81938,7 +81931,6 @@
         "knitr",
         "lambda.r",
         "latticeExtra",
-        "limSolve",
         "memoise",
         "mgcv",
         "munsell",
@@ -83279,10 +83271,7 @@
         "vctrs"
     ],
     "pcaPP": [],
-    "baseline": [
-        "limSolve"
-    ],
-    "limSolve": [],
+    "baseline": [],
     "rARPACK": [
         "Matrix",
         "RSpectra",
@@ -85521,9 +85510,7 @@
     ],
     "rslurm": [],
     "sjlabelled": [],
-    "LIM": [
-        "limSolve"
-    ],
+    "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
