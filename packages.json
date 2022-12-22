@@ -2370,7 +2370,6 @@
         "httr",
         "illuminaio",
         "lumi",
-        "mdqc",
         "memoise",
         "methylumi",
         "mgcv",
@@ -37010,7 +37009,6 @@
         "tibble",
         "vctrs"
     ],
-    "mdqc": [],
     "MDTS": [
         "BiocParallel",
         "Biostrings",
