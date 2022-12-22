@@ -52764,7 +52764,6 @@
         "RCurl",
         "RSQLite",
         "RcppArmadillo",
-        "Rook",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -64444,7 +64443,6 @@
         "Matrix",
         "MatrixModels",
         "RcppArmadillo",
-        "Rook",
         "edgeR",
         "extRemes",
         "futile.logger",
@@ -89810,7 +89808,6 @@
         "igraph"
     ],
     "protolite": [],
-    "Rook": [],
     "opencpu": [
         "askpass",
         "httpuv",
