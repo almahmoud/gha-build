@@ -15239,7 +15239,6 @@
         "DelayedArray",
         "GEOmap",
         "GGally",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixModels",
@@ -15649,7 +15648,6 @@
     ],
     "CytoML": [
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "RBGL",
@@ -16217,7 +16215,6 @@
     "ddPCRclust": [
         "DelayedArray",
         "GEOmap",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixModels",
@@ -23456,7 +23453,6 @@
         "vctrs"
     ],
     "flowBin": [
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -23557,7 +23553,6 @@
     "flowCut": [
         "DelayedArray",
         "GEOmap",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixModels",
@@ -23621,7 +23616,6 @@
     "flowDensity": [
         "DelayedArray",
         "GEOmap",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixModels",
@@ -23674,7 +23668,6 @@
         "waldo"
     ],
     "flowFP": [
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -23868,7 +23861,6 @@
     ],
     "flowStats": [
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "RBGL",
@@ -23914,7 +23906,6 @@
         "vctrs"
     ],
     "flowTrans": [
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -23928,7 +23919,6 @@
         "latticeExtra"
     ],
     "flowViz": [
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -23940,7 +23930,6 @@
     ],
     "flowVS": [
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "RBGL",
@@ -24702,7 +24691,6 @@
         "waldo"
     ],
     "GateFinder": [
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -46260,7 +46248,6 @@
     ],
     "openCyto": [
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "RBGL",
@@ -78511,7 +78498,6 @@
     "geometry": [
         "magic"
     ],
-    "IDPmisc": [],
     "GEOmap": [
         "Matrix",
         "fields",
