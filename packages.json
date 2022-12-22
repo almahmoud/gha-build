@@ -62998,7 +62998,6 @@
         "openssl",
         "vctrs"
     ],
-    "SEPIRA": [],
     "seq2pathway": [
         "AnnotationDbi",
         "BiocFileCache",
