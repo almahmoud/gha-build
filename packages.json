@@ -25306,7 +25306,6 @@
         "dendextend",
         "dplyr",
         "egg",
-        "extraDistr",
         "foreach",
         "futile.logger",
         "geneplotter",
@@ -36879,7 +36878,6 @@
         "crosstalk",
         "doParallel",
         "dplyr",
-        "extraDistr",
         "fontawesome",
         "foreach",
         "ggplot2",
@@ -52788,8 +52786,7 @@
         "RCurl",
         "S4Vectors",
         "SummarizedExperiment",
-        "XVector",
-        "extraDistr"
+        "XVector"
     ],
     "proFIA": [
         "BiocParallel",
@@ -83428,7 +83425,6 @@
     "BBmisc": [
         "checkmate"
     ],
-    "extraDistr": [],
     "NHPoisson": [
         "Matrix",
         "MatrixModels",
