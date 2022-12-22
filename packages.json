@@ -41992,7 +41992,6 @@
         "later",
         "latticeExtra",
         "lava",
-        "lhs",
         "linkcomm",
         "lme4",
         "lubridate",
@@ -65348,7 +65347,6 @@
         "km.ci",
         "knitr",
         "later",
-        "lhs",
         "lme4",
         "lubridate",
         "memoise",
@@ -85914,8 +85912,7 @@
         "vctrs"
     ],
     "ppclust": [
-        "inaparc",
-        "lhs"
+        "inaparc"
     ],
     "MatrixCorrelation": [
         "Matrix",
@@ -85926,9 +85923,7 @@
         "progress",
         "vctrs"
     ],
-    "inaparc": [
-        "lhs"
-    ],
+    "inaparc": [],
     "metR": [
         "Matrix",
         "cachem",
@@ -85946,7 +85941,6 @@
         "tibble",
         "vctrs"
     ],
-    "lhs": [],
     "cvms": [
         "Matrix",
         "MuMIn",
