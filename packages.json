@@ -60117,7 +60117,6 @@
         "XVector",
         "beachmat",
         "futile.logger",
-        "glmpca",
         "irlba",
         "rhdf5",
         "rhdf5filters",
@@ -66858,7 +66857,6 @@
         "ggplotify",
         "ggrepel",
         "ggtree",
-        "glmpca",
         "hms",
         "htmltools",
         "htmlwidgets",
@@ -82966,7 +82964,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "glmpca": [],
     "nnTensor": [
         "Matrix",
         "fields",
