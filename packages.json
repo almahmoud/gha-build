@@ -4117,7 +4117,6 @@
         "NOISeq",
         "RCurl",
         "ROCR",
-        "ROI",
         "ROI.plugin.lpsolve",
         "RSQLite",
         "Rcgmin",
@@ -71493,7 +71492,6 @@
         "GenomeInfoDb",
         "IRanges",
         "RCurl",
-        "ROI",
         "ROI.plugin.lpsolve",
         "Rcgmin",
         "Rvmmin",
@@ -71541,7 +71539,6 @@
         "optextras"
     ],
     "detectseparation": [
-        "ROI",
         "ROI.plugin.lpsolve",
         "pkgload"
     ],
@@ -71550,10 +71547,7 @@
         "survival"
     ],
     "softImpute": [],
-    "ROI": [],
-    "ROI.plugin.lpsolve": [
-        "ROI"
-    ],
+    "ROI.plugin.lpsolve": [],
     "optextras": [],
     "Rvmmin": [
         "optextras"
