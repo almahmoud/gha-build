@@ -41080,7 +41080,6 @@
         "vctrs",
         "vroom"
     ],
-    "ompBAM": [],
     "oncomix": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -57493,7 +57492,6 @@
         "knitr",
         "memoise",
         "mgcv",
-        "ompBAM",
         "openssl",
         "pheatmap",
         "pillar",
