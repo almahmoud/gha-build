@@ -1354,7 +1354,6 @@
         "bamsignals",
         "cowplot",
         "doParallel",
-        "ecp",
         "foreach",
         "futile.logger",
         "ggdendro",
@@ -13383,7 +13382,6 @@
         "changepoint",
         "contrast",
         "cytolib",
-        "ecp",
         "feature",
         "flowClust",
         "flowCore",
@@ -74640,7 +74638,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ecp": [],
     "ReorderCluster": [],
     "caret": [
         "Matrix",
