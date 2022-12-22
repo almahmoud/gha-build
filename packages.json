@@ -50118,7 +50118,6 @@
         "httr",
         "igraph",
         "keras",
-        "matrixLaplacian",
         "memoise",
         "mgcv",
         "nlme",
@@ -86721,7 +86720,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "matrixLaplacian": [],
     "reportROC": [
         "lmtest",
         "pROC",
