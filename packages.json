@@ -30384,7 +30384,6 @@
         "vctrs",
         "vroom"
     ],
-    "iChip": [],
     "iCNV": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
