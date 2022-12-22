@@ -23509,7 +23509,6 @@
         "knitr",
         "lambda.r",
         "latticeExtra",
-        "lavaan",
         "memoise",
         "mgcv",
         "nlme",
@@ -87713,7 +87712,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "lavaan",
         "memoise",
         "mgcv",
         "nlme",
@@ -87730,7 +87728,6 @@
         "vctrs",
         "viridis"
     ],
-    "lavaan": [],
     "RNOmni": [
         "RcppArmadillo"
     ],
