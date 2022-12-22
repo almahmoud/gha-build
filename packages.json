@@ -69535,7 +69535,6 @@
         "interp",
         "jquerylib",
         "knitr",
-        "lassopv",
         "latticeExtra",
         "memoise",
         "mgcv",
@@ -83897,7 +83896,6 @@
     "reportr": [],
     "RNifti": [],
     "vbsr": [],
-    "lassopv": [],
     "RPostgreSQL": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
