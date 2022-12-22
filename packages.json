@@ -7410,7 +7410,6 @@
         "EBImage",
         "RCurl",
         "S4Vectors",
-        "biglm",
         "bslib",
         "futile.logger",
         "htmltools",
@@ -9700,7 +9699,6 @@
         "XVector",
         "affy",
         "biganalytics",
-        "biglm",
         "blob",
         "dplyr",
         "foreach",
@@ -31785,7 +31783,6 @@
         "RcppEigen",
         "TMB",
         "Wrench",
-        "biglm",
         "broom",
         "callr",
         "car",
@@ -31847,7 +31844,6 @@
         "WGCNA",
         "Wrench",
         "XVector",
-        "biglm",
         "blob",
         "broom",
         "bslib",
@@ -32742,7 +32738,6 @@
     ],
     "matter": [
         "BiocParallel",
-        "biglm",
         "futile.logger",
         "irlba"
     ],
@@ -36356,7 +36351,6 @@
         "RcppEigen",
         "apcluster",
         "biganalytics",
-        "biglm",
         "bslib",
         "expm",
         "foreach",
@@ -37589,7 +37583,6 @@
         "RcppEigen",
         "TMB",
         "Wrench",
-        "biglm",
         "broom",
         "callr",
         "car",
@@ -71131,7 +71124,6 @@
         "vctrs",
         "vegan"
     ],
-    "biglm": [],
     "sqldf": [
         "RSQLite",
         "blob",
@@ -71950,7 +71942,6 @@
     ],
     "ChIPXpressData": [],
     "biganalytics": [
-        "biglm",
         "foreach"
     ],
     "shinyhelper": [
@@ -74425,7 +74416,6 @@
         "waldo"
     ],
     "cplm": [
-        "biglm",
         "ggplot2",
         "mgcv",
         "pillar",
