@@ -15841,7 +15841,6 @@
         "vctrs"
     ],
     "customProDB": [
-        "AhoCorasickTrie",
         "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
@@ -82106,7 +82105,6 @@
         "pcaPP",
         "robustbase"
     ],
-    "AhoCorasickTrie": [],
     "cytometree": [
         "GoFKernel",
         "Matrix",
