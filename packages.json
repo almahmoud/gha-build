@@ -39936,7 +39936,6 @@
         "dplyr",
         "futile.logger",
         "ggplot2",
-        "longitudinal",
         "mgcv",
         "nlme",
         "pillar",
@@ -46345,7 +46344,6 @@
         "graph",
         "huge",
         "igraph",
-        "longitudinal",
         "mgcv",
         "minqa",
         "mitools",
@@ -67528,7 +67526,6 @@
         "graph",
         "httr",
         "igraph",
-        "longitudinal",
         "memoise",
         "openssl",
         "vctrs"
@@ -84753,10 +84750,7 @@
     "rebus.numbers": [],
     "rebus.unicode": [],
     "mhsmm": [],
-    "GeneNet": [
-        "longitudinal"
-    ],
-    "longitudinal": [],
+    "GeneNet": [],
     "ggmcmc": [
         "GGally",
         "Matrix",
