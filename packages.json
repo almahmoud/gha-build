@@ -37527,7 +37527,6 @@
         "knitr",
         "later",
         "learnr",
-        "logr",
         "lubridate",
         "markdown",
         "memoise",
@@ -90962,7 +90961,6 @@
         "sass",
         "shiny"
     ],
-    "logr": [],
     "learnr": [
         "bslib",
         "cachem",
