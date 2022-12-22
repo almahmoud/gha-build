@@ -16422,7 +16422,6 @@
         "R.oo",
         "R.utils",
         "RCurl",
-        "RSNNS",
         "RSQLite",
         "RWeka",
         "RWekajars",
@@ -25507,7 +25506,6 @@
         "R.oo",
         "R.utils",
         "RCurl",
-        "RSNNS",
         "RSQLite",
         "RWeka",
         "RWekajars",
@@ -81639,7 +81637,6 @@
         "vctrs",
         "waldo"
     ],
-    "RSNNS": [],
     "RWeka": [
         "RWekajars"
     ],

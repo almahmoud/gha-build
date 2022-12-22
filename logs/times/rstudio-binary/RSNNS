@@ -1,0 +1,69 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   0e456429..01f42809  main       -> origin/main
+Updating 0e456429..01f42809
+Fast-forward
+ lists/ParallelLogger                               |  2 +-
+ lists/RcppAnnoy                                    |  2 +-
+ lists/lsa                                          |  2 +-
+ lists/polylabelr                                   |  2 +-
+ .../sizes/rstudio-binaries/binaries/ParallelLogger |  1 +
+ logs/sizes/rstudio-binaries/binaries/RcppAnnoy     |  1 +
+ .../rstudio-binaries/libraries/ParallelLogger      |  1 +
+ logs/sizes/rstudio-binaries/libraries/RcppAnnoy    |  1 +
+ logs/times/rstudio-binary/ParallelLogger           | 61 +++++++++++++++
+ logs/times/rstudio-binary/RcppAnnoy                | 57 ++++++++++++++
+ packages.json                                      | 86 +---------------------
+ 11 files changed, 129 insertions(+), 87 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ParallelLogger
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RcppAnnoy
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ParallelLogger
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RcppAnnoy
+ create mode 100644 logs/times/rstudio-binary/ParallelLogger
+ create mode 100644 logs/times/rstudio-binary/RcppAnnoy
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=RSNNS
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "RSNNS"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency Rcpp is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''RSNNS'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv RSNNS_0.4-14_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/RSNNS
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'RSNNS'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/RSNNS_0.4-14.tar.gz'
+Content type 'binary/octet-stream' length 3820202 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+* installing *binary* package ‘RSNNS’ ...
+* ‘RSNNS’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RSNNS’ as ‘RSNNS_0.4-14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RSNNS)
+
+The downloaded source packages are in
+	‘/tmp/RtmpUdMhNa/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+6.30user 0.41system 0:09.57elapsed 70%CPU (0avgtext+0avgdata 147608maxresident)k
+824inputs+70752outputs (8major+67542minor)pagefaults 0swaps
