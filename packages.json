@@ -58869,7 +58869,6 @@
         "httr",
         "openssl"
     ],
-    "Rdisop": [],
     "RDRToolbox": [
         "bslib",
         "cachem",
