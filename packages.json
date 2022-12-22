@@ -4867,7 +4867,6 @@
         "tidytext",
         "tidytree",
         "tinytex",
-        "tokenizers",
         "treeio",
         "uwot",
         "vctrs",
@@ -18283,7 +18282,6 @@
         "tidyselect",
         "tinytex",
         "tm",
-        "tokenizers",
         "ttgsea",
         "tzdb",
         "vctrs",
@@ -28700,7 +28698,6 @@
         "tidyselect",
         "tinytex",
         "tm",
-        "tokenizers",
         "ttgsea",
         "tzdb",
         "vctrs",
@@ -30974,7 +30971,6 @@
         "tibble",
         "tidyselect",
         "tidytext",
-        "tokenizers",
         "vctrs",
         "viridis"
     ],
@@ -32708,7 +32704,6 @@
         "tibble",
         "tidyselect",
         "tidytext",
-        "tokenizers",
         "usethis",
         "vctrs"
     ],
@@ -76253,7 +76248,6 @@
         "tidyselect",
         "tinytex",
         "tm",
-        "tokenizers",
         "tzdb",
         "vctrs",
         "viridis",
@@ -77026,7 +77020,6 @@
         "tidyselect",
         "tinytex",
         "tm",
-        "tokenizers",
         "ttgsea",
         "tzdb",
         "uwot",
@@ -82290,7 +82283,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tokenizers",
         "vctrs"
     ],
     "optimr": [
@@ -82310,7 +82302,6 @@
         "mitools",
         "survival"
     ],
-    "tokenizers": [],
     "softImpute": [
         "Matrix"
     ],
@@ -87254,7 +87245,6 @@
         "tibble",
         "tidyselect",
         "tidytext",
-        "tokenizers",
         "vctrs"
     ],
     "aws.s3": [
