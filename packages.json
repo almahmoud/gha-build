@@ -52955,7 +52955,6 @@
         "IRanges",
         "KEGGREST",
         "Matrix",
-        "ParallelLogger",
         "RCurl",
         "RSQLite",
         "Rhtslib",
@@ -85737,7 +85736,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ParallelLogger": [],
     "pairsD3": [
         "bslib",
         "cachem",
