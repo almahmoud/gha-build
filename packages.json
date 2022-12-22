@@ -52354,7 +52354,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "circular",
         "conicfit",
         "doParallel",
         "dqrng",
@@ -75868,7 +75867,6 @@
         "beachmat",
         "blob",
         "cachem",
-        "circular",
         "dplyr",
         "dqrng",
         "futile.logger",
@@ -89495,7 +89493,6 @@
         "R.oo",
         "R.utils"
     ],
-    "circular": [],
     "conicfit": [],
     "genlasso": [
         "Matrix",
