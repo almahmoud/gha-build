@@ -65944,7 +65944,6 @@
         "stringr",
         "survival",
         "systemfonts",
-        "tagcloud",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -66066,7 +66065,6 @@
         "stringr",
         "survival",
         "systemfonts",
-        "tagcloud",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -90964,7 +90962,6 @@
         "plot3D",
         "scales",
         "spam",
-        "tagcloud",
         "tibble",
         "vctrs",
         "viridis"
@@ -90984,7 +90981,6 @@
         "vctrs",
         "viridis"
     ],
-    "tagcloud": [],
     "clustree": [
         "Matrix",
         "RcppArmadillo",
