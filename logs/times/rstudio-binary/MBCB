@@ -1,0 +1,78 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   752d9751..bca43bdf  main       -> origin/main
+Updating 752d9751..bca43bdf
+Fast-forward
+ lists/limSolve                                 |  2 +-
+ logs/run_ids/rstudio-binaries/markdown         |  2 +
+ logs/run_ids/rstudio-binaries/optparse         |  2 +
+ logs/sizes/rstudio-binaries/binaries/limSolve  |  1 +
+ logs/sizes/rstudio-binaries/libraries/limSolve |  1 +
+ logs/times/rstudio-binary/limSolve             | 60 ++++++++++++++++++++++++++
+ packages.json                                  | 17 +-------
+ 7 files changed, 69 insertions(+), 16 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/limSolve
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/limSolve
+ create mode 100644 logs/times/rstudio-binary/limSolve
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=MBCB
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "MBCB"/,/^    "/p' directdeps.json
++ '[' -s /tmp/deps ']'
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
++ cat /tmp/deps
+Dependency tcltk2 is already found.
+Dependency preprocessCore is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''MBCB'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv MBCB_1.52.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/MBCB
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'MBCB'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/MBCB_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 323684 bytes (316 KB)
+==================================================
+downloaded 316 KB
+
+* installing *source* package ‘MBCB’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning message:
+no DISPLAY variable so Tk is not available 
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MBCB’ as ‘MBCB_1.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MBCB)
+
+The downloaded source packages are in
+	‘/tmp/RtmpqYfogV/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+5.08user 0.77system 0:06.62elapsed 88%CPU (0avgtext+0avgdata 146140maxresident)k
+872inputs+17848outputs (9major+129118minor)pagefaults 0swaps
