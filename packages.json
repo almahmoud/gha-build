@@ -16378,7 +16378,6 @@
         "bit64",
         "blob",
         "cachem",
-        "capushe",
         "class",
         "compositions",
         "e1071",
@@ -92950,13 +92949,11 @@
         "mapproj"
     ],
     "mapproj": [],
-    "capushe": [],
     "Rmixmod": [
         "Matrix",
         "RcppEigen"
     ],
     "HTSCluster": [
-        "capushe",
         "edgeR",
         "locfit"
     ],
