@@ -1,0 +1,68 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   202d4b5a..7daafa74  main       -> origin/main
+Updating 202d4b5a..7daafa74
+Fast-forward
+ lists/iChip                                   |  2 +-
+ lists/libcoin                                 |  2 +-
+ logs/run_ids/rstudio-binaries/Polychrome      |  2 +
+ logs/sizes/rstudio-binaries/binaries/iChip    |  1 +
+ logs/sizes/rstudio-binaries/binaries/libcoin  |  1 +
+ logs/sizes/rstudio-binaries/libraries/iChip   |  1 +
+ logs/sizes/rstudio-binaries/libraries/libcoin |  1 +
+ logs/times/rstudio-binary/iChip               | 81 +++++++++++++++++++++++++++
+ logs/times/rstudio-binary/libcoin             | 61 ++++++++++++++++++++
+ packages.json                                 | 19 +------
+ 10 files changed, 151 insertions(+), 20 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/iChip
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/libcoin
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/iChip
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/libcoin
+ create mode 100644 logs/times/rstudio-binary/iChip
+ create mode 100644 logs/times/rstudio-binary/libcoin
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=Matrix
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "Matrix"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency lattice is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''Matrix'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv Matrix_1.5-3_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/Matrix
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'Matrix'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/Matrix_1.5-3.tar.gz'
+Content type 'binary/octet-stream' length 4559207 bytes (4.3 MB)
+==================================================
+downloaded 4.3 MB
+
+* installing *binary* package ‘Matrix’ ...
+* ‘Matrix’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Matrix’ as ‘Matrix_1.5-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Matrix)
+
+The downloaded source packages are in
+	‘/tmp/RtmpvwLtVJ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+5.06user 0.43system 0:07.15elapsed 76%CPU (0avgtext+0avgdata 145948maxresident)k
+272inputs+66624outputs (4major+65028minor)pagefaults 0swaps
