@@ -196,7 +196,6 @@
         "affy",
         "annotate",
         "askpass",
-        "aws",
         "blob",
         "cachem",
         "genefilter",
@@ -28399,9 +28398,7 @@
         "viridis",
         "zoo"
     ],
-    "GLAD": [
-        "aws"
-    ],
+    "GLAD": [],
     "GladiaTOX": [
         "Matrix",
         "RCurl",
@@ -34106,7 +34103,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "aws",
         "blob",
         "cachem",
         "foreach",
@@ -36497,8 +36493,7 @@
         "affy"
     ],
     "MANOR": [
-        "GLAD",
-        "aws"
+        "GLAD"
     ],
     "mAPKL": [
         "AnnotationDbi",
@@ -63696,7 +63691,6 @@
         "ade4",
         "adehabitatLT",
         "adehabitatMA",
-        "aws",
         "doSNOW",
         "foreach",
         "sp"
@@ -65944,7 +65938,6 @@
         "affy",
         "annotate",
         "askpass",
-        "aws",
         "blob",
         "cachem",
         "genefilter",
@@ -76261,7 +76254,6 @@
     "snowfall": [],
     "future": [],
     "R.oo": [],
-    "aws": [],
     "strucchange": [
         "sandwich",
         "zoo"
