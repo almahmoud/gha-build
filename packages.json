@@ -59287,7 +59287,6 @@
         "S4Vectors",
         "askpass",
         "httr",
-        "objectProperties",
         "openssl",
         "stringr",
         "vctrs"
@@ -80195,7 +80194,6 @@
         "urltools",
         "vctrs"
     ],
-    "objectProperties": [],
     "mlr3": [
         "future",
         "future.apply",
