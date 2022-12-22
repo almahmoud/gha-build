@@ -21488,7 +21488,6 @@
         "graphlayouts",
         "gridExtra",
         "gson",
-        "heatmap3",
         "hms",
         "htmltools",
         "htmlwidgets",
@@ -59366,7 +59365,6 @@
         "ggsci",
         "ggsignif",
         "gridExtra",
-        "heatmap3",
         "hms",
         "htmlTable",
         "htmltools",
@@ -83310,7 +83308,6 @@
         "S4Vectors",
         "XVector"
     ],
-    "heatmap3": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
         "AnnotationDbi",
