@@ -13527,7 +13527,6 @@
         "jquerylib",
         "knitr",
         "memoise",
-        "metaMA",
         "mgcv",
         "miniUI",
         "oligo",
@@ -71497,7 +71496,6 @@
     "tfautograph": [
         "reticulate"
     ],
-    "metaMA": [],
     "shinypanel": [
         "bslib",
         "fontawesome",
