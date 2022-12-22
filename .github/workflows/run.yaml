@@ -156,7 +156,7 @@ jobs:
         run: |
           PKG="${{ matrix.pkg }}"
           mkdir -p /tmp/logs/times/rstudio-binary/
-          (time bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG ) 2>&1 | tee /tmp/logs/times/rstudio-binary/$PKG
+          (time bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG $(cat runstarttime) ) 2>&1 | tee /tmp/logs/times/rstudio-binary/$PKG
         continue-on-error: true
 
       - name: Get tar name
@@ -190,7 +190,7 @@ jobs:
             mkdir -p logs/sizes/rstudio-binaries/libraries
             mkdir -p logs/sizes/rstudio-binaries/binaries
             cp /tmp/$PKG lists/failed/$PKG;
-            cp -r /tmp/logs logs
+            cp -r /tmp/logs ./
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add lists
@@ -242,7 +242,7 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.name github-actions
             git config user.email github-actions@github.com
-            cp -r /tmp/logs logs
+            cp -r /tmp/logs ./
             git add logs
             if bash -c "bash .github/scripts/rclone_push.sh ${{ matrix.pkg }} ${{steps.tar.outputs.pkg}} 2>&1 | grep -i 'error'"; then exit 1; else 
             echo "Marked pushed ${{ matrix.pkg }}"; fi
