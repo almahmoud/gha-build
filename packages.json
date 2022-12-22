@@ -3412,7 +3412,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.numbers",
-        "assertive.properties",
         "assertive.reflection",
         "assertive.sets",
         "assertive.strings",
@@ -8976,7 +8975,6 @@
         "askpass",
         "assertive.files",
         "assertive.numbers",
-        "assertive.properties",
         "assertive.types",
         "beachmat",
         "bluster",
@@ -44619,7 +44617,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.numbers",
-        "assertive.properties",
         "assertive.reflection",
         "assertive.sets",
         "assertive.strings",
@@ -65532,7 +65529,6 @@
         "askpass",
         "assertive.files",
         "assertive.numbers",
-        "assertive.properties",
         "assertive.types",
         "babelgene",
         "batchelor",
@@ -78817,7 +78813,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.numbers",
-        "assertive.properties",
         "assertive.reflection",
         "assertive.sets",
         "assertive.strings",
@@ -78826,17 +78821,12 @@
         "stringr",
         "vctrs"
     ],
-    "assertive.properties": [],
-    "assertive.types": [
-        "assertive.properties"
-    ],
+    "assertive.types": [],
     "assertive.numbers": [],
     "assertive.strings": [
-        "assertive.properties",
         "assertive.types"
     ],
     "assertive.datetimes": [
-        "assertive.properties",
         "assertive.types"
     ],
     "assertive.files": [
@@ -78844,23 +78834,19 @@
     ],
     "assertive.sets": [],
     "assertive.data": [
-        "assertive.properties",
         "assertive.strings",
         "assertive.types"
     ],
     "assertive.data.uk": [
-        "assertive.properties",
         "assertive.strings",
         "assertive.types"
     ],
     "assertive.data.us": [
-        "assertive.properties",
         "assertive.strings",
         "assertive.types"
     ],
     "assertive.reflection": [],
     "assertive.code": [
-        "assertive.properties",
         "assertive.types"
     ],
     "doBy": [
@@ -80668,7 +80654,6 @@
         "Matrix",
         "assertive.files",
         "assertive.numbers",
-        "assertive.properties",
         "assertive.types",
         "ggplot2",
         "magick",
