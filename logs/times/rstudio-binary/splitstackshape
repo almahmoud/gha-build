@@ -1,0 +1,68 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   c668dbc2..884ca130  main       -> origin/main
+Updating c668dbc2..884ca130
+Fast-forward
+ lists/pepXMLTab                                 |  2 +-
+ lists/semisup                                   |  2 +-
+ logs/run_ids/rstudio-binaries/SQUADD            |  2 +
+ logs/sizes/rstudio-binaries/binaries/pepXMLTab  |  1 +
+ logs/sizes/rstudio-binaries/binaries/semisup    |  1 +
+ logs/sizes/rstudio-binaries/libraries/pepXMLTab |  1 +
+ logs/sizes/rstudio-binaries/libraries/semisup   |  1 +
+ logs/times/rstudio-binary/pepXMLTab             | 73 ++++++++++++++++++++++++
+ logs/times/rstudio-binary/semisup               | 75 +++++++++++++++++++++++++
+ packages.json                                   |  2 -
+ 10 files changed, 156 insertions(+), 4 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/pepXMLTab
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/semisup
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/pepXMLTab
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/semisup
+ create mode 100644 logs/times/rstudio-binary/pepXMLTab
+ create mode 100644 logs/times/rstudio-binary/semisup
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=splitstackshape
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "splitstackshape"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ '[' -s /tmp/deps ']'
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
++ cat /tmp/deps
+Dependency data.table is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''splitstackshape'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv splitstackshape_1.4.8_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/splitstackshape
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'splitstackshape'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/splitstackshape_1.4.8.tar.gz'
+Content type 'binary/octet-stream' length 119228 bytes (116 KB)
+==================================================
+downloaded 116 KB
+
+* installing *binary* package ‘splitstackshape’ ...
+* ‘splitstackshape’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘splitstackshape’ as ‘splitstackshape_1.4.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (splitstackshape)
+
+The downloaded source packages are in
+	‘/tmp/RtmpQjKRpa/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+3.64user 0.27system 0:06.30elapsed 62%CPU (0avgtext+0avgdata 145660maxresident)k
+824inputs+14712outputs (8major+63600minor)pagefaults 0swaps
