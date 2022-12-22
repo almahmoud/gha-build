@@ -7213,7 +7213,6 @@
         "callr",
         "car",
         "cowplot",
-        "cytolib",
         "doParallel",
         "dplyr",
         "dqrng",
@@ -8245,7 +8244,6 @@
         "callr",
         "car",
         "cowplot",
-        "cytolib",
         "diffcyt",
         "doParallel",
         "dplyr",
@@ -10399,7 +10397,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "cytolib",
         "flowCore",
         "rhdf5",
         "rhdf5filters"
@@ -11833,7 +11830,6 @@
         "bslib",
         "changepoint",
         "contrast",
-        "cytolib",
         "feature",
         "flowClust",
         "flowCore",
@@ -13635,7 +13631,6 @@
         "callr",
         "car",
         "cowplot",
-        "cytolib",
         "cytometree",
         "dplyr",
         "fields",
@@ -13697,7 +13692,6 @@
         "SummarizedExperiment",
         "XVector",
         "bslib",
-        "cytolib",
         "flowCore",
         "fontawesome",
         "futile.logger",
@@ -13719,7 +13713,6 @@
     "CytoDx": [
         "RcppEigen",
         "S4Vectors",
-        "cytolib",
         "doParallel",
         "dplyr",
         "flowCore",
@@ -13757,7 +13750,6 @@
         "clock",
         "cowplot",
         "crosstalk",
-        "cytolib",
         "dendextend",
         "diffcyt",
         "doParallel",
@@ -13919,7 +13911,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "cytolib": [],
     "cytomapper": [
         "BiocFileCache",
         "BiocParallel",
@@ -13986,7 +13977,6 @@
     ],
     "cytoMEM": [
         "S4Vectors",
-        "cytolib",
         "flowCore",
         "gplots"
     ],
@@ -13997,7 +13987,6 @@
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
-        "cytolib",
         "dplyr",
         "flowClust",
         "flowCore",
@@ -14514,7 +14503,6 @@
         "broom",
         "callr",
         "car",
-        "cytolib",
         "dplyr",
         "fields",
         "flowCore",
@@ -16080,7 +16068,6 @@
         "callr",
         "car",
         "cowplot",
-        "cytolib",
         "doParallel",
         "dplyr",
         "edgeR",
@@ -20935,7 +20922,6 @@
         "S4Vectors",
         "bslib",
         "changepoint",
-        "cytolib",
         "flowCore",
         "ggplot2",
         "htmltools",
@@ -20955,7 +20941,6 @@
     ],
     "flowBeads": [
         "S4Vectors",
-        "cytolib",
         "flowCore",
         "knitr",
         "rrcov",
@@ -20965,7 +20950,6 @@
     "flowBin": [
         "RcppEigen",
         "S4Vectors",
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz",
@@ -21009,7 +20993,6 @@
         "EBImage",
         "S4Vectors",
         "bslib",
-        "cytolib",
         "flowCore",
         "ggplot2",
         "htmltools",
@@ -21035,17 +21018,14 @@
     "flowClean": [
         "S4Vectors",
         "changepoint",
-        "cytolib",
         "flowCore"
     ],
     "flowClust": [
         "S4Vectors",
-        "cytolib",
         "flowCore"
     ],
     "flowCore": [
-        "S4Vectors",
-        "cytolib"
+        "S4Vectors"
     ],
     "flowCut": [
         "DelayedArray",
@@ -21061,7 +21041,6 @@
         "broom",
         "callr",
         "car",
-        "cytolib",
         "dplyr",
         "e1071",
         "fields",
@@ -21117,7 +21096,6 @@
         "broom",
         "callr",
         "car",
-        "cytolib",
         "dplyr",
         "fields",
         "flowCore",
@@ -21155,7 +21133,6 @@
     "flowFP": [
         "RcppEigen",
         "S4Vectors",
-        "cytolib",
         "flowCore",
         "flowViz",
         "interp",
@@ -21197,12 +21174,10 @@
     ],
     "flowMatch": [
         "S4Vectors",
-        "cytolib",
         "flowCore"
     ],
     "flowMeans": [
         "S4Vectors",
-        "cytolib",
         "feature",
         "flowCore",
         "ks",
@@ -21213,7 +21188,6 @@
     "flowMerge": [
         "Rgraphviz",
         "S4Vectors",
-        "cytolib",
         "feature",
         "flowClust",
         "flowCore",
@@ -21230,7 +21204,6 @@
         "bslib",
         "callr",
         "car",
-        "cytolib",
         "dplyr",
         "flowCore",
         "fontawesome",
@@ -21273,7 +21246,6 @@
         "callr",
         "car",
         "cowplot",
-        "cytolib",
         "dplyr",
         "flowCore",
         "ggforce",
@@ -21309,7 +21281,6 @@
     "flowSpecs": [
         "BiocParallel",
         "S4Vectors",
-        "cytolib",
         "flowCore",
         "futile.logger",
         "ggplot2",
@@ -21328,7 +21299,6 @@
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
-        "cytolib",
         "dplyr",
         "fda",
         "fds",
@@ -21353,7 +21323,6 @@
     ],
     "flowTime": [
         "S4Vectors",
-        "cytolib",
         "dplyr",
         "flowCore",
         "pillar",
@@ -21364,7 +21333,6 @@
     "flowTrans": [
         "RcppEigen",
         "S4Vectors",
-        "cytolib",
         "flowClust",
         "flowCore",
         "flowViz",
@@ -21374,7 +21342,6 @@
     "flowViz": [
         "RcppEigen",
         "S4Vectors",
-        "cytolib",
         "flowCore",
         "interp",
         "latticeExtra"
@@ -21386,7 +21353,6 @@
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
-        "cytolib",
         "dplyr",
         "fda",
         "fds",
@@ -21416,7 +21382,6 @@
         "RBGL",
         "Rgraphviz",
         "S4Vectors",
-        "cytolib",
         "dplyr",
         "flowCore",
         "ggplot2",
@@ -22049,7 +22014,6 @@
     "GateFinder": [
         "RcppEigen",
         "S4Vectors",
-        "cytolib",
         "flowCore",
         "flowFP",
         "flowViz",
@@ -24006,7 +23970,6 @@
         "RBGL",
         "Rgraphviz",
         "S4Vectors",
-        "cytolib",
         "dplyr",
         "flowCore",
         "flowWorkspace",
@@ -27668,7 +27631,6 @@
         "bslib",
         "callr",
         "crosstalk",
-        "cytolib",
         "dendextend",
         "dplyr",
         "egg",
@@ -27707,7 +27669,6 @@
     ],
     "immunoClust": [
         "S4Vectors",
-        "cytolib",
         "flowCore"
     ],
     "immunotation": [
@@ -27858,7 +27819,6 @@
     ],
     "infinityFlow": [
         "S4Vectors",
-        "cytolib",
         "dqrng",
         "flowCore",
         "irlba",
@@ -32649,7 +32609,6 @@
         "callr",
         "car",
         "cowplot",
-        "cytolib",
         "dplyr",
         "flowCore",
         "ggforce",
@@ -39158,7 +39117,6 @@
     ],
     "ncdfFlow": [
         "S4Vectors",
-        "cytolib",
         "flowCore"
     ],
     "ncGTW": [
@@ -41233,7 +41191,6 @@
         "bslib",
         "callr",
         "crosstalk",
-        "cytolib",
         "dplyr",
         "flowCore",
         "fontawesome",
@@ -41322,7 +41279,6 @@
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
-        "cytolib",
         "dplyr",
         "flowClust",
         "flowCore",
@@ -41606,7 +41562,6 @@
         "Rfast",
         "S4Vectors",
         "bslib",
-        "cytolib",
         "doParallel",
         "dplyr",
         "feature",
@@ -42803,7 +42758,6 @@
         "RBGL",
         "Rgraphviz",
         "S4Vectors",
-        "cytolib",
         "doParallel",
         "dplyr",
         "flowCore",
@@ -52469,7 +52423,6 @@
         "bslib",
         "cowplot",
         "crosstalk",
-        "cytolib",
         "dplyr",
         "dqrng",
         "fitdistrplus",
@@ -52862,7 +52815,6 @@
         "blob",
         "bslib",
         "callr",
-        "cytolib",
         "dplyr",
         "flowCore",
         "fontawesome",
@@ -53235,7 +53187,6 @@
     ],
     "Sconify": [
         "S4Vectors",
-        "cytolib",
         "dplyr",
         "flowCore",
         "ggplot2",
@@ -61954,7 +61905,6 @@
         "callr",
         "car",
         "cowplot",
-        "cytolib",
         "diffcyt",
         "doParallel",
         "dplyr",
