@@ -4352,7 +4352,6 @@
         "restfulr",
         "rhdf5",
         "rhdf5filters",
-        "rslurm",
         "rtracklayer",
         "sjlabelled",
         "sjmisc",
@@ -72769,7 +72768,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "rslurm": [],
     "sjlabelled": [],
     "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
