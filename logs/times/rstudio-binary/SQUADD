@@ -1,0 +1,171 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   8f84d172..33c3c6f6  main       -> origin/main
+Updating 8f84d172..33c3c6f6
+Fast-forward
+ lists/CMA                                       |  2 +-
+ lists/CNAnorm                                   |  2 +-
+ lists/CircStats                                 |  2 +-
+ lists/Ckmeans.1d.dp                             |  2 +-
+ lists/DExMAdata                                 |  2 +-
+ lists/DiffLogo                                  |  2 +-
+ lists/EBarrays                                  |  2 +-
+ lists/EntropyExplorer                           |  2 +-
+ lists/GenomicTools                              |  2 +-
+ lists/HilbertVisGUI                             |  2 +-
+ lists/INPower                                   |  2 +-
+ lists/KEGGandMetacoreDzPathwaysGEO              |  2 +-
+ lists/LIM                                       |  2 +-
+ lists/ModCon                                    |  2 +-
+ lists/ModelMetrics                              |  2 +-
+ lists/PLPE                                      |  2 +-
+ lists/PolynomF                                  |  2 +-
+ lists/RCurl                                     |  2 +-
+ lists/RNifti                                    |  2 +-
+ lists/ROTS                                      |  2 +-
+ lists/RWekajars                                 |  2 +-
+ lists/RcppCCTZ                                  |  2 +-
+ lists/RcppSpdlog                                |  2 +-
+ lists/ReorderCluster                            |  2 +-
+ lists/Rmagic                                    |  2 +-
+ lists/a4Preproc                                 |  2 +-
+ lists/argparse                                  |  2 +-
+ lists/arrayhelpers                              |  2 +-
+ lists/askpass                                   |  2 +-
+ lists/assertive.numbers                         |  2 +-
+ lists/bayestestR                                |  2 +-
+ lists/bcellViper                                |  2 +-
+ lists/biglm                                     |  2 +-
+ lists/bladderbatch                              |  2 +-
+ lists/brglm                                     |  2 +-
+ lists/celestial                                 |  2 +-
+ lists/clusterStab                               |  2 +-
+ lists/cytolib                                   |  2 +-
+ lists/ddCt                                      |  2 +-
+ lists/ecolitk                                   |  2 +-
+ lists/edgeR                                     |  2 +-
+ lists/foreach                                   |  2 +-
+ lists/fst                                       |  2 +-
+ lists/graph                                     |  2 +-
+ lists/hexbin                                    |  2 +-
+ lists/hopach                                    |  2 +-
+ lists/htmltools                                 |  2 +-
+ lists/itertools                                 |  2 +-
+ lists/kmlShape                                  |  2 +-
+ lists/lamW                                      |  2 +-
+ lists/metaMA                                    |  2 +-
+ lists/metadat                                   |  2 +-
+ lists/metapod                                   |  2 +-
+ lists/mixsmsn                                   |  2 +-
+ lists/mppa                                      |  2 +-
+ lists/officer                                   |  2 +-
+ lists/ompBAM                                    |  2 +-
+ lists/openxlsx                                  |  2 +-
+ lists/optextras                                 |  2 +-
+ lists/pander                                    |  2 +-
+ lists/pepXMLTab                                 |  2 +-
+ lists/phosphonormalizer                         |  2 +-
+ lists/plgem                                     |  2 +-
+ lists/plotmo                                    |  2 +-
+ lists/progressr                                 |  2 +-
+ lists/propr                                     |  2 +-
+ lists/qdapRegex                                 |  2 +-
+ lists/rcellminerData                            |  2 +-
+ lists/readbitmap                                |  2 +-
+ lists/relations                                 |  2 +-
+ lists/reshape                                   |  2 +-
+ lists/rex                                       |  2 +-
+ lists/rhdf5filters                              |  2 +-
+ lists/rlist                                     |  2 +-
+ lists/rpart.plot                                |  2 +-
+ lists/rversions                                 |  2 +-
+ lists/sampSurf                                  |  2 +-
+ lists/scales                                    |  2 +-
+ lists/semisup                                   |  2 +-
+ lists/sjlabelled                                |  2 +-
+ lists/sp                                        |  2 +-
+ lists/spkTools                                  |  2 +-
+ lists/spp                                       |  2 +-
+ lists/statip                                    |  2 +-
+ lists/stringfish                                |  2 +-
+ lists/svglite                                   |  2 +-
+ lists/tinytex                                   |  2 +-
+ lists/triebeard                                 |  2 +-
+ lists/truncdist                                 |  2 +-
+ lists/varSelRF                                  |  2 +-
+ lists/vbsr                                      |  2 +-
+ lists/xlsxjars                                  |  2 +-
+ logs/dispatchlists/2022-12-22_02-16_pkglist     | 90 +++++++++++++++++++++++++
+ logs/run_ids/rstudio-binaries/storr             |  2 +
+ logs/sizes/rstudio-binaries/binaries/pepXMLTab  |  1 +
+ logs/sizes/rstudio-binaries/binaries/semisup    |  1 +
+ logs/sizes/rstudio-binaries/libraries/pepXMLTab |  1 +
+ logs/sizes/rstudio-binaries/libraries/semisup   |  1 +
+ logs/times/rstudio-binary/pepXMLTab             | 73 ++++++++++++++++++++
+ logs/times/rstudio-binary/semisup               | 75 +++++++++++++++++++++
+ packages.json                                   |  2 -
+ tobuild.txt                                     | 90 -------------------------
+ 102 files changed, 336 insertions(+), 184 deletions(-)
+ create mode 100644 logs/dispatchlists/2022-12-22_02-16_pkglist
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/pepXMLTab
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/semisup
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/pepXMLTab
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/semisup
+ create mode 100644 logs/times/rstudio-binary/pepXMLTab
+ create mode 100644 logs/times/rstudio-binary/semisup
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=SQUADD
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "SQUADD"/,/^    "/p' directdeps.json
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency RColorBrewer is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''SQUADD'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv SQUADD_1.48.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/SQUADD
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'SQUADD'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/SQUADD_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 694815 bytes (678 KB)
+==================================================
+downloaded 678 KB
+
+* installing *source* package ‘SQUADD’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SQUADD’ as ‘SQUADD_1.48.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SQUADD)
+
+The downloaded source packages are in
+	‘/tmp/RtmpiZlfgb/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+4.87user 0.71system 0:07.37elapsed 75%CPU (0avgtext+0avgdata 146132maxresident)k
+864inputs+23280outputs (9major+141431minor)pagefaults 0swaps
