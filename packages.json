@@ -16908,7 +16908,6 @@
         "graphite",
         "graphlayouts",
         "gridExtra",
-        "harmonicmeanp",
         "haven",
         "hms",
         "htmltools",
@@ -38737,7 +38736,6 @@
         "ggplot2",
         "gplots",
         "gridExtra",
-        "harmonicmeanp",
         "heatmaply",
         "hms",
         "htmltools",
@@ -82632,7 +82630,6 @@
         "zoo"
     ],
     "ppcor": [],
-    "harmonicmeanp": [],
     "TFisher": [
         "Matrix",
         "MatrixModels",
