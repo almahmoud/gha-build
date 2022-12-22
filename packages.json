@@ -1348,7 +1348,6 @@
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
-        "Rdpack",
         "Rmpfr",
         "Rtsne",
         "S4Vectors",
@@ -4660,7 +4659,6 @@
     "BEclear": [
         "BiocParallel",
         "Matrix",
-        "Rdpack",
         "askpass",
         "futile.logger",
         "ids",
@@ -4742,7 +4740,6 @@
         "RcppML",
         "RcppTOML",
         "RcppZiggurat",
-        "Rdpack",
         "Rfast",
         "Rmpfr",
         "Rtsne",
@@ -6362,7 +6359,6 @@
         "RSpectra",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "S4Vectors",
         "WGCNA",
         "XVector",
@@ -9219,7 +9215,6 @@
         "MatrixGenerics",
         "RCurl",
         "RcppEigen",
-        "Rdpack",
         "Rtsne",
         "S4Vectors",
         "SingleCellExperiment",
@@ -9424,7 +9419,6 @@
         "MatrixGenerics",
         "RCurl",
         "RcppEigen",
-        "Rdpack",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -17580,7 +17574,6 @@
         "RSQLite",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "Rgraphviz",
         "Rtsne",
         "S4Vectors",
@@ -17859,7 +17852,6 @@
         "RcppArmadillo",
         "RcppEigen",
         "RcppNumerical",
-        "Rdpack",
         "Rgraphviz",
         "S4Vectors",
         "SummarizedExperiment",
@@ -21749,7 +21741,6 @@
         "PADOG",
         "RCurl",
         "RSQLite",
-        "Rdpack",
         "Rgraphviz",
         "S4Vectors",
         "ScaledMatrix",
@@ -23870,7 +23861,6 @@
         "MatrixGenerics",
         "MultiAssayExperiment",
         "RCurl",
-        "Rdpack",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -25887,7 +25877,6 @@
     ],
     "flowGraph": [
         "Matrix",
-        "Rdpack",
         "bslib",
         "cachem",
         "ellipsis",
@@ -28499,7 +28488,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "Rdpack",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -30972,7 +30960,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "Rdpack",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -31792,8 +31779,7 @@
         "fabia"
     ],
     "Harman": [
-        "Ckmeans.1d.dp",
-        "Rdpack"
+        "Ckmeans.1d.dp"
     ],
     "Harshlight": [
         "Biostrings",
@@ -31954,7 +31940,6 @@
         "RCurl",
         "RSQLite",
         "RcppArmadillo",
-        "Rdpack",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -35963,7 +35948,6 @@
         "MatrixGenerics",
         "RCurl",
         "RSQLite",
-        "Rdpack",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -40529,7 +40513,6 @@
     "MetaVolcanoR": [
         "Matrix",
         "MatrixModels",
-        "Rdpack",
         "TFisher",
         "TH.data",
         "askpass",
@@ -42280,7 +42263,6 @@
         "RcppHNSW",
         "RcppML",
         "RcppZiggurat",
-        "Rdpack",
         "Rfast",
         "Rmpfr",
         "Rtsne",
@@ -46631,7 +46613,6 @@
         "MatrixModels",
         "RCurl",
         "RSQLite",
-        "Rdpack",
         "S4Vectors",
         "TFisher",
         "TH.data",
@@ -46778,7 +46759,6 @@
         "RSpectra",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "ReactomePA",
         "S4Vectors",
         "SummarizedExperiment",
@@ -47039,7 +47019,6 @@
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
-        "Rdpack",
         "Rtsne",
         "S4Vectors",
         "ScaledMatrix",
@@ -47565,7 +47544,6 @@
         "RCurl",
         "RSQLite",
         "RcppEigen",
-        "Rdpack",
         "Rgraphviz",
         "Rhtslib",
         "Rsamtools",
@@ -51739,7 +51717,6 @@
         "RSQLite",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "S4Vectors",
         "TFisher",
         "TH.data",
@@ -54782,7 +54759,6 @@
         "MsCoreUtils",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "S4Vectors",
         "TTR",
         "affy",
@@ -57554,9 +57530,7 @@
         "vroom"
     ],
     "randPack": [],
-    "randRotation": [
-        "Rdpack"
-    ],
+    "randRotation": [],
     "RankProd": [
         "Rmpfr"
     ],
@@ -60853,9 +60827,7 @@
         "vsn",
         "webchem"
     ],
-    "rmelting": [
-        "Rdpack"
-    ],
+    "rmelting": [],
     "Rmmquant": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -62204,7 +62176,6 @@
         "MultiDataSet",
         "RCurl",
         "RcppEigen",
-        "Rdpack",
         "S4Vectors",
         "SummarizedExperiment",
         "TFisher",
@@ -63251,7 +63222,6 @@
         "MatrixGenerics",
         "RCurl",
         "RSQLite",
-        "Rdpack",
         "Rgraphviz",
         "S4Vectors",
         "SBGNview.data",
@@ -65426,7 +65396,6 @@
         "MatrixGenerics",
         "RSpectra",
         "RcppEigen",
-        "Rdpack",
         "S4Vectors",
         "ScaledMatrix",
         "dplyr",
@@ -68313,7 +68282,6 @@
         "RcppHNSW",
         "RcppML",
         "RcppTOML",
-        "Rdpack",
         "ResidualMatrix",
         "Rhtslib",
         "Rsamtools",
@@ -71579,7 +71547,6 @@
         "RUVSeq",
         "RcppArmadillo",
         "RcppEigen",
-        "Rdpack",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -77461,7 +77428,6 @@
         "BiocParallel",
         "Matrix",
         "RcppEigen",
-        "Rdpack",
         "broom",
         "caTools",
         "callr",
@@ -78761,7 +78727,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "Rdpack",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -79377,7 +79342,6 @@
         "RcppEigen",
         "RcppGSL",
         "RcppZiggurat",
-        "Rdpack",
         "Rfast",
         "Rgraphviz",
         "S4Vectors",
@@ -80678,7 +80642,6 @@
         "tibble",
         "vctrs"
     ],
-    "Rdpack": [],
     "emmeans": [],
     "energy": [],
     "lmerTest": [
@@ -83285,7 +83248,6 @@
         "Matrix",
         "RCurl",
         "RSQLite",
-        "Rdpack",
         "S4Vectors",
         "XVector",
         "askpass",
@@ -83328,7 +83290,6 @@
     "rSpectral": [
         "Matrix",
         "RcppArmadillo",
-        "Rdpack",
         "graph",
         "igraph"
     ],
@@ -84160,9 +84121,7 @@
         "vctrs"
     ],
     "magick": [],
-    "Ckmeans.1d.dp": [
-        "Rdpack"
-    ],
+    "Ckmeans.1d.dp": [],
     "mvoutlier": [
         "robustbase"
     ],
@@ -86216,7 +86175,6 @@
     "metap": [
         "Matrix",
         "MatrixModels",
-        "Rdpack",
         "TFisher",
         "TH.data",
         "multcomp",
@@ -87538,19 +87496,15 @@
     ],
     "fGarch": [
         "Matrix",
-        "Rdpack",
         "cvar",
         "fBasics",
         "gbutils",
         "timeSeries"
     ],
     "cvar": [
-        "Rdpack",
         "gbutils"
     ],
-    "gbutils": [
-        "Rdpack"
-    ],
+    "gbutils": [],
     "KEGGandMetacoreDzPathwaysGEO": [],
     "ggwordcloud": [
         "Matrix",
@@ -87939,7 +87893,6 @@
         "vctrs"
     ],
     "changepoint.np": [
-        "Rdpack",
         "changepoint",
         "zoo"
     ],
@@ -91674,8 +91627,7 @@
         "vctrs"
     ],
     "mclustcomp": [
-        "RcppArmadillo",
-        "Rdpack"
+        "RcppArmadillo"
     ],
     "MLmetrics": [
         "ROCR",
