@@ -7248,7 +7248,6 @@
         "httr",
         "jquerylib",
         "later",
-        "lsa",
         "memoise",
         "openssl",
         "pillar",
@@ -8824,7 +8823,6 @@
         "doParallel",
         "foreach",
         "httr",
-        "lsa",
         "memoise",
         "openssl",
         "vctrs",
@@ -9402,8 +9400,7 @@
         "vctrs"
     ],
     "CellScore": [
-        "gplots",
-        "lsa"
+        "gplots"
     ],
     "CellTrails": [
         "DelayedArray",
@@ -14292,7 +14289,6 @@
         "jquerylib",
         "knitr",
         "later",
-        "lsa",
         "marray",
         "memoise",
         "mgcv",
@@ -49787,7 +49783,6 @@
         "lava",
         "lme4",
         "lmtest",
-        "lsa",
         "lubridate",
         "marray",
         "memoise",
@@ -50298,7 +50293,6 @@
         "jquerylib",
         "knitr",
         "later",
-        "lsa",
         "magicaxis",
         "marray",
         "memoise",
@@ -54571,7 +54565,6 @@
         "jquerylib",
         "knitr",
         "later",
-        "lsa",
         "magicaxis",
         "marray",
         "memoise",
@@ -56510,7 +56503,6 @@
         "ggplot2",
         "glmnet",
         "gridExtra",
-        "lsa",
         "mgcv",
         "nlme",
         "pillar",
@@ -71561,7 +71553,6 @@
         "jquerylib",
         "knitr",
         "later",
-        "lsa",
         "marray",
         "memoise",
         "mgcv",
@@ -75135,7 +75126,6 @@
         "jquerylib",
         "knitr",
         "later",
-        "lsa",
         "magicaxis",
         "marray",
         "memoise",
@@ -79676,7 +79666,6 @@
         "vctrs",
         "viridis"
     ],
-    "lsa": [],
     "BSgenome.Hsapiens.UCSC.hg38": [
         "BSgenome",
         "BiocIO",
