@@ -1,0 +1,365 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   6f938cce..27db09ee  main       -> origin/main
+Updating 6f938cce..27db09ee
+Fast-forward
+ lists/ASGSCA                                   |   1 +
+ lists/BBmisc                                   |   1 +
+ lists/BaseSpaceR                               |   1 +
+ lists/CatEncoders                              |   1 +
+ lists/ChIPXpressData                           |   1 +
+ lists/CodeDepends                              |   1 +
+ lists/CpGassoc                                 |   1 +
+ lists/DNABarcodes                              |   1 +
+ lists/DrImpute                                 |   1 +
+ lists/FME                                      |   1 +
+ lists/GA                                       |   1 +
+ lists/GIGSEA                                   |   1 +
+ lists/GLAD                                     |   1 +
+ lists/GSALightning                             |   1 +
+ lists/GeneNet                                  |   1 +
+ lists/HDTD                                     |   1 +
+ lists/Lmoments                                 |   1 +
+ lists/MSstatsConvert                           |   1 +
+ lists/MatrixExtra                              |   1 +
+ lists/MatrixModels                             |   1 +
+ lists/MuMIn                                    |   1 +
+ lists/NOISeq                                   |   1 +
+ lists/NeighborNet                              |   1 +
+ lists/NetRep                                   |   1 +
+ lists/PRIMME                                   |   1 +
+ lists/PolynomF                                 |   2 +-
+ lists/R.utils                                  |   1 +
+ lists/R2WinBUGS                                |   1 +
+ lists/RBGL                                     |   1 +
+ lists/RBioinf                                  |   1 +
+ lists/RGraph2js                                |   1 +
+ lists/RNOmni                                   |   1 +
+ lists/ROI.plugin.lpsolve                       |   1 +
+ lists/RbcBook1                                 |   1 +
+ lists/Rcgmin                                   |   1 +
+ lists/RcppCCTZ                                 |   2 +-
+ lists/RcppDE                                   |   1 +
+ lists/RcppDist                                 |   1 +
+ lists/RcppEigen                                |   1 +
+ lists/RcppZiggurat                             |   1 +
+ lists/Rgraphviz                                |   1 +
+ lists/Rsubread                                 |   1 +
+ lists/Rvmmin                                   |   1 +
+ lists/SNPediaR                                 |   1 +
+ lists/TSP                                      |   1 +
+ lists/TargetScore                              |   1 +
+ lists/VAM                                      |   1 +
+ lists/XML2R                                    |   1 +
+ lists/affy                                     |   1 +
+ lists/apcluster                                |   1 +
+ lists/ape                                      |   1 +
+ lists/aricode                                  |   1 +
+ lists/arules                                   |   1 +
+ lists/assertive.files                          |   1 +
+ lists/assertive.types                          |   1 +
+ lists/basilisk.utils                           |   1 +
+ lists/bayesm                                   |   1 +
+ lists/bbmle                                    |   1 +
+ lists/biganalytics                             |   1 +
+ lists/biwt                                     |   1 +
+ lists/blockmodeling                            |   1 +
+ lists/callr                                    |   1 +
+ lists/ccaPP                                    |   1 +
+ lists/changepoint                              |   1 +
+ lists/clValid                                  |   1 +
+ lists/copula                                   |   1 +
+ lists/cvTools                                  |   1 +
+ lists/dks                                      |   1 +
+ lists/doMC                                     |   1 +
+ lists/doParallel                               |   1 +
+ lists/doSNOW                                   |   1 +
+ lists/e1071                                    |   1 +
+ lists/earth                                    |   1 +
+ lists/eds                                      |   1 +
+ lists/eulerr                                   |   1 +
+ lists/expm                                     |   1 +
+ lists/flexclust                                |   1 +
+ lists/forestplot                               |   1 +
+ lists/fpc                                      |   1 +
+ lists/gProfileR                                |   1 +
+ lists/gaggle                                   |   1 +
+ lists/gam                                      |   1 +
+ lists/geeM                                     |   1 +
+ lists/genetics                                 |   1 +
+ lists/geometry                                 |   1 +
+ lists/gmodels                                  |   1 +
+ lists/gnm                                      |   1 +
+ lists/gplots                                   |   1 +
+ lists/hypergraph                               |   1 +
+ lists/igraph                                   |   1 +
+ lists/inum                                     |   1 +
+ lists/irlba                                    |   1 +
+ lists/koRpus                                   |   1 +
+ lists/liger                                    |   1 +
+ lists/lmtest                                   |   1 +
+ lists/loo                                      |   1 +
+ lists/magicaxis                                |   1 +
+ lists/matchingR                                |   1 +
+ lists/mclustcomp                               |   1 +
+ lists/memoise                                  |   1 +
+ lists/metafor                                  |   1 +
+ lists/mgcv                                     |   1 +
+ lists/mlapi                                    |   1 +
+ lists/mlr3measures                             |   1 +
+ lists/mlr3misc                                 |   1 +
+ lists/mltools                                  |   1 +
+ lists/mvoutlier                                |   1 +
+ lists/nanotime                                 |   1 +
+ lists/openssl                                  |   1 +
+ lists/osqp                                     |   1 +
+ lists/parallelDist                             |   1 +
+ lists/pingr                                    |   1 +
+ lists/pkgload                                  |   1 +
+ lists/promises                                 |   1 +
+ lists/proxyC                                   |   1 +
+ lists/psych                                    |   1 +
+ lists/qdapTools                                |   1 +
+ lists/qpdf                                     |   1 +
+ lists/qqconf                                   |   1 +
+ lists/qqman                                    |   1 +
+ lists/quanteda                                 |   1 +
+ lists/qusage                                   |   1 +
+ lists/rcdk                                     |   1 +
+ lists/rdist                                    |   1 +
+ lists/redux                                    |   1 +
+ lists/reticulate                               |   1 +
+ lists/rjags                                    |   1 +
+ lists/roptim                                   |   1 +
+ lists/rrcov                                    |   1 +
+ lists/rsbml                                    |   1 +
+ lists/rstantools                               |   1 +
+ lists/rsvd                                     |   1 +
+ lists/sSeq                                     |   1 +
+ lists/sandwich                                 |   1 +
+ lists/segmented                                |   1 +
+ lists/softImpute                               |   1 +
+ lists/sparseMVN                                |   1 +
+ lists/sparseMatrixStats                        |   1 +
+ lists/sparsesvd                                |   1 +
+ lists/spatstat.data                            |   1 +
+ lists/spatstat.sparse                          |   1 +
+ lists/speedglm                                 |   1 +
+ lists/splines2                                 |   1 +
+ lists/ssize                                    |   1 +
+ lists/statnet.common                           |   1 +
+ lists/survival                                 |   1 +
+ lists/urca                                     |   1 +
+ lists/vioplot                                  |   1 +
+ lists/xgboost                                  |   1 +
+ lists/xopen                                    |   1 +
+ lists/xts                                      |   1 +
+ lists/yeastExpData                             |   1 +
+ logs/run_ids/rstudio-binaries/rversions        |   2 +
+ logs/sizes/rstudio-binaries/binaries/RcppCCTZ  |   1 +
+ logs/sizes/rstudio-binaries/libraries/RcppCCTZ |   1 +
+ logs/times/rstudio-binary/RcppCCTZ             |  70 ++++++++++++
+ packages.json                                  |   9 +-
+ tobuild.txt                                    | 150 +++++++++++++++++++++++++
+ 158 files changed, 377 insertions(+), 10 deletions(-)
+ create mode 100644 lists/ASGSCA
+ create mode 100644 lists/BBmisc
+ create mode 100644 lists/BaseSpaceR
+ create mode 100644 lists/CatEncoders
+ create mode 100644 lists/ChIPXpressData
+ create mode 100644 lists/CodeDepends
+ create mode 100644 lists/CpGassoc
+ create mode 100644 lists/DNABarcodes
+ create mode 100644 lists/DrImpute
+ create mode 100644 lists/FME
+ create mode 100644 lists/GA
+ create mode 100644 lists/GIGSEA
+ create mode 100644 lists/GLAD
+ create mode 100644 lists/GSALightning
+ create mode 100644 lists/GeneNet
+ create mode 100644 lists/HDTD
+ create mode 100644 lists/Lmoments
+ create mode 100644 lists/MSstatsConvert
+ create mode 100644 lists/MatrixExtra
+ create mode 100644 lists/MatrixModels
+ create mode 100644 lists/MuMIn
+ create mode 100644 lists/NOISeq
+ create mode 100644 lists/NeighborNet
+ create mode 100644 lists/NetRep
+ create mode 100644 lists/PRIMME
+ create mode 100644 lists/R.utils
+ create mode 100644 lists/R2WinBUGS
+ create mode 100644 lists/RBGL
+ create mode 100644 lists/RBioinf
+ create mode 100644 lists/RGraph2js
+ create mode 100644 lists/RNOmni
+ create mode 100644 lists/ROI.plugin.lpsolve
+ create mode 100644 lists/RbcBook1
+ create mode 100644 lists/Rcgmin
+ create mode 100644 lists/RcppDE
+ create mode 100644 lists/RcppDist
+ create mode 100644 lists/RcppEigen
+ create mode 100644 lists/RcppZiggurat
+ create mode 100644 lists/Rgraphviz
+ create mode 100644 lists/Rsubread
+ create mode 100644 lists/Rvmmin
+ create mode 100644 lists/SNPediaR
+ create mode 100644 lists/TSP
+ create mode 100644 lists/TargetScore
+ create mode 100644 lists/VAM
+ create mode 100644 lists/XML2R
+ create mode 100644 lists/affy
+ create mode 100644 lists/apcluster
+ create mode 100644 lists/ape
+ create mode 100644 lists/aricode
+ create mode 100644 lists/arules
+ create mode 100644 lists/assertive.files
+ create mode 100644 lists/assertive.types
+ create mode 100644 lists/basilisk.utils
+ create mode 100644 lists/bayesm
+ create mode 100644 lists/bbmle
+ create mode 100644 lists/biganalytics
+ create mode 100644 lists/biwt
+ create mode 100644 lists/blockmodeling
+ create mode 100644 lists/callr
+ create mode 100644 lists/ccaPP
+ create mode 100644 lists/changepoint
+ create mode 100644 lists/clValid
+ create mode 100644 lists/copula
+ create mode 100644 lists/cvTools
+ create mode 100644 lists/dks
+ create mode 100644 lists/doMC
+ create mode 100644 lists/doParallel
+ create mode 100644 lists/doSNOW
+ create mode 100644 lists/e1071
+ create mode 100644 lists/earth
+ create mode 100644 lists/eds
+ create mode 100644 lists/eulerr
+ create mode 100644 lists/expm
+ create mode 100644 lists/flexclust
+ create mode 100644 lists/forestplot
+ create mode 100644 lists/fpc
+ create mode 100644 lists/gProfileR
+ create mode 100644 lists/gaggle
+ create mode 100644 lists/gam
+ create mode 100644 lists/geeM
+ create mode 100644 lists/genetics
+ create mode 100644 lists/geometry
+ create mode 100644 lists/gmodels
+ create mode 100644 lists/gnm
+ create mode 100644 lists/gplots
+ create mode 100644 lists/hypergraph
+ create mode 100644 lists/igraph
+ create mode 100644 lists/inum
+ create mode 100644 lists/irlba
+ create mode 100644 lists/koRpus
+ create mode 100644 lists/liger
+ create mode 100644 lists/lmtest
+ create mode 100644 lists/loo
+ create mode 100644 lists/magicaxis
+ create mode 100644 lists/matchingR
+ create mode 100644 lists/mclustcomp
+ create mode 100644 lists/memoise
+ create mode 100644 lists/metafor
+ create mode 100644 lists/mgcv
+ create mode 100644 lists/mlapi
+ create mode 100644 lists/mlr3measures
+ create mode 100644 lists/mlr3misc
+ create mode 100644 lists/mltools
+ create mode 100644 lists/mvoutlier
+ create mode 100644 lists/nanotime
+ create mode 100644 lists/openssl
+ create mode 100644 lists/osqp
+ create mode 100644 lists/parallelDist
+ create mode 100644 lists/pingr
+ create mode 100644 lists/pkgload
+ create mode 100644 lists/promises
+ create mode 100644 lists/proxyC
+ create mode 100644 lists/psych
+ create mode 100644 lists/qdapTools
+ create mode 100644 lists/qpdf
+ create mode 100644 lists/qqconf
+ create mode 100644 lists/qqman
+ create mode 100644 lists/quanteda
+ create mode 100644 lists/qusage
+ create mode 100644 lists/rcdk
+ create mode 100644 lists/rdist
+ create mode 100644 lists/redux
+ create mode 100644 lists/reticulate
+ create mode 100644 lists/rjags
+ create mode 100644 lists/roptim
+ create mode 100644 lists/rrcov
+ create mode 100644 lists/rsbml
+ create mode 100644 lists/rstantools
+ create mode 100644 lists/rsvd
+ create mode 100644 lists/sSeq
+ create mode 100644 lists/sandwich
+ create mode 100644 lists/segmented
+ create mode 100644 lists/softImpute
+ create mode 100644 lists/sparseMVN
+ create mode 100644 lists/sparseMatrixStats
+ create mode 100644 lists/sparsesvd
+ create mode 100644 lists/spatstat.data
+ create mode 100644 lists/spatstat.sparse
+ create mode 100644 lists/speedglm
+ create mode 100644 lists/splines2
+ create mode 100644 lists/ssize
+ create mode 100644 lists/statnet.common
+ create mode 100644 lists/survival
+ create mode 100644 lists/urca
+ create mode 100644 lists/vioplot
+ create mode 100644 lists/xgboost
+ create mode 100644 lists/xopen
+ create mode 100644 lists/xts
+ create mode 100644 lists/yeastExpData
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RcppCCTZ
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RcppCCTZ
+ create mode 100644 logs/times/rstudio-binary/RcppCCTZ
++ LIBRARY=/__w/gha-build/gha-build/built/
++ PKG=relations
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "relations"/,/^    "/p' directdeps.json
++ '[' -s /tmp/deps ']'
++ cat /tmp/deps
++ xargs -I## bash -c 'if [ -d /__w/gha-build/gha-build/built//## ]; then echo '\''Dependency ## is already found.'\''; else cat lists/## | xargs -i bash -c '\''curl -o /__w/gha-build/gha-build/built//{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/2022-12-21-14-37/{} && ( cd /__w/gha-build/gha-build/built/ && tar -xvf {} && rm {} )'\''; fi'
+Dependency cluster is already found.
+Dependency slam is already found.
+Dependency sets is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''relations'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv relations_0.6-12_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/relations
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'relations'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/relations_0.6-12.tar.gz'
+Content type 'binary/octet-stream' length 770611 bytes (752 KB)
+==================================================
+downloaded 752 KB
+
+* installing *binary* package ‘relations’ ...
+* ‘relations’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘relations’ as ‘relations_0.6-12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (relations)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp2AHgwY/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+3.71user 0.30system 0:06.52elapsed 61%CPU (0avgtext+0avgdata 145508maxresident)k
+824inputs+22136outputs (8major+65341minor)pagefaults 0swaps
