@@ -31150,7 +31150,6 @@
         "IRanges",
         "Matrix",
         "RCurl",
-        "RMallow",
         "S4Vectors",
         "TSP",
         "XVector",
@@ -57731,7 +57730,6 @@
         "IRanges",
         "Matrix",
         "RCurl",
-        "RMallow",
         "S4Vectors",
         "SpacePAC",
         "TSP",
@@ -88484,7 +88482,6 @@
     ],
     "s2": [],
     "units": [],
-    "RMallow": [],
     "penalized": [
         "Matrix",
         "RcppArmadillo",
