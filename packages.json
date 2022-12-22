@@ -37828,7 +37828,6 @@
         "geneplotter",
         "httr",
         "memoise",
-        "mhsmm",
         "openssl",
         "restfulr",
         "rtracklayer",
@@ -80492,7 +80491,6 @@
     "rebus.datetimes": [],
     "rebus.numbers": [],
     "rebus.unicode": [],
-    "mhsmm": [],
     "GeneNet": [],
     "ggmcmc": [
         "GGally",
