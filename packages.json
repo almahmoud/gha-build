@@ -31155,7 +31155,6 @@
         "KEGGREST",
         "MCL",
         "MatrixModels",
-        "Polychrome",
         "RCurl",
         "ROCR",
         "RSQLite",
@@ -77808,7 +77807,6 @@
         "vctrs"
     ],
     "rsm": [],
-    "Polychrome": [],
     "AdaptGauss": [
         "DataVisualizations",
         "RcppArmadillo",
