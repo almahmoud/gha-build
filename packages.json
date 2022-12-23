@@ -317,7 +317,6 @@
         "qvalue"
     ],
     "ANCOMBC": [
-        "DECIPHER",
         "DescTools",
         "Hmisc",
         "MultiAssayExperiment",
@@ -702,9 +701,7 @@
         "tidyr",
         "viridis"
     ],
-    "AssessORF": [
-        "DECIPHER"
-    ],
+    "AssessORF": [],
     "ASSIGN": [
         "AnnotationDbi",
         "KEGGREST",
@@ -1117,7 +1114,6 @@
         "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
-        "DECIPHER",
         "DESeq2",
         "DescTools",
         "Hmisc",
@@ -4403,7 +4399,6 @@
         "treeio",
         "viridis"
     ],
-    "DECIPHER": [],
     "deco": [
         "AnnotationDbi",
         "BiocStyle",
@@ -10451,7 +10446,6 @@
         "dbplyr"
     ],
     "mia": [
-        "DECIPHER",
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -10476,7 +10470,6 @@
         "treeio"
     ],
     "miaViz": [
-        "DECIPHER",
         "MultiAssayExperiment",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -10543,7 +10536,6 @@
         "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
-        "DECIPHER",
         "DESeq2",
         "DescTools",
         "Hmisc",
@@ -12639,14 +12631,12 @@
         "flowWorkspace"
     ],
     "openPrimeR": [
-        "DECIPHER",
         "Hmisc",
         "htmlTable",
         "htmlwidgets",
         "viridis"
     ],
     "openPrimeRui": [
-        "DECIPHER",
         "DT",
         "Hmisc",
         "htmlTable",
@@ -15729,7 +15719,6 @@
     ],
     "sangeranalyseR": [
         "BiocStyle",
-        "DECIPHER",
         "DT",
         "bookdown",
         "excelR",
@@ -16052,7 +16041,6 @@
         "ggforce"
     ],
     "scifer": [
-        "DECIPHER",
         "kableExtra",
         "rvest",
         "sangerseqR"
@@ -18004,9 +17992,7 @@
         "viridis",
         "waldo"
     ],
-    "SynExtend": [
-        "DECIPHER"
-    ],
+    "SynExtend": [],
     "synlet": [
         "broom",
         "doBy",
