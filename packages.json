@@ -2270,8 +2270,7 @@
         "CAMERA",
         "agricolae",
         "klaR",
-        "plsgenomics",
-        "questionr"
+        "plsgenomics"
     ],
     "mAPKL": [],
     "maPredictDSC": [],
@@ -2962,8 +2961,7 @@
     ],
     "omada": [
         "diceR",
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "OmaDB": [],
     "omicRexposome": [
@@ -4860,13 +4858,9 @@
     ],
     "plsgenomics": [],
     "agricolae": [
-        "klaR",
-        "questionr"
+        "klaR"
     ],
-    "klaR": [
-        "questionr"
-    ],
-    "questionr": [],
+    "klaR": [],
     "SmartSVA": [
         "sva"
     ],
@@ -4916,8 +4910,7 @@
         "ExperimentHub"
     ],
     "diceR": [
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "AICcmodavg": [
         "unmarked"
