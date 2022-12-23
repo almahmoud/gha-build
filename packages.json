@@ -2039,7 +2039,6 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "TENxPBMCData",
         "celda",
