@@ -20893,7 +20893,6 @@
         "KEGGREST",
         "annotate"
     ],
-    "PROPER": [],
     "PROPS": [
         "AnnotationDbi",
         "Biostrings",
