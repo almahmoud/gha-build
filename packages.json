@@ -266,7 +266,6 @@
         "BSgenome.Ecoli.NCBI.20080805"
     ],
     "BASiCS": [
-        "scran",
         "viridis"
     ],
     "BASiCStan": [
@@ -274,7 +273,6 @@
         "HDF5Array",
         "glmGamPoi",
         "rhdf5",
-        "scran",
         "viridis"
     ],
     "basilisk": [],
@@ -287,7 +285,6 @@
     "BayesSpace": [
         "rhdf5",
         "scater",
-        "scran",
         "viridis"
     ],
     "BBCAnalyzer": [
@@ -397,9 +394,7 @@
         "Hmisc",
         "viridis"
     ],
-    "BioTIP": [
-        "scran"
-    ],
+    "BioTIP": [],
     "biovizBase": [
         "Hmisc",
         "VariantAnnotation",
@@ -579,7 +574,6 @@
     ],
     "celda": [
         "scater",
-        "scran",
         "viridis"
     ],
     "cellHTS2": [
@@ -745,7 +739,6 @@
     ],
     "ChromSCape": [
         "scater",
-        "scran",
         "viridis"
     ],
     "chromVAR": [
@@ -778,7 +771,6 @@
         "ggraph",
         "propr",
         "rhdf5",
-        "scran",
         "viridis"
     ],
     "ClassifyR": [],
@@ -912,7 +904,6 @@
         "ggraph",
         "rstatix",
         "scater",
-        "scran",
         "viridis"
     ],
     "condiments": [
@@ -1296,8 +1287,7 @@
     ],
     "diggit": [],
     "Dino": [
-        "Seurat",
-        "scran"
+        "Seurat"
     ],
     "DiscoRhythm": [
         "dendextend",
@@ -1675,7 +1665,6 @@
         "ggbio",
         "rhdf5",
         "scater",
-        "scran",
         "viridis"
     ],
     "flowCL": [
@@ -2230,7 +2219,6 @@
         "ggraph",
         "rstatix",
         "scater",
-        "scran",
         "viridis"
     ],
     "ISAnalytics": [],
@@ -2892,9 +2880,7 @@
         "ggbio",
         "viridis"
     ],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "msmsEDA": [
         "MSnbase",
         "affy",
@@ -2998,9 +2984,7 @@
         "ggraph",
         "viridis"
     ],
-    "mumosa": [
-        "scran"
-    ],
+    "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
     ],
@@ -3389,7 +3373,6 @@
     "pipeComp": [
         "Seurat",
         "scater",
-        "scran",
         "viridis"
     ],
     "pipeFrame": [],
@@ -4063,12 +4046,10 @@
     ],
     "scDblFinder": [
         "scater",
-        "scran",
         "viridis"
     ],
     "scDD": [
         "fields",
-        "scran",
         "viridis"
     ],
     "scDDboost": [],
@@ -4111,7 +4092,6 @@
         "scater",
         "viridis"
     ],
-    "scran": [],
     "scRecover": [
         "Rmagic",
         "gamlss"
@@ -4166,7 +4146,6 @@
         "epivizrData",
         "ggraph",
         "scater",
-        "scran",
         "viridis"
     ],
     "segmenter": [
@@ -4291,9 +4270,7 @@
         "fields",
         "viridis"
     ],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "DESeq2",
         "DropletUtils",
@@ -4314,7 +4291,6 @@
         "scMerge",
         "scRNAseq",
         "scater",
-        "scran",
         "sva",
         "viridis",
         "zinbwave"
@@ -4384,7 +4360,6 @@
         "Seurat",
         "rhdf5",
         "scater",
-        "scran",
         "viridis"
     ],
     "sparrow": [
@@ -4422,7 +4397,6 @@
         "Hmisc",
         "WGCNA",
         "scater",
-        "scran",
         "viridis"
     ],
     "spatzie": [
