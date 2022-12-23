@@ -6687,7 +6687,6 @@
         "rstatix",
         "rtracklayer",
         "shinybusy",
-        "shinyjqui",
         "sortable",
         "testthat"
     ],
@@ -7814,8 +7813,7 @@
         "DAPAR",
         "DAPARdata",
         "highcharter",
-        "rhandsontable",
-        "shinyjqui"
+        "rhandsontable"
     ],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
@@ -8928,8 +8926,7 @@
         "plotly",
         "rtracklayer",
         "scanMiR",
-        "scanMiRData",
-        "shinyjqui"
+        "scanMiRData"
     ],
     "scAnnotatR": [
         "AnnotationHub",
@@ -10120,7 +10117,6 @@
         "drawer",
         "plotly",
         "shinydashboardPlus",
-        "shinyjqui",
         "spsComps"
     ],
     "systemPipeTools": [
@@ -11853,7 +11849,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "shinyjqui": [],
     "mppa": [],
     "dnet": [
         "supraHex"
