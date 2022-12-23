@@ -4983,9 +4983,7 @@
     ],
     "PoTRA": [],
     "POWSC": [],
-    "ppcseq": [
-        "tidybayes"
-    ],
+    "ppcseq": [],
     "PPInfer": [],
     "pram": [
         "rtracklayer"
@@ -7752,7 +7750,6 @@
         "fields"
     ],
     "genlasso": [],
-    "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
         "AnnotationHub",
         "BSgenome",
