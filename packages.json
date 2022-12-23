@@ -511,7 +511,6 @@
     "ASICS": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PepsNMR",
         "ggrepel",
         "htmlwidgets",
         "plotly",
@@ -10988,7 +10987,6 @@
         "scuttle",
         "viridis"
     ],
-    "PepsNMR": [],
     "pepStat": [
         "fields",
         "viridis"
