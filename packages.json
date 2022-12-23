@@ -672,7 +672,6 @@
     "IsoformSwitchAnalyzeR": [
         "tximeta"
     ],
-    "isomiRs": [],
     "ivygapSE": [
         "ggpubr",
         "rstatix",
