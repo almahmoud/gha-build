@@ -20514,7 +20514,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "readJDX",
         "rmarkdown",
         "rvest",
         "selectr",
@@ -29672,7 +29671,6 @@
         "rmarkdown",
         "shiny"
     ],
-    "readJDX": [],
     "TBX20BamSubset": [
         "Biostrings",
         "GenomicRanges",
