@@ -12488,7 +12488,6 @@
         "interactiveDisplayBase",
         "ontoProc"
     ],
-    "polyester": [],
     "POMA": [
         "AnnotationDbi",
         "DESeq2",
