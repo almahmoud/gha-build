@@ -1739,7 +1739,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "BEclear": [],
     "beer": [
         "BiocFileCache",
         "GenomicRanges",
