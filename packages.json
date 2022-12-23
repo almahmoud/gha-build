@@ -971,9 +971,7 @@
         "vsn",
         "xcms"
     ],
-    "cosmosR": [
-        "dorothea"
-    ],
+    "cosmosR": [],
     "countsimQC": [
         "DESeq2"
     ],
@@ -1373,7 +1371,6 @@
         "DESeq2",
         "car",
         "coin",
-        "dorothea",
         "easierData",
         "ggpubr",
         "rstatix"
@@ -5124,7 +5121,6 @@
         "vsn",
         "xcms"
     ],
-    "dorothea": [],
     "crisprScoreData": [],
     "RFOC": [
         "GEOmap",
