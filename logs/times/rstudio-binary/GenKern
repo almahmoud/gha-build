@@ -1,0 +1,37 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   b77f8353..2641043d  main       -> origin/main
+Updating b77f8353..2641043d
+Fast-forward
+ lists/dks                                          |    2 +-
+ lists/epivizrServer                                |    2 +-
+ logs/run_ids/rstudio-binaries/futile.logger        |    2 +
+ logs/sizes/rstudio-binaries/binaries/epivizrServer |    1 +
+ .../sizes/rstudio-binaries/libraries/epivizrServer |    1 +
+ logs/times/rstudio-binary/epivizrServer            | 1171 ++++++++++++++++++++
+ packages.json                                      |    8 -
+ 7 files changed, 1177 insertions(+), 10 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/epivizrServer
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/epivizrServer
+ create mode 100644 logs/times/rstudio-binary/epivizrServer
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=GenKern
++ PKG=GenKern
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "GenKern"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ echo 'No dependencies'
+No dependencies
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''GenKern'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+
+real	0m4.573s
+user	0m3.468s
+sys	0m0.239s
