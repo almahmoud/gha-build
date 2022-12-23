@@ -2607,7 +2607,6 @@
         "rstatix",
         "viridis"
     ],
-    "PhyloProfile": [],
     "phyloseq": [
         "biomformat",
         "rhdf5"
