@@ -249,7 +249,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -464,7 +463,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -585,7 +583,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -697,7 +694,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xml2",
         "xtable",
         "xts",
@@ -1015,7 +1011,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -1333,7 +1328,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -1555,7 +1549,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -1680,7 +1673,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -1750,7 +1742,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "alpine": [
@@ -1935,7 +1926,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml"
     ],
@@ -2081,7 +2071,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -2165,7 +2154,6 @@
         "vctrs",
         "viridisLite",
         "waffle",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -2244,7 +2232,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -2427,7 +2414,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "yulab.utils",
         "zlibbioc"
@@ -2664,7 +2650,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -2935,7 +2920,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -3044,7 +3028,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -3167,7 +3150,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -3333,7 +3315,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -3411,7 +3392,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -3479,7 +3459,6 @@
         "vctrs",
         "vroom",
         "whisker",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -3794,7 +3773,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -3934,7 +3912,6 @@
         "urltools",
         "utf8",
         "vctrs",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -4104,7 +4081,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -4354,7 +4330,6 @@
         "viridis",
         "viridisLite",
         "vsn",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -4478,7 +4453,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zip",
         "zlibbioc"
@@ -4582,7 +4556,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -4739,7 +4712,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -4876,7 +4848,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -5223,7 +5194,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -5381,7 +5351,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -5582,7 +5551,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -5711,7 +5679,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -5861,7 +5828,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -5961,7 +5927,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -6068,7 +6033,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -6583,7 +6547,6 @@
         "viridis",
         "viridisLite",
         "vsn",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -6785,7 +6748,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -6932,7 +6894,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -7055,7 +7016,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -7265,7 +7225,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -8094,7 +8053,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -8468,7 +8426,6 @@
         "viridisLite",
         "vroom",
         "wateRmelon",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -8572,7 +8529,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -8700,7 +8656,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -8762,7 +8717,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "Biobase": [],
@@ -8979,7 +8933,6 @@
         "visNetwork",
         "vroom",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -9012,7 +8965,6 @@
         "stringdist",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "BiocDockerManager": [
@@ -9095,7 +9047,6 @@
         "utf8",
         "vctrs",
         "visNetwork",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -9345,7 +9296,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -9485,7 +9435,6 @@
         "vctrs",
         "vroom",
         "whisker",
-        "xfun",
         "xml2",
         "yaml"
     ],
@@ -9604,7 +9553,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "biocthis": [
@@ -9692,7 +9640,6 @@
         "usethis",
         "vctrs",
         "whisker",
-        "xfun",
         "yaml",
         "zip"
     ],
@@ -10434,7 +10381,6 @@
         "vioplot",
         "viridis",
         "viridisLite",
-        "xfun",
         "xlsx",
         "xlsxjars",
         "yaml",
@@ -10564,7 +10510,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -10703,7 +10648,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -10841,7 +10785,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -10991,7 +10934,6 @@
         "viridis",
         "viridisLite",
         "whisker",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -11080,7 +11022,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -11338,7 +11279,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -11513,7 +11453,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -11939,7 +11878,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -12037,7 +11975,6 @@
         "sva",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -12175,7 +12112,6 @@
         "viridisLite",
         "vsn",
         "wesanderson",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -12314,7 +12250,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -12471,7 +12406,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -12643,7 +12577,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -13249,7 +13182,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -13383,7 +13315,6 @@
         "vctrs",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -13765,7 +13696,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -13894,7 +13824,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -14068,7 +13997,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -14263,7 +14191,6 @@
         "viridisLite",
         "vsn",
         "xcms",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -14396,7 +14323,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -14607,7 +14533,6 @@
         "tinytex",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "CARNIVAL": [
@@ -14655,7 +14580,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "yaml"
     ],
     "casper": [
@@ -14894,7 +14818,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -15137,7 +15060,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -15240,7 +15162,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "yulab.utils",
         "zlibbioc"
@@ -15359,7 +15280,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -15432,7 +15352,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -16166,7 +16085,6 @@
         "vipor",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -16346,7 +16264,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -16481,7 +16398,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "cellscape": [
@@ -16518,7 +16434,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "CellScore": [
@@ -16682,7 +16597,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -16842,7 +16756,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xts",
         "yaml",
         "yulab.utils",
@@ -16977,7 +16890,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -17283,7 +17195,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -17720,7 +17631,6 @@
         "viridisLite",
         "vroom",
         "wateRmelon",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -17782,7 +17692,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "CHETAH": [
@@ -17866,7 +17775,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -18018,7 +17926,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "chimeraviz": [
@@ -18153,7 +18060,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -18358,7 +18264,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -18482,7 +18387,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -18723,7 +18627,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -19356,7 +19259,6 @@
         "viridisLite",
         "waiter",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -19619,7 +19521,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -19835,7 +19736,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -19909,7 +19809,6 @@
         "viridis",
         "viridisLite",
         "visNetwork",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -20074,7 +19973,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -20304,7 +20202,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -20461,7 +20358,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "clipper": [
@@ -20700,7 +20596,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "clstutils": [
@@ -20726,7 +20621,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "CluMSID": [
@@ -20832,7 +20726,6 @@
         "vctrs",
         "viridisLite",
         "vsn",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -21408,7 +21301,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "CNORfeeder": [
@@ -21457,7 +21349,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "CNORfuzzy": [
@@ -21516,7 +21407,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "CNORode": [
@@ -21566,7 +21456,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "CNTools": [
@@ -21734,7 +21623,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -21915,7 +21803,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -22468,7 +22355,6 @@
         "viridisLite",
         "vroom",
         "vsn",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -22615,7 +22501,6 @@
         "viridisLite",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -22768,7 +22653,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -22831,7 +22715,6 @@
         "skmeans",
         "stringr",
         "vctrs",
-        "xfun",
         "xml2",
         "yaml"
     ],
@@ -22963,7 +22846,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -23154,7 +23036,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -23288,7 +23169,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -23414,7 +23294,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "compcodeR": [
@@ -23476,7 +23355,6 @@
         "vctrs",
         "vioplot",
         "viridisLite",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -23607,7 +23485,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -23711,7 +23588,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -23795,7 +23671,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xtable",
         "yaml",
         "zip"
@@ -24023,7 +23898,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "yulab.utils",
@@ -24290,7 +24164,6 @@
         "viridisLite",
         "waveslim",
         "wavethresh",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -25006,7 +24879,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -25219,7 +25091,6 @@
         "vctrs",
         "viridisLite",
         "visNetwork",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -25547,7 +25418,6 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -25698,7 +25568,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -25931,7 +25800,6 @@
         "survival",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "crisprBase": [
@@ -26178,7 +26046,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -26264,7 +26131,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -26494,7 +26360,6 @@
         "viridisLite",
         "vroom",
         "whisker",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -26716,7 +26581,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -26869,7 +26733,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -27045,7 +26908,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -27182,7 +27044,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -27449,7 +27310,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "xts",
         "yaml",
@@ -27597,7 +27457,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -27721,7 +27580,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -27813,7 +27671,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -28017,7 +27874,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -28320,7 +28176,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -28462,7 +28317,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -28648,7 +28502,6 @@
         "vipor",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -28906,7 +28759,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -29221,7 +29073,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -29316,7 +29167,6 @@
         "vctrs",
         "viridisLite",
         "vsn",
-        "xfun",
         "xts",
         "yaml",
         "zlibbioc",
@@ -29466,7 +29316,6 @@
         "vroom",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "yaml",
         "zip",
@@ -29686,7 +29535,6 @@
         "viridisLite",
         "vroom",
         "wesanderson",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc",
@@ -29814,7 +29662,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zip",
         "zlibbioc"
@@ -30133,7 +29980,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -30254,7 +30100,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -30730,7 +30575,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -30856,7 +30700,6 @@
         "vroom",
         "webchem",
         "whisker",
-        "xfun",
         "xml2",
         "yaml",
         "zeallot",
@@ -31131,7 +30974,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -31278,7 +31120,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -31596,7 +31437,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -31758,7 +31598,6 @@
         "viridisLite",
         "vroom",
         "vsn",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -31991,7 +31830,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -32139,7 +31977,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -32427,7 +32264,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xts",
         "yaml",
         "zlibbioc",
@@ -32961,7 +32797,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -33063,7 +32898,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -33179,7 +33013,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -33510,7 +33343,6 @@
         "vctrs",
         "viper",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "Dino": [
@@ -33660,7 +33492,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -33822,7 +33653,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -34304,7 +34134,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -34427,7 +34256,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -34583,7 +34411,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -34938,7 +34765,6 @@
         "viridisLite",
         "vsn",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -35729,7 +35555,6 @@
         "viper",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -35873,7 +35698,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -36000,7 +35824,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "EBSEA": [
@@ -36643,7 +36466,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -36705,7 +36527,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "eisaR": [
@@ -36901,7 +36722,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -37212,7 +37032,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -37591,7 +37410,6 @@
         "visNetwork",
         "vroom",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -37998,7 +37816,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -38097,7 +37914,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -38294,7 +38110,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -38438,7 +38253,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "yulab.utils",
         "zlibbioc"
@@ -38573,7 +38387,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -38762,7 +38575,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -38951,7 +38763,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "EpiTxDb": [
@@ -39802,7 +39613,6 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -40059,7 +39869,6 @@
         "vctrs",
         "viridisLite",
         "webshot",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -40348,7 +40157,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -40583,7 +40391,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -40694,7 +40501,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -40844,7 +40650,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -40893,7 +40698,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -41044,7 +40848,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -41214,7 +41017,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "famat": [
@@ -41348,7 +41150,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -41460,7 +41261,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "yeastCC",
         "zlibbioc"
@@ -41533,7 +41333,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -41734,7 +41533,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -42504,7 +42302,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "fishpond": [
@@ -42663,7 +42460,6 @@
         "viridisLite",
         "vsn",
         "xcms",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -42858,7 +42654,6 @@
         "vipor",
         "viridis",
         "viridisLite",
-        "xfun",
         "xgboost",
         "xml2",
         "yaml",
@@ -42913,7 +42708,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -42939,7 +42733,6 @@
         "rrcov",
         "stringr",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -43042,7 +42835,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -43102,7 +42894,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "flowCL": [
@@ -43250,7 +43041,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -43365,7 +43155,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -43446,7 +43235,6 @@
         "vctrs",
         "viridisLite",
         "visNetwork",
-        "xfun",
         "yaml"
     ],
     "flowMap": [
@@ -43629,7 +43417,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -43716,7 +43503,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "flowSpecs": [
@@ -44072,7 +43858,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "fmrs": [
@@ -44379,7 +44164,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -44441,7 +44225,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "FRGEpistasis": [
@@ -44844,7 +44627,6 @@
         "vegan",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "yulab.utils",
         "zlibbioc"
@@ -45026,7 +44808,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -45302,7 +45083,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -45481,7 +45261,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -45596,7 +45375,6 @@
         "vctrs",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -45794,7 +45572,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -45901,7 +45678,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "gemma.R": [
@@ -46133,7 +45909,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc",
@@ -46493,7 +46268,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -46566,7 +46340,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "GeneOverlap": [
@@ -46843,7 +46616,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -47001,7 +46773,6 @@
         "viridisLite",
         "visNetwork",
         "waiter",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -47091,7 +46862,6 @@
         "utf8",
         "vctrs",
         "wordcloud",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -47594,7 +47364,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -47796,7 +47565,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -47932,7 +47700,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -48026,7 +47793,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -48152,7 +47918,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "zip",
@@ -48383,7 +48148,6 @@
         "webchem",
         "whisker",
         "word2vec",
-        "xfun",
         "xml2",
         "yaml",
         "zeallot",
@@ -48591,7 +48355,6 @@
         "vipor",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -48744,7 +48507,6 @@
         "vroom",
         "waldo",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml"
@@ -48916,7 +48678,6 @@
         "vipor",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -49176,7 +48937,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "ggbio": [
@@ -49305,7 +49065,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -49474,7 +49233,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "yulab.utils",
         "zlibbioc"
@@ -49868,7 +49626,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -50004,7 +49761,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -50164,7 +49920,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -50471,7 +50226,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -50653,7 +50407,6 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "xfun",
         "xgboost",
         "yaml",
         "zlibbioc"
@@ -51425,7 +51178,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -51658,7 +51410,6 @@
         "vctrs",
         "viridisLite",
         "wk",
-        "xfun",
         "xml2",
         "yaml",
         "yulab.utils",
@@ -51924,7 +51675,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -52237,7 +51987,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -52816,7 +52565,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -52937,7 +52685,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -53116,7 +52863,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -53376,7 +53122,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -53539,7 +53284,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -53598,7 +53342,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -54161,7 +53904,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -54303,7 +54045,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -54460,7 +54201,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -54700,7 +54440,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -55311,7 +55050,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -55416,7 +55154,6 @@
         "viridisLite",
         "visNetwork",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -55573,7 +55310,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "Icens": [
@@ -55833,7 +55569,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -55979,7 +55714,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -56148,7 +55882,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -56628,7 +56361,6 @@
         "vctrs",
         "viridisLite",
         "vsn",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -56899,7 +56631,6 @@
         "viridisLite",
         "vroom",
         "wk",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -57045,7 +56776,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -57188,7 +56918,6 @@
         "visNetwork",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -57347,7 +57076,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -57714,7 +57442,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -57845,7 +57572,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -57876,7 +57602,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "InteractionSet": [
@@ -57965,7 +57690,6 @@
         "vctrs",
         "viridisLite",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml"
@@ -58052,7 +57776,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -58092,7 +57815,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -58270,7 +57992,6 @@
         "waldo",
         "whisker",
         "wordcloud2",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -58445,7 +58166,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "IONiseR": [
@@ -58618,7 +58338,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -58695,7 +58414,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -58808,7 +58526,6 @@
         "viridisLite",
         "vsn",
         "xcms",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -59059,7 +58776,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -59150,7 +58866,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xtable",
         "yaml",
         "zip"
@@ -59241,7 +58956,6 @@
         "vctrs",
         "vipor",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -59334,7 +59048,6 @@
         "vctrs",
         "vipor",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -59451,7 +59164,6 @@
         "vctrs",
         "vipor",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -59545,7 +59257,6 @@
         "vctrs",
         "vipor",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -59837,7 +59548,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -59955,7 +59665,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -60252,7 +59961,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -60424,7 +60132,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -60531,7 +60238,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc",
@@ -60865,7 +60571,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -61005,7 +60710,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -61122,7 +60826,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -61314,7 +61017,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml"
@@ -61389,7 +61091,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -61574,7 +61275,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "yaml",
         "zip",
         "zlibbioc"
@@ -61698,7 +61398,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "yulab.utils",
         "zlibbioc"
@@ -61811,7 +61510,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -62105,7 +61803,6 @@
         "viridisLite",
         "vsn",
         "xcms",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -62347,7 +62044,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -62480,7 +62176,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -62808,7 +62503,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "m6Aboost": [
@@ -62948,7 +62642,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -63053,7 +62746,6 @@
         "vegan",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "Macarron": [
@@ -63214,7 +62906,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -63315,7 +63006,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml"
     ],
@@ -63397,7 +63087,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -63831,7 +63520,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -63977,7 +63665,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -64165,7 +63852,6 @@
         "vroom",
         "vsn",
         "xcms",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -64333,7 +64019,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -64361,7 +64046,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "marr": [
@@ -64538,7 +64222,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -64752,7 +64435,6 @@
         "viridis",
         "viridisLite",
         "vsn",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -65012,7 +64694,6 @@
         "vegan",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -65176,7 +64857,6 @@
         "viridis",
         "viridisLite",
         "visNetwork",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -65324,7 +65004,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -65443,7 +65122,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -65576,7 +65254,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -65819,7 +65496,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -65967,7 +65643,6 @@
         "viridisLite",
         "vroom",
         "wateRmelon",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -66143,7 +65818,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -66205,7 +65879,6 @@
         "vroom",
         "waldo",
         "whisker",
-        "xfun",
         "yaml",
         "zip",
         "zlibbioc"
@@ -66263,7 +65936,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "Melissa": [
@@ -66346,7 +66018,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -66590,7 +66261,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -66657,7 +66327,6 @@
         "survival",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -67000,7 +66669,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -67058,7 +66726,6 @@
         "tidyselect",
         "utf8",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -67253,7 +66920,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -67347,7 +67013,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "metagene": [
@@ -67631,7 +67296,6 @@
         "viridisLite",
         "vsn",
         "xcms",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -67865,8 +67529,7 @@
         "utf8",
         "vctrs",
         "viridis",
-        "viridisLite",
-        "xfun"
+        "viridisLite"
     ],
     "metaSeq": [
         "Biobase",
@@ -68059,7 +67722,6 @@
         "viridisLite",
         "vsn",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -68276,7 +67938,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -68679,7 +68340,6 @@
         "vroom",
         "waldo",
         "wheatmap",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -69269,7 +68929,6 @@
         "vroom",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -69780,7 +69439,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -70208,7 +69866,6 @@
         "viridisLite",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -71008,7 +70665,6 @@
         "vroom",
         "waldo",
         "webshot",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -71270,7 +70926,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -71418,7 +71073,6 @@
         "viridis",
         "viridisLite",
         "whisker",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -71591,7 +71245,6 @@
         "vctrs",
         "viridisLite",
         "webshot",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -71944,7 +71597,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "MineICA": [
@@ -72125,7 +71777,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -72682,7 +72333,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -73082,7 +72732,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -73320,7 +72969,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "yulab.utils",
@@ -73700,7 +73348,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -73936,7 +73583,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -74365,7 +74011,6 @@
         "vegan",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "mnem": [
@@ -74657,7 +74302,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -75238,7 +74882,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "yaml",
         "yulab.utils",
@@ -75440,7 +75083,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -75586,7 +75228,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -75843,7 +75484,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -76071,7 +75711,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "msa": [
@@ -76282,7 +75921,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -76446,7 +76084,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -76878,7 +76515,6 @@
         "vctrs",
         "viridisLite",
         "vsn",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -76999,7 +76635,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -77149,7 +76784,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -77363,7 +76997,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -77558,7 +77191,6 @@
         "vctrs",
         "viridisLite",
         "vsn",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -77662,7 +77294,6 @@
         "vctrs",
         "viridisLite",
         "vsn",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -77874,7 +77505,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -78106,7 +77736,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -78293,7 +77922,6 @@
         "viridis",
         "viridisLite",
         "whisker",
-        "xfun",
         "xml2",
         "yaml",
         "zeallot",
@@ -78808,7 +78436,6 @@
         "viridisLite",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -79119,7 +78746,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -79355,7 +78981,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -79560,7 +79185,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -79677,7 +79301,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -79795,7 +79418,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -80016,7 +79638,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -80201,7 +79822,6 @@
         "vctrs",
         "vipor",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -80268,7 +79888,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -80382,7 +80001,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "zip",
@@ -80560,7 +80178,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "ncdfFlow": [
@@ -80977,7 +80594,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -81235,7 +80851,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -81359,7 +80974,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "yulab.utils",
         "zlibbioc"
@@ -81589,7 +81203,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -81680,7 +81293,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "NetSAM": [
@@ -81791,7 +81403,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -82271,7 +81882,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -82645,7 +82255,6 @@
         "vroom",
         "vsn",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -82682,7 +82291,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "normr": [
@@ -83067,7 +82675,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -83235,7 +82842,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -83415,7 +83021,6 @@
         "vroom",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "yaml",
         "zip",
@@ -83577,7 +83182,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -83786,7 +83390,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xtable",
         "yardstick"
     ],
@@ -83939,7 +83542,6 @@
         "truncnorm",
         "vctrs",
         "vegan",
-        "xfun",
         "xtable",
         "yaml",
         "zCompositions",
@@ -84117,7 +83719,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -84341,7 +83942,6 @@
         "viridisLite",
         "waldo",
         "webshot",
-        "xfun",
         "xml2",
         "xts",
         "yaml",
@@ -84523,7 +84123,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -84625,7 +84224,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xml2",
         "yaml"
     ],
@@ -84814,7 +84412,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "oneSENSE": [
@@ -84895,7 +84492,6 @@
         "vctrs",
         "viridisLite",
         "webshot",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -84993,7 +84589,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -85146,7 +84741,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zip",
         "zlibbioc"
@@ -85257,7 +84851,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zip",
@@ -85366,7 +84959,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -85587,7 +85179,6 @@
         "viridisLite",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -85666,7 +85257,6 @@
         "transport",
         "utf8",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "OPWeight": [
@@ -85741,7 +85331,6 @@
         "snow",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -86129,7 +85718,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "yaml",
         "yulab.utils"
     ],
@@ -86341,7 +85929,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -86551,7 +86138,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -87408,7 +86994,6 @@
         "waldo",
         "webshot",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -87701,7 +87286,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -87996,7 +87580,6 @@
         "viridisLite",
         "visNetwork",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -88193,7 +87776,6 @@
         "vctrs",
         "viridisLite",
         "vsn",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -88778,7 +88360,6 @@
         "viridisLite",
         "vroom",
         "webutils",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -88899,7 +88480,6 @@
         "vctrs",
         "viridisLite",
         "visNetwork",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -89038,7 +88618,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -89197,7 +88776,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -89272,7 +88850,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "philr": [
@@ -89478,7 +89055,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -89587,7 +89163,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -89833,7 +89408,6 @@
         "vctrs",
         "viridisLite",
         "visNetwork",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -90020,7 +89594,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "yulab.utils",
         "zip",
@@ -90160,7 +89733,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -90337,7 +89909,6 @@
         "vipor",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaImpute",
         "yaml",
@@ -90400,7 +89971,6 @@
         "tinytex",
         "vctrs",
         "visNetwork",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -90700,7 +90270,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -90900,7 +90469,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -91032,7 +90600,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -91197,7 +90764,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -91609,7 +91175,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -91966,7 +91531,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -92086,7 +91650,6 @@
         "viridis",
         "viridisLite",
         "vsn",
-        "xfun",
         "xts",
         "yaml",
         "zlibbioc",
@@ -92395,7 +91958,6 @@
         "vsn",
         "waldo",
         "wesanderson",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -92557,7 +92119,6 @@
         "viridisLite",
         "vsn",
         "xcms",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -92738,7 +92299,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -93036,7 +92596,6 @@
         "viridis",
         "viridisLite",
         "vsn",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -93233,7 +92792,6 @@
         "viridisLite",
         "vsn",
         "waiter",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -93457,7 +93015,6 @@
         "viridisLite",
         "vsn",
         "webshot",
-        "xfun",
         "xtable",
         "xts",
         "yaml",
@@ -93866,7 +93423,6 @@
         "vsn",
         "waldo",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -94047,7 +93603,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "xts",
@@ -94135,7 +93690,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -94357,7 +93911,6 @@
         "viridisLite",
         "vsn",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -94671,7 +94224,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -94781,7 +94333,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -94887,7 +94438,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -94938,7 +94488,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -95052,7 +94601,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -95176,7 +94724,6 @@
         "viridisLite",
         "waldo",
         "webshot",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -95478,7 +95025,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -95620,7 +95166,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -96229,7 +95774,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -96514,7 +96058,6 @@
         "vctrs",
         "viridisLite",
         "visNetwork",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -96847,7 +96390,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -97028,7 +96570,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -97155,7 +96696,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -97421,7 +96961,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -97668,7 +97207,6 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -97776,7 +97314,6 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -97868,7 +97405,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "ReactomeContentService4R": [
@@ -98128,7 +97664,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "receptLoss": [
@@ -98369,7 +97904,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -98910,7 +98444,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -99169,7 +98702,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -99344,7 +98876,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -99525,7 +99056,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -99768,7 +99298,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -100033,7 +99562,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -100160,7 +99688,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -100362,7 +99889,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -100636,7 +100162,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -100970,7 +100495,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -101219,7 +100743,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -101418,7 +100941,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -101515,7 +101037,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -101726,7 +101247,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zip",
@@ -101920,7 +101440,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -102178,7 +101697,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -102304,7 +101822,6 @@
         "viridisLite",
         "vsn",
         "webchem",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -102456,7 +101973,6 @@
         "viridisLite",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -102645,7 +102161,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -102994,7 +102509,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -103126,7 +102640,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -103259,7 +102772,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -103391,7 +102903,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -103634,7 +103145,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "xts",
         "yaml",
@@ -103809,7 +103319,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -103997,7 +103506,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "ROCpAI": [
@@ -104024,7 +103532,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -104187,7 +103694,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -104274,7 +103780,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -104340,7 +103845,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -104513,7 +104017,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -104636,7 +104139,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc",
         "zoo"
@@ -104982,7 +104484,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -105183,7 +104684,6 @@
         "viper",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -105290,7 +104790,6 @@
         "viper",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -105400,7 +104899,6 @@
         "viper",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -105535,7 +105033,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "rTRM": [
@@ -105869,7 +105366,6 @@
         "tidyselect",
         "utf8",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -106122,7 +105618,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zeallot",
@@ -106316,7 +105811,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -106561,7 +106055,6 @@
         "vctrs",
         "viridisLite",
         "whisker",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -106820,7 +106313,6 @@
         "vctrs",
         "viridisLite",
         "waiter",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -106994,7 +106486,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -107149,7 +106640,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xgboost",
         "xtable",
         "yaml",
@@ -107413,7 +106903,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zinbwave",
@@ -107545,7 +107034,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -107701,7 +107189,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -107828,7 +107315,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -108045,7 +107531,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -108681,7 +108166,6 @@
         "vctrs",
         "viridisLite",
         "wk",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -108825,7 +108309,6 @@
         "vctrs",
         "viridisLite",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -108947,7 +108430,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zoo"
@@ -109114,7 +108596,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -109196,7 +108677,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -109330,7 +108810,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -109530,7 +109009,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -109812,7 +109290,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -110349,7 +109826,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -110647,7 +110123,6 @@
         "visNetwork",
         "webshot",
         "wk",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -110824,7 +110299,6 @@
         "viridis",
         "viridisLite",
         "wk",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -111046,7 +110520,6 @@
         "vipor",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -111618,7 +111091,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -112132,7 +111604,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -112288,7 +111759,6 @@
         "viridisLite",
         "vroom",
         "wheatmap",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -112712,7 +112182,6 @@
         "viridisLite",
         "vroom",
         "webshot",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -113113,7 +112582,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -113385,7 +112853,6 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -113592,7 +113059,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -113801,7 +113267,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -114283,7 +113748,6 @@
         "vipor",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -114843,7 +114307,6 @@
         "vipor",
         "viridis",
         "viridisLite",
-        "xfun",
         "xgboost",
         "xml2",
         "xtable",
@@ -115068,7 +114531,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -115415,7 +114877,6 @@
         "viridisLite",
         "vroom",
         "wateRmelon",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -115646,7 +115107,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -116059,7 +115519,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -116199,7 +115658,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -116398,7 +115856,6 @@
         "vipor",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -116511,7 +115968,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -116801,7 +116257,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xtable",
         "yaml",
         "zeallot",
@@ -117010,7 +116465,6 @@
         "vipor",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -117346,7 +116800,6 @@
         "viridis",
         "viridisLite",
         "visNetwork",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -117495,7 +116948,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -117812,7 +117264,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -118288,7 +117739,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -118555,7 +118005,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -118747,7 +118196,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -118915,7 +118363,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -119118,7 +118565,6 @@
         "vegan",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -119217,7 +118663,6 @@
         "vctrs",
         "viridisLite",
         "visNetwork",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -119432,7 +118877,6 @@
         "viridisLite",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -119653,7 +119097,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -119692,7 +119135,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -119874,7 +119316,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -120310,7 +119751,6 @@
         "viridisLite",
         "vroom",
         "wk",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -120335,7 +119775,6 @@
         "rrcov",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "STdeconvolve": [
@@ -120573,7 +120012,6 @@
         "vctrs",
         "viridisLite",
         "wk",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -120675,7 +120113,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -120758,7 +120195,6 @@
         "rols",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -120829,7 +120265,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -121015,7 +120450,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -121497,7 +120931,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -121873,7 +121306,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "synapter": [
@@ -121967,7 +121399,6 @@
         "viridisLite",
         "vroom",
         "vsn",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -122131,7 +121562,6 @@
         "vroom",
         "waldo",
         "wk",
-        "xfun",
         "xml2",
         "xts",
         "yaml",
@@ -122219,7 +121649,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "SynMut": [
@@ -122330,7 +121759,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -122404,7 +121832,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -122503,7 +121930,6 @@
         "viridisLite",
         "vroom",
         "waiter",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -122616,7 +122042,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -122734,7 +122159,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -122985,7 +122409,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -123082,7 +122505,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zip",
         "zlibbioc"
@@ -123221,7 +122643,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -123297,7 +122718,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -123386,7 +122806,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -123647,7 +123066,6 @@
         "vroom",
         "waldo",
         "wheatmap",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -124036,7 +123454,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -124184,7 +123601,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -124607,7 +124023,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -124727,7 +124142,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -124796,7 +124210,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -125007,7 +124420,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "TimiRGeN": [
@@ -125278,7 +124690,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -125720,7 +125131,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -125758,7 +125168,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -125952,7 +125361,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -126180,7 +125588,6 @@
         "vctrs",
         "viridisLite",
         "visNetwork",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -126250,7 +125657,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zip"
     ],
@@ -126455,7 +125861,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -126553,7 +125958,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "TrajectoryUtils": [
@@ -127154,7 +126558,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -127326,7 +126729,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "yulab.utils",
         "zlibbioc",
@@ -127532,7 +126934,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xgboost",
         "xml2",
         "yaml",
@@ -127604,7 +127005,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -127963,7 +127363,6 @@
         "vctrs",
         "viridisLite",
         "whisker",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -128254,7 +127653,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -128362,7 +127760,6 @@
         "visNetwork",
         "vroom",
         "whisker",
-        "xfun",
         "xml2",
         "yaml",
         "zeallot",
@@ -128407,7 +127804,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -128547,7 +127943,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -128787,7 +128182,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -128947,7 +128341,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -129230,7 +128623,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -129678,7 +129070,6 @@
         "vroom",
         "webchem",
         "whisker",
-        "xfun",
         "xml2",
         "yaml",
         "zeallot",
@@ -129904,7 +129295,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "VariantAnnotation": [
@@ -130172,7 +129562,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -130697,7 +130086,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -130764,7 +130152,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "ViSEAGO": [
@@ -130897,7 +130284,6 @@
         "visNetwork",
         "vroom",
         "webshot",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -131031,7 +130417,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -131400,7 +130785,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -131564,7 +130948,6 @@
         "viper",
         "viridisLite",
         "wordcloud",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -131792,7 +131175,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -131914,7 +131296,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -132192,7 +131573,6 @@
         "vctrs",
         "viridisLite",
         "whisker",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -132258,7 +131638,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xml2",
         "yaml"
     ],
@@ -132550,7 +131929,6 @@
         "vctrs",
         "viridisLite",
         "visNetwork",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -132662,7 +132040,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -132718,7 +132095,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -132882,7 +132258,6 @@
         "vipor",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -133176,7 +132551,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -133516,7 +132890,6 @@
         "tinytex",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -133543,7 +132916,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "knitr": [
@@ -133554,7 +132926,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "vegan": [
@@ -133662,7 +133033,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "stringr": [
@@ -133700,7 +133070,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "yaml": [],
@@ -133736,7 +133105,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "shiny": [
@@ -133813,10 +133181,7 @@
         "vctrs"
     ],
     "evaluate": [],
-    "highr": [
-        "xfun"
-    ],
-    "xfun": [],
+    "highr": [],
     "digest": [],
     "viridisLite": [],
     "base64enc": [],
@@ -133877,9 +133242,7 @@
         "htmltools",
         "rlang"
     ],
-    "tinytex": [
-        "xfun"
-    ],
+    "tinytex": [],
     "generics": [],
     "tidyselect": [
         "glue",
@@ -134003,7 +133366,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "varhandle": [],
@@ -134090,7 +133452,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "ggsignif": [
@@ -134259,7 +133620,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "callr": [
@@ -134360,7 +133720,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "diffobj": [
@@ -134416,7 +133775,6 @@
         "utf8",
         "vctrs",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "quantreg": [
@@ -134555,7 +133913,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -134788,7 +134145,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "GGally": [
@@ -134890,7 +134246,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "viridis": [
@@ -135412,7 +134767,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -136286,7 +135640,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zoo"
@@ -136906,7 +136259,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -137008,7 +136360,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -137110,7 +136461,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -137657,7 +137007,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xml2",
         "yaml"
     ],
@@ -138142,7 +137491,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "poweRlaw": [
@@ -138245,7 +137593,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "assertive": [
@@ -138272,7 +137619,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "assertive.properties": [],
@@ -138372,7 +137718,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "Deriv": [],
@@ -138537,7 +137882,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "rstan": [
@@ -138617,7 +137961,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "raster": [
@@ -138715,7 +138058,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -138768,7 +138110,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -138863,7 +138204,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "yaml"
     ],
     "seriation": [
@@ -139412,7 +138752,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -139537,7 +138876,6 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "xfun",
         "yaml"
     ],
     "visNetwork": [
@@ -139564,7 +138902,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "downloader": [
@@ -139625,8 +138962,7 @@
         "zlibbioc"
     ],
     "markdown": [
-        "commonmark",
-        "xfun"
+        "commonmark"
     ],
     "shinyAce": [
         "R6",
@@ -140059,7 +139395,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -140224,7 +139559,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -140332,7 +139666,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zlibbioc"
     ],
@@ -140410,7 +139743,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -140483,7 +139815,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "NetRep": [
@@ -140722,7 +140053,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -141161,7 +140491,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -141279,7 +140608,6 @@
         "vctrs",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -141325,7 +140653,6 @@
         "utf8",
         "vctrs",
         "whisker",
-        "xfun",
         "xml2",
         "yaml"
     ],
@@ -141353,7 +140680,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "rcmdcheck": [
@@ -141386,7 +140712,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "xml2",
         "yaml"
     ],
@@ -141465,7 +140790,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xml2"
     ],
     "gridtext": [
@@ -141480,7 +140804,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "xml2"
     ],
     "formula.tools": [
@@ -141612,7 +140935,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -141883,7 +141205,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "flashClust": [],
@@ -143325,7 +142646,6 @@
         "sass",
         "shiny",
         "sourcetools",
-        "xfun",
         "xtable"
     ],
     "shinyWidgets": [
@@ -143432,7 +142752,6 @@
         "vctrs",
         "viridisLite",
         "webshot",
-        "xfun",
         "xml2",
         "yaml"
     ],
@@ -143639,7 +142958,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "gRbase": [
@@ -143979,7 +143297,6 @@
         "viridis",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "Ecume": [
@@ -144178,7 +143495,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -144628,7 +143944,6 @@
         "vctrs",
         "viper",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "bcellViper": [
@@ -144705,7 +144020,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -144878,7 +144192,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xts",
         "yaml",
         "zoo"
@@ -145197,7 +144510,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "httpcache": [
@@ -145244,7 +144556,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "kknn": [
@@ -145322,7 +144633,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "praznik": [],
@@ -145603,7 +144913,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "settings": [],
@@ -145967,7 +145276,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -146227,7 +145535,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -146342,7 +145649,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -146441,7 +145747,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "lavaan": [
@@ -146524,7 +145829,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -146613,7 +145917,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "grr": [],
@@ -146671,7 +145974,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "gap": [
@@ -146727,7 +146029,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "geepack": [
@@ -146940,7 +146241,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "RecordLinkage": [
@@ -147046,7 +146346,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "yaml"
     ],
     "FCPS": [
@@ -147214,7 +146513,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -147252,7 +146550,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zoo"
@@ -147367,7 +146664,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -147400,7 +146696,6 @@
         "systemfonts",
         "tinytex",
         "vctrs",
-        "xfun",
         "xml2",
         "yaml",
         "zip"
@@ -147521,7 +146816,6 @@
         "viridis",
         "viridisLite",
         "webshot",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -147558,7 +146852,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -147622,7 +146915,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "seqmagick": [
@@ -147734,7 +147026,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zoo"
@@ -147822,7 +147113,6 @@
         "units",
         "vctrs",
         "wk",
-        "xfun",
         "xml2",
         "yaml",
         "zip",
@@ -148025,7 +147315,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -148047,8 +147336,7 @@
         "httpuv",
         "later",
         "promises",
-        "rlang",
-        "xfun"
+        "rlang"
     ],
     "sonicLength": [],
     "protr": [],
@@ -148123,7 +147411,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "reactR": [
@@ -148358,7 +147645,6 @@
         "usethis",
         "vctrs",
         "whisker",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -148394,7 +147680,6 @@
         "sourcetools",
         "stringr",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -148422,7 +147707,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "attempt": [
@@ -148551,7 +147835,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xtable",
         "yaml",
         "zip"
@@ -148693,7 +147976,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -148735,7 +148017,6 @@
         "timechange",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "shinyvalidate": [
@@ -148802,7 +148083,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -149181,7 +148461,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -149285,7 +148564,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xtable"
     ],
     "klaR": [
@@ -149351,7 +148629,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xtable"
     ],
     "questionr": [
@@ -149415,7 +148692,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xtable"
     ],
     "labelled": [
@@ -149667,7 +148943,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "sesameData": [
@@ -149749,7 +149024,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -149979,7 +149253,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -150136,7 +149409,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "HardyWeinberg": [
@@ -150509,7 +149781,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable"
     ],
     "ppclust": [
@@ -150793,7 +150064,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -150851,7 +150121,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "RISmed": [
@@ -150965,7 +150234,6 @@
         "vctrs",
         "waldo",
         "whisker",
-        "xfun",
         "xml2",
         "xopen",
         "xtable",
@@ -151104,7 +150372,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -151337,7 +150604,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "xfun",
         "yaml",
         "zoo"
     ],
@@ -151373,7 +150639,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "NxtIRFdata": [
@@ -151471,7 +150736,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -151554,7 +150818,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -151661,7 +150924,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "xtable",
         "yardstick"
     ],
@@ -152170,7 +151432,6 @@
         "stringr",
         "vctrs",
         "webutils",
-        "xfun",
         "yaml",
         "zip"
     ],
@@ -152504,7 +151765,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -152573,7 +151833,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "EnsDb.Mmusculus.v79": [
@@ -152772,7 +152031,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -152877,7 +152135,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -152985,7 +152242,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -153127,7 +152383,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "RefManageR": [
@@ -153256,7 +152511,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -153499,7 +152753,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -153637,7 +152890,6 @@
         "rlang",
         "stringr",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "SPAtest": [],
@@ -153665,7 +152917,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "SBGNview.data": [
@@ -153692,7 +152943,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "scanMiRData": [
@@ -153828,7 +153078,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -154096,7 +153345,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml"
     ],
     "gistr": [
@@ -154137,7 +153385,6 @@
         "urltools",
         "utf8",
         "vctrs",
-        "xfun",
         "yaml"
     ],
     "objectProperties": [
@@ -154307,7 +153554,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -154477,7 +153723,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -154638,7 +153883,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "xfun",
         "xtable",
         "yaml",
         "zoo"
@@ -154743,7 +153987,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xml2",
         "xtable",
         "yaml",
@@ -154831,7 +154074,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -155081,7 +154323,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "xfun",
         "yaml"
     ],
     "lfda": [
@@ -155433,7 +154674,6 @@
         "timechange",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -155879,7 +155119,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "xfun",
         "yaml",
         "zip"
     ],
@@ -155916,7 +155155,6 @@
         "stringr",
         "tinytex",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml"
     ],
@@ -155997,7 +155235,6 @@
         "tinytex",
         "utf8",
         "vctrs",
-        "xfun",
         "xtable",
         "yaml",
         "zlibbioc"
