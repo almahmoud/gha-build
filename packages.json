@@ -1251,7 +1251,6 @@
         "ggpubr",
         "ggraph",
         "motifmatchr",
-        "pipeFrame",
         "rstatix",
         "viridis"
     ],
@@ -1346,7 +1345,6 @@
         "enrichplot",
         "ggraph",
         "motifmatchr",
-        "pipeFrame",
         "viridis"
     ],
     "escape": [
@@ -2999,7 +2997,6 @@
         "scater",
         "viridis"
     ],
-    "pipeFrame": [],
     "plier": [
         "affy"
     ],
