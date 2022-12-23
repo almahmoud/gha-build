@@ -3548,7 +3548,6 @@
         "VIM",
         "broom",
         "car",
-        "ggplot.multistats",
         "ggthemes",
         "lme4",
         "nloptr",
@@ -15515,7 +15514,6 @@
         "syuzhet"
     ],
     "syuzhet": [],
-    "ggplot.multistats": [],
     "VIM": [
         "broom",
         "car",
