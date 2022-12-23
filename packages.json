@@ -71036,7 +71036,6 @@
         "zinbwave",
         "zoo"
     ],
-    "SCBN": [],
     "scBubbletree": [
         "Matrix",
         "ROCR",
@@ -82092,7 +82091,6 @@
         "RcppEigen",
         "RcppNumerical",
         "S4Vectors",
-        "SCBN",
         "SummarizedExperiment",
         "XVector",
         "annotate",
