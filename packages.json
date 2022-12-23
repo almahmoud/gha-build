@@ -35542,8 +35542,7 @@
         "tidyselect"
     ],
     "SCFA": [
-        "glmnet",
-        "torch"
+        "glmnet"
     ],
     "scFeatureFilter": [
         "dplyr",
@@ -49364,7 +49363,6 @@
         "tibble",
         "tidyselect"
     ],
-    "torch": [],
     "sparsepca": [],
     "origami": [
         "future.apply"
