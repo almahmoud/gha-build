@@ -91356,7 +91356,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "RCASPAR": [],
     "rcellminer": [
         "Biobase",
         "KernSmooth",
