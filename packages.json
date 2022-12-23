@@ -748,7 +748,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "diffHic": [],
     "diffUTR": [
         "DEXSeq",
         "ensembldb"
