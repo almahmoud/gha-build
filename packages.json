@@ -2699,7 +2699,6 @@
         "ggplot2",
         "rtracklayer"
     ],
-    "BrowserViz": [],
     "BSgenome": [
         "Biostrings",
         "GenomicAlignments",
@@ -12021,7 +12020,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "BrowserViz",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicRanges",
@@ -20850,9 +20848,7 @@
         "IRdisplay",
         "IRkernel"
     ],
-    "RCyjs": [
-        "BrowserViz"
-    ],
+    "RCyjs": [],
     "rDGIdb": [],
     "RDRToolbox": [
         "bslib",
