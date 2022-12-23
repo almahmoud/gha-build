@@ -3492,9 +3492,7 @@
         "ensembldb",
         "viridis"
     ],
-    "pwrEWAS": [
-        "pwrEWAS.data"
-    ],
+    "pwrEWAS": [],
     "qmtools": [
         "VIM",
         "car",
@@ -5156,7 +5154,6 @@
     "EnsDb.Rnorvegicus.v79": [
         "ensembldb"
     ],
-    "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [
         "GenomicScores",
         "HDF5Array",
