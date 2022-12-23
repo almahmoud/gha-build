@@ -9787,7 +9787,6 @@
         "httr",
         "igraph",
         "lifecycle",
-        "maptpx",
         "memoise",
         "openssl",
         "tm",
@@ -83172,7 +83171,6 @@
     "topicmodels": [
         "tm"
     ],
-    "maptpx": [],
     "tm": [],
     "ggpmisc": [
         "MatrixModels",
