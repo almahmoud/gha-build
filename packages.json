@@ -599,7 +599,6 @@
         "rhdf5",
         "viridis"
     ],
-    "CNVrd2": [],
     "COCOA": [
         "HDF5Array",
         "MIRA",
