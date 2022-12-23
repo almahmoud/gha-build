@@ -838,7 +838,6 @@
         "Hmisc",
         "htmlTable",
         "plotly",
-        "shinycssloaders",
         "viridis"
     ],
     "BindingSiteFinder": [
@@ -1544,8 +1543,7 @@
     ],
     "cbpManager": [
         "DT",
-        "shinyBS",
-        "shinycssloaders"
+        "shinyBS"
     ],
     "ccfindR": [
         "SingleCellExperiment"
@@ -1998,7 +1996,6 @@
         "scuttle",
         "shinyFiles",
         "shinyWidgets",
-        "shinycssloaders",
         "shinydashboardPlus",
         "shinyjs",
         "viridis",
@@ -2794,8 +2791,7 @@
         "ggrepel",
         "highcharter",
         "interactiveDisplayBase",
-        "qs",
-        "shinycssloaders"
+        "qs"
     ],
     "CTSV": [
         "BiocFileCache",
@@ -3401,7 +3397,6 @@
         "kableExtra",
         "plotly",
         "shinyBS",
-        "shinycssloaders",
         "shinyjs",
         "viridis"
     ],
@@ -4880,7 +4875,6 @@
         "ggrepel",
         "plotly",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "tippy",
         "viridis",
@@ -5984,7 +5978,6 @@
         "rstatix",
         "shinyFeedback",
         "shinyFiles",
-        "shinycssloaders",
         "shinyjs",
         "testthat",
         "viridis",
@@ -6268,7 +6261,6 @@
         "pbkrtest",
         "rstatix",
         "rtracklayer",
-        "shinycssloaders",
         "testthat",
         "viridis"
     ],
@@ -7293,7 +7285,6 @@
         "pbkrtest",
         "plotly",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "testthat",
         "viridis"
@@ -8707,7 +8698,6 @@
         "rstatix",
         "shinyWidgets",
         "shinybusy",
-        "shinycssloaders",
         "shinyjs",
         "survminer",
         "testthat"
@@ -9046,8 +9036,7 @@
     "PeacoQC": [],
     "peakPantheR": [
         "DT",
-        "MSnbase",
-        "shinycssloaders"
+        "MSnbase"
     ],
     "PECA": [
         "AnnotationDbi",
@@ -9580,7 +9569,6 @@
         "highcharter",
         "rhandsontable",
         "shinyBS",
-        "shinycssloaders",
         "shinyjqui",
         "shinyjs"
     ],
@@ -10716,8 +10704,7 @@
     ],
     "rprimer": [
         "DT",
-        "shinyFeedback",
-        "shinycssloaders"
+        "shinyFeedback"
     ],
     "rpx": [
         "BiocFileCache"
@@ -10889,7 +10876,6 @@
         "excelR",
         "plotly",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs"
     ],
     "satuRn": [],
@@ -10934,7 +10920,6 @@
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
-        "shinycssloaders",
         "shinyjqui",
         "waiter"
     ],
@@ -11476,7 +11461,6 @@
         "plotly",
         "rtracklayer",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "viridis"
     ],
@@ -11566,7 +11550,6 @@
         "rstatix",
         "rtracklayer",
         "shinyWidgets",
-        "shinycssloaders",
         "survivalAnalysis",
         "survminer",
         "testthat",
@@ -11716,7 +11699,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shinycssloaders",
         "shinyjs",
         "sva",
         "tidytree",
@@ -11911,7 +11893,6 @@
         "ggiraph",
         "ggrepel",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs"
     ],
     "spatialDE": [
@@ -13121,7 +13102,6 @@
         "rtracklayer",
         "shinyBS",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "viridis"
     ],
@@ -13175,8 +13155,7 @@
         "BSgenome",
         "GenomicAlignments",
         "rtracklayer",
-        "shinyFiles",
-        "shinycssloaders"
+        "shinyFiles"
     ],
     "variancePartition": [
         "broom",
@@ -13851,7 +13830,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "shinycssloaders": [],
     "ggforce": [],
     "radiant.data": [
         "DT",
