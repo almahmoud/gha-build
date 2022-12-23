@@ -234,7 +234,6 @@
         "GGally",
         "cowplot",
         "htmlwidgets",
-        "shinydashboard",
         "tidyr"
     ],
     "AllelicImbalance": [
@@ -1270,7 +1269,6 @@
         "htmlwidgets",
         "plotly",
         "shinycssloaders",
-        "shinydashboard",
         "tidyr",
         "viridis"
     ],
@@ -2303,7 +2301,6 @@
         "htmlwidgets",
         "rapportools",
         "shinycssloaders",
-        "shinydashboard",
         "vroom"
     ],
     "ccfindR": [
@@ -2951,7 +2948,6 @@
         "shinyFiles",
         "shinyWidgets",
         "shinycssloaders",
-        "shinydashboard",
         "shinydashboardPlus",
         "shinyhelper",
         "shinyjs",
@@ -3568,7 +3564,6 @@
         "readr",
         "readxl",
         "rio",
-        "shinydashboard",
         "shinyjs",
         "tidyr",
         "vroom"
@@ -3810,7 +3805,6 @@
         "fgsea",
         "htmlwidgets",
         "piano",
-        "shinydashboard",
         "shinyjs",
         "tidyr",
         "visNetwork"
@@ -4320,7 +4314,6 @@
         "htmlwidgets",
         "rhdf5",
         "scuttle",
-        "shinydashboard",
         "svgPanZoom",
         "viridis"
     ],
@@ -4558,7 +4551,6 @@
         "qvalue",
         "scatterpie",
         "shadowtext",
-        "shinydashboard",
         "shinyjs",
         "sva",
         "tidygraph",
@@ -4770,7 +4762,6 @@
         "ggrepel",
         "htmlwidgets",
         "readr",
-        "shinydashboard",
         "tidyr",
         "vroom",
         "vsn"
@@ -5053,7 +5044,6 @@
         "plotly",
         "rvest",
         "shinycssloaders",
-        "shinydashboard",
         "shinyjs",
         "tidyr",
         "viridis"
@@ -5242,7 +5232,6 @@
         "nloptr",
         "pbkrtest",
         "readxl",
-        "shinydashboard",
         "testthat",
         "tidyr",
         "vsn",
@@ -6344,7 +6333,6 @@
         "DT",
         "cowplot",
         "htmlwidgets",
-        "shinydashboard",
         "shinyjs",
         "tidyr"
     ],
@@ -6441,7 +6429,6 @@
         "reactome.db",
         "scatterpie",
         "shadowtext",
-        "shinydashboard",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -8597,8 +8584,7 @@
     "iCOBRA": [
         "DT",
         "UpSetR",
-        "htmlwidgets",
-        "shinydashboard"
+        "htmlwidgets"
     ],
     "ideal": [
         "AnnotationDbi",
@@ -8632,7 +8618,6 @@
         "pcaExplorer",
         "plotly",
         "rtracklayer",
-        "shinydashboard",
         "threejs",
         "tidyr",
         "topGO",
@@ -8730,7 +8715,6 @@
         "readr",
         "rhdf5",
         "scuttle",
-        "shinydashboard",
         "svgPanZoom",
         "tidygraph",
         "tidyr",
@@ -8918,7 +8902,6 @@
         "shinyFiles",
         "shinyalert",
         "shinycssloaders",
-        "shinydashboard",
         "shinyjs",
         "testthat",
         "tidyr",
@@ -9085,7 +9068,6 @@
         "ggrepel",
         "htmlwidgets",
         "shinyWidgets",
-        "shinydashboard",
         "shinyjs"
     ],
     "iSEEhex": [
@@ -9097,7 +9079,6 @@
         "htmlwidgets",
         "iSEE",
         "shinyWidgets",
-        "shinydashboard",
         "shinyjs"
     ],
     "iSEEhub": [
@@ -9116,7 +9097,6 @@
         "iSEE",
         "interactiveDisplayBase",
         "shinyWidgets",
-        "shinydashboard",
         "shinyjs"
     ],
     "iSEEu": [
@@ -9129,7 +9109,6 @@
         "iSEE",
         "iSEEhex",
         "shinyWidgets",
-        "shinydashboard",
         "shinyjs"
     ],
     "ISLET": [
@@ -9372,7 +9351,6 @@
         "learnr",
         "readr",
         "shinyFiles",
-        "shinydashboard",
         "shinyjs",
         "shinythemes",
         "shinyvalidate",
@@ -9391,7 +9369,6 @@
     "levi": [
         "DT",
         "htmlwidgets",
-        "shinydashboard",
         "shinyjs",
         "testthat",
         "waldo"
@@ -9900,7 +9877,6 @@
         "htmlwidgets",
         "plotly",
         "proDA",
-        "shinydashboard",
         "shinyhelper",
         "shinyjs",
         "tidyr",
@@ -10891,7 +10867,6 @@
         "rhdf5",
         "shinyWidgets",
         "shinycssloaders",
-        "shinydashboard",
         "shinyjs",
         "testthat",
         "tidyr",
@@ -12108,7 +12083,6 @@
         "ropls",
         "scatterpie",
         "shadowtext",
-        "shinydashboard",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -12215,7 +12189,6 @@
         "rvest",
         "shinyalert",
         "shinybusy",
-        "shinydashboard",
         "shinyjqui",
         "shinyjs",
         "sortable",
@@ -12859,7 +12832,6 @@
         "interactiveDisplayBase",
         "rtracklayer",
         "shinyFiles",
-        "shinydashboard",
         "tidyr",
         "viridis"
     ],
@@ -13452,7 +13424,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "shinydashboard",
         "threejs",
         "tidyr",
         "topGO",
@@ -13495,7 +13466,6 @@
         "piano",
         "recipes",
         "rstatix",
-        "shinydashboard",
         "shinyjs",
         "survMisc",
         "survcomp",
@@ -13614,7 +13584,6 @@
         "fgsea",
         "htmlwidgets",
         "piano",
-        "shinydashboard",
         "shinyjs",
         "tidyr",
         "visNetwork"
@@ -13747,7 +13716,6 @@
         "cowplot",
         "fgsea",
         "htmlwidgets",
-        "shinydashboard",
         "shinyjs",
         "visNetwork"
     ],
@@ -14268,7 +14236,6 @@
         "plotly",
         "recipes",
         "shinyWidgets",
-        "shinydashboard",
         "shinydashboardPlus",
         "shinyhelper",
         "shinyjs",
@@ -14380,7 +14347,6 @@
         "readr",
         "rstatix",
         "rvest",
-        "shinydashboard",
         "testthat",
         "tidyr",
         "viridis",
@@ -14771,7 +14737,6 @@
         "fgsea",
         "htmlwidgets",
         "piano",
-        "shinydashboard",
         "shinyjs",
         "tidyr",
         "visNetwork"
@@ -16260,7 +16225,6 @@
         "sangerseqR",
         "shinyWidgets",
         "shinycssloaders",
-        "shinydashboard",
         "shinyjs",
         "tidyr"
     ],
@@ -16344,7 +16308,6 @@
         "scanMiR",
         "scanMiRData",
         "shinycssloaders",
-        "shinydashboard",
         "shinyjqui",
         "tidyr",
         "waiter"
@@ -17325,7 +17288,6 @@
         "rtracklayer",
         "shinyWidgets",
         "shinycssloaders",
-        "shinydashboard",
         "survMisc",
         "survivalAnalysis",
         "survminer",
@@ -17442,7 +17404,6 @@
         "htmlwidgets",
         "rhdf5",
         "scuttle",
-        "shinydashboard",
         "svgPanZoom",
         "viridis"
     ],
@@ -17926,7 +17887,6 @@
         "scater",
         "scran",
         "scuttle",
-        "shinydashboard",
         "tidyr",
         "viridis",
         "visNetwork"
@@ -18067,7 +18027,6 @@
         "rtracklayer",
         "shinyFiles",
         "shinyWidgets",
-        "shinydashboard",
         "tidyr",
         "viridis"
     ],
@@ -18654,7 +18613,6 @@
         "plotly",
         "shinyFiles",
         "shinyWidgets",
-        "shinydashboard",
         "shinydashboardPlus",
         "shinyjqui",
         "shinyjs",
@@ -18871,7 +18829,6 @@
         "sesameData",
         "shadowtext",
         "shinyFiles",
-        "shinydashboard",
         "shinyjs",
         "testthat",
         "tidygraph",
@@ -19242,7 +19199,6 @@
         "fgsea",
         "htmlwidgets",
         "piano",
-        "shinydashboard",
         "shinyjs",
         "tidyr",
         "visNetwork"
@@ -19632,7 +19588,6 @@
         "plyranges",
         "rtracklayer",
         "shinyFiles",
-        "shinydashboard",
         "shinyjs"
     ],
     "UMI4Cats": [
@@ -20141,8 +20096,7 @@
         "SummarizedExperiment",
         "golem",
         "htmlwidgets",
-        "shinyWidgets",
-        "shinydashboard"
+        "shinyWidgets"
     ],
     "wppi": [
         "OmnipathR",
@@ -20181,7 +20135,6 @@
         "fgsea",
         "htmlwidgets",
         "piano",
-        "shinydashboard",
         "shinyjs",
         "tidyr",
         "visNetwork"
@@ -20418,7 +20371,6 @@
     "ggrastr": [
         "ggbeeswarm"
     ],
-    "shinydashboard": [],
     "readxl": [],
     "speaq": [
         "rvest"
@@ -21254,7 +21206,6 @@
     "shinyhelper": [],
     "shinyWidgets": [],
     "shinydashboardPlus": [
-        "shinydashboard",
         "waiter"
     ],
     "kableExtra": [
