@@ -1171,7 +1171,6 @@
         "stringr",
         "tibble"
     ],
-    "antiProfiles": [],
     "AnVIL": [
         "DT",
         "bslib",
