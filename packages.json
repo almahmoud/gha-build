@@ -2499,9 +2499,7 @@
         "viridis"
     ],
     "oligo": [],
-    "omada": [
-        "diceR"
-    ],
+    "omada": [],
     "omicRexposome": [
         "FactoMineR",
         "Hmisc",
@@ -4110,7 +4108,6 @@
         "viridis"
     ],
     "fst": [],
-    "diceR": [],
     "verification": [
         "fields",
         "viridis"
