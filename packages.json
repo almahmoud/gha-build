@@ -3170,7 +3170,6 @@
         "crosstalk",
         "dearseq",
         "decontam",
-        "detectseparation",
         "doRNG",
         "dplyr",
         "dqrng",
@@ -54741,7 +54740,6 @@
         "XVector",
         "ade4",
         "biomformat",
-        "detectseparation",
         "dplyr",
         "ggplot2",
         "multtest",
@@ -54768,7 +54766,6 @@
     "optimr": [
         "Rvmmin"
     ],
-    "detectseparation": [],
     "survey": [],
     "softImpute": [],
     "Rvmmin": [],
