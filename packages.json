@@ -4840,7 +4840,6 @@
     "pepStat": [
         "fields"
     ],
-    "PERFect": [],
     "periodicDNA": [
         "BSgenome",
         "rtracklayer"
