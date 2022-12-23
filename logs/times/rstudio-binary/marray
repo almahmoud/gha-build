@@ -1,0 +1,148 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   24254592..12290bac  main       -> origin/main
+Updating 24254592..12290bac
+Fast-forward
+ lists/gnm                                     |   2 +-
+ lists/maptree                                 |   2 +-
+ logs/run_ids/rstudio-binaries/MethPed         |   2 +
+ logs/run_ids/rstudio-binaries/irlba           |   2 +
+ logs/sizes/rstudio-binaries/binaries/maptree  |   1 +
+ logs/sizes/rstudio-binaries/libraries/maptree |   1 +
+ logs/times/rstudio-binary/maptree             | 206 ++++++++++++++++++++++++++
+ packages.json                                 |   8 +-
+ 8 files changed, 215 insertions(+), 9 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/maptree
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/maptree
+ create mode 100644 logs/times/rstudio-binary/maptree
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=marray
++ PKG=marray
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "marray"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 2787k    0 16320    0     0  39034      0  0:01:13 --:--:--  0:01:13 38949 26 2787k   26  749k    0     0   520k      0  0:00:05  0:00:01  0:00:04  519k 80 2787k   80 2247k    0     0   924k      0  0:00:03  0:00:02  0:00:01  924k100 2787k  100 2787k    0     0  1042k      0  0:00:02  0:00:02 --:--:-- 1041k
+built/
+built/limma/
+built/limma/libs/
+built/limma/libs/limma.so
+built/limma/NAMESPACE
+built/limma/DESCRIPTION
+built/limma/help/
+built/limma/help/paths.rds
+built/limma/help/limma.rdx
+built/limma/help/limma.rdb
+built/limma/help/aliases.rds
+built/limma/help/AnIndex
+built/limma/Meta/
+built/limma/Meta/package.rds
+built/limma/Meta/vignette.rds
+built/limma/Meta/features.rds
+built/limma/Meta/hsearch.rds
+built/limma/Meta/links.rds
+built/limma/Meta/nsInfo.rds
+built/limma/Meta/Rd.rds
+built/limma/NEWS.Rd
+built/limma/CITATION
+built/limma/html/
+built/limma/html/00Index.html
+built/limma/html/R.css
+built/limma/INDEX
+built/limma/doc/
+built/limma/doc/intro.pdf
+built/limma/doc/changelog.txt
+built/limma/doc/index.html
+built/limma/doc/usersguide.pdf
+built/limma/doc/intro.Rnw
+built/limma/R/
+built/limma/R/limma.rdx
+built/limma/R/limma.rdb
+built/limma/R/limma
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''marray'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz marray_1.76.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/marray
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'marray'
+also installing the dependency ‘limma’
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/limma_3.54.0.tar.gz'
+Content type 'application/x-gzip' length 1516770 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/marray_1.76.0.tar.gz'
+Content type 'application/x-gzip' length 5045364 bytes (4.8 MB)
+==================================================
+downloaded 4.8 MB
+
+* installing *source* package ‘limma’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c normexp.c -o normexp.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c weighted_lowess.c -o weighted_lowess.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o limma.so init.o normexp.o weighted_lowess.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-limma/00new/limma/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘limma’ as ‘limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (limma)
+* installing *source* package ‘marray’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘marray’ as ‘marray_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (marray)
+
+The downloaded source packages are in
+	‘/tmp/RtmpADfrvW/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m25.453s
+user	0m21.030s
+sys	0m1.308s
