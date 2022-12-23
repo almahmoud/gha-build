@@ -17978,7 +17978,6 @@
         "dbplyr",
         "dplyr",
         "flextable",
-        "gdtools",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -19300,7 +19299,6 @@
         "dplyr",
         "epiR",
         "flextable",
-        "gdtools",
         "ggplot2",
         "ggplotify",
         "knitr",
@@ -53938,13 +53936,11 @@
     ],
     "flextable": [
         "bslib",
-        "gdtools",
         "knitr",
         "rmarkdown",
         "stringr",
         "vctrs"
     ],
-    "gdtools": [],
     "robust": [],
     "shinyHeatmaply": [
         "bslib",
@@ -54050,7 +54046,6 @@
         "bslib",
         "classInt",
         "flextable",
-        "gdtools",
         "knitr",
         "lubridate",
         "rmarkdown",
