@@ -1566,7 +1566,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "crlmm": [],
     "crossmeta": [
         "affy",
         "genefilter",
@@ -3635,7 +3634,6 @@
         "RnBeads",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter",
-        "crlmm",
         "fields",
         "genefilter",
         "methylumi",
@@ -4186,7 +4184,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg18",
         "VanillaICE",
-        "crlmm",
         "rtracklayer"
     ],
     "miQC": [],
@@ -7350,7 +7347,6 @@
     "VanillaICE": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg18",
-        "crlmm",
         "rtracklayer"
     ],
     "VarCon": [
