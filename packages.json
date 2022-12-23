@@ -1039,9 +1039,7 @@
     "CopywriteR": [
         "chipseq"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "coseq": [
         "DESeq2",
         "HTSFilter"
@@ -3689,7 +3687,6 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "piano",
         "rstatix",
         "survminer",
         "verification"
@@ -3717,8 +3714,7 @@
         "DESeq2"
     ],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phenomis": [
         "biodbChebi",
@@ -3753,7 +3749,6 @@
         "topGO"
     ],
     "Pi": [],
-    "piano": [],
     "Pigengene": [
         "DOSE",
         "ReactomePA",
@@ -4024,8 +4019,7 @@
         "VariantAnnotation"
     ],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "ramwas": [],
     "RandomWalkRestartMH": [],
@@ -5187,8 +5181,7 @@
     "tomoseqr": [],
     "topGO": [],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "TPP": [],
     "trackViewer": [
@@ -5451,8 +5444,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "XNAString": [
         "BSgenome"
