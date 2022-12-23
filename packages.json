@@ -23100,7 +23100,6 @@
         "knitr",
         "latticeExtra",
         "lava",
-        "linkcomm",
         "lme4",
         "metR",
         "miRspongeR",
@@ -23213,7 +23212,6 @@
         "ipred",
         "knitr",
         "lava",
-        "linkcomm",
         "lme4",
         "modelr",
         "nloptr",
@@ -32129,7 +32127,6 @@
         "ggplot2",
         "httr",
         "knitr",
-        "linkcomm",
         "progress",
         "purrr",
         "reshape2",
@@ -46500,7 +46497,6 @@
         "XVector",
         "httr"
     ],
-    "linkcomm": [],
     "s4vd": [
         "biclust",
         "dplyr",
