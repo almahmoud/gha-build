@@ -4950,7 +4950,6 @@
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
-        "MCMCprecision",
         "RcppML",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -25022,7 +25021,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "MCMCprecision",
         "NMF",
         "RSQLite",
         "Rsamtools",
@@ -36205,7 +36203,6 @@
         "KEGGREST",
         "M3Drop",
         "MAST",
-        "MCMCprecision",
         "ROCR",
         "RSQLite",
         "RcppML",
@@ -44250,7 +44247,6 @@
         "httr",
         "tibble"
     ],
-    "MCMCprecision": [],
     "multipanelfigure": [
         "ggplot2",
         "tibble"
