@@ -55,9 +55,7 @@
         "propr"
     ],
     "compEpiTools": [],
-    "conclus": [
-        "factoextra"
-    ],
+    "conclus": [],
     "conumee": [],
     "crisprseekplus": [],
     "cTRAP": [
@@ -66,12 +64,9 @@
     "CyTOFpower": [
         "CytoGLMM",
         "FlowSOM",
-        "diffcyt",
-        "factoextra"
+        "diffcyt"
     ],
-    "CytoGLMM": [
-        "factoextra"
-    ],
+    "CytoGLMM": [],
     "DeepPINCS": [
         "mlapi",
         "text2vec",
@@ -116,9 +111,7 @@
         "text2vec",
         "ttgsea"
     ],
-    "GEOexplorer": [
-        "factoextra"
-    ],
+    "GEOexplorer": [],
     "glmSparseNet": [
         "survminer"
     ],
@@ -136,9 +129,7 @@
     "HiContacts": [],
     "iCheck": [],
     "InTAD": [],
-    "InterCellar": [
-        "factoextra"
-    ],
+    "InterCellar": [],
     "iPath": [
         "survminer"
     ],
@@ -147,9 +138,7 @@
     "ivygapSE": [
         "survminer"
     ],
-    "kissDE": [
-        "factoextra"
-    ],
+    "kissDE": [],
     "LinkHD": [],
     "MAGAR": [],
     "MEAL": [
@@ -179,26 +168,20 @@
     "missMethyl": [],
     "MPFE": [],
     "MQmetrics": [],
-    "MSstatsLiP": [
-        "factoextra"
-    ],
+    "MSstatsLiP": [],
     "multiHiCcompare": [
         "CGHcall",
         "HiCcompare",
         "QDNAseq"
     ],
-    "musicatk": [
-        "factoextra"
-    ],
+    "musicatk": [],
     "NADfinder": [],
     "NBSplice": [
         "mppa"
     ],
     "netZooR": [],
     "ODER": [],
-    "OMICsPCA": [
-        "factoextra"
-    ],
+    "OMICsPCA": [],
     "omicsViewer": [
         "survminer"
     ],
@@ -212,9 +195,7 @@
     "PhosR": [],
     "plotGrouper": [],
     "primirTSS": [],
-    "protGear": [
-        "factoextra"
-    ],
+    "protGear": [],
     "psichomics": [],
     "ptairMS": [],
     "QDNAseq": [
@@ -224,9 +205,7 @@
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
-    "RNASeqR": [
-        "factoextra"
-    ],
+    "RNASeqR": [],
     "RnaSeqSampleSize": [],
     "RTCGA": [
         "survminer"
@@ -306,7 +285,6 @@
     "spp": [],
     "qs": [],
     "propr": [],
-    "factoextra": [],
     "text2vec": [
         "mlapi"
     ],
