@@ -17819,7 +17819,6 @@
         "ggplot2",
         "tibble"
     ],
-    "methylMnM": [],
     "methylPipe": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -29157,9 +29156,7 @@
         "tibble",
         "tidyr"
     ],
-    "SIMD": [
-        "methylMnM"
-    ],
+    "SIMD": [],
     "SimFFPE": [
         "Biostrings",
         "GenomicRanges",
