@@ -3841,7 +3841,6 @@
         "EBImage",
         "Hmisc",
         "contrast",
-        "flowClust",
         "flowMerge",
         "htmlTable",
         "htmlwidgets",
@@ -4429,7 +4428,6 @@
         "cowplot",
         "cytometree",
         "fields",
-        "flowClust",
         "flowDensity",
         "flowWorkspace",
         "lme4",
@@ -4534,7 +4532,6 @@
         "viridis"
     ],
     "CytoML": [
-        "flowClust",
         "flowWorkspace",
         "ggcyto",
         "ncdfFlow",
@@ -6994,7 +6991,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowClust": [],
     "flowCut": [
         "GEOmap",
         "RFOC",
@@ -7040,9 +7036,7 @@
     ],
     "flowMap": [],
     "flowMatch": [],
-    "flowMerge": [
-        "flowClust"
-    ],
+    "flowMerge": [],
     "flowPloidy": [
         "broom",
         "car",
@@ -7084,9 +7078,7 @@
         "rainbow"
     ],
     "flowTime": [],
-    "flowTrans": [
-        "flowClust"
-    ],
+    "flowTrans": [],
     "flowVS": [
         "fda",
         "fds",
@@ -13670,7 +13662,6 @@
         "rmarkdown"
     ],
     "openCyto": [
-        "flowClust",
         "flowWorkspace",
         "ncdfFlow"
     ],
