@@ -105765,7 +105765,6 @@
         "bitops",
         "crayon",
         "limma",
-        "logspline",
         "zlibbioc"
     ],
     "POMA": [
@@ -177497,7 +177496,6 @@
     "strawr": [
         "Rcpp"
     ],
-    "logspline": [],
     "evmix": [
         "MASS",
         "SparseM",
