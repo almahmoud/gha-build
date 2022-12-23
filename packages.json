@@ -7387,7 +7387,6 @@
         "phyloseq",
         "rhdf5"
     ],
-    "rprimer": [],
     "Rqc": [
         "BSgenome",
         "GenomicFeatures",
