@@ -308,8 +308,7 @@
     ],
     "AnVILBilling": [
         "DT",
-        "plotly",
-        "shinytoastr"
+        "plotly"
     ],
     "AnVILPublish": [
         "AnVIL",
@@ -12243,7 +12242,6 @@
         "shinyWidgets",
         "shinydashboardPlus",
         "shinyjqui",
-        "shinytoastr",
         "spsComps"
     ],
     "systemPipeTools": [
@@ -13424,7 +13422,6 @@
         "ggrepel"
     ],
     "recipes": [],
-    "shinytoastr": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi"
     ],
@@ -14679,9 +14676,7 @@
         "fields",
         "viridis"
     ],
-    "spsComps": [
-        "shinytoastr"
-    ],
+    "spsComps": [],
     "drawer": [],
     "GenKern": [],
     "FreqProf": [],
