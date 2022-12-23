@@ -17898,7 +17898,6 @@
         "GEOmap",
         "GGally",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -19061,7 +19060,6 @@
         "DelayedArray",
         "GEOmap",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -27720,7 +27718,6 @@
         "DelayedArray",
         "GEOmap",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -27794,7 +27791,6 @@
         "DelayedArray",
         "GEOmap",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -75768,7 +75764,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "IRanges",
-        "MBA",
         "Matrix",
         "MatrixGenerics",
         "RCurl",
@@ -92572,7 +92567,6 @@
     ],
     "RFOC": [
         "GEOmap",
-        "MBA",
         "Matrix",
         "RSEIS",
         "fields",
@@ -92593,7 +92587,6 @@
     ],
     "geometry": [],
     "GEOmap": [
-        "MBA",
         "Matrix",
         "fields",
         "ggplot2",
@@ -92630,7 +92623,6 @@
         "vctrs",
         "viridis"
     ],
-    "MBA": [],
     "spam": [],
     "rpart.plot": [],
     "shinyFeedback": [
@@ -98602,7 +98594,6 @@
         "vctrs"
     ],
     "bamlss": [
-        "MBA",
         "Matrix",
         "mgcv",
         "nlme",
