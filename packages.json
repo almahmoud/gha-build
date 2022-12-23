@@ -1666,7 +1666,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "GWAS.BAYES": [],
     "gwascat": [
         "GenomicFeatures",
         "VariantAnnotation"
