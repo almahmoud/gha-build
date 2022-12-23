@@ -1542,7 +1542,6 @@
         "BiocFileCache",
         "BiocSingular",
         "DelayedMatrixStats",
-        "DirichletReg",
         "GenomicRanges",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -29265,7 +29264,6 @@
     "egg": [
         "ggplot2"
     ],
-    "DirichletReg": [],
     "corncob": [
         "Biostrings",
         "dplyr",
