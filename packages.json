@@ -4029,7 +4029,6 @@
         "HiCcompare",
         "QDNAseq"
     ],
-    "multiMiR": [],
     "multiSight": [
         "DESeq2",
         "DOSE",
