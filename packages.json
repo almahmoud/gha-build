@@ -108,9 +108,7 @@
         "curatedTCGAData",
         "interactiveDisplayBase"
     ],
-    "amplican": [
-        "ShortRead"
-    ],
+    "amplican": [],
     "Anaquin": [
         "DESeq2",
         "geneplotter"
@@ -204,8 +202,7 @@
         "oligo"
     ],
     "ArrayExpressHTS": [
-        "Hmisc",
-        "ShortRead"
+        "Hmisc"
     ],
     "arrayMvout": [
         "FDb.InfiniumMethylation.hg19",
@@ -354,9 +351,7 @@
         "pRoloc",
         "pRolocdata"
     ],
-    "basecallQC": [
-        "ShortRead"
-    ],
+    "basecallQC": [],
     "Basic4Cseq": [
         "BSgenome",
         "BSgenome.Ecoli.NCBI.20080805",
@@ -396,7 +391,6 @@
     ],
     "BEAT": [
         "BSgenome",
-        "ShortRead",
         "rtracklayer"
     ],
     "beer": [],
@@ -825,9 +819,7 @@
         "scran",
         "scuttle"
     ],
-    "CellBarcode": [
-        "ShortRead"
-    ],
+    "CellBarcode": [],
     "CellBench": [],
     "cellHTS2": [
         "Category",
@@ -1019,7 +1011,6 @@
         "DiffBind",
         "GenomicFeatures",
         "GreyListChIP",
-        "ShortRead",
         "TxDb.Celegans.UCSC.ce6.ensGene",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
@@ -1043,15 +1034,9 @@
         "scatterpie",
         "treeio"
     ],
-    "chipseq": [
-        "ShortRead"
-    ],
-    "ChIPseqR": [
-        "ShortRead"
-    ],
-    "ChIPsim": [
-        "ShortRead"
-    ],
+    "chipseq": [],
+    "ChIPseqR": [],
+    "ChIPsim": [],
     "ChIPXpress": [
         "frma",
         "oligo"
@@ -1106,7 +1091,6 @@
         "GenomicFeatures",
         "Rhisat2",
         "SGSeq",
-        "ShortRead",
         "rtracklayer"
     ],
     "CiteFuse": [
@@ -1315,7 +1299,6 @@
         "EnsDb.Hsapiens.v86",
         "GenomicFeatures",
         "RUVSeq",
-        "ShortRead",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "dendextend",
         "ensembldb",
@@ -1364,7 +1347,6 @@
         "rtracklayer"
     ],
     "CopywriteR": [
-        "ShortRead",
         "chipseq"
     ],
     "CoreGx": [
@@ -1565,9 +1547,7 @@
         "scuttle"
     ],
     "CytoML": [],
-    "dada2": [
-        "ShortRead"
-    ],
+    "dada2": [],
     "dagLogo": [
         "BSgenome",
         "CNEr",
@@ -1588,7 +1568,6 @@
         "FactoMineR",
         "GenomicFeatures",
         "Hmisc",
-        "ShortRead",
         "arm",
         "car",
         "caret",
@@ -1780,7 +1759,6 @@
         "BSgenome",
         "DESeq2",
         "GreyListChIP",
-        "ShortRead",
         "geneplotter",
         "rtracklayer",
         "systemPipeR"
@@ -1965,9 +1943,7 @@
         "scatterpie",
         "treeio"
     ],
-    "easyRNASeq": [
-        "ShortRead"
-    ],
+    "easyRNASeq": [],
     "EBSEA": [
         "DESeq2",
         "geneplotter"
@@ -1978,7 +1954,6 @@
     ],
     "EDASeq": [
         "GenomicFeatures",
-        "ShortRead",
         "rtracklayer"
     ],
     "edge": [
@@ -2243,7 +2218,6 @@
         "DOSE",
         "GOSemSim",
         "GenomicFeatures",
-        "ShortRead",
         "TFBSTools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "clusterProfiler",
@@ -2351,9 +2325,7 @@
         "LiquidAssociation",
         "WGCNA"
     ],
-    "FastqCleaner": [
-        "ShortRead"
-    ],
+    "FastqCleaner": [],
     "fCCAC": [
         "BSgenome",
         "fda",
@@ -2533,7 +2505,6 @@
         "GenomicFeatures",
         "Hmisc",
         "MLSeq",
-        "ShortRead",
         "arm",
         "car",
         "caret",
@@ -2784,9 +2755,7 @@
         "ggtree",
         "treeio"
     ],
-    "girafe": [
-        "ShortRead"
-    ],
+    "girafe": [],
     "GISPA": [
         "GSEABase",
         "HH",
@@ -2869,7 +2838,6 @@
     ],
     "GOTHiC": [
         "BSgenome",
-        "ShortRead",
         "rtracklayer"
     ],
     "goTools": [],
@@ -3062,7 +3030,6 @@
     "HTSeqGenie": [
         "BSgenome",
         "GenomicFeatures",
-        "ShortRead",
         "VariantAnnotation",
         "VariantTools",
         "chipseq",
@@ -3083,7 +3050,6 @@
         "BSgenome",
         "DESeq2",
         "GenomicFeatures",
-        "ShortRead",
         "TxDb.Dmelanogaster.UCSC.dm6.ensGene",
         "VariantAnnotation",
         "geneplotter",
@@ -3228,9 +3194,7 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "IONiseR": [
-        "ShortRead"
-    ],
+    "IONiseR": [],
     "iPath": [
         "car",
         "ggpubr",
@@ -3726,7 +3690,6 @@
         "DSS",
         "EDASeq",
         "GenomicFeatures",
-        "ShortRead",
         "bsseq",
         "dendextend",
         "genefilter",
@@ -4200,7 +4163,6 @@
         "GenomicFeatures",
         "Hmisc",
         "OrganismDbi",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase",
         "easyRNASeq",
@@ -4548,9 +4510,7 @@
     "npGSEA": [
         "GSEABase"
     ],
-    "nucleR": [
-        "ShortRead"
-    ],
+    "nucleR": [],
     "nullranges": [
         "plyranges",
         "rtracklayer"
@@ -4573,7 +4533,6 @@
         "GSVA",
         "GenomicFeatures",
         "RUVSeq",
-        "ShortRead",
         "geneplotter",
         "interactiveDisplayBase",
         "octad.db",
@@ -4733,9 +4692,7 @@
     "Oscope": [
         "EBSeq"
     ],
-    "OTUbase": [
-        "ShortRead"
-    ],
+    "OTUbase": [],
     "OUTRIDER": [
         "DESeq2",
         "GenomicFeatures",
@@ -5045,7 +5002,6 @@
         "DOSE",
         "GOSemSim",
         "GenomicFeatures",
-        "ShortRead",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
@@ -5230,7 +5186,6 @@
         "BSgenome",
         "GenomicFeatures",
         "GenomicFiles",
-        "ShortRead",
         "VariantAnnotation",
         "rtracklayer"
     ],
@@ -5251,7 +5206,6 @@
     "R453Plus1Toolbox": [
         "BSgenome",
         "GenomicFeatures",
-        "ShortRead",
         "VariantAnnotation",
         "rtracklayer"
     ],
@@ -5279,7 +5233,6 @@
         "rtracklayer"
     ],
     "Rbec": [
-        "ShortRead",
         "dada2"
     ],
     "RCAS": [
@@ -5525,7 +5478,6 @@
         "EDASeq",
         "GenomicFeatures",
         "RUVSeq",
-        "ShortRead",
         "TFBSTools",
         "motifStack",
         "rtracklayer"
@@ -5666,7 +5618,6 @@
         "DOSE",
         "FactoMineR",
         "GOSemSim",
-        "ShortRead",
         "ballgown",
         "car",
         "clusterProfiler",
@@ -5727,7 +5678,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -5744,9 +5694,7 @@
     "rrvgo": [
         "GOSemSim"
     ],
-    "RSVSim": [
-        "ShortRead"
-    ],
+    "RSVSim": [],
     "RTCGA": [
         "car",
         "ggpubr",
@@ -5801,7 +5749,6 @@
     "RUVSeq": [
         "EDASeq",
         "GenomicFeatures",
-        "ShortRead",
         "rtracklayer"
     ],
     "RVS": [
@@ -5928,7 +5875,6 @@
         "EDASeq",
         "GenomicFeatures",
         "RUVSeq",
-        "ShortRead",
         "mixtools",
         "rtracklayer"
     ],
@@ -5964,7 +5910,6 @@
         "GenomicFeatures",
         "Hmisc",
         "OrganismDbi",
-        "ShortRead",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -6031,9 +5976,7 @@
         "scatterpie",
         "treeio"
     ],
-    "segmentSeq": [
-        "ShortRead"
-    ],
+    "segmentSeq": [],
     "selectKSigs": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -6104,7 +6047,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "ShortRead": [],
     "SIAMCAT": [
         "lme4",
         "lmerTest",
@@ -6234,7 +6176,6 @@
         "GenomicFeatures",
         "GenomicFiles",
         "QuasR",
-        "ShortRead",
         "VariantAnnotation",
         "rtracklayer"
     ],
@@ -6299,7 +6240,6 @@
         "rtracklayer"
     ],
     "soGGi": [
-        "ShortRead",
         "chipseq",
         "rtracklayer"
     ],
@@ -6499,7 +6439,6 @@
         "EDASeq",
         "GenomicFeatures",
         "RUVSeq",
-        "ShortRead",
         "SpatialExperiment",
         "rtracklayer",
         "scuttle"
@@ -6597,9 +6536,7 @@
     "syntenet": [
         "rtracklayer"
     ],
-    "systemPipeR": [
-        "ShortRead"
-    ],
+    "systemPipeR": [],
     "systemPipeShiny": [],
     "systemPipeTools": [
         "DESeq2",
@@ -6814,7 +6751,6 @@
     ],
     "transcriptR": [
         "GenomicFeatures",
-        "ShortRead",
         "caret",
         "chipseq",
         "rtracklayer"
@@ -6933,7 +6869,6 @@
         "BSgenome",
         "DESeq2",
         "GenomicFeatures",
-        "ShortRead",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "fda",
         "geneplotter",
@@ -7088,7 +7023,6 @@
         "DiffBind",
         "GenomicFeatures",
         "GreyListChIP",
-        "ShortRead",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ensembldb",
         "geneplotter",
