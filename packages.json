@@ -2169,7 +2169,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "DNAfusion": [],
     "DNAshapeR": [
         "fields",
         "viridis"
