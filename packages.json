@@ -27454,7 +27454,6 @@
         "tibble",
         "tidyselect"
     ],
-    "Path2PPI": [],
     "PathoStat": [
         "AnnotationDbi",
         "BiocStyle",
