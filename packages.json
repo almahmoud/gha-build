@@ -4954,9 +4954,7 @@
         "lme4",
         "lmerTest"
     ],
-    "SpidermiR": [
-        "miRNAtap.db"
-    ],
+    "SpidermiR": [],
     "spiky": [
         "BSgenome"
     ],
@@ -5041,8 +5039,7 @@
         "genefilter"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "miRNAtap.db"
+        "SpidermiR"
     ],
     "Statial": [
         "tidyverse"
@@ -6037,7 +6034,6 @@
         "ExperimentHub"
     ],
     "sampSurf": [],
-    "miRNAtap.db": [],
     "MESS": [
         "ggformula"
     ],
