@@ -17,7 +17,6 @@
     "abseqR": [
         "BiocStyle",
         "flexdashboard",
-        "ggdendro",
         "htmlwidgets",
         "plotly"
     ],
@@ -250,7 +249,6 @@
     "AneuFinder": [
         "GenomicAlignments",
         "ReorderCluster",
-        "ggdendro",
         "ggrepel"
     ],
     "animalcules": [
@@ -455,7 +453,6 @@
         "AnnotationDbi",
         "MSstats",
         "UpSetR",
-        "ggdendro",
         "ggrepel",
         "htmlwidgets",
         "lme4",
@@ -720,7 +717,6 @@
         "rstan"
     ],
     "barcodetrackR": [
-        "ggdendro",
         "viridis"
     ],
     "basecallQC": [
@@ -837,7 +833,6 @@
         "dearseq",
         "genefilter",
         "geneplotter",
-        "ggdendro",
         "ggrastr",
         "ggrepel",
         "htmlTable",
@@ -1175,7 +1170,6 @@
         "scuttle"
     ],
     "biotmle": [
-        "ggdendro",
         "ggsci",
         "superheat"
     ],
@@ -1281,7 +1275,6 @@
         "annotate",
         "epiNEM",
         "genefilter",
-        "ggdendro",
         "mnem",
         "sva"
     ],
@@ -1781,7 +1774,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggdendro",
         "ggforce",
         "ggfun",
         "ggpmisc",
@@ -3228,7 +3220,6 @@
         "broom",
         "dtplyr",
         "epiNEM",
-        "ggdendro",
         "ggforce",
         "ggraph",
         "ggrepel",
@@ -3410,7 +3401,6 @@
         "annotate",
         "broom",
         "geneplotter",
-        "ggdendro",
         "ggrepel"
     ],
     "DEGseq": [],
@@ -4334,7 +4324,6 @@
     ],
     "epiNEM": [
         "Linnorm",
-        "ggdendro",
         "mnem"
     ],
     "epistack": [],
@@ -4482,7 +4471,6 @@
     "eudysbiome": [],
     "evaluomeR": [
         "MultiAssayExperiment",
-        "ggdendro",
         "kableExtra"
     ],
     "EventPointer": [
@@ -6641,7 +6629,6 @@
         "annotate",
         "broom",
         "geneplotter",
-        "ggdendro",
         "ggrepel"
     ],
     "ITALICS": [
@@ -6820,9 +6807,7 @@
         "rstatix",
         "testthat"
     ],
-    "Linnorm": [
-        "ggdendro"
-    ],
+    "Linnorm": [],
     "LinTInd": [
         "aplot",
         "ggfun",
@@ -7957,7 +7942,6 @@
         "GSEABase",
         "annotate",
         "genefilter",
-        "ggdendro",
         "org.Hs.eg.db"
     ],
     "miloR": [
@@ -8298,8 +8282,7 @@
         "testthat"
     ],
     "mnem": [
-        "Linnorm",
-        "ggdendro"
+        "Linnorm"
     ],
     "moanin": [
         "AnnotationDbi",
@@ -8847,7 +8830,6 @@
         "VariantAnnotation",
         "biomaRt",
         "ggalluvial",
-        "ggdendro",
         "rtracklayer"
     ],
     "MWASTools": [
@@ -8999,7 +8981,6 @@
     "nempi": [
         "Linnorm",
         "epiNEM",
-        "ggdendro",
         "mnem"
     ],
     "NetActivity": [
@@ -9105,7 +9086,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "ggdendro",
         "minfi",
         "org.Hs.eg.db",
         "quantro",
@@ -9121,7 +9101,6 @@
     ],
     "ngsReports": [
         "DT",
-        "ggdendro",
         "htmlwidgets",
         "patchwork",
         "plotly"
@@ -9887,7 +9866,6 @@
         "broom",
         "car",
         "dendextend",
-        "ggdendro",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -10560,8 +10538,7 @@
         "rtracklayer"
     ],
     "qPLEXanalyzer": [
-        "MSnbase",
-        "ggdendro"
+        "MSnbase"
     ],
     "qrqc": [
         "AnnotationDbi",
@@ -11726,7 +11703,6 @@
         "BiocStyle",
         "DT",
         "excelR",
-        "ggdendro",
         "htmlwidgets",
         "plotly",
         "sangerseqR",
@@ -12902,7 +12878,6 @@
         "WGCNA",
         "annotate",
         "genefilter",
-        "ggdendro",
         "ggrastr",
         "ggrepel",
         "htmlTable",
@@ -13736,7 +13711,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "ggdendro",
         "ggforce",
         "ggfun",
         "gghighlight",
@@ -14611,7 +14585,6 @@
     "flexdashboard": [
         "htmlwidgets"
     ],
-    "ggdendro": [],
     "plotly": [
         "htmlwidgets"
     ],
@@ -15055,9 +15028,7 @@
         "htmlwidgets"
     ],
     "shinyBS": [],
-    "superheat": [
-        "ggdendro"
-    ],
+    "superheat": [],
     "biscuiteerData": [
         "AnnotationDbi",
         "AnnotationHub",
