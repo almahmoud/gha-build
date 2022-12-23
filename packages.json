@@ -3715,7 +3715,6 @@
     ],
     "trena": [
         "Hmisc",
-        "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "WGCNA",
         "viridis"
     ],
@@ -4153,6 +4152,5 @@
         "viridis"
     ],
     "vbsr": [],
-    "SNPlocs.Hsapiens.dbSNP150.GRCh38": [],
     "kmlShape": []
 }
