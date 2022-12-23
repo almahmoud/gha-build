@@ -318,7 +318,6 @@
         "pbkrtest",
         "radiant.data"
     ],
-    "biocGraph": [],
     "BiocOncoTK": [
         "AnnotationHub",
         "ExperimentHub",
