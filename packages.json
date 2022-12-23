@@ -1092,16 +1092,10 @@
         "qgraph",
         "viridis"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "erma": [
         "GenomicFiles",
@@ -1886,7 +1880,6 @@
     "metavizr": [
         "biomformat",
         "epivizr",
-        "epivizrData",
         "epivizrStandalone",
         "phyloseq",
         "rhdf5"
@@ -3126,7 +3119,6 @@
         "Seurat",
         "clustree",
         "epivizr",
-        "epivizrData",
         "ggraph",
         "scater",
         "viridis"
