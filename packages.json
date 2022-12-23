@@ -339,7 +339,6 @@
     "bandle": [
         "MLInterfaces",
         "caret",
-        "dendextend",
         "genefilter",
         "mixtools",
         "pRoloc",
@@ -367,7 +366,6 @@
         "scuttle"
     ],
     "BatchQC": [
-        "dendextend",
         "genefilter",
         "heatmaply",
         "sva"
@@ -838,9 +836,7 @@
         "scater",
         "scuttle"
     ],
-    "CellTrails": [
-        "dendextend"
-    ],
+    "CellTrails": [],
     "cellTree": [
         "topGO"
     ],
@@ -923,7 +919,6 @@
         "biovizBase",
         "bsseq",
         "bumphunter",
-        "dendextend",
         "ensembldb",
         "geneLenDataBase",
         "genefilter",
@@ -938,9 +933,7 @@
         "sva",
         "wateRmelon"
     ],
-    "CHETAH": [
-        "dendextend"
-    ],
+    "CHETAH": [],
     "ChIC": [
         "ChIC.data",
         "caret",
@@ -1250,7 +1243,6 @@
         "GOSemSim",
         "car",
         "clusterProfiler",
-        "dendextend",
         "enrichplot",
         "factoextra",
         "ggpubr",
@@ -1288,7 +1280,6 @@
         "GenomicFeatures",
         "RUVSeq",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
-        "dendextend",
         "ensembldb",
         "geneplotter",
         "rtracklayer"
@@ -1506,7 +1497,6 @@
         "FlowSOM",
         "car",
         "caret",
-        "dendextend",
         "diffcyt",
         "factoextra",
         "ggpubr",
@@ -1520,7 +1510,6 @@
         "FactoMineR",
         "car",
         "caret",
-        "dendextend",
         "factoextra",
         "ggpubr",
         "lme4",
@@ -1602,7 +1591,6 @@
         "DOSE",
         "GOSemSim",
         "clusterProfiler",
-        "dendextend",
         "enrichplot",
         "genefilter",
         "geneplotter",
@@ -1661,7 +1649,6 @@
     ],
     "DegNorm": [
         "GenomicFeatures",
-        "dendextend",
         "heatmaply",
         "rtracklayer"
     ],
@@ -1677,7 +1664,6 @@
         "BSgenome",
         "DSS",
         "bsseq",
-        "dendextend",
         "genefilter",
         "rtracklayer",
         "sva"
@@ -1788,7 +1774,6 @@
         "scuttle"
     ],
     "DiscoRhythm": [
-        "dendextend",
         "ggExtra",
         "heatmaply"
     ],
@@ -2430,7 +2415,6 @@
         "DESeq2",
         "GenomicFeatures",
         "OUTRIDER",
-        "dendextend",
         "geneplotter",
         "heatmaply",
         "rtracklayer"
@@ -2584,7 +2568,6 @@
     ],
     "GeneTonic": [
         "DESeq2",
-        "dendextend",
         "geneplotter"
     ],
     "geneXtendeR": [
@@ -2675,7 +2658,6 @@
     "GEOexplorer": [
         "FactoMineR",
         "car",
-        "dendextend",
         "factoextra",
         "ggpubr",
         "heatmaply",
@@ -2761,7 +2743,6 @@
     ],
     "GlobalAncova": [
         "GSEABase",
-        "dendextend",
         "globaltest"
     ],
     "globaltest": [],
@@ -2789,9 +2770,7 @@
         "DiagrammeR"
     ],
     "GOexpress": [],
-    "GOpro": [
-        "dendextend"
-    ],
+    "GOpro": [],
     "goProfiles": [],
     "GOSemSim": [],
     "goseq": [
@@ -2856,9 +2835,7 @@
         "interactiveDisplayBase",
         "pathview"
     ],
-    "GSEAmining": [
-        "dendextend"
-    ],
+    "GSEAmining": [],
     "gsean": [
         "PPInfer"
     ],
@@ -2937,9 +2914,7 @@
         "DESeq2",
         "geneplotter"
     ],
-    "HGC": [
-        "dendextend"
-    ],
+    "HGC": [],
     "hiAnnotator": [
         "BSgenome",
         "rtracklayer"
@@ -3061,7 +3036,6 @@
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
-        "dendextend",
         "geneLenDataBase",
         "genefilter",
         "geneplotter",
@@ -3081,9 +3055,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "ILoReg": [
-        "dendextend"
-    ],
+    "ILoReg": [],
     "imageHTS": [
         "Category",
         "GSEABase",
@@ -3104,7 +3076,6 @@
         "scuttle"
     ],
     "ImmuneSpaceR": [
-        "dendextend",
         "heatmaply"
     ],
     "INDEED": [
@@ -3159,7 +3130,6 @@
     "InterCellar": [
         "FactoMineR",
         "car",
-        "dendextend",
         "factoextra",
         "ggpubr",
         "lme4",
@@ -3305,7 +3275,6 @@
         "FactoMineR",
         "bsseq",
         "car",
-        "dendextend",
         "factoextra",
         "geneplotter",
         "ggpubr",
@@ -3672,7 +3641,6 @@
         "EDASeq",
         "GenomicFeatures",
         "bsseq",
-        "dendextend",
         "genefilter",
         "geneplotter",
         "heatmaply",
@@ -3846,7 +3814,6 @@
     "microbiomeExplorer": [
         "DESeq2",
         "car",
-        "dendextend",
         "geneplotter",
         "heatmaply",
         "lme4",
@@ -3960,7 +3927,6 @@
         "caret",
         "clusterProfiler",
         "cvms",
-        "dendextend",
         "enrichplot",
         "ggpubr",
         "ggtree",
@@ -4186,7 +4152,6 @@
         "MSstatsPTM",
         "MSstatsTMT",
         "car",
-        "dendextend",
         "factoextra",
         "ggpubr",
         "lme4",
@@ -4238,9 +4203,7 @@
     "MultiBaC": [
         "ropls"
     ],
-    "multiClust": [
-        "dendextend"
-    ],
+    "multiClust": [],
     "multicrispr": [
         "BSgenome",
         "CRISPRseek",
@@ -4318,7 +4281,6 @@
         "car",
         "decompTumor2Sig",
         "deconstructSigs",
-        "dendextend",
         "factoextra",
         "ggpubr",
         "lme4",
@@ -4579,7 +4541,6 @@
         "OMICsPCAdata",
         "VariantAnnotation",
         "car",
-        "dendextend",
         "factoextra",
         "ggpubr",
         "lme4",
@@ -4672,7 +4633,6 @@
     "OUTRIDER": [
         "DESeq2",
         "GenomicFeatures",
-        "dendextend",
         "geneplotter",
         "heatmaply",
         "rtracklayer"
@@ -4735,7 +4695,6 @@
         "DESeq2",
         "GOstats",
         "GSEABase",
-        "dendextend",
         "genefilter",
         "geneplotter",
         "heatmaply",
@@ -4816,7 +4775,6 @@
     ],
     "PhosR": [
         "car",
-        "dendextend",
         "ggpubr",
         "lme4",
         "nloptr",
@@ -4995,14 +4953,12 @@
     "pRoloc": [
         "MLInterfaces",
         "caret",
-        "dendextend",
         "genefilter",
         "mixtools"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "caret",
-        "dendextend",
         "genefilter",
         "mixtools",
         "pRoloc"
@@ -5037,7 +4993,6 @@
     "protGear": [
         "FactoMineR",
         "car",
-        "dendextend",
         "factoextra",
         "genefilter",
         "ggpubr",
@@ -5116,7 +5071,6 @@
     "qmtools": [
         "VIM",
         "car",
-        "dendextend",
         "heatmaply",
         "lme4",
         "nloptr",
@@ -5594,7 +5548,6 @@
         "ballgown",
         "car",
         "clusterProfiler",
-        "dendextend",
         "enrichplot",
         "factoextra",
         "genefilter",
@@ -5899,7 +5852,6 @@
         "ReactomePA",
         "Seurat",
         "ccTensor",
-        "dendextend",
         "enrichplot",
         "fields",
         "genefilter",
@@ -6004,7 +5956,6 @@
     "shinyepico": [
         "GenomicFeatures",
         "bumphunter",
-        "dendextend",
         "genefilter",
         "heatmaply",
         "minfi",
@@ -6326,7 +6277,6 @@
         "BSgenome",
         "ExperimentHub",
         "NxtIRFdata",
-        "dendextend",
         "genefilter",
         "heatmaply",
         "interactiveDisplayBase",
@@ -6941,7 +6891,6 @@
     "ViSEAGO": [
         "DiagrammeR",
         "GOSemSim",
-        "dendextend",
         "heatmaply",
         "topGO"
     ],
@@ -7038,7 +6987,6 @@
         "SomaticSignatures",
         "VariantAnnotation",
         "biovizBase",
-        "dendextend",
         "ensembldb",
         "ggbio",
         "rtracklayer"
@@ -7206,15 +7154,12 @@
         "pbkrtest"
     ],
     "pRolocdata": [],
-    "dendextend": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "rtracklayer"
     ],
     "ggExtra": [],
-    "heatmaply": [
-        "dendextend"
-    ],
+    "heatmaply": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "GenomicFeatures",
         "bumphunter",
@@ -7356,7 +7301,6 @@
     "factoextra": [
         "FactoMineR",
         "car",
-        "dendextend",
         "ggpubr",
         "lme4",
         "nloptr",
@@ -7474,7 +7418,6 @@
     ],
     "logistf": [],
     "shinyHeatmaply": [
-        "dendextend",
         "heatmaply"
     ],
     "ggalt": [],
@@ -7564,9 +7507,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "BiBitR": [
-        "dendextend"
-    ],
+    "BiBitR": [],
     "cvms": [
         "lme4",
         "nloptr"
