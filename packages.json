@@ -331,7 +331,6 @@
         "rstatix"
     ],
     "BioCor": [],
-    "biodbChebi": [],
     "biodbHmdb": [],
     "biodbKegg": [],
     "biodbLipidmaps": [],
@@ -3333,9 +3332,7 @@
     "PharmacoGx": [
         "CoreGx"
     ],
-    "phenomis": [
-        "biodbChebi"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Category"
     ],
