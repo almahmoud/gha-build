@@ -4341,7 +4341,6 @@
         "vctrs",
         "viridis"
     ],
-    "BioQC": [],
     "biosigner": [
         "DelayedArray",
         "GenomeInfoDb",
