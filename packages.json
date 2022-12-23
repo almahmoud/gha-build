@@ -1364,7 +1364,6 @@
         "rstatix"
     ],
     "flowVS": [],
-    "fobitools": [],
     "FRASER": [
         "DESeq2",
         "GenomicFeatures",
