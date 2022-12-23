@@ -2755,7 +2755,6 @@
         "rtracklayer"
     ],
     "goTools": [],
-    "gpuMagic": [],
     "GRaNIE": [
         "DESeq2",
         "geneplotter",
