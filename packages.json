@@ -219,7 +219,6 @@
     "ADImpute": [
         "BiocParallel",
         "DelayedArray",
-        "DrImpute",
         "GenomeInfoDb",
         "GenomicRanges",
         "SAVER",
@@ -20246,7 +20245,6 @@
         "DataVisualizations",
         "DelayedArray",
         "DelayedMatrixStats",
-        "DrImpute",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -46041,7 +46039,6 @@
         "tibble",
         "tidyselect"
     ],
-    "DrImpute": [],
     "SAVER": [
         "glmnet"
     ],
