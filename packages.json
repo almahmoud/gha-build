@@ -3307,7 +3307,6 @@
         "enrichplot",
         "fgsea",
         "futile.logger",
-        "geNetClassifier",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -5315,7 +5314,6 @@
         "bslib",
         "dbplyr",
         "dplyr",
-        "geNetClassifier",
         "genefilter",
         "ggplot2",
         "gplots",
@@ -17447,7 +17445,6 @@
         "vctrs",
         "viridis"
     ],
-    "geNetClassifier": [],
     "GeneTonic": [
         "AnnotationDbi",
         "BiocParallel",
