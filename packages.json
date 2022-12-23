@@ -3555,7 +3555,6 @@
         "rhdf5",
         "viridis"
     ],
-    "SplicingGraphs": [],
     "SPLINTER": [
         "Gviz",
         "Hmisc",
