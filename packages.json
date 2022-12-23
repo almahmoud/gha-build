@@ -3545,7 +3545,6 @@
     "m6Aboost": [
         "BSgenome",
         "ExperimentHub",
-        "adabag",
         "rtracklayer"
     ],
     "Maaslin2": [
@@ -7875,7 +7874,6 @@
         "oligo"
     ],
     "hgu95av2.db": [],
-    "adabag": [],
     "glmmTMB": [
         "lme4"
     ],
