@@ -584,9 +584,7 @@
     ],
     "ChIPseqR": [],
     "ChIPsim": [],
-    "ChIPXpress": [
-        "frma"
-    ],
+    "ChIPXpress": [],
     "ChromHeatMap": [],
     "ChromSCape": [
         "batchelor",
@@ -1425,7 +1423,6 @@
         "pbkrtest"
     ],
     "FRGEpistasis": [],
-    "frma": [],
     "FunChIP": [],
     "funtooNorm": [
         "GenomicFeatures",
