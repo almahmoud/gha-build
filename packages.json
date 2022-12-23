@@ -98,9 +98,7 @@
     "AnnotationHubData": [
         "OrganismDbi"
     ],
-    "annotatr": [
-        "regioneR"
-    ],
+    "annotatr": [],
     "anota2seq": [],
     "APAlyzer": [
         "VariantAnnotation"
@@ -196,7 +194,6 @@
         "HDF5Array",
         "TFBSTools",
         "motifStack",
-        "regioneR",
         "rhdf5"
     ],
     "ATACseqTFEA": [
@@ -367,7 +364,6 @@
         "annotatr",
         "bsseq",
         "dmrseq",
-        "regioneR",
         "rhdf5"
     ],
     "BitSeq": [],
@@ -619,9 +615,7 @@
         "biovizBase",
         "viridis"
     ],
-    "ChIPpeakAnno": [
-        "regioneR"
-    ],
+    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
         "TxDb.Celegans.UCSC.ce6.ensGene",
@@ -715,7 +709,6 @@
         "VariantAnnotation",
         "biovizBase",
         "karyoploteR",
-        "regioneR",
         "rhdf5",
         "viridis"
     ],
@@ -725,7 +718,6 @@
         "VariantAnnotation",
         "biovizBase",
         "karyoploteR",
-        "regioneR",
         "rhdf5",
         "viridis"
     ],
@@ -839,7 +831,6 @@
         "VariantAnnotation",
         "biovizBase",
         "karyoploteR",
-        "regioneR",
         "rhdf5",
         "viridis"
     ],
@@ -873,7 +864,6 @@
         "CRISPRseek",
         "ChIPpeakAnno",
         "GUIDEseq",
-        "regioneR",
         "rhdf5"
     ],
     "crisprVerse": [
@@ -1079,8 +1069,7 @@
         "viridis"
     ],
     "DEScan2": [
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "DEsingle": [
         "gamlss"
@@ -1157,7 +1146,6 @@
         "HDF5Array",
         "annotatr",
         "bsseq",
-        "regioneR",
         "rhdf5"
     ],
     "DNAshapeR": [
@@ -1716,7 +1704,6 @@
     "GUIDEseq": [
         "CRISPRseek",
         "ChIPpeakAnno",
-        "regioneR",
         "rhdf5"
     ],
     "Gviz": [
@@ -1955,7 +1942,6 @@
         "Hmisc",
         "VariantAnnotation",
         "biovizBase",
-        "regioneR",
         "viridis"
     ],
     "katdetectr": [
@@ -2618,7 +2604,6 @@
         "assertive",
         "biovizBase",
         "karyoploteR",
-        "regioneR",
         "rhdf5",
         "viridis"
     ],
@@ -2685,7 +2670,6 @@
         "VariantAnnotation",
         "biovizBase",
         "motifStack",
-        "regioneR",
         "rhdf5",
         "trackViewer",
         "viridis"
@@ -3270,8 +3254,7 @@
     "recoup": [],
     "REDseq": [
         "BSgenome.Celegans.UCSC.ce2",
-        "ChIPpeakAnno",
-        "regioneR"
+        "ChIPpeakAnno"
     ],
     "RefPlus": [
         "affy",
@@ -3283,10 +3266,7 @@
         "WGCNA",
         "viridis"
     ],
-    "regioneR": [],
-    "regioneReloaded": [
-        "regioneR"
-    ],
+    "regioneReloaded": [],
     "regionReport": [
         "DEFormats",
         "GenomicFiles",
@@ -3330,8 +3310,7 @@
     ],
     "RGMQL": [],
     "RgnTX": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "regioneR"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "rGREAT": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -3375,7 +3354,6 @@
         "VariantAnnotation",
         "biovizBase",
         "karyoploteR",
-        "regioneR",
         "viridis"
     ],
     "Risa": [
@@ -3387,9 +3365,7 @@
     "RITAN": [
         "EnsDb.Hsapiens.v86"
     ],
-    "RLSeq": [
-        "regioneR"
-    ],
+    "RLSeq": [],
     "RMassBank": [
         "MSnbase",
         "affy",
@@ -3590,7 +3566,6 @@
         "HDF5Array",
         "annotatr",
         "bsseq",
-        "regioneR",
         "rhdf5"
     ],
     "scone": [
@@ -4204,8 +4179,7 @@
         "plotgardener"
     ],
     "UMI4Cats": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "regioneR"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "uncoverappLib": [
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -4302,8 +4276,7 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "regioneR"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "waddR": [],
     "wateRmelon": [
