@@ -8966,7 +8966,6 @@
         "XVector",
         "affy",
         "biganalytics",
-        "bigmemory",
         "blob",
         "dplyr",
         "frma",
@@ -13227,7 +13226,6 @@
         "SummarizedExperiment",
         "TH.data",
         "XVector",
-        "bigmemory",
         "broom",
         "bslib",
         "callr",
@@ -13314,7 +13312,6 @@
         "FactoMineR",
         "MatrixModels",
         "RcppEigen",
-        "bigmemory",
         "broom",
         "bslib",
         "callr",
@@ -33752,7 +33749,6 @@
         "RSpectra",
         "RcppEigen",
         "biganalytics",
-        "bigmemory",
         "bslib",
         "expm",
         "ggplot2",
@@ -38193,7 +38189,6 @@
         "RcppEigen",
         "SummarizedExperiment",
         "XVector",
-        "bigmemory",
         "blob",
         "dbplyr",
         "doParallel",
@@ -66887,13 +66882,8 @@
     "mixsqp": [
         "irlba"
     ],
-    "ChIPXpressData": [
-        "bigmemory"
-    ],
-    "bigmemory": [],
-    "biganalytics": [
-        "bigmemory"
-    ],
+    "ChIPXpressData": [],
+    "biganalytics": [],
     "shinyhelper": [
         "bslib",
         "fontawesome",
@@ -67655,7 +67645,6 @@
     ],
     "mbest": [
         "RcppEigen",
-        "bigmemory",
         "callr",
         "lme4",
         "nloptr",
