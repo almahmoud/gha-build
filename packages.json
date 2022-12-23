@@ -6119,7 +6119,6 @@
     "scDDboost": [
         "Oscope"
     ],
-    "scds": [],
     "scGPS": [
         "DESeq2",
         "geneplotter"
@@ -6473,7 +6472,6 @@
         "scMerge",
         "scRNAseq",
         "scater",
-        "scds",
         "scran",
         "scuttle",
         "sva",
