@@ -347,7 +347,6 @@
         "pbkrtest",
         "radiant.data"
     ],
-    "BiocFHIR": [],
     "biocGraph": [],
     "BiocOncoTK": [
         "AnnotationHub",
