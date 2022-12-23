@@ -1503,7 +1503,6 @@
         "pcaExplorer",
         "viridis"
     ],
-    "igvR": [],
     "ILoReg": [
         "dendextend",
         "viridis"
