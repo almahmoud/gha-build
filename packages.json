@@ -13487,7 +13487,6 @@
         "bit64",
         "blob",
         "cachem",
-        "ccdata",
         "codetools",
         "curl",
         "doParallel",
@@ -123185,7 +123184,6 @@
         "xtable"
     ],
     "Rmpi": [],
-    "ccdata": [],
     "enrichR": [
         "MASS",
         "Matrix",
