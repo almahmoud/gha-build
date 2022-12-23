@@ -53,13 +53,10 @@
         "rGREAT"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
-        "motifStack"
+        "ChIPpeakAnno"
     ],
     "ATACseqTFEA": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "BaalChIP": [],
     "BadRegionFinder": [],
     "BBCAnalyzer": [],
@@ -314,9 +311,7 @@
         "rstatix"
     ],
     "cytomapper": [],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [
         "FactoMineR"
     ],
@@ -688,8 +683,7 @@
     ],
     "LowMACA": [
         "RTCGAToolbox",
-        "cBioPortalData",
-        "motifStack"
+        "cBioPortalData"
     ],
     "lumi": [
         "methylumi",
@@ -857,10 +851,8 @@
     ],
     "motifbreakR": [
         "Gviz",
-        "biovizBase",
-        "motifStack"
+        "biovizBase"
     ],
-    "motifStack": [],
     "MPFE": [],
     "MQmetrics": [
         "ggpubr",
@@ -916,7 +908,6 @@
         "ChIPpeakAnno",
         "Gviz",
         "biovizBase",
-        "motifStack",
         "trackViewer"
     ],
     "NanoMethViz": [],
@@ -1114,8 +1105,7 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "RUVSeq",
-        "motifStack"
+        "RUVSeq"
     ],
     "rifi": [],
     "RIPAT": [
