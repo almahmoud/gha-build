@@ -7905,7 +7905,6 @@
     ],
     "cellmigRation": [
         "DT",
-        "FME",
         "FactoMineR",
         "Hmisc",
         "MatrixModels",
@@ -68207,7 +68206,6 @@
     "magick": [],
     "Ckmeans.1d.dp": [],
     "mvoutlier": [],
-    "FME": [],
     "SpatialTools": [
         "sp",
         "spBayes"
