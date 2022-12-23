@@ -35350,7 +35350,6 @@
         "tidyselect",
         "vroom"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "BRISC",
         "BiocFileCache",
