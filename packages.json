@@ -7867,7 +7867,6 @@
         "tidyr",
         "waldo"
     ],
-    "EpiDISH": [],
     "epigenomix": [
         "AnnotationDbi",
         "Biostrings",
@@ -25979,7 +25978,6 @@
         "rmarkdown"
     ],
     "TOAST": [
-        "EpiDISH",
         "GGally",
         "GenomicRanges",
         "SummarizedExperiment",
