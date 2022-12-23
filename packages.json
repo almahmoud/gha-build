@@ -3653,7 +3653,6 @@
         "Hmisc",
         "WGCNA",
         "annotate",
-        "gRain",
         "genefilter",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -7616,9 +7615,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "RVS": [
-        "gRain"
-    ],
+    "RVS": [],
     "safe": [],
     "sampleClassifier": [
         "MGFM",
@@ -9951,7 +9948,6 @@
         "Hmisc",
         "viridis"
     ],
-    "gRain": [],
     "HiContactsData": [
         "AnnotationHub",
         "ExperimentHub",
