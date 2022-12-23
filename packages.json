@@ -20361,7 +20361,6 @@
         "UpSetR",
         "XVector",
         "annotate",
-        "bigparallelr",
         "bigstatsr",
         "biomaRt",
         "blob",
@@ -46577,7 +46576,6 @@
         "tibble"
     ],
     "bigstatsr": [
-        "bigparallelr",
         "cowplot",
         "ggplot2",
         "pillar",
@@ -46588,7 +46586,6 @@
         "GenomicRanges",
         "XVector"
     ],
-    "bigparallelr": [],
     "depmap": [
         "AnnotationDbi",
         "AnnotationHub",
