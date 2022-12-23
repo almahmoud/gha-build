@@ -556,7 +556,6 @@
         "Hmisc",
         "WGCNA",
         "genefilter",
-        "ggnetwork",
         "sva"
     ],
     "BioNetStat": [
@@ -751,7 +750,6 @@
         "ensembldb",
         "genefilter",
         "ggbio",
-        "ggnetwork",
         "rtracklayer",
         "sva"
     ],
@@ -907,7 +905,6 @@
         "clusterProfiler",
         "enrichplot",
         "geneplotter",
-        "ggnetwork",
         "ggpubr",
         "ggtree",
         "lme4",
@@ -4964,8 +4961,7 @@
     ],
     "Pi": [
         "caret",
-        "dnet",
-        "ggnetwork"
+        "dnet"
     ],
     "piano": [],
     "Pigengene": [
@@ -6681,7 +6677,6 @@
         "pbkrtest"
     ],
     "syntenet": [
-        "ggnetwork",
         "rtracklayer"
     ],
     "systemPipeR": [
@@ -7455,7 +7450,6 @@
         "AnnotationHub",
         "interactiveDisplayBase"
     ],
-    "ggnetwork": [],
     "biscuiteerData": [
         "AnnotationHub",
         "ExperimentHub",
