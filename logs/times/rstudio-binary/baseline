@@ -1,0 +1,336 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   7015d0fd..7a4f0ebb  main       -> origin/main
+Updating 7015d0fd..7a4f0ebb
+Fast-forward
+ lists/maxLik                                 |   2 +-
+ logs/run_ids/rstudio-binaries/ExtDist        |   2 +
+ logs/sizes/rstudio-binaries/binaries/maxLik  |   1 +
+ logs/sizes/rstudio-binaries/libraries/maxLik |   1 +
+ logs/times/rstudio-binary/maxLik             | 454 +++++++++++++++++++++++++++
+ packages.json                                |  11 +-
+ 6 files changed, 461 insertions(+), 10 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/ExtDist
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/maxLik
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/maxLik
+ create mode 100644 logs/times/rstudio-binary/maxLik
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=baseline
++ PKG=baseline
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "baseline"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  9 1077k    9  107k    0     0   165k      0  0:00:06 --:--:--  0:00:06  165k 88 1077k   88  952k    0     0   577k      0  0:00:01  0:00:01 --:--:--  577k100 1077k  100 1077k    0     0   619k      0  0:00:01  0:00:01 --:--:--  619k
+built/
+built/SparseM/
+built/SparseM/libs/
+built/SparseM/libs/SparseM.so
+built/SparseM/extdata/
+built/SparseM/extdata/lsq.rra
+built/SparseM/extdata/lsq.out
+built/SparseM/extdata/rua_32_ax.rua
+built/SparseM/NAMESPACE
+built/SparseM/ChangeLog
+built/SparseM/DESCRIPTION
+built/SparseM/help/
+built/SparseM/help/paths.rds
+built/SparseM/help/aliases.rds
+built/SparseM/help/SparseM.rdb
+built/SparseM/help/SparseM.rdx
+built/SparseM/help/AnIndex
+built/SparseM/data/
+built/SparseM/data/lsq.rda
+built/SparseM/data/triogramX.rda
+built/SparseM/Meta/
+built/SparseM/Meta/package.rds
+built/SparseM/Meta/vignette.rds
+built/SparseM/Meta/demo.rds
+built/SparseM/Meta/features.rds
+built/SparseM/Meta/hsearch.rds
+built/SparseM/Meta/links.rds
+built/SparseM/Meta/nsInfo.rds
+built/SparseM/Meta/Rd.rds
+built/SparseM/Meta/data.rds
+built/SparseM/html/
+built/SparseM/html/00Index.html
+built/SparseM/html/R.css
+built/SparseM/TODO
+built/SparseM/INDEX
+built/SparseM/doc/
+built/SparseM/doc/SparseM.R
+built/SparseM/doc/index.html
+built/SparseM/doc/SparseM.pdf
+built/SparseM/doc/SparseM.Rnw
+built/SparseM/R/
+built/SparseM/R/SparseM
+built/SparseM/R/SparseM.rdb
+built/SparseM/R/SparseM.rdx
+built/SparseM/demo/
+built/SparseM/demo/Solve.R
+built/SparseM/demo/Visualization.R
+built/SparseM/demo/LinearAlgebra.R
+built/SparseM/demo/LeastSquares.R
+built/SparseM/demo/Binding.R
+built/SparseM/demo/Coercion.R
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  8 3413k    8  298k    0     0   347k      0  0:00:09 --:--:--  0:00:09  347k 40 3413k   40 1381k    0     0   745k      0  0:00:04  0:00:01  0:00:03  744k 95 3413k   95 3262k    0     0  1144k      0  0:00:02  0:00:02 --:--:-- 1144k100 3413k  100 3413k    0     0  1173k      0  0:00:02  0:00:02 --:--:-- 1173k
+built/
+built/limSolve/
+built/limSolve/libs/
+built/limSolve/libs/limSolve.so
+built/limSolve/NAMESPACE
+built/limSolve/DESCRIPTION
+built/limSolve/help/
+built/limSolve/help/limSolve.rdx
+built/limSolve/help/paths.rds
+built/limSolve/help/limSolve.rdb
+built/limSolve/help/aliases.rds
+built/limSolve/help/AnIndex
+built/limSolve/data/
+built/limSolve/data/Rdata.rds
+built/limSolve/data/Rdata.rdb
+built/limSolve/data/Rdata.rdx
+built/limSolve/Meta/
+built/limSolve/Meta/package.rds
+built/limSolve/Meta/vignette.rds
+built/limSolve/Meta/demo.rds
+built/limSolve/Meta/features.rds
+built/limSolve/Meta/hsearch.rds
+built/limSolve/Meta/links.rds
+built/limSolve/Meta/nsInfo.rds
+built/limSolve/Meta/Rd.rds
+built/limSolve/Meta/data.rds
+built/limSolve/CITATION
+built/limSolve/html/
+built/limSolve/html/00Index.html
+built/limSolve/html/R.css
+built/limSolve/INDEX
+built/limSolve/doc/
+built/limSolve/doc/xsample.Rnw
+built/limSolve/doc/linpackcomments
+built/limSolve/doc/xsample.pdf
+built/limSolve/doc/limSolve.R
+built/limSolve/doc/E_coli.input
+built/limSolve/doc/index.html
+built/limSolve/doc/xsample.R
+built/limSolve/doc/limSolve.pdf
+built/limSolve/doc/limSolve.Rnw
+built/limSolve/R/
+built/limSolve/R/limSolve.rdx
+built/limSolve/R/limSolve.rdb
+built/limSolve/R/limSolve
+built/limSolve/demo/
+built/limSolve/demo/limSolve.r
+built/limSolve/COPYRIGHTS
+built/lpSolve/
+built/lpSolve/libs/
+built/lpSolve/libs/lpSolve.so
+built/lpSolve/NAMESPACE
+built/lpSolve/DESCRIPTION
+built/lpSolve/help/
+built/lpSolve/help/paths.rds
+built/lpSolve/help/lpSolve.rdb
+built/lpSolve/help/aliases.rds
+built/lpSolve/help/lpSolve.rdx
+built/lpSolve/help/AnIndex
+built/lpSolve/Meta/
+built/lpSolve/Meta/package.rds
+built/lpSolve/Meta/features.rds
+built/lpSolve/Meta/hsearch.rds
+built/lpSolve/Meta/links.rds
+built/lpSolve/Meta/nsInfo.rds
+built/lpSolve/Meta/Rd.rds
+built/lpSolve/html/
+built/lpSolve/html/00Index.html
+built/lpSolve/html/R.css
+built/lpSolve/INDEX
+built/lpSolve/R/
+built/lpSolve/R/lpSolve.rdb
+built/lpSolve/R/lpSolve
+built/lpSolve/R/lpSolve.rdx
+built/MASS/
+built/MASS/libs/
+built/MASS/libs/MASS.so
+built/MASS/NEWS
+built/MASS/NAMESPACE
+built/MASS/DESCRIPTION
+built/MASS/help/
+built/MASS/help/paths.rds
+built/MASS/help/MASS.rdx
+built/MASS/help/MASS.rdb
+built/MASS/help/aliases.rds
+built/MASS/help/AnIndex
+built/MASS/data/
+built/MASS/data/Rdata.rds
+built/MASS/data/Rdata.rdb
+built/MASS/data/Rdata.rdx
+built/MASS/Meta/
+built/MASS/Meta/package.rds
+built/MASS/Meta/features.rds
+built/MASS/Meta/hsearch.rds
+built/MASS/Meta/links.rds
+built/MASS/Meta/nsInfo.rds
+built/MASS/Meta/Rd.rds
+built/MASS/Meta/data.rds
+built/MASS/scripts/
+built/MASS/scripts/ch08.R
+built/MASS/scripts/ch13.R
+built/MASS/scripts/ch14.R
+built/MASS/scripts/ch11.R
+built/MASS/scripts/ch02.R
+built/MASS/scripts/ch10.R
+built/MASS/scripts/ch15.R
+built/MASS/scripts/ch05.R
+built/MASS/scripts/ch16.R
+built/MASS/scripts/ch12.R
+built/MASS/scripts/ch03.R
+built/MASS/scripts/ch01.R
+built/MASS/scripts/ch09.R
+built/MASS/scripts/ch06.R
+built/MASS/scripts/ch04.R
+built/MASS/scripts/ch07.R
+built/MASS/po/
+built/MASS/po/it/
+built/MASS/po/it/LC_MESSAGES/
+built/MASS/po/it/LC_MESSAGES/R-MASS.mo
+built/MASS/po/fr/
+built/MASS/po/fr/LC_MESSAGES/
+built/MASS/po/fr/LC_MESSAGES/R-MASS.mo
+built/MASS/po/ko/
+built/MASS/po/ko/LC_MESSAGES/
+built/MASS/po/ko/LC_MESSAGES/R-MASS.mo
+built/MASS/po/pl/
+built/MASS/po/pl/LC_MESSAGES/
+built/MASS/po/pl/LC_MESSAGES/R-MASS.mo
+built/MASS/po/en@quot/
+built/MASS/po/en@quot/LC_MESSAGES/
+built/MASS/po/en@quot/LC_MESSAGES/R-MASS.mo
+built/MASS/po/de/
+built/MASS/po/de/LC_MESSAGES/
+built/MASS/po/de/LC_MESSAGES/R-MASS.mo
+built/MASS/CITATION
+built/MASS/html/
+built/MASS/html/00Index.html
+built/MASS/html/R.css
+built/MASS/INDEX
+built/MASS/R/
+built/MASS/R/MASS.rdx
+built/MASS/R/MASS.rdb
+built/MASS/R/MASS
+built/quadprog/
+built/quadprog/libs/
+built/quadprog/libs/quadprog.so
+built/quadprog/NAMESPACE
+built/quadprog/DESCRIPTION
+built/quadprog/help/
+built/quadprog/help/paths.rds
+built/quadprog/help/aliases.rds
+built/quadprog/help/AnIndex
+built/quadprog/help/quadprog.rdb
+built/quadprog/help/quadprog.rdx
+built/quadprog/Meta/
+built/quadprog/Meta/package.rds
+built/quadprog/Meta/features.rds
+built/quadprog/Meta/hsearch.rds
+built/quadprog/Meta/links.rds
+built/quadprog/Meta/nsInfo.rds
+built/quadprog/Meta/Rd.rds
+built/quadprog/html/
+built/quadprog/html/00Index.html
+built/quadprog/html/R.css
+built/quadprog/INDEX
+built/quadprog/R/
+built/quadprog/R/quadprog
+built/quadprog/R/quadprog.rdb
+built/quadprog/R/quadprog.rdx
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''baseline'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv baseline_1.3-4_R_x86_64-pc-linux-gnu.tar.gz limSolve_1.5.6_R_x86_64-pc-linux-gnu.tar.gz lpSolve_5.6.17_R_x86_64-pc-linux-gnu.tar.gz quadprog_1.5-8_R_x86_64-pc-linux-gnu.tar.gz SparseM_1.81_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/baseline
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'baseline'
+also installing the dependencies ‘quadprog’, ‘lpSolve’, ‘SparseM’, ‘limSolve’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/quadprog_1.5-8.tar.gz'
+Content type 'binary/octet-stream' length 41881 bytes (40 KB)
+==================================================
+downloaded 40 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/lpSolve_5.6.17.tar.gz'
+Content type 'binary/octet-stream' length 1237098 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/SparseM_1.81.tar.gz'
+Content type 'binary/octet-stream' length 1104977 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/limSolve_1.5.6.tar.gz'
+Content type 'binary/octet-stream' length 1065355 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/baseline_1.3-4.tar.gz'
+Content type 'binary/octet-stream' length 2180489 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+* installing *binary* package ‘quadprog’ ...
+* ‘quadprog’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘quadprog’ as ‘quadprog_1.5-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (quadprog)
+* installing *binary* package ‘lpSolve’ ...
+* ‘lpSolve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lpSolve’ as ‘lpSolve_5.6.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lpSolve)
+* installing *binary* package ‘SparseM’ ...
+* ‘SparseM’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘SparseM’ as ‘SparseM_1.81_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SparseM)
+* installing *binary* package ‘limSolve’ ...
+* ‘limSolve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘limSolve’ as ‘limSolve_1.5.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (limSolve)
+* installing *binary* package ‘baseline’ ...
+* ‘baseline’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘baseline’ as ‘baseline_1.3-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (baseline)
+
+The downloaded source packages are in
+	‘/tmp/RtmpJCJLax/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m15.304s
+user	0m6.885s
+sys	0m0.887s

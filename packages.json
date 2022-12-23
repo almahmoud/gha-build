@@ -681,7 +681,6 @@
     ],
     "AlpsNMR": [
         "BiocParallel",
-        "baseline",
         "bslib",
         "cellranger",
         "doSNOW",
@@ -29810,7 +29809,6 @@
         "VennDiagram",
         "XVector",
         "annotate",
-        "baseline",
         "biomaRt",
         "biovizBase",
         "blob",
@@ -50159,7 +50157,6 @@
         "tibble",
         "vctrs"
     ],
-    "baseline": [],
     "rARPACK": [],
     "cellranger": [
         "pillar",
