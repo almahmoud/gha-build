@@ -1216,7 +1216,6 @@
         "rhdf5",
         "viridis"
     ],
-    "dada2": [],
     "dagLogo": [
         "CNEr",
         "TFBSTools",
@@ -4072,9 +4071,7 @@
         "phastCons100way.UCSC.hg19",
         "rhdf5"
     ],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RCAS": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
