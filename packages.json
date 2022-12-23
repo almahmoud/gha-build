@@ -4926,7 +4926,6 @@
     ],
     "syntenet": [],
     "systemPipeR": [],
-    "systemPipeShiny": [],
     "systemPipeTools": [
         "DESeq2",
         "ggtree"
