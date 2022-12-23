@@ -448,7 +448,6 @@
         "rstatix",
         "survminer"
     ],
-    "gmapR": [],
     "goSorensen": [
         "clusterProfiler"
     ],
@@ -480,8 +479,7 @@
         "Gviz"
     ],
     "HTSeqGenie": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "iCheck": [
         "lumi",
@@ -668,8 +666,7 @@
     ],
     "mitoClone2": [],
     "MMAPPR2": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "MMUPHin": [
         "Maaslin2"
