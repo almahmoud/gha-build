@@ -5265,7 +5265,6 @@
         "ensembldb",
         "ggforce",
         "ggrepel",
-        "ggside",
         "htmlTable",
         "htmlwidgets",
         "patchwork",
@@ -6335,7 +6334,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "dbplyr",
-        "ggside",
         "scuttle"
     ],
     "ggtree": [
@@ -17983,7 +17981,6 @@
     "ComplexUpset": [
         "patchwork"
     ],
-    "ggside": [],
     "gap": [
         "htmlwidgets",
         "plotly",
