@@ -13485,7 +13485,6 @@
         "annotate",
         "bayesm",
         "blob",
-        "capushe",
         "compositions",
         "e1071",
         "edgeR",
@@ -76497,12 +76496,10 @@
         "mapproj"
     ],
     "mapproj": [],
-    "capushe": [],
     "Rmixmod": [
         "RcppEigen"
     ],
     "HTSCluster": [
-        "capushe",
         "edgeR",
         "locfit"
     ],
