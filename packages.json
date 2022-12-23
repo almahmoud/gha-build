@@ -33472,7 +33472,6 @@
         "pillar",
         "qvalue",
         "rebus",
-        "rebus.numbers",
         "reshape2",
         "restfulr",
         "rtracklayer",
@@ -71446,10 +71445,7 @@
     "PerformanceAnalytics": [
         "xts"
     ],
-    "rebus": [
-        "rebus.numbers"
-    ],
-    "rebus.numbers": [],
+    "rebus": [],
     "GeneNet": [],
     "ggmcmc": [
         "GGally",
