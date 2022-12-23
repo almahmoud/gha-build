@@ -10691,8 +10691,7 @@
         "AnnotationHub",
         "DT",
         "ExperimentHub",
-        "interactiveDisplayBase",
-        "rbokeh"
+        "interactiveDisplayBase"
     ],
     "SeqVarTools": [
         "logistf",
@@ -13785,7 +13784,6 @@
         "tidygraph",
         "viridis"
     ],
-    "rbokeh": [],
     "mlr3": [],
     "mlr3learners": [
         "mlr3"
