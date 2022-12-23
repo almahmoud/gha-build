@@ -1745,7 +1745,6 @@
         "DESeq2"
     ],
     "HumanTranscriptomeCompendium": [],
-    "iCARE": [],
     "icetea": [
         "DESeq2",
         "GenomicFeatures",
