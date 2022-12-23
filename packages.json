@@ -17,7 +17,6 @@
         "affydata"
     ],
     "affycoretools": [
-        "GOstats",
         "Glimma",
         "Hmisc",
         "ReportingTools",
@@ -44,7 +43,6 @@
         "affy"
     ],
     "AgiMicroRna": [
-        "GOstats",
         "Glimma",
         "Hmisc",
         "ReportingTools",
@@ -170,9 +168,7 @@
     "atSNP": [
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "autonomics": [
         "assertive"
     ],
@@ -405,9 +401,7 @@
         "scater",
         "viridis"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
         "cBioPortalData"
@@ -1442,7 +1436,6 @@
     ],
     "gmapR": [],
     "GmicR": [
-        "GOstats",
         "Hmisc",
         "WGCNA",
         "viridis"
@@ -1461,7 +1454,6 @@
         "ggraph",
         "viridis"
     ],
-    "GOstats": [],
     "GRaNIE": [
         "viridis"
     ],
@@ -1579,7 +1571,6 @@
         "viridis"
     ],
     "ideal": [
-        "GOstats",
         "dendextend",
         "heatmaply",
         "pcaExplorer",
@@ -2068,9 +2059,7 @@
     "MicrobiotaProcess": [
         "coin"
     ],
-    "MIGSA": [
-        "GOstats"
-    ],
+    "MIGSA": [],
     "miloR": [
         "ggraph",
         "viridis"
@@ -2087,7 +2076,6 @@
     ],
     "MineICA": [
         "FDb.InfiniumMethylation.hg19",
-        "GOstats",
         "HDF5Array",
         "Hmisc",
         "affy",
@@ -2110,7 +2098,6 @@
         "rhdf5"
     ],
     "miRLAB": [
-        "GOstats",
         "Hmisc",
         "viridis"
     ],
@@ -2400,7 +2387,6 @@
         "viridis"
     ],
     "netZooR": [
-        "GOstats",
         "HDF5Array",
         "minfi",
         "quantro",
@@ -2543,7 +2529,6 @@
         "rhdf5"
     ],
     "pcaExplorer": [
-        "GOstats",
         "dendextend",
         "heatmaply",
         "viridis"
@@ -2634,9 +2619,7 @@
     "plier": [
         "affy"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "plotGrouper": [
         "Hmisc",
         "car",
@@ -2912,7 +2895,6 @@
         "vsn"
     ],
     "ReportingTools": [
-        "GOstats",
         "Hmisc",
         "biovizBase",
         "ggbio",
@@ -3186,7 +3168,6 @@
         "rhdf5"
     ],
     "scTensor": [
-        "GOstats",
         "ReactomePA",
         "Seurat",
         "ccTensor",
