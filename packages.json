@@ -2003,7 +2003,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "VariantAnnotation"
     ],
-    "keggorthology": [],
     "kissDE": [
         "DSS",
         "FactoMineR",
