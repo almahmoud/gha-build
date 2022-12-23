@@ -138,7 +138,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "gcrma",
         "genefilter",
         "geneplotter",
@@ -202,7 +201,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "gcrma",
         "genefilter",
         "geneplotter",
@@ -234,7 +232,6 @@
         "DT",
         "GGally",
         "cowplot",
-        "forcats",
         "htmlwidgets",
         "rmarkdown",
         "shiny",
@@ -382,7 +379,6 @@
         "SummarizedExperiment",
         "annotate",
         "caret",
-        "forcats",
         "geneplotter",
         "ggrepel",
         "htmlwidgets",
@@ -799,7 +795,6 @@
         "dbplyr",
         "dtplyr",
         "fgsea",
-        "forcats",
         "ggalluvial",
         "googledrive",
         "googlesheets4",
@@ -1315,7 +1310,6 @@
         "GGally",
         "Hmisc",
         "SummarizedExperiment",
-        "forcats",
         "htmlTable",
         "htmlwidgets",
         "plotly",
@@ -1889,7 +1883,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "ggbio",
         "ggforce",
         "htmlTable",
@@ -1944,7 +1937,6 @@
         "derfinder",
         "derfinderPlot",
         "ensembldb",
-        "forcats",
         "ggbio",
         "htmlTable",
         "htmlwidgets",
@@ -2121,7 +2113,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "ggbio",
         "htmlTable",
         "htmlwidgets",
@@ -2179,7 +2170,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "genefilter",
         "ggbio",
         "ggnetwork",
@@ -2462,7 +2452,6 @@
         "viridis"
     ],
     "CellaRepertorium": [
-        "forcats",
         "tidyr"
     ],
     "CellBarcode": [
@@ -2635,7 +2624,6 @@
         "car",
         "cowplot",
         "diffcyt",
-        "forcats",
         "ggforce",
         "ggnewscale",
         "ggpubr",
@@ -2690,7 +2678,6 @@
         "cowplot",
         "enrichplot",
         "fgsea",
-        "forcats",
         "geneplotter",
         "ggforce",
         "ggfun",
@@ -3082,7 +3069,6 @@
         "babelgene",
         "batchelor",
         "colourpicker",
-        "forcats",
         "fresh",
         "ggbeeswarm",
         "ggfittext",
@@ -3321,7 +3307,6 @@
     "CluMSID": [
         "GGally",
         "MSnbase",
-        "forcats",
         "htmlwidgets",
         "network",
         "plotly",
@@ -3745,7 +3730,6 @@
     "ComPrAn": [
         "DT",
         "cellranger",
-        "forcats",
         "haven",
         "htmlwidgets",
         "readr",
@@ -4184,7 +4168,6 @@
         "cellranger",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "haven",
         "htmlwidgets",
         "keras",
@@ -4437,7 +4420,6 @@
         "flowDensity",
         "flowViz",
         "flowWorkspace",
-        "forcats",
         "lme4",
         "mrfDepth",
         "nloptr",
@@ -4689,7 +4671,6 @@
         "dbplyr",
         "dtplyr",
         "epiNEM",
-        "forcats",
         "ggdendro",
         "ggforce",
         "ggraph",
@@ -5059,7 +5040,6 @@
         "dbplyr",
         "derfinder",
         "ensembldb",
-        "forcats",
         "ggbio",
         "htmlTable",
         "htmlwidgets",
@@ -5638,7 +5618,6 @@
         "cowplot",
         "enrichplot",
         "fgsea",
-        "forcats",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -6653,7 +6632,6 @@
         "csaw",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "ggforce",
         "ggrepel",
         "ggside",
@@ -6844,7 +6822,6 @@
     "fedup": [
         "IRkernel",
         "RCy3",
-        "forcats",
         "ggthemes"
     ],
     "FELLA": [
@@ -6950,7 +6927,6 @@
         "cowplot",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "ggbeeswarm",
         "ggbio",
         "ggrastr",
@@ -7720,7 +7696,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "ggbio",
         "htmlTable",
         "htmlwidgets",
@@ -7823,7 +7798,6 @@
         "GeomxTools",
         "NanoStringNCTools",
         "cellranger",
-        "forcats",
         "ggbeeswarm",
         "ggiraph",
         "ggthemes",
@@ -7888,7 +7862,6 @@
         "GGally",
         "NanoStringNCTools",
         "cellranger",
-        "forcats",
         "ggbeeswarm",
         "ggiraph",
         "ggthemes",
@@ -7959,7 +7932,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "htmlTable",
         "htmlwidgets",
         "rmarkdown",
@@ -7994,7 +7966,6 @@
     ],
     "GGPA": [
         "GGally",
-        "forcats",
         "network",
         "sna",
         "tidyr"
@@ -8089,7 +8060,6 @@
         "car",
         "cowplot",
         "dbplyr",
-        "forcats",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -8325,7 +8295,6 @@
         "annotate",
         "biomaRt",
         "dbplyr",
-        "forcats",
         "geneplotter",
         "patchwork",
         "readr",
@@ -8489,7 +8458,6 @@
         "cellranger",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "haven",
         "keras",
         "patchwork",
@@ -8652,7 +8620,6 @@
         "annotate",
         "biomaRt",
         "dbplyr",
-        "forcats",
         "geneplotter",
         "ggfortify",
         "ggrepel",
@@ -8789,7 +8756,6 @@
         "biomaRt",
         "cowplot",
         "dbplyr",
-        "forcats",
         "rtracklayer",
         "tidyr"
     ],
@@ -9257,7 +9223,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "ggbio",
         "htmlTable",
         "htmlwidgets",
@@ -9488,7 +9453,6 @@
     "ISAnalytics": [
         "cellranger",
         "datamods",
-        "forcats",
         "ggrepel",
         "haven",
         "htmlwidgets",
@@ -9641,7 +9605,6 @@
         "annotate",
         "broom",
         "cowplot",
-        "forcats",
         "geneplotter",
         "ggdendro",
         "ggrepel",
@@ -9890,7 +9853,6 @@
         "car",
         "cellranger",
         "cowplot",
-        "forcats",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -9936,7 +9898,6 @@
         "SummarizedExperiment",
         "cowplot",
         "fgsea",
-        "forcats",
         "ggrepel",
         "htmlwidgets",
         "plotly",
@@ -10280,7 +10241,6 @@
         "cellranger",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -10306,7 +10266,6 @@
         "agricolae",
         "caret",
         "fields",
-        "forcats",
         "haven",
         "htmlTable",
         "htmlwidgets",
@@ -10475,7 +10434,6 @@
         "Hmisc",
         "KEGGREST",
         "WGCNA",
-        "forcats",
         "htmlTable",
         "htmlwidgets",
         "org.Hs.eg.db",
@@ -11094,7 +11052,6 @@
         "dbplyr",
         "devtools",
         "dtplyr",
-        "forcats",
         "genefilter",
         "ggpmisc",
         "ggpp",
@@ -11304,7 +11261,6 @@
     ],
     "mfa": [
         "GGally",
-        "forcats",
         "ggmcmc",
         "tidyr"
     ],
@@ -11393,7 +11349,6 @@
         "car",
         "dendextend",
         "egg",
-        "forcats",
         "geneplotter",
         "heatmaply",
         "htmlwidgets",
@@ -11748,7 +11703,6 @@
         "dtplyr",
         "enrichplot",
         "fgsea",
-        "forcats",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -11831,7 +11785,6 @@
         "dtplyr",
         "enrichplot",
         "fgsea",
-        "forcats",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -11927,7 +11880,6 @@
         "GGally",
         "broom",
         "echarts4r",
-        "forcats",
         "htmlwidgets",
         "rmarkdown",
         "shiny",
@@ -12059,7 +12011,6 @@
     "Modstrings": [],
     "MOFA2": [
         "cowplot",
-        "forcats",
         "ggrepel",
         "tidyr"
     ],
@@ -12318,7 +12269,6 @@
         "dbplyr",
         "easyRNASeq",
         "ensembldb",
-        "forcats",
         "genomeIntervals",
         "ggbio",
         "htmlTable",
@@ -12431,7 +12381,6 @@
         "dendextend",
         "dtplyr",
         "factoextra",
-        "forcats",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -12939,7 +12888,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "bsseq",
-        "forcats",
         "ggbeeswarm",
         "ggrastr",
         "patchwork",
@@ -12969,7 +12917,6 @@
         "cellranger",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -13237,7 +13184,6 @@
     ],
     "ngsReports": [
         "DT",
-        "forcats",
         "ggdendro",
         "htmlwidgets",
         "patchwork",
@@ -13290,7 +13236,6 @@
         "broom",
         "car",
         "cellranger",
-        "forcats",
         "ggforce",
         "haven",
         "htmlTable",
@@ -13493,7 +13438,6 @@
     "omada": [
         "NMF",
         "diceR",
-        "forcats",
         "haven",
         "klaR",
         "labelled",
@@ -13643,7 +13587,6 @@
         "waldo"
     ],
     "Omixer": [
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -13992,7 +13935,6 @@
         "cowplot",
         "enrichplot",
         "fgsea",
-        "forcats",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -14366,7 +14308,6 @@
         "car",
         "cowplot",
         "dendextend",
-        "forcats",
         "ggdendro",
         "ggpubr",
         "ggrepel",
@@ -15074,7 +15015,6 @@
         "dendextend",
         "factoextra",
         "flexdashboard",
-        "forcats",
         "genefilter",
         "ggpubr",
         "ggrepel",
@@ -15454,7 +15394,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "ggbio",
         "htmlTable",
         "htmlwidgets",
@@ -15996,7 +15935,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "genefilter",
         "geneplotter",
         "ggbio",
@@ -16226,7 +16164,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "ggbio",
         "htmlTable",
         "htmlwidgets",
@@ -17304,7 +17241,6 @@
     "sccomp": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "forcats",
         "ggrepel",
         "patchwork",
         "readr",
@@ -17489,8 +17425,7 @@
     ],
     "SCnorm": [
         "SingleCellExperiment",
-        "SummarizedExperiment",
-        "forcats"
+        "SummarizedExperiment"
     ],
     "scone": [
         "AnnotationDbi",
@@ -17566,7 +17501,6 @@
         "SummarizedExperiment",
         "biomaRt",
         "dbplyr",
-        "forcats",
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
@@ -17630,7 +17564,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "ggbio",
         "ggthemes",
         "htmlTable",
@@ -17858,7 +17791,6 @@
         "biomaRt",
         "cowplot",
         "dbplyr",
-        "forcats",
         "rtracklayer",
         "tidyr"
     ],
@@ -17937,7 +17869,6 @@
         "GGally",
         "KEGGREST",
         "dbplyr",
-        "forcats",
         "gistr",
         "htmlwidgets",
         "interactiveDisplayBase",
@@ -18161,7 +18092,6 @@
         "car",
         "cowplot",
         "dbplyr",
-        "forcats",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -18621,7 +18551,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "forcats",
         "ggbio",
         "htmlTable",
         "htmlwidgets",
@@ -18720,7 +18649,6 @@
         "GeomxTools",
         "NanoStringNCTools",
         "cellranger",
-        "forcats",
         "ggbeeswarm",
         "ggiraph",
         "ggthemes",
@@ -18982,7 +18910,6 @@
         "cvms",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "ggpubr",
         "ggrepel",
         "ggridges",
@@ -19132,7 +19059,6 @@
         "SummarizedExperiment",
         "broom",
         "dml",
-        "forcats",
         "geepack",
         "ggforce",
         "ggformula",
@@ -19236,7 +19162,6 @@
         "concaveman",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -19474,7 +19399,6 @@
         "drc",
         "dtplyr",
         "fields",
-        "forcats",
         "ggforce",
         "ggrepel",
         "googledrive",
@@ -19576,7 +19500,6 @@
         "SummarizedExperiment",
         "annotate",
         "aplot",
-        "forcats",
         "geneplotter",
         "ggfun",
         "ggplotify",
@@ -20099,7 +20022,6 @@
         "bestNormalize",
         "biomaRt",
         "dbplyr",
-        "forcats",
         "ipred",
         "naniar",
         "readr",
@@ -20123,7 +20045,6 @@
         "broom",
         "car",
         "cowplot",
-        "forcats",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -20144,7 +20065,6 @@
     "TOAST": [
         "GGally",
         "SummarizedExperiment",
-        "forcats",
         "tidyr"
     ],
     "tomoda": [
@@ -20524,7 +20444,6 @@
         "dbplyr",
         "ensemblVEP",
         "ensembldb",
-        "forcats",
         "htmlTable",
         "htmlwidgets",
         "rmarkdown",
@@ -20877,7 +20796,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "annotate",
-        "forcats",
         "geneplotter",
         "ggrepel",
         "rmarkdown",
@@ -21209,7 +21127,6 @@
         "dbplyr",
         "dendextend",
         "ensembldb",
-        "forcats",
         "ggbeeswarm",
         "ggbio",
         "gtrellis",
@@ -21414,10 +21331,8 @@
         "viridis"
     ],
     "GGally": [
-        "forcats",
         "tidyr"
     ],
-    "forcats": [],
     "htmlTable": [
         "htmlwidgets",
         "rmarkdown"
@@ -21698,7 +21613,6 @@
         "cellranger",
         "dbplyr",
         "dtplyr",
-        "forcats",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -21772,7 +21686,6 @@
         "rematch2"
     ],
     "haven": [
-        "forcats",
         "readr",
         "vroom"
     ],
@@ -22166,7 +22079,6 @@
     "ggpp": [],
     "broom.mixed": [
         "broom",
-        "forcats",
         "tidyr"
     ],
     "mice": [
@@ -22402,7 +22314,6 @@
     "benchmarkmeData": [],
     "rio": [
         "cellranger",
-        "forcats",
         "haven",
         "readr",
         "readxl",
@@ -22912,7 +22823,6 @@
     ],
     "datamods": [
         "cellranger",
-        "forcats",
         "haven",
         "htmlwidgets",
         "reactable",
@@ -22995,7 +22905,6 @@
         "viridis"
     ],
     "agricolae": [
-        "forcats",
         "haven",
         "klaR",
         "labelled",
@@ -23007,7 +22916,6 @@
         "vroom"
     ],
     "klaR": [
-        "forcats",
         "haven",
         "labelled",
         "miniUI",
@@ -23018,7 +22926,6 @@
         "vroom"
     ],
     "questionr": [
-        "forcats",
         "haven",
         "labelled",
         "miniUI",
@@ -23028,7 +22935,6 @@
         "vroom"
     ],
     "labelled": [
-        "forcats",
         "haven",
         "readr",
         "tidyr",
@@ -23122,7 +23028,6 @@
     ],
     "ggmcmc": [
         "GGally",
-        "forcats",
         "tidyr"
     ],
     "shinycustomloader": [
@@ -23256,7 +23161,6 @@
         "broom",
         "car",
         "cellranger",
-        "forcats",
         "haven",
         "htmlTable",
         "htmlwidgets",
@@ -23310,7 +23214,6 @@
     ],
     "diceR": [
         "NMF",
-        "forcats",
         "haven",
         "klaR",
         "labelled",
@@ -23614,7 +23517,6 @@
         "broom",
         "car",
         "cowplot",
-        "forcats",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -23633,7 +23535,6 @@
         "waldo"
     ],
     "tidytidbits": [
-        "forcats",
         "tidyr"
     ],
     "DGEobj.utils": [],
@@ -23735,7 +23636,6 @@
     ],
     "MESS": [
         "broom",
-        "forcats",
         "geepack",
         "ggforce",
         "ggformula",
@@ -23751,7 +23651,6 @@
     ],
     "lfda": [],
     "ggformula": [
-        "forcats",
         "ggforce",
         "ggridges",
         "ggstance",
@@ -23809,7 +23708,6 @@
     ],
     "naniar": [
         "UpSetR",
-        "forcats",
         "readr",
         "tidyr",
         "viridis",
