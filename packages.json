@@ -48,7 +48,6 @@
         "methylumi",
         "minfi"
     ],
-    "artMS": [],
     "ASpediaFI": [
         "Gviz",
         "biovizBase",
