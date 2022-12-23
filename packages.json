@@ -3328,7 +3328,6 @@
         "latticeExtra",
         "org.Hs.eg.db",
         "purrr",
-        "rSpectral",
         "rmarkdown",
         "sass",
         "shiny",
@@ -43078,7 +43077,6 @@
         "tibble",
         "tidyselect"
     ],
-    "rSpectral": [],
     "WGCNA": [
         "AnnotationDbi",
         "Biostrings",
