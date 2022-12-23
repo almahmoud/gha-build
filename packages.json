@@ -67,7 +67,6 @@
     "APAlyzer": [
         "VariantAnnotation"
     ],
-    "APL": [],
     "appreci8R": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "COSMIC.67",
