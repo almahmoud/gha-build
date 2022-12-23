@@ -1985,7 +1985,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "survey",
         "testthat",
         "tibble",
         "tidyr",
@@ -7346,7 +7345,6 @@
         "patchwork",
         "reshape2",
         "scattermore",
-        "survey",
         "tibble"
     ],
     "debCAM": [
@@ -10280,7 +10278,6 @@
         "knitr",
         "plotly",
         "rmarkdown",
-        "survey",
         "tibble",
         "tidyr"
     ],
@@ -20174,7 +20171,6 @@
         "glmnet",
         "multtest",
         "network",
-        "survey",
         "tibble"
     ],
     "netOmics": [
@@ -25411,7 +25407,6 @@
         "geneplotter",
         "ggplot2",
         "latticeExtra",
-        "survey",
         "tibble",
         "vsn"
     ],
@@ -34001,7 +33996,6 @@
         "tibble"
     ],
     "optimr": [],
-    "survey": [],
     "sjmisc": [
         "dplyr",
         "tibble"
@@ -36303,12 +36297,9 @@
     ],
     "mppa": [],
     "ICSNP": [
-        "ICS",
-        "survey"
+        "ICS"
     ],
-    "ICS": [
-        "survey"
-    ],
+    "ICS": [],
     "dnet": [
         "dplyr",
         "progress",
