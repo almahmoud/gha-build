@@ -1,0 +1,32 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   750c8fce..3b8c3552  main       -> origin/main
+Updating 750c8fce..3b8c3552
+Fast-forward
+ lists/rbsurv                           | 2 +-
+ logs/run_ids/rstudio-binaries/SNAGEE   | 2 ++
+ logs/run_ids/rstudio-binaries/restfulr | 2 ++
+ packages.json                          | 1 -
+ 4 files changed, 5 insertions(+), 2 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/restfulr
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=sampSurf
++ PKG=sampSurf
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "sampSurf"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ echo 'No dependencies'
+No dependencies
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''sampSurf'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+
+real	0m7.232s
+user	0m4.674s
+sys	0m0.348s
