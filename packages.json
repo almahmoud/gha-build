@@ -2533,7 +2533,6 @@
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
-        "ChAMPdata",
         "DMRcate",
         "DSS",
         "DT",
@@ -20269,7 +20268,6 @@
         "tidyr"
     ],
     "GenomicTools": [],
-    "ChAMPdata": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "AnnotationDbi",
         "BiocFileCache",
