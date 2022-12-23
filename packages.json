@@ -830,7 +830,6 @@
         "viridis"
     ],
     "consensusDE": [
-        "EDASeq",
         "EnsDb.Hsapiens.v86",
         "RUVSeq",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
@@ -997,7 +996,6 @@
         "bumphunter"
     ],
     "DaMiRseq": [
-        "EDASeq",
         "FSelector",
         "FactoMineR",
         "Hmisc",
@@ -1235,7 +1233,6 @@
         "viridis"
     ],
     "EBSEA": [],
-    "EDASeq": [],
     "edge": [],
     "eegc": [
         "clusterProfiler",
@@ -1559,7 +1556,6 @@
     ],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
         "FSelector",
         "FactoMineR",
         "Hmisc",
@@ -2295,7 +2291,6 @@
     ],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
         "HDF5Array",
         "affy",
         "bsseq",
@@ -2863,7 +2858,6 @@
         "rhdf5"
     ],
     "octad": [
-        "EDASeq",
         "GSVA",
         "HDF5Array",
         "RUVSeq",
@@ -3473,7 +3467,6 @@
         "rhdf5"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "TFBSTools",
         "motifStack"
@@ -3643,9 +3636,7 @@
     ],
     "rTRMui": [],
     "RUVnormalize": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "sampleClassifier": [],
     "SBGNview": [],
     "scAlign": [
@@ -3719,7 +3710,6 @@
         "rhdf5"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq",
         "rhdf5"
     ],
@@ -4110,7 +4100,6 @@
     ],
     "standR": [
         "DropletUtils",
-        "EDASeq",
         "HDF5Array",
         "RUVSeq",
         "SpatialExperiment",
