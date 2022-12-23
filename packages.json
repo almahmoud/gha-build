@@ -417,7 +417,6 @@
     "artMS": [
         "AnnotationDbi",
         "MSstats",
-        "UpSetR",
         "ggrepel",
         "lme4",
         "nloptr",
@@ -465,7 +464,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "UpSetR",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3357,7 +3355,6 @@
     "DiscoRhythm": [
         "BiocStyle",
         "DT",
-        "UpSetR",
         "broom",
         "colourpicker",
         "dendextend",
@@ -5729,7 +5726,6 @@
     ],
     "iCOBRA": [
         "DT",
-        "UpSetR",
         "shinyBS"
     ],
     "ideal": [
@@ -5744,7 +5740,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "UpSetR",
         "annotate",
         "biomaRt",
         "dendextend",
@@ -6135,7 +6130,6 @@
         "testthat"
     ],
     "ivygapSE": [
-        "UpSetR",
         "broom",
         "car",
         "ggpubr",
@@ -6374,7 +6368,6 @@
         "rtracklayer"
     ],
     "LymphoSeq": [
-        "UpSetR",
         "aplot",
         "ggtree",
         "tidytree",
@@ -6469,7 +6462,6 @@
         "GenomicFeatures",
         "RnBeads",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "UpSetR",
         "annotate",
         "bigstatsr",
         "biomaRt",
@@ -6576,7 +6568,6 @@
     ],
     "MatrixQCvis": [
         "Hmisc",
-        "UpSetR",
         "htmlTable",
         "plotly",
         "proDA",
@@ -11283,7 +11274,6 @@
     ],
     "seqsetvis": [
         "GenomicAlignments",
-        "UpSetR",
         "rtracklayer"
     ],
     "SeqSQC": [
@@ -11811,7 +11801,6 @@
         "GO.db",
         "Hmisc",
         "SingleCellExperiment",
-        "UpSetR",
         "WGCNA",
         "annotate",
         "genefilter",
@@ -12155,9 +12144,7 @@
         "recipes"
     ],
     "subSeq": [],
-    "SummarizedBenchmark": [
-        "UpSetR"
-    ],
+    "SummarizedBenchmark": [],
     "Summix": [
         "nloptr",
         "testthat"
@@ -12606,7 +12593,6 @@
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
-        "UpSetR",
         "VariantAnnotation",
         "bestNormalize",
         "biomaRt",
@@ -13107,9 +13093,7 @@
         "scuttle",
         "zellkonverter"
     ],
-    "VennDetail": [
-        "UpSetR"
-    ],
+    "VennDetail": [],
     "vidger": [
         "AnnotationDbi",
         "DESeq2",
@@ -13130,7 +13114,6 @@
         "DiagrammeR",
         "GO.db",
         "GOSemSim",
-        "UpSetR",
         "biomaRt",
         "dendextend",
         "fgsea",
@@ -13586,7 +13569,6 @@
         "org.Hs.eg.db",
         "rtracklayer"
     ],
-    "UpSetR": [],
     "mGSZ": [],
     "ggfortify": [],
     "msigdbr": [],
@@ -14744,7 +14726,6 @@
         "recipes"
     ],
     "naniar": [
-        "UpSetR",
         "viridis",
         "visdat"
     ],
