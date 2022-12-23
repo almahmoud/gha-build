@@ -5323,7 +5323,6 @@
         "org.Hs.eg.db",
         "viridis"
     ],
-    "miRmine": [],
     "miRNAmeConverter": [
         "miRBaseVersions.db"
     ],
