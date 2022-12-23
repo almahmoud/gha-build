@@ -917,7 +917,6 @@
     "countsimQC": [],
     "cpvSNP": [],
     "crisprBowtie": [],
-    "crisprBwa": [],
     "crisprDesign": [
         "VariantAnnotation",
         "basilisk",
