@@ -484,7 +484,6 @@
         "ggbio",
         "viridis"
     ],
-    "CAGEr": [],
     "CAMERA": [
         "Hmisc",
         "MSnbase",
