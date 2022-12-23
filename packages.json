@@ -2497,7 +2497,6 @@
     ],
     "fCCAC": [
         "BSgenome",
-        "fda",
         "genomation",
         "rtracklayer"
     ],
@@ -2604,11 +2603,8 @@
         "pbkrtest",
         "rstatix"
     ],
-    "flowStats": [
-        "fda"
-    ],
+    "flowStats": [],
     "flowVS": [
-        "fda",
         "flowStats"
     ],
     "fobitools": [
@@ -2637,9 +2633,7 @@
         "lme4",
         "pbkrtest"
     ],
-    "FRGEpistasis": [
-        "fda"
-    ],
+    "FRGEpistasis": [],
     "frma": [
         "affy",
         "oligo"
@@ -2647,9 +2641,7 @@
     "frmaTools": [
         "affy"
     ],
-    "FunChIP": [
-        "fda"
-    ],
+    "FunChIP": [],
     "funtooNorm": [
         "GenomicFeatures",
         "HDF5Array",
@@ -3490,9 +3482,7 @@
         "rstatix",
         "survminer"
     ],
-    "IWTomics": [
-        "fda"
-    ],
+    "IWTomics": [],
     "karyoploteR": [
         "BSgenome",
         "GenomicFeatures",
@@ -5195,7 +5185,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "fda",
         "rtracklayer",
         "viridis"
     ],
@@ -7351,7 +7340,6 @@
         "GenomicFeatures",
         "ShortRead",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "fda",
         "geneplotter",
         "regioneR",
         "rtracklayer"
@@ -8009,7 +7997,6 @@
         "ExperimentHub"
     ],
     "gap": [],
-    "fda": [],
     "SPARQL": [],
     "NHPoisson": [
         "car",
