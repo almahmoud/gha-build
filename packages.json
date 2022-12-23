@@ -26419,7 +26419,6 @@
     ],
     "ramr": [
         "EnvStats",
-        "ExtDist",
         "GenomeInfoDb",
         "GenomicRanges",
         "XVector",
@@ -40621,7 +40620,6 @@
         "shiny",
         "tibble"
     ],
-    "ExtDist": [],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
         "AnnotationHub",
