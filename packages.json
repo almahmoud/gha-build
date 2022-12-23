@@ -2567,8 +2567,7 @@
         "textclean",
         "textstem",
         "ttgsea",
-        "visNetwork",
-        "webchem"
+        "visNetwork"
     ],
     "deepSNV": [
         "BSgenome",
@@ -4101,8 +4100,7 @@
         "textclean",
         "textstem",
         "ttgsea",
-        "visNetwork",
-        "webchem"
+        "visNetwork"
     ],
     "GenVisR": [
         "BSgenome",
@@ -8515,8 +8513,7 @@
     ],
     "RMassBank": [
         "ChemmineR",
-        "DT",
-        "webchem"
+        "DT"
     ],
     "Rmmquant": [
         "BiocStyle",
@@ -10672,8 +10669,7 @@
         "textclean",
         "textstem",
         "ttgsea",
-        "visNetwork",
-        "webchem"
+        "visNetwork"
     ],
     "VanillaICE": [
         "BSgenome",
@@ -11533,7 +11529,6 @@
         "testthat"
     ],
     "diffr": [],
-    "webchem": [],
     "text2vec": [
         "mlapi"
     ],
