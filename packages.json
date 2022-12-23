@@ -1544,9 +1544,7 @@
         "car"
     ],
     "nullranges": [],
-    "NxtIRFcore": [
-        "NxtIRFdata"
-    ],
+    "NxtIRFcore": [],
     "octad": [
         "RUVSeq"
     ],
@@ -2131,9 +2129,7 @@
     "SPIAT": [],
     "spicyR": [],
     "splatter": [],
-    "SpliceWiz": [
-        "NxtIRFdata"
-    ],
+    "SpliceWiz": [],
     "SplicingGraphs": [],
     "SPLINTER": [
         "Gviz",
@@ -2525,7 +2521,6 @@
     "RcmdrMisc": [
         "car"
     ],
-    "NxtIRFdata": [],
     "diceR": [],
     "AICcmodavg": [],
     "genlasso": [],
