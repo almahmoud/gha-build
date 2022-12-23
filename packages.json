@@ -789,7 +789,6 @@
         "treeio",
         "viridis"
     ],
-    "BiocDockerManager": [],
     "BiocFHIR": [],
     "biocGraph": [
         "AnnotationDbi",
