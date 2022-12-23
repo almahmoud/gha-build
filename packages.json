@@ -41548,7 +41548,6 @@
         "tidyr",
         "tidyselect",
         "tseries",
-        "urca",
         "viridis",
         "vsn",
         "xts"
@@ -67864,10 +67863,8 @@
         "scales",
         "tibble",
         "tseries",
-        "urca",
         "xts"
     ],
-    "urca": [],
     "rhandsontable": [
         "bslib",
         "htmltools",
