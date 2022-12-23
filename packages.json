@@ -49521,7 +49521,6 @@
         "survival",
         "tibble"
     ],
-    "spkTools": [],
     "splatter": [
         "BiocNeighbors",
         "BiocParallel",
