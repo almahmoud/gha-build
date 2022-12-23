@@ -3,7 +3,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "AgiMicroRna": [],
     "AneuFinder": [
         "ReorderCluster"
     ],
