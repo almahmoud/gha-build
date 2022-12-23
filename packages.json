@@ -42873,7 +42873,6 @@
     ],
     "scde": [
         "BiocParallel",
-        "extRemes",
         "futile.logger",
         "quantreg"
     ],
@@ -59810,7 +59809,6 @@
         "vctrs"
     ],
     "proxyC": [],
-    "extRemes": [],
     "torch": [],
     "sparsepca": [],
     "origami": [
