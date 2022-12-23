@@ -58487,7 +58487,6 @@
         "magick",
         "memoise",
         "mgcv",
-        "mmand",
         "munsell",
         "openssl",
         "pheatmap",
@@ -75797,7 +75796,6 @@
     ],
     "spData": [],
     "PRIMME": [],
-    "mmand": [],
     "alphahull": [
         "R.utils",
         "RcppEigen",
