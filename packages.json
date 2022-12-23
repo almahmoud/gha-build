@@ -2928,7 +2928,6 @@
     "decoupleR": [],
     "DeepBlueR": [
         "GenomicAlignments",
-        "diffr",
         "rtracklayer"
     ],
     "DeepPINCS": [
@@ -13137,7 +13136,6 @@
         "nloptr",
         "testthat"
     ],
-    "diffr": [],
     "rcdk": [],
     "textstem": [
         "lexicon",
