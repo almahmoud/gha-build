@@ -1,0 +1,704 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   c8367fab..fcf4aef4  main       -> origin/main
+Updating c8367fab..fcf4aef4
+Fast-forward
+ logs/run_ids/rstudio-binaries/DGEobj   | 2 ++
+ logs/run_ids/rstudio-binaries/fastreeR | 2 ++
+ 2 files changed, 4 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/DGEobj
+ create mode 100644 logs/run_ids/rstudio-binaries/fastreeR
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=cvAUC
++ PKG=cvAUC
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "cvAUC"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 10 3548k   10  366k    0     0   514k      0  0:00:06 --:--:--  0:00:06  514k 61 3548k   61 2199k    0     0  1285k      0  0:00:02  0:00:01  0:00:01 1285k100 3548k  100 3548k    0     0  1634k      0  0:00:02  0:00:02 --:--:-- 1635k
+built/
+built/gplots/
+built/gplots/NEWS
+built/gplots/NAMESPACE
+built/gplots/ChangeLog
+built/gplots/DESCRIPTION
+built/gplots/help/
+built/gplots/help/paths.rds
+built/gplots/help/gplots.rdx
+built/gplots/help/aliases.rds
+built/gplots/help/AnIndex
+built/gplots/help/gplots.rdb
+built/gplots/data/
+built/gplots/data/rtPCR.rda
+built/gplots/Meta/
+built/gplots/Meta/package.rds
+built/gplots/Meta/vignette.rds
+built/gplots/Meta/features.rds
+built/gplots/Meta/hsearch.rds
+built/gplots/Meta/links.rds
+built/gplots/Meta/nsInfo.rds
+built/gplots/Meta/Rd.rds
+built/gplots/Meta/data.rds
+built/gplots/html/
+built/gplots/html/00Index.html
+built/gplots/html/R.css
+built/gplots/TODO
+built/gplots/INDEX
+built/gplots/doc/
+built/gplots/doc/venn.Rnw
+built/gplots/doc/venn.pdf
+built/gplots/doc/venn.R
+built/gplots/doc/index.html
+built/gplots/R/
+built/gplots/R/gplots
+built/gplots/R/gplots.rdx
+built/gplots/R/gplots.rdb
+built/gplots/NEWS.md
+built/built/
+built/built/gplots/
+built/built/gplots/NEWS
+built/built/gplots/NAMESPACE
+built/built/gplots/ChangeLog
+built/built/gplots/DESCRIPTION
+built/built/gplots/help/
+built/built/gplots/help/paths.rds
+built/built/gplots/help/gplots.rdx
+built/built/gplots/help/aliases.rds
+built/built/gplots/help/AnIndex
+built/built/gplots/help/gplots.rdb
+built/built/gplots/data/
+built/built/gplots/data/rtPCR.rda
+built/built/gplots/Meta/
+built/built/gplots/Meta/package.rds
+built/built/gplots/Meta/vignette.rds
+built/built/gplots/Meta/features.rds
+built/built/gplots/Meta/hsearch.rds
+built/built/gplots/Meta/links.rds
+built/built/gplots/Meta/nsInfo.rds
+built/built/gplots/Meta/Rd.rds
+built/built/gplots/Meta/data.rds
+built/built/gplots/html/
+built/built/gplots/html/00Index.html
+built/built/gplots/html/R.css
+built/built/gplots/TODO
+built/built/gplots/INDEX
+built/built/gplots/doc/
+built/built/gplots/doc/venn.Rnw
+built/built/gplots/doc/venn.pdf
+built/built/gplots/doc/venn.R
+built/built/gplots/doc/index.html
+built/built/gplots/R/
+built/built/gplots/R/gplots
+built/built/gplots/R/gplots.rdx
+built/built/gplots/R/gplots.rdb
+built/built/gplots/NEWS.md
+built/built/built/
+built/built/built/caTools/
+built/built/built/caTools/libs/
+built/built/built/caTools/libs/caTools.so
+built/built/built/caTools/NEWS
+built/built/built/caTools/NAMESPACE
+built/built/built/caTools/DESCRIPTION
+built/built/built/caTools/help/
+built/built/built/caTools/help/paths.rds
+built/built/built/caTools/help/caTools.rdx
+built/built/built/caTools/help/aliases.rds
+built/built/built/caTools/help/AnIndex
+built/built/built/caTools/help/caTools.rdb
+built/built/built/caTools/Meta/
+built/built/built/caTools/Meta/package.rds
+built/built/built/caTools/Meta/features.rds
+built/built/built/caTools/Meta/hsearch.rds
+built/built/built/caTools/Meta/links.rds
+built/built/built/caTools/Meta/nsInfo.rds
+built/built/built/caTools/Meta/Rd.rds
+built/built/built/caTools/html/
+built/built/built/caTools/html/00Index.html
+built/built/built/caTools/html/R.css
+built/built/built/caTools/INDEX
+built/built/built/caTools/R/
+built/built/built/caTools/R/caTools
+built/built/built/caTools/R/caTools.rdx
+built/built/built/caTools/R/caTools.rdb
+built/built/built/bitops/
+built/built/built/bitops/libs/
+built/built/built/bitops/libs/bitops.so
+built/built/built/bitops/NAMESPACE
+built/built/built/bitops/DESCRIPTION
+built/built/built/bitops/help/
+built/built/built/bitops/help/paths.rds
+built/built/built/bitops/help/bitops.rdb
+built/built/built/bitops/help/aliases.rds
+built/built/built/bitops/help/bitops.rdx
+built/built/built/bitops/help/AnIndex
+built/built/built/bitops/Meta/
+built/built/built/bitops/Meta/package.rds
+built/built/built/bitops/Meta/features.rds
+built/built/built/bitops/Meta/hsearch.rds
+built/built/built/bitops/Meta/links.rds
+built/built/built/bitops/Meta/nsInfo.rds
+built/built/built/bitops/Meta/Rd.rds
+built/built/built/bitops/html/
+built/built/built/bitops/html/00Index.html
+built/built/built/bitops/html/R.css
+built/built/built/bitops/INDEX
+built/built/built/bitops/R/
+built/built/built/bitops/R/bitops.rdb
+built/built/built/bitops/R/bitops
+built/built/built/bitops/R/bitops.rdx
+built/built/built/KernSmooth/
+built/built/built/KernSmooth/libs/
+built/built/built/KernSmooth/libs/KernSmooth.so
+built/built/built/KernSmooth/NAMESPACE
+built/built/built/KernSmooth/DESCRIPTION
+built/built/built/KernSmooth/help/
+built/built/built/KernSmooth/help/paths.rds
+built/built/built/KernSmooth/help/aliases.rds
+built/built/built/KernSmooth/help/KernSmooth.rdx
+built/built/built/KernSmooth/help/KernSmooth.rdb
+built/built/built/KernSmooth/help/AnIndex
+built/built/built/KernSmooth/Meta/
+built/built/built/KernSmooth/Meta/package.rds
+built/built/built/KernSmooth/Meta/features.rds
+built/built/built/KernSmooth/Meta/hsearch.rds
+built/built/built/KernSmooth/Meta/links.rds
+built/built/built/KernSmooth/Meta/nsInfo.rds
+built/built/built/KernSmooth/Meta/Rd.rds
+built/built/built/KernSmooth/po/
+built/built/built/KernSmooth/po/it/
+built/built/built/KernSmooth/po/it/LC_MESSAGES/
+built/built/built/KernSmooth/po/it/LC_MESSAGES/R-KernSmooth.mo
+built/built/built/KernSmooth/po/fr/
+built/built/built/KernSmooth/po/fr/LC_MESSAGES/
+built/built/built/KernSmooth/po/fr/LC_MESSAGES/R-KernSmooth.mo
+built/built/built/KernSmooth/po/ko/
+built/built/built/KernSmooth/po/ko/LC_MESSAGES/
+built/built/built/KernSmooth/po/ko/LC_MESSAGES/R-KernSmooth.mo
+built/built/built/KernSmooth/po/pl/
+built/built/built/KernSmooth/po/pl/LC_MESSAGES/
+built/built/built/KernSmooth/po/pl/LC_MESSAGES/R-KernSmooth.mo
+built/built/built/KernSmooth/po/en@quot/
+built/built/built/KernSmooth/po/en@quot/LC_MESSAGES/
+built/built/built/KernSmooth/po/en@quot/LC_MESSAGES/R-KernSmooth.mo
+built/built/built/KernSmooth/po/de/
+built/built/built/KernSmooth/po/de/LC_MESSAGES/
+built/built/built/KernSmooth/po/de/LC_MESSAGES/R-KernSmooth.mo
+built/built/built/KernSmooth/html/
+built/built/built/KernSmooth/html/00Index.html
+built/built/built/KernSmooth/html/R.css
+built/built/built/KernSmooth/INDEX
+built/built/built/KernSmooth/R/
+built/built/built/KernSmooth/R/KernSmooth.rdx
+built/built/built/KernSmooth/R/KernSmooth
+built/built/built/KernSmooth/R/KernSmooth.rdb
+built/built/built/gtools/
+built/built/built/gtools/libs/
+built/built/built/gtools/libs/gtools.so
+built/built/built/gtools/NAMESPACE
+built/built/built/gtools/ChangeLog
+built/built/built/gtools/DESCRIPTION
+built/built/built/gtools/help/
+built/built/built/gtools/help/gtools.rdb
+built/built/built/gtools/help/paths.rds
+built/built/built/gtools/help/gtools.rdx
+built/built/built/gtools/help/aliases.rds
+built/built/built/gtools/help/figures/
+built/built/built/gtools/help/figures/README-pressure-1.png
+built/built/built/gtools/help/AnIndex
+built/built/built/gtools/data/
+built/built/built/gtools/data/ELISA.rda
+built/built/built/gtools/data/badDend.rda
+built/built/built/gtools/Meta/
+built/built/built/gtools/Meta/package.rds
+built/built/built/gtools/Meta/features.rds
+built/built/built/gtools/Meta/hsearch.rds
+built/built/built/gtools/Meta/links.rds
+built/built/built/gtools/Meta/nsInfo.rds
+built/built/built/gtools/Meta/Rd.rds
+built/built/built/gtools/Meta/data.rds
+built/built/built/gtools/WORDLIST
+built/built/built/gtools/html/
+built/built/built/gtools/html/00Index.html
+built/built/built/gtools/html/R.css
+built/built/built/gtools/INDEX
+built/built/built/gtools/R/
+built/built/built/gtools/R/gtools.rdb
+built/built/built/gtools/R/gtools.rdx
+built/built/built/gtools/R/gtools
+built/built/built/gtools/NEWS.md
+built/built/caTools/
+built/built/caTools/libs/
+built/built/caTools/libs/caTools.so
+built/built/caTools/NEWS
+built/built/caTools/NAMESPACE
+built/built/caTools/DESCRIPTION
+built/built/caTools/help/
+built/built/caTools/help/paths.rds
+built/built/caTools/help/caTools.rdx
+built/built/caTools/help/aliases.rds
+built/built/caTools/help/AnIndex
+built/built/caTools/help/caTools.rdb
+built/built/caTools/Meta/
+built/built/caTools/Meta/package.rds
+built/built/caTools/Meta/features.rds
+built/built/caTools/Meta/hsearch.rds
+built/built/caTools/Meta/links.rds
+built/built/caTools/Meta/nsInfo.rds
+built/built/caTools/Meta/Rd.rds
+built/built/caTools/html/
+built/built/caTools/html/00Index.html
+built/built/caTools/html/R.css
+built/built/caTools/INDEX
+built/built/caTools/R/
+built/built/caTools/R/caTools
+built/built/caTools/R/caTools.rdx
+built/built/caTools/R/caTools.rdb
+built/built/bitops/
+built/built/bitops/libs/
+built/built/bitops/libs/bitops.so
+built/built/bitops/NAMESPACE
+built/built/bitops/DESCRIPTION
+built/built/bitops/help/
+built/built/bitops/help/paths.rds
+built/built/bitops/help/bitops.rdb
+built/built/bitops/help/aliases.rds
+built/built/bitops/help/bitops.rdx
+built/built/bitops/help/AnIndex
+built/built/bitops/Meta/
+built/built/bitops/Meta/package.rds
+built/built/bitops/Meta/features.rds
+built/built/bitops/Meta/hsearch.rds
+built/built/bitops/Meta/links.rds
+built/built/bitops/Meta/nsInfo.rds
+built/built/bitops/Meta/Rd.rds
+built/built/bitops/html/
+built/built/bitops/html/00Index.html
+built/built/bitops/html/R.css
+built/built/bitops/INDEX
+built/built/bitops/R/
+built/built/bitops/R/bitops.rdb
+built/built/bitops/R/bitops
+built/built/bitops/R/bitops.rdx
+built/built/gtools/
+built/built/gtools/libs/
+built/built/gtools/libs/gtools.so
+built/built/gtools/NAMESPACE
+built/built/gtools/ChangeLog
+built/built/gtools/DESCRIPTION
+built/built/gtools/help/
+built/built/gtools/help/gtools.rdb
+built/built/gtools/help/paths.rds
+built/built/gtools/help/gtools.rdx
+built/built/gtools/help/aliases.rds
+built/built/gtools/help/figures/
+built/built/gtools/help/figures/README-pressure-1.png
+built/built/gtools/help/AnIndex
+built/built/gtools/data/
+built/built/gtools/data/ELISA.rda
+built/built/gtools/data/badDend.rda
+built/built/gtools/Meta/
+built/built/gtools/Meta/package.rds
+built/built/gtools/Meta/features.rds
+built/built/gtools/Meta/hsearch.rds
+built/built/gtools/Meta/links.rds
+built/built/gtools/Meta/nsInfo.rds
+built/built/gtools/Meta/Rd.rds
+built/built/gtools/Meta/data.rds
+built/built/gtools/WORDLIST
+built/built/gtools/html/
+built/built/gtools/html/00Index.html
+built/built/gtools/html/R.css
+built/built/gtools/INDEX
+built/built/gtools/R/
+built/built/gtools/R/gtools.rdb
+built/built/gtools/R/gtools.rdx
+built/built/gtools/R/gtools
+built/built/gtools/NEWS.md
+built/caTools/
+built/caTools/libs/
+built/caTools/libs/caTools.so
+built/caTools/NEWS
+built/caTools/NAMESPACE
+built/caTools/DESCRIPTION
+built/caTools/help/
+built/caTools/help/paths.rds
+built/caTools/help/caTools.rdx
+built/caTools/help/aliases.rds
+built/caTools/help/AnIndex
+built/caTools/help/caTools.rdb
+built/caTools/Meta/
+built/caTools/Meta/package.rds
+built/caTools/Meta/features.rds
+built/caTools/Meta/hsearch.rds
+built/caTools/Meta/links.rds
+built/caTools/Meta/nsInfo.rds
+built/caTools/Meta/Rd.rds
+built/caTools/html/
+built/caTools/html/00Index.html
+built/caTools/html/R.css
+built/caTools/INDEX
+built/caTools/R/
+built/caTools/R/caTools
+built/caTools/R/caTools.rdx
+built/caTools/R/caTools.rdb
+built/bitops/
+built/bitops/libs/
+built/bitops/libs/bitops.so
+built/bitops/NAMESPACE
+built/bitops/DESCRIPTION
+built/bitops/help/
+built/bitops/help/paths.rds
+built/bitops/help/bitops.rdb
+built/bitops/help/aliases.rds
+built/bitops/help/bitops.rdx
+built/bitops/help/AnIndex
+built/bitops/Meta/
+built/bitops/Meta/package.rds
+built/bitops/Meta/features.rds
+built/bitops/Meta/hsearch.rds
+built/bitops/Meta/links.rds
+built/bitops/Meta/nsInfo.rds
+built/bitops/Meta/Rd.rds
+built/bitops/html/
+built/bitops/html/00Index.html
+built/bitops/html/R.css
+built/bitops/INDEX
+built/bitops/R/
+built/bitops/R/bitops.rdb
+built/bitops/R/bitops
+built/bitops/R/bitops.rdx
+built/ROCR/
+built/ROCR/NEWS
+built/ROCR/NAMESPACE
+built/ROCR/DESCRIPTION
+built/ROCR/help/
+built/ROCR/help/paths.rds
+built/ROCR/help/ROCR.rdb
+built/ROCR/help/ROCR.rdx
+built/ROCR/help/aliases.rds
+built/ROCR/help/AnIndex
+built/ROCR/data/
+built/ROCR/data/ROCR.xval.rda
+built/ROCR/data/ROCR.simple.rda
+built/ROCR/data/ROCR.hiv.rda
+built/ROCR/Meta/
+built/ROCR/Meta/package.rds
+built/ROCR/Meta/vignette.rds
+built/ROCR/Meta/demo.rds
+built/ROCR/Meta/features.rds
+built/ROCR/Meta/hsearch.rds
+built/ROCR/Meta/links.rds
+built/ROCR/Meta/nsInfo.rds
+built/ROCR/Meta/Rd.rds
+built/ROCR/Meta/data.rds
+built/ROCR/CITATION
+built/ROCR/html/
+built/ROCR/html/00Index.html
+built/ROCR/html/R.css
+built/ROCR/INDEX
+built/ROCR/doc/
+built/ROCR/doc/ROCR.Rmd
+built/ROCR/doc/ROCR.html
+built/ROCR/doc/ROCR.R
+built/ROCR/doc/index.html
+built/ROCR/R/
+built/ROCR/R/ROCR.rdb
+built/ROCR/R/ROCR.rdx
+built/ROCR/R/ROCR
+built/ROCR/demo/
+built/ROCR/demo/ROCR.R
+built/gtools/
+built/gtools/libs/
+built/gtools/libs/gtools.so
+built/gtools/NAMESPACE
+built/gtools/ChangeLog
+built/gtools/DESCRIPTION
+built/gtools/help/
+built/gtools/help/gtools.rdb
+built/gtools/help/paths.rds
+built/gtools/help/gtools.rdx
+built/gtools/help/aliases.rds
+built/gtools/help/figures/
+built/gtools/help/figures/README-pressure-1.png
+built/gtools/help/AnIndex
+built/gtools/data/
+built/gtools/data/ELISA.rda
+built/gtools/data/badDend.rda
+built/gtools/Meta/
+built/gtools/Meta/package.rds
+built/gtools/Meta/features.rds
+built/gtools/Meta/hsearch.rds
+built/gtools/Meta/links.rds
+built/gtools/Meta/nsInfo.rds
+built/gtools/Meta/Rd.rds
+built/gtools/Meta/data.rds
+built/gtools/WORDLIST
+built/gtools/html/
+built/gtools/html/00Index.html
+built/gtools/html/R.css
+built/gtools/INDEX
+built/gtools/R/
+built/gtools/R/gtools.rdb
+built/gtools/R/gtools.rdx
+built/gtools/R/gtools
+built/gtools/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 2036k    1 32640    0     0  78226      0  0:00:26 --:--:--  0:00:26 78086 52 2036k   52 1063k    0     0   755k      0  0:00:02  0:00:01  0:00:01  754k100 2036k  100 2036k    0     0  1082k      0  0:00:01  0:00:01 --:--:-- 1081k
+built/
+built/data.table/
+built/data.table/libs/
+built/data.table/libs/data_table.so
+built/data.table/NAMESPACE
+built/data.table/DESCRIPTION
+built/data.table/help/
+built/data.table/help/paths.rds
+built/data.table/help/data.table.rdx
+built/data.table/help/aliases.rds
+built/data.table/help/data.table.rdb
+built/data.table/help/AnIndex
+built/data.table/Meta/
+built/data.table/Meta/package.rds
+built/data.table/Meta/vignette.rds
+built/data.table/Meta/features.rds
+built/data.table/Meta/hsearch.rds
+built/data.table/Meta/links.rds
+built/data.table/Meta/nsInfo.rds
+built/data.table/Meta/Rd.rds
+built/data.table/include/
+built/data.table/include/datatableAPI.h
+built/data.table/po/
+built/data.table/po/zh_CN/
+built/data.table/po/zh_CN/LC_MESSAGES/
+built/data.table/po/zh_CN/LC_MESSAGES/data.table.mo
+built/data.table/po/zh_CN/LC_MESSAGES/R-data.table.mo
+built/data.table/po/en@quot/
+built/data.table/po/en@quot/LC_MESSAGES/
+built/data.table/po/en@quot/LC_MESSAGES/data.table.mo
+built/data.table/po/en@quot/LC_MESSAGES/R-data.table.mo
+built/data.table/LICENSE
+built/data.table/html/
+built/data.table/html/00Index.html
+built/data.table/html/R.css
+built/data.table/INDEX
+built/data.table/doc/
+built/data.table/doc/datatable-benchmarking.Rmd
+built/data.table/doc/datatable-importing.Rmd
+built/data.table/doc/datatable-reshape.R
+built/data.table/doc/datatable-secondary-indices-and-auto-indexing.Rmd
+built/data.table/doc/datatable-faq.R
+built/data.table/doc/datatable-sd-usage.R
+built/data.table/doc/datatable-secondary-indices-and-auto-indexing.R
+built/data.table/doc/datatable-reference-semantics.html
+built/data.table/doc/datatable-keys-fast-subset.Rmd
+built/data.table/doc/datatable-keys-fast-subset.R
+built/data.table/doc/datatable-secondary-indices-and-auto-indexing.html
+built/data.table/doc/datatable-sd-usage.html
+built/data.table/doc/datatable-intro.html
+built/data.table/doc/datatable-faq.Rmd
+built/data.table/doc/datatable-faq.html
+built/data.table/doc/index.html
+built/data.table/doc/datatable-reference-semantics.R
+built/data.table/doc/datatable-keys-fast-subset.html
+built/data.table/doc/datatable-intro.R
+built/data.table/doc/datatable-sd-usage.Rmd
+built/data.table/doc/datatable-reshape.Rmd
+built/data.table/doc/datatable-reshape.html
+built/data.table/doc/datatable-intro.Rmd
+built/data.table/doc/datatable-reference-semantics.Rmd
+built/data.table/doc/datatable-importing.html
+built/data.table/doc/datatable-benchmarking.html
+built/data.table/R/
+built/data.table/R/data.table.rdx
+built/data.table/R/data.table.rdb
+built/data.table/R/data.table
+built/data.table/cc
+built/data.table/tests/
+built/data.table/tests/tests.Rraw.bz2
+built/data.table/tests/issue_773_fread.txt
+built/data.table/tests/types.Rraw.bz2
+built/data.table/tests/tests-DESCRIPTION
+built/data.table/tests/test1372.Rdata
+built/data.table/tests/SA2-by-DJZ.csv.gz
+built/data.table/tests/issue_1573_fill.txt
+built/data.table/tests/536_fread_fill_1.txt
+built/data.table/tests/issue_1462_fread_quotes.txt.gz
+built/data.table/tests/alluniquechar.csv.gz
+built/data.table/tests/fread_blank.txt
+built/data.table/tests/gb18030.txt
+built/data.table/tests/utf16be.txt
+built/data.table/tests/colnames4096.csv.bz2
+built/data.table/tests/fillheader.csv.bz2
+built/data.table/tests/issue_1164_json.txt
+built/data.table/tests/530_fread.txt
+built/data.table/tests/allchar.csv.gz
+built/data.table/tests/froll.Rraw.bz2
+built/data.table/tests/536_fread_fill_3_extreme.txt
+built/data.table/tests/fread_blank2.txt
+built/data.table/tests/536_fread_fill_4.txt
+built/data.table/tests/issue_1116_fread_few_lines_2.txt.gz
+built/data.table/tests/grr.csv.gz
+built/data.table/tests/1680-fread-header-encoding.csv
+built/data.table/tests/utf16le.txt
+built/data.table/tests/ch11b.dat.bz2
+built/data.table/tests/issue_563_fread.txt
+built/data.table/tests/onecol4096.csv.bz2
+built/data.table/tests/issue_2157_sampling_reached_eof_early.txt.bz2
+built/data.table/tests/issue_1116_fread_few_lines.txt.gz
+built/data.table/tests/melt_1754_synth.csv.bz2
+built/data.table/tests/fread_line_error.csv.bz2
+built/data.table/tests/issue_1087_utf8_bom.csv
+built/data.table/tests/issue_3400_fread.txt
+built/data.table/tests/winallquoted.csv.bz2
+built/data.table/tests/russellCRLF.csv
+built/data.table/tests/issue_2051.csv.gz
+built/data.table/tests/bad.txt.bz2
+built/data.table/tests/536_fread_fill_2.txt
+built/data.table/tests/melt-warning-1752.tsv.gz
+built/data.table/tests/doublequote_newline.csv
+built/data.table/tests/test1372-1.Rdata
+built/data.table/tests/fread_blank3.txt
+built/data.table/tests/quoted_multiline.csv.bz2
+built/data.table/tests/benchmark.Rraw.bz2
+built/data.table/tests/1206FUT.txt.bz2
+built/data.table/tests/unescaped.csv
+built/data.table/tests/issue_1095_fread.txt.bz2
+built/data.table/tests/noquote.csv.gz
+built/data.table/tests/quoted_no_header.csv
+built/data.table/tests/nafill.Rraw.bz2
+built/data.table/tests/issue_1113_fread.txt.bz2
+built/data.table/tests/issue_2157_sampling_overlap.txt.gz
+built/data.table/tests/russellCRCRLF.csv
+built/data.table/tests/isoweek_test.csv.bz2
+built/data.table/tests/test0.txt.bz2
+built/data.table/tests/melt_1754.R.gz
+built/data.table/tests/genotypes_genome.txt.bz2
+built/data.table/tests/iterations.txt.bz2
+built/data.table/tests/issue_785_fread.txt.gz
+built/data.table/tests/csvy/
+built/data.table/tests/csvy/test_override_header.csvy
+built/data.table/tests/csvy/test_override_dec.csvy
+built/data.table/tests/csvy/test_comment.csvy
+built/data.table/tests/csvy/test_skip.csvy
+built/data.table/tests/csvy/test_override_quote.csvy
+built/data.table/tests/csvy/test_incomplete_header.csvy
+built/data.table/tests/csvy/test_missing_type.csvy
+built/data.table/tests/csvy/test_override_na.csvy
+built/data.table/tests/csvy/test_override_sep.csvy
+built/data.table/tests/csvy/test_extraneous.csvy
+built/data.table/tests/csvy/test.csvy
+built/data.table/tests/csvy/test_attributes.csvy
+built/data.table/tests/session_aborted_fatal_error.txt.bz2
+built/data.table/tests/other.Rraw.bz2
+built/data.table/tests/2008head.csv.bz2
+built/data.table/tests/issue_1330_fread.txt
+built/data.table/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''cvAUC'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv bitops_1.0-7_R_x86_64-pc-linux-gnu.tar.gz caTools_1.18.2_R_x86_64-pc-linux-gnu.tar.gz cvAUC_1.1.4_R_x86_64-pc-linux-gnu.tar.gz data.table_1.14.6_R_x86_64-pc-linux-gnu.tar.gz gplots_3.1.3_R_x86_64-pc-linux-gnu.tar.gz gtools_3.9.4_R_x86_64-pc-linux-gnu.tar.gz ROCR_1.0-11_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/cvAUC
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'cvAUC'
+also installing the dependencies ‘bitops’, ‘gtools’, ‘caTools’, ‘gplots’, ‘ROCR’, ‘data.table’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/bitops_1.0-7.tar.gz'
+Content type 'binary/octet-stream' length 32391 bytes (31 KB)
+==================================================
+downloaded 31 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gtools_3.9.4.tar.gz'
+Content type 'binary/octet-stream' length 352174 bytes (343 KB)
+==================================================
+downloaded 343 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/caTools_1.18.2.tar.gz'
+Content type 'binary/octet-stream' length 245911 bytes (240 KB)
+==================================================
+downloaded 240 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gplots_3.1.3.tar.gz'
+Content type 'binary/octet-stream' length 594297 bytes (580 KB)
+==================================================
+downloaded 580 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/ROCR_1.0-11.tar.gz'
+Content type 'binary/octet-stream' length 449214 bytes (438 KB)
+==================================================
+downloaded 438 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/data.table_1.14.6.tar.gz'
+Content type 'binary/octet-stream' length 2082451 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/cvAUC_1.1.4.tar.gz'
+Content type 'binary/octet-stream' length 120706 bytes (117 KB)
+==================================================
+downloaded 117 KB
+
+* installing *binary* package ‘bitops’ ...
+* ‘bitops’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bitops’ as ‘bitops_1.0-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bitops)
+* installing *binary* package ‘gtools’ ...
+* ‘gtools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gtools’ as ‘gtools_3.9.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gtools)
+* installing *binary* package ‘data.table’ ...
+* ‘data.table’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘data.table’ as ‘data.table_1.14.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (data.table)
+* installing *binary* package ‘caTools’ ...
+* ‘caTools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘caTools’ as ‘caTools_1.18.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (caTools)
+* installing *binary* package ‘gplots’ ...
+* ‘gplots’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gplots’ as ‘gplots_3.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gplots)
+* installing *binary* package ‘ROCR’ ...
+* ‘ROCR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ROCR’ as ‘ROCR_1.0-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ROCR)
+* installing *binary* package ‘cvAUC’ ...
+* ‘cvAUC’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘cvAUC’ as ‘cvAUC_1.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cvAUC)
+
+The downloaded source packages are in
+	‘/tmp/RtmpfqGwhz/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m15.279s
+user	0m7.541s
+sys	0m1.275s

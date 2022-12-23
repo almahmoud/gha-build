@@ -2172,7 +2172,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "SuperLearner",
-        "cvAUC",
         "dplyr",
         "drtmle",
         "ggdendro",
@@ -27864,13 +27863,9 @@
         "ggplot2"
     ],
     "drtmle": [
-        "SuperLearner",
-        "cvAUC"
+        "SuperLearner"
     ],
-    "SuperLearner": [
-        "cvAUC"
-    ],
-    "cvAUC": [],
+    "SuperLearner": [],
     "biscuiteerData": [
         "AnnotationDbi",
         "AnnotationHub",
