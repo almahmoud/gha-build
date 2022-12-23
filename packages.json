@@ -4154,7 +4154,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "TarSeqQC": [],
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
