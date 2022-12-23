@@ -1165,7 +1165,6 @@
         "car"
     ],
     "OpenStats": [
-        "AICcmodavg",
         "car"
     ],
     "ORFhunteR": [],
@@ -1801,7 +1800,6 @@
     "RcmdrMisc": [
         "car"
     ],
-    "AICcmodavg": [],
     "genlasso": [],
     "EnsDb.Mmusculus.v79": [],
     "EnsDb.Rnorvegicus.v79": [],
