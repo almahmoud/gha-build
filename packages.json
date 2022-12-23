@@ -1487,8 +1487,7 @@
         "enrichplot"
     ],
     "MAIT": [
-        "agricolae",
-        "klaR"
+        "agricolae"
     ],
     "maser": [
         "Gviz",
@@ -1970,8 +1969,7 @@
         "ensembldb"
     ],
     "omada": [
-        "diceR",
-        "klaR"
+        "diceR"
     ],
     "omicRexposome": [
         "FactoMineR",
@@ -3172,10 +3170,7 @@
     "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "depmap": [],
-    "agricolae": [
-        "klaR"
-    ],
-    "klaR": [],
+    "agricolae": [],
     "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb"
@@ -3202,9 +3197,7 @@
     ],
     "NxtIRFdata": [],
     "octad.db": [],
-    "diceR": [
-        "klaR"
-    ],
+    "diceR": [],
     "AICcmodavg": [
         "unmarked"
     ],
