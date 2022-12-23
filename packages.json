@@ -294,8 +294,7 @@
         "interactiveDisplayBase",
         "readr",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "amplican": [
         "GenomicAlignments",
@@ -445,8 +444,7 @@
         "readr",
         "regioneR",
         "rtracklayer",
-        "shiny",
-        "vroom"
+        "shiny"
     ],
     "anota": [
         "qvalue"
@@ -482,8 +480,7 @@
         "miniUI",
         "readr",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "APAlyzer": [
         "AnnotationDbi",
@@ -611,8 +608,7 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "arrayQualityMetrics": [
         "AnnotationDbi",
@@ -783,8 +779,7 @@
         "shiny",
         "tidyr",
         "tidyverse",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "ATACseqQC": [
         "AnnotationDbi",
@@ -814,8 +809,7 @@
         "readr",
         "regioneR",
         "rtracklayer",
-        "shiny",
-        "vroom"
+        "shiny"
     ],
     "ATACseqTFEA": [
         "AnnotationDbi",
@@ -831,8 +825,7 @@
         "ggrepel",
         "motifmatchr",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "atena": [
         "AnnotationDbi",
@@ -866,7 +859,6 @@
         "readr",
         "rtracklayer",
         "testthat",
-        "vroom",
         "waldo"
     ],
     "attract": [
@@ -1252,7 +1244,6 @@
         "readr",
         "rtracklayer",
         "tidyr",
-        "vroom",
         "wateRmelon"
     ],
     "bigPint": [
@@ -1354,12 +1345,10 @@
         "treeio",
         "viridis",
         "visNetwork",
-        "vroom",
         "waldo"
     ],
     "BiocDockerManager": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "BiocFHIR": [
         "DT",
@@ -1424,8 +1413,7 @@
         "htmlwidgets",
         "readr",
         "rorcid",
-        "rvest",
-        "vroom"
+        "rvest"
     ],
     "BiocSet": [
         "AnnotationDbi",
@@ -1696,8 +1684,7 @@
         "readr",
         "regioneR",
         "rtracklayer",
-        "shiny",
-        "vroom"
+        "shiny"
     ],
     "BiSeq": [
         "AnnotationDbi",
@@ -1947,8 +1934,7 @@
     ],
     "bugsigdbr": [
         "BiocFileCache",
-        "dbplyr",
-        "vroom"
+        "dbplyr"
     ],
     "BUMHMM": [
         "SummarizedExperiment",
@@ -2164,8 +2150,7 @@
     ],
     "CARNIVAL": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "casper": [
         "AnnotationDbi",
@@ -2253,8 +2238,7 @@
         "rtracklayer",
         "rvest",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "CBEA": [
         "AnnotationDbi",
@@ -2293,8 +2277,7 @@
         "rtracklayer",
         "rvest",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "cbpManager": [
         "DT",
@@ -2303,8 +2286,7 @@
         "shiny",
         "shinyBS",
         "shinycssloaders",
-        "shinydashboard",
-        "vroom"
+        "shinydashboard"
     ],
     "ccfindR": [
         "SingleCellExperiment",
@@ -2326,8 +2308,7 @@
         "MAST",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "celda": [
         "BiocSingular",
@@ -2597,8 +2578,7 @@
         "genomation",
         "readr",
         "rtracklayer",
-        "seqPattern",
-        "vroom"
+        "seqPattern"
     ],
     "cfDNAPro": [
         "GenomicAlignments",
@@ -2677,7 +2657,6 @@
         "sva",
         "tidyr",
         "viridis",
-        "vroom",
         "wateRmelon"
     ],
     "ChemmineR": [
@@ -2771,8 +2750,7 @@
         "readr",
         "rms",
         "rtracklayer",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "ChIPexoQual": [
         "AnnotationDbi",
@@ -2907,8 +2885,7 @@
         "oligo",
         "oligoClasses",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "chromDraw": [],
     "ChromHeatMap": [
@@ -2998,8 +2975,7 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "CHRONOS": [
         "AnnotationDbi",
@@ -3069,8 +3045,7 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "universalmotif",
-        "vroom"
+        "universalmotif"
     ],
     "CircSeqAlignTk": [
         "AnnotationDbi",
@@ -3227,8 +3202,7 @@
         "cowplot",
         "fgsea",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "cmapR": [
         "SummarizedExperiment"
@@ -3251,8 +3225,7 @@
         "SummarizedExperiment",
         "annotate",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "CNORdt": [
         "CellNOptR"
@@ -3399,7 +3372,6 @@
         "SummarizedExperiment",
         "readr",
         "tidyr",
-        "vroom",
         "vsn"
     ],
     "CoGAPS": [
@@ -3573,8 +3545,7 @@
         "shiny",
         "shinydashboard",
         "shinyjs",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "conclus": [
         "AnnotationDbi",
@@ -3635,7 +3606,6 @@
         "tidytree",
         "treeio",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "condiments": [
@@ -3760,8 +3730,7 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "copynumber": [],
     "CopyNumberPlots": [
@@ -3852,8 +3821,7 @@
         "readr",
         "tidyr",
         "viper",
-        "visNetwork",
-        "vroom"
+        "visNetwork"
     ],
     "COTAN": [
         "ggrepel",
@@ -3909,8 +3877,7 @@
         "SummarizedExperiment",
         "crisprBase",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "crisprBwa": [
         "BSgenome",
@@ -3919,8 +3886,7 @@
         "SummarizedExperiment",
         "crisprBase",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "crisprDesign": [
         "AnnotationDbi",
@@ -3945,8 +3911,7 @@
         "interactiveDisplayBase",
         "readr",
         "rtracklayer",
-        "shiny",
-        "vroom"
+        "shiny"
     ],
     "crisprScore": [
         "AnnotationDbi",
@@ -4001,8 +3966,7 @@
         "shiny",
         "shinyjs",
         "tensorflow",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "CrispRVariants": [
         "AnnotationDbi",
@@ -4043,8 +4007,7 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "crisprViz": [
         "AnnotationDbi",
@@ -4077,8 +4040,7 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "crlmm": [
         "SummarizedExperiment",
@@ -4105,8 +4067,7 @@
         "shinyjs",
         "shinypanel",
         "sva",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "CSAR": [],
     "csaw": [
@@ -4356,8 +4317,7 @@
         "htmlwidgets",
         "motifStack",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "DAMEfinder": [
         "AnnotationDbi",
@@ -4374,8 +4334,7 @@
         "cowplot",
         "dbplyr",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "DaMiRseq": [
         "AnnotationDbi",
@@ -4455,7 +4414,6 @@
         "testthat",
         "tidyr",
         "usethis",
-        "vroom",
         "waldo"
     ],
     "dce": [
@@ -4488,8 +4446,7 @@
         "tidygraph",
         "tidyr",
         "tidyverse",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "ddPCRclust": [
         "GEOmap",
@@ -4515,8 +4472,7 @@
         "DMwR2",
         "NMF",
         "SummarizedExperiment",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "debrowser": [
         "AnnotationDbi",
@@ -4633,7 +4589,6 @@
         "rtracklayer",
         "testthat",
         "tidyr",
-        "vroom",
         "waldo"
     ],
     "decoupleR": [
@@ -4665,7 +4620,6 @@
         "ttgsea",
         "viridis",
         "visNetwork",
-        "vroom",
         "webchem"
     ],
     "deepSNV": [
@@ -4770,7 +4724,6 @@
         "shiny",
         "shinydashboard",
         "tidyr",
-        "vroom",
         "vsn"
     ],
     "DepecheR": [
@@ -4899,8 +4852,7 @@
         "genefilter",
         "readr",
         "sva",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "DEXSeq": [
         "AnnotationDbi",
@@ -5143,8 +5095,7 @@
         "ruv",
         "shiny",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "DMRforPairs": [
         "AnnotationDbi",
@@ -5190,8 +5141,7 @@
         "readr",
         "regioneR",
         "rtracklayer",
-        "shiny",
-        "vroom"
+        "shiny"
     ],
     "DNABarcodeCompatibility": [
         "tidyr"
@@ -5272,8 +5222,7 @@
     ],
     "drawProteins": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "DRIMSeq": [],
     "DropletUtils": [
@@ -5314,8 +5263,7 @@
         "org.Hs.eg.db",
         "qvalue",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "DSS": [
         "BSgenome",
@@ -5503,8 +5451,7 @@
     "EGAD": [
         "GEOquery",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "EGSEA": [
         "AnnotationDbi",
@@ -5583,7 +5530,6 @@
         "testthat",
         "tidyr",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "EMDomics": [],
@@ -5605,8 +5551,7 @@
         "dbplyr",
         "motifmatchr",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "ENmix": [
         "AnnotationDbi",
@@ -5632,8 +5577,7 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
@@ -5729,7 +5673,6 @@
         "treeio",
         "viridis",
         "visNetwork",
-        "vroom",
         "waldo"
     ],
     "ensembldb": [
@@ -5823,8 +5766,7 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "epidecodeR": [
         "EnvStats",
@@ -5936,8 +5878,7 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "epimutacions": [
         "AnnotationDbi",
@@ -5983,8 +5924,7 @@
         "rtracklayer",
         "shiny",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "epiNEM": [
         "Linnorm",
@@ -6164,8 +6104,7 @@
         "tidytree",
         "treeio",
         "viridis",
-        "visNetwork",
-        "vroom"
+        "visNetwork"
     ],
     "escape": [
         "AnnotationDbi",
@@ -6257,7 +6196,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "vroom",
         "waldo"
     ],
     "ExCluster": [
@@ -6393,7 +6331,6 @@
         "readr",
         "rtracklayer",
         "tidyr",
-        "vroom",
         "wiggleplotr"
     ],
     "FamAgg": [
@@ -6483,8 +6420,7 @@
         "rainbow",
         "readr",
         "rtracklayer",
-        "seqPattern",
-        "vroom"
+        "seqPattern"
     ],
     "fCI": [
         "htmlwidgets",
@@ -6576,8 +6512,7 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "fgga": [
         "BiocFileCache",
@@ -6786,8 +6721,7 @@
         "textclean",
         "tidygraph",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "FoldGO": [
         "AnnotationDbi",
@@ -6873,8 +6807,7 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "FuseSOM": [
         "DataVisualizations",
@@ -7064,7 +6997,6 @@
         "tidytree",
         "treeio",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "GDSArray": [
@@ -7264,22 +7196,19 @@
         "SummarizedExperiment",
         "readr",
         "rtracklayer",
-        "seqPattern",
-        "vroom"
+        "seqPattern"
     ],
     "GenomAutomorphism": [],
     "genomeIntervals": [],
     "genomes": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "GenomicAlignments": [
         "Rsamtools",
         "SummarizedExperiment"
     ],
     "GenomicDataCommons": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "GenomicDistributions": [
         "broom",
@@ -7444,7 +7373,6 @@
         "ttgsea",
         "viridis",
         "visNetwork",
-        "vroom",
         "webchem"
     ],
     "GenVisR": [
@@ -7511,7 +7439,6 @@
         "testthat",
         "tidyr",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "GEOfastq": [
@@ -7520,8 +7447,7 @@
     "GEOmetadb": [
         "GEOquery",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "GeomxTools": [
         "EnvStats",
@@ -7542,8 +7468,7 @@
     ],
     "GEOquery": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "gep2pep": [
         "AnnotationDbi",
@@ -7732,7 +7657,6 @@
         "survminer",
         "testthat",
         "tidyr",
-        "vroom",
         "waldo"
     ],
     "GlobalAncova": [
@@ -7806,8 +7730,7 @@
         "readr",
         "tidyr",
         "viridis",
-        "visNetwork",
-        "vroom"
+        "visNetwork"
     ],
     "GOexpress": [
         "AnnotationDbi",
@@ -7954,8 +7877,7 @@
         "readr",
         "tidyr",
         "topGO",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "granulator": [
         "cowplot",
@@ -8114,8 +8036,7 @@
         "rio",
         "rtracklayer",
         "tensorflow",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "Guitar": [
         "AnnotationDbi",
@@ -8173,8 +8094,7 @@
         "interactiveDisplayBase",
         "readr",
         "rtracklayer",
-        "shiny",
-        "vroom"
+        "shiny"
     ],
     "GWASTools": [
         "broom",
@@ -8229,8 +8149,7 @@
         "miniUI",
         "readr",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "heatmaps": [
         "EBImage",
@@ -8280,8 +8199,7 @@
     ],
     "HiCBricks": [
         "readr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "HiCcompare": [
         "CGHcall",
@@ -8375,8 +8293,7 @@
         "rtracklayer",
         "shiny",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "HilbertCurve": [],
     "HiLDA": [
@@ -8441,8 +8358,7 @@
         "caret",
         "readr",
         "recipes",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "HTSeqGenie": [
         "AnnotationDbi",
@@ -8555,8 +8471,7 @@
         "readr",
         "rgl",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "iCNV": [
         "BSgenome",
@@ -8715,8 +8630,7 @@
         "svgPanZoom",
         "tidygraph",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "IMMAN": [
         "STRINGdb"
@@ -8734,8 +8648,7 @@
     "immunotation": [
         "readr",
         "rvest",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "INDEED": [
         "devtools",
@@ -8782,8 +8695,7 @@
         "dbplyr",
         "plyranges",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "INSPEcT": [
         "AnnotationDbi",
@@ -9067,8 +8979,7 @@
         "shiny",
         "shinyWidgets",
         "shinybusy",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "iSEE": [
         "DT",
@@ -9154,15 +9065,13 @@
     "IsoCorrectoR": [
         "cellranger",
         "readr",
-        "readxl",
-        "vroom"
+        "readxl"
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
         "cellranger",
         "readr",
-        "readxl",
-        "vroom"
+        "readxl"
     ],
     "IsoformSwitchAnalyzeR": [
         "AnnotationDbi",
@@ -9190,8 +9099,7 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "tximeta",
-        "vroom"
+        "tximeta"
     ],
     "isomiRs": [
         "AnnotationDbi",
@@ -9207,8 +9115,7 @@
         "ggdendro",
         "ggrepel",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "ITALICS": [
         "SummarizedExperiment",
@@ -9392,8 +9299,7 @@
         "shinythemes",
         "shinyvalidate",
         "sortable",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "LedPred": [
         "testthat",
@@ -9451,7 +9357,6 @@
         "rstatix",
         "testthat",
         "tidyr",
-        "vroom",
         "waldo"
     ],
     "Linnorm": [
@@ -9560,8 +9465,7 @@
         "rtracklayer",
         "rvest",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "LRBaseDbi": [
         "AnnotationDbi",
@@ -9601,8 +9505,7 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "LymphoSeq": [
         "UpSetR",
@@ -9756,8 +9659,7 @@
         "readr",
         "rtracklayer",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "MAGeCKFlute": [
         "AnnotationDbi",
@@ -9818,8 +9720,7 @@
         "reprex",
         "rvest",
         "tidyr",
-        "tidyverse",
-        "vroom"
+        "tidyverse"
     ],
     "MAIT": [
         "CAMERA",
@@ -9843,7 +9744,6 @@
         "shiny",
         "tidyr",
         "viridis",
-        "vroom",
         "vsn",
         "xcms"
     ],
@@ -9926,8 +9826,7 @@
         "TFBSTools",
         "annotate",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "MBASED": [
         "SummarizedExperiment"
@@ -10072,8 +9971,7 @@
         "ruv",
         "sva",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "MEAT": [
         "AnnotationDbi",
@@ -10099,7 +9997,6 @@
         "readr",
         "rtracklayer",
         "tidyr",
-        "vroom",
         "wateRmelon"
     ],
     "MEB": [
@@ -10133,7 +10030,6 @@
         "readr",
         "testthat",
         "usethis",
-        "vroom",
         "waldo"
     ],
     "MEIGOR": [
@@ -10155,7 +10051,6 @@
         "tidyr",
         "universalmotif",
         "usethis",
-        "vroom",
         "waldo"
     ],
     "MeSHDbi": [
@@ -10496,7 +10391,6 @@
         "shiny",
         "testthat",
         "tidyr",
-        "vroom",
         "waldo"
     ],
     "methrix": [
@@ -10525,8 +10419,7 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "methylCC": [
         "AnnotationDbi",
@@ -10551,8 +10444,7 @@
         "plyranges",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "methylclock": [
         "AnnotationDbi",
@@ -10613,7 +10505,6 @@
         "tidyr",
         "tidyverse",
         "usethis",
-        "vroom",
         "waldo"
     ],
     "methylGSA": [
@@ -10670,8 +10561,7 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "methylInheritance": [
         "GenomicAlignments",
@@ -10759,8 +10649,7 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "MetID": [
         "ChemmineR",
@@ -10887,7 +10776,6 @@
         "testthat",
         "tidyr",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "microbiomeMarker": [
@@ -11085,8 +10973,7 @@
         "readr",
         "rtracklayer",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "minfi": [
         "AnnotationDbi",
@@ -11104,8 +10991,7 @@
         "genefilter",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "MinimumDistance": [
         "BSgenome",
@@ -11162,8 +11048,7 @@
         "readr",
         "rvest",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "miRmine": [
         "SummarizedExperiment"
@@ -11263,7 +11148,6 @@
         "tidyverse",
         "treeio",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "miRspongeR": [
@@ -11330,7 +11214,6 @@
         "tidyverse",
         "treeio",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "mirTarRnaSeq": [],
@@ -11361,8 +11244,7 @@
         "readr",
         "rtracklayer",
         "ruv",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "missRows": [
         "MultiAssayExperiment",
@@ -11373,8 +11255,7 @@
         "caret",
         "readr",
         "recipes",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "mitch": [
         "GGally",
@@ -11525,8 +11406,7 @@
         "SummarizedExperiment",
         "qvalue",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "monaLisa": [
         "AnnotationDbi",
@@ -11540,8 +11420,7 @@
         "TFBSTools",
         "annotate",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "monocle": [
         "viridis"
@@ -11585,8 +11464,7 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "mosaics": [
         "GenomicAlignments",
@@ -11639,8 +11517,7 @@
         "motifStack",
         "readr",
         "rtracklayer",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "motifcounter": [],
     "MotifDb": [
@@ -11661,8 +11538,7 @@
         "TFBSTools",
         "annotate",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "motifStack": [
         "AnnotationDbi",
@@ -11677,8 +11553,7 @@
         "annotate",
         "htmlwidgets",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "MouseFM": [
         "AnnotationDbi",
@@ -11712,7 +11587,6 @@
         "rstatix",
         "testthat",
         "tidyr",
-        "vroom",
         "waldo"
     ],
     "msa": [],
@@ -11878,7 +11752,6 @@
         "tidyr",
         "tidyverse",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "MSstatsLOBD": [],
@@ -12216,7 +12089,6 @@
         "testthat",
         "tidyr",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "MutationalPatterns": [
@@ -12325,8 +12197,7 @@
         "rtracklayer",
         "shiny",
         "trackViewer",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "NanoMethViz": [
         "AnnotationDbi",
@@ -12342,8 +12213,7 @@
         "patchwork",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "NanoStringNCTools": [
         "ggbeeswarm",
@@ -12376,7 +12246,6 @@
         "testthat",
         "tidyr",
         "tidyverse",
-        "vroom",
         "waldo"
     ],
     "NanoTube": [
@@ -12526,8 +12395,7 @@
         "plotly",
         "readr",
         "supraHex",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "netprioR": [],
     "netresponse": [
@@ -12602,7 +12470,6 @@
         "readr",
         "rtracklayer",
         "tidyr",
-        "vroom",
         "yarn"
     ],
     "NeuCA": [
@@ -12623,8 +12490,7 @@
         "patchwork",
         "plotly",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "nnSVG": [
         "BiocFileCache",
@@ -12657,8 +12523,7 @@
         "reactome.db",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "NormalyzerDE": [
         "Hmisc",
@@ -12679,7 +12544,6 @@
         "testthat",
         "tidyr",
         "viridis",
-        "vroom",
         "vsn",
         "waldo"
     ],
@@ -12814,7 +12678,6 @@
         "tidyr",
         "usethis",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "odseq": [
@@ -12869,7 +12732,6 @@
         "readr",
         "shiny",
         "tidyr",
-        "vroom",
         "yardstick"
     ],
     "OmaDB": [
@@ -13003,24 +12865,21 @@
         "waldo"
     ],
     "Omixer": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "OmnipathR": [
         "cellranger",
         "readr",
         "readxl",
         "rvest",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "oncomix": [
         "SummarizedExperiment",
         "ggrepel"
     ],
     "oncoscanR": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "OncoScore": [
         "AnnotationDbi",
@@ -13159,8 +13018,7 @@
         "dbplyr",
         "geneplotter",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "Organism.dplyr": [
         "AnnotationDbi",
@@ -13214,7 +13072,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "vroom",
         "waldo"
     ],
     "Oscope": [
@@ -13297,8 +13154,7 @@
         "annotate",
         "motifmatchr",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "PAIRADISE": [
         "SummarizedExperiment",
@@ -13423,8 +13279,7 @@
         "org.Hs.eg.db"
     ],
     "paxtoolsr": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "pcaExplorer": [
         "AnnotationDbi",
@@ -13600,8 +13455,7 @@
         "fgsea",
         "geneplotter",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "PharmacoGx": [
         "CoreGx",
@@ -13738,8 +13592,7 @@
         "recipes",
         "sna",
         "supraHex",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "piano": [
         "DT",
@@ -13903,7 +13756,6 @@
         "testthat",
         "tidyr",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "plyranges": [
@@ -13926,8 +13778,7 @@
         "htmlwidgets",
         "readr",
         "shiny",
-        "shinyjs",
-        "vroom"
+        "shinyjs"
     ],
     "podkat": [
         "BSgenome",
@@ -14070,8 +13921,7 @@
         "rtracklayer",
         "shiny",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "PrInCE": [
         "Hmisc",
@@ -14384,7 +14234,6 @@
         "testthat",
         "tidyr",
         "viridis",
-        "vroom",
         "vsn",
         "waldo"
     ],
@@ -14424,8 +14273,7 @@
         "shinyBS",
         "shinyjs",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "PSMatch": [
         "AnnotationFilter",
@@ -14602,7 +14450,6 @@
         "ggdendro",
         "readr",
         "tidyr",
-        "vroom",
         "vsn"
     ],
     "qrqc": [
@@ -14678,8 +14525,7 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "QuartPAC": [
         "GraphPAC",
@@ -14791,8 +14637,7 @@
         "dnet",
         "readr",
         "supraHex",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "RAREsim": [
         "nloptr",
@@ -14828,8 +14673,7 @@
         "ShortRead",
         "SummarizedExperiment",
         "dada2",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "Rbowtie2": [
         "Rsamtools"
@@ -14864,8 +14708,7 @@
         "readr",
         "rtracklayer",
         "seqPattern",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "rcellminer": [
         "shiny"
@@ -14918,8 +14761,7 @@
         "shiny",
         "tidyr",
         "viridis",
-        "visNetwork",
-        "vroom"
+        "visNetwork"
     ],
     "RcwlPipelines": [
         "BiocFileCache",
@@ -14931,8 +14773,7 @@
         "shiny",
         "tidyr",
         "viridis",
-        "visNetwork",
-        "vroom"
+        "visNetwork"
     ],
     "RCy3": [],
     "RDRToolbox": [
@@ -15012,8 +14853,7 @@
         "readr",
         "rtracklayer",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "recount3": [
         "BiocFileCache",
@@ -15041,8 +14881,7 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "recoup": [
         "AnnotationDbi",
@@ -15202,8 +15041,7 @@
         "recipes",
         "rtracklayer",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "Repitools": [
         "AnnotationDbi",
@@ -15426,8 +15264,7 @@
         "plotly",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "RiboDiPA": [
         "AnnotationDbi",
@@ -15503,8 +15340,7 @@
         "htmlwidgets",
         "motifStack",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "rifi": [
         "GenomicAlignments",
@@ -15617,8 +15453,7 @@
         "rtracklayer",
         "shiny",
         "tidyr",
-        "valr",
-        "vroom"
+        "valr"
     ],
     "RMassBank": [
         "ChemmineR",
@@ -15690,8 +15525,7 @@
         "recount",
         "rtracklayer",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "RNAdecay": [
         "nloptr",
@@ -15926,7 +15760,6 @@
         "testthat",
         "tidyr",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "RnBeads": [
@@ -15952,8 +15785,7 @@
         "readr",
         "rtracklayer",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "roar": [
         "GenomicAlignments",
@@ -16108,8 +15940,7 @@
         "readr",
         "rtracklayer",
         "rvest",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "RTN": [
         "SummarizedExperiment",
@@ -16308,8 +16139,7 @@
         "oligoClasses",
         "readr",
         "sva",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "scanMiR": [
         "cowplot",
@@ -16494,8 +16324,7 @@
         "patchwork",
         "readr",
         "rstan",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "scDataviz": [
         "Seurat",
@@ -16659,8 +16488,7 @@
         "readr",
         "regioneR",
         "rtracklayer",
-        "shiny",
-        "vroom"
+        "shiny"
     ],
     "SCnorm": [
         "SingleCellExperiment",
@@ -16687,8 +16515,7 @@
         "tidyr"
     ],
     "Sconify": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "SCOPE": [
         "BSgenome",
@@ -17127,8 +16954,7 @@
         "interactiveDisplayBase",
         "readr",
         "sesameData",
-        "shiny",
-        "vroom"
+        "shiny"
     ],
     "SEtools": [
         "AnnotationDbi",
@@ -17147,8 +16973,7 @@
         "Rsamtools",
         "SummarizedExperiment",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "SGSeq": [
         "AnnotationDbi",
@@ -17191,8 +17016,7 @@
         "shinyjs",
         "shinythemes",
         "tidyr",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "shinyMethyl": [
         "AnnotationDbi",
@@ -17213,8 +17037,7 @@
         "readr",
         "rtracklayer",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "ShortRead": [
         "GenomicAlignments",
@@ -17294,8 +17117,7 @@
         "tidytree",
         "treeio",
         "viridis",
-        "visNetwork",
-        "vroom"
+        "visNetwork"
     ],
     "signeR": [
         "AnnotationDbi",
@@ -17337,7 +17159,6 @@
         "testthat",
         "tidyr",
         "tidytidbits",
-        "vroom",
         "waldo"
     ],
     "signifinder": [
@@ -17386,7 +17207,6 @@
         "testthat",
         "tidyr",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "SigsPack": [
@@ -17651,7 +17471,6 @@
         "readr",
         "rtracklayer",
         "tidyr",
-        "vroom",
         "wateRmelon"
     ],
     "slalom": [
@@ -17838,8 +17657,7 @@
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "spatialDE": [
         "BiocFileCache",
@@ -17946,8 +17764,7 @@
         "motifmatchr",
         "readr",
         "rtracklayer",
-        "viridis",
-        "vroom"
+        "viridis"
     ],
     "SpeCond": [
         "fields",
@@ -17976,8 +17793,7 @@
         "htmlwidgets",
         "plotly",
         "scuttle",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "spicyR": [
         "BiocFileCache",
@@ -18131,7 +17947,6 @@
         "testthat",
         "tidyr",
         "tidyverse",
-        "vroom",
         "waldo"
     ],
     "SpotClean": [
@@ -18189,8 +18004,7 @@
     "SRAdb": [
         "GEOquery",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "srnadiff": [
         "AnnotationDbi",
@@ -18258,8 +18072,7 @@
         "labelled",
         "mosaicCore",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "ssrch": [
         "DT",
@@ -18316,8 +18129,7 @@
         "rtracklayer",
         "ruv",
         "scuttle",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "staRank": [
         "AnnotationDbi",
@@ -18355,8 +18167,7 @@
         "reprex",
         "rvest",
         "tidyr",
-        "tidyverse",
-        "vroom"
+        "tidyverse"
     ],
     "statTarget": [],
     "STdeconvolve": [
@@ -18461,8 +18272,7 @@
     ],
     "supraHex": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "surfaltr": [
         "AnnotationDbi",
@@ -18473,7 +18283,6 @@
         "msa",
         "readr",
         "testthat",
-        "vroom",
         "waldo"
     ],
     "survcomp": [],
@@ -18553,7 +18362,6 @@
         "cleaver",
         "qvalue",
         "readr",
-        "vroom",
         "vsn"
     ],
     "synergyfinder": [
@@ -18589,7 +18397,6 @@
         "tidyr",
         "tidyverse",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "SynExtend": [
@@ -18645,7 +18452,6 @@
         "shinytoastr",
         "spsComps",
         "tidyr",
-        "vroom",
         "waiter"
     ],
     "systemPipeTools": [
@@ -18785,8 +18591,7 @@
         "dbplyr",
         "readr",
         "rvest",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "TCGAbiolinksGUI": [
         "AnnotationDbi",
@@ -18868,7 +18673,6 @@
         "tidytree",
         "treeio",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "TCGAutils": [
@@ -18887,8 +18691,7 @@
         "readr",
         "rtracklayer",
         "rvest",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "TCseq": [
         "GenomicAlignments",
@@ -18913,8 +18716,7 @@
     "TENxIO": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "tenXplore": [
         "AnnotationDbi",
@@ -18958,8 +18760,7 @@
         "rtracklayer",
         "rvest",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "TFARM": [
         "fields",
@@ -18976,8 +18777,7 @@
         "SummarizedExperiment",
         "annotate",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "TFEA.ChIP": [
         "AnnotationDbi",
@@ -19010,8 +18810,7 @@
         "dbplyr",
         "geneplotter",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "TFutils": [
         "AnnotationDbi",
@@ -19032,8 +18831,7 @@
     "tidybulk": [
         "SummarizedExperiment",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "tidySingleCellExperiment": [
         "SingleCellExperiment",
@@ -19168,8 +18966,7 @@
         "rtracklayer",
         "tidyr",
         "viridis",
-        "visdat",
-        "vroom"
+        "visdat"
     ],
     "TNBC.CMS": [
         "AnnotationDbi",
@@ -19215,8 +19012,7 @@
         "plotly",
         "readr",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "topconfects": [],
     "topdownr": [
@@ -19538,8 +19334,7 @@
         "textstem",
         "tidyr",
         "viridis",
-        "visNetwork",
-        "vroom"
+        "visNetwork"
     ],
     "TTMap": [
         "SummarizedExperiment",
@@ -19754,7 +19549,6 @@
         "ttgsea",
         "viridis",
         "visNetwork",
-        "vroom",
         "webchem"
     ],
     "VanillaICE": [
@@ -19943,8 +19737,7 @@
         "tidyr",
         "topGO",
         "viridis",
-        "visNetwork",
-        "vroom"
+        "visNetwork"
     ],
     "vissE": [
         "AnnotationDbi",
@@ -20020,8 +19813,7 @@
         "interactiveDisplayBase",
         "readr",
         "rtracklayer",
-        "shiny",
-        "vroom"
+        "shiny"
     ],
     "vulcan": [
         "AnnotationDbi",
@@ -20093,8 +19885,7 @@
         "org.Hs.eg.db",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "wavClusteR": [
         "AnnotationDbi",
@@ -20150,8 +19941,7 @@
         "readr",
         "readxl",
         "rvest",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "xcms": [
         "MSnbase",
@@ -20253,8 +20043,7 @@
         "quantro",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "zellkonverter": [
         "SingleCellExperiment",
@@ -20443,10 +20232,7 @@
         "shiny",
         "tidyr"
     ],
-    "readr": [
-        "vroom"
-    ],
-    "vroom": [],
+    "readr": [],
     "ggthemes": [],
     "waffle": [],
     "DescTools": [
@@ -20687,8 +20473,7 @@
         "readxl",
         "reprex",
         "rvest",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "Mus.musculus": [
         "AnnotationDbi",
@@ -20747,8 +20532,7 @@
         "cellranger"
     ],
     "haven": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "modelr": [
         "broom",
@@ -20839,8 +20623,7 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "shinycssloaders": [
         "shiny"
@@ -20864,7 +20647,6 @@
         "shinyFiles",
         "testthat",
         "tidyr",
-        "vroom",
         "waldo"
     ],
     "shinythemes": [
@@ -20879,8 +20661,7 @@
         "readr",
         "tidyr",
         "viridis",
-        "visNetwork",
-        "vroom"
+        "visNetwork"
     ],
     "visNetwork": [
         "htmlwidgets"
@@ -21127,8 +20908,7 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "IlluminaHumanMethylation450kmanifest": [
         "AnnotationDbi",
@@ -21147,8 +20927,7 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
         "AnnotationDbi",
@@ -21167,8 +20946,7 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "isva": [
         "qvalue"
@@ -21207,8 +20985,7 @@
         "Rsamtools",
         "SummarizedExperiment",
         "readr",
-        "rtracklayer",
-        "vroom"
+        "rtracklayer"
     ],
     "org.Dm.eg.db": [
         "AnnotationDbi",
@@ -21335,8 +21112,7 @@
         "cellranger",
         "haven",
         "readr",
-        "readxl",
-        "vroom"
+        "readxl"
     ],
     "factoextra": [
         "DT",
@@ -21416,8 +21192,7 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "faahKO": [
         "MSnbase",
@@ -21521,8 +21296,7 @@
     "TFisher": [],
     "mutoss": [],
     "DMwR2": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "ggseqlogo": [],
     "rsq": [
@@ -21627,8 +21401,7 @@
         "shiny"
     ],
     "homologene": [
-        "readr",
-        "vroom"
+        "readr"
     ],
     "gprofiler2": [
         "htmlwidgets",
@@ -21811,8 +21584,7 @@
         "rio",
         "shiny",
         "shinyWidgets",
-        "shinybusy",
-        "vroom"
+        "shinybusy"
     ],
     "pd.mapping50k.xba240": [
         "SummarizedExperiment",
@@ -21884,8 +21656,7 @@
         "questionr",
         "readr",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "klaR": [
         "haven",
@@ -21894,8 +21665,7 @@
         "questionr",
         "readr",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "questionr": [
         "haven",
@@ -21903,14 +21673,12 @@
         "miniUI",
         "readr",
         "shiny",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "labelled": [
         "haven",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "PairedData": [],
     "SmartSVA": [
@@ -21950,8 +21718,7 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "shiny",
-        "vroom"
+        "shiny"
     ],
     "FlowSorted.Blood.450k": [
         "AnnotationDbi",
@@ -21970,8 +21737,7 @@
         "minfi",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "methylclockData": [
         "AnnotationDbi",
@@ -22111,8 +21877,7 @@
     "dnet": [
         "readr",
         "supraHex",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "RcmdrMisc": [
         "Hmisc",
@@ -22130,7 +21895,6 @@
         "testthat",
         "tidyr",
         "viridis",
-        "vroom",
         "waldo"
     ],
     "qpcR": [
@@ -22175,7 +21939,6 @@
         "readr",
         "shiny",
         "tidyr",
-        "vroom",
         "yardstick"
     ],
     "yardstick": [],
@@ -22206,8 +21969,7 @@
         "KEGGREST",
         "biomaRt",
         "dbplyr",
-        "readr",
-        "vroom"
+        "readr"
     ],
     "tfprobability": [
         "keras",
@@ -22360,8 +22122,7 @@
         "broom",
         "readr",
         "rtracklayer",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "caretEnsemble": [
         "caret",
@@ -22467,8 +22228,7 @@
     "DGEobj.utils": [],
     "openair": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "celldex": [
         "AnnotationDbi",
@@ -22565,8 +22325,7 @@
         "labelled",
         "mosaicCore",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "ggformula": [
         "ggforce",
@@ -22576,8 +22335,7 @@
         "labelled",
         "mosaicCore",
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "ggstance": [],
     "mosaicCore": [
@@ -22627,14 +22385,12 @@
         "readr",
         "tidyr",
         "viridis",
-        "visdat",
-        "vroom"
+        "visdat"
     ],
     "LambertW": [],
     "visdat": [
         "readr",
-        "tidyr",
-        "vroom"
+        "tidyr"
     ],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
