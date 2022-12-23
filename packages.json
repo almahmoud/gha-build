@@ -4424,7 +4424,6 @@
     "rTRMui": [
         "MotifDb"
     ],
-    "runibic": [],
     "RUVSeq": [
         "EDASeq",
         "GenomicFeatures"
