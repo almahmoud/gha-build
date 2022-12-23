@@ -10212,7 +10212,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "covEB": [],
     "CoverageView": [
         "BiocIO",
         "BiocParallel",
