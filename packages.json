@@ -2576,7 +2576,6 @@
         "shiny",
         "spatstat.explore",
         "stringr",
-        "survey",
         "testthat",
         "tibble",
         "tidyr",
@@ -9558,7 +9557,6 @@
         "reshape2",
         "scattermore",
         "stringr",
-        "survey",
         "tibble",
         "tidyselect"
     ],
@@ -13336,7 +13334,6 @@
         "purrr",
         "rmarkdown",
         "stringr",
-        "survey",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -26123,7 +26120,6 @@
         "multtest",
         "network",
         "pillar",
-        "survey",
         "tibble"
     ],
     "netOmics": [
@@ -32932,7 +32928,6 @@
         "geneplotter",
         "ggplot2",
         "pillar",
-        "survey",
         "tibble",
         "vsn"
     ],
@@ -44143,7 +44138,6 @@
         "tidyselect"
     ],
     "optimr": [],
-    "survey": [],
     "sjmisc": [
         "dplyr",
         "pillar",
@@ -47231,12 +47225,9 @@
     ],
     "mppa": [],
     "ICSNP": [
-        "ICS",
-        "survey"
+        "ICS"
     ],
-    "ICS": [
-        "survey"
-    ],
+    "ICS": [],
     "dnet": [
         "dplyr",
         "hms",
