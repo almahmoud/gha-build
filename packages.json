@@ -10988,7 +10988,6 @@
         "ggplot2",
         "ggthemes",
         "knitr",
-        "knn.covertree",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -48737,7 +48736,6 @@
         "tidyselect",
         "waldo"
     ],
-    "knn.covertree": [],
     "NBPSeq": [
         "ggplot2",
         "qvalue",
