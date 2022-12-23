@@ -3013,7 +3013,6 @@
     "FastqCleaner": [
         "ShortRead"
     ],
-    "FCBF": [],
     "fCCAC": [
         "BSgenome",
         "fda",
@@ -3024,7 +3023,6 @@
     "fCI": [],
     "fcoex": [
         "DOSE",
-        "FCBF",
         "GO.db",
         "GOSemSim",
         "HDO.db",
