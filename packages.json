@@ -908,7 +908,6 @@
         "IRanges",
         "XVector",
         "affy",
-        "hypergraph",
         "makecdfenv"
     ],
     "AMARETTO": [
@@ -3939,7 +3938,6 @@
         "LIM",
         "Rgraphviz",
         "hyperdraw",
-        "hypergraph",
         "limSolve",
         "rsbml",
         "stringr",
@@ -25062,7 +25060,6 @@
         "XVector",
         "affy",
         "altcdfenvs",
-        "hypergraph",
         "makecdfenv"
     ],
     "hca": [
@@ -25959,10 +25956,8 @@
         "webshot"
     ],
     "hyperdraw": [
-        "Rgraphviz",
-        "hypergraph"
+        "Rgraphviz"
     ],
-    "hypergraph": [],
     "iasva": [
         "BiocParallel",
         "DelayedArray",
