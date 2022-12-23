@@ -37986,7 +37986,6 @@
         "httpuv",
         "jquerylib",
         "knitr",
-        "magicaxis",
         "piano",
         "pillar",
         "purrr",
@@ -41231,7 +41230,6 @@
         "httpuv",
         "jquerylib",
         "knitr",
-        "magicaxis",
         "piano",
         "pillar",
         "purrr",
@@ -56792,7 +56790,6 @@
         "httpuv",
         "jquerylib",
         "knitr",
-        "magicaxis",
         "piano",
         "pillar",
         "purrr",
@@ -63994,7 +63991,6 @@
         "webutils"
     ],
     "webutils": [],
-    "magicaxis": [],
     "PMCMRplus": [
         "BWStest",
         "Rmpfr"
