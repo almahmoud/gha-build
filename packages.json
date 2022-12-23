@@ -1251,7 +1251,6 @@
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialFeatureExperiment": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -1395,9 +1394,7 @@
         "GenomicFiles"
     ],
     "vissE": [],
-    "Voyager": [
-        "SpatialFeatureExperiment"
-    ],
+    "Voyager": [],
     "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno"
