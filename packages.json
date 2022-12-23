@@ -357,7 +357,6 @@
         "viridis"
     ],
     "branchpointer": [],
-    "BRGenomics": [],
     "bsseq": [
         "HDF5Array",
         "rhdf5"
@@ -1110,7 +1109,6 @@
     "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
-        "BRGenomics",
         "ChIPseeker",
         "enrichplot",
         "ggraph",
