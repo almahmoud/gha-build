@@ -109,12 +109,10 @@
         "propr"
     ],
     "CNVfilteR": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "CNViz": [
-        "CopyNumberPlots",
-        "karyoploteR"
+        "CopyNumberPlots"
     ],
     "comapr": [],
     "coMET": [],
@@ -129,9 +127,7 @@
     "conumee": [
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "crisprseekplus": [
         "GUIDEseq"
     ],
@@ -326,7 +322,6 @@
         "ggpubr",
         "survminer"
     ],
-    "karyoploteR": [],
     "kissDE": [
         "factoextra",
         "ggpubr"
@@ -423,9 +418,7 @@
         "ggpubr"
     ],
     "MSstatsShiny": [],
-    "multicrispr": [
-        "karyoploteR"
-    ],
+    "multicrispr": [],
     "multiHiCcompare": [
         "CGHcall",
         "HiCcompare",
@@ -526,9 +519,7 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [],
-    "RIPAT": [
-        "karyoploteR"
-    ],
+    "RIPAT": [],
     "RNAAgeCalc": [
         "recount"
     ],
