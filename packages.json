@@ -613,9 +613,7 @@
     "iCNV": [
         "CODEX"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "igvR": [],
     "imcRtools": [
         "cytomapper"
@@ -962,7 +960,6 @@
     "PanomiR": [
         "clusterProfiler"
     ],
-    "pcaExplorer": [],
     "PDATK": [
         "ggpubr",
         "rstatix",
