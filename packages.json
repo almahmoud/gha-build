@@ -69524,7 +69524,6 @@
         "Rcpp",
         "RcppArmadillo",
         "additivityTests",
-        "akmbiclust",
         "biclust",
         "class",
         "colorspace",
@@ -139218,7 +139217,6 @@
         "openssl",
         "xml2"
     ],
-    "akmbiclust": [],
     "gghalves": [
         "MASS",
         "Matrix",
