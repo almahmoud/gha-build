@@ -18767,7 +18767,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "pdftools",
         "rematch2",
         "reshape2",
         "rgl",
@@ -32649,7 +32648,6 @@
         "tibble",
         "tidyr"
     ],
-    "pdftools": [],
     "AICcmodavg": [
         "lme4",
         "nloptr",
