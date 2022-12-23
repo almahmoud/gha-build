@@ -6389,8 +6389,7 @@
     "Prostar": [
         "DAPAR",
         "DAPARdata",
-        "highcharter",
-        "rhandsontable"
+        "highcharter"
     ],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
@@ -8005,7 +8004,6 @@
         "genefilter",
         "heatmaply",
         "interactiveDisplayBase",
-        "rhandsontable",
         "rtracklayer"
     ],
     "SplicingGraphs": [
@@ -9679,7 +9677,6 @@
         "rtracklayer"
     ],
     "forecast": [],
-    "rhandsontable": [],
     "EnsDb.Mmusculus.v79": [
         "GenomicFeatures",
         "biomaRt",
