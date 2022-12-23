@@ -13150,7 +13150,6 @@
         "KEGGREST",
         "annotate",
         "aroma.affymetrix",
-        "aroma.core",
         "genefilter"
     ],
     "peco": [
@@ -18590,7 +18589,6 @@
         "KEGGREST",
         "WGCNA",
         "aroma.affymetrix",
-        "aroma.core",
         "htmlTable",
         "htmlwidgets",
         "viridis"
@@ -21523,10 +21521,7 @@
         "fields",
         "viridis"
     ],
-    "aroma.affymetrix": [
-        "aroma.core"
-    ],
-    "aroma.core": [],
+    "aroma.affymetrix": [],
     "genlasso": [],
     "C50": [],
     "tidybayes": [
