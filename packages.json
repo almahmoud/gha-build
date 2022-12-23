@@ -231,9 +231,7 @@
         "DEXSeq",
         "pasilla"
     ],
-    "BLMA": [
-        "PADOG"
-    ],
+    "BLMA": [],
     "BloodGen3Module": [],
     "bnbc": [],
     "bnem": [],
@@ -806,9 +804,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "EGSEA": [
-        "PADOG"
-    ],
+    "EGSEA": [],
     "ELMER": [
         "Gviz",
         "VariantAnnotation",
@@ -1952,7 +1948,6 @@
         "car",
         "pbkrtest"
     ],
-    "PADOG": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
