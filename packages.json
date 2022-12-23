@@ -3975,7 +3975,6 @@
     "tradeSeq": [
         "viridis"
     ],
-    "transcriptR": [],
     "transformGamPoi": [
         "HDF5Array",
         "glmGamPoi",
