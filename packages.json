@@ -149,15 +149,12 @@
     "ATACseqQC": [
         "GenomicScores",
         "HDF5Array",
-        "motifStack",
         "rhdf5"
     ],
     "ATACseqTFEA": [
         "motifmatchr"
     ],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "autonomics": [
         "assertive"
     ],
@@ -780,9 +777,7 @@
         "rhdf5",
         "viridis"
     ],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [
         "FSelector",
         "FactoMineR",
@@ -1637,8 +1632,7 @@
     ],
     "LowMACA": [
         "RTCGAToolbox",
-        "cBioPortalData",
-        "motifStack"
+        "cBioPortalData"
     ],
     "lumi": [
         "HDF5Array",
@@ -2072,11 +2066,9 @@
         "Gviz",
         "Hmisc",
         "biovizBase",
-        "motifStack",
         "viridis"
     ],
     "motifmatchr": [],
-    "motifStack": [],
     "MQmetrics": [
         "car",
         "ggpubr",
@@ -2218,7 +2210,6 @@
         "HDF5Array",
         "Hmisc",
         "biovizBase",
-        "motifStack",
         "rhdf5",
         "trackViewer",
         "viridis"
@@ -2786,9 +2777,7 @@
     "ribor": [
         "rhdf5"
     ],
-    "ribosomeProfilingQC": [
-        "motifStack"
-    ],
+    "ribosomeProfilingQC": [],
     "rifi": [
         "car"
     ],
