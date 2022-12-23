@@ -589,12 +589,10 @@
     ],
     "countsimQC": [],
     "cpvSNP": [],
-    "crisprBowtie": [],
     "crisprBwa": [],
     "crisprDesign": [
         "ExperimentHub",
         "VariantAnnotation",
-        "crisprBowtie",
         "crisprScore",
         "crisprScoreData"
     ],
@@ -615,7 +613,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprScoreData",
@@ -627,7 +624,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprScoreData",
