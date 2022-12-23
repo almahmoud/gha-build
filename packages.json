@@ -1975,7 +1975,6 @@
         "htmlwidgets"
     ],
     "CellTrails": [
-        "EnvStats",
         "SingleCellExperiment",
         "dendextend",
         "ggrepel",
@@ -4733,7 +4732,6 @@
         "viridis"
     ],
     "epidecodeR": [
-        "EnvStats",
         "GenomicAlignments",
         "broom",
         "car",
@@ -6080,7 +6078,6 @@
         "viridis"
     ],
     "GeoDiff": [
-        "EnvStats",
         "GGally",
         "GeomxTools",
         "NanoStringNCTools",
@@ -6132,7 +6129,6 @@
         "tidyr"
     ],
     "GeomxTools": [
-        "EnvStats",
         "GGally",
         "NanoStringNCTools",
         "ggbeeswarm",
@@ -6740,7 +6736,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
-        "EnvStats",
         "MultiAssayExperiment",
         "annotate",
         "biomaRt",
@@ -12104,9 +12099,7 @@
         "visNetwork"
     ],
     "RaggedExperiment": [],
-    "ramr": [
-        "EnvStats"
-    ],
+    "ramr": [],
     "ramwas": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -14582,7 +14575,6 @@
         "scuttle"
     ],
     "SpatialDecon": [
-        "EnvStats",
         "GGally",
         "GeomxTools",
         "NanoStringNCTools",
@@ -16340,7 +16332,6 @@
     ],
     "waddR": [
         "BiocFileCache",
-        "EnvStats",
         "SingleCellExperiment",
         "arm",
         "eva",
@@ -17161,7 +17152,6 @@
         "tidyr",
         "waldo"
     ],
-    "EnvStats": [],
     "ggpmisc": [
         "ggpp"
     ],
@@ -18397,7 +18387,5 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db"
     ],
-    "eva": [
-        "EnvStats"
-    ]
+    "eva": []
 }
