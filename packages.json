@@ -31,7 +31,6 @@
     "ASpli": [],
     "ATACCoGAPS": [],
     "bigmelon": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
         "methylumi",
         "wateRmelon"
@@ -90,7 +89,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "lumi",
         "methylumi",
@@ -129,7 +127,6 @@
     ],
     "consensusDE": [],
     "conumee": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "CopyNumberPlots": [
@@ -178,7 +175,6 @@
         "ggpubr"
     ],
     "DMRcate": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "methylumi",
         "missMethyl"
@@ -208,7 +204,6 @@
         "EntropyExplorer"
     ],
     "epimutacions": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "epivizrStandalone": [],
@@ -238,9 +233,7 @@
         "ggpubr"
     ],
     "frenchFISH": [],
-    "funtooNorm": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
-    ],
+    "funtooNorm": [],
     "FuseSOM": [
         "ggpubr"
     ],
@@ -357,13 +350,11 @@
     "maser": [],
     "mCSEA": [],
     "MEAL": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "methylumi",
         "missMethyl"
     ],
     "MEAT": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
         "methylumi",
         "wateRmelon"
@@ -382,15 +373,13 @@
         "ggpubr"
     ],
     "methylCC": [
-        "FlowSorted.Blood.450k",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
+        "FlowSorted.Blood.450k"
     ],
     "methylclock": [
         "ggpubr",
         "methylclockData"
     ],
     "methylGSA": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "methylumi",
         "missMethyl"
@@ -413,7 +402,6 @@
         "ggpubr"
     ],
     "missMethyl": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "methylumi"
     ],
@@ -603,7 +591,6 @@
         "QuasR"
     ],
     "skewr": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
         "methylumi",
         "wateRmelon"
@@ -692,7 +679,6 @@
     "Voyager": [],
     "vulcan": [],
     "wateRmelon": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
         "methylumi"
     ],
@@ -707,7 +693,6 @@
     "ggpubr": [],
     "ReorderCluster": [],
     "mGSZ": [],
-    "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
     "GenomicState": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [],
