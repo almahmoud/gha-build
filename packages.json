@@ -21472,7 +21472,6 @@
         "IRanges",
         "rhdf5"
     ],
-    "HDTD": [],
     "heatmaps": [
         "Biostrings",
         "EBImage",
