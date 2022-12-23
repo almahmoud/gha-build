@@ -3841,7 +3841,6 @@
         "car",
         "pbkrtest"
     ],
-    "ontoProc": [],
     "openPrimeR": [
         "Hmisc",
         "viridis"
@@ -4070,9 +4069,7 @@
     "podkat": [
         "BSgenome"
     ],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [
         "DESeq2"
     ],
@@ -5540,7 +5537,6 @@
         "DESeq2"
     ],
     "tenXplore": [
-        "ontoProc",
         "restfulSE"
     ],
     "terraTCGAdata": [
