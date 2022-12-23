@@ -17179,7 +17179,6 @@
         "cvar",
         "fBasics",
         "fGarch",
-        "gbutils",
         "nloptr",
         "pillar",
         "rematch2",
@@ -47573,13 +47572,9 @@
     "penalized": [],
     "fGarch": [
         "cvar",
-        "fBasics",
-        "gbutils"
+        "fBasics"
     ],
-    "cvar": [
-        "gbutils"
-    ],
-    "gbutils": [],
+    "cvar": [],
     "ggwordcloud": [
         "ggplot2",
         "pillar",
