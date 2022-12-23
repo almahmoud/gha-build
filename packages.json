@@ -1890,7 +1890,6 @@
         "methylumi",
         "minfi"
     ],
-    "mitch": [],
     "mitoClone2": [
         "VariantAnnotation",
         "deepSNV"
