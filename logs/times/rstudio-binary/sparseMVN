@@ -1,0 +1,331 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   24a04a4d..4de19f00  main       -> origin/main
+Updating 24a04a4d..4de19f00
+Fast-forward
+ lists/ASSET                                   |  2 +-
+ lists/BiocParallel                            |  2 +-
+ lists/BumpyMatrix                             |  2 +-
+ lists/CGHnormaliter                           |  2 +-
+ lists/COHCAP                                  |  2 +-
+ lists/CellScore                               |  2 +-
+ lists/ClusterJudge                            |  2 +-
+ lists/ComplexHeatmap                          |  2 +-
+ lists/DelayedArray                            |  2 +-
+ lists/DirichletMultinomial                    |  2 +-
+ lists/DirichletReg                            |  2 +-
+ lists/GSgalgoR                                |  2 +-
+ lists/GenomeInfoDb                            |  2 +-
+ lists/GenomicTools.fileHandler                |  2 +-
+ lists/HIREewas                                |  2 +-
+ lists/MBttest                                 |  2 +-
+ lists/OrderedList                             |  2 +-
+ lists/PANR                                    |  2 +-
+ lists/RCyjs                                   |  2 +-
+ lists/RISmed                                  |  2 +-
+ lists/ROCR                                    |  2 +-
+ lists/SIMLR                                   |  2 +-
+ lists/SPIA                                    |  2 +-
+ lists/Streamer                                |  2 +-
+ lists/VennDiagram                             |  2 +-
+ lists/XVector                                 |  2 +-
+ lists/aroma.core                              |  2 +-
+ lists/assertive.code                          |  2 +-
+ lists/assertive.datetimes                     |  2 +-
+ lists/assertive.strings                       |  2 +-
+ lists/aws.s3                                  |  2 +-
+ lists/basilisk                                |  2 +-
+ lists/betareg                                 |  2 +-
+ lists/biobtreeR                               |  2 +-
+ lists/biocViews                               |  2 +-
+ lists/blob                                    |  2 +-
+ lists/bslib                                   |  2 +-
+ lists/clock                                   |  2 +-
+ lists/clusterCons                             |  2 +-
+ lists/clustvarsel                             |  2 +-
+ lists/consensus                               |  2 +-
+ lists/covr                                    |  2 +-
+ lists/cvar                                    |  2 +-
+ lists/cycle                                   |  2 +-
+ lists/derfinderHelper                         |  2 +-
+ lists/downlit                                 |  2 +-
+ lists/dupRadar                                |  2 +-
+ lists/feature                                 |  2 +-
+ lists/flatxml                                 |  2 +-
+ lists/flowCyBar                               |  2 +-
+ lists/gRbase                                  |  2 +-
+ lists/gargle                                  |  2 +-
+ lists/gert                                    |  2 +-
+ lists/gh                                      |  2 +-
+ lists/hms                                     |  2 +-
+ lists/hyperdraw                               |  2 +-
+ lists/iC10                                    |  2 +-
+ lists/iterativeBMA                            |  2 +-
+ lists/iterativeBMAsurv                        |  2 +-
+ lists/ldblock                                 |  2 +-
+ lists/leiden                                  |  2 +-
+ lists/les                                     |  2 +-
+ lists/logicFS                                 |  2 +-
+ lists/martini                                 |  2 +-
+ lists/massiR                                  |  2 +-
+ lists/mgsa                                    |  2 +-
+ lists/optimr                                  |  2 +-
+ lists/pdfCluster                              |  2 +-
+ lists/pillar                                  |  2 +-
+ lists/pkgDepTools                             |  2 +-
+ lists/ppclust                                 |  2 +-
+ lists/prodlim                                 |  2 +-
+ lists/ptw                                     |  2 +-
+ lists/qpdf                                    |  2 +-
+ lists/rARPACK                                 |  2 +-
+ lists/rDGIdb                                  |  2 +-
+ lists/ragg                                    |  2 +-
+ lists/rapiclient                              |  2 +-
+ lists/rcmdcheck                               |  2 +-
+ lists/repmis                                  |  2 +-
+ lists/sf                                      |  2 +-
+ lists/slider                                  |  2 +-
+ lists/swamp                                   |  2 +-
+ lists/switchBox                               |  2 +-
+ lists/tfautograph                             |  2 +-
+ lists/tidyselect                              |  2 +-
+ lists/tiledb                                  |  2 +-
+ lists/umap                                    |  2 +-
+ lists/uwot                                    |  2 +-
+ lists/vcd                                     |  2 +-
+ lists/veloviz                                 |  2 +-
+ logs/dispatchlists/2022-12-23_02-47_pkglist   | 90 +++++++++++++++++++++++++++
+ logs/run_ids/rstudio-binaries/spatstat.random |  2 +
+ packages.json                                 |  6 +-
+ tobuild.txt                                   | 90 ---------------------------
+ 95 files changed, 184 insertions(+), 186 deletions(-)
+ create mode 100644 logs/dispatchlists/2022-12-23_02-47_pkglist
+ create mode 100644 logs/run_ids/rstudio-binaries/spatstat.random
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=sparseMVN
++ PKG=sparseMVN
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "sparseMVN"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  9 5583k    9  537k    0     0   548k      0  0:00:10 --:--:--  0:00:10  548k 39 5583k   39 2195k    0     0  1113k      0  0:00:05  0:00:01  0:00:04 1113k 89 5583k   89 5000k    0     0  1686k      0  0:00:03  0:00:02  0:00:01 1686k100 5583k  100 5583k    0     0  1777k      0  0:00:03  0:00:03 --:--:-- 1777k
+built/
+built/lattice/
+built/lattice/libs/
+built/lattice/libs/lattice.so
+built/lattice/NEWS
+built/lattice/NAMESPACE
+built/lattice/DESCRIPTION
+built/lattice/help/
+built/lattice/help/paths.rds
+built/lattice/help/lattice.rdx
+built/lattice/help/lattice.rdb
+built/lattice/help/aliases.rds
+built/lattice/help/AnIndex
+built/lattice/data/
+built/lattice/data/Rdata.rds
+built/lattice/data/Rdata.rdb
+built/lattice/data/Rdata.rdx
+built/lattice/Meta/
+built/lattice/Meta/package.rds
+built/lattice/Meta/demo.rds
+built/lattice/Meta/features.rds
+built/lattice/Meta/hsearch.rds
+built/lattice/Meta/links.rds
+built/lattice/Meta/nsInfo.rds
+built/lattice/Meta/Rd.rds
+built/lattice/Meta/data.rds
+built/lattice/po/
+built/lattice/po/it/
+built/lattice/po/it/LC_MESSAGES/
+built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/lattice/po/fr/
+built/lattice/po/fr/LC_MESSAGES/
+built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/lattice/po/ko/
+built/lattice/po/ko/LC_MESSAGES/
+built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/lattice/po/pl/
+built/lattice/po/pl/LC_MESSAGES/
+built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/lattice/po/en@quot/
+built/lattice/po/en@quot/LC_MESSAGES/
+built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/lattice/po/de/
+built/lattice/po/de/LC_MESSAGES/
+built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/lattice/CITATION
+built/lattice/html/
+built/lattice/html/00Index.html
+built/lattice/html/R.css
+built/lattice/INDEX
+built/lattice/R/
+built/lattice/R/lattice
+built/lattice/R/lattice.rdx
+built/lattice/R/lattice.rdb
+built/lattice/demo/
+built/lattice/demo/panel.R
+built/lattice/demo/intervals.R
+built/lattice/demo/labels.R
+built/lattice/demo/lattice.R
+built/Matrix/
+built/Matrix/Doxyfile
+built/Matrix/libs/
+built/Matrix/libs/Matrix.so
+built/Matrix/NAMESPACE
+built/Matrix/LICENCE
+built/Matrix/DESCRIPTION
+built/Matrix/test-tools-1.R
+built/Matrix/help/
+built/Matrix/help/paths.rds
+built/Matrix/help/aliases.rds
+built/Matrix/help/AnIndex
+built/Matrix/help/Matrix.rdx
+built/Matrix/help/Matrix.rdb
+built/Matrix/data/
+built/Matrix/data/USCounties.R
+built/Matrix/data/datalist
+built/Matrix/data/CAex.R
+built/Matrix/data/wrld_1deg.R
+built/Matrix/data/KNex.R
+built/Matrix/Meta/
+built/Matrix/Meta/package.rds
+built/Matrix/Meta/vignette.rds
+built/Matrix/Meta/features.rds
+built/Matrix/Meta/hsearch.rds
+built/Matrix/Meta/links.rds
+built/Matrix/Meta/nsInfo.rds
+built/Matrix/Meta/Rd.rds
+built/Matrix/Meta/data.rds
+built/Matrix/NEWS.Rd
+built/Matrix/include/
+built/Matrix/include/cholmod.h
+built/Matrix/include/Matrix_stubs.c
+built/Matrix/include/Matrix.h
+built/Matrix/test-tools-Matrix.R
+built/Matrix/test-tools.R
+built/Matrix/po/
+built/Matrix/po/lt/
+built/Matrix/po/lt/LC_MESSAGES/
+built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/it/
+built/Matrix/po/it/LC_MESSAGES/
+built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/fr/
+built/Matrix/po/fr/LC_MESSAGES/
+built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/ko/
+built/Matrix/po/ko/LC_MESSAGES/
+built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/pl/
+built/Matrix/po/pl/LC_MESSAGES/
+built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/en@quot/
+built/Matrix/po/en@quot/LC_MESSAGES/
+built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/de/
+built/Matrix/po/de/LC_MESSAGES/
+built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/Matrix/Copyrights
+built/Matrix/html/
+built/Matrix/html/00Index.html
+built/Matrix/html/R.css
+built/Matrix/INDEX
+built/Matrix/doc/
+built/Matrix/doc/Design-issues.Rnw
+built/Matrix/doc/sparseModels.R
+built/Matrix/doc/Intro2Matrix.pdf
+built/Matrix/doc/Intro2Matrix.Rnw
+built/Matrix/doc/Introduction.R
+built/Matrix/doc/sparseModels.Rnw
+built/Matrix/doc/Design-issues.pdf
+built/Matrix/doc/Design-issues.R
+built/Matrix/doc/Comparisons.R
+built/Matrix/doc/Announce.txt
+built/Matrix/doc/Introduction.Rnw
+built/Matrix/doc/Intro2Matrix.R
+built/Matrix/doc/index.html
+built/Matrix/doc/SuiteSparse/
+built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/Matrix/doc/SuiteSparse/AMD.txt
+built/Matrix/doc/SuiteSparse/SPQR.txt
+built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/Matrix/doc/Comparisons.pdf
+built/Matrix/doc/sparseModels.pdf
+built/Matrix/doc/Comparisons.Rnw
+built/Matrix/doc/Introduction.pdf
+built/Matrix/R/
+built/Matrix/R/Matrix
+built/Matrix/R/Matrix.rdx
+built/Matrix/R/Matrix.rdb
+built/Matrix/external/
+built/Matrix/external/symW.rda
+built/Matrix/external/lund_a.rsa
+built/Matrix/external/wrong.mtx
+built/Matrix/external/pores_1.mtx
+built/Matrix/external/wrld_1deg_slots.rda
+built/Matrix/external/CAex_slots.rda
+built/Matrix/external/KNex_slots.rda
+built/Matrix/external/jgl009.mtx
+built/Matrix/external/utm300.rua
+built/Matrix/external/test3comp.rda
+built/Matrix/external/USCounties_slots.rda
+built/Matrix/external/Z_NA_rnk.rds
+built/Matrix/external/symA.rda
+built/Matrix/external/lund_a.mtx
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''sparseMVN'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv sparseMVN_0.2.2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/sparseMVN
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'sparseMVN'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/sparseMVN_0.2.2.tar.gz'
+Content type 'binary/octet-stream' length 284373 bytes (277 KB)
+==================================================
+downloaded 277 KB
+
+* installing *binary* package ‘sparseMVN’ ...
+* ‘sparseMVN’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sparseMVN’ as ‘sparseMVN_0.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sparseMVN)
+
+The downloaded source packages are in
+	‘/tmp/RtmpjQUSHd/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m8.767s
+user	0m3.743s
+sys	0m0.338s

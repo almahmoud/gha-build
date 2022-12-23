@@ -26460,7 +26460,6 @@
         "dplyr",
         "ggplot2",
         "pillar",
-        "sparseMVN",
         "tibble",
         "tidyselect"
     ],
@@ -47817,7 +47816,6 @@
         "tidyselect",
         "vroom"
     ],
-    "sparseMVN": [],
     "BRISC": [],
     "RcmdrMisc": [
         "Hmisc",
