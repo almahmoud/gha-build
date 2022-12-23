@@ -2446,7 +2446,6 @@
         "batchelor",
         "colourpicker",
         "ggbeeswarm",
-        "ggfittext",
         "gggenes",
         "ggrastr",
         "ggrepel",
@@ -13025,7 +13024,6 @@
         "annotate",
         "biomaRt",
         "dbplyr",
-        "ggfittext",
         "ggrepel",
         "htmlwidgets",
         "motifStack",
@@ -17814,11 +17812,8 @@
         "waiter"
     ],
     "kableExtra": [],
-    "gggenes": [
-        "ggfittext"
-    ],
+    "gggenes": [],
     "qs": [],
-    "ggfittext": [],
     "waiter": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
