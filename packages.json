@@ -46160,7 +46160,6 @@
         "HiCcompare",
         "IRanges",
         "InteractionSet",
-        "PRIMME",
         "QDNAseq",
         "Rsamtools",
         "SummarizedExperiment",
@@ -48141,7 +48140,6 @@
         "IRanges",
         "InteractionSet",
         "MatrixModels",
-        "PRIMME",
         "QDNAseq",
         "Rsamtools",
         "SummarizedExperiment",
@@ -59499,7 +59497,6 @@
         "e1071",
         "sf"
     ],
-    "PRIMME": [],
     "alphahull": [
         "ggplot2",
         "interp",
