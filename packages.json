@@ -506,7 +506,6 @@
         "ggraph",
         "viridis"
     ],
-    "circRNAprofiler": [],
     "CiteFuse": [
         "ggraph",
         "propr",
