@@ -10170,7 +10170,6 @@
         "car",
         "drc",
         "fields",
-        "gstat",
         "haven",
         "lme4",
         "mice",
@@ -12189,7 +12188,6 @@
     ],
     "mosaicCore": [],
     "rsample": [],
-    "gstat": [],
     "SpatialExtremes": [
         "fields"
     ],
