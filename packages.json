@@ -4129,7 +4129,6 @@
     "nanotatoR": [
         "tidyverse"
     ],
-    "NanoTube": [],
     "NBAMSeq": [
         "DESeq2",
         "genefilter",
