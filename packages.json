@@ -6243,7 +6243,6 @@
         "tibble",
         "tidyr"
     ],
-    "CORREP": [],
     "coseq": [
         "AnnotationDbi",
         "Biostrings",
