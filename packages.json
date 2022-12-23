@@ -6361,7 +6361,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "JADE",
         "KEGGREST",
         "ROC",
         "RSQLite",
@@ -23784,7 +23783,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "JADE",
         "KEGGREST",
         "MultiDataSet",
         "RSQLite",
@@ -26139,7 +26137,6 @@
         "HDF5Array",
         "Hmisc",
         "IRanges",
-        "JADE",
         "KEGGREST",
         "RSQLite",
         "Rsamtools",
@@ -30414,7 +30411,6 @@
         "GenomicRanges",
         "Hmisc",
         "IRanges",
-        "JADE",
         "KEGGREST",
         "MultiDataSet",
         "RSQLite",
@@ -51057,7 +51053,6 @@
         "vroom"
     ],
     "isva": [
-        "JADE",
         "ggplot2",
         "pillar",
         "qvalue",
@@ -51096,7 +51091,6 @@
         "tibble",
         "tidyselect"
     ],
-    "JADE": [],
     "ruv": [
         "ggplot2",
         "pillar",
@@ -53134,7 +53128,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "JADE",
         "KEGGREST",
         "RSQLite",
         "RSpectra",
