@@ -2785,7 +2785,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "terra",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -9929,7 +9928,6 @@
         "rms",
         "sass",
         "stringr",
-        "terra",
         "tibble",
         "vctrs",
         "viridis"
@@ -11706,7 +11704,6 @@
         "sitmo",
         "stringr",
         "svgPanZoom",
-        "terra",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -23144,7 +23141,6 @@
         "sitmo",
         "stringr",
         "svgPanZoom",
-        "terra",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -23328,7 +23324,6 @@
         "flowCore",
         "raster",
         "sitmo",
-        "terra",
         "uwot"
     ],
     "InPAS": [
@@ -33507,7 +33502,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "terra",
         "testthat",
         "tibble",
         "tidyr",
@@ -46379,7 +46373,6 @@
         "spatstat.geom",
         "stringr",
         "svgPanZoom",
-        "terra",
         "tibble",
         "tidyselect",
         "vctrs",
@@ -47831,7 +47824,6 @@
         "spatstat.random",
         "splancs",
         "stringr",
-        "terra",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -48960,7 +48952,6 @@
         "spatstat.random",
         "spdep",
         "stringr",
-        "terra",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -56004,10 +55995,7 @@
         "stringr",
         "vctrs"
     ],
-    "raster": [
-        "terra"
-    ],
-    "terra": [],
+    "raster": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "BiocIO",
@@ -61782,8 +61770,7 @@
         "vctrs"
     ],
     "elsa": [
-        "raster",
-        "terra"
+        "raster"
     ],
     "miRNAtap.db": [
         "AnnotationDbi",
