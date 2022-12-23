@@ -15,7 +15,6 @@
         "rstatix"
     ],
     "adductomicsR": [
-        "AnnotationHub",
         "ExperimentHub",
         "adductData"
     ],
@@ -61,7 +60,6 @@
         "GenomicFeatures"
     ],
     "AMARETTO": [
-        "AnnotationHub",
         "ExperimentHub",
         "curatedTCGAData"
     ],
@@ -81,14 +79,11 @@
         "DESeq2"
     ],
     "annmap": [],
-    "AnnotationHub": [],
     "AnnotationHubData": [
-        "AnnotationHub",
         "GenomicFeatures",
         "OrganismDbi"
     ],
     "annotatr": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "regioneR"
@@ -104,7 +99,6 @@
     ],
     "APL": [],
     "appreci8R": [
-        "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "COSMIC.67",
@@ -176,7 +170,6 @@
         "rGREAT"
     ],
     "ATACseqQC": [
-        "AnnotationHub",
         "BSgenome",
         "CNEr",
         "ChIPpeakAnno",
@@ -193,9 +186,7 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "atena": [
-        "AnnotationHub"
-    ],
+    "atena": [],
     "atSNP": [
         "BSgenome",
         "CNEr",
@@ -296,7 +287,6 @@
         "radiant.data"
     ],
     "BiocOncoTK": [
-        "AnnotationHub",
         "ExperimentHub",
         "GenomicFeatures",
         "car",
@@ -320,7 +310,6 @@
         "ensembldb"
     ],
     "BioNAR": [
-        "AnnotationHub",
         "synaptome.data",
         "synaptome.db"
     ],
@@ -338,7 +327,6 @@
         "ensembldb"
     ],
     "biscuiteer": [
-        "AnnotationHub",
         "BSgenome",
         "CGHcall",
         "ExperimentHub",
@@ -368,7 +356,6 @@
         "PADOG"
     ],
     "BloodGen3Module": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "bnbc": [
@@ -393,7 +380,6 @@
         "bsseq"
     ],
     "brainflowprobes": [
-        "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
@@ -566,7 +552,6 @@
         "CGHcall"
     ],
     "ChAMP": [
-        "AnnotationHub",
         "BSgenome",
         "DMRcate",
         "DSS",
@@ -678,7 +663,6 @@
         "ensembldb"
     ],
     "circRNAprofiler": [
-        "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "DESeq2",
@@ -776,7 +760,6 @@
         "ensembldb"
     ],
     "coMethDMR": [
-        "AnnotationHub",
         "ExperimentHub",
         "GenomicFeatures",
         "bumphunter",
@@ -879,7 +862,6 @@
         "BSgenome"
     ],
     "crisprDesign": [
-        "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
         "GenomicFeatures",
@@ -889,7 +871,6 @@
         "crisprScoreData"
     ],
     "crisprScore": [
-        "AnnotationHub",
         "ExperimentHub",
         "crisprScoreData"
     ],
@@ -906,7 +887,6 @@
         "regioneR"
     ],
     "crisprVerse": [
-        "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
         "GenomicFeatures",
@@ -921,7 +901,6 @@
         "ensembldb"
     ],
     "crisprViz": [
-        "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
         "GenomicFeatures",
@@ -942,7 +921,6 @@
         "GenomicFeatures"
     ],
     "cTRAP": [
-        "AnnotationHub",
         "qs"
     ],
     "CTSV": [
@@ -956,9 +934,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "customCMPdb": [
-        "AnnotationHub"
-    ],
+    "customCMPdb": [],
     "customProDB": [
         "BSgenome",
         "GenomicFeatures",
@@ -1172,7 +1148,6 @@
     ],
     "DMCHMM": [],
     "DMRcate": [
-        "AnnotationHub",
         "BSgenome",
         "DSS",
         "ExperimentHub",
@@ -1202,7 +1177,6 @@
         "ensembldb"
     ],
     "dmrseq": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "annotatr",
@@ -1241,7 +1215,6 @@
         "bsseq"
     ],
     "easier": [
-        "AnnotationHub",
         "DESeq2",
         "ExperimentHub",
         "car",
@@ -1297,7 +1270,6 @@
         "motifmatchr"
     ],
     "ENmix": [
-        "AnnotationHub",
         "ExperimentHub",
         "GenomicFeatures",
         "bumphunter",
@@ -1337,7 +1309,6 @@
         "VariantAnnotation"
     ],
     "EpiCompare": [
-        "AnnotationHub",
         "BRGenomics",
         "BSgenome",
         "ChIPseeker",
@@ -1371,13 +1342,11 @@
         "ggtree"
     ],
     "EpiMix": [
-        "AnnotationHub",
         "EpiMix.data",
         "ExperimentHub",
         "GenomicFeatures"
     ],
     "epimutacions": [
-        "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
         "GenomicFeatures",
@@ -1460,7 +1429,6 @@
         "SGSeq"
     ],
     "EWCE": [
-        "AnnotationHub",
         "ExperimentHub",
         "car",
         "ewceData",
@@ -1475,11 +1443,8 @@
         "DESeq2",
         "GenomicFeatures"
     ],
-    "ExperimentHub": [
-        "AnnotationHub"
-    ],
+    "ExperimentHub": [],
     "ExperimentHubData": [
-        "AnnotationHub",
         "AnnotationHubData",
         "ExperimentHub",
         "GenomicFeatures",
@@ -1716,9 +1681,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "GenomicScores": [
-        "AnnotationHub"
-    ],
+    "GenomicScores": [],
     "GenomicSuperSignature": [
         "car",
         "ggpubr",
@@ -1841,7 +1804,6 @@
     ],
     "gscreend": [],
     "GSEABenchmarkeR": [
-        "AnnotationHub",
         "EnrichmentBrowser",
         "ExperimentHub"
     ],
@@ -1872,7 +1834,6 @@
     ],
     "GWAS.BAYES": [],
     "gwascat": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "VariantAnnotation"
@@ -1919,7 +1880,6 @@
         "rstatix"
     ],
     "HiContacts": [
-        "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
         "GenomicFeatures",
@@ -1936,9 +1896,7 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "hipathia": [
-        "AnnotationHub"
-    ],
+    "hipathia": [],
     "hiReadsProcessor": [
         "BSgenome",
         "hiAnnotator"
@@ -2058,9 +2016,7 @@
         "rstatix",
         "survminer"
     ],
-    "ipdDb": [
-        "AnnotationHub"
-    ],
+    "ipdDb": [],
     "IPO": [
         "CAMERA"
     ],
@@ -2080,12 +2036,10 @@
         "datamods"
     ],
     "iSEEhub": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
-        "AnnotationHub",
         "BSgenome",
         "DESeq2",
         "DEXSeq",
@@ -2176,7 +2130,6 @@
         "motifStack"
     ],
     "LRcell": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "lumi": [
@@ -2192,7 +2145,6 @@
     ],
     "M3Drop": [],
     "m6Aboost": [
-        "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
         "adabag"
@@ -2211,7 +2163,6 @@
         "pbkrtest"
     ],
     "MACSr": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "MADSEQ": [
@@ -2230,7 +2181,6 @@
         "minfi"
     ],
     "MAGeCKFlute": [
-        "AnnotationHub",
         "DOSE",
         "ExperimentHub",
         "clusterProfiler",
@@ -2321,7 +2271,6 @@
     "Melissa": [],
     "memes": [],
     "meshes": [
-        "AnnotationHub",
         "DOSE",
         "enrichplot",
         "ggtree"
@@ -2388,7 +2337,6 @@
         "methylKit"
     ],
     "MethReg": [
-        "AnnotationHub",
         "ExperimentHub",
         "car",
         "ggpubr",
@@ -2417,7 +2365,6 @@
         "plyranges"
     ],
     "methylclock": [
-        "AnnotationHub",
         "AnnotationHubData",
         "ExperimentHub",
         "ExperimentHubData",
@@ -2672,9 +2619,7 @@
     "msImpute": [
         "scran"
     ],
-    "MSnID": [
-        "AnnotationHub"
-    ],
+    "MSnID": [],
     "MSPrep": [
         "VIM",
         "car",
@@ -2799,7 +2744,6 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "AnnotationHub",
         "BSgenome",
         "CNEr",
         "ChIPpeakAnno",
@@ -2879,13 +2823,11 @@
         "plyranges"
     ],
     "NxtIRFcore": [
-        "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
         "NxtIRFdata"
     ],
     "octad": [
-        "AnnotationHub",
         "DESeq2",
         "EDASeq",
         "ExperimentHub",
@@ -2909,7 +2851,6 @@
         "rstatix"
     ],
     "OGRE": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "Gviz",
@@ -2953,9 +2894,7 @@
         "car",
         "pbkrtest"
     ],
-    "ontoProc": [
-        "AnnotationHub"
-    ],
+    "ontoProc": [],
     "openPrimeR": [],
     "openPrimeRui": [
         "openPrimeR"
@@ -3074,7 +3013,6 @@
         "rstatix"
     ],
     "PhyloProfile": [
-        "AnnotationHub",
         "ExperimentHub",
         "OmaDB"
     ],
@@ -3119,7 +3057,6 @@
         "BSgenome"
     ],
     "pogos": [
-        "AnnotationHub",
         "ontoProc"
     ],
     "POMA": [
@@ -3135,7 +3072,6 @@
         "rCGH"
     ],
     "primirTSS": [
-        "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
         "CNEr",
@@ -3207,7 +3143,6 @@
         "rstatix"
     ],
     "psichomics": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "GenomicFiles",
@@ -3238,11 +3173,8 @@
         "biovizBase",
         "ensembldb"
     ],
-    "pwOmics": [
-        "AnnotationHub"
-    ],
+    "pwOmics": [],
     "pwrEWAS": [
-        "AnnotationHub",
         "ExperimentHub",
         "pwrEWAS.data"
     ],
@@ -3305,7 +3237,6 @@
     ],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [
-        "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
@@ -3388,7 +3319,6 @@
         "derfinder"
     ],
     "regutools": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "Gviz",
@@ -3397,7 +3327,6 @@
         "ensembldb"
     ],
     "REMP": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "bumphunter",
@@ -3422,7 +3351,6 @@
         "BSgenome.Hsapiens.1000genomes.hs37d5"
     ],
     "restfulSE": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "rexposome": [
@@ -3434,7 +3362,6 @@
         "BSgenome"
     ],
     "rGenomeTracks": [
-        "AnnotationHub",
         "rGenomeTracksData"
     ],
     "RGMQL": [],
@@ -3509,7 +3436,6 @@
         "consensusSeekeR"
     ],
     "RLSeq": [
-        "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
         "GenomicFeatures",
@@ -3670,15 +3596,11 @@
         "sva"
     ],
     "scanMiRApp": [
-        "AnnotationHub",
         "GenomicFeatures",
         "ensembldb"
     ],
-    "scAnnotatR": [
-        "AnnotationHub"
-    ],
+    "scAnnotatR": [],
     "SCATE": [
-        "AnnotationHub",
         "ExperimentHub",
         "SCATEData"
     ],
@@ -3713,7 +3635,6 @@
         "M3Drop"
     ],
     "scmeth": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "annotatr",
@@ -3752,7 +3673,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "AnnotationHub",
         "DOSE",
         "GOstats",
         "ReactomePA",
@@ -3802,11 +3722,9 @@
     ],
     "seqsetvis": [],
     "SeqSQC": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "sesame": [
-        "AnnotationHub",
         "ExperimentHub",
         "sesameData"
     ],
@@ -3837,7 +3755,6 @@
         "MLInterfaces"
     ],
     "signatureSearch": [
-        "AnnotationHub",
         "DOSE",
         "ExperimentHub",
         "clusterProfiler",
@@ -3883,7 +3800,6 @@
         "scran"
     ],
     "singleCellTK": [
-        "AnnotationHub",
         "DESeq2",
         "ExperimentHub",
         "GSVAdata",
@@ -4020,7 +3936,6 @@
         "scater"
     ],
     "SpliceWiz": [
-        "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
         "NxtIRFdata",
@@ -4163,7 +4078,6 @@
         "DESeq2"
     ],
     "TCGAbiolinksGUI": [
-        "AnnotationHub",
         "BSgenome",
         "DOSE",
         "ELMER",
@@ -4193,7 +4107,6 @@
         "DESeq2"
     ],
     "tenXplore": [
-        "AnnotationHub",
         "ExperimentHub",
         "ontoProc",
         "restfulSE"
@@ -4327,12 +4240,10 @@
         "GenomicFeatures"
     ],
     "tximeta": [
-        "AnnotationHub",
         "GenomicFeatures",
         "ensembldb"
     ],
     "Ularcirc": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "Organism.dplyr",
@@ -4392,7 +4303,6 @@
     ],
     "VariantExperiment": [],
     "VariantFiltering": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "GenomicScores",
@@ -4425,7 +4335,6 @@
         "heatmaply"
     ],
     "vissE": [
-        "AnnotationHub",
         "ExperimentHub",
         "msigdb"
     ],
@@ -4434,7 +4343,6 @@
         "SpatialFeatureExperiment"
     ],
     "vtpnet": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "VariantAnnotation",
@@ -4518,11 +4426,9 @@
     ],
     "pbkrtest": [],
     "adductData": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "curatedTCGAData": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "lmerTest": [],
@@ -4545,17 +4451,14 @@
         "BSgenome"
     ],
     "MafDb.1Kgenomes.phase3.hs37d5": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicScores"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicScores"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicScores"
     ],
@@ -4611,14 +4514,10 @@
     ],
     "rms": [],
     "synaptome.db": [
-        "AnnotationHub",
         "synaptome.data"
     ],
-    "synaptome.data": [
-        "AnnotationHub"
-    ],
+    "synaptome.data": [],
     "biscuiteerData": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "pasilla": [
@@ -4626,7 +4525,6 @@
         "DEXSeq"
     ],
     "GenomicState": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicFeatures",
         "GenomicFiles",
@@ -4716,7 +4614,6 @@
         "viper"
     ],
     "crisprScoreData": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "RFOC": [],
@@ -4732,16 +4629,13 @@
         "pbkrtest"
     ],
     "easierData": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "EntropyExplorer": [],
     "EpiMix.data": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "ewceData": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "SPARQL": [],
@@ -4759,7 +4653,6 @@
         "heatmaply"
     ],
     "HiContactsData": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
@@ -4770,7 +4663,6 @@
     "adabag": [],
     "glmmTMB": [],
     "depmap": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "plsgenomics": [],
@@ -4786,7 +4678,6 @@
         "ensembldb"
     ],
     "sesameData": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "FlowSorted.Blood.450k": [
@@ -4795,7 +4686,6 @@
         "minfi"
     ],
     "methylclockData": [
-        "AnnotationHub",
         "AnnotationHubData",
         "ExperimentHub",
         "ExperimentHubData",
@@ -4817,11 +4707,9 @@
         "pbkrtest"
     ],
     "NxtIRFdata": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "octad.db": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "diceR": [
@@ -4834,7 +4722,6 @@
     "verification": [],
     "genlasso": [],
     "phastCons100way.UCSC.hg38": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicScores"
     ],
@@ -4847,11 +4734,9 @@
         "ensembldb"
     ],
     "pwrEWAS.data": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "phastCons100way.UCSC.hg19": [
-        "AnnotationHub",
         "BSgenome",
         "GenomicScores"
     ],
@@ -4861,17 +4746,13 @@
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome"
     ],
-    "rGenomeTracksData": [
-        "AnnotationHub"
-    ],
+    "rGenomeTracksData": [],
     "valr": [],
     "caretEnsemble": [],
     "RLHub": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "SCATEData": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "Rmagic": [],
@@ -4883,19 +4764,16 @@
         "survminer"
     ],
     "celldex": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "GSVAdata": [],
     "SoupX": [],
     "scRNAseq": [
-        "AnnotationHub",
         "ExperimentHub",
         "GenomicFeatures",
         "ensembldb"
     ],
     "TENxPBMCData": [
-        "AnnotationHub",
         "ExperimentHub"
     ],
     "sampSurf": [],
@@ -4907,7 +4785,6 @@
     ],
     "kmlShape": [],
     "msigdb": [
-        "AnnotationHub",
         "ExperimentHub"
     ]
 }
