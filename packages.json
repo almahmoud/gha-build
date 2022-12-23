@@ -3780,8 +3780,7 @@
     "RJMCMCNucleosomes": [],
     "RLSeq": [
         "RLHub",
-        "regioneR",
-        "valr"
+        "regioneR"
     ],
     "RMassBank": [
         "MSnbase",
@@ -5192,7 +5191,6 @@
     ],
     "BSgenome.Celegans.UCSC.ce2": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [],
-    "valr": [],
     "RLHub": [],
     "SCATEData": [],
     "Rmagic": [],
