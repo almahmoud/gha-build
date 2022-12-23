@@ -1,0 +1,206 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   8796dcdf..843b1f2e  main       -> origin/main
+Updating 8796dcdf..843b1f2e
+Fast-forward
+ lists/affycomp                               |   2 +-
+ lists/copula                                 |   2 +-
+ logs/run_ids/rstudio-binaries/igraph         |   2 +
+ logs/sizes/rstudio-binaries/binaries/copula  |   1 +
+ logs/sizes/rstudio-binaries/libraries/copula |   1 +
+ logs/times/rstudio-binary/copula             | 772 +++++++++++++++++++++++++++
+ packages.json                                |   3 -
+ 7 files changed, 778 insertions(+), 5 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/copula
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/copula
+ create mode 100644 logs/times/rstudio-binary/copula
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=maptree
++ PKG=maptree
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "maptree"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 58  621k   58  362k    0     0   384k      0  0:00:01 --:--:--  0:00:01  384k100  621k  100  621k    0     0   508k      0  0:00:01  0:00:01 --:--:--  508k
+built/
+built/cluster/
+built/cluster/libs/
+built/cluster/libs/cluster.so
+built/cluster/NAMESPACE
+built/cluster/DESCRIPTION
+built/cluster/help/
+built/cluster/help/paths.rds
+built/cluster/help/cluster.rdx
+built/cluster/help/aliases.rds
+built/cluster/help/cluster.rdb
+built/cluster/help/AnIndex
+built/cluster/data/
+built/cluster/data/Rdata.rds
+built/cluster/data/Rdata.rdb
+built/cluster/data/Rdata.rdx
+built/cluster/Meta/
+built/cluster/Meta/package.rds
+built/cluster/Meta/features.rds
+built/cluster/Meta/hsearch.rds
+built/cluster/Meta/links.rds
+built/cluster/Meta/nsInfo.rds
+built/cluster/Meta/Rd.rds
+built/cluster/Meta/data.rds
+built/cluster/NEWS.Rd
+built/cluster/test-tools.R
+built/cluster/po/
+built/cluster/po/lt/
+built/cluster/po/lt/LC_MESSAGES/
+built/cluster/po/lt/LC_MESSAGES/cluster.mo
+built/cluster/po/lt/LC_MESSAGES/R-cluster.mo
+built/cluster/po/it/
+built/cluster/po/it/LC_MESSAGES/
+built/cluster/po/it/LC_MESSAGES/cluster.mo
+built/cluster/po/it/LC_MESSAGES/R-cluster.mo
+built/cluster/po/fr/
+built/cluster/po/fr/LC_MESSAGES/
+built/cluster/po/fr/LC_MESSAGES/cluster.mo
+built/cluster/po/fr/LC_MESSAGES/R-cluster.mo
+built/cluster/po/ko/
+built/cluster/po/ko/LC_MESSAGES/
+built/cluster/po/ko/LC_MESSAGES/cluster.mo
+built/cluster/po/ko/LC_MESSAGES/R-cluster.mo
+built/cluster/po/pl/
+built/cluster/po/pl/LC_MESSAGES/
+built/cluster/po/pl/LC_MESSAGES/R-cluster.mo
+built/cluster/po/en@quot/
+built/cluster/po/en@quot/LC_MESSAGES/
+built/cluster/po/en@quot/LC_MESSAGES/cluster.mo
+built/cluster/po/en@quot/LC_MESSAGES/R-cluster.mo
+built/cluster/po/de/
+built/cluster/po/de/LC_MESSAGES/
+built/cluster/po/de/LC_MESSAGES/cluster.mo
+built/cluster/po/de/LC_MESSAGES/R-cluster.mo
+built/cluster/CITATION
+built/cluster/html/
+built/cluster/html/00Index.html
+built/cluster/html/R.css
+built/cluster/INDEX
+built/cluster/R/
+built/cluster/R/cluster.rdx
+built/cluster/R/cluster.rdb
+built/cluster/R/cluster
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 21  969k   21  207k    0     0   294k      0  0:00:03 --:--:--  0:00:03  294k100  969k  100  969k    0     0   682k      0  0:00:01  0:00:01 --:--:--  682k
+built/
+built/rpart/
+built/rpart/libs/
+built/rpart/libs/rpart.so
+built/rpart/NAMESPACE
+built/rpart/DESCRIPTION
+built/rpart/help/
+built/rpart/help/rpart.rdb
+built/rpart/help/paths.rds
+built/rpart/help/rpart.rdx
+built/rpart/help/aliases.rds
+built/rpart/help/figures/
+built/rpart/help/figures/rpart.png
+built/rpart/help/AnIndex
+built/rpart/data/
+built/rpart/data/Rdata.rds
+built/rpart/data/Rdata.rdb
+built/rpart/data/Rdata.rdx
+built/rpart/Meta/
+built/rpart/Meta/package.rds
+built/rpart/Meta/vignette.rds
+built/rpart/Meta/features.rds
+built/rpart/Meta/hsearch.rds
+built/rpart/Meta/links.rds
+built/rpart/Meta/nsInfo.rds
+built/rpart/Meta/Rd.rds
+built/rpart/Meta/data.rds
+built/rpart/NEWS.Rd
+built/rpart/po/
+built/rpart/po/fr/
+built/rpart/po/fr/LC_MESSAGES/
+built/rpart/po/fr/LC_MESSAGES/R-rpart.mo
+built/rpart/po/fr/LC_MESSAGES/rpart.mo
+built/rpart/po/ko/
+built/rpart/po/ko/LC_MESSAGES/
+built/rpart/po/ko/LC_MESSAGES/R-rpart.mo
+built/rpart/po/ko/LC_MESSAGES/rpart.mo
+built/rpart/po/pl/
+built/rpart/po/pl/LC_MESSAGES/
+built/rpart/po/pl/LC_MESSAGES/R-rpart.mo
+built/rpart/po/pl/LC_MESSAGES/rpart.mo
+built/rpart/po/en@quot/
+built/rpart/po/en@quot/LC_MESSAGES/
+built/rpart/po/en@quot/LC_MESSAGES/R-rpart.mo
+built/rpart/po/en@quot/LC_MESSAGES/rpart.mo
+built/rpart/po/de/
+built/rpart/po/de/LC_MESSAGES/
+built/rpart/po/de/LC_MESSAGES/R-rpart.mo
+built/rpart/po/de/LC_MESSAGES/rpart.mo
+built/rpart/po/ru/
+built/rpart/po/ru/LC_MESSAGES/
+built/rpart/po/ru/LC_MESSAGES/R-rpart.mo
+built/rpart/po/ru/LC_MESSAGES/rpart.mo
+built/rpart/html/
+built/rpart/html/00Index.html
+built/rpart/html/R.css
+built/rpart/INDEX
+built/rpart/doc/
+built/rpart/doc/usercode.R
+built/rpart/doc/longintro.R
+built/rpart/doc/longintro.pdf
+built/rpart/doc/longintro.Rnw
+built/rpart/doc/usercode.pdf
+built/rpart/doc/usercode.Rnw
+built/rpart/doc/index.html
+built/rpart/R/
+built/rpart/R/rpart.rdb
+built/rpart/R/rpart.rdx
+built/rpart/R/rpart
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''maptree'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv maptree_1.4-8_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/maptree
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'maptree'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/maptree_1.4-8.tar.gz'
+Content type 'binary/octet-stream' length 146984 bytes (143 KB)
+==================================================
+downloaded 143 KB
+
+* installing *binary* package ‘maptree’ ...
+* ‘maptree’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘maptree’ as ‘maptree_1.4-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (maptree)
+
+The downloaded source packages are in
+	‘/tmp/RtmpM3a6nj/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m9.452s
+user	0m3.880s
+sys	0m0.370s

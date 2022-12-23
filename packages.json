@@ -7327,7 +7327,6 @@
         "ggplot2",
         "ggrepel",
         "igraph",
-        "maptree",
         "mgcv",
         "pillar",
         "reshape2",
@@ -61981,7 +61980,6 @@
         "tibble",
         "vctrs"
     ],
-    "maptree": [],
     "topicmodels": [
         "tm"
     ],
