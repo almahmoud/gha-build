@@ -2011,7 +2011,6 @@
         "org.Mm.eg.db",
         "org.Rn.eg.db",
         "pathview",
-        "safe",
         "topGO"
     ],
     "eiR": [],
@@ -2052,8 +2051,7 @@
     ],
     "EnrichmentBrowser": [
         "GSEABase",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "enrichplot": [
         "DOSE",
@@ -2906,8 +2904,7 @@
         "ExperimentHub",
         "GSEABase",
         "interactiveDisplayBase",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "GSEAmining": [
         "dendextend"
@@ -5821,7 +5818,6 @@
     "RVS": [
         "gRain"
     ],
-    "safe": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR"
@@ -7192,7 +7188,6 @@
         "nloptr",
         "pathview",
         "pbkrtest",
-        "safe",
         "variancePartition"
     ],
     "zinbwave": [
