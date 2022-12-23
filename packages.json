@@ -2220,7 +2220,6 @@
         "ggrastr",
         "ggrepel",
         "httr",
-        "maxLik",
         "purrr",
         "scater",
         "scran",
@@ -9681,8 +9680,7 @@
         "tibble"
     ],
     "DEsingle": [
-        "gamlss",
-        "maxLik"
+        "gamlss"
     ],
     "destiny": [
         "DelayedArray",
@@ -13892,7 +13890,6 @@
         "httr",
         "knitr",
         "lme4",
-        "maxLik",
         "nloptr",
         "pbkrtest",
         "progress",
@@ -17729,7 +17726,6 @@
         "httr",
         "knitr",
         "lme4",
-        "maxLik",
         "miniUI",
         "mixtools",
         "nloptr",
@@ -41360,10 +41356,7 @@
         "ggplot2",
         "tibble"
     ],
-    "DirichletReg": [
-        "maxLik"
-    ],
-    "maxLik": [],
+    "DirichletReg": [],
     "corncob": [
         "Biostrings",
         "GenomeInfoDb",
