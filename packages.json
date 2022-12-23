@@ -1795,9 +1795,7 @@
     ],
     "vidger": [],
     "ViSEAGO": [],
-    "vissE": [
-        "msigdb"
-    ],
+    "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
@@ -1941,6 +1939,5 @@
     "sampSurf": [],
     "GenKern": [],
     "vbsr": [],
-    "kmlShape": [],
-    "msigdb": []
+    "kmlShape": []
 }
