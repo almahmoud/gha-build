@@ -3063,7 +3063,6 @@
         "knitr",
         "mgcv",
         "openssl",
-        "pander",
         "pillar",
         "plotly",
         "purrr",
@@ -6524,7 +6523,6 @@
         "httpuv",
         "jquerylib",
         "knitr",
-        "pander",
         "pillar",
         "progress",
         "rapportools",
@@ -21927,7 +21925,6 @@
         "knitr",
         "mgcv",
         "officer",
-        "pander",
         "pheatmap",
         "pillar",
         "purrr",
@@ -28321,7 +28318,6 @@
         "mgcv",
         "mzID",
         "mzR",
-        "pander",
         "pcaMethods",
         "pillar",
         "scales",
@@ -28829,7 +28825,6 @@
         "lava",
         "mgcv",
         "openssl",
-        "pander",
         "pillar",
         "plotly",
         "prodlim",
@@ -32951,7 +32946,6 @@
         "mzID",
         "mzR",
         "openssl",
-        "pander",
         "pcaMethods",
         "pillar",
         "plotly",
@@ -32993,7 +32987,6 @@
         "mzID",
         "mzR",
         "openssl",
-        "pander",
         "pcaMethods",
         "pillar",
         "plotly",
@@ -34968,7 +34961,6 @@
         "knitr",
         "mgcv",
         "openssl",
-        "pander",
         "patchwork",
         "pillar",
         "plotly",
@@ -36278,7 +36270,6 @@
         "magick",
         "mgcv",
         "nloptr",
-        "pander",
         "pbkrtest",
         "pillar",
         "pryr",
@@ -40339,7 +40330,6 @@
     ],
     "qcmetrics": [
         "knitr",
-        "pander",
         "stringr"
     ],
     "QDNAseq": [
@@ -58749,7 +58739,6 @@
         "tibble"
     ],
     "rstantools": [],
-    "pander": [],
     "MCMCpack": [
         "MatrixModels",
         "quantreg",
@@ -59815,7 +59804,6 @@
         "pillar"
     ],
     "rapportools": [
-        "pander",
         "reshape2",
         "stringr"
     ],
@@ -62068,7 +62056,6 @@
         "jquerylib",
         "knitr",
         "officer",
-        "pander",
         "rmarkdown",
         "sass",
         "sf",
@@ -63550,7 +63537,6 @@
     "summarytools": [
         "dplyr",
         "magick",
-        "pander",
         "pillar",
         "pryr",
         "purrr",
