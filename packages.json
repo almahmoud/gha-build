@@ -18537,7 +18537,6 @@
         "tibble",
         "viridis"
     ],
-    "maSigPro": [],
     "maskBAD": [
         "Biostrings",
         "GenomeInfoDb",
