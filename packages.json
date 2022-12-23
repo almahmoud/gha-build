@@ -5,8 +5,7 @@
         "QDNAseq"
     ],
     "ADaCGH2": [
-        "snapCGH",
-        "tilingArray"
+        "snapCGH"
     ],
     "ADAMgui": [
         "car",
@@ -2735,9 +2734,7 @@
         "geneLenDataBase",
         "goseq"
     ],
-    "snapCGH": [
-        "tilingArray"
-    ],
+    "snapCGH": [],
     "snm": [],
     "SNPhood": [
         "VariantAnnotation"
@@ -2929,7 +2926,6 @@
     "TFHAZ": [
         "ORFik"
     ],
-    "tilingArray": [],
     "timeOmics": [
         "propr"
     ],
