@@ -13642,7 +13642,6 @@
         "vctrs"
     ],
     "DeepPINCS": [
-        "CatEncoders",
         "DiagrammeR",
         "MatrixExtra",
         "bslib",
@@ -21394,7 +21393,6 @@
         "vctrs"
     ],
     "GenProSeq": [
-        "CatEncoders",
         "DeepPINCS",
         "DiagrammeR",
         "MatrixExtra",
@@ -57392,7 +57390,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "CatEncoders",
         "DeepPINCS",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -63728,7 +63725,6 @@
         "stringr",
         "vctrs"
     ],
-    "CatEncoders": [],
     "rcdk": [],
     "webchem": [
         "dplyr",
