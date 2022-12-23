@@ -1471,14 +1471,12 @@
     "m6Aboost": [],
     "Maaslin2": [
         "car",
-        "glmmTMB",
         "lmerTest",
         "pbkrtest"
     ],
     "Macarron": [
         "Maaslin2",
         "car",
-        "glmmTMB",
         "lmerTest",
         "pbkrtest"
     ],
@@ -1765,7 +1763,6 @@
     "MMUPHin": [
         "Maaslin2",
         "car",
-        "glmmTMB",
         "lmerTest",
         "pbkrtest"
     ],
@@ -1870,7 +1867,6 @@
     ],
     "muscat": [
         "blme",
-        "glmmTMB",
         "lmerTest",
         "pbkrtest",
         "variancePartition"
@@ -3190,7 +3186,6 @@
     "shinyHeatmaply": [],
     "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
-    "glmmTMB": [],
     "depmap": [],
     "agricolae": [
         "klaR"
