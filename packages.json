@@ -178,11 +178,8 @@
         "annotate",
         "geneplotter"
     ],
-    "AnVIL": [],
     "AnVILBilling": [],
-    "AnVILPublish": [
-        "AnVIL"
-    ],
+    "AnVILPublish": [],
     "APAlyzer": [
         "BSgenome",
         "DESeq2",
@@ -878,7 +875,6 @@
         "genefilter"
     ],
     "cbaf": [
-        "AnVIL",
         "GenomicFeatures",
         "RTCGAToolbox",
         "TCGAutils",
@@ -893,7 +889,6 @@
         "treeio"
     ],
     "cBioPortalData": [
-        "AnVIL",
         "GenomicFeatures",
         "RTCGAToolbox",
         "TCGAutils",
@@ -3716,7 +3711,6 @@
     ],
     "LoomExperiment": [],
     "LowMACA": [
-        "AnVIL",
         "BSgenome",
         "CNEr",
         "GenomicFeatures",
@@ -7297,7 +7291,6 @@
         "restfulSE"
     ],
     "terraTCGAdata": [
-        "AnVIL",
         "GenomicFeatures",
         "TCGAutils",
         "rtracklayer"
