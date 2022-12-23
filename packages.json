@@ -8289,7 +8289,6 @@
         "beachmat",
         "bluster",
         "clue",
-        "dbscan",
         "doParallel",
         "dqrng",
         "edgeR",
@@ -10759,7 +10758,6 @@
         "bslib",
         "cowplot",
         "crosstalk",
-        "dbscan",
         "dplyr",
         "dqrng",
         "edgeR",
@@ -11047,7 +11045,6 @@
         "bslib",
         "clue",
         "crosstalk",
-        "dbscan",
         "doParallel",
         "dplyr",
         "ellipsis",
@@ -12665,7 +12662,6 @@
         "cowplot",
         "crosstalk",
         "dbplyr",
-        "dbscan",
         "dendextend",
         "doParallel",
         "downloader",
@@ -26050,9 +26046,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "geva": [
-        "dbscan"
-    ],
+    "geva": [],
     "GEWIST": [
         "MatrixModels",
         "RcppEigen",
@@ -38664,7 +38658,6 @@
         "cowplot",
         "cvms",
         "dbplyr",
-        "dbscan",
         "dendextend",
         "doParallel",
         "doRNG",
@@ -45408,7 +45401,6 @@
         "Rfast",
         "S4Vectors",
         "bslib",
-        "dbscan",
         "doParallel",
         "dplyr",
         "ellipsis",
@@ -48333,7 +48325,6 @@
         "caret",
         "clock",
         "clue",
-        "dbscan",
         "doParallel",
         "dplyr",
         "dqrng",
@@ -48627,7 +48618,6 @@
         "caret",
         "clock",
         "dbplyr",
-        "dbscan",
         "doSNOW",
         "dplyr",
         "e1071",
@@ -60918,7 +60908,6 @@
         "cowplot",
         "crosstalk",
         "dbplyr",
-        "dbscan",
         "densEstBayes",
         "distr",
         "doParallel",
@@ -62581,7 +62570,6 @@
         "cowplot",
         "crosstalk",
         "dbplyr",
-        "dbscan",
         "dittoSeq",
         "doParallel",
         "dplyr",
@@ -74986,7 +74974,6 @@
     "MCMCprecision": [
         "RcppEigen"
     ],
-    "dbscan": [],
     "multipanelfigure": [
         "assertive.files",
         "assertive.types",
