@@ -1582,7 +1582,6 @@
     "BiFET": [
         "GenomicRanges"
     ],
-    "BiGGR": [],
     "bigmelon": [
         "AnnotationDbi",
         "BiocFileCache",
