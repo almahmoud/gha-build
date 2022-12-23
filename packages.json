@@ -2406,8 +2406,7 @@
         "SummarizedExperiment",
         "genomation",
         "readr",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "cfDNAPro": [
         "GenomicAlignments",
@@ -5378,7 +5377,6 @@
         "readr",
         "rtracklayer",
         "scatterpie",
-        "seqPattern",
         "shadowtext",
         "tidygraph",
         "tidyr",
@@ -6000,8 +5998,7 @@
         "hdrcde",
         "rainbow",
         "readr",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "fCI": [
         "htmlwidgets",
@@ -6743,8 +6740,7 @@
         "Rsamtools",
         "SummarizedExperiment",
         "readr",
-        "rtracklayer",
-        "seqPattern"
+        "rtracklayer"
     ],
     "GenomAutomorphism": [],
     "genomes": [
@@ -13757,7 +13753,6 @@
         "plotly",
         "readr",
         "rtracklayer",
-        "seqPattern",
         "tidyr"
     ],
     "rcellminer": [],
@@ -15814,7 +15809,6 @@
         "dbplyr",
         "geneplotter"
     ],
-    "seqPattern": [],
     "seqsetvis": [
         "GenomicAlignments",
         "Rsamtools",
