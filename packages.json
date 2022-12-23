@@ -8275,7 +8275,6 @@
         "purrr",
         "readr",
         "sva",
-        "swamp",
         "tibble",
         "tidyr",
         "vroom"
@@ -36629,7 +36628,6 @@
         "stringr",
         "tibble"
     ],
-    "swamp": [],
     "DiffCorr": [],
     "fastDummies": [
         "stringr",
