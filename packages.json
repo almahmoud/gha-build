@@ -5995,8 +5995,7 @@
         "GenomicFeatures",
         "ensembldb",
         "fst",
-        "rtracklayer",
-        "scanMiRData"
+        "rtracklayer"
     ],
     "scAnnotatR": [
         "Seurat"
@@ -7939,7 +7938,6 @@
     "RLHub": [
         "ExperimentHub"
     ],
-    "scanMiRData": [],
     "SCATEData": [
         "ExperimentHub"
     ],
