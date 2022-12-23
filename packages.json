@@ -6695,7 +6695,6 @@
     "scran": [
         "scuttle"
     ],
-    "scReClassify": [],
     "scRecover": [
         "Rmagic",
         "gamlss"
