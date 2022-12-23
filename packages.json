@@ -131392,7 +131392,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "vbmp": [],
     "VCFArray": [
         "AnnotationDbi",
         "BH",
