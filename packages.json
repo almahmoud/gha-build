@@ -70073,7 +70073,6 @@
         "RCurl",
         "RcppArmadillo",
         "S4Vectors",
-        "SPAtest",
         "SeqArray",
         "XVector"
     ],
@@ -101005,7 +101004,6 @@
         "stringr",
         "vctrs"
     ],
-    "SPAtest": [],
     "excelR": [
         "bslib",
         "cachem",
