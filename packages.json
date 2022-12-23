@@ -1520,7 +1520,6 @@
         "BSgenome",
         "GenomicFeatures",
         "Gviz",
-        "TCGAbiolinks",
         "VariantAnnotation",
         "biovizBase",
         "car",
@@ -3006,7 +3005,6 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "TCGAbiolinks",
         "genefilter"
     ],
     "miRNAmeConverter": [],
@@ -3106,7 +3104,6 @@
     ],
     "MoonlightR": [
         "DOSE",
-        "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -3276,7 +3273,6 @@
         "BSgenome.Mmusculus.UCSC.mm9",
         "FactoMineR",
         "GenomicFeatures",
-        "TCGAbiolinks",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "VariantAnnotation",
@@ -4967,7 +4963,6 @@
     "TCC": [
         "DESeq2"
     ],
-    "TCGAbiolinks": [],
     "TCGAbiolinksGUI": [
         "AnnotationHub",
         "BSgenome",
@@ -4976,7 +4971,6 @@
         "ExperimentHub",
         "GenomicFeatures",
         "Gviz",
-        "TCGAbiolinks",
         "VariantAnnotation",
         "biovizBase",
         "car",
