@@ -271,7 +271,6 @@
         "Rmagic"
     ],
     "scTensor": [],
-    "scTreeViz": [],
     "signeR": [
         "survivalAnalysis",
         "survminer"
