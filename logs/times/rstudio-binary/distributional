@@ -1,0 +1,75 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   fefb77a1..919637ea  main       -> origin/main
+Updating fefb77a1..919637ea
+Fast-forward
+ lists/babelgene                               |   2 +-
+ lists/webchem                                 |   2 +-
+ logs/run_ids/rstudio-binaries/cplm            |   2 +
+ logs/run_ids/rstudio-binaries/drtmle          |   2 +
+ logs/sizes/rstudio-binaries/binaries/webchem  |   1 +
+ logs/sizes/rstudio-binaries/libraries/webchem |   1 +
+ logs/times/rstudio-binary/webchem             | 227 ++++++++++++++++++++++++++
+ packages.json                                 |  29 +---
+ 8 files changed, 240 insertions(+), 26 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/cplm
+ create mode 100644 logs/run_ids/rstudio-binaries/drtmle
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/webchem
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/webchem
+ create mode 100644 logs/times/rstudio-binary/webchem
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=distributional
++ PKG=distributional
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "distributional"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency generics is already found.
+Dependency numDeriv is already found.
+Dependency ggplot2 is already found.
+Dependency digest is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''distributional'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv distributional_0.3.1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/distributional
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'distributional'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/distributional_0.3.1.tar.gz'
+Content type 'binary/octet-stream' length 535645 bytes (523 KB)
+==================================================
+downloaded 523 KB
+
+* installing *binary* package ‘distributional’ ...
+* ‘distributional’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘distributional’ as ‘distributional_0.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (distributional)
+
+The downloaded source packages are in
+	‘/tmp/RtmpUyMDK7/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m5.600s
+user	0m3.594s
+sys	0m0.277s

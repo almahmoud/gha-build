@@ -10320,7 +10320,6 @@
     ],
     "ppcseq": [
         "benchmarkme",
-        "distributional",
         "ggdist",
         "posterior",
         "rstan",
@@ -16206,17 +16205,11 @@
         "viridis"
     ],
     "tidybayes": [
-        "distributional",
         "ggdist",
         "posterior"
     ],
-    "ggdist": [
-        "distributional"
-    ],
-    "posterior": [
-        "distributional"
-    ],
-    "distributional": [],
+    "ggdist": [],
+    "posterior": [],
     "phastCons100way.UCSC.hg38": [
         "AnnotationDbi",
         "AnnotationHub",
