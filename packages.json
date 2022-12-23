@@ -14298,7 +14298,6 @@
         "ggnetwork",
         "ggrepel",
         "network",
-        "osfr",
         "readr",
         "recipes",
         "sna",
@@ -23164,7 +23163,6 @@
     "aroma.core": [],
     "genlasso": [],
     "opencpu": [],
-    "osfr": [],
     "C50": [],
     "tidybayes": [
         "distributional",
