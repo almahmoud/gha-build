@@ -12700,7 +12700,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MetaCycle",
         "SummarizedExperiment",
         "UpSetR",
         "VennDiagram",
@@ -54411,7 +54410,6 @@
     "DiffCorr": [
         "multtest"
     ],
-    "MetaCycle": [],
     "fastDummies": [
         "pillar",
         "stringr",
