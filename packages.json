@@ -309,7 +309,6 @@
     "biodbHmdb": [],
     "biodbKegg": [],
     "biodbMirbase": [],
-    "biodbNcbi": [],
     "biodbNci": [],
     "BioMM": [
         "rms"
