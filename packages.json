@@ -5365,7 +5365,6 @@
         "rqubic",
         "rstatix",
         "s4vd",
-        "subspace",
         "tidyverse",
         "treeio",
         "viridis"
@@ -10205,7 +10204,6 @@
         "dendextend",
         "viridis"
     ],
-    "subspace": [],
     "SOMbrero": [],
     "cvms": [
         "lme4",
