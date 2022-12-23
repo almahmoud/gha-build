@@ -2325,7 +2325,6 @@
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
-        "depmap",
         "enrichplot",
         "ggraph",
         "viridis"
@@ -5119,7 +5118,6 @@
     "pd.mapping50k.xba240": [
         "oligo"
     ],
-    "depmap": [],
     "plsgenomics": [
         "fields",
         "viridis"
