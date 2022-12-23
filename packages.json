@@ -1854,7 +1854,6 @@
         "SpatialExperiment",
         "rhdf5"
     ],
-    "ggtreeExtra": [],
     "GISPA": [
         "HH",
         "Hmisc",
@@ -2654,8 +2653,7 @@
         "viridis"
     ],
     "MicrobiotaProcess": [
-        "coin",
-        "ggtreeExtra"
+        "coin"
     ],
     "MIGSA": [
         "GOstats"
