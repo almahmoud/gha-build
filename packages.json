@@ -9265,7 +9265,6 @@
         "httr",
         "interp",
         "ipred",
-        "kknn",
         "knitr",
         "latticeExtra",
         "lava",
@@ -14364,7 +14363,6 @@
         "httr",
         "interp",
         "ipred",
-        "kknn",
         "knitr",
         "latticeExtra",
         "lava",
@@ -36024,7 +36022,6 @@
         "htmlwidgets",
         "httpuv",
         "httr",
-        "kknn",
         "km.ci",
         "knitr",
         "lme4",
@@ -45403,7 +45400,6 @@
         "sass",
         "stringr"
     ],
-    "kknn": [],
     "arm": [
         "lme4",
         "nloptr",
