@@ -15808,9 +15808,7 @@
         "GenomicRanges",
         "XVector"
     ],
-    "logicFS": [
-        "LogicReg"
-    ],
+    "logicFS": [],
     "LOLA": [
         "GenomicRanges",
         "XVector",
@@ -32561,7 +32559,6 @@
         "tibble"
     ],
     "trio": [
-        "LogicReg",
         "multtest",
         "siggenes"
     ],
@@ -36875,7 +36872,6 @@
         "rmarkdown",
         "shiny"
     ],
-    "LogicReg": [],
     "reldist": [
         "densEstBayes",
         "ggplot2",
