@@ -10022,7 +10022,6 @@
     "ClusterSignificance": [
         "princurve"
     ],
-    "clusterStab": [],
     "clustifyr": [
         "BiocParallel",
         "DelayedArray",
