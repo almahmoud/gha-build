@@ -1,0 +1,429 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   cace810c..f97622ee  main       -> origin/main
+Updating cace810c..f97622ee
+Fast-forward
+ lists/gplots                           |   2 +-
+ logs/run_ids/rstudio-binaries/RankProd |   2 +
+ logs/run_ids/rstudio-binaries/RcppDE   |   2 +
+ packages.json                          | 287 +++------------------------------
+ 4 files changed, 29 insertions(+), 264 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/RankProd
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=R.rsp
++ PKG=R.rsp
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "R.rsp"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 6045k    1  102k    0     0    98k      0  0:01:01  0:00:01  0:01:00   98k  7 6045k    7  468k    0     0   230k      0  0:00:26  0:00:02  0:00:24  230k 17 6045k   17 1074k    0     0   354k      0  0:00:17  0:00:03  0:00:14  354k 31 6045k   31 1919k    0     0   475k      0  0:00:12  0:00:04  0:00:08  475k 49 6045k   49 2971k    0     0   590k      0  0:00:10  0:00:05  0:00:05  594k 70 6045k   70 4278k    0     0   708k      0  0:00:08  0:00:06  0:00:02  835k 96 6045k   96 5823k    0     0   827k      0  0:00:07  0:00:07 --:--:-- 1069k100 6045k  100 6045k    0     0   845k      0  0:00:07  0:00:07 --:--:-- 1207k
+built/
+built/R.cache/
+built/R.cache/NAMESPACE
+built/R.cache/DESCRIPTION
+built/R.cache/help/
+built/R.cache/help/paths.rds
+built/R.cache/help/aliases.rds
+built/R.cache/help/R.cache.rdb
+built/R.cache/help/AnIndex
+built/R.cache/help/R.cache.rdx
+built/R.cache/Meta/
+built/R.cache/Meta/package.rds
+built/R.cache/Meta/features.rds
+built/R.cache/Meta/hsearch.rds
+built/R.cache/Meta/links.rds
+built/R.cache/Meta/nsInfo.rds
+built/R.cache/Meta/Rd.rds
+built/R.cache/_Rcache/
+built/R.cache/_Rcache/README.txt
+built/R.cache/WORDLIST
+built/R.cache/html/
+built/R.cache/html/00Index.html
+built/R.cache/html/R.css
+built/R.cache/INDEX
+built/R.cache/R/
+built/R.cache/R/R.cache
+built/R.cache/R/R.cache.rdb
+built/R.cache/R/R.cache.rdx
+built/R.cache/NEWS.md
+built/built/
+built/built/built/
+built/built/built/R.methodsS3/
+built/built/built/R.methodsS3/NAMESPACE
+built/built/built/R.methodsS3/DESCRIPTION
+built/built/built/R.methodsS3/help/
+built/built/built/R.methodsS3/help/paths.rds
+built/built/built/R.methodsS3/help/R.methodsS3.rdx
+built/built/built/R.methodsS3/help/R.methodsS3.rdb
+built/built/built/R.methodsS3/help/aliases.rds
+built/built/built/R.methodsS3/help/AnIndex
+built/built/built/R.methodsS3/Meta/
+built/built/built/R.methodsS3/Meta/package.rds
+built/built/built/R.methodsS3/Meta/features.rds
+built/built/built/R.methodsS3/Meta/hsearch.rds
+built/built/built/R.methodsS3/Meta/links.rds
+built/built/built/R.methodsS3/Meta/nsInfo.rds
+built/built/built/R.methodsS3/Meta/Rd.rds
+built/built/built/R.methodsS3/WORDLIST
+built/built/built/R.methodsS3/CITATION
+built/built/built/R.methodsS3/html/
+built/built/built/R.methodsS3/html/00Index.html
+built/built/built/R.methodsS3/html/R.css
+built/built/built/R.methodsS3/INDEX
+built/built/built/R.methodsS3/R/
+built/built/built/R.methodsS3/R/R.methodsS3.rdx
+built/built/built/R.methodsS3/R/R.methodsS3.rdb
+built/built/built/R.methodsS3/R/R.methodsS3
+built/built/built/R.methodsS3/NEWS.md
+built/built/built/R.oo/
+built/built/built/R.oo/NAMESPACE
+built/built/built/R.oo/DESCRIPTION
+built/built/built/R.oo/help/
+built/built/built/R.oo/help/paths.rds
+built/built/built/R.oo/help/aliases.rds
+built/built/built/R.oo/help/R.oo.rdb
+built/built/built/R.oo/help/AnIndex
+built/built/built/R.oo/help/R.oo.rdx
+built/built/built/R.oo/Meta/
+built/built/built/R.oo/Meta/package.rds
+built/built/built/R.oo/Meta/features.rds
+built/built/built/R.oo/Meta/hsearch.rds
+built/built/built/R.oo/Meta/links.rds
+built/built/built/R.oo/Meta/nsInfo.rds
+built/built/built/R.oo/Meta/Rd.rds
+built/built/built/R.oo/WORDLIST
+built/built/built/R.oo/misc/
+built/built/built/R.oo/misc/ASCII.R
+built/built/built/R.oo/misc/Exception.R
+built/built/built/R.oo/CITATION
+built/built/built/R.oo/html/
+built/built/built/R.oo/html/00Index.html
+built/built/built/R.oo/html/R.css
+built/built/built/R.oo/INDEX
+built/built/built/R.oo/doc/
+built/built/built/R.oo/doc/Bengtsson.pdf
+built/built/built/R.oo/R/
+built/built/built/R.oo/R/R.oo
+built/built/built/R.oo/R/R.oo.rdb
+built/built/built/R.oo/R/R.oo.rdx
+built/built/built/R.oo/NEWS.md
+built/built/R.methodsS3/
+built/built/R.methodsS3/NAMESPACE
+built/built/R.methodsS3/DESCRIPTION
+built/built/R.methodsS3/help/
+built/built/R.methodsS3/help/paths.rds
+built/built/R.methodsS3/help/R.methodsS3.rdx
+built/built/R.methodsS3/help/R.methodsS3.rdb
+built/built/R.methodsS3/help/aliases.rds
+built/built/R.methodsS3/help/AnIndex
+built/built/R.methodsS3/Meta/
+built/built/R.methodsS3/Meta/package.rds
+built/built/R.methodsS3/Meta/features.rds
+built/built/R.methodsS3/Meta/hsearch.rds
+built/built/R.methodsS3/Meta/links.rds
+built/built/R.methodsS3/Meta/nsInfo.rds
+built/built/R.methodsS3/Meta/Rd.rds
+built/built/R.methodsS3/WORDLIST
+built/built/R.methodsS3/CITATION
+built/built/R.methodsS3/html/
+built/built/R.methodsS3/html/00Index.html
+built/built/R.methodsS3/html/R.css
+built/built/R.methodsS3/INDEX
+built/built/R.methodsS3/R/
+built/built/R.methodsS3/R/R.methodsS3.rdx
+built/built/R.methodsS3/R/R.methodsS3.rdb
+built/built/R.methodsS3/R/R.methodsS3
+built/built/R.methodsS3/NEWS.md
+built/built/R.oo/
+built/built/R.oo/NAMESPACE
+built/built/R.oo/DESCRIPTION
+built/built/R.oo/help/
+built/built/R.oo/help/paths.rds
+built/built/R.oo/help/aliases.rds
+built/built/R.oo/help/R.oo.rdb
+built/built/R.oo/help/AnIndex
+built/built/R.oo/help/R.oo.rdx
+built/built/R.oo/Meta/
+built/built/R.oo/Meta/package.rds
+built/built/R.oo/Meta/features.rds
+built/built/R.oo/Meta/hsearch.rds
+built/built/R.oo/Meta/links.rds
+built/built/R.oo/Meta/nsInfo.rds
+built/built/R.oo/Meta/Rd.rds
+built/built/R.oo/WORDLIST
+built/built/R.oo/misc/
+built/built/R.oo/misc/ASCII.R
+built/built/R.oo/misc/Exception.R
+built/built/R.oo/CITATION
+built/built/R.oo/html/
+built/built/R.oo/html/00Index.html
+built/built/R.oo/html/R.css
+built/built/R.oo/INDEX
+built/built/R.oo/doc/
+built/built/R.oo/doc/Bengtsson.pdf
+built/built/R.oo/R/
+built/built/R.oo/R/R.oo
+built/built/R.oo/R/R.oo.rdb
+built/built/R.oo/R/R.oo.rdx
+built/built/R.oo/NEWS.md
+built/built/R.utils/
+built/built/R.utils/NAMESPACE
+built/built/R.utils/DESCRIPTION
+built/built/R.utils/help/
+built/built/R.utils/help/paths.rds
+built/built/R.utils/help/R.utils.rdx
+built/built/R.utils/help/aliases.rds
+built/built/R.utils/help/AnIndex
+built/built/R.utils/help/R.utils.rdb
+built/built/R.utils/Meta/
+built/built/R.utils/Meta/package.rds
+built/built/R.utils/Meta/features.rds
+built/built/R.utils/Meta/hsearch.rds
+built/built/R.utils/Meta/links.rds
+built/built/R.utils/Meta/nsInfo.rds
+built/built/R.utils/Meta/Rd.rds
+built/built/R.utils/data-ex/
+built/built/R.utils/data-ex/NEWS.LNK
+built/built/R.utils/data-ex/lnkFileWith10BitsInFlag.lnk
+built/built/R.utils/data-ex/HISTORY.LNK
+built/built/R.utils/data-ex/exampleVComments.R
+built/built/R.utils/WORDLIST
+built/built/R.utils/html/
+built/built/R.utils/html/00Index.html
+built/built/R.utils/html/R.css
+built/built/R.utils/INDEX
+built/built/R.utils/R/
+built/built/R.utils/R/R.utils.rdx
+built/built/R.utils/R/R.utils
+built/built/R.utils/R/R.utils.rdb
+built/built/R.utils/NEWS.md
+built/built/digest/
+built/built/digest/libs/
+built/built/digest/libs/digest.so
+built/built/digest/NAMESPACE
+built/built/digest/tinytest/
+built/built/digest/tinytest/test_new_matrix_behaviour.R
+built/built/digest/tinytest/test_crc32.R
+built/built/digest/tinytest/test_misc.R
+built/built/digest/tinytest/test_digest2int.R
+built/built/digest/tinytest/test_hmac.R
+built/built/digest/tinytest/test_blake3.R
+built/built/digest/tinytest/test_raw.R
+built/built/digest/tinytest/test_aes.R
+built/built/digest/tinytest/test_digest.R
+built/built/digest/tinytest/test_sha1.R
+built/built/digest/tinytest/test_encoding.R
+built/built/digest/tinytest/test_num2hex.R
+built/built/digest/DESCRIPTION
+built/built/digest/help/
+built/built/digest/help/paths.rds
+built/built/digest/help/aliases.rds
+built/built/digest/help/digest.rdx
+built/built/digest/help/digest.rdb
+built/built/digest/help/AnIndex
+built/built/digest/Meta/
+built/built/digest/Meta/package.rds
+built/built/digest/Meta/vignette.rds
+built/built/digest/Meta/demo.rds
+built/built/digest/Meta/features.rds
+built/built/digest/Meta/hsearch.rds
+built/built/digest/Meta/links.rds
+built/built/digest/Meta/nsInfo.rds
+built/built/digest/Meta/Rd.rds
+built/built/digest/include/
+built/built/digest/include/pmurhashAPI.h
+built/built/digest/GPL-2
+built/built/digest/html/
+built/built/digest/html/00Index.html
+built/built/digest/html/R.css
+built/built/digest/INDEX
+built/built/digest/doc/
+built/built/digest/doc/sha1.html
+built/built/digest/doc/sha1.md
+built/built/digest/doc/sha1.R
+built/built/digest/doc/index.html
+built/built/digest/R/
+built/built/digest/R/digest.rdx
+built/built/digest/R/digest.rdb
+built/built/digest/R/digest
+built/built/digest/demo/
+built/built/digest/demo/vectorised.R
+built/R.methodsS3/
+built/R.methodsS3/NAMESPACE
+built/R.methodsS3/DESCRIPTION
+built/R.methodsS3/help/
+built/R.methodsS3/help/paths.rds
+built/R.methodsS3/help/R.methodsS3.rdx
+built/R.methodsS3/help/R.methodsS3.rdb
+built/R.methodsS3/help/aliases.rds
+built/R.methodsS3/help/AnIndex
+built/R.methodsS3/Meta/
+built/R.methodsS3/Meta/package.rds
+built/R.methodsS3/Meta/features.rds
+built/R.methodsS3/Meta/hsearch.rds
+built/R.methodsS3/Meta/links.rds
+built/R.methodsS3/Meta/nsInfo.rds
+built/R.methodsS3/Meta/Rd.rds
+built/R.methodsS3/WORDLIST
+built/R.methodsS3/CITATION
+built/R.methodsS3/html/
+built/R.methodsS3/html/00Index.html
+built/R.methodsS3/html/R.css
+built/R.methodsS3/INDEX
+built/R.methodsS3/R/
+built/R.methodsS3/R/R.methodsS3.rdx
+built/R.methodsS3/R/R.methodsS3.rdb
+built/R.methodsS3/R/R.methodsS3
+built/R.methodsS3/NEWS.md
+built/R.oo/
+built/R.oo/NAMESPACE
+built/R.oo/DESCRIPTION
+built/R.oo/help/
+built/R.oo/help/paths.rds
+built/R.oo/help/aliases.rds
+built/R.oo/help/R.oo.rdb
+built/R.oo/help/AnIndex
+built/R.oo/help/R.oo.rdx
+built/R.oo/Meta/
+built/R.oo/Meta/package.rds
+built/R.oo/Meta/features.rds
+built/R.oo/Meta/hsearch.rds
+built/R.oo/Meta/links.rds
+built/R.oo/Meta/nsInfo.rds
+built/R.oo/Meta/Rd.rds
+built/R.oo/WORDLIST
+built/R.oo/misc/
+built/R.oo/misc/ASCII.R
+built/R.oo/misc/Exception.R
+built/R.oo/CITATION
+built/R.oo/html/
+built/R.oo/html/00Index.html
+built/R.oo/html/R.css
+built/R.oo/INDEX
+built/R.oo/doc/
+built/R.oo/doc/Bengtsson.pdf
+built/R.oo/R/
+built/R.oo/R/R.oo
+built/R.oo/R/R.oo.rdb
+built/R.oo/R/R.oo.rdx
+built/R.oo/NEWS.md
+built/R.utils/
+built/R.utils/NAMESPACE
+built/R.utils/DESCRIPTION
+built/R.utils/help/
+built/R.utils/help/paths.rds
+built/R.utils/help/R.utils.rdx
+built/R.utils/help/aliases.rds
+built/R.utils/help/AnIndex
+built/R.utils/help/R.utils.rdb
+built/R.utils/Meta/
+built/R.utils/Meta/package.rds
+built/R.utils/Meta/features.rds
+built/R.utils/Meta/hsearch.rds
+built/R.utils/Meta/links.rds
+built/R.utils/Meta/nsInfo.rds
+built/R.utils/Meta/Rd.rds
+built/R.utils/data-ex/
+built/R.utils/data-ex/NEWS.LNK
+built/R.utils/data-ex/lnkFileWith10BitsInFlag.lnk
+built/R.utils/data-ex/HISTORY.LNK
+built/R.utils/data-ex/exampleVComments.R
+built/R.utils/WORDLIST
+built/R.utils/html/
+built/R.utils/html/00Index.html
+built/R.utils/html/R.css
+built/R.utils/INDEX
+built/R.utils/R/
+built/R.utils/R/R.utils.rdx
+built/R.utils/R/R.utils
+built/R.utils/R/R.utils.rdb
+built/R.utils/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''R.rsp'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv R.cache_0.16.0_R_x86_64-pc-linux-gnu.tar.gz R.methodsS3_1.8.2_R_x86_64-pc-linux-gnu.tar.gz R.oo_1.25.0_R_x86_64-pc-linux-gnu.tar.gz R.rsp_0.45.0_R_x86_64-pc-linux-gnu.tar.gz R.utils_2.12.2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/R.rsp
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'R.rsp'
+also installing the dependencies ‘R.methodsS3’, ‘R.oo’, ‘R.utils’, ‘R.cache’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/R.methodsS3_1.8.2.tar.gz'
+Content type 'binary/octet-stream' length 80411 bytes (78 KB)
+==================================================
+downloaded 78 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/R.oo_1.25.0.tar.gz'
+Content type 'binary/octet-stream' length 954776 bytes (932 KB)
+==================================================
+downloaded 932 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/R.utils_2.12.2.tar.gz'
+Content type 'binary/octet-stream' length 1394432 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/R.cache_0.16.0.tar.gz'
+Content type 'binary/octet-stream' length 108012 bytes (105 KB)
+==================================================
+downloaded 105 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/R.rsp_0.45.0.tar.gz'
+Content type 'binary/octet-stream' length 1524365 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+* installing *binary* package ‘R.methodsS3’ ...
+* ‘R.methodsS3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.methodsS3’ as ‘R.methodsS3_1.8.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.methodsS3)
+* installing *binary* package ‘R.oo’ ...
+* ‘R.oo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.oo’ as ‘R.oo_1.25.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.oo)
+* installing *binary* package ‘R.utils’ ...
+* ‘R.utils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.utils’ as ‘R.utils_2.12.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.utils)
+* installing *binary* package ‘R.cache’ ...
+* ‘R.cache’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.cache’ as ‘R.cache_0.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.cache)
+* installing *binary* package ‘R.rsp’ ...
+* ‘R.rsp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.rsp’ as ‘R.rsp_0.45.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.rsp)
+
+The downloaded source packages are in
+	‘/tmp/RtmpUXm7b6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m22.078s
+user	0m7.171s
+sys	0m1.057s

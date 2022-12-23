@@ -31539,7 +31539,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "PSCBS",
-        "R.rsp",
         "RSQLite",
         "XVector",
         "affy",
@@ -44841,7 +44840,6 @@
         "Hmisc",
         "KEGGREST",
         "PSCBS",
-        "R.rsp",
         "RSQLite",
         "WGCNA",
         "XVector",
@@ -53255,16 +53253,13 @@
     ],
     "aroma.affymetrix": [
         "PSCBS",
-        "R.rsp",
         "aroma.apd",
         "aroma.core"
     ],
     "aroma.core": [
-        "PSCBS",
-        "R.rsp"
+        "PSCBS"
     ],
     "aroma.apd": [],
-    "R.rsp": [],
     "PSCBS": [],
     "opencpu": [
         "knitr",
