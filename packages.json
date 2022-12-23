@@ -14008,7 +14008,6 @@
         "BiocParallel",
         "futile.logger"
     ],
-    "ddCt": [],
     "ddPCRclust": [
         "DelayedArray",
         "GEOmap",
