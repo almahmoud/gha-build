@@ -56337,7 +56337,6 @@
         "vctrs",
         "viridis"
     ],
-    "SNAGEE": [],
     "snapCGH": [
         "AnnotationDbi",
         "Biostrings",
