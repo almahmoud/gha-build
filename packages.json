@@ -17,7 +17,6 @@
     "abseqR": [
         "BiocStyle",
         "flexdashboard",
-        "ggcorrplot",
         "ggdendro",
         "htmlwidgets",
         "plotly",
@@ -2532,7 +2531,6 @@
         "viridis"
     ],
     "CIMICE": [
-        "ggcorrplot",
         "ggforce",
         "ggraph",
         "ggrepel",
@@ -17064,7 +17062,6 @@
     "flexdashboard": [
         "htmlwidgets"
     ],
-    "ggcorrplot": [],
     "ggdendro": [],
     "plotly": [
         "htmlwidgets",
