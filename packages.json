@@ -4135,7 +4135,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "MDTS": [],
     "MEAL": [
         "BSgenome",
         "FDb.InfiniumMethylation.hg19",
