@@ -2949,7 +2949,6 @@
         "phyloseq",
         "rhdf5"
     ],
-    "periodicDNA": [],
     "PFP": [
         "clusterProfiler",
         "enrichplot",
