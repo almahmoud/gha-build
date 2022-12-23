@@ -600,9 +600,7 @@
     "plotGrouper": [
         "ggpubr"
     ],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "primirTSS": [
         "Gviz"
     ],
@@ -632,7 +630,6 @@
     "R3CPET": [
         "ggbio"
     ],
-    "rCGH": [],
     "ReactomePA": [],
     "recount": [
         "derfinder"
