@@ -371,7 +371,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "bioassayR": [],
     "bioCancer": [
         "DOSE",
         "DiagrammeR",
