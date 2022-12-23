@@ -2614,7 +2614,6 @@
         "ChIC.data",
         "Rsamtools",
         "caret",
-        "genomeIntervals",
         "recipes",
         "spp",
         "tidyr"
@@ -5215,8 +5214,7 @@
         "ShortRead",
         "SummarizedExperiment",
         "biomaRt",
-        "dbplyr",
-        "genomeIntervals"
+        "dbplyr"
     ],
     "EBImage": [
         "htmlwidgets"
@@ -7031,7 +7029,6 @@
         "seqPattern"
     ],
     "GenomAutomorphism": [],
-    "genomeIntervals": [],
     "genomes": [
         "readr"
     ],
@@ -7429,8 +7426,7 @@
         "GenomicAlignments",
         "Rsamtools",
         "ShortRead",
-        "SummarizedExperiment",
-        "genomeIntervals"
+        "SummarizedExperiment"
     ],
     "GISPA": [
         "AnnotationDbi",
@@ -11355,7 +11351,6 @@
         "dbplyr",
         "easyRNASeq",
         "ensembldb",
-        "genomeIntervals",
         "ggbio",
         "htmlTable",
         "htmlwidgets",
@@ -20426,7 +20421,6 @@
     "spp": [],
     "ChIC.data": [
         "caret",
-        "genomeIntervals",
         "recipes",
         "tidyr"
     ],
