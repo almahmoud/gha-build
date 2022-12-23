@@ -3143,7 +3143,6 @@
         "rtracklayer"
     ],
     "fgga": [],
-    "FilterFFPE": [],
     "FindIT2": [
         "GenomicFeatures",
         "biomaRt",
