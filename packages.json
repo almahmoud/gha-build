@@ -5231,7 +5231,6 @@
         "DT",
         "FactoMineR",
         "Hmisc",
-        "SpatialTools",
         "broom",
         "bslib",
         "car",
@@ -45302,7 +45301,6 @@
         "pillar",
         "tibble"
     ],
-    "SpatialTools": [],
     "FactoMineR": [
         "DT",
         "broom",
