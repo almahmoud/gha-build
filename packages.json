@@ -3342,7 +3342,6 @@
         "plyranges",
         "regioneR"
     ],
-    "multiGSEA": [],
     "multiHiCcompare": [
         "CGHcall",
         "HiCcompare",
