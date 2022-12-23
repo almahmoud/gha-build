@@ -1,0 +1,132 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   314801ed..eec3a332  main       -> origin/main
+Updating 314801ed..eec3a332
+Fast-forward
+ lists/GPA                                         |     2 +-
+ lists/IsoCorrectoRGUI                             |     2 +-
+ lists/SICtools                                    |     2 +-
+ lists/densEstBayes                                |     2 +-
+ lists/gRain                                       |     2 +-
+ lists/highcharter                                 |     2 +-
+ lists/iBBiG                                       |     2 +-
+ lists/lexicon                                     |     2 +-
+ lists/mice                                        |     2 +-
+ lists/tracktables                                 |     2 +-
+ logs/run_ids/rstudio-binaries/NanoStringNCTools   |     2 +
+ logs/run_ids/rstudio-binaries/NanoTube            |     2 +
+ logs/run_ids/rstudio-binaries/mice                |     2 +
+ logs/run_ids/rstudio-binaries/mnem                |     2 +
+ logs/run_ids/rstudio-binaries/modelr              |     2 +
+ logs/sizes/rstudio-binaries/binaries/SICtools     |     1 +
+ logs/sizes/rstudio-binaries/binaries/gRain        |     1 +
+ logs/sizes/rstudio-binaries/binaries/highcharter  |     1 +
+ logs/sizes/rstudio-binaries/binaries/iBBiG        |     1 +
+ logs/sizes/rstudio-binaries/binaries/lexicon      |     1 +
+ logs/sizes/rstudio-binaries/binaries/mice         |     1 +
+ logs/sizes/rstudio-binaries/libraries/SICtools    |     1 +
+ logs/sizes/rstudio-binaries/libraries/gRain       |     1 +
+ logs/sizes/rstudio-binaries/libraries/highcharter |     1 +
+ logs/sizes/rstudio-binaries/libraries/iBBiG       |     1 +
+ logs/sizes/rstudio-binaries/libraries/lexicon     |     1 +
+ logs/sizes/rstudio-binaries/libraries/mice        |     1 +
+ logs/times/rstudio-binary/SICtools                | 32907 ++++++++++++++++++++
+ logs/times/rstudio-binary/gRain                   |   811 +
+ logs/times/rstudio-binary/highcharter             |  1213 +
+ logs/times/rstudio-binary/iBBiG                   |  4766 +++
+ logs/times/rstudio-binary/lexicon                 |    70 +
+ logs/times/rstudio-binary/mice                    |    72 +
+ packages.json                                     |    72 +-
+ 34 files changed, 39882 insertions(+), 71 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/NanoStringNCTools
+ create mode 100644 logs/run_ids/rstudio-binaries/NanoTube
+ create mode 100644 logs/run_ids/rstudio-binaries/mice
+ create mode 100644 logs/run_ids/rstudio-binaries/mnem
+ create mode 100644 logs/run_ids/rstudio-binaries/modelr
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/SICtools
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/gRain
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/highcharter
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/iBBiG
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/lexicon
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/mice
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/SICtools
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/gRain
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/highcharter
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/iBBiG
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/lexicon
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/mice
+ create mode 100644 logs/times/rstudio-binary/SICtools
+ create mode 100644 logs/times/rstudio-binary/gRain
+ create mode 100644 logs/times/rstudio-binary/highcharter
+ create mode 100644 logs/times/rstudio-binary/iBBiG
+ create mode 100644 logs/times/rstudio-binary/lexicon
+ create mode 100644 logs/times/rstudio-binary/mice
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=MBQN
++ PKG=MBQN
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "MBQN"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency limma is already found.
+Dependency SummarizedExperiment is already found.
+Dependency preprocessCore is already found.
+Dependency BiocFileCache is already found.
+Dependency xml2 is already found.
+Dependency PairedData is already found.
+Dependency rmarkdown is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''MBQN'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv MBQN_2.10.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/MBQN
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'MBQN'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/MBQN_2.10.0.tar.gz'
+Content type 'application/x-gzip' length 187849 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+* installing *source* package ‘MBQN’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MBQN’ as ‘MBQN_2.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MBQN)
+
+The downloaded source packages are in
+	‘/tmp/RtmpVj87Xm/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m10.965s
+user	0m7.729s
+sys	0m0.997s
