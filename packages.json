@@ -2802,7 +2802,6 @@
     "VanillaICE": [
         "BSgenome.Hsapiens.UCSC.hg18"
     ],
-    "VarCon": [],
     "variancePartition": [
         "lmerTest",
         "pbkrtest"
