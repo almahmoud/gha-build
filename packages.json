@@ -1284,7 +1284,6 @@
         "DiagrammeR",
         "mlapi",
         "text2vec",
-        "textclean",
         "textstem",
         "ttgsea"
     ],
@@ -1895,9 +1894,7 @@
     "flowVS": [
         "flowStats"
     ],
-    "fobitools": [
-        "textclean"
-    ],
+    "fobitools": [],
     "FoldGO": [
         "topGO"
     ],
@@ -2077,7 +2074,6 @@
         "DiagrammeR",
         "mlapi",
         "text2vec",
-        "textclean",
         "textstem",
         "ttgsea"
     ],
@@ -5304,7 +5300,6 @@
         "DiagrammeR",
         "mlapi",
         "text2vec",
-        "textclean",
         "textstem"
     ],
     "TVTB": [
@@ -5367,7 +5362,6 @@
         "mlapi",
         "scater",
         "text2vec",
-        "textclean",
         "textstem",
         "ttgsea"
     ],
@@ -5433,7 +5427,6 @@
         "ExperimentHub",
         "GSEABase",
         "msigdb",
-        "textclean",
         "textstem"
     ],
     "Voyager": [
@@ -5784,11 +5777,8 @@
     "text2vec": [
         "mlapi"
     ],
-    "textstem": [
-        "textclean"
-    ],
+    "textstem": [],
     "mlapi": [],
-    "textclean": [],
     "VIM": [
         "car",
         "lme4",
