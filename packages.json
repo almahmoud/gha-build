@@ -16245,7 +16245,6 @@
         "graphite",
         "org.Hs.eg.db"
     ],
-    "powerTCR": [],
     "POWSC": [
         "MAST",
         "SingleCellExperiment",
@@ -19514,7 +19513,6 @@
         "ggplot2",
         "ggraph",
         "ggrepel",
-        "powerTCR",
         "tidygraph",
         "tidyr",
         "viridis"
