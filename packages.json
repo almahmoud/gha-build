@@ -1777,7 +1777,6 @@
     "singleCellTK": [
         "TENxPBMCData",
         "celda",
-        "celldex",
         "ensembldb",
         "scDblFinder",
         "scRNAseq"
@@ -2172,7 +2171,6 @@
         "rstatix",
         "survminer"
     ],
-    "celldex": [],
     "scRNAseq": [
         "ensembldb"
     ],
