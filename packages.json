@@ -1916,7 +1916,6 @@
         "dendextend",
         "viridis"
     ],
-    "gsean": [],
     "GSReg": [
         "Homo.sapiens",
         "OrganismDbi",
