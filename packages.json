@@ -2084,7 +2084,6 @@
         "nloptr",
         "testthat"
     ],
-    "CNORode": [],
     "CNTools": [
         "AnnotationDbi",
         "annotate",
@@ -6381,9 +6380,7 @@
         "cmdfun",
         "testthat"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "Melissa": [
         "BPRMeth",
         "BiocStyle"
