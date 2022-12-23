@@ -48371,7 +48371,6 @@
     ],
     "powerTCR": [
         "doParallel",
-        "evmix",
         "lifecycle",
         "mgcv",
         "purrr",
@@ -58433,7 +58432,6 @@
         "doParallel",
         "dplyr",
         "ellipsis",
-        "evmix",
         "future",
         "future.apply",
         "ggalluvial",
@@ -80039,7 +80037,6 @@
         "vctrs"
     ],
     "strawr": [],
-    "evmix": [],
     "tidybayes": [
         "distributional",
         "dplyr",
