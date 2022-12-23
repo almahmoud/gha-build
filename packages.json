@@ -31297,7 +31297,6 @@
         "MatrixCorrelation",
         "MatrixModels",
         "MetBrewer",
-        "MuMIn",
         "NMF",
         "RSQLite",
         "RSpectra",
@@ -31461,7 +31460,6 @@
         "MCL",
         "MatrixModels",
         "MetBrewer",
-        "MuMIn",
         "RSQLite",
         "RcppEigen",
         "ReactomePA",
@@ -51103,7 +51101,6 @@
         "KEGGREST",
         "MatrixModels",
         "MetBrewer",
-        "MuMIn",
         "RSQLite",
         "RcppEigen",
         "Rgraphviz",
@@ -63798,7 +63795,6 @@
         "tibble"
     ],
     "cvms": [
-        "MuMIn",
         "RcppEigen",
         "bayestestR",
         "clock",
@@ -63851,7 +63847,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "MuMIn": [],
     "parameters": [
         "bayestestR"
     ],
