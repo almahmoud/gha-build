@@ -3673,7 +3673,6 @@
         "agricolae",
         "fields",
         "klaR",
-        "labelled",
         "plsgenomics",
         "questionr",
         "viridis",
@@ -4849,7 +4848,6 @@
     "omada": [
         "diceR",
         "klaR",
-        "labelled",
         "questionr"
     ],
     "OmaDB": [
@@ -6855,8 +6853,7 @@
     ],
     "ssPATHS": [
         "MESS",
-        "ggformula",
-        "labelled"
+        "ggformula"
     ],
     "STAN": [
         "BSgenome",
@@ -8015,17 +8012,12 @@
     ],
     "agricolae": [
         "klaR",
-        "labelled",
         "questionr"
     ],
     "klaR": [
-        "labelled",
         "questionr"
     ],
-    "questionr": [
-        "labelled"
-    ],
-    "labelled": [],
+    "questionr": [],
     "SmartSVA": [
         "genefilter",
         "sva"
@@ -8095,7 +8087,6 @@
     ],
     "diceR": [
         "klaR",
-        "labelled",
         "questionr"
     ],
     "AICcmodavg": [
@@ -8210,12 +8201,9 @@
     "sampSurf": [],
     "miRNAtap.db": [],
     "MESS": [
-        "ggformula",
-        "labelled"
+        "ggformula"
     ],
-    "ggformula": [
-        "labelled"
-    ],
+    "ggformula": [],
     "SpatialExtremes": [
         "fields",
         "viridis"
