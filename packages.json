@@ -13417,7 +13417,6 @@
         "AnnotationDbi",
         "BiocStyle",
         "C50",
-        "Cubist",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -21548,10 +21547,7 @@
         "fields",
         "viridis"
     ],
-    "C50": [
-        "Cubist"
-    ],
-    "Cubist": [],
+    "C50": [],
     "tidybayes": [
         "distributional",
         "ggdist",
