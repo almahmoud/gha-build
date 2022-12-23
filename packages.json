@@ -3714,7 +3714,6 @@
         "derfinder",
         "viridis"
     ],
-    "recount3": [],
     "recountmethylation": [
         "HDF5Array",
         "IlluminaHumanMethylation450kmanifest",
