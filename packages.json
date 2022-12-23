@@ -4371,7 +4371,6 @@
         "WGCNA",
         "viridis"
     ],
-    "TissueEnrich": [],
     "TitanCNA": [
         "VariantAnnotation"
     ],
