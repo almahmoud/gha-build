@@ -6543,7 +6543,6 @@
         "heatmaply",
         "plotly",
         "rhdf5",
-        "rmdformats",
         "rtracklayer",
         "viridis",
         "vsn"
@@ -13550,7 +13549,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "rmdformats": [],
     "sesameData": [
         "AnnotationDbi",
         "AnnotationHub",
