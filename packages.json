@@ -848,7 +848,6 @@
     "CoGAPS": [
         "rhdf5"
     ],
-    "cogeqc": [],
     "Cogito": [
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
     ],
