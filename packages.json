@@ -5351,7 +5351,6 @@
         "e1071",
         "edgeR",
         "epiNEM",
-        "flexclust",
         "fpc",
         "genefilter",
         "ggdendro",
@@ -13089,7 +13088,6 @@
         "e1071",
         "edgeR",
         "epiNEM",
-        "flexclust",
         "forcats",
         "fpc",
         "gargle",
@@ -17212,7 +17210,6 @@
         "Rgraphviz",
         "clue",
         "e1071",
-        "flexclust",
         "fpc",
         "ggdendro",
         "ggm",
@@ -24482,7 +24479,6 @@
         "ade4",
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -32272,7 +32268,6 @@
         "enrichplot",
         "fabia",
         "fgsea",
-        "flexclust",
         "fontawesome",
         "forcats",
         "future",
@@ -32967,7 +32962,6 @@
         "RcppEigen",
         "Rgraphviz",
         "e1071",
-        "flexclust",
         "fpc",
         "ggdendro",
         "ggplot2",
@@ -33334,7 +33328,6 @@
         "biclust",
         "dplyr",
         "fabia",
-        "flexclust",
         "ggplot2",
         "igraph",
         "mgcv",
@@ -35834,7 +35827,6 @@
         "clue",
         "e1071",
         "epiNEM",
-        "flexclust",
         "fpc",
         "ggdendro",
         "ggm",
@@ -42459,7 +42451,6 @@
     "QUBIC": [
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -46303,7 +46294,6 @@
     "rqubic": [
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -46761,7 +46751,6 @@
         "XVector",
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -55702,8 +55691,7 @@
     "TMixClust": [
         "BiocParallel",
         "Rsolnp",
-        "SPEM",
-        "flexclust"
+        "SPEM"
     ],
     "TNBC.CMS": [
         "AnnotationDbi",
@@ -61998,7 +61986,6 @@
         "stringr"
     ],
     "V8": [],
-    "flexclust": [],
     "BoolNet": [
         "igraph"
     ],
@@ -64759,7 +64746,6 @@
     ],
     "biclust": [
         "dplyr",
-        "flexclust",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -65661,7 +65647,6 @@
     "s4vd": [
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "irlba",
         "mgcv",
@@ -65677,7 +65662,6 @@
         "biclust",
         "dendextend",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "mgcv",
         "pillar",
