@@ -2879,7 +2879,6 @@
         "fields",
         "klaR",
         "plsgenomics",
-        "questionr",
         "viridis",
         "vsn",
         "xcms"
@@ -3823,8 +3822,7 @@
     "oligo": [],
     "omada": [
         "diceR",
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "OmaDB": [],
     "omicRexposome": [
@@ -6305,13 +6303,9 @@
         "viridis"
     ],
     "agricolae": [
-        "klaR",
-        "questionr"
+        "klaR"
     ],
-    "klaR": [
-        "questionr"
-    ],
-    "questionr": [],
+    "klaR": [],
     "SmartSVA": [
         "sva"
     ],
@@ -6358,8 +6352,7 @@
     "fst": [],
     "octad.db": [],
     "diceR": [
-        "klaR",
-        "questionr"
+        "klaR"
     ],
     "AICcmodavg": [
         "unmarked"
