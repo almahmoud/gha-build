@@ -789,7 +789,6 @@
         "rtracklayer",
         "treeio"
     ],
-    "Cardinal": [],
     "casper": [
         "GenomicFeatures",
         "rtracklayer"
