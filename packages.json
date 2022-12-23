@@ -2480,9 +2480,7 @@
         "UCell",
         "annotate"
     ],
-    "esetVis": [
-        "MLP"
-    ],
+    "esetVis": [],
     "evaluomeR": [],
     "EventPointer": [
         "BSgenome",
@@ -4495,7 +4493,6 @@
         "annotate",
         "genefilter"
     ],
-    "MLP": [],
     "MLSeq": [
         "DESeq2",
         "annotate",
