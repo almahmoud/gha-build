@@ -549,7 +549,6 @@
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "ensembldb"
     ],
-    "consensusOV": [],
     "contiBAIT": [
         "GenomicFiles",
         "VariantAnnotation"
@@ -2599,7 +2598,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "car",
-        "consensusOV",
         "ensembldb",
         "ggpubr",
         "pbkrtest",
