@@ -22684,7 +22684,6 @@
         "illuminaio",
         "interactiveDisplayBase",
         "interp",
-        "isotree",
         "jquerylib",
         "knitr",
         "lambda.r",
@@ -85047,7 +85046,6 @@
         "R.oo",
         "R.utils"
     ],
-    "isotree": [],
     "batchtools": [
         "base64url",
         "ellipsis",
