@@ -9193,7 +9193,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "regsplice": [],
     "regutools": [
         "AnnotationDbi",
         "AnnotationHub",
