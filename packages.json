@@ -46126,7 +46126,6 @@
         "pillar",
         "reshape2",
         "scales",
-        "seqTools",
         "stringr",
         "tibble",
         "tidyselect",
@@ -54549,7 +54548,6 @@
         "urltools",
         "vctrs"
     ],
-    "seqTools": [],
     "SeqVarTools": [
         "Biostrings",
         "GenomeInfoDb",
