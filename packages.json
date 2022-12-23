@@ -90,7 +90,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -112,7 +111,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -179,7 +177,6 @@
         "tidyselect"
     ],
     "ADImpute": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SAVER",
@@ -197,7 +194,6 @@
         "XVector"
     ],
     "AffiXcan": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -229,7 +225,6 @@
         "Biostrings",
         "Category",
         "DESeq2",
-        "DelayedArray",
         "GGally",
         "GO.db",
         "GOstats",
@@ -318,7 +313,6 @@
         "annotate"
     ],
     "aggregateBioVar": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -336,7 +330,6 @@
         "Biostrings",
         "Category",
         "DESeq2",
-        "DelayedArray",
         "GGally",
         "GO.db",
         "GOstats",
@@ -390,7 +383,6 @@
     "airpart": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -416,7 +408,6 @@
         "viridis"
     ],
     "ALDEx2": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -450,7 +441,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -502,7 +492,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -560,7 +549,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -594,7 +582,6 @@
     ],
     "amplican": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -618,7 +605,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -641,7 +627,6 @@
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DescTools",
         "GenomeInfoDb",
@@ -693,7 +678,6 @@
     ],
     "AneuFinder": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -716,7 +700,6 @@
         "Biostrings",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "GUniFrac",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -836,7 +819,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -872,7 +854,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -916,7 +897,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -995,7 +975,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1034,7 +1013,6 @@
         "org.Sc.sgd.db"
     ],
     "apeglm": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -1043,7 +1021,6 @@
     "APL": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -1091,7 +1068,6 @@
         "Biostrings",
         "COSMIC.67",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -1140,7 +1116,6 @@
     ],
     "ArrayExpress": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -1153,7 +1128,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -1185,7 +1159,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -1291,7 +1264,6 @@
         "waldo"
     ],
     "ASICS": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -1323,7 +1295,6 @@
         "BiocFileCache",
         "Biostrings",
         "DRaWR",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1377,7 +1348,6 @@
         "BiocStyle",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1436,7 +1406,6 @@
         "tibble"
     ],
     "ASURAT": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -1453,7 +1422,6 @@
         "CNEr",
         "CoGAPS",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GeneOverlap",
         "GenomeInfoDb",
@@ -1536,7 +1504,6 @@
         "CNEr",
         "ChIPpeakAnno",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -1583,7 +1550,6 @@
         "BSgenome",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -1616,7 +1582,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -1644,7 +1609,6 @@
         "BiocFileCache",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -1698,7 +1662,6 @@
     "AUCell": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GenomeInfoDb",
@@ -1725,7 +1688,6 @@
     ],
     "autonomics": [
         "BiocFileCache",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -1753,7 +1715,6 @@
         "tidyselect"
     ],
     "awst": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -1761,7 +1722,6 @@
     ],
     "BaalChIP": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -1797,7 +1757,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1823,7 +1782,6 @@
     "ballgown": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -1842,7 +1800,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1886,7 +1843,6 @@
         "BiocFileCache",
         "BiocStyle",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -1941,7 +1897,6 @@
         "tibble"
     ],
     "barcodetrackR": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -1962,7 +1917,6 @@
     "basecallQC": [
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -1987,7 +1941,6 @@
         "BSgenome",
         "BSgenome.Ecoli.NCBI.20080805",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -1999,7 +1952,6 @@
     "BASiCS": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -2031,7 +1983,6 @@
         "BASiCS",
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -2065,7 +2016,6 @@
     ],
     "BasicSTARRseq": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -2077,7 +2027,6 @@
     "batchelor": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -2124,7 +2073,6 @@
         "BiocFileCache",
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -2154,7 +2102,6 @@
         "viridis"
     ],
     "bayNorm": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -2171,7 +2118,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2205,7 +2151,6 @@
         "XVector"
     ],
     "BDMMAcorrect": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -2214,9 +2159,7 @@
         "pillar",
         "tibble"
     ],
-    "beachmat": [
-        "DelayedArray"
-    ],
+    "beachmat": [],
     "beadarray": [
         "AnnotationDbi",
         "Biostrings",
@@ -2236,7 +2179,6 @@
         "quantsmooth"
     ],
     "BEARscc": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -2249,7 +2191,6 @@
     "BEAT": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -2262,7 +2203,6 @@
     "BEclear": [],
     "beer": [
         "BiocFileCache",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "PhIPData",
@@ -2285,7 +2225,6 @@
         "Biostrings",
         "DECIPHER",
         "DESeq2",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DescTools",
         "GenomeInfoDb",
@@ -2367,7 +2306,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2437,7 +2375,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -2485,7 +2422,6 @@
         "wateRmelon"
     ],
     "bigPint": [
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -2519,7 +2455,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2707,7 +2642,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -2805,12 +2739,10 @@
         "tidyselect"
     ],
     "BiocSingular": [
-        "DelayedArray",
         "ScaledMatrix",
         "beachmat"
     ],
     "BiocSklearn": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -3064,7 +2996,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3136,7 +3067,6 @@
     "BioNERO": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GENIE3",
         "GO.db",
         "GenomeInfoDb",
@@ -3203,7 +3133,6 @@
         "viridis"
     ],
     "biosigner": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -3232,7 +3161,6 @@
     "BioTIP": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -3247,7 +3175,6 @@
         "stringr"
     ],
     "biotmle": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "ROCR",
@@ -3272,7 +3199,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3310,7 +3236,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GO.db",
@@ -3365,7 +3290,6 @@
     "BiSeq": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -3391,7 +3315,6 @@
         "Biostrings",
         "DESeq2",
         "DEXSeq",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -3451,7 +3374,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -3484,7 +3406,6 @@
     "bnbc": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -3534,7 +3455,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -3579,7 +3499,6 @@
         "BSgenome",
         "Biostrings",
         "DSS",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -3629,7 +3548,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -3681,7 +3599,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -3706,7 +3623,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -3738,7 +3654,6 @@
     ],
     "breakpointR": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -3766,7 +3681,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -3784,7 +3698,6 @@
     ],
     "BSgenome": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -3796,7 +3709,6 @@
     "bsseq": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -3816,7 +3728,6 @@
         "BiocFileCache",
         "BiocStyle",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3864,7 +3775,6 @@
     ],
     "BUMHMM": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -3896,7 +3806,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3919,7 +3828,6 @@
         "tidyselect"
     ],
     "BUScorrect": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -3931,7 +3839,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3958,7 +3865,6 @@
         "tidyselect"
     ],
     "BUSseq": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -3966,7 +3872,6 @@
         "XVector"
     ],
     "CAEN": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -3978,7 +3883,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -4024,7 +3928,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4068,7 +3971,6 @@
         "BioNERO",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GENIE3",
         "GGally",
         "GO.db",
@@ -4125,7 +4027,6 @@
     "CAGEr": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -4146,7 +4047,6 @@
         "tidyselect"
     ],
     "CAMERA": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -4214,7 +4114,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4274,7 +4173,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4300,7 +4198,6 @@
     "CATALYST": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FlowSOM",
         "GenomeInfoDb",
@@ -4385,7 +4282,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicDataCommons",
@@ -4430,7 +4326,6 @@
         "AnnotationDbi",
         "BiocSet",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -4461,7 +4356,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicDataCommons",
@@ -4522,7 +4416,6 @@
         "vroom"
     ],
     "ccfindR": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -4552,7 +4445,6 @@
         "annotate"
     ],
     "celaref": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MAST",
@@ -4574,7 +4466,6 @@
     "celda": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -4619,7 +4510,6 @@
     ],
     "CellBarcode": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -4649,7 +4539,6 @@
     ],
     "CellBench": [
         "BiocFileCache",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -4684,7 +4573,6 @@
     "CelliD": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -4774,7 +4662,6 @@
     "CellMixS": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -4821,7 +4708,6 @@
         "tidyselect"
     ],
     "CellTrails": [
-        "DelayedArray",
         "EnvStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -4917,7 +4803,6 @@
         "viridis"
     ],
     "censcyt": [
-        "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -4960,7 +4845,6 @@
     "Cepo": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GenomeInfoDb",
@@ -5003,7 +4887,6 @@
         "Biostrings",
         "DESeq2",
         "DOSE",
-        "DelayedArray",
         "GGally",
         "GO.db",
         "GOSemSim",
@@ -5076,7 +4959,6 @@
     "CexoR": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5099,7 +4981,6 @@
     ],
     "cfDNAPro": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5138,7 +5019,6 @@
         "DMRcate",
         "DSS",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "ExperimentHub",
         "FDb.InfiniumMethylation.hg19",
@@ -5226,7 +5106,6 @@
         "tibble"
     ],
     "CHETAH": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -5296,7 +5175,6 @@
         "BiocStyle",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5335,7 +5213,6 @@
     "ChIPanalyser": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5350,7 +5227,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm9",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5362,7 +5238,6 @@
     "chipenrich": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5402,7 +5277,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5442,7 +5316,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5475,7 +5348,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "DiffBind",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -5523,7 +5395,6 @@
         "BiocFileCache",
         "Biostrings",
         "DOSE",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -5574,7 +5445,6 @@
     ],
     "chipseq": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5585,7 +5455,6 @@
     ],
     "ChIPseqR": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5596,7 +5465,6 @@
     ],
     "ChIPsim": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5607,7 +5475,6 @@
     ],
     "ChIPXpress": [
         "Biostrings",
-        "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -5637,7 +5504,6 @@
     "ChromHeatMap": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5674,7 +5540,6 @@
         "BiocSingular",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -5734,7 +5599,6 @@
     ],
     "chromstaR": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5750,7 +5614,6 @@
     ],
     "chromswitch": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -5775,7 +5638,6 @@
         "Biostrings",
         "CNEr",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -5833,7 +5695,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5912,7 +5773,6 @@
         "Biostrings",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5953,7 +5813,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5984,7 +5843,6 @@
     "CiteFuse": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -6025,7 +5883,6 @@
     "ClassifyR": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -6046,7 +5903,6 @@
         "BSgenome",
         "BSgenome.Drerio.UCSC.danRer7",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -6073,7 +5929,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6101,7 +5956,6 @@
     "cliProfiler": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -6116,7 +5970,6 @@
         "tidyselect"
     ],
     "cliqueMS": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
@@ -6170,7 +6023,6 @@
         "BiocSingular",
         "Biostrings",
         "ClusterR",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
@@ -6253,7 +6105,6 @@
         "baySeq"
     ],
     "clustifyr": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -6275,7 +6126,6 @@
         "vroom"
     ],
     "cmapR": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -6284,7 +6134,6 @@
     ],
     "cn.farms": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -6304,7 +6153,6 @@
     "CNEr": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -6384,7 +6232,6 @@
         "BiocFileCache",
         "Biostrings",
         "CopyNumberPlots",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6440,7 +6287,6 @@
         "Biostrings",
         "CopyNumberPlots",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6507,7 +6353,6 @@
     ],
     "CNVRanger": [
         "Biostrings",
-        "DelayedArray",
         "GDSArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -6523,7 +6368,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6559,7 +6403,6 @@
     "COCOA": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -6594,7 +6437,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -6604,7 +6446,6 @@
         "rtracklayer"
     ],
     "coexnet": [
-        "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -6632,7 +6473,6 @@
         "vsn"
     ],
     "CoGAPS": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -6694,7 +6534,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6730,7 +6569,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6768,7 +6606,6 @@
     ],
     "combi": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -6789,7 +6626,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6828,7 +6664,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -6867,7 +6702,6 @@
     "compartmap": [
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -6916,7 +6750,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -7009,7 +6842,6 @@
         "Biostrings",
         "DOSE",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FactoMineR",
         "GEOquery",
@@ -7093,7 +6925,6 @@
     "condiments": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "Ecume",
         "GenomeInfoDb",
@@ -7159,7 +6990,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "EDASeq",
         "EnsDb.Hsapiens.v86",
         "GenomeInfoDb",
@@ -7199,7 +7029,6 @@
         "BiocFileCache",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GSVA",
@@ -7233,7 +7062,6 @@
     ],
     "consensusSeekeR": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -7246,7 +7074,6 @@
     "consICA": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -7262,7 +7089,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7293,7 +7119,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -7343,7 +7168,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7383,7 +7207,6 @@
     ],
     "CopywriteR": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -7410,7 +7233,6 @@
     ],
     "CoreGx": [
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -7440,7 +7262,6 @@
         "affy"
     ],
     "corral": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -7462,7 +7283,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "HTSFilter",
@@ -7477,7 +7297,6 @@
         "tibble"
     ],
     "cosmiq": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
@@ -7538,7 +7357,6 @@
         "Biostrings",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -7563,7 +7381,6 @@
     ],
     "CoverageView": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -7586,7 +7403,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GSEABase",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -7630,7 +7446,6 @@
     "crisprBowtie": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -7651,7 +7466,6 @@
     "crisprBwa": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -7676,7 +7490,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -7741,7 +7554,6 @@
     "CRISPRseek": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -7769,7 +7581,6 @@
         "CRISPRseek",
         "ChIPpeakAnno",
         "DT",
-        "DelayedArray",
         "GUIDEseq",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -7820,7 +7631,6 @@
     "CrispRVariants": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -7843,7 +7653,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -7896,7 +7705,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -7942,7 +7750,6 @@
     ],
     "crlmm": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -7955,7 +7762,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -7999,7 +7805,6 @@
     ],
     "csaw": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "Rsamtools",
@@ -8030,7 +7835,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8113,7 +7917,6 @@
     ],
     "CTSV": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -8145,7 +7948,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8209,7 +8011,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8233,7 +8034,6 @@
         "tidyselect"
     ],
     "cyanoFilter": [
-        "DelayedArray",
         "GEOmap",
         "GGally",
         "RFOC",
@@ -8271,7 +8071,6 @@
     ],
     "cydar": [
         "BiocNeighbors",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -8292,7 +8091,6 @@
     "CyTOFpower": [
         "CytoGLMM",
         "DT",
-        "DelayedArray",
         "FactoMineR",
         "FlowSOM",
         "GenomeInfoDb",
@@ -8384,7 +8182,6 @@
         "waldo"
     ],
     "cytoKernel": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -8396,7 +8193,6 @@
     ],
     "cytomapper": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "EBImage",
@@ -8430,7 +8226,6 @@
     ],
     "cytoMEM": [],
     "CytoML": [
-        "DelayedArray",
         "dplyr",
         "flowClust",
         "flowViz",
@@ -8445,7 +8240,6 @@
     ],
     "dada2": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -8465,7 +8259,6 @@
         "BiocFileCache",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -8504,7 +8297,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8539,7 +8331,6 @@
         "Biostrings",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "EDASeq",
         "FSelector",
         "FactoMineR",
@@ -8621,7 +8412,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8734,7 +8524,6 @@
     ],
     "dcGSA": [],
     "ddPCRclust": [
-        "DelayedArray",
         "GEOmap",
         "RFOC",
         "broom",
@@ -8774,7 +8563,6 @@
     ],
     "debCAM": [
         "DMwR2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "NMF",
@@ -8799,7 +8587,6 @@
         "DESeq2",
         "DOSE",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -8872,7 +8659,6 @@
         "AnnotationDbi",
         "BiocStyle",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -8893,7 +8679,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -8912,7 +8697,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8956,7 +8740,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -9014,7 +8797,6 @@
     ],
     "DeepBlueR": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -9072,7 +8854,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9099,7 +8880,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -9116,7 +8896,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9161,7 +8940,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -9192,19 +8970,11 @@
         "stringr",
         "tibble"
     ],
-    "DelayedArray": [],
-    "DelayedDataFrame": [
-        "DelayedArray"
-    ],
-    "DelayedMatrixStats": [
-        "DelayedArray"
-    ],
-    "DelayedRandomArray": [
-        "DelayedArray"
-    ],
+    "DelayedDataFrame": [],
+    "DelayedMatrixStats": [],
+    "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
-        "DelayedArray",
         "DelayedRandomArray",
         "HDF5Array",
         "ScaledMatrix",
@@ -9215,7 +8985,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -9240,7 +9009,6 @@
         "BSgenome",
         "Biostrings",
         "DSS",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -9277,7 +9045,6 @@
     ],
     "DEP": [
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
@@ -9331,7 +9098,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9371,7 +9137,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -9420,7 +9185,6 @@
         "BiocFileCache",
         "Biostrings",
         "ChIPpeakAnno",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9450,7 +9214,6 @@
     "DESeq2": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -9467,7 +9230,6 @@
         "gamlss"
     ],
     "destiny": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -9500,7 +9262,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -9525,7 +9286,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -9566,7 +9326,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -9604,7 +9363,6 @@
         "BSgenome",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -9634,7 +9392,6 @@
     "diffcoexp": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "DiffCorr",
         "GO.db",
         "GenomeInfoDb",
@@ -9656,7 +9413,6 @@
         "viridis"
     ],
     "diffcyt": [
-        "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -9694,7 +9450,6 @@
     "DifferentialRegulation": [
         "BANDITS",
         "DRIMSeq",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -9709,7 +9464,6 @@
     "diffHic": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -9734,7 +9488,6 @@
         "Biostrings",
         "DESeq2",
         "DEXSeq",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9781,7 +9534,6 @@
     "Dino": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -9829,7 +9581,6 @@
     "DiscoRhythm": [
         "BiocStyle",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -9870,7 +9621,6 @@
     "distinct": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -9892,7 +9642,6 @@
         "viridis"
     ],
     "dittoSeq": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -9908,7 +9657,6 @@
         "tibble"
     ],
     "divergence": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -9916,7 +9664,6 @@
     ],
     "DMCFB": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -9941,7 +9688,6 @@
     ],
     "DMCHMM": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -9965,7 +9711,6 @@
         "Biostrings",
         "DSS",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "ExperimentHub",
         "FDb.InfiniumMethylation.hg19",
@@ -10034,7 +9779,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10079,7 +9823,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -10129,7 +9872,6 @@
     ],
     "DNAfusion": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -10154,7 +9896,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10180,7 +9921,6 @@
     "doppelgangR": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -10245,7 +9985,6 @@
         "tibble"
     ],
     "doseR": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -10261,7 +10000,6 @@
     "dpeak": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -10294,7 +10032,6 @@
         "tibble"
     ],
     "DropletUtils": [
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -10311,7 +10048,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10341,7 +10077,6 @@
         "ArrayExpress",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -10377,7 +10112,6 @@
     "DSS": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -10400,7 +10134,6 @@
         "tibble"
     ],
     "Dune": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -10425,7 +10158,6 @@
         "Biostrings",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -10532,7 +10264,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -10564,7 +10295,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -10596,7 +10326,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10647,7 +10376,6 @@
         "Biostrings",
         "DESeq2",
         "DOSE",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -10713,7 +10441,6 @@
         "BiocSingular",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GO.db",
         "GSEABase",
@@ -10771,7 +10498,6 @@
         "tibble"
     ],
     "eisaR": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -10783,7 +10509,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "ELMER.data",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -10857,7 +10582,6 @@
         "BiocFileCache",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -10891,7 +10615,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GEOquery",
@@ -10942,7 +10665,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GSEABase",
         "GenomeInfoDb",
@@ -11010,7 +10732,6 @@
         "Biostrings",
         "CNEr",
         "DOSE",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -11084,7 +10805,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11111,7 +10831,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11139,7 +10858,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11173,7 +10891,6 @@
         "DESeq2",
         "DOSE",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -11236,7 +10953,6 @@
     ],
     "epidecodeR": [
         "Biostrings",
-        "DelayedArray",
         "EnvStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -11275,7 +10991,6 @@
     "epigenomix": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -11295,7 +11010,6 @@
     "epigraHMM": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -11390,7 +11104,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ELMER.data",
         "EpiMix.data",
         "ExperimentHub",
@@ -11433,7 +11146,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GEOquery",
@@ -11508,7 +11220,6 @@
         "vcd"
     ],
     "epistack": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -11535,7 +11246,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11567,7 +11277,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11598,7 +11307,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11628,7 +11336,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11657,7 +11364,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11698,7 +11404,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -11733,7 +11438,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -11754,7 +11458,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -11823,7 +11526,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GSVA",
@@ -11872,7 +11574,6 @@
         "XVector"
     ],
     "evaluomeR": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -11899,7 +11600,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11936,7 +11636,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -11995,7 +11694,6 @@
     ],
     "ExCluster": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -12020,7 +11718,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12077,7 +11774,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -12110,7 +11806,6 @@
     "ExperimentSubset": [
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -12156,7 +11851,6 @@
     ],
     "ExpressionAtlas": [
         "BiocStyle",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -12173,7 +11867,6 @@
         "BiocFileCache",
         "Biostrings",
         "ComplexUpset",
-        "DelayedArray",
         "EnrichedHeatmap",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -12223,7 +11916,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12357,7 +12049,6 @@
     "FastqCleaner": [
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -12381,7 +12072,6 @@
         "XVector"
     ],
     "FCBF": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -12393,7 +12083,6 @@
     "fCCAC": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -12430,7 +12119,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DOSE",
-        "DelayedArray",
         "FCBF",
         "GO.db",
         "GOSemSim",
@@ -12484,7 +12172,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12508,7 +12195,6 @@
         "tidyselect"
     ],
     "FEAST": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "ROCR",
@@ -12548,7 +12234,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -12623,7 +12308,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12660,7 +12344,6 @@
         "stringr"
     ],
     "fishpond": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -12675,7 +12358,6 @@
     ],
     "flagme": [
         "CAMERA",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -12704,7 +12386,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GGally",
@@ -12811,7 +12492,6 @@
     "flowClean": [],
     "flowClust": [],
     "flowCut": [
-        "DelayedArray",
         "GEOmap",
         "RFOC",
         "broom",
@@ -12840,7 +12520,6 @@
     ],
     "flowCyBar": [],
     "flowDensity": [
-        "DelayedArray",
         "GEOmap",
         "RFOC",
         "broom",
@@ -12948,7 +12627,6 @@
         "tibble"
     ],
     "flowStats": [
-        "DelayedArray",
         "dplyr",
         "fda",
         "fds",
@@ -12974,7 +12652,6 @@
     ],
     "flowViz": [],
     "flowVS": [
-        "DelayedArray",
         "dplyr",
         "fda",
         "fds",
@@ -12990,7 +12667,6 @@
         "tidyselect"
     ],
     "flowWorkspace": [
-        "DelayedArray",
         "dplyr",
         "ggplot2",
         "ncdfFlow",
@@ -13060,7 +12736,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -13132,7 +12807,6 @@
     ],
     "frma": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -13147,7 +12821,6 @@
     ],
     "FunChIP": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -13167,7 +12840,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -13206,7 +12878,6 @@
     ],
     "FuseSOM": [
         "DataVisualizations",
-        "DelayedArray",
         "FCPS",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -13243,7 +12914,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13272,7 +12942,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GA4GHclient",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -13320,7 +12989,6 @@
         "DESeq2",
         "DT",
         "DaMiRseq",
-        "DelayedArray",
         "EDASeq",
         "FSelector",
         "FactoMineR",
@@ -13401,7 +13069,6 @@
     "gcapc": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -13411,7 +13078,6 @@
         "rtracklayer"
     ],
     "gCrisprTools": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -13462,7 +13128,6 @@
         "DESeq2",
         "DOSE",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -13537,7 +13202,6 @@
     ],
     "GDSArray": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SeqArray",
@@ -13564,7 +13228,6 @@
         "tidyselect"
     ],
     "gemma.R": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -13582,7 +13245,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13646,7 +13308,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13806,7 +13467,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13845,7 +13505,6 @@
         "ComplexUpset",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -13891,7 +13550,6 @@
         "AnnotationDbi",
         "BiocStyle",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -13925,7 +13583,6 @@
     "genomation": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -13972,7 +13629,6 @@
     ],
     "GenomicAlignments": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "Rsamtools",
@@ -14012,7 +13668,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -14038,7 +13693,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -14062,7 +13716,6 @@
         "tidyselect"
     ],
     "genomicInstability": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -14085,7 +13738,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -14114,7 +13766,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -14154,7 +13805,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -14202,7 +13852,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
@@ -14225,7 +13874,6 @@
     ],
     "GenomicSuperSignature": [
         "BiocFileCache",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -14270,7 +13918,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -14335,7 +13982,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -14555,7 +14201,6 @@
         "vsn"
     ],
     "getDEE2": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -14585,7 +14230,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -14623,7 +14267,6 @@
         "viridis"
     ],
     "ggcyto": [
-        "DelayedArray",
         "dplyr",
         "flowWorkspace",
         "ggplot2",
@@ -14690,7 +14333,6 @@
     ],
     "ggspavis": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -14763,7 +14405,6 @@
     ],
     "girafe": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -14815,7 +14456,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -14833,7 +14473,6 @@
         "tibble"
     ],
     "glmGamPoi": [
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -14848,7 +14487,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -14922,7 +14560,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -14987,7 +14624,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -15015,7 +14651,6 @@
         "XVector"
     ],
     "GNET2": [
-        "DelayedArray",
         "DiagrammeR",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -15072,7 +14707,6 @@
     "GOpro": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -15115,7 +14749,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -15240,7 +14873,6 @@
     "GOTHiC": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -15291,7 +14923,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -15372,7 +15003,6 @@
     "GreyListChIP": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -15382,7 +15012,6 @@
         "rtracklayer"
     ],
     "GRmetrics": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -15412,7 +15041,6 @@
     ],
     "groHMM": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -15432,7 +15060,6 @@
         "tibble"
     ],
     "gscreend": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -15460,7 +15087,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "EnrichmentBrowser",
         "ExperimentHub",
         "GO.db",
@@ -15533,7 +15159,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -15576,7 +15201,6 @@
         "AnnotationDbi",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GenomeInfoDb",
@@ -15605,7 +15229,6 @@
         "Biostrings",
         "CRISPRseek",
         "ChIPpeakAnno",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -15651,7 +15274,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -15681,7 +15303,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -15736,7 +15357,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -15785,7 +15405,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GWASTools",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -15817,7 +15436,6 @@
     "GWENA": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -15887,7 +15505,6 @@
         "vroom"
     ],
     "HDF5Array": [
-        "DelayedArray",
         "rhdf5"
     ],
     "heatmaps": [
@@ -15906,7 +15523,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -15934,7 +15550,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "EnvStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -15975,7 +15590,6 @@
     "hiAnnotator": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -16008,7 +15622,6 @@
     ],
     "HiCcompare": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "InteractionSet",
@@ -16029,7 +15642,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -16067,7 +15679,6 @@
     ],
     "HiCDOC": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "HiCcompare",
@@ -16117,7 +15728,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -16175,7 +15785,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -16208,7 +15817,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -16233,7 +15841,6 @@
         "tidyselect"
     ],
     "HIPPO": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -16252,7 +15859,6 @@
     "hiReadsProcessor": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -16274,7 +15880,6 @@
     "HIREewas": [],
     "HiTC": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -16328,7 +15933,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -16359,7 +15963,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -16389,7 +15992,6 @@
     ],
     "HumanTranscriptomeCompendium": [
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -16402,7 +16004,6 @@
         "stringr"
     ],
     "hummingbird": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -16433,7 +16034,6 @@
     ],
     "hyperdraw": [],
     "iasva": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -16472,7 +16072,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -16505,7 +16104,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -16557,7 +16155,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "Biostrings",
         "CODEX",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -16601,7 +16198,6 @@
         "Category",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GOstats",
         "GSEABase",
@@ -16656,7 +16252,6 @@
     ],
     "IdeoViz": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -16696,7 +16291,6 @@
         "tidyselect"
     ],
     "IgGeneUsage": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -16713,7 +16307,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -16738,7 +16331,6 @@
     ],
     "illuminaio": [],
     "ILoReg": [
-        "DelayedArray",
         "DescTools",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -16788,7 +16380,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -16823,7 +16414,6 @@
         "BiocFileCache",
         "BiocNeighbors",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "EBImage",
@@ -16878,7 +16468,6 @@
         "sqldf"
     ],
     "ImmuneSpaceR": [
-        "DelayedArray",
         "Rlabkey",
         "dendextend",
         "dplyr",
@@ -16943,7 +16532,6 @@
         "waldo"
     ],
     "infercnv": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "ROCR",
@@ -16987,7 +16575,6 @@
         "BSgenome.Drerio.UCSC.danRer7",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -17022,7 +16609,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -17051,7 +16637,6 @@
     ],
     "InTAD": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -17092,7 +16677,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -17137,7 +16721,6 @@
         "stringr"
     ],
     "InteractionSet": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -17255,7 +16838,6 @@
         "Biostrings",
         "DESeq2",
         "DEXSeq",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -17284,7 +16866,6 @@
     ],
     "InterMineR": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -17300,7 +16881,6 @@
     ],
     "IONiseR": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -17378,7 +16958,6 @@
     ],
     "IPO": [
         "CAMERA",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -17408,7 +16987,6 @@
         "DEsingle",
         "DOSE",
         "DataVisualizations",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GO.db",
         "GOSemSim",
@@ -17521,7 +17099,6 @@
     ],
     "iSEE": [
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -17546,7 +17123,6 @@
     ],
     "iSEEhex": [
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -17576,7 +17152,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -17610,7 +17185,6 @@
     ],
     "iSEEu": [
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -17636,7 +17210,6 @@
         "tibble"
     ],
     "ISLET": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -17700,7 +17273,6 @@
         "DEXSeq",
         "DRIMSeq",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -17742,7 +17314,6 @@
         "Biostrings",
         "DEGreport",
         "DESeq2",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -17773,7 +17344,6 @@
     ],
     "ITALICS": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -17789,7 +17359,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -17820,7 +17389,6 @@
         "waldo"
     ],
     "ivygapSE": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -17876,7 +17444,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -17917,7 +17484,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -17989,7 +17555,6 @@
         "DESeq2",
         "DSS",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FactoMineR",
         "GenomeInfoDb",
@@ -18076,7 +17641,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -18122,7 +17686,6 @@
         "waldo"
     ],
     "lefser": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -18154,7 +17717,6 @@
         "waldo"
     ],
     "LineagePulse": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -18171,7 +17733,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -18195,7 +17756,6 @@
         "tidyselect"
     ],
     "LinkHD": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -18269,14 +17829,12 @@
         "treeio"
     ],
     "lionessR": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector"
     ],
     "lipidr": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -18322,7 +17880,6 @@
     ],
     "lisaClust": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -18359,7 +17916,6 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -18397,7 +17953,6 @@
         "stringr"
     ],
     "LoomExperiment": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
@@ -18415,7 +17970,6 @@
         "Biostrings",
         "CNEr",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -18498,7 +18052,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -18590,7 +18143,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -18650,7 +18202,6 @@
     "Macarron": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -18739,7 +18290,6 @@
         "tidyselect"
     ],
     "made4": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -18751,7 +18301,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -18779,7 +18328,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -18889,7 +18437,6 @@
     ],
     "magrene": [],
     "MAI": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -18932,7 +18479,6 @@
     ],
     "MAIT": [
         "CAMERA",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -19026,7 +18572,6 @@
         "stringr"
     ],
     "marr": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -19045,7 +18590,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -19088,7 +18632,6 @@
     ],
     "massiR": [],
     "MAST": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -19103,7 +18646,6 @@
         "tibble"
     ],
     "MatrixQCvis": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -19139,7 +18681,6 @@
         "BSgenome",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -19165,7 +18706,6 @@
     ],
     "matter": [],
     "MBASED": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -19205,7 +18745,6 @@
     ],
     "mbkmeans": [
         "ClusterR",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -19244,7 +18783,6 @@
     ],
     "mBPCR": [
         "Biostrings",
-        "DelayedArray",
         "GWASTools",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -19266,7 +18804,6 @@
     ],
     "MBQN": [
         "BiocFileCache",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "PairedData",
@@ -19320,7 +18857,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -19367,7 +18903,6 @@
     ],
     "MDTS": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -19382,7 +18917,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -19450,7 +18984,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -19498,7 +19031,6 @@
         "wateRmelon"
     ],
     "MEB": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -19509,7 +19041,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -19729,7 +19260,6 @@
         "tibble"
     ],
     "Metab": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
@@ -19764,7 +19294,6 @@
         "ChemmineR",
         "CompoundDb",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MetaboCoreUtils",
@@ -19790,7 +19319,6 @@
     ],
     "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -19819,7 +19347,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "EnsDb.Hsapiens.v75",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -19899,7 +19426,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "EnsDb.Hsapiens.v86",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -19926,7 +19452,6 @@
     ],
     "metagene2": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -19946,7 +19471,6 @@
     "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -19968,7 +19492,6 @@
         "xcms"
     ],
     "MetaNeighbor": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -20050,7 +19573,6 @@
         "DESeq2",
         "DSS",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "EDASeq",
         "GenomeInfoDb",
@@ -20109,7 +19631,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -20175,7 +19696,6 @@
         "BSgenome",
         "Biostrings",
         "DSS",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -20210,7 +19730,6 @@
     ],
     "methInheritSim": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -20233,7 +19752,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -20281,7 +19799,6 @@
     "methrix": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -20307,7 +19824,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -20349,7 +19865,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FlowSorted.Blood.450k",
         "GEOquery",
@@ -20399,7 +19914,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "ExperimentHub",
         "ExperimentHubData",
@@ -20490,7 +20004,6 @@
         "BiocFileCache",
         "Biostrings",
         "DOSE",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -20566,7 +20079,6 @@
     ],
     "methylInheritance": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -20586,7 +20098,6 @@
     ],
     "methylKit": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -20613,7 +20124,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -20648,7 +20158,6 @@
     ],
     "methylscaper": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -20664,7 +20173,6 @@
         "AnnotationDbi",
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -20681,7 +20189,6 @@
         "BSgenome",
         "Biostrings",
         "DSS",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -20699,7 +20206,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -20767,7 +20273,6 @@
         "waldo"
     ],
     "MetNet": [
-        "DelayedArray",
         "GENIE3",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -20833,7 +20338,6 @@
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -20868,7 +20372,6 @@
     ],
     "miaSim": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -20889,7 +20392,6 @@
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -20969,7 +20471,6 @@
         "Biostrings",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -21026,7 +20527,6 @@
         "Biostrings",
         "DECIPHER",
         "DESeq2",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DescTools",
         "GenomeInfoDb",
@@ -21156,7 +20656,6 @@
     ],
     "MicrobiotaProcess": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -21190,7 +20689,6 @@
         "XVector"
     ],
     "midasHLA": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "HardyWeinberg",
@@ -21239,7 +20737,6 @@
     "miloR": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "ScaledMatrix",
@@ -21267,7 +20764,6 @@
     ],
     "mimager": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -21312,7 +20808,6 @@
         "BiocFileCache",
         "Biostrings",
         "Category",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -21369,7 +20864,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -21407,7 +20901,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg18",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -21422,7 +20915,6 @@
         "rtracklayer"
     ],
     "miQC": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -21435,7 +20927,6 @@
     "MIRA": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -21479,7 +20970,6 @@
         "BiocFileCache",
         "Biostrings",
         "Category",
-        "DelayedArray",
         "GO.db",
         "GOstats",
         "GSEABase",
@@ -21521,7 +21011,6 @@
         "vroom"
     ],
     "miRmine": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -21555,7 +21044,6 @@
         "BiocFileCache",
         "Biostrings",
         "DOSE",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GSEABase",
@@ -21773,7 +21261,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -21821,7 +21308,6 @@
         "vroom"
     ],
     "missRows": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -21882,7 +21368,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -21924,7 +21409,6 @@
     "MLInterfaces": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -21957,7 +21441,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -21990,7 +21473,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -22020,7 +21502,6 @@
     "MMDiff2": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -22070,7 +21551,6 @@
         "AnnotationDbi",
         "Biostrings",
         "ClusterR",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -22087,7 +21567,6 @@
         "viridis"
     ],
     "MobilityTransformR": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
@@ -22131,7 +21610,6 @@
         "stringr"
     ],
     "MOFA2": [
-        "DelayedArray",
         "HDF5Array",
         "basilisk",
         "cowplot",
@@ -22171,7 +21649,6 @@
         "purrr"
     ],
     "MOMA": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MKmisc",
@@ -22198,7 +21675,6 @@
         "BSgenome",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -22238,7 +21714,6 @@
         "BiocFileCache",
         "Biostrings",
         "DOSE",
-        "DelayedArray",
         "GEOquery",
         "GO.db",
         "GOSemSim",
@@ -22298,7 +21773,6 @@
     ],
     "mosaics": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -22330,7 +21804,6 @@
     "Motif2Site": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -22359,7 +21832,6 @@
         "BiocFileCache",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -22407,7 +21879,6 @@
     ],
     "MotifDb": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -22421,7 +21892,6 @@
         "BSgenome",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -22450,7 +21920,6 @@
         "BSgenome",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -22501,14 +21970,12 @@
         "tidyselect"
     ],
     "mpra": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector"
     ],
     "MPRAnalyze": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -22583,7 +22050,6 @@
     ],
     "MsExperiment": [
         "AnnotationFilter",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -22605,7 +22071,6 @@
         "tidyselect"
     ],
     "MsFeatures": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -22617,7 +22082,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -22661,7 +22125,6 @@
     "msImpute": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -22752,7 +22215,6 @@
     "MSPrep": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -22795,7 +22257,6 @@
     ],
     "msqrob2": [
         "AnnotationFilter",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -23031,7 +22492,6 @@
         "waldo"
     ],
     "MuData": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -23054,7 +22514,6 @@
         "viridis"
     ],
     "MultiAssayExperiment": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -23067,7 +22526,6 @@
         "tidyselect"
     ],
     "MultiBaC": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -23103,7 +22561,6 @@
         "BiocFileCache",
         "Biostrings",
         "CRISPRseek",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -23151,7 +22608,6 @@
         "viridis"
     ],
     "MultiDataSet": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -23185,7 +22641,6 @@
     ],
     "multiHiCcompare": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "HiCcompare",
@@ -23215,7 +22670,6 @@
         "tidyselect"
     ],
     "multiOmicsViz": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -23227,7 +22681,6 @@
         "DESeq2",
         "DOSE",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -23317,7 +22770,6 @@
     "mumosa": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -23338,7 +22790,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -23368,7 +22819,6 @@
         "BiocSingular",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -23429,7 +22879,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "FactoMineR",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -23505,7 +22954,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -23537,7 +22985,6 @@
     ],
     "MWASTools": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -23567,7 +23014,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -23602,7 +23048,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -23643,7 +23088,6 @@
         "CNEr",
         "ChIPpeakAnno",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -23703,7 +23147,6 @@
         "BSgenome",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -23824,7 +23267,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -23861,7 +23303,6 @@
     ],
     "ncdfFlow": [],
     "ncGTW": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
@@ -23902,7 +23343,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -23929,7 +23369,6 @@
         "tidyselect"
     ],
     "Nebulosa": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "ROCR",
@@ -23979,7 +23418,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -24063,7 +23501,6 @@
     ],
     "netDx": [
         "BiocFileCache",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -24172,7 +23609,6 @@
         "BiocSingular",
         "Biostrings",
         "ClusterR",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -24222,7 +23658,6 @@
         "BiocFileCache",
         "Biostrings",
         "Category",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GO.db",
@@ -24274,7 +23709,6 @@
         "yarn"
     ],
     "NeuCA": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -24288,7 +23722,6 @@
     ],
     "NewWave": [
         "BiocSingular",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "ScaledMatrix",
@@ -24325,7 +23758,6 @@
     ],
     "nnSVG": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -24362,7 +23794,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -24396,7 +23827,6 @@
         "illuminaio"
     ],
     "NormalyzerDE": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -24447,7 +23877,6 @@
     ],
     "normr": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -24486,7 +23915,6 @@
     "nucleoSim": [],
     "nucleR": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -24502,7 +23930,6 @@
     ],
     "nullranges": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -24528,7 +23955,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -24571,7 +23997,6 @@
         "Biostrings",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "EDASeq",
         "ExperimentHub",
@@ -24622,7 +24047,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -24697,7 +24121,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -24738,7 +24161,6 @@
     ],
     "oligo": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -24748,7 +24170,6 @@
     ],
     "oligoClasses": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -24795,7 +24216,6 @@
         "topGO"
     ],
     "omicade4": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -24810,7 +24230,6 @@
     "omicplotR": [
         "ALDEx2",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -24826,7 +24245,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "FactoMineR",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -24873,7 +24291,6 @@
         "waldo"
     ],
     "OmicsLonDA": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -24888,7 +24305,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "FactoMineR",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -24944,7 +24360,6 @@
         "waldo"
     ],
     "omicsPrint": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -24960,7 +24375,6 @@
     ],
     "omicsViewer": [
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -25041,7 +24455,6 @@
         "vroom"
     ],
     "oncomix": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -25128,7 +24541,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -25149,7 +24561,6 @@
         "tidyselect"
     ],
     "openCyto": [
-        "DelayedArray",
         "dplyr",
         "flowClust",
         "flowViz",
@@ -25262,7 +24673,6 @@
         "AnnotationDbi",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GSVA",
@@ -25329,7 +24739,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -25345,7 +24754,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -25380,7 +24788,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -25406,7 +24813,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -25429,7 +24835,6 @@
         "tidyselect"
     ],
     "orthogene": [
-        "DelayedArray",
         "aplot",
         "babelgene",
         "broom",
@@ -25482,7 +24887,6 @@
     ],
     "OTUbase": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -25496,7 +24900,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -25532,7 +24935,6 @@
         "viridis"
     ],
     "OVESEG": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -25558,7 +24960,6 @@
     ],
     "padma": [
         "DT",
-        "DelayedArray",
         "FactoMineR",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -25602,7 +25003,6 @@
         "BSgenome",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -25628,7 +25028,6 @@
         "vroom"
     ],
     "PAIRADISE": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -25642,7 +25041,6 @@
     ],
     "pairkat": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -25780,7 +25178,6 @@
     ],
     "PAST": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -25803,7 +25200,6 @@
         "Biostrings",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -25887,7 +25283,6 @@
         "Category",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GOstats",
         "GSEABase",
@@ -25933,7 +25328,6 @@
     "PCAN": [],
     "PCAtools": [
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "ScaledMatrix",
         "beachmat",
@@ -25952,7 +25346,6 @@
         "Biostrings",
         "CoreGx",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -26019,7 +25412,6 @@
     ],
     "pdInfoBuilder": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -26029,7 +25421,6 @@
         "oligoClasses"
     ],
     "PeacoQC": [
-        "DelayedArray",
         "dplyr",
         "flowWorkspace",
         "ggplot2",
@@ -26068,7 +25459,6 @@
     "peco": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -26125,7 +25515,6 @@
     "periodicDNA": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -26185,7 +25574,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -26216,7 +25604,6 @@
     "PharmacoGx": [
         "CoreGx",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -26251,7 +25638,6 @@
     ],
     "phenomis": [
         "BiocFileCache",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -26284,7 +25670,6 @@
         "waldo"
     ],
     "phenopath": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -26368,7 +25753,6 @@
     ],
     "PhIPData": [
         "BiocFileCache",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -26382,7 +25766,6 @@
         "tidyselect"
     ],
     "PhosR": [
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -26520,7 +25903,6 @@
     ],
     "PICS": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -26590,7 +25972,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -26631,7 +26012,6 @@
     "pipeComp": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -26679,7 +26059,6 @@
     "pipeFrame": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -26729,7 +26108,6 @@
     ],
     "plotgardener": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -26790,7 +26168,6 @@
     ],
     "plyranges": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -26813,7 +26190,6 @@
         "waldo"
     ],
     "pmp": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -26845,7 +26221,6 @@
     "podkat": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -26860,7 +26235,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -26891,7 +26265,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -26937,7 +26310,6 @@
         "purrr"
     ],
     "POWSC": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MAST",
@@ -27002,7 +26374,6 @@
     ],
     "pram": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -27014,7 +26385,6 @@
     "prebs": [
         "BiocStyle",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -27039,7 +26409,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -27096,7 +26465,6 @@
         "Biostrings",
         "CNEr",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -27171,7 +26539,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -27200,7 +26567,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -27267,14 +26633,12 @@
         "kebabs"
     ],
     "proDA": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector"
     ],
     "proFIA": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
@@ -27308,7 +26672,6 @@
         "ChIPseeker",
         "DOSE",
         "DT",
-        "DelayedArray",
         "EnrichedHeatmap",
         "GO.db",
         "GOSemSim",
@@ -27387,7 +26750,6 @@
     ],
     "projectR": [
         "CoGAPS",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "NMF",
@@ -27412,7 +26774,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -27459,7 +26820,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -27568,7 +26928,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "EnsDb.Hsapiens.v86",
         "EnsDb.Mmusculus.v79",
         "EnsDb.Rnorvegicus.v79",
@@ -27603,7 +26962,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -27713,7 +27071,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -27767,7 +27124,6 @@
     ],
     "PSMatch": [
         "AnnotationFilter",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -27852,7 +27208,6 @@
     ],
     "puma": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -27867,7 +27222,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -27913,7 +27267,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -28032,7 +27385,6 @@
     ],
     "QFeatures": [
         "AnnotationFilter",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -28052,7 +27404,6 @@
         "tidyselect"
     ],
     "qmtools": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -28093,7 +27444,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -28143,7 +27493,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -28181,7 +27530,6 @@
     "qsea": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -28193,7 +27541,6 @@
     "qsmooth": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
@@ -28222,7 +27569,6 @@
     "qsvaR": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -28242,7 +27588,6 @@
         "XVector"
     ],
     "quantiseqr": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -28259,7 +27604,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -28309,7 +27653,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -28363,7 +27706,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -28403,7 +27745,6 @@
     ],
     "r3Cseq": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -28425,7 +27766,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -28457,7 +27797,6 @@
     "RadioGx": [
         "CoreGx",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -28485,7 +27824,6 @@
         "visNetwork"
     ],
     "RaggedExperiment": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -28507,7 +27845,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -28558,7 +27895,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -28593,7 +27929,6 @@
     ],
     "Rbec": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -28622,7 +27957,6 @@
     ],
     "Rcade": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -28643,7 +27977,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -28690,7 +28023,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -28724,7 +28056,6 @@
         "AUCell",
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GenomeInfoDb",
@@ -28923,7 +28254,6 @@
         "stringr"
     ],
     "receptLoss": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -28954,7 +28284,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -28997,7 +28326,6 @@
     "recount3": [
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -29017,7 +28345,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -29057,7 +28384,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -29089,7 +28415,6 @@
         "BiocFileCache",
         "Biostrings",
         "ChIPpeakAnno",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -29130,7 +28455,6 @@
         "Biostrings",
         "DESeq2",
         "DOSE",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -29165,7 +28489,6 @@
     "regioneR": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -29177,7 +28500,6 @@
     "regioneReloaded": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -29202,7 +28524,6 @@
         "Biostrings",
         "DEFormats",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -29243,7 +28564,6 @@
         "viridis"
     ],
     "regsplice": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -29257,7 +28577,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -29303,7 +28622,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -29355,7 +28673,6 @@
         "AnnotationDbi",
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -29383,7 +28700,6 @@
         "Biostrings",
         "Category",
         "DESeq2",
-        "DelayedArray",
         "GGally",
         "GO.db",
         "GOstats",
@@ -29457,14 +28773,11 @@
         "XVector",
         "seqbias"
     ],
-    "ResidualMatrix": [
-        "DelayedArray"
-    ],
+    "ResidualMatrix": [],
     "RESOLVE": [
         "BSgenome",
         "BSgenome.Hsapiens.1000genomes.hs37d5",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -29485,7 +28798,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GO.db",
         "GenomeInfoDb",
@@ -29570,7 +28882,6 @@
     "rGADEM": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -29606,7 +28917,6 @@
     ],
     "RGMQL": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -29624,7 +28934,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -29660,7 +28969,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -29695,7 +29003,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -29725,14 +29032,11 @@
         "tidyselect"
     ],
     "rhdf5": [],
-    "rhdf5client": [
-        "DelayedArray"
-    ],
+    "rhdf5client": [],
     "Rhisat2": [
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -29761,7 +29065,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -29802,7 +29105,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -29838,7 +29140,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -29901,7 +29202,6 @@
         "BiocFileCache",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "EDASeq",
         "GO.db",
         "GenomeInfoDb",
@@ -29941,7 +29241,6 @@
     ],
     "rifi": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -30001,7 +29300,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -30037,7 +29335,6 @@
         "viridis"
     ],
     "Risa": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
@@ -30058,7 +29355,6 @@
         "BgeeDB",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "EnsDb.Hsapiens.v86",
         "GO.db",
         "GenomeInfoDb",
@@ -30097,7 +29393,6 @@
     ],
     "RJMCMCNucleosomes": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -30116,7 +29411,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -30191,7 +29485,6 @@
         "BiocStyle",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -30240,7 +29533,6 @@
     ],
     "rmspc": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -30255,7 +29547,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -30310,7 +29601,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -30364,7 +29654,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -30406,7 +29695,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -30449,7 +29737,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -30492,7 +29779,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -30530,7 +29816,6 @@
         "viridis"
     ],
     "RNAsense": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "NBPSeq",
@@ -30549,7 +29834,6 @@
         "DESeq2",
         "DOSE",
         "DT",
-        "DelayedArray",
         "FactoMineR",
         "GO.db",
         "GOSemSim",
@@ -30628,7 +29912,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -30687,7 +29970,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -30732,7 +30014,6 @@
     ],
     "roar": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -30746,7 +30027,6 @@
         "stringr"
     ],
     "ROCpAI": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -30756,7 +30036,6 @@
         "stringr"
     ],
     "RolDE": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -30779,7 +30058,6 @@
         "XVector"
     ],
     "ropls": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -30853,7 +30131,6 @@
         "BiocFileCache",
         "BiocStyle",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -30891,7 +30168,6 @@
         "viridis"
     ],
     "rqt": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -30968,7 +30244,6 @@
         "XVector"
     ],
     "rScudo": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -30984,7 +30259,6 @@
     ],
     "RSVSim": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -31031,7 +30305,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicDataCommons",
@@ -31063,7 +30336,6 @@
         "vroom"
     ],
     "RTN": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -31092,7 +30364,6 @@
         "waldo"
     ],
     "RTNduals": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RTN",
@@ -31122,7 +30393,6 @@
         "waldo"
     ],
     "RTNsurvival": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RTN",
@@ -31165,7 +30435,6 @@
     ],
     "rtracklayer": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -31196,7 +30465,6 @@
     "rTRMui": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -31213,7 +30481,6 @@
         "shiny"
     ],
     "runibic": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -31239,7 +30506,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "EDASeq",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -31368,7 +30634,6 @@
         "XVector"
     ],
     "satuRn": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -31387,7 +30652,6 @@
     "SBGNview": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -31403,7 +30667,6 @@
         "stringr"
     ],
     "SC3": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "ROCR",
@@ -31416,17 +30679,13 @@
         "tibble"
     ],
     "Scale4C": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector"
     ],
-    "ScaledMatrix": [
-        "DelayedArray"
-    ],
+    "ScaledMatrix": [],
     "scAlign": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "ROCR",
@@ -31465,7 +30724,6 @@
     "SCAN.UPC": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -31508,7 +30766,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -31555,7 +30812,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -31599,7 +30855,6 @@
     ],
     "SCANVIS": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -31609,7 +30864,6 @@
         "rtracklayer"
     ],
     "SCArray": [
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -31623,7 +30877,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -31650,7 +30903,6 @@
     "scater": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -31679,7 +30931,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -31753,7 +31004,6 @@
         "uwot"
     ],
     "scCB2": [
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -31796,7 +31046,6 @@
         "AnnotationDbi",
         "Biostrings",
         "Cepo",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GenomeInfoDb",
@@ -31832,7 +31081,6 @@
         "viridis"
     ],
     "sccomp": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -31856,7 +31104,6 @@
         "vroom"
     ],
     "scDataviz": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "ROCR",
@@ -31894,7 +31141,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -31923,7 +31169,6 @@
     "scDD": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "EBSeq",
         "GenomeInfoDb",
@@ -31949,7 +31194,6 @@
         "waldo"
     ],
     "scDDboost": [
-        "DelayedArray",
         "EBSeq",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -31966,7 +31210,6 @@
     ],
     "scde": [],
     "scds": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -31989,7 +31232,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -32015,7 +31257,6 @@
         "tidyselect"
     ],
     "schex": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "ROCR",
@@ -32053,7 +31294,6 @@
         "uwot"
     ],
     "scHOT": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -32115,7 +31355,6 @@
         "uwot"
     ],
     "scmap": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -32131,7 +31370,6 @@
     ],
     "scMerge": [
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -32158,7 +31396,6 @@
     ],
     "scMET": [
         "BiocStyle",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -32184,7 +31421,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -32223,7 +31459,6 @@
         "vroom"
     ],
     "SCnorm": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -32238,7 +31473,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "EDASeq",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -32288,7 +31522,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "Biostrings",
-        "DelayedArray",
         "DescTools",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -32309,7 +31542,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -32334,7 +31566,6 @@
     ],
     "scp": [
         "AnnotationFilter",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -32356,7 +31587,6 @@
         "tidyselect"
     ],
     "scPCA": [
-        "DelayedArray",
         "ScaledMatrix",
         "dplyr",
         "pillar",
@@ -32371,7 +31601,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GGally",
         "GenomeInfoDb",
@@ -32416,7 +31645,6 @@
     "scran": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -32429,7 +31657,6 @@
         "scuttle"
     ],
     "scReClassify": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -32454,7 +31681,6 @@
         "tidyselect"
     ],
     "scRepertoire": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -32484,7 +31710,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -32527,7 +31752,6 @@
     ],
     "scry": [
         "BiocSingular",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
@@ -32549,7 +31773,6 @@
         "Category",
         "DOSE",
         "DT",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GOstats",
@@ -32631,7 +31854,6 @@
         "AnnotationDbi",
         "BiocStyle",
         "Biostrings",
-        "DelayedArray",
         "GSEABase",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -32687,7 +31909,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -32752,7 +31973,6 @@
         "viridis"
     ],
     "scuttle": [
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -32762,7 +31982,6 @@
         "beachmat"
     ],
     "SDAMS": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -32775,7 +31994,6 @@
         "tibble"
     ],
     "sechm": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -32789,7 +32007,6 @@
         "Biostrings",
         "ChIPseeker",
         "DOSE",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -32841,7 +32058,6 @@
     ],
     "segmentSeq": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -32857,7 +32073,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -32957,7 +32172,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -32989,7 +32203,6 @@
         "tibble"
     ],
     "SeqGate": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -33000,7 +32213,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -33029,7 +32241,6 @@
     ],
     "seqsetvis": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -33102,7 +32313,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -33135,7 +32345,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -33158,7 +32367,6 @@
     ],
     "sevenC": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -33180,7 +32388,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -33207,7 +32414,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -33261,7 +32467,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -33300,7 +32505,6 @@
     ],
     "ShortRead": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -33344,7 +32548,6 @@
     "SigCheck": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -33367,7 +32570,6 @@
         "tidyselect"
     ],
     "sigFeature": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -33398,7 +32600,6 @@
         "Biostrings",
         "DOSE",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GO.db",
         "GOSemSim",
@@ -33464,7 +32665,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -33531,7 +32731,6 @@
         "Biostrings",
         "DGEobj",
         "DGEobj.utils",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GSVA",
@@ -33604,7 +32803,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -33663,7 +32861,6 @@
     ],
     "SimBu": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -33696,7 +32893,6 @@
     "SIMLR": [],
     "simpleSeg": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "EBImage",
@@ -33751,7 +32947,6 @@
     ],
     "single": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -33768,7 +32963,6 @@
         "tidyselect"
     ],
     "SingleCellExperiment": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -33777,7 +32971,6 @@
     "SingleCellSignalR": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -33802,7 +32995,6 @@
         "Biostrings",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "ExperimentHub",
@@ -33920,7 +33112,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -33949,7 +33140,6 @@
     "SingleR": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -33961,7 +33151,6 @@
     "singscore": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GSEABase",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -33989,7 +33178,6 @@
         "AnnotationDbi",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GSVA",
@@ -34014,7 +33202,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -34058,7 +33245,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -34109,7 +33295,6 @@
     "slalom": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GSEABase",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -34124,7 +33309,6 @@
         "tibble"
     ],
     "slingshot": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -34145,7 +33329,6 @@
         "BioNet",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -34197,7 +33380,6 @@
         "vsn"
     ],
     "snapcount": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -34223,7 +33405,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -34252,7 +33433,6 @@
     ],
     "soGGi": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -34294,7 +33474,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -34342,7 +33521,6 @@
     "Spaniel": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -34393,7 +33571,6 @@
         "AnnotationDbi",
         "BiocSet",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GenomeInfoDb",
@@ -34423,7 +33600,6 @@
     "SparseSignatures": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -34440,7 +33616,6 @@
     ],
     "spaSim": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -34463,7 +33638,6 @@
         "tidyselect"
     ],
     "SpatialCPie": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -34494,7 +33668,6 @@
     ],
     "spatialDE": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -34556,7 +33729,6 @@
     ],
     "SpatialExperiment": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -34578,7 +33750,6 @@
     ],
     "SpatialFeatureExperiment": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -34607,7 +33778,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GO.db",
         "GenomeInfoDb",
@@ -34662,7 +33832,6 @@
         "BiocFileCache",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -34718,7 +33887,6 @@
     "Spectra": [],
     "SpectralTAD": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "HiCcompare",
@@ -34737,7 +33905,6 @@
     "SPIA": [],
     "SPIAT": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -34779,7 +33946,6 @@
     ],
     "spicyR": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -34829,7 +33995,6 @@
     "spiky": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -34844,7 +34009,6 @@
     "splatter": [
         "BiocNeighbors",
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -34872,7 +34036,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -34918,7 +34081,6 @@
         "viridis"
     ],
     "SplicingFactory": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -34928,7 +34090,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -34967,7 +34128,6 @@
         "BSgenome.Mmusculus.UCSC.mm9",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -35065,7 +34225,6 @@
     ],
     "SpotClean": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -35109,7 +34268,6 @@
         "viridis"
     ],
     "SPOTlight": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "NMF",
@@ -35123,7 +34281,6 @@
         "tibble"
     ],
     "spqn": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -35136,7 +34293,6 @@
     "SPsimSeq": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -35171,7 +34327,6 @@
         "tidyselect"
     ],
     "sRACIPE": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -35209,7 +34364,6 @@
         "BiocStyle",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -35273,7 +34427,6 @@
     "sSNAPPY": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -35300,7 +34453,6 @@
         "viridis"
     ],
     "ssPATHS": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MESS",
@@ -35355,7 +34507,6 @@
         "tibble"
     ],
     "stageR": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -35367,7 +34518,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -35404,7 +34554,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "EDASeq",
@@ -35491,7 +34640,6 @@
         "tibble"
     ],
     "Statial": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -35553,7 +34701,6 @@
     ],
     "stJoincount": [
         "BiocFileCache",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -35601,7 +34748,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -35635,7 +34781,6 @@
     ],
     "STROMA4": [],
     "struct": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -35653,7 +34798,6 @@
         "stringr"
     ],
     "structToolbox": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -35675,7 +34819,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -35744,7 +34887,6 @@
         "tibble"
     ],
     "SummarizedBenchmark": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -35760,7 +34902,6 @@
         "tidyselect"
     ],
     "SummarizedExperiment": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "XVector"
@@ -35775,7 +34916,6 @@
     ],
     "supersigs": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -35843,7 +34983,6 @@
         "prodlim"
     ],
     "survtype": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -35891,7 +35030,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -35920,7 +35058,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -35970,7 +35107,6 @@
     ],
     "switchBox": [],
     "switchde": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -36103,7 +35239,6 @@
     ],
     "syntenet": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -36130,7 +35265,6 @@
     ],
     "systemPipeR": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -36186,7 +35320,6 @@
         "Biostrings",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -36222,7 +35355,6 @@
     ],
     "TADCompare": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "HiCcompare",
@@ -36278,7 +35410,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -36336,7 +35467,6 @@
     ],
     "TarSeqQC": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -36363,7 +35493,6 @@
         "Biostrings",
         "DESeq2",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GSEABase",
         "GSVA",
@@ -36402,7 +35531,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -36423,7 +35551,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -36457,7 +35584,6 @@
         "Biostrings",
         "DOSE",
         "DT",
-        "DelayedArray",
         "ELMER",
         "ELMER.data",
         "ExperimentHub",
@@ -36560,7 +35686,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicDataCommons",
@@ -36592,7 +35717,6 @@
     ],
     "TCseq": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -36613,7 +35737,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -36636,7 +35759,6 @@
         "tidyselect"
     ],
     "TENxIO": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -36656,7 +35778,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GO.db",
         "GenomeInfoDb",
@@ -36700,7 +35821,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicDataCommons",
@@ -36753,7 +35873,6 @@
         "BSgenome",
         "Biostrings",
         "CNEr",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -36780,7 +35899,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -36809,7 +35927,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -36872,7 +35989,6 @@
         "tidyselect"
     ],
     "tidybulk": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -36890,7 +36006,6 @@
         "vroom"
     ],
     "tidySingleCellExperiment": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -36911,7 +36026,6 @@
         "ttservice"
     ],
     "tidySummarizedExperiment": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -36939,7 +36053,6 @@
         "annotate"
     ],
     "TileDBArray": [
-        "DelayedArray",
         "tiledb"
     ],
     "tilingArray": [
@@ -36987,7 +36100,6 @@
         "BiocFileCache",
         "Biostrings",
         "DOSE",
-        "DelayedArray",
         "FreqProf",
         "GO.db",
         "GOSemSim",
@@ -37069,7 +36181,6 @@
     "TissueEnrich": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GSEABase",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -37091,7 +36202,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -37119,7 +36229,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -37164,7 +36273,6 @@
         "AnnotationDbi",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GGally",
         "GSEABase",
@@ -37218,7 +36326,6 @@
         "stringr"
     ],
     "TOAST": [
-        "DelayedArray",
         "EpiDISH",
         "GGally",
         "GenomeInfoDb",
@@ -37238,7 +36345,6 @@
         "tidyselect"
     ],
     "tomoda": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -37301,7 +36407,6 @@
     "ToxicoGx": [
         "CoreGx",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -37368,7 +36473,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -37404,7 +36508,6 @@
         "viridis"
     ],
     "tradeSeq": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -37428,7 +36531,6 @@
         "tibble"
     ],
     "TrajectoryUtils": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -37462,7 +36564,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -37495,7 +36596,6 @@
         "tidyselect"
     ],
     "transformGamPoi": [
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -37523,7 +36623,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -37565,7 +36664,6 @@
         "XVector"
     ],
     "TraRe": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -37579,7 +36677,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -37590,7 +36687,6 @@
     ],
     "Travel": [],
     "traviz": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -37619,7 +36715,6 @@
         "tidytree"
     ],
     "treekoR": [
-        "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -37668,7 +36763,6 @@
     ],
     "TreeSummarizedExperiment": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -37684,7 +36778,6 @@
         "treeio"
     ],
     "TREG": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -37699,7 +36792,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -37734,7 +36826,6 @@
     ],
     "Trendy": [
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -37752,7 +36843,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -37779,7 +36869,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -37885,7 +36974,6 @@
     "tRNAscanImport": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -37902,7 +36990,6 @@
         "tibble"
     ],
     "TSCAN": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -37915,7 +37002,6 @@
         "tibble"
     ],
     "tscR": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -37963,7 +37049,6 @@
         "vroom"
     ],
     "TTMap": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -37983,7 +37068,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -38034,7 +37118,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -38063,7 +37146,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -38093,7 +37175,6 @@
     ],
     "UCell": [
         "BiocNeighbors",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -38108,7 +37189,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -38151,7 +37231,6 @@
         "BiocFileCache",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -38196,7 +37275,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
         "GO.db",
@@ -38270,7 +37348,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -38317,7 +37394,6 @@
         "BiocNeighbors",
         "BiocSingular",
         "DeepPINCS",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DiagrammeR",
         "GenomeInfoDb",
@@ -38371,7 +37447,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg18",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -38387,7 +37462,6 @@
     "VarCon": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -38429,7 +37503,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -38453,7 +37526,6 @@
     ],
     "VariantExperiment": [
         "Biostrings",
-        "DelayedArray",
         "DelayedDataFrame",
         "GDSArray",
         "GenomeInfoDb",
@@ -38481,7 +37553,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -38527,7 +37598,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -38553,7 +37623,6 @@
     "VaSP": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -38573,7 +37642,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -38598,7 +37666,6 @@
         "tidyselect"
     ],
     "VDJdive": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -38631,7 +37698,6 @@
     ],
     "velociraptor": [
         "BiocSingular",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -38659,7 +37725,6 @@
         "AnnotationDbi",
         "Biostrings",
         "DESeq2",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -38787,7 +37852,6 @@
     "Voyager": [
         "BiocFileCache",
         "BiocNeighbors",
-        "DelayedArray",
         "DelayedMatrixStats",
         "DropletUtils",
         "GenomeInfoDb",
@@ -38817,7 +37881,6 @@
     ],
     "VplotR": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -38832,7 +37895,6 @@
         "tibble"
     ],
     "vsclust": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -38863,7 +37925,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -38902,7 +37963,6 @@
         "Biostrings",
         "ChIPpeakAnno",
         "DESeq2",
-        "DelayedArray",
         "DiffBind",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -38948,7 +38008,6 @@
     ],
     "waddR": [
         "BiocFileCache",
-        "DelayedArray",
         "EnvStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -38975,7 +38034,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -39025,7 +38083,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -39075,7 +38132,6 @@
         "vsn"
     ],
     "weitrix": [
-        "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -39093,7 +38149,6 @@
     ],
     "wiggleplotr": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -39111,7 +38166,6 @@
     ],
     "wpm": [
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -39157,7 +38211,6 @@
         "vroom"
     ],
     "xcms": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
@@ -39171,7 +38224,6 @@
         "vsn"
     ],
     "xcore": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -39199,7 +38251,6 @@
     "Xeva": [
         "CoreGx",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -39238,7 +38289,6 @@
     "XNAString": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -39254,7 +38304,6 @@
     ],
     "XVector": [],
     "yamss": [
-        "DelayedArray",
         "EBImage",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -39272,7 +38321,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GGally",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -39319,7 +38367,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -39357,7 +38404,6 @@
         "vroom"
     ],
     "zellkonverter": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SingleCellExperiment",
@@ -39369,7 +38415,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "EnrichmentBrowser",
         "GO.db",
         "GSEABase",
@@ -39411,7 +38456,6 @@
         "waldo"
     ],
     "zFPKM": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -39427,7 +38471,6 @@
     "zinbwave": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -39810,7 +38853,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -40034,7 +39076,6 @@
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -40047,7 +39088,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -40073,7 +39113,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -40102,7 +39141,6 @@
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -40114,7 +39152,6 @@
     "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -40133,7 +39170,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -40166,7 +39202,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -40199,7 +39234,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -40230,7 +39264,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -40258,7 +39291,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -40286,7 +39318,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -40313,7 +39344,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -40398,7 +39428,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GO.db",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -40427,7 +39456,6 @@
     "BSgenome.Mmusculus.UCSC.mm10": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -40446,7 +39474,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -40488,7 +39515,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -40644,7 +39670,6 @@
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -40738,7 +39763,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -41129,7 +40153,6 @@
         "Biostrings",
         "DESeq2",
         "DEXSeq",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
@@ -41185,7 +40208,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -41226,7 +40248,6 @@
     "BSgenome.Hsapiens.UCSC.hg38": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -41434,7 +40455,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -41473,7 +40493,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -41512,7 +40531,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -41559,7 +40577,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -41610,7 +40627,6 @@
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -41622,7 +40638,6 @@
     "chipenrich.data": [
         "AnnotationDbi",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -41668,7 +40683,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -41694,7 +40708,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -41720,7 +40733,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -41746,7 +40758,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -41772,7 +40783,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -41836,7 +40846,6 @@
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -41992,7 +41001,6 @@
         "viridis"
     ],
     "airway": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -42003,7 +41011,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -42031,7 +41038,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -42071,7 +41077,6 @@
         "tibble"
     ],
     "faahKO": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MSnbase",
@@ -42427,7 +41432,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -42879,7 +41883,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -42963,7 +41966,6 @@
     ],
     "pd.mapping50k.xba240": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -43200,7 +42202,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -43262,7 +42263,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "DelayedMatrixStats",
         "GEOquery",
         "GenomeInfoDb",
@@ -43306,7 +42306,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "ExperimentHubData",
         "GenomeInfoDb",
@@ -43388,7 +42387,6 @@
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -43576,7 +42574,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -43662,7 +42659,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -43746,7 +42742,6 @@
         "tidyselect"
     ],
     "OMICsPCAdata": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -43887,7 +42882,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -43931,7 +42925,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -43959,7 +42952,6 @@
         "AnnotationFilter",
         "BiocFileCache",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -44023,7 +43015,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -44065,7 +43056,6 @@
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -44085,7 +43075,6 @@
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -44119,7 +43108,6 @@
     ],
     "valr": [
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -44202,7 +43190,6 @@
         "XVector"
     ],
     "fission": [
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
@@ -44249,7 +43236,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -44409,7 +43395,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "DelayedMatrixStats",
         "ExperimentHub",
         "GenomeInfoDb",
@@ -44478,7 +43463,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -44514,7 +43498,6 @@
         "BiocFileCache",
         "Biostrings",
         "DT",
-        "DelayedArray",
         "ExperimentHub",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -44779,7 +43762,6 @@
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
         "Biostrings",
-        "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
