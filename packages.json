@@ -4965,7 +4965,6 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "InterMineR": [],
     "IONiseR": [
         "ShortRead",
         "rhdf5"
