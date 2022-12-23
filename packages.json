@@ -2103,7 +2103,6 @@
         "pbkrtest",
         "viridis"
     ],
-    "debCAM": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
