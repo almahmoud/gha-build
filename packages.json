@@ -4682,7 +4682,6 @@
         "rtracklayer",
         "yarn"
     ],
-    "NeuCA": [],
     "nnSVG": [
         "DropletUtils",
         "HDF5Array",
