@@ -631,7 +631,6 @@
     ],
     "cleanUpdTSeq": [],
     "clipper": [],
-    "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
         "affy",
