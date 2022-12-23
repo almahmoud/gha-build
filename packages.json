@@ -2515,7 +2515,6 @@
         "viridis",
         "visNetwork"
     ],
-    "CINdex": [],
     "circRNAprofiler": [
         "AnnotationDbi",
         "AnnotationHub",
