@@ -1283,8 +1283,7 @@
     ],
     "cosmosR": [
         "GSEABase",
-        "dorothea",
-        "viper"
+        "dorothea"
     ],
     "countsimQC": [
         "DESeq2",
@@ -1691,9 +1690,7 @@
         "genefilter",
         "geneplotter"
     ],
-    "diggit": [
-        "viper"
-    ],
+    "diggit": [],
     "Dino": [
         "Seurat",
         "scran"
@@ -1815,8 +1812,7 @@
         "geneplotter",
         "ggpubr",
         "pbkrtest",
-        "rstatix",
-        "viper"
+        "rstatix"
     ],
     "EasyCellType": [
         "DOSE",
@@ -5272,21 +5268,18 @@
     ],
     "RTN": [
         "car",
-        "pbkrtest",
-        "viper"
+        "pbkrtest"
     ],
     "RTNduals": [
         "RTN",
         "car",
-        "pbkrtest",
-        "viper"
+        "pbkrtest"
     ],
     "RTNsurvival": [
         "RTN",
         "RTNduals",
         "car",
-        "pbkrtest",
-        "viper"
+        "pbkrtest"
     ],
     "Rtreemix": [
         "Hmisc",
@@ -6426,7 +6419,6 @@
         "DESeq2",
         "geneplotter"
     ],
-    "viper": [],
     "ViSEAGO": [
         "DiagrammeR",
         "dendextend",
@@ -6469,8 +6461,7 @@
         "ensembldb",
         "geneplotter",
         "regioneR",
-        "systemPipeR",
-        "viper"
+        "systemPipeR"
     ],
     "waddR": [
         "arm"
@@ -6827,9 +6818,7 @@
         "vsn",
         "xcms"
     ],
-    "dorothea": [
-        "viper"
-    ],
+    "dorothea": [],
     "crisprScoreData": [
         "ExperimentHub"
     ],
