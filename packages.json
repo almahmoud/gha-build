@@ -4056,7 +4056,6 @@
         "DOSE",
         "GOstats",
         "ReactomePA",
-        "ccTensor",
         "enrichplot",
         "ggtree",
         "heatmaply",
@@ -5295,7 +5294,6 @@
     ],
     "Rmagic": [],
     "nnTensor": [],
-    "ccTensor": [],
     "survivalAnalysis": [
         "car",
         "ggpubr",
