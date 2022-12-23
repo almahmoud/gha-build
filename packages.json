@@ -591,7 +591,6 @@
         "dendextend",
         "viridis"
     ],
-    "cellTree": [],
     "CEMiTool": [
         "Hmisc",
         "WGCNA",
