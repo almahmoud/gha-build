@@ -46264,7 +46264,6 @@
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicRanges",
-        "HGNChelper",
         "IRanges",
         "KEGGREST",
         "MASS",
@@ -169748,7 +169747,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "HGNChelper": [],
     "homologene": [
         "R.methodsS3",
         "R.oo",
