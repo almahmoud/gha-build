@@ -939,9 +939,7 @@
         "scran",
         "scuttle"
     ],
-    "biotmle": [
-        "superheat"
-    ],
+    "biotmle": [],
     "biovizBase": [
         "AnnotationDbi",
         "BSgenome",
@@ -11491,7 +11489,6 @@
         "AnnotationHub",
         "interactiveDisplayBase"
     ],
-    "superheat": [],
     "biscuiteerData": [
         "AnnotationDbi",
         "AnnotationHub",
