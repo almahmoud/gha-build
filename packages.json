@@ -16526,8 +16526,7 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "dbplyr",
-        "scuttle",
-        "spdep"
+        "scuttle"
     ],
     "spatialHeatmap": [
         "AnnotationDbi",
@@ -16990,7 +16989,6 @@
         "scattermore",
         "sctransform",
         "scuttle",
-        "spdep",
         "tidyr"
     ],
     "strandCheckR": [
@@ -18469,8 +18467,7 @@
         "dbplyr",
         "ggnewscale",
         "patchwork",
-        "scuttle",
-        "spdep"
+        "scuttle"
     ],
     "VplotR": [
         "GenomicAlignments",
@@ -20754,7 +20751,6 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "spdep": [],
     "alphahull": [],
     "miRNAtap.db": [
         "AnnotationDbi",
