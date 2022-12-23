@@ -1408,9 +1408,7 @@
     "isomiRs": [
         "DEGreport"
     ],
-    "ITALICS": [
-        "pd.mapping50k.xba240"
-    ],
+    "ITALICS": [],
     "IVAS": [],
     "ivygapSE": [
         "car",
@@ -3197,7 +3195,6 @@
     "shinyHeatmaply": [],
     "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
-    "pd.mapping50k.xba240": [],
     "glmmTMB": [],
     "depmap": [],
     "agricolae": [
