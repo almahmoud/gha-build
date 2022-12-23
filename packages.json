@@ -435,7 +435,6 @@
         "sva"
     ],
     "bnem": [
-        "epiNEM",
         "genefilter",
         "sva"
     ],
@@ -1158,9 +1157,7 @@
         "plyranges",
         "rstatix"
     ],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [
         "GEOmap",
         "RFOC",
@@ -1579,7 +1576,6 @@
         "genefilter",
         "minfi"
     ],
-    "epiNEM": [],
     "epistasisGA": [
         "qgraph"
     ],
@@ -3225,9 +3221,7 @@
     "Nebulosa": [
         "Seurat"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "NetActivity": [
         "DESeq2"
     ],
