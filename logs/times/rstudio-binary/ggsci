@@ -1,0 +1,87 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   afcefeae..2ab56bdc  main       -> origin/main
+Updating afcefeae..2ab56bdc
+Fast-forward
+ lists/GEOfastq                                  |   2 +-
+ lists/Rfastp                                    |   2 +-
+ lists/gganimate                                 |   2 +-
+ lists/ggforce                                   |   2 +-
+ lists/ggprism                                   |   2 +-
+ logs/run_ids/rstudio-binaries/ggsignif          |   2 +
+ logs/run_ids/rstudio-binaries/golem             |   2 +
+ logs/sizes/rstudio-binaries/binaries/Rfastp     |   1 +
+ logs/sizes/rstudio-binaries/binaries/gganimate  |   1 +
+ logs/sizes/rstudio-binaries/binaries/ggprism    |   1 +
+ logs/sizes/rstudio-binaries/libraries/Rfastp    |   1 +
+ logs/sizes/rstudio-binaries/libraries/gganimate |   1 +
+ logs/sizes/rstudio-binaries/libraries/ggprism   |   1 +
+ logs/times/rstudio-binary/Rfastp                | 499 ++++++++++++++++++++++++
+ logs/times/rstudio-binary/gganimate             |  82 ++++
+ logs/times/rstudio-binary/ggprism               |  85 ++++
+ packages.json                                   |  98 +----
+ 17 files changed, 684 insertions(+), 100 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/ggsignif
+ create mode 100644 logs/run_ids/rstudio-binaries/golem
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/Rfastp
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/gganimate
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ggprism
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/Rfastp
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/gganimate
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ggprism
+ create mode 100644 logs/times/rstudio-binary/Rfastp
+ create mode 100644 logs/times/rstudio-binary/gganimate
+ create mode 100644 logs/times/rstudio-binary/ggprism
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=ggsci
++ PKG=ggsci
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ sed -n '/^    "ggsci"/,/^    "/p' directdeps.json
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency ggplot2 is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''ggsci'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv ggsci_2.9_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/ggsci
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'ggsci'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/ggsci_2.9.tar.gz'
+Content type 'binary/octet-stream' length 2976471 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+* installing *binary* package ‘ggsci’ ...
+* ‘ggsci’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggsci’ as ‘ggsci_2.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggsci)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpwb4xTc/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m8.741s
+user	0m4.973s
+sys	0m0.490s
