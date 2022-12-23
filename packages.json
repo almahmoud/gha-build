@@ -879,7 +879,6 @@
     "cytomapper": [
         "SpatialExperiment"
     ],
-    "dada2": [],
     "dagLogo": [
         "CNEr",
         "TFBSTools",
@@ -2968,9 +2967,7 @@
         "VariantAnnotation",
         "phastCons100way.UCSC.hg19"
     ],
-    "Rbec": [
-        "dada2"
-    ],
+    "Rbec": [],
     "RCAS": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
