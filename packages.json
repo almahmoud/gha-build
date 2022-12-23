@@ -37399,7 +37399,6 @@
         "futile.logger",
         "latticeExtra"
     ],
-    "RTCA": [],
     "RTCGA": [
         "broom",
         "bslib",
