@@ -15899,7 +15899,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "CFAssay": [],
     "cfDNAPro": [
         "Biobase",
         "BiocIO",
