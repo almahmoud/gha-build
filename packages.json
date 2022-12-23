@@ -26613,7 +26613,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "pdftools",
         "progress",
         "purrr",
         "quantreg",
@@ -46876,7 +46875,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "pdftools": [],
     "flatxml": [
         "httr"
     ],
