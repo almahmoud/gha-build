@@ -3875,7 +3875,6 @@
         "WGCNA",
         "XVector",
         "bslib",
-        "clusterCons",
         "cowplot",
         "crosstalk",
         "dbplyr",
@@ -50748,7 +50747,6 @@
         "tibble",
         "tidyselect"
     ],
-    "clusterCons": [],
     "rSpectral": [],
     "WGCNA": [
         "AnnotationDbi",
