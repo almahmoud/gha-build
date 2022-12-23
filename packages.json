@@ -1944,9 +1944,7 @@
     "BiFET": [
         "GenomicRanges"
     ],
-    "BiGGR": [
-        "hyperdraw"
-    ],
+    "BiGGR": [],
     "bigmelon": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -13135,7 +13133,6 @@
         "tibble",
         "visNetwork"
     ],
-    "hyperdraw": [],
     "iasva": [
         "DelayedArray",
         "GenomicRanges",
