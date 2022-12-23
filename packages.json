@@ -4512,7 +4512,6 @@
     "scRecover": [
         "Rmagic"
     ],
-    "scRepertoire": [],
     "scruff": [
         "BSgenome",
         "GenomicFeatures",
