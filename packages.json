@@ -7728,7 +7728,6 @@
         "hgu95av2.db",
         "org.Hs.eg.db"
     ],
-    "KinSwingR": [],
     "kissDE": [
         "AnnotationDbi",
         "BSgenome",
