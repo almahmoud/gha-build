@@ -5411,8 +5411,7 @@
     "MatrixQCvis": [
         "Hmisc",
         "htmlTable",
-        "plotly",
-        "proDA"
+        "plotly"
     ],
     "MatrixRider": [
         "BSgenome",
@@ -7741,7 +7740,6 @@
         "testthat"
     ],
     "procoil": [],
-    "proDA": [],
     "proFIA": [
         "MsFeatures",
         "MultiAssayExperiment",
