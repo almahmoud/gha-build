@@ -2299,7 +2299,6 @@
     "cbpManager": [
         "DT",
         "htmlwidgets",
-        "rapportools",
         "rintrojs",
         "shiny",
         "shinyBS",
@@ -13094,7 +13093,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rapportools",
         "summarytools",
         "testthat",
         "tidyr",
@@ -21083,7 +21081,6 @@
         "tidyr",
         "waldo"
     ],
-    "rapportools": [],
     "rintrojs": [
         "shiny"
     ],
@@ -22199,7 +22196,6 @@
         "waldo"
     ],
     "summarytools": [
-        "rapportools",
         "tidyr"
     ],
     "unmarked": [
