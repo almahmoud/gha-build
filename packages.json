@@ -1340,7 +1340,6 @@
     "DrugVsDisease": [
         "ArrayExpress",
         "hgu133a.db",
-        "hgu133a2.db",
         "hgu133plus2.db"
     ],
     "DSS": [
@@ -5259,7 +5258,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "hgu133a2.db": [],
     "easierData": [
         "AnnotationHub",
         "ExperimentHub"
