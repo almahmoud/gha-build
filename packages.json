@@ -45737,7 +45737,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "RGraph2js": [],
     "Rgraphviz": [],
     "rGREAT": [
         "AnnotationDbi",
