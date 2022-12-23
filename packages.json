@@ -1348,7 +1348,6 @@
     "ChromSCape": [
         "batchelor",
         "colourpicker",
-        "kableExtra",
         "plotly",
         "qs",
         "rtracklayer",
@@ -2298,7 +2297,6 @@
         "dendextend",
         "ggExtra",
         "heatmaply",
-        "kableExtra",
         "plotly"
     ],
     "distinct": [
@@ -2859,9 +2857,7 @@
     "esetVis": [
         "MLP"
     ],
-    "evaluomeR": [
-        "kableExtra"
-    ],
+    "evaluomeR": [],
     "EventPointer": [
         "BSgenome",
         "GenomicFeatures",
@@ -3894,9 +3890,7 @@
     "HumanTranscriptomeCompendium": [
         "ssrch"
     ],
-    "hypeR": [
-        "kableExtra"
-    ],
+    "hypeR": [],
     "iBBiG": [],
     "iCARE": [
         "Hmisc"
@@ -4050,9 +4044,7 @@
         "ggbio",
         "rtracklayer"
     ],
-    "InteractiveComplexHeatmap": [
-        "kableExtra"
-    ],
+    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "Category",
         "GSEABase",
@@ -5004,7 +4996,6 @@
     ],
     "midasHLA": [
         "HardyWeinberg",
-        "kableExtra",
         "mice"
     ],
     "MIGSA": [
@@ -5927,7 +5918,6 @@
         "dendextend",
         "factoextra",
         "ggpubr",
-        "kableExtra",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6556,7 +6546,6 @@
         "factoextra",
         "genefilter",
         "ggpubr",
-        "kableExtra",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7542,9 +7531,7 @@
         "plotly"
     ],
     "scHOT": [],
-    "scifer": [
-        "kableExtra"
-    ],
+    "scifer": [],
     "scMAGeCK": [
         "Seurat",
         "plotly"
@@ -9529,7 +9516,6 @@
         "rtracklayer"
     ],
     "shinydashboardPlus": [],
-    "kableExtra": [],
     "qs": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
