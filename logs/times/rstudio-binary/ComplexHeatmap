@@ -1,0 +1,1078 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   7aec0a28..d1b0ed90  main       -> origin/main
+Updating 7aec0a28..d1b0ed90
+Fast-forward
+ lists/CGHnormaliter                                |   2 +-
+ lists/betareg                                      |   2 +-
+ logs/run_ids/rstudio-binaries/clock                |   2 +
+ logs/run_ids/rstudio-binaries/covr                 |   2 +
+ logs/run_ids/rstudio-binaries/cvar                 |   2 +
+ logs/sizes/rstudio-binaries/binaries/CGHnormaliter |   1 +
+ logs/sizes/rstudio-binaries/binaries/betareg       |   1 +
+ .../sizes/rstudio-binaries/libraries/CGHnormaliter |   1 +
+ logs/sizes/rstudio-binaries/libraries/betareg      |   1 +
+ logs/times/rstudio-binary/CGHnormaliter            |  87 +++
+ logs/times/rstudio-binary/betareg                  | 765 +++++++++++++++++++++
+ packages.json                                      |   6 +-
+ 12 files changed, 865 insertions(+), 7 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/clock
+ create mode 100644 logs/run_ids/rstudio-binaries/covr
+ create mode 100644 logs/run_ids/rstudio-binaries/cvar
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/CGHnormaliter
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/betareg
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/CGHnormaliter
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/betareg
+ create mode 100644 logs/times/rstudio-binary/CGHnormaliter
+ create mode 100644 logs/times/rstudio-binary/betareg
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=ComplexHeatmap
++ PKG=ComplexHeatmap
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "ComplexHeatmap"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4 7004k    4  346k    0     0   449k      0  0:00:15 --:--:--  0:00:15  448k 29 7004k   29 2083k    0     0  1175k      0  0:00:05  0:00:01  0:00:04 1175k 74 7004k   74 5207k    0     0  1877k      0  0:00:03  0:00:02  0:00:01 1877k100 7004k  100 7004k    0     0  2185k      0  0:00:03  0:00:03 --:--:-- 2186k
+built/
+built/shape/
+built/shape/NAMESPACE
+built/shape/DESCRIPTION
+built/shape/help/
+built/shape/help/shape.rdb
+built/shape/help/paths.rds
+built/shape/help/aliases.rds
+built/shape/help/shape.rdx
+built/shape/help/AnIndex
+built/shape/Meta/
+built/shape/Meta/package.rds
+built/shape/Meta/vignette.rds
+built/shape/Meta/demo.rds
+built/shape/Meta/features.rds
+built/shape/Meta/hsearch.rds
+built/shape/Meta/links.rds
+built/shape/Meta/nsInfo.rds
+built/shape/Meta/Rd.rds
+built/shape/html/
+built/shape/html/00Index.html
+built/shape/html/R.css
+built/shape/INDEX
+built/shape/doc/
+built/shape/doc/shape.pdf
+built/shape/doc/shape.Rnw
+built/shape/doc/index.html
+built/shape/R/
+built/shape/R/shape.rdb
+built/shape/R/shape
+built/shape/R/shape.rdx
+built/shape/demo/
+built/shape/demo/colorshapes.r
+built/GlobalOptions/
+built/GlobalOptions/NEWS
+built/GlobalOptions/NAMESPACE
+built/GlobalOptions/DESCRIPTION
+built/GlobalOptions/help/
+built/GlobalOptions/help/paths.rds
+built/GlobalOptions/help/GlobalOptions.rdx
+built/GlobalOptions/help/aliases.rds
+built/GlobalOptions/help/GlobalOptions.rdb
+built/GlobalOptions/help/AnIndex
+built/GlobalOptions/Meta/
+built/GlobalOptions/Meta/package.rds
+built/GlobalOptions/Meta/vignette.rds
+built/GlobalOptions/Meta/features.rds
+built/GlobalOptions/Meta/hsearch.rds
+built/GlobalOptions/Meta/links.rds
+built/GlobalOptions/Meta/nsInfo.rds
+built/GlobalOptions/Meta/Rd.rds
+built/GlobalOptions/LICENSE
+built/GlobalOptions/html/
+built/GlobalOptions/html/00Index.html
+built/GlobalOptions/html/R.css
+built/GlobalOptions/INDEX
+built/GlobalOptions/doc/
+built/GlobalOptions/doc/GlobalOptions.Rmd
+built/GlobalOptions/doc/GlobalOptions.html
+built/GlobalOptions/doc/GlobalOptions.R
+built/GlobalOptions/doc/index.html
+built/GlobalOptions/R/
+built/GlobalOptions/R/GlobalOptions.rdx
+built/GlobalOptions/R/GlobalOptions
+built/GlobalOptions/R/GlobalOptions.rdb
+built/colorspace/
+built/colorspace/libs/
+built/colorspace/libs/colorspace.so
+built/colorspace/NAMESPACE
+built/colorspace/hclwizard/
+built/colorspace/hclwizard/server.R
+built/colorspace/hclwizard/www/
+built/colorspace/hclwizard/www/images/
+built/colorspace/hclwizard/www/images/pal_light_grays.png
+built/colorspace/hclwizard/www/images/pal_reds_2.png
+built/colorspace/hclwizard/www/images/pal_terrain.png
+built/colorspace/hclwizard/www/images/pal_red-yellow.png
+built/colorspace/hclwizard/www/images/pal_ylgnbu.png
+built/colorspace/hclwizard/www/images/pal_purple-blue.png
+built/colorspace/hclwizard/www/images/pal_terrain_2.png
+built/colorspace/hclwizard/www/images/pal_dark_mint.png
+built/colorspace/hclwizard/www/images/pal_burgyl.png
+built/colorspace/hclwizard/www/images/pal_oryel.png
+built/colorspace/hclwizard/www/images/pal_redor.png
+built/colorspace/hclwizard/www/images/pal_blues_3.png
+built/colorspace/hclwizard/www/images/pal_blue-red_3.png
+built/colorspace/hclwizard/www/images/pal_sunsetdark.png
+built/colorspace/hclwizard/www/images/pal_grays.png
+built/colorspace/hclwizard/www/images/pal_cold.png
+built/colorspace/hclwizard/www/images/pal_mint.png
+built/colorspace/hclwizard/www/images/pal_emrld.png
+built/colorspace/hclwizard/www/images/pal_heat.png
+built/colorspace/hclwizard/www/images/pal_purple-yellow.png
+built/colorspace/hclwizard/www/images/pal_cm.colors.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow_2.png
+built/colorspace/hclwizard/www/images/pal_inferno.png
+built/colorspace/hclwizard/www/images/pal_bugn.png
+built/colorspace/hclwizard/www/images/pal_teal.png
+built/colorspace/hclwizard/www/images/pal_heat_2.png
+built/colorspace/hclwizard/www/images/pal_reds_3.png
+built/colorspace/hclwizard/www/images/pal_ylorrd.png
+built/colorspace/hclwizard/www/images/pal_set_3.png
+built/colorspace/hclwizard/www/images/pal_burg.png
+built/colorspace/hclwizard/www/images/pal_red-blue.png
+built/colorspace/hclwizard/www/images/pal_purple-brown.png
+built/colorspace/hclwizard/www/images/pal_purples_3.png
+built/colorspace/hclwizard/www/images/pal_ag_sunset.png
+built/colorspace/hclwizard/www/images/pal_red-green.png
+built/colorspace/hclwizard/www/images/pal_cyan-magenta.png
+built/colorspace/hclwizard/www/images/pal_bpy.png
+built/colorspace/hclwizard/www/images/pal_greens_2.png
+built/colorspace/hclwizard/www/images/pal_pubu.png
+built/colorspace/hclwizard/www/images/pal_tealgrn.png
+built/colorspace/hclwizard/www/images/pal_ylorbr.png
+built/colorspace/hclwizard/www/images/pal_pinkyl.png
+built/colorspace/hclwizard/www/images/pal_greens.png
+built/colorspace/hclwizard/www/images/pal_ylgn.png
+built/colorspace/hclwizard/www/images/pal_lisbon.png
+built/colorspace/hclwizard/www/images/pal_green-yellow.png
+built/colorspace/hclwizard/www/images/pal_blues.png
+built/colorspace/hclwizard/www/images/pal_purples.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow.png
+built/colorspace/hclwizard/www/images/pal_batlow.png
+built/colorspace/hclwizard/www/images/pal_red-purple.png
+built/colorspace/hclwizard/www/images/pal_set_2.png
+built/colorspace/hclwizard/www/images/pal_ag_grnyl.png
+built/colorspace/hclwizard/www/images/pal_purple-green.png
+built/colorspace/hclwizard/www/images/pal_oranges.png
+built/colorspace/hclwizard/www/images/pal_purp.png
+built/colorspace/hclwizard/www/images/pal_green-brown.png
+built/colorspace/hclwizard/www/images/pal_oslo.png
+built/colorspace/hclwizard/www/images/pal_turku.png
+built/colorspace/hclwizard/www/images/pal_greens_3.png
+built/colorspace/hclwizard/www/images/pal_pastel_1.png
+built/colorspace/hclwizard/www/images/pal_cork.png
+built/colorspace/hclwizard/www/images/pal_dark_3.png
+built/colorspace/hclwizard/www/images/pal_rdpu.png
+built/colorspace/hclwizard/www/images/pal_brwnyl.png
+built/colorspace/hclwizard/www/images/pal_bupu.png
+built/colorspace/hclwizard/www/images/pal_purd.png
+built/colorspace/hclwizard/www/images/pal_plasma.png
+built/colorspace/hclwizard/www/images/pal_purple-orange.png
+built/colorspace/hclwizard/www/images/pal_purples_2.png
+built/colorspace/hclwizard/www/images/pal_tofino.png
+built/colorspace/hclwizard/www/images/pal_blue-red.png
+built/colorspace/hclwizard/www/images/pal_terrain.colors.png
+built/colorspace/hclwizard/www/images/pal_dynamic.png
+built/colorspace/hclwizard/www/images/pal_gnbu.png
+built/colorspace/hclwizard/www/images/pal_warm.png
+built/colorspace/hclwizard/www/images/pal_berlin.png
+built/colorspace/hclwizard/www/images/pal_pubugn.png
+built/colorspace/hclwizard/www/images/pal_lajolla.png
+built/colorspace/hclwizard/www/images/pal_heat.colors.png
+built/colorspace/hclwizard/www/images/pal_dark_2.png
+built/colorspace/hclwizard/www/images/pal_viridis.png
+built/colorspace/hclwizard/www/images/pal_magenta.png
+built/colorspace/hclwizard/www/images/pal_reds.png
+built/colorspace/hclwizard/www/images/pal_blue-red_2.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow_3.png
+built/colorspace/hclwizard/www/images/pal_hawaii.png
+built/colorspace/hclwizard/www/images/pal_tropic.png
+built/colorspace/hclwizard/www/images/pal_peach.png
+built/colorspace/hclwizard/www/images/pal_topo.colors.png
+built/colorspace/hclwizard/www/images/pal_harmonic.png
+built/colorspace/hclwizard/www/images/pal_blues_2.png
+built/colorspace/hclwizard/www/images/pal_rainbow.png
+built/colorspace/hclwizard/www/images/pal_bluyl.png
+built/colorspace/hclwizard/www/images/pal_sunset.png
+built/colorspace/hclwizard/www/images/pal_blugrn.png
+built/colorspace/hclwizard/www/images/pal_green-orange.png
+built/colorspace/hclwizard/www/images/pal_orrd.png
+built/colorspace/hclwizard/www/images/pal_purpor.png
+built/colorspace/hclwizard/www/hclwizard.css
+built/colorspace/hclwizard/www/hclwizard_darkmode.css
+built/colorspace/hclwizard/prepareStaticContent.R
+built/colorspace/hclwizard/ui.R
+built/colorspace/hclwizard/html/
+built/colorspace/hclwizard/html/python-example.html
+built/colorspace/hclwizard/html/colorplane.html
+built/colorspace/hclwizard/html/Register.html
+built/colorspace/hclwizard/html/info.html
+built/colorspace/hclwizard/html/python.html
+built/colorspace/hclwizard/html/R.html
+built/colorspace/hclwizard/html/RegisterRcode.html
+built/colorspace/hclwizard/html/GrADS.html
+built/colorspace/hclwizard/html/RReg.html
+built/colorspace/hclwizard/html/matlab.html
+built/colorspace/DESCRIPTION
+built/colorspace/help/
+built/colorspace/help/paths.rds
+built/colorspace/help/colorspace.rdb
+built/colorspace/help/aliases.rds
+built/colorspace/help/colorspace.rdx
+built/colorspace/help/AnIndex
+built/colorspace/data/
+built/colorspace/data/Rdata.rds
+built/colorspace/data/Rdata.rdb
+built/colorspace/data/Rdata.rdx
+built/colorspace/Meta/
+built/colorspace/Meta/package.rds
+built/colorspace/Meta/vignette.rds
+built/colorspace/Meta/demo.rds
+built/colorspace/Meta/features.rds
+built/colorspace/Meta/hsearch.rds
+built/colorspace/Meta/links.rds
+built/colorspace/Meta/nsInfo.rds
+built/colorspace/Meta/Rd.rds
+built/colorspace/Meta/data.rds
+built/colorspace/hclcolorpicker/
+built/colorspace/hclcolorpicker/server.R
+built/colorspace/hclcolorpicker/www/
+built/colorspace/hclcolorpicker/www/hclcolorpicker.css
+built/colorspace/hclcolorpicker/www/hclcolorpicker_darkmode.css
+built/colorspace/hclcolorpicker/prepareStaticContent.R
+built/colorspace/hclcolorpicker/ui.R
+built/colorspace/hclcolorpicker/html/
+built/colorspace/hclcolorpicker/html/info.html
+built/colorspace/LICENSE
+built/colorspace/CITATION
+built/colorspace/cvdemulator/
+built/colorspace/cvdemulator/server.R
+built/colorspace/cvdemulator/www/
+built/colorspace/cvdemulator/www/images/
+built/colorspace/cvdemulator/www/images/rainbow_tritan.png
+built/colorspace/cvdemulator/www/images/descimage.png
+built/colorspace/cvdemulator/www/images/rainbow_deutan.png
+built/colorspace/cvdemulator/www/images/rainbow_desaturate.png
+built/colorspace/cvdemulator/www/images/rainbow_orig.png
+built/colorspace/cvdemulator/www/images/rainbow_protan.png
+built/colorspace/cvdemulator/www/cvdemulator_darkmode.css
+built/colorspace/cvdemulator/www/cvdemulator.css
+built/colorspace/cvdemulator/prepareStaticContent.R
+built/colorspace/cvdemulator/ui.R
+built/colorspace/cvdemulator/html/
+built/colorspace/cvdemulator/html/appInfo.html
+built/colorspace/cvdemulator/html/info.html
+built/colorspace/html/
+built/colorspace/html/00Index.html
+built/colorspace/html/R.css
+built/colorspace/INDEX
+built/colorspace/doc/
+built/colorspace/doc/hcl-colors.Rnw
+built/colorspace/doc/colorspace.R
+built/colorspace/doc/hcl-colors.pdf
+built/colorspace/doc/index.html
+built/colorspace/doc/colorspace.html
+built/colorspace/doc/hcl-colors.R
+built/colorspace/doc/colorspace.Rmd
+built/colorspace/R/
+built/colorspace/R/colorspace.rdb
+built/colorspace/R/colorspace
+built/colorspace/R/colorspace.rdx
+built/colorspace/demo/
+built/colorspace/demo/scico.R
+built/colorspace/demo/brewer.R
+built/colorspace/demo/viridis.R
+built/colorspace/demo/carto.R
+built/colorspace/NEWS.md
+built/circlize/
+built/circlize/NEWS
+built/circlize/extdata/
+built/circlize/extdata/tp_family_df.rds
+built/circlize/extdata/Rlogo.png
+built/circlize/extdata/cytoband_list.rds
+built/circlize/extdata/chrom_info_list.rds
+built/circlize/extdata/tp_family.RData
+built/circlize/extdata/download_ucsc.R
+built/circlize/extdata/chromInfo.txt
+built/circlize/extdata/DMR.RData
+built/circlize/extdata/doodle.RData
+built/circlize/extdata/download_and_slice_doodle.R
+built/circlize/extdata/cytoBand.txt
+built/circlize/extdata/tagments_WGBS_DMR.RData
+built/circlize/extdata/bird.orders.RData
+built/circlize/NAMESPACE
+built/circlize/DESCRIPTION
+built/circlize/help/
+built/circlize/help/circlize.rdb
+built/circlize/help/paths.rds
+built/circlize/help/aliases.rds
+built/circlize/help/AnIndex
+built/circlize/help/circlize.rdx
+built/circlize/Meta/
+built/circlize/Meta/package.rds
+built/circlize/Meta/vignette.rds
+built/circlize/Meta/demo.rds
+built/circlize/Meta/features.rds
+built/circlize/Meta/hsearch.rds
+built/circlize/Meta/links.rds
+built/circlize/Meta/nsInfo.rds
+built/circlize/Meta/Rd.rds
+built/circlize/LICENSE
+built/circlize/CITATION
+built/circlize/html/
+built/circlize/html/00Index.html
+built/circlize/html/R.css
+built/circlize/INDEX
+built/circlize/doc/
+built/circlize/doc/circlize.Rmd
+built/circlize/doc/index.html
+built/circlize/doc/circlize.html
+built/circlize/R/
+built/circlize/R/circlize.rdb
+built/circlize/R/circlize
+built/circlize/R/circlize.rdx
+built/circlize/demo/
+built/circlize/demo/foo.R
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  3 1849k    3 65280    0     0   151k      0  0:00:12 --:--:--  0:00:12  151k 70 1849k   70 1302k    0     0   915k      0  0:00:02  0:00:01  0:00:01  914k100 1849k  100 1849k    0     0  1105k      0  0:00:01  0:00:01 --:--:-- 1104k
+built/
+built/crayon/
+built/crayon/NAMESPACE
+built/crayon/DESCRIPTION
+built/crayon/help/
+built/crayon/help/paths.rds
+built/crayon/help/crayon.rdb
+built/crayon/help/aliases.rds
+built/crayon/help/crayon.rdx
+built/crayon/help/AnIndex
+built/crayon/Meta/
+built/crayon/Meta/package.rds
+built/crayon/Meta/features.rds
+built/crayon/Meta/hsearch.rds
+built/crayon/Meta/links.rds
+built/crayon/Meta/nsInfo.rds
+built/crayon/Meta/Rd.rds
+built/crayon/LICENSE
+built/crayon/html/
+built/crayon/html/00Index.html
+built/crayon/html/R.css
+built/crayon/INDEX
+built/crayon/R/
+built/crayon/R/crayon.rdb
+built/crayon/R/crayon
+built/crayon/R/crayon.rdx
+built/crayon/NEWS.md
+built/GlobalOptions/
+built/GlobalOptions/NEWS
+built/GlobalOptions/NAMESPACE
+built/GlobalOptions/DESCRIPTION
+built/GlobalOptions/help/
+built/GlobalOptions/help/paths.rds
+built/GlobalOptions/help/GlobalOptions.rdx
+built/GlobalOptions/help/aliases.rds
+built/GlobalOptions/help/GlobalOptions.rdb
+built/GlobalOptions/help/AnIndex
+built/GlobalOptions/Meta/
+built/GlobalOptions/Meta/package.rds
+built/GlobalOptions/Meta/vignette.rds
+built/GlobalOptions/Meta/features.rds
+built/GlobalOptions/Meta/hsearch.rds
+built/GlobalOptions/Meta/links.rds
+built/GlobalOptions/Meta/nsInfo.rds
+built/GlobalOptions/Meta/Rd.rds
+built/GlobalOptions/LICENSE
+built/GlobalOptions/html/
+built/GlobalOptions/html/00Index.html
+built/GlobalOptions/html/R.css
+built/GlobalOptions/INDEX
+built/GlobalOptions/doc/
+built/GlobalOptions/doc/GlobalOptions.Rmd
+built/GlobalOptions/doc/GlobalOptions.html
+built/GlobalOptions/doc/GlobalOptions.R
+built/GlobalOptions/doc/index.html
+built/GlobalOptions/R/
+built/GlobalOptions/R/GlobalOptions.rdx
+built/GlobalOptions/R/GlobalOptions
+built/GlobalOptions/R/GlobalOptions.rdb
+built/GetoptLong/
+built/GetoptLong/NEWS
+built/GetoptLong/extdata/
+built/GetoptLong/extdata/perl_lib/
+built/GetoptLong/extdata/perl_lib/JSON.pm
+built/GetoptLong/extdata/perl_lib/JSON/
+built/GetoptLong/extdata/perl_lib/JSON/XS.pm
+built/GetoptLong/extdata/perl_lib/JSON/XS/
+built/GetoptLong/extdata/perl_lib/JSON/XS/Boolean.pm
+built/GetoptLong/extdata/perl_lib/JSON/backportPP/
+built/GetoptLong/extdata/perl_lib/JSON/backportPP/Compat5005.pm
+built/GetoptLong/extdata/perl_lib/JSON/backportPP/Compat5006.pm
+built/GetoptLong/extdata/perl_lib/JSON/backportPP/Boolean.pm
+built/GetoptLong/extdata/perl_lib/JSON/backportPP.pm
+built/GetoptLong/extdata/perl_lib/JSON/Syck.pm
+built/GetoptLong/NAMESPACE
+built/GetoptLong/DESCRIPTION
+built/GetoptLong/help/
+built/GetoptLong/help/paths.rds
+built/GetoptLong/help/GetoptLong.rdx
+built/GetoptLong/help/aliases.rds
+built/GetoptLong/help/GetoptLong.rdb
+built/GetoptLong/help/AnIndex
+built/GetoptLong/Meta/
+built/GetoptLong/Meta/package.rds
+built/GetoptLong/Meta/vignette.rds
+built/GetoptLong/Meta/features.rds
+built/GetoptLong/Meta/hsearch.rds
+built/GetoptLong/Meta/links.rds
+built/GetoptLong/Meta/nsInfo.rds
+built/GetoptLong/Meta/Rd.rds
+built/GetoptLong/LICENSE
+built/GetoptLong/html/
+built/GetoptLong/html/00Index.html
+built/GetoptLong/html/R.css
+built/GetoptLong/INDEX
+built/GetoptLong/doc/
+built/GetoptLong/doc/GetoptLong.R
+built/GetoptLong/doc/GetoptLong.Rmd
+built/GetoptLong/doc/variable_interpolation.R
+built/GetoptLong/doc/GetoptLong.html
+built/GetoptLong/doc/variable_interpolation.html
+built/GetoptLong/doc/variable_interpolation.Rmd
+built/GetoptLong/doc/index.html
+built/GetoptLong/R/
+built/GetoptLong/R/GetoptLong.rdx
+built/GetoptLong/R/GetoptLong
+built/GetoptLong/R/GetoptLong.rdb
+built/rjson/
+built/rjson/libs/
+built/rjson/libs/rjson.so
+built/rjson/NAMESPACE
+built/rjson/rpc_server/
+built/rjson/rpc_server/start_server
+built/rjson/rpc_server/some_script.r
+built/rjson/rpc_server/server.r
+built/rjson/rpc_server/start_server.bat
+built/rjson/DESCRIPTION
+built/rjson/help/
+built/rjson/help/paths.rds
+built/rjson/help/rjson.rdb
+built/rjson/help/aliases.rds
+built/rjson/help/rjson.rdx
+built/rjson/help/AnIndex
+built/rjson/Meta/
+built/rjson/Meta/package.rds
+built/rjson/Meta/vignette.rds
+built/rjson/Meta/features.rds
+built/rjson/Meta/hsearch.rds
+built/rjson/Meta/links.rds
+built/rjson/Meta/nsInfo.rds
+built/rjson/Meta/Rd.rds
+built/rjson/changelog.txt
+built/rjson/html/
+built/rjson/html/00Index.html
+built/rjson/html/R.css
+built/rjson/INDEX
+built/rjson/doc/
+built/rjson/doc/json_rpc_server.Rnw
+built/rjson/doc/index.html
+built/rjson/doc/json_rpc_server.pdf
+built/rjson/R/
+built/rjson/R/rjson.rdb
+built/rjson/R/rjson.rdx
+built/rjson/R/rjson
+built/rjson/unittests/
+built/rjson/unittests/test.strings.r
+built/rjson/unittests/test.big.r
+built/rjson/unittests/test.list.r
+built/rjson/unittests/test.twitter.r
+built/rjson/unittests/test.largedata.r
+built/rjson/unittests/test.number.r
+built/rjson/unittests/test.array.r
+built/rjson/unittests/test.tojson.r
+built/rjson/unittests/test.factors.r
+built/rjson/unittests/runtests.r
+built/rjson/unittests/test.unicode.r
+built/rjson/unittests/test.crash.r
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 11 1586k   11  175k    0     0   263k      0  0:00:06 --:--:--  0:00:06  263k100 1586k  100 1586k    0     0   961k      0  0:00:01  0:00:01 --:--:--  961k
+built/
+built/clue/
+built/clue/libs/
+built/clue/libs/clue.so
+built/clue/NAMESPACE
+built/clue/DESCRIPTION
+built/clue/help/
+built/clue/help/paths.rds
+built/clue/help/clue.rdx
+built/clue/help/aliases.rds
+built/clue/help/clue.rdb
+built/clue/help/AnIndex
+built/clue/data/
+built/clue/data/GVME_Consensus.rda
+built/clue/data/Cassini.rda
+built/clue/data/Phonemes.rda
+built/clue/data/GVME.rda
+built/clue/data/Kinship82_Consensus.rda
+built/clue/data/Kinship82.rda
+built/clue/data/CKME.rda
+built/clue/Meta/
+built/clue/Meta/package.rds
+built/clue/Meta/vignette.rds
+built/clue/Meta/features.rds
+built/clue/Meta/hsearch.rds
+built/clue/Meta/links.rds
+built/clue/Meta/nsInfo.rds
+built/clue/Meta/Rd.rds
+built/clue/Meta/data.rds
+built/clue/po/
+built/clue/po/en@quot/
+built/clue/po/en@quot/LC_MESSAGES/
+built/clue/po/en@quot/LC_MESSAGES/R-clue.mo
+built/clue/CITATION
+built/clue/html/
+built/clue/html/00Index.html
+built/clue/html/R.css
+built/clue/INDEX
+built/clue/doc/
+built/clue/doc/clue.Rnw
+built/clue/doc/clue.pdf
+built/clue/doc/index.html
+built/clue/doc/clue.R
+built/clue/R/
+built/clue/R/clue.rdx
+built/clue/R/clue
+built/clue/R/clue.rdb
+built/cluster/
+built/cluster/libs/
+built/cluster/libs/cluster.so
+built/cluster/NAMESPACE
+built/cluster/DESCRIPTION
+built/cluster/help/
+built/cluster/help/paths.rds
+built/cluster/help/cluster.rdx
+built/cluster/help/aliases.rds
+built/cluster/help/cluster.rdb
+built/cluster/help/AnIndex
+built/cluster/data/
+built/cluster/data/Rdata.rds
+built/cluster/data/Rdata.rdb
+built/cluster/data/Rdata.rdx
+built/cluster/Meta/
+built/cluster/Meta/package.rds
+built/cluster/Meta/features.rds
+built/cluster/Meta/hsearch.rds
+built/cluster/Meta/links.rds
+built/cluster/Meta/nsInfo.rds
+built/cluster/Meta/Rd.rds
+built/cluster/Meta/data.rds
+built/cluster/NEWS.Rd
+built/cluster/test-tools.R
+built/cluster/po/
+built/cluster/po/lt/
+built/cluster/po/lt/LC_MESSAGES/
+built/cluster/po/lt/LC_MESSAGES/cluster.mo
+built/cluster/po/lt/LC_MESSAGES/R-cluster.mo
+built/cluster/po/it/
+built/cluster/po/it/LC_MESSAGES/
+built/cluster/po/it/LC_MESSAGES/cluster.mo
+built/cluster/po/it/LC_MESSAGES/R-cluster.mo
+built/cluster/po/fr/
+built/cluster/po/fr/LC_MESSAGES/
+built/cluster/po/fr/LC_MESSAGES/cluster.mo
+built/cluster/po/fr/LC_MESSAGES/R-cluster.mo
+built/cluster/po/ko/
+built/cluster/po/ko/LC_MESSAGES/
+built/cluster/po/ko/LC_MESSAGES/cluster.mo
+built/cluster/po/ko/LC_MESSAGES/R-cluster.mo
+built/cluster/po/pl/
+built/cluster/po/pl/LC_MESSAGES/
+built/cluster/po/pl/LC_MESSAGES/R-cluster.mo
+built/cluster/po/en@quot/
+built/cluster/po/en@quot/LC_MESSAGES/
+built/cluster/po/en@quot/LC_MESSAGES/cluster.mo
+built/cluster/po/en@quot/LC_MESSAGES/R-cluster.mo
+built/cluster/po/de/
+built/cluster/po/de/LC_MESSAGES/
+built/cluster/po/de/LC_MESSAGES/cluster.mo
+built/cluster/po/de/LC_MESSAGES/R-cluster.mo
+built/cluster/CITATION
+built/cluster/html/
+built/cluster/html/00Index.html
+built/cluster/html/R.css
+built/cluster/INDEX
+built/cluster/R/
+built/cluster/R/cluster.rdx
+built/cluster/R/cluster.rdb
+built/cluster/R/cluster
+Dependency RColorBrewer is already found.
+Dependency png is already found.
+Dependency digest is already found.
+Dependency IRanges is already found.
+Dependency matrixStats is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 53 1215k   53  653k    0     0   683k      0  0:00:01 --:--:--  0:00:01  682k100 1215k  100 1215k    0     0   949k      0  0:00:01  0:00:01 --:--:--  950k
+built/
+built/built/
+built/built/foreach/
+built/built/foreach/examples/
+built/built/foreach/examples/sqlite.R
+built/built/foreach/examples/apply.R
+built/built/foreach/examples/bootpar.R
+built/built/foreach/examples/rf.R
+built/built/foreach/examples/bigmean2.R
+built/built/foreach/examples/bootseq.R
+built/built/foreach/examples/sinc2.R
+built/built/foreach/examples/cross.R
+built/built/foreach/examples/bootpar2.R
+built/built/foreach/examples/comprehensions.R
+built/built/foreach/examples/output.R
+built/built/foreach/examples/sinc.R
+built/built/foreach/examples/colMeans.R
+built/built/foreach/examples/qsort.R
+built/built/foreach/examples/matmul.R
+built/built/foreach/examples/bigmax.R
+built/built/foreach/examples/bigmean.R
+built/built/foreach/examples/isplit.R
+built/built/foreach/examples/feapply.R
+built/built/foreach/examples/tuneRF.R
+built/built/foreach/examples/for.R
+built/built/foreach/examples/pi.R
+built/built/foreach/examples/matmul2.R
+built/built/foreach/examples/germandata.txt
+built/built/foreach/NAMESPACE
+built/built/foreach/DESCRIPTION
+built/built/foreach/help/
+built/built/foreach/help/paths.rds
+built/built/foreach/help/aliases.rds
+built/built/foreach/help/foreach.rdx
+built/built/foreach/help/AnIndex
+built/built/foreach/help/foreach.rdb
+built/built/foreach/Meta/
+built/built/foreach/Meta/package.rds
+built/built/foreach/Meta/vignette.rds
+built/built/foreach/Meta/demo.rds
+built/built/foreach/Meta/features.rds
+built/built/foreach/Meta/hsearch.rds
+built/built/foreach/Meta/links.rds
+built/built/foreach/Meta/nsInfo.rds
+built/built/foreach/Meta/Rd.rds
+built/built/foreach/html/
+built/built/foreach/html/00Index.html
+built/built/foreach/html/R.css
+built/built/foreach/INDEX
+built/built/foreach/doc/
+built/built/foreach/doc/nested.Rmd
+built/built/foreach/doc/foreach.Rmd
+built/built/foreach/doc/foreach.R
+built/built/foreach/doc/nested.html
+built/built/foreach/doc/foreach.html
+built/built/foreach/doc/index.html
+built/built/foreach/doc/nested.R
+built/built/foreach/R/
+built/built/foreach/R/foreach
+built/built/foreach/R/foreach.rdx
+built/built/foreach/R/foreach.rdb
+built/built/foreach/demo/
+built/built/foreach/demo/sincSEQ.R
+built/built/foreach/NEWS.md
+built/built/codetools/
+built/built/codetools/NAMESPACE
+built/built/codetools/DESCRIPTION
+built/built/codetools/help/
+built/built/codetools/help/paths.rds
+built/built/codetools/help/codetools.rdb
+built/built/codetools/help/aliases.rds
+built/built/codetools/help/codetools.rdx
+built/built/codetools/help/AnIndex
+built/built/codetools/Meta/
+built/built/codetools/Meta/package.rds
+built/built/codetools/Meta/features.rds
+built/built/codetools/Meta/hsearch.rds
+built/built/codetools/Meta/links.rds
+built/built/codetools/Meta/nsInfo.rds
+built/built/codetools/Meta/Rd.rds
+built/built/codetools/html/
+built/built/codetools/html/00Index.html
+built/built/codetools/html/R.css
+built/built/codetools/INDEX
+built/built/codetools/R/
+built/built/codetools/R/codetools.rdb
+built/built/codetools/R/codetools.rdx
+built/built/codetools/R/codetools
+built/built/iterators/
+built/built/iterators/examples/
+built/built/iterators/examples/irecycle.R
+built/built/iterators/examples/ivector2.R
+built/built/iterators/examples/ihasNext.R
+built/built/iterators/examples/itimer.R
+built/built/iterators/examples/irep.R
+built/built/iterators/examples/ilimit.R
+built/built/iterators/examples/iseq.R
+built/built/iterators/examples/ifilter.R
+built/built/iterators/examples/ivector.R
+built/built/iterators/examples/iforever.R
+built/built/iterators/examples/ipermn.R
+built/built/iterators/NAMESPACE
+built/built/iterators/DESCRIPTION
+built/built/iterators/help/
+built/built/iterators/help/iterators.rdx
+built/built/iterators/help/paths.rds
+built/built/iterators/help/aliases.rds
+built/built/iterators/help/iterators.rdb
+built/built/iterators/help/AnIndex
+built/built/iterators/Meta/
+built/built/iterators/Meta/package.rds
+built/built/iterators/Meta/vignette.rds
+built/built/iterators/Meta/features.rds
+built/built/iterators/Meta/hsearch.rds
+built/built/iterators/Meta/links.rds
+built/built/iterators/Meta/nsInfo.rds
+built/built/iterators/Meta/Rd.rds
+built/built/iterators/unitTests/
+built/built/iterators/unitTests/runTestSuite.sh
+built/built/iterators/unitTests/recycleTest.R
+built/built/iterators/unitTests/iapplyTest.R
+built/built/iterators/unitTests/chunksizeTest.R
+built/built/iterators/unitTests/isplitTest.R
+built/built/iterators/unitTests/icountnTest.R
+built/built/iterators/unitTests/basicTest.R
+built/built/iterators/html/
+built/built/iterators/html/00Index.html
+built/built/iterators/html/R.css
+built/built/iterators/INDEX
+built/built/iterators/doc/
+built/built/iterators/doc/writing.R
+built/built/iterators/doc/iterators.pdf
+built/built/iterators/doc/writing.pdf
+built/built/iterators/doc/iterators.R
+built/built/iterators/doc/index.html
+built/built/iterators/doc/iterators.Rnw
+built/built/iterators/doc/writing.Rnw
+built/built/iterators/R/
+built/built/iterators/R/iterators.rdx
+built/built/iterators/R/iterators.rdb
+built/built/iterators/R/iterators
+built/built/iterators/NEWS.md
+built/foreach/
+built/foreach/examples/
+built/foreach/examples/sqlite.R
+built/foreach/examples/apply.R
+built/foreach/examples/bootpar.R
+built/foreach/examples/rf.R
+built/foreach/examples/bigmean2.R
+built/foreach/examples/bootseq.R
+built/foreach/examples/sinc2.R
+built/foreach/examples/cross.R
+built/foreach/examples/bootpar2.R
+built/foreach/examples/comprehensions.R
+built/foreach/examples/output.R
+built/foreach/examples/sinc.R
+built/foreach/examples/colMeans.R
+built/foreach/examples/qsort.R
+built/foreach/examples/matmul.R
+built/foreach/examples/bigmax.R
+built/foreach/examples/bigmean.R
+built/foreach/examples/isplit.R
+built/foreach/examples/feapply.R
+built/foreach/examples/tuneRF.R
+built/foreach/examples/for.R
+built/foreach/examples/pi.R
+built/foreach/examples/matmul2.R
+built/foreach/examples/germandata.txt
+built/foreach/NAMESPACE
+built/foreach/DESCRIPTION
+built/foreach/help/
+built/foreach/help/paths.rds
+built/foreach/help/aliases.rds
+built/foreach/help/foreach.rdx
+built/foreach/help/AnIndex
+built/foreach/help/foreach.rdb
+built/foreach/Meta/
+built/foreach/Meta/package.rds
+built/foreach/Meta/vignette.rds
+built/foreach/Meta/demo.rds
+built/foreach/Meta/features.rds
+built/foreach/Meta/hsearch.rds
+built/foreach/Meta/links.rds
+built/foreach/Meta/nsInfo.rds
+built/foreach/Meta/Rd.rds
+built/foreach/html/
+built/foreach/html/00Index.html
+built/foreach/html/R.css
+built/foreach/INDEX
+built/foreach/doc/
+built/foreach/doc/nested.Rmd
+built/foreach/doc/foreach.Rmd
+built/foreach/doc/foreach.R
+built/foreach/doc/nested.html
+built/foreach/doc/foreach.html
+built/foreach/doc/index.html
+built/foreach/doc/nested.R
+built/foreach/R/
+built/foreach/R/foreach
+built/foreach/R/foreach.rdx
+built/foreach/R/foreach.rdb
+built/foreach/demo/
+built/foreach/demo/sincSEQ.R
+built/foreach/NEWS.md
+built/iterators/
+built/iterators/examples/
+built/iterators/examples/irecycle.R
+built/iterators/examples/ivector2.R
+built/iterators/examples/ihasNext.R
+built/iterators/examples/itimer.R
+built/iterators/examples/irep.R
+built/iterators/examples/ilimit.R
+built/iterators/examples/iseq.R
+built/iterators/examples/ifilter.R
+built/iterators/examples/ivector.R
+built/iterators/examples/iforever.R
+built/iterators/examples/ipermn.R
+built/iterators/NAMESPACE
+built/iterators/DESCRIPTION
+built/iterators/help/
+built/iterators/help/iterators.rdx
+built/iterators/help/paths.rds
+built/iterators/help/aliases.rds
+built/iterators/help/iterators.rdb
+built/iterators/help/AnIndex
+built/iterators/Meta/
+built/iterators/Meta/package.rds
+built/iterators/Meta/vignette.rds
+built/iterators/Meta/features.rds
+built/iterators/Meta/hsearch.rds
+built/iterators/Meta/links.rds
+built/iterators/Meta/nsInfo.rds
+built/iterators/Meta/Rd.rds
+built/iterators/unitTests/
+built/iterators/unitTests/runTestSuite.sh
+built/iterators/unitTests/recycleTest.R
+built/iterators/unitTests/iapplyTest.R
+built/iterators/unitTests/chunksizeTest.R
+built/iterators/unitTests/isplitTest.R
+built/iterators/unitTests/icountnTest.R
+built/iterators/unitTests/basicTest.R
+built/iterators/html/
+built/iterators/html/00Index.html
+built/iterators/html/R.css
+built/iterators/INDEX
+built/iterators/doc/
+built/iterators/doc/writing.R
+built/iterators/doc/iterators.pdf
+built/iterators/doc/writing.pdf
+built/iterators/doc/iterators.R
+built/iterators/doc/index.html
+built/iterators/doc/iterators.Rnw
+built/iterators/doc/writing.Rnw
+built/iterators/R/
+built/iterators/R/iterators.rdx
+built/iterators/R/iterators.rdb
+built/iterators/R/iterators
+built/iterators/NEWS.md
+built/doParallel/
+built/doParallel/examples/
+built/doParallel/examples/bootParallel.R
+built/doParallel/NEWS
+built/doParallel/NAMESPACE
+built/doParallel/DESCRIPTION
+built/doParallel/help/
+built/doParallel/help/paths.rds
+built/doParallel/help/aliases.rds
+built/doParallel/help/doParallel.rdx
+built/doParallel/help/doParallel.rdb
+built/doParallel/help/AnIndex
+built/doParallel/Meta/
+built/doParallel/Meta/package.rds
+built/doParallel/Meta/vignette.rds
+built/doParallel/Meta/demo.rds
+built/doParallel/Meta/features.rds
+built/doParallel/Meta/hsearch.rds
+built/doParallel/Meta/links.rds
+built/doParallel/Meta/nsInfo.rds
+built/doParallel/Meta/Rd.rds
+built/doParallel/unitTests/
+built/doParallel/unitTests/runTestSuite.sh
+built/doParallel/unitTests/options.R
+built/doParallel/html/
+built/doParallel/html/00Index.html
+built/doParallel/html/R.css
+built/doParallel/INDEX
+built/doParallel/doc/
+built/doParallel/doc/gettingstartedParallel.pdf
+built/doParallel/doc/gettingstartedParallel.R
+built/doParallel/doc/gettingstartedParallel.Rnw
+built/doParallel/doc/index.html
+built/doParallel/R/
+built/doParallel/R/doParallel.rdx
+built/doParallel/R/doParallel.rdb
+built/doParallel/R/doParallel
+built/doParallel/demo/
+built/doParallel/demo/sincParallel.R
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''ComplexHeatmap'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv circlize_0.4.15_R_x86_64-pc-linux-gnu.tar.gz clue_0.3-63_R_x86_64-pc-linux-gnu.tar.gz colorspace_2.0-3_R_x86_64-pc-linux-gnu.tar.gz ComplexHeatmap_2.14.0_R_x86_64-pc-linux-gnu.tar.gz doParallel_1.0.17_R_x86_64-pc-linux-gnu.tar.gz foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz GetoptLong_1.0.5_R_x86_64-pc-linux-gnu.tar.gz GlobalOptions_0.1.2_R_x86_64-pc-linux-gnu.tar.gz iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz rjson_0.2.21_R_x86_64-pc-linux-gnu.tar.gz shape_1.4.6_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/ComplexHeatmap
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'ComplexHeatmap'
+also installing the dependencies ‘shape’, ‘rjson’, ‘iterators’, ‘circlize’, ‘GetoptLong’, ‘colorspace’, ‘clue’, ‘GlobalOptions’, ‘foreach’, ‘doParallel’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/shape_1.4.6.tar.gz'
+Content type 'binary/octet-stream' length 783376 bytes (765 KB)
+==================================================
+downloaded 765 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/rjson_0.2.21.tar.gz'
+Content type 'binary/octet-stream' length 217890 bytes (212 KB)
+==================================================
+downloaded 212 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/iterators_1.0.14.tar.gz'
+Content type 'binary/octet-stream' length 345456 bytes (337 KB)
+==================================================
+downloaded 337 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/circlize_0.4.15.tar.gz'
+Content type 'binary/octet-stream' length 3301355 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/GetoptLong_1.0.5.tar.gz'
+Content type 'binary/octet-stream' length 1064905 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/colorspace_2.0-3.tar.gz'
+Content type 'binary/octet-stream' length 2629793 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/clue_0.3-63.tar.gz'
+Content type 'binary/octet-stream' length 989547 bytes (966 KB)
+==================================================
+downloaded 966 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/GlobalOptions_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 461511 bytes (450 KB)
+==================================================
+downloaded 450 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/foreach_1.5.2.tar.gz'
+Content type 'binary/octet-stream' length 137791 bytes (134 KB)
+==================================================
+downloaded 134 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/doParallel_1.0.17.tar.gz'
+Content type 'binary/octet-stream' length 187670 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/ComplexHeatmap_2.14.0.tar.gz'
+Content type 'application/x-gzip' length 1458689 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+* installing *binary* package ‘shape’ ...
+* ‘shape’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shape’ as ‘shape_1.4.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shape)
+* installing *binary* package ‘rjson’ ...
+* ‘rjson’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rjson’ as ‘rjson_0.2.21_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rjson)
+* installing *binary* package ‘iterators’ ...
+* ‘iterators’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘iterators’ as ‘iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterators)
+* installing *binary* package ‘colorspace’ ...
+* ‘colorspace’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘colorspace’ as ‘colorspace_2.0-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (colorspace)
+* installing *binary* package ‘clue’ ...
+* ‘clue’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clue’ as ‘clue_0.3-63_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clue)
+* installing *binary* package ‘GlobalOptions’ ...
+* ‘GlobalOptions’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘GlobalOptions’ as ‘GlobalOptions_0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GlobalOptions)
+* installing *binary* package ‘circlize’ ...
+* ‘circlize’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘circlize’ as ‘circlize_0.4.15_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (circlize)
+* installing *binary* package ‘GetoptLong’ ...
+* ‘GetoptLong’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘GetoptLong’ as ‘GetoptLong_1.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GetoptLong)
+* installing *binary* package ‘foreach’ ...
+* ‘foreach’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘foreach’ as ‘foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (foreach)
+* installing *binary* package ‘doParallel’ ...
+* ‘doParallel’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘doParallel’ as ‘doParallel_1.0.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doParallel)
+* installing *source* package ‘ComplexHeatmap’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ComplexHeatmap’ as ‘ComplexHeatmap_2.14.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ComplexHeatmap)
+
+The downloaded source packages are in
+	‘/tmp/RtmpGAX1S8/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m44.801s
+user	0m31.465s
+sys	0m2.806s
