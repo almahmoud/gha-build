@@ -1,0 +1,336 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   ee81f153..5153bfd8  main       -> origin/main
+Updating ee81f153..5153bfd8
+Fast-forward
+ lists/assertive.code                               |   2 +-
+ logs/run_ids/rstudio-binaries/COHCAP               |   2 +
+ logs/run_ids/rstudio-binaries/basilisk             |   2 +
+ logs/run_ids/rstudio-binaries/biobtreeR            |   2 +
+ .../sizes/rstudio-binaries/binaries/assertive.code |   1 +
+ .../rstudio-binaries/libraries/assertive.code      |   1 +
+ logs/times/rstudio-binary/assertive.code           | 320 +++++++++++++++++++++
+ packages.json                                      |   4 -
+ 8 files changed, 329 insertions(+), 5 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/COHCAP
+ create mode 100644 logs/run_ids/rstudio-binaries/basilisk
+ create mode 100644 logs/run_ids/rstudio-binaries/biobtreeR
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/assertive.code
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/assertive.code
+ create mode 100644 logs/times/rstudio-binary/assertive.code
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=BiocParallel
++ PKG=BiocParallel
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "BiocParallel"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 95  617k   95  589k    0     0   510k      0  0:00:01  0:00:01 --:--:--  510k100  617k  100  617k    0     0   535k      0  0:00:01  0:00:01 --:--:--  534k
+built/
+built/futile.options/
+built/futile.options/NAMESPACE
+built/futile.options/DESCRIPTION
+built/futile.options/help/
+built/futile.options/help/paths.rds
+built/futile.options/help/futile.options.rdx
+built/futile.options/help/aliases.rds
+built/futile.options/help/futile.options.rdb
+built/futile.options/help/AnIndex
+built/futile.options/Meta/
+built/futile.options/Meta/package.rds
+built/futile.options/Meta/features.rds
+built/futile.options/Meta/hsearch.rds
+built/futile.options/Meta/links.rds
+built/futile.options/Meta/nsInfo.rds
+built/futile.options/Meta/Rd.rds
+built/futile.options/html/
+built/futile.options/html/00Index.html
+built/futile.options/html/R.css
+built/futile.options/INDEX
+built/futile.options/R/
+built/futile.options/R/futile.options
+built/futile.options/R/futile.options.rdx
+built/futile.options/R/futile.options.rdb
+built/built/
+built/built/formatR/
+built/built/formatR/NAMESPACE
+built/built/formatR/DESCRIPTION
+built/built/formatR/help/
+built/built/formatR/help/paths.rds
+built/built/formatR/help/formatR.rdb
+built/built/formatR/help/aliases.rds
+built/built/formatR/help/formatR.rdx
+built/built/formatR/help/AnIndex
+built/built/formatR/shiny/
+built/built/formatR/shiny/server.R
+built/built/formatR/shiny/DESCRIPTION
+built/built/formatR/shiny/www/
+built/built/formatR/shiny/www/shiny-handler.js
+built/built/formatR/shiny/ui.R
+built/built/formatR/shiny/Readme.md
+built/built/formatR/Meta/
+built/built/formatR/Meta/package.rds
+built/built/formatR/Meta/vignette.rds
+built/built/formatR/Meta/features.rds
+built/built/formatR/Meta/hsearch.rds
+built/built/formatR/Meta/links.rds
+built/built/formatR/Meta/nsInfo.rds
+built/built/formatR/Meta/Rd.rds
+built/built/formatR/format/
+built/built/formatR/format/messy.R
+built/built/formatR/NEWS.Rd
+built/built/formatR/html/
+built/built/formatR/html/00Index.html
+built/built/formatR/html/R.css
+built/built/formatR/INDEX
+built/built/formatR/doc/
+built/built/formatR/doc/formatR.Rmd
+built/built/formatR/doc/formatR.html
+built/built/formatR/doc/index.html
+built/built/formatR/doc/formatR.R
+built/built/formatR/R/
+built/built/formatR/R/formatR.rdb
+built/built/formatR/R/formatR
+built/built/formatR/R/formatR.rdx
+built/built/lambda.r/
+built/built/lambda.r/NAMESPACE
+built/built/lambda.r/DESCRIPTION
+built/built/lambda.r/help/
+built/built/lambda.r/help/paths.rds
+built/built/lambda.r/help/lambda.r.rdx
+built/built/lambda.r/help/aliases.rds
+built/built/lambda.r/help/AnIndex
+built/built/lambda.r/help/lambda.r.rdb
+built/built/lambda.r/Meta/
+built/built/lambda.r/Meta/package.rds
+built/built/lambda.r/Meta/features.rds
+built/built/lambda.r/Meta/hsearch.rds
+built/built/lambda.r/Meta/links.rds
+built/built/lambda.r/Meta/nsInfo.rds
+built/built/lambda.r/Meta/Rd.rds
+built/built/lambda.r/html/
+built/built/lambda.r/html/00Index.html
+built/built/lambda.r/html/R.css
+built/built/lambda.r/INDEX
+built/built/lambda.r/R/
+built/built/lambda.r/R/lambda.r.rdx
+built/built/lambda.r/R/lambda.r
+built/built/lambda.r/R/lambda.r.rdb
+built/futile.logger/
+built/futile.logger/NAMESPACE
+built/futile.logger/DESCRIPTION
+built/futile.logger/help/
+built/futile.logger/help/paths.rds
+built/futile.logger/help/futile.logger.rdx
+built/futile.logger/help/futile.logger.rdb
+built/futile.logger/help/aliases.rds
+built/futile.logger/help/AnIndex
+built/futile.logger/Meta/
+built/futile.logger/Meta/package.rds
+built/futile.logger/Meta/features.rds
+built/futile.logger/Meta/hsearch.rds
+built/futile.logger/Meta/links.rds
+built/futile.logger/Meta/nsInfo.rds
+built/futile.logger/Meta/Rd.rds
+built/futile.logger/html/
+built/futile.logger/html/00Index.html
+built/futile.logger/html/R.css
+built/futile.logger/INDEX
+built/futile.logger/R/
+built/futile.logger/R/futile.logger.rdx
+built/futile.logger/R/futile.logger.rdb
+built/futile.logger/R/futile.logger
+built/formatR/
+built/formatR/NAMESPACE
+built/formatR/DESCRIPTION
+built/formatR/help/
+built/formatR/help/paths.rds
+built/formatR/help/formatR.rdb
+built/formatR/help/aliases.rds
+built/formatR/help/formatR.rdx
+built/formatR/help/AnIndex
+built/formatR/shiny/
+built/formatR/shiny/server.R
+built/formatR/shiny/DESCRIPTION
+built/formatR/shiny/www/
+built/formatR/shiny/www/shiny-handler.js
+built/formatR/shiny/ui.R
+built/formatR/shiny/Readme.md
+built/formatR/Meta/
+built/formatR/Meta/package.rds
+built/formatR/Meta/vignette.rds
+built/formatR/Meta/features.rds
+built/formatR/Meta/hsearch.rds
+built/formatR/Meta/links.rds
+built/formatR/Meta/nsInfo.rds
+built/formatR/Meta/Rd.rds
+built/formatR/format/
+built/formatR/format/messy.R
+built/formatR/NEWS.Rd
+built/formatR/html/
+built/formatR/html/00Index.html
+built/formatR/html/R.css
+built/formatR/INDEX
+built/formatR/doc/
+built/formatR/doc/formatR.Rmd
+built/formatR/doc/formatR.html
+built/formatR/doc/index.html
+built/formatR/doc/formatR.R
+built/formatR/R/
+built/formatR/R/formatR.rdb
+built/formatR/R/formatR
+built/formatR/R/formatR.rdx
+built/lambda.r/
+built/lambda.r/NAMESPACE
+built/lambda.r/DESCRIPTION
+built/lambda.r/help/
+built/lambda.r/help/paths.rds
+built/lambda.r/help/lambda.r.rdx
+built/lambda.r/help/aliases.rds
+built/lambda.r/help/AnIndex
+built/lambda.r/help/lambda.r.rdb
+built/lambda.r/Meta/
+built/lambda.r/Meta/package.rds
+built/lambda.r/Meta/features.rds
+built/lambda.r/Meta/hsearch.rds
+built/lambda.r/Meta/links.rds
+built/lambda.r/Meta/nsInfo.rds
+built/lambda.r/Meta/Rd.rds
+built/lambda.r/html/
+built/lambda.r/html/00Index.html
+built/lambda.r/html/R.css
+built/lambda.r/INDEX
+built/lambda.r/R/
+built/lambda.r/R/lambda.r.rdx
+built/lambda.r/R/lambda.r
+built/lambda.r/R/lambda.r.rdb
+Dependency snow is already found.
+Dependency codetools is already found.
+Dependency BH is already found.
+Dependency cpp11 is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''BiocParallel'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv BiocParallel_1.32.4_R_x86_64-pc-linux-gnu.tar.gz formatR_1.12_R_x86_64-pc-linux-gnu.tar.gz futile.logger_1.4.3_R_x86_64-pc-linux-gnu.tar.gz futile.options_1.0.1_R_x86_64-pc-linux-gnu.tar.gz lambda.r_1.2.4_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/BiocParallel
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'BiocParallel'
+also installing the dependencies ‘formatR’, ‘lambda.r’, ‘futile.options’, ‘futile.logger’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/formatR_1.12.tar.gz'
+Content type 'binary/octet-stream' length 149642 bytes (146 KB)
+==================================================
+downloaded 146 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/lambda.r_1.2.4.tar.gz'
+Content type 'binary/octet-stream' length 109336 bytes (106 KB)
+==================================================
+downloaded 106 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/futile.options_1.0.1.tar.gz'
+Content type 'binary/octet-stream' length 18090 bytes (17 KB)
+==================================================
+downloaded 17 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/futile.logger_1.4.3.tar.gz'
+Content type 'binary/octet-stream' length 99462 bytes (97 KB)
+==================================================
+downloaded 97 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BiocParallel_1.32.4.tar.gz'
+Content type 'application/x-gzip' length 976785 bytes (953 KB)
+==================================================
+downloaded 953 KB
+
+* installing *binary* package ‘formatR’ ...
+* ‘formatR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘formatR’ as ‘formatR_1.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (formatR)
+* installing *binary* package ‘futile.options’ ...
+* ‘futile.options’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘futile.options’ as ‘futile.options_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (futile.options)
+* installing *binary* package ‘lambda.r’ ...
+* ‘lambda.r’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lambda.r’ as ‘lambda.r_1.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lambda.r)
+* installing *binary* package ‘futile.logger’ ...
+* ‘futile.logger’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘futile.logger’ as ‘futile.logger_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (futile.logger)
+* installing *source* package ‘BiocParallel’ ...
+** using staged installation
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C++... yes
+checking whether g++ -std=gnu++14 accepts -g... yes
+checking for g++ -std=gnu++14 option to enable C++11 features... none needed
+checking for library containing shm_open... none required
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for sys/mman.h... yes
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cpp11/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c cpp11.cpp -o cpp11.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/cpp11/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ipcmutex.cpp -o ipcmutex.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BiocParallel.so cpp11.o ipcmutex.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-BiocParallel/00new/BiocParallel/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocParallel’ as ‘BiocParallel_1.32.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocParallel)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp5FTiE1/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m24.340s
+user	0m18.187s
+sys	0m1.970s
