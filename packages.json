@@ -76,8 +76,7 @@
         "SIFT.Hsapiens.dbSNP137",
         "SNPlocs.Hsapiens.dbSNP144.GRCh37",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "VariantAnnotation",
-        "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37"
+        "VariantAnnotation"
     ],
     "ArrayExpressHTS": [],
     "arrayMvout": [
@@ -2862,7 +2861,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [],
-    "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
     "MafDb.ExAC.r1.0.hs37d5": [],
     "MafDb.gnomADex.r2.1.hs37d5": [],
