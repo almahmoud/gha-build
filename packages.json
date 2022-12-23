@@ -468,7 +468,6 @@
     "BiocSklearn": [
         "basilisk"
     ],
-    "biodbNci": [],
     "biomformat": [
         "rhdf5"
     ],
