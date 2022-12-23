@@ -46153,7 +46153,6 @@
     ],
     "PanViz": [
         "dplyr",
-        "easycsv",
         "ellipsis",
         "futile.logger",
         "httr",
@@ -79966,7 +79965,6 @@
     "phylogram": [
         "ape"
     ],
-    "easycsv": [],
     "tfprobability": [
         "config",
         "here",
