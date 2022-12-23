@@ -72645,7 +72645,6 @@
         "Biobase",
         "BiocGenerics",
         "MASS",
-        "admisc",
         "venn"
     ],
     "maskBAD": [
@@ -168692,10 +168691,7 @@
     ],
     "parmigene": [],
     "LungCancerACvsSCCGEO": [],
-    "venn": [
-        "admisc"
-    ],
-    "admisc": [],
+    "venn": [],
     "PairedData": [
         "MASS",
         "Matrix",
