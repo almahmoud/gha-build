@@ -349,7 +349,6 @@
         "ReorderCluster",
         "Rsamtools",
         "SummarizedExperiment",
-        "bamsignals",
         "cowplot",
         "ggdendro",
         "ggrepel"
@@ -941,7 +940,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "bamsignals": [],
     "BANDITS": [
         "DRIMSeq"
     ],
@@ -2878,8 +2876,7 @@
     "chromstaR": [
         "GenomicAlignments",
         "Rsamtools",
-        "SummarizedExperiment",
-        "bamsignals"
+        "SummarizedExperiment"
     ],
     "chromswitch": [
         "GenomicAlignments",
@@ -3191,7 +3188,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "cn.mops",
@@ -3221,7 +3217,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "cn.mops",
@@ -3665,7 +3660,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "cn.mops",
@@ -5034,8 +5028,7 @@
     "DNAfusion": [
         "GenomicAlignments",
         "Rsamtools",
-        "SummarizedExperiment",
-        "bamsignals"
+        "SummarizedExperiment"
     ],
     "DNAshapeR": [
         "fields",
@@ -5683,7 +5676,6 @@
         "GreyListChIP",
         "Rsamtools",
         "SummarizedExperiment",
-        "bamsignals",
         "broom",
         "car",
         "cowplot",
@@ -8976,7 +8968,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "dbplyr",
@@ -11649,7 +11640,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "assertive",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "dbplyr",
@@ -12315,7 +12305,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "bamsignals",
         "qvalue",
         "rtracklayer"
     ],
@@ -15075,7 +15064,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "bamsignals",
         "biomaRt",
         "biovizBase",
         "dbplyr",
@@ -16452,7 +16440,6 @@
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "aplot",
-        "bamsignals",
         "biomaRt",
         "cowplot",
         "dbplyr",
