@@ -2858,7 +2858,6 @@
         "pbkrtest",
         "recipes",
         "rstatix",
-        "shinyFeedback",
         "testthat",
         "viridis"
     ],
@@ -5954,7 +5953,6 @@
         "pbkrtest",
         "plotly",
         "rstatix",
-        "shinyFeedback",
         "testthat",
         "viridis",
         "visNetwork",
@@ -10645,8 +10643,7 @@
         "phyloseq"
     ],
     "rprimer": [
-        "DT",
-        "shinyFeedback"
+        "DT"
     ],
     "rpx": [
         "BiocFileCache"
@@ -14136,7 +14133,6 @@
     "fields": [
         "viridis"
     ],
-    "shinyFeedback": [],
     "mbest": [
         "lme4",
         "nloptr",
