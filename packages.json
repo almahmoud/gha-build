@@ -791,7 +791,6 @@
         "BiocParallel",
         "BiocSingular",
         "Biostrings",
-        "CVXR",
         "DECIPHER",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -2839,7 +2838,6 @@
         "BiocParallel",
         "BiocSingular",
         "Biostrings",
-        "CVXR",
         "DECIPHER",
         "DESeq2",
         "DelayedArray",
@@ -25743,7 +25741,6 @@
         "BiocParallel",
         "BiocSingular",
         "Biostrings",
-        "CVXR",
         "ComplexHeatmap",
         "DECIPHER",
         "DESeq2",
@@ -48865,7 +48862,6 @@
         "pillar",
         "tibble"
     ],
-    "CVXR": [],
     "DescTools": [
         "cellranger",
         "gld",
