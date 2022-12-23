@@ -186,7 +186,6 @@
     "BaalChIP": [],
     "BadRegionFinder": [],
     "ballgown": [],
-    "bambu": [],
     "bandle": [
         "MSnbase",
         "affy",
@@ -1283,7 +1282,6 @@
         "DropletUtils",
         "HDF5Array",
         "Hmisc",
-        "bambu",
         "basilisk",
         "biovizBase",
         "ggbio",
