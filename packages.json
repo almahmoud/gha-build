@@ -2388,7 +2388,6 @@
         "batchelor",
         "colourpicker",
         "ggbeeswarm",
-        "ggfittext",
         "gggenes",
         "ggrastr",
         "ggrepel",
@@ -12658,7 +12657,6 @@
         "TFBSTools",
         "annotate",
         "biomaRt",
-        "ggfittext",
         "ggrepel",
         "htmlwidgets",
         "motifStack",
@@ -17272,10 +17270,7 @@
     ],
     "shinydashboardPlus": [],
     "kableExtra": [],
-    "gggenes": [
-        "ggfittext"
-    ],
-    "ggfittext": [],
+    "gggenes": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
