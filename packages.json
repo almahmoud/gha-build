@@ -2079,8 +2079,7 @@
     ],
     "GENESIS": [
         "GWASTools",
-        "SeqVarTools",
-        "logistf"
+        "SeqVarTools"
     ],
     "GeneStructureTools": [
         "BSgenome",
@@ -2361,15 +2360,12 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "GWASTools": [
-        "logistf"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
         "BSgenome",
         "GWASTools",
         "GenomicFeatures",
-        "VariantAnnotation",
-        "logistf"
+        "VariantAnnotation"
     ],
     "GWENA": [
         "WGCNA"
@@ -2861,8 +2857,7 @@
         "WGCNA"
     ],
     "mBPCR": [
-        "GWASTools",
-        "logistf"
+        "GWASTools"
     ],
     "MCbiclust": [
         "WGCNA"
@@ -3923,7 +3918,6 @@
     "PhenStat": [
         "car",
         "lme4",
-        "logistf",
         "nloptr",
         "pbkrtest"
     ],
@@ -4506,8 +4500,7 @@
     ],
     "rnaEditr": [
         "GenomicFeatures",
-        "bumphunter",
-        "logistf"
+        "bumphunter"
     ],
     "RNAinteract": [
         "Category",
@@ -4863,9 +4856,7 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "SeqVarTools": [
-        "logistf"
-    ],
+    "SeqVarTools": [],
     "sesame": [
         "AnnotationHub",
         "ExperimentHub",
@@ -5622,8 +5613,7 @@
         "GenomicFeatures"
     ],
     "VariantExperiment": [
-        "SeqVarTools",
-        "logistf"
+        "SeqVarTools"
     ],
     "VariantFiltering": [
         "AnnotationHub",
@@ -6083,7 +6073,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "logistf": [],
     "shinyHeatmaply": [
         "heatmaply"
     ],
