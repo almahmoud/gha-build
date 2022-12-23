@@ -1947,7 +1947,6 @@
     "LymphoSeq": [
         "ggtree"
     ],
-    "M3Drop": [],
     "m6Aboost": [
         "ExperimentHub",
         "adabag"
@@ -3318,9 +3317,7 @@
     ],
     "schex": [],
     "scMAGeCK": [],
-    "scMerge": [
-        "M3Drop"
-    ],
+    "scMerge": [],
     "scmeth": [
         "GenomicFeatures",
         "annotatr",
@@ -3480,7 +3477,6 @@
         "ExperimentHub",
         "GSVAdata",
         "GenomicFeatures",
-        "M3Drop",
         "SoupX",
         "TENxPBMCData",
         "TSCAN",
