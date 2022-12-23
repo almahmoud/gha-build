@@ -1649,7 +1649,6 @@
         "viridis"
     ],
     "GeoDiff": [
-        "GeomxTools",
         "robust"
     ],
     "GEOexplorer": [
@@ -1663,7 +1662,6 @@
         "shinyHeatmaply",
         "viridis"
     ],
-    "GeomxTools": [],
     "GEOsubmission": [
         "affy"
     ],
@@ -3980,9 +3978,7 @@
         "basilisk",
         "rhdf5"
     ],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "SpatialExperiment": [
         "DropletUtils",
         "HDF5Array",
