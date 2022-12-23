@@ -4122,7 +4122,6 @@
         "blob",
         "bslib",
         "epiNEM",
-        "flexclust",
         "futile.logger",
         "genefilter",
         "ggdendro",
@@ -10166,7 +10165,6 @@
         "dplyr",
         "dtplyr",
         "epiNEM",
-        "flexclust",
         "forcats",
         "gargle",
         "ggdendro",
@@ -13407,7 +13405,6 @@
     ],
     "epiNEM": [
         "Linnorm",
-        "flexclust",
         "ggdendro",
         "ggplot2",
         "latex2exp",
@@ -19107,7 +19104,6 @@
     "iBBiG": [
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "purrr",
@@ -25019,7 +25015,6 @@
         "dtplyr",
         "enrichplot",
         "fgsea",
-        "flexclust",
         "forcats",
         "futile.logger",
         "gRbase",
@@ -25554,7 +25549,6 @@
     ],
     "mnem": [
         "Linnorm",
-        "flexclust",
         "ggdendro",
         "ggplot2",
         "pillar",
@@ -25840,7 +25834,6 @@
         "QUBIC",
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "purrr",
@@ -27782,7 +27775,6 @@
     "nempi": [
         "Linnorm",
         "epiNEM",
-        "flexclust",
         "ggdendro",
         "ggplot2",
         "latex2exp",
@@ -32839,7 +32831,6 @@
     "QUBIC": [
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "purrr",
@@ -35883,7 +35874,6 @@
     "rqubic": [
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "purrr",
@@ -36222,7 +36212,6 @@
         "XVector",
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "purrr",
@@ -43054,7 +43043,6 @@
     ],
     "TMixClust": [
         "BiocParallel",
-        "flexclust",
         "futile.logger"
     ],
     "TNBC.CMS": [
@@ -47716,7 +47704,6 @@
     "randomcoloR": [
         "stringr"
     ],
-    "flexclust": [],
     "pcalg": [
         "vcd"
     ],
@@ -49667,7 +49654,6 @@
     ],
     "biclust": [
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "purrr",
@@ -50285,7 +50271,6 @@
     "s4vd": [
         "biclust",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "purrr",
@@ -50297,7 +50282,6 @@
         "biclust",
         "dendextend",
         "dplyr",
-        "flexclust",
         "ggplot2",
         "pillar",
         "purrr",
