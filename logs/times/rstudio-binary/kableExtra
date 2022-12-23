@@ -1,0 +1,1318 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   27b0654a..dd1c81f1  main       -> origin/main
+Updating 27b0654a..dd1c81f1
+Fast-forward
+ lists/flowTime                                   |   2 +-
+ lists/ggsignif                                   |   2 +-
+ lists/intergraph                                 |   2 +-
+ lists/keras                                      |   2 +-
+ logs/run_ids/rstudio-binaries/metap              |   2 +
+ logs/run_ids/rstudio-binaries/methimpute         |   2 +
+ logs/sizes/rstudio-binaries/binaries/flowTime    |   1 +
+ logs/sizes/rstudio-binaries/binaries/intergraph  |   1 +
+ logs/sizes/rstudio-binaries/binaries/keras       |   1 +
+ logs/sizes/rstudio-binaries/libraries/flowTime   |   1 +
+ logs/sizes/rstudio-binaries/libraries/intergraph |   1 +
+ logs/sizes/rstudio-binaries/libraries/keras      |   1 +
+ logs/times/rstudio-binary/flowTime               | 910 +++++++++++++++++++++++
+ logs/times/rstudio-binary/intergraph             | 429 +++++++++++
+ logs/times/rstudio-binary/keras                  |  85 +++
+ packages.json                                    |  91 +--
+ 16 files changed, 1440 insertions(+), 93 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/metap
+ create mode 100644 logs/run_ids/rstudio-binaries/methimpute
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/flowTime
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/intergraph
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/keras
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/flowTime
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/intergraph
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/keras
+ create mode 100644 logs/times/rstudio-binary/flowTime
+ create mode 100644 logs/times/rstudio-binary/intergraph
+ create mode 100644 logs/times/rstudio-binary/keras
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=kableExtra
++ PKG=kableExtra
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "kableExtra"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency rvest is already found.
+Dependency rmarkdown is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 16.4M    2  430k    0     0   400k      0  0:00:42  0:00:01  0:00:41  400k 12 16.4M   12 2119k    0     0  1013k      0  0:00:16  0:00:02  0:00:14 1013k 29 16.4M   29 4956k    0     0  1607k      0  0:00:10  0:00:03  0:00:07 1606k 53 16.4M   53 9020k    0     0  2209k      0  0:00:07  0:00:04  0:00:03 2209k 82 16.4M   82 13.6M    0     0  2758k      0  0:00:06  0:00:05  0:00:01 2806k100 16.4M  100 16.4M    0     0  2957k      0  0:00:05  0:00:05 --:--:-- 3549k
+built/
+built/built/
+built/built/cli/
+built/built/cli/examples/
+built/built/cli/examples/apps/
+built/built/cli/examples/apps/news.R
+built/built/cli/examples/apps/outdated.R
+built/built/cli/examples/apps/up.R
+built/built/cli/examples/apps/search.R
+built/built/cli/libs/
+built/built/cli/libs/cli.so
+built/built/cli/NAMESPACE
+built/built/cli/DESCRIPTION
+built/built/cli/help/
+built/built/cli/help/paths.rds
+built/built/cli/help/cli.rdx
+built/built/cli/help/aliases.rds
+built/built/cli/help/figures/
+built/built/cli/help/figures/progress-after.svg
+built/built/cli/help/figures/demo-spinners.svg
+built/built/cli/help/figures/progress-along-3.svg
+built/built/cli/help/figures/progress-along-2.svg
+built/built/cli/help/figures/progress-step-msg.svg
+built/built/cli/help/figures/progress-clear.svg
+built/built/cli/help/figures/get-spinner.svg
+built/built/cli/help/figures/progress-1.svg
+built/built/cli/help/figures/progress-natotal.svg
+built/built/cli/help/figures/progress-tasks.svg
+built/built/cli/help/figures/progress-step-dynamic.svg
+built/built/cli/help/figures/make-spinner-custom.svg
+built/built/cli/help/figures/make-spinner-template.svg
+built/built/cli/help/figures/progress-output2.svg
+built/built/cli/help/figures/progress-output.svg
+built/built/cli/help/figures/progress-current.svg
+built/built/cli/help/figures/progress-step.svg
+built/built/cli/help/figures/progress-format.svg
+built/built/cli/help/figures/progress-along-1.svg
+built/built/cli/help/figures/progress-step-spin.svg
+built/built/cli/help/figures/make-spinner-default.svg
+built/built/cli/help/figures/progress-message.svg
+built/built/cli/help/cli.rdb
+built/built/cli/help/AnIndex
+built/built/cli/shiny/
+built/built/cli/shiny/nested/
+built/built/cli/shiny/nested/app.R
+built/built/cli/shiny/format/
+built/built/cli/shiny/format/app.R
+built/built/cli/shiny/along/
+built/built/cli/shiny/along/app.R
+built/built/cli/shiny/simple/
+built/built/cli/shiny/simple/app.R
+built/built/cli/shiny/output/
+built/built/cli/shiny/output/app.R
+built/built/cli/Meta/
+built/built/cli/Meta/package.rds
+built/built/cli/Meta/features.rds
+built/built/cli/Meta/hsearch.rds
+built/built/cli/Meta/links.rds
+built/built/cli/Meta/nsInfo.rds
+built/built/cli/Meta/Rd.rds
+built/built/cli/include/
+built/built/cli/include/cli/
+built/built/cli/include/cli/progress.h
+built/built/cli/logo.txt
+built/built/cli/scripts/
+built/built/cli/scripts/news.R
+built/built/cli/scripts/outdated.R
+built/built/cli/scripts/up.R
+built/built/cli/scripts/search.R
+built/built/cli/LICENSE
+built/built/cli/html/
+built/built/cli/html/00Index.html
+built/built/cli/html/R.css
+built/built/cli/INDEX
+built/built/cli/R/
+built/built/cli/R/cli
+built/built/cli/R/cli.rdx
+built/built/cli/R/sysdata.rdb
+built/built/cli/R/sysdata.rdx
+built/built/cli/R/cli.rdb
+built/built/cli/NEWS.md
+built/built/RColorBrewer/
+built/built/RColorBrewer/COPYING
+built/built/RColorBrewer/NAMESPACE
+built/built/RColorBrewer/DESCRIPTION
+built/built/RColorBrewer/help/
+built/built/RColorBrewer/help/RColorBrewer.rdb
+built/built/RColorBrewer/help/paths.rds
+built/built/RColorBrewer/help/RColorBrewer.rdx
+built/built/RColorBrewer/help/aliases.rds
+built/built/RColorBrewer/help/AnIndex
+built/built/RColorBrewer/Meta/
+built/built/RColorBrewer/Meta/package.rds
+built/built/RColorBrewer/Meta/features.rds
+built/built/RColorBrewer/Meta/hsearch.rds
+built/built/RColorBrewer/Meta/links.rds
+built/built/RColorBrewer/Meta/nsInfo.rds
+built/built/RColorBrewer/Meta/Rd.rds
+built/built/RColorBrewer/html/
+built/built/RColorBrewer/html/00Index.html
+built/built/RColorBrewer/html/R.css
+built/built/RColorBrewer/INDEX
+built/built/RColorBrewer/R/
+built/built/RColorBrewer/R/RColorBrewer.rdb
+built/built/RColorBrewer/R/RColorBrewer.rdx
+built/built/RColorBrewer/R/RColorBrewer
+built/built/glue/
+built/built/glue/libs/
+built/built/glue/libs/glue.so
+built/built/glue/NAMESPACE
+built/built/glue/DESCRIPTION
+built/built/glue/help/
+built/built/glue/help/paths.rds
+built/built/glue/help/glue.rdx
+built/built/glue/help/glue.rdb
+built/built/glue/help/aliases.rds
+built/built/glue/help/figures/
+built/built/glue/help/figures/logo.png
+built/built/glue/help/AnIndex
+built/built/glue/Meta/
+built/built/glue/Meta/package.rds
+built/built/glue/Meta/vignette.rds
+built/built/glue/Meta/features.rds
+built/built/glue/Meta/hsearch.rds
+built/built/glue/Meta/links.rds
+built/built/glue/Meta/nsInfo.rds
+built/built/glue/Meta/Rd.rds
+built/built/glue/LICENSE
+built/built/glue/html/
+built/built/glue/html/00Index.html
+built/built/glue/html/R.css
+built/built/glue/INDEX
+built/built/glue/doc/
+built/built/glue/doc/transformers.R
+built/built/glue/doc/engines.html
+built/built/glue/doc/speed.html
+built/built/glue/doc/transformers.Rmd
+built/built/glue/doc/speed.Rmd
+built/built/glue/doc/transformers.html
+built/built/glue/doc/engines.R
+built/built/glue/doc/index.html
+built/built/glue/doc/engines.Rmd
+built/built/glue/doc/speed.R
+built/built/glue/R/
+built/built/glue/R/glue.rdx
+built/built/glue/R/glue.rdb
+built/built/glue/R/glue
+built/built/glue/NEWS.md
+built/built/farver/
+built/built/farver/libs/
+built/built/farver/libs/farver.so
+built/built/farver/NAMESPACE
+built/built/farver/DESCRIPTION
+built/built/farver/help/
+built/built/farver/help/paths.rds
+built/built/farver/help/farver.rdb
+built/built/farver/help/aliases.rds
+built/built/farver/help/figures/
+built/built/farver/help/figures/logo.svg
+built/built/farver/help/figures/logo.png
+built/built/farver/help/figures/README-unnamed-chunk-7-1.png
+built/built/farver/help/figures/README-unnamed-chunk-8-1.png
+built/built/farver/help/figures/README-unnamed-chunk-5-1.png
+built/built/farver/help/figures/README-unnamed-chunk-4-1.png
+built/built/farver/help/farver.rdx
+built/built/farver/help/AnIndex
+built/built/farver/Meta/
+built/built/farver/Meta/package.rds
+built/built/farver/Meta/features.rds
+built/built/farver/Meta/hsearch.rds
+built/built/farver/Meta/links.rds
+built/built/farver/Meta/nsInfo.rds
+built/built/farver/Meta/Rd.rds
+built/built/farver/LICENSE
+built/built/farver/html/
+built/built/farver/html/00Index.html
+built/built/farver/html/R.css
+built/built/farver/INDEX
+built/built/farver/R/
+built/built/farver/R/farver.rdb
+built/built/farver/R/farver
+built/built/farver/R/sysdata.rdb
+built/built/farver/R/sysdata.rdx
+built/built/farver/R/farver.rdx
+built/built/farver/NEWS.md
+built/built/munsell/
+built/built/munsell/NAMESPACE
+built/built/munsell/DESCRIPTION
+built/built/munsell/help/
+built/built/munsell/help/paths.rds
+built/built/munsell/help/munsell.rdb
+built/built/munsell/help/aliases.rds
+built/built/munsell/help/figures/
+built/built/munsell/help/figures/README-manipulate-blue-1.png
+built/built/munsell/help/figures/README-complement-slice-1.png
+built/built/munsell/help/figures/README-palette-1.png
+built/built/munsell/help/AnIndex
+built/built/munsell/help/munsell.rdx
+built/built/munsell/Meta/
+built/built/munsell/Meta/package.rds
+built/built/munsell/Meta/features.rds
+built/built/munsell/Meta/hsearch.rds
+built/built/munsell/Meta/links.rds
+built/built/munsell/Meta/nsInfo.rds
+built/built/munsell/Meta/Rd.rds
+built/built/munsell/raw/
+built/built/munsell/raw/getmunsellmap.R
+built/built/munsell/raw/greys.dat
+built/built/munsell/raw/real.dat
+built/built/munsell/LICENSE
+built/built/munsell/html/
+built/built/munsell/html/00Index.html
+built/built/munsell/html/R.css
+built/built/munsell/INDEX
+built/built/munsell/R/
+built/built/munsell/R/munsell.rdb
+built/built/munsell/R/sysdata.rdb
+built/built/munsell/R/munsell
+built/built/munsell/R/sysdata.rdx
+built/built/munsell/R/munsell.rdx
+built/built/munsell/NEWS.md
+built/built/R6/
+built/built/R6/NAMESPACE
+built/built/R6/DESCRIPTION
+built/built/R6/help/
+built/built/R6/help/paths.rds
+built/built/R6/help/R6.rdx
+built/built/R6/help/R6.rdb
+built/built/R6/help/aliases.rds
+built/built/R6/help/figures/
+built/built/R6/help/figures/logo.svg
+built/built/R6/help/figures/logo.png
+built/built/R6/help/AnIndex
+built/built/R6/Meta/
+built/built/R6/Meta/package.rds
+built/built/R6/Meta/features.rds
+built/built/R6/Meta/hsearch.rds
+built/built/R6/Meta/links.rds
+built/built/R6/Meta/nsInfo.rds
+built/built/R6/Meta/Rd.rds
+built/built/R6/LICENSE
+built/built/R6/html/
+built/built/R6/html/00Index.html
+built/built/R6/html/R.css
+built/built/R6/INDEX
+built/built/R6/R/
+built/built/R6/R/R6.rdx
+built/built/R6/R/R6.rdb
+built/built/R6/R/R6
+built/built/R6/NEWS.md
+built/built/rlang/
+built/built/rlang/libs/
+built/built/rlang/libs/rlang.so
+built/built/rlang/NAMESPACE
+built/built/rlang/DESCRIPTION
+built/built/rlang/help/
+built/built/rlang/help/rlang.rdb
+built/built/rlang/help/paths.rds
+built/built/rlang/help/rlang.rdx
+built/built/rlang/help/aliases.rds
+built/built/rlang/help/figures/
+built/built/rlang/help/figures/lifecycle-soft-deprecated.svg
+built/built/rlang/help/figures/lifecycle-experimental.svg
+built/built/rlang/help/figures/lifecycle-deprecated.svg
+built/built/rlang/help/figures/lifecycle-maturing.svg
+built/built/rlang/help/figures/lifecycle-superseded.svg
+built/built/rlang/help/figures/logo.png
+built/built/rlang/help/figures/lifecycle-questioning.svg
+built/built/rlang/help/figures/lifecycle-defunct.svg
+built/built/rlang/help/figures/lifecycle-archived.svg
+built/built/rlang/help/figures/lifecycle-retired.svg
+built/built/rlang/help/figures/lifecycle-stable.svg
+built/built/rlang/help/AnIndex
+built/built/rlang/Meta/
+built/built/rlang/Meta/package.rds
+built/built/rlang/Meta/features.rds
+built/built/rlang/Meta/hsearch.rds
+built/built/rlang/Meta/links.rds
+built/built/rlang/Meta/nsInfo.rds
+built/built/rlang/Meta/Rd.rds
+built/built/rlang/LICENSE
+built/built/rlang/html/
+built/built/rlang/html/00Index.html
+built/built/rlang/html/R.css
+built/built/rlang/INDEX
+built/built/rlang/R/
+built/built/rlang/R/rlang.rdb
+built/built/rlang/R/rlang.rdx
+built/built/rlang/R/rlang
+built/built/rlang/backtrace-ver
+built/built/rlang/NEWS.md
+built/built/colorspace/
+built/built/colorspace/libs/
+built/built/colorspace/libs/colorspace.so
+built/built/colorspace/NAMESPACE
+built/built/colorspace/hclwizard/
+built/built/colorspace/hclwizard/server.R
+built/built/colorspace/hclwizard/www/
+built/built/colorspace/hclwizard/www/images/
+built/built/colorspace/hclwizard/www/images/pal_light_grays.png
+built/built/colorspace/hclwizard/www/images/pal_reds_2.png
+built/built/colorspace/hclwizard/www/images/pal_terrain.png
+built/built/colorspace/hclwizard/www/images/pal_red-yellow.png
+built/built/colorspace/hclwizard/www/images/pal_ylgnbu.png
+built/built/colorspace/hclwizard/www/images/pal_purple-blue.png
+built/built/colorspace/hclwizard/www/images/pal_terrain_2.png
+built/built/colorspace/hclwizard/www/images/pal_dark_mint.png
+built/built/colorspace/hclwizard/www/images/pal_burgyl.png
+built/built/colorspace/hclwizard/www/images/pal_oryel.png
+built/built/colorspace/hclwizard/www/images/pal_redor.png
+built/built/colorspace/hclwizard/www/images/pal_blues_3.png
+built/built/colorspace/hclwizard/www/images/pal_blue-red_3.png
+built/built/colorspace/hclwizard/www/images/pal_sunsetdark.png
+built/built/colorspace/hclwizard/www/images/pal_grays.png
+built/built/colorspace/hclwizard/www/images/pal_cold.png
+built/built/colorspace/hclwizard/www/images/pal_mint.png
+built/built/colorspace/hclwizard/www/images/pal_emrld.png
+built/built/colorspace/hclwizard/www/images/pal_heat.png
+built/built/colorspace/hclwizard/www/images/pal_purple-yellow.png
+built/built/colorspace/hclwizard/www/images/pal_cm.colors.png
+built/built/colorspace/hclwizard/www/images/pal_blue-yellow_2.png
+built/built/colorspace/hclwizard/www/images/pal_inferno.png
+built/built/colorspace/hclwizard/www/images/pal_bugn.png
+built/built/colorspace/hclwizard/www/images/pal_teal.png
+built/built/colorspace/hclwizard/www/images/pal_heat_2.png
+built/built/colorspace/hclwizard/www/images/pal_reds_3.png
+built/built/colorspace/hclwizard/www/images/pal_ylorrd.png
+built/built/colorspace/hclwizard/www/images/pal_set_3.png
+built/built/colorspace/hclwizard/www/images/pal_burg.png
+built/built/colorspace/hclwizard/www/images/pal_red-blue.png
+built/built/colorspace/hclwizard/www/images/pal_purple-brown.png
+built/built/colorspace/hclwizard/www/images/pal_purples_3.png
+built/built/colorspace/hclwizard/www/images/pal_ag_sunset.png
+built/built/colorspace/hclwizard/www/images/pal_red-green.png
+built/built/colorspace/hclwizard/www/images/pal_cyan-magenta.png
+built/built/colorspace/hclwizard/www/images/pal_bpy.png
+built/built/colorspace/hclwizard/www/images/pal_greens_2.png
+built/built/colorspace/hclwizard/www/images/pal_pubu.png
+built/built/colorspace/hclwizard/www/images/pal_tealgrn.png
+built/built/colorspace/hclwizard/www/images/pal_ylorbr.png
+built/built/colorspace/hclwizard/www/images/pal_pinkyl.png
+built/built/colorspace/hclwizard/www/images/pal_greens.png
+built/built/colorspace/hclwizard/www/images/pal_ylgn.png
+built/built/colorspace/hclwizard/www/images/pal_lisbon.png
+built/built/colorspace/hclwizard/www/images/pal_green-yellow.png
+built/built/colorspace/hclwizard/www/images/pal_blues.png
+built/built/colorspace/hclwizard/www/images/pal_purples.png
+built/built/colorspace/hclwizard/www/images/pal_blue-yellow.png
+built/built/colorspace/hclwizard/www/images/pal_batlow.png
+built/built/colorspace/hclwizard/www/images/pal_red-purple.png
+built/built/colorspace/hclwizard/www/images/pal_set_2.png
+built/built/colorspace/hclwizard/www/images/pal_ag_grnyl.png
+built/built/colorspace/hclwizard/www/images/pal_purple-green.png
+built/built/colorspace/hclwizard/www/images/pal_oranges.png
+built/built/colorspace/hclwizard/www/images/pal_purp.png
+built/built/colorspace/hclwizard/www/images/pal_green-brown.png
+built/built/colorspace/hclwizard/www/images/pal_oslo.png
+built/built/colorspace/hclwizard/www/images/pal_turku.png
+built/built/colorspace/hclwizard/www/images/pal_greens_3.png
+built/built/colorspace/hclwizard/www/images/pal_pastel_1.png
+built/built/colorspace/hclwizard/www/images/pal_cork.png
+built/built/colorspace/hclwizard/www/images/pal_dark_3.png
+built/built/colorspace/hclwizard/www/images/pal_rdpu.png
+built/built/colorspace/hclwizard/www/images/pal_brwnyl.png
+built/built/colorspace/hclwizard/www/images/pal_bupu.png
+built/built/colorspace/hclwizard/www/images/pal_purd.png
+built/built/colorspace/hclwizard/www/images/pal_plasma.png
+built/built/colorspace/hclwizard/www/images/pal_purple-orange.png
+built/built/colorspace/hclwizard/www/images/pal_purples_2.png
+built/built/colorspace/hclwizard/www/images/pal_tofino.png
+built/built/colorspace/hclwizard/www/images/pal_blue-red.png
+built/built/colorspace/hclwizard/www/images/pal_terrain.colors.png
+built/built/colorspace/hclwizard/www/images/pal_dynamic.png
+built/built/colorspace/hclwizard/www/images/pal_gnbu.png
+built/built/colorspace/hclwizard/www/images/pal_warm.png
+built/built/colorspace/hclwizard/www/images/pal_berlin.png
+built/built/colorspace/hclwizard/www/images/pal_pubugn.png
+built/built/colorspace/hclwizard/www/images/pal_lajolla.png
+built/built/colorspace/hclwizard/www/images/pal_heat.colors.png
+built/built/colorspace/hclwizard/www/images/pal_dark_2.png
+built/built/colorspace/hclwizard/www/images/pal_viridis.png
+built/built/colorspace/hclwizard/www/images/pal_magenta.png
+built/built/colorspace/hclwizard/www/images/pal_reds.png
+built/built/colorspace/hclwizard/www/images/pal_blue-red_2.png
+built/built/colorspace/hclwizard/www/images/pal_blue-yellow_3.png
+built/built/colorspace/hclwizard/www/images/pal_hawaii.png
+built/built/colorspace/hclwizard/www/images/pal_tropic.png
+built/built/colorspace/hclwizard/www/images/pal_peach.png
+built/built/colorspace/hclwizard/www/images/pal_topo.colors.png
+built/built/colorspace/hclwizard/www/images/pal_harmonic.png
+built/built/colorspace/hclwizard/www/images/pal_blues_2.png
+built/built/colorspace/hclwizard/www/images/pal_rainbow.png
+built/built/colorspace/hclwizard/www/images/pal_bluyl.png
+built/built/colorspace/hclwizard/www/images/pal_sunset.png
+built/built/colorspace/hclwizard/www/images/pal_blugrn.png
+built/built/colorspace/hclwizard/www/images/pal_green-orange.png
+built/built/colorspace/hclwizard/www/images/pal_orrd.png
+built/built/colorspace/hclwizard/www/images/pal_purpor.png
+built/built/colorspace/hclwizard/www/hclwizard.css
+built/built/colorspace/hclwizard/www/hclwizard_darkmode.css
+built/built/colorspace/hclwizard/prepareStaticContent.R
+built/built/colorspace/hclwizard/ui.R
+built/built/colorspace/hclwizard/html/
+built/built/colorspace/hclwizard/html/python-example.html
+built/built/colorspace/hclwizard/html/colorplane.html
+built/built/colorspace/hclwizard/html/Register.html
+built/built/colorspace/hclwizard/html/info.html
+built/built/colorspace/hclwizard/html/python.html
+built/built/colorspace/hclwizard/html/R.html
+built/built/colorspace/hclwizard/html/RegisterRcode.html
+built/built/colorspace/hclwizard/html/GrADS.html
+built/built/colorspace/hclwizard/html/RReg.html
+built/built/colorspace/hclwizard/html/matlab.html
+built/built/colorspace/DESCRIPTION
+built/built/colorspace/help/
+built/built/colorspace/help/paths.rds
+built/built/colorspace/help/colorspace.rdb
+built/built/colorspace/help/aliases.rds
+built/built/colorspace/help/colorspace.rdx
+built/built/colorspace/help/AnIndex
+built/built/colorspace/data/
+built/built/colorspace/data/Rdata.rds
+built/built/colorspace/data/Rdata.rdb
+built/built/colorspace/data/Rdata.rdx
+built/built/colorspace/Meta/
+built/built/colorspace/Meta/package.rds
+built/built/colorspace/Meta/vignette.rds
+built/built/colorspace/Meta/demo.rds
+built/built/colorspace/Meta/features.rds
+built/built/colorspace/Meta/hsearch.rds
+built/built/colorspace/Meta/links.rds
+built/built/colorspace/Meta/nsInfo.rds
+built/built/colorspace/Meta/Rd.rds
+built/built/colorspace/Meta/data.rds
+built/built/colorspace/hclcolorpicker/
+built/built/colorspace/hclcolorpicker/server.R
+built/built/colorspace/hclcolorpicker/www/
+built/built/colorspace/hclcolorpicker/www/hclcolorpicker.css
+built/built/colorspace/hclcolorpicker/www/hclcolorpicker_darkmode.css
+built/built/colorspace/hclcolorpicker/prepareStaticContent.R
+built/built/colorspace/hclcolorpicker/ui.R
+built/built/colorspace/hclcolorpicker/html/
+built/built/colorspace/hclcolorpicker/html/info.html
+built/built/colorspace/LICENSE
+built/built/colorspace/CITATION
+built/built/colorspace/cvdemulator/
+built/built/colorspace/cvdemulator/server.R
+built/built/colorspace/cvdemulator/www/
+built/built/colorspace/cvdemulator/www/images/
+built/built/colorspace/cvdemulator/www/images/rainbow_tritan.png
+built/built/colorspace/cvdemulator/www/images/descimage.png
+built/built/colorspace/cvdemulator/www/images/rainbow_deutan.png
+built/built/colorspace/cvdemulator/www/images/rainbow_desaturate.png
+built/built/colorspace/cvdemulator/www/images/rainbow_orig.png
+built/built/colorspace/cvdemulator/www/images/rainbow_protan.png
+built/built/colorspace/cvdemulator/www/cvdemulator_darkmode.css
+built/built/colorspace/cvdemulator/www/cvdemulator.css
+built/built/colorspace/cvdemulator/prepareStaticContent.R
+built/built/colorspace/cvdemulator/ui.R
+built/built/colorspace/cvdemulator/html/
+built/built/colorspace/cvdemulator/html/appInfo.html
+built/built/colorspace/cvdemulator/html/info.html
+built/built/colorspace/html/
+built/built/colorspace/html/00Index.html
+built/built/colorspace/html/R.css
+built/built/colorspace/INDEX
+built/built/colorspace/doc/
+built/built/colorspace/doc/hcl-colors.Rnw
+built/built/colorspace/doc/colorspace.R
+built/built/colorspace/doc/hcl-colors.pdf
+built/built/colorspace/doc/index.html
+built/built/colorspace/doc/colorspace.html
+built/built/colorspace/doc/hcl-colors.R
+built/built/colorspace/doc/colorspace.Rmd
+built/built/colorspace/R/
+built/built/colorspace/R/colorspace.rdb
+built/built/colorspace/R/colorspace
+built/built/colorspace/R/colorspace.rdx
+built/built/colorspace/demo/
+built/built/colorspace/demo/scico.R
+built/built/colorspace/demo/brewer.R
+built/built/colorspace/demo/viridis.R
+built/built/colorspace/demo/carto.R
+built/built/colorspace/NEWS.md
+built/built/lifecycle/
+built/built/lifecycle/NAMESPACE
+built/built/lifecycle/DESCRIPTION
+built/built/lifecycle/help/
+built/built/lifecycle/help/paths.rds
+built/built/lifecycle/help/aliases.rds
+built/built/lifecycle/help/figures/
+built/built/lifecycle/help/figures/lifecycle-soft-deprecated.svg
+built/built/lifecycle/help/figures/lifecycle-experimental.svg
+built/built/lifecycle/help/figures/lifecycle-deprecated.svg
+built/built/lifecycle/help/figures/lifecycle-maturing.svg
+built/built/lifecycle/help/figures/lifecycle-superseded.svg
+built/built/lifecycle/help/figures/lifecycle-questioning.svg
+built/built/lifecycle/help/figures/lifecycle-defunct.svg
+built/built/lifecycle/help/figures/lifecycle-archived.svg
+built/built/lifecycle/help/figures/lifecycle-retired.svg
+built/built/lifecycle/help/figures/lifecycle-stable.svg
+built/built/lifecycle/help/lifecycle.rdb
+built/built/lifecycle/help/macros/
+built/built/lifecycle/help/macros/lifecycle.Rd
+built/built/lifecycle/help/lifecycle.rdx
+built/built/lifecycle/help/AnIndex
+built/built/lifecycle/Meta/
+built/built/lifecycle/Meta/package.rds
+built/built/lifecycle/Meta/vignette.rds
+built/built/lifecycle/Meta/features.rds
+built/built/lifecycle/Meta/hsearch.rds
+built/built/lifecycle/Meta/links.rds
+built/built/lifecycle/Meta/nsInfo.rds
+built/built/lifecycle/Meta/Rd.rds
+built/built/lifecycle/LICENSE
+built/built/lifecycle/html/
+built/built/lifecycle/html/00Index.html
+built/built/lifecycle/html/R.css
+built/built/lifecycle/INDEX
+built/built/lifecycle/doc/
+built/built/lifecycle/doc/stages.R
+built/built/lifecycle/doc/communicate.html
+built/built/lifecycle/doc/manage.R
+built/built/lifecycle/doc/stages.html
+built/built/lifecycle/doc/manage.Rmd
+built/built/lifecycle/doc/stages.Rmd
+built/built/lifecycle/doc/manage.html
+built/built/lifecycle/doc/communicate.Rmd
+built/built/lifecycle/doc/index.html
+built/built/lifecycle/doc/communicate.R
+built/built/lifecycle/R/
+built/built/lifecycle/R/lifecycle.rdb
+built/built/lifecycle/R/lifecycle
+built/built/lifecycle/R/lifecycle.rdx
+built/built/lifecycle/NEWS.md
+built/built/labeling/
+built/built/labeling/NAMESPACE
+built/built/labeling/DESCRIPTION
+built/built/labeling/help/
+built/built/labeling/help/labeling.rdb
+built/built/labeling/help/paths.rds
+built/built/labeling/help/labeling.rdx
+built/built/labeling/help/aliases.rds
+built/built/labeling/help/AnIndex
+built/built/labeling/Meta/
+built/built/labeling/Meta/package.rds
+built/built/labeling/Meta/features.rds
+built/built/labeling/Meta/hsearch.rds
+built/built/labeling/Meta/links.rds
+built/built/labeling/Meta/nsInfo.rds
+built/built/labeling/Meta/Rd.rds
+built/built/labeling/LICENSE
+built/built/labeling/html/
+built/built/labeling/html/00Index.html
+built/built/labeling/html/R.css
+built/built/labeling/INDEX
+built/built/labeling/R/
+built/built/labeling/R/labeling.rdb
+built/built/labeling/R/labeling.rdx
+built/built/labeling/R/labeling
+built/built/viridisLite/
+built/built/viridisLite/NAMESPACE
+built/built/viridisLite/DESCRIPTION
+built/built/viridisLite/help/
+built/built/viridisLite/help/paths.rds
+built/built/viridisLite/help/aliases.rds
+built/built/viridisLite/help/figures/
+built/built/viridisLite/help/figures/viridis-scales.png
+built/built/viridisLite/help/figures/logo.png
+built/built/viridisLite/help/figures/maps.png
+built/built/viridisLite/help/viridisLite.rdb
+built/built/viridisLite/help/AnIndex
+built/built/viridisLite/help/viridisLite.rdx
+built/built/viridisLite/Meta/
+built/built/viridisLite/Meta/package.rds
+built/built/viridisLite/Meta/features.rds
+built/built/viridisLite/Meta/hsearch.rds
+built/built/viridisLite/Meta/links.rds
+built/built/viridisLite/Meta/nsInfo.rds
+built/built/viridisLite/Meta/Rd.rds
+built/built/viridisLite/LICENSE
+built/built/viridisLite/CITATION
+built/built/viridisLite/html/
+built/built/viridisLite/html/00Index.html
+built/built/viridisLite/html/R.css
+built/built/viridisLite/INDEX
+built/built/viridisLite/R/
+built/built/viridisLite/R/viridisLite.rdb
+built/built/viridisLite/R/viridisLite.rdx
+built/built/viridisLite/R/viridisLite
+built/built/viridisLite/NEWS.md
+built/RColorBrewer/
+built/RColorBrewer/COPYING
+built/RColorBrewer/NAMESPACE
+built/RColorBrewer/DESCRIPTION
+built/RColorBrewer/help/
+built/RColorBrewer/help/RColorBrewer.rdb
+built/RColorBrewer/help/paths.rds
+built/RColorBrewer/help/RColorBrewer.rdx
+built/RColorBrewer/help/aliases.rds
+built/RColorBrewer/help/AnIndex
+built/RColorBrewer/Meta/
+built/RColorBrewer/Meta/package.rds
+built/RColorBrewer/Meta/features.rds
+built/RColorBrewer/Meta/hsearch.rds
+built/RColorBrewer/Meta/links.rds
+built/RColorBrewer/Meta/nsInfo.rds
+built/RColorBrewer/Meta/Rd.rds
+built/RColorBrewer/html/
+built/RColorBrewer/html/00Index.html
+built/RColorBrewer/html/R.css
+built/RColorBrewer/INDEX
+built/RColorBrewer/R/
+built/RColorBrewer/R/RColorBrewer.rdb
+built/RColorBrewer/R/RColorBrewer.rdx
+built/RColorBrewer/R/RColorBrewer
+built/farver/
+built/farver/libs/
+built/farver/libs/farver.so
+built/farver/NAMESPACE
+built/farver/DESCRIPTION
+built/farver/help/
+built/farver/help/paths.rds
+built/farver/help/farver.rdb
+built/farver/help/aliases.rds
+built/farver/help/figures/
+built/farver/help/figures/logo.svg
+built/farver/help/figures/logo.png
+built/farver/help/figures/README-unnamed-chunk-7-1.png
+built/farver/help/figures/README-unnamed-chunk-8-1.png
+built/farver/help/figures/README-unnamed-chunk-5-1.png
+built/farver/help/figures/README-unnamed-chunk-4-1.png
+built/farver/help/farver.rdx
+built/farver/help/AnIndex
+built/farver/Meta/
+built/farver/Meta/package.rds
+built/farver/Meta/features.rds
+built/farver/Meta/hsearch.rds
+built/farver/Meta/links.rds
+built/farver/Meta/nsInfo.rds
+built/farver/Meta/Rd.rds
+built/farver/LICENSE
+built/farver/html/
+built/farver/html/00Index.html
+built/farver/html/R.css
+built/farver/INDEX
+built/farver/R/
+built/farver/R/farver.rdb
+built/farver/R/farver
+built/farver/R/sysdata.rdb
+built/farver/R/sysdata.rdx
+built/farver/R/farver.rdx
+built/farver/NEWS.md
+built/munsell/
+built/munsell/NAMESPACE
+built/munsell/DESCRIPTION
+built/munsell/help/
+built/munsell/help/paths.rds
+built/munsell/help/munsell.rdb
+built/munsell/help/aliases.rds
+built/munsell/help/figures/
+built/munsell/help/figures/README-manipulate-blue-1.png
+built/munsell/help/figures/README-complement-slice-1.png
+built/munsell/help/figures/README-palette-1.png
+built/munsell/help/AnIndex
+built/munsell/help/munsell.rdx
+built/munsell/Meta/
+built/munsell/Meta/package.rds
+built/munsell/Meta/features.rds
+built/munsell/Meta/hsearch.rds
+built/munsell/Meta/links.rds
+built/munsell/Meta/nsInfo.rds
+built/munsell/Meta/Rd.rds
+built/munsell/raw/
+built/munsell/raw/getmunsellmap.R
+built/munsell/raw/greys.dat
+built/munsell/raw/real.dat
+built/munsell/LICENSE
+built/munsell/html/
+built/munsell/html/00Index.html
+built/munsell/html/R.css
+built/munsell/INDEX
+built/munsell/R/
+built/munsell/R/munsell.rdb
+built/munsell/R/sysdata.rdb
+built/munsell/R/munsell
+built/munsell/R/sysdata.rdx
+built/munsell/R/munsell.rdx
+built/munsell/NEWS.md
+built/scales/
+built/scales/NAMESPACE
+built/scales/DESCRIPTION
+built/scales/help/
+built/scales/help/paths.rds
+built/scales/help/scales.rdb
+built/scales/help/aliases.rds
+built/scales/help/figures/
+built/scales/help/figures/lifecycle-experimental.svg
+built/scales/help/figures/lifecycle-deprecated.svg
+built/scales/help/figures/README-labels-1.png
+built/scales/help/figures/lifecycle-maturing.svg
+built/scales/help/figures/lifecycle-superseded.svg
+built/scales/help/figures/README-transforms-1.png
+built/scales/help/figures/logo.png
+built/scales/help/figures/README-palettes-1.png
+built/scales/help/figures/lifecycle-questioning.svg
+built/scales/help/figures/lifecycle-defunct.svg
+built/scales/help/figures/lifecycle-archived.svg
+built/scales/help/figures/README-labels-2.png
+built/scales/help/figures/lifecycle-stable.svg
+built/scales/help/scales.rdx
+built/scales/help/AnIndex
+built/scales/Meta/
+built/scales/Meta/package.rds
+built/scales/Meta/features.rds
+built/scales/Meta/hsearch.rds
+built/scales/Meta/links.rds
+built/scales/Meta/nsInfo.rds
+built/scales/Meta/Rd.rds
+built/scales/LICENSE
+built/scales/html/
+built/scales/html/00Index.html
+built/scales/html/R.css
+built/scales/INDEX
+built/scales/R/
+built/scales/R/scales.rdb
+built/scales/R/scales
+built/scales/R/scales.rdx
+built/scales/NEWS.md
+built/colorspace/
+built/colorspace/libs/
+built/colorspace/libs/colorspace.so
+built/colorspace/NAMESPACE
+built/colorspace/hclwizard/
+built/colorspace/hclwizard/server.R
+built/colorspace/hclwizard/www/
+built/colorspace/hclwizard/www/images/
+built/colorspace/hclwizard/www/images/pal_light_grays.png
+built/colorspace/hclwizard/www/images/pal_reds_2.png
+built/colorspace/hclwizard/www/images/pal_terrain.png
+built/colorspace/hclwizard/www/images/pal_red-yellow.png
+built/colorspace/hclwizard/www/images/pal_ylgnbu.png
+built/colorspace/hclwizard/www/images/pal_purple-blue.png
+built/colorspace/hclwizard/www/images/pal_terrain_2.png
+built/colorspace/hclwizard/www/images/pal_dark_mint.png
+built/colorspace/hclwizard/www/images/pal_burgyl.png
+built/colorspace/hclwizard/www/images/pal_oryel.png
+built/colorspace/hclwizard/www/images/pal_redor.png
+built/colorspace/hclwizard/www/images/pal_blues_3.png
+built/colorspace/hclwizard/www/images/pal_blue-red_3.png
+built/colorspace/hclwizard/www/images/pal_sunsetdark.png
+built/colorspace/hclwizard/www/images/pal_grays.png
+built/colorspace/hclwizard/www/images/pal_cold.png
+built/colorspace/hclwizard/www/images/pal_mint.png
+built/colorspace/hclwizard/www/images/pal_emrld.png
+built/colorspace/hclwizard/www/images/pal_heat.png
+built/colorspace/hclwizard/www/images/pal_purple-yellow.png
+built/colorspace/hclwizard/www/images/pal_cm.colors.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow_2.png
+built/colorspace/hclwizard/www/images/pal_inferno.png
+built/colorspace/hclwizard/www/images/pal_bugn.png
+built/colorspace/hclwizard/www/images/pal_teal.png
+built/colorspace/hclwizard/www/images/pal_heat_2.png
+built/colorspace/hclwizard/www/images/pal_reds_3.png
+built/colorspace/hclwizard/www/images/pal_ylorrd.png
+built/colorspace/hclwizard/www/images/pal_set_3.png
+built/colorspace/hclwizard/www/images/pal_burg.png
+built/colorspace/hclwizard/www/images/pal_red-blue.png
+built/colorspace/hclwizard/www/images/pal_purple-brown.png
+built/colorspace/hclwizard/www/images/pal_purples_3.png
+built/colorspace/hclwizard/www/images/pal_ag_sunset.png
+built/colorspace/hclwizard/www/images/pal_red-green.png
+built/colorspace/hclwizard/www/images/pal_cyan-magenta.png
+built/colorspace/hclwizard/www/images/pal_bpy.png
+built/colorspace/hclwizard/www/images/pal_greens_2.png
+built/colorspace/hclwizard/www/images/pal_pubu.png
+built/colorspace/hclwizard/www/images/pal_tealgrn.png
+built/colorspace/hclwizard/www/images/pal_ylorbr.png
+built/colorspace/hclwizard/www/images/pal_pinkyl.png
+built/colorspace/hclwizard/www/images/pal_greens.png
+built/colorspace/hclwizard/www/images/pal_ylgn.png
+built/colorspace/hclwizard/www/images/pal_lisbon.png
+built/colorspace/hclwizard/www/images/pal_green-yellow.png
+built/colorspace/hclwizard/www/images/pal_blues.png
+built/colorspace/hclwizard/www/images/pal_purples.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow.png
+built/colorspace/hclwizard/www/images/pal_batlow.png
+built/colorspace/hclwizard/www/images/pal_red-purple.png
+built/colorspace/hclwizard/www/images/pal_set_2.png
+built/colorspace/hclwizard/www/images/pal_ag_grnyl.png
+built/colorspace/hclwizard/www/images/pal_purple-green.png
+built/colorspace/hclwizard/www/images/pal_oranges.png
+built/colorspace/hclwizard/www/images/pal_purp.png
+built/colorspace/hclwizard/www/images/pal_green-brown.png
+built/colorspace/hclwizard/www/images/pal_oslo.png
+built/colorspace/hclwizard/www/images/pal_turku.png
+built/colorspace/hclwizard/www/images/pal_greens_3.png
+built/colorspace/hclwizard/www/images/pal_pastel_1.png
+built/colorspace/hclwizard/www/images/pal_cork.png
+built/colorspace/hclwizard/www/images/pal_dark_3.png
+built/colorspace/hclwizard/www/images/pal_rdpu.png
+built/colorspace/hclwizard/www/images/pal_brwnyl.png
+built/colorspace/hclwizard/www/images/pal_bupu.png
+built/colorspace/hclwizard/www/images/pal_purd.png
+built/colorspace/hclwizard/www/images/pal_plasma.png
+built/colorspace/hclwizard/www/images/pal_purple-orange.png
+built/colorspace/hclwizard/www/images/pal_purples_2.png
+built/colorspace/hclwizard/www/images/pal_tofino.png
+built/colorspace/hclwizard/www/images/pal_blue-red.png
+built/colorspace/hclwizard/www/images/pal_terrain.colors.png
+built/colorspace/hclwizard/www/images/pal_dynamic.png
+built/colorspace/hclwizard/www/images/pal_gnbu.png
+built/colorspace/hclwizard/www/images/pal_warm.png
+built/colorspace/hclwizard/www/images/pal_berlin.png
+built/colorspace/hclwizard/www/images/pal_pubugn.png
+built/colorspace/hclwizard/www/images/pal_lajolla.png
+built/colorspace/hclwizard/www/images/pal_heat.colors.png
+built/colorspace/hclwizard/www/images/pal_dark_2.png
+built/colorspace/hclwizard/www/images/pal_viridis.png
+built/colorspace/hclwizard/www/images/pal_magenta.png
+built/colorspace/hclwizard/www/images/pal_reds.png
+built/colorspace/hclwizard/www/images/pal_blue-red_2.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow_3.png
+built/colorspace/hclwizard/www/images/pal_hawaii.png
+built/colorspace/hclwizard/www/images/pal_tropic.png
+built/colorspace/hclwizard/www/images/pal_peach.png
+built/colorspace/hclwizard/www/images/pal_topo.colors.png
+built/colorspace/hclwizard/www/images/pal_harmonic.png
+built/colorspace/hclwizard/www/images/pal_blues_2.png
+built/colorspace/hclwizard/www/images/pal_rainbow.png
+built/colorspace/hclwizard/www/images/pal_bluyl.png
+built/colorspace/hclwizard/www/images/pal_sunset.png
+built/colorspace/hclwizard/www/images/pal_blugrn.png
+built/colorspace/hclwizard/www/images/pal_green-orange.png
+built/colorspace/hclwizard/www/images/pal_orrd.png
+built/colorspace/hclwizard/www/images/pal_purpor.png
+built/colorspace/hclwizard/www/hclwizard.css
+built/colorspace/hclwizard/www/hclwizard_darkmode.css
+built/colorspace/hclwizard/prepareStaticContent.R
+built/colorspace/hclwizard/ui.R
+built/colorspace/hclwizard/html/
+built/colorspace/hclwizard/html/python-example.html
+built/colorspace/hclwizard/html/colorplane.html
+built/colorspace/hclwizard/html/Register.html
+built/colorspace/hclwizard/html/info.html
+built/colorspace/hclwizard/html/python.html
+built/colorspace/hclwizard/html/R.html
+built/colorspace/hclwizard/html/RegisterRcode.html
+built/colorspace/hclwizard/html/GrADS.html
+built/colorspace/hclwizard/html/RReg.html
+built/colorspace/hclwizard/html/matlab.html
+built/colorspace/DESCRIPTION
+built/colorspace/help/
+built/colorspace/help/paths.rds
+built/colorspace/help/colorspace.rdb
+built/colorspace/help/aliases.rds
+built/colorspace/help/colorspace.rdx
+built/colorspace/help/AnIndex
+built/colorspace/data/
+built/colorspace/data/Rdata.rds
+built/colorspace/data/Rdata.rdb
+built/colorspace/data/Rdata.rdx
+built/colorspace/Meta/
+built/colorspace/Meta/package.rds
+built/colorspace/Meta/vignette.rds
+built/colorspace/Meta/demo.rds
+built/colorspace/Meta/features.rds
+built/colorspace/Meta/hsearch.rds
+built/colorspace/Meta/links.rds
+built/colorspace/Meta/nsInfo.rds
+built/colorspace/Meta/Rd.rds
+built/colorspace/Meta/data.rds
+built/colorspace/hclcolorpicker/
+built/colorspace/hclcolorpicker/server.R
+built/colorspace/hclcolorpicker/www/
+built/colorspace/hclcolorpicker/www/hclcolorpicker.css
+built/colorspace/hclcolorpicker/www/hclcolorpicker_darkmode.css
+built/colorspace/hclcolorpicker/prepareStaticContent.R
+built/colorspace/hclcolorpicker/ui.R
+built/colorspace/hclcolorpicker/html/
+built/colorspace/hclcolorpicker/html/info.html
+built/colorspace/LICENSE
+built/colorspace/CITATION
+built/colorspace/cvdemulator/
+built/colorspace/cvdemulator/server.R
+built/colorspace/cvdemulator/www/
+built/colorspace/cvdemulator/www/images/
+built/colorspace/cvdemulator/www/images/rainbow_tritan.png
+built/colorspace/cvdemulator/www/images/descimage.png
+built/colorspace/cvdemulator/www/images/rainbow_deutan.png
+built/colorspace/cvdemulator/www/images/rainbow_desaturate.png
+built/colorspace/cvdemulator/www/images/rainbow_orig.png
+built/colorspace/cvdemulator/www/images/rainbow_protan.png
+built/colorspace/cvdemulator/www/cvdemulator_darkmode.css
+built/colorspace/cvdemulator/www/cvdemulator.css
+built/colorspace/cvdemulator/prepareStaticContent.R
+built/colorspace/cvdemulator/ui.R
+built/colorspace/cvdemulator/html/
+built/colorspace/cvdemulator/html/appInfo.html
+built/colorspace/cvdemulator/html/info.html
+built/colorspace/html/
+built/colorspace/html/00Index.html
+built/colorspace/html/R.css
+built/colorspace/INDEX
+built/colorspace/doc/
+built/colorspace/doc/hcl-colors.Rnw
+built/colorspace/doc/colorspace.R
+built/colorspace/doc/hcl-colors.pdf
+built/colorspace/doc/index.html
+built/colorspace/doc/colorspace.html
+built/colorspace/doc/hcl-colors.R
+built/colorspace/doc/colorspace.Rmd
+built/colorspace/R/
+built/colorspace/R/colorspace.rdb
+built/colorspace/R/colorspace
+built/colorspace/R/colorspace.rdx
+built/colorspace/demo/
+built/colorspace/demo/scico.R
+built/colorspace/demo/brewer.R
+built/colorspace/demo/viridis.R
+built/colorspace/demo/carto.R
+built/colorspace/NEWS.md
+built/labeling/
+built/labeling/NAMESPACE
+built/labeling/DESCRIPTION
+built/labeling/help/
+built/labeling/help/labeling.rdb
+built/labeling/help/paths.rds
+built/labeling/help/labeling.rdx
+built/labeling/help/aliases.rds
+built/labeling/help/AnIndex
+built/labeling/Meta/
+built/labeling/Meta/package.rds
+built/labeling/Meta/features.rds
+built/labeling/Meta/hsearch.rds
+built/labeling/Meta/links.rds
+built/labeling/Meta/nsInfo.rds
+built/labeling/Meta/Rd.rds
+built/labeling/LICENSE
+built/labeling/html/
+built/labeling/html/00Index.html
+built/labeling/html/R.css
+built/labeling/INDEX
+built/labeling/R/
+built/labeling/R/labeling.rdb
+built/labeling/R/labeling.rdx
+built/labeling/R/labeling
+built/viridisLite/
+built/viridisLite/NAMESPACE
+built/viridisLite/DESCRIPTION
+built/viridisLite/help/
+built/viridisLite/help/paths.rds
+built/viridisLite/help/aliases.rds
+built/viridisLite/help/figures/
+built/viridisLite/help/figures/viridis-scales.png
+built/viridisLite/help/figures/logo.png
+built/viridisLite/help/figures/maps.png
+built/viridisLite/help/viridisLite.rdb
+built/viridisLite/help/AnIndex
+built/viridisLite/help/viridisLite.rdx
+built/viridisLite/Meta/
+built/viridisLite/Meta/package.rds
+built/viridisLite/Meta/features.rds
+built/viridisLite/Meta/hsearch.rds
+built/viridisLite/Meta/links.rds
+built/viridisLite/Meta/nsInfo.rds
+built/viridisLite/Meta/Rd.rds
+built/viridisLite/LICENSE
+built/viridisLite/CITATION
+built/viridisLite/html/
+built/viridisLite/html/00Index.html
+built/viridisLite/html/R.css
+built/viridisLite/INDEX
+built/viridisLite/R/
+built/viridisLite/R/viridisLite.rdb
+built/viridisLite/R/viridisLite.rdx
+built/viridisLite/R/viridisLite
+built/viridisLite/NEWS.md
+Dependency rstudioapi is already found.
+Dependency webshot is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 16 3178k   16  510k    0     0   495k      0  0:00:06  0:00:01  0:00:05  495k 54 3178k   54 1721k    0     0   852k      0  0:00:03  0:00:02  0:00:01  852k100 3178k  100 3178k    0     0  1167k      0  0:00:02  0:00:02 --:--:-- 1167k
+built/
+built/built/
+built/built/cpp11/
+built/built/cpp11/NAMESPACE
+built/built/cpp11/DESCRIPTION
+built/built/cpp11/help/
+built/built/cpp11/help/cpp11.rdb
+built/built/cpp11/help/paths.rds
+built/built/cpp11/help/aliases.rds
+built/built/cpp11/help/cpp11.rdx
+built/built/cpp11/help/AnIndex
+built/built/cpp11/Meta/
+built/built/cpp11/Meta/package.rds
+built/built/cpp11/Meta/vignette.rds
+built/built/cpp11/Meta/features.rds
+built/built/cpp11/Meta/hsearch.rds
+built/built/cpp11/Meta/links.rds
+built/built/cpp11/Meta/nsInfo.rds
+built/built/cpp11/Meta/Rd.rds
+built/built/cpp11/include/
+built/built/cpp11/include/cpp11/
+built/built/cpp11/include/cpp11/data_frame.hpp
+built/built/cpp11/include/cpp11/raws.hpp
+built/built/cpp11/include/cpp11/named_arg.hpp
+built/built/cpp11/include/cpp11/r_vector.hpp
+built/built/cpp11/include/cpp11/r_bool.hpp
+built/built/cpp11/include/cpp11/R.hpp
+built/built/cpp11/include/cpp11/integers.hpp
+built/built/cpp11/include/cpp11/altrep.hpp
+built/built/cpp11/include/cpp11/r_string.hpp
+built/built/cpp11/include/cpp11/matrix.hpp
+built/built/cpp11/include/cpp11/list_of.hpp
+built/built/cpp11/include/cpp11/logicals.hpp
+built/built/cpp11/include/cpp11/environment.hpp
+built/built/cpp11/include/cpp11/doubles.hpp
+built/built/cpp11/include/cpp11/external_pointer.hpp
+built/built/cpp11/include/cpp11/attribute_proxy.hpp
+built/built/cpp11/include/cpp11/list.hpp
+built/built/cpp11/include/cpp11/as.hpp
+built/built/cpp11/include/cpp11/strings.hpp
+built/built/cpp11/include/cpp11/function.hpp
+built/built/cpp11/include/cpp11/protect.hpp
+built/built/cpp11/include/cpp11/declarations.hpp
+built/built/cpp11/include/cpp11/sexp.hpp
+built/built/cpp11/include/cpp11.hpp
+built/built/cpp11/include/fmt/
+built/built/cpp11/include/fmt/format-inl.h
+built/built/cpp11/include/fmt/core.h
+built/built/cpp11/include/fmt/format.h
+built/built/cpp11/LICENSE
+built/built/cpp11/html/
+built/built/cpp11/html/00Index.html
+built/built/cpp11/html/R.css
+built/built/cpp11/INDEX
+built/built/cpp11/doc/
+built/built/cpp11/doc/internals.Rmd
+built/built/cpp11/doc/cpp11.Rmd
+built/built/cpp11/doc/converting.Rmd
+built/built/cpp11/doc/internals.R
+built/built/cpp11/doc/FAQ.html
+built/built/cpp11/doc/cpp11.html
+built/built/cpp11/doc/internals.html
+built/built/cpp11/doc/FAQ.R
+built/built/cpp11/doc/FAQ.Rmd
+built/built/cpp11/doc/motivations.Rmd
+built/built/cpp11/doc/converting.html
+built/built/cpp11/doc/index.html
+built/built/cpp11/doc/motivations.R
+built/built/cpp11/doc/converting.R
+built/built/cpp11/doc/motivations.html
+built/built/cpp11/doc/cpp11.R
+built/built/cpp11/R/
+built/built/cpp11/R/cpp11
+built/built/cpp11/R/cpp11.rdb
+built/built/cpp11/R/cpp11.rdx
+built/built/cpp11/NEWS.md
+built/built/systemfonts/
+built/built/systemfonts/libs/
+built/built/systemfonts/libs/systemfonts.so
+built/built/systemfonts/unfont.ttf
+built/built/systemfonts/NAMESPACE
+built/built/systemfonts/DESCRIPTION
+built/built/systemfonts/help/
+built/built/systemfonts/help/paths.rds
+built/built/systemfonts/help/systemfonts.rdx
+built/built/systemfonts/help/aliases.rds
+built/built/systemfonts/help/AnIndex
+built/built/systemfonts/help/systemfonts.rdb
+built/built/systemfonts/Meta/
+built/built/systemfonts/Meta/package.rds
+built/built/systemfonts/Meta/vignette.rds
+built/built/systemfonts/Meta/features.rds
+built/built/systemfonts/Meta/hsearch.rds
+built/built/systemfonts/Meta/links.rds
+built/built/systemfonts/Meta/nsInfo.rds
+built/built/systemfonts/Meta/Rd.rds
+built/built/systemfonts/include/
+built/built/systemfonts/include/systemfonts-ft.h
+built/built/systemfonts/include/systemfonts.h
+built/built/systemfonts/LICENSE
+built/built/systemfonts/html/
+built/built/systemfonts/html/00Index.html
+built/built/systemfonts/html/R.css
+built/built/systemfonts/INDEX
+built/built/systemfonts/doc/
+built/built/systemfonts/doc/c_interface.html
+built/built/systemfonts/doc/c_interface.Rmd
+built/built/systemfonts/doc/c_interface.R
+built/built/systemfonts/doc/index.html
+built/built/systemfonts/R/
+built/built/systemfonts/R/systemfonts.rdx
+built/built/systemfonts/R/systemfonts
+built/built/systemfonts/R/sysdata.rdb
+built/built/systemfonts/R/sysdata.rdx
+built/built/systemfonts/R/systemfonts.rdb
+built/built/systemfonts/NEWS.md
+built/svglite/
+built/svglite/libs/
+built/svglite/libs/svglite.so
+built/svglite/NAMESPACE
+built/svglite/DESCRIPTION
+built/svglite/help/
+built/svglite/help/paths.rds
+built/svglite/help/svglite.rdx
+built/svglite/help/svglite.rdb
+built/svglite/help/aliases.rds
+built/svglite/help/figures/
+built/svglite/help/figures/lifecycle-experimental.svg
+built/svglite/help/figures/logo.svg
+built/svglite/help/figures/lifecycle-deprecated.svg
+built/svglite/help/figures/lifecycle-maturing.svg
+built/svglite/help/figures/lifecycle-superseded.svg
+built/svglite/help/figures/README-unnamed-chunk-3-1.png
+built/svglite/help/figures/logo.png
+built/svglite/help/figures/lifecycle-questioning.svg
+built/svglite/help/figures/lifecycle-defunct.svg
+built/svglite/help/figures/lifecycle-archived.svg
+built/svglite/help/figures/lifecycle-stable.svg
+built/svglite/help/AnIndex
+built/svglite/Meta/
+built/svglite/Meta/package.rds
+built/svglite/Meta/vignette.rds
+built/svglite/Meta/features.rds
+built/svglite/Meta/hsearch.rds
+built/svglite/Meta/links.rds
+built/svglite/Meta/nsInfo.rds
+built/svglite/Meta/Rd.rds
+built/svglite/html/
+built/svglite/html/00Index.html
+built/svglite/html/R.css
+built/svglite/INDEX
+built/svglite/doc/
+built/svglite/doc/scaling.html
+built/svglite/doc/scaling.Rmd
+built/svglite/doc/fonts.Rmd
+built/svglite/doc/index.html
+built/svglite/doc/fonts.html
+built/svglite/doc/fonts.R
+built/svglite/R/
+built/svglite/R/svglite.rdx
+built/svglite/R/svglite.rdb
+built/svglite/R/svglite
+built/svglite/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''kableExtra'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv colorspace_2.0-3_R_x86_64-pc-linux-gnu.tar.gz farver_2.1.1_R_x86_64-pc-linux-gnu.tar.gz kableExtra_1.3.4_R_x86_64-pc-linux-gnu.tar.gz labeling_0.4.2_R_x86_64-pc-linux-gnu.tar.gz munsell_0.5.0_R_x86_64-pc-linux-gnu.tar.gz RColorBrewer_1.1-3_R_x86_64-pc-linux-gnu.tar.gz scales_1.2.1_R_x86_64-pc-linux-gnu.tar.gz svglite_2.1.0_R_x86_64-pc-linux-gnu.tar.gz viridisLite_0.4.1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/kableExtra
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'kableExtra'
+also installing the dependencies ‘colorspace’, ‘farver’, ‘labeling’, ‘munsell’, ‘RColorBrewer’, ‘scales’, ‘viridisLite’, ‘svglite’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/colorspace_2.0-3.tar.gz'
+Content type 'binary/octet-stream' length 2629793 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/farver_2.1.1.tar.gz'
+Content type 'binary/octet-stream' length 2297101 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/labeling_0.4.2.tar.gz'
+Content type 'binary/octet-stream' length 58419 bytes (57 KB)
+==================================================
+downloaded 57 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/munsell_0.5.0.tar.gz'
+Content type 'binary/octet-stream' length 240157 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/RColorBrewer_1.1-3.tar.gz'
+Content type 'binary/octet-stream' length 53064 bytes (51 KB)
+==================================================
+downloaded 51 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/scales_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 607228 bytes (592 KB)
+==================================================
+downloaded 592 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/viridisLite_0.4.1.tar.gz'
+Content type 'binary/octet-stream' length 1296653 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/svglite_2.1.0.tar.gz'
+Content type 'binary/octet-stream' length 783535 bytes (765 KB)
+==================================================
+downloaded 765 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/kableExtra_1.3.4.tar.gz'
+Content type 'binary/octet-stream' length 1851365 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+* installing *binary* package ‘colorspace’ ...
+* ‘colorspace’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘colorspace’ as ‘colorspace_2.0-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (colorspace)
+* installing *binary* package ‘farver’ ...
+* ‘farver’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘farver’ as ‘farver_2.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (farver)
+* installing *binary* package ‘labeling’ ...
+* ‘labeling’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘labeling’ as ‘labeling_0.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (labeling)
+* installing *binary* package ‘RColorBrewer’ ...
+* ‘RColorBrewer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RColorBrewer’ as ‘RColorBrewer_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RColorBrewer)
+* installing *binary* package ‘viridisLite’ ...
+* ‘viridisLite’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘viridisLite’ as ‘viridisLite_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (viridisLite)
+* installing *binary* package ‘svglite’ ...
+* ‘svglite’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘svglite’ as ‘svglite_2.1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (svglite)
+* installing *binary* package ‘munsell’ ...
+* ‘munsell’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘munsell’ as ‘munsell_0.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (munsell)
+* installing *binary* package ‘scales’ ...
+* ‘scales’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘scales’ as ‘scales_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scales)
+* installing *binary* package ‘kableExtra’ ...
+* ‘kableExtra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kableExtra’ as ‘kableExtra_1.3.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kableExtra)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp6LIBtx/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m24.638s
+user	0m12.032s
+sys	0m1.818s

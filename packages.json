@@ -2026,7 +2026,6 @@
         "colourpicker",
         "gggenes",
         "ggrastr",
-        "kableExtra",
         "msigdbr",
         "plotly",
         "rtracklayer",
@@ -3445,7 +3444,6 @@
         "dendextend",
         "ggExtra",
         "heatmaply",
-        "kableExtra",
         "plotly",
         "viridis"
     ],
@@ -4223,8 +4221,7 @@
     ],
     "eudysbiome": [],
     "evaluomeR": [
-        "MultiAssayExperiment",
-        "kableExtra"
+        "MultiAssayExperiment"
     ],
     "EventPointer": [
         "AnnotationDbi",
@@ -5777,7 +5774,6 @@
     ],
     "hummingbird": [],
     "hypeR": [
-        "kableExtra",
         "msigdbr",
         "reactable",
         "visNetwork"
@@ -6020,9 +6016,7 @@
     ],
     "interacCircos": [],
     "InteractionSet": [],
-    "InteractiveComplexHeatmap": [
-        "kableExtra"
-    ],
+    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "AnnotationDbi",
         "Category",
@@ -7456,7 +7450,6 @@
         "MultiAssayExperiment",
         "broom",
         "formattable",
-        "kableExtra",
         "mice"
     ],
     "MIGSA": [
@@ -8784,7 +8777,6 @@
         "dendextend",
         "factoextra",
         "ggpubr",
-        "kableExtra",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9727,7 +9719,6 @@
         "flexdashboard",
         "genefilter",
         "ggpubr",
-        "kableExtra",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11213,9 +11204,7 @@
     "scHOT": [
         "SingleCellExperiment"
     ],
-    "scifer": [
-        "kableExtra"
-    ],
+    "scifer": [],
     "scMAGeCK": [
         "Seurat",
         "plotly",
@@ -14275,7 +14264,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "kableExtra": [],
     "gggenes": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
