@@ -625,13 +625,10 @@
         "scatterpie",
         "testthat",
         "tidytree",
-        "treeio",
-        "visNetwork"
+        "treeio"
     ],
     "BiocDockerManager": [],
-    "BiocFHIR": [
-        "visNetwork"
-    ],
+    "BiocFHIR": [],
     "biocGraph": [
         "annotate",
         "geneplotter"
@@ -1418,8 +1415,7 @@
         "rtracklayer"
     ],
     "CIMICE": [
-        "ggraph",
-        "visNetwork"
+        "ggraph"
     ],
     "circRNAprofiler": [
         "AnnotationHub",
@@ -1783,8 +1779,7 @@
         "chipseq"
     ],
     "CoreGx": [
-        "piano",
-        "visNetwork"
+        "piano"
     ],
     "corral": [],
     "coseq": [
@@ -1803,8 +1798,7 @@
         "dorothea",
         "mixtools",
         "plotly",
-        "viper",
-        "visNetwork"
+        "viper"
     ],
     "COTAN": [],
     "countsimQC": [
@@ -2176,8 +2170,7 @@
         "text2vec",
         "textclean",
         "textstem",
-        "ttgsea",
-        "visNetwork"
+        "ttgsea"
     ],
     "deepSNV": [
         "BSgenome",
@@ -2694,8 +2687,7 @@
         "scatterpie",
         "testthat",
         "tidytree",
-        "treeio",
-        "visNetwork"
+        "treeio"
     ],
     "ensembldb": [
         "GenomicFeatures",
@@ -2914,8 +2906,7 @@
         "rtracklayer",
         "scatterpie",
         "tidytree",
-        "treeio",
-        "visNetwork"
+        "treeio"
     ],
     "escape": [
         "GSEABase",
@@ -3157,9 +3148,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "flowGraph": [
-        "visNetwork"
-    ],
+    "flowGraph": [],
     "flowPloidy": [
         "car",
         "lme4",
@@ -3411,8 +3400,7 @@
         "dendextend",
         "geneplotter",
         "plotly",
-        "tippy",
-        "visNetwork"
+        "tippy"
     ],
     "geneXtendeR": [
         "BiocStyle",
@@ -3498,8 +3486,7 @@
         "text2vec",
         "textclean",
         "textstem",
-        "ttgsea",
-        "visNetwork"
+        "ttgsea"
     ],
     "GenVisR": [
         "BSgenome",
@@ -3663,8 +3650,7 @@
         "rtracklayer"
     ],
     "GNET2": [
-        "DiagrammeR",
-        "visNetwork"
+        "DiagrammeR"
     ],
     "GOexpress": [
         "biomaRt"
@@ -3988,8 +3974,7 @@
         "ssrch"
     ],
     "hypeR": [
-        "kableExtra",
-        "visNetwork"
+        "kableExtra"
     ],
     "iBBiG": [],
     "iCARE": [
@@ -4099,8 +4084,7 @@
     "immunotation": [],
     "INDEED": [
         "devtools",
-        "testthat",
-        "visNetwork"
+        "testthat"
     ],
     "infercnv": [
         "Seurat",
@@ -4170,8 +4154,7 @@
         "pbkrtest",
         "plotly",
         "rstatix",
-        "testthat",
-        "visNetwork"
+        "testthat"
     ],
     "IntEREst": [
         "DESeq2",
@@ -4629,8 +4612,7 @@
     "mbOmic": [
         "GO.db",
         "Hmisc",
-        "WGCNA",
-        "visNetwork"
+        "WGCNA"
     ],
     "mBPCR": [
         "GWASTools",
@@ -6295,8 +6277,7 @@
         "rstatix",
         "survminer",
         "testthat",
-        "verification",
-        "visNetwork"
+        "verification"
     ],
     "pdInfoBuilder": [
         "oligo",
@@ -6342,8 +6323,7 @@
     ],
     "PharmacoGx": [
         "CoreGx",
-        "piano",
-        "visNetwork"
+        "piano"
     ],
     "phenomis": [
         "MultiDataSet",
@@ -6404,9 +6384,7 @@
         "ggnetwork",
         "recipes"
     ],
-    "piano": [
-        "visNetwork"
-    ],
+    "piano": [],
     "PICS": [],
     "Pigengene": [
         "BiocStyle",
@@ -6452,8 +6430,7 @@
     ],
     "pipeFrame": [
         "BSgenome",
-        "rtracklayer",
-        "visNetwork"
+        "rtracklayer"
     ],
     "PloGO2": [
         "AnnotationForge",
@@ -6881,8 +6858,7 @@
     ],
     "RadioGx": [
         "CoreGx",
-        "piano",
-        "visNetwork"
+        "piano"
     ],
     "ramr": [],
     "ramwas": [
@@ -6946,13 +6922,11 @@
         "GOSemSim"
     ],
     "Rcwl": [
-        "DiagrammeR",
-        "visNetwork"
+        "DiagrammeR"
     ],
     "RcwlPipelines": [
         "DiagrammeR",
-        "Rcwl",
-        "visNetwork"
+        "Rcwl"
     ],
     "RDRToolbox": [],
     "ReactomeGraph4R": [],
@@ -7826,8 +7800,7 @@
         "scatterpie",
         "schex",
         "tidytree",
-        "treeio",
-        "visNetwork"
+        "treeio"
     ],
     "scTGIF": [
         "BiocStyle",
@@ -7999,8 +7972,7 @@
         "reactome.db",
         "scatterpie",
         "tidytree",
-        "treeio",
-        "visNetwork"
+        "treeio"
     ],
     "signeR": [
         "BSgenome",
@@ -8294,8 +8266,7 @@
         "plotly",
         "scater",
         "scran",
-        "scuttle",
-        "visNetwork"
+        "scuttle"
     ],
     "spatzie": [
         "BSgenome",
@@ -8419,9 +8390,7 @@
         "Hmisc",
         "WGCNA"
     ],
-    "sRACIPE": [
-        "visNetwork"
-    ],
+    "sRACIPE": [],
     "SRAdb": [],
     "srnadiff": [
         "BSgenome",
@@ -8865,8 +8834,7 @@
     ],
     "ToxicoGx": [
         "CoreGx",
-        "piano",
-        "visNetwork"
+        "piano"
     ],
     "TPP": [
         "biobroom"
@@ -9001,8 +8969,7 @@
         "mlapi",
         "text2vec",
         "textclean",
-        "textstem",
-        "visNetwork"
+        "textstem"
     ],
     "TTMap": [],
     "TVTB": [
@@ -9103,8 +9070,7 @@
         "text2vec",
         "textclean",
         "textstem",
-        "ttgsea",
-        "visNetwork"
+        "ttgsea"
     ],
     "VanillaICE": [
         "BSgenome",
@@ -9199,8 +9165,7 @@
         "dendextend",
         "heatmaply",
         "plotly",
-        "topGO",
-        "visNetwork"
+        "topGO"
     ],
     "vissE": [
         "AnnotationHub",
@@ -9301,8 +9266,7 @@
     "Xeva": [
         "CoreGx",
         "PharmacoGx",
-        "piano",
-        "visNetwork"
+        "piano"
     ],
     "XINA": [],
     "XNAString": [
@@ -9572,10 +9536,7 @@
         "testthat"
     ],
     "org.Bt.eg.db": [],
-    "DiagrammeR": [
-        "visNetwork"
-    ],
-    "visNetwork": [],
+    "DiagrammeR": [],
     "gson": [],
     "HDO.db": [],
     "ggraph": [],
