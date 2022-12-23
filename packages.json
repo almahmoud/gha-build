@@ -5830,7 +5830,6 @@
         "benchmarkme",
         "benchmarkmeData",
         "dplyr",
-        "fastDummies",
         "lme4",
         "nloptr",
         "rematch2",
@@ -24882,7 +24881,6 @@
         "ggplot2",
         "qvalue"
     ],
-    "fastDummies": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "KEGGREST",
