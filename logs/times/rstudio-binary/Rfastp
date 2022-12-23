@@ -1,0 +1,499 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   8bfbbb4c..6dc7507e  main       -> origin/main
+Updating 8bfbbb4c..6dc7507e
+Fast-forward
+ lists/PepsNMR                                 |   2 +-
+ lists/RCy3                                    |   2 +-
+ lists/rsemmed                                 |   2 +-
+ lists/shinydashboardPlus                      |   2 +-
+ logs/run_ids/rstudio-binaries/SpacePAC        |   2 +
+ logs/run_ids/rstudio-binaries/sna             |   2 +
+ logs/run_ids/rstudio-binaries/spsComps        |   2 +
+ logs/sizes/rstudio-binaries/binaries/PepsNMR  |   1 +
+ logs/sizes/rstudio-binaries/binaries/RCy3     |   1 +
+ logs/sizes/rstudio-binaries/binaries/rsemmed  |   1 +
+ logs/sizes/rstudio-binaries/libraries/PepsNMR |   1 +
+ logs/sizes/rstudio-binaries/libraries/RCy3    |   1 +
+ logs/sizes/rstudio-binaries/libraries/rsemmed |   1 +
+ logs/times/rstudio-binary/PepsNMR             | 198 ++++++
+ logs/times/rstudio-binary/RCy3                | 862 ++++++++++++++++++++++++++
+ logs/times/rstudio-binary/rsemmed             | 437 +++++++++++++
+ packages.json                                 |  30 +-
+ 17 files changed, 1517 insertions(+), 30 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/SpacePAC
+ create mode 100644 logs/run_ids/rstudio-binaries/sna
+ create mode 100644 logs/run_ids/rstudio-binaries/spsComps
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/PepsNMR
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RCy3
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/rsemmed
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/PepsNMR
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RCy3
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/rsemmed
+ create mode 100644 logs/times/rstudio-binary/PepsNMR
+ create mode 100644 logs/times/rstudio-binary/RCy3
+ create mode 100644 logs/times/rstudio-binary/rsemmed
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=Rfastp
++ PKG=Rfastp
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "Rfastp"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency rjson is already found.
+Dependency ggplot2 is already found.
+Dependency reshape2 is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 6691k    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  3 6691k    3  250k    0     0   154k      0  0:00:43  0:00:01  0:00:42  154k  9 6691k    9  633k    0     0   242k      0  0:00:27  0:00:02  0:00:25  242k 17 6691k   17 1159k    0     0   320k      0  0:00:20  0:00:03  0:00:17  320k 28 6691k   28 1924k    0     0   417k      0  0:00:16  0:00:04  0:00:12  417k 43 6691k   43 2912k    0     0   519k      0  0:00:12  0:00:05  0:00:07  589k 61 6691k   61 4139k    0     0   626k      0  0:00:10  0:00:06  0:00:04  779k 84 6691k   84 5621k    0     0   738k      0  0:00:09  0:00:07  0:00:02  998k100 6691k  100 6691k    0     0   809k      0  0:00:08  0:00:08 --:--:-- 1188k
+built/
+built/Rhtslib/
+built/Rhtslib/libs/
+built/Rhtslib/libs/Rhtslib.so
+built/Rhtslib/NEWS
+built/Rhtslib/NAMESPACE
+built/Rhtslib/testdata/
+built/Rhtslib/testdata/formatmissing-out.vcf
+built/Rhtslib/testdata/formatcols.vcf
+built/Rhtslib/testdata/formatmissing.vcf
+built/Rhtslib/testdata/realn01.fa
+built/Rhtslib/testdata/c1#pad3.sam
+built/Rhtslib/testdata/ce#1.sam
+built/Rhtslib/testdata/tabix/
+built/Rhtslib/testdata/tabix/large_chr.vcf
+built/Rhtslib/testdata/tabix/gff_file.gff
+built/Rhtslib/testdata/tabix/vcf_file.vcf
+built/Rhtslib/testdata/tabix/bed_file.bed
+built/Rhtslib/testdata/tabix/vcf_file.bcf
+built/Rhtslib/testdata/c2#pad.sam
+built/Rhtslib/testdata/xx#tlen2.sam
+built/Rhtslib/testdata/auxf.fa.fai
+built/Rhtslib/testdata/realn01.fa.fai
+built/Rhtslib/testdata/realn01_exp-e.sam
+built/Rhtslib/testdata/no_hdr_sq_1.bam
+built/Rhtslib/testdata/xx#tlen.sam
+built/Rhtslib/testdata/c1#noseq.sam
+built/Rhtslib/testdata/xx#large_aux_java.cram
+built/Rhtslib/testdata/ce#large_seq.sam
+built/Rhtslib/testdata/faidx.fa
+built/Rhtslib/testdata/xx#triplet.sam
+built/Rhtslib/testdata/xx#large_aux2.sam
+built/Rhtslib/testdata/range.bam
+built/Rhtslib/testdata/ce#supp.sam
+built/Rhtslib/testdata/xx#minimal.sam
+built/Rhtslib/testdata/auxf#values.sam
+built/Rhtslib/testdata/c2.fa
+built/Rhtslib/testdata/realn01_exp.sam
+built/Rhtslib/testdata/xx#MD2.sam
+built/Rhtslib/testdata/realn02.sam
+built/Rhtslib/testdata/realn02-r.sam
+built/Rhtslib/testdata/no_hdr_sq_1.expected.sam
+built/Rhtslib/testdata/c1#pad1.sam
+built/Rhtslib/testdata/index.vcf
+built/Rhtslib/testdata/ce#unmap1.sam
+built/Rhtslib/testdata/ce#tag_padded.sam
+built/Rhtslib/testdata/xx#large_aux.sam
+built/Rhtslib/testdata/realn02.fa
+built/Rhtslib/testdata/md.fa
+built/Rhtslib/testdata/index2.sam
+built/Rhtslib/testdata/xx#MD.sam
+built/Rhtslib/testdata/realn02.fa.fai
+built/Rhtslib/testdata/index.sam
+built/Rhtslib/testdata/fieldarith.sam
+built/Rhtslib/testdata/ce#5b.sam
+built/Rhtslib/testdata/ce#5b_java.cram
+built/Rhtslib/testdata/xx#repeated.sam
+built/Rhtslib/testdata/ce.fa
+built/Rhtslib/testdata/index_dos.sam
+built/Rhtslib/testdata/noroundtrip.vcf
+built/Rhtslib/testdata/realn01.sam
+built/Rhtslib/testdata/colons.bam
+built/Rhtslib/testdata/c1#bounds.sam
+built/Rhtslib/testdata/noroundtrip-out.vcf
+built/Rhtslib/testdata/realn02_exp-a.sam
+built/Rhtslib/testdata/c1#pad2.sam
+built/Rhtslib/testdata/range.cram
+built/Rhtslib/testdata/xx#rg.sam
+built/Rhtslib/testdata/md.fa.fai
+built/Rhtslib/testdata/ce#1000.sam
+built/Rhtslib/testdata/c2.fa.fai
+built/Rhtslib/testdata/xx#pair.sam
+built/Rhtslib/testdata/c1#clip.sam
+built/Rhtslib/testdata/realn02_exp.sam
+built/Rhtslib/testdata/realn01_exp-a.sam
+built/Rhtslib/testdata/vcf_meta_meta.vcf
+built/Rhtslib/testdata/ce#tag_depadded.sam
+built/Rhtslib/testdata/md#1.sam
+built/Rhtslib/testdata/ce#5.sam
+built/Rhtslib/testdata/xx.fa
+built/Rhtslib/testdata/auxf.fa
+built/Rhtslib/testdata/realn02_exp-e.sam
+built/Rhtslib/testdata/ce#2.sam
+built/Rhtslib/testdata/c1.fa
+built/Rhtslib/testdata/ce#unmap.sam
+built/Rhtslib/testdata/xx#blank.sam
+built/Rhtslib/testdata/ce#unmap2.sam
+built/Rhtslib/testdata/c1#unknown.sam
+built/Rhtslib/testdata/auxf#values_java.cram
+built/Rhtslib/testdata/xx.fa.fai
+built/Rhtslib/testdata/c1.fa.fai
+built/Rhtslib/testdata/test-vcf-hdr-in.vcf
+built/Rhtslib/testdata/xx#unsorted.sam
+built/Rhtslib/testdata/ce.fa.fai
+built/Rhtslib/DESCRIPTION
+built/Rhtslib/help/
+built/Rhtslib/help/paths.rds
+built/Rhtslib/help/Rhtslib.rdx
+built/Rhtslib/help/aliases.rds
+built/Rhtslib/help/Rhtslib.rdb
+built/Rhtslib/help/AnIndex
+built/Rhtslib/Meta/
+built/Rhtslib/Meta/package.rds
+built/Rhtslib/Meta/vignette.rds
+built/Rhtslib/Meta/features.rds
+built/Rhtslib/Meta/hsearch.rds
+built/Rhtslib/Meta/links.rds
+built/Rhtslib/Meta/nsInfo.rds
+built/Rhtslib/Meta/Rd.rds
+built/Rhtslib/include/
+built/Rhtslib/include/bam_plbuf.c
+built/Rhtslib/include/bedidx.h
+built/Rhtslib/include/bedidx.c
+built/Rhtslib/include/samtools.h
+built/Rhtslib/include/samtools-1.7-compat.h
+built/Rhtslib/include/sam_utils.c
+built/Rhtslib/include/bam_sort.c
+built/Rhtslib/include/sam_opts.h
+built/Rhtslib/include/README
+built/Rhtslib/include/htslib/
+built/Rhtslib/include/htslib/hts_endian.h
+built/Rhtslib/include/htslib/khash_str2int.h
+built/Rhtslib/include/htslib/hts.h
+built/Rhtslib/include/htslib/ksort.h
+built/Rhtslib/include/htslib/kbitset.h
+built/Rhtslib/include/htslib/sam.h
+built/Rhtslib/include/htslib/thread_pool.h
+built/Rhtslib/include/htslib/hfile.h
+built/Rhtslib/include/htslib/kroundup.h
+built/Rhtslib/include/htslib/tbx.h
+built/Rhtslib/include/htslib/klist.h
+built/Rhtslib/include/htslib/vcf_sweep.h
+built/Rhtslib/include/htslib/hts_log.h
+built/Rhtslib/include/htslib/kstring.h
+built/Rhtslib/include/htslib/bgzf.h
+built/Rhtslib/include/htslib/knetfile.h
+built/Rhtslib/include/htslib/cram.h
+built/Rhtslib/include/htslib/regidx.h
+built/Rhtslib/include/htslib/hts_os.h
+built/Rhtslib/include/htslib/vcfutils.h
+built/Rhtslib/include/htslib/faidx.h
+built/Rhtslib/include/htslib/khash.h
+built/Rhtslib/include/htslib/vcf.h
+built/Rhtslib/include/htslib/hts_expr.h
+built/Rhtslib/include/htslib/kseq.h
+built/Rhtslib/include/htslib/hts_defs.h
+built/Rhtslib/include/htslib/kfunc.h
+built/Rhtslib/include/htslib/synced_bcf_reader.h
+built/Rhtslib/include/bam_cat.c
+built/Rhtslib/include/sam_opts.c
+built/Rhtslib/include/bam_plbuf.h
+built/Rhtslib/usrlib/
+built/Rhtslib/usrlib/libhts.so
+built/Rhtslib/usrlib/libhts.so.2
+built/Rhtslib/usrlib/libhts.a
+built/Rhtslib/html/
+built/Rhtslib/html/00Index.html
+built/Rhtslib/html/R.css
+built/Rhtslib/INDEX
+built/Rhtslib/doc/
+built/Rhtslib/doc/Rhtslib.html
+built/Rhtslib/doc/Rhtslib.Rmd
+built/Rhtslib/doc/index.html
+built/Rhtslib/doc/Rhtslib.R
+built/Rhtslib/R/
+built/Rhtslib/R/Rhtslib
+built/Rhtslib/R/Rhtslib.rdx
+built/Rhtslib/R/Rhtslib.rdb
+built/zlibbioc/
+built/zlibbioc/libs/
+built/zlibbioc/libs/zlibbioc.so
+built/zlibbioc/NAMESPACE
+built/zlibbioc/DESCRIPTION
+built/zlibbioc/help/
+built/zlibbioc/help/paths.rds
+built/zlibbioc/help/zlibbioc.rdx
+built/zlibbioc/help/zlibbioc.rdb
+built/zlibbioc/help/aliases.rds
+built/zlibbioc/help/AnIndex
+built/zlibbioc/Meta/
+built/zlibbioc/Meta/package.rds
+built/zlibbioc/Meta/vignette.rds
+built/zlibbioc/Meta/features.rds
+built/zlibbioc/Meta/hsearch.rds
+built/zlibbioc/Meta/links.rds
+built/zlibbioc/Meta/nsInfo.rds
+built/zlibbioc/Meta/Rd.rds
+built/zlibbioc/include/
+built/zlibbioc/LICENSE
+built/zlibbioc/html/
+built/zlibbioc/html/00Index.html
+built/zlibbioc/html/R.css
+built/zlibbioc/INDEX
+built/zlibbioc/doc/
+built/zlibbioc/doc/UsingZlibbioc.Rnw
+built/zlibbioc/doc/index.html
+built/zlibbioc/doc/UsingZlibbioc.pdf
+built/zlibbioc/R/
+built/zlibbioc/R/zlibbioc.rdx
+built/zlibbioc/R/zlibbioc.rdb
+built/zlibbioc/R/zlibbioc
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''Rfastp'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv Rfastp_1.8.0_R_x86_64-pc-linux-gnu.tar.gz Rhtslib_2.0.0_R_x86_64-pc-linux-gnu.tar.gz zlibbioc_1.44.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/Rfastp
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'Rfastp'
+also installing the dependencies ‘Rhtslib’, ‘zlibbioc’
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/Rhtslib_2.0.0.tar.gz'
+Content type 'application/x-gzip' length 4581319 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/zlibbioc_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 214256 bytes (209 KB)
+==================================================
+downloaded 209 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/Rfastp_1.8.0.tar.gz'
+Content type 'application/x-gzip' length 2798057 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+* installing *source* package ‘zlibbioc’ ...
+** using staged installation
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+mkdir -p "/__w/gha-build/gha-build/built/00LOCK-zlibbioc/00new/zlibbioc/include"
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_zlibbioc.c -o R_init_zlibbioc.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o zlibbioc.so R_init_zlibbioc.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-zlibbioc/00new/zlibbioc/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘zlibbioc’ as ‘zlibbioc_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zlibbioc)
+* installing *source* package ‘Rhtslib’ ...
+** using non-staged installation via StagedInstall field
+** libs
+cd "htslib-1.15.1" && make -f "Makefile.Rhtslib"
+make[1]: Entering directory '/tmp/RtmpJCO1M7/R.INSTALL5c646582548/Rhtslib/src/htslib-1.15.1'
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o kfunc.o kfunc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o kstring.o kstring.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o bcf_sr_sort.o bcf_sr_sort.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o bgzf.o bgzf.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o errmod.o errmod.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o faidx.o faidx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o header.o header.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o hfile.o hfile.c
+echo '#define HTS_VERSION_TEXT "1.15.1"' > version.h
+echo '#define HTS_CC "gcc"' > config_vars.h
+echo '#define HTS_CPPFLAGS "-I/usr/local/include -D_FILE_OFFSET_BITS=64"' >> config_vars.h
+echo '#define HTS_CFLAGS "-g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden"' >> config_vars.h
+echo '#define HTS_LDFLAGS "-L/usr/local/lib -fvisibility=hidden"' >> config_vars.h
+echo '#define HTS_LIBS "-lz -lm -lbz2 -llzma -lcurl"' >> config_vars.h
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o hts.o hts.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o hts_expr.o hts_expr.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o hts_os.o hts_os.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o md5.o md5.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o multipart.o multipart.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o probaln.o probaln.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o realn.o realn.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o regidx.o regidx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o region.o region.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o sam.o sam.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o synced_bcf_reader.o synced_bcf_reader.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o vcf_sweep.o vcf_sweep.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o tbx.o tbx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o textutils.o textutils.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o thread_pool.o thread_pool.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o vcf.o vcf.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o vcfutils.o vcfutils.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_codecs.o cram/cram_codecs.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_decode.o cram/cram_decode.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_encode.o cram/cram_encode.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_external.o cram/cram_external.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_index.o cram/cram_index.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_io.o cram/cram_io.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_stats.o cram/cram_stats.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/mFILE.o cram/mFILE.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/open_trace_file.o cram/open_trace_file.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/pooled_alloc.o cram/pooled_alloc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/string_alloc.o cram/string_alloc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o htscodecs/htscodecs/arith_dynamic.o htscodecs/htscodecs/arith_dynamic.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o htscodecs/htscodecs/fqzcomp_qual.o htscodecs/htscodecs/fqzcomp_qual.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o htscodecs/htscodecs/htscodecs.o htscodecs/htscodecs/htscodecs.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o htscodecs/htscodecs/pack.o htscodecs/htscodecs/pack.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o htscodecs/htscodecs/rANS_static4x16pr.o htscodecs/htscodecs/rANS_static4x16pr.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o htscodecs/htscodecs/rANS_static.o htscodecs/htscodecs/rANS_static.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o htscodecs/htscodecs/rle.o htscodecs/htscodecs/rle.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o htscodecs/htscodecs/tokenise_name3.o htscodecs/htscodecs/tokenise_name3.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o hfile_libcurl.o hfile_libcurl.c
+ar -rc libhts.a kfunc.o kstring.o bcf_sr_sort.o bgzf.o errmod.o faidx.o header.o hfile.o hts.o hts_expr.o hts_os.o md5.o multipart.o probaln.o realn.o regidx.o region.o sam.o synced_bcf_reader.o vcf_sweep.o tbx.o textutils.o thread_pool.o vcf.o vcfutils.o cram/cram_codecs.o cram/cram_decode.o cram/cram_encode.o cram/cram_external.o cram/cram_index.o cram/cram_io.o cram/cram_stats.o cram/mFILE.o cram/open_trace_file.o cram/pooled_alloc.o cram/string_alloc.o htscodecs/htscodecs/arith_dynamic.o htscodecs/htscodecs/fqzcomp_qual.o htscodecs/htscodecs/htscodecs.o htscodecs/htscodecs/pack.o htscodecs/htscodecs/rANS_static4x16pr.o htscodecs/htscodecs/rANS_static.o htscodecs/htscodecs/rle.o htscodecs/htscodecs/tokenise_name3.o hfile_libcurl.o
+ranlib libhts.a
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o kfunc.pico kfunc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o kstring.pico kstring.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o bcf_sr_sort.pico bcf_sr_sort.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o bgzf.pico bgzf.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o errmod.pico errmod.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o faidx.pico faidx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o header.pico header.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hfile.pico hfile.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hts.pico hts.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hts_expr.pico hts_expr.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hts_os.pico hts_os.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o md5.pico md5.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o multipart.pico multipart.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o probaln.pico probaln.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o realn.pico realn.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o regidx.pico regidx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o region.pico region.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o sam.pico sam.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o synced_bcf_reader.pico synced_bcf_reader.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o vcf_sweep.pico vcf_sweep.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o tbx.pico tbx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o textutils.pico textutils.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o thread_pool.pico thread_pool.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o vcf.pico vcf.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o vcfutils.pico vcfutils.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_codecs.pico cram/cram_codecs.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_decode.pico cram/cram_decode.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_encode.pico cram/cram_encode.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_external.pico cram/cram_external.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_index.pico cram/cram_index.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_io.pico cram/cram_io.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_stats.pico cram/cram_stats.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/mFILE.pico cram/mFILE.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/open_trace_file.pico cram/open_trace_file.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/pooled_alloc.pico cram/pooled_alloc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/string_alloc.pico cram/string_alloc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o htscodecs/htscodecs/arith_dynamic.pico htscodecs/htscodecs/arith_dynamic.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o htscodecs/htscodecs/fqzcomp_qual.pico htscodecs/htscodecs/fqzcomp_qual.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o htscodecs/htscodecs/htscodecs.pico htscodecs/htscodecs/htscodecs.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o htscodecs/htscodecs/pack.pico htscodecs/htscodecs/pack.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o htscodecs/htscodecs/rANS_static4x16pr.pico htscodecs/htscodecs/rANS_static4x16pr.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o htscodecs/htscodecs/rANS_static.pico htscodecs/htscodecs/rANS_static.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o htscodecs/htscodecs/rle.pico htscodecs/htscodecs/rle.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o htscodecs/htscodecs/tokenise_name3.pico htscodecs/htscodecs/tokenise_name3.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -fvisibility=hidden -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hfile_libcurl.pico hfile_libcurl.c
+gcc -shared -Wl,-soname,libhts.so.3 -L/usr/local/lib -fvisibility=hidden -o libhts.so kfunc.pico kstring.pico bcf_sr_sort.pico bgzf.pico errmod.pico faidx.pico header.pico hfile.pico hts.pico hts_expr.pico hts_os.pico md5.pico multipart.pico probaln.pico realn.pico regidx.pico region.pico sam.pico synced_bcf_reader.pico vcf_sweep.pico tbx.pico textutils.pico thread_pool.pico vcf.pico vcfutils.pico cram/cram_codecs.pico cram/cram_decode.pico cram/cram_encode.pico cram/cram_external.pico cram/cram_index.pico cram/cram_io.pico cram/cram_stats.pico cram/mFILE.pico cram/open_trace_file.pico cram/pooled_alloc.pico cram/string_alloc.pico htscodecs/htscodecs/arith_dynamic.pico htscodecs/htscodecs/fqzcomp_qual.pico htscodecs/htscodecs/htscodecs.pico htscodecs/htscodecs/pack.pico htscodecs/htscodecs/rANS_static4x16pr.pico htscodecs/htscodecs/rANS_static.pico htscodecs/htscodecs/rle.pico htscodecs/htscodecs/tokenise_name3.pico hfile_libcurl.pico -lz -lm -lbz2 -llzma -lcurl -lpthread
+ln -sf libhts.so libhts.so.3
+make[1]: Leaving directory '/tmp/RtmpJCO1M7/R.INSTALL5c646582548/Rhtslib/src/htslib-1.15.1'
+mkdir -p "/__w/gha-build/gha-build/built/Rhtslib/include/htslib"
+cd "htslib-1.15.1/htslib" && cp * "/__w/gha-build/gha-build/built/Rhtslib/include/htslib"
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I"/__w/gha-build/gha-build/built/Rhtslib/include" -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_Rhtslib.c -o R_init_Rhtslib.o
+mkdir -p "/__w/gha-build/gha-build/built/Rhtslib/usrlib"
+cd "htslib-1.15.1" && cp libhts.so libhts.a "/__w/gha-build/gha-build/built/Rhtslib/usrlib"
+cd "/__w/gha-build/gha-build/built/Rhtslib/usrlib" && ln -s libhts.so libhts.so.2
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Rhtslib.so R_init_Rhtslib.o /__w/gha-build/gha-build/built/Rhtslib/usrlib/libhts.a -lcurl -L/usr/local/lib/R/lib -lR
+mkdir -p "/__w/gha-build/gha-build/built/Rhtslib/testdata/tabix"
+cd "htslib-1.15.1/test" && (cp *.sam *.bam *.vcf *.bcf *.cram *.fa *.fa.fai *.gff *.bed "/__w/gha-build/gha-build/built/Rhtslib/testdata" 2>/dev/null || true) && cd tabix && (cp *.sam *.bam *.vcf *.bcf *.cram *.fa *.fa.fai *.gff *.bed "/__w/gha-build/gha-build/built/Rhtslib/testdata/tabix" 2>/dev/null || true)
+installing to /__w/gha-build/gha-build/built/Rhtslib/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* creating tarball
+packaged installation of ‘Rhtslib’ as ‘Rhtslib_2.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rhtslib)
+* installing *source* package ‘Rfastp’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c main_fastp.cpp -o main_fastp.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/adaptertrimmer.cpp -o FASTP/adaptertrimmer.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/basecorrector.cpp -o FASTP/basecorrector.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/duplicate.cpp -o FASTP/duplicate.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/evaluator.cpp -o FASTP/evaluator.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/fastareader.cpp -o FASTP/fastareader.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/fastqreader.cpp -o FASTP/fastqreader.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/filter.cpp -o FASTP/filter.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/filterresult.cpp -o FASTP/filterresult.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/htmlreporter.cpp -o FASTP/htmlreporter.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/jsonreporter.cpp -o FASTP/jsonreporter.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/nucleotidetree.cpp -o FASTP/nucleotidetree.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/options.cpp -o FASTP/options.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/overlapanalysis.cpp -o FASTP/overlapanalysis.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/peprocessor.cpp -o FASTP/peprocessor.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/polyx.cpp -o FASTP/polyx.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/processor.cpp -o FASTP/processor.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/read.cpp -o FASTP/read.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/seprocessor.cpp -o FASTP/seprocessor.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/sequence.cpp -o FASTP/sequence.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/stats.cpp -o FASTP/stats.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/threadconfig.cpp -o FASTP/threadconfig.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/umiprocessor.cpp -o FASTP/umiprocessor.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/unittest.cpp -o FASTP/unittest.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/writer.cpp -o FASTP/writer.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I. -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c FASTP/writerthread.cpp -o FASTP/writerthread.o
+/bin/bash: line 1:  /usr/local/lib/R/bin/R: No such file or directory
+/bin/bash: line 1:  /usr/local/lib/R/bin/R: No such file or directory
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Rfastp.so ./RcppExports.o ./main_fastp.o ./FASTP/adaptertrimmer.o ./FASTP/basecorrector.o ./FASTP/duplicate.o ./FASTP/evaluator.o ./FASTP/fastareader.o ./FASTP/fastqreader.o ./FASTP/filter.o ./FASTP/filterresult.o ./FASTP/htmlreporter.o ./FASTP/jsonreporter.o ./FASTP/nucleotidetree.o ./FASTP/options.o ./FASTP/overlapanalysis.o ./FASTP/peprocessor.o ./FASTP/polyx.o ./FASTP/processor.o ./FASTP/read.o ./FASTP/seprocessor.o ./FASTP/sequence.o ./FASTP/stats.o ./FASTP/threadconfig.o ./FASTP/umiprocessor.o ./FASTP/unittest.o ./FASTP/writer.o ./FASTP/writerthread.o /__w/gha-build/gha-build/built/Rhtslib/usrlib/libhts.a -lcurl -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-Rfastp/00new/Rfastp/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Rfastp’ as ‘Rfastp_1.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rfastp)
+
+The downloaded source packages are in
+	‘/tmp/RtmpokDBvz/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	3m53.926s
+user	3m31.471s
+sys	0m15.849s

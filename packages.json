@@ -11208,7 +11208,6 @@
         "testthat",
         "viridis"
     ],
-    "Rfastp": [],
     "rfPred": [],
     "rGADEM": [
         "BSgenome",
