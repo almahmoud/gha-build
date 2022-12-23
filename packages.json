@@ -948,7 +948,6 @@
         "MultiAssayExperiment",
         "RSQLite",
         "RcppML",
-        "Rmpfr",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -3319,7 +3318,6 @@
         "RSQLite",
         "RcppML",
         "Rfast",
-        "Rmpfr",
         "Rvmmin",
         "ScaledMatrix",
         "Seurat",
@@ -20742,7 +20740,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "Rmpfr",
         "TH.data",
         "XVector",
         "annotate",
@@ -29550,7 +29547,6 @@
         "RSQLite",
         "RcppML",
         "Rfast",
-        "Rmpfr",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -31831,7 +31827,6 @@
         "KEGGREST",
         "RSQLite",
         "RankProd",
-        "Rmpfr",
         "XVector",
         "blob",
         "doRNG",
@@ -36881,7 +36876,6 @@
         "MultiDataSet",
         "PMCMRplus",
         "RSQLite",
-        "Rmpfr",
         "SummarizedExperiment",
         "VennDiagram",
         "XVector",
@@ -37764,7 +37758,6 @@
         "RSQLite",
         "RSpectra",
         "RankProd",
-        "Rmpfr",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -40085,9 +40078,7 @@
     ],
     "randPack": [],
     "randRotation": [],
-    "RankProd": [
-        "Rmpfr"
-    ],
+    "RankProd": [],
     "RAREsim": [
         "nloptr",
         "pillar",
@@ -47093,7 +47084,6 @@
         "NMF",
         "PMCMRplus",
         "RSQLite",
-        "Rmpfr",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -50775,7 +50765,6 @@
     ],
     "synlet": [
         "RankProd",
-        "Rmpfr",
         "broom",
         "doBy",
         "dplyr",
@@ -52754,7 +52743,6 @@
         "KEGGREST",
         "RSQLite",
         "RankProd",
-        "Rmpfr",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -55200,7 +55188,6 @@
         "PMCMRplus",
         "RBGL",
         "RSQLite",
-        "Rmpfr",
         "Rsamtools",
         "SomaticSignatures",
         "SummarizedExperiment",
@@ -56094,9 +56081,7 @@
         "tibble",
         "vctrs"
     ],
-    "CVXR": [
-        "Rmpfr"
-    ],
+    "CVXR": [],
     "DescTools": [
         "cellranger",
         "e1071",
@@ -56121,7 +56106,6 @@
         "vctrs",
         "waldo"
     ],
-    "Rmpfr": [],
     "gld": [
         "e1071"
     ],
@@ -60509,7 +60493,6 @@
     ],
     "HH": [
         "Hmisc",
-        "Rmpfr",
         "TH.data",
         "bslib",
         "fontawesome",
@@ -62154,8 +62137,7 @@
     ],
     "webutils": [],
     "PMCMRplus": [
-        "BWStest",
-        "Rmpfr"
+        "BWStest"
     ],
     "BWStest": [],
     "SmoothWin": [
