@@ -4800,7 +4800,6 @@
         "EBImage",
         "Hmisc",
         "contrast",
-        "flowMeans",
         "flowMerge",
         "ggplot2",
         "htmlTable",
@@ -8750,7 +8749,6 @@
     "flowMap": [
         "reshape2"
     ],
-    "flowMeans": [],
     "flowMerge": [],
     "flowPloidy": [
         "broom",
@@ -17172,7 +17170,6 @@
     ],
     "optimalFlow": [
         "dplyr",
-        "flowMeans",
         "htmlwidgets",
         "rgl",
         "rmarkdown"
