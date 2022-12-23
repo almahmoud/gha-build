@@ -8478,7 +8478,6 @@
         "rmarkdown",
         "shinyBS"
     ],
-    "fastreeR": [],
     "fastseg": [
         "GenomicRanges"
     ],
