@@ -133,7 +133,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "GeneStructureTools": [],
     "GenomicSuperSignature": [],
     "GenProSeq": [
         "DeepPINCS",
