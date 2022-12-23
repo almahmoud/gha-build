@@ -13320,8 +13320,7 @@
         "jpeg",
         "lambda.r",
         "latticeExtra",
-        "timeSeries",
-        "timsac"
+        "timeSeries"
     ],
     "ChIPsim": [
         "Biobase",
@@ -100185,7 +100184,6 @@
         "RcppArmadillo",
         "irlba"
     ],
-    "timsac": [],
     "ChIPXpressData": [
         "bigmemory",
         "bigmemory.sri"
