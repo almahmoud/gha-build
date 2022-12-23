@@ -36733,7 +36733,6 @@
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
-        "KMsurv",
         "KernSmooth",
         "Matrix",
         "MatrixGenerics",
@@ -40306,7 +40305,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -47124,7 +47122,6 @@
     ],
     "iPath": [
         "BiocParallel",
-        "KMsurv",
         "Matrix",
         "MatrixModels",
         "Rcpp",
@@ -48438,7 +48435,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "KMsurv",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -68011,7 +68007,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "KMsurv",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -70764,7 +70759,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "KernSmooth",
         "Matrix",
         "MatrixGenerics",
@@ -84512,7 +84506,6 @@
         "gtools"
     ],
     "RTCGA": [
-        "KMsurv",
         "Matrix",
         "MatrixModels",
         "RCurl",
@@ -91416,7 +91409,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -91598,7 +91590,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "KMsurv",
         "KernSmooth",
         "Matrix",
         "MatrixGenerics",
@@ -97910,7 +97901,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "KMsurv",
         "Matrix",
         "MatrixGenerics",
         "MatrixModels",
@@ -118295,7 +118285,6 @@
         "vctrs"
     ],
     "survminer": [
-        "KMsurv",
         "Matrix",
         "MatrixModels",
         "Rcpp",
@@ -118362,7 +118351,6 @@
     ],
     "maxstat": [],
     "survMisc": [
-        "KMsurv",
         "Matrix",
         "evaluate",
         "ggplot2",
@@ -118386,7 +118374,6 @@
         "yaml",
         "zoo"
     ],
-    "KMsurv": [],
     "km.ci": [
         "Matrix",
         "survival"
@@ -123858,7 +123845,6 @@
         "paradox"
     ],
     "survivalAnalysis": [
-        "KMsurv",
         "Matrix",
         "MatrixModels",
         "Rcpp",
