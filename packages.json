@@ -222,7 +222,6 @@
     ],
     "arrayQualityMetrics": [
         "Hmisc",
-        "beadarray",
         "genefilter"
     ],
     "artMS": [
@@ -401,7 +400,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "beadarray": [],
     "BEARscc": [],
     "BEAT": [
         "BSgenome",
@@ -619,9 +617,7 @@
         "geneplotter",
         "pasilla"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "PADOG",
         "hgu133a.db",
@@ -2175,9 +2171,7 @@
         "rstatix",
         "rtracklayer"
     ],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "BSgenome",
         "GreyListChIP",
