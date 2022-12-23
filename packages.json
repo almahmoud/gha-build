@@ -951,8 +951,7 @@
         "GenomicFeatures",
         "biomaRt",
         "dbplyr",
-        "rtracklayer",
-        "sjmisc"
+        "rtracklayer"
     ],
     "BgeeDB": [
         "AnnotationDbi",
@@ -16720,7 +16719,6 @@
         "phyloseq"
     ],
     "tidytext": [],
-    "sjmisc": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
