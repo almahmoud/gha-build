@@ -1666,7 +1666,6 @@
         "htmlTable",
         "htmlwidgets",
         "intergraph",
-        "network",
         "networkD3",
         "patchwork",
         "rmarkdown",
@@ -2175,7 +2174,6 @@
         "htmlTable",
         "htmlwidgets",
         "intergraph",
-        "network",
         "networkD3",
         "patchwork",
         "rmarkdown",
@@ -2597,7 +2595,6 @@
         "htmlTable",
         "htmlwidgets",
         "intergraph",
-        "network",
         "patchwork",
         "qvalue",
         "rmarkdown",
@@ -2685,7 +2682,6 @@
         "ggtree",
         "gson",
         "lme4",
-        "network",
         "nloptr",
         "patchwork",
         "pbkrtest",
@@ -3299,7 +3295,6 @@
         "GGally",
         "MSnbase",
         "htmlwidgets",
-        "network",
         "plotly",
         "rmarkdown",
         "sna",
@@ -5706,7 +5701,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "network",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "patchwork",
@@ -6762,7 +6756,6 @@
         "ggtree",
         "gson",
         "intergraph",
-        "network",
         "patchwork",
         "qvalue",
         "scatterpie",
@@ -7925,7 +7918,6 @@
     ],
     "GGPA": [
         "GGally",
-        "network",
         "sna",
         "tidyr"
     ],
@@ -12990,8 +12982,7 @@
         "tidyr"
     ],
     "nethet": [
-        "ICSNP",
-        "network"
+        "ICSNP"
     ],
     "netOmics": [
         "AnnotationDbi",
@@ -14227,7 +14218,6 @@
         "ggsignif",
         "ggtext",
         "lme4",
-        "network",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -14267,7 +14257,6 @@
         "dnet",
         "ggnetwork",
         "ggrepel",
-        "network",
         "readr",
         "recipes",
         "sna",
@@ -19325,7 +19314,6 @@
         "ggrepel",
         "htmlwidgets",
         "intergraph",
-        "network",
         "networkD3",
         "rematch2",
         "rmarkdown",
@@ -21783,20 +21771,14 @@
     ],
     "ggnetwork": [
         "ggrepel",
-        "network",
         "sna"
     ],
-    "intergraph": [
-        "network"
-    ],
+    "intergraph": [],
     "networkD3": [
         "htmlwidgets",
         "rmarkdown"
     ],
-    "network": [],
-    "sna": [
-        "network"
-    ],
+    "sna": [],
     "shinyBS": [
         "shiny"
     ],
