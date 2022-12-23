@@ -1293,7 +1293,6 @@
         "ensembldb",
         "viridis"
     ],
-    "customCMPdb": [],
     "customProDB": [
         "BSgenome",
         "GenomicFeatures",
