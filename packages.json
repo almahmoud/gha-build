@@ -4317,7 +4317,6 @@
         "FactoMineR",
         "GenomicFeatures",
         "HelloRanges",
-        "OMICsPCAdata",
         "VariantAnnotation",
         "car",
         "factoextra",
@@ -7171,7 +7170,6 @@
         "labelled",
         "questionr"
     ],
-    "OMICsPCAdata": [],
     "AICcmodavg": [
         "lme4",
         "nloptr",
