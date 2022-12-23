@@ -50260,7 +50260,6 @@
         "pillar",
         "plotly",
         "promises",
-        "proxyC",
         "purrr",
         "reshape2",
         "rhdf5",
@@ -53222,7 +53221,6 @@
         "multtest",
         "phyloseq",
         "pillar",
-        "proxyC",
         "purrr",
         "reshape2",
         "reticulate",
@@ -53341,7 +53339,6 @@
         "memoise",
         "openssl",
         "org.Hs.eg.db",
-        "proxyC",
         "tm",
         "vctrs"
     ],
@@ -70810,7 +70807,6 @@
         "vctrs"
     ],
     "copula": [],
-    "proxyC": [],
     "extRemes": [
         "Lmoments"
     ],
