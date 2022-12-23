@@ -39218,7 +39218,6 @@
     "scde": [
         "BiocParallel",
         "edgeR",
-        "extRemes",
         "quantreg"
     ],
     "scds": [
@@ -54529,7 +54528,6 @@
         "tibble",
         "tidyselect"
     ],
-    "extRemes": [],
     "torch": [],
     "sparsepca": [],
     "origami": [
