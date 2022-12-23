@@ -792,7 +792,6 @@
         "igraph",
         "jquerylib",
         "knitr",
-        "limSolve",
         "mgcv",
         "missForest",
         "mixOmics",
@@ -3590,7 +3589,6 @@
         "LIM",
         "Rgraphviz",
         "hyperdraw",
-        "limSolve",
         "rsbml",
         "stringr"
     ],
@@ -13061,7 +13059,6 @@
     ],
     "DeconRNASeq": [
         "ggplot2",
-        "limSolve",
         "mgcv",
         "pcaMethods",
         "pillar",
@@ -15269,7 +15266,6 @@
         "interactiveDisplayBase",
         "jquerylib",
         "knitr",
-        "limSolve",
         "lme4",
         "mgcv",
         "mixtools",
@@ -22148,7 +22144,6 @@
         "ggplotify",
         "jquerylib",
         "knitr",
-        "limSolve",
         "mgcv",
         "officer",
         "pander",
@@ -34380,7 +34375,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "limSolve",
         "metap",
         "mgcv",
         "motifStack",
@@ -41115,7 +41109,6 @@
         "XVector",
         "dplyr",
         "ggplot2",
-        "limSolve",
         "mgcv",
         "pillar",
         "purrr",
@@ -57202,7 +57195,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "limSolve",
         "mgcv",
         "openssl",
         "pcaMethods",
@@ -58008,10 +58000,7 @@
         "stringr",
         "tibble"
     ],
-    "baseline": [
-        "limSolve"
-    ],
-    "limSolve": [],
+    "baseline": [],
     "rARPACK": [
         "RSpectra",
         "RcppEigen"
@@ -59507,9 +59496,7 @@
         "tidyselect"
     ],
     "sjlabelled": [],
-    "LIM": [
-        "limSolve"
-    ],
+    "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
