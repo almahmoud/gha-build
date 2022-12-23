@@ -22870,7 +22870,6 @@
     ],
     "LedPred": [
         "ROCR",
-        "akima",
         "ggplot2",
         "gplots",
         "pillar",
@@ -54483,7 +54482,6 @@
         "stringr",
         "vctrs"
     ],
-    "akima": [],
     "LogicReg": [],
     "reldist": [
         "densEstBayes",
