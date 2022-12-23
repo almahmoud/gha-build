@@ -101,9 +101,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "AlpsNMR": [
-        "mixOmics"
-    ],
+    "AlpsNMR": [],
     "AMARETTO": [
         "AnnotationHub",
         "ExperimentHub",
@@ -1723,9 +1721,7 @@
         "sva"
     ],
     "DEP": [],
-    "DepecheR": [
-        "mixOmics"
-    ],
+    "DepecheR": [],
     "derfinder": [
         "BSgenome",
         "GenomicFeatures",
@@ -4105,7 +4101,6 @@
         "deepSNV",
         "rtracklayer"
     ],
-    "mixOmics": [],
     "MLInterfaces": [
         "genefilter"
     ],
@@ -4360,7 +4355,6 @@
         "enrichplot",
         "geneplotter",
         "ggtree",
-        "mixOmics",
         "reactome.db",
         "ropls",
         "scatterpie",
@@ -5011,8 +5005,7 @@
     "POMA": [
         "DESeq2",
         "caret",
-        "geneplotter",
-        "mixOmics"
+        "geneplotter"
     ],
     "PoTRA": [],
     "POWSC": [],
@@ -6793,7 +6786,6 @@
         "genefilter"
     ],
     "timeOmics": [
-        "mixOmics",
         "propr"
     ],
     "TimiRGeN": [
