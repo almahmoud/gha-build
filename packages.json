@@ -23482,7 +23482,6 @@
     ],
     "LedPred": [
         "ROCR",
-        "akima",
         "e1071",
         "ggplot2",
         "pillar",
@@ -55949,7 +55948,6 @@
         "shiny",
         "stringr"
     ],
-    "akima": [],
     "scam": [],
     "LogicReg": [],
     "reldist": [
