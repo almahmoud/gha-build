@@ -470,9 +470,7 @@
     "coseq": [
         "HTSFilter"
     ],
-    "cosmosR": [
-        "dorothea"
-    ],
+    "cosmosR": [],
     "crisprDesign": [
         "VariantAnnotation",
         "crisprScore",
@@ -663,7 +661,6 @@
     "DSS": [],
     "easier": [
         "car",
-        "dorothea",
         "easierData",
         "ggpubr",
         "rstatix"
@@ -2506,7 +2503,6 @@
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi"
     ],
-    "dorothea": [],
     "crisprScoreData": [],
     "text2vec": [
         "mlapi"
