@@ -36531,7 +36531,6 @@
         "R.filesets",
         "R.huge",
         "R.rsp",
-        "ROTS",
         "RSQLite",
         "XVector",
         "affy",
@@ -43117,7 +43116,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ROTS",
         "SummarizedExperiment",
         "XVector",
         "doParallel",
@@ -43178,7 +43176,6 @@
         "vctrs"
     ],
     "ROSeq": [],
-    "ROTS": [],
     "RPA": [
         "BiocStyle",
         "Biostrings",
