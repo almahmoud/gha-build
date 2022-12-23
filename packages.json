@@ -1186,7 +1186,6 @@
         "stringr",
         "tibble"
     ],
-    "aroma.light": [],
     "ArrayExpress": [
         "Biostrings",
         "DelayedArray",
@@ -7363,7 +7362,6 @@
         "XVector",
         "airway",
         "annotate",
-        "aroma.light",
         "biomaRt",
         "dbplyr",
         "dendextend",
@@ -8760,7 +8758,6 @@
         "XVector",
         "annotate",
         "arm",
-        "aroma.light",
         "biomaRt",
         "broom",
         "bslib",
@@ -10831,7 +10828,6 @@
         "ShortRead",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "dbplyr",
         "dplyr",
@@ -13601,7 +13597,6 @@
         "XVector",
         "annotate",
         "arm",
-        "aroma.light",
         "biomaRt",
         "broom",
         "bslib",
@@ -20431,7 +20426,6 @@
         "VennDiagram",
         "XVector",
         "annotate",
-        "aroma.light",
         "baySeq",
         "beachmat",
         "biomaRt",
@@ -25023,7 +25017,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "aroma.light",
         "beachmat",
         "biomaRt",
         "bslib",
@@ -26534,7 +26527,6 @@
         "aroma.affymetrix",
         "aroma.apd",
         "aroma.core",
-        "aroma.light",
         "genefilter",
         "httr"
     ],
@@ -30439,7 +30431,6 @@
         "TFBSTools",
         "XVector",
         "annotate",
-        "aroma.light",
         "biomaRt",
         "bslib",
         "dbplyr",
@@ -31829,7 +31820,6 @@
         "ShortRead",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "dbplyr",
         "dplyr",
@@ -32857,7 +32847,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "biomaRt",
         "bslib",
         "crosstalk",
@@ -36081,7 +36070,6 @@
         "SpatialExperiment",
         "SummarizedExperiment",
         "XVector",
-        "aroma.light",
         "beachmat",
         "biomaRt",
         "dbplyr",
@@ -37716,7 +37704,6 @@
         "aroma.affymetrix",
         "aroma.apd",
         "aroma.core",
-        "aroma.light",
         "bslib",
         "ggplot2",
         "htmlTable",
@@ -44588,21 +44575,17 @@
         "R.filesets",
         "R.rsp",
         "aroma.apd",
-        "aroma.core",
-        "aroma.light"
+        "aroma.core"
     ],
     "aroma.core": [
         "PSCBS",
         "R.filesets",
-        "R.rsp",
-        "aroma.light"
+        "R.rsp"
     ],
     "R.filesets": [],
     "aroma.apd": [],
     "R.rsp": [],
-    "PSCBS": [
-        "aroma.light"
-    ],
+    "PSCBS": [],
     "genlasso": [],
     "opencpu": [
         "knitr",
