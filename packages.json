@@ -14922,7 +14922,6 @@
         "later",
         "latticeExtra",
         "lifecycle",
-        "lmodel2",
         "lubridate",
         "matrixStats",
         "memoise",
@@ -61485,7 +61484,6 @@
         "lifecycle",
         "limma",
         "lme4",
-        "lmodel2",
         "locfit",
         "lubridate",
         "matrixStats",
@@ -126337,7 +126335,6 @@
         "gridExtra",
         "labeling",
         "lifecycle",
-        "lmodel2",
         "lubridate",
         "mgcv",
         "munsell",
@@ -126387,7 +126384,6 @@
         "zoo"
     ],
     "confintr": [],
-    "lmodel2": [],
     "broom.mixed": [
         "R6",
         "broom",
