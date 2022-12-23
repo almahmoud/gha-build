@@ -14,7 +14,6 @@
         "a4Base",
         "a4Classif",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "annotate",
         "blob",
@@ -41,7 +40,6 @@
         "S4Vectors",
         "XVector",
         "a4Core",
-        "a4Preproc",
         "annaffy",
         "annotate",
         "blob",
@@ -58,7 +56,6 @@
         "ROCR",
         "RcppEigen",
         "a4Core",
-        "a4Preproc",
         "glmnet",
         "gplots",
         "pamr",
@@ -70,7 +67,6 @@
         "glmnet",
         "survival"
     ],
-    "a4Preproc": [],
     "ABarray": [
         "multtest",
         "survival"
