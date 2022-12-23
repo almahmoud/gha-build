@@ -537,7 +537,6 @@
         "rstatix"
     ],
     "condiments": [
-        "Ecume",
         "distinct"
     ],
     "CONFESS": [
@@ -3151,7 +3150,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "Ecume": [],
     "contrast": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb"
