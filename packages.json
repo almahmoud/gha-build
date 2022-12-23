@@ -3606,7 +3606,6 @@
         "DOSE",
         "DT",
         "DiagrammeR",
-        "EBarrays",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -5815,7 +5814,6 @@
         "BiocFileCache",
         "Biostrings",
         "Category",
-        "EBarrays",
         "GSEABase",
         "GenomeInfoDb",
         "Hmisc",
@@ -5960,7 +5958,6 @@
         "BiocParallel",
         "Biostrings",
         "DelayedArray",
-        "EBarrays",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -14593,10 +14590,7 @@
         "tibble",
         "tidyselect"
     ],
-    "EBarrays": [],
-    "EBcoexpress": [
-        "EBarrays"
-    ],
+    "EBcoexpress": [],
     "EBImage": [
         "bslib",
         "htmlwidgets",
@@ -18294,7 +18288,6 @@
         "tidyselect"
     ],
     "gaga": [
-        "EBarrays",
         "mgcv"
     ],
     "gage": [
@@ -19033,7 +19026,6 @@
         "viridis"
     ],
     "geNetClassifier": [
-        "EBarrays",
         "e1071"
     ],
     "GeneticsPed": [],
