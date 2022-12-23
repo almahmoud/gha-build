@@ -3359,7 +3359,6 @@
         "viridis"
     ],
     "GOexpress": [],
-    "GOfuncR": [],
     "GOpro": [
         "GO.db",
         "dendextend",
