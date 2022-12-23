@@ -8350,7 +8350,6 @@
         "testthat"
     ],
     "rfaRm": [],
-    "rfPred": [],
     "rGADEM": [
         "BSgenome",
         "GenomicAlignments",
