@@ -1436,7 +1436,6 @@
     "HDF5Array": [
         "rhdf5"
     ],
-    "HelloRanges": [],
     "HGC": [
         "dendextend",
         "viridis"
@@ -2357,7 +2356,6 @@
     ],
     "OMICsPCA": [
         "FactoMineR",
-        "HelloRanges",
         "car",
         "dendextend",
         "factoextra",
