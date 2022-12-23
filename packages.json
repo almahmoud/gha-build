@@ -39,9 +39,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "airpart": [
-        "scater"
-    ],
+    "airpart": [],
     "AllelicImbalance": [
         "Gviz",
         "VariantAnnotation",
@@ -56,8 +54,7 @@
     "Anaquin": [],
     "ANCOMBC": [
         "lmerTest",
-        "mia",
-        "scater"
+        "mia"
     ],
     "AneuFinder": [
         "ReorderCluster"
@@ -177,9 +174,7 @@
     "BatchQC": [
         "sva"
     ],
-    "BayesSpace": [
-        "scater"
-    ],
+    "BayesSpace": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
@@ -188,7 +183,6 @@
         "ANCOMBC",
         "lmerTest",
         "mia",
-        "scater",
         "zinbwave"
     ],
     "BgeeCall": [],
@@ -357,8 +351,7 @@
         "drc",
         "ggpubr",
         "pbkrtest",
-        "rstatix",
-        "scater"
+        "rstatix"
     ],
     "categoryCompare": [
         "GOstats"
@@ -374,21 +367,15 @@
         "TCGAutils"
     ],
     "CCPROMISE": [],
-    "celda": [
-        "scater"
-    ],
+    "celda": [],
     "cellHTS2": [],
-    "CelliD": [
-        "scater"
-    ],
+    "CelliD": [],
     "cellmigRation": [
         "FactoMineR",
         "car",
         "pbkrtest"
     ],
-    "CellMixS": [
-        "scater"
-    ],
+    "CellMixS": [],
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot"
@@ -487,8 +474,7 @@
     ],
     "ChIPXpress": [],
     "ChromSCape": [
-        "qs",
-        "scater"
+        "qs"
     ],
     "chromVAR": [
         "TFBSTools"
@@ -587,13 +573,11 @@
         "factoextra",
         "ggpubr",
         "pbkrtest",
-        "rstatix",
-        "scater"
+        "rstatix"
     ],
     "condiments": [
         "Ecume",
-        "distinct",
-        "scater"
+        "distinct"
     ],
     "CONFESS": [
         "contrast",
@@ -841,9 +825,7 @@
     "diggit": [],
     "Dino": [],
     "DiscoRhythm": [],
-    "distinct": [
-        "scater"
-    ],
+    "distinct": [],
     "DMCFB": [
         "arm"
     ],
@@ -1116,8 +1098,7 @@
         "bambu",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "scater"
+        "ggbio"
     ],
     "flowCL": [
         "SPARQL"
@@ -1485,8 +1466,7 @@
         "enrichplot",
         "ggpubr",
         "pbkrtest",
-        "rstatix",
-        "scater"
+        "rstatix"
     ],
     "ISAnalytics": [
         "datamods"
@@ -1787,13 +1767,10 @@
         "bumphunter",
         "minfi"
     ],
-    "mia": [
-        "scater"
-    ],
+    "mia": [],
     "miaSim": [],
     "miaViz": [
-        "mia",
-        "scater"
+        "mia"
     ],
     "microbiomeExplorer": [
         "car",
@@ -1802,8 +1779,7 @@
     "microbiomeMarker": [
         "ANCOMBC",
         "lmerTest",
-        "mia",
-        "scater"
+        "mia"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -1995,7 +1971,6 @@
         "glmmTMB",
         "lmerTest",
         "pbkrtest",
-        "scater",
         "variancePartition"
     ],
     "musicatk": [
@@ -2063,7 +2038,6 @@
     "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
-        "scater",
         "zinbwave"
     ],
     "netZooR": [
@@ -2198,8 +2172,7 @@
         "survminer"
     ],
     "peco": [
-        "genlasso",
-        "scater"
+        "genlasso"
     ],
     "periodicDNA": [],
     "PFP": [
@@ -2235,9 +2208,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "pipeComp": [
-        "scater"
-    ],
+    "pipeComp": [],
     "pipeFrame": [],
     "PloGO2": [
         "GOstats"
@@ -2646,7 +2617,6 @@
         "ExperimentHub",
         "SCATEData"
     ],
-    "scater": [],
     "scBFA": [
         "zinbwave"
     ],
@@ -2654,9 +2624,7 @@
     "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
-    "scDblFinder": [
-        "scater"
-    ],
+    "scDblFinder": [],
     "scDD": [
         "arm"
     ],
@@ -2680,9 +2648,7 @@
     "scoreInvHap": [
         "VariantAnnotation"
     ],
-    "scPipe": [
-        "scater"
-    ],
+    "scPipe": [],
     "scRecover": [
         "Rmagic"
     ],
@@ -2708,8 +2674,7 @@
         "bumphunter",
         "ensembldb",
         "epivizr",
-        "epivizrData",
-        "scater"
+        "epivizrData"
     ],
     "segmenter": [
         "ChIPseeker",
@@ -2795,7 +2760,6 @@
         "scDblFinder",
         "scMerge",
         "scRNAseq",
-        "scater",
         "sva",
         "zinbwave"
     ],
@@ -2840,9 +2804,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "Spaniel": [
-        "scater"
-    ],
+    "Spaniel": [],
     "SparseSignatures": [],
     "spaSim": [
         "SpatialExperiment"
@@ -2858,9 +2820,7 @@
     "SpatialFeatureExperiment": [
         "SpatialExperiment"
     ],
-    "spatialHeatmap": [
-        "scater"
-    ],
+    "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
@@ -2883,9 +2843,7 @@
         "lmerTest"
     ],
     "spiky": [],
-    "splatter": [
-        "scater"
-    ],
+    "splatter": [],
     "SpliceWiz": [
         "ExperimentHub",
         "NxtIRFdata"
@@ -3078,9 +3036,7 @@
         "SNPlocs.Hsapiens.dbSNP150.GRCh38"
     ],
     "TRESS": [],
-    "tricycle": [
-        "scater"
-    ],
+    "tricycle": [],
     "trigger": [
         "sva"
     ],
@@ -3131,7 +3087,6 @@
     "VAExprs": [
         "DeepPINCS",
         "mlapi",
-        "scater",
         "text2vec",
         "ttgsea"
     ],
