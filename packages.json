@@ -3475,7 +3475,6 @@
     "msImpute": [
         "scran"
     ],
-    "mslp": [],
     "msmsEDA": [
         "MSnbase",
         "affy",
