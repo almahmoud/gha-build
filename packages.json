@@ -920,9 +920,7 @@
         "gmapR"
     ],
     "HTSFilter": [],
-    "icetea": [
-        "TxDb.Dmelanogaster.UCSC.dm6.ensGene"
-    ],
+    "icetea": [],
     "iCheck": [
         "FDb.InfiniumMethylation.hg19",
         "lumi",
@@ -2176,7 +2174,6 @@
         "rstatix"
     ],
     "HiContactsData": [],
-    "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb"
     ],
