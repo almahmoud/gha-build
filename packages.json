@@ -36914,7 +36914,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "SIMD": [],
     "SimFFPE": [
         "BiocParallel",
         "Biostrings",
