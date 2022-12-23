@@ -55085,7 +55085,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "similaRpeak": [],
     "SIMLR": [
         "RSpectra",
         "RcppEigen"
