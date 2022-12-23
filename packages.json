@@ -11832,8 +11832,7 @@
         "tidyr"
     ],
     "QuartPAC": [
-        "GraphPAC",
-        "SpacePAC"
+        "GraphPAC"
     ],
     "QuasR": [
         "AnnotationDbi",
@@ -14285,7 +14284,6 @@
         "tidyr",
         "viridis"
     ],
-    "SpacePAC": [],
     "Spaniel": [
         "DropletUtils",
         "Seurat",
