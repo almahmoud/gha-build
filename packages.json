@@ -5150,7 +5150,6 @@
     "LACE": [
         "DT",
         "biomaRt",
-        "learnr",
         "sortable"
     ],
     "LedPred": [
@@ -6724,7 +6723,6 @@
         "dendextend",
         "factoextra",
         "ggpubr",
-        "learnr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11808,10 +11806,7 @@
     "hgu95av2.db": [
         "org.Hs.eg.db"
     ],
-    "sortable": [
-        "learnr"
-    ],
-    "learnr": [],
+    "sortable": [],
     "reldist": [
         "densEstBayes"
     ],
