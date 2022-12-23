@@ -2090,7 +2090,6 @@
         "biovizBase",
         "viridis"
     ],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS",
         "HDF5Array",
