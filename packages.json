@@ -2491,7 +2491,6 @@
     ],
     "SingleCellSignalR": [],
     "singleCellTK": [
-        "SoupX",
         "TENxPBMCData",
         "celda",
         "celldex",
@@ -3096,7 +3095,6 @@
         "survminer"
     ],
     "celldex": [],
-    "SoupX": [],
     "scRNAseq": [
         "ensembldb"
     ],
