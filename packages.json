@@ -5082,7 +5082,6 @@
         "rtracklayer"
     ],
     "FuseSOM": [
-        "DataVisualizations",
         "FCPS",
         "broom",
         "car",
@@ -6629,7 +6628,6 @@
         "AdaptGauss",
         "AnnotationDbi",
         "DOSE",
-        "DataVisualizations",
         "GO.db",
         "GOSemSim",
         "HDO.db",
@@ -15868,10 +15866,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "FCPS": [
-        "DataVisualizations"
-    ],
-    "DataVisualizations": [],
+    "FCPS": [],
     "survminer": [
         "broom",
         "car",
@@ -15949,9 +15944,7 @@
     "wordcloud2": [
         "htmlwidgets"
     ],
-    "AdaptGauss": [
-        "DataVisualizations"
-    ],
+    "AdaptGauss": [],
     "datamods": [
         "haven",
         "htmlwidgets",
