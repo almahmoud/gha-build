@@ -286,7 +286,6 @@
         "text2vec",
         "ttgsea"
     ],
-    "GeoDiff": [],
     "GEOexplorer": [
         "factoextra",
         "ggpubr"
