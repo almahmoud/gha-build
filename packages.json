@@ -8953,7 +8953,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "kebabs": [],
     "KEGGlincs": [
         "AnnotationDbi",
         "KEGGREST",
@@ -12376,7 +12375,6 @@
         "waldo"
     ],
     "odseq": [
-        "kebabs",
         "msa"
     ],
     "OGRE": [
@@ -13627,9 +13625,7 @@
         "vsn",
         "waldo"
     ],
-    "procoil": [
-        "kebabs"
-    ],
+    "procoil": [],
     "proDA": [
         "SummarizedExperiment"
     ],
