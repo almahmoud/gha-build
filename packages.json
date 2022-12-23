@@ -5695,7 +5695,6 @@
         "geneplotter",
         "heatmaply",
         "plotly",
-        "rmdformats",
         "rtracklayer"
     ],
     "metavizr": [
@@ -11789,7 +11788,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "rmdformats": [],
     "sesameData": [
         "AnnotationHub",
         "DT",
