@@ -7150,7 +7150,6 @@
         "EBImage",
         "Hmisc",
         "contrast",
-        "feature",
         "flowClust",
         "flowCore",
         "flowMeans",
@@ -12935,11 +12934,9 @@
         "flowCore"
     ],
     "flowMeans": [
-        "feature",
         "flowCore"
     ],
     "flowMerge": [
-        "feature",
         "flowClust",
         "flowCore"
     ],
@@ -25402,7 +25399,6 @@
     ],
     "optimalFlow": [
         "dplyr",
-        "feature",
         "flowCore",
         "flowMeans",
         "htmlwidgets",
@@ -42136,7 +42132,6 @@
         "tibble",
         "viridis"
     ],
-    "feature": [],
     "airway": [
         "DelayedArray",
         "GenomeInfoDb",
