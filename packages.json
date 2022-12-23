@@ -15785,7 +15785,6 @@
         "biomaRt",
         "cleanUpdTSeq",
         "dbplyr",
-        "depmixS4",
         "dplyr",
         "ggplot2",
         "httr",
@@ -34588,7 +34587,6 @@
         "biomaRt",
         "butcher",
         "dbplyr",
-        "depmixS4",
         "doRNG",
         "dplyr",
         "forcats",
@@ -39782,7 +39780,6 @@
     "Rlabkey": [
         "httr"
     ],
-    "depmixS4": [],
     "golem": [
         "bslib",
         "gert",
