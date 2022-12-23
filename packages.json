@@ -7685,7 +7685,6 @@
         "ggrepel",
         "ggridges",
         "irlba",
-        "kSamples",
         "mgcv",
         "pheatmap",
         "pillar",
@@ -41664,7 +41663,6 @@
         "httr",
         "igraph",
         "jquerylib",
-        "kSamples",
         "knitr",
         "memoise",
         "mgcv",
@@ -53215,7 +53213,6 @@
         "httr",
         "igraph",
         "jquerylib",
-        "kSamples",
         "kknn",
         "km.ci",
         "knitr",
@@ -62317,7 +62314,6 @@
         "httr",
         "interp",
         "jquerylib",
-        "kSamples",
         "knitr",
         "latticeExtra",
         "limSolve",
@@ -66103,7 +66099,6 @@
         "waldo"
     ],
     "spBayes": [],
-    "kSamples": [],
     "cba": [],
     "dtw": [],
     "EnvStats": [
@@ -70438,7 +70433,6 @@
     "celestial": [],
     "PMCMRplus": [
         "BWStest",
-        "kSamples",
         "memoise"
     ],
     "BWStest": [
