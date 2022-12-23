@@ -468,7 +468,6 @@
     "BiocSklearn": [
         "basilisk"
     ],
-    "biodbKegg": [],
     "biodbNci": [],
     "biodbUniprot": [],
     "biomformat": [
