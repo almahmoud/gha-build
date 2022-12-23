@@ -271,8 +271,7 @@
         "phyloseq",
         "rhdf5",
         "scater",
-        "viridis",
-        "zinbwave"
+        "viridis"
     ],
     "BgeeCall": [
         "rhdf5"
@@ -711,8 +710,7 @@
         "HDF5Array",
         "benchmarkme",
         "mbkmeans",
-        "rhdf5",
-        "zinbwave"
+        "rhdf5"
     ],
     "clusterProfiler": [
         "enrichplot",
@@ -2800,8 +2798,7 @@
         "mbkmeans",
         "rhdf5",
         "scater",
-        "viridis",
-        "zinbwave"
+        "viridis"
     ],
     "netZooR": [
         "GOstats",
@@ -3634,8 +3631,7 @@
         "viridis"
     ],
     "scBFA": [
-        "Seurat",
-        "zinbwave"
+        "Seurat"
     ],
     "scBubbletree": [
         "Seurat"
@@ -3877,8 +3873,7 @@
         "scMerge",
         "scRNAseq",
         "scater",
-        "viridis",
-        "zinbwave"
+        "viridis"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -4467,7 +4462,6 @@
         "EnrichmentBrowser",
         "variancePartition"
     ],
-    "zinbwave": [],
     "ggpubr": [
         "car",
         "rstatix"
