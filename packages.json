@@ -739,9 +739,7 @@
     ],
     "EBSEA": [],
     "EDASeq": [],
-    "edge": [
-        "snm"
-    ],
+    "edge": [],
     "eegc": [
         "clusterProfiler",
         "enrichplot"
@@ -2293,7 +2291,6 @@
         "goseq"
     ],
     "snapCGH": [],
-    "snm": [],
     "SNPhood": [
         "VariantAnnotation"
     ],
