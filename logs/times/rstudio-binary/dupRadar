@@ -1,0 +1,390 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   4a5cf37c..4292a03b  main       -> origin/main
+Updating 4a5cf37c..4292a03b
+Fast-forward
+ lists/ClusterJudge                                 |    2 +-
+ logs/run_ids/rstudio-binaries/BumpyMatrix          |    2 +
+ logs/run_ids/rstudio-binaries/feature              |    2 +
+ logs/sizes/rstudio-binaries/binaries/ClusterJudge  |    1 +
+ logs/sizes/rstudio-binaries/libraries/ClusterJudge |    1 +
+ logs/times/rstudio-binary/ClusterJudge             | 3064 ++++++++++++++++++++
+ packages.json                                      |    1 -
+ 7 files changed, 3071 insertions(+), 2 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/BumpyMatrix
+ create mode 100644 logs/run_ids/rstudio-binaries/feature
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ClusterJudge
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ClusterJudge
+ create mode 100644 logs/times/rstudio-binary/ClusterJudge
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=dupRadar
++ PKG=dupRadar
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "dupRadar"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 19.7M    2  558k    0     0   433k      0  0:00:46  0:00:01  0:00:45  433k 10 19.7M   10 2056k    0     0   897k      0  0:00:22  0:00:02  0:00:20  897k 22 19.7M   22 4463k    0     0  1355k      0  0:00:14  0:00:03  0:00:11 1355k 38 19.7M   38 7826k    0     0  1821k      0  0:00:11  0:00:04  0:00:07 1821k 59 19.7M   59 11.8M    0     0  2283k      0  0:00:08  0:00:05  0:00:03 2418k 85 19.7M   85 16.9M    0     0  2753k      0  0:00:07  0:00:06  0:00:01 3351k100 19.7M  100 19.7M    0     0  2978k      0  0:00:06  0:00:06 --:--:-- 4039k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/Matrix/
+built/built/Matrix/Doxyfile
+built/built/Matrix/libs/
+built/built/Matrix/libs/Matrix.so
+built/built/Matrix/NAMESPACE
+built/built/Matrix/LICENCE
+built/built/Matrix/DESCRIPTION
+built/built/Matrix/test-tools-1.R
+built/built/Matrix/help/
+built/built/Matrix/help/paths.rds
+built/built/Matrix/help/aliases.rds
+built/built/Matrix/help/AnIndex
+built/built/Matrix/help/Matrix.rdx
+built/built/Matrix/help/Matrix.rdb
+built/built/Matrix/data/
+built/built/Matrix/data/USCounties.R
+built/built/Matrix/data/datalist
+built/built/Matrix/data/CAex.R
+built/built/Matrix/data/wrld_1deg.R
+built/built/Matrix/data/KNex.R
+built/built/Matrix/Meta/
+built/built/Matrix/Meta/package.rds
+built/built/Matrix/Meta/vignette.rds
+built/built/Matrix/Meta/features.rds
+built/built/Matrix/Meta/hsearch.rds
+built/built/Matrix/Meta/links.rds
+built/built/Matrix/Meta/nsInfo.rds
+built/built/Matrix/Meta/Rd.rds
+built/built/Matrix/Meta/data.rds
+built/built/Matrix/NEWS.Rd
+built/built/Matrix/include/
+built/built/Matrix/include/cholmod.h
+built/built/Matrix/include/Matrix_stubs.c
+built/built/Matrix/include/Matrix.h
+built/built/Matrix/test-tools-Matrix.R
+built/built/Matrix/test-tools.R
+built/built/Matrix/po/
+built/built/Matrix/po/lt/
+built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/it/
+built/built/Matrix/po/it/LC_MESSAGES/
+built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/fr/
+built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/ko/
+built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/pl/
+built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/en@quot/
+built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/de/
+built/built/Matrix/po/de/LC_MESSAGES/
+built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/Copyrights
+built/built/Matrix/html/
+built/built/Matrix/html/00Index.html
+built/built/Matrix/html/R.css
+built/built/Matrix/INDEX
+built/built/Matrix/doc/
+built/built/Matrix/doc/Design-issues.Rnw
+built/built/Matrix/doc/sparseModels.R
+built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/Matrix/doc/Introduction.R
+built/built/Matrix/doc/sparseModels.Rnw
+built/built/Matrix/doc/Design-issues.pdf
+built/built/Matrix/doc/Design-issues.R
+built/built/Matrix/doc/Comparisons.R
+built/built/Matrix/doc/Announce.txt
+built/built/Matrix/doc/Introduction.Rnw
+built/built/Matrix/doc/Intro2Matrix.R
+built/built/Matrix/doc/index.html
+built/built/Matrix/doc/SuiteSparse/
+built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/Matrix/doc/Comparisons.pdf
+built/built/Matrix/doc/sparseModels.pdf
+built/built/Matrix/doc/Comparisons.Rnw
+built/built/Matrix/doc/Introduction.pdf
+built/built/Matrix/R/
+built/built/Matrix/R/Matrix
+built/built/Matrix/R/Matrix.rdx
+built/built/Matrix/R/Matrix.rdb
+built/built/Matrix/external/
+built/built/Matrix/external/symW.rda
+built/built/Matrix/external/lund_a.rsa
+built/built/Matrix/external/wrong.mtx
+built/built/Matrix/external/pores_1.mtx
+built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/Matrix/external/CAex_slots.rda
+built/built/Matrix/external/KNex_slots.rda
+built/built/Matrix/external/jgl009.mtx
+built/built/Matrix/external/utm300.rua
+built/built/Matrix/external/test3comp.rda
+built/built/Matrix/external/USCounties_slots.rda
+built/built/Matrix/external/Z_NA_rnk.rds
+built/built/Matrix/external/symA.rda
+built/built/Matrix/external/lund_a.mtx
+built/Rsubread/
+built/Rsubread/libs/
+built/Rsubread/libs/Rsubread.so
+built/Rsubread/extdata/
+built/Rsubread/extdata/reads2.txt.gz
+built/Rsubread/extdata/reads1.txt.gz
+built/Rsubread/extdata/reference.fa
+built/Rsubread/extdata/reads.txt.gz
+built/Rsubread/extdata/longreads.txt.gz
+built/Rsubread/NAMESPACE
+built/Rsubread/DESCRIPTION
+built/Rsubread/help/
+built/Rsubread/help/paths.rds
+built/Rsubread/help/Rsubread.rdx
+built/Rsubread/help/aliases.rds
+built/Rsubread/help/AnIndex
+built/Rsubread/help/Rsubread.rdb
+built/Rsubread/qualf/
+built/Rsubread/qualf/ref-quality-strings-20k-100bp-ERR2_70-SRR3045231.txt
+built/Rsubread/qualf/ref-quality-strings-20k-75bp-ERR1_59-SRR3649332.txt
+built/Rsubread/Meta/
+built/Rsubread/Meta/package.rds
+built/Rsubread/Meta/vignette.rds
+built/Rsubread/Meta/features.rds
+built/Rsubread/Meta/hsearch.rds
+built/Rsubread/Meta/links.rds
+built/Rsubread/Meta/nsInfo.rds
+built/Rsubread/Meta/Rd.rds
+built/Rsubread/annot/
+built/Rsubread/annot/mm10_RefSeq_exon.txt
+built/Rsubread/annot/mm39_RefSeq_exon.txt.gz
+built/Rsubread/annot/hg38_RefSeq_exon.txt
+built/Rsubread/annot/mm9_RefSeq_exon.txt
+built/Rsubread/annot/hg19_RefSeq_exon.txt
+built/Rsubread/NEWS.Rd
+built/Rsubread/CITATION
+built/Rsubread/html/
+built/Rsubread/html/00Index.html
+built/Rsubread/html/R.css
+built/Rsubread/INDEX
+built/Rsubread/doc/
+built/Rsubread/doc/SubreadUsersGuide.pdf
+built/Rsubread/doc/Rsubread.pdf
+built/Rsubread/doc/Rsubread.R
+built/Rsubread/doc/index.html
+built/Rsubread/doc/Rsubread.Rnw
+built/Rsubread/R/
+built/Rsubread/R/Rsubread
+built/Rsubread/R/Rsubread.rdx
+built/Rsubread/R/Rsubread.rdb
+Dependency KernSmooth is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''dupRadar'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv dupRadar_1.28.0_R_x86_64-pc-linux-gnu.tar.gz Rsubread_2.12.2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/dupRadar
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'dupRadar'
+also installing the dependency ‘Rsubread’
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/Rsubread_2.12.2.tar.gz'
+Content type 'application/x-gzip' length 13439353 bytes (12.8 MB)
+==================================================
+downloaded 12.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/dupRadar_1.28.0.tar.gz'
+Content type 'application/x-gzip' length 3888434 bytes (3.7 MB)
+==================================================
+downloaded 3.7 MB
+
+* installing *source* package ‘Rsubread’ ...
+** using staged installation
+@@@@@ The operating system is Linux.
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c HelperFunctions.c -o HelperFunctions.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LRMbase-index.c -o LRMbase-index.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LRMchro-event.c -o LRMchro-event.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LRMfile-io.c -o LRMfile-io.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LRMhashtable.c -o LRMhashtable.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LRMhelper.c -o LRMhelper.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LRMseek-zlib.c -o LRMseek-zlib.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LRMsorted-hashtable.c -o LRMsorted-hashtable.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_wrapper.c -o R_wrapper.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RsimReads.c -o RsimReads.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SNPCalling.c -o SNPCalling.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c aligner.c -o aligner.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c atgcContent.c -o atgcContent.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c build-sam-index.c -o build-sam-index.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c cell-counts.c -o cell-counts.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c core-bigtable.c -o core-bigtable.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c core-indel.c -o core-indel.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c core-interface-aligner.c -o core-interface-aligner.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c core-interface-subjunc.c -o core-interface-subjunc.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c core-junction.c -o core-junction.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c core.c -o core.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c detection-calls.c -o detection-calls.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c detectionCall.c -o detectionCall.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c detectionCallAnnotation.c -o detectionCallAnnotation.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c exon-algorithms.c -o exon-algorithms.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c exon-align-indel.c -o exon-align-indel.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c exon-align.c -o exon-align.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c flattenAnnotations.c -o flattenAnnotations.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fullscan.c -o fullscan.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fusion-align.c -o fusion-align.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c gen_rand_reads.c -o gen_rand_reads.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c gene-algorithms.c -o gene-algorithms.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c gene-value-index.c -o gene-value-index.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hashtable.c -o hashtable.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c index-builder.c -o index-builder.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c input-blc.c -o input-blc.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c input-files.c -o input-files.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c interval_merge.c -o interval_merge.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c long-hashtable.c -o long-hashtable.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c longread-mapping.c -o longread-mapping.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c mergeVCF.c -o mergeVCF.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c processExons.c -o processExons.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c propmapped.c -o propmapped.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c qualityScores.c -o qualityScores.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c read-repair.c -o read-repair.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c readSummary.c -o readSummary.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c removeDupReads.c -o removeDupReads.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sam2bed.c -o sam2bed.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sambam-file.c -o sambam-file.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c seek-zlib.c -o seek-zlib.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sorted-hashtable.c -o sorted-hashtable.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sublog.c -o sublog.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include  -DMAKE_FOR_EXON -D SUBREAD_VERSION="\"Rsubread 2.12.2\""  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c tx-unique.c -o tx-unique.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Rsubread.so HelperFunctions.o LRMbase-index.o LRMchro-event.o LRMfile-io.o LRMhashtable.o LRMhelper.o LRMseek-zlib.o LRMsorted-hashtable.o R_wrapper.o RsimReads.o SNPCalling.o aligner.o atgcContent.o build-sam-index.o cell-counts.o core-bigtable.o core-indel.o core-interface-aligner.o core-interface-subjunc.o core-junction.o core.o detection-calls.o detectionCall.o detectionCallAnnotation.o exon-algorithms.o exon-align-indel.o exon-align.o flattenAnnotations.o fullscan.o fusion-align.o gen_rand_reads.o gene-algorithms.o gene-value-index.o hashtable.o index-builder.o input-blc.o input-files.o interval_merge.o long-hashtable.o longread-mapping.o mergeVCF.o processExons.o propmapped.o qualityScores.o read-repair.o readSummary.o removeDupReads.o sam2bed.o sambam-file.o seek-zlib.o sorted-hashtable.o sublog.o tx-unique.o -lz -lpthread -DMAKE_FOR_EXON -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-Rsubread/00new/Rsubread/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Rsubread’ as ‘Rsubread_2.12.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rsubread)
+* installing *source* package ‘dupRadar’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘dupRadar’ as ‘dupRadar_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dupRadar)
+
+The downloaded source packages are in
+	‘/tmp/RtmpzEHabI/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	1m0.088s
+user	0m48.691s
+sys	0m2.889s
