@@ -5954,7 +5954,6 @@
         "ggplot2",
         "knitr",
         "modeest",
-        "phylolm",
         "tibble"
     ],
     "compEpiTools": [
@@ -35894,7 +35893,6 @@
         "tibble"
     ],
     "cobs": [],
-    "phylolm": [],
     "rio": [
         "cellranger",
         "forcats",
