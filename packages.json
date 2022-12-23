@@ -55246,7 +55246,6 @@
     "logicFS": [
         "LogicReg",
         "Matrix",
-        "mcbiopi",
         "survival"
     ],
     "logitT": [
@@ -132376,7 +132375,6 @@
         "Matrix",
         "survival"
     ],
-    "mcbiopi": [],
     "reldist": [
         "MASS",
         "Matrix",
