@@ -74,7 +74,6 @@
     "CytoGLMM": [
         "factoextra"
     ],
-    "dasper": [],
     "DeepPINCS": [
         "mlapi",
         "text2vec",
@@ -202,9 +201,7 @@
         "mppa"
     ],
     "netZooR": [],
-    "ODER": [
-        "dasper"
-    ],
+    "ODER": [],
     "OMICsPCA": [
         "factoextra"
     ],
