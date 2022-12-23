@@ -73717,7 +73717,6 @@
         "hms",
         "httr",
         "ipred",
-        "lamW",
         "lambda.r",
         "lava",
         "lifecycle",
@@ -90224,7 +90223,6 @@
         "globals",
         "hardhat",
         "ipred",
-        "lamW",
         "lava",
         "lifecycle",
         "lobstr",
@@ -90276,7 +90274,6 @@
     ],
     "LambertW": [
         "ggplot2",
-        "lamW",
         "lifecycle",
         "mgcv",
         "munsell",
@@ -90317,7 +90314,6 @@
         "vctrs",
         "vroom"
     ],
-    "lamW": [],
     "animation": [
         "magick"
     ],
