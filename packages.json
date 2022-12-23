@@ -371,7 +371,6 @@
     "BASiCStan": [
         "BASiCS",
         "ggExtra",
-        "glmGamPoi",
         "scran",
         "scuttle"
     ],
@@ -2804,7 +2803,6 @@
         "DESeq2",
         "geneplotter"
     ],
-    "glmGamPoi": [],
     "glmSparseNet": [
         "car",
         "ggpubr",
@@ -6863,9 +6861,7 @@
         "chipseq",
         "rtracklayer"
     ],
-    "transformGamPoi": [
-        "glmGamPoi"
-    ],
+    "transformGamPoi": [],
     "tRanslatome": [
         "DESeq2",
         "GOSemSim",
