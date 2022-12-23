@@ -17341,7 +17341,6 @@
         "qdapRegex",
         "quanteda",
         "rcdk",
-        "rcdklibs",
         "readr",
         "reticulate",
         "rmarkdown",
@@ -27186,7 +27185,6 @@
         "qdapRegex",
         "quanteda",
         "rcdk",
-        "rcdklibs",
         "readr",
         "reticulate",
         "rmarkdown",
@@ -52558,7 +52556,6 @@
         "progress",
         "purrr",
         "rcdk",
-        "rcdklibs",
         "restfulr",
         "rtracklayer",
         "stringr",
@@ -54786,7 +54783,6 @@
         "memoise",
         "openssl",
         "rcdk",
-        "rcdklibs",
         "vctrs"
     ],
     "RCSL": [
@@ -57430,7 +57426,6 @@
         "promises",
         "purrr",
         "rcdk",
-        "rcdklibs",
         "readJDX",
         "rmarkdown",
         "rvest",
@@ -73054,7 +73049,6 @@
         "quanteda",
         "ragg",
         "rcdk",
-        "rcdklibs",
         "readr",
         "reticulate",
         "rmarkdown",
@@ -81386,9 +81380,7 @@
         "vctrs"
     ],
     "CatEncoders": [],
-    "rcdk": [
-        "rcdklibs"
-    ],
+    "rcdk": [],
     "webchem": [
         "data.tree",
         "dplyr",
@@ -81404,7 +81396,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "rcdklibs": [],
     "text2vec": [
         "MatrixExtra",
         "mlapi",
