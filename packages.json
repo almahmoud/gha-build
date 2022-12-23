@@ -900,7 +900,6 @@
         "viridis"
     ],
     "deepSNV": [],
-    "DEFormats": [],
     "DegNorm": [
         "dendextend",
         "heatmaply",
@@ -2945,7 +2944,6 @@
     ],
     "regioneReloaded": [],
     "regionReport": [
-        "DEFormats",
         "GenomicFiles",
         "Hmisc",
         "derfinder",
