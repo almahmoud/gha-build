@@ -522,9 +522,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "lisaClust": [
-        "spicyR"
-    ],
+    "lisaClust": [],
     "LowMACA": [
         "cBioPortalData"
     ],
@@ -978,7 +976,6 @@
         "HiCcompare",
         "QDNAseq"
     ],
-    "spicyR": [],
     "SpliceWiz": [],
     "SPLINTER": [
         "Gviz"
