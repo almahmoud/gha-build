@@ -1889,7 +1889,6 @@
         "ggraph",
         "viridis"
     ],
-    "meshr": [],
     "Metab": [
         "MSnbase",
         "affy",
@@ -3207,7 +3206,6 @@
         "fields",
         "ggraph",
         "heatmaply",
-        "meshr",
         "nnTensor",
         "schex",
         "viridis"
