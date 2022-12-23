@@ -24305,7 +24305,6 @@
         "BiocFileCache",
         "BiocSingular",
         "Biostrings",
-        "DGEobj",
         "DGEobj.utils",
         "DelayedMatrixStats",
         "GSEABase",
@@ -31882,7 +31881,6 @@
         "tidyr"
     ],
     "DGEobj.utils": [
-        "DGEobj",
         "dplyr"
     ],
     "openair": [
@@ -31892,7 +31890,6 @@
         "tidyr",
         "vroom"
     ],
-    "DGEobj": [],
     "celldex": [
         "AnnotationDbi",
         "AnnotationHub",
