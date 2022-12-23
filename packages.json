@@ -11393,7 +11393,6 @@
         "rtracklayer"
     ],
     "seqCNA": [],
-    "seqcombo": [],
     "SeqGate": [],
     "SeqGSEA": [
         "AnnotationDbi",
