@@ -85,7 +85,6 @@
         "biomformat",
         "rhdf5"
     ],
-    "AnnotationHubData": [],
     "APAlyzer": [],
     "APL": [
         "Seurat"
@@ -1150,9 +1149,7 @@
         "affy"
     ],
     "exomePeak2": [],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "ExperimentSubset": [
         "DropletUtils",
         "HDF5Array",
@@ -1947,7 +1944,6 @@
         "rhdf5"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "HDF5Array",
         "car",
@@ -3957,7 +3953,6 @@
         "rhdf5"
     ],
     "methylclockData": [
-        "AnnotationHubData",
         "ExperimentHubData"
     ],
     "rebus": [],
