@@ -82,7 +82,6 @@
         "doBy"
     ],
     "BadRegionFinder": [],
-    "bambu": [],
     "bandle": [],
     "BASiCStan": [],
     "BayesSpace": [],
@@ -594,7 +593,6 @@
     ],
     "FindIT2": [],
     "FLAMES": [
-        "bambu",
         "biovizBase",
         "ggbio"
     ],
