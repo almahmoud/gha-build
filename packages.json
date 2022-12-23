@@ -8874,7 +8874,6 @@
     ],
     "satuRn": [],
     "SBGNview": [
-        "SBGNview.data",
         "org.Hs.eg.db",
         "pathview"
     ],
@@ -11945,7 +11944,6 @@
     ],
     "TBX20BamSubset": [],
     "excelR": [],
-    "SBGNview.data": [],
     "scanMiRData": [
         "scanMiR"
     ],
