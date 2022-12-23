@@ -3550,7 +3550,6 @@
         "SpatialExperiment",
         "rhdf5"
     ],
-    "spiky": [],
     "splatter": [
         "scater",
         "viridis"
