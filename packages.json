@@ -83,12 +83,8 @@
     "CiteFuse": [
         "propr"
     ],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "comapr": [],
     "coMET": [],
     "compEpiTools": [
@@ -99,7 +95,6 @@
         "ggpubr"
     ],
     "conumee": [],
-    "CopyNumberPlots": [],
     "crisprseekplus": [],
     "crisprVerse": [
         "crisprViz"
