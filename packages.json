@@ -287,7 +287,6 @@
     ],
     "BitSeq": [],
     "blacksheepr": [
-        "pasilla",
         "viridis"
     ],
     "bnbc": [
@@ -3658,7 +3657,6 @@
         "Hmisc",
         "viridis"
     ],
-    "pasilla": [],
     "gamlss": [],
     "GenomicState": [
         "Hmisc",
