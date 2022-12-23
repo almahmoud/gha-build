@@ -6765,7 +6765,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "QuartPAC": [],
     "QuasR": [
         "BSgenome",
         "GenomicFeatures",
