@@ -4739,7 +4739,6 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "gaga",
         "httr",
         "progress",
         "purrr",
@@ -14547,7 +14546,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "gaga": [],
     "gage": [
         "AnnotationDbi",
         "Biostrings",
