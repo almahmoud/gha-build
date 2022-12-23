@@ -61510,7 +61510,6 @@
         "reshape2",
         "rlang",
         "scales",
-        "stabs",
         "stringr",
         "tibble",
         "tidyr",
@@ -63623,7 +63622,6 @@
         "scales",
         "selectr",
         "sfsmisc",
-        "stabs",
         "stringr",
         "survival",
         "tibble",
@@ -65692,7 +65690,6 @@
         "scales",
         "seqLogo",
         "sm",
-        "stabs",
         "stringr",
         "survival",
         "tibble",
@@ -131263,7 +131260,6 @@
         "corpcor",
         "longitudinal"
     ],
-    "stabs": [],
     "longitudinal": [
         "corpcor"
     ],
@@ -131473,7 +131469,6 @@
         "mboost",
         "partykit",
         "quadprog",
-        "stabs",
         "survival"
     ],
     "mboost": [
@@ -131482,7 +131477,6 @@
         "libcoin",
         "partykit",
         "quadprog",
-        "stabs",
         "survival"
     ],
     "partykit": [
