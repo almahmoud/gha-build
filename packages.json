@@ -5144,7 +5144,6 @@
         "ggalt",
         "ggtree",
         "plotly",
-        "statebins",
         "tidytree",
         "treeio"
     ],
@@ -14384,7 +14383,6 @@
     "ggalt": [
         "plotly"
     ],
-    "statebins": [],
     "HH": [
         "Hmisc",
         "htmlTable",
