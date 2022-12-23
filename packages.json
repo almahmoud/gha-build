@@ -1977,14 +1977,12 @@
         "rmarkdown"
     ],
     "biocthis": [
-        "gert",
         "styler",
         "usethis"
     ],
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown",
-        "gert",
         "knitr",
         "rmarkdown",
         "usethis"
@@ -2685,7 +2683,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "devtools",
-        "gert",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -4661,7 +4658,6 @@
     "cogena": [
         "devtools",
         "dplyr",
-        "gert",
         "ggplot2",
         "htmlwidgets",
         "knitr",
@@ -6074,7 +6070,6 @@
         "cowplot",
         "dbplyr",
         "dplyr",
-        "gert",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -9508,7 +9503,6 @@
     ],
     "GCSscore": [
         "devtools",
-        "gert",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -11508,7 +11502,6 @@
         "available",
         "biocthis",
         "dplyr",
-        "gert",
         "styler",
         "tidytext",
         "usethis"
@@ -11880,7 +11873,6 @@
     ],
     "INDEED": [
         "devtools",
-        "gert",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -12088,7 +12080,6 @@
         "dendextend",
         "dplyr",
         "factoextra",
-        "gert",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -13785,7 +13776,6 @@
         "GenomicRanges",
         "cmdfun",
         "dplyr",
-        "gert",
         "readr",
         "rematch2",
         "testthat",
@@ -13816,7 +13806,6 @@
         "GenomicRanges",
         "cmdfun",
         "dplyr",
-        "gert",
         "ggplot2",
         "ggseqlogo",
         "patchwork",
@@ -14408,7 +14397,6 @@
         "dtplyr",
         "forcats",
         "genefilter",
-        "gert",
         "ggplot2",
         "ggpmisc",
         "ggpp",
@@ -14647,7 +14635,6 @@
         "ChemmineR",
         "DT",
         "devtools",
-        "gert",
         "ggplot2",
         "htmlwidgets",
         "knitr",
@@ -14907,7 +14894,6 @@
         "dplyr",
         "enrichplot",
         "fgsea",
-        "gert",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -16430,7 +16416,6 @@
         "enrichplot",
         "fgsea",
         "geneplotter",
-        "gert",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -17435,7 +17420,6 @@
         "dbplyr",
         "derfinder",
         "dplyr",
-        "gert",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -17886,7 +17870,6 @@
     ],
     "oppti": [
         "devtools",
-        "gert",
         "ggplot2",
         "htmlwidgets",
         "knitr",
@@ -18258,7 +18241,6 @@
         "devtools",
         "dplyr",
         "geneplotter",
-        "gert",
         "ggplot2",
         "htmlwidgets",
         "knitr",
@@ -21340,7 +21322,6 @@
         "devtools",
         "dplyr",
         "geneplotter",
-        "gert",
         "ggplot2",
         "htmlwidgets",
         "knitr",
@@ -24887,7 +24868,6 @@
         "dplyr",
         "ensembldb",
         "geneplotter",
-        "gert",
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
@@ -26667,7 +26647,6 @@
     "tripr": [
         "DT",
         "dplyr",
-        "gert",
         "ggplot2",
         "golem",
         "htmlwidgets",
@@ -27544,7 +27523,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "dplyr",
-        "gert",
         "ggplot2",
         "golem",
         "htmlwidgets",
@@ -28711,10 +28689,7 @@
     ],
     "rorcid": [],
     "styler": [],
-    "usethis": [
-        "gert"
-    ],
-    "gert": [],
+    "usethis": [],
     "rms": [
         "Hmisc",
         "ggplot2",
@@ -28902,7 +28877,6 @@
         "rtracklayer"
     ],
     "devtools": [
-        "gert",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -29567,7 +29541,6 @@
         "vsn"
     ],
     "cmdfun": [
-        "gert",
         "rematch2",
         "testthat",
         "usethis",
@@ -29999,7 +29972,6 @@
     ],
     "Rlabkey": [],
     "golem": [
-        "gert",
         "knitr",
         "roxygen2",
         "shiny",
@@ -30416,7 +30388,6 @@
     ],
     "anyLib": [
         "devtools",
-        "gert",
         "htmlwidgets",
         "knitr",
         "miniUI",
