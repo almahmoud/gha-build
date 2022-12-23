@@ -22432,7 +22432,6 @@
         "KEGGREST",
         "PSCBS",
         "R.filesets",
-        "R.rsp",
         "RSQLite",
         "XVector",
         "annotate",
@@ -31878,7 +31877,6 @@
         "KEGGREST",
         "PSCBS",
         "R.filesets",
-        "R.rsp",
         "RSQLite",
         "WGCNA",
         "XVector",
@@ -37513,18 +37511,15 @@
     "aroma.affymetrix": [
         "PSCBS",
         "R.filesets",
-        "R.rsp",
         "aroma.apd",
         "aroma.core"
     ],
     "aroma.core": [
         "PSCBS",
-        "R.filesets",
-        "R.rsp"
+        "R.filesets"
     ],
     "R.filesets": [],
     "aroma.apd": [],
-    "R.rsp": [],
     "PSCBS": [],
     "genlasso": [],
     "opencpu": [
