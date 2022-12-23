@@ -4198,7 +4198,6 @@
         "testthat",
         "viridis"
     ],
-    "GateFinder": [],
     "GBScleanR": [],
     "gcapc": [
         "BSgenome",
