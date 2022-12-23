@@ -628,7 +628,6 @@
         "ensembldb",
         "viridis"
     ],
-    "BUMHMM": [],
     "bumphunter": [
         "GenomicFeatures"
     ],
