@@ -10030,7 +10030,6 @@
     ],
     "cogena": [
         "apcluster",
-        "biwt",
         "bslib",
         "credentials",
         "devtools",
@@ -14865,7 +14864,6 @@
         "S4Vectors"
     ],
     "discordant": [
-        "biwt",
         "dplyr",
         "pillar",
         "tibble",
@@ -63032,7 +63030,6 @@
         "vctrs"
     ],
     "princurve": [],
-    "biwt": [],
     "skmeans": [],
     "cobs": [
         "MatrixModels",
