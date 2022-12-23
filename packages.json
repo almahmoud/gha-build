@@ -1597,7 +1597,6 @@
         "FactoMineR",
         "GenomicFeatures",
         "Hmisc",
-        "MSQC",
         "ShortRead",
         "arm",
         "car",
@@ -2551,7 +2550,6 @@
         "GenomicFeatures",
         "Hmisc",
         "MLSeq",
-        "MSQC",
         "ShortRead",
         "arm",
         "car",
@@ -7614,14 +7612,11 @@
         "lme4",
         "nloptr"
     ],
-    "plsVarSel": [
-        "MSQC"
-    ],
+    "plsVarSel": [],
     "arm": [
         "lme4",
         "nloptr"
     ],
-    "MSQC": [],
     "cmdfun": [],
     "rsq": [
         "lme4",
