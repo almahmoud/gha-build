@@ -28,7 +28,6 @@
         "ggplot2",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "tidyr"
     ],
@@ -83,7 +82,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "shinyjs",
@@ -104,7 +102,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "reshape2",
         "rmarkdown",
         "rvest",
         "selectr"
@@ -173,7 +170,6 @@
         "htmlTable",
         "htmlwidgets",
         "oligoClasses",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -252,7 +248,6 @@
         "htmlTable",
         "htmlwidgets",
         "oligoClasses",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -342,7 +337,6 @@
         "ggrepel",
         "mixOmics",
         "readxl",
-        "reshape2",
         "rmarkdown",
         "rvest",
         "selectr",
@@ -372,7 +366,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "tidyr",
@@ -399,8 +392,7 @@
         "annotate",
         "geneplotter",
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "ANCOMBC": [
         "BiocSingular",
@@ -427,7 +419,6 @@
         "nloptr",
         "readxl",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "scater",
         "scuttle",
@@ -448,8 +439,7 @@
         "cowplot",
         "ggdendro",
         "ggplot2",
-        "ggrepel",
-        "reshape2"
+        "ggrepel"
     ],
     "animalcules": [
         "AnnotationDbi",
@@ -473,7 +463,6 @@
         "plotROC",
         "plotly",
         "recipes",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "shinyjs",
@@ -562,15 +551,13 @@
         "interactiveDisplayBase",
         "readr",
         "regioneR",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
     "anota": [
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "anota2seq": [
         "AnnotationDbi",
@@ -581,8 +568,7 @@
         "annotate",
         "geneplotter",
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "AnVIL": [
         "DT",
@@ -664,7 +650,6 @@
         "org.Mm.eg.db",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -764,7 +749,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "tidyr",
@@ -784,7 +768,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "viridis",
         "vsn"
@@ -820,7 +803,6 @@
         "ggrepel",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "ropls",
         "tidyr"
@@ -855,7 +837,6 @@
         "mGSZ",
         "nloptr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "testthat",
@@ -967,7 +948,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -1009,7 +989,6 @@
         "motifStack",
         "readr",
         "regioneR",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -1032,7 +1011,6 @@
         "ggrepel",
         "motifmatchr",
         "readr",
-        "reshape2",
         "rtracklayer",
         "vroom"
     ],
@@ -1072,7 +1050,6 @@
         "motifStack",
         "readr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "testthat",
@@ -1137,7 +1114,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "testthat",
         "tidyr",
         "waldo"
@@ -1192,8 +1168,7 @@
     "bamsignals": [],
     "BANDITS": [
         "DRIMSeq",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "bandle": [
         "AnnotationDbi",
@@ -1224,7 +1199,6 @@
         "pRolocdata",
         "plotly",
         "recipes",
-        "reshape2",
         "rmarkdown",
         "threejs",
         "tidyr",
@@ -1279,7 +1253,6 @@
         "ggplot2",
         "htmlwidgets",
         "miniUI",
-        "reshape2",
         "rmarkdown",
         "scran",
         "scuttle",
@@ -1300,7 +1273,6 @@
         "glmGamPoi",
         "htmlwidgets",
         "miniUI",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rstan",
@@ -1336,7 +1308,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "sva",
         "tidyr",
@@ -1395,8 +1366,7 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "BEARscc": [
         "SingleCellExperiment",
@@ -1464,7 +1434,6 @@
         "plotly",
         "readxl",
         "rematch2",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "scater",
@@ -1546,7 +1515,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "tidyr",
@@ -1653,7 +1621,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "scatterpie",
         "shadowtext",
@@ -1972,7 +1939,6 @@
         "network",
         "networkD3",
         "patchwork",
-        "reshape2",
         "rmarkdown",
         "sna",
         "sva",
@@ -2091,7 +2057,6 @@
         "org.Mm.eg.db",
         "readr",
         "regioneR",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -2136,8 +2101,7 @@
         "Biostrings",
         "KEGGREST",
         "beadarray",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "BLMA": [
         "AnnotationDbi",
@@ -2164,7 +2128,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "testthat",
         "waldo"
@@ -2228,7 +2191,6 @@
         "htmlTable",
         "htmlwidgets",
         "plyranges",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -2297,7 +2259,6 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -2331,7 +2292,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "rtracklayer",
         "tidyr"
     ],
@@ -2498,7 +2458,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -2572,7 +2531,6 @@
         "network",
         "networkD3",
         "patchwork",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "sna",
@@ -2589,7 +2547,6 @@
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "rtracklayer",
         "tidyr"
     ],
@@ -2632,8 +2589,7 @@
     "CancerInSilico": [],
     "CancerSubtypes": [
         "NMF",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "cardelino": [
         "AnnotationDbi",
@@ -2712,7 +2668,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rstatix",
         "scater",
         "scuttle",
@@ -2828,7 +2783,6 @@
         "dplyr",
         "htmlwidgets",
         "rapportools",
-        "reshape2",
         "rintrojs",
         "rmarkdown",
         "shinyBS",
@@ -2860,7 +2814,6 @@
         "dplyr",
         "ggplot2",
         "readr",
-        "reshape2",
         "vroom"
     ],
     "celda": [
@@ -2874,7 +2827,6 @@
         "ggrastr",
         "ggrepel",
         "multipanelfigure",
-        "reshape2",
         "scater",
         "scran",
         "scuttle",
@@ -2884,7 +2836,6 @@
         "Biostrings",
         "dplyr",
         "forcats",
-        "reshape2",
         "tidyr"
     ],
     "CellBarcode": [
@@ -2939,7 +2890,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scater",
         "scattermore",
@@ -2973,7 +2923,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "testthat",
         "tidyr",
@@ -3003,7 +2952,6 @@
     "cellscape": [
         "dplyr",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown"
     ],
     "CellTrails": [
@@ -3013,7 +2961,6 @@
         "dendextend",
         "ggplot2",
         "ggrepel",
-        "reshape2",
         "viridis"
     ],
     "cellTree": [
@@ -3065,7 +3012,6 @@
         "network",
         "patchwork",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "scatterpie",
         "shadowtext",
@@ -3098,7 +3044,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -3116,7 +3061,6 @@
         "dplyr",
         "ggplot2",
         "patchwork",
-        "reshape2",
         "rhdf5"
     ],
     "ceRNAnetsim": [
@@ -3174,7 +3118,6 @@
         "pbkrtest",
         "qvalue",
         "rematch2",
-        "reshape2",
         "rstatix",
         "scatterpie",
         "shadowtext",
@@ -3196,7 +3139,6 @@
         "genomation",
         "ggplot2",
         "readr",
-        "reshape2",
         "rtracklayer",
         "seqPattern",
         "vroom"
@@ -3277,7 +3219,6 @@
         "prettydoc",
         "qvalue",
         "readr",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -3304,7 +3245,6 @@
         "ggplot2",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "tidyr",
         "viridis"
@@ -3319,7 +3259,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "spp",
         "tidyr"
     ],
@@ -3482,7 +3421,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "systemPipeR"
@@ -3518,7 +3456,6 @@
         "ggtree",
         "patchwork",
         "qvalue",
-        "reshape2",
         "rtracklayer",
         "scatterpie",
         "shadowtext",
@@ -3632,8 +3569,7 @@
         "Rsamtools",
         "SummarizedExperiment",
         "bamsignals",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "chromswitch": [
         "Biostrings",
@@ -3643,7 +3579,6 @@
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "rtracklayer",
         "tidyr"
     ],
@@ -3666,7 +3601,6 @@
         "miniUI",
         "plotly",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -3704,7 +3638,6 @@
         "htmlTable",
         "htmlwidgets",
         "monocle",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -3719,7 +3652,6 @@
         "ggrepel",
         "htmlwidgets",
         "networkD3",
-        "reshape2",
         "rmarkdown",
         "tidygraph",
         "tidyr",
@@ -3754,7 +3686,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "universalmotif",
@@ -3796,7 +3727,6 @@
         "mixtools",
         "plotly",
         "propr",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "scran",
@@ -3909,7 +3839,6 @@
         "ggplot2",
         "mbkmeans",
         "phylobase",
-        "reshape2",
         "rhdf5",
         "tidyr",
         "zinbwave"
@@ -3938,7 +3867,6 @@
         "gson",
         "patchwork",
         "qvalue",
-        "reshape2",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -3987,7 +3915,6 @@
         "annotate",
         "ggplot2",
         "readr",
-        "reshape2",
         "rtracklayer",
         "vroom"
     ],
@@ -4100,7 +4027,6 @@
         "exomeCopy",
         "ggplot2",
         "rematch2",
-        "reshape2",
         "shinyFiles",
         "shinyjs",
         "testthat",
@@ -4111,8 +4037,7 @@
         "GDSArray",
         "RaggedExperiment",
         "SeqArray",
-        "SummarizedExperiment",
-        "reshape2"
+        "SummarizedExperiment"
     ],
     "CNVrd2": [
         "AnnotationDbi",
@@ -4195,7 +4120,6 @@
         "pkgdown",
         "profvis",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "roxygen2",
         "testthat",
@@ -4212,7 +4136,6 @@
         "ggplotify",
         "ggtree",
         "patchwork",
-        "reshape2",
         "tidyr",
         "tidytree",
         "treeio"
@@ -4258,7 +4181,6 @@
         "htmlTable",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -4270,7 +4192,6 @@
         "biomformat",
         "ggplot2",
         "phyloseq",
-        "reshape2",
         "rhdf5"
     ],
     "coMET": [
@@ -4336,7 +4257,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "ggplot2",
-        "reshape2",
         "rhdf5",
         "rtracklayer"
     ],
@@ -4344,7 +4264,6 @@
         "BiocStyle",
         "bookdown",
         "dplyr",
-        "reshape2",
         "rmarkdown",
         "tidyr"
     ],
@@ -4459,7 +4378,6 @@
         "qvalue",
         "readr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "scater",
@@ -4491,7 +4409,6 @@
         "ggrepel",
         "hardhat",
         "recipes",
-        "reshape2",
         "scater",
         "scuttle",
         "slingshot",
@@ -4511,7 +4428,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rms",
         "viridis"
@@ -4598,7 +4514,6 @@
         "dplyr",
         "exomeCopy",
         "ggplot2",
-        "reshape2",
         "rtracklayer"
     ],
     "conumee": [
@@ -4702,7 +4617,6 @@
         "dplyr",
         "ggplot2",
         "ggthemes",
-        "reshape2",
         "tidyr"
     ],
     "coseq": [
@@ -4932,8 +4846,7 @@
         "KEGGREST",
         "Rsamtools",
         "SummarizedExperiment",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "crisprVerse": [
         "AnnotationDbi",
@@ -5103,15 +5016,13 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readxl",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "shinycssloaders",
         "tidyr"
     ],
     "ctsGE": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "CTSV": [
         "BiocFileCache",
@@ -5124,7 +5035,6 @@
         "dplyr",
         "ggplot2",
         "qvalue",
-        "reshape2",
         "rhdf5",
         "scuttle"
     ],
@@ -5150,7 +5060,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -5208,7 +5117,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "testthat",
         "tidyr",
         "viridis",
@@ -5252,7 +5160,6 @@
         "pbkrtest",
         "recipes",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "shinyFeedback",
@@ -5286,7 +5193,6 @@
         "pbkrtest",
         "recipes",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "testthat",
@@ -5335,8 +5241,7 @@
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "dagLogo": [
         "AnnotationDbi",
@@ -5359,7 +5264,6 @@
         "htmlwidgets",
         "motifStack",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "vroom"
@@ -5382,7 +5286,6 @@
         "dplyr",
         "ggplot2",
         "readr",
-        "reshape2",
         "rtracklayer",
         "vroom"
     ],
@@ -5425,7 +5328,6 @@
         "plsVarSel",
         "recipes",
         "rematch2",
-        "reshape2",
         "rgl",
         "rmarkdown",
         "rtracklayer",
@@ -5485,9 +5387,7 @@
         "vroom",
         "waldo"
     ],
-    "dcanr": [
-        "reshape2"
-    ],
+    "dcanr": [],
     "dce": [
         "AnnotationDbi",
         "Biostrings",
@@ -5520,7 +5420,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "reshape2",
         "rmarkdown",
         "rvest",
         "selectr",
@@ -5556,7 +5455,6 @@
         "dplyr",
         "ggplot2",
         "patchwork",
-        "reshape2",
         "scattermore"
     ],
     "debCAM": [
@@ -5566,7 +5464,6 @@
         "dplyr",
         "ggplot2",
         "readr",
-        "reshape2",
         "vroom"
     ],
     "debrowser": [
@@ -5611,7 +5508,6 @@
         "pathview",
         "plotly",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "scatterpie",
         "shadowtext",
@@ -5637,7 +5533,6 @@
         "bookdown",
         "ggplot2",
         "made4",
-        "reshape2",
         "rmarkdown"
     ],
     "DEComplexDisease": [
@@ -5676,8 +5571,7 @@
         "ggplot2"
     ],
     "decontam": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "deconvR": [
         "AnnotationDbi",
@@ -5705,7 +5599,6 @@
         "qvalue",
         "readr",
         "rematch2",
-        "reshape2",
         "rhdf5",
         "rsq",
         "rtracklayer",
@@ -5798,7 +5691,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -5827,8 +5719,7 @@
     ],
     "DEGseq": [
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "DelayedTensor": [
         "BiocSingular",
@@ -5897,7 +5788,6 @@
         "ggplot2",
         "ggrepel",
         "mixOmics",
-        "reshape2",
         "tidyr",
         "viridis"
     ],
@@ -5925,7 +5815,6 @@
         "htmlTable",
         "htmlwidgets",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -5959,7 +5848,6 @@
         "htmlTable",
         "htmlwidgets",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -6029,7 +5917,6 @@
         "ggplot2",
         "qvalue",
         "rematch2",
-        "reshape2",
         "testthat",
         "waldo"
     ],
@@ -6131,7 +6018,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -6142,8 +6028,7 @@
         "DRIMSeq",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "diffHic": [
         "BSgenome",
@@ -6208,7 +6093,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "scran",
@@ -6237,7 +6121,6 @@
         "kableExtra",
         "miniUI",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "rvest",
         "selectr",
@@ -6266,8 +6149,7 @@
         "cowplot",
         "ggplot2",
         "ggrepel",
-        "ggridges",
-        "reshape2"
+        "ggridges"
     ],
     "divergence": [
         "SummarizedExperiment"
@@ -6342,7 +6224,6 @@
         "missMethyl",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -6402,7 +6283,6 @@
         "interactiveDisplayBase",
         "readr",
         "regioneR",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -6465,7 +6345,6 @@
         "pbkrtest",
         "readxl",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "shinydashboard",
         "testthat",
@@ -6483,8 +6362,7 @@
         "cowplot",
         "fgsea",
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "doseR": [
         "SummarizedExperiment",
@@ -6510,8 +6388,7 @@
         "vroom"
     ],
     "DRIMSeq": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "DropletUtils": [
         "HDF5Array",
@@ -6559,7 +6436,6 @@
         "org.Hs.eg.db",
         "qvalue",
         "readr",
-        "reshape2",
         "tidyr",
         "vroom"
     ],
@@ -6575,8 +6451,7 @@
         "rtracklayer"
     ],
     "dStruct": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "Dune": [
         "SummarizedExperiment",
@@ -6621,7 +6496,6 @@
         "progeny",
         "quantiseqr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "testthat",
@@ -6657,7 +6531,6 @@
         "org.Mm.eg.db",
         "patchwork",
         "qvalue",
-        "reshape2",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -6734,7 +6607,6 @@
         "nloptr",
         "qvalue",
         "rematch2",
-        "reshape2",
         "snm",
         "sva",
         "testthat",
@@ -6772,7 +6644,6 @@
         "org.Mm.eg.db",
         "patchwork",
         "qvalue",
-        "reshape2",
         "scatterpie",
         "shadowtext",
         "sna",
@@ -6872,7 +6743,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rtracklayer",
@@ -6909,7 +6779,6 @@
         "ggplot2",
         "motifmatchr",
         "readr",
-        "reshape2",
         "rtracklayer",
         "vroom"
     ],
@@ -6983,7 +6852,6 @@
         "ggtree",
         "patchwork",
         "qvalue",
-        "reshape2",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -7037,7 +6905,6 @@
         "qvalue",
         "readr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rtracklayer",
@@ -7144,7 +7011,6 @@
         "plotly",
         "qvalue",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "scatterpie",
@@ -7189,8 +7055,7 @@
         "Rsamtools",
         "SummarizedExperiment",
         "beadarray",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "epigraHMM": [
         "BSgenome",
@@ -7253,7 +7118,6 @@
         "patchwork",
         "qvalue",
         "reactome.db",
-        "reshape2",
         "rmarkdown",
         "scatterpie",
         "shadowtext",
@@ -7335,7 +7199,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -7359,7 +7222,6 @@
         "htmlTable",
         "htmlwidgets",
         "qgraph",
-        "reshape2",
         "rmarkdown",
         "viridis"
     ],
@@ -7458,8 +7320,7 @@
     ],
     "erccdashboard": [
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "erma": [
         "AnnotationDbi",
@@ -7538,7 +7399,6 @@
         "pipeFrame",
         "qvalue",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "scatterpie",
@@ -7570,7 +7430,6 @@
         "ggridges",
         "msigdbr",
         "patchwork",
-        "reshape2",
         "rhdf5",
         "tidyr"
     ],
@@ -7591,7 +7450,6 @@
         "ggdendro",
         "ggplot2",
         "kableExtra",
-        "reshape2",
         "rmarkdown",
         "rvest",
         "selectr",
@@ -7615,7 +7473,6 @@
         "fgsea",
         "ggplot2",
         "qvalue",
-        "reshape2",
         "rhdf5",
         "rtracklayer"
     ],
@@ -7657,7 +7514,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "testthat",
@@ -7873,7 +7729,6 @@
         "qvalue",
         "rWikiPathways",
         "reactome.db",
-        "reshape2",
         "rmarkdown",
         "scatterpie",
         "shadowtext",
@@ -7936,7 +7791,6 @@
         "hdrcde",
         "rainbow",
         "readr",
-        "reshape2",
         "rtracklayer",
         "seqPattern",
         "vroom"
@@ -7976,7 +7830,6 @@
         "network",
         "patchwork",
         "qvalue",
-        "reshape2",
         "scatterpie",
         "shadowtext",
         "sna",
@@ -8048,7 +7901,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "tidyr",
@@ -8059,9 +7911,7 @@
         "dbplyr",
         "dplyr"
     ],
-    "FGNet": [
-        "reshape2"
-    ],
+    "FGNet": [],
     "fgsea": [
         "cowplot",
         "ggplot2"
@@ -8087,7 +7937,6 @@
         "ggrepel",
         "patchwork",
         "qvalue",
-        "reshape2",
         "rtracklayer",
         "tidyr"
     ],
@@ -8100,8 +7949,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "flagme": [
         "CAMERA",
@@ -8155,7 +8003,6 @@
         "ggrepel",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -8167,7 +8014,6 @@
     ],
     "flowAI": [
         "ggplot2",
-        "reshape2",
         "rmarkdown"
     ],
     "flowBeads": [],
@@ -8247,9 +8093,7 @@
         "rmarkdown",
         "visNetwork"
     ],
-    "flowMap": [
-        "reshape2"
-    ],
+    "flowMap": [],
     "flowMatch": [],
     "flowMeans": [],
     "flowMerge": [
@@ -8290,8 +8134,7 @@
         "waldo"
     ],
     "flowSpecs": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "flowStats": [
         "dplyr",
@@ -8389,7 +8232,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -8481,7 +8323,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -8573,7 +8414,6 @@
         "plsVarSel",
         "recipes",
         "rematch2",
-        "reshape2",
         "rgl",
         "rmarkdown",
         "rtracklayer",
@@ -8672,7 +8512,6 @@
         "qvalue",
         "readr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "scatterpie",
@@ -8745,7 +8584,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rstatix",
         "testthat",
         "tidyr",
@@ -8839,7 +8677,6 @@
         "dplyr",
         "logistf",
         "mice",
-        "reshape2",
         "tidyr"
     ],
     "GeneStructureTools": [
@@ -8922,8 +8759,7 @@
         "rtracklayer"
     ],
     "GENIE3": [
-        "dplyr",
-        "reshape2"
+        "dplyr"
     ],
     "genomation": [
         "BSgenome",
@@ -8933,7 +8769,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "readr",
-        "reshape2",
         "rtracklayer",
         "seqPattern",
         "vroom"
@@ -8962,7 +8797,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "tidyr"
     ],
     "GenomicFeatures": [
@@ -9071,7 +8905,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -9176,7 +9009,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "rtracklayer",
         "viridis"
     ],
@@ -9199,7 +9031,6 @@
         "nloptr",
         "readxl",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "robust",
         "testthat",
@@ -9232,7 +9063,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "shinyBS",
@@ -9273,7 +9103,6 @@
         "nloptr",
         "readxl",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "testthat",
         "tidyr",
@@ -9311,7 +9140,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "reshape2",
         "vsn"
     ],
     "getDEE2": [
@@ -9353,7 +9181,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -9471,7 +9298,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "viridis"
     ],
@@ -9524,7 +9350,6 @@
         "pbkrtest",
         "readr",
         "rematch2",
-        "reshape2",
         "rstatix",
         "survMisc",
         "survminer",
@@ -9588,7 +9413,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "reshape2",
         "rmarkdown",
         "tidyr",
         "viridis"
@@ -9615,7 +9439,6 @@
         "ggplot2",
         "htmlwidgets",
         "readr",
-        "reshape2",
         "rmarkdown",
         "tidyr",
         "viridis",
@@ -9715,7 +9538,6 @@
         "org.Hs.eg.db",
         "patchwork",
         "qvalue",
-        "reshape2",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -9746,8 +9568,7 @@
         "genefilter"
     ],
     "GOsummaries": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "GOTHiC": [
         "BSgenome",
@@ -9795,7 +9616,6 @@
         "ggplot2",
         "patchwork",
         "readr",
-        "reshape2",
         "tidyr",
         "topGO",
         "viridis",
@@ -9825,8 +9645,7 @@
         "iPAC"
     ],
     "GRENITS": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "GreyListChIP": [
         "BSgenome",
@@ -9863,7 +9682,6 @@
     ],
     "GSCA": [
         "ggplot2",
-        "reshape2",
         "rhdf5"
     ],
     "gscreend": [
@@ -10045,7 +9863,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "tidyr"
     ],
     "gwascat": [
@@ -10206,7 +10023,6 @@
     "HiCBricks": [
         "ggplot2",
         "readr",
-        "reshape2",
         "rhdf5",
         "viridis",
         "vroom"
@@ -10365,8 +10181,7 @@
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "ggrepel",
-        "reshape2"
+        "ggrepel"
     ],
     "hiReadsProcessor": [
         "BSgenome",
@@ -10403,7 +10218,6 @@
         "hardhat",
         "readr",
         "recipes",
-        "reshape2",
         "tidyr",
         "vroom"
     ],
@@ -10467,7 +10281,6 @@
         "kableExtra",
         "msigdbr",
         "reactable",
-        "reshape2",
         "rmarkdown",
         "rvest",
         "selectr",
@@ -10543,7 +10356,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rgl",
         "rhdf5",
         "rmarkdown",
@@ -10572,7 +10384,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "shinyBS",
         "shinydashboard"
@@ -10611,7 +10422,6 @@
         "htmlwidgets",
         "pcaExplorer",
         "plotly",
-        "reshape2",
         "rintrojs",
         "rmarkdown",
         "rtracklayer",
@@ -10648,7 +10458,6 @@
     "IgGeneUsage": [
         "SummarizedExperiment",
         "ggplot2",
-        "reshape2",
         "rstan"
     ],
     "igvR": [
@@ -10677,7 +10486,6 @@
         "dplyr",
         "ggplot2",
         "readxl",
-        "reshape2",
         "viridis"
     ],
     "imageHTS": [
@@ -10764,7 +10572,6 @@
         "htmlwidgets",
         "ncdfFlow",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "tidyr",
         "viridis"
@@ -10807,7 +10614,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -10832,7 +10638,6 @@
         "ggplot2",
         "plyranges",
         "readr",
-        "reshape2",
         "rtracklayer",
         "vroom"
     ],
@@ -10875,7 +10680,6 @@
         "pbkrtest",
         "qvalue",
         "rematch2",
-        "reshape2",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -10907,7 +10711,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -10938,7 +10741,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "reshape2",
         "rmarkdown"
     ],
     "interactiveDisplayBase": [
@@ -10977,7 +10779,6 @@
         "plotly",
         "readxl",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "roxygen2",
         "rstatix",
@@ -11021,8 +10822,7 @@
         "sqldf"
     ],
     "IntramiRExploreR": [
-        "FGNet",
-        "reshape2"
+        "FGNet"
     ],
     "IONiseR": [
         "Biostrings",
@@ -11140,7 +10940,6 @@
         "plotly",
         "qvalue",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "scater",
@@ -11309,7 +11108,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tximeta",
@@ -11504,7 +11302,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rstatix",
@@ -11529,7 +11326,6 @@
         "htmlTable",
         "htmlwidgets",
         "recipes",
-        "reshape2",
         "rmarkdown",
         "sva",
         "tidyr",
@@ -11577,7 +11373,6 @@
         "ggplot2",
         "htmlwidgets",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "shinydashboard",
         "shinyjs",
@@ -11626,7 +11421,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "reshape2",
         "rio",
         "rstatix",
         "testthat",
@@ -11651,7 +11445,6 @@
         "htmlwidgets",
         "networkD3",
         "patchwork",
-        "reshape2",
         "rmarkdown",
         "tidyr",
         "tidytree",
@@ -11728,9 +11521,7 @@
     "logitT": [
         "affy"
     ],
-    "LOLA": [
-        "reshape2"
-    ],
+    "LOLA": [],
     "LoomExperiment": [
         "HDF5Array",
         "SingleCellExperiment",
@@ -11767,7 +11558,6 @@
         "miniUI",
         "motifStack",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "rvest",
@@ -11821,7 +11611,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "tidyr",
@@ -11877,7 +11666,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "recipes",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr"
@@ -11894,7 +11682,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "testthat",
         "tidyr",
         "waldo"
@@ -11921,7 +11708,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "testthat",
         "tidyr",
@@ -12012,7 +11798,6 @@
         "oligoClasses",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "tidyr",
@@ -12056,7 +11841,6 @@
         "patchwork",
         "pathview",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "scatterpie",
         "shadowtext",
@@ -12086,7 +11870,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "reshape2",
         "rmarkdown",
         "rvest",
         "selectr",
@@ -12118,7 +11901,6 @@
         "questionr",
         "readr",
         "recipes",
-        "reshape2",
         "rmarkdown",
         "styler",
         "tidyr",
@@ -12150,7 +11932,6 @@
         "hgu133plus2.db",
         "org.Hs.eg.db",
         "recipes",
-        "reshape2",
         "tidyr"
     ],
     "mapscape": [
@@ -12185,7 +11966,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -12198,8 +11978,7 @@
     "MAST": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "MatrixQCvis": [
         "Hmisc",
@@ -12234,7 +12013,6 @@
         "annotate",
         "ggplot2",
         "readr",
-        "reshape2",
         "rtracklayer",
         "vroom"
     ],
@@ -12255,7 +12033,6 @@
         "nloptr",
         "phyloseq",
         "rematch2",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "ruv",
@@ -12411,7 +12188,6 @@
         "org.Hs.eg.db",
         "qvalue",
         "readr",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -12449,7 +12225,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "tidyr",
@@ -12562,7 +12337,6 @@
         "interactiveDisplayBase",
         "patchwork",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "scatterpie",
         "shadowtext",
@@ -12614,7 +12388,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "tidyr"
     ],
     "MetaboAnnotation": [
@@ -12672,7 +12445,6 @@
         "pbkrtest",
         "qvalue",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "sqldf",
@@ -12728,7 +12500,6 @@
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "rtracklayer"
     ],
     "metaMS": [
@@ -12781,7 +12552,6 @@
         "gson",
         "patchwork",
         "qvalue",
-        "reshape2",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -12832,7 +12602,6 @@
         "htmlwidgets",
         "plotly",
         "qvalue",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rmdformats",
@@ -12864,7 +12633,6 @@
         "epivizrStandalone",
         "ggplot2",
         "phyloseq",
-        "reshape2",
         "rhdf5",
         "rtracklayer"
     ],
@@ -12897,14 +12665,12 @@
         "ggplot2",
         "methylKit",
         "qvalue",
-        "reshape2",
         "rhdf5",
         "rtracklayer"
     ],
     "methimpute": [
         "Biostrings",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "methInheritSim": [
         "Biostrings",
@@ -12915,7 +12681,6 @@
         "ggplot2",
         "methylKit",
         "qvalue",
-        "reshape2",
         "rtracklayer"
     ],
     "MethReg": [
@@ -12944,7 +12709,6 @@
         "pbkrtest",
         "readr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "sesame",
@@ -13144,7 +12908,6 @@
         "qvalue",
         "reactome.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "ruv",
@@ -13167,7 +12930,6 @@
         "methylKit",
         "qvalue",
         "rebus",
-        "reshape2",
         "rtracklayer"
     ],
     "methylKit": [
@@ -13178,7 +12940,6 @@
         "fastseg",
         "ggplot2",
         "qvalue",
-        "reshape2",
         "rtracklayer"
     ],
     "MethylMix": [
@@ -13263,7 +13024,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "tidyr",
@@ -13290,7 +13050,6 @@
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "tidyr"
     ],
     "mfa": [
@@ -13331,7 +13090,6 @@
         "ggplot2",
         "ggrastr",
         "ggrepel",
-        "reshape2",
         "scater",
         "scuttle",
         "tidyr",
@@ -13372,7 +13130,6 @@
         "ggtree",
         "mia",
         "patchwork",
-        "reshape2",
         "scater",
         "scuttle",
         "tidygraph",
@@ -13387,7 +13144,6 @@
         "dplyr",
         "ggplot2",
         "phyloseq",
-        "reshape2",
         "rhdf5",
         "tidyr"
     ],
@@ -13396,7 +13152,6 @@
         "biomformat",
         "ggplot2",
         "phyloseq",
-        "reshape2",
         "rhdf5"
     ],
     "microbiomeExplorer": [
@@ -13424,7 +13179,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "shinyWidgets",
@@ -13482,7 +13236,6 @@
         "readxl",
         "recipes",
         "rematch2",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "scater",
@@ -13522,7 +13275,6 @@
         "htmlwidgets",
         "patchwork",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "roxygen2",
         "scatterpie",
@@ -13588,8 +13340,7 @@
         "genefilter",
         "ggdendro",
         "ggplot2",
-        "org.Hs.eg.db",
-        "reshape2"
+        "org.Hs.eg.db"
     ],
     "miloR": [
         "BiocSingular",
@@ -13629,7 +13380,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "viridis"
     ],
@@ -13668,7 +13418,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -13779,8 +13528,7 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "miRBaseVersions.db",
-        "reshape2"
+        "miRBaseVersions.db"
     ],
     "miRNAtap": [
         "AnnotationDbi",
@@ -13866,7 +13614,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "reshape2",
         "rmarkdown",
         "rqubic",
         "rstatix",
@@ -13946,7 +13693,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rvest",
@@ -13965,8 +13711,7 @@
     ],
     "mirTarRnaSeq": [
         "dplyr",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "missMethyl": [
         "AnnotationDbi",
@@ -13997,7 +13742,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "ruv",
@@ -14018,7 +13762,6 @@
         "hardhat",
         "readr",
         "recipes",
-        "reshape2",
         "tidyr",
         "vroom"
     ],
@@ -14030,7 +13773,6 @@
         "forcats",
         "ggplot2",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "tidyr"
     ],
@@ -14050,14 +13792,12 @@
         "deepSNV",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "rtracklayer"
     ],
     "mixOmics": [
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "reshape2",
         "tidyr"
     ],
     "MLInterfaces": [
@@ -14092,7 +13832,6 @@
         "hardhat",
         "recipes",
         "rematch2",
-        "reshape2",
         "testthat",
         "tidyr",
         "waldo"
@@ -14140,7 +13879,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "testthat",
         "tidyr",
         "waldo"
@@ -14158,7 +13896,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "ggplot2",
-        "reshape2",
         "topGO",
         "viridis"
     ],
@@ -14195,7 +13932,6 @@
         "forcats",
         "ggplot2",
         "ggrepel",
-        "reshape2",
         "rhdf5",
         "tidyr"
     ],
@@ -14220,7 +13956,6 @@
         "ggplot2",
         "qvalue",
         "readr",
-        "reshape2",
         "tidyr",
         "vroom"
     ],
@@ -14238,14 +13973,12 @@
         "annotate",
         "ggplot2",
         "readr",
-        "reshape2",
         "rtracklayer",
         "vroom"
     ],
     "monocle": [
         "dplyr",
         "ggplot2",
-        "reshape2",
         "viridis"
     ],
     "MoonlightR": [
@@ -14282,7 +14015,6 @@
         "patchwork",
         "qvalue",
         "readr",
-        "reshape2",
         "rgl",
         "rmarkdown",
         "rvest",
@@ -14358,7 +14090,6 @@
         "htmlwidgets",
         "motifStack",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis",
@@ -14388,7 +14119,6 @@
         "annotate",
         "ggplot2",
         "readr",
-        "reshape2",
         "rtracklayer",
         "vroom"
     ],
@@ -14407,7 +14137,6 @@
         "ggplot2",
         "htmlwidgets",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "vroom"
@@ -14421,7 +14150,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "tidyr"
     ],
     "mpra": [
@@ -14447,7 +14175,6 @@
         "pbkrtest",
         "readr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "testthat",
@@ -14510,7 +14237,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -14544,7 +14270,6 @@
         "ggplot2",
         "msmsEDA",
         "qvalue",
-        "reshape2",
         "vsn"
     ],
     "MSnbase": [
@@ -14571,7 +14296,6 @@
         "msmsEDA",
         "msmsTests",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "vsn"
     ],
@@ -14598,8 +14322,7 @@
     "msPurity": [
         "dbplyr",
         "dplyr",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "msqrob2": [
         "AnnotationFilter",
@@ -14662,7 +14385,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rvest",
@@ -14735,7 +14457,6 @@
         "nloptr",
         "recipes",
         "rematch2",
-        "reshape2",
         "testthat",
         "tidyr",
         "waldo"
@@ -14939,7 +14660,6 @@
         "reactome.db",
         "recipes",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "ropls",
         "roxygen2",
@@ -15003,7 +14723,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "scater",
         "sctransform",
         "scuttle",
@@ -15063,7 +14782,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rtracklayer",
@@ -15101,7 +14819,6 @@
         "ggalluvial",
         "ggdendro",
         "ggplot2",
-        "reshape2",
         "rtracklayer",
         "tidyr"
     ],
@@ -15118,7 +14835,6 @@
         "pbkrtest",
         "qvalue",
         "rematch2",
-        "reshape2",
         "testthat",
         "tidyr",
         "waldo"
@@ -15207,7 +14923,6 @@
         "mutoss",
         "readr",
         "regioneR",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -15253,8 +14968,7 @@
         "KEGGREST",
         "NMF",
         "ggplot2",
-        "org.Hs.eg.db",
-        "reshape2"
+        "org.Hs.eg.db"
     ],
     "nanotatoR": [
         "AnnotationDbi",
@@ -15312,7 +15026,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "testthat",
         "tidyr",
         "waldo"
@@ -15369,7 +15082,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -15434,7 +15146,6 @@
         "htmlwidgets",
         "patchwork",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "scatterpie",
         "shadowtext",
@@ -15451,7 +15162,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "tidyr"
     ],
     "nethet": [
@@ -15485,7 +15195,6 @@
         "bookdown",
         "ggplot2",
         "qvalue",
-        "reshape2",
         "rmarkdown"
     ],
     "NetSAM": [
@@ -15528,7 +15237,6 @@
         "ggrepel",
         "mbkmeans",
         "phylobase",
-        "reshape2",
         "rhdf5",
         "scater",
         "scuttle",
@@ -15568,7 +15276,6 @@
         "pandaR",
         "quantro",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "sqldf",
@@ -15598,7 +15305,6 @@
         "patchwork",
         "plotly",
         "readr",
-        "reshape2",
         "rmarkdown",
         "tidyr",
         "vroom"
@@ -15642,7 +15348,6 @@
         "rWikiPathways",
         "reactome.db",
         "readr",
-        "reshape2",
         "rtracklayer",
         "tidyr",
         "vroom"
@@ -15690,7 +15395,6 @@
         "bamsignals",
         "ggplot2",
         "qvalue",
-        "reshape2",
         "rtracklayer"
     ],
     "NPARC": [
@@ -15785,7 +15489,6 @@
         "interactiveDisplayBase",
         "octad.db",
         "plotly",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -15830,7 +15533,6 @@
         "qvalue",
         "readr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rtracklayer",
@@ -15901,7 +15603,6 @@
         "miniUI",
         "questionr",
         "readr",
-        "reshape2",
         "styler",
         "tidyr",
         "vroom",
@@ -15954,7 +15655,6 @@
         "pbkrtest",
         "qvalue",
         "rematch2",
-        "reshape2",
         "rexposome",
         "rmarkdown",
         "sva",
@@ -16002,7 +15702,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rgl",
         "rmarkdown",
         "rstatix",
@@ -16043,7 +15742,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "shinyWidgets",
@@ -16146,7 +15844,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "viridis"
     ],
@@ -16160,7 +15857,6 @@
         "htmlTable",
         "htmlwidgets",
         "openPrimeR",
-        "reshape2",
         "rmarkdown",
         "shinyBS",
         "shinyjs",
@@ -16180,7 +15876,6 @@
         "pbkrtest",
         "rapportools",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "summarytools",
         "testthat",
@@ -16234,8 +15929,7 @@
     ],
     "OPWeight": [
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "ORFhunteR": [
         "BSgenome",
@@ -16367,7 +16061,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -16430,7 +16123,6 @@
         "ggplot2",
         "motifmatchr",
         "readr",
-        "reshape2",
         "rtracklayer",
         "vroom"
     ],
@@ -16487,7 +16179,6 @@
         "org.Hs.eg.db",
         "patchwork",
         "qvalue",
-        "reshape2",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -16522,7 +16213,6 @@
         "nloptr",
         "qvalue",
         "rematch2",
-        "reshape2",
         "shadowtext",
         "tensorflow",
         "testthat",
@@ -16541,7 +16231,6 @@
         "dplyr",
         "ggplot2",
         "qvalue",
-        "reshape2",
         "rtracklayer"
     ],
     "PathoStat": [
@@ -16566,7 +16255,6 @@
         "plotly",
         "profvis",
         "rematch2",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "roxygen2",
@@ -16621,7 +16309,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "shinyAce",
         "shinyBS",
@@ -16635,8 +16322,7 @@
         "BiocSingular",
         "cowplot",
         "ggplot2",
-        "ggrepel",
-        "reshape2"
+        "ggrepel"
     ],
     "pcxn": [],
     "PDATK": [
@@ -16675,7 +16361,6 @@
         "piano",
         "recipes",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "shinydashboard",
@@ -16733,8 +16418,7 @@
         "viridis"
     ],
     "PepsNMR": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "pepStat": [
         "fields",
@@ -16746,7 +16430,6 @@
         "biomformat",
         "ggplot2",
         "phyloseq",
-        "reshape2",
         "rhdf5"
     ],
     "periodicDNA": [
@@ -16784,7 +16467,6 @@
         "gson",
         "patchwork",
         "qvalue",
-        "reshape2",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -16824,7 +16506,6 @@
         "ggplot2",
         "htmlwidgets",
         "piano",
-        "reshape2",
         "rmarkdown",
         "shinydashboard",
         "shinyjs",
@@ -16935,7 +16616,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rstatix",
         "ruv",
         "testthat",
@@ -16972,7 +16652,6 @@
         "Biostrings",
         "biomformat",
         "ggplot2",
-        "reshape2",
         "rhdf5"
     ],
     "Pi": [
@@ -16987,7 +16666,6 @@
         "osfr",
         "readr",
         "recipes",
-        "reshape2",
         "sna",
         "supraHex",
         "tidyr",
@@ -17046,7 +16724,6 @@
         "patchwork",
         "qvalue",
         "reactome.db",
-        "reshape2",
         "rmarkdown",
         "scatterpie",
         "shadowtext",
@@ -17104,7 +16781,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scater",
         "scattermore",
@@ -17129,8 +16805,7 @@
         "dplyr"
     ],
     "plethy": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "plier": [
         "affy"
@@ -17208,8 +16883,7 @@
     ],
     "pmp": [
         "SummarizedExperiment",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "PoDCall": [
         "DT",
@@ -17263,7 +16937,6 @@
         "hardhat",
         "mixOmics",
         "recipes",
-        "reshape2",
         "rmarkdown",
         "tidyr"
     ],
@@ -17279,8 +16952,7 @@
         "MAST",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "ppcseq": [
         "benchmarkme",
@@ -17330,7 +17002,6 @@
         "bookdown",
         "ggplot2",
         "phyloseq",
-        "reshape2",
         "rhdf5",
         "rmarkdown"
     ],
@@ -17356,7 +17027,6 @@
         "org.Hs.eg.db",
         "rCGH",
         "recipes",
-        "reshape2",
         "rtracklayer",
         "tidyr"
     ],
@@ -17400,7 +17070,6 @@
         "interactiveDisplayBase",
         "phastCons100way.UCSC.hg38",
         "readr",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -17474,7 +17143,6 @@
         "nloptr",
         "pvca",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "sva",
         "testthat",
@@ -17551,7 +17219,6 @@
         "patchwork",
         "qvalue",
         "rGREAT",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "scatterpie",
@@ -17569,7 +17236,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "reshape2",
         "tidyr"
     ],
     "projectR": [
@@ -17580,7 +17246,6 @@
         "dplyr",
         "ggalluvial",
         "ggplot2",
-        "reshape2",
         "rhdf5",
         "tidyr",
         "viridis"
@@ -17608,7 +17273,6 @@
         "mixtools",
         "plotly",
         "recipes",
-        "reshape2",
         "rmarkdown",
         "threejs",
         "tidyr",
@@ -17643,7 +17307,6 @@
         "pRoloc",
         "plotly",
         "recipes",
-        "reshape2",
         "rmarkdown",
         "shinyWidgets",
         "shinydashboard",
@@ -17669,7 +17332,6 @@
         "KEGGREST",
         "annotate",
         "genefilter",
-        "reshape2",
         "sva"
     ],
     "Prostar": [
@@ -17776,7 +17438,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rvest",
@@ -17824,7 +17485,6 @@
         "qvalue",
         "readr",
         "recount",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "shinyBS",
@@ -17856,7 +17516,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "tidyr",
         "topGO"
     ],
@@ -17996,8 +17655,7 @@
     ],
     "qckitfastq": [
         "dplyr",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "qcmetrics": [],
     "QDNAseq": [
@@ -18032,7 +17690,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "testthat",
         "tidyr",
@@ -18199,8 +17856,7 @@
         "tidyr"
     ],
     "qvalue": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "R3CPET": [
         "AnnotationDbi",
@@ -18227,7 +17883,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -18240,7 +17895,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "qvalue",
-        "reshape2",
         "rtracklayer",
         "sqldf"
     ],
@@ -18276,7 +17930,6 @@
         "ggplot2",
         "htmlwidgets",
         "piano",
-        "reshape2",
         "rmarkdown",
         "shinydashboard",
         "shinyjs",
@@ -18288,8 +17941,7 @@
     ],
     "ramr": [
         "EnvStats",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "ramwas": [
         "AnnotationDbi",
@@ -18353,7 +18005,6 @@
         "dada2",
         "ggplot2",
         "readr",
-        "reshape2",
         "vroom"
     ],
     "Rbowtie2": [
@@ -18393,7 +18044,6 @@
         "htmlwidgets",
         "plotly",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "seqPattern",
@@ -18444,7 +18094,6 @@
         "biomformat",
         "ggplot2",
         "phyloseq",
-        "reshape2",
         "rhdf5",
         "tseries"
     ],
@@ -18532,7 +18181,6 @@
         "patchwork",
         "qvalue",
         "reactome.db",
-        "reshape2",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -18557,7 +18205,6 @@
         "biomformat",
         "ggplot2",
         "phyloseq",
-        "reshape2",
         "rhdf5"
     ],
     "recount": [
@@ -18584,7 +18231,6 @@
         "htmlwidgets",
         "qvalue",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -18691,7 +18337,6 @@
         "htmlTable",
         "htmlwidgets",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "tidyr",
         "viridis"
@@ -18713,7 +18358,6 @@
         "ggplot2",
         "ggrepel",
         "regioneR",
-        "reshape2",
         "rtracklayer"
     ],
     "regionReport": [
@@ -18745,7 +18389,6 @@
         "htmlwidgets",
         "knitrBootstrap",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -18813,7 +18456,6 @@
         "org.Hs.eg.db",
         "readr",
         "recipes",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -18871,7 +18513,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -18901,7 +18542,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "ggplot2",
-        "reshape2",
         "rtracklayer"
     ],
     "restfulSE": [
@@ -18919,7 +18559,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "reshape2",
         "rmarkdown"
     ],
     "rexposome": [
@@ -18938,7 +18577,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "testthat",
         "tidyr",
@@ -18951,8 +18589,7 @@
         "selectr"
     ],
     "Rfastp": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "rfPred": [
         "Biostrings",
@@ -19117,7 +18754,6 @@
         "ggplot2",
         "qvalue",
         "reldist",
-        "reshape2",
         "rstan",
         "rtracklayer"
     ],
@@ -19146,7 +18782,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "sqldf",
@@ -19190,7 +18825,6 @@
         "htmlwidgets",
         "motifStack",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "vroom"
@@ -19210,7 +18844,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rtracklayer",
         "testthat",
         "tidyr",
@@ -19218,7 +18851,6 @@
     ],
     "RImmPort": [
         "dplyr",
-        "reshape2",
         "sqldf"
     ],
     "Ringo": [
@@ -19287,7 +18919,6 @@
         "dplyr",
         "ensembldb",
         "ggplot2",
-        "reshape2",
         "rtracklayer",
         "sqldf",
         "tidyr",
@@ -19333,7 +18964,6 @@
         "readr",
         "recipes",
         "regioneR",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -19422,7 +19052,6 @@
         "qvalue",
         "readr",
         "recount",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -19492,7 +19121,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -19521,7 +19149,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -19550,7 +19177,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -19579,7 +19205,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -19588,8 +19213,7 @@
         "NBPSeq",
         "SummarizedExperiment",
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "RNASeqR": [
         "AnnotationDbi",
@@ -19642,7 +19266,6 @@
         "pbkrtest",
         "qvalue",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rtracklayer",
@@ -19695,7 +19318,6 @@
         "readr",
         "recount",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rtracklayer",
@@ -19730,7 +19352,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "tidyr",
@@ -19752,8 +19373,7 @@
     "RolDE": [
         "SummarizedExperiment",
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "ROntoTools": [
         "Biostrings",
@@ -19779,7 +19399,6 @@
         "bookdown",
         "ggplot2",
         "phyloseq",
-        "reshape2",
         "rhdf5",
         "rmarkdown"
     ],
@@ -19789,7 +19408,6 @@
         "ggplot2",
         "htmlwidgets",
         "patchwork",
-        "reshape2",
         "rmarkdown",
         "shinyFeedback",
         "shinycssloaders"
@@ -19824,7 +19442,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -20046,9 +19663,7 @@
         "tidyr",
         "waldo"
     ],
-    "RUVcorr": [
-        "reshape2"
-    ],
+    "RUVcorr": [],
     "RUVnormalize": [],
     "RUVSeq": [
         "AnnotationDbi",
@@ -20112,7 +19727,6 @@
         "ggplot2",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "sangerseqR",
         "shinyWidgets",
@@ -20132,8 +19746,7 @@
         "ggplot2"
     ],
     "savR": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "SBGNview": [
         "AnnotationDbi",
@@ -20167,7 +19780,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -20255,7 +19867,6 @@
         "patchwork",
         "plotly",
         "recipes",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -20324,7 +19935,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -20346,7 +19956,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -20369,7 +19978,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "scattermore",
@@ -20396,7 +20004,6 @@
         "mixtools",
         "patchwork",
         "plotly",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "tidygraph",
@@ -20429,7 +20036,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -20504,7 +20110,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "tidyr"
     ],
     "schex": [
@@ -20522,7 +20127,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -20556,7 +20160,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -20566,8 +20169,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "dplyr",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "scMerge": [
         "BiocSingular",
@@ -20620,7 +20222,6 @@
         "interactiveDisplayBase",
         "readr",
         "regioneR",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -20769,7 +20370,6 @@
         "ggraph",
         "ggrepel",
         "powerTCR",
-        "reshape2",
         "tidygraph",
         "tidyr",
         "viridis"
@@ -20802,7 +20402,6 @@
         "ggthemes",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -20871,7 +20470,6 @@
         "plotly",
         "qvalue",
         "reactome.db",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "scatterpie",
@@ -20911,7 +20509,6 @@
         "nnTensor",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "schex",
@@ -20954,7 +20551,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "scater",
@@ -20973,8 +20569,7 @@
     "SDAMS": [
         "SummarizedExperiment",
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "sechm": [
         "SummarizedExperiment"
@@ -21012,7 +20607,6 @@
         "ggtree",
         "patchwork",
         "qvalue",
-        "reshape2",
         "rtracklayer",
         "scatterpie",
         "shadowtext",
@@ -21082,8 +20676,7 @@
     "seqArchR": [
         "Biostrings",
         "ggplot2",
-        "ggseqlogo",
-        "reshape2"
+        "ggseqlogo"
     ],
     "SeqArray": [
         "Biostrings"
@@ -21161,7 +20754,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rbokeh",
-        "reshape2",
         "rmarkdown",
         "tidyr"
     ],
@@ -21189,7 +20781,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "reshape2",
         "rmarkdown",
         "sesameData",
         "vroom"
@@ -21258,7 +20849,6 @@
         "minfi",
         "plotly",
         "readr",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -21313,7 +20903,6 @@
         "nloptr",
         "phyloseq",
         "rematch2",
-        "reshape2",
         "rhdf5",
         "testthat",
         "waldo"
@@ -21344,8 +20933,7 @@
     ],
     "sights": [
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "signatureSearch": [
         "AnnotationDbi",
@@ -21386,7 +20974,6 @@
         "qvalue",
         "reactome.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "scatterpie",
@@ -21432,7 +21019,6 @@
         "pbkrtest",
         "readr",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rtracklayer",
@@ -21528,8 +21114,7 @@
         "globaltest"
     ],
     "SIMAT": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "SimBindProfiles": [
         "AnnotationDbi",
@@ -21550,7 +21135,6 @@
         "dplyr",
         "ggplot2",
         "phyloseq",
-        "reshape2",
         "rhdf5",
         "tidyr"
     ],
@@ -21591,7 +21175,6 @@
     "sincell": [
         "fields",
         "ggplot2",
-        "reshape2",
         "viridis"
     ],
     "single": [
@@ -21600,7 +21183,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "dplyr",
-        "reshape2",
         "tidyr"
     ],
     "SingleCellExperiment": [
@@ -21686,7 +21268,6 @@
         "plotly",
         "qvalue",
         "reldist",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "rstan",
@@ -21746,7 +21327,6 @@
         "ggrepel",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "tidyr"
     ],
@@ -21821,7 +21401,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "tidyr",
@@ -21915,7 +21494,6 @@
         "dplyr",
         "geneplotter",
         "ggplot2",
-        "reshape2",
         "rtracklayer"
     ],
     "soGGi": [
@@ -21926,7 +21504,6 @@
         "SummarizedExperiment",
         "chipseq",
         "ggplot2",
-        "reshape2",
         "rtracklayer"
     ],
     "sojourner": [
@@ -21936,7 +21513,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "sampSurf",
         "shinyjs",
@@ -21968,7 +21544,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -21997,7 +21572,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "scater",
@@ -22033,7 +21607,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "ggplot2",
-        "reshape2",
         "rtracklayer"
     ],
     "spaSim": [
@@ -22099,7 +21672,6 @@
         "nloptr",
         "readxl",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "testthat",
         "tidyr",
@@ -22154,7 +21726,6 @@
         "htmlTable",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scater",
         "scran",
@@ -22194,7 +21765,6 @@
         "htmlwidgets",
         "motifmatchr",
         "readr",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis",
@@ -22234,7 +21804,6 @@
         "ggridges",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "scuttle",
@@ -22319,7 +21888,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "plotly",
-        "reshape2",
         "rhandsontable",
         "rhdf5",
         "rmarkdown",
@@ -22419,7 +21987,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rvest",
@@ -22448,7 +22015,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "scattermore",
@@ -22461,8 +22027,7 @@
         "NMF",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "spqn": [
         "SummarizedExperiment",
@@ -22483,7 +22048,6 @@
         "htmlTable",
         "htmlwidgets",
         "phyloseq",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "viridis"
@@ -22496,7 +22060,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "visNetwork"
     ],
@@ -22567,7 +22130,6 @@
         "ggrepel",
         "graphite",
         "org.Hs.eg.db",
-        "reshape2",
         "tidygraph",
         "tidyr",
         "viridis"
@@ -22685,7 +22247,6 @@
         "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db",
-        "reshape2",
         "sqldf"
     ],
     "STATegRa": [
@@ -22726,7 +22287,6 @@
         "ggforce",
         "ggfun",
         "ggplot2",
-        "reshape2",
         "scatterpie",
         "tidyr",
         "viridis"
@@ -22749,7 +22309,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "scattermore",
@@ -22771,7 +22330,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "rmarkdown",
         "rtracklayer"
     ],
@@ -22819,7 +22377,6 @@
         "networkD3",
         "org.Hs.eg.db",
         "recipes",
-        "reshape2",
         "rmarkdown",
         "tidyr"
     ],
@@ -22827,7 +22384,6 @@
         "dplyr",
         "ggplot2",
         "qvalue",
-        "reshape2",
         "tidyr"
     ],
     "SUITOR": [
@@ -22855,7 +22411,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "rsample",
         "tidyr"
     ],
@@ -22954,8 +22509,7 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "SwathXtend": [],
     "switchde": [
@@ -22977,7 +22531,6 @@
         "ggplot2",
         "qvalue",
         "readr",
-        "reshape2",
         "rmarkdown",
         "vroom",
         "vsn"
@@ -23012,7 +22565,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "reshape2",
         "rmarkdown",
         "rvest",
         "selectr",
@@ -23037,7 +22589,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "testthat",
         "tidyr",
         "waldo"
@@ -23145,7 +22696,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rhdf5",
         "rstatix",
         "testthat",
@@ -23211,7 +22761,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "viridis"
     ],
@@ -23236,7 +22785,6 @@
         "ggrepel",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rhdf5",
         "rmarkdown",
         "singscore",
@@ -23338,7 +22886,6 @@
         "readr",
         "recipes",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "rtracklayer",
@@ -23388,8 +22935,7 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "TDARACNE": [
         "GenKern"
@@ -23432,7 +22978,6 @@
         "interactiveDisplayBase",
         "ontoProc",
         "org.Mm.eg.db",
-        "reshape2",
         "restfulSE",
         "rmarkdown"
     ],
@@ -23486,7 +23031,6 @@
         "annotate",
         "ggplot2",
         "readr",
-        "reshape2",
         "rtracklayer",
         "vroom"
     ],
@@ -23598,7 +23142,6 @@
         "ggrepel",
         "mixOmics",
         "propr",
-        "reshape2",
         "tidyr"
     ],
     "timescape": [
@@ -23644,7 +23187,6 @@
         "qvalue",
         "rWikiPathways",
         "readxl",
-        "reshape2",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -23717,7 +23259,6 @@
         "naniar",
         "readr",
         "recipes",
-        "reshape2",
         "rtracklayer",
         "tidyr",
         "viridis",
@@ -23771,8 +23312,7 @@
     "tomoda": [
         "SummarizedExperiment",
         "ggplot2",
-        "ggrepel",
-        "reshape2"
+        "ggrepel"
     ],
     "tomoseqr": [
         "BiocFileCache",
@@ -23814,7 +23354,6 @@
         "ggplot2",
         "htmlwidgets",
         "piano",
-        "reshape2",
         "rmarkdown",
         "shinydashboard",
         "shinyjs",
@@ -23826,7 +23365,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "rmarkdown",
         "tidyr"
     ],
@@ -23916,7 +23454,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "rtracklayer",
         "tidyr"
     ],
@@ -23947,7 +23484,6 @@
         "ggplot2",
         "org.Hs.eg.db",
         "qvalue",
-        "reshape2",
         "topGO"
     ],
     "transomics2cytoscape": [
@@ -24016,7 +23552,6 @@
         "patchwork",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "testthat",
@@ -24112,7 +23647,6 @@
         "genefilter",
         "ggplot2",
         "qvalue",
-        "reshape2",
         "sva"
     ],
     "trio": [],
@@ -24226,7 +23760,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -24333,7 +23866,6 @@
         "org.Hs.eg.db",
         "rainbow",
         "regioneR",
-        "reshape2",
         "rtracklayer"
     ],
     "uncoverappLib": [
@@ -24414,7 +23946,6 @@
         "dplyr",
         "ggplot2",
         "monocle",
-        "reshape2",
         "viridis"
     ],
     "VAExprs": [
@@ -24481,7 +24012,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "testthat",
         "tidyr",
         "waldo"
@@ -24671,7 +24201,6 @@
         "htmlwidgets",
         "plotly",
         "readr",
-        "reshape2",
         "rmarkdown",
         "tidyr",
         "topGO",
@@ -24702,7 +24231,6 @@
         "msigdb",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "reshape2",
         "rmarkdown",
         "syuzhet",
         "textclean",
@@ -24734,8 +24262,7 @@
         "Rsamtools",
         "SummarizedExperiment",
         "cowplot",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "vsclust": [
         "MultiAssayExperiment",
@@ -24743,7 +24270,6 @@
         "dplyr",
         "ggplot2",
         "qvalue",
-        "reshape2",
         "tidyr"
     ],
     "vsn": [
@@ -24856,7 +24382,6 @@
         "minfi",
         "org.Hs.eg.db",
         "readr",
-        "reshape2",
         "rhdf5",
         "rtracklayer",
         "tidyr",
@@ -24892,14 +24417,12 @@
         "gcrma",
         "ggplot2",
         "qvalue",
-        "reshape2",
         "vsn"
     ],
     "weitrix": [
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "reshape2",
         "topconfects"
     ],
     "wiggleplotr": [
@@ -24973,7 +24496,6 @@
         "ggplot2",
         "htmlwidgets",
         "piano",
-        "reshape2",
         "rmarkdown",
         "shinydashboard",
         "shinyjs",
@@ -25033,7 +24555,6 @@
         "gtrellis",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -25094,7 +24615,6 @@
         "pathview",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "safe",
         "testthat",
         "tidyr",
@@ -25122,15 +24642,13 @@
         "KEGGREST"
     ],
     "ggplot2": [],
-    "reshape2": [],
     "flexdashboard": [
         "htmlwidgets",
         "rmarkdown"
     ],
     "rmarkdown": [],
     "ggcorrplot": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "ggdendro": [
         "ggplot2"
@@ -25306,7 +24824,6 @@
     ],
     "speaq": [
         "ggplot2",
-        "reshape2",
         "rvest",
         "selectr"
     ],
@@ -25362,7 +24879,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "tidyr"
     ],
     "plotROC": [
@@ -25396,7 +24912,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -25423,8 +24938,7 @@
     ],
     "sctransform": [
         "dplyr",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
@@ -25689,8 +25203,7 @@
         "rtracklayer"
     ],
     "NMF": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "ggalluvial": [
         "dplyr",
@@ -25812,7 +25325,6 @@
         "ggplot2",
         "htmlwidgets",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "tidyr",
         "viridis"
@@ -25826,7 +25338,6 @@
         "dplyr",
         "ggplot2",
         "phyloseq",
-        "reshape2",
         "rhdf5"
     ],
     "tidytext": [
@@ -26110,7 +25621,6 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "qvalue",
-        "reshape2",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -26163,9 +25673,7 @@
         "waldo"
     ],
     "IRkernel": [],
-    "rapportools": [
-        "reshape2"
-    ],
+    "rapportools": [],
     "rintrojs": [],
     "enrichR": [
         "ggplot2"
@@ -26289,8 +25797,7 @@
     ],
     "isva": [
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "geneLenDataBase": [
         "AnnotationDbi",
@@ -26317,7 +25824,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "tidyr"
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
@@ -26461,7 +25967,6 @@
     "phylobase": [
         "RNeXML",
         "dplyr",
-        "reshape2",
         "tidyr"
     ],
     "ClusterR": [
@@ -26473,7 +25978,6 @@
     ],
     "RNeXML": [
         "dplyr",
-        "reshape2",
         "tidyr"
     ],
     "benchmarkmeData": [
@@ -26505,7 +26009,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "reshape2",
         "rmarkdown",
         "rstatix",
         "testthat",
@@ -26519,7 +26022,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "spatstat",
         "spatstat.linnet",
         "spatstat.model",
@@ -26640,8 +26142,7 @@
         "ggplot2"
     ],
     "mrfDepth": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "RFOC": [
         "GEOmap",
@@ -26777,8 +26278,7 @@
     ],
     "NBPSeq": [
         "ggplot2",
-        "qvalue",
-        "reshape2"
+        "qvalue"
     ],
     "fastDummies": [],
     "hgu133a2.db": [
@@ -26827,7 +26327,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "viridis"
     ],
@@ -26918,12 +26417,10 @@
     ],
     "FCPS": [
         "DataVisualizations",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "DataVisualizations": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "survminer": [
         "broom",
@@ -26977,7 +26474,6 @@
         "htmlwidgets",
         "plotly",
         "readxl",
-        "reshape2",
         "rmarkdown",
         "tidyr",
         "viridis"
@@ -27005,7 +26501,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "reshape2",
         "rmarkdown",
         "viridis"
     ],
@@ -27076,8 +26571,7 @@
     ],
     "AdaptGauss": [
         "DataVisualizations",
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "datamods": [
         "cellranger",
@@ -27133,7 +26627,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "tidyr"
     ],
     "glmmTMB": [
@@ -27144,8 +26637,7 @@
         "waldo"
     ],
     "cplm": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "bigstatsr": [
         "cowplot",
@@ -27169,7 +26661,6 @@
     "plsgenomics": [
         "fields",
         "ggplot2",
-        "reshape2",
         "viridis"
     ],
     "agricolae": [
@@ -27228,7 +26719,6 @@
         "ggplot2",
         "isva",
         "qvalue",
-        "reshape2",
         "sva"
     ],
     "EnsDb.Hsapiens.v75": [
@@ -27453,7 +26943,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "reshape2",
         "rtracklayer"
     ],
     "shinyjqui": [
@@ -27543,7 +27032,6 @@
         "miniUI",
         "questionr",
         "readr",
-        "reshape2",
         "styler",
         "tidyr",
         "vroom",
@@ -27570,7 +27058,6 @@
     "summarytools": [
         "dplyr",
         "rapportools",
-        "reshape2",
         "tidyr"
     ],
     "unmarked": [
@@ -27603,12 +27090,9 @@
     "opencpu": [],
     "osfr": [],
     "C50": [
-        "Cubist",
-        "reshape2"
+        "Cubist"
     ],
-    "Cubist": [
-        "reshape2"
-    ],
+    "Cubist": [],
     "tidybayes": [
         "distributional",
         "dplyr",
@@ -27785,7 +27269,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "tidyr"
     ],
     "ggprism": [
@@ -27968,7 +27451,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "reshape2",
         "rmarkdown",
         "scattermore",
         "sctransform",
@@ -28099,8 +27581,7 @@
         "dplyr"
     ],
     "FreqProf": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "gghighlight": [
         "dplyr",
@@ -28114,7 +27595,6 @@
         "ggplot2",
         "hardhat",
         "recipes",
-        "reshape2",
         "tidyr"
     ],
     "naniar": [
@@ -28129,8 +27609,7 @@
         "vroom"
     ],
     "LambertW": [
-        "ggplot2",
-        "reshape2"
+        "ggplot2"
     ],
     "butcher": [],
     "visdat": [
