@@ -14351,7 +14351,6 @@
         "ExperimentHub",
         "GGally",
         "dbplyr",
-        "gistr",
         "htmlwidgets",
         "interactiveDisplayBase",
         "rbokeh",
@@ -18759,10 +18758,8 @@
         "viridis"
     ],
     "rbokeh": [
-        "gistr",
         "htmlwidgets"
     ],
-    "gistr": [],
     "survivalAnalysis": [
         "broom",
         "car",
