@@ -23692,8 +23692,7 @@
         "dbplyr",
         "dplyr",
         "rhdf5",
-        "scuttle",
-        "spdep"
+        "scuttle"
     ],
     "spatialHeatmap": [
         "AnnotationDbi",
@@ -24365,7 +24364,6 @@
         "scattermore",
         "sctransform",
         "scuttle",
-        "spdep",
         "tidyr"
     ],
     "strandCheckR": [
@@ -26499,8 +26497,7 @@
         "ggplot2",
         "patchwork",
         "rhdf5",
-        "scuttle",
-        "spdep"
+        "scuttle"
     ],
     "VplotR": [
         "Biostrings",
@@ -30060,7 +30057,6 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "spdep": [],
     "alphahull": [
         "ggplot2"
     ],
