@@ -13467,7 +13467,6 @@
         "intergraph",
         "network",
         "patchwork",
-        "pathwayPCA",
         "pillar",
         "progress",
         "purrr",
@@ -27833,7 +27832,6 @@
         "blob",
         "org.Hs.eg.db"
     ],
-    "pathwayPCA": [],
     "paxtoolsr": [
         "hms",
         "pillar",
