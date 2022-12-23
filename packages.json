@@ -1814,7 +1814,6 @@
         "tidyselect",
         "waldo"
     ],
-    "ASGSCA": [],
     "ASICS": [
         "BiocParallel",
         "DelayedArray",
