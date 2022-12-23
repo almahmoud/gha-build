@@ -3174,8 +3174,7 @@
     ],
     "GENESIS": [
         "GWASTools",
-        "SeqVarTools",
-        "logistf"
+        "SeqVarTools"
     ],
     "GeneStructureTools": [
         "BSgenome",
@@ -3595,15 +3594,12 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "GWASTools": [
-        "logistf"
-    ],
+    "GWASTools": [],
     "gwasurvivr": [
         "BSgenome",
         "GWASTools",
         "GenomicFeatures",
         "VariantAnnotation",
-        "logistf",
         "rtracklayer"
     ],
     "GWENA": [
@@ -4335,8 +4331,7 @@
         "viridis"
     ],
     "mBPCR": [
-        "GWASTools",
-        "logistf"
+        "GWASTools"
     ],
     "MCbiclust": [
         "GO.db",
@@ -5951,7 +5946,6 @@
     "PhenStat": [
         "car",
         "lme4",
-        "logistf",
         "nloptr",
         "pbkrtest"
     ],
@@ -6864,7 +6858,6 @@
     "rnaEditr": [
         "GenomicFeatures",
         "bumphunter",
-        "logistf",
         "rtracklayer"
     ],
     "RNAinteract": [
@@ -7399,9 +7392,7 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "SeqVarTools": [
-        "logistf"
-    ],
+    "SeqVarTools": [],
     "sesame": [
         "AnnotationHub",
         "ExperimentHub",
@@ -8534,8 +8525,7 @@
         "rtracklayer"
     ],
     "VariantExperiment": [
-        "SeqVarTools",
-        "logistf"
+        "SeqVarTools"
     ],
     "VariantFiltering": [
         "AnnotationHub",
@@ -9231,7 +9221,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "logistf": [],
     "robust": [],
     "shinyHeatmaply": [
         "dendextend",
