@@ -7392,7 +7392,6 @@
         "SpatialFeatureExperiment",
         "scuttle"
     ],
-    "vsclust": [],
     "vtpnet": [
         "AnnotationHub",
         "BSgenome",
