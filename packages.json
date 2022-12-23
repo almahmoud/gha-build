@@ -1360,7 +1360,6 @@
         "tibble",
         "tidyselect"
     ],
-    "annotationTools": [],
     "annotatr": [
         "AnnotationDbi",
         "AnnotationHub",
