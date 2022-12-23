@@ -2657,7 +2657,6 @@
     "clusterExperiment": [
         "AnnotationDbi",
         "BiocSingular",
-        "ClusterR",
         "NMF",
         "RNeXML",
         "SingleCellExperiment",
@@ -8369,7 +8368,6 @@
         "waldo"
     ],
     "mbkmeans": [
-        "ClusterR",
         "SingleCellExperiment",
         "benchmarkme",
         "benchmarkmeData"
@@ -9687,7 +9685,6 @@
     ],
     "moanin": [
         "AnnotationDbi",
-        "ClusterR",
         "GO.db",
         "topGO",
         "viridis"
@@ -10607,7 +10604,6 @@
     "netSmooth": [
         "AnnotationDbi",
         "BiocSingular",
-        "ClusterR",
         "NMF",
         "RNeXML",
         "SingleCellExperiment",
@@ -17940,7 +17936,6 @@
         "RNeXML",
         "tidyr"
     ],
-    "ClusterR": [],
     "benchmarkme": [
         "benchmarkmeData"
     ],
