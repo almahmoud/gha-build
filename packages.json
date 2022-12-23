@@ -11452,7 +11452,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowClean": [],
     "flowClust": [],
     "flowCut": [
         "DelayedArray",
