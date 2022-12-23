@@ -7853,7 +7853,6 @@
         "xcms"
     ],
     "NCIgraph": [],
-    "ndexr": [],
     "nearBynding": [
         "AnnotationDbi",
         "GenomicAlignments",
