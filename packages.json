@@ -27550,7 +27550,6 @@
         "tibble"
     ],
     "ndexr": [
-        "RCX",
         "dplyr",
         "httr",
         "purrr",
@@ -33243,7 +33242,6 @@
         "visNetwork",
         "vroom"
     ],
-    "RCX": [],
     "RCy3": [
         "IRdisplay",
         "IRkernel",
