@@ -22431,7 +22431,6 @@
         "Biostrings",
         "KEGGREST",
         "PSCBS",
-        "R.filesets",
         "RSQLite",
         "XVector",
         "annotate",
@@ -31876,7 +31875,6 @@
         "Hmisc",
         "KEGGREST",
         "PSCBS",
-        "R.filesets",
         "RSQLite",
         "WGCNA",
         "XVector",
@@ -37510,15 +37508,12 @@
     ],
     "aroma.affymetrix": [
         "PSCBS",
-        "R.filesets",
         "aroma.apd",
         "aroma.core"
     ],
     "aroma.core": [
-        "PSCBS",
-        "R.filesets"
+        "PSCBS"
     ],
-    "R.filesets": [],
     "aroma.apd": [],
     "PSCBS": [],
     "genlasso": [],
