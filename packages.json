@@ -1240,7 +1240,6 @@
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
-        "depmap",
         "enrichplot"
     ],
     "MAIT": [],
@@ -2577,7 +2576,6 @@
     "shinyHeatmaply": [],
     "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
-    "depmap": [],
     "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb"
