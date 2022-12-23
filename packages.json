@@ -18426,7 +18426,6 @@
         "viridis"
     ],
     "geNetClassifier": [],
-    "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
         "BiocParallel",
