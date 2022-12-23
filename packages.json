@@ -11958,7 +11958,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "QuaternaryProd": [],
     "QUBIC": [
         "biclust",
         "tidyr"
