@@ -1077,7 +1077,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "CoCiteStats": [],
     "COCOA": [
         "BSgenome",
         "HDF5Array",
