@@ -1156,7 +1156,6 @@
     "MSstatsPTM": [
         "MSstatsTMT"
     ],
-    "MSstatsQCgui": [],
     "MSstatsSampleSize": [],
     "MSstatsShiny": [
         "MSstatsPTM",
