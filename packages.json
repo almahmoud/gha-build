@@ -1841,9 +1841,7 @@
     ],
     "proActiv": [],
     "proBAMr": [],
-    "proBatch": [
-        "pvca"
-    ],
+    "proBatch": [],
     "profileplyr": [
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -1890,7 +1888,6 @@
     "PureCN": [
         "VariantAnnotation"
     ],
-    "pvca": [],
     "Pviz": [
         "Gviz",
         "VariantAnnotation",
