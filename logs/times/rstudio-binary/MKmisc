@@ -1,0 +1,214 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   747889f0..f9ee5747  main       -> origin/main
+Updating 747889f0..f9ee5747
+Fast-forward
+ logs/run_ids/rstudio-binaries/MSstatsLOBD  | 2 ++
+ logs/run_ids/rstudio-binaries/MetBrewer    | 2 ++
+ logs/run_ids/rstudio-binaries/iBMQ         | 2 ++
+ logs/run_ids/rstudio-binaries/mirTarRnaSeq | 2 ++
+ logs/run_ids/rstudio-binaries/mrfDepth     | 2 ++
+ 5 files changed, 10 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/MSstatsLOBD
+ create mode 100644 logs/run_ids/rstudio-binaries/MetBrewer
+ create mode 100644 logs/run_ids/rstudio-binaries/iBMQ
+ create mode 100644 logs/run_ids/rstudio-binaries/mirTarRnaSeq
+ create mode 100644 logs/run_ids/rstudio-binaries/mrfDepth
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=MKmisc
++ PKG=MKmisc
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "MKmisc"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4 3156k    4  143k    0     0   150k      0  0:00:21 --:--:--  0:00:21  150k 26 3156k   26  844k    0     0   425k      0  0:00:07  0:00:01  0:00:06  424k 63 3156k   63 1992k    0     0   668k      0  0:00:04  0:00:02  0:00:02  668k100 3156k  100 3156k    0     0   851k      0  0:00:03  0:00:03 --:--:--  851k
+built/
+built/DEoptimR/
+built/DEoptimR/NAMESPACE
+built/DEoptimR/DESCRIPTION
+built/DEoptimR/help/
+built/DEoptimR/help/paths.rds
+built/DEoptimR/help/DEoptimR.rdb
+built/DEoptimR/help/DEoptimR.rdx
+built/DEoptimR/help/aliases.rds
+built/DEoptimR/help/AnIndex
+built/DEoptimR/Meta/
+built/DEoptimR/Meta/package.rds
+built/DEoptimR/Meta/features.rds
+built/DEoptimR/Meta/hsearch.rds
+built/DEoptimR/Meta/links.rds
+built/DEoptimR/Meta/nsInfo.rds
+built/DEoptimR/Meta/Rd.rds
+built/DEoptimR/NEWS.Rd
+built/DEoptimR/html/
+built/DEoptimR/html/00Index.html
+built/DEoptimR/html/R.css
+built/DEoptimR/INDEX
+built/DEoptimR/R/
+built/DEoptimR/R/DEoptimR.rdb
+built/DEoptimR/R/DEoptimR
+built/DEoptimR/R/DEoptimR.rdx
+built/DEoptimR/xtraR/
+built/DEoptimR/xtraR/opt-test-funs.R
+built/robustbase/
+built/robustbase/libs/
+built/robustbase/libs/robustbase.so
+built/robustbase/NAMESPACE
+built/robustbase/DESCRIPTION
+built/robustbase/help/
+built/robustbase/help/paths.rds
+built/robustbase/help/aliases.rds
+built/robustbase/help/robustbase.rdb
+built/robustbase/help/AnIndex
+built/robustbase/help/robustbase.rdx
+built/robustbase/data/
+built/robustbase/data/Rdata.rds
+built/robustbase/data/Rdata.rdb
+built/robustbase/data/Rdata.rdx
+built/robustbase/Meta/
+built/robustbase/Meta/package.rds
+built/robustbase/Meta/vignette.rds
+built/robustbase/Meta/demo.rds
+built/robustbase/Meta/features.rds
+built/robustbase/Meta/hsearch.rds
+built/robustbase/Meta/links.rds
+built/robustbase/Meta/nsInfo.rds
+built/robustbase/Meta/Rd.rds
+built/robustbase/Meta/data.rds
+built/robustbase/NEWS.Rd
+built/robustbase/include/
+built/robustbase/include/robustbase.h
+built/robustbase/po/
+built/robustbase/po/en@quot/
+built/robustbase/po/en@quot/LC_MESSAGES/
+built/robustbase/po/en@quot/LC_MESSAGES/robustbase.mo
+built/robustbase/po/en@quot/LC_MESSAGES/R-robustbase.mo
+built/robustbase/po/de/
+built/robustbase/po/de/LC_MESSAGES/
+built/robustbase/po/de/LC_MESSAGES/robustbase.mo
+built/robustbase/po/de/LC_MESSAGES/R-robustbase.mo
+built/robustbase/Copyrights
+built/robustbase/CITATION
+built/robustbase/html/
+built/robustbase/html/00Index.html
+built/robustbase/html/R.css
+built/robustbase/INDEX
+built/robustbase/doc/
+built/robustbase/doc/simulation.functions.R
+built/robustbase/doc/psi_functions.Rnw
+built/robustbase/doc/fastMcd-kmini.R
+built/robustbase/doc/estimating.functions.R
+built/robustbase/doc/fastMcd-kmini.Rnw
+built/robustbase/doc/lmrob_simulation.Rnw
+built/robustbase/doc/aggr_results.Rdata
+built/robustbase/doc/asymptotic.max.bias.Rdata
+built/robustbase/doc/fastMcd-kmini.pdf
+built/robustbase/doc/index.html
+built/robustbase/doc/graphics.functions.R
+built/robustbase/doc/psi_functions.pdf
+built/robustbase/doc/psi_functions.R
+built/robustbase/doc/simulation.init.R
+built/robustbase/doc/lmrob_simulation.pdf
+built/robustbase/doc/error.distributions.R
+built/robustbase/doc/lmrob_simulation.R
+built/robustbase/R/
+built/robustbase/R/robustbase
+built/robustbase/R/robustbase.rdb
+built/robustbase/R/robustbase.rdx
+built/robustbase/demo/
+built/robustbase/demo/determinMCD.R
+built/robustbase/xtraR/
+built/robustbase/xtraR/test_MCD.R
+built/robustbase/xtraR/test_LTS.R
+built/robustbase/xtraR/m-s_fns.R
+built/robustbase/xtraR/subsample-fns.R
+built/robustbase/xtraR/lmrob-trace_lev.R
+built/robustbase/xtraR/plot-psiFun.R
+built/robustbase/xtraR/mcnaive.R
+built/robustbase/xtraR/platform-sessionInfo.R
+built/robustbase/xtraR/styleData.R
+built/robustbase/xtraR/ex-funs.R
+built/robustbase/external/
+built/robustbase/external/d1k27.rda
+Dependency ggplot2 is already found.
+Dependency limma is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''MKmisc'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv DEoptimR_1.0-11_R_x86_64-pc-linux-gnu.tar.gz MKmisc_1.9_R_x86_64-pc-linux-gnu.tar.gz robustbase_0.95-0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/MKmisc
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'MKmisc'
+also installing the dependencies ‘DEoptimR’, ‘robustbase’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/DEoptimR_1.0-11.tar.gz'
+Content type 'binary/octet-stream' length 40404 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/robustbase_0.95-0.tar.gz'
+Content type 'binary/octet-stream' length 3198550 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/MKmisc_1.9.tar.gz'
+Content type 'binary/octet-stream' length 459145 bytes (448 KB)
+==================================================
+downloaded 448 KB
+
+* installing *binary* package ‘DEoptimR’ ...
+* ‘DEoptimR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DEoptimR’ as ‘DEoptimR_1.0-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DEoptimR)
+* installing *binary* package ‘robustbase’ ...
+* ‘robustbase’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘robustbase’ as ‘robustbase_0.95-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (robustbase)
+* installing *source* package ‘MKmisc’ ...
+** package ‘MKmisc’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MKmisc’ as ‘MKmisc_1.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MKmisc)
+
+The downloaded source packages are in
+	‘/tmp/RtmpZuwtN4/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m17.962s
+user	0m10.015s
+sys	0m0.936s
