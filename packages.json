@@ -25160,7 +25160,6 @@
         "GenomicRanges",
         "Rsamtools"
     ],
-    "ternarynet": [],
     "terraTCGAdata": [
         "AnVIL",
         "AnnotationDbi",
