@@ -759,8 +759,7 @@
     ],
     "cosmiq": [],
     "cosmosR": [
-        "dorothea",
-        "viper"
+        "dorothea"
     ],
     "countsimQC": [
         "DESeq2"
@@ -1015,9 +1014,7 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "diggit": [
-        "viper"
-    ],
+    "diggit": [],
     "Dino": [
         "scran"
     ],
@@ -1097,8 +1094,7 @@
         "easierData",
         "ggpubr",
         "pbkrtest",
-        "rstatix",
-        "viper"
+        "rstatix"
     ],
     "EasyCellType": [
         "clusterProfiler",
@@ -3177,21 +3173,18 @@
     ],
     "RTN": [
         "car",
-        "pbkrtest",
-        "viper"
+        "pbkrtest"
     ],
     "RTNduals": [
         "RTN",
         "car",
-        "pbkrtest",
-        "viper"
+        "pbkrtest"
     ],
     "RTNsurvival": [
         "RTN",
         "RTNduals",
         "car",
-        "pbkrtest",
-        "viper"
+        "pbkrtest"
     ],
     "rTRMui": [],
     "RUVSeq": [
@@ -3866,7 +3859,6 @@
     "vidger": [
         "DESeq2"
     ],
-    "viper": [],
     "ViSEAGO": [
         "heatmaply"
     ],
@@ -3891,8 +3883,7 @@
         "GreyListChIP",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ensembldb",
-        "regioneR",
-        "viper"
+        "regioneR"
     ],
     "waddR": [
         "arm"
@@ -4113,9 +4104,7 @@
         "bumphunter",
         "minfi"
     ],
-    "dorothea": [
-        "viper"
-    ],
+    "dorothea": [],
     "crisprScoreData": [
         "ExperimentHub"
     ],
