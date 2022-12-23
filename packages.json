@@ -642,8 +642,7 @@
     "altcdfenvs": [
         "Biostrings",
         "GenomeInfoDb",
-        "XVector",
-        "makecdfenv"
+        "XVector"
     ],
     "AMARETTO": [
         "AnnotationDbi",
@@ -18285,8 +18284,7 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "altcdfenvs",
-        "makecdfenv"
+        "altcdfenvs"
     ],
     "hca": [
         "BiocFileCache",
@@ -21915,7 +21913,6 @@
         "vsn",
         "xcms"
     ],
-    "makecdfenv": [],
     "MANOR": [],
     "mAPKL": [
         "AnnotationDbi",
