@@ -10,7 +10,6 @@
         "annaffy",
         "annotate",
         "genefilter",
-        "multtest",
         "pamr"
     ],
     "a4Base": [
@@ -21,17 +20,14 @@
         "a4Core",
         "annaffy",
         "annotate",
-        "genefilter",
-        "multtest"
+        "genefilter"
     ],
     "a4Classif": [
         "a4Core",
         "pamr"
     ],
     "a4Core": [],
-    "ABarray": [
-        "multtest"
-    ],
+    "ABarray": [],
     "abseqR": [
         "BiocStyle",
         "bookdown",
@@ -59,9 +55,7 @@
         "ggplot2",
         "tibble"
     ],
-    "aCGH": [
-        "multtest"
-    ],
+    "aCGH": [],
     "ADaCGH2": [
         "AnnotationDbi",
         "Biostrings",
@@ -70,7 +64,6 @@
         "annotate",
         "genefilter",
         "ggplot2",
-        "multtest",
         "snapCGH",
         "tibble",
         "tilingArray",
@@ -159,8 +152,7 @@
         "AnnotationDbi",
         "Biostrings",
         "GO.db",
-        "KEGGREST",
-        "multtest"
+        "KEGGREST"
     ],
     "AffiXcan": [
         "GenomicRanges",
@@ -329,7 +321,6 @@
     "ALDEx2": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "multtest",
         "zCompositions"
     ],
     "alevinQC": [
@@ -701,7 +692,6 @@
     ],
     "anota": [
         "ggplot2",
-        "multtest",
         "qvalue",
         "reshape2",
         "tibble"
@@ -716,7 +706,6 @@
         "annotate",
         "geneplotter",
         "ggplot2",
-        "multtest",
         "qvalue",
         "reshape2",
         "tibble"
@@ -941,7 +930,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -1227,7 +1215,6 @@
         "interactiveDisplayBase",
         "knitr",
         "motifStack",
-        "multtest",
         "progress",
         "readr",
         "regioneR",
@@ -1798,7 +1785,6 @@
         "metagenomeSeq",
         "mia",
         "miniUI",
-        "multtest",
         "nloptr",
         "patchwork",
         "phyloseq",
@@ -1863,8 +1849,7 @@
         "Biostrings",
         "GSEABase",
         "KEGGREST",
-        "annotate",
-        "multtest"
+        "annotate"
     ],
     "BiFET": [
         "GenomicRanges"
@@ -1899,7 +1884,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -4015,7 +3999,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "org.Hs.eg.db",
         "plotly",
         "prettydoc",
@@ -4234,7 +4217,6 @@
         "dplyr",
         "ensembldb",
         "ggplot2",
-        "multtest",
         "progress",
         "regioneR",
         "rtracklayer",
@@ -5119,7 +5101,6 @@
         "dplyr",
         "ggplot2",
         "knitr",
-        "multtest",
         "progress",
         "readr",
         "rmarkdown",
@@ -5241,7 +5222,6 @@
         "SummarizedExperiment",
         "cobs",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "reshape2",
         "tibble"
@@ -5678,7 +5658,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -5898,7 +5877,6 @@
         "bslib",
         "htmlwidgets",
         "knitr",
-        "multtest",
         "rmarkdown"
     ],
     "crisprBase": [
@@ -6029,7 +6007,6 @@
         "htmlwidgets",
         "keras",
         "knitr",
-        "multtest",
         "patchwork",
         "progress",
         "readr",
@@ -6756,7 +6733,6 @@
         "mnem",
         "modelr",
         "multcomp",
-        "multtest",
         "mutoss",
         "org.Hs.eg.db",
         "pcalg",
@@ -6975,7 +6951,6 @@
         "lme4",
         "methylKit",
         "minfi",
-        "multtest",
         "nloptr",
         "progress",
         "qvalue",
@@ -7322,7 +7297,6 @@
         "dplyr",
         "ensembldb",
         "ggplot2",
-        "multtest",
         "progress",
         "regioneR",
         "rtracklayer",
@@ -7476,7 +7450,6 @@
         "htmlwidgets",
         "knitr",
         "latticeExtra",
-        "multtest",
         "rmarkdown",
         "tibble",
         "viridis"
@@ -7761,7 +7734,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -8324,7 +8296,6 @@
         "knitr",
         "metap",
         "multcomp",
-        "multtest",
         "mutoss",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -8472,7 +8443,6 @@
         "interactiveDisplayBase",
         "knitr",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rmarkdown",
@@ -8926,7 +8896,6 @@
         "knitr",
         "latticeExtra",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -9778,7 +9747,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -10270,7 +10238,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -11905,8 +11872,7 @@
     ],
     "GraphPAC": [
         "Biostrings",
-        "iPAC",
-        "multtest"
+        "iPAC"
     ],
     "GRENITS": [
         "ggplot2",
@@ -12103,7 +12069,6 @@
         "ggplot2",
         "haven",
         "keras",
-        "multtest",
         "patchwork",
         "progress",
         "readr",
@@ -12786,7 +12751,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -13396,8 +13360,7 @@
         "tidyr"
     ],
     "iPAC": [
-        "Biostrings",
-        "multtest"
+        "Biostrings"
     ],
     "iPath": [
         "broom",
@@ -13903,7 +13866,6 @@
         "tidyr"
     ],
     "KCsmart": [
-        "multtest",
         "siggenes"
     ],
     "kebabs": [
@@ -14350,7 +14312,6 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -14582,7 +14543,6 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "multtest",
         "oligoClasses",
         "org.Hs.eg.db",
         "progress",
@@ -14728,7 +14688,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "multtest",
         "reactome.db"
     ],
     "maPredictDSC": [
@@ -14877,7 +14836,6 @@
         "knitr",
         "lme4",
         "lmerTest",
-        "multtest",
         "nloptr",
         "phyloseq",
         "rematch2",
@@ -15067,7 +15025,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "qvalue",
@@ -15112,7 +15069,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -15358,7 +15314,6 @@
     ],
     "metabomxtr": [
         "ggplot2",
-        "multtest",
         "tibble"
     ],
     "MetaboSignal": [
@@ -15617,7 +15572,6 @@
         "epivizrStandalone",
         "ggplot2",
         "metagenomeSeq",
-        "multtest",
         "phyloseq",
         "progress",
         "reshape2",
@@ -15634,7 +15588,6 @@
         "knitr",
         "metap",
         "multcomp",
-        "multtest",
         "mutoss",
         "plotly",
         "rmarkdown",
@@ -15773,7 +15726,6 @@
         "ggplot2",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -15810,7 +15762,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "multtest",
         "plyranges",
         "progress",
         "readr",
@@ -15877,7 +15828,6 @@
         "minfi",
         "miniUI",
         "modelr",
-        "multtest",
         "nloptr",
         "pbkrtest",
         "pkgdown",
@@ -15953,7 +15903,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "org.Hs.eg.db",
         "patchwork",
         "progress",
@@ -16099,7 +16048,6 @@
         "ggplot2",
         "illuminaio",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -16254,7 +16202,6 @@
         "Biostrings",
         "dplyr",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "reshape2",
         "tibble",
@@ -16264,7 +16211,6 @@
         "Biostrings",
         "ggplot2",
         "metagenomeSeq",
-        "multtest",
         "phyloseq",
         "reshape2",
         "tibble"
@@ -16360,7 +16306,6 @@
         "metagenomeSeq",
         "mia",
         "multcomp",
-        "multtest",
         "nloptr",
         "patchwork",
         "phyloseq",
@@ -16587,7 +16532,6 @@
         "lumiHumanAll.db",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -16620,7 +16564,6 @@
         "dplyr",
         "genefilter",
         "illuminaio",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -16809,7 +16752,6 @@
         "metR",
         "miRspongeR",
         "modelr",
-        "multtest",
         "nloptr",
         "org.Hs.eg.db",
         "patchwork",
@@ -16968,7 +16910,6 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -18016,7 +17957,6 @@
         "graphite",
         "metap",
         "multcomp",
-        "multtest",
         "mutoss",
         "sn",
         "tibble"
@@ -18095,7 +18035,6 @@
         "miniUI",
         "mixOmics",
         "multcomp",
-        "multtest",
         "mutoss",
         "networkD3",
         "patchwork",
@@ -18129,7 +18068,6 @@
         "viridis",
         "waldo"
     ],
-    "multtest": [],
     "mumosa": [
         "BiocSingular",
         "DelayedMatrixStats",
@@ -18433,7 +18371,6 @@
         "metap",
         "motifStack",
         "multcomp",
-        "multtest",
         "mutoss",
         "progress",
         "readr",
@@ -18743,7 +18680,6 @@
         "ICS",
         "ICSNP",
         "ggplot2",
-        "multtest",
         "network",
         "tibble"
     ],
@@ -18877,7 +18813,6 @@
         "ggplot2",
         "illuminaio",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pandaR",
         "progress",
@@ -19107,9 +19042,7 @@
         "tibble",
         "tidyr"
     ],
-    "OCplus": [
-        "multtest"
-    ],
+    "OCplus": [],
     "octad": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -19317,7 +19250,6 @@
         "bslib",
         "htmlwidgets",
         "knitr",
-        "multtest",
         "rmarkdown",
         "shiny",
         "zCompositions"
@@ -20001,7 +19933,6 @@
         "gson",
         "metap",
         "multcomp",
-        "multtest",
         "mutoss",
         "org.Hs.eg.db",
         "patchwork",
@@ -20095,7 +20026,6 @@
         "htmlwidgets",
         "knitr",
         "miniUI",
-        "multtest",
         "phyloseq",
         "pkgdown",
         "plotly",
@@ -20324,7 +20254,6 @@
     "PERFect": [
         "Biostrings",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "reshape2",
         "sn",
@@ -20591,7 +20520,6 @@
     "phyloseq": [
         "Biostrings",
         "ggplot2",
-        "multtest",
         "reshape2",
         "tibble"
     ],
@@ -21028,7 +20956,6 @@
         "bslib",
         "ggplot2",
         "knitr",
-        "multtest",
         "phyloseq",
         "reshape2",
         "rmarkdown",
@@ -21056,7 +20983,6 @@
         "ggplot2",
         "hardhat",
         "ipred",
-        "multtest",
         "org.Hs.eg.db",
         "prodlim",
         "progress",
@@ -21072,8 +20998,7 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "annotate",
-        "multtest"
+        "annotate"
     ],
     "primirTSS": [
         "AnnotationDbi",
@@ -22002,7 +21927,6 @@
         "ggplot2",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -22016,8 +21940,7 @@
         "Biostrings",
         "GraphPAC",
         "SpacePAC",
-        "iPAC",
-        "multtest"
+        "iPAC"
     ],
     "QuasR": [
         "AnnotationDbi",
@@ -22159,9 +22082,7 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "rain": [
-        "multtest"
-    ],
+    "rain": [],
     "ramr": [
         "EnvStats",
         "GenomicRanges",
@@ -22328,7 +22249,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "rtracklayer",
@@ -22361,7 +22281,6 @@
     "RCM": [
         "Biostrings",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "quantmod",
         "reshape2",
@@ -22508,7 +22427,6 @@
     "reconsi": [
         "Biostrings",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "reshape2",
         "tibble"
@@ -22585,7 +22503,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -22634,7 +22551,6 @@
         "dplyr",
         "ensembldb",
         "ggplot2",
-        "multtest",
         "progress",
         "regioneR",
         "rtracklayer",
@@ -22817,7 +22733,6 @@
         "ipred",
         "knitr",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "prodlim",
         "progress",
@@ -23912,7 +23827,6 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -23980,7 +23894,6 @@
         "bslib",
         "ggplot2",
         "knitr",
-        "multtest",
         "phyloseq",
         "reshape2",
         "rmarkdown",
@@ -24061,7 +23974,6 @@
         "lme4",
         "metap",
         "multcomp",
-        "multtest",
         "mutoss",
         "nloptr",
         "pbkrtest",
@@ -24251,9 +24163,7 @@
         "viper",
         "waldo"
     ],
-    "RTopper": [
-        "multtest"
-    ],
+    "RTopper": [],
     "Rtpca": [
         "dplyr",
         "ggplot2",
@@ -25831,7 +25741,6 @@
         "illuminaio",
         "knitr",
         "minfi",
-        "multtest",
         "plotly",
         "progress",
         "readr",
@@ -25872,7 +25781,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -25899,7 +25807,6 @@
         "mlr3",
         "mlr3learners",
         "mlr3tuning",
-        "multtest",
         "nloptr",
         "phyloseq",
         "progress",
@@ -25942,9 +25849,7 @@
         "ggplot2",
         "tibble"
     ],
-    "siggenes": [
-        "multtest"
-    ],
+    "siggenes": [],
     "sights": [
         "ggplot2",
         "qvalue",
@@ -26183,7 +26088,6 @@
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "reshape2",
         "tibble",
@@ -26266,7 +26170,6 @@
         "SummarizedExperiment",
         "beachmat",
         "bluster",
-        "multtest",
         "scran",
         "scuttle"
     ],
@@ -26346,7 +26249,6 @@
         "msigdbr",
         "multcomp",
         "multipanelfigure",
-        "multtest",
         "mutoss",
         "org.Hs.eg.db",
         "patchwork",
@@ -26514,7 +26416,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -26589,7 +26490,6 @@
         "annotate",
         "genefilter",
         "ggplot2",
-        "multtest",
         "tibble",
         "tilingArray",
         "vsn"
@@ -26702,8 +26602,7 @@
     ],
     "SpacePAC": [
         "Biostrings",
-        "iPAC",
-        "multtest"
+        "iPAC"
     ],
     "Spaniel": [
         "BiocSingular",
@@ -27334,7 +27233,6 @@
         "htmlwidgets",
         "knitr",
         "latticeExtra",
-        "multtest",
         "phyloseq",
         "reshape2",
         "rmarkdown",
@@ -27950,7 +27848,6 @@
         "cleaver",
         "ggplot2",
         "knitr",
-        "multtest",
         "progress",
         "qvalue",
         "readr",
@@ -29140,7 +29037,6 @@
         "anota",
         "geneplotter",
         "ggplot2",
-        "multtest",
         "org.Hs.eg.db",
         "qvalue",
         "reshape2",
@@ -29356,7 +29252,6 @@
         "tibble"
     ],
     "trio": [
-        "multtest",
         "siggenes"
     ],
     "triplex": [
@@ -30204,7 +30099,6 @@
         "knitr",
         "latticeExtra",
         "mixtools",
-        "multtest",
         "plotly",
         "progress",
         "regioneR",
@@ -30262,7 +30156,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "progress",
         "readr",
@@ -30307,7 +30200,6 @@
         "annaffy",
         "gcrma",
         "ggplot2",
-        "multtest",
         "qvalue",
         "reshape2",
         "tibble",
@@ -30396,7 +30288,6 @@
         "KEGGREST",
         "annotate",
         "genefilter",
-        "multtest",
         "siggenes"
     ],
     "Xeva": [
@@ -30520,7 +30411,6 @@
         "ggplot2",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "quantro",
         "readr",
@@ -31538,7 +31428,6 @@
         "Biostrings",
         "dplyr",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "reshape2",
         "tibble"
@@ -31572,7 +31461,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -32092,7 +31980,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -32122,7 +32009,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -32152,7 +32038,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -32545,7 +32430,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
@@ -32716,7 +32600,6 @@
     "metap": [
         "TFisher",
         "multcomp",
-        "multtest",
         "mutoss",
         "sn"
     ],
@@ -32724,8 +32607,7 @@
         "sn"
     ],
     "mutoss": [
-        "multcomp",
-        "multtest"
+        "multcomp"
     ],
     "sn": [],
     "DMwR2": [
@@ -32818,9 +32700,7 @@
         "reshape2",
         "tibble"
     ],
-    "DiffCorr": [
-        "multtest"
-    ],
+    "DiffCorr": [],
     "fastDummies": [
         "tibble"
     ],
@@ -33512,7 +33392,6 @@
         "genefilter",
         "illuminaio",
         "minfi",
-        "multtest",
         "progress",
         "readr",
         "rtracklayer",
