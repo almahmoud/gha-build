@@ -1931,9 +1931,7 @@
         "scuttle",
         "viridis"
     ],
-    "CytoML": [
-        "openCyto"
-    ],
+    "CytoML": [],
     "dada2": [
         "ShortRead"
     ],
@@ -5749,7 +5747,6 @@
     "ontoProc": [
         "AnnotationHub"
     ],
-    "openCyto": [],
     "openPrimeR": [
         "Hmisc",
         "viridis"
