@@ -3231,7 +3231,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "oneSENSE": [],
     "ontoProc": [
         "AnnotationHub"
     ],
