@@ -468,7 +468,6 @@
     "BiocSklearn": [
         "basilisk"
     ],
-    "biodbChebi": [],
     "biodbExpasy": [],
     "biodbKegg": [],
     "biodbNcbi": [],
@@ -4390,9 +4389,7 @@
     "PharmacoGx": [
         "CoreGx"
     ],
-    "phenomis": [
-        "biodbChebi"
-    ],
+    "phenomis": [],
     "phenoTest": [
         "Category",
         "GSEABase",
