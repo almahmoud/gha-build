@@ -8505,7 +8505,6 @@
         "sctransform",
         "tidyr"
     ],
-    "infinityFlow": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
