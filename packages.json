@@ -1252,8 +1252,7 @@
         "EnsDb.Hsapiens.v75",
         "MWASTools",
         "car",
-        "ensembldb",
-        "mygene"
+        "ensembldb"
     ],
     "MetaCyto": [
         "FlowSOM",
@@ -1499,7 +1498,6 @@
     "MWASTools": [
         "car"
     ],
-    "mygene": [],
     "myvariant": [
         "VariantAnnotation"
     ],
