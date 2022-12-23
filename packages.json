@@ -1972,7 +1972,6 @@
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
-        "assertive.strings",
         "cellranger",
         "dbplyr",
         "dplyr",
@@ -25688,7 +25687,6 @@
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
-        "assertive.strings",
         "bamsignals",
         "biomaRt",
         "biovizBase",
@@ -45163,20 +45161,12 @@
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
-        "assertive.strings",
         "knitr",
         "stringr"
     ],
-    "assertive.strings": [],
-    "assertive.data": [
-        "assertive.strings"
-    ],
-    "assertive.data.uk": [
-        "assertive.strings"
-    ],
-    "assertive.data.us": [
-        "assertive.strings"
-    ],
+    "assertive.data": [],
+    "assertive.data.uk": [],
+    "assertive.data.us": [],
     "doBy": [
         "broom",
         "dplyr",
