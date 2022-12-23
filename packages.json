@@ -3160,8 +3160,7 @@
         "bs4Dash",
         "colourpicker",
         "dendextend",
-        "geneplotter",
-        "tippy"
+        "geneplotter"
     ],
     "geneXtendeR": [
         "GO.db",
@@ -9103,7 +9102,6 @@
         "mice"
     ],
     "bs4Dash": [],
-    "tippy": [],
     "shinyHeatmaply": [
         "dendextend",
         "heatmaply"
