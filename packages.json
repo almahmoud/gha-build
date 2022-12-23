@@ -2317,7 +2317,6 @@
         "scater",
         "scran",
         "scuttle",
-        "shinydashboardPlus",
         "tidyr",
         "viridis"
     ],
@@ -11187,7 +11186,6 @@
         "pRoloc",
         "plotly",
         "recipes",
-        "shinydashboardPlus",
         "threejs",
         "tidyr",
         "viridis",
@@ -14540,7 +14538,6 @@
         "drawer",
         "htmlwidgets",
         "plotly",
-        "shinydashboardPlus",
         "shinyjqui",
         "spsComps",
         "tidyr"
@@ -16541,7 +16538,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "shinydashboardPlus": [],
     "kableExtra": [],
     "gggenes": [],
     "propr": [],
