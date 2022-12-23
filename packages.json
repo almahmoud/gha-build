@@ -1741,7 +1741,6 @@
         "FactoMineR",
         "car"
     ],
-    "GeneMeta": [],
     "GENESIS": [],
     "GeneStructureTools": [
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -4824,9 +4823,7 @@
         "affy",
         "vsn"
     ],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "PharmacoGx"
     ],
