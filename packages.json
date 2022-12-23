@@ -2217,9 +2217,7 @@
         "treeio",
         "viridis"
     ],
-    "deco": [
-        "made4"
-    ],
+    "deco": [],
     "DEComplexDisease": [
         "DESeq2",
         "annotate",
@@ -4645,7 +4643,6 @@
         "basilisk",
         "interactiveDisplayBase"
     ],
-    "made4": [],
     "MADSEQ": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -6222,9 +6219,7 @@
         "GO.db",
         "topGO"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicplotR": [],
     "omicRexposome": [
         "FactoMineR",
@@ -6234,7 +6229,6 @@
         "car",
         "genefilter",
         "lme4",
-        "made4",
         "mice",
         "nloptr",
         "omicade4",
