@@ -1,0 +1,102 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   63701051..fe7eae49  main       -> origin/main
+Updating 63701051..fe7eae49
+Fast-forward
+ lists/MetCirc                                  |     2 +-
+ lists/scatterHatch                             |     2 +-
+ lists/shadowtext                               |     2 +-
+ lists/sjmisc                                   |     2 +-
+ lists/sna                                      |     2 +-
+ lists/spsComps                                 |     2 +-
+ logs/sizes/rstudio-binaries/binaries/MetCirc   |     1 +
+ logs/sizes/rstudio-binaries/binaries/sjmisc    |     1 +
+ logs/sizes/rstudio-binaries/binaries/spsComps  |     1 +
+ logs/sizes/rstudio-binaries/libraries/MetCirc  |     1 +
+ logs/sizes/rstudio-binaries/libraries/sjmisc   |     1 +
+ logs/sizes/rstudio-binaries/libraries/spsComps |     1 +
+ logs/times/rstudio-binary/MetCirc              | 35272 +++++++++++++++++++++++
+ logs/times/rstudio-binary/sjmisc               |   331 +
+ logs/times/rstudio-binary/spsComps             |    78 +
+ packages.json                                  |    65 +-
+ 16 files changed, 35695 insertions(+), 69 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/MetCirc
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/sjmisc
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/spsComps
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/MetCirc
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/sjmisc
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/spsComps
+ create mode 100644 logs/times/rstudio-binary/MetCirc
+ create mode 100644 logs/times/rstudio-binary/sjmisc
+ create mode 100644 logs/times/rstudio-binary/spsComps
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=SUITOR
++ PKG=SUITOR
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "SUITOR"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency ggplot2 is already found.
+Dependency BiocParallel is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''SUITOR'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv SUITOR_1.0.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/SUITOR
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'SUITOR'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/SUITOR_1.0.0.tar.gz'
+Content type 'application/x-gzip' length 251625 bytes (245 KB)
+==================================================
+downloaded 245 KB
+
+* installing *source* package ‘SUITOR’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SUITOR_init.c -o SUITOR_init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c source.c -o source.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o SUITOR.so SUITOR_init.o source.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-SUITOR/00new/SUITOR/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SUITOR’ as ‘SUITOR_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SUITOR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpUnueMA/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m11.248s
+user	0m8.605s
+sys	0m1.063s
