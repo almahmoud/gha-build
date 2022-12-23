@@ -766,7 +766,6 @@
         "biovizBase",
         "viridis"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "GEOmap",
         "RFOC",
