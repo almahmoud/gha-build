@@ -1074,9 +1074,7 @@
         "DESeq2",
         "HTSFilter"
     ],
-    "cosmiq": [
-        "faahKO"
-    ],
+    "cosmiq": [],
     "cosmosR": [
         "GSEABase",
         "dorothea",
@@ -5995,7 +5993,6 @@
         "genefilter",
         "minfi"
     ],
-    "faahKO": [],
     "dorothea": [
         "mixtools",
         "viper"
