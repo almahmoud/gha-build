@@ -11055,7 +11055,6 @@
     "waddR": [
         "SingleCellExperiment",
         "arm",
-        "eva",
         "lme4",
         "nloptr",
         "testthat"
@@ -12299,6 +12298,5 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "org.Mm.eg.db"
-    ],
-    "eva": []
+    ]
 }
