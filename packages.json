@@ -10116,7 +10116,6 @@
         "annotate",
         "genefilter"
     ],
-    "sigFeature": [],
     "sights": [],
     "signatureSearch": [
         "AnnotationDbi",
