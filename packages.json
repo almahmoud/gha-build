@@ -368,7 +368,6 @@
         "annotate",
         "biomaRt",
         "chromVAR",
-        "modelr",
         "motifmatchr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -2097,7 +2096,6 @@
         "ggraph",
         "graphite",
         "mnem",
-        "modelr",
         "org.Hs.eg.db",
         "tidyverse",
         "viridis"
@@ -4505,7 +4503,6 @@
     ],
     "MAI": [
         "caret",
-        "modelr",
         "tidyverse"
     ],
     "MAIT": [
@@ -4900,7 +4897,6 @@
         "lme4",
         "methylclockData",
         "minfi",
-        "modelr",
         "nloptr",
         "pbkrtest",
         "rhdf5",
@@ -5210,7 +5206,6 @@
         "graphite",
         "lme4",
         "miRspongeR",
-        "modelr",
         "nloptr",
         "org.Hs.eg.db",
         "pbkrtest",
@@ -5240,7 +5235,6 @@
         "ggtree",
         "graphite",
         "lme4",
-        "modelr",
         "nloptr",
         "org.Hs.eg.db",
         "pbkrtest",
@@ -5510,7 +5504,6 @@
         "ggpubr",
         "lme4",
         "lmerTest",
-        "modelr",
         "nloptr",
         "pbkrtest",
         "rstatix",
@@ -5739,7 +5732,6 @@
         "org.Hs.eg.db"
     ],
     "nanotatoR": [
-        "modelr",
         "org.Hs.eg.db",
         "tidyverse"
     ],
@@ -8361,7 +8353,6 @@
         "cvms",
         "ggpubr",
         "lme4",
-        "modelr",
         "nloptr",
         "pbkrtest",
         "rstatix",
@@ -8464,7 +8455,6 @@
         "affy"
     ],
     "Statial": [
-        "modelr",
         "tidyverse"
     ],
     "STdeconvolve": [
@@ -8551,7 +8541,6 @@
         "drc",
         "fields",
         "lme4",
-        "modelr",
         "nloptr",
         "pbkrtest",
         "tidyverse",
@@ -9438,9 +9427,7 @@
         "rtracklayer"
     ],
     "mGSZ": [],
-    "tidyverse": [
-        "modelr"
-    ],
+    "tidyverse": [],
     "Mus.musculus": [
         "GO.db",
         "GenomicFeatures",
@@ -9464,7 +9451,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "modelr": [],
     "reactome.db": [],
     "mixtools": [],
     "assertive": [],
