@@ -971,7 +971,6 @@
         "WGCNA",
         "annotate",
         "genefilter",
-        "ggnetwork",
         "sva",
         "viridis"
     ],
@@ -1276,7 +1275,6 @@
         "ensembldb",
         "genefilter",
         "ggbio",
-        "ggnetwork",
         "rtracklayer",
         "sva",
         "viridis"
@@ -1544,7 +1542,6 @@
         "clusterProfiler",
         "enrichplot",
         "geneplotter",
-        "ggnetwork",
         "ggpubr",
         "ggraph",
         "ggtree",
@@ -8101,7 +8098,6 @@
     "Pi": [
         "caret",
         "dnet",
-        "ggnetwork",
         "recipes"
     ],
     "piano": [
@@ -10956,7 +10952,6 @@
     ],
     "syntenet": [
         "GenomicAlignments",
-        "ggnetwork",
         "rtracklayer",
         "testthat"
     ],
@@ -12253,7 +12248,6 @@
         "AnnotationHub",
         "interactiveDisplayBase"
     ],
-    "ggnetwork": [],
     "superheat": [],
     "biscuiteerData": [
         "AnnotationDbi",
