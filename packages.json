@@ -1080,7 +1080,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "R2HTML",
         "R6",
         "RCurl",
         "RSQLite",
@@ -4141,7 +4140,6 @@
         "MASS",
         "Matrix",
         "MatrixGenerics",
-        "R2HTML",
         "R6",
         "RColorBrewer",
         "RCurl",
@@ -35664,7 +35662,6 @@
         "MASS",
         "Matrix",
         "MatrixGenerics",
-        "R2HTML",
         "R6",
         "RColorBrewer",
         "RCurl",
@@ -37952,7 +37949,6 @@
         "MatrixGenerics",
         "MatrixModels",
         "PADOG",
-        "R2HTML",
         "R6",
         "RColorBrewer",
         "RCurl",
@@ -63785,7 +63781,6 @@
     ],
     "limma": [],
     "limmaGUI": [
-        "R2HTML",
         "limma",
         "tkrplot",
         "xtable"
@@ -66772,7 +66767,6 @@
         "KEGGREST",
         "MASS",
         "Matrix",
-        "R2HTML",
         "R6",
         "RCurl",
         "RSQLite",
@@ -67707,7 +67701,6 @@
         "KEGGREST",
         "MASS",
         "Matrix",
-        "R2HTML",
         "R6",
         "RColorBrewer",
         "RCurl",
@@ -84987,7 +84980,6 @@
         "KEGGREST",
         "MASS",
         "Matrix",
-        "R2HTML",
         "R6",
         "RColorBrewer",
         "RCurl",
@@ -100189,7 +100181,6 @@
         "MASS",
         "Matrix",
         "MatrixGenerics",
-        "R2HTML",
         "R6",
         "RColorBrewer",
         "RCurl",
@@ -140385,7 +140376,6 @@
     "prettyunits": [],
     "rjson": [],
     "tkrplot": [],
-    "R2HTML": [],
     "e1071": [
         "MASS",
         "class",
@@ -152318,9 +152308,7 @@
         "RColorBrewer",
         "Rcpp"
     ],
-    "HTMLUtils": [
-        "R2HTML"
-    ],
+    "HTMLUtils": [],
     "EGSEAdata": [],
     "ELMER.data": [
         "GenomeInfoDb",
@@ -155707,7 +155695,6 @@
     ],
     "clusterSim": [
         "MASS",
-        "R2HTML",
         "ade4",
         "class",
         "cluster",
