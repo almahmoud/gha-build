@@ -1407,7 +1407,6 @@
         "biomaRt",
         "bslib",
         "crosstalk",
-        "crul",
         "dbplyr",
         "dplyr",
         "fontawesome",
@@ -3477,7 +3476,6 @@
         "RSQLite",
         "bslib",
         "crosstalk",
-        "crul",
         "dbplyr",
         "dplyr",
         "gh",
@@ -32623,7 +32621,6 @@
         "XVector",
         "caret",
         "clock",
-        "crul",
         "dnet",
         "dplyr",
         "future.apply",
@@ -40845,7 +40842,6 @@
         "XVector",
         "bslib",
         "crosstalk",
-        "crul",
         "dbplyr",
         "dplyr",
         "fontawesome",
@@ -49587,7 +49583,6 @@
         "rtracklayer"
     ],
     "rsnps": [
-        "crul",
         "httr",
         "stringr"
     ],
@@ -49822,7 +49817,6 @@
         "tibble",
         "tidyselect"
     ],
-    "crul": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -50632,7 +50626,6 @@
         "httr"
     ],
     "rorcid": [
-        "crul",
         "httr",
         "pillar",
         "tibble"
@@ -54368,7 +54361,6 @@
         "Rfast"
     ],
     "osfr": [
-        "crul",
         "httr",
         "pillar",
         "purrr",
@@ -54980,7 +54972,6 @@
     "adehabitatLT": [],
     "rbokeh": [
         "bslib",
-        "crul",
         "dplyr",
         "gistr",
         "htmlwidgets",
@@ -54997,7 +54988,6 @@
     ],
     "gistr": [
         "bslib",
-        "crul",
         "dplyr",
         "httr",
         "jquerylib",
