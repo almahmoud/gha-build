@@ -11362,7 +11362,6 @@
         "interactiveDisplayBase",
         "pwrEWAS.data"
     ],
-    "qckitfastq": [],
     "QDNAseq": [],
     "QFeatures": [
         "MultiAssayExperiment",
