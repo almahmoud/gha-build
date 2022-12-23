@@ -8280,7 +8280,6 @@
     ],
     "ppcseq": [
         "benchmarkme",
-        "ggdist",
         "posterior",
         "tidybayes"
     ],
@@ -12946,10 +12945,8 @@
         "viridis"
     ],
     "tidybayes": [
-        "ggdist",
         "posterior"
     ],
-    "ggdist": [],
     "posterior": [],
     "phastCons100way.UCSC.hg38": [
         "AnnotationDbi",
