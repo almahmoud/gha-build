@@ -17821,7 +17821,6 @@
         "tidyselect",
         "vroom"
     ],
-    "GEOsubmission": [],
     "gep2pep": [
         "AnnotationDbi",
         "Biostrings",
