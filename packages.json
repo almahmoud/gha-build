@@ -4848,7 +4848,6 @@
         "vctrs",
         "waldo"
     ],
-    "bioDist": [],
     "biomaRt": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -8409,7 +8408,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "bioDist",
         "bslib",
         "cowplot",
         "crosstalk",
@@ -42075,7 +42073,6 @@
         "RSQLite",
         "XVector",
         "ape",
-        "bioDist",
         "blob",
         "bookdown",
         "bslib",
