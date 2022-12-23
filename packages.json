@@ -3702,7 +3702,6 @@
         "pbkrtest",
         "rstatix",
         "shinyHeatmaply",
-        "shinybusy",
         "testthat",
         "viridis"
     ],
@@ -4450,8 +4449,7 @@
     ],
     "ISAnalytics": [
         "datamods",
-        "rio",
-        "shinybusy"
+        "rio"
     ],
     "iSEE": [],
     "iSEEhex": [
@@ -5898,7 +5896,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "shinybusy",
         "testthat",
         "viridis"
     ],
@@ -6027,7 +6024,6 @@
         "pbkrtest",
         "rstatix",
         "rtracklayer",
-        "shinybusy",
         "sortable",
         "testthat",
         "viridis"
@@ -6403,7 +6399,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "shinybusy",
         "survminer",
         "testthat"
     ],
@@ -10436,7 +10431,6 @@
         "heatmaply",
         "viridis"
     ],
-    "shinybusy": [],
     "ggalt": [],
     "HH": [
         "Hmisc",
@@ -10454,8 +10448,7 @@
         "rtracklayer"
     ],
     "datamods": [
-        "rio",
-        "shinybusy"
+        "rio"
     ],
     "pd.mapping50k.xba240": [
         "oligo",
