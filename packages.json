@@ -3982,7 +3982,6 @@
         "chipseq"
     ],
     "coRdon": [],
-    "CoRegNet": [],
     "CoreGx": [
         "DT",
         "MultiAssayExperiment",
