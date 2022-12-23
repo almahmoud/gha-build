@@ -234,7 +234,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "tidyr"
     ],
     "amplican": [
@@ -350,7 +349,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "regioneR",
         "rtracklayer"
     ],
@@ -382,7 +380,6 @@
         "DT",
         "htmlwidgets",
         "miniUI",
-        "readr",
         "tidyr"
     ],
     "APAlyzer": [
@@ -488,7 +485,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -631,7 +627,6 @@
         "plotly",
         "projectR",
         "rGREAT",
-        "readr",
         "readxl",
         "reprex",
         "rtracklayer",
@@ -660,7 +655,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "motifStack",
-        "readr",
         "regioneR",
         "rtracklayer"
     ],
@@ -674,7 +668,6 @@
         "annotate",
         "ggrepel",
         "motifmatchr",
-        "readr",
         "rtracklayer"
     ],
     "atena": [
@@ -699,7 +692,6 @@
         "dbplyr",
         "htmlwidgets",
         "motifStack",
-        "readr",
         "rtracklayer",
         "testthat",
         "waldo"
@@ -1003,7 +995,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr",
         "wateRmelon"
@@ -1083,7 +1074,6 @@
         "qvalue",
         "radiant.data",
         "reactome.db",
-        "readr",
         "readxl",
         "scatterpie",
         "shadowtext",
@@ -1099,9 +1089,7 @@
         "visNetwork",
         "waldo"
     ],
-    "BiocDockerManager": [
-        "readr"
-    ],
+    "BiocDockerManager": [],
     "BiocFHIR": [
         "DT",
         "htmlwidgets",
@@ -1155,8 +1143,7 @@
         "BiocFileCache",
         "DT",
         "dbplyr",
-        "htmlwidgets",
-        "readr"
+        "htmlwidgets"
     ],
     "BiocSet": [
         "AnnotationDbi",
@@ -1387,7 +1374,6 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "readr",
         "regioneR",
         "rtracklayer"
     ],
@@ -1768,7 +1754,6 @@
         "htmlwidgets"
     ],
     "CARNIVAL": [
-        "readr",
         "tidyr"
     ],
     "casper": [
@@ -1840,7 +1825,6 @@
         "genefilter",
         "htmlwidgets",
         "miniUI",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -1872,7 +1856,6 @@
         "dbplyr",
         "htmlwidgets",
         "miniUI",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -1898,8 +1881,7 @@
     ],
     "celaref": [
         "MAST",
-        "SingleCellExperiment",
-        "readr"
+        "SingleCellExperiment"
     ],
     "celda": [
         "SingleCellExperiment",
@@ -2132,7 +2114,6 @@
         "BSgenome",
         "GenomicAlignments",
         "genomation",
-        "readr",
         "rtracklayer"
     ],
     "cfDNAPro": [
@@ -2196,7 +2177,6 @@
         "plotly",
         "prettydoc",
         "qvalue",
-        "readr",
         "rtracklayer",
         "ruv",
         "shinythemes",
@@ -2277,7 +2257,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "org.Rn.eg.db",
-        "readr",
         "rms",
         "rtracklayer",
         "viridis"
@@ -2392,7 +2371,6 @@
         "frma",
         "oligo",
         "oligoClasses",
-        "readr",
         "tidyr"
     ],
     "ChromHeatMap": [
@@ -2459,7 +2437,6 @@
         "htmlwidgets",
         "miniUI",
         "plotly",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -2518,7 +2495,6 @@
         "gwascat",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "rtracklayer",
         "universalmotif"
     ],
@@ -2650,7 +2626,6 @@
         "SingleCellExperiment",
         "cowplot",
         "fgsea",
-        "readr",
         "tidyr"
     ],
     "cmapR": [],
@@ -2666,7 +2641,6 @@
         "GO.db",
         "GenomicAlignments",
         "annotate",
-        "readr",
         "rtracklayer"
     ],
     "CNORdt": [],
@@ -2777,7 +2751,6 @@
     "coexnet": [
         "GEOquery",
         "STRINGdb",
-        "readr",
         "tidyr",
         "vsn"
     ],
@@ -2916,7 +2889,6 @@
         "DT",
         "haven",
         "htmlwidgets",
-        "readr",
         "readxl",
         "rio",
         "shinydashboard",
@@ -2964,7 +2936,6 @@
         "patchwork",
         "pbkrtest",
         "qvalue",
-        "readr",
         "rstatix",
         "scater",
         "scatterpie",
@@ -3079,7 +3050,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -3150,7 +3120,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "readr",
         "tidyr",
         "viper",
         "visNetwork"
@@ -3196,13 +3165,11 @@
     "crisprBowtie": [
         "BSgenome",
         "GenomicAlignments",
-        "readr",
         "rtracklayer"
     ],
     "crisprBwa": [
         "BSgenome",
         "GenomicAlignments",
-        "readr",
         "rtracklayer"
     ],
     "crisprDesign": [
@@ -3222,7 +3189,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "rtracklayer"
     ],
     "crisprScore": [
@@ -3260,7 +3226,6 @@
         "htmlwidgets",
         "keras",
         "patchwork",
-        "readr",
         "readxl",
         "regioneR",
         "rio",
@@ -3296,7 +3261,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "rtracklayer",
         "viridis"
     ],
@@ -3323,7 +3287,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "rtracklayer",
         "viridis"
     ],
@@ -3340,7 +3303,6 @@
         "miniUI",
         "oligo",
         "oligoClasses",
-        "readr",
         "readxl",
         "shinyBS",
         "shinyWidgets",
@@ -3558,7 +3520,6 @@
         "dbplyr",
         "htmlwidgets",
         "motifStack",
-        "readr",
         "rtracklayer"
     ],
     "DAMEfinder": [
@@ -3572,7 +3533,6 @@
         "bumphunter",
         "cowplot",
         "dbplyr",
-        "readr",
         "rtracklayer"
     ],
     "DaMiRseq": [
@@ -3641,7 +3601,6 @@
         "nloptr",
         "pbkrtest",
         "plyranges",
-        "readr",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -3666,7 +3625,6 @@
         "mnem",
         "modelr",
         "org.Hs.eg.db",
-        "readr",
         "readxl",
         "reprex",
         "shadowtext",
@@ -3697,8 +3655,7 @@
     ],
     "debCAM": [
         "DMwR2",
-        "NMF",
-        "readr"
+        "NMF"
     ],
     "debrowser": [
         "AnnotationDbi",
@@ -3791,7 +3748,6 @@
         "minfi",
         "nloptr",
         "qvalue",
-        "readr",
         "rsq",
         "rtracklayer",
         "testthat",
@@ -3814,7 +3770,6 @@
         "keras",
         "lexicon",
         "mlapi",
-        "readr",
         "syuzhet",
         "text2vec",
         "textclean",
@@ -3903,7 +3858,6 @@
         "MSnbase",
         "ggrepel",
         "htmlwidgets",
-        "readr",
         "shinydashboard",
         "tidyr",
         "vsn"
@@ -4013,7 +3967,6 @@
         "GEOquery",
         "annotate",
         "genefilter",
-        "readr",
         "sva",
         "tidyr"
     ],
@@ -4211,7 +4164,6 @@
         "minfi",
         "missMethyl",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "ruv",
         "tidyr",
@@ -4250,7 +4202,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "regioneR",
         "rtracklayer"
     ],
@@ -4318,7 +4269,6 @@
         "rtracklayer"
     ],
     "drawProteins": [
-        "readr",
         "tidyr"
     ],
     "DRIMSeq": [],
@@ -4352,7 +4302,6 @@
         "oligoClasses",
         "org.Hs.eg.db",
         "qvalue",
-        "readr",
         "tidyr"
     ],
     "DSS": [
@@ -4515,7 +4464,6 @@
     ],
     "EGAD": [
         "GEOquery",
-        "readr",
         "tidyr"
     ],
     "EGSEA": [
@@ -4576,7 +4524,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "readr",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -4598,7 +4545,6 @@
         "annotate",
         "dbplyr",
         "motifmatchr",
-        "readr",
         "rtracklayer"
     ],
     "ENmix": [
@@ -4619,7 +4565,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -4696,7 +4641,6 @@
         "pbkrtest",
         "pipeFrame",
         "qvalue",
-        "readr",
         "rstatix",
         "rtracklayer",
         "scatterpie",
@@ -4777,7 +4721,6 @@
         "patchwork",
         "plotly",
         "qvalue",
-        "readr",
         "rtracklayer",
         "scatterpie",
         "shadowtext",
@@ -4880,7 +4823,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -4920,7 +4862,6 @@
         "interactiveDisplayBase",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -5061,7 +5002,6 @@
         "patchwork",
         "pipeFrame",
         "qvalue",
-        "readr",
         "rtracklayer",
         "scatterpie",
         "shadowtext",
@@ -5141,7 +5081,6 @@
         "patchwork",
         "pbkrtest",
         "plotly",
-        "readr",
         "rstatix",
         "testthat",
         "tidyr",
@@ -5253,7 +5192,6 @@
         "cowplot",
         "dbplyr",
         "drawProteins",
-        "readr",
         "rtracklayer",
         "tidyr",
         "wiggleplotr"
@@ -5330,7 +5268,6 @@
         "fds",
         "genomation",
         "rainbow",
-        "readr",
         "rtracklayer"
     ],
     "fCI": [
@@ -5407,7 +5344,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -5665,7 +5601,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -5818,7 +5753,6 @@
         "pathview",
         "pbkrtest",
         "qvalue",
-        "readr",
         "rstatix",
         "scatterpie",
         "shadowtext",
@@ -5993,17 +5927,12 @@
     "genomation": [
         "BSgenome",
         "GenomicAlignments",
-        "readr",
         "rtracklayer"
     ],
     "GenomAutomorphism": [],
-    "genomes": [
-        "readr"
-    ],
+    "genomes": [],
     "GenomicAlignments": [],
-    "GenomicDataCommons": [
-        "readr"
-    ],
+    "GenomicDataCommons": [],
     "GenomicDistributions": [
         "broom",
         "tidyr"
@@ -6130,7 +6059,6 @@
         "keras",
         "lexicon",
         "mlapi",
-        "readr",
         "syuzhet",
         "text2vec",
         "textclean",
@@ -6188,7 +6116,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "readr",
         "readxl",
         "rstatix",
         "shinyBS",
@@ -6202,7 +6129,6 @@
     "GEOfastq": [],
     "GEOmetadb": [
         "GEOquery",
-        "readr",
         "tidyr"
     ],
     "GeomxTools": [
@@ -6221,7 +6147,6 @@
         "waldo"
     ],
     "GEOquery": [
-        "readr",
         "tidyr"
     ],
     "gep2pep": [
@@ -6381,7 +6306,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "readr",
         "rstatix",
         "survMisc",
         "survminer",
@@ -6445,7 +6369,6 @@
     "GNET2": [
         "DiagrammeR",
         "htmlwidgets",
-        "readr",
         "tidyr",
         "viridis",
         "visNetwork"
@@ -6571,7 +6494,6 @@
         "dbplyr",
         "geneplotter",
         "patchwork",
-        "readr",
         "tidyr",
         "topGO",
         "viridis"
@@ -6696,7 +6618,6 @@
         "haven",
         "keras",
         "patchwork",
-        "readr",
         "readxl",
         "regioneR",
         "rio",
@@ -6747,7 +6668,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "rtracklayer"
     ],
     "GWASTools": [
@@ -6791,7 +6711,6 @@
         "dbplyr",
         "htmlwidgets",
         "miniUI",
-        "readr",
         "tidyr"
     ],
     "heatmaps": [
@@ -6834,7 +6753,6 @@
         "rtracklayer"
     ],
     "HiCBricks": [
-        "readr",
         "viridis"
     ],
     "HiCcompare": [
@@ -6961,7 +6879,6 @@
     ],
     "HPiP": [
         "caret",
-        "readr",
         "recipes",
         "tidyr"
     ],
@@ -7052,7 +6969,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rgl",
         "rtracklayer",
         "tidyr"
@@ -7183,7 +7099,6 @@
         "ggraph",
         "ggrepel",
         "htmlwidgets",
-        "readr",
         "scuttle",
         "shinydashboard",
         "svgPanZoom",
@@ -7204,7 +7119,6 @@
         "viridis"
     ],
     "immunotation": [
-        "readr",
         "tidyr"
     ],
     "INDEED": [
@@ -7241,7 +7155,6 @@
         "cleanUpdTSeq",
         "dbplyr",
         "plyranges",
-        "readr",
         "rtracklayer"
     ],
     "INSPEcT": [
@@ -7479,7 +7392,6 @@
         "haven",
         "htmlwidgets",
         "reactable",
-        "readr",
         "readxl",
         "rio",
         "shinyWidgets",
@@ -7556,12 +7468,10 @@
         "dbplyr"
     ],
     "IsoCorrectoR": [
-        "readr",
         "readxl"
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
-        "readr",
         "readxl"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -7583,7 +7493,6 @@
         "geneplotter",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "rtracklayer",
         "tximeta"
     ],
@@ -7598,7 +7507,6 @@
         "geneplotter",
         "ggdendro",
         "ggrepel",
-        "readr",
         "tidyr"
     ],
     "ITALICS": [
@@ -7746,7 +7654,6 @@
         "dbplyr",
         "htmlwidgets",
         "learnr",
-        "readr",
         "shinyBS",
         "shinyFiles",
         "shinydashboard",
@@ -7796,7 +7703,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "readr",
         "readxl",
         "rio",
         "rstatix",
@@ -7893,7 +7799,6 @@
         "htmlwidgets",
         "miniUI",
         "motifStack",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -7927,7 +7832,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -8059,7 +7963,6 @@
         "minfi",
         "oligoClasses",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -8112,7 +8015,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "readxl",
         "recipes",
         "reprex",
@@ -8135,7 +8037,6 @@
         "miniUI",
         "plsgenomics",
         "questionr",
-        "readr",
         "recipes",
         "tidyr",
         "viridis",
@@ -8203,7 +8104,6 @@
         "GenomicAlignments",
         "TFBSTools",
         "annotate",
-        "readr",
         "rtracklayer"
     ],
     "MBASED": [],
@@ -8325,7 +8225,6 @@
         "missMethyl",
         "org.Hs.eg.db",
         "qvalue",
-        "readr",
         "rtracklayer",
         "ruv",
         "sva",
@@ -8350,7 +8249,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr",
         "wateRmelon"
@@ -8378,7 +8276,6 @@
     ],
     "megadepth": [
         "cmdfun",
-        "readr",
         "testthat",
         "waldo"
     ],
@@ -8394,7 +8291,6 @@
         "cmdfun",
         "ggseqlogo",
         "patchwork",
-        "readr",
         "testthat",
         "tidyr",
         "universalmotif",
@@ -8682,7 +8578,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "readr",
         "rstatix",
         "sesame",
         "sesameData",
@@ -8707,7 +8602,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -8729,7 +8623,6 @@
         "genefilter",
         "minfi",
         "plyranges",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -8776,7 +8669,6 @@
         "pkgdown",
         "planet",
         "profvis",
-        "readr",
         "readxl",
         "reprex",
         "rstatix",
@@ -8826,7 +8718,6 @@
         "patchwork",
         "qvalue",
         "reactome.db",
-        "readr",
         "rtracklayer",
         "ruv",
         "scatterpie",
@@ -8900,7 +8791,6 @@
         "genefilter",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -9001,7 +8891,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "readr",
         "shinyWidgets",
         "shinycssloaders",
         "shinydashboard",
@@ -9175,7 +9064,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -9191,7 +9079,6 @@
         "bumphunter",
         "dbplyr",
         "genefilter",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -9238,7 +9125,6 @@
         "htmlTable",
         "htmlwidgets",
         "org.Hs.eg.db",
-        "readr",
         "tidyr",
         "viridis"
     ],
@@ -9310,7 +9196,6 @@
         "pbkrtest",
         "qvalue",
         "reactome.db",
-        "readr",
         "readxl",
         "rearrr",
         "recipes",
@@ -9374,7 +9259,6 @@
         "pbkrtest",
         "qvalue",
         "reactome.db",
-        "readr",
         "readxl",
         "rearrr",
         "recipes",
@@ -9413,7 +9297,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "ruv",
         "tidyr"
@@ -9424,7 +9307,6 @@
     ],
     "mistyR": [
         "caret",
-        "readr",
         "recipes",
         "tidyr"
     ],
@@ -9552,7 +9434,6 @@
         "MKmisc",
         "MultiAssayExperiment",
         "qvalue",
-        "readr",
         "tidyr"
     ],
     "monaLisa": [
@@ -9563,7 +9444,6 @@
         "GenomicAlignments",
         "TFBSTools",
         "annotate",
-        "readr",
         "rtracklayer"
     ],
     "monocle": [
@@ -9596,7 +9476,6 @@
         "htmlwidgets",
         "patchwork",
         "qvalue",
-        "readr",
         "rgl",
         "scatterpie",
         "shadowtext",
@@ -9647,7 +9526,6 @@
         "htmlTable",
         "htmlwidgets",
         "motifStack",
-        "readr",
         "rtracklayer",
         "viridis"
     ],
@@ -9663,7 +9541,6 @@
         "GenomicAlignments",
         "TFBSTools",
         "annotate",
-        "readr",
         "rtracklayer"
     ],
     "motifStack": [
@@ -9675,7 +9552,6 @@
         "TFBSTools",
         "annotate",
         "htmlwidgets",
-        "readr",
         "rtracklayer"
     ],
     "MouseFM": [
@@ -9700,7 +9576,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "readr",
         "rstatix",
         "testthat",
         "tidyr",
@@ -9839,7 +9714,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "readr",
         "readxl",
         "reprex",
         "rstatix",
@@ -10125,7 +9999,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "readr",
         "readxl",
         "rstatix",
         "rtracklayer",
@@ -10225,7 +10098,6 @@
         "interactiveDisplayBase",
         "metap",
         "motifStack",
-        "readr",
         "regioneR",
         "rtracklayer",
         "trackViewer",
@@ -10238,7 +10110,6 @@
         "bsseq",
         "ggrastr",
         "patchwork",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -10261,7 +10132,6 @@
         "haven",
         "modelr",
         "org.Hs.eg.db",
-        "readr",
         "readxl",
         "reprex",
         "testthat",
@@ -10396,7 +10266,6 @@
         "gprofiler2",
         "htmlwidgets",
         "plotly",
-        "readr",
         "supraHex",
         "tidyr"
     ],
@@ -10460,7 +10329,6 @@
         "org.Hs.eg.db",
         "pandaR",
         "quantro",
-        "readr",
         "rtracklayer",
         "tidyr",
         "yarn"
@@ -10478,7 +10346,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "readr",
         "tidyr"
     ],
     "nnSVG": [
@@ -10506,7 +10373,6 @@
         "dbplyr",
         "rWikiPathways",
         "reactome.db",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -10522,7 +10388,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "readr",
         "readxl",
         "testthat",
         "tidyr",
@@ -10633,7 +10498,6 @@
         "pbkrtest",
         "plyranges",
         "qvalue",
-        "readr",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -10679,7 +10543,6 @@
         "labelled",
         "miniUI",
         "questionr",
-        "readr",
         "tidyr",
         "yardstick"
     ],
@@ -10797,20 +10660,15 @@
         "tidyr",
         "waldo"
     ],
-    "Omixer": [
-        "readr"
-    ],
+    "Omixer": [],
     "OmnipathR": [
-        "readr",
         "readxl",
         "tidyr"
     ],
     "oncomix": [
         "ggrepel"
     ],
-    "oncoscanR": [
-        "readr"
-    ],
+    "oncoscanR": [],
     "OncoScore": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -10927,7 +10785,6 @@
         "cowplot",
         "dbplyr",
         "geneplotter",
-        "readr",
         "rtracklayer"
     ],
     "Organism.dplyr": [
@@ -10969,7 +10826,6 @@
         "patchwork",
         "pbkrtest",
         "plotly",
-        "readr",
         "rstatix",
         "testthat",
         "tidyr",
@@ -11041,7 +10897,6 @@
         "TFBSTools",
         "annotate",
         "motifmatchr",
-        "readr",
         "rtracklayer"
     ],
     "PAIRADISE": [
@@ -11144,9 +10999,7 @@
         "AnnotationDbi",
         "org.Hs.eg.db"
     ],
-    "paxtoolsr": [
-        "readr"
-    ],
+    "paxtoolsr": [],
     "pcaExplorer": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -11298,7 +11151,6 @@
         "cowplot",
         "fgsea",
         "geneplotter",
-        "readr",
         "tidyr"
     ],
     "PharmacoGx": [
@@ -11421,7 +11273,6 @@
         "dnet",
         "ggnetwork",
         "ggrepel",
-        "readr",
         "recipes",
         "sna",
         "supraHex",
@@ -11556,7 +11407,6 @@
         "miniUI",
         "nloptr",
         "pbkrtest",
-        "readr",
         "readxl",
         "rstatix",
         "shinyjs",
@@ -11580,7 +11430,6 @@
     "PoDCall": [
         "DT",
         "htmlwidgets",
-        "readr",
         "shinyjs"
     ],
     "podkat": [
@@ -11694,7 +11543,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "phastCons100way.UCSC.hg38",
-        "readr",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -11963,7 +11811,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "readr",
         "rstatix",
         "shinydashboard",
         "testthat",
@@ -11998,7 +11845,6 @@
         "miniUI",
         "pairsD3",
         "qvalue",
-        "readr",
         "recount",
         "rtracklayer",
         "shinyBS",
@@ -12154,7 +12000,6 @@
     "qPLEXanalyzer": [
         "MSnbase",
         "ggdendro",
-        "readr",
         "tidyr",
         "vsn"
     ],
@@ -12213,7 +12058,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -12304,7 +12148,6 @@
     ],
     "RandomWalkRestartMH": [
         "dnet",
-        "readr",
         "supraHex",
         "tidyr"
     ],
@@ -12335,8 +12178,7 @@
     "Rbec": [
         "GenomicAlignments",
         "ShortRead",
-        "dada2",
-        "readr"
+        "dada2"
     ],
     "Rbowtie2": [],
     "Rcade": [
@@ -12360,7 +12202,6 @@
         "gprofiler2",
         "htmlwidgets",
         "plotly",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -12401,7 +12242,6 @@
     "Rcwl": [
         "DiagrammeR",
         "htmlwidgets",
-        "readr",
         "tidyr",
         "viridis",
         "visNetwork"
@@ -12412,7 +12252,6 @@
         "Rcwl",
         "dbplyr",
         "htmlwidgets",
-        "readr",
         "tidyr",
         "viridis",
         "visNetwork"
@@ -12484,7 +12323,6 @@
         "htmlTable",
         "htmlwidgets",
         "qvalue",
-        "readr",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -12508,7 +12346,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -12638,7 +12475,6 @@
         "interactiveDisplayBase",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "recipes",
         "rtracklayer",
         "tidyr"
@@ -12819,7 +12655,6 @@
         "geneplotter",
         "htmlwidgets",
         "plotly",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -12882,7 +12717,6 @@
         "ggrepel",
         "htmlwidgets",
         "motifStack",
-        "readr",
         "rtracklayer"
     ],
     "rifi": [
@@ -12971,7 +12805,6 @@
         "ggprism",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "recipes",
         "regioneR",
         "rtracklayer",
@@ -13031,7 +12864,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "qvalue",
-        "readr",
         "recount",
         "rtracklayer",
         "tidyr",
@@ -13229,7 +13061,6 @@
         "nloptr",
         "pbkrtest",
         "qvalue",
-        "readr",
         "recount",
         "rstatix",
         "rtracklayer",
@@ -13255,7 +13086,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -13380,7 +13210,6 @@
         "TCGAutils",
         "biomaRt",
         "dbplyr",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -13538,7 +13367,6 @@
         "genefilter",
         "oligo",
         "oligoClasses",
-        "readr",
         "sva",
         "tidyr"
     ],
@@ -13692,7 +13520,6 @@
         "SingleCellExperiment",
         "ggrepel",
         "patchwork",
-        "readr",
         "rstan",
         "tidyr"
     ],
@@ -13825,7 +13652,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "regioneR",
         "rtracklayer"
     ],
@@ -13849,9 +13675,7 @@
         "rtracklayer",
         "tidyr"
     ],
-    "Sconify": [
-        "readr"
-    ],
+    "Sconify": [],
     "SCOPE": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -14208,7 +14032,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "sesameData"
     ],
     "SEtools": [
@@ -14223,7 +14046,6 @@
     "sevenC": [
         "GenomicAlignments",
         "InteractionSet",
-        "readr",
         "rtracklayer"
     ],
     "SGSeq": [
@@ -14252,7 +14074,6 @@
         "htmlwidgets",
         "minfi",
         "plotly",
-        "readr",
         "rtracklayer",
         "shinyWidgets",
         "shinycssloaders",
@@ -14274,7 +14095,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -14335,7 +14155,6 @@
         "patchwork",
         "qvalue",
         "reactome.db",
-        "readr",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -14369,7 +14188,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "readr",
         "rstatix",
         "rtracklayer",
         "shinyWidgets",
@@ -14413,7 +14231,6 @@
         "org.Hs.eg.db",
         "patchwork",
         "pbkrtest",
-        "readr",
         "rstatix",
         "rtracklayer",
         "survMisc",
@@ -14637,7 +14454,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr",
         "wateRmelon"
@@ -14789,7 +14605,6 @@
         "ggiraph",
         "ggrepel",
         "htmlwidgets",
-        "readr",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
@@ -14883,7 +14698,6 @@
         "htmlTable",
         "htmlwidgets",
         "motifmatchr",
-        "readr",
         "rtracklayer",
         "viridis"
     ],
@@ -15029,7 +14843,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "readr",
         "readxl",
         "rearrr",
         "recipes",
@@ -15084,7 +14897,6 @@
     ],
     "SRAdb": [
         "GEOquery",
-        "readr",
         "tidyr"
     ],
     "srnadiff": [
@@ -15137,7 +14949,6 @@
         "haven",
         "labelled",
         "mosaicCore",
-        "readr",
         "tidyr"
     ],
     "ssrch": [
@@ -15179,7 +14990,6 @@
         "dbplyr",
         "ggalluvial",
         "patchwork",
-        "readr",
         "rtracklayer",
         "ruv",
         "scuttle",
@@ -15212,7 +15022,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "readxl",
         "reprex",
         "tidyr",
@@ -15302,7 +15111,6 @@
         "tidyr"
     ],
     "supraHex": [
-        "readr",
         "tidyr"
     ],
     "surfaltr": [
@@ -15310,7 +15118,6 @@
         "BiocFileCache",
         "biomaRt",
         "dbplyr",
-        "readr",
         "testthat",
         "waldo"
     ],
@@ -15379,7 +15186,6 @@
     "synapter": [
         "MSnbase",
         "qvalue",
-        "readr",
         "vsn"
     ],
     "synergyfinder": [
@@ -15402,7 +15208,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "readr",
         "readxl",
         "reprex",
         "stars",
@@ -15573,7 +15378,6 @@
         "BiocFileCache",
         "biomaRt",
         "dbplyr",
-        "readr",
         "tidyr"
     ],
     "TCGAbiolinksGUI": [
@@ -15630,7 +15434,6 @@
         "pbkrtest",
         "plotly",
         "qvalue",
-        "readr",
         "recipes",
         "rstatix",
         "rtracklayer",
@@ -15660,7 +15463,6 @@
         "RaggedExperiment",
         "biomaRt",
         "dbplyr",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -15681,8 +15483,7 @@
         "geneplotter"
     ],
     "TENxIO": [
-        "SingleCellExperiment",
-        "readr"
+        "SingleCellExperiment"
     ],
     "tenXplore": [
         "AnnotationDbi",
@@ -15714,7 +15515,6 @@
         "dbplyr",
         "htmlwidgets",
         "miniUI",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -15729,7 +15529,6 @@
         "GO.db",
         "GenomicAlignments",
         "annotate",
-        "readr",
         "rtracklayer"
     ],
     "TFEA.ChIP": [
@@ -15756,7 +15555,6 @@
         "cowplot",
         "dbplyr",
         "geneplotter",
-        "readr",
         "rtracklayer"
     ],
     "TFutils": [
@@ -15772,7 +15570,6 @@
         "readxl"
     ],
     "tidybulk": [
-        "readr",
         "tidyr"
     ],
     "tidySingleCellExperiment": [
@@ -15883,7 +15680,6 @@
         "biomaRt",
         "dbplyr",
         "naniar",
-        "readr",
         "recipes",
         "rtracklayer",
         "tidyr",
@@ -15927,7 +15723,6 @@
         "dbplyr",
         "htmlwidgets",
         "plotly",
-        "readr",
         "tidyr"
     ],
     "topconfects": [],
@@ -16183,7 +15978,6 @@
         "keras",
         "lexicon",
         "mlapi",
-        "readr",
         "syuzhet",
         "text2vec",
         "textclean",
@@ -16354,7 +16148,6 @@
         "keras",
         "lexicon",
         "mlapi",
-        "readr",
         "scater",
         "scuttle",
         "syuzhet",
@@ -16517,7 +16310,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "readr",
         "tidyr",
         "topGO",
         "viridis",
@@ -16583,7 +16375,6 @@
         "gwascat",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "readr",
         "rtracklayer"
     ],
     "vulcan": [
@@ -16646,7 +16437,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -16688,7 +16478,6 @@
     ],
     "wppi": [
         "OmnipathR",
-        "readr",
         "readxl",
         "tidyr"
     ],
@@ -16773,7 +16562,6 @@
         "genefilter",
         "minfi",
         "quantro",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -16934,7 +16722,6 @@
         "interactiveDisplayBase",
         "tidyr"
     ],
-    "readr": [],
     "ggthemes": [],
     "waffle": [],
     "DescTools": [
@@ -17121,7 +16908,6 @@
         "googlesheets4",
         "haven",
         "modelr",
-        "readr",
         "readxl",
         "reprex",
         "tidyr"
@@ -17169,9 +16955,7 @@
     ],
     "dtplyr": [],
     "googlesheets4": [],
-    "haven": [
-        "readr"
-    ],
+    "haven": [],
     "modelr": [
         "broom",
         "tidyr"
@@ -17247,7 +17031,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -17263,7 +17046,6 @@
         "patchwork",
         "pbkrtest",
         "plotly",
-        "readr",
         "readxl",
         "shinyAce",
         "shinyFiles",
@@ -17277,7 +17059,6 @@
     ],
     "DiagrammeR": [
         "htmlwidgets",
-        "readr",
         "tidyr",
         "viridis",
         "visNetwork"
@@ -17485,7 +17266,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -17501,7 +17281,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -17517,7 +17296,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -17548,7 +17326,6 @@
     "chipenrich.data": [
         "AnnotationDbi",
         "GenomicAlignments",
-        "readr",
         "rtracklayer"
     ],
     "org.Dm.eg.db": [
@@ -17637,7 +17414,6 @@
     "benchmarkmeData": [],
     "rio": [
         "haven",
-        "readr",
         "readxl"
     ],
     "factoextra": [
@@ -17707,7 +17483,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -17795,9 +17570,7 @@
         "waldo"
     ],
     "metap": [],
-    "DMwR2": [
-        "readr"
-    ],
+    "DMwR2": [],
     "ggseqlogo": [],
     "rsq": [
         "lme4",
@@ -17888,9 +17661,7 @@
         "htmlwidgets",
         "interactiveDisplayBase"
     ],
-    "homologene": [
-        "readr"
-    ],
+    "homologene": [],
     "gprofiler2": [
         "htmlwidgets",
         "plotly",
@@ -18036,7 +17807,6 @@
         "haven",
         "htmlwidgets",
         "reactable",
-        "readr",
         "readxl",
         "rio",
         "shinyWidgets",
@@ -18101,7 +17871,6 @@
         "labelled",
         "miniUI",
         "questionr",
-        "readr",
         "tidyr"
     ],
     "klaR": [
@@ -18109,19 +17878,16 @@
         "labelled",
         "miniUI",
         "questionr",
-        "readr",
         "tidyr"
     ],
     "questionr": [
         "haven",
         "labelled",
         "miniUI",
-        "readr",
         "tidyr"
     ],
     "labelled": [
         "haven",
-        "readr",
         "tidyr"
     ],
     "PairedData": [],
@@ -18152,8 +17918,7 @@
         "ExperimentHub",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "readr"
+        "interactiveDisplayBase"
     ],
     "FlowSorted.Blood.450k": [
         "AnnotationDbi",
@@ -18167,7 +17932,6 @@
         "dbplyr",
         "genefilter",
         "minfi",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -18283,7 +18047,6 @@
     ],
     "mppa": [],
     "dnet": [
-        "readr",
         "supraHex",
         "tidyr"
     ],
@@ -18297,7 +18060,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "readr",
         "readxl",
         "testthat",
         "tidyr",
@@ -18337,7 +18099,6 @@
         "labelled",
         "miniUI",
         "questionr",
-        "readr",
         "tidyr",
         "yardstick"
     ],
@@ -18366,8 +18127,7 @@
         "AnnotationDbi",
         "BiocFileCache",
         "biomaRt",
-        "dbplyr",
-        "readr"
+        "dbplyr"
     ],
     "tfprobability": [
         "keras"
@@ -18482,7 +18242,6 @@
     "valr": [
         "GenomicAlignments",
         "broom",
-        "readr",
         "rtracklayer",
         "tidyr"
     ],
@@ -18570,7 +18329,6 @@
         "tidyr"
     ],
     "openair": [
-        "readr",
         "tidyr"
     ],
     "celldex": [
@@ -18649,7 +18407,6 @@
         "haven",
         "labelled",
         "mosaicCore",
-        "readr",
         "tidyr"
     ],
     "ggformula": [
@@ -18658,7 +18415,6 @@
         "haven",
         "labelled",
         "mosaicCore",
-        "readr",
         "tidyr"
     ],
     "ggstance": [],
@@ -18696,14 +18452,12 @@
     ],
     "naniar": [
         "UpSetR",
-        "readr",
         "tidyr",
         "viridis",
         "visdat"
     ],
     "LambertW": [],
     "visdat": [
-        "readr",
         "tidyr"
     ],
     "vbsr": [],
