@@ -240,9 +240,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "branchpointer": [
-        "BSgenome.Hsapiens.UCSC.hg38"
-    ],
+    "branchpointer": [],
     "BRGenomics": [],
     "BubbleTree": [
         "VariantAnnotation",
@@ -1229,7 +1227,6 @@
         "ensembldb"
     ],
     "katdetectr": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "VariantAnnotation"
     ],
     "kissDE": [
@@ -1607,7 +1604,6 @@
         "variancePartition"
     ],
     "musicatk": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "FactoMineR",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -1729,9 +1725,7 @@
         "AICcmodavg",
         "car"
     ],
-    "ORFhunteR": [
-        "BSgenome.Hsapiens.UCSC.hg38"
-    ],
+    "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
     "OrganismDbi": [],
@@ -1809,7 +1803,6 @@
         "rCGH"
     ],
     "primirTSS": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "Gviz",
         "TFBSTools",
         "VariantAnnotation",
@@ -2460,7 +2453,6 @@
         "rstatix"
     ],
     "trena": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38"
     ],
     "TRESS": [],
@@ -2493,7 +2485,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "uncoverappLib": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
         "Gviz",
@@ -2639,7 +2630,6 @@
         "bumphunter",
         "derfinder"
     ],
-    "BSgenome.Hsapiens.UCSC.hg38": [],
     "drc": [
         "car"
     ],
