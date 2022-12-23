@@ -540,7 +540,6 @@
         "rmarkdown",
         "rtracklayer",
         "sass",
-        "seqinr",
         "stringr",
         "tibble",
         "tidyselect",
@@ -1292,7 +1291,6 @@
         "rsnps",
         "rtracklayer",
         "sass",
-        "seqinr",
         "shiny",
         "shinyjs",
         "stringr",
@@ -1460,7 +1458,6 @@
         "rematch2",
         "rmarkdown",
         "sass",
-        "seqinr",
         "stringr",
         "testthat",
         "tibble",
@@ -5207,7 +5204,6 @@
         "ggplot2",
         "interp",
         "latticeExtra",
-        "seqinr",
         "stringr",
         "tibble"
     ],
@@ -6675,7 +6671,6 @@
         "rmarkdown",
         "rtracklayer",
         "sass",
-        "seqinr",
         "shiny",
         "snpStats",
         "stringr",
@@ -6800,7 +6795,6 @@
         "XVector",
         "restfulr",
         "rtracklayer",
-        "seqinr",
         "stringr"
     ],
     "cleaver": [
@@ -8679,7 +8673,6 @@
         "keras",
         "restfulr",
         "rtracklayer",
-        "seqinr",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -8736,7 +8729,6 @@
         "rmarkdown",
         "rtracklayer",
         "sass",
-        "seqinr",
         "shiny",
         "shinyjs",
         "stringr",
@@ -15285,9 +15277,7 @@
         "tibble",
         "tidyselect"
     ],
-    "GeneGA": [
-        "seqinr"
-    ],
+    "GeneGA": [],
     "GeneGeneInteR": [
         "Biostrings",
         "DT",
@@ -17358,7 +17348,6 @@
         "restfulr",
         "rio",
         "rtracklayer",
-        "seqinr",
         "stringr",
         "tensorflow",
         "tfruns",
@@ -18717,7 +18706,6 @@
         "RSQLite",
         "STRINGdb",
         "XVector",
-        "seqinr",
         "sqldf"
     ],
     "ImmuneSpaceR": [
@@ -18887,7 +18875,6 @@
         "reshape2",
         "restfulr",
         "rtracklayer",
-        "seqinr",
         "stringr",
         "tibble",
         "tidyselect",
@@ -19195,7 +19182,6 @@
         "purrr",
         "restfulr",
         "rtracklayer",
-        "seqinr",
         "stringr",
         "tibble",
         "tidyselect"
@@ -22574,7 +22560,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "seqinr",
         "stringr"
     ],
     "MethylAid": [
@@ -22972,7 +22957,6 @@
         "httpuv",
         "jquerylib",
         "sass",
-        "seqinr",
         "seriation",
         "shiny",
         "shinyFiles",
@@ -25065,7 +25049,6 @@
         "XVector",
         "dplyr",
         "purrr",
-        "seqinr",
         "stringr",
         "tibble",
         "tidyr",
@@ -25705,7 +25688,6 @@
         "rmarkdown",
         "rtracklayer",
         "sass",
-        "seqinr",
         "stringr",
         "tensorflow",
         "tfruns",
@@ -27972,7 +27954,6 @@
         "reshape2",
         "rmarkdown",
         "sass",
-        "seqinr",
         "stringr",
         "tibble",
         "tidyselect",
@@ -28003,7 +27984,6 @@
         "reshape2",
         "rmarkdown",
         "sass",
-        "seqinr",
         "shiny",
         "shinyBS",
         "shinyjs",
@@ -34842,7 +34822,6 @@
         "rmarkdown",
         "sangerseqR",
         "sass",
-        "seqinr",
         "shiny",
         "shinyWidgets",
         "shinycssloaders",
@@ -37902,7 +37881,6 @@
         "ggtree",
         "patchwork",
         "purrr",
-        "seqinr",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -38638,8 +38616,7 @@
         "vroom"
     ],
     "specL": [
-        "RSQLite",
-        "seqinr"
+        "RSQLite"
     ],
     "SpeCond": [
         "fields",
@@ -39275,8 +39252,7 @@
     "sscu": [
         "Biostrings",
         "GenomeInfoDb",
-        "XVector",
-        "seqinr"
+        "XVector"
     ],
     "sSNAPPY": [
         "AnnotationDbi",
@@ -39880,7 +39856,6 @@
         "purrr",
         "readr",
         "rematch2",
-        "seqinr",
         "stringr",
         "testthat",
         "tibble",
@@ -40172,7 +40147,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "seqinr",
         "stringr"
     ],
     "syntenet": [
@@ -43419,7 +43393,6 @@
         "rmarkdown",
         "rtracklayer",
         "sass",
-        "seqinr",
         "stringr",
         "tibble",
         "tidyselect",
@@ -44246,7 +44219,6 @@
         "sass",
         "shiny"
     ],
-    "seqinr": [],
     "readxl": [
         "cellranger",
         "hms",
