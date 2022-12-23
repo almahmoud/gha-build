@@ -13027,7 +13027,6 @@
         "pillar",
         "progress",
         "purrr",
-        "rcdk",
         "readr",
         "rmarkdown",
         "rsparse",
@@ -20456,7 +20455,6 @@
         "pillar",
         "progress",
         "purrr",
-        "rcdk",
         "readr",
         "rmarkdown",
         "rsparse",
@@ -39574,7 +39572,6 @@
         "pillar",
         "progress",
         "purrr",
-        "rcdk",
         "restfulr",
         "rtracklayer",
         "stringr",
@@ -41252,8 +41249,7 @@
         "blob",
         "doParallel",
         "httr",
-        "openssl",
-        "rcdk"
+        "openssl"
     ],
     "RCSL": [
         "RSpectra",
@@ -43261,7 +43257,6 @@
         "pcaMethods",
         "pillar",
         "purrr",
-        "rcdk",
         "readJDX",
         "rmarkdown",
         "rvest",
@@ -55020,7 +55015,6 @@
         "progress",
         "purrr",
         "ragg",
-        "rcdk",
         "readr",
         "rmarkdown",
         "rsparse",
@@ -61041,7 +61035,6 @@
         "stringr"
     ],
     "CatEncoders": [],
-    "rcdk": [],
     "webchem": [
         "dplyr",
         "httr",
