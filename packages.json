@@ -7420,7 +7420,6 @@
         "lmerTest",
         "nloptr"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
         "annotate",
