@@ -757,7 +757,6 @@
     "dasper": [
         "car",
         "ggpubr",
-        "megadepth",
         "pbkrtest",
         "plyranges",
         "rstatix"
@@ -1692,7 +1691,6 @@
         "drc",
         "pbkrtest"
     ],
-    "megadepth": [],
     "meshes": [
         "enrichplot"
     ],
@@ -2135,7 +2133,6 @@
         "dasper",
         "derfinder",
         "ggpubr",
-        "megadepth",
         "pbkrtest",
         "plyranges",
         "rstatix"
