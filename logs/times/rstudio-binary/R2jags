@@ -1,0 +1,517 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   ba1bd7b0..cf012113  main       -> origin/main
+Updating ba1bd7b0..cf012113
+Fast-forward
+ lists/R.cache                                  |    1 +
+ lists/phangorn                                 |    1 +
+ lists/phyclust                                 |    1 +
+ logs/run_ids/rstudio-binaries/rgeos            |    2 +
+ logs/sizes/rstudio-binaries/binaries/R.cache   |    1 +
+ logs/sizes/rstudio-binaries/binaries/phangorn  |    1 +
+ logs/sizes/rstudio-binaries/binaries/phyclust  |    1 +
+ logs/sizes/rstudio-binaries/libraries/R.cache  |    1 +
+ logs/sizes/rstudio-binaries/libraries/phangorn |    1 +
+ logs/sizes/rstudio-binaries/libraries/phyclust |    1 +
+ logs/times/rstudio-binary/R.cache              |  306 +++++
+ logs/times/rstudio-binary/phangorn             | 1544 ++++++++++++++++++++++++
+ logs/times/rstudio-binary/phyclust             | 1012 ++++++++++++++++
+ packages.json                                  |   40 +-
+ 14 files changed, 2875 insertions(+), 38 deletions(-)
+ create mode 100644 lists/R.cache
+ create mode 100644 lists/phangorn
+ create mode 100644 lists/phyclust
+ create mode 100644 logs/run_ids/rstudio-binaries/rgeos
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/R.cache
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/phangorn
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/phyclust
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/R.cache
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/phangorn
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/phyclust
+ create mode 100644 logs/times/rstudio-binary/R.cache
+ create mode 100644 logs/times/rstudio-binary/phangorn
+ create mode 100644 logs/times/rstudio-binary/phyclust
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=R2jags
++ PKG=R2jags
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "R2jags"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 10 2136k   10  219k    0     0   284k      0  0:00:07 --:--:--  0:00:07  284k 58 2136k   58 1239k    0     0   695k      0  0:00:03  0:00:01  0:00:02  695k100 2136k  100 2136k    0     0   921k      0  0:00:02  0:00:02 --:--:--  921k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/coda/
+built/built/coda/NAMESPACE
+built/built/coda/DESCRIPTION
+built/built/coda/help/
+built/built/coda/help/paths.rds
+built/built/coda/help/coda.rdb
+built/built/coda/help/coda.rdx
+built/built/coda/help/aliases.rds
+built/built/coda/help/AnIndex
+built/built/coda/data/
+built/built/coda/data/line.rda
+built/built/coda/Meta/
+built/built/coda/Meta/package.rds
+built/built/coda/Meta/features.rds
+built/built/coda/Meta/hsearch.rds
+built/built/coda/Meta/links.rds
+built/built/coda/Meta/nsInfo.rds
+built/built/coda/Meta/Rd.rds
+built/built/coda/Meta/data.rds
+built/built/coda/CITATION
+built/built/coda/html/
+built/built/coda/html/00Index.html
+built/built/coda/html/R.css
+built/built/coda/AUTHORS
+built/built/coda/INDEX
+built/built/coda/R/
+built/built/coda/R/coda
+built/built/coda/R/coda.rdb
+built/built/coda/R/coda.rdx
+built/coda/
+built/coda/NAMESPACE
+built/coda/DESCRIPTION
+built/coda/help/
+built/coda/help/paths.rds
+built/coda/help/coda.rdb
+built/coda/help/coda.rdx
+built/coda/help/aliases.rds
+built/coda/help/AnIndex
+built/coda/data/
+built/coda/data/line.rda
+built/coda/Meta/
+built/coda/Meta/package.rds
+built/coda/Meta/features.rds
+built/coda/Meta/hsearch.rds
+built/coda/Meta/links.rds
+built/coda/Meta/nsInfo.rds
+built/coda/Meta/Rd.rds
+built/coda/Meta/data.rds
+built/coda/CITATION
+built/coda/html/
+built/coda/html/00Index.html
+built/coda/html/R.css
+built/coda/AUTHORS
+built/coda/INDEX
+built/coda/R/
+built/coda/R/coda
+built/coda/R/coda.rdb
+built/coda/R/coda.rdx
+built/rjags/
+built/rjags/libs/
+built/rjags/libs/rjags.so
+built/rjags/NAMESPACE
+built/rjags/DESCRIPTION
+built/rjags/help/
+built/rjags/help/paths.rds
+built/rjags/help/aliases.rds
+built/rjags/help/AnIndex
+built/rjags/help/rjags.rdb
+built/rjags/help/rjags.rdx
+built/rjags/data/
+built/rjags/data/LINE.RData
+built/rjags/Meta/
+built/rjags/Meta/package.rds
+built/rjags/Meta/features.rds
+built/rjags/Meta/hsearch.rds
+built/rjags/Meta/links.rds
+built/rjags/Meta/nsInfo.rds
+built/rjags/Meta/Rd.rds
+built/rjags/Meta/data.rds
+built/rjags/html/
+built/rjags/html/00Index.html
+built/rjags/html/R.css
+built/rjags/INDEX
+built/rjags/R/
+built/rjags/R/rjags
+built/rjags/R/rjags.rdb
+built/rjags/R/rjags.rdx
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 60796  100 60796    0     0   169k      0 --:--:-- --:--:-- --:--:--  169k
+built/
+built/abind/
+built/abind/NAMESPACE
+built/abind/DESCRIPTION
+built/abind/help/
+built/abind/help/paths.rds
+built/abind/help/abind.rdb
+built/abind/help/aliases.rds
+built/abind/help/AnIndex
+built/abind/help/abind.rdx
+built/abind/Meta/
+built/abind/Meta/package.rds
+built/abind/Meta/features.rds
+built/abind/Meta/hsearch.rds
+built/abind/Meta/links.rds
+built/abind/Meta/nsInfo.rds
+built/abind/Meta/Rd.rds
+built/abind/html/
+built/abind/html/00Index.html
+built/abind/html/R.css
+built/abind/svnversion.txt
+built/abind/INDEX
+built/abind/R/
+built/abind/R/abind
+built/abind/R/abind.rdb
+built/abind/R/abind.rdx
+built/abind/sccversion.txt
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 13 3178k   13  426k    0     0   420k      0  0:00:07  0:00:01  0:00:06  419k 63 3178k   63 2004k    0     0   987k      0  0:00:03  0:00:02  0:00:01  986k100 3178k  100 3178k    0     0  1263k      0  0:00:02  0:00:02 --:--:-- 1263k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/coda/
+built/built/coda/NAMESPACE
+built/built/coda/DESCRIPTION
+built/built/coda/help/
+built/built/coda/help/paths.rds
+built/built/coda/help/coda.rdb
+built/built/coda/help/coda.rdx
+built/built/coda/help/aliases.rds
+built/built/coda/help/AnIndex
+built/built/coda/data/
+built/built/coda/data/line.rda
+built/built/coda/Meta/
+built/built/coda/Meta/package.rds
+built/built/coda/Meta/features.rds
+built/built/coda/Meta/hsearch.rds
+built/built/coda/Meta/links.rds
+built/built/coda/Meta/nsInfo.rds
+built/built/coda/Meta/Rd.rds
+built/built/coda/Meta/data.rds
+built/built/coda/CITATION
+built/built/coda/html/
+built/built/coda/html/00Index.html
+built/built/coda/html/R.css
+built/built/coda/AUTHORS
+built/built/coda/INDEX
+built/built/coda/R/
+built/built/coda/R/coda
+built/built/coda/R/coda.rdb
+built/built/coda/R/coda.rdx
+built/built/boot/
+built/built/boot/NAMESPACE
+built/built/boot/DESCRIPTION
+built/built/boot/help/
+built/built/boot/help/paths.rds
+built/built/boot/help/boot.rdx
+built/built/boot/help/boot.rdb
+built/built/boot/help/aliases.rds
+built/built/boot/help/AnIndex
+built/built/boot/data/
+built/built/boot/data/Rdata.rds
+built/built/boot/data/Rdata.rdb
+built/built/boot/data/Rdata.rdx
+built/built/boot/Meta/
+built/built/boot/Meta/package.rds
+built/built/boot/Meta/features.rds
+built/built/boot/Meta/hsearch.rds
+built/built/boot/Meta/links.rds
+built/built/boot/Meta/nsInfo.rds
+built/built/boot/Meta/Rd.rds
+built/built/boot/Meta/data.rds
+built/built/boot/po/
+built/built/boot/po/it/
+built/built/boot/po/it/LC_MESSAGES/
+built/built/boot/po/it/LC_MESSAGES/R-boot.mo
+built/built/boot/po/fr/
+built/built/boot/po/fr/LC_MESSAGES/
+built/built/boot/po/fr/LC_MESSAGES/R-boot.mo
+built/built/boot/po/ko/
+built/built/boot/po/ko/LC_MESSAGES/
+built/built/boot/po/ko/LC_MESSAGES/R-boot.mo
+built/built/boot/po/pl/
+built/built/boot/po/pl/LC_MESSAGES/
+built/built/boot/po/pl/LC_MESSAGES/R-boot.mo
+built/built/boot/po/en@quot/
+built/built/boot/po/en@quot/LC_MESSAGES/
+built/built/boot/po/en@quot/LC_MESSAGES/R-boot.mo
+built/built/boot/po/de/
+built/built/boot/po/de/LC_MESSAGES/
+built/built/boot/po/de/LC_MESSAGES/R-boot.mo
+built/built/boot/po/ru/
+built/built/boot/po/ru/LC_MESSAGES/
+built/built/boot/po/ru/LC_MESSAGES/R-boot.mo
+built/built/boot/bd.q
+built/built/boot/CITATION
+built/built/boot/html/
+built/built/boot/html/00Index.html
+built/built/boot/html/R.css
+built/built/boot/INDEX
+built/built/boot/R/
+built/built/boot/R/boot.rdx
+built/built/boot/R/boot.rdb
+built/built/boot/R/boot
+built/coda/
+built/coda/NAMESPACE
+built/coda/DESCRIPTION
+built/coda/help/
+built/coda/help/paths.rds
+built/coda/help/coda.rdb
+built/coda/help/coda.rdx
+built/coda/help/aliases.rds
+built/coda/help/AnIndex
+built/coda/data/
+built/coda/data/line.rda
+built/coda/Meta/
+built/coda/Meta/package.rds
+built/coda/Meta/features.rds
+built/coda/Meta/hsearch.rds
+built/coda/Meta/links.rds
+built/coda/Meta/nsInfo.rds
+built/coda/Meta/Rd.rds
+built/coda/Meta/data.rds
+built/coda/CITATION
+built/coda/html/
+built/coda/html/00Index.html
+built/coda/html/R.css
+built/coda/AUTHORS
+built/coda/INDEX
+built/coda/R/
+built/coda/R/coda
+built/coda/R/coda.rdb
+built/coda/R/coda.rdx
+built/R2WinBUGS/
+built/R2WinBUGS/NEWS
+built/R2WinBUGS/NAMESPACE
+built/R2WinBUGS/DESCRIPTION
+built/R2WinBUGS/help/
+built/R2WinBUGS/help/paths.rds
+built/R2WinBUGS/help/aliases.rds
+built/R2WinBUGS/help/R2WinBUGS.rdx
+built/R2WinBUGS/help/R2WinBUGS.rdb
+built/R2WinBUGS/help/AnIndex
+built/R2WinBUGS/data/
+built/R2WinBUGS/data/schools.txt.gz
+built/R2WinBUGS/Meta/
+built/R2WinBUGS/Meta/package.rds
+built/R2WinBUGS/Meta/vignette.rds
+built/R2WinBUGS/Meta/features.rds
+built/R2WinBUGS/Meta/hsearch.rds
+built/R2WinBUGS/Meta/links.rds
+built/R2WinBUGS/Meta/nsInfo.rds
+built/R2WinBUGS/Meta/Rd.rds
+built/R2WinBUGS/Meta/data.rds
+built/R2WinBUGS/CITATION
+built/R2WinBUGS/html/
+built/R2WinBUGS/html/00Index.html
+built/R2WinBUGS/html/R.css
+built/R2WinBUGS/INDEX
+built/R2WinBUGS/model/
+built/R2WinBUGS/model/schools.txt
+built/R2WinBUGS/doc/
+built/R2WinBUGS/doc/R2WinBUGS.pdf
+built/R2WinBUGS/doc/index.html
+built/R2WinBUGS/doc/R2WinBUGS.Rnw
+built/R2WinBUGS/R/
+built/R2WinBUGS/R/R2WinBUGS.rdx
+built/R2WinBUGS/R/R2WinBUGS.rdb
+built/R2WinBUGS/R/R2WinBUGS
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''R2jags'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv abind_1.4-5_R_x86_64-pc-linux-gnu.tar.gz coda_0.19-4_R_x86_64-pc-linux-gnu.tar.gz R2jags_0.7-1_R_x86_64-pc-linux-gnu.tar.gz R2WinBUGS_2.1-21_R_x86_64-pc-linux-gnu.tar.gz rjags_4-13_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/R2jags
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'R2jags'
+also installing the dependencies ‘rjags’, ‘abind’, ‘coda’, ‘R2WinBUGS’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/rjags_4-13.tar.gz'
+Content type 'binary/octet-stream' length 387276 bytes (378 KB)
+==================================================
+downloaded 378 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/abind_1.4-5.tar.gz'
+Content type 'binary/octet-stream' length 60719 bytes (59 KB)
+==================================================
+downloaded 59 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/coda_0.19-4.tar.gz'
+Content type 'binary/octet-stream' length 320587 bytes (313 KB)
+==================================================
+downloaded 313 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/R2WinBUGS_2.1-21.tar.gz'
+Content type 'binary/octet-stream' length 843386 bytes (823 KB)
+==================================================
+downloaded 823 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/R2jags_0.7-1.tar.gz'
+Content type 'binary/octet-stream' length 97742 bytes (95 KB)
+==================================================
+downloaded 95 KB
+
+* installing *binary* package ‘abind’ ...
+* ‘abind’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘abind’ as ‘abind_1.4-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (abind)
+* installing *binary* package ‘coda’ ...
+* ‘coda’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘coda’ as ‘coda_0.19-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coda)
+* installing *binary* package ‘rjags’ ...
+* ‘rjags’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rjags’ as ‘rjags_4-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rjags)
+* installing *binary* package ‘R2WinBUGS’ ...
+* ‘R2WinBUGS’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R2WinBUGS’ as ‘R2WinBUGS_2.1-21_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R2WinBUGS)
+* installing *binary* package ‘R2jags’ ...
+* ‘R2jags’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R2jags’ as ‘R2jags_0.7-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R2jags)
+
+The downloaded source packages are in
+	‘/tmp/RtmprOxFM6/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m14.863s
+user	0m5.759s
+sys	0m0.815s

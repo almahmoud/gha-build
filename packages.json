@@ -21404,7 +21404,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "R2jags",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -43554,7 +43553,6 @@
         "HiLDA",
         "IRanges",
         "KEGGREST",
-        "R2jags",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -57016,7 +57014,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "R2jags": [],
     "servr": [
         "httpuv"
     ],
