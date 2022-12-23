@@ -19481,7 +19481,6 @@
         "nloptr",
         "purrr",
         "rematch2",
-        "scam",
         "scuttle",
         "sf",
         "spatstat.explore",
@@ -37001,7 +37000,6 @@
         "nloptr",
         "purrr",
         "rematch2",
-        "scam",
         "scuttle",
         "sf",
         "spatstat.explore",
@@ -45744,7 +45742,6 @@
         "shiny",
         "stringr"
     ],
-    "scam": [],
     "LogicReg": [],
     "reldist": [
         "StanHeaders",
