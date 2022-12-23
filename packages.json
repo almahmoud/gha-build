@@ -3175,7 +3175,6 @@
         "ShortRead",
         "chipseq"
     ],
-    "coRdon": [],
     "CoreGx": [
         "DT",
         "MultiAssayExperiment",
