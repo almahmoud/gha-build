@@ -7696,7 +7696,6 @@
         "rmarkdown",
         "rtracklayer",
         "sass",
-        "sparsesvd",
         "stringr",
         "tibble",
         "tidyr",
@@ -8033,7 +8032,6 @@
         "mzID",
         "pillar",
         "qlcMatrix",
-        "sparsesvd",
         "tibble",
         "vsn",
         "xcms"
@@ -28802,7 +28800,6 @@
         "pillar",
         "qlcMatrix",
         "reshape2",
-        "sparsesvd",
         "stringr",
         "tibble",
         "tidyselect",
@@ -49632,7 +49629,6 @@
         "pillar",
         "qlcMatrix",
         "reshape2",
-        "sparsesvd",
         "stringr",
         "tibble",
         "tidyselect",
@@ -54362,10 +54358,7 @@
     ],
     "DDRTree": [],
     "leidenbase": [],
-    "qlcMatrix": [
-        "sparsesvd"
-    ],
-    "sparsesvd": [],
+    "qlcMatrix": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
