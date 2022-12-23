@@ -301,7 +301,6 @@
     "ADImpute": [
         "BiocParallel",
         "DelayedArray",
-        "DrImpute",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -25682,7 +25681,6 @@
         "DataVisualizations",
         "DelayedArray",
         "DelayedMatrixStats",
-        "DrImpute",
         "GO.db",
         "GOSemSim",
         "GenomeInfoDb",
@@ -58879,7 +58877,6 @@
         "tidyselect"
     ],
     "xts": [],
-    "DrImpute": [],
     "rsvd": [],
     "SAVER": [
         "RcppEigen",
