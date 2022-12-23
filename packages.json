@@ -1540,7 +1540,6 @@
     ],
     "CircSeqAlignTk": [
         "GenomicFeatures",
-        "Rbowtie2",
         "Rhisat2",
         "SGSeq",
         "ShortRead",
@@ -3109,7 +3108,6 @@
         "GOSemSim",
         "GenomicFeatures",
         "HDO.db",
-        "Rbowtie2",
         "ShortRead",
         "TFBSTools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -7449,7 +7447,6 @@
         "ShortRead",
         "dada2"
     ],
-    "Rbowtie2": [],
     "Rcade": [
         "rgl"
     ],
@@ -9759,7 +9756,6 @@
         "BSgenome",
         "DESeq2",
         "GenomicFeatures",
-        "Rbowtie2",
         "ShortRead",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
