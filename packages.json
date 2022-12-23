@@ -61271,7 +61271,6 @@
     ],
     "GRridge": [
         "BiocGenerics",
-        "Iso",
         "Matrix",
         "Rcpp",
         "RcppArmadillo",
@@ -175252,7 +175251,6 @@
         "lattice",
         "survival"
     ],
-    "Iso": [],
     "fGarch": [
         "MASS",
         "Matrix",
