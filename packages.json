@@ -347,7 +347,6 @@
         "org.Mm.eg.db",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform",
         "topGO"
     ],
@@ -792,7 +791,6 @@
         "phyloseq",
         "plotly",
         "scater",
-        "scattermore",
         "sctransform",
         "scuttle",
         "testthat",
@@ -1611,7 +1609,6 @@
         "patchwork",
         "plotly",
         "scater",
-        "scattermore",
         "sctransform",
         "scuttle",
         "viridis"
@@ -3066,8 +3063,7 @@
         "viridis"
     ],
     "dearseq": [
-        "patchwork",
-        "scattermore"
+        "patchwork"
     ],
     "debCAM": [
         "DMwR2"
@@ -3422,7 +3418,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "scran",
         "sctransform",
         "scuttle"
@@ -5961,7 +5956,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "InPAS": [
@@ -6146,7 +6140,6 @@
         "plotly",
         "rstatix",
         "scater",
-        "scattermore",
         "scatterpie",
         "scran",
         "sctransform",
@@ -8458,7 +8451,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "nempi": [
@@ -9401,7 +9393,6 @@
         "patchwork",
         "plotly",
         "scater",
-        "scattermore",
         "scran",
         "sctransform",
         "scuttle",
@@ -11063,7 +11054,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "SCAN.UPC": [
@@ -11108,7 +11098,6 @@
         "patchwork",
         "plotly",
         "recipes",
-        "scattermore",
         "sctransform"
     ],
     "SCANVIS": [
@@ -11146,7 +11135,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform",
         "zinbwave"
     ],
@@ -11157,7 +11145,6 @@
         "ggtree",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform",
         "tidytree",
         "treeio"
@@ -11169,7 +11156,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform",
         "scuttle"
     ],
@@ -11200,7 +11186,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "scDblFinder": [
@@ -11252,7 +11237,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "scHOT": [
@@ -11268,7 +11252,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "scmap": [
@@ -11450,7 +11433,6 @@
         "patchwork",
         "plotly",
         "reactome.db",
-        "scattermore",
         "scatterpie",
         "schex",
         "sctransform",
@@ -11474,7 +11456,6 @@
         "nnTensor",
         "patchwork",
         "plotly",
-        "scattermore",
         "schex",
         "sctransform",
         "viridis"
@@ -11501,7 +11482,6 @@
         "plotly",
         "rtracklayer",
         "scater",
-        "scattermore",
         "scran",
         "sctransform",
         "scuttle",
@@ -11902,7 +11882,6 @@
         "scMerge",
         "scRNAseq",
         "scater",
-        "scattermore",
         "scds",
         "scran",
         "sctransform",
@@ -12074,7 +12053,6 @@
         "patchwork",
         "plotly",
         "scater",
-        "scattermore",
         "scran",
         "sctransform",
         "scuttle",
@@ -12321,7 +12299,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform",
         "scuttle",
         "viridis"
@@ -12469,7 +12446,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform",
         "scuttle"
     ],
@@ -13177,7 +13153,6 @@
         "ggrastr",
         "ggrepel",
         "scater",
-        "scattermore",
         "scuttle",
         "viridis"
     ],
@@ -13855,7 +13830,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "org.Hs.eg.db": [
@@ -13865,7 +13839,6 @@
         "AnnotationDbi"
     ],
     "patchwork": [],
-    "scattermore": [],
     "sctransform": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
@@ -15100,7 +15073,6 @@
         "ggrepel",
         "patchwork",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "scRNAseq": [
