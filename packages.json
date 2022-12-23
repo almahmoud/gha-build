@@ -25495,7 +25495,6 @@
         "vctrs",
         "viridis"
     ],
-    "MiChip": [],
     "microbiome": [
         "Biostrings",
         "GenomeInfoDb",
