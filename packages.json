@@ -282,7 +282,6 @@
         "lumi",
         "wateRmelon"
     ],
-    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
         "ggpubr"
