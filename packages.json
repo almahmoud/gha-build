@@ -375,7 +375,6 @@
     "ALDEx2": [
         "DelayedArray",
         "GenomicRanges",
-        "NADA",
         "SummarizedExperiment",
         "XVector",
         "multtest",
@@ -1994,7 +1993,6 @@
         "KEGGREST",
         "MAST",
         "MultiAssayExperiment",
-        "NADA",
         "RSQLite",
         "ScaledMatrix",
         "Seurat",
@@ -18093,7 +18091,6 @@
         "Hmisc",
         "KEGGREST",
         "MultiAssayExperiment",
-        "NADA",
         "RSQLite",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -21375,7 +21372,6 @@
         "DT",
         "DelayedArray",
         "GenomicRanges",
-        "NADA",
         "SummarizedExperiment",
         "XVector",
         "bslib",
@@ -34193,10 +34189,7 @@
         "ggplot2",
         "tibble"
     ],
-    "zCompositions": [
-        "NADA"
-    ],
-    "NADA": [],
+    "zCompositions": [],
     "shinydashboard": [
         "bslib",
         "shiny"
