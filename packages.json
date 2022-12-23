@@ -998,7 +998,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "monocle",
         "rtracklayer"
     ],
     "CIMICE": [],
@@ -3853,7 +3852,6 @@
         "TFBSTools",
         "rtracklayer"
     ],
-    "monocle": [],
     "MoonlightR": [
         "DOSE",
         "GOSemSim",
@@ -6485,9 +6483,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "uSORT": [
-        "monocle"
-    ],
+    "uSORT": [],
     "VAExprs": [
         "DeepPINCS",
         "DiagrammeR",
