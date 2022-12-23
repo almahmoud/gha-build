@@ -47,7 +47,6 @@
         "biovizBase"
     ],
     "ATACCoGAPS": [
-        "Mus.musculus",
         "chromVAR",
         "rGREAT"
     ],
@@ -90,7 +89,6 @@
     "biovizBase": [],
     "biscuiteer": [
         "CGHcall",
-        "Mus.musculus",
         "QDNAseq",
         "dmrseq"
     ],
@@ -1444,7 +1442,6 @@
     "MafDb.1Kgenomes.phase3.hs37d5": [],
     "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
-    "Mus.musculus": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi"
     ],
