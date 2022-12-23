@@ -706,7 +706,6 @@
         "sva",
         "viridis"
     ],
-    "BioNet": [],
     "BioNetStat": [
         "Hmisc",
         "org.Hs.eg.db",
@@ -7668,7 +7667,6 @@
         "TrajectoryUtils"
     ],
     "SMITE": [
-        "BioNet",
         "GO.db",
         "GenomicFeatures",
         "Hmisc",
