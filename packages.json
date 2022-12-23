@@ -2517,7 +2517,6 @@
         "genefilter",
         "geneplotter"
     ],
-    "DIAlignR": [],
     "DiffBind": [
         "BSgenome",
         "DESeq2",
