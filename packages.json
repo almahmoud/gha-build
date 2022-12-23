@@ -3400,7 +3400,6 @@
         "BSgenome",
         "bsseq"
     ],
-    "NanoStringQCPro": [],
     "nanotatoR": [
         "tidyverse"
     ],
