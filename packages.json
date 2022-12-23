@@ -6808,7 +6808,6 @@
         "GSEABase",
         "HDO.db",
         "Hmisc",
-        "MetBrewer",
         "ReactomePA",
         "SOMbrero",
         "SPONGE",
@@ -6860,7 +6859,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "MetBrewer",
         "ReactomePA",
         "SPONGE",
         "aplot",
@@ -10970,7 +10968,6 @@
     ],
     "SPONGE": [
         "BiocFileCache",
-        "MetBrewer",
         "biomaRt",
         "broom",
         "car",
@@ -13203,7 +13200,6 @@
         "recipes",
         "testthat"
     ],
-    "MetBrewer": [],
     "groupdata2": [],
     "echarts4r": [
         "broom"
