@@ -12637,7 +12637,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "dplyr",
-        "rols",
         "struct",
         "tidyr"
     ],
@@ -19756,7 +19755,6 @@
         "qvalue",
         "reshape2"
     ],
-    "rols": [],
     "ROntoTools": [
         "Biostrings",
         "KEGGREST"
@@ -22781,8 +22779,7 @@
         "sqldf"
     ],
     "struct": [
-        "SummarizedExperiment",
-        "rols"
+        "SummarizedExperiment"
     ],
     "Structstrings": [
         "Biostrings"
@@ -22791,7 +22788,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "ggthemes",
-        "rols",
         "struct"
     ],
     "StructuralVariantAnnotation": [
