@@ -1421,7 +1421,6 @@
         "SingleCellExperiment",
         "batchelor",
         "colourpicker",
-        "gggenes",
         "ggrastr",
         "kableExtra",
         "plotly",
@@ -10028,7 +10027,6 @@
     ],
     "shinydashboardPlus": [],
     "kableExtra": [],
-    "gggenes": [],
     "qs": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
