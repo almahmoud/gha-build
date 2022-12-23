@@ -3459,7 +3459,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "MsExperiment": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
