@@ -2960,7 +2960,6 @@
         "DiagrammeR",
         "lexicon",
         "rcdk",
-        "syuzhet",
         "textclean",
         "textstem",
         "ttgsea",
@@ -4297,7 +4296,6 @@
         "fgsea",
         "ggraph",
         "lexicon",
-        "syuzhet",
         "textclean",
         "tidygraph",
         "viridis"
@@ -4690,7 +4688,6 @@
         "DiagrammeR",
         "lexicon",
         "rcdk",
-        "syuzhet",
         "textclean",
         "textstem",
         "ttgsea",
@@ -12151,7 +12148,6 @@
     "ttgsea": [
         "DiagrammeR",
         "lexicon",
-        "syuzhet",
         "textclean",
         "textstem",
         "viridis",
@@ -12289,7 +12285,6 @@
         "rcdk",
         "scater",
         "scuttle",
-        "syuzhet",
         "textclean",
         "textstem",
         "ttgsea",
@@ -12434,7 +12429,6 @@
         "msigdb",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "syuzhet",
         "textclean",
         "textstem",
         "tidygraph",
@@ -13308,17 +13302,12 @@
     "rcdk": [],
     "textstem": [
         "lexicon",
-        "syuzhet",
         "textclean"
     ],
-    "lexicon": [
-        "syuzhet"
-    ],
+    "lexicon": [],
     "textclean": [
-        "lexicon",
-        "syuzhet"
+        "lexicon"
     ],
-    "syuzhet": [],
     "VIM": [
         "car",
         "lme4",
