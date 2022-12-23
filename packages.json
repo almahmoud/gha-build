@@ -51280,7 +51280,6 @@
         "rtracklayer",
         "scales",
         "snow",
-        "sonicLength",
         "tibble",
         "tidyselect",
         "utf8",
@@ -138357,7 +138356,6 @@
         "promises",
         "rlang"
     ],
-    "sonicLength": [],
     "protr": [],
     "MCL": [
         "Matrix",
