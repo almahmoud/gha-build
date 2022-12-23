@@ -3313,8 +3313,7 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "shinyHeatmaply",
-        "shinybusy"
+        "shinyHeatmaply"
     ],
     "GEOmetadb": [],
     "GeomxTools": [
@@ -3979,8 +3978,7 @@
     ],
     "ISAnalytics": [
         "datamods",
-        "rio",
-        "shinybusy"
+        "rio"
     ],
     "iSEE": [
         "colourpicker"
@@ -5244,8 +5242,7 @@
         "MSstatsTMT",
         "lme4",
         "lmerTest",
-        "nloptr",
-        "shinybusy"
+        "nloptr"
     ],
     "MSstatsTMT": [
         "MSstats",
@@ -5365,7 +5362,6 @@
         "pbkrtest",
         "rstatix",
         "rtracklayer",
-        "shinybusy",
         "sortable"
     ],
     "MutationalPatterns": [
@@ -5694,7 +5690,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "shinybusy",
         "survminer"
     ],
     "oncomix": [],
@@ -9264,7 +9259,6 @@
         "dendextend",
         "heatmaply"
     ],
-    "shinybusy": [],
     "ggalt": [],
     "HH": [
         "Hmisc"
@@ -9281,8 +9275,7 @@
         "rtracklayer"
     ],
     "datamods": [
-        "rio",
-        "shinybusy"
+        "rio"
     ],
     "pd.mapping50k.xba240": [
         "oligo",
