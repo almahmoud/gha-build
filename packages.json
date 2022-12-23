@@ -5739,7 +5739,6 @@
         "ExperimentHub",
         "GenomicFeatures",
         "RLHub",
-        "caretEnsemble",
         "regioneR",
         "rtracklayer",
         "valr"
@@ -7933,7 +7932,6 @@
     "valr": [
         "rtracklayer"
     ],
-    "caretEnsemble": [],
     "RLHub": [
         "ExperimentHub"
     ],
