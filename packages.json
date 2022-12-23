@@ -443,7 +443,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "pbkrtest",
         "radiant.data",
         "viridis"
@@ -699,8 +698,7 @@
     "cardelino": [
         "BSgenome",
         "GenomicFeatures",
-        "VariantAnnotation",
-        "ggtree"
+        "VariantAnnotation"
     ],
     "casper": [
         "GenomicFeatures"
@@ -789,7 +787,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "censcyt": [
@@ -819,7 +816,6 @@
         "geneplotter",
         "ggpubr",
         "ggraph",
-        "ggtree",
         "pbkrtest",
         "rstatix",
         "viridis"
@@ -943,7 +939,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "chipseq": [],
@@ -1040,7 +1035,6 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "cmapR": [
@@ -1105,9 +1099,7 @@
         "rhdf5"
     ],
     "cogena": [],
-    "cogeqc": [
-        "ggtree"
-    ],
+    "cogeqc": [],
     "Cogito": [
         "GenomicFeatures",
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
@@ -1169,7 +1161,6 @@
         "factoextra",
         "ggpubr",
         "ggraph",
-        "ggtree",
         "pbkrtest",
         "rstatix",
         "scater",
@@ -1495,7 +1486,6 @@
         "genefilter",
         "geneplotter",
         "ggraph",
-        "ggtree",
         "heatmaply",
         "pathview",
         "sva",
@@ -1797,7 +1787,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "easyRNASeq": [],
@@ -1820,7 +1809,6 @@
         "enrichplot",
         "geneplotter",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "EGSEA": [
@@ -1872,7 +1860,6 @@
     "enrichplot": [
         "DOSE",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "enrichTF": [
@@ -1885,7 +1872,6 @@
         "enrichplot",
         "ggpubr",
         "ggraph",
-        "ggtree",
         "motifmatchr",
         "pbkrtest",
         "pipeFrame",
@@ -1917,7 +1903,6 @@
         "geneplotter",
         "genomation",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "epidecodeR": [
@@ -1943,7 +1928,6 @@
         "WGCNA",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "EpiMix": [
@@ -2034,7 +2018,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "motifmatchr",
         "pipeFrame",
         "viridis"
@@ -2056,7 +2039,6 @@
         "car",
         "ewceData",
         "ggpubr",
-        "ggtree",
         "orthogene",
         "pbkrtest",
         "rstatix"
@@ -2108,7 +2090,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "farms": [
@@ -2129,7 +2110,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "fcScan": [
@@ -2310,7 +2290,6 @@
         "geneplotter",
         "ggpubr",
         "ggraph",
-        "ggtree",
         "pathview",
         "pbkrtest",
         "rstatix",
@@ -2474,22 +2453,15 @@
         "ensembldb",
         "viridis"
     ],
-    "ggmsa": [
-        "ggtree"
-    ],
+    "ggmsa": [],
     "ggspavis": [
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
         "rhdf5"
     ],
-    "ggtree": [],
-    "ggtreeDendro": [
-        "ggtree"
-    ],
-    "ggtreeExtra": [
-        "ggtree"
-    ],
+    "ggtreeDendro": [],
+    "ggtreeExtra": [],
     "girafe": [],
     "GISPA": [
         "GSEABase",
@@ -2555,7 +2527,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "GOstats": [
@@ -2914,7 +2885,6 @@
         "gamlss",
         "ggpubr",
         "ggraph",
-        "ggtree",
         "pbkrtest",
         "rstatix",
         "scater",
@@ -3022,9 +2992,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "LinTInd": [
-        "ggtree"
-    ],
+    "LinTInd": [],
     "lipidr": [],
     "lisaClust": [
         "DropletUtils",
@@ -3075,9 +3043,7 @@
         "minfi",
         "rhdf5"
     ],
-    "LymphoSeq": [
-        "ggtree"
-    ],
+    "LymphoSeq": [],
     "M3Drop": [
         "Hmisc",
         "viridis"
@@ -3134,7 +3100,6 @@
         "depmap",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "pathview",
         "viridis"
     ],
@@ -3274,7 +3239,6 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "meshr": [
@@ -3327,7 +3291,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "metapone": [
@@ -3442,7 +3405,6 @@
         "enrichplot",
         "genefilter",
         "ggraph",
-        "ggtree",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -3499,7 +3461,6 @@
     "miaViz": [
         "TreeSummarizedExperiment",
         "ggraph",
-        "ggtree",
         "mia",
         "scater",
         "viridis"
@@ -3533,7 +3494,6 @@
         "biomformat",
         "coin",
         "geneplotter",
-        "ggtree",
         "lmerTest",
         "mia",
         "phyloseq",
@@ -3546,12 +3506,10 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "MicrobiotaProcess": [
         "coin",
-        "ggtree",
         "ggtreeExtra"
     ],
     "MIGSA": [
@@ -3637,7 +3595,6 @@
         "enrichplot",
         "ggpubr",
         "ggraph",
-        "ggtree",
         "miRspongeR",
         "pbkrtest",
         "rstatix",
@@ -3653,7 +3610,6 @@
         "enrichplot",
         "ggpubr",
         "ggraph",
-        "ggtree",
         "pbkrtest",
         "rstatix",
         "viridis"
@@ -3741,7 +3697,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "Motif2Site": [
@@ -3910,7 +3865,6 @@
         "enrichplot",
         "geneplotter",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "mumosa": [
@@ -4044,7 +3998,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "netOmics": [],
@@ -4246,7 +4199,6 @@
     "orthogene": [
         "car",
         "ggpubr",
-        "ggtree",
         "pbkrtest",
         "rstatix"
     ],
@@ -4286,7 +4238,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "panp": [
@@ -4364,7 +4315,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "phantasus": [
@@ -4388,9 +4338,7 @@
         "car",
         "pbkrtest"
     ],
-    "philr": [
-        "ggtree"
-    ],
+    "philr": [],
     "PhosR": [
         "car",
         "dendextend",
@@ -4415,7 +4363,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "PING": [
@@ -4549,7 +4496,6 @@
         "chipseq",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "rGREAT",
         "soGGi",
         "viridis"
@@ -4809,7 +4755,6 @@
         "DOSE",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "reconsi": [
@@ -5142,7 +5087,6 @@
         "geneplotter",
         "ggpubr",
         "ggraph",
-        "ggtree",
         "pathview",
         "pbkrtest",
         "rstatix",
@@ -5280,8 +5224,7 @@
         "zinbwave"
     ],
     "scBubbletree": [
-        "Seurat",
-        "ggtree"
+        "Seurat"
     ],
     "scCB2": [
         "DropletUtils",
@@ -5398,7 +5341,6 @@
         "fields",
         "genefilter",
         "ggraph",
-        "ggtree",
         "heatmaply",
         "meshr",
         "nnTensor",
@@ -5434,7 +5376,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "segmentSeq": [],
@@ -5520,7 +5461,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "rhdf5",
         "viridis"
     ],
@@ -5612,7 +5552,6 @@
         "fields",
         "genefilter",
         "geneplotter",
-        "ggtree",
         "hgu95a.db",
         "rhdf5",
         "scDblFinder",
@@ -5644,9 +5583,7 @@
     "sitadela": [
         "GenomicFeatures"
     ],
-    "sitePath": [
-        "ggtree"
-    ],
+    "sitePath": [],
     "skewr": [
         "FDb.InfiniumMethylation.hg19",
         "GenomicFeatures",
@@ -5975,8 +5912,7 @@
     "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2",
-        "geneplotter",
-        "ggtree"
+        "geneplotter"
     ],
     "TADCompare": [
         "HiCcompare",
@@ -5986,9 +5922,7 @@
         "rhdf5",
         "rstatix"
     ],
-    "tanggle": [
-        "ggtree"
-    ],
+    "tanggle": [],
     "TAPseq": [
         "BSgenome",
         "GenomicFeatures"
@@ -6037,7 +5971,6 @@
         "ensembldb",
         "ggpubr",
         "ggraph",
-        "ggtree",
         "pathview",
         "pbkrtest",
         "rstatix",
@@ -6100,7 +6033,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "ggtree",
         "viridis"
     ],
     "TIN": [
@@ -6187,7 +6119,6 @@
         "car",
         "diffcyt",
         "ggpubr",
-        "ggtree",
         "pbkrtest",
         "rstatix"
     ],
