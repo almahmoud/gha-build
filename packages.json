@@ -1246,7 +1246,6 @@
     "CluMSID": [],
     "clusterExperiment": [
         "annotate",
-        "benchmarkme",
         "genefilter",
         "mbkmeans",
         "zinbwave"
@@ -1997,7 +1996,6 @@
     ],
     "DMCFB": [
         "arm",
-        "benchmarkme",
         "lme4",
         "nloptr",
         "rtracklayer"
@@ -3883,9 +3881,7 @@
         "nloptr",
         "sva"
     ],
-    "mbkmeans": [
-        "benchmarkme"
-    ],
+    "mbkmeans": [],
     "mbOmic": [
         "Hmisc",
         "WGCNA"
@@ -4912,7 +4908,6 @@
     ],
     "netSmooth": [
         "annotate",
-        "benchmarkme",
         "clusterExperiment",
         "genefilter",
         "mbkmeans",
@@ -5441,7 +5436,6 @@
     ],
     "POWSC": [],
     "ppcseq": [
-        "benchmarkme",
         "tidybayes"
     ],
     "PPInfer": [],
@@ -8132,7 +8126,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "benchmarkme": [],
     "rio": [],
     "factoextra": [
         "FactoMineR",
