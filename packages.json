@@ -2407,8 +2407,7 @@
     "fastLiquidAssociation": [
         "Hmisc",
         "LiquidAssociation",
-        "WGCNA",
-        "geepack"
+        "WGCNA"
     ],
     "FastqCleaner": [
         "ShortRead"
@@ -3489,9 +3488,7 @@
         "MultiDataSet",
         "ropls"
     ],
-    "LiquidAssociation": [
-        "geepack"
-    ],
+    "LiquidAssociation": [],
     "lisaClust": [
         "DropletUtils",
         "SpatialExperiment",
@@ -6666,7 +6663,6 @@
     "sSNAPPY": [],
     "ssPATHS": [
         "MESS",
-        "geepack",
         "ggformula",
         "labelled"
     ],
@@ -7785,7 +7781,6 @@
     ],
     "gprofiler2": [],
     "gap": [],
-    "geepack": [],
     "fda": [
         "fds"
     ],
@@ -8070,7 +8065,6 @@
     "sampSurf": [],
     "miRNAtap.db": [],
     "MESS": [
-        "geepack",
         "ggformula",
         "labelled"
     ],
