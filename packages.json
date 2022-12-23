@@ -677,9 +677,7 @@
         "rhdf5",
         "viridis"
     ],
-    "cleanUpdTSeq": [
-        "BSgenome.Drerio.UCSC.danRer7"
-    ],
+    "cleanUpdTSeq": [],
     "clipper": [
         "qpgraph"
     ],
@@ -1875,7 +1873,6 @@
         "coin"
     ],
     "InPAS": [
-        "BSgenome.Drerio.UCSC.danRer7",
         "cleanUpdTSeq"
     ],
     "INSPEcT": [
@@ -4516,7 +4513,6 @@
     "TxDb.Celegans.UCSC.ce6.ensGene": [],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
     "propr": [],
-    "BSgenome.Drerio.UCSC.danRer7": [],
     "benchmarkme": [],
     "factoextra": [
         "FactoMineR",
