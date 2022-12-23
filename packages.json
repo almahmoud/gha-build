@@ -7353,7 +7353,6 @@
         "gson",
         "scatterpie",
         "shinyWidgets",
-        "shinycustomloader",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -13443,8 +13442,7 @@
     "wpm": [
         "DT",
         "golem",
-        "shinyWidgets",
-        "shinycustomloader"
+        "shinyWidgets"
     ],
     "wppi": [
         "OmnipathR"
@@ -14573,7 +14571,6 @@
     "ggmcmc": [
         "GGally"
     ],
-    "shinycustomloader": [],
     "formattable": [],
     "HardyWeinberg": [
         "broom",
