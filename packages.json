@@ -737,7 +737,6 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "rmarkdown",
-        "rsnps",
         "rtracklayer",
         "shiny",
         "shinyjs"
@@ -26559,7 +26558,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "rsnps": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "AnnotationDbi",
         "AnnotationHub",
