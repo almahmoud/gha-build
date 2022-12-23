@@ -298,9 +298,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "canceR": [
-        "phenoTest"
-    ],
+    "canceR": [],
     "CancerInSilico": [],
     "cardelino": [
         "VariantAnnotation"
@@ -1985,7 +1983,6 @@
     ],
     "phantasus": [],
     "PharmacoGx": [],
-    "phenoTest": [],
     "PhenStat": [
         "car",
         "pbkrtest"
