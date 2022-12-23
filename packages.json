@@ -831,7 +831,6 @@
         "annotate",
         "epiNEM",
         "genefilter",
-        "mnem",
         "sva",
         "vsn"
     ],
@@ -2091,7 +2090,6 @@
         "epiNEM",
         "ggraph",
         "graphite",
-        "mnem",
         "org.Hs.eg.db",
         "tidyverse",
         "viridis"
@@ -2805,9 +2803,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "epistasisGA": [
         "Hmisc",
         "qgraph",
@@ -5298,7 +5294,6 @@
         "nloptr",
         "pbkrtest"
     ],
-    "mnem": [],
     "moanin": [
         "GO.db",
         "topGO",
@@ -5750,8 +5745,7 @@
         "Seurat"
     ],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "NetActivity": [
         "DESeq2",
