@@ -6989,7 +6989,6 @@
         "RSQLite",
         "SummarizedExperiment",
         "XVector",
-        "biganalytics",
         "dplyr",
         "frma",
         "hms",
@@ -26288,7 +26287,6 @@
         "Hmisc",
         "MCL",
         "RSpectra",
-        "biganalytics",
         "bslib",
         "ggplot2",
         "htmlTable",
@@ -51725,7 +51723,6 @@
     ],
     "mixsqp": [],
     "ChIPXpressData": [],
-    "biganalytics": [],
     "shinyhelper": [
         "bslib",
         "fontawesome",
