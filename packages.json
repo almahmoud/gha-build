@@ -2302,7 +2302,6 @@
         "genomation",
         "rtracklayer"
     ],
-    "fCI": [],
     "fcoex": [
         "DOSE",
         "GOSemSim",
