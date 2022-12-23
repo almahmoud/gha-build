@@ -20122,7 +20122,6 @@
         "tidytree",
         "treeio"
     ],
-    "GIGSEA": [],
     "girafe": [
         "BiocParallel",
         "Biostrings",
