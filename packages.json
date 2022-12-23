@@ -361,9 +361,7 @@
         "WGCNA",
         "sva"
     ],
-    "BioNetStat": [
-        "pathview"
-    ],
+    "BioNetStat": [],
     "biosigner": [],
     "BioTIP": [
         "scran"
@@ -1123,7 +1121,6 @@
         "enrichplot",
         "ggtree",
         "heatmaply",
-        "pathview",
         "sva"
     ],
     "DEComplexDisease": [
@@ -1379,8 +1376,7 @@
     ],
     "EGSEA": [
         "GSVA",
-        "PADOG",
-        "pathview"
+        "PADOG"
     ],
     "ELMER": [
         "BSgenome",
@@ -1408,9 +1404,7 @@
         "bumphunter",
         "minfi"
     ],
-    "EnrichmentBrowser": [
-        "pathview"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "ggtree"
@@ -1780,7 +1774,6 @@
         "ggpubr",
         "ggtree",
         "lme4",
-        "pathview",
         "pbkrtest",
         "rstatix",
         "survminer"
@@ -2003,8 +1996,7 @@
     "GSEABenchmarkeR": [
         "AnnotationHub",
         "EnrichmentBrowser",
-        "ExperimentHub",
-        "pathview"
+        "ExperimentHub"
     ],
     "GSEAmining": [],
     "gsean": [
@@ -2436,8 +2428,7 @@
         "clusterProfiler",
         "depmap",
         "enrichplot",
-        "ggtree",
-        "pathview"
+        "ggtree"
     ],
     "MAI": [],
     "MAIT": [
@@ -3310,7 +3301,6 @@
     "PathoStat": [
         "DESeq2"
     ],
-    "pathview": [],
     "pcaExplorer": [
         "Category",
         "DESeq2",
@@ -3923,7 +3913,6 @@
         "ggpubr",
         "ggtree",
         "lme4",
-        "pathview",
         "pbkrtest",
         "rstatix",
         "sva",
@@ -4012,9 +4001,7 @@
     "RVS": [],
     "sampleClassifier": [],
     "sangeranalyseR": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "scAlign": [
         "Seurat"
     ],
@@ -4612,7 +4599,6 @@
         "ggpubr",
         "ggtree",
         "lme4",
-        "pathview",
         "pbkrtest",
         "rstatix",
         "sesame",
@@ -4959,7 +4945,6 @@
         "EnrichmentBrowser",
         "lme4",
         "lmerTest",
-        "pathview",
         "pbkrtest",
         "variancePartition"
     ],
