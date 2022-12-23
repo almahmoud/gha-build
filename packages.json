@@ -2976,7 +2976,6 @@
     "nullranges": [],
     "NxtIRFcore": [
         "HDF5Array",
-        "NxtIRFdata",
         "fst",
         "rhdf5"
     ],
@@ -4213,7 +4212,6 @@
     ],
     "SpliceWiz": [
         "HDF5Array",
-        "NxtIRFdata",
         "dendextend",
         "fst",
         "heatmaply",
@@ -4976,7 +4974,6 @@
         "car",
         "viridis"
     ],
-    "NxtIRFdata": [],
     "fst": [],
     "diceR": [
         "klaR"
