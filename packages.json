@@ -17361,7 +17361,6 @@
         "piano",
         "recipes",
         "rematch2",
-        "reportROC",
         "reshape2",
         "rmarkdown",
         "rstatix",
@@ -28732,7 +28731,6 @@
         "keras",
         "tensorflow"
     ],
-    "reportROC": [],
     "verification": [
         "fields",
         "ggplot2",
