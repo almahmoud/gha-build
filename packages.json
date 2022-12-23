@@ -5242,9 +5242,7 @@
     "mistyR": [
         "caret"
     ],
-    "mitch": [
-        "echarts4r"
-    ],
+    "mitch": [],
     "mitoClone2": [
         "BSgenome",
         "GenomicFeatures",
@@ -9855,7 +9853,6 @@
         "lme4",
         "nloptr"
     ],
-    "echarts4r": [],
     "HiveR": [],
     "anyLib": [
         "devtools"
