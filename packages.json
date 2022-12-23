@@ -153,7 +153,6 @@
         "OrganismDbi",
         "QDNAseq",
         "annotatr",
-        "biscuiteerData",
         "dmrseq"
     ],
     "BitSeq": [],
@@ -2098,7 +2097,6 @@
         "car"
     ],
     "synaptome.db": [],
-    "biscuiteerData": [],
     "pasilla": [],
     "GenomicState": [
         "GenomicFiles",
