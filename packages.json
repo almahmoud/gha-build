@@ -4956,7 +4956,6 @@
         "svgPanZoom",
         "viridis"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "dplyr",
         "flowClust",
