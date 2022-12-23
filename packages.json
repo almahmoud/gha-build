@@ -15889,7 +15889,6 @@
         "rtracklayer",
         "scales",
         "snow",
-        "som",
         "sparseMatrixStats",
         "stringdist",
         "stringi",
@@ -22373,7 +22372,6 @@
         "pkgconfig",
         "png",
         "rlang",
-        "som",
         "stringi",
         "stringr",
         "tibble",
@@ -70991,7 +70989,6 @@
         "robustbase",
         "rpart",
         "scales",
-        "som",
         "statmod",
         "stringi",
         "stringr",
@@ -71175,7 +71172,6 @@
         "sass",
         "scales",
         "snow",
-        "som",
         "statmod",
         "stringi",
         "stringr",
@@ -83705,7 +83701,6 @@
         "robustbase",
         "rpart",
         "scales",
-        "som",
         "statmod",
         "stringi",
         "stringr",
@@ -159587,7 +159582,6 @@
     "formula.tools": [
         "operator.tools"
     ],
-    "som": [],
     "operator.tools": [],
     "BMA": [
         "DEoptimR",
@@ -168220,8 +168214,7 @@
         "pls",
         "proxy",
         "robustbase",
-        "rpart",
-        "som"
+        "rpart"
     ],
     "optparse": [
         "getopt"
