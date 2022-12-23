@@ -3664,7 +3664,6 @@
         "rtracklayer"
     ],
     "FuseSOM": [
-        "FCPS",
         "car",
         "ggpubr",
         "lme4",
@@ -11189,7 +11188,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "FCPS": [],
     "survminer": [
         "car",
         "ggpubr",
