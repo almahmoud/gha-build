@@ -21688,7 +21688,6 @@
         "shinyjs",
         "shinytoastr",
         "spsComps",
-        "spsUtil",
         "styler",
         "tidyr",
         "vroom",
@@ -26429,7 +26428,6 @@
         "viridis"
     ],
     "stars": [],
-    "spsUtil": [],
     "spsComps": [
         "shinyAce",
         "shinytoastr"
