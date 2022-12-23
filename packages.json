@@ -24794,7 +24794,6 @@
         "R.utils",
         "available",
         "aws.s3",
-        "aws.signature",
         "biocthis",
         "credentials",
         "dplyr",
@@ -45849,7 +45848,6 @@
         "VennDiagram",
         "XVector",
         "aws.s3",
-        "aws.signature",
         "biomaRt",
         "blob",
         "broom",
@@ -65763,11 +65761,9 @@
         "tidytext"
     ],
     "aws.s3": [
-        "aws.signature",
         "httr",
         "openssl"
     ],
-    "aws.signature": [],
     "reactable": [
         "bslib",
         "htmltools",
