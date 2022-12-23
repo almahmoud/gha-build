@@ -4072,7 +4072,6 @@
     "VanillaICE": [
         "BSgenome.Hsapiens.UCSC.hg18"
     ],
-    "VarCon": [],
     "VariantAnnotation": [],
     "VariantFiltering": [
         "GenomicScores",
