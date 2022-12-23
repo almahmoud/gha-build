@@ -588,7 +588,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "customCMPdb": [],
     "customProDB": [
         "VariantAnnotation"
     ],
