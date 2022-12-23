@@ -3674,7 +3674,6 @@
         "bsseq",
         "rhdf5"
     ],
-    "NanoStringQCPro": [],
     "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2"
