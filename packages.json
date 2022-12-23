@@ -10521,7 +10521,6 @@
     "pathRender": [
         "AnnotationDbi"
     ],
-    "pathVar": [],
     "pathview": [
         "AnnotationDbi",
         "org.Hs.eg.db"
