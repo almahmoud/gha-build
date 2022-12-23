@@ -3253,7 +3253,6 @@
     ],
     "recoup": [],
     "REDseq": [
-        "BSgenome.Celegans.UCSC.ce2",
         "ChIPpeakAnno"
     ],
     "RefPlus": [
@@ -4610,7 +4609,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "BSgenome.Celegans.UCSC.ce2": [],
     "Rmagic": [],
     "nnTensor": [
         "fields",
