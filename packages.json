@@ -6840,8 +6840,7 @@
         "RandomWalkRestartMH",
         "dnet",
         "gprofiler2",
-        "plotly",
-        "supraHex"
+        "plotly"
     ],
     "netresponse": [
         "BiocStyle"
@@ -7491,8 +7490,7 @@
         "caret",
         "dnet",
         "ggnetwork",
-        "recipes",
-        "supraHex"
+        "recipes"
     ],
     "piano": [
         "DT",
@@ -8059,8 +8057,7 @@
         "biomaRt"
     ],
     "RandomWalkRestartMH": [
-        "dnet",
-        "supraHex"
+        "dnet"
     ],
     "RAREsim": [
         "nloptr",
@@ -10015,7 +10012,6 @@
         "recipes",
         "rsample"
     ],
-    "supraHex": [],
     "surfaltr": [
         "biomaRt",
         "testthat"
@@ -11817,9 +11813,7 @@
         "rtracklayer"
     ],
     "mppa": [],
-    "dnet": [
-        "supraHex"
-    ],
+    "dnet": [],
     "RcmdrMisc": [
         "Hmisc",
         "car",
