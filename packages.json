@@ -4925,7 +4925,6 @@
         "htmlTable",
         "rtracklayer"
     ],
-    "interacCircos": [],
     "InteractionSet": [],
     "InteractiveComplexHeatmap": [
         "kableExtra"
