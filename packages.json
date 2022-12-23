@@ -8794,7 +8794,6 @@
     "sangeranalyseR": [
         "BiocStyle",
         "DT",
-        "excelR",
         "plotly"
     ],
     "satuRn": [],
@@ -11828,7 +11827,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "excelR": [],
     "scanMiRData": [],
     "SCATEData": [
         "AnnotationHub",
