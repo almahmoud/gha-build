@@ -27018,9 +27018,7 @@
         "tweenr",
         "viridis"
     ],
-    "PANR": [
-        "RedeR"
-    ],
+    "PANR": [],
     "PanViz": [
         "dplyr",
         "httr",
@@ -30555,7 +30553,6 @@
         "tibble",
         "tidyselect"
     ],
-    "RedeR": [],
     "RedisParam": [],
     "REDseq": [
         "AnnotationDbi",
@@ -32653,7 +32650,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "RedeR",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -32688,7 +32684,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "RTN",
-        "RedeR",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -32724,7 +32719,6 @@
         "GenomicRanges",
         "RTN",
         "RTNduals",
-        "RedeR",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -39339,7 +39333,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "RSQLite",
-        "RedeR",
         "XVector",
         "biomaRt",
         "dbplyr",
@@ -39506,9 +39499,7 @@
         "tibble",
         "viridis"
     ],
-    "TreeAndLeaf": [
-        "RedeR"
-    ],
+    "TreeAndLeaf": [],
     "treeio": [
         "dplyr",
         "purrr",
