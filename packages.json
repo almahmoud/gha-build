@@ -547,7 +547,6 @@
         "beachmat",
         "dplyr",
         "dqrng",
-        "emdbook",
         "futile.logger",
         "ggbeeswarm",
         "ggplot2",
@@ -1444,8 +1443,7 @@
         "IRanges",
         "RcppNumerical",
         "SummarizedExperiment",
-        "XVector",
-        "emdbook"
+        "XVector"
     ],
     "APL": [
         "AnnotationDbi",
@@ -7440,7 +7438,6 @@
         "chipseq",
         "dbplyr",
         "dplyr",
-        "emdbook",
         "futile.logger",
         "geneplotter",
         "ggplot2",
@@ -11926,7 +11923,6 @@
         "dendextend",
         "dplyr",
         "egg",
-        "emdbook",
         "enrichplot",
         "fgsea",
         "fontawesome",
@@ -12131,7 +12127,6 @@
         "bumphunter",
         "dbplyr",
         "dplyr",
-        "emdbook",
         "fastseg",
         "futile.logger",
         "genefilter",
@@ -13003,7 +12998,6 @@
         "blob",
         "bslib",
         "dplyr",
-        "emdbook",
         "futile.logger",
         "geneplotter",
         "ggplot2",
@@ -27000,7 +26994,6 @@
         "XVector",
         "beachmat",
         "bsseq",
-        "emdbook",
         "fastseg",
         "futile.logger",
         "ggplot2",
@@ -27040,7 +27033,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "emdbook",
         "fastseg",
         "futile.logger",
         "ggplot2",
@@ -27495,7 +27487,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "emdbook",
         "fastseg",
         "futile.logger",
         "ggplot2",
@@ -27522,7 +27513,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "emdbook",
         "fastseg",
         "futile.logger",
         "ggplot2",
@@ -43569,7 +43559,6 @@
     ],
     "scShapes": [
         "BiocParallel",
-        "emdbook",
         "futile.logger"
     ],
     "scTensor": [
@@ -48987,7 +48976,6 @@
         "blob",
         "dbplyr",
         "dplyr",
-        "emdbook",
         "futile.logger",
         "geneplotter",
         "ggplot2",
@@ -52043,7 +52031,6 @@
         "csaw",
         "dbplyr",
         "dplyr",
-        "emdbook",
         "ensembldb",
         "futile.logger",
         "geneplotter",
@@ -53212,7 +53199,6 @@
         "glmnet",
         "speedglm"
     ],
-    "emdbook": [],
     "RcppNumerical": [],
     "ggbeeswarm": [
         "ggplot2",
