@@ -1061,7 +1061,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "biocViews",
         "biomaRt",
         "bslib",
         "crosstalk",
@@ -3328,7 +3327,6 @@
         "waldo"
     ],
     "BiocCheck": [
-        "biocViews",
         "httr",
         "knitr",
         "stringr"
@@ -3478,7 +3476,6 @@
         "BiocFileCache",
         "DT",
         "RSQLite",
-        "biocViews",
         "bslib",
         "crosstalk",
         "crul",
@@ -3555,7 +3552,6 @@
         "styler",
         "usethis"
     ],
-    "biocViews": [],
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown",
@@ -7279,7 +7275,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
-        "biocViews",
         "biomaRt",
         "biovizBase",
         "bslib",
@@ -14971,7 +14966,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "biocViews",
         "biomaRt",
         "bslib",
         "crosstalk",
@@ -25212,7 +25206,6 @@
         "XVector",
         "annotate",
         "base64",
-        "biocViews",
         "biomaRt",
         "broom",
         "bslib",
@@ -27428,7 +27421,6 @@
     ],
     "monocle": [
         "DDRTree",
-        "biocViews",
         "dplyr",
         "ggplot2",
         "leidenbase",
@@ -37084,7 +37076,6 @@
         "MsFeatures",
         "SummarizedExperiment",
         "XVector",
-        "biocViews",
         "ggplot2",
         "mzID",
         "pillar",
@@ -41279,7 +41270,6 @@
         "IRanges",
         "SummarizedExperiment",
         "XVector",
-        "biocViews",
         "pheatmap"
     ],
     "SigFuge": [
@@ -47313,7 +47303,6 @@
     "uSORT": [
         "DDRTree",
         "RSpectra",
-        "biocViews",
         "dplyr",
         "ggplot2",
         "leidenbase",
@@ -53722,7 +53711,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "biocViews",
         "biomaRt",
         "bslib",
         "crosstalk",
