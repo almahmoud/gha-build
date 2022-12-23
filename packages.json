@@ -653,7 +653,6 @@
         "pRolocdata",
         "plotly",
         "recipes",
-        "threejs",
         "viridis",
         "vsn"
     ],
@@ -5435,7 +5434,6 @@
         "pcaExplorer",
         "plotly",
         "rtracklayer",
-        "threejs",
         "topGO",
         "viridis"
     ],
@@ -7154,8 +7152,7 @@
     "MLInterfaces": [
         "AnnotationDbi",
         "annotate",
-        "genefilter",
-        "threejs"
+        "genefilter"
     ],
     "MLP": [
         "AnnotationDbi"
@@ -8421,7 +8418,6 @@
         "geneplotter",
         "heatmaply",
         "plotly",
-        "threejs",
         "topGO",
         "viridis"
     ],
@@ -8918,7 +8914,6 @@
         "mixtools",
         "plotly",
         "recipes",
-        "threejs",
         "viridis",
         "vsn"
     ],
@@ -8937,7 +8932,6 @@
         "pRoloc",
         "plotly",
         "recipes",
-        "threejs",
         "viridis",
         "vsn"
     ],
@@ -10763,8 +10757,7 @@
         "AnnotationDbi",
         "MLInterfaces",
         "annotate",
-        "genefilter",
-        "threejs"
+        "genefilter"
     ],
     "sigFeature": [],
     "sights": [],
@@ -12895,7 +12888,6 @@
     "dendextend": [
         "viridis"
     ],
-    "threejs": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "GenomicAlignments",
