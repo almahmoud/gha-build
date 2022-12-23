@@ -7568,7 +7568,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "GMRP": [],
     "GNET2": [
         "DiagrammeR",
         "SummarizedExperiment",
