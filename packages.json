@@ -15976,7 +15976,6 @@
         "lambda.r",
         "lifecycle",
         "limma",
-        "locfdr",
         "locfit",
         "matrixStats",
         "mbkmeans",
@@ -29069,7 +29068,6 @@
         "class",
         "e1071",
         "lifecycle",
-        "locfdr",
         "matrixStats",
         "proxy",
         "quadprog",
@@ -37920,8 +37918,7 @@
         "viridisLite"
     ],
     "GIGSEA": [
-        "Matrix",
-        "locfdr"
+        "Matrix"
     ],
     "girafe": [
         "Biobase",
@@ -62453,7 +62450,6 @@
         "lambda.r",
         "lifecycle",
         "limma",
-        "locfdr",
         "locfit",
         "matrixStats",
         "mbkmeans",
@@ -81035,7 +81031,6 @@
         "lambda.r",
         "lifecycle",
         "limma",
-        "locfdr",
         "matrixStats",
         "mgcv",
         "munsell",
@@ -96104,7 +96099,6 @@
         "labeling",
         "lifecycle",
         "limma",
-        "locfdr",
         "matrixStats",
         "mgcv",
         "munsell",
@@ -109305,7 +109299,6 @@
         "graph",
         "igraph"
     ],
-    "locfdr": [],
     "phylobase": [
         "RNeXML",
         "ade4",
