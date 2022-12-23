@@ -773,7 +773,6 @@
         "DT"
     ],
     "BiocSet": [],
-    "BiocSklearn": [],
     "BiocStyle": [],
     "BiocWorkflowTools": [
         "BiocStyle"
