@@ -2614,7 +2614,6 @@
         "treeio",
         "viridis"
     ],
-    "EGAD": [],
     "EGSEA": [
         "GO.db",
         "GSEABase",
