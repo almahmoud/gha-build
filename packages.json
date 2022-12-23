@@ -4930,7 +4930,6 @@
         "drtmle",
         "futile.logger",
         "future.apply",
-        "gam",
         "ggdendro",
         "ggplot2",
         "ggsci",
@@ -61302,7 +61301,6 @@
         "SuperLearner",
         "cvAUC",
         "future.apply",
-        "gam",
         "gplots",
         "np",
         "quantreg",
@@ -61311,7 +61309,6 @@
     "SuperLearner": [
         "ROCR",
         "cvAUC",
-        "gam",
         "gplots"
     ],
     "np": [
@@ -61319,7 +61316,6 @@
         "quantreg",
         "survival"
     ],
-    "gam": [],
     "cvAUC": [
         "ROCR",
         "gplots"
