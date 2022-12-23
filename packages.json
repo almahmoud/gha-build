@@ -266,7 +266,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm10",
         "CNEr",
-        "CoGAPS",
         "GenomicFeatures",
         "Homo.sapiens",
         "Mus.musculus",
@@ -1230,7 +1229,6 @@
         "rtracklayer"
     ],
     "coexnet": [],
-    "CoGAPS": [],
     "cogena": [
         "devtools"
     ],
@@ -5197,9 +5195,7 @@
         "treeio"
     ],
     "progeny": [],
-    "projectR": [
-        "CoGAPS"
-    ],
+    "projectR": [],
     "pRoloc": [
         "MLInterfaces",
         "caret",
