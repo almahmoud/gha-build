@@ -576,7 +576,6 @@
     ],
     "countsimQC": [],
     "cpvSNP": [],
-    "crisprBwa": [],
     "crisprDesign": [
         "VariantAnnotation",
         "crisprScore",
