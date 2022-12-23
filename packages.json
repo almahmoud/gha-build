@@ -7816,7 +7816,6 @@
         "BiocIO",
         "BiocParallel",
         "Biostrings",
-        "DDRTree",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -29419,7 +29418,6 @@
         "vroom"
     ],
     "monocle": [
-        "DDRTree",
         "RBGL",
         "biocViews",
         "dplyr",
@@ -50764,7 +50762,6 @@
     ],
     "updateObject": [],
     "uSORT": [
-        "DDRTree",
         "RBGL",
         "RSpectra",
         "biocViews",
@@ -55687,7 +55684,6 @@
         "sass",
         "shiny"
     ],
-    "DDRTree": [],
     "leidenbase": [],
     "qlcMatrix": [],
     "propr": [],
