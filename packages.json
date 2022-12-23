@@ -467,7 +467,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "NADA",
         "SummarizedExperiment",
         "XVector",
         "multtest",
@@ -2549,7 +2548,6 @@
         "KEGGREST",
         "MAST",
         "MultiAssayExperiment",
-        "NADA",
         "ROCR",
         "RSQLite",
         "ScaledMatrix",
@@ -23204,7 +23202,6 @@
         "Hmisc",
         "KEGGREST",
         "MultiAssayExperiment",
-        "NADA",
         "RSQLite",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -27369,7 +27366,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "NADA",
         "SummarizedExperiment",
         "XVector",
         "bslib",
@@ -43844,10 +43840,7 @@
         "tibble"
     ],
     "ragg": [],
-    "zCompositions": [
-        "NADA"
-    ],
-    "NADA": [],
+    "zCompositions": [],
     "shinydashboard": [
         "bslib",
         "shiny"
