@@ -30,9 +30,7 @@
         "biovizBase"
     ],
     "AMARETTO": [],
-    "ANCOMBC": [
-        "mia"
-    ],
+    "ANCOMBC": [],
     "AneuFinder": [
         "ReorderCluster"
     ],
@@ -98,8 +96,7 @@
     "BayesSpace": [],
     "BBCAnalyzer": [],
     "benchdamic": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "bigmelon": [
         "FDb.InfiniumMethylation.hg19",
@@ -1060,16 +1057,12 @@
         "FDb.InfiniumMethylation.hg19",
         "minfi"
     ],
-    "mia": [],
-    "miaViz": [
-        "mia"
-    ],
+    "miaViz": [],
     "microbiomeExplorer": [
         "car"
     ],
     "microbiomeMarker": [
-        "ANCOMBC",
-        "mia"
+        "ANCOMBC"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
