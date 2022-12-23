@@ -1653,9 +1653,7 @@
         "viridis"
     ],
     "ISAnalytics": [],
-    "IsoformSwitchAnalyzeR": [
-        "tximeta"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "isomiRs": [],
     "ITALICS": [
         "oligo",
@@ -3650,7 +3648,6 @@
         "ensemblVEP",
         "viridis"
     ],
-    "tximeta": [],
     "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
