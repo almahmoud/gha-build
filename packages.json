@@ -29104,7 +29104,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "COSNet": [],
     "COTAN": [
         "BiocGenerics",
         "ComplexHeatmap",
