@@ -20898,7 +20898,6 @@
         "jquerylib",
         "knitr",
         "lambda.r",
-        "libcoin",
         "lifecycle",
         "limSolve",
         "lme4",
@@ -31992,7 +31991,6 @@
         "interactiveDisplayBase",
         "jquerylib",
         "knitr",
-        "libcoin",
         "lifecycle",
         "memoise",
         "multcomp",
@@ -33510,7 +33508,6 @@
         "knitr",
         "lambda.r",
         "leiden",
-        "libcoin",
         "lifecycle",
         "lmtest",
         "locfit",
@@ -35832,7 +35829,6 @@
         "XVector",
         "coin",
         "ggplot2",
-        "libcoin",
         "lifecycle",
         "mgcv",
         "multcomp",
@@ -41685,7 +41681,6 @@
         "lambda.r",
         "latticeExtra",
         "lava",
-        "libcoin",
         "lifecycle",
         "lme4",
         "lmerTest",
@@ -41878,7 +41873,6 @@
         "ggstar",
         "ggtree",
         "ggtreeExtra",
-        "libcoin",
         "lifecycle",
         "mgcv",
         "multcomp",
@@ -42551,7 +42545,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "libcoin",
         "lifecycle",
         "lmtest",
         "mboost",
@@ -52725,7 +52718,6 @@
         "knitr",
         "lambda.r",
         "latticeExtra",
-        "libcoin",
         "lifecycle",
         "memoise",
         "mgcv",
@@ -85134,12 +85126,10 @@
     ],
     "coin": [
         "TH.data",
-        "libcoin",
         "multcomp",
         "sandwich",
         "survival"
     ],
-    "libcoin": [],
     "HTMLUtils": [],
     "ELMER.data": [
         "GenomeInfoDb",
@@ -87299,25 +87289,20 @@
         "RcppEigen",
         "glmnet",
         "inum",
-        "libcoin",
         "mboost",
         "partykit",
         "survival"
     ],
     "mboost": [
         "inum",
-        "libcoin",
         "partykit",
         "survival"
     ],
     "partykit": [
         "inum",
-        "libcoin",
         "survival"
     ],
-    "inum": [
-        "libcoin"
-    ],
+    "inum": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "Biobase",
@@ -88386,7 +88371,6 @@
     "C50": [
         "Cubist",
         "inum",
-        "libcoin",
         "lifecycle",
         "partykit",
         "plyr",
