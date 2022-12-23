@@ -7849,7 +7849,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "leidenbase",
         "monocle",
         "pheatmap",
         "pillar",
@@ -29420,7 +29419,6 @@
         "biocViews",
         "dplyr",
         "ggplot2",
-        "leidenbase",
         "pheatmap",
         "pillar",
         "qlcMatrix",
@@ -50766,7 +50764,6 @@
         "dplyr",
         "ggplot2",
         "gplots",
-        "leidenbase",
         "monocle",
         "pheatmap",
         "pillar",
@@ -55682,7 +55679,6 @@
         "sass",
         "shiny"
     ],
-    "leidenbase": [],
     "qlcMatrix": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
