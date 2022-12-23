@@ -5914,7 +5914,6 @@
         "tibble",
         "topGO"
     ],
-    "CellMapper": [],
     "cellmigRation": [
         "DT",
         "FactoMineR",
