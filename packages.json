@@ -209,8 +209,7 @@
         "chromVAR",
         "motifmatchr",
         "projectR",
-        "rGREAT",
-        "tidyverse"
+        "rGREAT"
     ],
     "ATACseqQC": [
         "AnnotationHub",
@@ -1229,8 +1228,7 @@
         "rstatix"
     ],
     "dce": [
-        "epiNEM",
-        "tidyverse"
+        "epiNEM"
     ],
     "ddPCRclust": [
         "GEOmap",
@@ -2693,9 +2691,7 @@
         "pathview",
         "treeio"
     ],
-    "MAI": [
-        "tidyverse"
-    ],
+    "MAI": [],
     "MAIT": [
         "CAMERA",
         "agricolae",
@@ -2919,8 +2915,7 @@
         "methylclockData",
         "minfi",
         "pbkrtest",
-        "rstatix",
-        "tidyverse"
+        "rstatix"
     ],
     "methylGSA": [
         "DOSE",
@@ -3083,7 +3078,6 @@
         "miRspongeR",
         "pbkrtest",
         "rstatix",
-        "tidyverse",
         "treeio"
     ],
     "miRspongeR": [
@@ -3099,7 +3093,6 @@
         "lme4",
         "pbkrtest",
         "rstatix",
-        "tidyverse",
         "treeio"
     ],
     "missMethyl": [
@@ -3251,8 +3244,7 @@
         "lme4",
         "lmerTest",
         "pbkrtest",
-        "rstatix",
-        "tidyverse"
+        "rstatix"
     ],
     "MSstatsPTM": [
         "MSstats",
@@ -3390,9 +3382,7 @@
         "BSgenome",
         "bsseq"
     ],
-    "nanotatoR": [
-        "tidyverse"
-    ],
+    "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2",
         "genefilter"
@@ -4901,8 +4891,7 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "rstatix",
-        "tidyverse"
+        "rstatix"
     ],
     "SpotClean": [
         "DropletUtils",
@@ -4952,9 +4941,7 @@
     "StarBioTrek": [
         "SpidermiR"
     ],
-    "Statial": [
-        "tidyverse"
-    ],
+    "Statial": [],
     "STdeconvolve": [],
     "stJoincount": [
         "DropletUtils",
@@ -5003,8 +4990,7 @@
         "car",
         "drc",
         "lme4",
-        "pbkrtest",
-        "tidyverse"
+        "pbkrtest"
     ],
     "synlet": [
         "doBy",
@@ -5546,7 +5532,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "mGSZ": [],
-    "tidyverse": [],
     "Mus.musculus": [
         "GenomicFeatures",
         "OrganismDbi",
