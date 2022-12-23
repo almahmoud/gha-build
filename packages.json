@@ -231,7 +231,6 @@
         "Category",
         "GOstats"
     ],
-    "AUCell": [],
     "autonomics": [
         "assertive"
     ],
@@ -3625,9 +3624,7 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "affy"
     ],
-    "RcisTarget": [
-        "AUCell"
-    ],
+    "RcisTarget": [],
     "RCM": [
         "biomformat",
         "phyloseq",
