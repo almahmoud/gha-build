@@ -1734,9 +1734,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "pwrEWAS": [
-        "pwrEWAS.data"
-    ],
+    "pwrEWAS": [],
     "QDNAseq": [
         "CGHcall"
     ],
@@ -2542,7 +2540,6 @@
     "EnsDb.Rnorvegicus.v79": [
         "ensembldb"
     ],
-    "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
     "RLHub": [],
     "SCATEData": [],
