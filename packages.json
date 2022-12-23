@@ -912,7 +912,6 @@
     "netboxr": [
         "clusterProfiler"
     ],
-    "netSmooth": [],
     "netZooR": [
         "minfi",
         "quantro",
