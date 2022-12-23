@@ -2589,10 +2589,7 @@
         "pbkrtest"
     ],
     "ontoProc": [],
-    "openPrimeR": [],
-    "openPrimeRui": [
-        "openPrimeR"
-    ],
+    "openPrimeRui": [],
     "OpenStats": [
         "AICcmodavg",
         "car",
