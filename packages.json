@@ -218,7 +218,6 @@
         "synaptome.db"
     ],
     "BioNERO": [],
-    "BioNetStat": [],
     "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation",
