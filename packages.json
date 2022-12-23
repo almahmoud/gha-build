@@ -4828,7 +4828,6 @@
         "svgPanZoom",
         "tidygraph"
     ],
-    "IMMAN": [],
     "ImmuneSpaceR": [
         "dendextend",
         "heatmaply",
