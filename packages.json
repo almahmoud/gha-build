@@ -577,7 +577,6 @@
         "GSEABase",
         "annotate"
     ],
-    "BiocPkgTools": [],
     "BiocWorkflowTools": [],
     "biodb": [],
     "biodbChebi": [
