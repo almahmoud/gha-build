@@ -1174,8 +1174,7 @@
         "rtracklayer",
         "scater",
         "scran",
-        "scuttle",
-        "shinydashboardPlus"
+        "scuttle"
     ],
     "chromswitch": [
         "rtracklayer"
@@ -5575,8 +5574,7 @@
         "dendextend",
         "genefilter",
         "mixtools",
-        "pRoloc",
-        "shinydashboardPlus"
+        "pRoloc"
     ],
     "PROMISE": [
         "GSEABase",
@@ -7220,7 +7218,6 @@
         "ShortRead"
     ],
     "systemPipeShiny": [
-        "shinydashboardPlus",
         "spsComps"
     ],
     "systemPipeTools": [
@@ -8163,7 +8160,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "shinydashboardPlus": [],
     "qs": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
