@@ -8656,7 +8656,6 @@
         "shinyjs",
         "sitmo",
         "sparseMatrixStats",
-        "stringfish",
         "stringr",
         "textshaping",
         "tibble",
@@ -12226,7 +12225,6 @@
         "sass",
         "shiny",
         "shinycssloaders",
-        "stringfish",
         "stringr",
         "tibble",
         "tidyr",
@@ -62990,9 +62988,7 @@
         "tibble",
         "vctrs"
     ],
-    "qs": [
-        "stringfish"
-    ],
+    "qs": [],
     "ggfittext": [
         "ggplot2",
         "mgcv",
@@ -63000,7 +62996,6 @@
         "tibble",
         "vctrs"
     ],
-    "stringfish": [],
     "fresh": [
         "bslib",
         "fontawesome",
