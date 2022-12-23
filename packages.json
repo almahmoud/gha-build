@@ -6005,7 +6005,6 @@
         "progress",
         "purrr",
         "rmarkdown",
-        "rrcov",
         "sass",
         "scales",
         "stringr",
@@ -10199,7 +10198,6 @@
         "reshape2",
         "rmarkdown",
         "rms",
-        "rrcov",
         "sandwich",
         "sass",
         "scales",
@@ -13062,8 +13060,7 @@
         "httr",
         "openssl",
         "pillar",
-        "repr",
-        "rrcov"
+        "repr"
     ],
     "DEGreport": [
         "ALL",
@@ -17730,7 +17727,6 @@
         "pheatmap",
         "pillar",
         "rngtools",
-        "rrcov",
         "sass",
         "scales",
         "shiny",
@@ -18093,7 +18089,6 @@
     "flowBeads": [
         "flowCore",
         "knitr",
-        "rrcov",
         "stringr"
     ],
     "flowBin": [
@@ -18281,8 +18276,7 @@
         "feature",
         "flowCore",
         "ks",
-        "mgcv",
-        "rrcov"
+        "mgcv"
     ],
     "flowMerge": [
         "Rgraphviz",
@@ -18290,8 +18284,7 @@
         "flowClust",
         "flowCore",
         "ks",
-        "mgcv",
-        "rrcov"
+        "mgcv"
     ],
     "flowPloidy": [
         "MatrixModels",
@@ -18391,7 +18384,6 @@
         "ncdfFlow",
         "pillar",
         "rainbow",
-        "rrcov",
         "scales",
         "tibble",
         "tidyselect"
@@ -18435,7 +18427,6 @@
         "ncdfFlow",
         "pillar",
         "rainbow",
-        "rrcov",
         "scales",
         "tibble",
         "tidyselect"
@@ -20377,7 +20368,6 @@
         "rmarkdown",
         "robust",
         "roptim",
-        "rrcov",
         "sass",
         "scales",
         "stringr",
@@ -25138,12 +25128,10 @@
     ],
     "iterativeBMA": [
         "BMA",
-        "rrcov",
         "survival"
     ],
     "iterativeBMAsurv": [
         "BMA",
-        "rrcov",
         "survival"
     ],
     "iterClust": [],
@@ -35923,7 +35911,6 @@
         "pillar",
         "rgl",
         "rmarkdown",
-        "rrcov",
         "sass",
         "stringr",
         "tibble",
@@ -37383,7 +37370,6 @@
         "progress",
         "purrr",
         "rmarkdown",
-        "rrcov",
         "sass",
         "scales",
         "stringr",
@@ -44618,7 +44604,6 @@
         "pheatmap",
         "pillar",
         "rngtools",
-        "rrcov",
         "sass",
         "scales",
         "shiny",
@@ -50628,7 +50613,6 @@
     "statTarget": [
         "ROC",
         "knitr",
-        "rrcov",
         "stringr"
     ],
     "STdeconvolve": [
@@ -51096,7 +51080,6 @@
         "purrr",
         "quantreg",
         "rematch2",
-        "rrcov",
         "rstatix",
         "scales",
         "stringr",
@@ -58951,10 +58934,8 @@
         "stringr"
     ],
     "BMA": [
-        "rrcov",
         "survival"
     ],
-    "rrcov": [],
     "ALL": [],
     "vcfR": [
         "ape",
@@ -61085,9 +61066,7 @@
         "sass",
         "stringr"
     ],
-    "robust": [
-        "rrcov"
-    ],
+    "robust": [],
     "roptim": [],
     "maptools": [],
     "shinyHeatmaply": [
@@ -63992,7 +63971,6 @@
     "slider": [],
     "clustvarsel": [
         "BMA",
-        "rrcov",
         "survival"
     ],
     "gstat": [
