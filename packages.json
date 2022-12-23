@@ -16488,7 +16488,6 @@
         "pd.mapping50k.xba240"
     ],
     "iterativeBMA": [],
-    "iterativeBMAsurv": [],
     "IVAS": [
         "AnnotationDbi",
         "BiocFileCache",
