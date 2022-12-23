@@ -1,0 +1,1186 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   4acb24ad..c060c600  main       -> origin/main
+Updating 4acb24ad..c060c600
+Fast-forward
+ logs/run_ids/rstudio-binaries/RSpectra | 2 ++
+ logs/run_ids/rstudio-binaries/stepNorm | 2 ++
+ 2 files changed, 4 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/RSpectra
+ create mode 100644 logs/run_ids/rstudio-binaries/stepNorm
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=seriation
++ PKG=seriation
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "seriation"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 14 1959k   14  282k    0     0   297k      0  0:00:06 --:--:--  0:00:06  297k 59 1959k   59 1159k    0     0   597k      0  0:00:03  0:00:01  0:00:02  597k100 1959k  100 1959k    0     0   781k      0  0:00:02  0:00:02 --:--:--  781k
+built/
+built/built/
+built/built/foreach/
+built/built/foreach/examples/
+built/built/foreach/examples/sqlite.R
+built/built/foreach/examples/apply.R
+built/built/foreach/examples/bootpar.R
+built/built/foreach/examples/rf.R
+built/built/foreach/examples/bigmean2.R
+built/built/foreach/examples/bootseq.R
+built/built/foreach/examples/sinc2.R
+built/built/foreach/examples/cross.R
+built/built/foreach/examples/bootpar2.R
+built/built/foreach/examples/comprehensions.R
+built/built/foreach/examples/output.R
+built/built/foreach/examples/sinc.R
+built/built/foreach/examples/colMeans.R
+built/built/foreach/examples/qsort.R
+built/built/foreach/examples/matmul.R
+built/built/foreach/examples/bigmax.R
+built/built/foreach/examples/bigmean.R
+built/built/foreach/examples/isplit.R
+built/built/foreach/examples/feapply.R
+built/built/foreach/examples/tuneRF.R
+built/built/foreach/examples/for.R
+built/built/foreach/examples/pi.R
+built/built/foreach/examples/matmul2.R
+built/built/foreach/examples/germandata.txt
+built/built/foreach/NAMESPACE
+built/built/foreach/DESCRIPTION
+built/built/foreach/help/
+built/built/foreach/help/paths.rds
+built/built/foreach/help/aliases.rds
+built/built/foreach/help/foreach.rdx
+built/built/foreach/help/AnIndex
+built/built/foreach/help/foreach.rdb
+built/built/foreach/Meta/
+built/built/foreach/Meta/package.rds
+built/built/foreach/Meta/vignette.rds
+built/built/foreach/Meta/demo.rds
+built/built/foreach/Meta/features.rds
+built/built/foreach/Meta/hsearch.rds
+built/built/foreach/Meta/links.rds
+built/built/foreach/Meta/nsInfo.rds
+built/built/foreach/Meta/Rd.rds
+built/built/foreach/html/
+built/built/foreach/html/00Index.html
+built/built/foreach/html/R.css
+built/built/foreach/INDEX
+built/built/foreach/doc/
+built/built/foreach/doc/nested.Rmd
+built/built/foreach/doc/foreach.Rmd
+built/built/foreach/doc/foreach.R
+built/built/foreach/doc/nested.html
+built/built/foreach/doc/foreach.html
+built/built/foreach/doc/index.html
+built/built/foreach/doc/nested.R
+built/built/foreach/R/
+built/built/foreach/R/foreach
+built/built/foreach/R/foreach.rdx
+built/built/foreach/R/foreach.rdb
+built/built/foreach/demo/
+built/built/foreach/demo/sincSEQ.R
+built/built/foreach/NEWS.md
+built/built/codetools/
+built/built/codetools/NAMESPACE
+built/built/codetools/DESCRIPTION
+built/built/codetools/help/
+built/built/codetools/help/paths.rds
+built/built/codetools/help/codetools.rdb
+built/built/codetools/help/aliases.rds
+built/built/codetools/help/codetools.rdx
+built/built/codetools/help/AnIndex
+built/built/codetools/Meta/
+built/built/codetools/Meta/package.rds
+built/built/codetools/Meta/features.rds
+built/built/codetools/Meta/hsearch.rds
+built/built/codetools/Meta/links.rds
+built/built/codetools/Meta/nsInfo.rds
+built/built/codetools/Meta/Rd.rds
+built/built/codetools/html/
+built/built/codetools/html/00Index.html
+built/built/codetools/html/R.css
+built/built/codetools/INDEX
+built/built/codetools/R/
+built/built/codetools/R/codetools.rdb
+built/built/codetools/R/codetools.rdx
+built/built/codetools/R/codetools
+built/built/iterators/
+built/built/iterators/examples/
+built/built/iterators/examples/irecycle.R
+built/built/iterators/examples/ivector2.R
+built/built/iterators/examples/ihasNext.R
+built/built/iterators/examples/itimer.R
+built/built/iterators/examples/irep.R
+built/built/iterators/examples/ilimit.R
+built/built/iterators/examples/iseq.R
+built/built/iterators/examples/ifilter.R
+built/built/iterators/examples/ivector.R
+built/built/iterators/examples/iforever.R
+built/built/iterators/examples/ipermn.R
+built/built/iterators/NAMESPACE
+built/built/iterators/DESCRIPTION
+built/built/iterators/help/
+built/built/iterators/help/iterators.rdx
+built/built/iterators/help/paths.rds
+built/built/iterators/help/aliases.rds
+built/built/iterators/help/iterators.rdb
+built/built/iterators/help/AnIndex
+built/built/iterators/Meta/
+built/built/iterators/Meta/package.rds
+built/built/iterators/Meta/vignette.rds
+built/built/iterators/Meta/features.rds
+built/built/iterators/Meta/hsearch.rds
+built/built/iterators/Meta/links.rds
+built/built/iterators/Meta/nsInfo.rds
+built/built/iterators/Meta/Rd.rds
+built/built/iterators/unitTests/
+built/built/iterators/unitTests/runTestSuite.sh
+built/built/iterators/unitTests/recycleTest.R
+built/built/iterators/unitTests/iapplyTest.R
+built/built/iterators/unitTests/chunksizeTest.R
+built/built/iterators/unitTests/isplitTest.R
+built/built/iterators/unitTests/icountnTest.R
+built/built/iterators/unitTests/basicTest.R
+built/built/iterators/html/
+built/built/iterators/html/00Index.html
+built/built/iterators/html/R.css
+built/built/iterators/INDEX
+built/built/iterators/doc/
+built/built/iterators/doc/writing.R
+built/built/iterators/doc/iterators.pdf
+built/built/iterators/doc/writing.pdf
+built/built/iterators/doc/iterators.R
+built/built/iterators/doc/index.html
+built/built/iterators/doc/iterators.Rnw
+built/built/iterators/doc/writing.Rnw
+built/built/iterators/R/
+built/built/iterators/R/iterators.rdx
+built/built/iterators/R/iterators.rdb
+built/built/iterators/R/iterators
+built/built/iterators/NEWS.md
+built/TSP/
+built/TSP/examples/
+built/TSP/examples/d493.tsp
+built/TSP/libs/
+built/TSP/libs/TSP.so
+built/TSP/NAMESPACE
+built/TSP/DESCRIPTION
+built/TSP/help/
+built/TSP/help/paths.rds
+built/TSP/help/TSP.rdx
+built/TSP/help/aliases.rds
+built/TSP/help/TSP.rdb
+built/TSP/help/AnIndex
+built/TSP/data/
+built/TSP/data/USCA50.rda
+built/TSP/data/USCA312_GPS.rda
+built/TSP/data/USCA312.rda
+built/TSP/Meta/
+built/TSP/Meta/package.rds
+built/TSP/Meta/vignette.rds
+built/TSP/Meta/features.rds
+built/TSP/Meta/hsearch.rds
+built/TSP/Meta/links.rds
+built/TSP/Meta/nsInfo.rds
+built/TSP/Meta/Rd.rds
+built/TSP/Meta/data.rds
+built/TSP/CITATION
+built/TSP/html/
+built/TSP/html/00Index.html
+built/TSP/html/R.css
+built/TSP/INDEX
+built/TSP/doc/
+built/TSP/doc/TSP.Rnw
+built/TSP/doc/index.html
+built/TSP/doc/TSP.R
+built/TSP/doc/TSP.pdf
+built/TSP/R/
+built/TSP/R/TSP.rdx
+built/TSP/R/TSP
+built/TSP/R/TSP.rdb
+built/TSP/NEWS.md
+built/foreach/
+built/foreach/examples/
+built/foreach/examples/sqlite.R
+built/foreach/examples/apply.R
+built/foreach/examples/bootpar.R
+built/foreach/examples/rf.R
+built/foreach/examples/bigmean2.R
+built/foreach/examples/bootseq.R
+built/foreach/examples/sinc2.R
+built/foreach/examples/cross.R
+built/foreach/examples/bootpar2.R
+built/foreach/examples/comprehensions.R
+built/foreach/examples/output.R
+built/foreach/examples/sinc.R
+built/foreach/examples/colMeans.R
+built/foreach/examples/qsort.R
+built/foreach/examples/matmul.R
+built/foreach/examples/bigmax.R
+built/foreach/examples/bigmean.R
+built/foreach/examples/isplit.R
+built/foreach/examples/feapply.R
+built/foreach/examples/tuneRF.R
+built/foreach/examples/for.R
+built/foreach/examples/pi.R
+built/foreach/examples/matmul2.R
+built/foreach/examples/germandata.txt
+built/foreach/NAMESPACE
+built/foreach/DESCRIPTION
+built/foreach/help/
+built/foreach/help/paths.rds
+built/foreach/help/aliases.rds
+built/foreach/help/foreach.rdx
+built/foreach/help/AnIndex
+built/foreach/help/foreach.rdb
+built/foreach/Meta/
+built/foreach/Meta/package.rds
+built/foreach/Meta/vignette.rds
+built/foreach/Meta/demo.rds
+built/foreach/Meta/features.rds
+built/foreach/Meta/hsearch.rds
+built/foreach/Meta/links.rds
+built/foreach/Meta/nsInfo.rds
+built/foreach/Meta/Rd.rds
+built/foreach/html/
+built/foreach/html/00Index.html
+built/foreach/html/R.css
+built/foreach/INDEX
+built/foreach/doc/
+built/foreach/doc/nested.Rmd
+built/foreach/doc/foreach.Rmd
+built/foreach/doc/foreach.R
+built/foreach/doc/nested.html
+built/foreach/doc/foreach.html
+built/foreach/doc/index.html
+built/foreach/doc/nested.R
+built/foreach/R/
+built/foreach/R/foreach
+built/foreach/R/foreach.rdx
+built/foreach/R/foreach.rdb
+built/foreach/demo/
+built/foreach/demo/sincSEQ.R
+built/foreach/NEWS.md
+built/iterators/
+built/iterators/examples/
+built/iterators/examples/irecycle.R
+built/iterators/examples/ivector2.R
+built/iterators/examples/ihasNext.R
+built/iterators/examples/itimer.R
+built/iterators/examples/irep.R
+built/iterators/examples/ilimit.R
+built/iterators/examples/iseq.R
+built/iterators/examples/ifilter.R
+built/iterators/examples/ivector.R
+built/iterators/examples/iforever.R
+built/iterators/examples/ipermn.R
+built/iterators/NAMESPACE
+built/iterators/DESCRIPTION
+built/iterators/help/
+built/iterators/help/iterators.rdx
+built/iterators/help/paths.rds
+built/iterators/help/aliases.rds
+built/iterators/help/iterators.rdb
+built/iterators/help/AnIndex
+built/iterators/Meta/
+built/iterators/Meta/package.rds
+built/iterators/Meta/vignette.rds
+built/iterators/Meta/features.rds
+built/iterators/Meta/hsearch.rds
+built/iterators/Meta/links.rds
+built/iterators/Meta/nsInfo.rds
+built/iterators/Meta/Rd.rds
+built/iterators/unitTests/
+built/iterators/unitTests/runTestSuite.sh
+built/iterators/unitTests/recycleTest.R
+built/iterators/unitTests/iapplyTest.R
+built/iterators/unitTests/chunksizeTest.R
+built/iterators/unitTests/isplitTest.R
+built/iterators/unitTests/icountnTest.R
+built/iterators/unitTests/basicTest.R
+built/iterators/html/
+built/iterators/html/00Index.html
+built/iterators/html/R.css
+built/iterators/INDEX
+built/iterators/doc/
+built/iterators/doc/writing.R
+built/iterators/doc/iterators.pdf
+built/iterators/doc/writing.pdf
+built/iterators/doc/iterators.R
+built/iterators/doc/index.html
+built/iterators/doc/iterators.Rnw
+built/iterators/doc/writing.Rnw
+built/iterators/R/
+built/iterators/R/iterators.rdx
+built/iterators/R/iterators.rdb
+built/iterators/R/iterators
+built/iterators/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 74  528k   74  394k    0     0   291k      0  0:00:01  0:00:01 --:--:--  291k100  528k  100  528k    0     0   342k      0  0:00:01  0:00:01 --:--:--  342k
+built/
+built/qap/
+built/qap/qaplib/
+built/qap/qaplib/nug20.sln
+built/qap/qaplib/chr12b.dat
+built/qap/qaplib/rou20.dat
+built/qap/qaplib/lipa60b.dat
+built/qap/qaplib/nug24.sln
+built/qap/qaplib/tai35a.sln
+built/qap/qaplib/chr12a.dat
+built/qap/qaplib/nug27.sln
+built/qap/qaplib/esc32a.dat
+built/qap/qaplib/tai10b.dat
+built/qap/qaplib/rou20.sln
+built/qap/qaplib/esc32g.dat
+built/qap/qaplib/nug27.dat
+built/qap/qaplib/tho40.dat
+built/qap/qaplib/lipa80a.sln
+built/qap/qaplib/kra30b.dat
+built/qap/qaplib/lipa90a.sln
+built/qap/qaplib/lipa50a.dat
+built/qap/qaplib/tai60a.sln
+built/qap/qaplib/bur26g.sln
+built/qap/qaplib/chr22a.dat
+built/qap/qaplib/rou12.sln
+built/qap/qaplib/bur26f.sln
+built/qap/qaplib/scr20.sln
+built/qap/qaplib/chr12a.sln
+built/qap/qaplib/bur26e.dat
+built/qap/qaplib/sko100d.dat
+built/qap/qaplib/lipa80b.dat
+built/qap/qaplib/esc16a.dat
+built/qap/qaplib/esc128.dat
+built/qap/qaplib/nug18.sln
+built/qap/qaplib/scr12.dat
+built/qap/qaplib/sko100e.sln
+built/qap/qaplib/tai256c.dat
+built/qap/qaplib/esc32c.dat
+built/qap/qaplib/bur26b.dat
+built/qap/qaplib/esc16c.sln
+built/qap/qaplib/esc16g.sln
+built/qap/qaplib/esc16j.dat
+built/qap/qaplib/tai50b.sln
+built/qap/qaplib/lipa90b.sln
+built/qap/qaplib/lipa80a.dat
+built/qap/qaplib/nug22.sln
+built/qap/qaplib/nug21.sln
+built/qap/qaplib/chr18b.sln
+built/qap/qaplib/chr15a.sln
+built/qap/qaplib/nug12.sln
+built/qap/qaplib/tai25a.dat
+built/qap/qaplib/tai12a.sln
+built/qap/qaplib/sko64.dat
+built/qap/qaplib/lipa20b.sln
+built/qap/qaplib/scr15.sln
+built/qap/qaplib/wil100.sln
+built/qap/qaplib/had12.sln
+built/qap/qaplib/tai80b.dat
+built/qap/qaplib/chr20a.dat
+built/qap/qaplib/tai80b.sln
+built/qap/qaplib/ste36b.dat
+built/qap/qaplib/nug22.dat
+built/qap/qaplib/ste36b.sln
+built/qap/qaplib/bur26d.sln
+built/qap/qaplib/tai50b.dat
+built/qap/qaplib/esc16b.dat
+built/qap/qaplib/tai25b.dat
+built/qap/qaplib/tai12a.dat
+built/qap/qaplib/chr15b.dat
+built/qap/qaplib/bur26h.dat
+built/qap/qaplib/tai17a.dat
+built/qap/qaplib/sko90.sln
+built/qap/qaplib/lipa30b.sln
+built/qap/qaplib/tai10a.dat
+built/qap/qaplib/chr20a.sln
+built/qap/qaplib/sko90.dat
+built/qap/qaplib/tai60b.sln
+built/qap/qaplib/esc16h.dat
+built/qap/qaplib/tai35a.dat
+built/qap/qaplib/kra32.sln
+built/qap/qaplib/esc16a.sln
+built/qap/qaplib/ste36c.dat
+built/qap/qaplib/chr12c.dat
+built/qap/qaplib/sko42.dat
+built/qap/qaplib/chr18b.dat
+built/qap/qaplib/tai40b.dat
+built/qap/qaplib/esc32g.sln
+built/qap/qaplib/tai100a.dat
+built/qap/qaplib/bur26f.dat
+built/qap/qaplib/lipa50b.dat
+built/qap/qaplib/lipa50b.sln
+built/qap/qaplib/lipa90a.dat
+built/qap/qaplib/rou12.dat
+built/qap/qaplib/lipa20a.dat
+built/qap/qaplib/lipa40a.dat
+built/qap/qaplib/sko100b.dat
+built/qap/qaplib/nug16a.sln
+built/qap/qaplib/sko100b.sln
+built/qap/qaplib/tai40a.sln
+built/qap/qaplib/bur26c.sln
+built/qap/qaplib/tai25b.sln
+built/qap/qaplib/scr20.dat
+built/qap/qaplib/tai40b.sln
+built/qap/qaplib/tai20b.dat
+built/qap/qaplib/nug30.dat
+built/qap/qaplib/ste36a.dat
+built/qap/qaplib/chr18a.sln
+built/qap/qaplib/lipa30a.dat
+built/qap/qaplib/esc32e.sln
+built/qap/qaplib/tai35b.dat
+built/qap/qaplib/sko100a.sln
+built/qap/qaplib/had16.sln
+built/qap/qaplib/nug28.sln
+built/qap/qaplib/tai100a.sln
+built/qap/qaplib/esc32d.dat
+built/qap/qaplib/tai15a.dat
+built/qap/qaplib/nug16a.dat
+built/qap/qaplib/tai15a.sln
+built/qap/qaplib/esc16e.dat
+built/qap/qaplib/chr15b.sln
+built/qap/qaplib/tho30.dat
+built/qap/qaplib/had18.sln
+built/qap/qaplib/sko100e.dat
+built/qap/qaplib/chr25a.dat
+built/qap/qaplib/chr15c.dat
+built/qap/qaplib/nug21.dat
+built/qap/qaplib/tho150.sln
+built/qap/qaplib/tai20b.sln
+built/qap/qaplib/esc32e.dat
+built/qap/qaplib/sko56.sln
+built/qap/qaplib/sko100f.sln
+built/qap/qaplib/chr22b.dat
+built/qap/qaplib/scr15.dat
+built/qap/qaplib/tai100b.dat
+built/qap/qaplib/chr12b.sln
+built/qap/qaplib/esc16f.sln
+built/qap/qaplib/sko100d.sln
+built/qap/qaplib/tai60a.dat
+built/qap/qaplib/tai35b.sln
+built/qap/qaplib/kra30a.dat
+built/qap/qaplib/lipa20a.sln
+built/qap/qaplib/tai150b.sln
+built/qap/qaplib/lipa90b.dat
+built/qap/qaplib/nug30.sln
+built/qap/qaplib/had16.dat
+built/qap/qaplib/rou15.sln
+built/qap/qaplib/tai12b.sln
+built/qap/qaplib/lipa60b.sln
+built/qap/qaplib/wil50.dat
+built/qap/qaplib/bur26a.sln
+built/qap/qaplib/nug12.dat
+built/qap/qaplib/esc32b.dat
+built/qap/qaplib/scr12.sln
+built/qap/qaplib/lipa80b.sln
+built/qap/qaplib/esc16d.sln
+built/qap/qaplib/tai40a.dat
+built/qap/qaplib/esc32h.dat
+built/qap/qaplib/sko100a.dat
+built/qap/qaplib/tai25a.sln
+built/qap/qaplib/bur26b.sln
+built/qap/qaplib/tho30.sln
+built/qap/qaplib/sko56.dat
+built/qap/qaplib/sko100c.sln
+built/qap/qaplib/had12.dat
+built/qap/qaplib/lipa70b.sln
+built/qap/qaplib/tai15b.dat
+built/qap/qaplib/esc16j.sln
+built/qap/qaplib/chr22b.sln
+built/qap/qaplib/nug15.sln
+built/qap/qaplib/had20.dat
+built/qap/qaplib/nug20.dat
+built/qap/qaplib/nug17.sln
+built/qap/qaplib/lipa30a.sln
+built/qap/qaplib/tai80a.dat
+built/qap/qaplib/chr20b.dat
+built/qap/qaplib/esc16e.sln
+built/qap/qaplib/chr18a.dat
+built/qap/qaplib/sko81.dat
+built/qap/qaplib/rou15.dat
+built/qap/qaplib/lipa70a.sln
+built/qap/qaplib/esc16i.dat
+built/qap/qaplib/sko72.sln
+built/qap/qaplib/sko49.dat
+built/qap/qaplib/els19.sln
+built/qap/qaplib/tai17a.sln
+built/qap/qaplib/tai12b.dat
+built/qap/qaplib/ste36a.sln
+built/qap/qaplib/tai100b.sln
+built/qap/qaplib/bur26c.dat
+built/qap/qaplib/had18.dat
+built/qap/qaplib/chr20c.dat
+built/qap/qaplib/wil50.sln
+built/qap/qaplib/chr22a.sln
+built/qap/qaplib/lipa60a.dat
+built/qap/qaplib/chr20b.sln
+built/qap/qaplib/sko100c.dat
+built/qap/qaplib/esc16d.dat
+built/qap/qaplib/tai15b.sln
+built/qap/qaplib/lipa20b.dat
+built/qap/qaplib/nug17.dat
+built/qap/qaplib/tai150b.dat
+built/qap/qaplib/nug18.dat
+built/qap/qaplib/nug14.dat
+built/qap/qaplib/kra30a.sln
+built/qap/qaplib/esc16b.sln
+built/qap/qaplib/tai30a.dat
+built/qap/qaplib/bur26g.dat
+built/qap/qaplib/ste36c.sln
+built/qap/qaplib/nug14.sln
+built/qap/qaplib/sko64.sln
+built/qap/qaplib/tai20a.sln
+built/qap/qaplib/els19.dat
+built/qap/qaplib/nug24.dat
+built/qap/qaplib/tai80a.sln
+built/qap/qaplib/esc16h.sln
+built/qap/qaplib/sko72.dat
+built/qap/qaplib/esc16c.dat
+built/qap/qaplib/tai50a.dat
+built/qap/qaplib/tai64c.sln
+built/qap/qaplib/lipa40b.sln
+built/qap/qaplib/tai60b.dat
+built/qap/qaplib/kra32.dat
+built/qap/qaplib/bur26e.sln
+built/qap/qaplib/lipa30b.dat
+built/qap/qaplib/had20.sln
+built/qap/qaplib/chr20c.sln
+built/qap/qaplib/esc128.sln
+built/qap/qaplib/nug25.dat
+built/qap/qaplib/chr12c.sln
+built/qap/qaplib/sko81.sln
+built/qap/qaplib/bur26d.dat
+built/qap/qaplib/tai256c.sln
+built/qap/qaplib/tai64c.dat
+built/qap/qaplib/wil100.dat
+built/qap/qaplib/nug16b.sln
+built/qap/qaplib/tho150.dat
+built/qap/qaplib/had14.sln
+built/qap/qaplib/chr25a.sln
+built/qap/qaplib/nug25.sln
+built/qap/qaplib/tai30a.sln
+built/qap/qaplib/had14.dat
+built/qap/qaplib/lipa70a.dat
+built/qap/qaplib/lipa50a.sln
+built/qap/qaplib/kra30b.sln
+built/qap/qaplib/bur26h.sln
+built/qap/qaplib/lipa40a.sln
+built/qap/qaplib/bur26a.dat
+built/qap/qaplib/tai30b.sln
+built/qap/qaplib/esc16g.dat
+built/qap/qaplib/sko100f.dat
+built/qap/qaplib/tho40.sln
+built/qap/qaplib/sko49.sln
+built/qap/qaplib/esc64a.dat
+built/qap/qaplib/esc16f.dat
+built/qap/qaplib/nug16b.dat
+built/qap/qaplib/lipa60a.sln
+built/qap/qaplib/tai50a.sln
+built/qap/qaplib/nug15.dat
+built/qap/qaplib/esc16i.sln
+built/qap/qaplib/sko42.sln
+built/qap/qaplib/tai20a.dat
+built/qap/qaplib/chr15c.sln
+built/qap/qaplib/lipa70b.dat
+built/qap/qaplib/nug28.dat
+built/qap/qaplib/chr15a.dat
+built/qap/qaplib/tai30b.dat
+built/qap/qaplib/lipa40b.dat
+built/qap/libs/
+built/qap/libs/qap.so
+built/qap/NAMESPACE
+built/qap/DESCRIPTION
+built/qap/help/
+built/qap/help/qap.rdb
+built/qap/help/paths.rds
+built/qap/help/aliases.rds
+built/qap/help/AnIndex
+built/qap/help/qap.rdx
+built/qap/Meta/
+built/qap/Meta/package.rds
+built/qap/Meta/features.rds
+built/qap/Meta/hsearch.rds
+built/qap/Meta/links.rds
+built/qap/Meta/nsInfo.rds
+built/qap/Meta/Rd.rds
+built/qap/html/
+built/qap/html/00Index.html
+built/qap/html/R.css
+built/qap/INDEX
+built/qap/R/
+built/qap/R/qap.rdb
+built/qap/R/qap
+built/qap/R/qap.rdx
+built/qap/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 14 1024k   14  150k    0     0   198k      0  0:00:05 --:--:--  0:00:05  198k 78 1024k   78  803k    0     0   458k      0  0:00:02  0:00:01  0:00:01  458k100 1024k  100 1024k    0     0   523k      0  0:00:01  0:00:01 --:--:--  522k
+built/
+built/gclus/
+built/gclus/NAMESPACE
+built/gclus/DESCRIPTION
+built/gclus/help/
+built/gclus/help/paths.rds
+built/gclus/help/aliases.rds
+built/gclus/help/gclus.rdb
+built/gclus/help/gclus.rdx
+built/gclus/help/AnIndex
+built/gclus/data/
+built/gclus/data/ozone.RData
+built/gclus/data/wine.RData
+built/gclus/data/body.RData
+built/gclus/data/bank.RData
+built/gclus/Meta/
+built/gclus/Meta/package.rds
+built/gclus/Meta/vignette.rds
+built/gclus/Meta/features.rds
+built/gclus/Meta/hsearch.rds
+built/gclus/Meta/links.rds
+built/gclus/Meta/nsInfo.rds
+built/gclus/Meta/Rd.rds
+built/gclus/Meta/data.rds
+built/gclus/html/
+built/gclus/html/00Index.html
+built/gclus/html/R.css
+built/gclus/INDEX
+built/gclus/doc/
+built/gclus/doc/gclus.Rmd
+built/gclus/doc/gclus.R
+built/gclus/doc/index.html
+built/gclus/doc/gclus.html
+built/gclus/R/
+built/gclus/R/gclus.rdb
+built/gclus/R/gclus.rdx
+built/gclus/R/gclus
+built/cluster/
+built/cluster/libs/
+built/cluster/libs/cluster.so
+built/cluster/NAMESPACE
+built/cluster/DESCRIPTION
+built/cluster/help/
+built/cluster/help/paths.rds
+built/cluster/help/cluster.rdx
+built/cluster/help/aliases.rds
+built/cluster/help/cluster.rdb
+built/cluster/help/AnIndex
+built/cluster/data/
+built/cluster/data/Rdata.rds
+built/cluster/data/Rdata.rdb
+built/cluster/data/Rdata.rdx
+built/cluster/Meta/
+built/cluster/Meta/package.rds
+built/cluster/Meta/features.rds
+built/cluster/Meta/hsearch.rds
+built/cluster/Meta/links.rds
+built/cluster/Meta/nsInfo.rds
+built/cluster/Meta/Rd.rds
+built/cluster/Meta/data.rds
+built/cluster/NEWS.Rd
+built/cluster/test-tools.R
+built/cluster/po/
+built/cluster/po/lt/
+built/cluster/po/lt/LC_MESSAGES/
+built/cluster/po/lt/LC_MESSAGES/cluster.mo
+built/cluster/po/lt/LC_MESSAGES/R-cluster.mo
+built/cluster/po/it/
+built/cluster/po/it/LC_MESSAGES/
+built/cluster/po/it/LC_MESSAGES/cluster.mo
+built/cluster/po/it/LC_MESSAGES/R-cluster.mo
+built/cluster/po/fr/
+built/cluster/po/fr/LC_MESSAGES/
+built/cluster/po/fr/LC_MESSAGES/cluster.mo
+built/cluster/po/fr/LC_MESSAGES/R-cluster.mo
+built/cluster/po/ko/
+built/cluster/po/ko/LC_MESSAGES/
+built/cluster/po/ko/LC_MESSAGES/cluster.mo
+built/cluster/po/ko/LC_MESSAGES/R-cluster.mo
+built/cluster/po/pl/
+built/cluster/po/pl/LC_MESSAGES/
+built/cluster/po/pl/LC_MESSAGES/R-cluster.mo
+built/cluster/po/en@quot/
+built/cluster/po/en@quot/LC_MESSAGES/
+built/cluster/po/en@quot/LC_MESSAGES/cluster.mo
+built/cluster/po/en@quot/LC_MESSAGES/R-cluster.mo
+built/cluster/po/de/
+built/cluster/po/de/LC_MESSAGES/
+built/cluster/po/de/LC_MESSAGES/cluster.mo
+built/cluster/po/de/LC_MESSAGES/R-cluster.mo
+built/cluster/CITATION
+built/cluster/html/
+built/cluster/html/00Index.html
+built/cluster/html/R.css
+built/cluster/INDEX
+built/cluster/R/
+built/cluster/R/cluster.rdx
+built/cluster/R/cluster.rdb
+built/cluster/R/cluster
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  3 2570k    3 93640    0     0   118k      0  0:00:21 --:--:--  0:00:21  118k 25 2570k   25  665k    0     0   377k      0  0:00:06  0:00:01  0:00:05  377k 66 2570k   66 1701k    0     0   616k      0  0:00:04  0:00:02  0:00:02  616k100 2570k  100 2570k    0     0   766k      0  0:00:03  0:00:03 --:--:--  766k
+built/
+built/colorspace/
+built/colorspace/libs/
+built/colorspace/libs/colorspace.so
+built/colorspace/NAMESPACE
+built/colorspace/hclwizard/
+built/colorspace/hclwizard/server.R
+built/colorspace/hclwizard/www/
+built/colorspace/hclwizard/www/images/
+built/colorspace/hclwizard/www/images/pal_light_grays.png
+built/colorspace/hclwizard/www/images/pal_reds_2.png
+built/colorspace/hclwizard/www/images/pal_terrain.png
+built/colorspace/hclwizard/www/images/pal_red-yellow.png
+built/colorspace/hclwizard/www/images/pal_ylgnbu.png
+built/colorspace/hclwizard/www/images/pal_purple-blue.png
+built/colorspace/hclwizard/www/images/pal_terrain_2.png
+built/colorspace/hclwizard/www/images/pal_dark_mint.png
+built/colorspace/hclwizard/www/images/pal_burgyl.png
+built/colorspace/hclwizard/www/images/pal_oryel.png
+built/colorspace/hclwizard/www/images/pal_redor.png
+built/colorspace/hclwizard/www/images/pal_blues_3.png
+built/colorspace/hclwizard/www/images/pal_blue-red_3.png
+built/colorspace/hclwizard/www/images/pal_sunsetdark.png
+built/colorspace/hclwizard/www/images/pal_grays.png
+built/colorspace/hclwizard/www/images/pal_cold.png
+built/colorspace/hclwizard/www/images/pal_mint.png
+built/colorspace/hclwizard/www/images/pal_emrld.png
+built/colorspace/hclwizard/www/images/pal_heat.png
+built/colorspace/hclwizard/www/images/pal_purple-yellow.png
+built/colorspace/hclwizard/www/images/pal_cm.colors.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow_2.png
+built/colorspace/hclwizard/www/images/pal_inferno.png
+built/colorspace/hclwizard/www/images/pal_bugn.png
+built/colorspace/hclwizard/www/images/pal_teal.png
+built/colorspace/hclwizard/www/images/pal_heat_2.png
+built/colorspace/hclwizard/www/images/pal_reds_3.png
+built/colorspace/hclwizard/www/images/pal_ylorrd.png
+built/colorspace/hclwizard/www/images/pal_set_3.png
+built/colorspace/hclwizard/www/images/pal_burg.png
+built/colorspace/hclwizard/www/images/pal_red-blue.png
+built/colorspace/hclwizard/www/images/pal_purple-brown.png
+built/colorspace/hclwizard/www/images/pal_purples_3.png
+built/colorspace/hclwizard/www/images/pal_ag_sunset.png
+built/colorspace/hclwizard/www/images/pal_red-green.png
+built/colorspace/hclwizard/www/images/pal_cyan-magenta.png
+built/colorspace/hclwizard/www/images/pal_bpy.png
+built/colorspace/hclwizard/www/images/pal_greens_2.png
+built/colorspace/hclwizard/www/images/pal_pubu.png
+built/colorspace/hclwizard/www/images/pal_tealgrn.png
+built/colorspace/hclwizard/www/images/pal_ylorbr.png
+built/colorspace/hclwizard/www/images/pal_pinkyl.png
+built/colorspace/hclwizard/www/images/pal_greens.png
+built/colorspace/hclwizard/www/images/pal_ylgn.png
+built/colorspace/hclwizard/www/images/pal_lisbon.png
+built/colorspace/hclwizard/www/images/pal_green-yellow.png
+built/colorspace/hclwizard/www/images/pal_blues.png
+built/colorspace/hclwizard/www/images/pal_purples.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow.png
+built/colorspace/hclwizard/www/images/pal_batlow.png
+built/colorspace/hclwizard/www/images/pal_red-purple.png
+built/colorspace/hclwizard/www/images/pal_set_2.png
+built/colorspace/hclwizard/www/images/pal_ag_grnyl.png
+built/colorspace/hclwizard/www/images/pal_purple-green.png
+built/colorspace/hclwizard/www/images/pal_oranges.png
+built/colorspace/hclwizard/www/images/pal_purp.png
+built/colorspace/hclwizard/www/images/pal_green-brown.png
+built/colorspace/hclwizard/www/images/pal_oslo.png
+built/colorspace/hclwizard/www/images/pal_turku.png
+built/colorspace/hclwizard/www/images/pal_greens_3.png
+built/colorspace/hclwizard/www/images/pal_pastel_1.png
+built/colorspace/hclwizard/www/images/pal_cork.png
+built/colorspace/hclwizard/www/images/pal_dark_3.png
+built/colorspace/hclwizard/www/images/pal_rdpu.png
+built/colorspace/hclwizard/www/images/pal_brwnyl.png
+built/colorspace/hclwizard/www/images/pal_bupu.png
+built/colorspace/hclwizard/www/images/pal_purd.png
+built/colorspace/hclwizard/www/images/pal_plasma.png
+built/colorspace/hclwizard/www/images/pal_purple-orange.png
+built/colorspace/hclwizard/www/images/pal_purples_2.png
+built/colorspace/hclwizard/www/images/pal_tofino.png
+built/colorspace/hclwizard/www/images/pal_blue-red.png
+built/colorspace/hclwizard/www/images/pal_terrain.colors.png
+built/colorspace/hclwizard/www/images/pal_dynamic.png
+built/colorspace/hclwizard/www/images/pal_gnbu.png
+built/colorspace/hclwizard/www/images/pal_warm.png
+built/colorspace/hclwizard/www/images/pal_berlin.png
+built/colorspace/hclwizard/www/images/pal_pubugn.png
+built/colorspace/hclwizard/www/images/pal_lajolla.png
+built/colorspace/hclwizard/www/images/pal_heat.colors.png
+built/colorspace/hclwizard/www/images/pal_dark_2.png
+built/colorspace/hclwizard/www/images/pal_viridis.png
+built/colorspace/hclwizard/www/images/pal_magenta.png
+built/colorspace/hclwizard/www/images/pal_reds.png
+built/colorspace/hclwizard/www/images/pal_blue-red_2.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow_3.png
+built/colorspace/hclwizard/www/images/pal_hawaii.png
+built/colorspace/hclwizard/www/images/pal_tropic.png
+built/colorspace/hclwizard/www/images/pal_peach.png
+built/colorspace/hclwizard/www/images/pal_topo.colors.png
+built/colorspace/hclwizard/www/images/pal_harmonic.png
+built/colorspace/hclwizard/www/images/pal_blues_2.png
+built/colorspace/hclwizard/www/images/pal_rainbow.png
+built/colorspace/hclwizard/www/images/pal_bluyl.png
+built/colorspace/hclwizard/www/images/pal_sunset.png
+built/colorspace/hclwizard/www/images/pal_blugrn.png
+built/colorspace/hclwizard/www/images/pal_green-orange.png
+built/colorspace/hclwizard/www/images/pal_orrd.png
+built/colorspace/hclwizard/www/images/pal_purpor.png
+built/colorspace/hclwizard/www/hclwizard.css
+built/colorspace/hclwizard/www/hclwizard_darkmode.css
+built/colorspace/hclwizard/prepareStaticContent.R
+built/colorspace/hclwizard/ui.R
+built/colorspace/hclwizard/html/
+built/colorspace/hclwizard/html/python-example.html
+built/colorspace/hclwizard/html/colorplane.html
+built/colorspace/hclwizard/html/Register.html
+built/colorspace/hclwizard/html/info.html
+built/colorspace/hclwizard/html/python.html
+built/colorspace/hclwizard/html/R.html
+built/colorspace/hclwizard/html/RegisterRcode.html
+built/colorspace/hclwizard/html/GrADS.html
+built/colorspace/hclwizard/html/RReg.html
+built/colorspace/hclwizard/html/matlab.html
+built/colorspace/DESCRIPTION
+built/colorspace/help/
+built/colorspace/help/paths.rds
+built/colorspace/help/colorspace.rdb
+built/colorspace/help/aliases.rds
+built/colorspace/help/colorspace.rdx
+built/colorspace/help/AnIndex
+built/colorspace/data/
+built/colorspace/data/Rdata.rds
+built/colorspace/data/Rdata.rdb
+built/colorspace/data/Rdata.rdx
+built/colorspace/Meta/
+built/colorspace/Meta/package.rds
+built/colorspace/Meta/vignette.rds
+built/colorspace/Meta/demo.rds
+built/colorspace/Meta/features.rds
+built/colorspace/Meta/hsearch.rds
+built/colorspace/Meta/links.rds
+built/colorspace/Meta/nsInfo.rds
+built/colorspace/Meta/Rd.rds
+built/colorspace/Meta/data.rds
+built/colorspace/hclcolorpicker/
+built/colorspace/hclcolorpicker/server.R
+built/colorspace/hclcolorpicker/www/
+built/colorspace/hclcolorpicker/www/hclcolorpicker.css
+built/colorspace/hclcolorpicker/www/hclcolorpicker_darkmode.css
+built/colorspace/hclcolorpicker/prepareStaticContent.R
+built/colorspace/hclcolorpicker/ui.R
+built/colorspace/hclcolorpicker/html/
+built/colorspace/hclcolorpicker/html/info.html
+built/colorspace/LICENSE
+built/colorspace/CITATION
+built/colorspace/cvdemulator/
+built/colorspace/cvdemulator/server.R
+built/colorspace/cvdemulator/www/
+built/colorspace/cvdemulator/www/images/
+built/colorspace/cvdemulator/www/images/rainbow_tritan.png
+built/colorspace/cvdemulator/www/images/descimage.png
+built/colorspace/cvdemulator/www/images/rainbow_deutan.png
+built/colorspace/cvdemulator/www/images/rainbow_desaturate.png
+built/colorspace/cvdemulator/www/images/rainbow_orig.png
+built/colorspace/cvdemulator/www/images/rainbow_protan.png
+built/colorspace/cvdemulator/www/cvdemulator_darkmode.css
+built/colorspace/cvdemulator/www/cvdemulator.css
+built/colorspace/cvdemulator/prepareStaticContent.R
+built/colorspace/cvdemulator/ui.R
+built/colorspace/cvdemulator/html/
+built/colorspace/cvdemulator/html/appInfo.html
+built/colorspace/cvdemulator/html/info.html
+built/colorspace/html/
+built/colorspace/html/00Index.html
+built/colorspace/html/R.css
+built/colorspace/INDEX
+built/colorspace/doc/
+built/colorspace/doc/hcl-colors.Rnw
+built/colorspace/doc/colorspace.R
+built/colorspace/doc/hcl-colors.pdf
+built/colorspace/doc/index.html
+built/colorspace/doc/colorspace.html
+built/colorspace/doc/hcl-colors.R
+built/colorspace/doc/colorspace.Rmd
+built/colorspace/R/
+built/colorspace/R/colorspace.rdb
+built/colorspace/R/colorspace
+built/colorspace/R/colorspace.rdx
+built/colorspace/demo/
+built/colorspace/demo/scico.R
+built/colorspace/demo/brewer.R
+built/colorspace/demo/viridis.R
+built/colorspace/demo/carto.R
+built/colorspace/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  8 1124k    8 97920    0     0   289k      0  0:00:03 --:--:--  0:00:03  288k100 1124k  100 1124k    0     0  2555k      0 --:--:-- --:--:-- --:--:-- 2555k
+built/
+built/MASS/
+built/MASS/libs/
+built/MASS/libs/MASS.so
+built/MASS/NEWS
+built/MASS/NAMESPACE
+built/MASS/DESCRIPTION
+built/MASS/help/
+built/MASS/help/paths.rds
+built/MASS/help/MASS.rdx
+built/MASS/help/MASS.rdb
+built/MASS/help/aliases.rds
+built/MASS/help/AnIndex
+built/MASS/data/
+built/MASS/data/Rdata.rds
+built/MASS/data/Rdata.rdb
+built/MASS/data/Rdata.rdx
+built/MASS/Meta/
+built/MASS/Meta/package.rds
+built/MASS/Meta/features.rds
+built/MASS/Meta/hsearch.rds
+built/MASS/Meta/links.rds
+built/MASS/Meta/nsInfo.rds
+built/MASS/Meta/Rd.rds
+built/MASS/Meta/data.rds
+built/MASS/scripts/
+built/MASS/scripts/ch08.R
+built/MASS/scripts/ch13.R
+built/MASS/scripts/ch14.R
+built/MASS/scripts/ch11.R
+built/MASS/scripts/ch02.R
+built/MASS/scripts/ch10.R
+built/MASS/scripts/ch15.R
+built/MASS/scripts/ch05.R
+built/MASS/scripts/ch16.R
+built/MASS/scripts/ch12.R
+built/MASS/scripts/ch03.R
+built/MASS/scripts/ch01.R
+built/MASS/scripts/ch09.R
+built/MASS/scripts/ch06.R
+built/MASS/scripts/ch04.R
+built/MASS/scripts/ch07.R
+built/MASS/po/
+built/MASS/po/it/
+built/MASS/po/it/LC_MESSAGES/
+built/MASS/po/it/LC_MESSAGES/R-MASS.mo
+built/MASS/po/fr/
+built/MASS/po/fr/LC_MESSAGES/
+built/MASS/po/fr/LC_MESSAGES/R-MASS.mo
+built/MASS/po/ko/
+built/MASS/po/ko/LC_MESSAGES/
+built/MASS/po/ko/LC_MESSAGES/R-MASS.mo
+built/MASS/po/pl/
+built/MASS/po/pl/LC_MESSAGES/
+built/MASS/po/pl/LC_MESSAGES/R-MASS.mo
+built/MASS/po/en@quot/
+built/MASS/po/en@quot/LC_MESSAGES/
+built/MASS/po/en@quot/LC_MESSAGES/R-MASS.mo
+built/MASS/po/de/
+built/MASS/po/de/LC_MESSAGES/
+built/MASS/po/de/LC_MESSAGES/R-MASS.mo
+built/MASS/CITATION
+built/MASS/html/
+built/MASS/html/00Index.html
+built/MASS/html/R.css
+built/MASS/INDEX
+built/MASS/R/
+built/MASS/R/MASS.rdx
+built/MASS/R/MASS.rdb
+built/MASS/R/MASS
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  233k  100  233k    0     0   609k      0 --:--:-- --:--:-- --:--:--  610k
+built/
+built/ca/
+built/ca/NEWS
+built/ca/NAMESPACE
+built/ca/DESCRIPTION
+built/ca/help/
+built/ca/help/paths.rds
+built/ca/help/ca.rdb
+built/ca/help/ca.rdx
+built/ca/help/aliases.rds
+built/ca/help/AnIndex
+built/ca/data/
+built/ca/data/Rdata.rds
+built/ca/data/Rdata.rdb
+built/ca/data/Rdata.rdx
+built/ca/Meta/
+built/ca/Meta/package.rds
+built/ca/Meta/features.rds
+built/ca/Meta/hsearch.rds
+built/ca/Meta/links.rds
+built/ca/Meta/nsInfo.rds
+built/ca/Meta/Rd.rds
+built/ca/Meta/data.rds
+built/ca/CITATION
+built/ca/html/
+built/ca/html/00Index.html
+built/ca/html/R.css
+built/ca/INDEX
+built/ca/R/
+built/ca/R/ca.rdb
+built/ca/R/ca.rdx
+built/ca/R/ca
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0  188k    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  188k  100  188k    0     0   202k      0 --:--:-- --:--:-- --:--:--  202k
+built/
+built/registry/
+built/registry/NAMESPACE
+built/registry/DESCRIPTION
+built/registry/help/
+built/registry/help/paths.rds
+built/registry/help/registry.rdx
+built/registry/help/aliases.rds
+built/registry/help/registry.rdb
+built/registry/help/AnIndex
+built/registry/Meta/
+built/registry/Meta/package.rds
+built/registry/Meta/vignette.rds
+built/registry/Meta/demo.rds
+built/registry/Meta/features.rds
+built/registry/Meta/hsearch.rds
+built/registry/Meta/links.rds
+built/registry/Meta/nsInfo.rds
+built/registry/Meta/Rd.rds
+built/registry/html/
+built/registry/html/00Index.html
+built/registry/html/R.css
+built/registry/INDEX
+built/registry/doc/
+built/registry/doc/registry.R
+built/registry/doc/registry.Rnw
+built/registry/doc/index.html
+built/registry/doc/registry.pdf
+built/registry/R/
+built/registry/R/registry.rdx
+built/registry/R/registry
+built/registry/R/registry.rdb
+built/registry/demo/
+built/registry/demo/registry.R
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''seriation'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv ca_0.71.1_R_x86_64-pc-linux-gnu.tar.gz colorspace_2.0-3_R_x86_64-pc-linux-gnu.tar.gz foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz gclus_1.3.2_R_x86_64-pc-linux-gnu.tar.gz iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz qap_0.1-2_R_x86_64-pc-linux-gnu.tar.gz registry_0.5-1_R_x86_64-pc-linux-gnu.tar.gz seriation_1.4.0_R_x86_64-pc-linux-gnu.tar.gz TSP_1.2-1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/seriation
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'seriation'
+also installing the dependencies ‘iterators’, ‘foreach’, ‘TSP’, ‘qap’, ‘gclus’, ‘colorspace’, ‘ca’, ‘registry’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/iterators_1.0.14.tar.gz'
+Content type 'binary/octet-stream' length 345456 bytes (337 KB)
+==================================================
+downloaded 337 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/foreach_1.5.2.tar.gz'
+Content type 'binary/octet-stream' length 137791 bytes (134 KB)
+==================================================
+downloaded 134 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/TSP_1.2-1.tar.gz'
+Content type 'binary/octet-stream' length 950548 bytes (928 KB)
+==================================================
+downloaded 928 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/qap_0.1-2.tar.gz'
+Content type 'binary/octet-stream' length 469902 bytes (458 KB)
+==================================================
+downloaded 458 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gclus_1.3.2.tar.gz'
+Content type 'binary/octet-stream' length 413825 bytes (404 KB)
+==================================================
+downloaded 404 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/colorspace_2.0-3.tar.gz'
+Content type 'binary/octet-stream' length 2629793 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/ca_0.71.1.tar.gz'
+Content type 'binary/octet-stream' length 238952 bytes (233 KB)
+==================================================
+downloaded 233 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/registry_0.5-1.tar.gz'
+Content type 'binary/octet-stream' length 193730 bytes (189 KB)
+==================================================
+downloaded 189 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/seriation_1.4.0.tar.gz'
+Content type 'binary/octet-stream' length 1206453 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *binary* package ‘iterators’ ...
+* ‘iterators’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘iterators’ as ‘iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterators)
+* installing *binary* package ‘qap’ ...
+* ‘qap’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘qap’ as ‘qap_0.1-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qap)
+* installing *binary* package ‘gclus’ ...
+* ‘gclus’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gclus’ as ‘gclus_1.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gclus)
+* installing *binary* package ‘colorspace’ ...
+* ‘colorspace’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘colorspace’ as ‘colorspace_2.0-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (colorspace)
+* installing *binary* package ‘ca’ ...
+* ‘ca’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ca’ as ‘ca_0.71.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ca)
+* installing *binary* package ‘registry’ ...
+* ‘registry’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘registry’ as ‘registry_0.5-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (registry)
+* installing *binary* package ‘foreach’ ...
+* ‘foreach’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘foreach’ as ‘foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (foreach)
+* installing *binary* package ‘TSP’ ...
+* ‘TSP’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘TSP’ as ‘TSP_1.2-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TSP)
+* installing *binary* package ‘seriation’ ...
+* ‘seriation’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘seriation’ as ‘seriation_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seriation)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp84Cftf/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m30.694s
+user	0m10.272s
+sys	0m1.182s
