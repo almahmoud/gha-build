@@ -24016,7 +24016,6 @@
         "shinyjs",
         "shinytoastr",
         "spsComps",
-        "spsUtil",
         "tidyr",
         "vroom",
         "waiter"
@@ -29312,7 +29311,6 @@
         "lwgeom"
     ],
     "lwgeom": [],
-    "spsUtil": [],
     "spsComps": [
         "shiny",
         "shinyAce",
