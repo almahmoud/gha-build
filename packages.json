@@ -4385,7 +4385,6 @@
     "miRNAmeConverter": [
         "miRBaseVersions.db"
     ],
-    "miRNAtap": [],
     "miRSM": [
         "BiBitR",
         "BicARE",
@@ -6994,7 +6993,6 @@
         "scuttle"
     ],
     "SpidermiR": [
-        "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db"
     ],
@@ -7115,7 +7113,6 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db"
     ],
@@ -8570,9 +8567,7 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "miRNAtap.db": [
-        "miRNAtap"
-    ],
+    "miRNAtap.db": [],
     "MESS": [
         "geepack",
         "ggformula",
