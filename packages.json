@@ -60,8 +60,7 @@
     "BioNAR": [],
     "biscuiteer": [
         "CGHcall",
-        "QDNAseq",
-        "dmrseq"
+        "QDNAseq"
     ],
     "BitSeq": [],
     "blacksheepr": [],
@@ -250,7 +249,6 @@
     "DMRforPairs": [
         "Gviz"
     ],
-    "dmrseq": [],
     "Doscheda": [],
     "easier": [
         "ggpubr",
