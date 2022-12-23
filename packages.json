@@ -752,7 +752,6 @@
         "drc",
         "pbkrtest"
     ],
-    "dpeak": [],
     "drugTargetInteractions": [
         "ensembldb"
     ],
