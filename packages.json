@@ -212,9 +212,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [
         "Rhisat2"
     ],
@@ -604,7 +602,6 @@
     "Gviz": [
         "biovizBase"
     ],
-    "gwascat": [],
     "gwasurvivr": [],
     "HiCcompare": [
         "CGHcall",
@@ -1455,9 +1452,7 @@
     "Voyager": [
         "SpatialFeatureExperiment"
     ],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno"
     ],
