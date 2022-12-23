@@ -1098,7 +1098,6 @@
         "car",
         "lme4",
         "pbkrtest",
-        "plsVarSel",
         "sva"
     ],
     "dasper": [
@@ -1769,7 +1768,6 @@
         "car",
         "lme4",
         "pbkrtest",
-        "plsVarSel",
         "sva"
     ],
     "gcapc": [
@@ -5214,7 +5212,6 @@
     "mbest": [
         "lme4"
     ],
-    "plsVarSel": [],
     "arm": [
         "lme4"
     ],
