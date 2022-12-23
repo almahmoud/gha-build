@@ -5607,7 +5607,6 @@
         "viridis"
     ],
     "InteractionSet": [],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "AnnotationDbi",
         "Category",
