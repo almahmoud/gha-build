@@ -15812,7 +15812,6 @@
         "lifecycle",
         "locfit",
         "memoise",
-        "metaMA",
         "mgcv",
         "miniUI",
         "nlme",
@@ -84266,7 +84265,6 @@
         "here",
         "reticulate"
     ],
-    "metaMA": [],
     "reader": [],
     "shinypanel": [
         "bslib",
