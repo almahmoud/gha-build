@@ -2043,7 +2043,6 @@
         "ensembldb"
     ],
     "ggmsa": [
-        "ggalt",
         "ggtree"
     ],
     "ggspavis": [
@@ -5562,7 +5561,6 @@
     "shinyHeatmaply": [
         "heatmaply"
     ],
-    "ggalt": [],
     "HH": [],
     "HiContactsData": [
         "AnnotationHub",
