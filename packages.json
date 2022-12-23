@@ -7208,7 +7208,6 @@
         "nloptr",
         "pbkrtest",
         "pkgdown",
-        "planet",
         "profvis",
         "reprex",
         "rstatix",
@@ -9421,7 +9420,6 @@
         "rtracklayer",
         "visNetwork"
     ],
-    "planet": [],
     "PloGO2": [
         "AnnotationDbi",
         "AnnotationForge",
