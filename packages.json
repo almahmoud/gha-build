@@ -2705,7 +2705,6 @@
         "GSEABase",
         "Hmisc",
         "WGCNA",
-        "gRain",
         "genefilter",
         "org.Mm.eg.db"
     ],
@@ -5566,9 +5565,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "RVS": [
-        "gRain"
-    ],
+    "RVS": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR"
@@ -7262,7 +7259,6 @@
     "HH": [
         "Hmisc"
     ],
-    "gRain": [],
     "HiContactsData": [
         "AnnotationHub",
         "ExperimentHub"
