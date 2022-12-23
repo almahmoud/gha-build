@@ -7166,7 +7166,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "planet",
         "profvis",
         "reprex",
         "rhdf5",
@@ -9323,7 +9322,6 @@
         "rtracklayer",
         "visNetwork"
     ],
-    "planet": [],
     "plier": [
         "affy"
     ],
