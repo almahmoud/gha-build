@@ -55,10 +55,8 @@
         "qs"
     ],
     "CyTOFpower": [
-        "CytoGLMM",
         "diffcyt"
     ],
-    "CytoGLMM": [],
     "DeepPINCS": [
         "mlapi",
         "text2vec",
