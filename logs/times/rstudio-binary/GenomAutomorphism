@@ -1,0 +1,441 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   c10b3d10..fcfd3a10  main       -> origin/main
+Updating c10b3d10..fcfd3a10
+Fast-forward
+ lists/DataVisualizations                           |    2 +-
+ lists/concaveman                                   |    2 +-
+ lists/dtplyr                                       |    2 +-
+ lists/rfaRm                                        |    2 +-
+ logs/run_ids/rstudio-binaries/GENIE3               |    2 +
+ logs/run_ids/rstudio-binaries/GEOfastq             |    2 +
+ logs/run_ids/rstudio-binaries/flowSpecs            |    2 +
+ logs/run_ids/rstudio-binaries/flowTime             |    2 +
+ logs/run_ids/rstudio-binaries/gganimate            |    2 +
+ logs/run_ids/rstudio-binaries/ggdendro             |    2 +
+ logs/run_ids/rstudio-binaries/ggforce              |    2 +
+ logs/run_ids/rstudio-binaries/ggfun                |    2 +
+ .../rstudio-binaries/binaries/DataVisualizations   |    1 +
+ logs/sizes/rstudio-binaries/binaries/rfaRm         |    1 +
+ .../rstudio-binaries/libraries/DataVisualizations  |    1 +
+ logs/sizes/rstudio-binaries/libraries/rfaRm        |    1 +
+ logs/times/rstudio-binary/DataVisualizations       | 1702 ++++++++++++++++++++
+ logs/times/rstudio-binary/rfaRm                    |  980 +++++++++++
+ packages.json                                      |   34 +-
+ 19 files changed, 2708 insertions(+), 36 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/GENIE3
+ create mode 100644 logs/run_ids/rstudio-binaries/GEOfastq
+ create mode 100644 logs/run_ids/rstudio-binaries/flowSpecs
+ create mode 100644 logs/run_ids/rstudio-binaries/flowTime
+ create mode 100644 logs/run_ids/rstudio-binaries/gganimate
+ create mode 100644 logs/run_ids/rstudio-binaries/ggdendro
+ create mode 100644 logs/run_ids/rstudio-binaries/ggforce
+ create mode 100644 logs/run_ids/rstudio-binaries/ggfun
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/DataVisualizations
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/rfaRm
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/DataVisualizations
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/rfaRm
+ create mode 100644 logs/times/rstudio-binary/DataVisualizations
+ create mode 100644 logs/times/rstudio-binary/rfaRm
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=GenomAutomorphism
++ PKG=GenomAutomorphism
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "GenomAutomorphism"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency Biostrings is already found.
+Dependency BiocParallel is already found.
+Dependency GenomicRanges is already found.
+Dependency dplyr is already found.
+Dependency data.table is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 22 1215k   22  277k    0     0   325k      0  0:00:03 --:--:--  0:00:03  325k100 1215k  100 1215k    0     0   681k      0  0:00:01  0:00:01 --:--:--  681k
+built/
+built/built/
+built/built/foreach/
+built/built/foreach/examples/
+built/built/foreach/examples/sqlite.R
+built/built/foreach/examples/apply.R
+built/built/foreach/examples/bootpar.R
+built/built/foreach/examples/rf.R
+built/built/foreach/examples/bigmean2.R
+built/built/foreach/examples/bootseq.R
+built/built/foreach/examples/sinc2.R
+built/built/foreach/examples/cross.R
+built/built/foreach/examples/bootpar2.R
+built/built/foreach/examples/comprehensions.R
+built/built/foreach/examples/output.R
+built/built/foreach/examples/sinc.R
+built/built/foreach/examples/colMeans.R
+built/built/foreach/examples/qsort.R
+built/built/foreach/examples/matmul.R
+built/built/foreach/examples/bigmax.R
+built/built/foreach/examples/bigmean.R
+built/built/foreach/examples/isplit.R
+built/built/foreach/examples/feapply.R
+built/built/foreach/examples/tuneRF.R
+built/built/foreach/examples/for.R
+built/built/foreach/examples/pi.R
+built/built/foreach/examples/matmul2.R
+built/built/foreach/examples/germandata.txt
+built/built/foreach/NAMESPACE
+built/built/foreach/DESCRIPTION
+built/built/foreach/help/
+built/built/foreach/help/paths.rds
+built/built/foreach/help/aliases.rds
+built/built/foreach/help/foreach.rdx
+built/built/foreach/help/AnIndex
+built/built/foreach/help/foreach.rdb
+built/built/foreach/Meta/
+built/built/foreach/Meta/package.rds
+built/built/foreach/Meta/vignette.rds
+built/built/foreach/Meta/demo.rds
+built/built/foreach/Meta/features.rds
+built/built/foreach/Meta/hsearch.rds
+built/built/foreach/Meta/links.rds
+built/built/foreach/Meta/nsInfo.rds
+built/built/foreach/Meta/Rd.rds
+built/built/foreach/html/
+built/built/foreach/html/00Index.html
+built/built/foreach/html/R.css
+built/built/foreach/INDEX
+built/built/foreach/doc/
+built/built/foreach/doc/nested.Rmd
+built/built/foreach/doc/foreach.Rmd
+built/built/foreach/doc/foreach.R
+built/built/foreach/doc/nested.html
+built/built/foreach/doc/foreach.html
+built/built/foreach/doc/index.html
+built/built/foreach/doc/nested.R
+built/built/foreach/R/
+built/built/foreach/R/foreach
+built/built/foreach/R/foreach.rdx
+built/built/foreach/R/foreach.rdb
+built/built/foreach/demo/
+built/built/foreach/demo/sincSEQ.R
+built/built/foreach/NEWS.md
+built/built/codetools/
+built/built/codetools/NAMESPACE
+built/built/codetools/DESCRIPTION
+built/built/codetools/help/
+built/built/codetools/help/paths.rds
+built/built/codetools/help/codetools.rdb
+built/built/codetools/help/aliases.rds
+built/built/codetools/help/codetools.rdx
+built/built/codetools/help/AnIndex
+built/built/codetools/Meta/
+built/built/codetools/Meta/package.rds
+built/built/codetools/Meta/features.rds
+built/built/codetools/Meta/hsearch.rds
+built/built/codetools/Meta/links.rds
+built/built/codetools/Meta/nsInfo.rds
+built/built/codetools/Meta/Rd.rds
+built/built/codetools/html/
+built/built/codetools/html/00Index.html
+built/built/codetools/html/R.css
+built/built/codetools/INDEX
+built/built/codetools/R/
+built/built/codetools/R/codetools.rdb
+built/built/codetools/R/codetools.rdx
+built/built/codetools/R/codetools
+built/built/iterators/
+built/built/iterators/examples/
+built/built/iterators/examples/irecycle.R
+built/built/iterators/examples/ivector2.R
+built/built/iterators/examples/ihasNext.R
+built/built/iterators/examples/itimer.R
+built/built/iterators/examples/irep.R
+built/built/iterators/examples/ilimit.R
+built/built/iterators/examples/iseq.R
+built/built/iterators/examples/ifilter.R
+built/built/iterators/examples/ivector.R
+built/built/iterators/examples/iforever.R
+built/built/iterators/examples/ipermn.R
+built/built/iterators/NAMESPACE
+built/built/iterators/DESCRIPTION
+built/built/iterators/help/
+built/built/iterators/help/iterators.rdx
+built/built/iterators/help/paths.rds
+built/built/iterators/help/aliases.rds
+built/built/iterators/help/iterators.rdb
+built/built/iterators/help/AnIndex
+built/built/iterators/Meta/
+built/built/iterators/Meta/package.rds
+built/built/iterators/Meta/vignette.rds
+built/built/iterators/Meta/features.rds
+built/built/iterators/Meta/hsearch.rds
+built/built/iterators/Meta/links.rds
+built/built/iterators/Meta/nsInfo.rds
+built/built/iterators/Meta/Rd.rds
+built/built/iterators/unitTests/
+built/built/iterators/unitTests/runTestSuite.sh
+built/built/iterators/unitTests/recycleTest.R
+built/built/iterators/unitTests/iapplyTest.R
+built/built/iterators/unitTests/chunksizeTest.R
+built/built/iterators/unitTests/isplitTest.R
+built/built/iterators/unitTests/icountnTest.R
+built/built/iterators/unitTests/basicTest.R
+built/built/iterators/html/
+built/built/iterators/html/00Index.html
+built/built/iterators/html/R.css
+built/built/iterators/INDEX
+built/built/iterators/doc/
+built/built/iterators/doc/writing.R
+built/built/iterators/doc/iterators.pdf
+built/built/iterators/doc/writing.pdf
+built/built/iterators/doc/iterators.R
+built/built/iterators/doc/index.html
+built/built/iterators/doc/iterators.Rnw
+built/built/iterators/doc/writing.Rnw
+built/built/iterators/R/
+built/built/iterators/R/iterators.rdx
+built/built/iterators/R/iterators.rdb
+built/built/iterators/R/iterators
+built/built/iterators/NEWS.md
+built/foreach/
+built/foreach/examples/
+built/foreach/examples/sqlite.R
+built/foreach/examples/apply.R
+built/foreach/examples/bootpar.R
+built/foreach/examples/rf.R
+built/foreach/examples/bigmean2.R
+built/foreach/examples/bootseq.R
+built/foreach/examples/sinc2.R
+built/foreach/examples/cross.R
+built/foreach/examples/bootpar2.R
+built/foreach/examples/comprehensions.R
+built/foreach/examples/output.R
+built/foreach/examples/sinc.R
+built/foreach/examples/colMeans.R
+built/foreach/examples/qsort.R
+built/foreach/examples/matmul.R
+built/foreach/examples/bigmax.R
+built/foreach/examples/bigmean.R
+built/foreach/examples/isplit.R
+built/foreach/examples/feapply.R
+built/foreach/examples/tuneRF.R
+built/foreach/examples/for.R
+built/foreach/examples/pi.R
+built/foreach/examples/matmul2.R
+built/foreach/examples/germandata.txt
+built/foreach/NAMESPACE
+built/foreach/DESCRIPTION
+built/foreach/help/
+built/foreach/help/paths.rds
+built/foreach/help/aliases.rds
+built/foreach/help/foreach.rdx
+built/foreach/help/AnIndex
+built/foreach/help/foreach.rdb
+built/foreach/Meta/
+built/foreach/Meta/package.rds
+built/foreach/Meta/vignette.rds
+built/foreach/Meta/demo.rds
+built/foreach/Meta/features.rds
+built/foreach/Meta/hsearch.rds
+built/foreach/Meta/links.rds
+built/foreach/Meta/nsInfo.rds
+built/foreach/Meta/Rd.rds
+built/foreach/html/
+built/foreach/html/00Index.html
+built/foreach/html/R.css
+built/foreach/INDEX
+built/foreach/doc/
+built/foreach/doc/nested.Rmd
+built/foreach/doc/foreach.Rmd
+built/foreach/doc/foreach.R
+built/foreach/doc/nested.html
+built/foreach/doc/foreach.html
+built/foreach/doc/index.html
+built/foreach/doc/nested.R
+built/foreach/R/
+built/foreach/R/foreach
+built/foreach/R/foreach.rdx
+built/foreach/R/foreach.rdb
+built/foreach/demo/
+built/foreach/demo/sincSEQ.R
+built/foreach/NEWS.md
+built/iterators/
+built/iterators/examples/
+built/iterators/examples/irecycle.R
+built/iterators/examples/ivector2.R
+built/iterators/examples/ihasNext.R
+built/iterators/examples/itimer.R
+built/iterators/examples/irep.R
+built/iterators/examples/ilimit.R
+built/iterators/examples/iseq.R
+built/iterators/examples/ifilter.R
+built/iterators/examples/ivector.R
+built/iterators/examples/iforever.R
+built/iterators/examples/ipermn.R
+built/iterators/NAMESPACE
+built/iterators/DESCRIPTION
+built/iterators/help/
+built/iterators/help/iterators.rdx
+built/iterators/help/paths.rds
+built/iterators/help/aliases.rds
+built/iterators/help/iterators.rdb
+built/iterators/help/AnIndex
+built/iterators/Meta/
+built/iterators/Meta/package.rds
+built/iterators/Meta/vignette.rds
+built/iterators/Meta/features.rds
+built/iterators/Meta/hsearch.rds
+built/iterators/Meta/links.rds
+built/iterators/Meta/nsInfo.rds
+built/iterators/Meta/Rd.rds
+built/iterators/unitTests/
+built/iterators/unitTests/runTestSuite.sh
+built/iterators/unitTests/recycleTest.R
+built/iterators/unitTests/iapplyTest.R
+built/iterators/unitTests/chunksizeTest.R
+built/iterators/unitTests/isplitTest.R
+built/iterators/unitTests/icountnTest.R
+built/iterators/unitTests/basicTest.R
+built/iterators/html/
+built/iterators/html/00Index.html
+built/iterators/html/R.css
+built/iterators/INDEX
+built/iterators/doc/
+built/iterators/doc/writing.R
+built/iterators/doc/iterators.pdf
+built/iterators/doc/writing.pdf
+built/iterators/doc/iterators.R
+built/iterators/doc/index.html
+built/iterators/doc/iterators.Rnw
+built/iterators/doc/writing.Rnw
+built/iterators/R/
+built/iterators/R/iterators.rdx
+built/iterators/R/iterators.rdb
+built/iterators/R/iterators
+built/iterators/NEWS.md
+built/doParallel/
+built/doParallel/examples/
+built/doParallel/examples/bootParallel.R
+built/doParallel/NEWS
+built/doParallel/NAMESPACE
+built/doParallel/DESCRIPTION
+built/doParallel/help/
+built/doParallel/help/paths.rds
+built/doParallel/help/aliases.rds
+built/doParallel/help/doParallel.rdx
+built/doParallel/help/doParallel.rdb
+built/doParallel/help/AnIndex
+built/doParallel/Meta/
+built/doParallel/Meta/package.rds
+built/doParallel/Meta/vignette.rds
+built/doParallel/Meta/demo.rds
+built/doParallel/Meta/features.rds
+built/doParallel/Meta/hsearch.rds
+built/doParallel/Meta/links.rds
+built/doParallel/Meta/nsInfo.rds
+built/doParallel/Meta/Rd.rds
+built/doParallel/unitTests/
+built/doParallel/unitTests/runTestSuite.sh
+built/doParallel/unitTests/options.R
+built/doParallel/html/
+built/doParallel/html/00Index.html
+built/doParallel/html/R.css
+built/doParallel/INDEX
+built/doParallel/doc/
+built/doParallel/doc/gettingstartedParallel.pdf
+built/doParallel/doc/gettingstartedParallel.R
+built/doParallel/doc/gettingstartedParallel.Rnw
+built/doParallel/doc/index.html
+built/doParallel/R/
+built/doParallel/R/doParallel.rdx
+built/doParallel/R/doParallel.rdb
+built/doParallel/R/doParallel
+built/doParallel/demo/
+built/doParallel/demo/sincParallel.R
+Dependency numbers is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''GenomAutomorphism'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv doParallel_1.0.17_R_x86_64-pc-linux-gnu.tar.gz foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz GenomAutomorphism_1.0.2_R_x86_64-pc-linux-gnu.tar.gz iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/GenomAutomorphism
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'GenomAutomorphism'
+also installing the dependencies ‘iterators’, ‘doParallel’, ‘foreach’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/iterators_1.0.14.tar.gz'
+Content type 'binary/octet-stream' length 345456 bytes (337 KB)
+==================================================
+downloaded 337 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/doParallel_1.0.17.tar.gz'
+Content type 'binary/octet-stream' length 187670 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/foreach_1.5.2.tar.gz'
+Content type 'binary/octet-stream' length 137791 bytes (134 KB)
+==================================================
+downloaded 134 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/GenomAutomorphism_1.0.2.tar.gz'
+Content type 'application/x-gzip' length 1152272 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *binary* package ‘iterators’ ...
+* ‘iterators’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘iterators’ as ‘iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterators)
+* installing *binary* package ‘foreach’ ...
+* ‘foreach’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘foreach’ as ‘foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (foreach)
+* installing *binary* package ‘doParallel’ ...
+* ‘doParallel’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘doParallel’ as ‘doParallel_1.0.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doParallel)
+* installing *source* package ‘GenomAutomorphism’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GenomAutomorphism’ as ‘GenomAutomorphism_1.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GenomAutomorphism)
+
+The downloaded source packages are in
+	‘/tmp/RtmpHT5VsD/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m27.815s
+user	0m20.962s
+sys	0m1.629s
