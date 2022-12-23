@@ -643,7 +643,6 @@
     "bioassayR": [
         "ChemmineR"
     ],
-    "biobroom": [],
     "bioCancer": [
         "DOSE",
         "DiagrammeR",
@@ -9033,9 +9032,7 @@
         "CoreGx",
         "piano"
     ],
-    "TPP": [
-        "biobroom"
-    ],
+    "TPP": [],
     "tracktables": [],
     "trackViewer": [
         "BSgenome",
