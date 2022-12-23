@@ -5998,7 +5998,6 @@
     ],
     "diffcoexp": [
         "AnnotationDbi",
-        "DiffCorr",
         "GO.db",
         "GenomicRanges",
         "Hmisc",
@@ -26416,7 +26415,6 @@
         "ggplot2",
         "qvalue"
     ],
-    "DiffCorr": [],
     "fastDummies": [],
     "hgu133a2.db": [
         "AnnotationDbi",
