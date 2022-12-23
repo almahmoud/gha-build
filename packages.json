@@ -2417,7 +2417,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "fishpond": [],
     "flagme": [
         "CAMERA",
         "Hmisc"
@@ -6293,7 +6292,6 @@
         "celldex",
         "ensembldb",
         "fields",
-        "fishpond",
         "genefilter",
         "geneplotter",
         "ggtree",
