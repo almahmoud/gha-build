@@ -563,9 +563,7 @@
         "lumi",
         "methylumi"
     ],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "miRSM": [
         "ReactomePA",
         "SPONGE",
@@ -974,7 +972,6 @@
         "text2vec",
         "ttgsea"
     ],
-    "VanillaICE": [],
     "VariantFiltering": [
         "Gviz"
     ],
