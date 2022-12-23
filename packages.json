@@ -9405,7 +9405,6 @@
         "MatrixModels",
         "SummarizedExperiment",
         "XVector",
-        "alabama",
         "biomformat",
         "cobs",
         "ggplot2",
@@ -39669,7 +39668,6 @@
         "IRanges",
         "TTR",
         "XVector",
-        "alabama",
         "biomformat",
         "edgeR",
         "ggplot2",
@@ -58086,7 +58084,6 @@
         "clue"
     ],
     "eulerr": [],
-    "alabama": [],
     "cobs": [
         "MatrixModels",
         "quantreg",
