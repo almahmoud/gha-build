@@ -1237,7 +1237,6 @@
         "KEGGREST",
         "RSQLite",
         "Rsamtools",
-        "Rsubread",
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
@@ -11881,7 +11880,6 @@
         "KEGGREST",
         "RSQLite",
         "Rsamtools",
-        "Rsubread",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -12686,9 +12684,7 @@
         "tweenr",
         "vctrs"
     ],
-    "dupRadar": [
-        "Rsubread"
-    ],
+    "dupRadar": [],
     "easier": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -14572,7 +14568,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "Rsamtools",
-        "Rsubread",
         "SummarizedExperiment",
         "XVector",
         "futile.logger",
@@ -15884,7 +15879,6 @@
         "OUTRIDER",
         "RSQLite",
         "Rsamtools",
-        "Rsubread",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -36142,7 +36136,6 @@
         "RSQLite",
         "RUVSeq",
         "Rsamtools",
-        "Rsubread",
         "ShortRead",
         "SummarizedExperiment",
         "TFBSTools",
@@ -37439,7 +37432,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "Rsubread": [],
     "RSVSim": [
         "BiocParallel",
         "Biostrings",
@@ -39269,7 +39261,6 @@
         "RBGL",
         "RSQLite",
         "Rsamtools",
-        "Rsubread",
         "ShortRead",
         "SingleCellExperiment",
         "SummarizedExperiment",
