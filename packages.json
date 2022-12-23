@@ -1308,7 +1308,6 @@
         "FSelector",
         "FactoMineR",
         "Hmisc",
-        "MLSeq",
         "RWeka",
         "car",
         "viridis"
@@ -2156,7 +2155,6 @@
     "mitoClone2": [
         "deepSNV"
     ],
-    "MLSeq": [],
     "MMAPPR2": [
         "VariantTools",
         "ensemblVEP",
