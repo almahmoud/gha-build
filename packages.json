@@ -469,16 +469,13 @@
         "text2vec",
         "ttgsea"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
+    "GeoDiff": [],
     "GEOexplorer": [
         "FactoMineR",
         "factoextra",
         "ggpubr",
         "rstatix"
     ],
-    "GeomxTools": [],
     "GEWIST": [],
     "ggbio": [],
     "ggspavis": [],
@@ -1110,9 +1107,7 @@
         "ggbio"
     ],
     "spaSim": [],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "spatzie": [
         "GenomicInteractions",
         "Gviz"
