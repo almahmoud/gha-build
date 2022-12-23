@@ -167,7 +167,6 @@
     "CiteFuse": [
         "propr"
     ],
-    "cleanUpdTSeq": [],
     "clusterProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -510,9 +509,7 @@
     "iCNV": [],
     "ideal": [],
     "imcRtools": [],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "InTAD": [
         "ggpubr",
         "rstatix"
