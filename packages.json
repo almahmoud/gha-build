@@ -31642,7 +31642,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "MLmetrics",
         "RSQLite",
         "SpidermiR",
         "XVector",
@@ -39627,7 +39626,6 @@
         "tibble",
         "tidyr"
     ],
-    "MLmetrics": [],
     "rsample": [
         "dplyr",
         "furrr",
