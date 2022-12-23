@@ -1687,7 +1687,6 @@
     ],
     "celda": [
         "SingleCellExperiment",
-        "enrichR",
         "ggrastr",
         "ggrepel",
         "scater",
@@ -12708,7 +12707,6 @@
         "celldex",
         "colourpicker",
         "densEstBayes",
-        "enrichR",
         "ensembldb",
         "fields",
         "fishpond",
@@ -15239,7 +15237,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "enrichR": [],
     "FactoMineR": [
         "DT",
         "broom",
