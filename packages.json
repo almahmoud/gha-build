@@ -161,7 +161,6 @@
         "scuttle",
         "viridis"
     ],
-    "ALDEx2": [],
     "alevinQC": [],
     "AllelicImbalance": [
         "AnnotationDbi",
@@ -708,7 +707,6 @@
         "PhIPData"
     ],
     "benchdamic": [
-        "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
         "DESeq2",
@@ -6420,7 +6418,6 @@
         "viridis"
     ],
     "microbiomeMarker": [
-        "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
         "DESeq2",
@@ -7611,9 +7608,7 @@
     "omicade4": [
         "made4"
     ],
-    "omicplotR": [
-        "ALDEx2"
-    ],
+    "omicplotR": [],
     "omicRexposome": [
         "AnnotationDbi",
         "FactoMineR",
