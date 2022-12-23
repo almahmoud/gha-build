@@ -29139,7 +29139,6 @@
         "ggplot2",
         "tibble"
     ],
-    "SPEM": [],
     "SPIA": [],
     "SPIAT": [
         "BiocFileCache",
@@ -31142,9 +31141,7 @@
         "visdat",
         "vroom"
     ],
-    "TMixClust": [
-        "SPEM"
-    ],
+    "TMixClust": [],
     "TNBC.CMS": [
         "AnnotationDbi",
         "BiocSingular",
