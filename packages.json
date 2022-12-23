@@ -915,11 +915,9 @@
     "cosmosR": [],
     "countsimQC": [],
     "cpvSNP": [],
-    "crisprBowtie": [],
     "crisprDesign": [
         "VariantAnnotation",
         "basilisk",
-        "crisprBowtie",
         "crisprScore"
     ],
     "crisprScore": [
@@ -942,7 +940,6 @@
         "VariantAnnotation",
         "basilisk",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "crisprViz",
@@ -955,7 +952,6 @@
         "VariantAnnotation",
         "basilisk",
         "biovizBase",
-        "crisprBowtie",
         "crisprDesign",
         "crisprScore",
         "ensembldb",
