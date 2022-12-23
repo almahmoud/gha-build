@@ -30893,9 +30893,7 @@
         "tidyselect"
     ],
     "RedeR": [],
-    "RedisParam": [
-        "redux"
-    ],
+    "RedisParam": [],
     "REDseq": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -46949,7 +46947,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "redux": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "Biostrings",
