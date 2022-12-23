@@ -2713,7 +2713,6 @@
         "ensembldb",
         "viridis"
     ],
-    "GWAS.BAYES": [],
     "gwascat": [
         "BSgenome",
         "GenomicFeatures",
