@@ -5190,7 +5190,6 @@
         "ChemmineR",
         "DT",
         "GenomicRanges",
-        "MetaboCoreUtils",
         "RSQLite",
         "Spectra",
         "dbplyr",
@@ -14837,7 +14836,6 @@
         "CompoundDb",
         "DT",
         "GenomicRanges",
-        "MetaboCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "RSQLite",
@@ -14853,7 +14851,6 @@
         "tibble",
         "tidyr"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "GenomicRanges",
         "MultiAssayExperiment",
@@ -16617,7 +16614,6 @@
     "MobilityTransformR": [
         "GenomicRanges",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsFeatures",
         "Spectra",
         "SummarizedExperiment",
