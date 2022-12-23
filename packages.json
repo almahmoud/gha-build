@@ -12031,7 +12031,6 @@
         "jquerylib",
         "keras",
         "knitr",
-        "koRpus.lang.en",
         "lexicon",
         "pillar",
         "progress",
@@ -18897,7 +18896,6 @@
         "jquerylib",
         "keras",
         "knitr",
-        "koRpus.lang.en",
         "lexicon",
         "pillar",
         "progress",
@@ -49922,7 +49920,6 @@
         "jquerylib",
         "keras",
         "knitr",
-        "koRpus.lang.en",
         "lexicon",
         "pillar",
         "progress",
@@ -50442,7 +50439,6 @@
         "jquerylib",
         "keras",
         "knitr",
-        "koRpus.lang.en",
         "lexicon",
         "pillar",
         "progress",
@@ -51003,7 +50999,6 @@
         "interactiveDisplayBase",
         "jquerylib",
         "knitr",
-        "koRpus.lang.en",
         "lexicon",
         "msigdb",
         "org.Hs.eg.db",
@@ -55949,7 +55944,6 @@
     ],
     "textstem": [
         "dplyr",
-        "koRpus.lang.en",
         "lexicon",
         "pillar",
         "purrr",
@@ -55964,7 +55958,6 @@
     "rsparse": [
         "MatrixExtra"
     ],
-    "koRpus.lang.en": [],
     "lexicon": [
         "dplyr",
         "pillar",
