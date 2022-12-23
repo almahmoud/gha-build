@@ -87,7 +87,6 @@
     "alpine": [
         "GenomicFeatures"
     ],
-    "AlpsNMR": [],
     "AMARETTO": [
         "AnnotationHub",
         "ExperimentHub",
