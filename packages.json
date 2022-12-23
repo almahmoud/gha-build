@@ -5363,7 +5363,6 @@
         "rhdf5",
         "viridis"
     ],
-    "sccomp": [],
     "scDataviz": [
         "Seurat"
     ],
