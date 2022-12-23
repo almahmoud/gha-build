@@ -1145,7 +1145,6 @@
     "CopywriteR": [
         "chipseq"
     ],
-    "CoreGx": [],
     "Cormotif": [
         "affy"
     ],
@@ -3968,7 +3967,6 @@
     ],
     "pcxn": [],
     "PDATK": [
-        "CoreGx",
         "car",
         "fields",
         "genefu",
@@ -4018,9 +4016,7 @@
         "DESeq2",
         "rhdf5"
     ],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phenomis": [],
     "phenoTest": [
         "Category",
@@ -4373,9 +4369,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RareVariantVis": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -5650,9 +5644,7 @@
         "affy",
         "vsn"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [
         "BSgenome",
         "GenomicFeatures",
@@ -5940,7 +5932,6 @@
         "GeneMeta"
     ],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XNAString": [
