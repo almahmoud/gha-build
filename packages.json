@@ -45873,7 +45873,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "SPEM": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -49028,7 +49027,6 @@
     ],
     "TMixClust": [
         "BiocParallel",
-        "SPEM",
         "flexclust",
         "futile.logger"
     ],
