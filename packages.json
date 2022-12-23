@@ -22470,7 +22470,6 @@
         "miniUI",
         "multcomp",
         "patchwork",
-        "phyclust",
         "pillar",
         "plotly",
         "purrr",
@@ -57125,7 +57124,6 @@
     "Rlabkey": [
         "httr"
     ],
-    "phyclust": [],
     "golem": [
         "bslib",
         "credentials",
