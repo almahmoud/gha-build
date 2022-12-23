@@ -13192,7 +13192,6 @@
         "hms",
         "htmlwidgets",
         "httr",
-        "hunspell",
         "igraph",
         "influenceR",
         "jquerylib",
@@ -20728,7 +20727,6 @@
         "hms",
         "htmlwidgets",
         "httr",
-        "hunspell",
         "igraph",
         "influenceR",
         "jquerylib",
@@ -55252,7 +55250,6 @@
         "ggplot2",
         "hms",
         "htmlwidgets",
-        "hunspell",
         "igraph",
         "influenceR",
         "jquerylib",
@@ -55804,7 +55801,6 @@
         "hms",
         "htmlwidgets",
         "httr",
-        "hunspell",
         "igraph",
         "influenceR",
         "irlba",
@@ -56405,7 +56401,6 @@
         "htmlwidgets",
         "httpuv",
         "httr",
-        "hunspell",
         "igraph",
         "interactiveDisplayBase",
         "jquerylib",
@@ -61969,7 +61964,6 @@
     ],
     "textstem": [
         "dplyr",
-        "hunspell",
         "koRpus",
         "koRpus.lang.en",
         "lexicon",
@@ -61986,7 +61980,6 @@
     "koRpus.lang.en": [
         "koRpus"
     ],
-    "hunspell": [],
     "koRpus": [],
     "lexicon": [
         "dplyr",
