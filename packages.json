@@ -2363,7 +2363,6 @@
         "SingleCellExperiment",
         "annotate",
         "benchmarkme",
-        "benchmarkmeData",
         "genefilter",
         "mbkmeans",
         "phylobase",
@@ -3758,7 +3757,6 @@
         "GenomicAlignments",
         "arm",
         "benchmarkme",
-        "benchmarkmeData",
         "lme4",
         "nloptr",
         "rtracklayer",
@@ -7355,8 +7353,7 @@
     ],
     "mbkmeans": [
         "SingleCellExperiment",
-        "benchmarkme",
-        "benchmarkmeData"
+        "benchmarkme"
     ],
     "mbOmic": [
         "AnnotationDbi",
@@ -9303,7 +9300,6 @@
         "SingleCellExperiment",
         "annotate",
         "benchmarkme",
-        "benchmarkmeData",
         "clusterExperiment",
         "genefilter",
         "ggrastr",
@@ -10336,7 +10332,6 @@
     ],
     "ppcseq": [
         "benchmarkme",
-        "benchmarkmeData",
         "distributional",
         "ggdist",
         "posterior",
@@ -15615,11 +15610,8 @@
     "phylobase": [
         "RNeXML"
     ],
-    "benchmarkme": [
-        "benchmarkmeData"
-    ],
+    "benchmarkme": [],
     "RNeXML": [],
-    "benchmarkmeData": [],
     "rio": [
         "haven"
     ],
