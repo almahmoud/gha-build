@@ -6469,7 +6469,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "rtracklayer"
     ],
-    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "BSgenome",
         "GenomicFeatures",
