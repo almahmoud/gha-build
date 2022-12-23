@@ -1228,7 +1228,6 @@
         "genefilter",
         "sva"
     ],
-    "DepecheR": [],
     "derfinder": [
         "BSgenome",
         "GenomicFeatures",
