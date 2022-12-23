@@ -71,7 +71,6 @@
         "text2vec",
         "ttgsea"
     ],
-    "glmSparseNet": [],
     "HiCcompare": [
         "CGHcall",
         "QDNAseq"
