@@ -36,7 +36,6 @@
     ],
     "adSplit": [],
     "affycoretools": [
-        "AnnotationForge",
         "BSgenome",
         "Category",
         "DESeq2",
@@ -61,7 +60,6 @@
         "GSEABase"
     ],
     "AgiMicroRna": [
-        "AnnotationForge",
         "BSgenome",
         "Category",
         "DESeq2",
@@ -137,12 +135,10 @@
     "annmap": [
         "genefilter"
     ],
-    "AnnotationForge": [],
     "AnnotationHub": [
         "interactiveDisplayBase"
     ],
     "AnnotationHubData": [
-        "AnnotationForge",
         "AnnotationHub",
         "GenomicFeatures",
         "OrganismDbi",
@@ -309,7 +305,6 @@
         "rtracklayer"
     ],
     "attract": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -782,7 +777,6 @@
         "genefilter"
     ],
     "categoryCompare": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -2267,7 +2261,6 @@
         "interactiveDisplayBase"
     ],
     "ExperimentHubData": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "ExperimentHub",
@@ -2781,7 +2774,6 @@
         "rtracklayer"
     ],
     "GmicR": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -2824,7 +2816,6 @@
     ],
     "goSTAG": [],
     "GOstats": [
-        "AnnotationForge",
         "Category",
         "GSEABase",
         "genefilter"
@@ -3067,7 +3058,6 @@
         "rtracklayer"
     ],
     "ideal": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -3750,7 +3740,6 @@
         "rtracklayer"
     ],
     "methylclock": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "ExperimentHub",
@@ -3900,7 +3889,6 @@
         "HardyWeinberg"
     ],
     "MIGSA": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -3915,7 +3903,6 @@
         "Hmisc"
     ],
     "MineICA": [
-        "AnnotationForge",
         "Category",
         "FDb.InfiniumMethylation.hg19",
         "GOstats",
@@ -3953,7 +3940,6 @@
     "MiRaGE": [],
     "mirIntegrator": [],
     "miRLAB": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -4460,7 +4446,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -4748,7 +4733,6 @@
     ],
     "pathview": [],
     "pcaExplorer": [
-        "AnnotationForge",
         "Category",
         "DESeq2",
         "GOstats",
@@ -4888,7 +4872,6 @@
         "rtracklayer"
     ],
     "PloGO2": [
-        "AnnotationForge",
         "Category",
         "GOstats",
         "GSEABase",
@@ -5363,7 +5346,6 @@
         "rtracklayer"
     ],
     "ReportingTools": [
-        "AnnotationForge",
         "BSgenome",
         "Category",
         "DESeq2",
@@ -5909,7 +5891,6 @@
         "rtracklayer"
     ],
     "scTensor": [
-        "AnnotationForge",
         "AnnotationHub",
         "Category",
         "DOSE",
@@ -6961,7 +6942,6 @@
         "mixtools"
     ],
     "ViSEAGO": [
-        "AnnotationForge",
         "DiagrammeR",
         "GOSemSim",
         "dendextend",
@@ -7572,7 +7552,6 @@
         "rtracklayer"
     ],
     "methylclockData": [
-        "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
         "ExperimentHub",
