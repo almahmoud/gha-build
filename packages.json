@@ -260,12 +260,10 @@
     "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "celda": [],
     "CelliD": [],
@@ -1157,7 +1155,6 @@
     ],
     "LowMACA": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData",
         "motifStack"
     ],
@@ -1926,9 +1923,7 @@
         "rstatix",
         "survminer"
     ],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "RTN": [
         "car"
     ],
@@ -2192,14 +2187,11 @@
         "sesame",
         "sesameData"
     ],
-    "TCGAutils": [],
     "TDARACNE": [
         "GenKern"
     ],
     "tenXplore": [],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFEA.ChIP": [],
     "TFHAZ": [
         "ORFik"
