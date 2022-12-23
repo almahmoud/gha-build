@@ -1694,7 +1694,6 @@
         "scater",
         "scuttle",
         "slingshot",
-        "spatstat",
         "viridis"
     ],
     "CONFESS": [
@@ -9651,10 +9650,8 @@
         "viridis"
     ],
     "Ecume": [
-        "caret",
-        "spatstat"
+        "caret"
     ],
-    "spatstat": [],
     "contrast": [
         "Hmisc",
         "rms",
