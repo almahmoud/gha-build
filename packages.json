@@ -29453,7 +29453,6 @@
         "e1071",
         "ggplot2",
         "gplots",
-        "irr",
         "mgcv",
         "pillar",
         "pkgload",
@@ -70929,7 +70928,6 @@
         "vctrs"
     ],
     "akima": [],
-    "irr": [],
     "scam": [
         "mgcv"
     ],
