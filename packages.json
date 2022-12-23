@@ -2264,9 +2264,7 @@
         "ensembldb",
         "ggbio"
     ],
-    "RESOLVE": [
-        "BSgenome.Hsapiens.1000genomes.hs37d5"
-    ],
+    "RESOLVE": [],
     "restfulSE": [],
     "rexposome": [
         "FactoMineR",
@@ -3177,7 +3175,6 @@
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
     "BSgenome.Celegans.UCSC.ce2": [],
-    "BSgenome.Hsapiens.1000genomes.hs37d5": [],
     "rGenomeTracksData": [],
     "RLHub": [],
     "SCATEData": [],
