@@ -443,7 +443,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "BUMHMM": [],
     "bumphunter": [
         "GenomicFeatures"
     ],
