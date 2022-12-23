@@ -4412,9 +4412,7 @@
         "ggraph",
         "viridis"
     ],
-    "ssPATHS": [
-        "MESS"
-    ],
+    "ssPATHS": [],
     "STAN": [
         "Gviz",
         "Hmisc",
@@ -5218,7 +5216,6 @@
         "rhdf5"
     ],
     "sampSurf": [],
-    "MESS": [],
     "SpatialExtremes": [
         "fields",
         "viridis"
