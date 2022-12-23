@@ -1,0 +1,191 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   721509f5..3ac3bfad  main       -> origin/main
+Updating 721509f5..3ac3bfad
+Fast-forward
+ lists/failed/kmlShape              | 19 +++++++++++++++++++
+ lists/failed/propr                 | 19 +++++++++++++++++++
+ lists/gProfileR                    |  2 +-
+ lists/gbutils                      |  2 +-
+ lists/kmlShape                     |  2 +-
+ lists/propr                        |  2 +-
+ logs/run_ids/rstudio-binaries/pamr |  2 ++
+ logs/times/rstudio-binary/kmlShape | 33 +++++++++++++++++++++++++++++++++
+ logs/times/rstudio-binary/propr    | 35 +++++++++++++++++++++++++++++++++++
+ packages.json                      | 11 ++---------
+ 10 files changed, 114 insertions(+), 13 deletions(-)
+ create mode 100644 lists/failed/kmlShape
+ create mode 100644 lists/failed/propr
+ create mode 100644 logs/run_ids/rstudio-binaries/pamr
+ create mode 100644 logs/times/rstudio-binary/kmlShape
+ create mode 100644 logs/times/rstudio-binary/propr
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=lubridate
++ PKG=lubridate
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "lubridate"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 27  472k   27  127k    0     0   157k      0  0:00:02 --:--:--  0:00:02  157k100  472k  100  472k    0     0   331k      0  0:00:01  0:00:01 --:--:--  331k
+built/
+built/cpp11/
+built/cpp11/NAMESPACE
+built/cpp11/DESCRIPTION
+built/cpp11/help/
+built/cpp11/help/cpp11.rdb
+built/cpp11/help/paths.rds
+built/cpp11/help/aliases.rds
+built/cpp11/help/cpp11.rdx
+built/cpp11/help/AnIndex
+built/cpp11/Meta/
+built/cpp11/Meta/package.rds
+built/cpp11/Meta/vignette.rds
+built/cpp11/Meta/features.rds
+built/cpp11/Meta/hsearch.rds
+built/cpp11/Meta/links.rds
+built/cpp11/Meta/nsInfo.rds
+built/cpp11/Meta/Rd.rds
+built/cpp11/include/
+built/cpp11/include/cpp11/
+built/cpp11/include/cpp11/data_frame.hpp
+built/cpp11/include/cpp11/raws.hpp
+built/cpp11/include/cpp11/named_arg.hpp
+built/cpp11/include/cpp11/r_vector.hpp
+built/cpp11/include/cpp11/r_bool.hpp
+built/cpp11/include/cpp11/R.hpp
+built/cpp11/include/cpp11/integers.hpp
+built/cpp11/include/cpp11/altrep.hpp
+built/cpp11/include/cpp11/r_string.hpp
+built/cpp11/include/cpp11/matrix.hpp
+built/cpp11/include/cpp11/list_of.hpp
+built/cpp11/include/cpp11/logicals.hpp
+built/cpp11/include/cpp11/environment.hpp
+built/cpp11/include/cpp11/doubles.hpp
+built/cpp11/include/cpp11/external_pointer.hpp
+built/cpp11/include/cpp11/attribute_proxy.hpp
+built/cpp11/include/cpp11/list.hpp
+built/cpp11/include/cpp11/as.hpp
+built/cpp11/include/cpp11/strings.hpp
+built/cpp11/include/cpp11/function.hpp
+built/cpp11/include/cpp11/protect.hpp
+built/cpp11/include/cpp11/declarations.hpp
+built/cpp11/include/cpp11/sexp.hpp
+built/cpp11/include/cpp11.hpp
+built/cpp11/include/fmt/
+built/cpp11/include/fmt/format-inl.h
+built/cpp11/include/fmt/core.h
+built/cpp11/include/fmt/format.h
+built/cpp11/LICENSE
+built/cpp11/html/
+built/cpp11/html/00Index.html
+built/cpp11/html/R.css
+built/cpp11/INDEX
+built/cpp11/doc/
+built/cpp11/doc/internals.Rmd
+built/cpp11/doc/cpp11.Rmd
+built/cpp11/doc/converting.Rmd
+built/cpp11/doc/internals.R
+built/cpp11/doc/FAQ.html
+built/cpp11/doc/cpp11.html
+built/cpp11/doc/internals.html
+built/cpp11/doc/FAQ.R
+built/cpp11/doc/FAQ.Rmd
+built/cpp11/doc/motivations.Rmd
+built/cpp11/doc/converting.html
+built/cpp11/doc/index.html
+built/cpp11/doc/motivations.R
+built/cpp11/doc/converting.R
+built/cpp11/doc/motivations.html
+built/cpp11/doc/cpp11.R
+built/cpp11/R/
+built/cpp11/R/cpp11
+built/cpp11/R/cpp11.rdb
+built/cpp11/R/cpp11.rdx
+built/cpp11/NEWS.md
+built/timechange/
+built/timechange/libs/
+built/timechange/libs/timechange.so
+built/timechange/NAMESPACE
+built/timechange/DESCRIPTION
+built/timechange/help/
+built/timechange/help/paths.rds
+built/timechange/help/timechange.rdx
+built/timechange/help/aliases.rds
+built/timechange/help/timechange.rdb
+built/timechange/help/AnIndex
+built/timechange/Meta/
+built/timechange/Meta/package.rds
+built/timechange/Meta/features.rds
+built/timechange/Meta/hsearch.rds
+built/timechange/Meta/links.rds
+built/timechange/Meta/nsInfo.rds
+built/timechange/Meta/Rd.rds
+built/timechange/html/
+built/timechange/html/00Index.html
+built/timechange/html/R.css
+built/timechange/INDEX
+built/timechange/R/
+built/timechange/R/timechange.rdx
+built/timechange/R/timechange
+built/timechange/R/timechange.rdb
+built/timechange/NEWS.md
+Dependency generics is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''lubridate'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv lubridate_1.9.0_R_x86_64-pc-linux-gnu.tar.gz timechange_0.1.1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/lubridate
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'lubridate'
+also installing the dependency ‘timechange’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/timechange_0.1.1.tar.gz'
+Content type 'binary/octet-stream' length 180871 bytes (176 KB)
+==================================================
+downloaded 176 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/lubridate_1.9.0.tar.gz'
+Content type 'binary/octet-stream' length 962385 bytes (939 KB)
+==================================================
+downloaded 939 KB
+
+* installing *binary* package ‘timechange’ ...
+* ‘timechange’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘timechange’ as ‘timechange_0.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (timechange)
+* installing *binary* package ‘lubridate’ ...
+* ‘lubridate’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lubridate’ as ‘lubridate_1.9.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lubridate)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp1hHp2C/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m9.801s
+user	0m5.004s
+sys	0m0.607s
