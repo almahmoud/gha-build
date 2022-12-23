@@ -9658,8 +9658,7 @@
         "haven",
         "klaR",
         "labelled",
-        "questionr",
-        "yardstick"
+        "questionr"
     ],
     "OmaDB": [
         "AnnotationDbi",
@@ -16430,10 +16429,8 @@
         "haven",
         "klaR",
         "labelled",
-        "questionr",
-        "yardstick"
+        "questionr"
     ],
-    "yardstick": [],
     "OMICsPCAdata": [
         "MultiAssayExperiment"
     ],
