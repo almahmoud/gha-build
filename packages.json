@@ -2304,14 +2304,12 @@
     "motifbreakR": [
         "GenomicFeatures",
         "Gviz",
-        "MotifDb",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
         "motifStack"
     ],
-    "MotifDb": [],
     "motifmatchr": [
         "TFBSTools"
     ],
@@ -3215,9 +3213,7 @@
         "pbkrtest",
         "viper"
     ],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "RUVSeq": [
         "EDASeq",
         "GenomicFeatures"
@@ -3785,7 +3781,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Mmusculus.UCSC.mm10",
-        "MotifDb",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38"
     ],
     "TRESS": [
