@@ -4450,7 +4450,6 @@
         "rtracklayer",
         "tibble"
     ],
-    "BrowserViz": [],
     "BSgenome": [
         "BiocIO",
         "BiocParallel",
@@ -19448,7 +19447,6 @@
         "BiocIO",
         "BiocParallel",
         "Biostrings",
-        "BrowserViz",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -33471,9 +33469,7 @@
         "pillar",
         "repr"
     ],
-    "RCyjs": [
-        "BrowserViz"
-    ],
+    "RCyjs": [],
     "rDGIdb": [
         "httr"
     ],
