@@ -263,7 +263,6 @@
         "ggpubr",
         "orthogene"
     ],
-    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz"
@@ -452,7 +451,6 @@
         "IlluminaHumanMethylation450kmanifest"
     ],
     "methylclock": [
-        "ExperimentHubData",
         "ggpubr",
         "methylclockData"
     ],
@@ -853,9 +851,7 @@
         "ggpubr"
     ],
     "FlowSorted.Blood.450k": [],
-    "methylclockData": [
-        "ExperimentHubData"
-    ],
+    "methylclockData": [],
     "mppa": [],
     "genlasso": [],
     "Rmagic": [],
