@@ -11923,7 +11923,6 @@
     "Pigengene": [
         "AnnotationDbi",
         "BiocStyle",
-        "C50",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -19105,7 +19104,6 @@
         "fields",
         "viridis"
     ],
-    "C50": [],
     "tidybayes": [
         "distributional",
         "ggdist",
