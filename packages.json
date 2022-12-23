@@ -5152,7 +5152,6 @@
         "XVector",
         "annotate",
         "apeglm",
-        "ashr",
         "biomaRt",
         "bslib",
         "chipseq",
@@ -7818,7 +7817,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "ashr",
         "dplyr",
         "tibble"
     ],
@@ -8213,7 +8211,6 @@
         "annotate",
         "apeglm",
         "aplot",
-        "ashr",
         "bslib",
         "clusterProfiler",
         "colourpicker",
@@ -8953,7 +8950,6 @@
         "XVector",
         "annotate",
         "apeglm",
-        "ashr",
         "bslib",
         "dplyr",
         "geneplotter",
@@ -36079,7 +36075,6 @@
         "XVector",
         "annotate",
         "apeglm",
-        "ashr",
         "biomaRt",
         "bslib",
         "csaw",
@@ -38632,7 +38627,6 @@
         "rtracklayer",
         "tibble"
     ],
-    "ashr": [],
     "ChIPXpressData": [],
     "shinyhelper": [
         "bslib",
