@@ -2941,7 +2941,6 @@
         "scuttle",
         "shinyWidgets",
         "shinydashboardPlus",
-        "shinyhelper",
         "shinyjs",
         "tidyr",
         "viridis",
@@ -9858,7 +9857,6 @@
         "htmlwidgets",
         "plotly",
         "proDA",
-        "shinyhelper",
         "shinyjs",
         "tidyr",
         "viridis",
@@ -14207,7 +14205,6 @@
         "recipes",
         "shinyWidgets",
         "shinydashboardPlus",
-        "shinyhelper",
         "shinyjs",
         "threejs",
         "tidyr",
@@ -21146,7 +21143,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "shinyhelper": [],
     "shinyWidgets": [],
     "shinydashboardPlus": [
         "waiter"
