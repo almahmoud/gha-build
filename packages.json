@@ -335,7 +335,6 @@
         "genefilter",
         "sva"
     ],
-    "ASURAT": [],
     "ATACCoGAPS": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
