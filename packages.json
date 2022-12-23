@@ -22821,8 +22821,7 @@
     "packFinder": [
         "Biostrings",
         "GenomicRanges",
-        "XVector",
-        "kmer"
+        "XVector"
     ],
     "padma": [
         "DT",
@@ -38955,7 +38954,6 @@
         "vroom"
     ],
     "mRMRe": [],
-    "kmer": [],
     "tfprobability": [
         "keras",
         "tensorflow",
