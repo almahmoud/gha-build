@@ -73219,7 +73219,6 @@
         "viridisLite",
         "zlibbioc"
     ],
-    "MultiMed": [],
     "multiMiR": [
         "AnnotationDbi",
         "Biobase",
