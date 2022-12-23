@@ -1020,7 +1020,6 @@
         "BiocFileCache",
         "MultiAssayExperiment",
         "SummarizedExperiment",
-        "assertive",
         "cellranger",
         "dbplyr",
         "dplyr",
@@ -13784,7 +13783,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "assertive",
         "bamsignals",
         "biomaRt",
         "biovizBase",
@@ -23960,7 +23958,6 @@
         "rmarkdown",
         "tidyr"
     ],
-    "assertive": [],
     "doBy": [
         "broom",
         "dplyr",
