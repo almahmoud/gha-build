@@ -639,7 +639,6 @@
         "jquerylib",
         "knitr",
         "openssl",
-        "optimx",
         "pillar",
         "plotly",
         "purrr",
@@ -25416,7 +25415,6 @@
         "BiocParallel",
         "ggplot2",
         "multtest",
-        "optimx",
         "pillar",
         "tibble"
     ],
@@ -36473,7 +36471,6 @@
         "XVector",
         "doRNG",
         "ggplot2",
-        "optimx",
         "pillar",
         "reshape2",
         "stringr",
@@ -50964,7 +50961,6 @@
         "shiny"
     ],
     "seqinr": [],
-    "optimx": [],
     "readxl": [
         "cellranger",
         "hms",
@@ -56676,9 +56672,7 @@
         "tibble",
         "tidyselect"
     ],
-    "ExtDist": [
-        "optimx"
-    ],
+    "ExtDist": [],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
         "AnnotationHub",
