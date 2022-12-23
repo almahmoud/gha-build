@@ -1901,7 +1901,6 @@
         "xcms"
     ],
     "MetaboSignal": [
-        "EnsDb.Hsapiens.v75",
         "Hmisc",
         "MWASTools",
         "car",
@@ -3730,7 +3729,6 @@
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
-        "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
         "Gviz",
         "Hmisc",
@@ -4051,7 +4049,6 @@
         "viridis"
     ],
     "SmartSVA": [],
-    "EnsDb.Hsapiens.v75": [],
     "FlowSorted.Blood.450k": [
         "HDF5Array",
         "minfi",
