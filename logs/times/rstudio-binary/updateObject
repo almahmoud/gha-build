@@ -1,0 +1,409 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   19525455..80723b3f  main       -> origin/main
+Updating 19525455..80723b3f
+Fast-forward
+ lists/TargetScore                                 |   2 +-
+ logs/run_ids/rstudio-binaries/Travel              |   2 +
+ logs/run_ids/rstudio-binaries/Wrench              |   2 +
+ logs/run_ids/rstudio-binaries/yeastExpData        |   2 +
+ logs/sizes/rstudio-binaries/binaries/TargetScore  |   1 +
+ logs/sizes/rstudio-binaries/libraries/TargetScore |   1 +
+ logs/times/rstudio-binary/TargetScore             | 303 ++++++++++++++++++++++
+ packages.json                                     |   1 -
+ 8 files changed, 312 insertions(+), 2 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/TargetScore
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/TargetScore
+ create mode 100644 logs/times/rstudio-binary/TargetScore
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=updateObject
++ PKG=updateObject
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "updateObject"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 3363k    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  7 3363k    7  255k    0     0   179k      0  0:00:18  0:00:01  0:00:17  179k 21 3363k   21  733k    0     0   300k      0  0:00:11  0:00:02  0:00:09  300k 41 3363k   41 1402k    0     0   411k      0  0:00:08  0:00:03  0:00:05  411k 68 3363k   68 2295k    0     0   520k      0  0:00:06  0:00:04  0:00:02  520k100 3363k  100 3363k    0     0   628k      0  0:00:05  0:00:05 --:--:--  685k
+built/
+built/built/
+built/built/BiocGenerics/
+built/built/BiocGenerics/NAMESPACE
+built/built/BiocGenerics/DESCRIPTION
+built/built/BiocGenerics/help/
+built/built/BiocGenerics/help/paths.rds
+built/built/BiocGenerics/help/BiocGenerics.rdb
+built/built/BiocGenerics/help/aliases.rds
+built/built/BiocGenerics/help/AnIndex
+built/built/BiocGenerics/help/BiocGenerics.rdx
+built/built/BiocGenerics/Meta/
+built/built/BiocGenerics/Meta/package.rds
+built/built/BiocGenerics/Meta/features.rds
+built/built/BiocGenerics/Meta/hsearch.rds
+built/built/BiocGenerics/Meta/links.rds
+built/built/BiocGenerics/Meta/nsInfo.rds
+built/built/BiocGenerics/Meta/Rd.rds
+built/built/BiocGenerics/unitTests/
+built/built/BiocGenerics/unitTests/test_combine.R
+built/built/BiocGenerics/unitTests/test_mapply.R
+built/built/BiocGenerics/unitTests/test_Extremes.R
+built/built/BiocGenerics/unitTests/test_order.R
+built/built/BiocGenerics/unitTests/test_updateObject.R
+built/built/BiocGenerics/unitTests/test_format.R
+built/built/BiocGenerics/unitTests/test_paste.R
+built/built/BiocGenerics/CITATION
+built/built/BiocGenerics/html/
+built/built/BiocGenerics/html/00Index.html
+built/built/BiocGenerics/html/R.css
+built/built/BiocGenerics/INDEX
+built/built/BiocGenerics/R/
+built/built/BiocGenerics/R/BiocGenerics
+built/built/BiocGenerics/R/BiocGenerics.rdb
+built/built/BiocGenerics/R/BiocGenerics.rdx
+built/BiocGenerics/
+built/BiocGenerics/NAMESPACE
+built/BiocGenerics/DESCRIPTION
+built/BiocGenerics/help/
+built/BiocGenerics/help/paths.rds
+built/BiocGenerics/help/BiocGenerics.rdb
+built/BiocGenerics/help/aliases.rds
+built/BiocGenerics/help/AnIndex
+built/BiocGenerics/help/BiocGenerics.rdx
+built/BiocGenerics/Meta/
+built/BiocGenerics/Meta/package.rds
+built/BiocGenerics/Meta/features.rds
+built/BiocGenerics/Meta/hsearch.rds
+built/BiocGenerics/Meta/links.rds
+built/BiocGenerics/Meta/nsInfo.rds
+built/BiocGenerics/Meta/Rd.rds
+built/BiocGenerics/unitTests/
+built/BiocGenerics/unitTests/test_combine.R
+built/BiocGenerics/unitTests/test_mapply.R
+built/BiocGenerics/unitTests/test_Extremes.R
+built/BiocGenerics/unitTests/test_order.R
+built/BiocGenerics/unitTests/test_updateObject.R
+built/BiocGenerics/unitTests/test_format.R
+built/BiocGenerics/unitTests/test_paste.R
+built/BiocGenerics/CITATION
+built/BiocGenerics/html/
+built/BiocGenerics/html/00Index.html
+built/BiocGenerics/html/R.css
+built/BiocGenerics/INDEX
+built/BiocGenerics/R/
+built/BiocGenerics/R/BiocGenerics
+built/BiocGenerics/R/BiocGenerics.rdb
+built/BiocGenerics/R/BiocGenerics.rdx
+built/S4Vectors/
+built/S4Vectors/libs/
+built/S4Vectors/libs/S4Vectors.so
+built/S4Vectors/NEWS
+built/S4Vectors/NAMESPACE
+built/S4Vectors/DESCRIPTION
+built/S4Vectors/help/
+built/S4Vectors/help/paths.rds
+built/S4Vectors/help/S4Vectors.rdx
+built/S4Vectors/help/S4Vectors.rdb
+built/S4Vectors/help/aliases.rds
+built/S4Vectors/help/AnIndex
+built/S4Vectors/Meta/
+built/S4Vectors/Meta/package.rds
+built/S4Vectors/Meta/vignette.rds
+built/S4Vectors/Meta/features.rds
+built/S4Vectors/Meta/hsearch.rds
+built/S4Vectors/Meta/links.rds
+built/S4Vectors/Meta/nsInfo.rds
+built/S4Vectors/Meta/Rd.rds
+built/S4Vectors/include/
+built/S4Vectors/include/S4Vectors_interface.h
+built/S4Vectors/include/_S4Vectors_stubs.c
+built/S4Vectors/include/S4Vectors_defines.h
+built/S4Vectors/unitTests/
+built/S4Vectors/unitTests/test_Vector-comparison.R
+built/S4Vectors/unitTests/test_DataFrame-combine.R
+built/S4Vectors/unitTests/test_DataFrame-comparison.R
+built/S4Vectors/unitTests/test_DataFrameFactor-class.R
+built/S4Vectors/unitTests/test_Rle-class.R
+built/S4Vectors/unitTests/test_Rle-utils.R
+built/S4Vectors/unitTests/test_DataFrame-class.R
+built/S4Vectors/unitTests/test_expand-methods.R
+built/S4Vectors/unitTests/test_FilterRules.R
+built/S4Vectors/unitTests/test_bindROWS.R
+built/S4Vectors/unitTests/test_raw-utils.R
+built/S4Vectors/unitTests/test_Pairs-class.R
+built/S4Vectors/unitTests/test_Hits-class.R
+built/S4Vectors/unitTests/test_List-class.R
+built/S4Vectors/unitTests/test_subsetting-utils.R
+built/S4Vectors/unitTests/test_map_ranges_to_runs.R
+built/S4Vectors/unitTests/test_Factor-class.R
+built/S4Vectors/unitTests/test_Vector-merge.R
+built/S4Vectors/unitTests/test_List-utils.R
+built/S4Vectors/unitTests/test_RectangularData-class.R
+built/S4Vectors/html/
+built/S4Vectors/html/00Index.html
+built/S4Vectors/html/R.css
+built/S4Vectors/INDEX
+built/S4Vectors/doc/
+built/S4Vectors/doc/S4QuickOverview.R
+built/S4Vectors/doc/S4QuickOverview.Rnw
+built/S4Vectors/doc/RleTricks.Rnw
+built/S4Vectors/doc/RleTricks.pdf
+built/S4Vectors/doc/S4VectorsOverview.pdf
+built/S4Vectors/doc/S4VectorsOverview.Rnw
+built/S4Vectors/doc/HTS_core_package_stack.txt
+built/S4Vectors/doc/S4VectorsOverview.R
+built/S4Vectors/doc/index.html
+built/S4Vectors/doc/S4QuickOverview.pdf
+built/S4Vectors/doc/RleTricks.R
+built/S4Vectors/R/
+built/S4Vectors/R/S4Vectors.rdx
+built/S4Vectors/R/S4Vectors.rdb
+built/S4Vectors/R/S4Vectors
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 73  190k   73  139k    0     0   141k      0  0:00:01 --:--:--  0:00:01  140k100  190k  100  190k    0     0   171k      0  0:00:01  0:00:01 --:--:--  171k
+built/
+built/digest/
+built/digest/libs/
+built/digest/libs/digest.so
+built/digest/NAMESPACE
+built/digest/tinytest/
+built/digest/tinytest/test_new_matrix_behaviour.R
+built/digest/tinytest/test_crc32.R
+built/digest/tinytest/test_misc.R
+built/digest/tinytest/test_digest2int.R
+built/digest/tinytest/test_hmac.R
+built/digest/tinytest/test_blake3.R
+built/digest/tinytest/test_raw.R
+built/digest/tinytest/test_aes.R
+built/digest/tinytest/test_digest.R
+built/digest/tinytest/test_sha1.R
+built/digest/tinytest/test_encoding.R
+built/digest/tinytest/test_num2hex.R
+built/digest/DESCRIPTION
+built/digest/help/
+built/digest/help/paths.rds
+built/digest/help/aliases.rds
+built/digest/help/digest.rdx
+built/digest/help/digest.rdb
+built/digest/help/AnIndex
+built/digest/Meta/
+built/digest/Meta/package.rds
+built/digest/Meta/vignette.rds
+built/digest/Meta/demo.rds
+built/digest/Meta/features.rds
+built/digest/Meta/hsearch.rds
+built/digest/Meta/links.rds
+built/digest/Meta/nsInfo.rds
+built/digest/Meta/Rd.rds
+built/digest/include/
+built/digest/include/pmurhashAPI.h
+built/digest/GPL-2
+built/digest/html/
+built/digest/html/00Index.html
+built/digest/html/R.css
+built/digest/INDEX
+built/digest/doc/
+built/digest/doc/sha1.html
+built/digest/doc/sha1.md
+built/digest/doc/sha1.R
+built/digest/doc/index.html
+built/digest/R/
+built/digest/R/digest.rdx
+built/digest/R/digest.rdb
+built/digest/R/digest
+built/digest/demo/
+built/digest/demo/vectorised.R
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''updateObject'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz S4Vectors_0.36.1_R_x86_64-pc-linux-gnu.tar.gz updateObject_1.2.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/updateObject
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'updateObject'
+also installing the dependencies ‘BiocGenerics’, ‘S4Vectors’
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BiocGenerics_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 47711 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/S4Vectors_0.36.1.tar.gz'
+Content type 'application/x-gzip' length 623234 bytes (608 KB)
+==================================================
+downloaded 608 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/updateObject_1.2.0.tar.gz'
+Content type 'application/x-gzip' length 1352537 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+* installing *source* package ‘BiocGenerics’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘union’ in package ‘BiocGenerics’
+Creating a new generic function for ‘intersect’ in package ‘BiocGenerics’
+Creating a new generic function for ‘setdiff’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sort’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *source* package ‘S4Vectors’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c AEbufs.c -o AEbufs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c DataFrame_class.c -o DataFrame_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Hits_class.c -o Hits_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c LLint_class.c -o LLint_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c List_class.c -o List_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_S4Vectors.c -o R_init_S4Vectors.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rle_class.c -o Rle_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rle_utils.c -o Rle_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SEXP_utils.c -o SEXP_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c SimpleList_class.c -o SimpleList_class.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c anyMissing.c -o anyMissing.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c character_utils.c -o character_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c eval_utils.c -o eval_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hash_utils.c -o hash_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c integer_utils.c -o integer_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c logical_utils.c -o logical_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c map_ranges_to_runs.c -o map_ranges_to_runs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c raw_utils.c -o raw_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c safe_arithm.c -o safe_arithm.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sort_utils.c -o sort_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c subsetting_utils.c -o subsetting_utils.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c vector_utils.c -o vector_utils.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o S4Vectors.so AEbufs.o DataFrame_class.o Hits_class.o LLint_class.o List_class.o R_init_S4Vectors.o Rle_class.o Rle_utils.o SEXP_utils.o SimpleList_class.o anyMissing.o character_utils.o eval_utils.o hash_utils.o integer_utils.o logical_utils.o map_ranges_to_runs.o raw_utils.o safe_arithm.o sort_utils.o subsetting_utils.o vector_utils.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-S4Vectors/00new/S4Vectors/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘normalizeSingleBracketReplacementValue’ with signature ‘"List"’: no definition for class “List”
+Creating a new generic function for ‘unname’ in package ‘S4Vectors’
+Creating a new generic function for ‘expand.grid’ in package ‘S4Vectors’
+Creating a new generic function for ‘findMatches’ in package ‘S4Vectors’
+Creating a generic function for ‘setequal’ from package ‘base’ in package ‘S4Vectors’
+in method for ‘coerce’ with signature ‘"Hits","DFrame"’: no definition for class “DFrame”
+Creating a generic function for ‘as.factor’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘tabulate’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘cov’ from package ‘stats’ in package ‘S4Vectors’
+Creating a generic function for ‘cor’ from package ‘stats’ in package ‘S4Vectors’
+Creating a generic function for ‘smoothEnds’ from package ‘stats’ in package ‘S4Vectors’
+Creating a generic function for ‘runmed’ from package ‘stats’ in package ‘S4Vectors’
+Creating a generic function for ‘nchar’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘substr’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘substring’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘chartr’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘tolower’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘toupper’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘sub’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘gsub’ from package ‘base’ in package ‘S4Vectors’
+Creating a generic function for ‘nlevels’ from package ‘base’ in package ‘S4Vectors’
+in method for ‘coerce’ with signature ‘"data.table","DFrame"’: no definition for class “data.table”
+Creating a generic function for ‘complete.cases’ from package ‘stats’ in package ‘S4Vectors’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘S4Vectors’ as ‘S4Vectors_0.36.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (S4Vectors)
+* installing *source* package ‘updateObject’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘updateObject’ as ‘updateObject_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (updateObject)
+
+The downloaded source packages are in
+	‘/tmp/RtmpM3mBLV/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m40.179s
+user	0m29.690s
+sys	0m2.839s
