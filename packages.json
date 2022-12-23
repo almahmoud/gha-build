@@ -1392,7 +1392,6 @@
         "BSgenome.Drerio.UCSC.danRer7",
         "rtracklayer"
     ],
-    "clippda": [],
     "clipper": [
         "GenomicFeatures",
         "annotate",
