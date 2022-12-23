@@ -486,7 +486,6 @@
         "ttgsea"
     ],
     "deepSNV": [],
-    "DEFormats": [],
     "DegNorm": [],
     "DeMixT": [
         "DSS"
@@ -1553,7 +1552,6 @@
     "RegEnrich": [],
     "regioneReloaded": [],
     "regionReport": [
-        "DEFormats",
         "GenomicFiles",
         "derfinder"
     ],
