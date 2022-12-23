@@ -3447,8 +3447,7 @@
         "textstem",
         "ttgsea",
         "viridis",
-        "visNetwork",
-        "webchem"
+        "visNetwork"
     ],
     "deepSNV": [
         "AnnotationDbi",
@@ -5514,8 +5513,7 @@
         "textstem",
         "ttgsea",
         "viridis",
-        "visNetwork",
-        "webchem"
+        "visNetwork"
     ],
     "GenVisR": [
         "AnnotationDbi",
@@ -11548,8 +11546,7 @@
         "affy",
         "htmlwidgets",
         "rcdk",
-        "vsn",
-        "webchem"
+        "vsn"
     ],
     "Rmmquant": [
         "AnnotationDbi",
@@ -14508,8 +14505,7 @@
         "textstem",
         "ttgsea",
         "viridis",
-        "visNetwork",
-        "webchem"
+        "visNetwork"
     ],
     "VanillaICE": [
         "BSgenome",
@@ -15748,7 +15744,6 @@
         "htmlwidgets"
     ],
     "rcdk": [],
-    "webchem": [],
     "textstem": [
         "lexicon",
         "syuzhet",

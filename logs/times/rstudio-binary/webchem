@@ -1,0 +1,227 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   4d79ff01..ade1c9bc  main       -> origin/main
+Updating 4d79ff01..ade1c9bc
+Fast-forward
+ lists/SUITOR                                     |    2 +-
+ lists/statTarget                                 |    2 +-
+ lists/survMisc                                   |    2 +-
+ lists/tidytext                                   |    2 +-
+ lists/yardstick                                  |    2 +-
+ logs/run_ids/rstudio-binaries/bacon              |    2 +
+ logs/run_ids/rstudio-binaries/benchmarkmeData    |    2 +
+ logs/run_ids/rstudio-binaries/clst               |    2 +
+ logs/run_ids/rstudio-binaries/clusterSeq         |    2 +
+ logs/sizes/rstudio-binaries/binaries/SUITOR      |    1 +
+ logs/sizes/rstudio-binaries/binaries/statTarget  |    1 +
+ logs/sizes/rstudio-binaries/binaries/survMisc    |    1 +
+ logs/sizes/rstudio-binaries/binaries/tidytext    |    1 +
+ logs/sizes/rstudio-binaries/binaries/yardstick   |    1 +
+ logs/sizes/rstudio-binaries/libraries/SUITOR     |    1 +
+ logs/sizes/rstudio-binaries/libraries/statTarget |    1 +
+ logs/sizes/rstudio-binaries/libraries/survMisc   |    1 +
+ logs/sizes/rstudio-binaries/libraries/tidytext   |    1 +
+ logs/sizes/rstudio-binaries/libraries/yardstick  |    1 +
+ logs/times/rstudio-binary/SUITOR                 |  102 ++
+ logs/times/rstudio-binary/statTarget             | 1449 ++++++++++++++++++++++
+ logs/times/rstudio-binary/survMisc               |  321 +++++
+ logs/times/rstudio-binary/tidytext               | 1163 +++++++++++++++++
+ logs/times/rstudio-binary/yardstick              |   73 ++
+ packages.json                                    |   32 +-
+ 25 files changed, 3135 insertions(+), 33 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/bacon
+ create mode 100644 logs/run_ids/rstudio-binaries/benchmarkmeData
+ create mode 100644 logs/run_ids/rstudio-binaries/clst
+ create mode 100644 logs/run_ids/rstudio-binaries/clusterSeq
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/SUITOR
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/statTarget
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/survMisc
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/tidytext
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/yardstick
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/SUITOR
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/statTarget
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/survMisc
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/tidytext
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/yardstick
+ create mode 100644 logs/times/rstudio-binary/SUITOR
+ create mode 100644 logs/times/rstudio-binary/statTarget
+ create mode 100644 logs/times/rstudio-binary/survMisc
+ create mode 100644 logs/times/rstudio-binary/tidytext
+ create mode 100644 logs/times/rstudio-binary/yardstick
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=webchem
++ PKG=webchem
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "webchem"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency rvest is already found.
+Dependency dplyr is already found.
+Dependency purrr is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 4834k    1 98904    0     0   104k      0  0:00:46 --:--:--  0:00:46  104k  9 4834k    9  458k    0     0   236k      0  0:00:20  0:00:01  0:00:19  236k 20 4834k   20 1000k    0     0   341k      0  0:00:14  0:00:02  0:00:12  341k 37 4834k   37 1796k    0     0   456k      0  0:00:10  0:00:03  0:00:07  456k 57 4834k   57 2800k    0     0   568k      0  0:00:08  0:00:04  0:00:04  568k 83 4834k   83 4028k    0     0   679k      0  0:00:07  0:00:05  0:00:02  785k100 4834k  100 4834k    0     0   743k      0  0:00:06  0:00:06 --:--:--  958k
+built/
+built/stringi/
+built/stringi/libs/
+built/stringi/libs/stringi.so
+built/stringi/NEWS
+built/stringi/NAMESPACE
+built/stringi/DESCRIPTION
+built/stringi/help/
+built/stringi/help/paths.rds
+built/stringi/help/stringi.rdx
+built/stringi/help/aliases.rds
+built/stringi/help/stringi.rdb
+built/stringi/help/AnIndex
+built/stringi/Meta/
+built/stringi/Meta/package.rds
+built/stringi/Meta/features.rds
+built/stringi/Meta/hsearch.rds
+built/stringi/Meta/links.rds
+built/stringi/Meta/nsInfo.rds
+built/stringi/Meta/Rd.rds
+built/stringi/include/
+built/stringi/include/stringi.h
+built/stringi/include/stringi.cpp
+built/stringi/LICENSE
+built/stringi/CITATION
+built/stringi/html/
+built/stringi/html/00Index.html
+built/stringi/html/R.css
+built/stringi/AUTHORS
+built/stringi/INDEX
+built/stringi/R/
+built/stringi/R/stringi
+built/stringi/R/stringi.rdx
+built/stringi/R/stringi.rdb
+built/data.tree/
+built/data.tree/NEWS
+built/data.tree/extdata/
+built/data.tree/extdata/jennylind.yaml
+built/data.tree/extdata/portfolio.csv
+built/data.tree/extdata/flare.json
+built/data.tree/extdata/useR15.csv
+built/data.tree/NAMESPACE
+built/data.tree/DESCRIPTION
+built/data.tree/help/
+built/data.tree/help/paths.rds
+built/data.tree/help/aliases.rds
+built/data.tree/help/data.tree.rdx
+built/data.tree/help/data.tree.rdb
+built/data.tree/help/AnIndex
+built/data.tree/data/
+built/data.tree/data/acme.rda
+built/data.tree/data/mushroom.rda
+built/data.tree/Meta/
+built/data.tree/Meta/package.rds
+built/data.tree/Meta/vignette.rds
+built/data.tree/Meta/features.rds
+built/data.tree/Meta/hsearch.rds
+built/data.tree/Meta/links.rds
+built/data.tree/Meta/nsInfo.rds
+built/data.tree/Meta/Rd.rds
+built/data.tree/Meta/data.rds
+built/data.tree/html/
+built/data.tree/html/00Index.html
+built/data.tree/html/R.css
+built/data.tree/INDEX
+built/data.tree/doc/
+built/data.tree/doc/applications.html
+built/data.tree/doc/applications.R
+built/data.tree/doc/data.tree.R
+built/data.tree/doc/data.tree.html
+built/data.tree/doc/index.html
+built/data.tree/doc/data.tree.Rmd
+built/data.tree/doc/applications.Rmd
+built/data.tree/R/
+built/data.tree/R/data.tree.rdx
+built/data.tree/R/data.tree
+built/data.tree/R/data.tree.rdb
+built/R6/
+built/R6/NAMESPACE
+built/R6/DESCRIPTION
+built/R6/help/
+built/R6/help/paths.rds
+built/R6/help/R6.rdx
+built/R6/help/R6.rdb
+built/R6/help/aliases.rds
+built/R6/help/figures/
+built/R6/help/figures/logo.svg
+built/R6/help/figures/logo.png
+built/R6/help/AnIndex
+built/R6/Meta/
+built/R6/Meta/package.rds
+built/R6/Meta/features.rds
+built/R6/Meta/hsearch.rds
+built/R6/Meta/links.rds
+built/R6/Meta/nsInfo.rds
+built/R6/Meta/Rd.rds
+built/R6/LICENSE
+built/R6/html/
+built/R6/html/00Index.html
+built/R6/html/R.css
+built/R6/INDEX
+built/R6/R/
+built/R6/R/R6.rdx
+built/R6/R/R6.rdb
+built/R6/R/R6
+built/R6/NEWS.md
+Dependency base64enc is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''webchem'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv data.tree_1.0.0_R_x86_64-pc-linux-gnu.tar.gz webchem_1.2.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/webchem
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'webchem'
+also installing the dependency ‘data.tree’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/data.tree_1.0.0.tar.gz'
+Content type 'binary/octet-stream' length 1641609 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/webchem_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 361150 bytes (352 KB)
+==================================================
+downloaded 352 KB
+
+* installing *binary* package ‘data.tree’ ...
+* ‘data.tree’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘data.tree’ as ‘data.tree_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (data.tree)
+* installing *binary* package ‘webchem’ ...
+* ‘webchem’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘webchem’ as ‘webchem_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (webchem)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0PFwIG/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m18.713s
+user	0m5.787s
+sys	0m0.638s
