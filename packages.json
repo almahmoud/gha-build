@@ -8267,8 +8267,7 @@
         "rstatix",
         "rtracklayer",
         "survivalAnalysis",
-        "survminer",
-        "tidytidbits"
+        "survminer"
     ],
     "signifinder": [
         "GSEABase",
@@ -10485,10 +10484,8 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survminer",
-        "tidytidbits"
+        "survminer"
     ],
-    "tidytidbits": [],
     "celldex": [
         "AnnotationHub",
         "ExperimentHub",
