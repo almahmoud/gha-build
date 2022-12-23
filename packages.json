@@ -3475,7 +3475,6 @@
         "quantro",
         "yarn"
     ],
-    "ngsReports": [],
     "nnSVG": [
         "DropletUtils",
         "SpatialExperiment"
