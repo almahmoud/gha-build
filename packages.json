@@ -5252,7 +5252,6 @@
         "knitr",
         "mgcv",
         "pillar",
-        "plotmo",
         "rmarkdown",
         "sass",
         "scales",
@@ -28113,7 +28112,6 @@
         "knitr",
         "mgcv",
         "pillar",
-        "plotmo",
         "quantreg",
         "rmarkdown",
         "sass",
@@ -59572,10 +59570,7 @@
     "gamlss": [
         "survival"
     ],
-    "earth": [
-        "plotmo"
-    ],
-    "plotmo": [],
+    "earth": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
