@@ -1674,7 +1674,6 @@
     "VCFArray": [
         "GenomicFiles"
     ],
-    "vidger": [],
     "vissE": [],
     "Voyager": [
         "SpatialFeatureExperiment"
