@@ -28,8 +28,7 @@
     "AnnotationHubData": [],
     "APAlyzer": [],
     "appreci8R": [
-        "MafDb.1Kgenomes.phase3.hs37d5",
-        "SIFT.Hsapiens.dbSNP137"
+        "MafDb.1Kgenomes.phase3.hs37d5"
     ],
     "ArrayExpressHTS": [],
     "arrayMvout": [
@@ -1400,7 +1399,6 @@
     "rstatix": [],
     "ReorderCluster": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
-    "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi"
