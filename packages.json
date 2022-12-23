@@ -228,8 +228,7 @@
     ],
     "amplican": [
         "GenomicAlignments",
-        "ShortRead",
-        "waffle"
+        "ShortRead"
     ],
     "Anaquin": [
         "AnnotationDbi",
@@ -13595,7 +13594,6 @@
         "interactiveDisplayBase",
         "rhdf5"
     ],
-    "waffle": [],
     "DescTools": [],
     "lmerTest": [
         "lme4",
