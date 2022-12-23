@@ -746,7 +746,6 @@
         "ensembldb"
     ],
     "consensusOV": [],
-    "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
         "GenomicFeatures",
@@ -3193,9 +3192,7 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "ExperimentHub",
         "GenomicFeatures",
