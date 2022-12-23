@@ -8407,7 +8407,6 @@
         "DT",
         "SummarizedExperiment",
         "biomaRt",
-        "bsplus",
         "htmlwidgets",
         "learnr",
         "readr",
@@ -15591,7 +15590,6 @@
         "VariantAnnotation",
         "biomaRt",
         "broom",
-        "bsplus",
         "car",
         "cowplot",
         "ggpubr",
@@ -16794,7 +16792,6 @@
     ],
     "systemPipeShiny": [
         "DT",
-        "bsplus",
         "drawer",
         "htmlwidgets",
         "plotly",
@@ -19561,7 +19558,6 @@
         "htmlwidgets",
         "learnr"
     ],
-    "bsplus": [],
     "learnr": [
         "htmlwidgets"
     ],
@@ -20215,9 +20211,7 @@
         "viridis"
     ],
     "spsComps": [],
-    "drawer": [
-        "bsplus"
-    ],
+    "drawer": [],
     "GenKern": [],
     "ttservice": [],
     "FreqProf": [],
