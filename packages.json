@@ -6725,7 +6725,6 @@
         "SummarizedExperiment",
         "XVector",
         "dendextend",
-        "dtw",
         "ggplot2",
         "ggrepel",
         "igraph",
@@ -35636,7 +35635,6 @@
         "crosstalk",
         "dbplyr",
         "dplyr",
-        "dtw",
         "e1071",
         "fgsea",
         "fields",
@@ -52153,7 +52151,6 @@
         "XVector",
         "bslib",
         "dplyr",
-        "dtw",
         "ggplot2",
         "jquerylib",
         "kmlShape",
@@ -57092,7 +57089,6 @@
         "tidyselect",
         "waldo"
     ],
-    "dtw": [],
     "EnvStats": [
         "ggplot2",
         "mgcv",
@@ -60623,7 +60619,6 @@
         "vcd"
     ],
     "verification": [
-        "dtw",
         "fields",
         "ggplot2",
         "mgcv",
