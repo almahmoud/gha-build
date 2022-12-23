@@ -814,7 +814,6 @@
         "frma",
         "oligo"
     ],
-    "ChromHeatMap": [],
     "ChromSCape": [
         "scater",
         "scran",
