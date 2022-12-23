@@ -5951,7 +5951,6 @@
     "midasHLA": [
         "HardyWeinberg",
         "MultiAssayExperiment",
-        "formattable",
         "kableExtra",
         "mice"
     ],
@@ -10830,7 +10829,6 @@
     "XNAString": [
         "BSgenome",
         "GenomicAlignments",
-        "formattable",
         "rtracklayer"
     ],
     "yamss": [],
@@ -11648,7 +11646,6 @@
         "rtracklayer"
     ],
     "ggmcmc": [],
-    "formattable": [],
     "HardyWeinberg": [
         "mice"
     ],
