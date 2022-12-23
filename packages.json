@@ -3061,7 +3061,6 @@
         "viridis",
         "vsn"
     ],
-    "npGSEA": [],
     "nullranges": [],
     "NxtIRFcore": [
         "HDF5Array",
