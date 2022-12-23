@@ -8159,7 +8159,6 @@
         "phyloseq",
         "rhdf5"
     ],
-    "SimFFPE": [],
     "simpleSeg": [
         "DropletUtils",
         "HDF5Array",
