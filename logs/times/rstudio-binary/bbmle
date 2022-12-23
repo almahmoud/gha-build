@@ -1,0 +1,465 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   dc508f97..cac40384  main       -> origin/main
+Updating dc508f97..cac40384
+Fast-forward
+ logs/run_ids/rstudio-binaries/EntropyExplorer | 2 ++
+ logs/run_ids/rstudio-binaries/bayesm          | 2 ++
+ logs/run_ids/rstudio-binaries/bladderbatch    | 2 ++
+ logs/run_ids/rstudio-binaries/eulerr          | 2 ++
+ logs/run_ids/rstudio-binaries/fpc             | 2 ++
+ 5 files changed, 10 insertions(+)
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=bbmle
++ PKG=bbmle
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "bbmle"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  110k  100  110k    0     0   259k      0 --:--:-- --:--:-- --:--:--  259k
+built/
+built/numDeriv/
+built/numDeriv/NEWS
+built/numDeriv/NAMESPACE
+built/numDeriv/DESCRIPTION
+built/numDeriv/help/
+built/numDeriv/help/paths.rds
+built/numDeriv/help/numDeriv.rdx
+built/numDeriv/help/numDeriv.rdb
+built/numDeriv/help/aliases.rds
+built/numDeriv/help/AnIndex
+built/numDeriv/Meta/
+built/numDeriv/Meta/package.rds
+built/numDeriv/Meta/vignette.rds
+built/numDeriv/Meta/features.rds
+built/numDeriv/Meta/hsearch.rds
+built/numDeriv/Meta/links.rds
+built/numDeriv/Meta/nsInfo.rds
+built/numDeriv/Meta/Rd.rds
+built/numDeriv/html/
+built/numDeriv/html/00Index.html
+built/numDeriv/html/R.css
+built/numDeriv/INDEX
+built/numDeriv/doc/
+built/numDeriv/doc/Guide.R
+built/numDeriv/doc/Guide.pdf
+built/numDeriv/doc/index.html
+built/numDeriv/doc/Guide.Stex
+built/numDeriv/R/
+built/numDeriv/R/numDeriv.rdx
+built/numDeriv/R/numDeriv.rdb
+built/numDeriv/R/numDeriv
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 76 1124k   76  856k    0     0   733k      0  0:00:01  0:00:01 --:--:--  733k100 1124k  100 1124k    0     0   851k      0  0:00:01  0:00:01 --:--:--  851k
+built/
+built/MASS/
+built/MASS/libs/
+built/MASS/libs/MASS.so
+built/MASS/NEWS
+built/MASS/NAMESPACE
+built/MASS/DESCRIPTION
+built/MASS/help/
+built/MASS/help/paths.rds
+built/MASS/help/MASS.rdx
+built/MASS/help/MASS.rdb
+built/MASS/help/aliases.rds
+built/MASS/help/AnIndex
+built/MASS/data/
+built/MASS/data/Rdata.rds
+built/MASS/data/Rdata.rdb
+built/MASS/data/Rdata.rdx
+built/MASS/Meta/
+built/MASS/Meta/package.rds
+built/MASS/Meta/features.rds
+built/MASS/Meta/hsearch.rds
+built/MASS/Meta/links.rds
+built/MASS/Meta/nsInfo.rds
+built/MASS/Meta/Rd.rds
+built/MASS/Meta/data.rds
+built/MASS/scripts/
+built/MASS/scripts/ch08.R
+built/MASS/scripts/ch13.R
+built/MASS/scripts/ch14.R
+built/MASS/scripts/ch11.R
+built/MASS/scripts/ch02.R
+built/MASS/scripts/ch10.R
+built/MASS/scripts/ch15.R
+built/MASS/scripts/ch05.R
+built/MASS/scripts/ch16.R
+built/MASS/scripts/ch12.R
+built/MASS/scripts/ch03.R
+built/MASS/scripts/ch01.R
+built/MASS/scripts/ch09.R
+built/MASS/scripts/ch06.R
+built/MASS/scripts/ch04.R
+built/MASS/scripts/ch07.R
+built/MASS/po/
+built/MASS/po/it/
+built/MASS/po/it/LC_MESSAGES/
+built/MASS/po/it/LC_MESSAGES/R-MASS.mo
+built/MASS/po/fr/
+built/MASS/po/fr/LC_MESSAGES/
+built/MASS/po/fr/LC_MESSAGES/R-MASS.mo
+built/MASS/po/ko/
+built/MASS/po/ko/LC_MESSAGES/
+built/MASS/po/ko/LC_MESSAGES/R-MASS.mo
+built/MASS/po/pl/
+built/MASS/po/pl/LC_MESSAGES/
+built/MASS/po/pl/LC_MESSAGES/R-MASS.mo
+built/MASS/po/en@quot/
+built/MASS/po/en@quot/LC_MESSAGES/
+built/MASS/po/en@quot/LC_MESSAGES/R-MASS.mo
+built/MASS/po/de/
+built/MASS/po/de/LC_MESSAGES/
+built/MASS/po/de/LC_MESSAGES/R-MASS.mo
+built/MASS/CITATION
+built/MASS/html/
+built/MASS/html/00Index.html
+built/MASS/html/R.css
+built/MASS/INDEX
+built/MASS/R/
+built/MASS/R/MASS.rdx
+built/MASS/R/MASS.rdb
+built/MASS/R/MASS
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  312k  100  312k    0     0   431k      0 --:--:-- --:--:-- --:--:--  431k
+built/
+built/bdsmatrix/
+built/bdsmatrix/libs/
+built/bdsmatrix/libs/bdsmatrix.so
+built/bdsmatrix/NAMESPACE
+built/bdsmatrix/DESCRIPTION
+built/bdsmatrix/help/
+built/bdsmatrix/help/paths.rds
+built/bdsmatrix/help/bdsmatrix.rdb
+built/bdsmatrix/help/bdsmatrix.rdx
+built/bdsmatrix/help/aliases.rds
+built/bdsmatrix/help/AnIndex
+built/bdsmatrix/Meta/
+built/bdsmatrix/Meta/package.rds
+built/bdsmatrix/Meta/features.rds
+built/bdsmatrix/Meta/hsearch.rds
+built/bdsmatrix/Meta/links.rds
+built/bdsmatrix/Meta/nsInfo.rds
+built/bdsmatrix/Meta/Rd.rds
+built/bdsmatrix/NEWS.Rd
+built/bdsmatrix/NEWS.Rd.orig
+built/bdsmatrix/include/
+built/bdsmatrix/include/bdsmatrix.h
+built/bdsmatrix/include/bdsmatrix_stub.h
+built/bdsmatrix/html/
+built/bdsmatrix/html/00Index.html
+built/bdsmatrix/html/R.css
+built/bdsmatrix/INDEX
+built/bdsmatrix/R/
+built/bdsmatrix/R/bdsmatrix.rdb
+built/bdsmatrix/R/bdsmatrix.rdx
+built/bdsmatrix/R/bdsmatrix
+built/bdsmatrix/COPYRIGHTS
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 13 5583k   13  771k    0     0   736k      0  0:00:07  0:00:01  0:00:06  736k 52 5583k   52 2907k    0     0  1417k      0  0:00:03  0:00:02  0:00:01 1416k100 5583k  100 5583k    0     0  1961k      0  0:00:02  0:00:02 --:--:-- 1961k
+built/
+built/lattice/
+built/lattice/libs/
+built/lattice/libs/lattice.so
+built/lattice/NEWS
+built/lattice/NAMESPACE
+built/lattice/DESCRIPTION
+built/lattice/help/
+built/lattice/help/paths.rds
+built/lattice/help/lattice.rdx
+built/lattice/help/lattice.rdb
+built/lattice/help/aliases.rds
+built/lattice/help/AnIndex
+built/lattice/data/
+built/lattice/data/Rdata.rds
+built/lattice/data/Rdata.rdb
+built/lattice/data/Rdata.rdx
+built/lattice/Meta/
+built/lattice/Meta/package.rds
+built/lattice/Meta/demo.rds
+built/lattice/Meta/features.rds
+built/lattice/Meta/hsearch.rds
+built/lattice/Meta/links.rds
+built/lattice/Meta/nsInfo.rds
+built/lattice/Meta/Rd.rds
+built/lattice/Meta/data.rds
+built/lattice/po/
+built/lattice/po/it/
+built/lattice/po/it/LC_MESSAGES/
+built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/lattice/po/fr/
+built/lattice/po/fr/LC_MESSAGES/
+built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/lattice/po/ko/
+built/lattice/po/ko/LC_MESSAGES/
+built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/lattice/po/pl/
+built/lattice/po/pl/LC_MESSAGES/
+built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/lattice/po/en@quot/
+built/lattice/po/en@quot/LC_MESSAGES/
+built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/lattice/po/de/
+built/lattice/po/de/LC_MESSAGES/
+built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/lattice/CITATION
+built/lattice/html/
+built/lattice/html/00Index.html
+built/lattice/html/R.css
+built/lattice/INDEX
+built/lattice/R/
+built/lattice/R/lattice
+built/lattice/R/lattice.rdx
+built/lattice/R/lattice.rdb
+built/lattice/demo/
+built/lattice/demo/panel.R
+built/lattice/demo/intervals.R
+built/lattice/demo/labels.R
+built/lattice/demo/lattice.R
+built/Matrix/
+built/Matrix/Doxyfile
+built/Matrix/libs/
+built/Matrix/libs/Matrix.so
+built/Matrix/NAMESPACE
+built/Matrix/LICENCE
+built/Matrix/DESCRIPTION
+built/Matrix/test-tools-1.R
+built/Matrix/help/
+built/Matrix/help/paths.rds
+built/Matrix/help/aliases.rds
+built/Matrix/help/AnIndex
+built/Matrix/help/Matrix.rdx
+built/Matrix/help/Matrix.rdb
+built/Matrix/data/
+built/Matrix/data/USCounties.R
+built/Matrix/data/datalist
+built/Matrix/data/CAex.R
+built/Matrix/data/wrld_1deg.R
+built/Matrix/data/KNex.R
+built/Matrix/Meta/
+built/Matrix/Meta/package.rds
+built/Matrix/Meta/vignette.rds
+built/Matrix/Meta/features.rds
+built/Matrix/Meta/hsearch.rds
+built/Matrix/Meta/links.rds
+built/Matrix/Meta/nsInfo.rds
+built/Matrix/Meta/Rd.rds
+built/Matrix/Meta/data.rds
+built/Matrix/NEWS.Rd
+built/Matrix/include/
+built/Matrix/include/cholmod.h
+built/Matrix/include/Matrix_stubs.c
+built/Matrix/include/Matrix.h
+built/Matrix/test-tools-Matrix.R
+built/Matrix/test-tools.R
+built/Matrix/po/
+built/Matrix/po/lt/
+built/Matrix/po/lt/LC_MESSAGES/
+built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/it/
+built/Matrix/po/it/LC_MESSAGES/
+built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/fr/
+built/Matrix/po/fr/LC_MESSAGES/
+built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/ko/
+built/Matrix/po/ko/LC_MESSAGES/
+built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/pl/
+built/Matrix/po/pl/LC_MESSAGES/
+built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/en@quot/
+built/Matrix/po/en@quot/LC_MESSAGES/
+built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/Matrix/po/de/
+built/Matrix/po/de/LC_MESSAGES/
+built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/Matrix/Copyrights
+built/Matrix/html/
+built/Matrix/html/00Index.html
+built/Matrix/html/R.css
+built/Matrix/INDEX
+built/Matrix/doc/
+built/Matrix/doc/Design-issues.Rnw
+built/Matrix/doc/sparseModels.R
+built/Matrix/doc/Intro2Matrix.pdf
+built/Matrix/doc/Intro2Matrix.Rnw
+built/Matrix/doc/Introduction.R
+built/Matrix/doc/sparseModels.Rnw
+built/Matrix/doc/Design-issues.pdf
+built/Matrix/doc/Design-issues.R
+built/Matrix/doc/Comparisons.R
+built/Matrix/doc/Announce.txt
+built/Matrix/doc/Introduction.Rnw
+built/Matrix/doc/Intro2Matrix.R
+built/Matrix/doc/index.html
+built/Matrix/doc/SuiteSparse/
+built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/Matrix/doc/SuiteSparse/AMD.txt
+built/Matrix/doc/SuiteSparse/SPQR.txt
+built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/Matrix/doc/Comparisons.pdf
+built/Matrix/doc/sparseModels.pdf
+built/Matrix/doc/Comparisons.Rnw
+built/Matrix/doc/Introduction.pdf
+built/Matrix/R/
+built/Matrix/R/Matrix
+built/Matrix/R/Matrix.rdx
+built/Matrix/R/Matrix.rdb
+built/Matrix/external/
+built/Matrix/external/symW.rda
+built/Matrix/external/lund_a.rsa
+built/Matrix/external/wrong.mtx
+built/Matrix/external/pores_1.mtx
+built/Matrix/external/wrld_1deg_slots.rda
+built/Matrix/external/CAex_slots.rda
+built/Matrix/external/KNex_slots.rda
+built/Matrix/external/jgl009.mtx
+built/Matrix/external/utm300.rua
+built/Matrix/external/test3comp.rda
+built/Matrix/external/USCounties_slots.rda
+built/Matrix/external/Z_NA_rnk.rds
+built/Matrix/external/symA.rda
+built/Matrix/external/lund_a.mtx
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  254k  100  254k    0     0   376k      0 --:--:-- --:--:-- --:--:--  376k
+built/
+built/mvtnorm/
+built/mvtnorm/libs/
+built/mvtnorm/libs/mvtnorm.so
+built/mvtnorm/NEWS
+built/mvtnorm/NAMESPACE
+built/mvtnorm/DESCRIPTION
+built/mvtnorm/help/
+built/mvtnorm/help/paths.rds
+built/mvtnorm/help/aliases.rds
+built/mvtnorm/help/mvtnorm.rdx
+built/mvtnorm/help/mvtnorm.rdb
+built/mvtnorm/help/AnIndex
+built/mvtnorm/Meta/
+built/mvtnorm/Meta/package.rds
+built/mvtnorm/Meta/vignette.rds
+built/mvtnorm/Meta/features.rds
+built/mvtnorm/Meta/hsearch.rds
+built/mvtnorm/Meta/links.rds
+built/mvtnorm/Meta/nsInfo.rds
+built/mvtnorm/Meta/Rd.rds
+built/mvtnorm/include/
+built/mvtnorm/include/mvtnormAPI.h
+built/mvtnorm/include/mvtnorm.h
+built/mvtnorm/CITATION
+built/mvtnorm/C_API_Example/
+built/mvtnorm/C_API_Example/NAMESPACE
+built/mvtnorm/C_API_Example/DESCRIPTION
+built/mvtnorm/C_API_Example/R/
+built/mvtnorm/C_API_Example/R/test.R
+built/mvtnorm/C_API_Example/src/
+built/mvtnorm/C_API_Example/src/test.c
+built/mvtnorm/C_API_Example/tests/
+built/mvtnorm/C_API_Example/tests/test.R
+built/mvtnorm/html/
+built/mvtnorm/html/00Index.html
+built/mvtnorm/html/R.css
+built/mvtnorm/INDEX
+built/mvtnorm/doc/
+built/mvtnorm/doc/MVT_Rnews.Rnw
+built/mvtnorm/doc/MVT_Rnews.R
+built/mvtnorm/doc/MVT_Rnews.pdf
+built/mvtnorm/doc/index.html
+built/mvtnorm/R/
+built/mvtnorm/R/mvtnorm
+built/mvtnorm/R/mvtnorm.rdx
+built/mvtnorm/R/mvtnorm.rdb
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''bbmle'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv bbmle_1.0.25_R_x86_64-pc-linux-gnu.tar.gz bdsmatrix_1.3-6_R_x86_64-pc-linux-gnu.tar.gz mvtnorm_1.1-3_R_x86_64-pc-linux-gnu.tar.gz numDeriv_2016.8-1.1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/bbmle
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'bbmle'
+also installing the dependencies ‘numDeriv’, ‘bdsmatrix’, ‘mvtnorm’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/numDeriv_2016.8-1.1.tar.gz'
+Content type 'binary/octet-stream' length 112651 bytes (110 KB)
+==================================================
+downloaded 110 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/bdsmatrix_1.3-6.tar.gz'
+Content type 'binary/octet-stream' length 320944 bytes (313 KB)
+==================================================
+downloaded 313 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/mvtnorm_1.1-3.tar.gz'
+Content type 'binary/octet-stream' length 263444 bytes (257 KB)
+==================================================
+downloaded 257 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/bbmle_1.0.25.tar.gz'
+Content type 'binary/octet-stream' length 891741 bytes (870 KB)
+==================================================
+downloaded 870 KB
+
+* installing *binary* package ‘numDeriv’ ...
+* ‘numDeriv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘numDeriv’ as ‘numDeriv_2016.8-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (numDeriv)
+* installing *binary* package ‘bdsmatrix’ ...
+* ‘bdsmatrix’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bdsmatrix’ as ‘bdsmatrix_1.3-6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bdsmatrix)
+* installing *binary* package ‘mvtnorm’ ...
+* ‘mvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *binary* package ‘bbmle’ ...
+* ‘bbmle’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bbmle’ as ‘bbmle_1.0.25_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bbmle)
+
+The downloaded source packages are in
+	‘/tmp/RtmpICiUEQ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m14.438s
+user	0m5.719s
+sys	0m0.829s
