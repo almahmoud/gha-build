@@ -5956,7 +5956,6 @@
         "viridis",
         "waldo"
     ],
-    "cycle": [],
     "cydar": [
         "GenomicRanges",
         "SingleCellExperiment",
