@@ -5770,7 +5770,6 @@
         "QDNAseq"
     ],
     "multiMiR": [],
-    "multiOmicsViz": [],
     "multiSight": [
         "DESeq2",
         "DOSE",
