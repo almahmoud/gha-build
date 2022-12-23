@@ -21931,7 +21931,6 @@
         "ggplot2",
         "methylKit",
         "qvalue",
-        "rebus",
         "reshape2",
         "restfulr",
         "rtracklayer",
@@ -46258,7 +46257,6 @@
         "tidyselect"
     ],
     "PerformanceAnalytics": [],
-    "rebus": [],
     "ggmcmc": [
         "GGally",
         "dplyr",
