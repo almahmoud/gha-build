@@ -61663,7 +61663,6 @@
         "withr",
         "xml2",
         "yaml",
-        "yesno",
         "zip"
     ],
     "HumanTranscriptomeCompendium": [
@@ -165787,8 +165786,7 @@
         "tokenizers",
         "utf8",
         "vctrs",
-        "withr",
-        "yesno"
+        "withr"
     ],
     "aws.s3": [
         "R6",
@@ -165802,7 +165800,6 @@
         "openssl",
         "xml2"
     ],
-    "yesno": [],
     "aws.signature": [
         "base64enc",
         "digest"
