@@ -70073,7 +70073,6 @@
         "RcppEigen",
         "bit64",
         "callr",
-        "coro",
         "ellipsis",
         "foreach",
         "futile.logger",
@@ -98792,11 +98791,9 @@
     "torch": [
         "bit64",
         "callr",
-        "coro",
         "ellipsis",
         "processx"
     ],
-    "coro": [],
     "elasticnet": [],
     "sparsepca": [
         "Matrix",
