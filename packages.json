@@ -1601,10 +1601,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "fobitools": [],
     "FoldGO": [],
     "FRASER": [
