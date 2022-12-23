@@ -32841,9 +32841,7 @@
     "panp": [
         "affy"
     ],
-    "PANR": [
-        "RedeR"
-    ],
+    "PANR": [],
     "PanViz": [
         "dplyr",
         "futile.logger",
@@ -37149,7 +37147,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "RedeR": [],
     "RedisParam": [
         "BiocParallel",
         "futile.logger"
@@ -39691,7 +39688,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RedeR",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -39729,7 +39725,6 @@
         "GenomicRanges",
         "IRanges",
         "RTN",
-        "RedeR",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -39768,7 +39763,6 @@
         "IRanges",
         "RTN",
         "RTNduals",
-        "RedeR",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -47827,7 +47821,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "RedeR",
         "XVector",
         "biomaRt",
         "blob",
@@ -48044,9 +48037,7 @@
         "vctrs",
         "viridis"
     ],
-    "TreeAndLeaf": [
-        "RedeR"
-    ],
+    "TreeAndLeaf": [],
     "treeio": [
         "dplyr",
         "pillar",
