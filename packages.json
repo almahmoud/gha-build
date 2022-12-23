@@ -3425,7 +3425,6 @@
         "biovizBase",
         "viridis"
     ],
-    "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
         "Hmisc",
