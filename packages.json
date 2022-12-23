@@ -532,9 +532,7 @@
         "ggraph",
         "viridis"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "CircSeqAlignTk": [],
     "CiteFuse": [
         "ggraph",
@@ -1418,7 +1416,6 @@
         "biovizBase",
         "viridis"
     ],
-    "gwascat": [],
     "GWENA": [
         "Hmisc",
         "WGCNA",
@@ -3597,9 +3594,7 @@
     "vsn": [
         "affy"
     ],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [],
     "wateRmelon": [
         "HDF5Array",
