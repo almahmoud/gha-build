@@ -172,7 +172,6 @@
     "autonomics": [
         "assertive"
     ],
-    "BadRegionFinder": [],
     "bandle": [
         "MSnbase",
         "affy",
