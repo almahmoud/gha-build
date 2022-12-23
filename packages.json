@@ -24409,7 +24409,6 @@
         "dplyr",
         "rtracklayer"
     ],
-    "sigsquared": [],
     "SIM": [
         "AnnotationDbi",
         "Biostrings",
