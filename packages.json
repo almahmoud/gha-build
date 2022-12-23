@@ -6980,7 +6980,6 @@
         "rmarkdown",
         "visNetwork"
     ],
-    "flowMap": [],
     "flowPloidy": [
         "broom",
         "car",
