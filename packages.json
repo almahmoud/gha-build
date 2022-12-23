@@ -21409,7 +21409,6 @@
         "IRanges",
         "XVector"
     ],
-    "HilbertVisGUI": [],
     "HiLDA": [
         "AnnotationDbi",
         "BSgenome",
