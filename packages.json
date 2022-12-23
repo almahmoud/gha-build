@@ -26520,7 +26520,6 @@
         "openssl",
         "pROC",
         "pillar",
-        "plgem",
         "progress",
         "purrr",
         "restfulr",
@@ -41706,7 +41705,6 @@
         "tibble",
         "vctrs"
     ],
-    "plgem": [],
     "plier": [
         "affy"
     ],
