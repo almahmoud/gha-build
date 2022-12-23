@@ -11088,7 +11088,6 @@
     "scds": [
         "SingleCellExperiment"
     ],
-    "scFeatureFilter": [],
     "scGPS": [
         "AnnotationDbi",
         "DESeq2",
