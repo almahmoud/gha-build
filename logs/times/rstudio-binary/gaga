@@ -1,0 +1,1126 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   1f625770..c2d8033b  main       -> origin/main
+Updating 1f625770..c2d8033b
+Fast-forward
+ logs/run_ids/rstudio-binaries/GSAR            |   2 +
+ logs/run_ids/rstudio-binaries/future.apply    |   2 +
+ logs/run_ids/rstudio-binaries/gmm             |   2 +
+ logs/sizes/rstudio-binaries/binaries/convert  |   1 +
+ logs/sizes/rstudio-binaries/libraries/convert |   1 +
+ logs/times/rstudio-binary/convert             | 538 ++++++++++++++++++++++++++
+ 6 files changed, 546 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/GSAR
+ create mode 100644 logs/run_ids/rstudio-binaries/future.apply
+ create mode 100644 logs/run_ids/rstudio-binaries/gmm
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/convert
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/convert
+ create mode 100644 logs/times/rstudio-binary/convert
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=gaga
++ PKG=gaga
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "gaga"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 14 1444k   14  211k    0     0   161k      0  0:00:08  0:00:01  0:00:07  161k 44 1444k   44  642k    0     0   278k      0  0:00:05  0:00:02  0:00:03  278k 87 1444k   87 1263k    0     0   383k      0  0:00:03  0:00:03 --:--:--  382k100 1444k  100 1444k    0     0   408k      0  0:00:03  0:00:03 --:--:--  408k
+built/
+built/lattice/
+built/lattice/libs/
+built/lattice/libs/lattice.so
+built/lattice/NEWS
+built/lattice/NAMESPACE
+built/lattice/DESCRIPTION
+built/lattice/help/
+built/lattice/help/paths.rds
+built/lattice/help/lattice.rdx
+built/lattice/help/lattice.rdb
+built/lattice/help/aliases.rds
+built/lattice/help/AnIndex
+built/lattice/data/
+built/lattice/data/Rdata.rds
+built/lattice/data/Rdata.rdb
+built/lattice/data/Rdata.rdx
+built/lattice/Meta/
+built/lattice/Meta/package.rds
+built/lattice/Meta/demo.rds
+built/lattice/Meta/features.rds
+built/lattice/Meta/hsearch.rds
+built/lattice/Meta/links.rds
+built/lattice/Meta/nsInfo.rds
+built/lattice/Meta/Rd.rds
+built/lattice/Meta/data.rds
+built/lattice/po/
+built/lattice/po/it/
+built/lattice/po/it/LC_MESSAGES/
+built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/lattice/po/fr/
+built/lattice/po/fr/LC_MESSAGES/
+built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/lattice/po/ko/
+built/lattice/po/ko/LC_MESSAGES/
+built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/lattice/po/pl/
+built/lattice/po/pl/LC_MESSAGES/
+built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/lattice/po/en@quot/
+built/lattice/po/en@quot/LC_MESSAGES/
+built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/lattice/po/de/
+built/lattice/po/de/LC_MESSAGES/
+built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/lattice/CITATION
+built/lattice/html/
+built/lattice/html/00Index.html
+built/lattice/html/R.css
+built/lattice/INDEX
+built/lattice/R/
+built/lattice/R/lattice
+built/lattice/R/lattice.rdx
+built/lattice/R/lattice.rdb
+built/lattice/demo/
+built/lattice/demo/panel.R
+built/lattice/demo/intervals.R
+built/lattice/demo/labels.R
+built/lattice/demo/lattice.R
+built/coda/
+built/coda/NAMESPACE
+built/coda/DESCRIPTION
+built/coda/help/
+built/coda/help/paths.rds
+built/coda/help/coda.rdb
+built/coda/help/coda.rdx
+built/coda/help/aliases.rds
+built/coda/help/AnIndex
+built/coda/data/
+built/coda/data/line.rda
+built/coda/Meta/
+built/coda/Meta/package.rds
+built/coda/Meta/features.rds
+built/coda/Meta/hsearch.rds
+built/coda/Meta/links.rds
+built/coda/Meta/nsInfo.rds
+built/coda/Meta/Rd.rds
+built/coda/Meta/data.rds
+built/coda/CITATION
+built/coda/html/
+built/coda/html/00Index.html
+built/coda/html/R.css
+built/coda/AUTHORS
+built/coda/INDEX
+built/coda/R/
+built/coda/R/coda
+built/coda/R/coda.rdb
+built/coda/R/coda.rdx
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 8873k    0 65280    0     0  90284      0  0:01:40 --:--:--  0:01:40 90290  4 8873k    4  382k    0     0   222k      0  0:00:39  0:00:01  0:00:38  222k 10 8873k   10  892k    0     0   328k      0  0:00:27  0:00:02  0:00:25  328k 18 8873k   18 1625k    0     0   437k      0  0:00:20  0:00:03  0:00:17  437k 28 8873k   28 2534k    0     0   537k      0  0:00:16  0:00:04  0:00:12  537k 41 8873k   41 3665k    0     0   641k      0  0:00:13  0:00:05  0:00:08  721k 57 8873k   57 5068k    0     0   751k      0  0:00:11  0:00:06  0:00:05  932k 74 8873k   74 6630k    0     0   856k      0  0:00:10  0:00:07  0:00:03 1142k 99 8873k   99 8797k    0     0  1006k      0  0:00:08  0:00:08 --:--:-- 1427k100 8873k  100 8873k    0     0  1015k      0  0:00:08  0:00:08 --:--:-- 1574k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/BiocGenerics/
+built/built/BiocGenerics/NAMESPACE
+built/built/BiocGenerics/DESCRIPTION
+built/built/BiocGenerics/help/
+built/built/BiocGenerics/help/paths.rds
+built/built/BiocGenerics/help/BiocGenerics.rdb
+built/built/BiocGenerics/help/aliases.rds
+built/built/BiocGenerics/help/AnIndex
+built/built/BiocGenerics/help/BiocGenerics.rdx
+built/built/BiocGenerics/Meta/
+built/built/BiocGenerics/Meta/package.rds
+built/built/BiocGenerics/Meta/features.rds
+built/built/BiocGenerics/Meta/hsearch.rds
+built/built/BiocGenerics/Meta/links.rds
+built/built/BiocGenerics/Meta/nsInfo.rds
+built/built/BiocGenerics/Meta/Rd.rds
+built/built/BiocGenerics/unitTests/
+built/built/BiocGenerics/unitTests/test_combine.R
+built/built/BiocGenerics/unitTests/test_mapply.R
+built/built/BiocGenerics/unitTests/test_Extremes.R
+built/built/BiocGenerics/unitTests/test_order.R
+built/built/BiocGenerics/unitTests/test_updateObject.R
+built/built/BiocGenerics/unitTests/test_format.R
+built/built/BiocGenerics/unitTests/test_paste.R
+built/built/BiocGenerics/CITATION
+built/built/BiocGenerics/html/
+built/built/BiocGenerics/html/00Index.html
+built/built/BiocGenerics/html/R.css
+built/built/BiocGenerics/INDEX
+built/built/BiocGenerics/R/
+built/built/BiocGenerics/R/BiocGenerics
+built/built/BiocGenerics/R/BiocGenerics.rdb
+built/built/BiocGenerics/R/BiocGenerics.rdx
+built/built/Biobase/
+built/built/Biobase/ExpressionSet/
+built/built/Biobase/ExpressionSet/DESCRIPTION
+built/built/Biobase/ExpressionSet/man/
+built/built/Biobase/ExpressionSet/man/@PKGNAME@.Rd
+built/built/Biobase/libs/
+built/built/Biobase/libs/Biobase.so
+built/built/Biobase/NEWS
+built/built/Biobase/extdata/
+built/built/Biobase/extdata/pData.txt
+built/built/Biobase/extdata/exprsData.txt
+built/built/Biobase/NAMESPACE
+built/built/Biobase/testClass.R
+built/built/Biobase/DESCRIPTION
+built/built/Biobase/help/
+built/built/Biobase/help/Biobase.rdx
+built/built/Biobase/help/paths.rds
+built/built/Biobase/help/Biobase.rdb
+built/built/Biobase/help/aliases.rds
+built/built/Biobase/help/AnIndex
+built/built/Biobase/data/
+built/built/Biobase/data/geneCovariate.rda
+built/built/Biobase/data/sample.ExpressionSet.rda
+built/built/Biobase/data/seD.rda
+built/built/Biobase/data/reporter.rda
+built/built/Biobase/data/geneCov.R
+built/built/Biobase/data/aaMap.R
+built/built/Biobase/data/SW.rda
+built/built/Biobase/data/geneData.R
+built/built/Biobase/data/sample.MultiSet.rda
+built/built/Biobase/Meta/
+built/built/Biobase/Meta/package.rds
+built/built/Biobase/Meta/vignette.rds
+built/built/Biobase/Meta/features.rds
+built/built/Biobase/Meta/hsearch.rds
+built/built/Biobase/Meta/links.rds
+built/built/Biobase/Meta/nsInfo.rds
+built/built/Biobase/Meta/Rd.rds
+built/built/Biobase/Meta/data.rds
+built/built/Biobase/Code/
+built/built/Biobase/Code/DESCRIPTION
+built/built/Biobase/Code/R/
+built/built/Biobase/Code/R/get@PKGNAME@.R
+built/built/Biobase/Code/man/
+built/built/Biobase/Code/man/get@PKGNAME@.Rd
+built/built/Biobase/Code/man/@PKGNAME@.Rd
+built/built/Biobase/scripts/
+built/built/Biobase/scripts/esetTesting.R
+built/built/Biobase/scripts/getBioCHelp
+built/built/Biobase/scripts/query.packages.R
+built/built/Biobase/scripts/getBioC.R
+built/built/Biobase/scripts/getBioCPkgNames.R
+built/built/Biobase/scripts/makeExpressionSetPackage.R
+built/built/Biobase/unitTests/
+built/built/Biobase/unitTests/test_copyEnv.R
+built/built/Biobase/unitTests/test_combine.R
+built/built/Biobase/unitTests/test_AnnotatedDataFrame.R
+built/built/Biobase/unitTests/test_EsetSubclasses.R
+built/built/Biobase/unitTests/test_unsaveSetSlot.R
+built/built/Biobase/unitTests/VersionedClass_data/
+built/built/Biobase/unitTests/VersionedClass_data/devel/
+built/built/Biobase/unitTests/VersionedClass_data/devel/SnpSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/VersionedBiobase.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/swrep.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/sample.eSet.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/exprSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/ExpressionSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/container.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/golubMergeSub.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/bbsym.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/MIAME.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/aggregator.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/Versioned.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/eset.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/ScalarInteger.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/VersionsNull.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/ScalarLogical.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.1.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/NChannelSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/AnnotatedDataFrame.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/Versions.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/MultiSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/ScalarCharacter.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/ScalarNumeric.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/SWPD.rda
+built/built/Biobase/unitTests/VersionedClass_data/1.8/
+built/built/Biobase/unitTests/VersionedClass_data/1.8/phenoData.Rda
+built/built/Biobase/unitTests/VersionedClass_data/1.8/exprSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/1.8/ExpressionSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/1.8/MIAME.Rda
+built/built/Biobase/unitTests/VersionedClass_data/1.8/AnnotatedDataFrame.Rda
+built/built/Biobase/unitTests/VersionedClass_data/raw/
+built/built/Biobase/unitTests/VersionedClass_data/raw/pData.tab
+built/built/Biobase/unitTests/VersionedClass_data/raw/exprs.tab
+built/built/Biobase/unitTests/VersionedClass_data/raw/varMetadata.tab
+built/built/Biobase/unitTests/VersionedClass_data/2.0/
+built/built/Biobase/unitTests/VersionedClass_data/2.0/SnpSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/phenoData.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/VersionedBiobase.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/exprSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/ExpressionSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/container.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/MIAME.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/aggregator.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/Versioned.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/VersionsNull.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/AnnotatedDataFrame.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/Versions.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/MultiSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/ScalarCharacter.Rda
+built/built/Biobase/unitTests/test_VersionedClass.R
+built/built/Biobase/unitTests/utilities.R
+built/built/Biobase/unitTests/test_NChannelSet.R
+built/built/Biobase/unitTests/test_AssayData.R
+built/built/Biobase/unitTests/test_checkClass.R
+built/built/Biobase/unitTests/test_UpdateObject.R
+built/built/Biobase/unitTests/test_SnpSet.R
+built/built/Biobase/unitTests/test_DataClasses.R
+built/built/Biobase/unitTests/test_ExpressionSet.R
+built/built/Biobase/unitTests/test_subListExtract.R
+built/built/Biobase/unitTests/test_esApply.R
+built/built/Biobase/unitTests/test_cache.R
+built/built/Biobase/CITATION
+built/built/Biobase/html/
+built/built/Biobase/html/00Index.html
+built/built/Biobase/html/R.css
+built/built/Biobase/INDEX
+built/built/Biobase/doc/
+built/built/Biobase/doc/esApply.Rmd
+built/built/Biobase/doc/ExpressionSetIntroduction.R
+built/built/Biobase/doc/esApply.html
+built/built/Biobase/doc/ExpressionSetIntroduction.Rnw
+built/built/Biobase/doc/index.html
+built/built/Biobase/doc/BiobaseDevelopment.html
+built/built/Biobase/doc/ExpressionSetIntroduction.pdf
+built/built/Biobase/doc/BiobaseDevelopment.R
+built/built/Biobase/doc/esApply.R
+built/built/Biobase/doc/BiobaseDevelopment.Rmd
+built/built/Biobase/R/
+built/built/Biobase/R/Biobase.rdx
+built/built/Biobase/R/Biobase.rdb
+built/built/Biobase/R/Biobase
+built/built/cluster/
+built/built/cluster/libs/
+built/built/cluster/libs/cluster.so
+built/built/cluster/NAMESPACE
+built/built/cluster/DESCRIPTION
+built/built/cluster/help/
+built/built/cluster/help/paths.rds
+built/built/cluster/help/cluster.rdx
+built/built/cluster/help/aliases.rds
+built/built/cluster/help/cluster.rdb
+built/built/cluster/help/AnIndex
+built/built/cluster/data/
+built/built/cluster/data/Rdata.rds
+built/built/cluster/data/Rdata.rdb
+built/built/cluster/data/Rdata.rdx
+built/built/cluster/Meta/
+built/built/cluster/Meta/package.rds
+built/built/cluster/Meta/features.rds
+built/built/cluster/Meta/hsearch.rds
+built/built/cluster/Meta/links.rds
+built/built/cluster/Meta/nsInfo.rds
+built/built/cluster/Meta/Rd.rds
+built/built/cluster/Meta/data.rds
+built/built/cluster/NEWS.Rd
+built/built/cluster/test-tools.R
+built/built/cluster/po/
+built/built/cluster/po/lt/
+built/built/cluster/po/lt/LC_MESSAGES/
+built/built/cluster/po/lt/LC_MESSAGES/cluster.mo
+built/built/cluster/po/lt/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/it/
+built/built/cluster/po/it/LC_MESSAGES/
+built/built/cluster/po/it/LC_MESSAGES/cluster.mo
+built/built/cluster/po/it/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/fr/
+built/built/cluster/po/fr/LC_MESSAGES/
+built/built/cluster/po/fr/LC_MESSAGES/cluster.mo
+built/built/cluster/po/fr/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/ko/
+built/built/cluster/po/ko/LC_MESSAGES/
+built/built/cluster/po/ko/LC_MESSAGES/cluster.mo
+built/built/cluster/po/ko/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/pl/
+built/built/cluster/po/pl/LC_MESSAGES/
+built/built/cluster/po/pl/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/en@quot/
+built/built/cluster/po/en@quot/LC_MESSAGES/
+built/built/cluster/po/en@quot/LC_MESSAGES/cluster.mo
+built/built/cluster/po/en@quot/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/de/
+built/built/cluster/po/de/LC_MESSAGES/
+built/built/cluster/po/de/LC_MESSAGES/cluster.mo
+built/built/cluster/po/de/LC_MESSAGES/R-cluster.mo
+built/built/cluster/CITATION
+built/built/cluster/html/
+built/built/cluster/html/00Index.html
+built/built/cluster/html/R.css
+built/built/cluster/INDEX
+built/built/cluster/R/
+built/built/cluster/R/cluster.rdx
+built/built/cluster/R/cluster.rdb
+built/built/cluster/R/cluster
+built/BiocGenerics/
+built/BiocGenerics/NAMESPACE
+built/BiocGenerics/DESCRIPTION
+built/BiocGenerics/help/
+built/BiocGenerics/help/paths.rds
+built/BiocGenerics/help/BiocGenerics.rdb
+built/BiocGenerics/help/aliases.rds
+built/BiocGenerics/help/AnIndex
+built/BiocGenerics/help/BiocGenerics.rdx
+built/BiocGenerics/Meta/
+built/BiocGenerics/Meta/package.rds
+built/BiocGenerics/Meta/features.rds
+built/BiocGenerics/Meta/hsearch.rds
+built/BiocGenerics/Meta/links.rds
+built/BiocGenerics/Meta/nsInfo.rds
+built/BiocGenerics/Meta/Rd.rds
+built/BiocGenerics/unitTests/
+built/BiocGenerics/unitTests/test_combine.R
+built/BiocGenerics/unitTests/test_mapply.R
+built/BiocGenerics/unitTests/test_Extremes.R
+built/BiocGenerics/unitTests/test_order.R
+built/BiocGenerics/unitTests/test_updateObject.R
+built/BiocGenerics/unitTests/test_format.R
+built/BiocGenerics/unitTests/test_paste.R
+built/BiocGenerics/CITATION
+built/BiocGenerics/html/
+built/BiocGenerics/html/00Index.html
+built/BiocGenerics/html/R.css
+built/BiocGenerics/INDEX
+built/BiocGenerics/R/
+built/BiocGenerics/R/BiocGenerics
+built/BiocGenerics/R/BiocGenerics.rdb
+built/BiocGenerics/R/BiocGenerics.rdx
+built/Biobase/
+built/Biobase/ExpressionSet/
+built/Biobase/ExpressionSet/DESCRIPTION
+built/Biobase/ExpressionSet/man/
+built/Biobase/ExpressionSet/man/@PKGNAME@.Rd
+built/Biobase/libs/
+built/Biobase/libs/Biobase.so
+built/Biobase/NEWS
+built/Biobase/extdata/
+built/Biobase/extdata/pData.txt
+built/Biobase/extdata/exprsData.txt
+built/Biobase/NAMESPACE
+built/Biobase/testClass.R
+built/Biobase/DESCRIPTION
+built/Biobase/help/
+built/Biobase/help/Biobase.rdx
+built/Biobase/help/paths.rds
+built/Biobase/help/Biobase.rdb
+built/Biobase/help/aliases.rds
+built/Biobase/help/AnIndex
+built/Biobase/data/
+built/Biobase/data/geneCovariate.rda
+built/Biobase/data/sample.ExpressionSet.rda
+built/Biobase/data/seD.rda
+built/Biobase/data/reporter.rda
+built/Biobase/data/geneCov.R
+built/Biobase/data/aaMap.R
+built/Biobase/data/SW.rda
+built/Biobase/data/geneData.R
+built/Biobase/data/sample.MultiSet.rda
+built/Biobase/Meta/
+built/Biobase/Meta/package.rds
+built/Biobase/Meta/vignette.rds
+built/Biobase/Meta/features.rds
+built/Biobase/Meta/hsearch.rds
+built/Biobase/Meta/links.rds
+built/Biobase/Meta/nsInfo.rds
+built/Biobase/Meta/Rd.rds
+built/Biobase/Meta/data.rds
+built/Biobase/Code/
+built/Biobase/Code/DESCRIPTION
+built/Biobase/Code/R/
+built/Biobase/Code/R/get@PKGNAME@.R
+built/Biobase/Code/man/
+built/Biobase/Code/man/get@PKGNAME@.Rd
+built/Biobase/Code/man/@PKGNAME@.Rd
+built/Biobase/scripts/
+built/Biobase/scripts/esetTesting.R
+built/Biobase/scripts/getBioCHelp
+built/Biobase/scripts/query.packages.R
+built/Biobase/scripts/getBioC.R
+built/Biobase/scripts/getBioCPkgNames.R
+built/Biobase/scripts/makeExpressionSetPackage.R
+built/Biobase/unitTests/
+built/Biobase/unitTests/test_copyEnv.R
+built/Biobase/unitTests/test_combine.R
+built/Biobase/unitTests/test_AnnotatedDataFrame.R
+built/Biobase/unitTests/test_EsetSubclasses.R
+built/Biobase/unitTests/test_unsaveSetSlot.R
+built/Biobase/unitTests/VersionedClass_data/
+built/Biobase/unitTests/VersionedClass_data/devel/
+built/Biobase/unitTests/VersionedClass_data/devel/SnpSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/VersionedBiobase.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/swrep.rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.eSet.rda
+built/Biobase/unitTests/VersionedClass_data/devel/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/container.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/golubMergeSub.rda
+built/Biobase/unitTests/VersionedClass_data/devel/bbsym.rda
+built/Biobase/unitTests/VersionedClass_data/devel/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/aggregator.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/Versioned.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/eset.rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarInteger.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/VersionsNull.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarLogical.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.1.rda
+built/Biobase/unitTests/VersionedClass_data/devel/NChannelSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/Versions.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/MultiSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarCharacter.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarNumeric.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/SWPD.rda
+built/Biobase/unitTests/VersionedClass_data/1.8/
+built/Biobase/unitTests/VersionedClass_data/1.8/phenoData.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/raw/
+built/Biobase/unitTests/VersionedClass_data/raw/pData.tab
+built/Biobase/unitTests/VersionedClass_data/raw/exprs.tab
+built/Biobase/unitTests/VersionedClass_data/raw/varMetadata.tab
+built/Biobase/unitTests/VersionedClass_data/2.0/
+built/Biobase/unitTests/VersionedClass_data/2.0/SnpSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/phenoData.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/VersionedBiobase.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/container.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/aggregator.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/Versioned.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/VersionsNull.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/Versions.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/MultiSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/ScalarCharacter.Rda
+built/Biobase/unitTests/test_VersionedClass.R
+built/Biobase/unitTests/utilities.R
+built/Biobase/unitTests/test_NChannelSet.R
+built/Biobase/unitTests/test_AssayData.R
+built/Biobase/unitTests/test_checkClass.R
+built/Biobase/unitTests/test_UpdateObject.R
+built/Biobase/unitTests/test_SnpSet.R
+built/Biobase/unitTests/test_DataClasses.R
+built/Biobase/unitTests/test_ExpressionSet.R
+built/Biobase/unitTests/test_subListExtract.R
+built/Biobase/unitTests/test_esApply.R
+built/Biobase/unitTests/test_cache.R
+built/Biobase/CITATION
+built/Biobase/html/
+built/Biobase/html/00Index.html
+built/Biobase/html/R.css
+built/Biobase/INDEX
+built/Biobase/doc/
+built/Biobase/doc/esApply.Rmd
+built/Biobase/doc/ExpressionSetIntroduction.R
+built/Biobase/doc/esApply.html
+built/Biobase/doc/ExpressionSetIntroduction.Rnw
+built/Biobase/doc/index.html
+built/Biobase/doc/BiobaseDevelopment.html
+built/Biobase/doc/ExpressionSetIntroduction.pdf
+built/Biobase/doc/BiobaseDevelopment.R
+built/Biobase/doc/esApply.R
+built/Biobase/doc/BiobaseDevelopment.Rmd
+built/Biobase/R/
+built/Biobase/R/Biobase.rdx
+built/Biobase/R/Biobase.rdb
+built/Biobase/R/Biobase
+built/EBarrays/
+built/EBarrays/libs/
+built/EBarrays/libs/EBarrays.so
+built/EBarrays/NAMESPACE
+built/EBarrays/DESCRIPTION
+built/EBarrays/help/
+built/EBarrays/help/paths.rds
+built/EBarrays/help/EBarrays.rdx
+built/EBarrays/help/EBarrays.rdb
+built/EBarrays/help/aliases.rds
+built/EBarrays/help/AnIndex
+built/EBarrays/data/
+built/EBarrays/data/gould.rda
+built/EBarrays/Meta/
+built/EBarrays/Meta/package.rds
+built/EBarrays/Meta/vignette.rds
+built/EBarrays/Meta/demo.rds
+built/EBarrays/Meta/features.rds
+built/EBarrays/Meta/hsearch.rds
+built/EBarrays/Meta/links.rds
+built/EBarrays/Meta/nsInfo.rds
+built/EBarrays/Meta/Rd.rds
+built/EBarrays/Meta/data.rds
+built/EBarrays/html/
+built/EBarrays/html/00Index.html
+built/EBarrays/html/R.css
+built/EBarrays/INDEX
+built/EBarrays/doc/
+built/EBarrays/doc/vignette.pdf
+built/EBarrays/doc/vignette.R
+built/EBarrays/doc/index.html
+built/EBarrays/doc/vignette.Rnw
+built/EBarrays/R/
+built/EBarrays/R/EBarrays.rdx
+built/EBarrays/R/EBarrays.rdb
+built/EBarrays/R/EBarrays
+built/EBarrays/demo/
+built/EBarrays/demo/ebarrays.R
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 35 11.0M   35 4007k    0     0  4964k      0  0:00:02 --:--:--  0:00:02 4959k100 11.0M  100 11.0M    0     0  11.7M      0 --:--:-- --:--:-- --:--:-- 11.7M
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/Matrix/
+built/built/Matrix/Doxyfile
+built/built/Matrix/libs/
+built/built/Matrix/libs/Matrix.so
+built/built/Matrix/NAMESPACE
+built/built/Matrix/LICENCE
+built/built/Matrix/DESCRIPTION
+built/built/Matrix/test-tools-1.R
+built/built/Matrix/help/
+built/built/Matrix/help/paths.rds
+built/built/Matrix/help/aliases.rds
+built/built/Matrix/help/AnIndex
+built/built/Matrix/help/Matrix.rdx
+built/built/Matrix/help/Matrix.rdb
+built/built/Matrix/data/
+built/built/Matrix/data/USCounties.R
+built/built/Matrix/data/datalist
+built/built/Matrix/data/CAex.R
+built/built/Matrix/data/wrld_1deg.R
+built/built/Matrix/data/KNex.R
+built/built/Matrix/Meta/
+built/built/Matrix/Meta/package.rds
+built/built/Matrix/Meta/vignette.rds
+built/built/Matrix/Meta/features.rds
+built/built/Matrix/Meta/hsearch.rds
+built/built/Matrix/Meta/links.rds
+built/built/Matrix/Meta/nsInfo.rds
+built/built/Matrix/Meta/Rd.rds
+built/built/Matrix/Meta/data.rds
+built/built/Matrix/NEWS.Rd
+built/built/Matrix/include/
+built/built/Matrix/include/cholmod.h
+built/built/Matrix/include/Matrix_stubs.c
+built/built/Matrix/include/Matrix.h
+built/built/Matrix/test-tools-Matrix.R
+built/built/Matrix/test-tools.R
+built/built/Matrix/po/
+built/built/Matrix/po/lt/
+built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/it/
+built/built/Matrix/po/it/LC_MESSAGES/
+built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/fr/
+built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/ko/
+built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/pl/
+built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/en@quot/
+built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/de/
+built/built/Matrix/po/de/LC_MESSAGES/
+built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/Copyrights
+built/built/Matrix/html/
+built/built/Matrix/html/00Index.html
+built/built/Matrix/html/R.css
+built/built/Matrix/INDEX
+built/built/Matrix/doc/
+built/built/Matrix/doc/Design-issues.Rnw
+built/built/Matrix/doc/sparseModels.R
+built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/Matrix/doc/Introduction.R
+built/built/Matrix/doc/sparseModels.Rnw
+built/built/Matrix/doc/Design-issues.pdf
+built/built/Matrix/doc/Design-issues.R
+built/built/Matrix/doc/Comparisons.R
+built/built/Matrix/doc/Announce.txt
+built/built/Matrix/doc/Introduction.Rnw
+built/built/Matrix/doc/Intro2Matrix.R
+built/built/Matrix/doc/index.html
+built/built/Matrix/doc/SuiteSparse/
+built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/Matrix/doc/Comparisons.pdf
+built/built/Matrix/doc/sparseModels.pdf
+built/built/Matrix/doc/Comparisons.Rnw
+built/built/Matrix/doc/Introduction.pdf
+built/built/Matrix/R/
+built/built/Matrix/R/Matrix
+built/built/Matrix/R/Matrix.rdx
+built/built/Matrix/R/Matrix.rdb
+built/built/Matrix/external/
+built/built/Matrix/external/symW.rda
+built/built/Matrix/external/lund_a.rsa
+built/built/Matrix/external/wrong.mtx
+built/built/Matrix/external/pores_1.mtx
+built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/Matrix/external/CAex_slots.rda
+built/built/Matrix/external/KNex_slots.rda
+built/built/Matrix/external/jgl009.mtx
+built/built/Matrix/external/utm300.rua
+built/built/Matrix/external/test3comp.rda
+built/built/Matrix/external/USCounties_slots.rda
+built/built/Matrix/external/Z_NA_rnk.rds
+built/built/Matrix/external/symA.rda
+built/built/Matrix/external/lund_a.mtx
+built/built/nlme/
+built/built/nlme/libs/
+built/built/nlme/libs/nlme.so
+built/built/nlme/NAMESPACE
+built/built/nlme/DESCRIPTION
+built/built/nlme/help/
+built/built/nlme/help/nlme.rdb
+built/built/nlme/help/paths.rds
+built/built/nlme/help/aliases.rds
+built/built/nlme/help/nlme.rdx
+built/built/nlme/help/AnIndex
+built/built/nlme/data/
+built/built/nlme/data/Rdata.rds
+built/built/nlme/data/Rdata.rdb
+built/built/nlme/data/Rdata.rdx
+built/built/nlme/Meta/
+built/built/nlme/Meta/package.rds
+built/built/nlme/Meta/features.rds
+built/built/nlme/Meta/hsearch.rds
+built/built/nlme/Meta/links.rds
+built/built/nlme/Meta/nsInfo.rds
+built/built/nlme/Meta/Rd.rds
+built/built/nlme/Meta/data.rds
+built/built/nlme/scripts/
+built/built/nlme/scripts/ch08.R
+built/built/nlme/scripts/runme.R
+built/built/nlme/scripts/ch02.R
+built/built/nlme/scripts/ch05.R
+built/built/nlme/scripts/sims.rda
+built/built/nlme/scripts/ch03.R
+built/built/nlme/scripts/ch01.R
+built/built/nlme/scripts/ch06.R
+built/built/nlme/scripts/ch04.R
+built/built/nlme/po/
+built/built/nlme/po/fr/
+built/built/nlme/po/fr/LC_MESSAGES/
+built/built/nlme/po/fr/LC_MESSAGES/nlme.mo
+built/built/nlme/po/fr/LC_MESSAGES/R-nlme.mo
+built/built/nlme/po/ko/
+built/built/nlme/po/ko/LC_MESSAGES/
+built/built/nlme/po/ko/LC_MESSAGES/nlme.mo
+built/built/nlme/po/ko/LC_MESSAGES/R-nlme.mo
+built/built/nlme/po/pl/
+built/built/nlme/po/pl/LC_MESSAGES/
+built/built/nlme/po/pl/LC_MESSAGES/nlme.mo
+built/built/nlme/po/pl/LC_MESSAGES/R-nlme.mo
+built/built/nlme/po/en@quot/
+built/built/nlme/po/en@quot/LC_MESSAGES/
+built/built/nlme/po/en@quot/LC_MESSAGES/nlme.mo
+built/built/nlme/po/en@quot/LC_MESSAGES/R-nlme.mo
+built/built/nlme/po/de/
+built/built/nlme/po/de/LC_MESSAGES/
+built/built/nlme/po/de/LC_MESSAGES/nlme.mo
+built/built/nlme/po/de/LC_MESSAGES/R-nlme.mo
+built/built/nlme/CITATION
+built/built/nlme/html/
+built/built/nlme/html/00Index.html
+built/built/nlme/html/R.css
+built/built/nlme/INDEX
+built/built/nlme/R/
+built/built/nlme/R/nlme.rdb
+built/built/nlme/R/nlme
+built/built/nlme/R/nlme.rdx
+built/built/nlme/mlbook/
+built/built/nlme/mlbook/README
+built/built/nlme/mlbook/ch05.R
+built/built/nlme/mlbook/ch04.R
+built/mgcv/
+built/mgcv/libs/
+built/mgcv/libs/mgcv.so
+built/mgcv/NAMESPACE
+built/mgcv/DESCRIPTION
+built/mgcv/help/
+built/mgcv/help/paths.rds
+built/mgcv/help/mgcv.rdb
+built/mgcv/help/aliases.rds
+built/mgcv/help/mgcv.rdx
+built/mgcv/help/AnIndex
+built/mgcv/data/
+built/mgcv/data/columb.rda
+built/mgcv/data/columb.polys.rda
+built/mgcv/Meta/
+built/mgcv/Meta/package.rds
+built/mgcv/Meta/features.rds
+built/mgcv/Meta/hsearch.rds
+built/mgcv/Meta/links.rds
+built/mgcv/Meta/nsInfo.rds
+built/mgcv/Meta/Rd.rds
+built/mgcv/Meta/data.rds
+built/mgcv/po/
+built/mgcv/po/fr/
+built/mgcv/po/fr/LC_MESSAGES/
+built/mgcv/po/fr/LC_MESSAGES/mgcv.mo
+built/mgcv/po/fr/LC_MESSAGES/R-mgcv.mo
+built/mgcv/po/ko/
+built/mgcv/po/ko/LC_MESSAGES/
+built/mgcv/po/ko/LC_MESSAGES/mgcv.mo
+built/mgcv/po/ko/LC_MESSAGES/R-mgcv.mo
+built/mgcv/po/pl/
+built/mgcv/po/pl/LC_MESSAGES/
+built/mgcv/po/pl/LC_MESSAGES/mgcv.mo
+built/mgcv/po/pl/LC_MESSAGES/R-mgcv.mo
+built/mgcv/po/en@quot/
+built/mgcv/po/en@quot/LC_MESSAGES/
+built/mgcv/po/en@quot/LC_MESSAGES/mgcv.mo
+built/mgcv/po/en@quot/LC_MESSAGES/R-mgcv.mo
+built/mgcv/po/de/
+built/mgcv/po/de/LC_MESSAGES/
+built/mgcv/po/de/LC_MESSAGES/mgcv.mo
+built/mgcv/po/de/LC_MESSAGES/R-mgcv.mo
+built/mgcv/CITATION
+built/mgcv/html/
+built/mgcv/html/00Index.html
+built/mgcv/html/R.css
+built/mgcv/INDEX
+built/mgcv/R/
+built/mgcv/R/mgcv.rdb
+built/mgcv/R/mgcv.rdx
+built/mgcv/R/mgcv
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''gaga'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv Biobase_2.58.0_R_x86_64-pc-linux-gnu.tar.gz BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz coda_0.19-4_R_x86_64-pc-linux-gnu.tar.gz EBarrays_2.62.0_R_x86_64-pc-linux-gnu.tar.gz gaga_2.44.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/gaga
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'gaga'
+also installing the dependencies ‘BiocGenerics’, ‘Biobase’, ‘coda’, ‘EBarrays’
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BiocGenerics_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 47711 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/Biobase_2.58.0.tar.gz'
+Content type 'application/x-gzip' length 1792896 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/coda_0.19-4.tar.gz'
+Content type 'binary/octet-stream' length 320587 bytes (313 KB)
+==================================================
+downloaded 313 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/EBarrays_2.62.0.tar.gz'
+Content type 'application/x-gzip' length 956570 bytes (934 KB)
+==================================================
+downloaded 934 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/gaga_2.44.0.tar.gz'
+Content type 'application/x-gzip' length 435647 bytes (425 KB)
+==================================================
+downloaded 425 KB
+
+* installing *source* package ‘BiocGenerics’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘union’ in package ‘BiocGenerics’
+Creating a new generic function for ‘intersect’ in package ‘BiocGenerics’
+Creating a new generic function for ‘setdiff’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sort’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *binary* package ‘coda’ ...
+* ‘coda’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘coda’ as ‘coda_0.19-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (coda)
+* installing *source* package ‘Biobase’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rinit.c -o Rinit.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c anyMissing.c -o anyMissing.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c envir.c -o envir.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c matchpt.c -o matchpt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowMedians.c -o rowMedians.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sublist_extract.c -o sublist_extract.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Biobase.so Rinit.o anyMissing.o envir.o matchpt.o rowMedians.o sublist_extract.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-Biobase/00new/Biobase/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Biobase’ as ‘Biobase_2.58.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Biobase)
+* installing *source* package ‘EBarrays’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ebarrays.c -o ebarrays.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o EBarrays.so ebarrays.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-EBarrays/00new/EBarrays/libs
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EBarrays’ as ‘EBarrays_2.62.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EBarrays)
+* installing *source* package ‘gaga’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c cseqdesma.c -o cseqdesma.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c cstat.c -o cstat.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o gaga.so cseqdesma.o cstat.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-gaga/00new/gaga/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gaga’ as ‘gaga_2.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gaga)
+
+The downloaded source packages are in
+	‘/tmp/RtmprNMkRe/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m47.416s
+user	0m28.554s
+sys	0m2.785s

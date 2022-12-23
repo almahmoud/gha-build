@@ -5784,7 +5784,6 @@
         "dbplyr",
         "dplyr",
         "futile.logger",
-        "gaga",
         "hms",
         "httr",
         "pillar",
@@ -17692,7 +17691,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "gaga": [],
     "gage": [
         "AnnotationDbi",
         "Biostrings",
