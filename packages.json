@@ -999,7 +999,6 @@
         "ChIPpeakAnno",
         "ensembldb"
     ],
-    "Guitar": [],
     "Gviz": [
         "VariantAnnotation",
         "biovizBase",
