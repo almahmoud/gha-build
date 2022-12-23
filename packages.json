@@ -18349,7 +18349,6 @@
         "graphite",
         "org.Hs.eg.db"
     ],
-    "powerTCR": [],
     "POWSC": [
         "GenomicRanges",
         "MAST",
@@ -22080,7 +22079,6 @@
         "ggplot2",
         "ggraph",
         "ggrepel",
-        "powerTCR",
         "reshape2",
         "tidygraph",
         "tidyr",
