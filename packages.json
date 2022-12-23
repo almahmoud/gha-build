@@ -2696,7 +2696,6 @@
         "vctrs",
         "viridis"
     ],
-    "BayesKnockdown": [],
     "BayesSpace": [
         "BiocFileCache",
         "BiocNeighbors",
