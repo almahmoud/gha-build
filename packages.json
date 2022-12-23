@@ -581,7 +581,6 @@
         "MultiAssayExperiment",
         "assertive"
     ],
-    "awst": [],
     "BaalChIP": [
         "GenomicAlignments",
         "doBy",
