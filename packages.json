@@ -5147,7 +5147,6 @@
         "genefilter",
         "sva"
     ],
-    "tripr": [],
     "tRNAscanImport": [
         "BSgenome"
     ],
