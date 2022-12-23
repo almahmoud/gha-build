@@ -3399,7 +3399,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "Dune": [],
     "easier": [
         "AnnotationDbi",
         "AnnotationHub",
