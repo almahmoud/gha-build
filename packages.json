@@ -5131,7 +5131,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "Linnorm",
-        "TFisher",
         "broom",
         "cellranger",
         "dbplyr",
@@ -6357,7 +6356,6 @@
         "PADOG",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "TFisher",
         "annotate",
         "dplyr",
         "gage",
@@ -12062,7 +12060,6 @@
         "rtracklayer"
     ],
     "MetaVolcanoR": [
-        "TFisher",
         "cowplot",
         "dplyr",
         "ggplot2",
@@ -13910,7 +13907,6 @@
     "multiGSEA": [
         "AnnotationDbi",
         "KEGGREST",
-        "TFisher",
         "cowplot",
         "dplyr",
         "fgsea",
@@ -13949,7 +13945,6 @@
         "MultiDataSet",
         "ReactomePA",
         "SummarizedExperiment",
-        "TFisher",
         "annotate",
         "anyLib",
         "aplot",
@@ -14219,7 +14214,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "TFBSTools",
-        "TFisher",
         "VariantAnnotation",
         "annotate",
         "biomaRt",
@@ -15413,7 +15407,6 @@
         "GSEABase",
         "HDO.db",
         "KEGGREST",
-        "TFisher",
         "annotate",
         "aplot",
         "clusterProfiler",
@@ -18547,7 +18540,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "SummarizedExperiment",
-        "TFisher",
         "broom",
         "car",
         "dplyr",
@@ -20231,7 +20223,6 @@
         "SoupX",
         "SummarizedExperiment",
         "TENxPBMCData",
-        "TFisher",
         "TSCAN",
         "TrajectoryUtils",
         "annotate",
@@ -24989,10 +24980,7 @@
         "testthat",
         "waldo"
     ],
-    "metap": [
-        "TFisher"
-    ],
-    "TFisher": [],
+    "metap": [],
     "DMwR2": [
         "dplyr",
         "readr",
