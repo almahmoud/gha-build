@@ -184,7 +184,6 @@
     "apComplex": [],
     "APL": [
         "Seurat",
-        "org.Mm.eg.db",
         "topGO"
     ],
     "appreci8R": [
@@ -291,7 +290,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "chromVAR",
         "motifmatchr",
-        "org.Mm.eg.db",
         "projectR",
         "rGREAT",
         "rhdf5",
@@ -610,7 +608,6 @@
         "bsseq",
         "bumphunter",
         "dmrseq",
-        "org.Mm.eg.db",
         "regioneR",
         "rhdf5",
         "rtracklayer"
@@ -877,7 +874,6 @@
         "viridis"
     ],
     "cellity": [
-        "org.Mm.eg.db",
         "topGO"
     ],
     "cellmigRation": [
@@ -1015,7 +1011,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "org.Mm.eg.db",
         "rtracklayer",
         "viridis"
     ],
@@ -1032,7 +1027,6 @@
     "chipenrich": [
         "Hmisc",
         "chipenrich.data",
-        "org.Mm.eg.db",
         "rms",
         "rtracklayer",
         "viridis"
@@ -1350,7 +1344,6 @@
         "ggraph",
         "ggtree",
         "lme4",
-        "org.Mm.eg.db",
         "pbkrtest",
         "rstatix",
         "scater",
@@ -1724,7 +1717,6 @@
         "ggraph",
         "ggtree",
         "heatmaply",
-        "org.Mm.eg.db",
         "pathview",
         "sva",
         "viridis"
@@ -2067,7 +2059,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "org.Mm.eg.db",
         "viridis"
     ],
     "easyRNASeq": [
@@ -2098,7 +2089,6 @@
         "geneplotter",
         "ggraph",
         "ggtree",
-        "org.Mm.eg.db",
         "viridis"
     ],
     "EGSEA": [
@@ -2110,7 +2100,6 @@
         "globaltest",
         "hgu133a.db",
         "hgu133plus2.db",
-        "org.Mm.eg.db",
         "pathview",
         "rhdf5",
         "topGO"
@@ -2919,7 +2908,6 @@
         "Hmisc",
         "WGCNA",
         "genefilter",
-        "org.Mm.eg.db",
         "viridis"
     ],
     "gmoviz": [
@@ -3369,7 +3357,6 @@
         "ggraph",
         "ggtree",
         "lme4",
-        "org.Mm.eg.db",
         "pbkrtest",
         "rstatix",
         "scater",
@@ -5229,7 +5216,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "org.Mm.eg.db",
         "rGREAT",
         "rtracklayer",
         "soGGi",
@@ -5810,7 +5796,6 @@
         "GenomicFeatures",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "geneplotter",
-        "org.Mm.eg.db",
         "rtracklayer"
     ],
     "rmspc": [
@@ -6021,7 +6006,6 @@
     ],
     "rTRMui": [
         "MotifDb",
-        "org.Mm.eg.db",
         "rtracklayer"
     ],
     "RUVnormalize": [],
@@ -6168,7 +6152,6 @@
     ],
     "scp": [],
     "scPipe": [
-        "org.Mm.eg.db",
         "rtracklayer",
         "scater",
         "scuttle",
@@ -6978,7 +6961,6 @@
     "tenXplore": [
         "ExperimentHub",
         "ontoProc",
-        "org.Mm.eg.db",
         "restfulSE"
     ],
     "terraTCGAdata": [
@@ -7346,7 +7328,6 @@
         "GSEABase",
         "ggraph",
         "msigdb",
-        "org.Mm.eg.db",
         "textstem",
         "viridis"
     ],
@@ -7514,7 +7495,6 @@
     ],
     "ReorderCluster": [],
     "Seurat": [],
-    "org.Mm.eg.db": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "rtracklayer"
@@ -7586,7 +7566,6 @@
         "GenomicFeatures",
         "OrganismDbi",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
-        "org.Mm.eg.db",
         "rtracklayer"
     ],
     "BSgenome.Mmusculus.UCSC.mm10": [
@@ -8119,7 +8098,6 @@
     "kmlShape": [],
     "msigdb": [
         "ExperimentHub",
-        "GSEABase",
-        "org.Mm.eg.db"
+        "GSEABase"
     ]
 }
