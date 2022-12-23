@@ -31575,7 +31575,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "PSCBS",
-        "R.filesets",
         "R.rsp",
         "RSQLite",
         "XVector",
@@ -44906,7 +44905,6 @@
         "Hmisc",
         "KEGGREST",
         "PSCBS",
-        "R.filesets",
         "R.rsp",
         "RSQLite",
         "WGCNA",
@@ -53343,17 +53341,14 @@
     ],
     "aroma.affymetrix": [
         "PSCBS",
-        "R.filesets",
         "R.rsp",
         "aroma.apd",
         "aroma.core"
     ],
     "aroma.core": [
         "PSCBS",
-        "R.filesets",
         "R.rsp"
     ],
-    "R.filesets": [],
     "aroma.apd": [],
     "R.rsp": [],
     "PSCBS": [],
