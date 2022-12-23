@@ -2029,10 +2029,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "flowStats": [],
-    "flowVS": [
-        "flowStats"
-    ],
+    "flowVS": [],
     "fobitools": [
         "ggraph",
         "viridis"
