@@ -8123,8 +8123,7 @@
         "bestNormalize",
         "biomaRt",
         "naniar",
-        "rtracklayer",
-        "visdat"
+        "rtracklayer"
     ],
     "TNBC.CMS": [
         "GSEABase",
@@ -9407,10 +9406,7 @@
     "GenKern": [],
     "gghighlight": [],
     "bestNormalize": [],
-    "naniar": [
-        "visdat"
-    ],
-    "visdat": [],
+    "naniar": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
