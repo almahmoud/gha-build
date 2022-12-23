@@ -19964,7 +19964,6 @@
         "tibble",
         "viridis"
     ],
-    "metaSeq": [],
     "metaseqR2": [
         "AnnotationDbi",
         "BSgenome",
