@@ -21931,7 +21931,6 @@
         "treeio",
         "vctrs"
     ],
-    "GIGSEA": [],
     "girafe": [
         "BiocParallel",
         "Biostrings",
