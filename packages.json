@@ -1958,7 +1958,6 @@
     ],
     "cTRAP": [
         "AnnotationHub",
-        "highcharter",
         "interactiveDisplayBase",
         "rhdf5"
     ],
@@ -2100,7 +2099,6 @@
         "DAPARdata",
         "MSnbase",
         "affy",
-        "highcharter",
         "vsn"
     ],
     "dasper": [
@@ -6687,7 +6685,6 @@
         "DAPARdata",
         "MSnbase",
         "affy",
-        "highcharter",
         "vsn"
     ],
     "proteasy": [
@@ -6739,7 +6736,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "highcharter",
         "interactiveDisplayBase",
         "recount",
         "rtracklayer",
@@ -9856,7 +9852,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "highcharter": [],
     "RFOC": [
         "GEOmap",
         "fields",

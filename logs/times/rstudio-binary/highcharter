@@ -1,0 +1,1213 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   be71abe1..51e3c832  main       -> origin/main
+Updating be71abe1..51e3c832
+Fast-forward
+ lists/AlpsNMR                                 |     2 +-
+ logs/run_ids/rstudio-binaries/GGPA            |     2 +
+ logs/run_ids/rstudio-binaries/heatmaps        |     2 +
+ logs/run_ids/rstudio-binaries/iBBiG           |     2 +
+ logs/run_ids/rstudio-binaries/iCOBRA          |     2 +
+ logs/sizes/rstudio-binaries/binaries/AlpsNMR  |     1 +
+ logs/sizes/rstudio-binaries/libraries/AlpsNMR |     1 +
+ logs/times/rstudio-binary/AlpsNMR             | 53170 ++++++++++++++++++++++++
+ packages.json                                 |     1 -
+ 9 files changed, 53181 insertions(+), 2 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/GGPA
+ create mode 100644 logs/run_ids/rstudio-binaries/heatmaps
+ create mode 100644 logs/run_ids/rstudio-binaries/iBBiG
+ create mode 100644 logs/run_ids/rstudio-binaries/iCOBRA
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/AlpsNMR
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/AlpsNMR
+ create mode 100644 logs/times/rstudio-binary/AlpsNMR
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=highcharter
++ PKG=highcharter
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "highcharter"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency htmlwidgets is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  8 5331k    8  458k    0     0   426k      0  0:00:12  0:00:01  0:00:11  426k 25 5331k   25 1350k    0     0   649k      0  0:00:08  0:00:02  0:00:06  649k 41 5331k   41 2211k    0     0   715k      0  0:00:07  0:00:03  0:00:04  715k 57 5331k   57 3040k    0     0   745k      0  0:00:07  0:00:04  0:00:03  745k 74 5331k   74 3948k    0     0   772k      0  0:00:06  0:00:05  0:00:01  789k 89 5331k   89 4745k    0     0   779k      0  0:00:06  0:00:06 --:--:--  855k100 5331k  100 5331k    0     0   801k      0  0:00:06  0:00:06 --:--:--  871k
+built/
+built/jsonlite/
+built/jsonlite/libs/
+built/jsonlite/libs/jsonlite.so
+built/jsonlite/NEWS
+built/jsonlite/NAMESPACE
+built/jsonlite/DESCRIPTION
+built/jsonlite/help/
+built/jsonlite/help/paths.rds
+built/jsonlite/help/jsonlite.rdb
+built/jsonlite/help/aliases.rds
+built/jsonlite/help/AnIndex
+built/jsonlite/help/jsonlite.rdx
+built/jsonlite/Meta/
+built/jsonlite/Meta/package.rds
+built/jsonlite/Meta/vignette.rds
+built/jsonlite/Meta/features.rds
+built/jsonlite/Meta/hsearch.rds
+built/jsonlite/Meta/links.rds
+built/jsonlite/Meta/nsInfo.rds
+built/jsonlite/Meta/Rd.rds
+built/jsonlite/LICENSE
+built/jsonlite/CITATION
+built/jsonlite/html/
+built/jsonlite/html/00Index.html
+built/jsonlite/html/R.css
+built/jsonlite/INDEX
+built/jsonlite/doc/
+built/jsonlite/doc/json-aaquickstart.Rmd
+built/jsonlite/doc/json-paging.html
+built/jsonlite/doc/json-apis.Rmd
+built/jsonlite/doc/json-opencpu.pdf.asis
+built/jsonlite/doc/json-opencpu.pdf
+built/jsonlite/doc/json-apis.html
+built/jsonlite/doc/index.html
+built/jsonlite/doc/json-aaquickstart.R
+built/jsonlite/doc/json-mapping.pdf.asis
+built/jsonlite/doc/json-paging.Rmd
+built/jsonlite/doc/json-aaquickstart.html
+built/jsonlite/doc/json-mapping.pdf
+built/jsonlite/R/
+built/jsonlite/R/jsonlite
+built/jsonlite/R/jsonlite.rdb
+built/jsonlite/R/jsonlite.rdx
+built/rlist/
+built/rlist/NEWS
+built/rlist/NAMESPACE
+built/rlist/DESCRIPTION
+built/rlist/help/
+built/rlist/help/paths.rds
+built/rlist/help/aliases.rds
+built/rlist/help/rlist.rdx
+built/rlist/help/rlist.rdb
+built/rlist/help/AnIndex
+built/rlist/data/
+built/rlist/data/Rdata.rds
+built/rlist/data/Rdata.rdb
+built/rlist/data/Rdata.rdx
+built/rlist/Meta/
+built/rlist/Meta/package.rds
+built/rlist/Meta/features.rds
+built/rlist/Meta/hsearch.rds
+built/rlist/Meta/links.rds
+built/rlist/Meta/nsInfo.rds
+built/rlist/Meta/Rd.rds
+built/rlist/Meta/data.rds
+built/rlist/LICENSE
+built/rlist/html/
+built/rlist/html/00Index.html
+built/rlist/html/R.css
+built/rlist/INDEX
+built/rlist/R/
+built/rlist/R/rlist
+built/rlist/R/rlist.rdx
+built/rlist/R/rlist.rdb
+built/XML/
+built/XML/exampleData/
+built/XML/exampleData/xysize.svg
+built/XML/exampleData/literateFunction.xml
+built/XML/exampleData/simple.plist
+built/XML/exampleData/author.xsd
+built/XML/exampleData/nsAttrs.xml
+built/XML/exampleData/mathmlSimple.xml
+built/XML/exampleData/matrixMult.xml
+built/XML/exampleData/vars.xml
+built/XML/exampleData/job.xml
+built/XML/exampleData/namespaces1.xml
+built/XML/exampleData/test1.xml
+built/XML/exampleData/lists.html
+built/XML/exampleData/largeText.xml
+built/XML/exampleData/mathml.xml
+built/XML/exampleData/catalog.xml
+built/XML/exampleData/namespaces.xml
+built/XML/exampleData/tides.xml
+built/XML/exampleData/entity1.xml
+built/XML/exampleData/StatModel.dtd
+built/XML/exampleData/xpathTest.xml
+built/XML/exampleData/basic.xml
+built/XML/exampleData/mathmlFuncCall.xml
+built/XML/exampleData/size1.xml
+built/XML/exampleData/cleanNamespace.xml
+built/XML/exampleData/author.xml
+built/XML/exampleData/setInterval.xml
+built/XML/exampleData/solr.xml
+built/XML/exampleData/writeRS.S
+built/XML/exampleData/SOAPNamespaces.xml
+built/XML/exampleData/literate.xml
+built/XML/exampleData/nodes.xml
+built/XML/exampleData/author2.xsd
+built/XML/exampleData/mathmlInt.xml
+built/XML/exampleData/mathmlSums.xml
+built/XML/exampleData/malformed.xml
+built/XML/exampleData/tagnames.xml
+built/XML/exampleData/entityValue
+built/XML/exampleData/test.xml
+built/XML/exampleData/simple.xml
+built/XML/exampleData/mathmlMatrix.xml
+built/XML/exampleData/TestInvalid.xml
+built/XML/exampleData/allNodeTypes.xml
+built/XML/exampleData/author1.xml
+built/XML/exampleData/writeRS.xml
+built/XML/exampleData/branch.xml
+built/XML/exampleData/9003.html
+built/XML/exampleData/boxplot.svg
+built/XML/exampleData/dot.xml
+built/XML/exampleData/Rsource.xml
+built/XML/exampleData/iTunes.plist
+built/XML/exampleData/size2.xml
+built/XML/exampleData/literate.xsl
+built/XML/exampleData/charts.svg
+built/XML/exampleData/namespaceHandlers.xml
+built/XML/exampleData/nodes1.xml
+built/XML/exampleData/mathmlSphere.xml
+built/XML/exampleData/dataframe.xml
+built/XML/exampleData/graph.gxl
+built/XML/exampleData/README
+built/XML/exampleData/kiva_lender.xml
+built/XML/exampleData/cdata.xml
+built/XML/exampleData/mathmlQuadratic.xml
+built/XML/exampleData/book.xml
+built/XML/exampleData/nodes3.xml
+built/XML/exampleData/include.xml
+built/XML/exampleData/functionTemplate.xml
+built/XML/exampleData/rhelp.xsl
+built/XML/exampleData/namespaces2.xml
+built/XML/exampleData/plist.xml
+built/XML/exampleData/utf.xml
+built/XML/exampleData/raw.xml
+built/XML/exampleData/nodes2.xml
+built/XML/exampleData/reparent.xml
+built/XML/exampleData/literate.dtd
+built/XML/exampleData/rxinclude.xml
+built/XML/exampleData/entity2.xml
+built/XML/exampleData/mathmlSet.xml
+built/XML/exampleData/entity.xml
+built/XML/exampleData/entity4.xml
+built/XML/exampleData/entity3.html
+built/XML/exampleData/mtcars.xml
+built/XML/exampleData/same.xml
+built/XML/exampleData/xinclude/
+built/XML/exampleData/xinclude/b.xml
+built/XML/exampleData/xinclude/d.xml
+built/XML/exampleData/xinclude/simple.xml
+built/XML/exampleData/xinclude/c.xml
+built/XML/exampleData/xinclude/e.xml
+built/XML/exampleData/xinclude/top.xml
+built/XML/exampleData/xinclude/a.xml
+built/XML/exampleData/xyz.svg.gz
+built/XML/exampleData/author2.xml
+built/XML/exampleData/symslines.svg
+built/XML/exampleData/svg.xml
+built/XML/exampleData/event.xml
+built/XML/exampleData/Rref.xml
+built/XML/exampleData/foo.dtd
+built/XML/exampleData/something.xml
+built/XML/exampleData/generalInfo.xml
+built/XML/exampleData/longitudinalData.xml
+built/XML/exampleData/size.xml
+built/XML/exampleData/gnumeric.xml
+built/XML/exampleData/content.html
+built/XML/exampleData/size3.xml
+built/XML/exampleData/redundantNS.xml
+built/XML/exampleData/mathmlRoot.xml
+built/XML/exampleData/mathml.dtd
+built/XML/exampleData/9003-en.html
+built/XML/exampleData/dtd.zip
+built/XML/exampleData/eurofxref-hist.xml.gz
+built/XML/exampleData/mathmlScript.xml
+built/XML/exampleData/GNUmakefile
+built/XML/examples/
+built/XML/examples/CIS.R
+built/XML/examples/itunesSax.R
+built/XML/examples/HTMLText.R
+built/XML/examples/ecb.R
+built/XML/examples/redirection.R
+built/XML/examples/dataFrameEvent.R
+built/XML/examples/newNodes.R
+built/XML/examples/pmml.R
+built/XML/examples/docbook.R
+built/XML/examples/SSource.dtd
+built/XML/examples/modified_itunes_sax.R
+built/XML/examples/valueFilterDataFrameEvent.R
+built/XML/examples/trademe_cars.R
+built/XML/examples/RhelpArchive.xml
+built/XML/examples/xmlTags.xml
+built/XML/examples/createTree1.R
+built/XML/examples/itunes.R
+built/XML/examples/bondsTables.R
+built/XML/examples/promptXML.Sxml
+built/XML/examples/internalNodes.S
+built/XML/examples/svg.R
+built/XML/examples/event.R
+built/XML/examples/pi.xml
+built/XML/examples/gettingStarted.xml
+built/XML/examples/xmlTree.R
+built/XML/examples/internalXInclude.xml
+built/XML/examples/schemaEg.xml
+built/XML/examples/filterDataFrameEvent.R
+built/XML/examples/iTunes.plist
+built/XML/examples/getElements.S
+built/XML/examples/bondYields.R
+built/XML/examples/createTree.R
+built/XML/examples/eventHandlers.R
+built/XML/examples/schema.xsd
+built/XML/examples/mexico.xml
+built/XML/examples/formals.xsl
+built/XML/examples/author.R
+built/XML/examples/connections1.R
+built/XML/examples/generic_file.xml
+built/XML/examples/foo.html
+built/XML/examples/mexico.R
+built/XML/examples/rcode.xsl
+built/XML/examples/README
+built/XML/examples/Rhelp.xml
+built/XML/examples/functionIndex.Sxml
+built/XML/examples/writeExamples.S
+built/XML/examples/RhelpInfo.xml
+built/XML/examples/genericHandlers.R
+built/XML/examples/gnumericHandler.R
+built/XML/examples/xmlSource.R
+built/XML/examples/namespaces.S
+built/XML/examples/itunesSax1.R
+built/XML/examples/catalog.R
+built/XML/examples/connections.R
+built/XML/examples/mathmlPlot.R
+built/XML/examples/wordML.R
+built/XML/examples/tags.Sxml
+built/XML/examples/schemas.xml
+built/XML/examples/DiGIR.R
+built/XML/examples/namespaces1.S
+built/XML/examples/metlin.R
+built/XML/examples/sbml.xml
+built/XML/examples/index.html
+built/XML/examples/SAXEntity.R
+built/XML/examples/xpath.xml
+built/XML/examples/xpath.R
+built/XML/examples/itunesSax2.R
+built/XML/examples/promptXML.R
+built/XML/examples/oop.S
+built/XML/examples/mathml.R
+built/XML/examples/faq.R
+built/XML/examples/enhancedDataFrame.R
+built/XML/examples/xml2tex.Sxml
+built/XML/examples/gettingStarted.html
+built/XML/examples/event.S
+built/XML/examples/rcode.xml
+built/XML/examples/prompt.xml
+built/XML/examples/hashTree.R
+built/XML/examples/sbmlSAX.S
+built/XML/examples/reorder.xml
+built/XML/examples/itunes.xsl
+built/XML/examples/GNUmakefile
+built/XML/examples/mi1.R
+built/XML/libs/
+built/XML/libs/XML.so
+built/XML/NAMESPACE
+built/XML/DESCRIPTION
+built/XML/FAQ.html
+built/XML/help/
+built/XML/help/paths.rds
+built/XML/help/XML.rdb
+built/XML/help/aliases.rds
+built/XML/help/XML.rdx
+built/XML/help/AnIndex
+built/XML/Meta/
+built/XML/Meta/package.rds
+built/XML/Meta/features.rds
+built/XML/Meta/hsearch.rds
+built/XML/Meta/links.rds
+built/XML/Meta/nsInfo.rds
+built/XML/Meta/Rd.rds
+built/XML/scripts/
+built/XML/scripts/RSXML.bsh.in
+built/XML/scripts/RSXML.csh.in
+built/XML/scripts/RSXML.bsh
+built/XML/scripts/RSXML.csh
+built/XML/LICENSE
+built/XML/html/
+built/XML/html/00Index.html
+built/XML/html/R.css
+built/XML/INDEX
+built/XML/R/
+built/XML/R/XML.rdb
+built/XML/R/XML
+built/XML/R/XML.rdx
+built/XML/COPYRIGHTS
+built/data.table/
+built/data.table/libs/
+built/data.table/libs/data_table.so
+built/data.table/NAMESPACE
+built/data.table/DESCRIPTION
+built/data.table/help/
+built/data.table/help/paths.rds
+built/data.table/help/data.table.rdx
+built/data.table/help/aliases.rds
+built/data.table/help/data.table.rdb
+built/data.table/help/AnIndex
+built/data.table/Meta/
+built/data.table/Meta/package.rds
+built/data.table/Meta/vignette.rds
+built/data.table/Meta/features.rds
+built/data.table/Meta/hsearch.rds
+built/data.table/Meta/links.rds
+built/data.table/Meta/nsInfo.rds
+built/data.table/Meta/Rd.rds
+built/data.table/include/
+built/data.table/include/datatableAPI.h
+built/data.table/po/
+built/data.table/po/zh_CN/
+built/data.table/po/zh_CN/LC_MESSAGES/
+built/data.table/po/zh_CN/LC_MESSAGES/data.table.mo
+built/data.table/po/zh_CN/LC_MESSAGES/R-data.table.mo
+built/data.table/po/en@quot/
+built/data.table/po/en@quot/LC_MESSAGES/
+built/data.table/po/en@quot/LC_MESSAGES/data.table.mo
+built/data.table/po/en@quot/LC_MESSAGES/R-data.table.mo
+built/data.table/LICENSE
+built/data.table/html/
+built/data.table/html/00Index.html
+built/data.table/html/R.css
+built/data.table/INDEX
+built/data.table/doc/
+built/data.table/doc/datatable-benchmarking.Rmd
+built/data.table/doc/datatable-importing.Rmd
+built/data.table/doc/datatable-reshape.R
+built/data.table/doc/datatable-secondary-indices-and-auto-indexing.Rmd
+built/data.table/doc/datatable-faq.R
+built/data.table/doc/datatable-sd-usage.R
+built/data.table/doc/datatable-secondary-indices-and-auto-indexing.R
+built/data.table/doc/datatable-reference-semantics.html
+built/data.table/doc/datatable-keys-fast-subset.Rmd
+built/data.table/doc/datatable-keys-fast-subset.R
+built/data.table/doc/datatable-secondary-indices-and-auto-indexing.html
+built/data.table/doc/datatable-sd-usage.html
+built/data.table/doc/datatable-intro.html
+built/data.table/doc/datatable-faq.Rmd
+built/data.table/doc/datatable-faq.html
+built/data.table/doc/index.html
+built/data.table/doc/datatable-reference-semantics.R
+built/data.table/doc/datatable-keys-fast-subset.html
+built/data.table/doc/datatable-intro.R
+built/data.table/doc/datatable-sd-usage.Rmd
+built/data.table/doc/datatable-reshape.Rmd
+built/data.table/doc/datatable-reshape.html
+built/data.table/doc/datatable-intro.Rmd
+built/data.table/doc/datatable-reference-semantics.Rmd
+built/data.table/doc/datatable-importing.html
+built/data.table/doc/datatable-benchmarking.html
+built/data.table/R/
+built/data.table/R/data.table.rdx
+built/data.table/R/data.table.rdb
+built/data.table/R/data.table
+built/data.table/cc
+built/data.table/tests/
+built/data.table/tests/tests.Rraw.bz2
+built/data.table/tests/issue_773_fread.txt
+built/data.table/tests/types.Rraw.bz2
+built/data.table/tests/tests-DESCRIPTION
+built/data.table/tests/test1372.Rdata
+built/data.table/tests/SA2-by-DJZ.csv.gz
+built/data.table/tests/issue_1573_fill.txt
+built/data.table/tests/536_fread_fill_1.txt
+built/data.table/tests/issue_1462_fread_quotes.txt.gz
+built/data.table/tests/alluniquechar.csv.gz
+built/data.table/tests/fread_blank.txt
+built/data.table/tests/gb18030.txt
+built/data.table/tests/utf16be.txt
+built/data.table/tests/colnames4096.csv.bz2
+built/data.table/tests/fillheader.csv.bz2
+built/data.table/tests/issue_1164_json.txt
+built/data.table/tests/530_fread.txt
+built/data.table/tests/allchar.csv.gz
+built/data.table/tests/froll.Rraw.bz2
+built/data.table/tests/536_fread_fill_3_extreme.txt
+built/data.table/tests/fread_blank2.txt
+built/data.table/tests/536_fread_fill_4.txt
+built/data.table/tests/issue_1116_fread_few_lines_2.txt.gz
+built/data.table/tests/grr.csv.gz
+built/data.table/tests/1680-fread-header-encoding.csv
+built/data.table/tests/utf16le.txt
+built/data.table/tests/ch11b.dat.bz2
+built/data.table/tests/issue_563_fread.txt
+built/data.table/tests/onecol4096.csv.bz2
+built/data.table/tests/issue_2157_sampling_reached_eof_early.txt.bz2
+built/data.table/tests/issue_1116_fread_few_lines.txt.gz
+built/data.table/tests/melt_1754_synth.csv.bz2
+built/data.table/tests/fread_line_error.csv.bz2
+built/data.table/tests/issue_1087_utf8_bom.csv
+built/data.table/tests/issue_3400_fread.txt
+built/data.table/tests/winallquoted.csv.bz2
+built/data.table/tests/russellCRLF.csv
+built/data.table/tests/issue_2051.csv.gz
+built/data.table/tests/bad.txt.bz2
+built/data.table/tests/536_fread_fill_2.txt
+built/data.table/tests/melt-warning-1752.tsv.gz
+built/data.table/tests/doublequote_newline.csv
+built/data.table/tests/test1372-1.Rdata
+built/data.table/tests/fread_blank3.txt
+built/data.table/tests/quoted_multiline.csv.bz2
+built/data.table/tests/benchmark.Rraw.bz2
+built/data.table/tests/1206FUT.txt.bz2
+built/data.table/tests/unescaped.csv
+built/data.table/tests/issue_1095_fread.txt.bz2
+built/data.table/tests/noquote.csv.gz
+built/data.table/tests/quoted_no_header.csv
+built/data.table/tests/nafill.Rraw.bz2
+built/data.table/tests/issue_1113_fread.txt.bz2
+built/data.table/tests/issue_2157_sampling_overlap.txt.gz
+built/data.table/tests/russellCRCRLF.csv
+built/data.table/tests/isoweek_test.csv.bz2
+built/data.table/tests/test0.txt.bz2
+built/data.table/tests/melt_1754.R.gz
+built/data.table/tests/genotypes_genome.txt.bz2
+built/data.table/tests/iterations.txt.bz2
+built/data.table/tests/issue_785_fread.txt.gz
+built/data.table/tests/csvy/
+built/data.table/tests/csvy/test_override_header.csvy
+built/data.table/tests/csvy/test_override_dec.csvy
+built/data.table/tests/csvy/test_comment.csvy
+built/data.table/tests/csvy/test_skip.csvy
+built/data.table/tests/csvy/test_override_quote.csvy
+built/data.table/tests/csvy/test_incomplete_header.csvy
+built/data.table/tests/csvy/test_missing_type.csvy
+built/data.table/tests/csvy/test_override_na.csvy
+built/data.table/tests/csvy/test_override_sep.csvy
+built/data.table/tests/csvy/test_extraneous.csvy
+built/data.table/tests/csvy/test.csvy
+built/data.table/tests/csvy/test_attributes.csvy
+built/data.table/tests/session_aborted_fatal_error.txt.bz2
+built/data.table/tests/other.Rraw.bz2
+built/data.table/tests/2008head.csv.bz2
+built/data.table/tests/issue_1330_fread.txt
+built/data.table/NEWS.md
+built/yaml/
+built/yaml/libs/
+built/yaml/libs/yaml.so
+built/yaml/NAMESPACE
+built/yaml/DESCRIPTION
+built/yaml/help/
+built/yaml/help/paths.rds
+built/yaml/help/yaml.rdb
+built/yaml/help/yaml.rdx
+built/yaml/help/aliases.rds
+built/yaml/help/AnIndex
+built/yaml/Meta/
+built/yaml/Meta/package.rds
+built/yaml/Meta/features.rds
+built/yaml/Meta/hsearch.rds
+built/yaml/Meta/links.rds
+built/yaml/Meta/nsInfo.rds
+built/yaml/Meta/Rd.rds
+built/yaml/THANKS
+built/yaml/LICENSE
+built/yaml/html/
+built/yaml/html/00Index.html
+built/yaml/html/R.css
+built/yaml/INDEX
+built/yaml/R/
+built/yaml/R/yaml.rdb
+built/yaml/R/yaml.rdx
+built/yaml/R/yaml
+built/yaml/implicit.re
+built/yaml/tests/
+built/yaml/tests/test_read_yaml.R
+built/yaml/tests/test_as_yaml.R
+built/yaml/tests/files/
+built/yaml/tests/files/merge.yml
+built/yaml/tests/files/test.yml
+built/yaml/tests/test_write_yaml.R
+built/yaml/tests/test_yaml_load.R
+built/yaml/tests/test_yaml_load_file.R
+built/yaml/CHANGELOG
+Dependency assertthat is already found.
+Dependency broom is already found.
+Dependency quantmod is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 15.5M    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 15.5M    2  430k    0     0   333k      0  0:00:47  0:00:01  0:00:46  333k 10 15.5M   10 1657k    0     0   716k      0  0:00:22  0:00:02  0:00:20  716k 22 15.5M   22 3617k    0     0  1094k      0  0:00:14  0:00:03  0:00:11 1094k 36 15.5M   36 5849k    0     0  1360k      0  0:00:11  0:00:04  0:00:07 1360k 52 15.5M   52 8415k    0     0  1590k      0  0:00:10  0:00:05  0:00:05 1761k 74 15.5M   74 11.5M    0     0  1878k      0  0:00:08  0:00:06  0:00:02 2274k 94 15.5M   94 14.7M    0     0  2068k      0  0:00:07  0:00:07 --:--:-- 2695k100 15.5M  100 15.5M    0     0  2113k      0  0:00:07  0:00:07 --:--:-- 2907k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/magrittr/
+built/built/magrittr/libs/
+built/built/magrittr/libs/magrittr.so
+built/built/magrittr/logo.svg
+built/built/magrittr/NAMESPACE
+built/built/magrittr/logo-hex.svg
+built/built/magrittr/DESCRIPTION
+built/built/magrittr/help/
+built/built/magrittr/help/paths.rds
+built/built/magrittr/help/aliases.rds
+built/built/magrittr/help/figures/
+built/built/magrittr/help/figures/exposition-1.png
+built/built/magrittr/help/figures/logo.png
+built/built/magrittr/help/magrittr.rdb
+built/built/magrittr/help/magrittr.rdx
+built/built/magrittr/help/AnIndex
+built/built/magrittr/Meta/
+built/built/magrittr/Meta/package.rds
+built/built/magrittr/Meta/vignette.rds
+built/built/magrittr/Meta/features.rds
+built/built/magrittr/Meta/hsearch.rds
+built/built/magrittr/Meta/links.rds
+built/built/magrittr/Meta/nsInfo.rds
+built/built/magrittr/Meta/Rd.rds
+built/built/magrittr/logo.png
+built/built/magrittr/logo-hex.png
+built/built/magrittr/LICENSE
+built/built/magrittr/html/
+built/built/magrittr/html/00Index.html
+built/built/magrittr/html/R.css
+built/built/magrittr/INDEX
+built/built/magrittr/doc/
+built/built/magrittr/doc/magrittr.html
+built/built/magrittr/doc/magrittr.Rmd
+built/built/magrittr/doc/index.html
+built/built/magrittr/doc/tradeoffs.html
+built/built/magrittr/doc/tradeoffs.Rmd
+built/built/magrittr/doc/tradeoffs.R
+built/built/magrittr/doc/magrittr.R
+built/built/magrittr/R/
+built/built/magrittr/R/magrittr
+built/built/magrittr/R/magrittr.rdb
+built/built/magrittr/R/magrittr.rdx
+built/built/magrittr/NEWS.md
+built/built/pkgconfig/
+built/built/pkgconfig/README.Rmd
+built/built/pkgconfig/NAMESPACE
+built/built/pkgconfig/DESCRIPTION
+built/built/pkgconfig/help/
+built/built/pkgconfig/help/paths.rds
+built/built/pkgconfig/help/aliases.rds
+built/built/pkgconfig/help/pkgconfig.rdb
+built/built/pkgconfig/help/AnIndex
+built/built/pkgconfig/help/pkgconfig.rdx
+built/built/pkgconfig/Meta/
+built/built/pkgconfig/Meta/package.rds
+built/built/pkgconfig/Meta/features.rds
+built/built/pkgconfig/Meta/hsearch.rds
+built/built/pkgconfig/Meta/links.rds
+built/built/pkgconfig/Meta/nsInfo.rds
+built/built/pkgconfig/Meta/Rd.rds
+built/built/pkgconfig/NEWS.markdown
+built/built/pkgconfig/README.markdown
+built/built/pkgconfig/LICENSE
+built/built/pkgconfig/html/
+built/built/pkgconfig/html/00Index.html
+built/built/pkgconfig/html/R.css
+built/built/pkgconfig/INDEX
+built/built/pkgconfig/R/
+built/built/pkgconfig/R/pkgconfig
+built/built/pkgconfig/R/pkgconfig.rdb
+built/built/pkgconfig/R/pkgconfig.rdx
+built/built/Matrix/
+built/built/Matrix/Doxyfile
+built/built/Matrix/libs/
+built/built/Matrix/libs/Matrix.so
+built/built/Matrix/NAMESPACE
+built/built/Matrix/LICENCE
+built/built/Matrix/DESCRIPTION
+built/built/Matrix/test-tools-1.R
+built/built/Matrix/help/
+built/built/Matrix/help/paths.rds
+built/built/Matrix/help/aliases.rds
+built/built/Matrix/help/AnIndex
+built/built/Matrix/help/Matrix.rdx
+built/built/Matrix/help/Matrix.rdb
+built/built/Matrix/data/
+built/built/Matrix/data/USCounties.R
+built/built/Matrix/data/datalist
+built/built/Matrix/data/CAex.R
+built/built/Matrix/data/wrld_1deg.R
+built/built/Matrix/data/KNex.R
+built/built/Matrix/Meta/
+built/built/Matrix/Meta/package.rds
+built/built/Matrix/Meta/vignette.rds
+built/built/Matrix/Meta/features.rds
+built/built/Matrix/Meta/hsearch.rds
+built/built/Matrix/Meta/links.rds
+built/built/Matrix/Meta/nsInfo.rds
+built/built/Matrix/Meta/Rd.rds
+built/built/Matrix/Meta/data.rds
+built/built/Matrix/NEWS.Rd
+built/built/Matrix/include/
+built/built/Matrix/include/cholmod.h
+built/built/Matrix/include/Matrix_stubs.c
+built/built/Matrix/include/Matrix.h
+built/built/Matrix/test-tools-Matrix.R
+built/built/Matrix/test-tools.R
+built/built/Matrix/po/
+built/built/Matrix/po/lt/
+built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/it/
+built/built/Matrix/po/it/LC_MESSAGES/
+built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/fr/
+built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/ko/
+built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/pl/
+built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/en@quot/
+built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/de/
+built/built/Matrix/po/de/LC_MESSAGES/
+built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/Copyrights
+built/built/Matrix/html/
+built/built/Matrix/html/00Index.html
+built/built/Matrix/html/R.css
+built/built/Matrix/INDEX
+built/built/Matrix/doc/
+built/built/Matrix/doc/Design-issues.Rnw
+built/built/Matrix/doc/sparseModels.R
+built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/Matrix/doc/Introduction.R
+built/built/Matrix/doc/sparseModels.Rnw
+built/built/Matrix/doc/Design-issues.pdf
+built/built/Matrix/doc/Design-issues.R
+built/built/Matrix/doc/Comparisons.R
+built/built/Matrix/doc/Announce.txt
+built/built/Matrix/doc/Introduction.Rnw
+built/built/Matrix/doc/Intro2Matrix.R
+built/built/Matrix/doc/index.html
+built/built/Matrix/doc/SuiteSparse/
+built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/Matrix/doc/Comparisons.pdf
+built/built/Matrix/doc/sparseModels.pdf
+built/built/Matrix/doc/Comparisons.Rnw
+built/built/Matrix/doc/Introduction.pdf
+built/built/Matrix/R/
+built/built/Matrix/R/Matrix
+built/built/Matrix/R/Matrix.rdx
+built/built/Matrix/R/Matrix.rdb
+built/built/Matrix/external/
+built/built/Matrix/external/symW.rda
+built/built/Matrix/external/lund_a.rsa
+built/built/Matrix/external/wrong.mtx
+built/built/Matrix/external/pores_1.mtx
+built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/Matrix/external/CAex_slots.rda
+built/built/Matrix/external/KNex_slots.rda
+built/built/Matrix/external/jgl009.mtx
+built/built/Matrix/external/utm300.rua
+built/built/Matrix/external/test3comp.rda
+built/built/Matrix/external/USCounties_slots.rda
+built/built/Matrix/external/Z_NA_rnk.rds
+built/built/Matrix/external/symA.rda
+built/built/Matrix/external/lund_a.mtx
+built/built/rlang/
+built/built/rlang/libs/
+built/built/rlang/libs/rlang.so
+built/built/rlang/NAMESPACE
+built/built/rlang/DESCRIPTION
+built/built/rlang/help/
+built/built/rlang/help/rlang.rdb
+built/built/rlang/help/paths.rds
+built/built/rlang/help/rlang.rdx
+built/built/rlang/help/aliases.rds
+built/built/rlang/help/figures/
+built/built/rlang/help/figures/lifecycle-soft-deprecated.svg
+built/built/rlang/help/figures/lifecycle-experimental.svg
+built/built/rlang/help/figures/lifecycle-deprecated.svg
+built/built/rlang/help/figures/lifecycle-maturing.svg
+built/built/rlang/help/figures/lifecycle-superseded.svg
+built/built/rlang/help/figures/logo.png
+built/built/rlang/help/figures/lifecycle-questioning.svg
+built/built/rlang/help/figures/lifecycle-defunct.svg
+built/built/rlang/help/figures/lifecycle-archived.svg
+built/built/rlang/help/figures/lifecycle-retired.svg
+built/built/rlang/help/figures/lifecycle-stable.svg
+built/built/rlang/help/AnIndex
+built/built/rlang/Meta/
+built/built/rlang/Meta/package.rds
+built/built/rlang/Meta/features.rds
+built/built/rlang/Meta/hsearch.rds
+built/built/rlang/Meta/links.rds
+built/built/rlang/Meta/nsInfo.rds
+built/built/rlang/Meta/Rd.rds
+built/built/rlang/LICENSE
+built/built/rlang/html/
+built/built/rlang/html/00Index.html
+built/built/rlang/html/R.css
+built/built/rlang/INDEX
+built/built/rlang/R/
+built/built/rlang/R/rlang.rdb
+built/built/rlang/R/rlang.rdx
+built/built/rlang/R/rlang
+built/built/rlang/backtrace-ver
+built/built/rlang/NEWS.md
+built/igraph/
+built/igraph/html_library.tcl
+built/igraph/libs/
+built/igraph/libs/igraph.so
+built/igraph/NAMESPACE
+built/igraph/my_html_library.tcl
+built/igraph/benchmarks/
+built/igraph/benchmarks/time_sir.R
+built/igraph/benchmarks/correlated.R
+built/igraph/benchmarks/time_call.R
+built/igraph/benchmarks/time_fr_layout.R
+built/igraph/benchmarks/time_print.R
+built/igraph/benchmarks/local.scan.R
+built/igraph/benchmarks/time_sgm.R
+built/igraph/benchmarks/time_kk_layout.R
+built/igraph/benchmarks/time_dirSelect.R
+built/igraph/README.md
+built/igraph/DESCRIPTION
+built/igraph/help/
+built/igraph/help/paths.rds
+built/igraph/help/igraph.rdx
+built/igraph/help/igraph.rdb
+built/igraph/help/aliases.rds
+built/igraph/help/AnIndex
+built/igraph/Meta/
+built/igraph/Meta/package.rds
+built/igraph/Meta/demo.rds
+built/igraph/Meta/features.rds
+built/igraph/Meta/hsearch.rds
+built/igraph/Meta/links.rds
+built/igraph/Meta/nsInfo.rds
+built/igraph/Meta/Rd.rds
+built/igraph/igraph.gif
+built/igraph/CITATION
+built/igraph/html/
+built/igraph/html/00Index.html
+built/igraph/html/R.css
+built/igraph/igraph2.gif
+built/igraph/AUTHORS
+built/igraph/INDEX
+built/igraph/R/
+built/igraph/R/igraph.rdx
+built/igraph/R/igraph.rdb
+built/igraph/R/igraph
+built/igraph/demo/
+built/igraph/demo/hrg.R
+built/igraph/demo/centrality.R
+built/igraph/demo/crashR.R
+built/igraph/demo/community.R
+built/igraph/demo/cohesive.R
+built/igraph/demo/smallworld.R
+built/igraph/html_library.license.terms
+built/igraph/NEWS.md
+built/igraph/tkigraph_help/
+built/igraph/tkigraph_help/tkigraph-main.gif
+built/igraph/tkigraph_help/style.css
+built/igraph/tkigraph_help/communities.html
+built/igraph/tkigraph_help/index.html
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 1660k    1 32640    0     0  75540      0  0:00:22 --:--:--  0:00:22 75381 48 1660k   48  796k    0     0   554k      0  0:00:02  0:00:01  0:00:01  554k100 1660k  100 1660k    0     0   817k      0  0:00:02  0:00:02 --:--:--  818k
+built/
+built/built/
+built/built/cpp11/
+built/built/cpp11/NAMESPACE
+built/built/cpp11/DESCRIPTION
+built/built/cpp11/help/
+built/built/cpp11/help/cpp11.rdb
+built/built/cpp11/help/paths.rds
+built/built/cpp11/help/aliases.rds
+built/built/cpp11/help/cpp11.rdx
+built/built/cpp11/help/AnIndex
+built/built/cpp11/Meta/
+built/built/cpp11/Meta/package.rds
+built/built/cpp11/Meta/vignette.rds
+built/built/cpp11/Meta/features.rds
+built/built/cpp11/Meta/hsearch.rds
+built/built/cpp11/Meta/links.rds
+built/built/cpp11/Meta/nsInfo.rds
+built/built/cpp11/Meta/Rd.rds
+built/built/cpp11/include/
+built/built/cpp11/include/cpp11/
+built/built/cpp11/include/cpp11/data_frame.hpp
+built/built/cpp11/include/cpp11/raws.hpp
+built/built/cpp11/include/cpp11/named_arg.hpp
+built/built/cpp11/include/cpp11/r_vector.hpp
+built/built/cpp11/include/cpp11/r_bool.hpp
+built/built/cpp11/include/cpp11/R.hpp
+built/built/cpp11/include/cpp11/integers.hpp
+built/built/cpp11/include/cpp11/altrep.hpp
+built/built/cpp11/include/cpp11/r_string.hpp
+built/built/cpp11/include/cpp11/matrix.hpp
+built/built/cpp11/include/cpp11/list_of.hpp
+built/built/cpp11/include/cpp11/logicals.hpp
+built/built/cpp11/include/cpp11/environment.hpp
+built/built/cpp11/include/cpp11/doubles.hpp
+built/built/cpp11/include/cpp11/external_pointer.hpp
+built/built/cpp11/include/cpp11/attribute_proxy.hpp
+built/built/cpp11/include/cpp11/list.hpp
+built/built/cpp11/include/cpp11/as.hpp
+built/built/cpp11/include/cpp11/strings.hpp
+built/built/cpp11/include/cpp11/function.hpp
+built/built/cpp11/include/cpp11/protect.hpp
+built/built/cpp11/include/cpp11/declarations.hpp
+built/built/cpp11/include/cpp11/sexp.hpp
+built/built/cpp11/include/cpp11.hpp
+built/built/cpp11/include/fmt/
+built/built/cpp11/include/fmt/format-inl.h
+built/built/cpp11/include/fmt/core.h
+built/built/cpp11/include/fmt/format.h
+built/built/cpp11/LICENSE
+built/built/cpp11/html/
+built/built/cpp11/html/00Index.html
+built/built/cpp11/html/R.css
+built/built/cpp11/INDEX
+built/built/cpp11/doc/
+built/built/cpp11/doc/internals.Rmd
+built/built/cpp11/doc/cpp11.Rmd
+built/built/cpp11/doc/converting.Rmd
+built/built/cpp11/doc/internals.R
+built/built/cpp11/doc/FAQ.html
+built/built/cpp11/doc/cpp11.html
+built/built/cpp11/doc/internals.html
+built/built/cpp11/doc/FAQ.R
+built/built/cpp11/doc/FAQ.Rmd
+built/built/cpp11/doc/motivations.Rmd
+built/built/cpp11/doc/converting.html
+built/built/cpp11/doc/index.html
+built/built/cpp11/doc/motivations.R
+built/built/cpp11/doc/converting.R
+built/built/cpp11/doc/motivations.html
+built/built/cpp11/doc/cpp11.R
+built/built/cpp11/R/
+built/built/cpp11/R/cpp11
+built/built/cpp11/R/cpp11.rdb
+built/built/cpp11/R/cpp11.rdx
+built/built/cpp11/NEWS.md
+built/built/timechange/
+built/built/timechange/libs/
+built/built/timechange/libs/timechange.so
+built/built/timechange/NAMESPACE
+built/built/timechange/DESCRIPTION
+built/built/timechange/help/
+built/built/timechange/help/paths.rds
+built/built/timechange/help/timechange.rdx
+built/built/timechange/help/aliases.rds
+built/built/timechange/help/timechange.rdb
+built/built/timechange/help/AnIndex
+built/built/timechange/Meta/
+built/built/timechange/Meta/package.rds
+built/built/timechange/Meta/features.rds
+built/built/timechange/Meta/hsearch.rds
+built/built/timechange/Meta/links.rds
+built/built/timechange/Meta/nsInfo.rds
+built/built/timechange/Meta/Rd.rds
+built/built/timechange/html/
+built/built/timechange/html/00Index.html
+built/built/timechange/html/R.css
+built/built/timechange/INDEX
+built/built/timechange/R/
+built/built/timechange/R/timechange.rdx
+built/built/timechange/R/timechange
+built/built/timechange/R/timechange.rdb
+built/built/timechange/NEWS.md
+built/lubridate/
+built/lubridate/libs/
+built/lubridate/libs/lubridate.so
+built/lubridate/NAMESPACE
+built/lubridate/cctz.sh
+built/lubridate/DESCRIPTION
+built/lubridate/help/
+built/lubridate/help/paths.rds
+built/lubridate/help/lubridate.rdx
+built/lubridate/help/lubridate.rdb
+built/lubridate/help/aliases.rds
+built/lubridate/help/figures/
+built/lubridate/help/figures/logo.png
+built/lubridate/help/AnIndex
+built/lubridate/data/
+built/lubridate/data/Rdata.rds
+built/lubridate/data/Rdata.rdb
+built/lubridate/data/Rdata.rdx
+built/lubridate/Meta/
+built/lubridate/Meta/package.rds
+built/lubridate/Meta/vignette.rds
+built/lubridate/Meta/features.rds
+built/lubridate/Meta/hsearch.rds
+built/lubridate/Meta/links.rds
+built/lubridate/Meta/nsInfo.rds
+built/lubridate/Meta/Rd.rds
+built/lubridate/Meta/data.rds
+built/lubridate/pkgdown/
+built/lubridate/pkgdown/assets/
+built/lubridate/pkgdown/assets/tidyverse.css
+built/lubridate/pkgdown/assets/tidyverse.css.map
+built/lubridate/CITATION
+built/lubridate/html/
+built/lubridate/html/00Index.html
+built/lubridate/html/R.css
+built/lubridate/INDEX
+built/lubridate/doc/
+built/lubridate/doc/lubridate.Rmd
+built/lubridate/doc/lubridate.R
+built/lubridate/doc/lubridate.html
+built/lubridate/doc/index.html
+built/lubridate/R/
+built/lubridate/R/lubridate.rdx
+built/lubridate/R/lubridate.rdb
+built/lubridate/R/lubridate
+built/lubridate/NEWS.md
+built/timechange/
+built/timechange/libs/
+built/timechange/libs/timechange.so
+built/timechange/NAMESPACE
+built/timechange/DESCRIPTION
+built/timechange/help/
+built/timechange/help/paths.rds
+built/timechange/help/timechange.rdx
+built/timechange/help/aliases.rds
+built/timechange/help/timechange.rdb
+built/timechange/help/AnIndex
+built/timechange/Meta/
+built/timechange/Meta/package.rds
+built/timechange/Meta/features.rds
+built/timechange/Meta/hsearch.rds
+built/timechange/Meta/links.rds
+built/timechange/Meta/nsInfo.rds
+built/timechange/Meta/Rd.rds
+built/timechange/html/
+built/timechange/html/00Index.html
+built/timechange/html/R.css
+built/timechange/INDEX
+built/timechange/R/
+built/timechange/R/timechange.rdx
+built/timechange/R/timechange
+built/timechange/R/timechange.rdb
+built/timechange/NEWS.md
+built/generics/
+built/generics/NAMESPACE
+built/generics/DESCRIPTION
+built/generics/help/
+built/generics/help/paths.rds
+built/generics/help/aliases.rds
+built/generics/help/generics.rdb
+built/generics/help/AnIndex
+built/generics/help/generics.rdx
+built/generics/Meta/
+built/generics/Meta/package.rds
+built/generics/Meta/features.rds
+built/generics/Meta/hsearch.rds
+built/generics/Meta/links.rds
+built/generics/Meta/nsInfo.rds
+built/generics/Meta/Rd.rds
+built/generics/LICENSE
+built/generics/html/
+built/generics/html/00Index.html
+built/generics/html/R.css
+built/generics/INDEX
+built/generics/R/
+built/generics/R/generics.rdb
+built/generics/R/generics
+built/generics/R/generics.rdx
+built/generics/NEWS.md
+Dependency rjson is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''highcharter'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv data.table_1.14.6_R_x86_64-pc-linux-gnu.tar.gz highcharter_0.9.4_R_x86_64-pc-linux-gnu.tar.gz igraph_1.3.5_R_x86_64-pc-linux-gnu.tar.gz lubridate_1.9.0_R_x86_64-pc-linux-gnu.tar.gz rlist_0.4.6.2_R_x86_64-pc-linux-gnu.tar.gz timechange_0.1.1_R_x86_64-pc-linux-gnu.tar.gz XML_3.99-0.13_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/highcharter
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'highcharter'
+also installing the dependencies ‘XML’, ‘data.table’, ‘timechange’, ‘rlist’, ‘igraph’, ‘lubridate’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/XML_3.99-0.13.tar.gz'
+Content type 'binary/octet-stream' length 1757876 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/data.table_1.14.6.tar.gz'
+Content type 'binary/octet-stream' length 2082451 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/timechange_0.1.1.tar.gz'
+Content type 'binary/octet-stream' length 180871 bytes (176 KB)
+==================================================
+downloaded 176 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/rlist_0.4.6.2.tar.gz'
+Content type 'binary/octet-stream' length 73000 bytes (71 KB)
+==================================================
+downloaded 71 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/igraph_1.3.5.tar.gz'
+Content type 'binary/octet-stream' length 8440779 bytes (8.0 MB)
+==================================================
+downloaded 8.0 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/lubridate_1.9.0.tar.gz'
+Content type 'binary/octet-stream' length 962385 bytes (939 KB)
+==================================================
+downloaded 939 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/highcharter_0.9.4.tar.gz'
+Content type 'binary/octet-stream' length 1078067 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+* installing *binary* package ‘XML’ ...
+* ‘XML’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘XML’ as ‘XML_3.99-0.13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (XML)
+* installing *binary* package ‘data.table’ ...
+* ‘data.table’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘data.table’ as ‘data.table_1.14.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (data.table)
+* installing *binary* package ‘timechange’ ...
+* ‘timechange’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘timechange’ as ‘timechange_0.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (timechange)
+* installing *binary* package ‘igraph’ ...
+* ‘igraph’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘igraph’ as ‘igraph_1.3.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (igraph)
+* installing *source* package ‘rlist’ ...
+** package ‘rlist’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rlist’ as ‘rlist_0.4.6.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rlist)
+* installing *binary* package ‘lubridate’ ...
+* ‘lubridate’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lubridate’ as ‘lubridate_1.9.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lubridate)
+* installing *source* package ‘highcharter’ ...
+** package ‘highcharter’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘highcharter’ as ‘highcharter_0.9.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (highcharter)
+
+The downloaded source packages are in
+	‘/tmp/RtmpENodht/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m44.113s
+user	0m20.647s
+sys	0m2.077s
