@@ -44462,7 +44462,6 @@
         "dml",
         "dplyr",
         "forcats",
-        "geeM",
         "geepack",
         "ggforce",
         "ggformula",
@@ -56299,7 +56298,6 @@
         "broom",
         "dplyr",
         "forcats",
-        "geeM",
         "geepack",
         "ggforce",
         "ggformula",
@@ -56328,7 +56326,6 @@
     "lfda": [
         "rARPACK"
     ],
-    "geeM": [],
     "ggformula": [
         "dplyr",
         "forcats",
