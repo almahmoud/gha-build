@@ -476,7 +476,6 @@
         "DT",
         "htmlwidgets",
         "plotly",
-        "shinytoastr",
         "tidyr"
     ],
     "AnVILPublish": [
@@ -18575,7 +18574,6 @@
         "shinydashboardPlus",
         "shinyjqui",
         "shinyjs",
-        "shinytoastr",
         "spsComps",
         "tidyr",
         "vroom",
@@ -20372,7 +20370,6 @@
     "recipes": [
         "tidyr"
     ],
-    "shinytoastr": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "KEGGREST"
@@ -22383,9 +22380,7 @@
         "viridis"
     ],
     "stars": [],
-    "spsComps": [
-        "shinytoastr"
-    ],
+    "spsComps": [],
     "drawer": [
         "bsplus"
     ],
