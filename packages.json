@@ -4181,7 +4181,6 @@
         "VariantAnnotation"
     ],
     "synergyfinder": [
-        "SpatialExtremes",
         "car",
         "drc",
         "pbkrtest"
@@ -4981,7 +4980,6 @@
     ],
     "sampSurf": [],
     "MESS": [],
-    "SpatialExtremes": [],
     "GenKern": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
