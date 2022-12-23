@@ -28,7 +28,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "GenomicFeatures",
         "Glimma",
         "Hmisc",
@@ -58,15 +57,12 @@
     "AffyRNADegradation": [
         "affy"
     ],
-    "AGDEX": [
-        "GSEABase"
-    ],
+    "AGDEX": [],
     "AgiMicroRna": [
         "BSgenome",
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "GenomicFeatures",
         "Glimma",
         "Hmisc",
@@ -274,12 +270,9 @@
     ],
     "attract": [
         "Category",
-        "GOstats",
-        "GSEABase"
+        "GOstats"
     ],
-    "AUCell": [
-        "GSEABase"
-    ],
+    "AUCell": [],
     "autonomics": [
         "assertive"
     ],
@@ -376,9 +369,7 @@
         "affy",
         "gcrma"
     ],
-    "BicARE": [
-        "GSEABase"
-    ],
+    "BicARE": [],
     "bigmelon": [
         "FDb.InfiniumMethylation.hg19",
         "GenomicFeatures",
@@ -430,9 +421,7 @@
         "rhdf5",
         "rstatix"
     ],
-    "BioCor": [
-        "GSEABase"
-    ],
+    "BioCor": [],
     "BiocSklearn": [
         "basilisk"
     ],
@@ -644,7 +633,6 @@
     ],
     "canceR": [
         "Category",
-        "GSEABase",
         "Hmisc",
         "hgu133a.db",
         "phenoTest",
@@ -669,13 +657,10 @@
         "scater",
         "viridis"
     ],
-    "Category": [
-        "GSEABase"
-    ],
+    "Category": [],
     "categoryCompare": [
         "Category",
-        "GOstats",
-        "GSEABase"
+        "GOstats"
     ],
     "cbaf": [
         "GenomicFeatures",
@@ -695,7 +680,6 @@
         "basilisk"
     ],
     "CCPROMISE": [
-        "GSEABase",
         "PROMISE"
     ],
     "celda": [
@@ -706,7 +690,6 @@
     "CellBarcode": [],
     "cellHTS2": [
         "Category",
-        "GSEABase",
         "affy",
         "vsn"
     ],
@@ -750,7 +733,6 @@
         "rstatix"
     ],
     "Cepo": [
-        "GSEABase",
         "HDF5Array",
         "rhdf5"
     ],
@@ -1128,7 +1110,6 @@
         "viridis"
     ],
     "consensusOV": [
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "genefu",
@@ -1185,7 +1166,6 @@
         "xcms"
     ],
     "cosmosR": [
-        "GSEABase",
         "dorothea"
     ],
     "countsimQC": [
@@ -1194,7 +1174,6 @@
     "CoverageView": [],
     "covRNA": [],
     "cpvSNP": [
-        "GSEABase",
         "GenomicFeatures"
     ],
     "crisprBowtie": [
@@ -1708,7 +1687,6 @@
         "viridis"
     ],
     "EGSEA": [
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "PADOG",
@@ -1745,7 +1723,6 @@
         "rhdf5"
     ],
     "EnrichmentBrowser": [
-        "GSEABase",
         "pathview"
     ],
     "enrichplot": [
@@ -1909,7 +1886,6 @@
         "viridis"
     ],
     "escape": [
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "rhdf5"
@@ -2297,12 +2273,10 @@
         "affy"
     ],
     "gep2pep": [
-        "GSEABase",
         "rhdf5"
     ],
     "gespeR": [
         "Category",
-        "GSEABase",
         "affy",
         "cellHTS2",
         "vsn"
@@ -2332,7 +2306,6 @@
     "ggtreeExtra": [],
     "girafe": [],
     "GISPA": [
-        "GSEABase",
         "HH",
         "Hmisc",
         "viridis"
@@ -2352,7 +2325,6 @@
         "survminer"
     ],
     "GlobalAncova": [
-        "GSEABase",
         "dendextend",
         "viridis"
     ],
@@ -2364,7 +2336,6 @@
     "GmicR": [
         "Category",
         "GOstats",
-        "GSEABase",
         "Hmisc",
         "WGCNA",
         "viridis"
@@ -2393,8 +2364,7 @@
         "viridis"
     ],
     "GOstats": [
-        "Category",
-        "GSEABase"
+        "Category"
     ],
     "GOTHiC": [
         "BSgenome"
@@ -2415,10 +2385,8 @@
     "GSCA": [
         "rhdf5"
     ],
-    "GSEABase": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
-        "GSEABase",
         "pathview"
     ],
     "GSEAmining": [
@@ -2432,11 +2400,8 @@
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "GSRI": [
-        "GSEABase"
-    ],
+    "GSRI": [],
     "GSVA": [
-        "GSEABase",
         "HDF5Array",
         "rhdf5"
     ],
@@ -2604,7 +2569,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "GenomicFeatures",
         "dendextend",
         "geneLenDataBase",
@@ -2626,7 +2590,6 @@
     ],
     "imageHTS": [
         "Category",
-        "GSEABase",
         "affy",
         "cellHTS2",
         "vsn"
@@ -2684,8 +2647,7 @@
         "viridis"
     ],
     "interactiveDisplay": [
-        "Category",
-        "GSEABase"
+        "Category"
     ],
     "InterCellar": [
         "FactoMineR",
@@ -3070,8 +3032,7 @@
         "viridis"
     ],
     "meshr": [
-        "Category",
-        "GSEABase"
+        "Category"
     ],
     "Metab": [
         "MSnbase",
@@ -3329,8 +3290,7 @@
     ],
     "MIGSA": [
         "Category",
-        "GOstats",
-        "GSEABase"
+        "GOstats"
     ],
     "miloR": [
         "ggraph",
@@ -3350,7 +3310,6 @@
         "Category",
         "FDb.InfiniumMethylation.hg19",
         "GOstats",
-        "GSEABase",
         "GenomicFeatures",
         "HDF5Array",
         "Hmisc",
@@ -3385,7 +3344,6 @@
     "miRLAB": [
         "Category",
         "GOstats",
-        "GSEABase",
         "Hmisc",
         "viridis"
     ],
@@ -3393,7 +3351,6 @@
         "BiBitR",
         "BicARE",
         "DOSE",
-        "GSEABase",
         "Hmisc",
         "ReactomePA",
         "SPONGE",
@@ -3485,9 +3442,7 @@
         "basilisk",
         "rhdf5"
     ],
-    "mogsa": [
-        "GSEABase"
-    ],
+    "mogsa": [],
     "monaLisa": [
         "BSgenome",
         "CNEr",
@@ -3816,7 +3771,6 @@
     "netZooR": [
         "Category",
         "GOstats",
-        "GSEABase",
         "GenomicFeatures",
         "HDF5Array",
         "bumphunter",
@@ -3849,9 +3803,7 @@
         "vsn"
     ],
     "normr": [],
-    "npGSEA": [
-        "GSEABase"
-    ],
+    "npGSEA": [],
     "nucleR": [],
     "nullranges": [
         "plyranges"
@@ -3866,7 +3818,6 @@
     "octad": [
         "DESeq2",
         "EDASeq",
-        "GSEABase",
         "GSVA",
         "GenomicFeatures",
         "HDF5Array",
@@ -3962,7 +3913,6 @@
         "viridis"
     ],
     "oppar": [
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "rhdf5"
@@ -4021,7 +3971,6 @@
     "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
-        "GSEABase",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -4047,7 +3996,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "dendextend",
         "heatmaply",
         "viridis"
@@ -4110,7 +4058,6 @@
     "phenomis": [],
     "phenoTest": [
         "Category",
-        "GSEABase",
         "Hmisc",
         "hgu133a.db",
         "viridis"
@@ -4169,8 +4116,7 @@
     ],
     "PloGO2": [
         "Category",
-        "GOstats",
-        "GSEABase"
+        "GOstats"
     ],
     "plotgardener": [
         "plyranges"
@@ -4298,9 +4244,7 @@
         "viridis",
         "vsn"
     ],
-    "PROMISE": [
-        "GSEABase"
-    ],
+    "PROMISE": [],
     "PROPS": [
         "sva"
     ],
@@ -4496,8 +4440,7 @@
         "affy"
     ],
     "RcisTarget": [
-        "AUCell",
-        "GSEABase"
+        "AUCell"
     ],
     "RCM": [
         "biomformat",
@@ -4619,7 +4562,6 @@
         "Category",
         "DESeq2",
         "GOstats",
-        "GSEABase",
         "GenomicFeatures",
         "Hmisc",
         "OrganismDbi",
@@ -4774,7 +4716,6 @@
     ],
     "RNAinteract": [
         "Category",
-        "GSEABase",
         "affy",
         "cellHTS2",
         "vsn"
@@ -4976,7 +4917,6 @@
     ],
     "scClassify": [
         "Cepo",
-        "GSEABase",
         "HDF5Array",
         "ggraph",
         "rhdf5",
@@ -5073,7 +5013,6 @@
         "Category",
         "DOSE",
         "GOstats",
-        "GSEABase",
         "ReactomePA",
         "Seurat",
         "ccTensor",
@@ -5088,7 +5027,6 @@
         "viridis"
     ],
     "scTGIF": [
-        "GSEABase",
         "Seurat",
         "fields",
         "nnTensor",
@@ -5186,7 +5124,6 @@
     ],
     "signatureSearch": [
         "DOSE",
-        "GSEABase",
         "HDF5Array",
         "clusterProfiler",
         "enrichplot",
@@ -5206,7 +5143,6 @@
         "survminer"
     ],
     "signifinder": [
-        "GSEABase",
         "GSVA",
         "GenomicFeatures",
         "HDF5Array",
@@ -5260,7 +5196,6 @@
     "singleCellTK": [
         "DESeq2",
         "DropletUtils",
-        "GSEABase",
         "GSVA",
         "GSVAdata",
         "GenomicFeatures",
@@ -5294,11 +5229,8 @@
         "QuasR",
         "VariantAnnotation"
     ],
-    "singscore": [
-        "GSEABase"
-    ],
+    "singscore": [],
     "SISPA": [
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "rhdf5"
@@ -5322,9 +5254,7 @@
         "rhdf5",
         "wateRmelon"
     ],
-    "slalom": [
-        "GSEABase"
-    ],
+    "slalom": [],
     "slingshot": [],
     "SMITE": [
         "GenomicFeatures",
@@ -5375,7 +5305,6 @@
         "viridis"
     ],
     "sparrow": [
-        "GSEABase",
         "viridis"
     ],
     "SparseSignatures": [
@@ -5472,9 +5401,7 @@
     "SplicingGraphs": [
         "GenomicFeatures"
     ],
-    "splineTimeR": [
-        "GSEABase"
-    ],
+    "splineTimeR": [],
     "SPLINTER": [
         "BSgenome",
         "BSgenome.Mmusculus.UCSC.mm9",
@@ -5551,7 +5478,6 @@
     ],
     "staRank": [
         "Category",
-        "GSEABase",
         "affy",
         "cellHTS2",
         "vsn"
@@ -5651,7 +5577,6 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "rhdf5",
@@ -5718,9 +5643,7 @@
         "ORFik",
         "fst"
     ],
-    "TFutils": [
-        "GSEABase"
-    ],
+    "TFutils": [],
     "tigre": [],
     "tilingArray": [
         "affy",
@@ -5741,9 +5664,7 @@
         "WGCNA",
         "viridis"
     ],
-    "TissueEnrich": [
-        "GSEABase"
-    ],
+    "TissueEnrich": [],
     "TitanCNA": [
         "BSgenome",
         "GenomicFeatures",
@@ -5757,7 +5678,6 @@
         "viridis"
     ],
     "TNBC.CMS": [
-        "GSEABase",
         "GSVA",
         "HDF5Array",
         "car",
@@ -5992,7 +5912,6 @@
         "viridis"
     ],
     "vissE": [
-        "GSEABase",
         "ggraph",
         "msigdb",
         "textstem",
@@ -6095,7 +6014,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "GSEABase",
         "lmerTest",
         "pathview",
         "pbkrtest",
@@ -6569,7 +6487,6 @@
     ],
     "celldex": [],
     "GSVAdata": [
-        "GSEABase",
         "hgu95a.db"
     ],
     "SoupX": [
@@ -6599,7 +6516,5 @@
         "BSgenome"
     ],
     "kmlShape": [],
-    "msigdb": [
-        "GSEABase"
-    ]
+    "msigdb": []
 }
