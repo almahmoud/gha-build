@@ -3602,7 +3602,6 @@
         "SpatialExperiment",
         "lmerTest"
     ],
-    "SpidermiR": [],
     "spiky": [],
     "splatter": [
         "scater"
@@ -3662,9 +3661,7 @@
     "staRank": [
         "cellHTS2"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "Statial": [],
     "STdeconvolve": [],
     "stJoincount": [
