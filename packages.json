@@ -26271,8 +26271,7 @@
         "viridis",
         "visNetwork",
         "vroom",
-        "webchem",
-        "word2vec"
+        "webchem"
     ],
     "GenVisR": [
         "AnnotationDbi",
@@ -79432,7 +79431,6 @@
     ],
     "officer": [],
     "gdtools": [],
-    "word2vec": [],
     "robust": [
         "fit.models",
         "rrcov"
