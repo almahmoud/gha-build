@@ -2138,7 +2138,6 @@
         "BiocSingular",
         "DelayedArray",
         "DelayedMatrixStats",
-        "DirichletReg",
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
@@ -40949,7 +40948,6 @@
         "pillar",
         "tibble"
     ],
-    "DirichletReg": [],
     "corncob": [
         "Biostrings",
         "GenomeInfoDb",
