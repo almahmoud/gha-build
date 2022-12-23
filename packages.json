@@ -1618,7 +1618,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "pathview",
-        "shinyBS",
         "viridis"
     ],
     "biosigner": [
@@ -2305,7 +2304,6 @@
         "basilisk",
         "htmlwidgets",
         "rapportools",
-        "shinyBS",
         "shinycssloaders",
         "shinydashboard",
         "vroom"
@@ -4107,7 +4105,6 @@
         "oligoClasses",
         "readr",
         "readxl",
-        "shinyBS",
         "shinyWidgets",
         "shinyjs",
         "shinypanel",
@@ -4565,7 +4562,6 @@
         "qvalue",
         "scatterpie",
         "shadowtext",
-        "shinyBS",
         "shinydashboard",
         "shinyjs",
         "sva",
@@ -5060,7 +5056,6 @@
         "kableExtra",
         "plotly",
         "rvest",
-        "shinyBS",
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
@@ -6450,7 +6445,6 @@
         "reactome.db",
         "scatterpie",
         "shadowtext",
-        "shinyBS",
         "shinydashboard",
         "tidygraph",
         "tidyr",
@@ -6482,8 +6476,7 @@
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
-        "htmlwidgets",
-        "shinyBS"
+        "htmlwidgets"
     ],
     "fastseg": [],
     "FCBF": [
@@ -7535,7 +7528,6 @@
         "readr",
         "readxl",
         "rstatix",
-        "shinyBS",
         "shinyHeatmaply",
         "shinybusy",
         "testthat",
@@ -7967,8 +7959,7 @@
     "GPA": [
         "DT",
         "ggrepel",
-        "htmlwidgets",
-        "shinyBS"
+        "htmlwidgets"
     ],
     "gpuMagic": [
         "DescTools",
@@ -8612,7 +8603,6 @@
         "DT",
         "UpSetR",
         "htmlwidgets",
-        "shinyBS",
         "shinydashboard"
     ],
     "ideal": [
@@ -8647,7 +8637,6 @@
         "pcaExplorer",
         "plotly",
         "rtracklayer",
-        "shinyBS",
         "shinydashboard",
         "threejs",
         "tidyr",
@@ -9389,7 +9378,6 @@
         "htmlwidgets",
         "learnr",
         "readr",
-        "shinyBS",
         "shinyFiles",
         "shinydashboard",
         "shinyjs",
@@ -11979,7 +11967,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "shinyBS",
         "shinybusy",
         "shinyjs",
         "testthat",
@@ -12238,7 +12225,6 @@
         "rstatix",
         "rtracklayer",
         "rvest",
-        "shinyBS",
         "shinyalert",
         "shinybusy",
         "shinydashboard",
@@ -12884,7 +12870,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer",
-        "shinyBS",
         "shinyFiles",
         "shinydashboard",
         "tidyr",
@@ -13109,7 +13094,6 @@
         "htmlTable",
         "htmlwidgets",
         "openPrimeR",
-        "shinyBS",
         "shinyjs",
         "viridis"
     ],
@@ -13482,7 +13466,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "shinyBS",
         "shinydashboard",
         "threejs",
         "tidyr",
@@ -13753,7 +13736,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "shinyBS",
         "shinyFiles",
         "shinyjs",
         "topGO"
@@ -14332,7 +14314,6 @@
         "highcharter",
         "htmlwidgets",
         "rhandsontable",
-        "shinyBS",
         "shinycssloaders",
         "shinyjqui",
         "shinyjs",
@@ -14452,7 +14433,6 @@
         "readr",
         "recount",
         "rtracklayer",
-        "shinyBS",
         "shinyjs",
         "tidyr",
         "viridis",
@@ -14585,7 +14565,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "pwrEWAS.data",
-        "shinyBS",
         "shinyWidgets"
     ],
     "qckitfastq": [],
@@ -18907,7 +18886,6 @@
         "sesame",
         "sesameData",
         "shadowtext",
-        "shinyBS",
         "shinyFiles",
         "shinydashboard",
         "shinyjs",
@@ -19531,7 +19509,6 @@
         "htmlwidgets",
         "plotly",
         "roxygen2",
-        "shinyBS",
         "shinyFiles",
         "shinyjs",
         "tidyr"
@@ -19733,7 +19710,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "rtracklayer",
-        "shinyBS",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
@@ -20987,7 +20963,6 @@
         "htmlwidgets"
     ],
     "sna": [],
-    "shinyBS": [],
     "superheat": [
         "ggdendro"
     ],
@@ -21456,7 +21431,6 @@
     ],
     "tensorflow": [],
     "shinypanel": [
-        "shinyBS",
         "shinyjs"
     ],
     "highcharter": [
