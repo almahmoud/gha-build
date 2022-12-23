@@ -843,7 +843,6 @@
         "ggtree"
     ],
     "cn.farms": [],
-    "cn.mops": [],
     "CNEr": [],
     "CNORfuzzy": [],
     "CNTools": [
@@ -855,7 +854,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biovizBase",
-        "cn.mops",
         "ensembldb",
         "karyoploteR",
         "regioneR"
@@ -866,7 +864,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biovizBase",
-        "cn.mops",
         "ensembldb",
         "karyoploteR",
         "regioneR"
@@ -997,7 +994,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biovizBase",
-        "cn.mops",
         "ensembldb",
         "karyoploteR",
         "regioneR"
@@ -3538,9 +3534,7 @@
         "motifmatchr"
     ],
     "PAIRADISE": [],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GSEABase",
