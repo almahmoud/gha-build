@@ -2216,7 +2216,6 @@
     "gcrma": [
         "affy"
     ],
-    "GCSscore": [],
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
