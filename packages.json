@@ -295,12 +295,10 @@
         "BSgenome.Ecoli.NCBI.20080805"
     ],
     "BASiCS": [
-        "ggExtra",
         "scran"
     ],
     "BASiCStan": [
         "BASiCS",
-        "ggExtra",
         "scran"
     ],
     "batchelor": [],
@@ -1481,7 +1479,6 @@
         "scran"
     ],
     "DiscoRhythm": [
-        "ggExtra",
         "heatmaply"
     ],
     "distinct": [
@@ -2480,7 +2477,6 @@
         "HiCcompare",
         "QDNAseq",
         "car",
-        "ggExtra",
         "ggpubr",
         "lme4",
         "multiHiCcompare",
@@ -3528,12 +3524,9 @@
         "lmerTest",
         "nloptr"
     ],
-    "MSstatsQC": [
-        "ggExtra"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSstatsQC",
-        "ggExtra"
+        "MSstatsQC"
     ],
     "MSstatsSampleSize": [
         "MSstats",
@@ -6050,7 +6043,6 @@
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome"
     ],
-    "ggExtra": [],
     "heatmaply": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "GenomicFeatures",
