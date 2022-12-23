@@ -19374,7 +19374,6 @@
         "biomaRt",
         "dbplyr"
     ],
-    "SwathXtend": [],
     "switchde": [
         "SingleCellExperiment",
         "SummarizedExperiment"
