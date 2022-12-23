@@ -9803,7 +9803,6 @@
         "SingleCellExperiment",
         "plotly"
     ],
-    "scPCA": [],
     "scPipe": [
         "BiocFileCache",
         "GGally",
