@@ -885,7 +885,6 @@
         "heatmaply",
         "viridis"
     ],
-    "DEComplexDisease": [],
     "decompTumor2Sig": [],
     "deconvR": [
         "HDF5Array",
