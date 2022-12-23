@@ -13455,7 +13455,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "PWMEnrich": [],
     "pwOmics": [
         "AnnotationDbi",
         "AnnotationHub",
