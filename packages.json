@@ -6805,7 +6805,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "mixsqp",
         "pillar",
         "progress",
         "purrr",
@@ -10364,7 +10363,6 @@
         "XVector",
         "ashr",
         "dplyr",
-        "mixsqp",
         "pillar",
         "tibble",
         "tidyselect"
@@ -10918,7 +10916,6 @@
         "jquerylib",
         "knitr",
         "miniUI",
-        "mixsqp",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "patchwork",
@@ -11885,7 +11882,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "mixsqp",
         "pillar",
         "restfulr",
         "rmarkdown",
@@ -47723,7 +47719,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "mixsqp",
         "mixtools",
         "multtest",
         "pillar",
@@ -51327,10 +51322,7 @@
         "tibble",
         "tidyselect"
     ],
-    "ashr": [
-        "mixsqp"
-    ],
-    "mixsqp": [],
+    "ashr": [],
     "ChIPXpressData": [],
     "shinyhelper": [
         "bslib",
