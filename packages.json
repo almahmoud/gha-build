@@ -103691,7 +103691,6 @@
         "doParallel",
         "dplyr",
         "ellipsis",
-        "enviPat",
         "evaluate",
         "farver",
         "fastmap",
@@ -112461,7 +112460,6 @@
         "doParallel",
         "dplyr",
         "ellipsis",
-        "enviPat",
         "evaluate",
         "farver",
         "fastmap",
@@ -168635,7 +168633,6 @@
         "xtable",
         "yaml"
     ],
-    "enviPat": [],
     "shinyscreenshot": [
         "R6",
         "Rcpp",
