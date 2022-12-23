@@ -24,7 +24,6 @@
         "ggdendro",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "ACE": [
@@ -47,8 +46,7 @@
         "GO.db",
         "KEGGREST",
         "SummarizedExperiment",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "ADAMgui": [
         "ADAM",
@@ -69,7 +67,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "shinyjs",
         "testthat",
@@ -87,7 +84,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "rvest"
     ],
     "ADImpute": [
@@ -146,7 +142,6 @@
         "htmlTable",
         "htmlwidgets",
         "oligoClasses",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -216,7 +211,6 @@
         "htmlTable",
         "htmlwidgets",
         "oligoClasses",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -241,7 +235,6 @@
         "GGally",
         "cowplot",
         "htmlwidgets",
-        "rmarkdown",
         "shinydashboard",
         "tidyr"
     ],
@@ -264,14 +257,12 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
     "AlphaBeta": [
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "alpine": [
@@ -290,7 +281,6 @@
         "ggrepel",
         "mixOmics",
         "readxl",
-        "rmarkdown",
         "rvest",
         "speaq",
         "tidyr"
@@ -315,7 +305,6 @@
         "interactiveDisplayBase",
         "readr",
         "rhdf5",
-        "rmarkdown",
         "tidyr",
         "vroom"
     ],
@@ -325,7 +314,6 @@
         "ShortRead",
         "SummarizedExperiment",
         "ggthemes",
-        "rmarkdown",
         "waffle"
     ],
     "Anaquin": [
@@ -358,7 +346,6 @@
         "nloptr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "scater",
         "scuttle",
         "testthat",
@@ -396,7 +383,6 @@
         "plotly",
         "recipes",
         "rhdf5",
-        "rmarkdown",
         "shinyjs",
         "tidyr"
     ],
@@ -431,8 +417,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "AnnotationHubData": [
         "AnnotationDbi",
@@ -451,7 +436,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "rtracklayer"
     ],
     "annotatr": [
@@ -471,7 +455,6 @@
         "interactiveDisplayBase",
         "readr",
         "regioneR",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -490,14 +473,12 @@
     "AnVIL": [
         "DT",
         "htmlwidgets",
-        "rmarkdown",
         "tidyr"
     ],
     "AnVILBilling": [
         "DT",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "shinytoastr",
         "tidyr"
     ],
@@ -506,7 +487,6 @@
         "DT",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "tidyr",
         "vroom"
     ],
@@ -552,7 +532,6 @@
         "org.Mm.eg.db",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tidyr",
@@ -591,7 +570,6 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "shinyjs"
     ],
@@ -613,7 +591,6 @@
         "dbplyr",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "arrayMvout": [
@@ -658,7 +635,6 @@
         "genefilter",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis",
         "vsn"
     ],
@@ -675,7 +651,6 @@
         "org.Hs.eg.db",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "waldo"
@@ -688,7 +663,6 @@
         "ggrepel",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "ropls",
         "tidyr"
     ],
@@ -719,7 +693,6 @@
         "mGSZ",
         "nloptr",
         "rematch2",
-        "rmarkdown",
         "rtracklayer",
         "testthat",
         "tidyr",
@@ -749,7 +722,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -818,7 +790,6 @@
         "rematch2",
         "reprex",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "rvest",
         "tidyr",
@@ -855,7 +826,6 @@
         "readr",
         "regioneR",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -887,8 +857,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "atSNP": [
         "AnnotationDbi",
@@ -907,7 +876,6 @@
         "motifStack",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rtracklayer",
         "testthat",
         "vroom",
@@ -935,7 +903,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "autonomics": [
@@ -1034,7 +1001,6 @@
         "pRolocdata",
         "plotly",
         "recipes",
-        "rmarkdown",
         "threejs",
         "tidyr",
         "viridis",
@@ -1059,7 +1025,6 @@
         "SummarizedExperiment",
         "htmlwidgets",
         "prettydoc",
-        "rmarkdown",
         "tidyr"
     ],
     "Basic4Cseq": [
@@ -1078,7 +1043,6 @@
         "cowplot",
         "ggExtra",
         "htmlwidgets",
-        "rmarkdown",
         "scran",
         "scuttle",
         "shinyjs",
@@ -1096,7 +1060,6 @@
         "glmGamPoi",
         "htmlwidgets",
         "rhdf5",
-        "rmarkdown",
         "rstan",
         "scran",
         "scuttle",
@@ -1126,7 +1089,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "sva",
         "tidyr",
         "viridis"
@@ -1233,7 +1195,6 @@
         "readxl",
         "rematch2",
         "rhdf5",
-        "rmarkdown",
         "scater",
         "scattermore",
         "sctransform",
@@ -1317,7 +1278,6 @@
         "htmlTable",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "shinycssloaders",
         "shinydashboard",
         "tidyr",
@@ -1343,7 +1303,6 @@
         "ggforce",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -1351,8 +1310,7 @@
     "bioassayR": [
         "ChemmineR",
         "DT",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "biobroom": [
         "broom",
@@ -1398,7 +1356,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "shinyAce",
@@ -1422,7 +1379,6 @@
     "BiocFHIR": [
         "DT",
         "htmlwidgets",
-        "rmarkdown",
         "tidyr",
         "visNetwork"
     ],
@@ -1465,7 +1421,6 @@
         "pbkrtest",
         "rematch2",
         "rhdf5",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -1484,7 +1439,6 @@
         "dbplyr",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "rorcid",
         "rvest",
         "vroom"
@@ -1500,14 +1454,12 @@
         "basilisk"
     ],
     "BiocStyle": [
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "biocthis": [],
     "BiocWorkflowTools": [
         "BiocStyle",
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "biodb": [
         "BiocFileCache",
@@ -1605,7 +1557,6 @@
         "htmlTable",
         "htmlwidgets",
         "precrec",
-        "rmarkdown",
         "rms",
         "topGO",
         "viridis",
@@ -1630,7 +1581,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -1651,7 +1601,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
-        "rmarkdown",
         "synaptome.data",
         "synaptome.db",
         "viridis"
@@ -1674,7 +1623,6 @@
         "intergraph",
         "networkD3",
         "patchwork",
-        "rmarkdown",
         "sna",
         "sva",
         "viridis"
@@ -1692,7 +1640,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "pathview",
-        "rmarkdown",
         "shinyBS",
         "viridis"
     ],
@@ -1703,7 +1650,6 @@
         "ggrepel",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "ropls",
         "tidyr"
     ],
@@ -1739,7 +1685,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -1778,7 +1723,6 @@
         "readr",
         "regioneR",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -1837,7 +1781,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "waldo"
     ],
@@ -1850,7 +1793,6 @@
         "genefilter",
         "htmlwidgets",
         "rhdf5",
-        "rmarkdown",
         "sva"
     ],
     "bnem": [
@@ -1864,7 +1806,6 @@
         "genefilter",
         "ggdendro",
         "mnem",
-        "rmarkdown",
         "sva",
         "vsn"
     ],
@@ -1891,7 +1832,6 @@
         "htmlTable",
         "htmlwidgets",
         "plyranges",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -1912,8 +1852,7 @@
     "BPRMeth": [
         "BiocStyle",
         "bookdown",
-        "cowplot",
-        "rmarkdown"
+        "cowplot"
     ],
     "BRAIN": [],
     "brainflowprobes": [
@@ -1949,7 +1888,6 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "qvalue",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -2036,7 +1974,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -2052,7 +1989,6 @@
         "pkgdown",
         "profvis",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
@@ -2119,7 +2055,6 @@
         "ggbio",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -2146,7 +2081,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -2184,7 +2118,6 @@
         "intergraph",
         "networkD3",
         "patchwork",
-        "rmarkdown",
         "rtracklayer",
         "sna",
         "sva",
@@ -2208,7 +2141,6 @@
         "affy",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis",
         "vsn",
         "xcms"
@@ -2229,7 +2161,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "phenoTest",
-        "rmarkdown",
         "viridis"
     ],
     "CancerInSilico": [],
@@ -2261,12 +2192,10 @@
     ],
     "Cardinal": [
         "EBImage",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "CARNIVAL": [
         "readr",
-        "rmarkdown",
         "tidyr",
         "vroom"
     ],
@@ -2353,7 +2282,6 @@
         "genefilter",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "rvest",
         "tidyr",
@@ -2369,7 +2297,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "tidytree",
         "treeio"
@@ -2393,7 +2320,6 @@
         "dbplyr",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "rvest",
         "tidyr",
@@ -2405,7 +2331,6 @@
         "htmlwidgets",
         "rapportools",
         "rintrojs",
-        "rmarkdown",
         "shinyBS",
         "shinycssloaders",
         "shinydashboard",
@@ -2492,7 +2417,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scater",
         "scattermore",
         "sctransform",
@@ -2521,7 +2445,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "viridis",
@@ -2541,12 +2464,9 @@
         "tidyr",
         "viridis"
     ],
-    "CellNOptR": [
-        "rmarkdown"
-    ],
+    "CellNOptR": [],
     "cellscape": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "CellTrails": [
         "EnvStats",
@@ -2564,8 +2484,7 @@
     ],
     "cellxgenedp": [
         "DT",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "CEMiTool": [
         "AnnotationDbi",
@@ -2599,7 +2518,6 @@
         "intergraph",
         "patchwork",
         "qvalue",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "sna",
@@ -2784,7 +2702,6 @@
         "qvalue",
         "readr",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "ruv",
         "shinythemes",
@@ -2796,8 +2713,7 @@
     ],
     "ChemmineR": [
         "DT",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "CHETAH": [
         "SingleCellExperiment",
@@ -2806,7 +2722,6 @@
         "dendextend",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
@@ -2823,7 +2738,6 @@
         "Hmisc",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "chimeraviz": [
@@ -2850,7 +2764,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -2886,7 +2799,6 @@
         "org.Mm.eg.db",
         "org.Rn.eg.db",
         "readr",
-        "rmarkdown",
         "rms",
         "rtracklayer",
         "viridis",
@@ -2911,7 +2823,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -2961,7 +2872,6 @@
         "geneplotter",
         "ggrepel",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -3067,7 +2977,6 @@
         "kableExtra",
         "msigdbr",
         "plotly",
-        "rmarkdown",
         "rtracklayer",
         "rvest",
         "scater",
@@ -3113,7 +3022,6 @@
         "htmlwidgets",
         "plotly",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "vroom"
@@ -3145,7 +3053,6 @@
         "htmlTable",
         "htmlwidgets",
         "monocle",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -3157,7 +3064,6 @@
         "ggrepel",
         "htmlwidgets",
         "networkD3",
-        "rmarkdown",
         "tidygraph",
         "tidyr",
         "viridis",
@@ -3186,7 +3092,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "universalmotif",
         "vroom"
@@ -3222,7 +3127,6 @@
         "plotly",
         "propr",
         "rhdf5",
-        "rmarkdown",
         "scran",
         "scuttle",
         "tidygraph",
@@ -3249,8 +3153,7 @@
     "cleaver": [],
     "clippda": [
         "htmlwidgets",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "clipper": [
         "AnnotationDbi",
@@ -3294,7 +3197,6 @@
         "affy",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "sna",
         "tidyr",
         "vsn"
@@ -3386,24 +3288,20 @@
         "vroom"
     ],
     "CNORdt": [
-        "CellNOptR",
-        "rmarkdown"
+        "CellNOptR"
     ],
     "CNORfeeder": [
-        "CellNOptR",
-        "rmarkdown"
+        "CellNOptR"
     ],
     "CNORfuzzy": [
         "CellNOptR",
         "nloptr",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "waldo"
     ],
     "CNORode": [
-        "CellNOptR",
-        "rmarkdown"
+        "CellNOptR"
     ],
     "CNTools": [
         "AnnotationDbi",
@@ -3436,7 +3334,6 @@
         "karyoploteR",
         "regioneR",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -3469,7 +3366,6 @@
         "plotly",
         "regioneR",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -3540,7 +3436,6 @@
         "SummarizedExperiment",
         "affy",
         "readr",
-        "rmarkdown",
         "tidyr",
         "vroom",
         "vsn"
@@ -3556,7 +3451,6 @@
         "pkgdown",
         "profvis",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "tidyr",
@@ -3583,7 +3477,6 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "biomaRt",
         "dbplyr",
-        "rmarkdown",
         "rtracklayer"
     ],
     "cola": [],
@@ -3607,7 +3500,6 @@
         "htmlTable",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -3637,7 +3529,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -3661,7 +3552,6 @@
         "lmerTest",
         "nloptr",
         "rematch2",
-        "rmarkdown",
         "rtracklayer",
         "testthat",
         "waldo"
@@ -3679,7 +3569,6 @@
     "COMPASS": [
         "BiocStyle",
         "bookdown",
-        "rmarkdown",
         "tidyr"
     ],
     "compcodeR": [],
@@ -3704,7 +3593,6 @@
         "htmlTable",
         "htmlwidgets",
         "methylPipe",
-        "rmarkdown",
         "rtracklayer",
         "topGO",
         "viridis"
@@ -3714,8 +3602,7 @@
         "ChemmineR",
         "DT",
         "dbplyr",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "ComPrAn": [
         "DT",
@@ -3724,7 +3611,6 @@
         "readr",
         "readxl",
         "rio",
-        "rmarkdown",
         "shinydashboard",
         "shinyjs",
         "tidyr",
@@ -3778,7 +3664,6 @@
         "qvalue",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "scater",
         "scatterpie",
@@ -3822,7 +3707,6 @@
         "flowMerge",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rms",
         "viridis"
     ],
@@ -3951,7 +3835,6 @@
         "karyoploteR",
         "regioneR",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -3971,7 +3854,6 @@
         "fgsea",
         "htmlwidgets",
         "piano",
-        "rmarkdown",
         "shinydashboard",
         "shinyjs",
         "tidyr",
@@ -4016,7 +3898,6 @@
         "mixtools",
         "plotly",
         "readr",
-        "rmarkdown",
         "tidyr",
         "viper",
         "visNetwork",
@@ -4036,7 +3917,6 @@
         "genefilter",
         "geneplotter",
         "htmlwidgets",
-        "rmarkdown",
         "tidyr"
     ],
     "CoverageView": [
@@ -4067,8 +3947,7 @@
     ],
     "CRImage": [
         "EBImage",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "crisprBase": [],
     "crisprBowtie": [
@@ -4114,7 +3993,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -4129,8 +4007,7 @@
         "crisprScoreData",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "CRISPRseek": [
         "BSgenome",
@@ -4169,7 +4046,6 @@
         "regioneR",
         "rhdf5",
         "rio",
-        "rmarkdown",
         "rtracklayer",
         "shinyjs",
         "tensorflow",
@@ -4214,7 +4090,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "viridis",
         "vroom"
@@ -4249,7 +4124,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "viridis",
         "vroom"
@@ -4272,7 +4146,6 @@
         "oligoClasses",
         "readr",
         "readxl",
-        "rmarkdown",
         "shinyBS",
         "shinyWidgets",
         "shinyjs",
@@ -4294,7 +4167,6 @@
         "WGCNA",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "CSSQ": [
@@ -4329,7 +4201,6 @@
         "interactiveDisplayBase",
         "readxl",
         "rhdf5",
-        "rmarkdown",
         "shinycssloaders",
         "tidyr"
     ],
@@ -4365,7 +4236,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -4378,8 +4248,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "customProDB": [
         "AnnotationDbi",
@@ -4449,7 +4318,6 @@
         "pbkrtest",
         "recipes",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "shinyFeedback",
         "shinyMatrix",
@@ -4479,7 +4347,6 @@
         "pbkrtest",
         "recipes",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "testthat",
         "tidyr",
@@ -4501,7 +4368,6 @@
         "ggbeeswarm",
         "htmlwidgets",
         "rhdf5",
-        "rmarkdown",
         "scuttle",
         "shinydashboard",
         "svgPanZoom",
@@ -4537,7 +4403,6 @@
         "htmlwidgets",
         "motifStack",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -4595,7 +4460,6 @@
         "recipes",
         "rematch2",
         "rgl",
-        "rmarkdown",
         "rtracklayer",
         "sva",
         "testthat",
@@ -4610,7 +4474,6 @@
         "broom",
         "highcharter",
         "htmlwidgets",
-        "rmarkdown",
         "tidyr",
         "vsn"
     ],
@@ -4671,7 +4534,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "shadowtext",
         "tidygraph",
@@ -4747,7 +4609,6 @@
         "pathview",
         "plotly",
         "qvalue",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "shinyBS",
@@ -4767,8 +4628,7 @@
         "KEGGREST",
         "SummarizedExperiment",
         "bookdown",
-        "made4",
-        "rmarkdown"
+        "made4"
     ],
     "DEComplexDisease": [
         "AnnotationDbi",
@@ -4839,7 +4699,6 @@
         "SummarizedExperiment",
         "diffr",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer"
     ],
     "DeepPINCS": [
@@ -4849,7 +4708,6 @@
         "lexicon",
         "rcdk",
         "readr",
-        "rmarkdown",
         "rvest",
         "syuzhet",
         "tensorflow",
@@ -4899,7 +4757,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -4952,7 +4809,6 @@
         "dendextend",
         "genefilter",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "sva",
         "viridis"
@@ -4969,7 +4825,6 @@
         "ggrepel",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "shinydashboard",
         "tidyr",
         "vroom",
@@ -5000,7 +4855,6 @@
         "htmlTable",
         "htmlwidgets",
         "qvalue",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -5029,7 +4883,6 @@
         "htmlTable",
         "htmlwidgets",
         "qvalue",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -5142,7 +4995,6 @@
         "geneplotter",
         "ggrepel",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -5155,7 +5007,6 @@
         "WGCNA",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "diffcyt": [
@@ -5222,7 +5073,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "viper"
     ],
@@ -5237,7 +5087,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "scran",
         "sctransform",
@@ -5260,7 +5109,6 @@
         "htmlwidgets",
         "kableExtra",
         "plotly",
-        "rmarkdown",
         "rvest",
         "shinyBS",
         "shinycssloaders",
@@ -5354,7 +5202,6 @@
         "org.Hs.eg.db",
         "readr",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "ruv",
         "tidyr",
@@ -5380,7 +5227,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -5407,7 +5253,6 @@
         "readr",
         "regioneR",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -5458,7 +5303,6 @@
         "pbkrtest",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "shinydashboard",
         "testthat",
         "tidyr",
@@ -5589,7 +5433,6 @@
         "progeny",
         "quantiseqr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "testthat",
         "tidyr",
@@ -5628,9 +5471,7 @@
         "treeio",
         "viridis"
     ],
-    "easyreporting": [
-        "rmarkdown"
-    ],
+    "easyreporting": [],
     "easyRNASeq": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -5644,8 +5485,7 @@
         "genomeIntervals"
     ],
     "EBImage": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "EBSEA": [
         "AnnotationDbi",
@@ -5761,7 +5601,6 @@
         "pathview",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "safe",
         "tidyr",
         "topGO"
@@ -5769,8 +5608,7 @@
     "eiR": [
         "ChemmineR",
         "DT",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "eisaR": [
         "SummarizedExperiment"
@@ -5810,7 +5648,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -5866,7 +5703,6 @@
         "minfi",
         "readr",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "vroom"
@@ -5955,7 +5791,6 @@
         "qvalue",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "scatterpie",
@@ -6052,7 +5887,6 @@
         "plotly",
         "qvalue",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "scatterpie",
         "seqPattern",
@@ -6148,7 +5982,6 @@
         "patchwork",
         "qvalue",
         "reactome.db",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -6176,7 +6009,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "vroom"
@@ -6224,7 +6056,6 @@
         "org.Hs.eg.db",
         "readr",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis",
@@ -6243,7 +6074,6 @@
         "htmlTable",
         "htmlwidgets",
         "qgraph",
-        "rmarkdown",
         "viridis"
     ],
     "EpiTxDb": [
@@ -6400,7 +6230,6 @@
         "pipeFrame",
         "qvalue",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "scatterpie",
         "shadowtext",
@@ -6444,7 +6273,6 @@
         "SummarizedExperiment",
         "ggdendro",
         "kableExtra",
-        "rmarkdown",
         "rvest",
         "tidyr"
     ],
@@ -6501,7 +6329,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "testthat",
         "tidyr",
@@ -6546,8 +6373,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "ExperimentHubData": [
         "AnnotationDbi",
@@ -6568,7 +6394,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "rtracklayer"
     ],
     "ExperimentSubset": [
@@ -6591,7 +6416,6 @@
         "cowplot",
         "htmlwidgets",
         "rintrojs",
-        "rmarkdown",
         "shinydashboard",
         "shinyjs",
         "tidyr"
@@ -6599,8 +6423,7 @@
     "ExpressionAtlas": [
         "BiocStyle",
         "SummarizedExperiment",
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "extraChIPs": [
         "AnnotationDbi",
@@ -6631,7 +6454,6 @@
         "htmlTable",
         "htmlwidgets",
         "patchwork",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -6658,7 +6480,6 @@
         "gap",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "famat": [
@@ -6690,7 +6511,6 @@
         "qvalue",
         "rWikiPathways",
         "reactome.db",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "shinyBS",
@@ -6716,7 +6536,6 @@
         "htmlTable",
         "htmlwidgets",
         "org.Sc.sgd.db",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
@@ -6727,7 +6546,6 @@
         "ShortRead",
         "SummarizedExperiment",
         "htmlwidgets",
-        "rmarkdown",
         "shinyBS"
     ],
     "fastseg": [],
@@ -6751,8 +6569,7 @@
     ],
     "fCI": [
         "htmlwidgets",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "fcoex": [
         "AnnotationDbi",
@@ -6875,8 +6692,7 @@
     ],
     "FISHalyseR": [
         "EBImage",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "fishpond": [
         "SingleCellExperiment",
@@ -6892,7 +6708,6 @@
         "affy",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis",
         "vsn",
         "xcms"
@@ -6930,7 +6745,6 @@
         "htmlTable",
         "htmlwidgets",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "scater",
         "scran",
@@ -6938,9 +6752,7 @@
         "tidyr",
         "viridis"
     ],
-    "flowAI": [
-        "rmarkdown"
-    ],
+    "flowAI": [],
     "flowBeads": [],
     "flowBin": [
         "flowFP"
@@ -6949,13 +6761,11 @@
         "EBImage",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "flowCHIC": [
         "EBImage",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "flowCL": [
         "SPARQL"
@@ -7000,7 +6810,6 @@
         "ggiraph",
         "ggrepel",
         "htmlwidgets",
-        "rmarkdown",
         "visNetwork"
     ],
     "flowMap": [],
@@ -7013,7 +6822,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "waldo"
@@ -7063,8 +6871,7 @@
     "fmcsR": [
         "ChemmineR",
         "DT",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "fobitools": [
         "RecordLinkage",
@@ -7112,7 +6919,6 @@
         "htmlwidgets",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -7227,7 +7033,6 @@
         "biomaRt",
         "dbplyr",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "shinyjs",
         "shinythemes",
@@ -7276,7 +7081,6 @@
         "recipes",
         "rematch2",
         "rgl",
-        "rmarkdown",
         "rtracklayer",
         "sva",
         "testthat",
@@ -7299,8 +7103,7 @@
         "rtracklayer"
     ],
     "gCrisprTools": [
-        "SummarizedExperiment",
-        "rmarkdown"
+        "SummarizedExperiment"
     ],
     "gcrma": [
         "affy"
@@ -7311,7 +7114,6 @@
         "pkgdown",
         "profvis",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
@@ -7361,7 +7163,6 @@
         "qvalue",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "scatterpie",
         "shadowtext",
@@ -7384,7 +7185,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "gemma.R": [
@@ -7470,7 +7270,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "waldo"
@@ -7482,8 +7281,7 @@
         "genefilter"
     ],
     "GeneNetworkBuilder": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "geneplotter": [
         "AnnotationDbi",
@@ -7521,7 +7319,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -7544,7 +7341,6 @@
         "patchwork",
         "plotly",
         "rintrojs",
-        "rmarkdown",
         "shinyAce",
         "shinyWidgets",
         "shinycssloaders",
@@ -7567,7 +7363,6 @@
         "htmlwidgets",
         "networkD3",
         "org.Rn.eg.db",
-        "rmarkdown",
         "rtracklayer"
     ],
     "GENIE3": [],
@@ -7629,7 +7424,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "GenomicInteractionNodes": [
@@ -7665,7 +7459,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -7690,7 +7483,6 @@
         "ggbio",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -7705,8 +7497,7 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rhdf5",
-        "rmarkdown"
+        "rhdf5"
     ],
     "GenomicSuperSignature": [
         "BiocFileCache",
@@ -7726,7 +7517,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "testthat",
         "tidyr",
@@ -7755,7 +7545,6 @@
         "lexicon",
         "rcdk",
         "readr",
-        "rmarkdown",
         "rvest",
         "syuzhet",
         "tensorflow",
@@ -7797,7 +7586,6 @@
         "nloptr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "robust",
         "testthat",
         "tidyr",
@@ -7826,7 +7614,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "shinyBS",
         "shinyHeatmaply",
@@ -7859,7 +7646,6 @@
         "nloptr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "waldo"
@@ -7927,7 +7713,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -7951,7 +7736,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "seqmagick",
         "statebins",
         "tidyr",
@@ -8022,7 +7806,6 @@
         "genefilter",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "GladiaTOX": [
@@ -8036,8 +7819,7 @@
         "SummarizedExperiment",
         "annotate",
         "geneplotter",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "glmGamPoi": [
         "HDF5Array",
@@ -8121,7 +7903,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
@@ -8143,7 +7924,6 @@
         "SummarizedExperiment",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "tidyr",
         "viridis",
         "visNetwork",
@@ -8271,7 +8051,6 @@
         "DT",
         "ggrepel",
         "htmlwidgets",
-        "rmarkdown",
         "shinyBS"
     ],
     "gpuMagic": [
@@ -8301,7 +8080,6 @@
         "epiR",
         "flextable",
         "ggplotify",
-        "rmarkdown",
         "tidyr"
     ],
     "graper": [
@@ -8333,7 +8111,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "waldo"
@@ -8377,7 +8154,6 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "pathview",
-        "rmarkdown",
         "safe"
     ],
     "GSEAmining": [
@@ -8492,7 +8268,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -8518,7 +8293,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -8558,7 +8332,6 @@
         "htmlTable",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
@@ -8577,7 +8350,6 @@
         "dbplyr",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "tidyr",
         "vroom"
     ],
@@ -8586,8 +8358,7 @@
     ],
     "heatmaps": [
         "EBImage",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "HelloRanges": [
         "AnnotationDbi",
@@ -8665,7 +8436,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -8692,7 +8462,6 @@
         "pbkrtest",
         "rematch2",
         "rhdf5",
-        "rmarkdown",
         "rstatix",
         "shinyjs",
         "testthat",
@@ -8728,7 +8497,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis",
@@ -8764,7 +8532,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "tidyr"
     ],
     "HIPPO": [
@@ -8836,7 +8603,6 @@
         "DT",
         "SummarizedExperiment",
         "htmlwidgets",
-        "rmarkdown",
         "ssrch"
     ],
     "hummingbird": [
@@ -8849,7 +8615,6 @@
         "kableExtra",
         "msigdbr",
         "reactable",
-        "rmarkdown",
         "rvest",
         "visNetwork"
     ],
@@ -8865,7 +8630,6 @@
         "Hmisc",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "icetea": [
@@ -8914,7 +8678,6 @@
         "readr",
         "rgl",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "vroom"
@@ -8935,7 +8698,6 @@
         "DT",
         "UpSetR",
         "htmlwidgets",
-        "rmarkdown",
         "shinyBS",
         "shinydashboard"
     ],
@@ -8971,7 +8733,6 @@
         "pcaExplorer",
         "plotly",
         "rintrojs",
-        "rmarkdown",
         "rtracklayer",
         "shinyAce",
         "shinyBS",
@@ -9032,7 +8793,6 @@
         "cellHTS2",
         "genefilter",
         "htmlwidgets",
-        "rmarkdown",
         "vsn"
     ],
     "IMAS": [
@@ -9074,7 +8834,6 @@
         "htmlwidgets",
         "readr",
         "rhdf5",
-        "rmarkdown",
         "scuttle",
         "shinydashboard",
         "svgPanZoom",
@@ -9094,7 +8853,6 @@
         "htmlwidgets",
         "ncdfFlow",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
@@ -9111,7 +8869,6 @@
         "pkgdown",
         "profvis",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "visNetwork",
@@ -9128,7 +8885,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tidyr"
@@ -9212,21 +8968,18 @@
         "ggbio",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
     ],
     "interacCircos": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "InteractionSet": [
         "SummarizedExperiment"
     ],
     "InteractiveComplexHeatmap": [
         "kableExtra",
-        "rmarkdown",
         "rvest"
     ],
     "interactiveDisplay": [
@@ -9238,13 +8991,11 @@
         "annotate",
         "genefilter",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "interactiveDisplayBase": [
         "DT",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "InterCellar": [
         "AnnotationDbi",
@@ -9272,7 +9023,6 @@
         "plotly",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "rstatix",
         "shinyFeedback",
@@ -9348,8 +9098,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "IPO": [
         "CAMERA",
@@ -9360,7 +9109,6 @@
         "affy",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis",
         "vsn",
         "xcms"
@@ -9412,7 +9160,6 @@
         "plotly",
         "qvalue",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "scater",
         "scattermore",
@@ -9438,7 +9185,6 @@
         "readr",
         "readxl",
         "rio",
-        "rmarkdown",
         "shinyWidgets",
         "shinybusy",
         "tidyr",
@@ -9452,7 +9198,6 @@
         "ggrepel",
         "htmlwidgets",
         "rintrojs",
-        "rmarkdown",
         "shinyAce",
         "shinyWidgets",
         "shinydashboard",
@@ -9467,7 +9212,6 @@
         "htmlwidgets",
         "iSEE",
         "rintrojs",
-        "rmarkdown",
         "shinyAce",
         "shinyWidgets",
         "shinydashboard",
@@ -9489,7 +9233,6 @@
         "iSEE",
         "interactiveDisplayBase",
         "rintrojs",
-        "rmarkdown",
         "shinyAce",
         "shinyWidgets",
         "shinydashboard",
@@ -9505,7 +9248,6 @@
         "iSEE",
         "iSEEhex",
         "rintrojs",
-        "rmarkdown",
         "shinyAce",
         "shinyWidgets",
         "shinydashboard",
@@ -9556,7 +9298,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "tximeta",
         "vroom"
@@ -9620,7 +9361,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "survMisc",
         "survminer",
@@ -9654,7 +9394,6 @@
         "htmlTable",
         "htmlwidgets",
         "regioneR",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -9723,7 +9462,6 @@
         "pbkrtest",
         "rematch2",
         "rhdf5",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "shinycssloaders",
@@ -9742,7 +9480,6 @@
         "htmlTable",
         "htmlwidgets",
         "recipes",
-        "rmarkdown",
         "sva",
         "tidyr",
         "viridis"
@@ -9759,7 +9496,6 @@
         "htmlwidgets",
         "learnr",
         "readr",
-        "rmarkdown",
         "shinyBS",
         "shinyFiles",
         "shinydashboard",
@@ -9783,7 +9519,6 @@
         "DT",
         "htmlwidgets",
         "rematch2",
-        "rmarkdown",
         "shinydashboard",
         "shinyjs",
         "testthat",
@@ -9844,7 +9579,6 @@
         "htmlwidgets",
         "networkD3",
         "patchwork",
-        "rmarkdown",
         "tidyr",
         "tidytree",
         "treeio"
@@ -9861,7 +9595,6 @@
         "ggrepel",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "ropls",
         "tidyr"
     ],
@@ -9903,7 +9636,6 @@
         "affy",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis",
         "vsn",
         "xcms"
@@ -9945,7 +9677,6 @@
         "htmlwidgets",
         "motifStack",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "rvest",
         "tidyr",
@@ -9965,8 +9696,7 @@
         "dbplyr",
         "ggrepel",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "lumi": [
         "AnnotationDbi",
@@ -10014,7 +9744,6 @@
         "htmlTable",
         "htmlwidgets",
         "reldist",
-        "rmarkdown",
         "rstan",
         "viridis"
     ],
@@ -10035,7 +9764,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "recipes",
-        "rmarkdown",
         "rtracklayer",
         "tidyr"
     ],
@@ -10072,7 +9800,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "viridis",
@@ -10087,7 +9814,6 @@
         "ggrepel",
         "prettydoc",
         "readxl",
-        "rmarkdown",
         "rvest"
     ],
     "MACSr": [
@@ -10100,8 +9826,7 @@
         "basilisk",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "made4": [
         "SummarizedExperiment"
@@ -10191,7 +9916,6 @@
         "patchwork",
         "pathview",
         "qvalue",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -10214,7 +9938,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "tidyr",
         "tidyverse",
@@ -10239,7 +9962,6 @@
         "questionr",
         "readr",
         "recipes",
-        "rmarkdown",
         "tidyr",
         "viridis",
         "vroom",
@@ -10267,8 +9989,7 @@
         "tidyr"
     ],
     "mapscape": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "marr": [
         "SummarizedExperiment"
@@ -10293,7 +10014,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -10314,7 +10034,6 @@
         "htmlwidgets",
         "plotly",
         "proDA",
-        "rmarkdown",
         "shinydashboard",
         "shinyhelper",
         "shinyjs",
@@ -10352,7 +10071,6 @@
         "phyloseq",
         "rematch2",
         "rhdf5",
-        "rmarkdown",
         "ruv",
         "sva",
         "testthat",
@@ -10374,7 +10092,6 @@
         "WGCNA",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis",
         "visNetwork"
     ],
@@ -10391,8 +10108,7 @@
         "BiocFileCache",
         "PairedData",
         "SummarizedExperiment",
-        "dbplyr",
-        "rmarkdown"
+        "dbplyr"
     ],
     "MCbiclust": [
         "AnnotationDbi",
@@ -10404,7 +10120,6 @@
         "htmlTable",
         "htmlwidgets",
         "org.Hs.eg.db",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
@@ -10434,7 +10149,6 @@
         "htmlTable",
         "htmlwidgets",
         "org.Hs.eg.db",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -10486,7 +10200,6 @@
         "qvalue",
         "readr",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "ruv",
         "sva",
@@ -10562,15 +10275,13 @@
     ],
     "MEIGOR": [
         "CNORode",
-        "CellNOptR",
-        "rmarkdown"
+        "CellNOptR"
     ],
     "Melissa": [
         "BPRMeth",
         "BiocStyle",
         "bookdown",
-        "cowplot",
-        "rmarkdown"
+        "cowplot"
     ],
     "memes": [
         "cmdfun",
@@ -10615,7 +10326,6 @@
         "interactiveDisplayBase",
         "patchwork",
         "qvalue",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -10633,8 +10343,7 @@
         "MeSHDbi",
         "annotate",
         "bookdown",
-        "genefilter",
-        "rmarkdown"
+        "genefilter"
     ],
     "MesKit": [
         "AnnotationDbi",
@@ -10669,7 +10378,6 @@
         "dbplyr",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "metabolomicsWorkbenchR": [
@@ -10705,7 +10413,6 @@
         "pbkrtest",
         "qvalue",
         "rematch2",
-        "rmarkdown",
         "rtracklayer",
         "testthat",
         "tidyr",
@@ -10762,7 +10469,6 @@
         "affy",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis",
         "vsn",
         "xcms"
@@ -10843,7 +10549,6 @@
         "plotly",
         "qvalue",
         "rhdf5",
-        "rmarkdown",
         "rmdformats",
         "rtracklayer",
         "survcomp",
@@ -10878,7 +10583,6 @@
         "htmlwidgets",
         "metap",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "topconfects"
     ],
@@ -10930,7 +10634,6 @@
         "pbkrtest",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "sesame",
         "sesameData",
@@ -11051,7 +10754,6 @@
         "rematch2",
         "reprex",
         "rhdf5",
-        "rmarkdown",
         "roxygen2",
         "rstatix",
         "rtracklayer",
@@ -11158,7 +10860,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -11222,7 +10923,6 @@
         "pkgdown",
         "profvis",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
@@ -11337,7 +11037,6 @@
         "readr",
         "rematch2",
         "rhdf5",
-        "rmarkdown",
         "shinyWidgets",
         "shinycssloaders",
         "shinydashboard",
@@ -11389,7 +11088,6 @@
         "recipes",
         "rematch2",
         "rhdf5",
-        "rmarkdown",
         "scater",
         "scuttle",
         "testthat",
@@ -11424,7 +11122,6 @@
         "htmlwidgets",
         "patchwork",
         "qvalue",
-        "rmarkdown",
         "roxygen2",
         "scatterpie",
         "shadowtext",
@@ -11464,7 +11161,6 @@
         "htmlwidgets",
         "kableExtra",
         "mice",
-        "rmarkdown",
         "rvest",
         "tidyr"
     ],
@@ -11513,7 +11209,6 @@
         "Hmisc",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "MineICA": [
@@ -11549,7 +11244,6 @@
         "org.Hs.eg.db",
         "readr",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis",
@@ -11631,7 +11325,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "readr",
-        "rmarkdown",
         "rvest",
         "tidyr",
         "viridis",
@@ -11720,7 +11413,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rqubic",
         "rstatix",
         "rvest",
@@ -11791,7 +11483,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rstatix",
         "rvest",
         "scatterpie",
@@ -11856,7 +11547,6 @@
         "broom",
         "echarts4r",
         "htmlwidgets",
-        "rmarkdown",
         "tidyr"
     ],
     "mitoClone2": [
@@ -11886,7 +11576,6 @@
         "genefilter",
         "ggvis",
         "htmlwidgets",
-        "rmarkdown",
         "threejs"
     ],
     "MLP": [
@@ -11977,7 +11666,6 @@
         "WGCNA",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "Modstrings": [],
@@ -12059,7 +11747,6 @@
         "qvalue",
         "readr",
         "rgl",
-        "rmarkdown",
         "rvest",
         "scatterpie",
         "shadowtext",
@@ -12091,7 +11778,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "rmarkdown",
         "rtracklayer",
         "tidyr"
     ],
@@ -12121,7 +11807,6 @@
         "htmlwidgets",
         "motifStack",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "viridis",
         "vroom"
@@ -12161,7 +11846,6 @@
         "annotate",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -12194,7 +11878,6 @@
         "pbkrtest",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "testthat",
         "tidyr",
@@ -12216,7 +11899,6 @@
         "SummarizedExperiment",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "MsFeatures": [
@@ -12246,7 +11928,6 @@
         "ggbio",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -12296,7 +11977,6 @@
         "msmsEDA",
         "msmsTests",
         "qvalue",
-        "rmarkdown",
         "vsn"
     ],
     "MSPrep": [
@@ -12330,7 +12010,6 @@
         "nloptr",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "waldo"
@@ -12372,7 +12051,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rstatix",
         "rvest",
         "testthat",
@@ -12402,7 +12080,6 @@
         "htmlwidgets",
         "plotly",
         "qcmetrics",
-        "rmarkdown",
         "shinyjs",
         "tidyr",
         "vsn"
@@ -12416,7 +12093,6 @@
         "htmlwidgets",
         "plotly",
         "qcmetrics",
-        "rmarkdown",
         "shinyjs",
         "tidyr",
         "vsn"
@@ -12446,7 +12122,6 @@
         "lmerTest",
         "nloptr",
         "rematch2",
-        "rmarkdown",
         "shinyBS",
         "shinybusy",
         "shinyjs",
@@ -12487,7 +12162,6 @@
         "ggrepel",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "ropls",
         "tidyr"
     ],
@@ -12521,7 +12195,6 @@
         "plyranges",
         "regioneR",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tensorflow",
         "tidyr",
@@ -12601,7 +12274,6 @@
         "reactome.db",
         "recipes",
         "rematch2",
-        "rmarkdown",
         "ropls",
         "roxygen2",
         "scatterpie",
@@ -12710,7 +12382,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -12773,7 +12444,6 @@
         "dbplyr",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -12792,7 +12462,6 @@
         "dbplyr",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -12833,7 +12502,6 @@
         "readr",
         "regioneR",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "trackViewer",
         "viridis",
@@ -12862,8 +12530,7 @@
         "ggbeeswarm",
         "ggiraph",
         "ggthemes",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "NanoStringQCPro": [
         "AnnotationDbi",
@@ -12885,7 +12552,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "testthat",
         "tidyr",
@@ -12959,7 +12625,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tidyr"
@@ -12987,7 +12652,6 @@
         "WGCNA",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "netboxr": [
@@ -13014,7 +12678,6 @@
         "htmlwidgets",
         "patchwork",
         "qvalue",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -13041,7 +12704,6 @@
         "htmlwidgets",
         "plotly",
         "readr",
-        "rmarkdown",
         "supraHex",
         "tidyr",
         "vroom"
@@ -13050,8 +12712,7 @@
     "netresponse": [
         "BiocStyle",
         "bookdown",
-        "qvalue",
-        "rmarkdown"
+        "qvalue"
     ],
     "NetSAM": [
         "AnnotationDbi",
@@ -13064,7 +12725,6 @@
         "dbplyr",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "netSmooth": [
@@ -13146,7 +12806,6 @@
         "patchwork",
         "plotly",
         "readr",
-        "rmarkdown",
         "tidyr",
         "vroom"
     ],
@@ -13206,7 +12865,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "viridis",
@@ -13217,8 +12875,7 @@
     "NormqPCR": [
         "htmlwidgets",
         "qpcR",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "normr": [
         "GenomicAlignments",
@@ -13274,7 +12931,6 @@
         "interactiveDisplayBase",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr"
     ],
@@ -13307,7 +12963,6 @@
         "octad.db",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr"
     ],
@@ -13347,7 +13002,6 @@
         "qvalue",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -13382,7 +13036,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "rtracklayer",
         "shinyBS",
         "shinyFiles",
@@ -13424,8 +13077,7 @@
         "ALDEx2",
         "DT",
         "SummarizedExperiment",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "omicRexposome": [
         "AnnotationDbi",
@@ -13453,7 +13105,6 @@
         "qvalue",
         "rematch2",
         "rexposome",
-        "rmarkdown",
         "sva",
         "testthat",
         "tidyr",
@@ -13496,7 +13147,6 @@
         "pbkrtest",
         "rematch2",
         "rgl",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -13531,7 +13181,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "shinyWidgets",
         "shinybusy",
@@ -13551,7 +13200,6 @@
     "OmnipathR": [
         "readr",
         "readxl",
-        "rmarkdown",
         "rvest",
         "tidyr",
         "vroom"
@@ -13586,7 +13234,6 @@
     "oneSENSE": [
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "shinyFiles",
         "tidyr"
     ],
@@ -13599,8 +13246,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "openCyto": [
         "flowWorkspace",
@@ -13611,7 +13257,6 @@
         "Hmisc",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "openPrimeRui": [
@@ -13621,7 +13266,6 @@
         "htmlTable",
         "htmlwidgets",
         "openPrimeR",
-        "rmarkdown",
         "shinyBS",
         "shinyjs",
         "viridis"
@@ -13638,7 +13282,6 @@
         "pbkrtest",
         "rapportools",
         "rematch2",
-        "rmarkdown",
         "summarytools",
         "testthat",
         "tidyr",
@@ -13671,15 +13314,13 @@
         "pkgdown",
         "profvis",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
     ],
     "optimalFlow": [
         "htmlwidgets",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "OPWeight": [
         "qvalue"
@@ -13761,7 +13402,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "testthat",
         "tidyr",
@@ -13800,7 +13440,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -13829,7 +13468,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "waldo"
@@ -13966,7 +13604,6 @@
         "profvis",
         "rematch2",
         "rhdf5",
-        "rmarkdown",
         "roxygen2",
         "shinyjs",
         "testthat",
@@ -14011,7 +13648,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "shinyAce",
         "shinyBS",
         "shinydashboard",
@@ -14057,7 +13693,6 @@
         "piano",
         "recipes",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "shinydashboard",
         "shinyjs",
@@ -14085,7 +13720,6 @@
         "MSnbase",
         "affy",
         "htmlwidgets",
-        "rmarkdown",
         "shinycssloaders",
         "vsn"
     ],
@@ -14179,7 +13813,6 @@
         "fgsea",
         "htmlwidgets",
         "piano",
-        "rmarkdown",
         "shinydashboard",
         "shinyjs",
         "tidyr",
@@ -14198,7 +13831,6 @@
         "htmlwidgets",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "ropls",
         "testthat",
         "tidyr",
@@ -14223,7 +13855,6 @@
         "htmlTable",
         "htmlwidgets",
         "org.Hs.eg.db",
-        "rmarkdown",
         "viridis"
     ],
     "PhenStat": [
@@ -14293,7 +13924,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "shinyBS",
         "shinyFiles",
         "shinyjs",
@@ -14320,7 +13950,6 @@
         "cowplot",
         "fgsea",
         "htmlwidgets",
-        "rmarkdown",
         "shinydashboard",
         "shinyjs",
         "visNetwork"
@@ -14363,7 +13992,6 @@
         "patchwork",
         "qvalue",
         "reactome.db",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -14396,7 +14024,6 @@
         "htmlTable",
         "htmlwidgets",
         "rainbow",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -14413,7 +14040,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scater",
         "scattermore",
         "scran",
@@ -14428,7 +14054,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "visNetwork"
     ],
@@ -14475,7 +14100,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "shinyjs",
         "shinythemes",
@@ -14505,7 +14129,6 @@
         "DT",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "shinyjs",
         "vroom"
     ],
@@ -14526,8 +14149,7 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "ontoProc",
-        "rmarkdown"
+        "ontoProc"
     ],
     "polyester": [],
     "POMA": [
@@ -14542,7 +14164,6 @@
         "ggrepel",
         "mixOmics",
         "recipes",
-        "rmarkdown",
         "tidyr"
     ],
     "PoTRA": [
@@ -14593,8 +14214,7 @@
         "biomformat",
         "bookdown",
         "phyloseq",
-        "rhdf5",
-        "rmarkdown"
+        "rhdf5"
     ],
     "preciseTAD": [
         "AnnotationDbi",
@@ -14654,7 +14274,6 @@
         "phastCons100way.UCSC.hg38",
         "readr",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis",
@@ -14667,7 +14286,6 @@
         "forecast",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "tidyr",
         "viridis",
         "vsn"
@@ -14715,7 +14333,6 @@
         "nloptr",
         "pvca",
         "rematch2",
-        "rmarkdown",
         "sva",
         "testthat",
         "tidyr",
@@ -14739,7 +14356,6 @@
         "ggrepel",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "ropls",
         "tidyr",
         "vsn",
@@ -14785,7 +14401,6 @@
         "patchwork",
         "qvalue",
         "rGREAT",
-        "rmarkdown",
         "rtracklayer",
         "scatterpie",
         "shadowtext",
@@ -14831,7 +14446,6 @@
         "mixtools",
         "plotly",
         "recipes",
-        "rmarkdown",
         "threejs",
         "tidyr",
         "viridis",
@@ -14859,7 +14473,6 @@
         "pRoloc",
         "plotly",
         "recipes",
-        "rmarkdown",
         "shinyWidgets",
         "shinydashboard",
         "shinydashboardPlus",
@@ -14893,7 +14506,6 @@
         "highcharter",
         "htmlwidgets",
         "rhandsontable",
-        "rmarkdown",
         "shinyAce",
         "shinyBS",
         "shinycssloaders",
@@ -14975,7 +14587,6 @@
         "plotly",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rvest",
         "shinydashboard",
@@ -15016,7 +14627,6 @@
         "qvalue",
         "readr",
         "recount",
-        "rmarkdown",
         "rtracklayer",
         "shinyBS",
         "shinyjs",
@@ -15031,7 +14641,6 @@
         "SummarizedExperiment",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "psygenet2r": [
@@ -15065,7 +14674,6 @@
         "plotly",
         "rematch2",
         "rhdf5",
-        "rmarkdown",
         "rstatix",
         "shinyscreenshot",
         "testthat",
@@ -15126,7 +14734,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -15141,8 +14748,7 @@
         "biomaRt",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "pwrEWAS": [
         "AnnotationDbi",
@@ -15157,7 +14763,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "pwrEWAS.data",
-        "rmarkdown",
         "shinyBS",
         "shinyWidgets"
     ],
@@ -15172,7 +14777,6 @@
         "SummarizedExperiment",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "qmtools": [
@@ -15190,7 +14794,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "viridis",
@@ -15240,7 +14843,6 @@
         "htmlTable",
         "htmlwidgets",
         "rematch2",
-        "rmarkdown",
         "rtracklayer",
         "testthat",
         "viridis",
@@ -15262,7 +14864,6 @@
         "genefilter",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "sva",
         "viridis"
     ],
@@ -15350,7 +14951,6 @@
         "ggbio",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -15387,7 +14987,6 @@
         "fgsea",
         "htmlwidgets",
         "piano",
-        "rmarkdown",
         "shinydashboard",
         "shinyjs",
         "tidyr",
@@ -15444,7 +15043,6 @@
         "interactiveDisplayBase",
         "phastCons100way.UCSC.hg19",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer"
     ],
     "Rbec": [
@@ -15465,8 +15063,7 @@
         "SummarizedExperiment",
         "baySeq",
         "htmlwidgets",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "RCAS": [
         "AnnotationDbi",
@@ -15488,7 +15085,6 @@
         "htmlwidgets",
         "plotly",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "seqPattern",
         "tidyr",
@@ -15522,7 +15118,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "RCM": [
@@ -15543,7 +15138,6 @@
         "basilisk",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "tidyr",
         "viridis",
         "visNetwork",
@@ -15557,7 +15151,6 @@
         "dbplyr",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "tidyr",
         "viridis",
         "visNetwork",
@@ -15566,8 +15159,7 @@
     "RCy3": [],
     "RDRToolbox": [
         "htmlwidgets",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "ReactomeGraph4R": [
         "neo4r",
@@ -15609,8 +15201,7 @@
     ],
     "rebook": [
         "BiocStyle",
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "receptLoss": [
         "SummarizedExperiment",
@@ -15642,7 +15233,6 @@
         "htmlwidgets",
         "qvalue",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis",
@@ -15734,7 +15324,6 @@
         "htmlTable",
         "htmlwidgets",
         "qvalue",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
@@ -15780,7 +15369,6 @@
         "htmlwidgets",
         "knitrBootstrap",
         "qvalue",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -15810,7 +15398,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -15840,7 +15427,6 @@
         "readr",
         "recipes",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "vroom"
@@ -15890,7 +15476,6 @@
         "ggbio",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -15927,8 +15512,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "rexposome": [
         "DT",
@@ -15944,7 +15528,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "viridis",
@@ -15973,8 +15556,7 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rGenomeTracksData",
-        "rmarkdown"
+        "rGenomeTracksData"
     ],
     "RGMQL": [
         "GenomicAlignments",
@@ -16014,7 +15596,6 @@
         "dbplyr",
         "htmlwidgets",
         "org.Hs.eg.db",
-        "rmarkdown",
         "rtracklayer"
     ],
     "rgsepd": [
@@ -16071,7 +15652,6 @@
         "htmlwidgets",
         "plotly",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "vroom"
@@ -16116,7 +15696,6 @@
         "ggbio",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -16152,7 +15731,6 @@
         "htmlwidgets",
         "motifStack",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -16203,7 +15781,6 @@
         "htmlwidgets",
         "karyoploteR",
         "regioneR",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -16268,7 +15845,6 @@
         "readr",
         "recipes",
         "regioneR",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "valr",
@@ -16281,7 +15857,6 @@
         "affy",
         "htmlwidgets",
         "rcdk",
-        "rmarkdown",
         "rvest",
         "vsn",
         "webchem"
@@ -16309,7 +15884,6 @@
         "pkgdown",
         "profvis",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "rtracklayer",
         "testthat",
@@ -16344,7 +15918,6 @@
         "qvalue",
         "readr",
         "recount",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis",
@@ -16405,7 +15978,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -16430,7 +16002,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -16455,7 +16026,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -16480,7 +16050,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -16537,7 +16106,6 @@
         "pbkrtest",
         "qvalue",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "scatterpie",
@@ -16586,7 +16154,6 @@
         "readr",
         "recount",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -16648,7 +16215,6 @@
         "ggrepel",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "RPA": [
@@ -16657,14 +16223,12 @@
         "biomformat",
         "bookdown",
         "phyloseq",
-        "rhdf5",
-        "rmarkdown"
+        "rhdf5"
     ],
     "rprimer": [
         "DT",
         "htmlwidgets",
         "patchwork",
-        "rmarkdown",
         "shinyFeedback",
         "shinycssloaders"
     ],
@@ -16694,7 +16258,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -16712,7 +16275,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "ropls",
         "testthat",
         "tidyr",
@@ -16756,7 +16318,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rvest",
         "survMisc",
@@ -16797,7 +16358,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "viper",
@@ -16815,7 +16375,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "viper",
@@ -16835,7 +16394,6 @@
         "pbkrtest",
         "plotly",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "viper",
@@ -16853,7 +16411,6 @@
         "Hmisc",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "rTRM": [
@@ -16931,7 +16488,6 @@
         "ggdendro",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "sangerseqR",
         "shinyWidgets",
         "shinycssloaders",
@@ -16952,8 +16508,7 @@
         "SummarizedExperiment",
         "bookdown",
         "org.Hs.eg.db",
-        "pathview",
-        "rmarkdown"
+        "pathview"
     ],
     "SC3": [
         "SingleCellExperiment",
@@ -16972,7 +16527,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tensorflow",
@@ -17018,7 +16572,6 @@
         "interactiveDisplayBase",
         "plotly",
         "rintrojs",
-        "rmarkdown",
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
@@ -17047,7 +16600,6 @@
         "patchwork",
         "plotly",
         "recipes",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tidyr"
@@ -17075,8 +16627,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "scater": [
         "BiocSingular",
@@ -17105,7 +16656,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tidyr",
@@ -17123,7 +16673,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tidyr",
@@ -17143,7 +16692,6 @@
         "patchwork",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "scuttle",
@@ -17166,7 +16714,6 @@
         "patchwork",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "tidygraph",
         "tidyr",
         "viridis"
@@ -17191,7 +16738,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tidyr"
@@ -17265,7 +16811,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tidyr"
@@ -17278,7 +16823,6 @@
     "scifer": [
         "DECIPHER",
         "kableExtra",
-        "rmarkdown",
         "rvest",
         "sangerseqR"
     ],
@@ -17290,7 +16834,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tidyr"
@@ -17309,7 +16852,6 @@
         "htmlTable",
         "htmlwidgets",
         "reldist",
-        "rmarkdown",
         "rstan",
         "ruv",
         "viridis"
@@ -17320,7 +16862,6 @@
         "SummarizedExperiment",
         "bookdown",
         "cowplot",
-        "rmarkdown",
         "rstan",
         "viridis"
     ],
@@ -17345,7 +16886,6 @@
         "readr",
         "regioneR",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -17371,7 +16911,6 @@
         "mixtools",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "tidyr"
     ],
@@ -17411,7 +16950,6 @@
         "SummarizedExperiment",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "scPCA": [],
@@ -17495,7 +17033,6 @@
         "ggthemes",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -17559,7 +17096,6 @@
         "plotly",
         "qvalue",
         "reactome.db",
-        "rmarkdown",
         "scattermore",
         "scatterpie",
         "schex",
@@ -17594,7 +17130,6 @@
         "nnTensor",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "schex",
         "sctransform",
@@ -17631,7 +17166,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "rtracklayer",
         "scater",
         "scattermore",
@@ -17735,7 +17269,6 @@
         "dbplyr",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "seqArchR": [
@@ -17797,7 +17330,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rbokeh",
-        "rmarkdown",
         "tidyr"
     ],
     "SeqVarTools": [
@@ -17819,7 +17351,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "rmarkdown",
         "sesameData",
         "vroom"
     ],
@@ -17879,7 +17410,6 @@
         "plotly",
         "readr",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "shinyWidgets",
         "shinycssloaders",
@@ -17943,7 +17473,6 @@
         "genefilter",
         "ggvis",
         "htmlwidgets",
-        "rmarkdown",
         "threejs"
     ],
     "sigFeature": [
@@ -17990,7 +17519,6 @@
         "reactome.db",
         "readr",
         "rhdf5",
-        "rmarkdown",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -18030,7 +17558,6 @@
         "pbkrtest",
         "readr",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "shinyWidgets",
@@ -18152,7 +17679,6 @@
         "ggbeeswarm",
         "htmlwidgets",
         "rhdf5",
-        "rmarkdown",
         "scuttle",
         "shinydashboard",
         "svgPanZoom",
@@ -18251,7 +17777,6 @@
         "qvalue",
         "reldist",
         "rhdf5",
-        "rmarkdown",
         "rstan",
         "rtracklayer",
         "ruv",
@@ -18304,7 +17829,6 @@
         "ggrepel",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "SISPA": [
@@ -18410,7 +17934,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "reactome.db",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -18466,7 +17989,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "rmarkdown",
         "sampSurf",
         "shinyjs",
         "tidyr"
@@ -18493,7 +18015,6 @@
         "ggbio",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -18517,7 +18038,6 @@
         "patchwork",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "scater",
         "scattermore",
         "scran",
@@ -18535,7 +18055,6 @@
         "babelgene",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
@@ -18565,7 +18084,6 @@
         "ggrepel",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
@@ -18599,7 +18117,6 @@
         "nloptr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "waldo"
@@ -18647,7 +18164,6 @@
         "htmlTable",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "scater",
         "scran",
         "scuttle",
@@ -18683,7 +18199,6 @@
         "htmlwidgets",
         "motifmatchr",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "viridis",
         "vroom"
@@ -18717,7 +18232,6 @@
         "htmlwidgets",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "scuttle",
         "tidyr",
         "vroom"
@@ -18792,7 +18306,6 @@
         "plotly",
         "rhandsontable",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "shinyFiles",
         "shinyWidgets",
@@ -18841,7 +18354,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -18876,7 +18388,6 @@
         "recipes",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rstatix",
         "rvest",
         "testthat",
@@ -18901,7 +18412,6 @@
         "patchwork",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "scuttle",
@@ -18930,7 +18440,6 @@
         "htmlwidgets",
         "phyloseq",
         "rhdf5",
-        "rmarkdown",
         "viridis"
     ],
     "SQLDataFrame": [
@@ -18939,7 +18448,6 @@
     "sRACIPE": [
         "SummarizedExperiment",
         "htmlwidgets",
-        "rmarkdown",
         "visNetwork"
     ],
     "SRAdb": [
@@ -18977,7 +18485,6 @@
         "pkgdown",
         "profvis",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "rtracklayer",
         "testthat",
@@ -19020,8 +18527,7 @@
     ],
     "ssrch": [
         "DT",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "ssviz": [
         "Rsamtools"
@@ -19048,7 +18554,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -19116,7 +18621,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "tidyr",
         "tidyverse",
@@ -19148,7 +18652,6 @@
         "patchwork",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "scuttle",
@@ -19165,7 +18668,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "biomaRt",
         "dbplyr",
-        "rmarkdown",
         "rtracklayer"
     ],
     "STRINGdb": [],
@@ -19201,7 +18703,6 @@
         "networkD3",
         "org.Hs.eg.db",
         "recipes",
-        "rmarkdown",
         "tidyr"
     ],
     "subSeq": [
@@ -19317,8 +18818,7 @@
     ],
     "synapsis": [
         "EBImage",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "synapter": [
         "MSnbase",
@@ -19326,7 +18826,6 @@
         "cleaver",
         "qvalue",
         "readr",
-        "rmarkdown",
         "vroom",
         "vsn"
     ],
@@ -19355,7 +18854,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "stars",
         "testthat",
@@ -19390,7 +18888,6 @@
         "intergraph",
         "networkD3",
         "rematch2",
-        "rmarkdown",
         "rtracklayer",
         "sna",
         "testthat",
@@ -19401,8 +18898,7 @@
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "systemPipeShiny": [
         "DT",
@@ -19410,7 +18906,6 @@
         "drawer",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "shinyAce",
         "shinyFiles",
         "shinyWidgets",
@@ -19441,7 +18936,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "tidytree",
         "treeio"
@@ -19519,7 +19013,6 @@
         "cowplot",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "TBSignatureProfiler": [
@@ -19541,7 +19034,6 @@
         "htmlwidgets",
         "plotly",
         "rhdf5",
-        "rmarkdown",
         "singscore",
         "sva",
         "tidyr"
@@ -19630,7 +19122,6 @@
         "readr",
         "recipes",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -19710,8 +19201,7 @@
         "interactiveDisplayBase",
         "ontoProc",
         "org.Mm.eg.db",
-        "restfulSE",
-        "rmarkdown"
+        "restfulSE"
     ],
     "TEQC": [
         "Rsamtools"
@@ -19734,7 +19224,6 @@
         "dbplyr",
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "rvest",
         "tidyr",
@@ -19804,8 +19293,7 @@
         "dbplyr",
         "htmlwidgets",
         "org.Hs.eg.db",
-        "readxl",
-        "rmarkdown"
+        "readxl"
     ],
     "tidybulk": [
         "SummarizedExperiment",
@@ -19818,7 +19306,6 @@
         "SummarizedExperiment",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "ttservice"
     ],
@@ -19826,7 +19313,6 @@
         "SummarizedExperiment",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "tigre": [
@@ -19849,8 +19335,7 @@
         "tidyr"
     ],
     "timescape": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "TimiRGeN": [
         "AnnotationDbi",
@@ -19901,7 +19386,6 @@
         "WGCNA",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "TissueEnrich": [
@@ -19979,8 +19463,7 @@
         "waldo"
     ],
     "TnT": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "TOAST": [
         "GGally",
@@ -19997,7 +19480,6 @@
         "htmlwidgets",
         "plotly",
         "readr",
-        "rmarkdown",
         "tidyr",
         "vroom"
     ],
@@ -20021,7 +19503,6 @@
         "fgsea",
         "htmlwidgets",
         "piano",
-        "rmarkdown",
         "shinydashboard",
         "shinyjs",
         "tidyr",
@@ -20030,7 +19511,6 @@
     "TPP": [
         "biobroom",
         "broom",
-        "rmarkdown",
         "tidyr"
     ],
     "TPP2D": [
@@ -20060,7 +19540,6 @@
         "htmlTable",
         "htmlwidgets",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -20073,8 +19552,7 @@
     ],
     "TrajectoryGeometry": [
         "htmlwidgets",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "TrajectoryUtils": [
         "SingleCellExperiment",
@@ -20155,7 +19633,6 @@
         "TrajectoryUtils",
         "htmlwidgets",
         "rgl",
-        "rmarkdown",
         "slingshot",
         "viridis"
     ],
@@ -20188,7 +19665,6 @@
         "patchwork",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "testthat",
         "tidyr",
@@ -20227,7 +19703,6 @@
         "htmlTable",
         "htmlwidgets",
         "org.Hs.eg.db",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -20235,7 +19710,6 @@
         "DT",
         "SummarizedExperiment",
         "htmlwidgets",
-        "rmarkdown",
         "shinyFiles"
     ],
     "TRESS": [
@@ -20280,7 +19754,6 @@
         "golem",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "roxygen2",
         "shinyBS",
         "shinyFiles",
@@ -20314,8 +19787,7 @@
     "tscR": [
         "SummarizedExperiment",
         "kmlShape",
-        "prettydoc",
-        "rmarkdown"
+        "prettydoc"
     ],
     "ttgsea": [
         "DiagrammeR",
@@ -20323,7 +19795,6 @@
         "keras",
         "lexicon",
         "readr",
-        "rmarkdown",
         "syuzhet",
         "tensorflow",
         "textclean",
@@ -20336,8 +19807,7 @@
     "TTMap": [
         "SummarizedExperiment",
         "htmlwidgets",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "TurboNorm": [
         "affy"
@@ -20363,7 +19833,6 @@
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -20397,7 +19866,6 @@
         "ensembldb",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "rtracklayer"
     ],
     "UCell": [
@@ -20426,7 +19894,6 @@
         "mirbase.db",
         "plotgardener",
         "plyranges",
-        "rmarkdown",
         "rtracklayer",
         "shinyFiles",
         "shinydashboard",
@@ -20489,7 +19956,6 @@
         "htmlTable",
         "htmlwidgets",
         "org.Hs.eg.db",
-        "rmarkdown",
         "rtracklayer",
         "shinyBS",
         "shinyWidgets",
@@ -20540,7 +20006,6 @@
         "lexicon",
         "rcdk",
         "readr",
-        "rmarkdown",
         "rvest",
         "scater",
         "scuttle",
@@ -20633,7 +20098,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer",
         "shinyTree",
         "shinyjs",
@@ -20714,14 +20178,12 @@
         "annotate",
         "geneplotter",
         "ggrepel",
-        "rmarkdown",
         "tidyr"
     ],
     "viper": [
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "ViSEAGO": [
@@ -20744,7 +20206,6 @@
         "htmlwidgets",
         "plotly",
         "readr",
-        "rmarkdown",
         "tidyr",
         "topGO",
         "viridis",
@@ -20771,7 +20232,6 @@
         "msigdb",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "rmarkdown",
         "syuzhet",
         "textclean",
         "textstem",
@@ -20826,7 +20286,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "rmarkdown",
         "rtracklayer",
         "vroom"
     ],
@@ -20859,7 +20318,6 @@
         "mixtools",
         "plotly",
         "regioneR",
-        "rmarkdown",
         "rtracklayer",
         "systemPipeR",
         "tidyr",
@@ -20922,7 +20380,6 @@
         "dbplyr",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -20952,7 +20409,6 @@
         "SummarizedExperiment",
         "golem",
         "htmlwidgets",
-        "rmarkdown",
         "roxygen2",
         "shinyWidgets",
         "shinycustomloader",
@@ -20962,7 +20418,6 @@
         "OmnipathR",
         "readr",
         "readxl",
-        "rmarkdown",
         "rvest",
         "tidyr",
         "vroom"
@@ -20996,7 +20451,6 @@
         "fgsea",
         "htmlwidgets",
         "piano",
-        "rmarkdown",
         "shinydashboard",
         "shinyjs",
         "tidyr",
@@ -21012,14 +20466,12 @@
         "SummarizedExperiment",
         "formattable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer"
     ],
     "yamss": [
         "EBImage",
         "SummarizedExperiment",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "YAPSA": [
         "AnnotationDbi",
@@ -21048,7 +20500,6 @@
         "gtrellis",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -21125,27 +20576,19 @@
         "KEGGREST"
     ],
     "flexdashboard": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
-    "rmarkdown": [],
     "ggcorrplot": [],
     "ggdendro": [],
     "plotly": [
         "htmlwidgets",
-        "rmarkdown",
         "tidyr"
     ],
-    "bookdown": [
-        "rmarkdown"
-    ],
-    "htmlwidgets": [
-        "rmarkdown"
-    ],
+    "bookdown": [],
+    "htmlwidgets": [],
     "tidyr": [],
     "DT": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "ggrepel": [],
     "ggpubr": [
@@ -21229,8 +20672,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "rvest": [],
     "dbplyr": [],
@@ -21244,15 +20686,13 @@
     "Hmisc": [
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "GGally": [
         "tidyr"
     ],
     "htmlTable": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "viridis": [],
     "ggbeeswarm": [],
@@ -21278,7 +20718,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rhdf5",
-        "rmarkdown",
         "tidyr"
     ],
     "readr": [
@@ -21324,7 +20763,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tidyr"
@@ -21406,7 +20844,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
@@ -21425,7 +20862,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
@@ -21444,7 +20880,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer"
     ],
     "COSMIC.67": [
@@ -21522,7 +20957,6 @@
         "readxl",
         "rematch2",
         "reprex",
-        "rmarkdown",
         "rvest",
         "tidyr",
         "vroom"
@@ -21591,9 +21025,7 @@
         "broom",
         "tidyr"
     ],
-    "reprex": [
-        "rmarkdown"
-    ],
+    "reprex": [],
     "reactome.db": [
         "AnnotationDbi",
         "KEGGREST"
@@ -21601,7 +21033,6 @@
     "mixtools": [
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "assertive": [],
@@ -21625,13 +21056,10 @@
     ],
     "ggvis": [],
     "threejs": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "rstan": [],
-    "prettydoc": [
-        "rmarkdown"
-    ],
+    "prettydoc": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "GenomicAlignments",
@@ -21642,12 +21070,10 @@
     "ggExtra": [
         "colourpicker",
         "htmlwidgets",
-        "rmarkdown",
         "shinyjs"
     ],
     "colourpicker": [
         "htmlwidgets",
-        "rmarkdown",
         "shinyjs"
     ],
     "heatmaply": [
@@ -21655,7 +21081,6 @@
         "egg",
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
@@ -21704,7 +21129,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "shinyAce",
         "shinyFiles",
         "testthat",
@@ -21720,15 +21144,13 @@
     "DiagrammeR": [
         "htmlwidgets",
         "readr",
-        "rmarkdown",
         "tidyr",
         "viridis",
         "visNetwork",
         "vroom"
     ],
     "visNetwork": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "gson": [
         "tidyr"
@@ -21768,7 +21190,6 @@
         "Hmisc",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "precrec": [],
@@ -21782,7 +21203,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "synaptome.data"
     ],
     "WGCNA": [
@@ -21792,7 +21212,6 @@
         "KEGGREST",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "synaptome.data": [
@@ -21803,8 +21222,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "ggnetwork": [
         "ggrepel",
@@ -21812,8 +21230,7 @@
     ],
     "intergraph": [],
     "networkD3": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "sna": [],
     "shinyBS": [],
@@ -21833,8 +21250,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "pasilla": [
         "AnnotationDbi",
@@ -21884,7 +21300,6 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "qvalue",
-        "rmarkdown",
         "rtracklayer",
         "viridis"
     ],
@@ -21900,17 +21315,13 @@
         "pkgdown",
         "profvis",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
     ],
-    "pkgdown": [
-        "rmarkdown"
-    ],
+    "pkgdown": [],
     "profvis": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "roxygen2": [],
     "ggtext": [],
@@ -21940,7 +21351,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "waldo"
@@ -22145,7 +21555,6 @@
         "waiter"
     ],
     "kableExtra": [
-        "rmarkdown",
         "rvest"
     ],
     "gggenes": [
@@ -22162,8 +21571,7 @@
         "rtracklayer"
     ],
     "rgl": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "phylobase": [
         "RNeXML",
@@ -22199,7 +21607,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "rmarkdown",
         "rstatix",
         "testthat",
         "tidyr",
@@ -22226,7 +21633,6 @@
         "Hmisc",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "rms",
         "viridis"
     ],
@@ -22282,7 +21688,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "rmarkdown",
         "tidyr",
         "viper"
     ],
@@ -22295,8 +21700,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "keras": [
         "tensorflow"
@@ -22309,7 +21713,6 @@
     "highcharter": [
         "broom",
         "htmlwidgets",
-        "rmarkdown",
         "tidyr"
     ],
     "cytometree": [
@@ -22338,14 +21741,12 @@
         "waldo"
     ],
     "svgPanZoom": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "plsVarSel": [
         "MSQC",
         "htmlwidgets",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "FSelector": [
         "RWeka"
@@ -22360,8 +21761,7 @@
     "RWeka": [],
     "MSQC": [
         "htmlwidgets",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "DAPARdata": [
         "MSnbase",
@@ -22387,8 +21787,7 @@
         "waldo"
     ],
     "diffr": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "rcdk": [],
     "webchem": [
@@ -22443,8 +21842,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "coin": [],
     "ELMER.data": [],
@@ -22458,14 +21856,12 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "qgraph": [
         "Hmisc",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "ewceData": [
@@ -22477,8 +21873,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "homologene": [
         "readr",
@@ -22487,7 +21882,6 @@
     "gprofiler2": [
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "ComplexUpset": [
@@ -22497,7 +21891,6 @@
     "gap": [
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "geepack": [
@@ -22519,8 +21912,7 @@
     "hdrcde": [],
     "SPARQL": [],
     "ggiraph": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "RecordLinkage": [],
     "NHPoisson": [
@@ -22567,12 +21959,9 @@
         "waiter"
     ],
     "tippy": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
-    "flextable": [
-        "rmarkdown"
-    ],
+    "flextable": [],
     "robust": [],
     "shinyHeatmaply": [
         "dendextend",
@@ -22581,18 +21970,15 @@
         "htmlwidgets",
         "plotly",
         "readxl",
-        "rmarkdown",
         "tidyr",
         "viridis"
     ],
     "shinybusy": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "ggalt": [
         "htmlwidgets",
         "plotly",
-        "rmarkdown",
         "tidyr"
     ],
     "seqmagick": [],
@@ -22601,7 +21987,6 @@
         "Hmisc",
         "htmlTable",
         "htmlwidgets",
-        "rmarkdown",
         "viridis"
     ],
     "gRain": [
@@ -22609,8 +21994,7 @@
         "tidyr"
     ],
     "epiR": [
-        "flextable",
-        "rmarkdown"
+        "flextable"
     ],
     "ggwordcloud": [],
     "HiContactsData": [
@@ -22622,15 +22006,13 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "available": [
         "tidytext"
     ],
     "reactable": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "biclust": [
         "tidyr"
@@ -22653,8 +22035,7 @@
     ],
     "shinyalert": [],
     "wordcloud2": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "AdaptGauss": [
         "DataVisualizations"
@@ -22666,7 +22047,6 @@
         "readr",
         "readxl",
         "rio",
-        "rmarkdown",
         "shinyWidgets",
         "shinybusy",
         "vroom"
@@ -22683,16 +22063,12 @@
     ],
     "sortable": [
         "htmlwidgets",
-        "learnr",
-        "rmarkdown"
+        "learnr"
     ],
-    "bsplus": [
-        "rmarkdown"
-    ],
+    "bsplus": [],
     "shinyvalidate": [],
     "learnr": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "reldist": [
         "densEstBayes",
@@ -22727,8 +22103,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "plsgenomics": [
         "fields",
@@ -22789,8 +22164,7 @@
         "rtracklayer"
     ],
     "rmdformats": [
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "sesameData": [
         "AnnotationDbi",
@@ -22803,7 +22177,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
-        "rmarkdown",
         "vroom"
     ],
     "FlowSorted.Blood.450k": [
@@ -22848,7 +22221,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "rtracklayer"
     ],
     "rebus": [],
@@ -22859,8 +22231,7 @@
     "shinycustomloader": [],
     "ggstar": [],
     "formattable": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "HardyWeinberg": [
         "broom",
@@ -22921,14 +22292,12 @@
     "echarts4r": [
         "broom",
         "htmlwidgets",
-        "rmarkdown",
         "tidyr"
     ],
     "MKmisc": [],
     "HiveR": [
         "htmlwidgets",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "gghalves": [],
     "anyLib": [
@@ -22937,7 +22306,6 @@
         "pkgdown",
         "profvis",
         "rematch2",
-        "rmarkdown",
         "roxygen2",
         "testthat",
         "waldo"
@@ -22958,8 +22326,7 @@
         "rtracklayer"
     ],
     "shinyjqui": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "mppa": [],
     "dnet": [
@@ -22981,7 +22348,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rmarkdown",
         "testthat",
         "tidyr",
         "viridis",
@@ -22990,8 +22356,7 @@
     ],
     "qpcR": [
         "htmlwidgets",
-        "rgl",
-        "rmarkdown"
+        "rgl"
     ],
     "NxtIRFdata": [
         "AnnotationDbi",
@@ -23006,7 +22371,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "rtracklayer"
     ],
     "fst": [],
@@ -23019,8 +22383,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "diceR": [
         "NMF",
@@ -23108,13 +22471,11 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer"
     ],
     "forecast": [],
     "rhandsontable": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "EnsDb.Mmusculus.v79": [
         "AnnotationDbi",
@@ -23145,8 +22506,7 @@
         "rtracklayer"
     ],
     "pairsD3": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "shinyscreenshot": [],
     "pwrEWAS.data": [
@@ -23158,8 +22518,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
@@ -23177,7 +22536,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "rhdf5",
-        "rmarkdown",
         "rtracklayer"
     ],
     "neo4r": [
@@ -23190,9 +22548,7 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "knitrBootstrap": [
-        "rmarkdown"
-    ],
+    "knitrBootstrap": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "GenomicAlignments",
@@ -23208,8 +22564,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "valr": [
         "GenomicAlignments",
@@ -23236,8 +22591,7 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "TBX20BamSubset": [
         "Rsamtools"
@@ -23249,12 +22603,10 @@
     "treemap": [],
     "GENLIB": [],
     "excelR": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "SBGNview.data": [
-        "bookdown",
-        "rmarkdown"
+        "bookdown"
     ],
     "scanMiRData": [
         "cowplot",
@@ -23273,8 +22625,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "Rmagic": [],
     "ggvenn": [],
@@ -23296,12 +22647,9 @@
     ],
     "rbokeh": [
         "gistr",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
-    "gistr": [
-        "rmarkdown"
-    ],
+    "gistr": [],
     "mlr3": [],
     "mlr3learners": [
         "mlr3"
@@ -23349,8 +22697,7 @@
         "SummarizedExperiment",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rmarkdown"
+        "interactiveDisplayBase"
     ],
     "GSVAdata": [
         "AnnotationDbi",
@@ -23368,7 +22715,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rmarkdown",
         "scattermore",
         "sctransform",
         "tidyr"
@@ -23391,7 +22737,6 @@
         "ensembldb",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
         "rtracklayer"
     ],
     "TENxPBMCData": [
@@ -23407,8 +22752,7 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rhdf5",
-        "rmarkdown"
+        "rhdf5"
     ],
     "hgu95a.db": [
         "AnnotationDbi",
@@ -23467,8 +22811,7 @@
         "shinytoastr"
     ],
     "drawer": [
-        "bsplus",
-        "rmarkdown"
+        "bsplus"
     ],
     "GenKern": [],
     "ttservice": [],
@@ -23510,12 +22853,10 @@
     ],
     "condformat": [
         "htmlTable",
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "shinyTree": [
-        "htmlwidgets",
-        "rmarkdown"
+        "htmlwidgets"
     ],
     "msigdb": [
         "AnnotationDbi",
@@ -23530,8 +22871,7 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
-        "org.Mm.eg.db",
-        "rmarkdown"
+        "org.Mm.eg.db"
     ],
     "eva": [
         "EnvStats"
