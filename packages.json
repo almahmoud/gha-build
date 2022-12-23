@@ -1125,7 +1125,6 @@
     "MSstatsPTM": [
         "MSstatsTMT"
     ],
-    "MSstatsSampleSize": [],
     "MSstatsShiny": [
         "MSstatsPTM",
         "MSstatsTMT"
