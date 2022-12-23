@@ -12342,7 +12342,6 @@
         "viridis",
         "waldo"
     ],
-    "parglms": [],
     "PAST": [
         "GenomicAlignments",
         "Rsamtools",
