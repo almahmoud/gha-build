@@ -183,8 +183,7 @@
     ],
     "amplican": [
         "GenomicAlignments",
-        "ShortRead",
-        "waffle"
+        "ShortRead"
     ],
     "Anaquin": [
         "DESeq2",
@@ -12253,7 +12252,6 @@
         "MultiAssayExperiment",
         "interactiveDisplayBase"
     ],
-    "waffle": [],
     "DescTools": [],
     "lmerTest": [
         "lme4",
