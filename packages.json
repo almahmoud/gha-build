@@ -44267,7 +44267,6 @@
         "GLAD",
         "ade4",
         "adehabitatLT",
-        "adehabitatMA",
         "doSNOW"
     ],
     "seqcombo": [
@@ -59884,10 +59883,8 @@
         "viridis"
     ],
     "adehabitatLT": [
-        "ade4",
-        "adehabitatMA"
+        "ade4"
     ],
-    "adehabitatMA": [],
     "rbokeh": [
         "bslib",
         "crul",
