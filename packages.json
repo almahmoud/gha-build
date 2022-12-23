@@ -4473,7 +4473,6 @@
         "GOSemSim",
         "GenomicRanges",
         "GenomicTools",
-        "GenomicTools.fileHandler",
         "HDO.db",
         "IRdisplay",
         "IRkernel",
@@ -36979,7 +36978,6 @@
         "purrr"
     ],
     "GenomicTools": [],
-    "GenomicTools.fileHandler": [],
     "quantmod": [],
     "ChAMPdata": [
         "GenomicRanges",

@@ -1,0 +1,875 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   2f627c9e..bb4ba511  main       -> origin/main
+Updating 2f627c9e..bb4ba511
+Fast-forward
+ logs/run_ids/rstudio-binaries/martini | 2 ++
+ logs/run_ids/rstudio-binaries/optimr  | 2 ++
+ 2 files changed, 4 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/martini
+ create mode 100644 logs/run_ids/rstudio-binaries/optimr
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=GenomicTools.fileHandler
++ PKG=GenomicTools.fileHandler
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "GenomicTools.fileHandler"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 2036k    2 48960    0     0  60773      0  0:00:34 --:--:--  0:00:34 60744 18 2036k   18  378k    0     0   209k      0  0:00:09  0:00:01  0:00:08  209k 45 2036k   45  920k    0     0   328k      0  0:00:06  0:00:02  0:00:04  328k 82 2036k   82 1685k    0     0   444k      0  0:00:04  0:00:03  0:00:01  444k100 2036k  100 2036k    0     0   491k      0  0:00:04  0:00:04 --:--:--  491k
+built/
+built/data.table/
+built/data.table/libs/
+built/data.table/libs/data_table.so
+built/data.table/NAMESPACE
+built/data.table/DESCRIPTION
+built/data.table/help/
+built/data.table/help/paths.rds
+built/data.table/help/data.table.rdx
+built/data.table/help/aliases.rds
+built/data.table/help/data.table.rdb
+built/data.table/help/AnIndex
+built/data.table/Meta/
+built/data.table/Meta/package.rds
+built/data.table/Meta/vignette.rds
+built/data.table/Meta/features.rds
+built/data.table/Meta/hsearch.rds
+built/data.table/Meta/links.rds
+built/data.table/Meta/nsInfo.rds
+built/data.table/Meta/Rd.rds
+built/data.table/include/
+built/data.table/include/datatableAPI.h
+built/data.table/po/
+built/data.table/po/zh_CN/
+built/data.table/po/zh_CN/LC_MESSAGES/
+built/data.table/po/zh_CN/LC_MESSAGES/data.table.mo
+built/data.table/po/zh_CN/LC_MESSAGES/R-data.table.mo
+built/data.table/po/en@quot/
+built/data.table/po/en@quot/LC_MESSAGES/
+built/data.table/po/en@quot/LC_MESSAGES/data.table.mo
+built/data.table/po/en@quot/LC_MESSAGES/R-data.table.mo
+built/data.table/LICENSE
+built/data.table/html/
+built/data.table/html/00Index.html
+built/data.table/html/R.css
+built/data.table/INDEX
+built/data.table/doc/
+built/data.table/doc/datatable-benchmarking.Rmd
+built/data.table/doc/datatable-importing.Rmd
+built/data.table/doc/datatable-reshape.R
+built/data.table/doc/datatable-secondary-indices-and-auto-indexing.Rmd
+built/data.table/doc/datatable-faq.R
+built/data.table/doc/datatable-sd-usage.R
+built/data.table/doc/datatable-secondary-indices-and-auto-indexing.R
+built/data.table/doc/datatable-reference-semantics.html
+built/data.table/doc/datatable-keys-fast-subset.Rmd
+built/data.table/doc/datatable-keys-fast-subset.R
+built/data.table/doc/datatable-secondary-indices-and-auto-indexing.html
+built/data.table/doc/datatable-sd-usage.html
+built/data.table/doc/datatable-intro.html
+built/data.table/doc/datatable-faq.Rmd
+built/data.table/doc/datatable-faq.html
+built/data.table/doc/index.html
+built/data.table/doc/datatable-reference-semantics.R
+built/data.table/doc/datatable-keys-fast-subset.html
+built/data.table/doc/datatable-intro.R
+built/data.table/doc/datatable-sd-usage.Rmd
+built/data.table/doc/datatable-reshape.Rmd
+built/data.table/doc/datatable-reshape.html
+built/data.table/doc/datatable-intro.Rmd
+built/data.table/doc/datatable-reference-semantics.Rmd
+built/data.table/doc/datatable-importing.html
+built/data.table/doc/datatable-benchmarking.html
+built/data.table/R/
+built/data.table/R/data.table.rdx
+built/data.table/R/data.table.rdb
+built/data.table/R/data.table
+built/data.table/cc
+built/data.table/tests/
+built/data.table/tests/tests.Rraw.bz2
+built/data.table/tests/issue_773_fread.txt
+built/data.table/tests/types.Rraw.bz2
+built/data.table/tests/tests-DESCRIPTION
+built/data.table/tests/test1372.Rdata
+built/data.table/tests/SA2-by-DJZ.csv.gz
+built/data.table/tests/issue_1573_fill.txt
+built/data.table/tests/536_fread_fill_1.txt
+built/data.table/tests/issue_1462_fread_quotes.txt.gz
+built/data.table/tests/alluniquechar.csv.gz
+built/data.table/tests/fread_blank.txt
+built/data.table/tests/gb18030.txt
+built/data.table/tests/utf16be.txt
+built/data.table/tests/colnames4096.csv.bz2
+built/data.table/tests/fillheader.csv.bz2
+built/data.table/tests/issue_1164_json.txt
+built/data.table/tests/530_fread.txt
+built/data.table/tests/allchar.csv.gz
+built/data.table/tests/froll.Rraw.bz2
+built/data.table/tests/536_fread_fill_3_extreme.txt
+built/data.table/tests/fread_blank2.txt
+built/data.table/tests/536_fread_fill_4.txt
+built/data.table/tests/issue_1116_fread_few_lines_2.txt.gz
+built/data.table/tests/grr.csv.gz
+built/data.table/tests/1680-fread-header-encoding.csv
+built/data.table/tests/utf16le.txt
+built/data.table/tests/ch11b.dat.bz2
+built/data.table/tests/issue_563_fread.txt
+built/data.table/tests/onecol4096.csv.bz2
+built/data.table/tests/issue_2157_sampling_reached_eof_early.txt.bz2
+built/data.table/tests/issue_1116_fread_few_lines.txt.gz
+built/data.table/tests/melt_1754_synth.csv.bz2
+built/data.table/tests/fread_line_error.csv.bz2
+built/data.table/tests/issue_1087_utf8_bom.csv
+built/data.table/tests/issue_3400_fread.txt
+built/data.table/tests/winallquoted.csv.bz2
+built/data.table/tests/russellCRLF.csv
+built/data.table/tests/issue_2051.csv.gz
+built/data.table/tests/bad.txt.bz2
+built/data.table/tests/536_fread_fill_2.txt
+built/data.table/tests/melt-warning-1752.tsv.gz
+built/data.table/tests/doublequote_newline.csv
+built/data.table/tests/test1372-1.Rdata
+built/data.table/tests/fread_blank3.txt
+built/data.table/tests/quoted_multiline.csv.bz2
+built/data.table/tests/benchmark.Rraw.bz2
+built/data.table/tests/1206FUT.txt.bz2
+built/data.table/tests/unescaped.csv
+built/data.table/tests/issue_1095_fread.txt.bz2
+built/data.table/tests/noquote.csv.gz
+built/data.table/tests/quoted_no_header.csv
+built/data.table/tests/nafill.Rraw.bz2
+built/data.table/tests/issue_1113_fread.txt.bz2
+built/data.table/tests/issue_2157_sampling_overlap.txt.gz
+built/data.table/tests/russellCRCRLF.csv
+built/data.table/tests/isoweek_test.csv.bz2
+built/data.table/tests/test0.txt.bz2
+built/data.table/tests/melt_1754.R.gz
+built/data.table/tests/genotypes_genome.txt.bz2
+built/data.table/tests/iterations.txt.bz2
+built/data.table/tests/issue_785_fread.txt.gz
+built/data.table/tests/csvy/
+built/data.table/tests/csvy/test_override_header.csvy
+built/data.table/tests/csvy/test_override_dec.csvy
+built/data.table/tests/csvy/test_comment.csvy
+built/data.table/tests/csvy/test_skip.csvy
+built/data.table/tests/csvy/test_override_quote.csvy
+built/data.table/tests/csvy/test_incomplete_header.csvy
+built/data.table/tests/csvy/test_missing_type.csvy
+built/data.table/tests/csvy/test_override_na.csvy
+built/data.table/tests/csvy/test_override_sep.csvy
+built/data.table/tests/csvy/test_extraneous.csvy
+built/data.table/tests/csvy/test.csvy
+built/data.table/tests/csvy/test_attributes.csvy
+built/data.table/tests/session_aborted_fatal_error.txt.bz2
+built/data.table/tests/other.Rraw.bz2
+built/data.table/tests/2008head.csv.bz2
+built/data.table/tests/issue_1330_fread.txt
+built/data.table/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 20.7M    1  219k    0     0   139k      0  0:02:31  0:00:01  0:02:30  139k  3 20.7M    3  681k    0     0   265k      0  0:01:20  0:00:02  0:01:18  265k  6 20.7M    6 1382k    0     0   387k      0  0:00:54  0:00:03  0:00:51  387k 10 20.7M   10 2306k    0     0   504k      0  0:00:42  0:00:04  0:00:38  504k 16 20.7M   16 3470k    0     0   623k      0  0:00:34  0:00:05  0:00:29  695k 22 20.7M   22 4872k    0     0   741k      0  0:00:28  0:00:06  0:00:22  930k 30 20.7M   30 6530k    0     0   861k      0  0:00:24  0:00:07  0:00:17 1166k 39 20.7M   39 8474k    0     0   988k      0  0:00:21  0:00:08  0:00:13 1415k 53 20.7M   53 11.1M    0     0  1191k      0  0:00:17  0:00:09  0:00:08 1817k 73 20.7M   73 15.3M    0     0  1492k      0  0:00:14  0:00:10  0:00:04 2466k100 20.7M  100 20.7M    0     0  1859k      0  0:00:11  0:00:11 --:--:-- 3369k
+built/
+built/built/
+built/built/built/
+built/built/built/lattice/
+built/built/built/lattice/libs/
+built/built/built/lattice/libs/lattice.so
+built/built/built/lattice/NEWS
+built/built/built/lattice/NAMESPACE
+built/built/built/lattice/DESCRIPTION
+built/built/built/lattice/help/
+built/built/built/lattice/help/paths.rds
+built/built/built/lattice/help/lattice.rdx
+built/built/built/lattice/help/lattice.rdb
+built/built/built/lattice/help/aliases.rds
+built/built/built/lattice/help/AnIndex
+built/built/built/lattice/data/
+built/built/built/lattice/data/Rdata.rds
+built/built/built/lattice/data/Rdata.rdb
+built/built/built/lattice/data/Rdata.rdx
+built/built/built/lattice/Meta/
+built/built/built/lattice/Meta/package.rds
+built/built/built/lattice/Meta/demo.rds
+built/built/built/lattice/Meta/features.rds
+built/built/built/lattice/Meta/hsearch.rds
+built/built/built/lattice/Meta/links.rds
+built/built/built/lattice/Meta/nsInfo.rds
+built/built/built/lattice/Meta/Rd.rds
+built/built/built/lattice/Meta/data.rds
+built/built/built/lattice/po/
+built/built/built/lattice/po/it/
+built/built/built/lattice/po/it/LC_MESSAGES/
+built/built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/fr/
+built/built/built/lattice/po/fr/LC_MESSAGES/
+built/built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/ko/
+built/built/built/lattice/po/ko/LC_MESSAGES/
+built/built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/pl/
+built/built/built/lattice/po/pl/LC_MESSAGES/
+built/built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/en@quot/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/de/
+built/built/built/lattice/po/de/LC_MESSAGES/
+built/built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/CITATION
+built/built/built/lattice/html/
+built/built/built/lattice/html/00Index.html
+built/built/built/lattice/html/R.css
+built/built/built/lattice/INDEX
+built/built/built/lattice/R/
+built/built/built/lattice/R/lattice
+built/built/built/lattice/R/lattice.rdx
+built/built/built/lattice/R/lattice.rdb
+built/built/built/lattice/demo/
+built/built/built/lattice/demo/panel.R
+built/built/built/lattice/demo/intervals.R
+built/built/built/lattice/demo/labels.R
+built/built/built/lattice/demo/lattice.R
+built/built/built/Matrix/
+built/built/built/Matrix/Doxyfile
+built/built/built/Matrix/libs/
+built/built/built/Matrix/libs/Matrix.so
+built/built/built/Matrix/NAMESPACE
+built/built/built/Matrix/LICENCE
+built/built/built/Matrix/DESCRIPTION
+built/built/built/Matrix/test-tools-1.R
+built/built/built/Matrix/help/
+built/built/built/Matrix/help/paths.rds
+built/built/built/Matrix/help/aliases.rds
+built/built/built/Matrix/help/AnIndex
+built/built/built/Matrix/help/Matrix.rdx
+built/built/built/Matrix/help/Matrix.rdb
+built/built/built/Matrix/data/
+built/built/built/Matrix/data/USCounties.R
+built/built/built/Matrix/data/datalist
+built/built/built/Matrix/data/CAex.R
+built/built/built/Matrix/data/wrld_1deg.R
+built/built/built/Matrix/data/KNex.R
+built/built/built/Matrix/Meta/
+built/built/built/Matrix/Meta/package.rds
+built/built/built/Matrix/Meta/vignette.rds
+built/built/built/Matrix/Meta/features.rds
+built/built/built/Matrix/Meta/hsearch.rds
+built/built/built/Matrix/Meta/links.rds
+built/built/built/Matrix/Meta/nsInfo.rds
+built/built/built/Matrix/Meta/Rd.rds
+built/built/built/Matrix/Meta/data.rds
+built/built/built/Matrix/NEWS.Rd
+built/built/built/Matrix/include/
+built/built/built/Matrix/include/cholmod.h
+built/built/built/Matrix/include/Matrix_stubs.c
+built/built/built/Matrix/include/Matrix.h
+built/built/built/Matrix/test-tools-Matrix.R
+built/built/built/Matrix/test-tools.R
+built/built/built/Matrix/po/
+built/built/built/Matrix/po/lt/
+built/built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/it/
+built/built/built/Matrix/po/it/LC_MESSAGES/
+built/built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/fr/
+built/built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/ko/
+built/built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/pl/
+built/built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/en@quot/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/de/
+built/built/built/Matrix/po/de/LC_MESSAGES/
+built/built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/Copyrights
+built/built/built/Matrix/html/
+built/built/built/Matrix/html/00Index.html
+built/built/built/Matrix/html/R.css
+built/built/built/Matrix/INDEX
+built/built/built/Matrix/doc/
+built/built/built/Matrix/doc/Design-issues.Rnw
+built/built/built/Matrix/doc/sparseModels.R
+built/built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/built/Matrix/doc/Introduction.R
+built/built/built/Matrix/doc/sparseModels.Rnw
+built/built/built/Matrix/doc/Design-issues.pdf
+built/built/built/Matrix/doc/Design-issues.R
+built/built/built/Matrix/doc/Comparisons.R
+built/built/built/Matrix/doc/Announce.txt
+built/built/built/Matrix/doc/Introduction.Rnw
+built/built/built/Matrix/doc/Intro2Matrix.R
+built/built/built/Matrix/doc/index.html
+built/built/built/Matrix/doc/SuiteSparse/
+built/built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/built/Matrix/doc/Comparisons.pdf
+built/built/built/Matrix/doc/sparseModels.pdf
+built/built/built/Matrix/doc/Comparisons.Rnw
+built/built/built/Matrix/doc/Introduction.pdf
+built/built/built/Matrix/R/
+built/built/built/Matrix/R/Matrix
+built/built/built/Matrix/R/Matrix.rdx
+built/built/built/Matrix/R/Matrix.rdb
+built/built/built/Matrix/external/
+built/built/built/Matrix/external/symW.rda
+built/built/built/Matrix/external/lund_a.rsa
+built/built/built/Matrix/external/wrong.mtx
+built/built/built/Matrix/external/pores_1.mtx
+built/built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/built/Matrix/external/CAex_slots.rda
+built/built/built/Matrix/external/KNex_slots.rda
+built/built/built/Matrix/external/jgl009.mtx
+built/built/built/Matrix/external/utm300.rua
+built/built/built/Matrix/external/test3comp.rda
+built/built/built/Matrix/external/USCounties_slots.rda
+built/built/built/Matrix/external/Z_NA_rnk.rds
+built/built/built/Matrix/external/symA.rda
+built/built/built/Matrix/external/lund_a.mtx
+built/built/BiocGenerics/
+built/built/BiocGenerics/NAMESPACE
+built/built/BiocGenerics/DESCRIPTION
+built/built/BiocGenerics/help/
+built/built/BiocGenerics/help/paths.rds
+built/built/BiocGenerics/help/BiocGenerics.rdb
+built/built/BiocGenerics/help/aliases.rds
+built/built/BiocGenerics/help/AnIndex
+built/built/BiocGenerics/help/BiocGenerics.rdx
+built/built/BiocGenerics/Meta/
+built/built/BiocGenerics/Meta/package.rds
+built/built/BiocGenerics/Meta/features.rds
+built/built/BiocGenerics/Meta/hsearch.rds
+built/built/BiocGenerics/Meta/links.rds
+built/built/BiocGenerics/Meta/nsInfo.rds
+built/built/BiocGenerics/Meta/Rd.rds
+built/built/BiocGenerics/unitTests/
+built/built/BiocGenerics/unitTests/test_combine.R
+built/built/BiocGenerics/unitTests/test_mapply.R
+built/built/BiocGenerics/unitTests/test_Extremes.R
+built/built/BiocGenerics/unitTests/test_order.R
+built/built/BiocGenerics/unitTests/test_updateObject.R
+built/built/BiocGenerics/unitTests/test_format.R
+built/built/BiocGenerics/unitTests/test_paste.R
+built/built/BiocGenerics/CITATION
+built/built/BiocGenerics/html/
+built/built/BiocGenerics/html/00Index.html
+built/built/BiocGenerics/html/R.css
+built/built/BiocGenerics/INDEX
+built/built/BiocGenerics/R/
+built/built/BiocGenerics/R/BiocGenerics
+built/built/BiocGenerics/R/BiocGenerics.rdb
+built/built/BiocGenerics/R/BiocGenerics.rdx
+built/built/zlibbioc/
+built/built/zlibbioc/libs/
+built/built/zlibbioc/libs/zlibbioc.so
+built/built/zlibbioc/NAMESPACE
+built/built/zlibbioc/DESCRIPTION
+built/built/zlibbioc/help/
+built/built/zlibbioc/help/paths.rds
+built/built/zlibbioc/help/zlibbioc.rdx
+built/built/zlibbioc/help/zlibbioc.rdb
+built/built/zlibbioc/help/aliases.rds
+built/built/zlibbioc/help/AnIndex
+built/built/zlibbioc/Meta/
+built/built/zlibbioc/Meta/package.rds
+built/built/zlibbioc/Meta/vignette.rds
+built/built/zlibbioc/Meta/features.rds
+built/built/zlibbioc/Meta/hsearch.rds
+built/built/zlibbioc/Meta/links.rds
+built/built/zlibbioc/Meta/nsInfo.rds
+built/built/zlibbioc/Meta/Rd.rds
+built/built/zlibbioc/include/
+built/built/zlibbioc/LICENSE
+built/built/zlibbioc/html/
+built/built/zlibbioc/html/00Index.html
+built/built/zlibbioc/html/R.css
+built/built/zlibbioc/INDEX
+built/built/zlibbioc/doc/
+built/built/zlibbioc/doc/UsingZlibbioc.Rnw
+built/built/zlibbioc/doc/index.html
+built/built/zlibbioc/doc/UsingZlibbioc.pdf
+built/built/zlibbioc/R/
+built/built/zlibbioc/R/zlibbioc.rdx
+built/built/zlibbioc/R/zlibbioc.rdb
+built/built/zlibbioc/R/zlibbioc
+built/built/survival/
+built/built/survival/libs/
+built/built/survival/libs/survival.so
+built/built/survival/NAMESPACE
+built/built/survival/DESCRIPTION
+built/built/survival/help/
+built/built/survival/help/paths.rds
+built/built/survival/help/survival.rdb
+built/built/survival/help/aliases.rds
+built/built/survival/help/figures/
+built/built/survival/help/figures/logo.png
+built/built/survival/help/survival.rdx
+built/built/survival/help/AnIndex
+built/built/survival/data/
+built/built/survival/data/Rdata.rds
+built/built/survival/data/Rdata.rdb
+built/built/survival/data/Rdata.rdx
+built/built/survival/Meta/
+built/built/survival/Meta/package.rds
+built/built/survival/Meta/vignette.rds
+built/built/survival/Meta/features.rds
+built/built/survival/Meta/hsearch.rds
+built/built/survival/Meta/links.rds
+built/built/survival/Meta/nsInfo.rds
+built/built/survival/Meta/Rd.rds
+built/built/survival/Meta/data.rds
+built/built/survival/NEWS.Rd
+built/built/survival/CITATION
+built/built/survival/html/
+built/built/survival/html/00Index.html
+built/built/survival/html/R.css
+built/built/survival/INDEX
+built/built/survival/doc/
+built/built/survival/doc/population.pdf
+built/built/survival/doc/concordance.Rnw
+built/built/survival/doc/validate.Rnw
+built/built/survival/doc/survival.pdf
+built/built/survival/doc/splines.pdf
+built/built/survival/doc/timedep.R
+built/built/survival/doc/discrim.Rnw
+built/built/survival/doc/tiedtimes.pdf
+built/built/survival/doc/splines.Rnw
+built/built/survival/doc/multi.pdf
+built/built/survival/doc/validate.R
+built/built/survival/doc/compete.pdf
+built/built/survival/doc/concordance.pdf
+built/built/survival/doc/concordance.R
+built/built/survival/doc/adjcurve.pdf
+built/built/survival/doc/other.pdf
+built/built/survival/doc/approximate.Rnw
+built/built/survival/doc/validate.pdf
+built/built/survival/doc/discrim.pdf
+built/built/survival/doc/splines.R
+built/built/survival/doc/survival.R
+built/built/survival/doc/adjcurve.R
+built/built/survival/doc/approximate.pdf
+built/built/survival/doc/timedep.pdf
+built/built/survival/doc/other.Rnw
+built/built/survival/doc/population.R
+built/built/survival/doc/adjcurve.Rnw
+built/built/survival/doc/timedep.Rnw
+built/built/survival/doc/discrim.R
+built/built/survival/doc/tiedtimes.R
+built/built/survival/doc/index.html
+built/built/survival/doc/compete.Rnw
+built/built/survival/doc/population.Rnw
+built/built/survival/doc/tiedtimes.Rnw
+built/built/survival/doc/approximate.R
+built/built/survival/doc/compete.R
+built/built/survival/doc/multi.Rnw
+built/built/survival/doc/survival.Rnw
+built/built/survival/R/
+built/built/survival/R/survival.rdb
+built/built/survival/R/survival.rdx
+built/built/survival/R/survival
+built/built/survival/COPYRIGHTS
+built/snpStats/
+built/snpStats/libs/
+built/snpStats/libs/snpStats.so
+built/snpStats/extdata/
+built/snpStats/extdata/mach1.out.mlprob.gz
+built/snpStats/extdata/sample.bed
+built/snpStats/extdata/sample.info
+built/snpStats/extdata/sample-long.gz
+built/snpStats/extdata/sample-long-alleles.gz
+built/snpStats/extdata/sample.fam
+built/snpStats/extdata/sample.bim
+built/snpStats/extdata/sample.ped.gz
+built/snpStats/NAMESPACE
+built/snpStats/DESCRIPTION
+built/snpStats/help/
+built/snpStats/help/paths.rds
+built/snpStats/help/snpStats.rdb
+built/snpStats/help/aliases.rds
+built/snpStats/help/snpStats.rdx
+built/snpStats/help/AnIndex
+built/snpStats/data/
+built/snpStats/data/datalist
+built/snpStats/data/for.exercise.RData
+built/snpStats/data/families.RData
+built/snpStats/data/ld.example.RData
+built/snpStats/data/testdata.RData
+built/snpStats/Meta/
+built/snpStats/Meta/package.rds
+built/snpStats/Meta/vignette.rds
+built/snpStats/Meta/features.rds
+built/snpStats/Meta/hsearch.rds
+built/snpStats/Meta/links.rds
+built/snpStats/Meta/nsInfo.rds
+built/snpStats/Meta/Rd.rds
+built/snpStats/Meta/data.rds
+built/snpStats/html/
+built/snpStats/html/00Index.html
+built/snpStats/html/R.css
+built/snpStats/INDEX
+built/snpStats/doc/
+built/snpStats/doc/imputation-vignette.Rnw
+built/snpStats/doc/pca-vignette.pdf
+built/snpStats/doc/pca-vignette.Rnw
+built/snpStats/doc/ld-vignette.R
+built/snpStats/doc/tdt-vignette.Rnw
+built/snpStats/doc/Fst-vignette.pdf
+built/snpStats/doc/snpStats-vignette.Rnw
+built/snpStats/doc/differences.pdf
+built/snpStats/doc/Fst-vignette.Rnw
+built/snpStats/doc/data-input-vignette.Rnw
+built/snpStats/doc/data-input-vignette.R
+built/snpStats/doc/tdt-vignette.pdf
+built/snpStats/doc/differences.Rnw
+built/snpStats/doc/data-input-vignette.pdf
+built/snpStats/doc/imputation-vignette.R
+built/snpStats/doc/index.html
+built/snpStats/doc/pca-vignette.R
+built/snpStats/doc/Fst-vignette.R
+built/snpStats/doc/ld-vignette.pdf
+built/snpStats/doc/tdt-vignette.R
+built/snpStats/doc/imputation-vignette.pdf
+built/snpStats/doc/snpStats-vignette.R
+built/snpStats/doc/ld-vignette.Rnw
+built/snpStats/doc/snpStats-vignette.pdf
+built/snpStats/R/
+built/snpStats/R/snpStats
+built/snpStats/R/snpStats.rdb
+built/snpStats/R/snpStats.rdx
+built/BiocGenerics/
+built/BiocGenerics/NAMESPACE
+built/BiocGenerics/DESCRIPTION
+built/BiocGenerics/help/
+built/BiocGenerics/help/paths.rds
+built/BiocGenerics/help/BiocGenerics.rdb
+built/BiocGenerics/help/aliases.rds
+built/BiocGenerics/help/AnIndex
+built/BiocGenerics/help/BiocGenerics.rdx
+built/BiocGenerics/Meta/
+built/BiocGenerics/Meta/package.rds
+built/BiocGenerics/Meta/features.rds
+built/BiocGenerics/Meta/hsearch.rds
+built/BiocGenerics/Meta/links.rds
+built/BiocGenerics/Meta/nsInfo.rds
+built/BiocGenerics/Meta/Rd.rds
+built/BiocGenerics/unitTests/
+built/BiocGenerics/unitTests/test_combine.R
+built/BiocGenerics/unitTests/test_mapply.R
+built/BiocGenerics/unitTests/test_Extremes.R
+built/BiocGenerics/unitTests/test_order.R
+built/BiocGenerics/unitTests/test_updateObject.R
+built/BiocGenerics/unitTests/test_format.R
+built/BiocGenerics/unitTests/test_paste.R
+built/BiocGenerics/CITATION
+built/BiocGenerics/html/
+built/BiocGenerics/html/00Index.html
+built/BiocGenerics/html/R.css
+built/BiocGenerics/INDEX
+built/BiocGenerics/R/
+built/BiocGenerics/R/BiocGenerics
+built/BiocGenerics/R/BiocGenerics.rdb
+built/BiocGenerics/R/BiocGenerics.rdx
+built/zlibbioc/
+built/zlibbioc/libs/
+built/zlibbioc/libs/zlibbioc.so
+built/zlibbioc/NAMESPACE
+built/zlibbioc/DESCRIPTION
+built/zlibbioc/help/
+built/zlibbioc/help/paths.rds
+built/zlibbioc/help/zlibbioc.rdx
+built/zlibbioc/help/zlibbioc.rdb
+built/zlibbioc/help/aliases.rds
+built/zlibbioc/help/AnIndex
+built/zlibbioc/Meta/
+built/zlibbioc/Meta/package.rds
+built/zlibbioc/Meta/vignette.rds
+built/zlibbioc/Meta/features.rds
+built/zlibbioc/Meta/hsearch.rds
+built/zlibbioc/Meta/links.rds
+built/zlibbioc/Meta/nsInfo.rds
+built/zlibbioc/Meta/Rd.rds
+built/zlibbioc/include/
+built/zlibbioc/LICENSE
+built/zlibbioc/html/
+built/zlibbioc/html/00Index.html
+built/zlibbioc/html/R.css
+built/zlibbioc/INDEX
+built/zlibbioc/doc/
+built/zlibbioc/doc/UsingZlibbioc.Rnw
+built/zlibbioc/doc/index.html
+built/zlibbioc/doc/UsingZlibbioc.pdf
+built/zlibbioc/R/
+built/zlibbioc/R/zlibbioc.rdx
+built/zlibbioc/R/zlibbioc.rdb
+built/zlibbioc/R/zlibbioc
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''GenomicTools.fileHandler'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz data.table_1.14.6_R_x86_64-pc-linux-gnu.tar.gz GenomicTools.fileHandler_0.1.5.9_R_x86_64-pc-linux-gnu.tar.gz snpStats_1.48.0_R_x86_64-pc-linux-gnu.tar.gz zlibbioc_1.44.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/GenomicTools.fileHandler
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'GenomicTools.fileHandler'
+also installing the dependencies ‘BiocGenerics’, ‘zlibbioc’, ‘data.table’, ‘snpStats’
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BiocGenerics_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 47711 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/zlibbioc_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 214256 bytes (209 KB)
+==================================================
+downloaded 209 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/data.table_1.14.6.tar.gz'
+Content type 'binary/octet-stream' length 2082451 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/snpStats_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 7033828 bytes (6.7 MB)
+==================================================
+downloaded 6.7 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/GenomicTools.fileHandler_0.1.5.9.tar.gz'
+Content type 'binary/octet-stream' length 555094 bytes (542 KB)
+==================================================
+downloaded 542 KB
+
+* installing *source* package ‘BiocGenerics’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘union’ in package ‘BiocGenerics’
+Creating a new generic function for ‘intersect’ in package ‘BiocGenerics’
+Creating a new generic function for ‘setdiff’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sort’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *source* package ‘zlibbioc’ ...
+** using staged installation
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+mkdir -p "/__w/gha-build/gha-build/built/00LOCK-zlibbioc/00new/zlibbioc/include"
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_zlibbioc.c -o R_init_zlibbioc.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o zlibbioc.so R_init_zlibbioc.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-zlibbioc/00new/zlibbioc/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘zlibbioc’ as ‘zlibbioc_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zlibbioc)
+* installing *binary* package ‘data.table’ ...
+* ‘data.table’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘data.table’ as ‘data.table_1.14.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (data.table)
+* installing *source* package ‘snpStats’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Runcertain.c -o Runcertain.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bind.c -o bind.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c count_gt.c -o count_gt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c covwin.c -o covwin.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c force_hom.c -o force_hom.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fst.c -o fst.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c glm_test.c -o glm_test.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c glm_test_R.c -o glm_test_R.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hash_index.c -o hash_index.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hphase.c -o hphase.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c imputation.c -o imputation.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c in.c -o in.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c input.c -o input.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c invert.c -o invert.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ipf.c -o ipf.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ld.c -o ld.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c misc.c -o misc.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c mla.c -o mla.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c mvphenotype.c -o mvphenotype.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c outdata.c -o outdata.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c plink.c -o plink.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c read_uncertain.c -o read_uncertain.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c readped.c -o readped.o
+readped.c: In function ‘readped’:
+readped.c:234:33: warning: ‘%d’ directive output may be truncated writing between 1 and 11 bytes into a region of size between 0 and 127 [-Wformat-truncation=]
+  234 |     snprintf(fmid, MAX_ID, "%s%c%d", fid, sepchar, memi);
+      |                                 ^~
+In file included from /usr/include/stdio.h:894,
+                 from /usr/local/lib/R/include/R.h:45,
+                 from readped.c:3:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:71:10: note: ‘__builtin___snprintf_chk’ output between 3 and 140 bytes into a destination of size 128
+   71 |   return __builtin___snprintf_chk (__s, __n, __USE_FORTIFY_LEVEL - 1,
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   72 |                                    __glibc_objsize (__s), __fmt,
+      |                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   73 |                                    __va_arg_pack ());
+      |                                    ~~~~~~~~~~~~~~~~~
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c single_snp_tests.c -o single_snp_tests.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c snp_summary.c -o snp_summary.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c snpmpy.c -o snpmpy.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c solve_cubic.c -o solve_cubic.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c structure.c -o structure.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c subset.c -o subset.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c switch.c -o switch.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c tdt.c -o tdt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c testBig.c -o testBig.o
+testBig.c: In function ‘snp_big’:
+testBig.c:31:27: warning: ‘%d’ directive writing between 1 and 10 bytes into a region of size 9 [-Wformat-overflow=]
+   31 |     sprintf(name, "Subject%d", i+1);
+      |                           ^~
+testBig.c:31:19: note: directive argument in the range [1, 2147483647]
+   31 |     sprintf(name, "Subject%d", i+1);
+      |                   ^~~~~~~~~~~
+In file included from /usr/include/stdio.h:894,
+                 from /usr/local/lib/R/include/R.h:45,
+                 from testBig.c:1:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:38:10: note: ‘__builtin___sprintf_chk’ output between 9 and 18 bytes into a destination of size 16
+   38 |   return __builtin___sprintf_chk (__s, __USE_FORTIFY_LEVEL - 1,
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   39 |                                   __glibc_objsize (__s), __fmt,
+      |                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   40 |                                   __va_arg_pack ());
+      |                                   ~~~~~~~~~~~~~~~~~
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c uncertain.c -o uncertain.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o snpStats.so Runcertain.o bind.o count_gt.o covwin.o force_hom.o fst.o glm_test.o glm_test_R.o hash_index.o hphase.o imputation.o in.o input.o invert.o ipf.o ld.o misc.o mla.o mvphenotype.o outdata.o plink.o read_uncertain.o readped.o single_snp_tests.o snp_summary.o snpmpy.o solve_cubic.o structure.o subset.o switch.o tdt.o testBig.o uncertain.o -lz -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-snpStats/00new/snpStats/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘snpStats’ as ‘snpStats_1.48.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (snpStats)
+* installing *source* package ‘GenomicTools.fileHandler’ ...
+** package ‘GenomicTools.fileHandler’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GenomicTools.fileHandler’ as ‘GenomicTools.fileHandler_0.1.5.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GenomicTools.fileHandler)
+
+The downloaded source packages are in
+	‘/tmp/RtmpkjAQr7/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	1m5.577s
+user	0m41.333s
+sys	0m4.691s
