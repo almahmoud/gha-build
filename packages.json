@@ -1333,9 +1333,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "FDb.InfiniumMethylation.hg19",
         "GenomicFeatures",
@@ -3389,7 +3387,6 @@
         "GenomicFeatures",
         "SoupX",
         "TENxPBMCData",
-        "TSCAN",
         "batchelor",
         "celda",
         "celldex",
@@ -3760,7 +3757,6 @@
         "sva"
     ],
     "tRNAscanImport": [],
-    "TSCAN": [],
     "tscR": [
         "kmlShape"
     ],
