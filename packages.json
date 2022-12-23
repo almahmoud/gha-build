@@ -2659,7 +2659,6 @@
         "rstatix",
         "shinyHeatmaply"
     ],
-    "GEOmetadb": [],
     "GeomxTools": [
         "NanoStringNCTools",
         "lme4",
