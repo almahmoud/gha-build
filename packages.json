@@ -409,7 +409,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "VariantAnnotation",
         "annotatr",
-        "biscuiteerData",
         "bsseq",
         "bumphunter",
         "dmrseq",
@@ -5048,7 +5047,6 @@
         "Hmisc",
         "viridis"
     ],
-    "biscuiteerData": [],
     "pasilla": [
         "DESeq2",
         "DEXSeq"
