@@ -2641,7 +2641,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "Oscope": [],
     "OUTRIDER": [
         "DESeq2",
         "GenomicFeatures",
@@ -3272,9 +3271,7 @@
         "arm",
         "scran"
     ],
-    "scDDboost": [
-        "Oscope"
-    ],
+    "scDDboost": [],
     "scGPS": [
         "DESeq2"
     ],
