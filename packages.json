@@ -1657,7 +1657,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "pogos": [],
     "POMA": [],
     "preciseTAD": [
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
