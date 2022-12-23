@@ -18514,7 +18514,6 @@
         "tidyr"
     ],
     "nethet": [
-        "ICS",
         "ICSNP",
         "ggplot2",
         "network",
@@ -23329,7 +23328,6 @@
         "Biostrings",
         "Category",
         "GSEABase",
-        "ICS",
         "ICSNP",
         "KEGGREST",
         "RSQLite",
@@ -33239,10 +33237,7 @@
     ],
     "VarfromPDB": [],
     "mppa": [],
-    "ICSNP": [
-        "ICS"
-    ],
-    "ICS": [],
+    "ICSNP": [],
     "dnet": [
         "dplyr",
         "progress",
