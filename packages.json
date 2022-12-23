@@ -459,7 +459,6 @@
     ],
     "BioNetStat": [
         "Hmisc",
-        "pathview",
         "viridis"
     ],
     "BioTIP": [
@@ -1379,7 +1378,6 @@
         "enrichplot",
         "ggraph",
         "heatmaply",
-        "pathview",
         "sva",
         "viridis"
     ],
@@ -1680,7 +1678,6 @@
         "GSVA",
         "HDF5Array",
         "PADOG",
-        "pathview",
         "rhdf5"
     ],
     "ELMER": [
@@ -1710,9 +1707,7 @@
         "minfi",
         "rhdf5"
     ],
-    "EnrichmentBrowser": [
-        "pathview"
-    ],
+    "EnrichmentBrowser": [],
     "enrichplot": [
         "DOSE",
         "ggraph",
@@ -2126,7 +2121,6 @@
         "enrichplot",
         "ggpubr",
         "ggraph",
-        "pathview",
         "pbkrtest",
         "rstatix",
         "survminer",
@@ -2372,8 +2366,7 @@
         "rhdf5"
     ],
     "GSEABenchmarkeR": [
-        "EnrichmentBrowser",
-        "pathview"
+        "EnrichmentBrowser"
     ],
     "GSEAmining": [
         "dendextend",
@@ -2866,7 +2859,6 @@
         "depmap",
         "enrichplot",
         "ggraph",
-        "pathview",
         "viridis"
     ],
     "MAI": [],
@@ -3946,7 +3938,6 @@
         "phyloseq",
         "rhdf5"
     ],
-    "pathview": [],
     "pcaExplorer": [
         "Category",
         "DESeq2",
@@ -4723,7 +4714,6 @@
         "factoextra",
         "ggpubr",
         "ggraph",
-        "pathview",
         "pbkrtest",
         "rstatix",
         "sva",
@@ -4820,9 +4810,7 @@
         "GenomicFeatures"
     ],
     "sampleClassifier": [],
-    "SBGNview": [
-        "pathview"
-    ],
+    "SBGNview": [],
     "scAlign": [
         "Seurat"
     ],
@@ -5543,7 +5531,6 @@
         "ensembldb",
         "ggpubr",
         "ggraph",
-        "pathview",
         "pbkrtest",
         "rstatix",
         "sesame",
@@ -5954,7 +5941,6 @@
     "zenith": [
         "EnrichmentBrowser",
         "lmerTest",
-        "pathview",
         "pbkrtest",
         "variancePartition"
     ],
