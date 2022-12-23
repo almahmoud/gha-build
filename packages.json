@@ -8396,7 +8396,6 @@
         "dplyr",
         "ensembldb",
         "epivizrData",
-        "epivizrServer",
         "rtracklayer"
     ],
     "epivizrChart": [
@@ -8416,7 +8415,6 @@
         "dplyr",
         "ensembldb",
         "epivizrData",
-        "epivizrServer",
         "rtracklayer"
     ],
     "epivizrData": [
@@ -8435,10 +8433,8 @@
         "dbplyr",
         "dplyr",
         "ensembldb",
-        "epivizrServer",
         "rtracklayer"
     ],
-    "epivizrServer": [],
     "epivizrStandalone": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -8458,7 +8454,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "epivizrServer",
         "rtracklayer"
     ],
     "erccdashboard": [
@@ -14536,7 +14531,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "epivizrServer",
         "epivizrStandalone",
         "ggplot2",
         "metagenomeSeq",
@@ -23673,7 +23667,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "epivizrServer",
         "ggbeeswarm",
         "ggforce",
         "ggplot2",
