@@ -7134,7 +7134,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "PolynomF",
         "RCurl",
         "S4Vectors",
         "XVector"
@@ -80055,7 +80054,6 @@
         "plotmo"
     ],
     "plotmo": [],
-    "PolynomF": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
