@@ -6542,7 +6542,6 @@
         "BSgenome",
         "BiocFileCache",
         "Biostrings",
-        "DDRTree",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -24671,7 +24670,6 @@
         "vroom"
     ],
     "monocle": [
-        "DDRTree",
         "dplyr",
         "ggplot2",
         "leidenbase",
@@ -42555,7 +42553,6 @@
         "tibble"
     ],
     "uSORT": [
-        "DDRTree",
         "RSpectra",
         "dplyr",
         "ggplot2",
@@ -46539,7 +46536,6 @@
         "sass",
         "shiny"
     ],
-    "DDRTree": [],
     "leidenbase": [],
     "qlcMatrix": [],
     "propr": [],
