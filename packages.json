@@ -73,7 +73,6 @@
         "text2vec",
         "ttgsea"
     ],
-    "GEOexplorer": [],
     "glmSparseNet": [],
     "HiCcompare": [
         "CGHcall",
