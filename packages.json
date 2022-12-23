@@ -37546,7 +37546,6 @@
         "knitr",
         "latticeExtra",
         "lava",
-        "lhs",
         "lifecycle",
         "linkcomm",
         "lme4",
@@ -58429,7 +58428,6 @@
         "kknn",
         "km.ci",
         "knitr",
-        "lhs",
         "lifecycle",
         "lme4",
         "lubridate",
@@ -76723,8 +76721,7 @@
         "vctrs"
     ],
     "ppclust": [
-        "inaparc",
-        "lhs"
+        "inaparc"
     ],
     "MatrixCorrelation": [
         "RSpectra",
@@ -76734,9 +76731,7 @@
         "progress",
         "vctrs"
     ],
-    "inaparc": [
-        "lhs"
-    ],
+    "inaparc": [],
     "metR": [
         "formula.tools",
         "ggplot2",
@@ -76753,7 +76748,6 @@
         "timechange",
         "vctrs"
     ],
-    "lhs": [],
     "cvms": [
         "MuMIn",
         "RcppEigen",
