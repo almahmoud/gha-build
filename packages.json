@@ -343,7 +343,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "plotly",
-        "sctransform",
         "topGO"
     ],
     "appreci8R": [
@@ -781,7 +780,6 @@
         "nloptr",
         "plotly",
         "scater",
-        "sctransform",
         "scuttle",
         "testthat",
         "tidytree",
@@ -1586,7 +1584,6 @@
         "ggrepel",
         "plotly",
         "scater",
-        "sctransform",
         "scuttle",
         "viridis"
     ],
@@ -3356,7 +3353,6 @@
         "ggrepel",
         "plotly",
         "scran",
-        "sctransform",
         "scuttle"
     ],
     "DiscoRhythm": [
@@ -5850,8 +5846,7 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "plotly",
-        "sctransform"
+        "plotly"
     ],
     "InPAS": [
         "AnnotationDbi",
@@ -6031,7 +6026,6 @@
         "scater",
         "scatterpie",
         "scran",
-        "sctransform",
         "scuttle",
         "testthat",
         "tidygraph",
@@ -8081,7 +8075,6 @@
         "nloptr",
         "pbkrtest",
         "scater",
-        "sctransform",
         "scuttle",
         "testthat",
         "variancePartition",
@@ -8267,8 +8260,7 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "plotly",
-        "sctransform"
+        "plotly"
     ],
     "nempi": [
         "Linnorm",
@@ -9179,7 +9171,6 @@
         "plotly",
         "scater",
         "scran",
-        "sctransform",
         "scuttle",
         "viridis"
     ],
@@ -10803,8 +10794,7 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "plotly",
-        "sctransform"
+        "plotly"
     ],
     "SCAN.UPC": [
         "AnnotationDbi",
@@ -10844,8 +10834,7 @@
         "ggrepel",
         "interactiveDisplayBase",
         "plotly",
-        "recipes",
-        "sctransform"
+        "recipes"
     ],
     "SCANVIS": [
         "GenomicAlignments",
@@ -10881,7 +10870,6 @@
         "geneplotter",
         "ggrepel",
         "plotly",
-        "sctransform",
         "zinbwave"
     ],
     "scBubbletree": [
@@ -10890,7 +10878,6 @@
         "ggrepel",
         "ggtree",
         "plotly",
-        "sctransform",
         "tidytree",
         "treeio"
     ],
@@ -10900,7 +10887,6 @@
         "SingleCellExperiment",
         "ggrepel",
         "plotly",
-        "sctransform",
         "scuttle"
     ],
     "scClassify": [
@@ -10926,8 +10912,7 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "plotly",
-        "sctransform"
+        "plotly"
     ],
     "scDblFinder": [
         "GenomicAlignments",
@@ -10975,8 +10960,7 @@
         "SingleCellExperiment",
         "ggforce",
         "ggrepel",
-        "plotly",
-        "sctransform"
+        "plotly"
     ],
     "scHOT": [
         "SingleCellExperiment",
@@ -10988,8 +10972,7 @@
     "scMAGeCK": [
         "Seurat",
         "ggrepel",
-        "plotly",
-        "sctransform"
+        "plotly"
     ],
     "scmap": [
         "SingleCellExperiment"
@@ -11169,7 +11152,6 @@
         "reactome.db",
         "scatterpie",
         "schex",
-        "sctransform",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -11190,7 +11172,6 @@
         "nnTensor",
         "plotly",
         "schex",
-        "sctransform",
         "viridis"
     ],
     "scTreeViz": [
@@ -11215,7 +11196,6 @@
         "rtracklayer",
         "scater",
         "scran",
-        "sctransform",
         "scuttle",
         "tidygraph",
         "viridis"
@@ -11602,7 +11582,6 @@
         "scater",
         "scds",
         "scran",
-        "sctransform",
         "scuttle",
         "sva",
         "tidytree",
@@ -11767,7 +11746,6 @@
         "plotly",
         "scater",
         "scran",
-        "sctransform",
         "scuttle",
         "viridis"
     ],
@@ -12005,7 +11983,6 @@
         "SpatialExperiment",
         "ggrepel",
         "plotly",
-        "sctransform",
         "scuttle",
         "viridis"
     ],
@@ -12146,7 +12123,6 @@
         "SpatialExperiment",
         "ggrepel",
         "plotly",
-        "sctransform",
         "scuttle"
     ],
     "strandCheckR": [
@@ -13496,8 +13472,7 @@
     ],
     "Seurat": [
         "ggrepel",
-        "plotly",
-        "sctransform"
+        "plotly"
     ],
     "org.Hs.eg.db": [
         "AnnotationDbi"
@@ -13505,7 +13480,6 @@
     "org.Mm.eg.db": [
         "AnnotationDbi"
     ],
-    "sctransform": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "GenomicAlignments",
@@ -14707,8 +14681,7 @@
     "SoupX": [
         "Seurat",
         "ggrepel",
-        "plotly",
-        "sctransform"
+        "plotly"
     ],
     "scRNAseq": [
         "AnnotationDbi",
