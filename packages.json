@@ -132,7 +132,6 @@
     ],
     "ChIPexoQual": [],
     "ChIPQC": [],
-    "ChIPseeker": [],
     "ChromSCape": [
         "qs"
     ],
@@ -275,9 +274,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "EpiCompare": [
-        "ChIPseeker"
-    ],
+    "EpiCompare": [],
     "epidecodeR": [
         "ggpubr",
         "rstatix"
@@ -303,9 +300,7 @@
         "epivizr"
     ],
     "erma": [],
-    "esATAC": [
-        "ChIPseeker"
-    ],
+    "esATAC": [],
     "EWCE": [
         "ggpubr",
         "orthogene",
@@ -707,9 +702,7 @@
     "primirTSS": [
         "Gviz"
     ],
-    "profileplyr": [
-        "ChIPseeker"
-    ],
+    "profileplyr": [],
     "proteasy": [],
     "protGear": [
         "factoextra",
@@ -835,9 +828,7 @@
     "scTreeViz": [
         "epivizr"
     ],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "selectKSigs": [],
     "shinyepico": [],
     "shinyMethyl": [
