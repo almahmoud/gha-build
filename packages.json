@@ -869,7 +869,6 @@
         "enrichplot",
         "motifmatchr"
     ],
-    "escape": [],
     "EventPointer": [
         "SGSeq"
     ],
