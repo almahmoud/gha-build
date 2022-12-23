@@ -539,9 +539,7 @@
     "cbpManager": [
         "basilisk"
     ],
-    "CCPROMISE": [
-        "PROMISE"
-    ],
+    "CCPROMISE": [],
     "celda": [
         "scater",
         "viridis"
@@ -3318,7 +3316,6 @@
         "viridis",
         "vsn"
     ],
-    "PROMISE": [],
     "PROPS": [
         "sva"
     ],
