@@ -68,8 +68,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ACE": [
         "Biostrings",
@@ -124,8 +123,7 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ADAMgui": [
         "ADAM",
@@ -171,7 +169,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "adductomicsR": [
@@ -205,8 +202,7 @@
         "shiny",
         "smoother",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ADImpute": [
         "DelayedArray",
@@ -239,8 +235,7 @@
         "dplyr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "AffyCompatible": [
         "Biostrings",
@@ -306,7 +301,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "affyILM": [
@@ -411,7 +405,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "AIMS": [],
@@ -439,7 +432,6 @@
         "scuttle",
         "smurf",
         "tibble",
-        "tidyselect",
         "uwot",
         "viridis"
     ],
@@ -473,8 +465,7 @@
         "shinydashboard",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "AllelicImbalance": [
         "AnnotationDbi",
@@ -515,7 +506,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "AlphaBeta": [
@@ -532,8 +522,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "alpine": [
         "AnnotationDbi",
@@ -557,8 +546,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "AlpsNMR": [
         "RSpectra",
@@ -584,8 +572,7 @@
         "speaq",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "altcdfenvs": [
         "Biostrings",
@@ -631,7 +618,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "amplican": [
@@ -656,7 +642,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "waffle"
     ],
     "Anaquin": [
@@ -733,7 +718,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "uwot",
@@ -809,7 +793,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "umap"
     ],
     "annaffy": [
@@ -889,8 +872,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "AnnotationHubData": [
         "AnnotationDbi",
@@ -928,8 +910,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "annotatr": [
         "AnnotationDbi",
@@ -970,7 +951,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "anota": [
@@ -1019,8 +999,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "AnVILBilling": [
         "DT",
@@ -1043,8 +1022,7 @@
         "shinytoastr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "AnVILPublish": [
         "AnVIL",
@@ -1067,7 +1045,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "APAlyzer": [
@@ -1102,8 +1079,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "apComplex": [
         "AnnotationDbi",
@@ -1165,7 +1141,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topGO",
         "uwot"
     ],
@@ -1223,8 +1198,7 @@
         "shiny",
         "shinyjs",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "aroma.light": [],
     "ArrayExpress": [
@@ -1270,7 +1244,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "arrayMvout": [
@@ -1318,7 +1291,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "arrayQualityMetrics": [
@@ -1384,7 +1356,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "ASICS": [
@@ -1413,8 +1384,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ASpediaFI": [
         "AnnotationDbi",
@@ -1467,7 +1437,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -1516,7 +1485,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "AssessORF": [
@@ -1636,7 +1604,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidyverse",
         "viridis",
         "vroom"
@@ -1694,7 +1661,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "ATACseqTFEA": [
@@ -1726,7 +1692,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "atena": [
@@ -1758,8 +1723,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "atSNP": [
         "AnnotationDbi",
@@ -1799,7 +1763,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "vroom",
         "waldo"
     ],
@@ -1850,8 +1813,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "autonomics": [
         "BiocFileCache",
@@ -1878,8 +1840,7 @@
         "readxl",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "AWFisher": [],
     "awst": [
@@ -1913,7 +1874,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "bacon": [
@@ -1944,8 +1904,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ballgown": [
         "AnnotationDbi",
@@ -1989,8 +1948,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "bamsignals": [
         "GenomeInfoDb",
@@ -2061,7 +2019,6 @@
         "threejs",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vsn"
     ],
@@ -2091,7 +2048,6 @@
         "shiny",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "basecallQC": [
@@ -2120,8 +2076,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "Basic4Cseq": [
         "BSgenome",
@@ -2267,7 +2222,6 @@
         "sva",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "webshot"
     ],
@@ -2300,7 +2254,6 @@
         "scran",
         "scuttle",
         "tibble",
-        "tidyselect",
         "uwot",
         "viridis"
     ],
@@ -2342,8 +2295,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "BCRANK": [
         "Biostrings",
@@ -2428,8 +2380,7 @@
         "dplyr",
         "httr",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "benchdamic": [
         "ALDEx2",
@@ -2520,7 +2471,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytext",
         "tidytree",
         "treeio",
@@ -2553,8 +2503,7 @@
         "rtracklayer",
         "sjmisc",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "BgeeDB": [
         "AnnotationDbi",
@@ -2569,7 +2518,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topGO"
     ],
     "bgx": [
@@ -2646,7 +2594,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "wateRmelon"
     ],
@@ -2681,7 +2628,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "BindingSiteFinder": [
@@ -2725,7 +2671,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis"
     ],
@@ -2749,8 +2694,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "biobtreeR": [
         "httpuv",
@@ -2826,7 +2770,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -2846,7 +2789,6 @@
         "progress",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "BiocFHIR": [
@@ -2864,7 +2806,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "visNetwork"
     ],
     "BiocFileCache": [
@@ -2873,8 +2814,7 @@
         "dplyr",
         "httr",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "biocGraph": [
         "AnnotationDbi",
@@ -2945,7 +2885,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "BioCor": [
@@ -2981,7 +2920,6 @@
         "selectr",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "BiocSet": [
@@ -2995,8 +2933,7 @@
         "httr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "BiocSingular": [
         "DelayedArray",
@@ -3054,7 +2991,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "biodbChebi": [
@@ -3070,7 +3006,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "biodbExpasy": [
@@ -3086,7 +3021,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "biodbHmdb": [
@@ -3102,7 +3036,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "biodbKegg": [
@@ -3118,7 +3051,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "biodbLipidmaps": [
@@ -3134,7 +3066,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "biodbMirbase": [
@@ -3150,7 +3081,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "biodbNcbi": [
@@ -3166,7 +3096,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "biodbNci": [
@@ -3182,7 +3111,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "biodbUniprot": [
@@ -3198,7 +3126,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "biomaRt": [
@@ -3215,8 +3142,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "biomformat": [],
     "BioMM": [
@@ -3292,7 +3218,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "BioNAR": [
@@ -3335,7 +3260,6 @@
         "synaptome.data",
         "synaptome.db",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "BioNERO": [
@@ -3378,7 +3302,6 @@
         "stringr",
         "sva",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "BioNet": [
@@ -3444,8 +3367,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "Biostrings": [
         "GenomeInfoDb",
@@ -3484,8 +3406,7 @@
         "np",
         "quantreg",
         "superheat",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "biovizBase": [
         "AnnotationDbi",
@@ -3524,7 +3445,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "biscuiteer": [
@@ -3587,7 +3507,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "BiSeq": [
@@ -3642,7 +3561,6 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "blima": [
@@ -3713,7 +3631,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "bluster": [
@@ -3817,7 +3734,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis"
     ],
@@ -3842,8 +3758,7 @@
         "ggplot2",
         "purrr",
         "rtracklayer",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "BPRMeth": [
         "BiocStyle",
@@ -3926,7 +3841,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "BrainSABER": [
@@ -3951,8 +3865,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "branchpointer": [
         "AnnotationDbi",
@@ -3988,8 +3901,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "breakpointR": [
         "Biostrings",
@@ -4013,8 +3925,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "BRGenomics": [
         "AnnotationDbi",
@@ -4105,7 +4016,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "bugsigdbr": [
@@ -4117,7 +4027,6 @@
         "progress",
         "purrr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "BUMHMM": [
@@ -4176,8 +4085,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "BumpyMatrix": [],
     "BUScorrect": [
@@ -4215,8 +4123,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "BUSseq": [
         "DelayedArray",
@@ -4278,7 +4185,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "CAGEfightR": [
@@ -4324,7 +4230,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "cageminer": [
@@ -4389,7 +4294,6 @@
         "sva",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "CAGEr": [
@@ -4411,8 +4315,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "CAMERA": [
         "DelayedArray",
@@ -4474,7 +4377,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "CancerInSilico": [],
@@ -4518,7 +4420,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "vcfR"
@@ -4545,7 +4446,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "casper": [
@@ -4571,8 +4471,7 @@
         "rtracklayer",
         "sqldf",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CATALYST": [
         "BiocNeighbors",
@@ -4620,7 +4519,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "uwot",
         "viridis",
@@ -4705,7 +4603,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "CBEA": [
@@ -4737,7 +4634,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -4785,7 +4681,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "cbpManager": [
@@ -4808,7 +4703,6 @@
         "shinydashboard",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "ccfindR": [
@@ -4859,7 +4753,6 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "celda": [
@@ -4903,8 +4796,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "CellBarcode": [
         "Biostrings",
@@ -4933,8 +4825,7 @@
         "httr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "CellBench": [
         "BiocFileCache",
@@ -4950,8 +4841,7 @@
         "httr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "cellHTS2": [
         "AnnotationDbi",
@@ -5016,7 +4906,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "umap",
         "uwot",
         "viridis"
@@ -5065,7 +4954,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -5093,7 +4981,6 @@
         "scuttle",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot",
         "viridis"
     ],
@@ -5115,8 +5002,7 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CellTrails": [
         "DelayedArray",
@@ -5159,8 +5045,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CEMiTool": [
         "AnnotationDbi",
@@ -5219,7 +5104,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -5265,7 +5149,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "waldo"
     ],
@@ -5290,8 +5173,7 @@
         "patchwork",
         "reshape2",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ceRNAnetsim": [
         "dplyr",
@@ -5304,7 +5186,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis"
     ],
@@ -5378,7 +5259,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -5404,7 +5284,6 @@
         "seqPattern",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "cfDNAPro": [
@@ -5423,8 +5302,7 @@
         "quantmod",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CGEN": [],
     "CGHcall": [],
@@ -5532,7 +5410,6 @@
         "sva",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom",
         "wateRmelon"
@@ -5575,7 +5452,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "ChIC": [
@@ -5600,8 +5476,7 @@
         "spp",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "Chicago": [
         "Hmisc",
@@ -5663,7 +5538,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "ChIPanalyser": [
@@ -5730,7 +5604,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -5774,7 +5647,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "ChIPpeakAnno": [
@@ -5807,8 +5679,7 @@
         "regioneR",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ChIPQC": [
         "AnnotationDbi",
@@ -5860,8 +5731,7 @@
         "sass",
         "stringr",
         "systemPipeR",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ChIPseeker": [
         "AnnotationDbi",
@@ -5910,7 +5780,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -5974,7 +5843,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "chopsticks": [],
@@ -6015,8 +5883,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ChromSCape": [
         "BiocNeighbors",
@@ -6080,7 +5947,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "umap",
         "uwot",
         "viridis",
@@ -6119,8 +5985,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "chromVAR": [
         "AnnotationDbi",
@@ -6162,7 +6027,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "CHRONOS": [
@@ -6180,8 +6044,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cicero": [
         "AnnotationDbi",
@@ -6226,7 +6089,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "CIMICE": [
@@ -6249,7 +6111,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis",
         "visNetwork"
@@ -6260,8 +6121,7 @@
         "XVector",
         "dplyr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "circRNAprofiler": [
         "AnnotationDbi",
@@ -6308,7 +6168,6 @@
         "snpStats",
         "stringr",
         "tibble",
-        "tidyselect",
         "universalmotif",
         "vroom"
     ],
@@ -6342,8 +6201,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "CiteFuse": [
         "BiocNeighbors",
@@ -6383,7 +6241,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "uwot",
         "viridis"
@@ -6405,8 +6262,7 @@
         "httr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "cleanUpdTSeq": [
         "BSgenome",
@@ -6462,8 +6318,7 @@
         "qpgraph",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cliProfiler": [
         "BSgenome",
@@ -6478,8 +6333,7 @@
         "dplyr",
         "ggplot2",
         "rtracklayer",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cliqueMS": [
         "DelayedArray",
@@ -6530,7 +6384,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vsn"
     ],
     "clusterExperiment": [
@@ -6567,7 +6420,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "zinbwave"
     ],
     "ClusterJudge": [
@@ -6611,7 +6463,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -6641,7 +6492,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "cmapR": [
@@ -6692,7 +6542,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "CNORdt": [
@@ -6794,7 +6643,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "CNVgears": [
@@ -6856,7 +6704,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "CNVMetrics": [
@@ -6923,8 +6770,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CoCiteStats": [
         "AnnotationDbi",
@@ -6958,8 +6804,7 @@
         "purrr",
         "rtracklayer",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "codelink": [
         "AnnotationDbi",
@@ -7008,7 +6853,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "vsn"
     ],
@@ -7048,7 +6892,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "usethis",
         "waldo"
     ],
@@ -7068,7 +6911,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -7100,8 +6942,7 @@
         "rtracklayer",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cola": [
         "ComplexHeatmap",
@@ -7152,7 +6993,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "combi": [
@@ -7211,7 +7051,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "coMethDMR": [
@@ -7257,7 +7096,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "compartmap": [
@@ -7293,8 +7131,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "compcodeR": [
         "ggplot2",
@@ -7345,7 +7182,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "topGO",
         "viridis"
     ],
@@ -7371,8 +7207,7 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ComPrAn": [
         "DT",
@@ -7400,7 +7235,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "conclus": [
@@ -7485,7 +7319,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -7534,7 +7367,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot",
         "viridis"
     ],
@@ -7605,7 +7437,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "consensusOV": [
@@ -7643,8 +7474,7 @@
         "purrr",
         "stringr",
         "survcomp",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "consensusSeekeR": [
         "Biostrings",
@@ -7701,8 +7531,7 @@
         "reshape2",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "conumee": [
         "AnnotationDbi",
@@ -7745,7 +7574,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "copynumber": [
@@ -7796,7 +7624,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "CopywriteR": [
@@ -7821,8 +7648,7 @@
         "ggplot2",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CoRegNet": [
         "bslib",
@@ -7859,7 +7685,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "visNetwork"
     ],
     "corral": [
@@ -7877,8 +7702,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "CORREP": [],
     "coseq": [
@@ -7943,7 +7767,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viper",
         "visNetwork",
         "vroom"
@@ -7955,8 +7778,7 @@
         "ggrepel",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "countsimQC": [
         "AnnotationDbi",
@@ -7985,8 +7807,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "CoverageView": [
         "Biostrings",
@@ -8035,8 +7856,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cqn": [
         "quantreg"
@@ -8075,7 +7895,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "crisprBwa": [
@@ -8094,7 +7913,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "crisprDesign": [
@@ -8139,7 +7957,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "crisprScore": [
@@ -8168,8 +7985,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CRISPRseek": [
         "BSgenome",
@@ -8186,8 +8002,7 @@
         "rtracklayer",
         "tensorflow",
         "tfruns",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "crisprseekplus": [
         "AnnotationDbi",
@@ -8244,7 +8059,6 @@
         "tfruns",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "CrispRVariants": [
@@ -8318,7 +8132,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -8374,7 +8187,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -8430,7 +8242,6 @@
         "sva",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "CSAR": [
@@ -8494,8 +8305,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CTDquerier": [
         "BiocFileCache",
@@ -8506,8 +8316,7 @@
         "httr",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cTRAP": [
         "AnnotationDbi",
@@ -8548,8 +8357,7 @@
         "shinycssloaders",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ctsGE": [
         "bslib",
@@ -8585,8 +8393,7 @@
         "reshape2",
         "scuttle",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cummeRbund": [
         "AnnotationDbi",
@@ -8628,7 +8435,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "customCMPdb": [
@@ -8657,8 +8463,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "customProDB": [
         "AnnotationDbi",
@@ -8684,8 +8489,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cyanoFilter": [
         "DelayedArray",
@@ -8721,7 +8525,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -8747,8 +8550,7 @@
     "CytoDx": [
         "dplyr",
         "glmnet",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "CyTOFpower": [
         "ComplexHeatmap",
@@ -8807,7 +8609,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis",
         "waldo"
@@ -8851,7 +8652,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -8864,8 +8664,7 @@
         "XVector",
         "ashr",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cytomapper": [
         "BiocFileCache",
@@ -8901,7 +8700,6 @@
         "stringr",
         "svgPanZoom",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "cytoMEM": [],
@@ -8917,8 +8715,7 @@
         "latticeExtra",
         "ncdfFlow",
         "openCyto",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "dada2": [
         "Biostrings",
@@ -8976,7 +8773,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "DAMEfinder": [
@@ -9010,7 +8806,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "DaMiRseq": [
@@ -9078,7 +8873,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -9101,7 +8895,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vsn"
     ],
     "dasper": [
@@ -9151,7 +8944,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "usethis",
         "vroom",
         "waldo"
@@ -9222,7 +9014,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidyverse",
         "tweenr",
         "viridis",
@@ -9255,7 +9046,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -9267,8 +9057,7 @@
         "scattermore",
         "stringr",
         "survey",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "debCAM": [
         "DMwR2",
@@ -9287,7 +9076,6 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "debrowser": [
@@ -9360,7 +9148,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -9444,8 +9231,7 @@
         "readxl",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DeconRNASeq": [
         "ggplot2",
@@ -9504,7 +9290,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "waldo"
     ],
@@ -9514,8 +9299,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "DeepBlueR": [
         "Biostrings",
@@ -9535,8 +9319,7 @@
         "rtracklayer",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DeepPINCS": [
         "DiagrammeR",
@@ -9566,7 +9349,6 @@
         "tfruns",
         "tibble",
         "tidyr",
-        "tidyselect",
         "ttgsea",
         "viridis",
         "visNetwork",
@@ -9597,8 +9379,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DEFormats": [
         "AnnotationDbi",
@@ -9654,7 +9435,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "webshot"
     ],
@@ -9692,8 +9472,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "DEGseq": [
         "ggplot2",
@@ -9811,7 +9590,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tmvtnorm",
         "vroom",
         "vsn"
@@ -9828,7 +9606,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "DepInfeR": [
@@ -9879,7 +9656,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "derfinderHelper": [],
@@ -9933,7 +9709,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "DEScan2": [
@@ -9967,8 +9742,7 @@
         "regioneR",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DESeq2": [
         "AnnotationDbi",
@@ -10018,7 +9792,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "DEsubs": [
@@ -10082,7 +9855,6 @@
         "sva",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "DEXSeq": [
@@ -10109,8 +9881,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DIAlignR": [
         "RSQLite",
@@ -10118,8 +9889,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "DiffBind": [
         "AnnotationDbi",
@@ -10155,8 +9925,7 @@
         "sass",
         "stringr",
         "systemPipeR",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "diffcoexp": [
         "AnnotationDbi",
@@ -10221,7 +9990,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "waldo"
     ],
@@ -10291,8 +10059,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "diggit": [
         "bslib",
@@ -10310,7 +10077,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viper"
     ],
     "Dino": [
@@ -10357,15 +10123,13 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "Director": [],
     "DirichletMultinomial": [],
     "discordant": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DiscoRhythm": [
         "BiocStyle",
@@ -10410,7 +10174,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "webshot"
     ],
@@ -10481,7 +10244,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "DMCHMM": [
@@ -10577,7 +10339,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -10620,7 +10381,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "DMRScan": [
@@ -10674,7 +10434,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "DNABarcodeCompatibility": [
@@ -10682,8 +10441,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "DNAfusion": [
         "Biostrings",
@@ -10730,8 +10488,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "doppelgangR": [
         "AnnotationDbi",
@@ -10783,7 +10540,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vsn",
         "waldo"
     ],
@@ -10840,7 +10596,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "DRIMSeq": [
@@ -10890,8 +10645,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "DrugVsDisease": [
         "AnnotationDbi",
@@ -10926,7 +10680,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "DSS": [
@@ -10965,7 +10718,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr"
     ],
     "easier": [
@@ -11027,7 +10779,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viper",
         "waldo"
     ],
@@ -11071,7 +10822,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -11110,8 +10860,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "EBImage": [
         "bslib",
@@ -11177,8 +10926,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "edge": [
         "AnnotationDbi",
@@ -11250,7 +10998,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -11264,7 +11011,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "EGSEA": [
@@ -11322,7 +11068,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topGO"
     ],
     "eiR": [
@@ -11409,7 +11154,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom",
         "waldo"
@@ -11454,7 +11198,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "ENmix": [
@@ -11507,7 +11250,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "EnrichedHeatmap": [
@@ -11540,8 +11282,7 @@
         "pathview",
         "purrr",
         "safe",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "enrichplot": [
         "AnnotationDbi",
@@ -11577,7 +11318,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -11652,7 +11392,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -11684,8 +11423,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ensemblVEP": [
         "AnnotationDbi",
@@ -11711,8 +11449,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "epialleleR": [
         "AnnotationDbi",
@@ -11738,8 +11475,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "EpiCompare": [
         "AnnotationDbi",
@@ -11809,7 +11545,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -11848,7 +11583,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "EpiDISH": [
@@ -11911,7 +11645,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "epihet": [
@@ -11965,7 +11698,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -12012,7 +11744,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "epimutacions": [
@@ -12088,7 +11819,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -12158,8 +11888,7 @@
         "stringr",
         "tRNA",
         "tRNAdbImport",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "epivizr": [
         "AnnotationDbi",
@@ -12191,8 +11920,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "epivizrChart": [
         "AnnotationDbi",
@@ -12222,8 +11950,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "epivizrData": [
         "AnnotationDbi",
@@ -12252,8 +11979,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "epivizrServer": [
         "httpuv"
@@ -12289,8 +12015,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "erccdashboard": [
         "ggplot2",
@@ -12334,8 +12059,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ERSSA": [
         "AnnotationDbi",
@@ -12422,7 +12146,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -12463,8 +12186,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "esetVis": [
         "AnnotationDbi",
@@ -12506,7 +12228,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "webshot"
     ],
     "EventPointer": [
@@ -12543,8 +12264,7 @@
         "reshape2",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "EWCE": [
         "AnnotationDbi",
@@ -12607,7 +12327,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "vroom",
@@ -12658,8 +12377,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ExperimentHub": [
         "AnnotationDbi",
@@ -12685,8 +12403,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ExperimentHubData": [
         "AnnotationDbi",
@@ -12726,8 +12443,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ExperimentSubset": [
         "BiocFileCache",
@@ -12752,7 +12468,6 @@
         "scuttle",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -12775,8 +12490,7 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ExpressionAtlas": [
         "BiocStyle",
@@ -12846,7 +12560,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis"
     ],
@@ -12878,7 +12591,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "wiggleplotr"
     ],
@@ -12899,8 +12611,7 @@
         "stringr",
         "survey",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "famat": [
         "AnnotationDbi",
@@ -12955,7 +12666,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -12990,7 +12700,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "FastqCleaner": [
@@ -13058,7 +12767,6 @@
         "seqPattern",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "fCI": [
@@ -13118,7 +12826,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -13148,8 +12855,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "FEAST": [
         "DelayedArray",
@@ -13181,8 +12887,7 @@
         "purrr",
         "repr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "FELLA": [
         "Biostrings",
@@ -13236,7 +12941,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "fgga": [
@@ -13247,8 +12951,7 @@
         "gRbase",
         "httr",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "FGNet": [
         "reshape2",
@@ -13296,8 +12999,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "FISHalyseR": [
         "EBImage",
@@ -13410,7 +13112,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot",
         "viridis"
     ],
@@ -13451,8 +13152,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "flowCHIC": [
         "EBImage",
@@ -13496,7 +13196,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -13526,7 +13225,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -13582,7 +13280,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "FlowSOM": [
@@ -13609,7 +13306,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "waldo"
     ],
@@ -13632,13 +13328,11 @@
         "latticeExtra",
         "ncdfFlow",
         "rainbow",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "flowTime": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "flowTrans": [
         "flowClust",
@@ -13664,16 +13358,14 @@
         "latticeExtra",
         "ncdfFlow",
         "rainbow",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "flowWorkspace": [
         "DelayedArray",
         "dplyr",
         "ggplot2",
         "ncdfFlow",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "fmcsR": [
         "ChemmineR",
@@ -13711,7 +13403,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis",
         "vroom"
@@ -13730,7 +13421,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topGO"
     ],
     "FRASER": [
@@ -13779,7 +13469,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "webshot"
     ],
@@ -13800,7 +13489,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "FRGEpistasis": [
@@ -13881,7 +13569,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "FuseSOM": [
@@ -13916,7 +13603,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "GA4GHclient": [
@@ -13943,8 +13629,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GA4GHshiny": [
         "AnnotationDbi",
@@ -13983,8 +13668,7 @@
         "shinythemes",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "gage": [
         "AnnotationDbi",
@@ -14068,7 +13752,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -14088,8 +13771,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "gcapc": [
         "BSgenome",
@@ -14230,7 +13912,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -14265,8 +13946,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "gemma.R": [
         "DelayedArray",
@@ -14279,8 +13959,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "genbankr": [
         "AnnotationDbi",
@@ -14306,8 +13985,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GeneAccord": [
         "AnnotationDbi",
@@ -14344,7 +14022,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "geneAttribution": [
@@ -14370,8 +14047,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GeneBreak": [
         "Biostrings",
@@ -14414,8 +14090,7 @@
         "purrr",
         "stringr",
         "survcomp",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GeneGA": [],
     "GeneGeneInteR": [
@@ -14448,7 +14123,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "GeneMeta": [
@@ -14511,8 +14185,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "GeneStructureTools": [
         "AnnotationDbi",
@@ -14554,7 +14227,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "geNetClassifier": [],
@@ -14604,7 +14276,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tippy",
         "tweenr",
         "viridis",
@@ -14637,15 +14308,13 @@
         "rtracklayer",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GENIE3": [
         "dplyr",
         "reshape2",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "genomation": [
         "BSgenome",
@@ -14665,7 +14334,6 @@
         "seqPattern",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "GenomAutomorphism": [
@@ -14674,8 +14342,7 @@
         "GenomicRanges",
         "XVector",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GenomeInfoDb": [],
     "genomeIntervals": [
@@ -14687,7 +14354,6 @@
         "progress",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "GenomicAlignments": [
@@ -14708,7 +14374,6 @@
         "progress",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "GenomicDistributions": [
@@ -14723,8 +14388,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "GenomicFeatures": [
         "AnnotationDbi",
@@ -14747,8 +14411,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GenomicFiles": [
         "AnnotationDbi",
@@ -14774,8 +14437,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "genomicInstability": [
         "DelayedArray",
@@ -14797,8 +14459,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "GenomicInteractionNodes": [
         "AnnotationDbi",
@@ -14823,8 +14484,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GenomicInteractions": [
         "AnnotationDbi",
@@ -14866,7 +14526,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "GenomicOZone": [
@@ -14913,7 +14572,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "GenomicRanges": [
@@ -14947,8 +14605,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GenomicSuperSignature": [
         "BiocFileCache",
@@ -14989,7 +14646,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "GenomicTuples": [
@@ -15022,8 +14678,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GenProSeq": [
         "DeepPINCS",
@@ -15054,7 +14709,6 @@
         "tfruns",
         "tibble",
         "tidyr",
-        "tidyselect",
         "ttgsea",
         "viridis",
         "visNetwork",
@@ -15088,7 +14742,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "GeoDiff": [
@@ -15124,7 +14777,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "GEOexplorer": [
@@ -15175,7 +14827,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "umap",
         "viridis",
         "vroom",
@@ -15198,7 +14849,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "GeomxTools": [
@@ -15233,7 +14883,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "GEOquery": [
@@ -15243,7 +14892,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "gep2pep": [
@@ -15281,7 +14929,6 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyselect",
         "vsn"
     ],
     "getDEE2": [
@@ -15306,7 +14953,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "ggbio": [
@@ -15352,7 +14998,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "ggcyto": [
@@ -15361,8 +15006,7 @@
         "flowWorkspace",
         "ggplot2",
         "ncdfFlow",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ggmanh": [
         "Biostrings",
@@ -15402,7 +15046,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr"
@@ -15417,8 +15060,7 @@
         "purrr",
         "sna",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ggspavis": [
         "BiocFileCache",
@@ -15441,8 +15083,7 @@
         "httr",
         "purrr",
         "scuttle",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ggtree": [
         "aplot",
@@ -15454,7 +15095,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -15469,7 +15109,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -15485,7 +15124,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -15542,8 +15180,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "Glimma": [
         "AnnotationDbi",
@@ -15625,7 +15262,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "waldo"
     ],
@@ -15679,8 +15315,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GmicR": [
         "AnnotationDbi",
@@ -15723,7 +15358,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "gmoviz": [
@@ -15749,8 +15383,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GMRP": [
         "GenomeInfoDb",
@@ -15778,7 +15411,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "visNetwork",
         "vroom"
@@ -15799,8 +15431,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GOfuncR": [
         "AnnotationDbi",
@@ -15832,7 +15463,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "goProfiles": [
@@ -15880,8 +15510,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GOSim": [
         "AnnotationDbi",
@@ -15935,7 +15564,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -15957,8 +15585,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GOstats": [
         "AnnotationDbi",
@@ -16065,7 +15692,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topGO",
         "viridis",
         "vroom"
@@ -16086,8 +15712,7 @@
         "sf",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "graper": [
         "cowplot",
@@ -16164,7 +15789,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "groHMM": [
@@ -16253,8 +15877,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GSEAmining": [
         "dendextend",
@@ -16264,7 +15887,6 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyselect",
         "tidytext",
         "viridis"
     ],
@@ -16289,8 +15911,7 @@
         "purrr",
         "sqldf",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GSgalgoR": [],
     "GSReg": [
@@ -16320,8 +15941,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GSRI": [
         "AnnotationDbi",
@@ -16404,7 +16024,6 @@
         "tfruns",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "Guitar": [
@@ -16431,8 +16050,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Gviz": [
         "AnnotationDbi",
@@ -16472,7 +16090,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "GWAS.BAYES": [
@@ -16488,8 +16105,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "gwascat": [
         "AnnotationDbi",
@@ -16529,7 +16145,6 @@
         "snpStats",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "GWASTools": [
@@ -16543,8 +16158,7 @@
         "quantsmooth",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "gwasurvivr": [
         "AnnotationDbi",
@@ -16577,8 +16191,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "GWENA": [
         "AnnotationDbi",
@@ -16611,7 +16224,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "h5vc": [
@@ -16653,7 +16265,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "HDF5Array": [
@@ -16696,8 +16307,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "hermes": [
         "AnnotationDbi",
@@ -16728,8 +16338,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "HGC": [
         "dendextend",
@@ -16737,7 +16346,6 @@
         "ggplot2",
         "patchwork",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "hiAnnotator": [
@@ -16753,8 +16361,7 @@
         "dplyr",
         "ggplot2",
         "rtracklayer",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "HiCBricks": [
         "GenomeInfoDb",
@@ -16766,7 +16373,6 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -16783,8 +16389,7 @@
         "XVector",
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "HiCDCPlus": [
         "AnnotationDbi",
@@ -16828,7 +16433,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "HiCDOC": [
@@ -16875,7 +16479,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "HiContacts": [
@@ -16930,7 +16533,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -16975,8 +16577,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "hipathia": [
         "AnnotationDbi",
@@ -17011,8 +16612,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "HIPPO": [
         "DelayedArray",
@@ -17028,7 +16628,6 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyselect",
         "umap"
     ],
     "hiReadsProcessor": [
@@ -17048,8 +16647,7 @@
         "progress",
         "readxl",
         "rtracklayer",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "HiTC": [
         "Biostrings",
@@ -17065,8 +16663,7 @@
     "HPAanalyze": [
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "HPAStainR": [
         "bslib",
@@ -17077,8 +16674,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "HPiP": [
         "MCL",
@@ -17098,7 +16694,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "HTSeqGenie": [
@@ -17131,8 +16726,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "HTSFilter": [
         "AnnotationDbi",
@@ -17164,7 +16758,6 @@
         "stringr",
         "styler",
         "tibble",
-        "tidyselect",
         "tidytext",
         "usethis"
     ],
@@ -17216,7 +16809,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "tweenr",
         "visNetwork",
         "webshot"
@@ -17235,8 +16827,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "iBMQ": [
         "ggplot2",
@@ -17291,8 +16882,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "iCheck": [
         "AnnotationDbi",
@@ -17344,7 +16934,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "iCNV": [
@@ -17366,7 +16955,6 @@
         "rtracklayer",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "iCOBRA": [
@@ -17386,8 +16974,7 @@
         "shinyBS",
         "shinydashboard",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ideal": [
         "AnnotationDbi",
@@ -17450,7 +17037,6 @@
         "threejs",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topGO",
         "viridis",
         "webshot"
@@ -17482,8 +17068,7 @@
         "XVector",
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "idr2d": [
         "GenomeInfoDb",
@@ -17492,8 +17077,7 @@
         "dplyr",
         "ggplot2",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "IgGeneUsage": [
         "DelayedArray",
@@ -17535,8 +17119,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "illuminaio": [
         "base64"
@@ -17563,7 +17146,6 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyselect",
         "umap",
         "viridis"
     ],
@@ -17622,7 +17204,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "imcRtools": [
@@ -17673,7 +17254,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis",
         "vroom"
@@ -17710,7 +17290,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "webshot"
     ],
@@ -17727,7 +17306,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "INDEED": [
@@ -17797,7 +17375,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "infinityFlow": [
@@ -17836,7 +17413,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "INSPEcT": [
@@ -17870,8 +17446,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "InTAD": [
         "Biostrings",
@@ -17907,7 +17482,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "intansv": [
@@ -17954,7 +17528,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "interacCircos": [
@@ -18090,7 +17663,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "umap",
         "usethis",
         "viridis",
@@ -18126,8 +17698,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "InterMineR": [
         "Biostrings",
@@ -18163,8 +17734,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "iPAC": [
         "Biostrings",
@@ -18199,7 +17769,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "ipdDb": [
@@ -18227,8 +17796,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "IPO": [
         "CAMERA",
@@ -18347,7 +17915,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -18382,7 +17949,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "iSEE": [
@@ -18484,8 +18050,7 @@
         "shinydashboard",
         "shinyjs",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "iSEEu": [
         "ComplexHeatmap",
@@ -18541,8 +18106,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "IsoCorrectoR": [
         "cellranger",
@@ -18552,7 +18116,6 @@
         "readxl",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "IsoCorrectoRGUI": [
@@ -18564,7 +18127,6 @@
         "readxl",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "IsoformSwitchAnalyzeR": [
@@ -18614,7 +18176,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "tximeta",
         "vroom"
     ],
@@ -18649,7 +18210,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "ITALICS": [
@@ -18700,7 +18260,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "ivygapSE": [
@@ -18745,7 +18304,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "IWTomics": [
@@ -18799,7 +18357,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "katdetectr": [
@@ -18835,8 +18392,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "KCsmart": [
         "multtest",
@@ -18938,7 +18494,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -18977,7 +18532,6 @@
         "sva",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "LACE": [
@@ -19020,7 +18574,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "ldblock": [
@@ -19065,7 +18618,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "LineagePulse": [
@@ -19105,8 +18657,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "LinkHD": [
         "DelayedArray",
@@ -19144,7 +18695,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "waldo"
     ],
@@ -19177,7 +18727,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -19216,7 +18765,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tmvtnorm"
     ],
     "LiquidAssociation": [
@@ -19234,8 +18782,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "lisaClust": [
         "BiocFileCache",
@@ -19271,7 +18818,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "waldo"
     ],
@@ -19380,7 +18926,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "LRBaseDbi": [
@@ -19419,8 +18964,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "lumi": [
         "AnnotationDbi",
@@ -19465,7 +19009,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "LymphoSeq": [
@@ -19485,7 +19028,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -19557,8 +19099,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "Maaslin2": [
         "broom",
@@ -19583,7 +19124,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "Macarron": [
@@ -19630,7 +19170,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -19688,8 +19227,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "made4": [
         "DelayedArray",
@@ -19724,7 +19262,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vcfR"
     ],
     "maftools": [],
@@ -19782,7 +19319,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -19843,7 +19379,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -19894,7 +19429,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidyverse",
         "vroom"
     ],
@@ -19945,7 +19479,6 @@
         "styler",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom",
         "vsn",
@@ -19988,8 +19521,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "mapscape": [
         "bslib",
@@ -20007,8 +19539,7 @@
         "XVector",
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "martini": [
         "snpStats"
@@ -20055,7 +19586,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "maSigPro": [],
@@ -20112,7 +19642,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tmvtnorm",
         "umap",
         "viridis",
@@ -20144,7 +19673,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "matter": [],
@@ -20186,7 +19714,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "mbkmeans": [
@@ -20204,8 +19731,7 @@
         "ggplot2",
         "httr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "mbOmic": [
         "AnnotationDbi",
@@ -20252,8 +19778,7 @@
         "quantsmooth",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MBQN": [
         "BiocFileCache",
@@ -20275,8 +19800,7 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "MCbiclust": [
         "AnnotationDbi",
@@ -20307,7 +19831,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "mCSEA": [
@@ -20356,7 +19879,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "mdp": [
@@ -20446,7 +19968,6 @@
         "sva",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -20498,7 +20019,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "wateRmelon"
     ],
@@ -20531,8 +20051,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "MEDME": [
         "Biostrings",
@@ -20555,7 +20074,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "megadepth": [
@@ -20574,7 +20092,6 @@
         "rematch2",
         "testthat",
         "tibble",
-        "tidyselect",
         "usethis",
         "vroom",
         "waldo"
@@ -20629,7 +20146,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "universalmotif",
         "usethis",
         "vroom",
@@ -20693,7 +20209,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -20736,8 +20251,7 @@
         "httr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "messina": [
         "ggplot2",
@@ -20770,8 +20284,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MetaboAnnotation": [
         "AnnotationFilter",
@@ -20802,8 +20315,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
@@ -20822,8 +20334,7 @@
         "stringr",
         "struct",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "metabomxtr": [
         "ggplot2",
@@ -20883,7 +20394,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -20912,7 +20422,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "waldo"
     ],
@@ -20942,8 +20451,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "metagene2": [
         "Biostrings",
@@ -20960,8 +20468,7 @@
         "reshape2",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "metagenomeSeq": [
         "glmnet"
@@ -21003,8 +20510,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MetaPhOR": [
         "AnnotationDbi",
@@ -21051,7 +20557,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -21130,7 +20635,6 @@
         "survcomp",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vsn",
         "webshot"
@@ -21174,8 +20678,7 @@
         "reshape2",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "MetaVolcanoR": [
         "TFisher",
@@ -21201,7 +20704,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topconfects"
     ],
     "MetCirc": [
@@ -21318,7 +20820,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "waldo"
     ],
@@ -21386,7 +20887,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "methylCC": [
@@ -21433,7 +20933,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "methylclock": [
@@ -21533,7 +21032,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidyverse",
         "usethis",
         "vroom",
@@ -21615,7 +21113,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -21701,7 +21198,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "methylscaper": [
@@ -21797,7 +21293,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "MetID": [
@@ -21844,8 +21339,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "mfa": [
         "GGally",
@@ -21858,8 +21352,7 @@
         "purrr",
         "quantreg",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "Mfuzz": [],
     "MGFM": [
@@ -21888,8 +21381,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "mia": [
         "BiocNeighbors",
@@ -21922,7 +21414,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "uwot",
@@ -21941,7 +21432,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -21986,7 +21476,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -22006,8 +21495,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "microbiomeDASim": [
         "Biostrings",
@@ -22077,7 +21565,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom",
         "waldo",
@@ -22168,7 +21655,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "uwot",
@@ -22229,7 +21715,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -22262,7 +21747,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -22296,7 +21780,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "webshot"
     ],
     "MIGSA": [
@@ -22345,7 +21828,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis"
     ],
@@ -22373,7 +21855,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "mina": [
@@ -22453,7 +21934,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -22493,7 +21973,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "MinimumDistance": [
@@ -22615,7 +22094,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -22772,7 +22250,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "tidyverse",
         "tnet",
@@ -22874,7 +22351,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "tidyverse",
         "tnet",
@@ -22890,8 +22366,7 @@
         "purrr",
         "reshape2",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "missMethyl": [
         "AnnotationDbi",
@@ -22942,7 +22417,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "missRows": [
@@ -22956,8 +22430,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "mistyR": [
         "caret",
@@ -22976,7 +22449,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "mitch": [
@@ -22998,8 +22470,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "mitoClone2": [
         "AnnotationDbi",
@@ -23028,8 +22499,7 @@
         "reshape2",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "mixOmics": [
         "RSpectra",
@@ -23041,8 +22511,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MLInterfaces": [
         "AnnotationDbi",
@@ -23070,8 +22539,7 @@
         "shiny",
         "stringr",
         "threejs",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "MLP": [
         "AnnotationDbi",
@@ -23113,7 +22581,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "MMAPPR2": [
@@ -23144,8 +22611,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MMDiff2": [
         "BSgenome",
@@ -23190,7 +22656,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "mnem": [
@@ -23279,7 +22744,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "MOGAMUN": [
@@ -23323,7 +22787,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "monaLisa": [
@@ -23354,7 +22817,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "monocle": [
@@ -23364,7 +22826,6 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "MoonlightR": [
@@ -23424,7 +22885,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -23448,8 +22908,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MOSim": [
         "dplyr",
@@ -23457,8 +22916,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "Motif2Site": [
         "BSgenome",
@@ -23485,8 +22943,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "motifbreakR": [
         "AnnotationDbi",
@@ -23536,7 +22993,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -23582,7 +23038,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "motifStack": [
@@ -23616,7 +23071,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "MouseFM": [
@@ -23638,8 +23092,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MPFE": [],
     "mpra": [
@@ -23687,7 +23140,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "vroom",
         "waldo"
@@ -23706,8 +23158,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MsBackendMassbank": [
         "Spectra"
@@ -23744,8 +23195,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MsFeatures": [
         "DelayedArray",
@@ -23801,7 +23251,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "msImpute": [
@@ -23822,8 +23271,7 @@
         "scran",
         "scuttle",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "mslp": [
         "AnnotationDbi",
@@ -23894,7 +23342,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "vsn"
     ],
     "MSPrep": [
@@ -23928,7 +23375,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "msPurity": [
@@ -23939,8 +23385,7 @@
         "purrr",
         "reshape2",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "msqrob2": [
         "AnnotationFilter",
@@ -23969,7 +23414,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "MSstats": [
@@ -24038,7 +23482,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidyverse",
         "viridis",
         "vroom",
@@ -24064,7 +23507,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "MSstatsQC": [
@@ -24091,7 +23533,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vsn"
     ],
     "MSstatsQCgui": [
@@ -24119,7 +23560,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vsn"
     ],
     "MSstatsSampleSize": [
@@ -24142,7 +23582,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "MSstatsShiny": [
@@ -24180,7 +23619,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -24207,8 +23645,7 @@
         "dplyr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "Mulcom": [
         "fields",
@@ -24225,8 +23662,7 @@
         "dplyr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MultiBaC": [
         "DelayedArray",
@@ -24251,8 +23687,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "multiClust": [
         "dendextend",
@@ -24311,7 +23746,6 @@
         "tfruns",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "MultiDataSet": [
@@ -24346,8 +23780,7 @@
         "purrr",
         "quantreg",
         "sn",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "multiHiCcompare": [
         "Biostrings",
@@ -24363,8 +23796,7 @@
         "XVector",
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "multiMiR": [
         "AnnotationDbi",
@@ -24376,8 +23808,7 @@
         "dplyr",
         "httr",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "multiOmicsViz": [
         "DelayedArray",
@@ -24480,7 +23911,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -24534,8 +23964,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "muscat": [
         "AnnotationDbi",
@@ -24582,7 +24011,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot",
         "variancePartition",
         "viridis",
@@ -24674,7 +24102,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topicmodels",
         "uwot",
         "viridis",
@@ -24712,8 +24139,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MWASTools": [
         "Biostrings",
@@ -24743,7 +24169,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "mygene": [
@@ -24780,7 +24205,6 @@
         "sqldf",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "myvariant": [
@@ -24818,7 +24242,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "mzID": [],
@@ -24891,7 +24314,6 @@
         "sn",
         "stringr",
         "tibble",
-        "tidyselect",
         "trackViewer",
         "viridis",
         "vroom"
@@ -24930,7 +24352,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "NanoStringNCTools": [
@@ -25008,7 +24429,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidyverse",
         "vroom",
         "waldo"
@@ -25055,7 +24475,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "ncdfFlow": [],
@@ -25094,8 +24513,7 @@
         "httr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "nearBynding": [
         "AnnotationDbi",
@@ -25123,8 +24541,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Nebulosa": [
         "DelayedArray",
@@ -25162,7 +24579,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "nempi": [
@@ -25266,7 +24682,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -25290,8 +24705,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "nethet": [
         "ICS",
@@ -25332,14 +24746,12 @@
         "supraHex",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "netprioR": [
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "netresponse": [
         "BiocStyle",
@@ -25383,7 +24795,6 @@
         "seriation",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "netSmooth": [
@@ -25428,7 +24839,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot",
         "viridis",
         "zinbwave"
@@ -25488,7 +24898,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "yarn"
     ],
@@ -25501,8 +24910,7 @@
         "XVector",
         "keras",
         "tensorflow",
-        "tfruns",
-        "tidyselect"
+        "tfruns"
     ],
     "NewWave": [
         "BiocSingular",
@@ -25540,7 +24948,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "nnSVG": [
@@ -25563,8 +24970,7 @@
         "httr",
         "purrr",
         "scuttle",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "nondetects": [
         "arm",
@@ -25605,7 +25011,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "normalize450K": [
@@ -25650,7 +25055,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis",
         "vroom",
@@ -25690,8 +25094,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "npGSEA": [
         "AnnotationDbi",
@@ -25719,8 +25122,7 @@
         "ggplot2",
         "interp",
         "latticeExtra",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "nullranges": [
         "Biostrings",
@@ -25738,8 +25140,7 @@
         "plyranges",
         "progress",
         "rtracklayer",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "NxtIRFcore": [
         "AnnotationDbi",
@@ -25781,8 +25182,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "OCplus": [
         "interp",
@@ -25844,8 +25244,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ODER": [
         "AnnotationDbi",
@@ -25912,7 +25311,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "usethis",
         "viridis",
         "vroom",
@@ -25974,7 +25372,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "oligo": [
@@ -26023,7 +25420,6 @@
         "styler",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "yardstick"
     ],
@@ -26127,7 +25523,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tmvtnorm",
         "viridis",
         "waldo"
@@ -26201,7 +25596,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo",
         "webshot"
@@ -26217,8 +25611,7 @@
         "dplyr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "omicsViewer": [
         "DT",
@@ -26273,7 +25666,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "Omixer": [
@@ -26284,7 +25676,6 @@
         "readr",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "OmnipathR": [
@@ -26304,7 +25695,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "oncomix": [
@@ -26324,7 +25714,6 @@
         "progress",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "OncoScore": [
@@ -26342,8 +25731,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "OncoSimulR": [
         "broom",
@@ -26362,7 +25750,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "oneSENSE": [
@@ -26383,7 +25770,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "webshot"
     ],
     "onlineFDR": [
@@ -26417,8 +25803,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "openCyto": [
         "DelayedArray",
@@ -26430,8 +25815,7 @@
         "interp",
         "latticeExtra",
         "ncdfFlow",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "openPrimeR": [
         "Biostrings",
@@ -26455,7 +25839,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "openPrimeRui": [
@@ -26487,7 +25870,6 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "OpenStats": [
@@ -26519,7 +25901,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "unmarked",
         "viridis",
         "waldo"
@@ -26539,8 +25920,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "oppar": [
         "AnnotationDbi",
@@ -26602,8 +25982,7 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "OPWeight": [
         "ggplot2",
@@ -26657,7 +26036,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "Organism.dplyr": [
@@ -26683,8 +26061,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "OrganismDbi": [
         "AnnotationDbi",
@@ -26708,8 +26085,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "orthogene": [
         "DelayedArray",
@@ -26752,7 +26128,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "vroom",
@@ -26818,7 +26193,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "webshot"
     ],
@@ -26879,7 +26253,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "PADOG": [
@@ -26922,7 +26295,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "PAIRADISE": [
@@ -27011,7 +26383,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -27025,8 +26396,7 @@
         "rentrez",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "pareg": [
         "AnnotationDbi",
@@ -27064,7 +26434,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis",
         "waldo"
@@ -27088,8 +26457,7 @@
         "reshape2",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "PathoStat": [
         "AnnotationDbi",
@@ -27143,7 +26511,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "usethis",
         "waldo",
         "webshot"
@@ -27178,7 +26545,6 @@
         "progress",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "pcaExplorer": [
@@ -27232,7 +26598,6 @@
         "threejs",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topGO",
         "viridis",
         "webshot"
@@ -27324,7 +26689,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "verification",
         "viridis",
         "visNetwork",
@@ -27348,8 +26712,7 @@
         "flowWorkspace",
         "ggplot2",
         "ncdfFlow",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "peakPantheR": [
         "DT",
@@ -27496,7 +26859,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -27530,7 +26892,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "PharmacoGx": [
@@ -27565,13 +26926,11 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "visNetwork"
     ],
     "PhenoGeneRanker": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "phenomis": [
         "BiocFileCache",
@@ -27607,7 +26966,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "phenopath": [
@@ -27620,8 +26978,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "phenoTest": [
         "AnnotationDbi",
@@ -27656,7 +27013,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "PhenStat": [
@@ -27678,7 +27034,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "philr": [
@@ -27692,7 +27047,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -27708,8 +27062,7 @@
         "dplyr",
         "httr",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "PhosR": [
         "DelayedArray",
@@ -27748,7 +27101,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -27789,7 +27141,6 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tidyselect",
         "topGO"
     ],
     "phyloseq": [
@@ -27831,7 +27182,6 @@
         "supraHex",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "piano": [
@@ -27918,7 +27268,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -27968,7 +27317,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "pipeComp": [
@@ -28020,7 +27368,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot",
         "viridis"
     ],
@@ -28045,8 +27392,7 @@
     ],
     "planet": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "plethy": [
         "RSQLite",
@@ -28086,8 +27432,7 @@
         "plyranges",
         "purrr",
         "rtracklayer",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "plotGrouper": [
         "Hmisc",
@@ -28130,7 +27475,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom",
         "waldo"
@@ -28146,8 +27490,7 @@
         "XVector",
         "dplyr",
         "rtracklayer",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "pmm": [
         "lme4",
@@ -28187,7 +27530,6 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "podkat": [
@@ -28232,8 +27574,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "polyester": [
         "Biostrings",
@@ -28278,7 +27619,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "PoTRA": [
@@ -28327,8 +27667,7 @@
         "stringr",
         "tibble",
         "tidybayes",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "PPInfer": [
         "AnnotationDbi",
@@ -28350,8 +27689,7 @@
         "purrr",
         "sqldf",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "pqsfinder": [
         "Biostrings",
@@ -28436,8 +27774,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "PREDA": [
         "AnnotationDbi",
@@ -28507,7 +27844,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -28533,7 +27869,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tseries",
         "viridis",
         "vsn"
@@ -28564,8 +27899,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "proBAMr": [
         "AnnotationDbi",
@@ -28589,8 +27923,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "proBatch": [
         "AnnotationDbi",
@@ -28627,7 +27960,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vsn",
         "waldo"
@@ -28677,7 +28009,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vsn",
         "xcms"
     ],
@@ -28751,7 +28082,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -28767,8 +28097,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "projectR": [
         "CoGAPS",
@@ -28787,7 +28116,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "pRoloc": [
@@ -28837,7 +28165,6 @@
         "threejs",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vsn"
     ],
@@ -28898,7 +28225,6 @@
         "threejs",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vsn",
         "waiter"
@@ -28958,7 +28284,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vsn",
         "webshot"
     ],
@@ -28992,8 +28317,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ProteoDisco": [
         "AnnotationDbi",
@@ -29021,8 +28345,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ProteoMM": [
         "AnnotationDbi",
@@ -29041,8 +28364,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "protGear": [
         "AnnotationDbi",
@@ -29098,7 +28420,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom",
         "vsn",
@@ -29168,7 +28489,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -29194,8 +28514,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "psygenet2r": [
         "AnnotationDbi",
@@ -29218,7 +28537,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topGO"
     ],
     "ptairMS": [
@@ -29260,7 +28578,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vsn",
         "waldo"
@@ -29301,8 +28618,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "pvca": [
         "ggplot2",
@@ -29353,7 +28669,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "PWMEnrich": [
@@ -29390,8 +28705,7 @@
         "shiny",
         "sqldf",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "pwrEWAS": [
         "AnnotationDbi",
@@ -29424,16 +28738,14 @@
         "shinyBS",
         "shinyWidgets",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "qckitfastq": [
         "dplyr",
         "ggplot2",
         "reshape2",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "qcmetrics": [
         "knitr",
@@ -29468,8 +28780,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "qmtools": [
         "DelayedArray",
@@ -29506,7 +28817,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo",
         "webshot"
@@ -29534,8 +28844,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "qPLEXanalyzer": [
         "Biostrings",
@@ -29552,7 +28861,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "vsn"
     ],
@@ -29596,7 +28904,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -29678,8 +28985,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "quantro": [
         "AnnotationDbi",
@@ -29719,7 +29025,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "quantsmooth": [
@@ -29762,13 +29067,11 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "QuaternaryProd": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "QUBIC": [
         "biclust",
@@ -29776,8 +29079,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "qvalue": [
         "ggplot2",
@@ -29829,7 +29131,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "r3Cseq": [
@@ -29877,8 +29178,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "R4RNA": [
         "Biostrings",
@@ -29917,7 +29217,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "visNetwork"
     ],
     "RaggedExperiment": [
@@ -29963,8 +29262,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RandomWalkRestartMH": [
         "dnet",
@@ -29976,7 +29274,6 @@
         "supraHex",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "RAREsim": [
@@ -30026,8 +29323,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Rbec": [
         "Biostrings",
@@ -30048,7 +29344,6 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "Rbowtie2": [
@@ -30119,7 +29414,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "rcellminer": [
@@ -30164,8 +29458,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RcisTarget": [
         "AUCell",
@@ -30198,8 +29491,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "RCM": [
         "Biostrings",
@@ -30251,7 +29543,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "visNetwork",
         "vroom"
@@ -30279,7 +29570,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "visNetwork",
         "vroom"
@@ -30320,8 +29610,7 @@
         "sass",
         "shiny",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ReactomeGSA": [
         "dplyr",
@@ -30330,8 +29619,7 @@
         "progress",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ReactomePA": [
         "AnnotationDbi",
@@ -30371,7 +29659,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -30400,8 +29687,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "reconsi": [
         "Biostrings",
@@ -30461,7 +29747,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -30481,8 +29766,7 @@
         "httr",
         "purrr",
         "rtracklayer",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "recountmethylation": [
         "AnnotationDbi",
@@ -30522,7 +29806,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "recoup": [
@@ -30549,8 +29832,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RedisParam": [],
     "REDseq": [
@@ -30585,8 +29867,7 @@
         "regioneR",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RefPlus": [
         "Biostrings",
@@ -30634,7 +29915,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "regioneR": [
@@ -30719,7 +29999,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "regsplice": [
@@ -30779,7 +30058,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "REMP": [
@@ -30840,7 +30118,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "Repitools": [
@@ -30919,7 +30196,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "RepViz": [
@@ -30939,8 +30215,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ReQON": [
         "Biostrings",
@@ -31006,8 +30281,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rexposome": [
         "DT",
@@ -31042,7 +30316,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tmvtnorm",
         "viridis",
         "waldo"
@@ -31108,8 +30381,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RGMQL": [
         "Biostrings",
@@ -31123,8 +30395,7 @@
         "dplyr",
         "httr",
         "rtracklayer",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RgnTX": [
         "AnnotationDbi",
@@ -31152,13 +30423,11 @@
         "regioneR",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rgoslin": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rGREAT": [
         "AnnotationDbi",
@@ -31195,8 +30464,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rgsepd": [
         "AnnotationDbi",
@@ -31228,8 +30496,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rhdf5client": [
         "DelayedArray",
@@ -31258,8 +30525,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RiboCrypt": [
         "AnnotationDbi",
@@ -31301,7 +30567,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "RiboDiPA": [
@@ -31337,8 +30602,7 @@
         "rstan",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RiboProfiling": [
         "AnnotationDbi",
@@ -31385,7 +30649,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "ribor": [
@@ -31393,8 +30656,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "riboSeqR": [
         "Biostrings",
@@ -31450,7 +30712,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "rifi": [
@@ -31481,7 +30742,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "RImmPort": [
@@ -31490,8 +30750,7 @@
         "reshape2",
         "sqldf",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Ringo": [
         "AnnotationDbi",
@@ -31548,7 +30807,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "Risa": [
@@ -31600,7 +30858,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topGO"
     ],
     "RIVER": [
@@ -31679,7 +30936,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "valr",
         "vroom"
     ],
@@ -31706,7 +30962,6 @@
         "selectr",
         "stringr",
         "tibble",
-        "tidyselect",
         "vsn",
         "webchem"
     ],
@@ -31761,7 +31016,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "usethis",
         "waldo"
     ],
@@ -31825,7 +31079,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -31865,8 +31118,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "RNAinteract": [
         "AnnotationDbi",
@@ -31932,7 +31184,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "RNAmodR.AlkAnilineSeq": [
@@ -31977,7 +31228,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "RNAmodR.ML": [
@@ -32022,7 +31272,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "RNAmodR.RiboMethSeq": [
@@ -32067,7 +31316,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "RNAsense": [
@@ -32164,7 +31412,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -32233,7 +31480,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom",
         "waldo"
@@ -32282,7 +31528,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -32358,8 +31603,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ROSeq": [],
     "RPA": [
@@ -32408,8 +31652,7 @@
         "dplyr",
         "httr",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Rqc": [
         "AnnotationDbi",
@@ -32456,7 +31699,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "rqt": [
@@ -32499,7 +31741,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "rqubic": [
@@ -32508,8 +31749,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "rRDP": [
         "Biostrings",
@@ -32557,8 +31797,7 @@
     "rsemmed": [
         "dplyr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RSVSim": [
         "Biostrings",
@@ -32607,7 +31846,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -32642,7 +31880,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "RTN": [
@@ -32674,7 +31911,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viper",
         "waldo"
     ],
@@ -32708,7 +31944,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viper",
         "waldo"
     ],
@@ -32744,7 +31979,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viper",
         "waldo"
     ],
@@ -32756,8 +31990,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "rtracklayer": [
         "Biostrings",
@@ -32830,7 +32063,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "RUVcorr": [
@@ -32864,8 +32096,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "RVS": [
         "GENLIB",
@@ -32879,16 +32110,14 @@
         "snpStats",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "rWikiPathways": [
         "dplyr",
         "httr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "safe": [
         "AnnotationDbi",
@@ -32925,8 +32154,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sangeranalyseR": [
         "BiocStyle",
@@ -32960,8 +32188,7 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "sangerseqR": [
         "Biostrings",
@@ -33078,7 +32305,6 @@
         "tfruns",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "SCAN.UPC": [
@@ -33104,7 +32330,6 @@
         "sva",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "scanMiR": [
@@ -33164,7 +32389,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waiter"
     ],
     "scAnnotatR": [
@@ -33218,7 +32442,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "SCANVIS": [
@@ -33272,8 +32495,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "scater": [
         "BiocNeighbors",
@@ -33344,7 +32566,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot",
         "zinbwave"
     ],
@@ -33382,7 +32603,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "uwot"
@@ -33428,7 +32648,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "scClassify": [
@@ -33468,7 +32687,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis"
     ],
@@ -33494,7 +32712,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "scDataviz": [
@@ -33534,7 +32751,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "umap",
         "uwot"
     ],
@@ -33619,8 +32835,7 @@
         "SummarizedExperiment",
         "XVector",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SCFA": [
         "glmnet"
@@ -33628,8 +32843,7 @@
     "scFeatureFilter": [
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "scGPS": [
         "AnnotationDbi",
@@ -33659,8 +32873,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "schex": [
         "DelayedArray",
@@ -33702,7 +32915,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "uwot"
     ],
@@ -33716,7 +32928,6 @@
         "ggforce",
         "ggplot2",
         "tibble",
-        "tidyselect",
         "tweenr"
     ],
     "scifer": [
@@ -33740,7 +32951,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "webshot"
     ],
     "scMAGeCK": [
@@ -33773,7 +32983,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "scmap": [
@@ -33787,8 +32996,7 @@
         "ggplot2",
         "reshape2",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "scMerge": [
         "BiocSingular",
@@ -33843,7 +33051,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "scmeth": [
@@ -33890,7 +33097,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "SCnorm": [
@@ -33946,8 +33152,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "Sconify": [
         "dplyr",
@@ -33955,7 +33160,6 @@
         "progress",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "SCOPE": [
@@ -34003,8 +33207,7 @@
         "rtracklayer",
         "snpStats",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "scp": [
         "AnnotationFilter",
@@ -34029,8 +33232,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "scPCA": [
         "DelayedArray",
@@ -34041,8 +33243,7 @@
         "purrr",
         "sparsepca",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "scPipe": [
         "AnnotationDbi",
@@ -34085,7 +33286,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot",
         "viridis",
         "waldo"
@@ -34128,8 +33328,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "scRepertoire": [
         "DelayedArray",
@@ -34152,7 +33351,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis"
     ],
@@ -34203,7 +33401,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "scry": [
@@ -34306,7 +33503,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -34368,7 +33564,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "uwot",
         "viridis"
@@ -34445,7 +33640,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "uwot",
         "viridis"
@@ -34533,7 +33727,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -34584,8 +33777,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "SELEX": [
         "Biostrings",
@@ -34632,7 +33824,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "seqArchR": [
@@ -34683,8 +33874,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "seqCNA": [],
     "seqcombo": [
@@ -34720,8 +33910,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "seqPattern": [
         "Biostrings",
@@ -34780,8 +33969,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "SeqVarTools": [
         "Biostrings",
@@ -34796,8 +33984,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "sesame": [
         "AnnotationDbi",
@@ -34835,7 +34022,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "SEtools": [
@@ -34881,7 +34067,6 @@
         "readr",
         "rtracklayer",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "SGSeq": [
@@ -34906,8 +34091,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "shinyepico": [
         "AnnotationDbi",
@@ -34966,7 +34150,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom",
         "webshot"
@@ -35013,7 +34196,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "ShortRead": [
@@ -35088,8 +34270,7 @@
         "shiny",
         "stringr",
         "threejs",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sigFeature": [
         "DelayedArray",
@@ -35176,7 +34357,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -35250,7 +34430,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytidbits",
         "vroom",
         "waldo"
@@ -35332,7 +34511,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom",
         "waldo"
@@ -35361,8 +34539,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sigsquared": [],
     "SIM": [
@@ -35415,8 +34592,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "SIMD": [
         "methylMnM"
@@ -35428,8 +34604,7 @@
         "Rsamtools",
         "XVector",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SIMLR": [
         "RSpectra"
@@ -35469,7 +34644,6 @@
         "stringr",
         "svgPanZoom",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "simplifyEnrichment": [
@@ -35507,8 +34681,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "SingleCellExperiment": [
         "DelayedArray",
@@ -35663,7 +34836,6 @@
         "sva",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "uwot",
@@ -35699,8 +34871,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SingleR": [
         "BiocNeighbors",
@@ -35741,8 +34912,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "SISPA": [
         "AnnotationDbi",
@@ -35790,8 +34960,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sitePath": [
         "aplot",
@@ -35805,7 +34974,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -35857,7 +35025,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "wateRmelon"
     ],
@@ -35891,8 +35058,7 @@
         "dplyr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "SMITE": [
         "AnnotationDbi",
@@ -35933,7 +35099,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "snapCGH": [
@@ -36001,8 +35166,7 @@
         "reshape2",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "snpStats": [],
     "soGGi": [
@@ -36046,8 +35210,7 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "SomaticSignatures": [
         "AnnotationDbi",
@@ -36094,7 +35257,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "SpacePAC": [
@@ -36153,7 +35315,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot",
         "viridis"
     ],
@@ -36185,7 +35346,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "sparseDOSSA": [
@@ -36234,8 +35394,7 @@
         "purrr",
         "scuttle",
         "spatstat.random",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SpatialCPie": [
         "DelayedArray",
@@ -36264,7 +35423,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "vroom"
     ],
@@ -36289,8 +35447,7 @@
         "httr",
         "purrr",
         "scuttle",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SpatialDecon": [
         "Biostrings",
@@ -36327,7 +35484,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "SpatialExperiment": [
@@ -36348,8 +35504,7 @@
         "httr",
         "purrr",
         "scuttle",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SpatialFeatureExperiment": [
         "BiocFileCache",
@@ -36373,8 +35528,7 @@
         "scuttle",
         "sf",
         "spdep",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "spatialHeatmap": [
         "AnnotationDbi",
@@ -36430,7 +35584,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot",
         "viridis",
         "visNetwork"
@@ -36484,7 +35637,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis",
         "vroom"
     ],
@@ -36512,8 +35664,7 @@
         "XVector",
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SPEM": [],
     "SPIA": [
@@ -36563,7 +35714,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "umap",
         "vroom"
     ],
@@ -36600,7 +35750,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "waldo"
     ],
@@ -36707,7 +35856,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "webshot"
     ],
@@ -36740,8 +35888,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "splineTimeR": [
         "AnnotationDbi",
@@ -36794,7 +35941,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "SPONGE": [
@@ -36863,7 +36009,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidyverse",
         "tnet",
         "vroom",
@@ -36914,7 +36059,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot",
         "viridis"
     ],
@@ -36979,8 +36123,7 @@
         "dbplyr",
         "dplyr",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sRACIPE": [
         "DelayedArray",
@@ -37010,7 +36153,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "srnadiff": [
@@ -37072,7 +36214,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "usethis",
         "viridis",
         "waldo"
@@ -37107,7 +36248,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis"
     ],
@@ -37143,7 +36283,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "vroom"
     ],
@@ -37214,7 +36353,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "standR": [
@@ -37259,7 +36397,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "staRank": [
@@ -37345,7 +36482,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidyverse",
         "vroom"
     ],
@@ -37365,7 +36501,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topicmodels",
         "tweenr",
         "viridis"
@@ -37419,7 +36554,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "strandCheckR": [
@@ -37451,8 +36585,7 @@
         "rtracklayer",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "STRINGdb": [
         "RSQLite",
@@ -37518,8 +36651,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SubCellBarCode": [
         "AnnotationDbi",
@@ -37549,8 +36681,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "subSeq": [
         "dplyr",
@@ -37560,8 +36691,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "SUITOR": [
         "ggplot2",
@@ -37579,8 +36709,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "SummarizedExperiment": [
         "DelayedArray",
@@ -37616,8 +36745,7 @@
         "rsample",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "supraHex": [
         "dplyr",
@@ -37627,7 +36755,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "surfaltr": [
@@ -37651,7 +36778,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tidyselect",
         "vroom",
         "waldo"
     ],
@@ -37694,7 +36820,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "sva": [
@@ -37733,8 +36858,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "svaRetro": [
         "AnnotationDbi",
@@ -37761,8 +36885,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SWATH2stats": [
         "AnnotationDbi",
@@ -37781,8 +36904,7 @@
         "purrr",
         "reshape2",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SwathXtend": [
         "VennDiagram"
@@ -37796,8 +36918,7 @@
         "XVector",
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "synapsis": [
         "EBImage",
@@ -37827,7 +36948,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom",
         "vsn"
     ],
@@ -37888,7 +37008,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidyverse",
         "tweenr",
         "viridis",
@@ -37918,7 +37037,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "SynMut": [
@@ -38010,7 +37128,6 @@
         "styler",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "waiter"
     ],
@@ -38051,7 +37168,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -38089,7 +37205,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "tanggle": [
@@ -38103,7 +37218,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -38131,8 +37245,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "target": [
         "GenomeInfoDb",
@@ -38171,7 +37284,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "TarSeqQC": [
@@ -38242,8 +37354,7 @@
         "stringr",
         "sva",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "TCC": [
         "AnnotationDbi",
@@ -38291,7 +37402,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "TCGAbiolinksGUI": [
@@ -38405,7 +37515,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -38443,7 +37552,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "TCseq": [
@@ -38486,8 +37594,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TENxIO": [
         "DelayedArray",
@@ -38499,7 +37606,6 @@
         "progress",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "tenXplore": [
@@ -38540,8 +37646,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TEQC": [
         "Biostrings",
@@ -38594,7 +37699,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "TFARM": [
@@ -38632,7 +37736,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "TFEA.ChIP": [
@@ -38658,8 +37761,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TFHAZ": [
         "AnnotationDbi",
@@ -38693,7 +37795,6 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "TFutils": [
@@ -38727,8 +37828,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tidybulk": [
         "DelayedArray",
@@ -38743,7 +37843,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "tidySingleCellExperiment": [
@@ -38767,7 +37866,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "ttservice"
     ],
     "tidySummarizedExperiment": [
@@ -38789,8 +37887,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "tigre": [
         "AnnotationDbi",
@@ -38832,8 +37929,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "timescape": [
         "bslib",
@@ -38843,8 +37939,7 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TimiRGeN": [
         "AnnotationDbi",
@@ -38906,7 +38001,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -38960,8 +38054,7 @@
         "httr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "TitanCNA": [
         "AnnotationDbi",
@@ -38987,8 +38080,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tLOH": [
         "AnnotationDbi",
@@ -39032,7 +38124,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "visdat",
         "vroom"
@@ -39084,7 +38175,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "TnT": [
@@ -39113,8 +38203,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "tomoda": [
         "DelayedArray",
@@ -39153,7 +38242,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "topconfects": [
@@ -39211,7 +38299,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "visNetwork"
     ],
     "TPP": [
@@ -39228,8 +38315,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "TPP2D": [
         "dplyr",
@@ -39237,8 +38323,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "tracktables": [
         "Biostrings",
@@ -39289,7 +38374,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "tradeSeq": [
@@ -39343,7 +38427,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topGO"
     ],
     "transcriptR": [
@@ -39381,8 +38464,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "transformGamPoi": [
         "DelayedArray",
@@ -39404,8 +38486,7 @@
         "dplyr",
         "ggplot2",
         "ggseqlogo",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tRanslatome": [
         "AnnotationDbi",
@@ -39445,8 +38526,7 @@
         "httr",
         "purrr",
         "repr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TransView": [
         "GenomeInfoDb",
@@ -39504,7 +38584,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree"
     ],
     "treekoR": [
@@ -39553,7 +38632,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio",
         "tweenr",
@@ -39571,7 +38649,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytree",
         "treeio"
     ],
@@ -39625,7 +38702,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "Trendy": [
@@ -39669,8 +38745,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tricycle": [
         "AnnotationDbi",
@@ -39699,7 +38774,6 @@
         "scattermore",
         "scuttle",
         "tibble",
-        "tidyselect",
         "uwot",
         "viridis"
     ],
@@ -39758,7 +38832,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "usethis"
     ],
     "tRNA": [
@@ -39835,8 +38908,7 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ttgsea": [
         "DiagrammeR",
@@ -39863,7 +38935,6 @@
         "tfruns",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "visNetwork",
         "vroom"
@@ -39927,7 +38998,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "tweeDEseq": [
@@ -39964,8 +39034,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tximeta": [
         "AnnotationDbi",
@@ -40002,8 +39071,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "UCell": [
         "BiocNeighbors",
@@ -40059,8 +39127,7 @@
         "shinydashboard",
         "shinyjs",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "UMI4Cats": [
         "AnnotationDbi",
@@ -40102,8 +39169,7 @@
         "reshape2",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "uncoverappLib": [
         "AnnotationDbi",
@@ -40163,7 +39229,6 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "unifiedWMWqPCR": [],
@@ -40181,8 +39246,7 @@
         "httr",
         "progress",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Uniquorn": [
         "AnnotationDbi",
@@ -40208,8 +39272,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "universalmotif": [
         "Biostrings",
@@ -40227,7 +39290,6 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "VAExprs": [
@@ -40275,7 +39337,6 @@
         "tfruns",
         "tibble",
         "tidyr",
-        "tidyselect",
         "ttgsea",
         "uwot",
         "viridis",
@@ -40338,7 +39399,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "VariantAnnotation": [
@@ -40364,8 +39424,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "VariantExperiment": [
         "Biostrings",
@@ -40385,8 +39444,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "VariantFiltering": [
         "AnnotationDbi",
@@ -40438,7 +39496,6 @@
         "shinythemes",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "VariantTools": [
@@ -40465,8 +39522,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "VaSP": [
         "AnnotationDbi",
@@ -40512,8 +39568,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "VDJdive": [
         "DelayedArray",
@@ -40541,8 +39596,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "velociraptor": [
         "BiocSingular",
@@ -40567,8 +39621,7 @@
         "dplyr",
         "ggplot2",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "VERSO": [],
     "vidger": [
@@ -40598,8 +39651,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "viper": [
         "bslib",
@@ -40616,8 +39668,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ViSEAGO": [
         "AnnotationDbi",
@@ -40658,7 +39709,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "topGO",
         "viridis",
         "visNetwork",
@@ -40709,7 +39759,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis"
     ],
@@ -40742,8 +39791,7 @@
         "scuttle",
         "sf",
         "spdep",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "VplotR": [
         "Biostrings",
@@ -40778,8 +39826,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "vsn": [
         "ggplot2",
@@ -40824,7 +39871,6 @@
         "snpStats",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "vulcan": [
@@ -40882,7 +39928,6 @@
         "systemPipeR",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viper"
     ],
     "waddR": [
@@ -40907,7 +39952,6 @@
         "rematch2",
         "testthat",
         "tibble",
-        "tidyselect",
         "waldo"
     ],
     "wateRmelon": [
@@ -40957,7 +40001,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "wavClusteR": [
@@ -40993,7 +40036,6 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "webbioc": [
@@ -41028,7 +40070,6 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyselect",
         "topconfects"
     ],
     "wiggleplotr": [
@@ -41045,8 +40086,7 @@
         "ggplot2",
         "purrr",
         "rtracklayer",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "wpm": [
         "DT",
@@ -41077,7 +40117,6 @@
         "shinydashboard",
         "stringr",
         "tibble",
-        "tidyselect",
         "usethis"
     ],
     "wppi": [
@@ -41098,7 +40137,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "xcms": [
@@ -41125,8 +40163,7 @@
         "glmnet",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "XDE": [
         "AnnotationDbi",
@@ -41176,7 +40213,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "visNetwork"
     ],
     "XINA": [
@@ -41272,7 +40308,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "yarn": [
@@ -41314,7 +40349,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "zellkonverter": [
@@ -41366,7 +40400,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "variancePartition",
         "waldo"
     ],
@@ -41380,8 +40413,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "zinbwave": [
         "AnnotationDbi",
@@ -41460,8 +40492,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "stringr": [],
     "bookdown": [
@@ -41491,16 +40522,13 @@
     "tidyr": [
         "dplyr",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "dplyr": [
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "crosstalk": [],
     "purrr": [],
-    "tidyselect": [],
     "httpuv": [],
     "DT": [
         "bslib",
@@ -41536,7 +40564,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "ggsignif": [
@@ -41577,7 +40604,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "waldo": [
@@ -41589,8 +40615,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "car": [
         "broom",
@@ -41606,7 +40631,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "rematch2": [
@@ -41624,7 +40648,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "quantreg": [],
@@ -41666,8 +40689,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rvest": [
         "httr",
@@ -41685,8 +40707,7 @@
     "dbplyr": [
         "dplyr",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SAVER": [
         "glmnet"
@@ -41721,8 +40742,7 @@
         "progress",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "forcats": [
         "tibble"
@@ -41825,19 +40845,16 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "readr": [
         "progress",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "vroom": [
         "progress",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ggthemes": [
         "ggplot2",
@@ -41871,8 +40888,7 @@
         "dplyr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ReorderCluster": [],
     "caret": [
@@ -41887,8 +40903,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "rentrez": [
         "httr"
@@ -41921,8 +40936,7 @@
         "prodlim",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "modeest": [],
     "hardhat": [
@@ -42001,7 +41015,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "org.Hs.eg.db": [
@@ -42040,8 +41053,7 @@
         "ggplot2",
         "reshape2",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SeuratObject": [],
     "spatstat.explore": [
@@ -42082,8 +41094,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Homo.sapiens": [
         "AnnotationDbi",
@@ -42111,8 +41122,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
         "BSgenome",
@@ -42175,8 +41185,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
         "AnnotationDbi",
@@ -42211,8 +41220,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
         "AnnotationDbi",
@@ -42247,8 +41255,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "COSMIC.67": [
         "AnnotationDbi",
@@ -42274,8 +41281,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "PolyPhen.Hsapiens.dbSNP131": [
         "AnnotationDbi",
@@ -42301,8 +41307,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SIFT.Hsapiens.dbSNP137": [
         "AnnotationDbi",
@@ -42328,8 +41333,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
@@ -42355,8 +41359,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "base64": [],
     "UpSetR": [
@@ -42371,15 +41374,13 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "msm": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tidyverse": [
         "broom",
@@ -42411,7 +41412,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "Mus.musculus": [
@@ -42440,8 +41440,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "BSgenome.Mmusculus.UCSC.mm10": [
         "BSgenome",
@@ -42457,8 +41456,7 @@
     ],
     "babelgene": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [
         "AnnotationDbi",
@@ -42482,8 +41480,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "NMF": [
         "ggplot2",
@@ -42496,8 +41493,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "AnnotationDbi",
@@ -42521,13 +41517,11 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "dtplyr": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "googledrive": [
         "gargle",
@@ -42550,7 +41544,6 @@
         "progress",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "modelr": [
@@ -42559,8 +41552,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "reprex": [
         "bslib",
@@ -42593,8 +41585,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "assertive": [
         "assertive.data",
@@ -42620,7 +41611,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "pRolocdata": [
@@ -42641,8 +41631,7 @@
         "httpuv",
         "sass",
         "shiny",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "gbm": [],
     "threejs": [
@@ -42733,7 +41722,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "webshot"
     ],
@@ -42760,15 +41748,13 @@
         "phyloseq",
         "reshape2",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tidytext": [
         "dplyr",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "optimr": [],
     "detectseparation": [],
@@ -42776,8 +41762,7 @@
     "sjmisc": [
         "dplyr",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
@@ -42816,7 +41801,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "shinycssloaders": [
@@ -42828,7 +41812,6 @@
     "ggforce": [
         "ggplot2",
         "tibble",
-        "tidyselect",
         "tweenr"
     ],
     "tweenr": [],
@@ -42865,7 +41848,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "waldo"
     ],
@@ -42898,7 +41880,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "visNetwork",
         "vroom"
@@ -42915,8 +41896,7 @@
         "dplyr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "HDO.db": [
         "AnnotationDbi",
@@ -42949,7 +41929,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis"
     ],
@@ -42972,7 +41951,6 @@
         "purrr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr"
     ],
     "shadowtext": [
@@ -42983,8 +41961,7 @@
         "dplyr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ggfun": [
         "ggplot2",
@@ -43074,8 +42051,7 @@
         "shiny",
         "stringr",
         "synaptome.data",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "WGCNA": [
         "AnnotationDbi",
@@ -43124,8 +42100,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ggnetwork": [
         "ggplot2",
@@ -43163,8 +42138,7 @@
         "dplyr",
         "ggdendro",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "drtmle": [
         "SuperLearner",
@@ -43204,8 +42178,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "pasilla": [
         "AnnotationDbi",
@@ -43232,8 +42205,7 @@
         "progress",
         "purrr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "hgu133plus2.db": [
         "AnnotationDbi",
@@ -43312,7 +42284,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "viridis"
     ],
     "BSgenome.Hsapiens.UCSC.hg38": [
@@ -43395,8 +42366,7 @@
     "vcfR": [
         "dplyr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sqldf": [
         "RSQLite"
@@ -43418,7 +42388,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "IRkernel": [
@@ -43471,7 +42440,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "EnvStats": [
@@ -43485,15 +42453,13 @@
         "ggpp",
         "quantreg",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ggpp": [
         "dplyr",
         "ggplot2",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "broom.mixed": [
         "broom",
@@ -43503,8 +42469,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "mice": [
         "broom",
@@ -43512,8 +42477,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "furrr": [
         "purrr"
@@ -43567,7 +42531,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "IlluminaHumanMethylation450kmanifest": [
@@ -43607,7 +42570,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
@@ -43647,7 +42609,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "isva": [
@@ -43679,8 +42640,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ruv": [
         "ggplot2",
@@ -43704,8 +42664,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
@@ -43736,7 +42695,6 @@
         "readr",
         "rtracklayer",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "org.Dm.eg.db": [
@@ -43788,8 +42746,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [
         "AnnotationDbi",
@@ -43813,8 +42770,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [
         "AnnotationDbi",
@@ -43838,8 +42794,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TxDb.Celegans.UCSC.ce6.ensGene": [
         "AnnotationDbi",
@@ -43863,8 +42818,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [
         "AnnotationDbi",
@@ -43888,8 +42842,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ashr": [],
     "ChIPXpressData": [],
@@ -43981,8 +42934,7 @@
         "rncl",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ClusterR": [
         "ggplot2",
@@ -43993,8 +42945,7 @@
         "dplyr",
         "httr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rncl": [
         "progress"
@@ -44006,13 +42957,11 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "benchmarkmeData": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "cobs": [
         "quantreg"
@@ -44026,7 +42975,6 @@
         "readr",
         "readxl",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "factoextra": [
@@ -44060,7 +43008,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "waldo"
     ],
@@ -44082,8 +43029,7 @@
         "spatstat.random",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "spatstat": [
         "spatstat.explore",
@@ -44151,8 +43097,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "iC10": [
         "pamr"
@@ -44194,7 +43139,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "bench": [
@@ -44231,7 +43175,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viper"
     ],
     "crisprScoreData": [
@@ -44259,21 +43202,16 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "keras": [
         "tensorflow",
-        "tfruns",
-        "tidyselect"
+        "tfruns"
     ],
     "tensorflow": [
-        "tfruns",
-        "tidyselect"
+        "tfruns"
     ],
-    "tfruns": [
-        "tidyselect"
-    ],
+    "tfruns": [],
     "shinypanel": [
         "bslib",
         "httpuv",
@@ -44295,8 +43233,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "cytometree": [
         "cowplot",
@@ -44433,7 +43370,6 @@
         "quantmod",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "ggseqlogo": [
@@ -44463,8 +43399,7 @@
         "rvest",
         "selectr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "text2vec": [
         "mlapi",
@@ -44477,8 +43412,7 @@
         "syuzhet",
         "textclean",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "rsparse": [],
     "mlapi": [],
@@ -44487,8 +43421,7 @@
         "purrr",
         "syuzhet",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "textclean": [
         "dplyr",
@@ -44496,15 +43429,13 @@
         "purrr",
         "syuzhet",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "syuzhet": [
         "dplyr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "tseries": [
         "TTR",
@@ -44533,7 +43464,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "NBPSeq": [
@@ -44594,8 +43524,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "coin": [
         "TH.data",
@@ -44632,8 +43561,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "batchtools": [
         "progress"
@@ -44679,8 +43607,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "homologene": [
         "dplyr",
@@ -44688,7 +43615,6 @@
         "purrr",
         "readr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "gprofiler2": [
@@ -44705,8 +43631,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ComplexUpset": [
         "ggplot2",
@@ -44735,8 +43660,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "geepack": [
         "broom",
@@ -44744,8 +43668,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "fda": [
         "fds",
@@ -44802,7 +43725,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "FCPS": [
@@ -44848,7 +43770,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "survMisc": [
@@ -44866,8 +43787,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "bs4Dash": [
         "bslib",
@@ -44920,7 +43840,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "webshot"
     ],
@@ -44948,8 +43867,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "seqmagick": [
         "Biostrings",
@@ -44987,8 +43905,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "epiR": [
         "bslib",
@@ -45038,8 +43955,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "R2jags": [],
     "servr": [
@@ -45051,7 +43967,6 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyselect",
         "tidytext"
     ],
     "aws.s3": [
@@ -45070,8 +43985,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "AnnotationDbi",
@@ -45095,15 +44009,13 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "concaveman": [
         "classInt",
         "dplyr",
         "sf",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "Rlabkey": [
         "httr"
@@ -45172,7 +44084,6 @@
         "shinybusy",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "phosphoricons": [],
@@ -45265,8 +44176,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "chemometrics": [],
     "glmmTMB": [
@@ -45321,8 +44231,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "plsgenomics": [
         "fields",
@@ -45352,7 +44261,6 @@
         "styler",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "klaR": [
@@ -45374,7 +44282,6 @@
         "styler",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "questionr": [
@@ -45395,7 +44302,6 @@
         "styler",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "labelled": [
@@ -45408,7 +44314,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "clusterSim": [],
@@ -45460,8 +44365,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "rmdformats": [
         "bookdown",
@@ -45500,7 +44404,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "FlowSorted.Blood.450k": [
@@ -45540,7 +44443,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "methylclockData": [
@@ -45582,8 +44484,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "PerformanceAnalytics": [],
     "ggmcmc": [
@@ -45594,8 +44495,7 @@
         "progress",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "shinycustomloader": [
         "bslib",
@@ -45622,8 +44522,7 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "lumiHumanAll.db": [
         "AnnotationDbi",
@@ -45671,8 +44570,7 @@
         "ggplot2",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "BiBitR": [
         "biclust",
@@ -45684,7 +44582,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis"
     ],
     "subspace": [
@@ -45695,8 +44592,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "SOMbrero": [
         "bslib",
@@ -45739,7 +44635,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "waldo"
     ],
     "MetBrewer": [
@@ -45752,14 +44647,12 @@
         "purrr",
         "rearrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "rearrr": [
         "dplyr",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "echarts4r": [
         "broom",
@@ -45774,8 +44667,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MKmisc": [
         "ggplot2",
@@ -45884,7 +44776,6 @@
         "supraHex",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "BRISC": [],
@@ -45918,7 +44809,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "vroom",
         "waldo"
@@ -45963,8 +44853,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "octad.db": [
         "AnnotationDbi",
@@ -45991,8 +44880,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "diceR": [
         "NMF",
@@ -46018,15 +44906,13 @@
         "styler",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom",
         "yardstick"
     ],
     "yardstick": [
         "dplyr",
         "hardhat",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "OMICsPCAdata": [
         "DelayedArray",
@@ -46038,8 +44924,7 @@
         "dplyr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "flatxml": [
         "httr"
@@ -46062,8 +44947,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "unmarked": [
         "lme4",
@@ -46090,7 +44974,6 @@
         "readr",
         "stringr",
         "tibble",
-        "tidyselect",
         "vroom"
     ],
     "mRMRe": [],
@@ -46098,8 +44981,7 @@
     "tfprobability": [
         "keras",
         "tensorflow",
-        "tfruns",
-        "tidyselect"
+        "tfruns"
     ],
     "reportROC": [],
     "verification": [
@@ -46160,15 +45042,13 @@
         "posterior",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ggdist": [
         "distributional",
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "posterior": [
         "distributional",
@@ -46212,8 +45092,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "forecast": [
         "TTR",
@@ -46254,8 +45133,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "EnsDb.Rnorvegicus.v79": [
         "AnnotationDbi",
@@ -46281,8 +45159,7 @@
         "purrr",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "pairsD3": [
         "bslib",
@@ -46325,8 +45202,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "ExtDist": [],
     "phastCons100way.UCSC.hg19": [
@@ -46362,12 +45238,10 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "arrow": [
-        "purrr",
-        "tidyselect"
+        "purrr"
     ],
     "neo4r": [
         "bslib",
@@ -46378,8 +45252,7 @@
         "sass",
         "shiny",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
@@ -46440,8 +45313,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "valr": [
         "Biostrings",
@@ -46462,7 +45334,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "caretEnsemble": [
@@ -46478,8 +45349,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "ggprism": [
         "ggplot2",
@@ -46510,8 +45380,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "readJDX": [
         "stringr"
@@ -46606,8 +45475,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "sparsepca": [],
     "origami": [],
@@ -46615,8 +45483,7 @@
     "ggvenn": [
         "dplyr",
         "ggplot2",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "nnTensor": [
         "fields",
@@ -46640,7 +45507,6 @@
         "tibble",
         "tidygraph",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "viridis"
     ],
@@ -46655,8 +45521,7 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "gistr": [
         "bslib",
@@ -46666,8 +45531,7 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "mlr3": [
         "paradox"
@@ -46713,7 +45577,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tidytidbits",
         "waldo"
     ],
@@ -46723,15 +45586,13 @@
         "purrr",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "DGEobj.utils": [
         "DGEobj",
         "dplyr",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "openair": [
         "dplyr",
@@ -46742,7 +45603,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "DGEobj": [
@@ -46777,8 +45637,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "GSVAdata": [
         "AnnotationDbi",
@@ -46823,7 +45682,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "uwot"
     ],
     "scRNAseq": [
@@ -46863,8 +45721,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "TENxPBMCData": [
         "AnnotationDbi",
@@ -46896,8 +45753,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "hgu95a.db": [
         "AnnotationDbi",
@@ -46963,7 +45819,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "vroom"
     ],
@@ -46987,7 +45842,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "tweenr",
         "vroom"
     ],
@@ -46999,8 +45853,7 @@
         "dplyr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "MLmetrics": [],
     "rsample": [
@@ -47008,8 +45861,7 @@
         "furrr",
         "purrr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "clustvarsel": [
         "BMA"
@@ -47069,8 +45921,7 @@
     "GenKern": [],
     "ttservice": [
         "dplyr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "tiledb": [],
     "FreqProf": [
@@ -47088,8 +45939,7 @@
         "ggplot2",
         "ggrepel",
         "purrr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "bestNormalize": [
         "LambertW",
@@ -47106,8 +45956,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "tidyr",
-        "tidyselect"
+        "tidyr"
     ],
     "naniar": [
         "UpSetR",
@@ -47119,7 +45968,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "viridis",
         "visdat",
         "vroom"
@@ -47142,7 +45990,6 @@
         "readr",
         "tibble",
         "tidyr",
-        "tidyselect",
         "vroom"
     ],
     "animation": [],
@@ -47179,8 +46026,7 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "shinyTree": [
         "bslib",
@@ -47221,8 +46067,7 @@
         "sass",
         "shiny",
         "stringr",
-        "tibble",
-        "tidyselect"
+        "tibble"
     ],
     "eva": [
         "EnvStats",
