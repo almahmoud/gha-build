@@ -1680,7 +1680,6 @@
     ],
     "cTRAP": [
         "AnnotationHub",
-        "highcharter",
         "interactiveDisplayBase",
         "qs"
     ],
@@ -1797,8 +1796,7 @@
         "sva"
     ],
     "DAPAR": [
-        "DAPARdata",
-        "highcharter"
+        "DAPARdata"
     ],
     "dasper": [
         "GenomicFeatures",
@@ -5753,8 +5751,7 @@
     ],
     "Prostar": [
         "DAPAR",
-        "DAPARdata",
-        "highcharter"
+        "DAPARdata"
     ],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
@@ -5796,7 +5793,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "highcharter",
         "interactiveDisplayBase",
         "recount",
         "rtracklayer"
@@ -8437,7 +8433,6 @@
         "interactiveDisplayBase"
     ],
     "shinypanel": [],
-    "highcharter": [],
     "RFOC": [
         "GEOmap",
         "fields"
