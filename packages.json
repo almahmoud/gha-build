@@ -914,7 +914,6 @@
         "rtracklayer"
     ],
     "breakpointR": [],
-    "brendaDb": [],
     "BRGenomics": [
         "DESeq2",
         "annotate",
