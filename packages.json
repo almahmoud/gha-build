@@ -131,7 +131,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vegan"
     ],
@@ -250,7 +249,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ADAMgui": [
@@ -321,7 +319,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -379,7 +376,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "xts"
     ],
@@ -563,7 +559,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -744,7 +739,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -872,7 +866,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "AllelicImbalance": [
@@ -943,7 +936,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -980,7 +972,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "alpine": [
@@ -1079,7 +1070,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "altcdfenvs": [
@@ -1162,7 +1152,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -1207,7 +1196,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waffle"
     ],
@@ -1352,7 +1340,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "uwot",
         "vctrs",
@@ -1492,7 +1479,6 @@
         "tidyselect",
         "timeSeries",
         "timechange",
-        "tinytex",
         "umap",
         "vctrs",
         "vegan"
@@ -1642,7 +1628,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "AnnotationHubData": [
@@ -1706,7 +1691,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "annotationTools": [
@@ -1776,7 +1760,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -1870,7 +1853,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "AnVILBilling": [
@@ -1911,7 +1893,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs"
     ],
     "AnVILPublish": [
@@ -1948,7 +1929,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -2132,7 +2112,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "topGO",
         "uwot",
         "vctrs"
@@ -2222,7 +2201,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "triebeard",
         "urltools",
         "vctrs"
@@ -2310,7 +2288,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -2446,7 +2423,6 @@
         "svglite",
         "systemfonts",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn"
@@ -2515,7 +2491,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -2572,7 +2547,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ASpediaFI": [
@@ -2658,7 +2632,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "waldo"
@@ -2737,7 +2710,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -2940,7 +2912,6 @@
         "tidyselect",
         "tidyverse",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -3034,7 +3005,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -3145,7 +3115,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "atSNP": [
@@ -3215,7 +3184,6 @@
         "testthat",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom",
         "waldo"
@@ -3303,7 +3271,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "autonomics": [
@@ -3701,7 +3668,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn"
@@ -3812,7 +3778,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "BaseSpaceR": [
@@ -3899,7 +3864,6 @@
         "sparseMatrixStats",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -3973,7 +3937,6 @@
         "sparseMatrixStats",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -4092,7 +4055,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "webshot"
@@ -4586,7 +4548,6 @@
         "tidyselect",
         "tidytext",
         "tidytree",
-        "tinytex",
         "tokenizers",
         "treeio",
         "uwot",
@@ -4861,7 +4822,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -4932,7 +4892,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "vctrs",
         "viridis"
@@ -4962,7 +4921,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "Biobase": [],
@@ -5096,7 +5054,6 @@
         "tidyselect",
         "tidytree",
         "timechange",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -5158,7 +5115,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "visNetwork"
     ],
@@ -5301,7 +5257,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -5371,7 +5326,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "triebeard",
         "urltools",
         "vctrs",
@@ -5444,7 +5398,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "biocthis": [
@@ -5485,7 +5438,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "usethis",
         "vctrs"
     ],
@@ -5860,7 +5812,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "topGO",
         "vctrs",
         "vioplot",
@@ -5936,7 +5887,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -6009,7 +5959,6 @@
         "synaptome.db",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -6085,7 +6034,6 @@
         "sva",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -6163,7 +6111,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -6215,7 +6162,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "Biostrings": [
@@ -6364,7 +6310,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -6468,7 +6413,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -6699,7 +6643,6 @@
         "testthat",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -6753,7 +6696,6 @@
         "stringr",
         "survival",
         "sva",
-        "tinytex",
         "vctrs"
     ],
     "bnem": [
@@ -6819,7 +6761,6 @@
         "survival",
         "sva",
         "tibble",
-        "tinytex",
         "vcd",
         "vctrs",
         "vegan",
@@ -6899,7 +6840,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "vctrs",
         "viridis"
@@ -6981,7 +6921,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "BRAIN": [
@@ -7084,7 +7023,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -7414,7 +7352,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -7490,7 +7427,6 @@
         "testthat",
         "textshaping",
         "tibble",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -7714,7 +7650,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -7788,7 +7723,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -7891,7 +7825,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -7989,7 +7922,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn",
@@ -8058,7 +7990,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -8172,7 +8103,6 @@
         "signal",
         "sp",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "CARNIVAL": [
@@ -8196,7 +8126,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -8474,7 +8403,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -8533,7 +8461,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "vctrs"
     ],
@@ -8604,7 +8531,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -8643,7 +8569,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -9061,7 +8986,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "umap",
         "uwot",
         "vctrs",
@@ -9151,7 +9075,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vioplot",
         "viridis",
@@ -9233,7 +9156,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "cellscape": [
@@ -9253,7 +9175,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "CellScore": [
@@ -9339,7 +9260,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "CEMiTool": [
@@ -9432,7 +9352,6 @@
         "tidyselect",
         "tidytree",
         "timechange",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -9956,7 +9875,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom",
@@ -9985,7 +9903,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "CHETAH": [
@@ -10034,7 +9951,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -10111,7 +10027,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -10188,7 +10103,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -10305,7 +10219,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -10375,7 +10288,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -10517,7 +10429,6 @@
         "systemPipeR",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ChIPseeker": [
@@ -10889,7 +10800,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "umap",
         "uwot",
         "vctrs",
@@ -11036,7 +10946,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -11150,7 +11059,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -11190,7 +11098,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "vctrs",
         "viridis",
@@ -11290,7 +11197,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "universalmotif",
         "vctrs",
         "vroom"
@@ -11426,7 +11332,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "uwot",
         "vctrs",
@@ -11523,7 +11428,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "clipper": [
@@ -11718,7 +11622,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vsn"
     ],
@@ -12045,7 +11948,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "CNORfeeder": [
@@ -12070,7 +11972,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "CNORfuzzy": [
@@ -12100,7 +12001,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -12126,7 +12026,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "CNTools": [
@@ -12221,7 +12120,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -12324,7 +12222,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -12625,7 +12522,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom",
         "vsn"
@@ -12702,7 +12598,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -12793,7 +12688,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "COHCAP": [
@@ -12887,7 +12781,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -12995,7 +12888,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -13072,7 +12964,6 @@
         "testthat",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -13141,7 +13032,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "compcodeR": [
@@ -13240,7 +13130,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "topGO",
         "vctrs",
         "viridis"
@@ -13296,7 +13185,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ComPrAn": [
@@ -13340,7 +13228,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -13475,7 +13362,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "uwot",
@@ -13626,7 +13512,6 @@
         "survival",
         "terra",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis",
         "wavethresh"
@@ -14039,7 +13924,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -14155,7 +14039,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "visNetwork"
     ],
@@ -14331,7 +14214,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viper",
         "visNetwork",
@@ -14418,7 +14300,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "covEB": [
@@ -14543,7 +14424,6 @@
         "sass",
         "stringr",
         "survival",
-        "tinytex",
         "vctrs"
     ],
     "crisprBase": [
@@ -14694,7 +14574,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -14744,7 +14623,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "CRISPRseek": [
@@ -14882,7 +14760,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -15005,7 +14882,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -15093,7 +14969,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -15190,7 +15065,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -15261,7 +15135,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -15407,7 +15280,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "xts"
     ],
@@ -15553,7 +15425,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -15602,7 +15473,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "customProDB": [
@@ -15883,7 +15753,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "tweenr",
         "vctrs",
         "viridis",
@@ -15963,7 +15832,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis",
         "waldo"
@@ -16066,7 +15934,6 @@
         "terra",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -16204,7 +16071,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -16379,7 +16245,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis",
         "waldo"
@@ -16429,7 +16294,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "vsn",
         "xts"
@@ -16636,7 +16500,6 @@
         "tidyselect",
         "tidyverse",
         "timechange",
-        "tinytex",
         "tweenr",
         "vcd",
         "vctrs",
@@ -16883,7 +16746,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -16948,7 +16810,6 @@
         "sp",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "DEComplexDisease": [
@@ -17207,7 +17068,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "DeepPINCS": [
@@ -17266,7 +17126,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tm",
         "tokenizers",
         "ttgsea",
@@ -17422,7 +17281,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "webshot"
@@ -17678,7 +17536,6 @@
         "survival",
         "sva",
         "tibble",
-        "tinytex",
         "truncdist",
         "vctrs",
         "viridis"
@@ -17760,7 +17617,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tmvtnorm",
         "vctrs",
         "vroom",
@@ -17882,7 +17738,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -17969,7 +17824,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -18415,7 +18269,6 @@
         "systemPipeR",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "diffcoexp": [
@@ -18467,7 +18320,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -18715,7 +18567,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viper"
     ],
@@ -18808,7 +18659,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs"
     ],
@@ -18901,7 +18751,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "webshot"
@@ -19189,7 +19038,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -19258,7 +19106,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -19347,7 +19194,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -19541,7 +19387,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vsn",
         "waldo"
@@ -19987,7 +19832,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viper",
         "waldo"
@@ -20076,7 +19920,6 @@
         "sass",
         "shiny",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "easyRNASeq": [
@@ -20146,7 +19989,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "EBSEA": [
@@ -20512,7 +20354,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "topGO",
         "vctrs"
     ],
@@ -20539,7 +20380,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "eisaR": [
@@ -20656,7 +20496,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom",
@@ -20826,7 +20665,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -21053,7 +20891,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -21297,7 +21134,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -21552,7 +21388,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -21630,7 +21465,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -21742,7 +21576,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -21829,7 +21662,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -22319,7 +22151,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -22464,7 +22295,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "webshot"
     ],
@@ -22633,7 +22463,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "vctrs",
         "vroom",
@@ -22771,7 +22600,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ExperimentHubData": [
@@ -22837,7 +22665,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ExperimentSubset": [
@@ -22925,7 +22752,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ExpressionAtlas": [
@@ -22953,7 +22779,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "extraChIPs": [
@@ -23042,7 +22867,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "vctrs",
         "viridis"
@@ -23139,7 +22963,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "famat": [
@@ -23223,7 +23046,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -23281,7 +23103,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "yeastCC"
@@ -23325,7 +23146,6 @@
         "shiny",
         "shinyBS",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "fastreeR": [
@@ -23434,7 +23254,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "fcoex": [
@@ -23857,7 +23676,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "fishpond": [
@@ -23934,7 +23752,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn",
@@ -24054,7 +23871,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs",
         "viridis",
@@ -24082,7 +23898,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "flowBeads": [
@@ -24141,7 +23956,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "flowCHIC": [
@@ -24168,7 +23982,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs",
         "vegan"
     ],
@@ -24340,7 +24153,6 @@
         "stringr",
         "systemfonts",
         "tibble",
-        "tinytex",
         "vctrs",
         "visNetwork"
     ],
@@ -24424,7 +24236,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -24639,7 +24450,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "fmrs": [
@@ -24810,7 +24620,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "webshot"
@@ -25169,7 +24978,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "gaga": [
@@ -25320,7 +25128,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis",
         "waldo"
@@ -25417,7 +25224,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "gcrma": [
@@ -25476,7 +25282,6 @@
         "testthat",
         "textshaping",
         "tibble",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -25600,7 +25405,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -25661,7 +25465,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "gemma.R": [
@@ -25994,7 +25797,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -26032,7 +25834,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "GeneOverlap": [
@@ -26192,7 +25993,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -26284,7 +26084,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tippy",
         "tweenr",
         "vctrs",
@@ -26339,7 +26138,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "tm",
         "vctrs"
     ],
@@ -26626,7 +26424,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "GenomicInteractionNodes": [
@@ -26740,7 +26537,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -26817,7 +26613,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -26874,7 +26669,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "GenomicSuperSignature": [
@@ -26947,7 +26741,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -27065,7 +26858,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tm",
         "tokenizers",
         "ttgsea",
@@ -27190,7 +26982,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -27271,7 +27062,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "umap",
         "vctrs",
         "viridis",
@@ -27371,7 +27161,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -27582,7 +27371,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -27674,7 +27462,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs"
@@ -27897,7 +27684,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vcd",
         "vctrs",
         "viridis"
@@ -27967,7 +27753,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "glmGamPoi": [
@@ -28224,7 +28009,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -28325,7 +28109,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "visNetwork",
@@ -28753,7 +28536,6 @@
         "shinyBS",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs",
         "vegan"
     ],
@@ -28874,7 +28656,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs"
     ],
     "graper": [
@@ -29016,7 +28797,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -29191,7 +28971,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "GSEAlm": [
@@ -29581,7 +29360,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -29683,7 +29461,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -29828,7 +29605,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -29917,7 +29693,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -29951,7 +29726,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "Heatplus": [],
@@ -30258,7 +30032,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -30343,7 +30116,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -30434,7 +30206,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -30572,7 +30343,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "HIPPO": [
@@ -30902,7 +30672,6 @@
         "shiny",
         "ssrch",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "hummingbird": [
@@ -30962,7 +30731,6 @@
         "systemfonts",
         "tibble",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "vctrs",
         "visNetwork",
@@ -31043,7 +30811,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -31195,7 +30962,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -31270,7 +31036,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ideal": [
@@ -31372,7 +31137,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "topGO",
         "vctrs",
         "viridis",
@@ -31634,7 +31398,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "vsn"
     ],
@@ -31788,7 +31551,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "vctrs",
         "viridis",
@@ -31864,7 +31626,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "webshot"
@@ -31940,7 +31701,6 @@
         "testthat",
         "textshaping",
         "tibble",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -32035,7 +31795,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs"
     ],
@@ -32311,7 +32070,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -32327,7 +32085,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "InteractionSet": [
@@ -32376,7 +32133,6 @@
         "svglite",
         "systemfonts",
         "tibble",
-        "tinytex",
         "vctrs",
         "webshot"
     ],
@@ -32425,7 +32181,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "interactiveDisplayBase": [
@@ -32446,7 +32201,6 @@
         "sass",
         "shiny",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "InterCellar": [
@@ -32546,7 +32300,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "umap",
         "usethis",
         "vctrs",
@@ -32783,7 +32536,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "IPO": [
@@ -32835,7 +32587,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn",
@@ -33002,7 +32753,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "uwot",
@@ -33055,7 +32805,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -33109,7 +32858,6 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "iSEEhex": [
@@ -33163,7 +32911,6 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "iSEEhub": [
@@ -33232,7 +32979,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "iSEEu": [
@@ -33287,7 +33033,6 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "ISLET": [
@@ -33448,7 +33193,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "tximeta",
         "vctrs",
         "vroom"
@@ -33678,7 +33422,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -33771,7 +33514,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -34016,7 +33758,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "waldo"
@@ -34091,7 +33832,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -34161,7 +33901,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -34260,7 +33999,6 @@
         "testthat",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -34460,7 +34198,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "vctrs"
     ],
@@ -34528,7 +34265,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tmvtnorm",
         "vctrs"
     ],
@@ -34687,7 +34423,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn",
@@ -34832,7 +34567,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -34904,7 +34638,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "lumi": [
@@ -35074,7 +34807,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -35156,7 +34888,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs"
     ],
     "maanova": [
@@ -35292,7 +35023,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vegan",
         "viridis",
@@ -35348,7 +35078,6 @@
         "selectr",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "MACSr": [
@@ -35396,7 +35125,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "made4": [
@@ -35648,7 +35376,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -35736,7 +35463,6 @@
         "tidyselect",
         "tidyverse",
         "timechange",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -35835,7 +35561,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom",
@@ -35943,7 +35668,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "marr": [
@@ -36043,7 +35767,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -36157,7 +35880,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tmvtnorm",
         "umap",
         "vctrs",
@@ -36300,7 +36022,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vegan",
         "waldo"
@@ -36385,7 +36106,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis",
         "visNetwork"
@@ -36469,7 +36189,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "MBttest": [
@@ -36528,7 +36247,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -36604,7 +36322,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -36748,7 +36465,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vegan",
         "viridis",
@@ -36993,7 +36709,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "Melissa": [
@@ -37033,7 +36748,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "memes": [
@@ -37172,7 +36886,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -37211,7 +36924,6 @@
         "sass",
         "stringr",
         "survival",
-        "tinytex",
         "vctrs"
     ],
     "MesKit": [
@@ -37389,7 +37101,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "MetaboCoreUtils": [
@@ -37533,7 +37244,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "waldo"
@@ -37731,7 +37441,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn",
@@ -37978,7 +37687,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn",
@@ -38106,7 +37814,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "topconfects",
         "vctrs"
     ],
@@ -38329,7 +38036,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom",
         "waldo",
@@ -38684,7 +38390,6 @@
         "tidyselect",
         "tidyverse",
         "timechange",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -38975,7 +38680,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -39211,7 +38915,6 @@
         "testthat",
         "textshaping",
         "tibble",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -39684,7 +39387,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "vegan",
         "viridis",
@@ -39849,7 +39551,6 @@
         "tidyselect",
         "tidytree",
         "timechange",
-        "tinytex",
         "treeio",
         "uwot",
         "vctrs",
@@ -39943,7 +39644,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "usethis",
@@ -40049,7 +39749,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "webshot"
     ],
@@ -40239,7 +39938,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -40342,7 +40040,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -40641,7 +40338,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vcd",
         "vctrs",
         "viridis",
@@ -40895,7 +40591,6 @@
         "tidytree",
         "tidyverse",
         "timechange",
-        "tinytex",
         "tnet",
         "treeio",
         "tweenr",
@@ -41051,7 +40746,6 @@
         "tidytree",
         "tidyverse",
         "timechange",
-        "tinytex",
         "tnet",
         "treeio",
         "tweenr",
@@ -41262,7 +40956,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "mitoClone2": [
@@ -41388,7 +41081,6 @@
         "threejs",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "MLP": [
@@ -41756,7 +41448,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -42070,7 +41761,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -42188,7 +41878,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "motifbreakR": [
@@ -42268,7 +41957,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -42412,7 +42100,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -42537,7 +42224,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "vctrs",
         "vroom",
@@ -42667,7 +42353,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "MsFeatures": [
@@ -42761,7 +42446,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -42981,7 +42665,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vsn"
     ],
@@ -43127,7 +42810,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -43241,7 +42923,6 @@
         "tidyselect",
         "tidyverse",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom",
@@ -43343,7 +43024,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vsn"
     ],
@@ -43398,7 +43078,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vsn"
     ],
@@ -43508,7 +43187,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "waldo"
@@ -43641,7 +43319,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "multiClust": [
@@ -43752,7 +43429,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -44054,7 +43730,6 @@
         "tidyselect",
         "tidytree",
         "timechange",
-        "tinytex",
         "treeio",
         "tweenr",
         "urlchecker",
@@ -44377,7 +44052,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tm",
         "topicmodels",
         "uwot",
@@ -44559,7 +44233,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -44623,7 +44296,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -44747,7 +44419,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "trackViewer",
         "vctrs",
         "viridis",
@@ -44856,7 +44527,6 @@
         "stringr",
         "systemfonts",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "NanoStringQCPro": [
@@ -44955,7 +44625,6 @@
         "tidyselect",
         "tidyverse",
         "timechange",
-        "tinytex",
         "vctrs",
         "vroom",
         "waldo"
@@ -45274,7 +44943,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs"
     ],
@@ -45396,7 +45064,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -45472,7 +45139,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -45596,7 +45262,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -45642,7 +45307,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "NetSAM": [
@@ -45697,7 +45361,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -45979,7 +45642,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -46183,7 +45845,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "vctrs",
         "viridis",
@@ -46207,7 +45868,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "normr": [
@@ -46428,7 +46088,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "OCplus": [
@@ -46531,7 +46190,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ODER": [
@@ -46634,7 +46292,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "usethis",
         "vctrs",
         "viridis",
@@ -46729,7 +46386,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -46926,7 +46582,6 @@
         "shiny",
         "stringr",
         "survival",
-        "tinytex",
         "vctrs",
         "vegan",
         "zCompositions"
@@ -47025,7 +46680,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tmvtnorm",
         "vctrs",
         "viridis",
@@ -47151,7 +46805,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "waldo",
@@ -47265,7 +46918,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -47315,7 +46967,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -47459,7 +47110,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "webshot"
     ],
@@ -47517,7 +47167,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "openCyto": [
@@ -47592,7 +47241,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -47650,7 +47298,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -47705,7 +47352,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "unmarked",
         "vctrs",
         "viridis",
@@ -47829,7 +47475,6 @@
         "testthat",
         "textshaping",
         "tibble",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -47868,7 +47513,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "transport",
         "vctrs"
     ],
@@ -48130,7 +47774,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "vctrs",
         "vroom",
@@ -48249,7 +47892,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "webshot"
@@ -48367,7 +48009,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -48860,7 +48501,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -49024,7 +48664,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "topGO",
         "vctrs",
         "viridis",
@@ -49193,7 +48832,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vcd",
         "vctrs",
         "verification",
@@ -49290,7 +48928,6 @@
         "stringr",
         "tibble",
         "timechange",
-        "tinytex",
         "vctrs",
         "vsn"
     ],
@@ -49678,7 +49315,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "visNetwork"
     ],
@@ -49757,7 +49393,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -49843,7 +49478,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -50064,7 +49698,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "topGO",
         "vctrs"
     ],
@@ -50198,7 +49831,6 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs",
         "visNetwork"
     ],
@@ -50307,7 +49939,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -50386,7 +50017,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -50495,7 +50125,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs",
         "viridis"
@@ -50532,7 +50161,6 @@
         "rtracklayer",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs",
         "visNetwork"
     ],
@@ -50696,7 +50324,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom",
@@ -50804,7 +50431,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -50882,7 +50508,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "polyester": [
@@ -50974,7 +50599,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "uwot",
         "vctrs",
         "vegan"
@@ -51199,7 +50823,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "vegan"
     ],
@@ -51396,7 +51019,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -51452,7 +51074,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tseries",
         "urca",
         "vctrs",
@@ -51620,7 +51241,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn",
@@ -51710,7 +51330,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vsn",
         "xcms"
@@ -51824,7 +51443,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -51982,7 +51600,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn"
@@ -52088,7 +51705,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn",
@@ -52209,7 +51825,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "vioplot",
         "vsn",
@@ -52438,7 +52053,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom",
@@ -52550,7 +52164,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom",
@@ -52602,7 +52215,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "psygenet2r": [
@@ -52718,7 +52330,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vsn",
@@ -52887,7 +52498,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -52949,7 +52559,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "pwrEWAS": [
@@ -53007,7 +52616,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "qckitfastq": [
@@ -53097,7 +52705,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "qmtools": [
@@ -53166,7 +52773,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vcd",
         "vctrs",
         "viridis",
@@ -53330,7 +52936,6 @@
         "testthat",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "waldo"
@@ -53407,7 +53012,6 @@
         "survival",
         "sva",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -53752,7 +53356,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -53909,7 +53512,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "visNetwork"
     ],
@@ -54104,7 +53706,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "RbcBook1": [
@@ -54205,7 +53806,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "RCAS": [
@@ -54277,7 +53877,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -54423,7 +54022,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "RCM": [
@@ -54546,7 +54144,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "visNetwork",
@@ -54603,7 +54200,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "visNetwork",
@@ -54650,7 +54246,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "ReactomeContentService4R": [
@@ -54796,7 +54391,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "receptLoss": [
@@ -54932,7 +54526,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -55236,7 +54829,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -55384,7 +54976,6 @@
         "tibble",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -55483,7 +55074,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -55590,7 +55180,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -55726,7 +55315,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -55876,7 +55464,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "rexposome": [
@@ -55937,7 +55524,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tmvtnorm",
         "vctrs",
         "viridis",
@@ -56055,7 +55641,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "RGMQL": [
@@ -56208,7 +55793,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "rgsepd": [
@@ -56393,7 +55977,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -56533,7 +56116,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -56648,7 +56230,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -56816,7 +56397,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -57064,7 +56644,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "valr",
         "vctrs",
         "vroom"
@@ -57124,7 +56703,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vsn",
         "webchem"
@@ -57216,7 +56794,6 @@
         "textshaping",
         "tibble",
         "tidyselect",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -57324,7 +56901,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -57514,7 +57090,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -57587,7 +57162,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -57661,7 +57235,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -57734,7 +57307,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -57885,7 +57457,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -57989,7 +57560,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom",
@@ -58209,7 +57779,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ROSeq": [
@@ -58257,7 +57826,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "vegan"
     ],
@@ -58295,7 +57863,6 @@
         "shinycssloaders",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "rpx": [
@@ -58387,7 +57954,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -58457,7 +58023,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -58654,7 +58219,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "waldo"
@@ -58769,7 +58333,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viper",
         "waldo"
@@ -58832,7 +58395,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viper",
         "waldo"
@@ -58897,7 +58459,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viper",
         "waldo"
@@ -58969,7 +58530,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -59300,7 +58860,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "sangerseqR": [
@@ -59404,7 +58963,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "SBMLR": [],
@@ -59543,7 +59101,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs"
     ],
@@ -59692,7 +59249,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waiter"
     ],
@@ -59793,7 +59349,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "uwot",
         "vctrs"
     ],
@@ -59885,7 +59440,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "xgboost"
     ],
@@ -60037,7 +59591,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs",
         "zinbwave"
@@ -60111,7 +59664,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "uwot",
         "vctrs"
@@ -60205,7 +59757,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs"
     ],
@@ -60278,7 +59829,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "vctrs",
         "viridis"
@@ -60406,7 +59956,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "umap",
         "uwot",
         "vctrs"
@@ -60764,7 +60313,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "uwot",
         "vctrs"
@@ -60843,7 +60391,6 @@
         "systemfonts",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "webshot"
     ],
@@ -60910,7 +60457,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs"
     ],
@@ -60999,7 +60545,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -61043,7 +60588,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -61121,7 +60665,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -61232,7 +60775,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "Sconify": [
@@ -61386,7 +60928,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "scPCA": [
@@ -61704,7 +61245,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -61882,7 +61422,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "uwot",
@@ -61988,7 +61527,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "uwot",
         "vctrs",
@@ -62127,7 +61665,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "uwot",
         "vctrs",
@@ -62448,7 +61985,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -62725,7 +62261,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "triebeard",
         "urltools",
         "vctrs"
@@ -62816,7 +62351,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom",
         "wheatmap"
@@ -63054,7 +62588,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom",
@@ -63278,7 +62811,6 @@
         "threejs",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "sigFeature": [
@@ -63431,7 +62963,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -63557,7 +63088,6 @@
         "tidyselect",
         "tidytidbits",
         "timechange",
-        "tinytex",
         "vctrs",
         "vroom",
         "waldo"
@@ -63955,7 +63485,6 @@
         "terra",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -64295,7 +63824,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "uwot",
         "vctrs",
@@ -64429,7 +63957,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "SISPA": [
@@ -64759,7 +64286,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -64980,7 +64506,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "SomaticSignatures": [
@@ -65058,7 +64583,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -65179,7 +64703,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs",
         "viridis"
@@ -65242,7 +64765,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -65402,7 +64924,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tweenr",
         "vctrs",
         "vroom"
@@ -65525,7 +65046,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -65717,7 +65237,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs",
         "viridis",
@@ -65800,7 +65319,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom"
@@ -65981,7 +65499,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "umap",
         "vctrs",
         "vroom"
@@ -66262,7 +65779,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "webshot"
@@ -66411,7 +65927,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -66527,7 +66042,6 @@
         "tidyselect",
         "tidyverse",
         "timechange",
-        "tinytex",
         "tnet",
         "vctrs",
         "vroom",
@@ -66628,7 +66142,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs",
         "viridis"
@@ -66738,7 +66251,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "vegan",
         "viridis"
@@ -66792,7 +66304,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "umap",
         "vctrs",
         "visNetwork"
@@ -66914,7 +66425,6 @@
         "textshaping",
         "tibble",
         "tidyselect",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -67067,7 +66577,6 @@
         "sass",
         "shiny",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "ssviz": [
@@ -67169,7 +66678,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -67410,7 +66918,6 @@
         "tidyselect",
         "tidyverse",
         "timechange",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -67558,7 +67065,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs"
     ],
@@ -67615,7 +67121,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "Streamer": [
@@ -67805,7 +67310,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs"
     ],
     "subSeq": [
@@ -68274,7 +67778,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "synapter": [
@@ -68321,7 +67824,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom",
         "vsn"
@@ -68412,7 +67914,6 @@
         "tidyselect",
         "tidyverse",
         "timechange",
-        "tinytex",
         "tweenr",
         "vctrs",
         "vegan",
@@ -68531,7 +68032,6 @@
         "stringr",
         "testthat",
         "tibble",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -68573,7 +68073,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "systemPipeShiny": [
@@ -68630,7 +68129,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "vroom",
         "waiter"
@@ -68699,7 +68197,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "vctrs"
     ],
@@ -68954,7 +68451,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -69038,7 +68534,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "TCC": [
@@ -69290,7 +68785,6 @@
         "tidyselect",
         "tidytree",
         "timechange",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -69519,7 +69013,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "TEQC": [
@@ -69607,7 +69100,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -69840,7 +69332,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "tidybulk": [
@@ -69909,7 +69400,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "ttservice",
         "vctrs"
     ],
@@ -69950,7 +69440,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "tigre": [
@@ -70061,7 +69550,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "TimiRGeN": [
@@ -70216,7 +69704,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -70490,7 +69977,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "TOAST": [
@@ -70595,7 +70081,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -70713,7 +70198,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "visNetwork"
     ],
@@ -70747,7 +70231,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "TPP2D": [
@@ -70858,7 +70341,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -70912,7 +70394,6 @@
         "scales",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "TrajectoryUtils": [
@@ -71255,7 +70736,6 @@
         "slingshot",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -71358,7 +70838,6 @@
         "tidyr",
         "tidyselect",
         "tidytree",
-        "tinytex",
         "treeio",
         "tweenr",
         "vctrs",
@@ -71477,7 +70956,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "xgboost"
@@ -71518,7 +70996,6 @@
         "shinyFiles",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "TRESS": [
@@ -71721,7 +71198,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "usethis",
         "vctrs"
     ],
@@ -71880,7 +71356,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ttgsea": [
@@ -71932,7 +71407,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tm",
         "tokenizers",
         "vctrs",
@@ -71963,7 +71437,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "TurboNorm": [
@@ -72042,7 +71515,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -72179,7 +71651,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "UCell": [
@@ -72273,7 +71744,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "UMI4Cats": [
@@ -72435,7 +71905,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -72666,7 +72135,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tm",
         "tokenizers",
         "ttgsea",
@@ -72949,7 +72417,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -73250,7 +72717,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "viper": [
@@ -73285,7 +72751,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ViSEAGO": [
@@ -73355,7 +72820,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "topGO",
         "vctrs",
         "viridis",
@@ -73434,7 +72898,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "tm",
         "tweenr",
         "vctrs",
@@ -73644,7 +73107,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -73740,7 +73202,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viper"
     ],
@@ -73932,7 +73393,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -74088,7 +73548,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "usethis",
         "vctrs"
     ],
@@ -74121,7 +73580,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -74279,7 +73737,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "visNetwork"
     ],
@@ -74338,7 +73795,6 @@
         "rtracklayer",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "XVector": [
@@ -74370,7 +73826,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "YAPSA": [
@@ -74462,7 +73917,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -74779,7 +74233,6 @@
         "scales",
         "shiny",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "rmarkdown": [
@@ -74792,7 +74245,6 @@
         "memoise",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "knitr": [
@@ -74851,7 +74303,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "stringr": [
@@ -74872,7 +74323,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "htmltools": [
@@ -74889,7 +74339,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "shiny": [
@@ -74955,7 +74404,6 @@
         "ellipsis",
         "htmltools"
     ],
-    "tinytex": [],
     "tidyselect": [
         "lifecycle",
         "vctrs"
@@ -75003,7 +74451,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "ggrepel": [
@@ -75286,7 +74733,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ade4": [
@@ -75383,7 +74829,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -75436,7 +74881,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "viridis": [
@@ -75673,7 +75117,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "readr": [
@@ -76084,7 +75527,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs"
     ],
@@ -76427,7 +75869,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
@@ -76487,7 +75928,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
@@ -76547,7 +75987,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "COSMIC.67": [
@@ -76842,7 +76281,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -77115,7 +76553,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "ids": [
@@ -77169,7 +76606,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "assertive": [
@@ -77313,7 +76749,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "rstan": [
@@ -77349,7 +76784,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "raster": [
@@ -77404,7 +76838,6 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "colourpicker": [
@@ -77431,7 +76864,6 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "rstantools": [],
@@ -77475,7 +76907,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "webshot"
@@ -77763,7 +77194,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "vroom",
         "waldo"
@@ -77827,7 +77257,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "visNetwork",
@@ -77845,7 +77274,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "downloader": [],
@@ -78094,7 +77522,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -78182,7 +77609,6 @@
         "synaptome.data",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "clusterCons": [
@@ -78231,7 +77657,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -78276,7 +77701,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ggnetwork": [
@@ -78316,7 +77740,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "NetRep": [],
@@ -78433,7 +77856,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "betareg": [
@@ -78648,7 +78070,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -78713,7 +78134,6 @@
         "testthat",
         "textshaping",
         "tibble",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -78741,7 +78161,6 @@
         "systemfonts",
         "textshaping",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "profvis": [
@@ -78756,7 +78175,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "rcmdcheck": [
@@ -78991,7 +78409,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "waldo"
     ],
@@ -79825,7 +79242,6 @@
         "svglite",
         "systemfonts",
         "tibble",
-        "tinytex",
         "vctrs",
         "webshot"
     ],
@@ -79928,7 +79344,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "gRbase": [
@@ -80096,7 +79511,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "waldo"
@@ -80205,7 +79619,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -80441,7 +79854,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viper"
     ],
@@ -80489,7 +79901,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "keras": [
@@ -80567,7 +79978,6 @@
         "tidyr",
         "tidyselect",
         "timechange",
-        "tinytex",
         "vctrs",
         "xts"
     ],
@@ -80703,7 +80113,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "httpcache": [
@@ -80726,7 +80135,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "kknn": [
@@ -80767,7 +80175,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "RWekajars": [],
@@ -80905,7 +80312,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "CatEncoders": [],
@@ -81193,7 +80599,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "coin": [
@@ -81254,7 +80659,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "R.matlab": [
@@ -81296,7 +80700,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vctrs",
         "viridis"
     ],
@@ -81343,7 +80746,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "homologene": [
@@ -81389,7 +80791,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ComplexUpset": [
@@ -81446,7 +80847,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "geepack": [
@@ -81550,7 +80950,6 @@
         "stringr",
         "systemfonts",
         "tibble",
-        "tinytex",
         "vctrs"
     ],
     "RecordLinkage": [
@@ -81754,7 +81153,6 @@
         "sass",
         "shiny",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "flextable": [
@@ -81771,7 +81169,6 @@
         "sass",
         "stringr",
         "systemfonts",
-        "tinytex",
         "vctrs"
     ],
     "officer": [],
@@ -81830,7 +81227,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "webshot"
@@ -81851,7 +81247,6 @@
         "sass",
         "shiny",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "repo": [],
@@ -81882,7 +81277,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "seqmagick": [
@@ -81937,7 +81331,6 @@
         "stringr",
         "survival",
         "tibble",
-        "tinytex",
         "vcd",
         "vctrs",
         "viridis"
@@ -81985,7 +81378,6 @@
         "survival",
         "systemfonts",
         "timechange",
-        "tinytex",
         "vctrs"
     ],
     "sf": [
@@ -82080,7 +81472,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "R2jags": [
@@ -82127,7 +81518,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "reactR": [
@@ -82273,7 +81663,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "anocva": [],
@@ -82335,7 +81724,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -82405,7 +81793,6 @@
         "sass",
         "shiny",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "configr": [
@@ -82427,7 +81814,6 @@
         "sass",
         "stringr",
         "timechange",
-        "tinytex",
         "vctrs"
     ],
     "shinyvalidate": [
@@ -82460,7 +81846,6 @@
         "sass",
         "shiny",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "akima": [
@@ -82651,7 +82036,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "plsgenomics": [
@@ -82908,7 +82292,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "sesameData": [
@@ -82956,7 +82339,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "vroom"
     ],
@@ -83091,7 +82473,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "PerformanceAnalytics": [
@@ -83162,7 +82543,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "HardyWeinberg": [
@@ -83504,7 +82884,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "MKmisc": [
@@ -83530,7 +82909,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "RISmed": [
@@ -83591,7 +82969,6 @@
         "testthat",
         "textshaping",
         "tibble",
-        "tinytex",
         "urlchecker",
         "usethis",
         "vctrs",
@@ -83662,7 +83039,6 @@
         "sass",
         "shiny",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "scico": [
@@ -83772,7 +83148,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "vctrs",
         "viridis",
         "vroom",
@@ -83791,7 +83166,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "NxtIRFdata": [
@@ -83848,7 +83222,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "fst": [
@@ -83896,7 +83269,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "pdfCluster": [
@@ -84360,7 +83732,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "forecast": [
@@ -84392,7 +83763,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "EnsDb.Mmusculus.v79": [
@@ -84502,7 +83872,6 @@
         "sass",
         "shiny",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "shinyscreenshot": [
@@ -84560,7 +83929,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "ExtDist": [
@@ -84623,7 +83991,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "rcellminerData": [
@@ -84697,7 +84064,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "RefManageR": [
@@ -84771,7 +84137,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "doMC": [],
@@ -84899,7 +84264,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "readJDX": [
@@ -84992,7 +84356,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "SBGNview.data": [
@@ -85007,7 +84370,6 @@
         "rmarkdown",
         "sass",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "scanMiRData": [
@@ -85084,7 +84446,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "copula": [],
@@ -85204,7 +84565,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "triebeard",
         "urltools",
         "vctrs"
@@ -85227,7 +84587,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "triebeard",
         "urltools",
         "vctrs"
@@ -85410,7 +84769,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "GSVAdata": [
@@ -85498,7 +84856,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tinytex",
         "uwot",
         "vctrs"
     ],
@@ -85562,7 +84919,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "TENxPBMCData": [
@@ -85614,7 +84970,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "VAM": [],
@@ -85921,7 +85276,6 @@
         "shiny",
         "stringr",
         "timechange",
-        "tinytex",
         "vctrs"
     ],
     "GenKern": [],
@@ -86143,7 +85497,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "shinyTree": [
@@ -86162,7 +85515,6 @@
         "sass",
         "shiny",
         "stringr",
-        "tinytex",
         "vctrs"
     ],
     "msigdb": [
@@ -86210,7 +85562,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "tinytex",
         "vctrs"
     ],
     "eva": [
