@@ -287,7 +287,6 @@
         "FactoMineR",
         "car"
     ],
-    "CellMixS": [],
     "CEMiTool": [
         "clusterProfiler",
         "enrichplot"
