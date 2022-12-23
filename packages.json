@@ -1210,7 +1210,6 @@
         "viridis"
     ],
     "condiments": [
-        "Ecume",
         "distinct",
         "scater",
         "slingshot",
@@ -6927,7 +6926,6 @@
         "rstatix",
         "viridis"
     ],
-    "Ecume": [],
     "contrast": [
         "Hmisc",
         "rms",
