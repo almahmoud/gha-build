@@ -3530,7 +3530,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "TCC": [],
     "TCGAbiolinksGUI": [
         "ELMER",
         "Gviz",
