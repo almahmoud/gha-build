@@ -188,7 +188,6 @@
         "synaptome.db"
     ],
     "BioNERO": [],
-    "BioTIP": [],
     "biovizBase": [
         "VariantAnnotation",
         "ensembldb"
