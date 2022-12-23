@@ -12728,7 +12728,6 @@
         "ggplot2",
         "ggthemes",
         "irlba",
-        "mapproj",
         "mgcv",
         "munsell",
         "pals",
@@ -44688,7 +44687,6 @@
         "jquerylib",
         "knitr",
         "magicaxis",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -48500,7 +48498,6 @@
         "jquerylib",
         "knitr",
         "magicaxis",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -57276,7 +57273,6 @@
         "lava",
         "lme4",
         "lubridate",
-        "mapproj",
         "maxstat",
         "memoise",
         "mgcv",
@@ -66798,7 +66794,6 @@
         "jquerylib",
         "knitr",
         "magicaxis",
-        "mapproj",
         "marray",
         "memoise",
         "mgcv",
@@ -72202,10 +72197,7 @@
         "vctrs"
     ],
     "relations": [],
-    "pals": [
-        "mapproj"
-    ],
-    "mapproj": [],
+    "pals": [],
     "Rmixmod": [
         "RcppEigen"
     ],
@@ -75594,8 +75586,7 @@
     ],
     "webutils": [],
     "magicaxis": [
-        "celestial",
-        "mapproj"
+        "celestial"
     ],
     "celestial": [],
     "PMCMRplus": [
@@ -76599,7 +76590,6 @@
         "interp",
         "latticeExtra",
         "lubridate",
-        "mapproj",
         "mgcv",
         "pillar",
         "progress",
