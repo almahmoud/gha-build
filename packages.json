@@ -30407,7 +30407,6 @@
         "dplyr",
         "e1071",
         "ellipsis",
-        "flock",
         "futile.logger",
         "future",
         "future.apply",
@@ -33652,7 +33651,6 @@
         "dplyr",
         "ellipsis",
         "fields",
-        "flock",
         "futile.logger",
         "genefilter",
         "ggplot2",
@@ -78095,7 +78093,6 @@
     "depmixS4": [
         "Rsolnp"
     ],
-    "flock": [],
     "Rsolnp": [],
     "golem": [
         "bslib",
@@ -78447,7 +78444,6 @@
         "bigparallelr",
         "cowplot",
         "doParallel",
-        "flock",
         "ggplot2",
         "lifecycle",
         "mgcv",
@@ -78466,8 +78462,7 @@
         "XVector"
     ],
     "bigparallelr": [
-        "doParallel",
-        "flock"
+        "doParallel"
     ],
     "rmio": [],
     "depmap": [
