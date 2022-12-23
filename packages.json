@@ -86065,7 +86065,6 @@
         "knitr",
         "lambda.r",
         "lifecycle",
-        "mefa",
         "memoise",
         "mgcv",
         "munsell",
@@ -105404,7 +105403,6 @@
     "animation": [
         "magick"
     ],
-    "mefa": [],
     "tractor.base": [
         "RNifti",
         "reportr"
