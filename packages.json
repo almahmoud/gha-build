@@ -19287,7 +19287,6 @@
         "blob",
         "httr",
         "openssl",
-        "repo",
         "rhdf5"
     ],
     "gespeR": [
@@ -56952,7 +56951,6 @@
         "shiny",
         "stringr"
     ],
-    "repo": [],
     "ggalt": [
         "bslib",
         "crosstalk",
