@@ -151,7 +151,6 @@
         "biovizBase",
         "viridis"
     ],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "CoGAPS",
@@ -3681,7 +3680,6 @@
         "viridis"
     ],
     "TBSignatureProfiler": [
-        "ASSIGN",
         "GSVA",
         "HDF5Array",
         "rhdf5"
