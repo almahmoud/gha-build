@@ -5364,7 +5364,6 @@
     "OmaDB": [
         "topGO"
     ],
-    "omicade4": [],
     "omicRexposome": [
         "FactoMineR",
         "Hmisc",
@@ -5373,7 +5372,6 @@
         "car",
         "genefilter",
         "lme4",
-        "omicade4",
         "pbkrtest",
         "rexposome",
         "sva",
