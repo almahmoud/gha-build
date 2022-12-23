@@ -2274,8 +2274,7 @@
         "gwascat",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rtracklayer",
-        "universalmotif"
+        "rtracklayer"
     ],
     "CircSeqAlignTk": [
         "AnnotationDbi",
@@ -7486,8 +7485,7 @@
     ],
     "memes": [
         "cmdfun",
-        "testthat",
-        "universalmotif"
+        "testthat"
     ],
     "MeSHDbi": [
         "AnnotationDbi"
@@ -14452,7 +14450,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "universalmotif": [],
     "uSORT": [
         "monocle",
         "viridis"
