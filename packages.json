@@ -36871,7 +36871,6 @@
         "plyr",
         "rmarkdown",
         "robustbase",
-        "rsm",
         "sass",
         "scales",
         "stringr",
@@ -92436,7 +92435,6 @@
         "tinytex",
         "vctrs"
     ],
-    "rsm": [],
     "anocva": [],
     "Polychrome": [],
     "AdaptGauss": [
