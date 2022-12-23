@@ -231,7 +231,6 @@
         "survminer"
     ],
     "goSorensen": [],
-    "GRmetrics": [],
     "HiCcompare": [
         "CGHcall",
         "QDNAseq"
