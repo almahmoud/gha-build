@@ -38,9 +38,7 @@
         "ensembldb"
     ],
     "alpine": [],
-    "AMARETTO": [
-        "curatedTCGAData"
-    ],
+    "AMARETTO": [],
     "ANCOMBC": [
         "mia"
     ],
@@ -158,7 +156,6 @@
     ],
     "BiocOncoTK": [
         "car",
-        "curatedTCGAData",
         "ggpubr",
         "rstatix"
     ],
@@ -2449,7 +2446,6 @@
         "car"
     ],
     "car": [],
-    "curatedTCGAData": [],
     "ReorderCluster": [],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [],
     "Homo.sapiens": [
