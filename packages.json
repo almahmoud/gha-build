@@ -134872,7 +134872,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "warp",
         "withr",
         "zlibbioc"
     ],
@@ -173164,17 +173163,14 @@
         "tidyselect",
         "utf8",
         "vctrs",
-        "warp",
         "withr"
     ],
     "slider": [
         "glue",
         "lifecycle",
         "rlang",
-        "vctrs",
-        "warp"
+        "vctrs"
     ],
-    "warp": [],
     "clustvarsel": [
         "BMA",
         "Matrix",
