@@ -137881,7 +137881,6 @@
         "listenv",
         "lme4",
         "lmerTest",
-        "logNormReg",
         "magrittr",
         "memoise",
         "mgcv",
@@ -183550,7 +183549,6 @@
     "SNAGEEdata": [],
     "sampSurf": [],
     "nnlasso": [],
-    "logNormReg": [],
     "spdep": [
         "DBI",
         "KernSmooth",
