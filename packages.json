@@ -47729,7 +47729,6 @@
         "callr",
         "car",
         "cowplot",
-        "doMC",
         "dplyr",
         "egg",
         "futile.logger",
@@ -71147,7 +71146,6 @@
         "tinytex",
         "vctrs"
     ],
-    "doMC": [],
     "valr": [
         "BiocIO",
         "BiocParallel",
