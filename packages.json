@@ -1671,7 +1671,6 @@
         "GSEABase",
         "GSVA"
     ],
-    "esetVis": [],
     "EventPointer": [
         "BSgenome",
         "GenomicFeatures",
