@@ -3638,7 +3638,6 @@
         "tidyr",
         "zinbwave"
     ],
-    "ClusterJudge": [],
     "clusterProfiler": [
         "AnnotationDbi",
         "DOSE",
