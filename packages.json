@@ -19049,7 +19049,6 @@
         "KEGGREST",
         "annotate"
     ],
-    "nucleoSim": [],
     "nucleR": [
         "Biostrings",
         "GenomicAlignments",
