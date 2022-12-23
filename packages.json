@@ -5078,7 +5078,6 @@
         "OrganismDbi",
         "Seurat",
         "bumphunter",
-        "clustree",
         "ensembldb",
         "epivizr",
         "epivizrData",
@@ -6556,7 +6555,6 @@
     "Rmagic": [],
     "nnTensor": [],
     "ccTensor": [],
-    "clustree": [],
     "survivalAnalysis": [
         "car",
         "ggpubr",
