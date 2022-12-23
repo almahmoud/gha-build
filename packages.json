@@ -6062,7 +6062,6 @@
     ],
     "ChIPXpress": [
         "Biostrings",
-        "ChIPXpressData",
         "DelayedArray",
         "GEOquery",
         "GenomeInfoDb",
@@ -44962,7 +44961,6 @@
         "tibble",
         "tidyselect"
     ],
-    "ChIPXpressData": [],
     "shinyhelper": [
         "bslib",
         "shiny"
