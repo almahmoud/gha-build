@@ -2270,7 +2270,6 @@
         "rstatix",
         "testthat"
     ],
-    "cytoKernel": [],
     "cytomapper": [
         "DropletUtils",
         "SingleCellExperiment",
