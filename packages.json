@@ -8559,8 +8559,7 @@
         "biovizBase",
         "ensembldb",
         "interactiveDisplayBase",
-        "rtracklayer",
-        "shinyTree"
+        "rtracklayer"
     ],
     "VariantTools": [
         "BSgenome",
@@ -9586,7 +9585,6 @@
     "kmlShape": [],
     "mirbase.db": [],
     "condformat": [],
-    "shinyTree": [],
     "msigdb": [
         "AnnotationHub",
         "ExperimentHub",
