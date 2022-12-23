@@ -36,7 +36,6 @@
     "CATALYST": [
         "FlowSOM"
     ],
-    "cbaf": [],
     "censcyt": [
         "FlowSOM",
         "diffcyt"
