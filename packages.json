@@ -24516,7 +24516,6 @@
         "ggdendro",
         "ggplot2",
         "httr",
-        "ismev",
         "org.Hs.eg.db",
         "reshape2",
         "stringr",
@@ -50197,7 +50196,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "ismev": [],
     "lumiHumanAll.db": [
         "AnnotationDbi",
         "Biostrings",
