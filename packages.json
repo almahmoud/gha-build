@@ -27962,7 +27962,6 @@
         "knitr",
         "latticeExtra",
         "lava",
-        "linkcomm",
         "lme4",
         "lubridate",
         "metR",
@@ -28086,7 +28085,6 @@
         "jquerylib",
         "knitr",
         "lava",
-        "linkcomm",
         "lme4",
         "lubridate",
         "modelr",
@@ -38914,7 +38912,6 @@
         "hms",
         "httr",
         "knitr",
-        "linkcomm",
         "pillar",
         "progress",
         "purrr",
@@ -56449,7 +56446,6 @@
         "httr",
         "vctrs"
     ],
-    "linkcomm": [],
     "s4vd": [
         "biclust",
         "dplyr",
