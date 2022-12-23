@@ -13235,7 +13235,6 @@
         "scuttle",
         "viridis"
     ],
-    "scatterHatch": [],
     "scBFA": [
         "AnnotationDbi",
         "DESeq2",
