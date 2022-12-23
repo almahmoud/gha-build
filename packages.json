@@ -1953,7 +1953,6 @@
         "car",
         "pbkrtest"
     ],
-    "ontoProc": [],
     "openPrimeRui": [],
     "OpenStats": [
         "AICcmodavg",
@@ -2051,9 +2050,7 @@
     ],
     "pmm": [],
     "podkat": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [],
     "prebs": [],
     "preciseTAD": [
@@ -2757,7 +2754,6 @@
     ],
     "TEKRABber": [],
     "tenXplore": [
-        "ontoProc",
         "restfulSE"
     ],
     "terraTCGAdata": [
