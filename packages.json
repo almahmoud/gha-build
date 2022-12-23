@@ -14850,7 +14850,6 @@
         "futile.logger",
         "ggExtra",
         "ggplot2",
-        "gnm",
         "heatmaply",
         "htmlwidgets",
         "httpuv",
@@ -63573,10 +63572,7 @@
         "pcaMethods",
         "survival"
     ],
-    "MetaCycle": [
-        "gnm"
-    ],
-    "gnm": [],
+    "MetaCycle": [],
     "fastDummies": [
         "pillar",
         "stringr",
