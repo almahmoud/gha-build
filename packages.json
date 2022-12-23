@@ -4567,7 +4567,6 @@
         "ggpubr",
         "ggtree",
         "graphite",
-        "groupdata2",
         "iBBiG",
         "lme4",
         "miRspongeR",
@@ -4598,7 +4597,6 @@
         "ggpubr",
         "ggtree",
         "graphite",
-        "groupdata2",
         "lme4",
         "modelr",
         "nloptr",
@@ -7297,7 +7295,6 @@
         "caret",
         "cvms",
         "ggpubr",
-        "groupdata2",
         "lme4",
         "modelr",
         "nloptr",
@@ -8702,11 +8699,9 @@
     ],
     "SOMbrero": [],
     "cvms": [
-        "groupdata2",
         "lme4",
         "nloptr"
     ],
-    "groupdata2": [],
     "echarts4r": [],
     "HiveR": [],
     "anyLib": [
