@@ -6988,7 +6988,6 @@
         "gap",
         "ggplot2",
         "htmlwidgets",
-        "kinship2",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -17818,7 +17817,6 @@
         "GENLIB",
         "broom",
         "gRain",
-        "kinship2",
         "tidyr"
     ],
     "rWikiPathways": [
@@ -20055,7 +20053,6 @@
         "ggridges",
         "ggstance",
         "haven",
-        "kinship2",
         "labelled",
         "mosaicCore",
         "readr",
@@ -23807,7 +23804,6 @@
     "ggside": [
         "ggplot2"
     ],
-    "kinship2": [],
     "gap": [
         "ggplot2",
         "htmlwidgets",
@@ -24631,9 +24627,7 @@
     "treemap": [
         "ggplot2"
     ],
-    "GENLIB": [
-        "kinship2"
-    ],
+    "GENLIB": [],
     "excelR": [
         "htmlwidgets",
         "rmarkdown"
@@ -24828,7 +24822,6 @@
         "ggridges",
         "ggstance",
         "haven",
-        "kinship2",
         "labelled",
         "mosaicCore",
         "readr",
