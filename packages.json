@@ -10186,7 +10186,6 @@
         "ggplot2",
         "ggplotify",
         "rmarkdown",
-        "sf",
         "tidyr"
     ],
     "graper": [
@@ -11172,7 +11171,6 @@
         "readr",
         "rmarkdown",
         "scuttle",
-        "sf",
         "shiny",
         "shinydashboard",
         "svgPanZoom",
@@ -12182,7 +12180,6 @@
         "nloptr",
         "rematch2",
         "scuttle",
-        "sf",
         "spatstat.explore",
         "spicyR",
         "testthat",
@@ -21313,7 +21310,6 @@
         "rmarkdown",
         "scattermore",
         "sctransform",
-        "sf",
         "shiny",
         "spatstat.explore",
         "tidyr"
@@ -21691,7 +21687,6 @@
         "scatterpie",
         "schex",
         "sctransform",
-        "sf",
         "shadowtext",
         "shiny",
         "spatstat.explore",
@@ -21733,7 +21728,6 @@
         "scattermore",
         "schex",
         "sctransform",
-        "sf",
         "shiny",
         "spatstat.explore",
         "tidyr",
@@ -23015,7 +23009,6 @@
         "dbplyr",
         "dplyr",
         "scuttle",
-        "sf",
         "spdep"
     ],
     "spatialHeatmap": [
@@ -23159,7 +23152,6 @@
         "nloptr",
         "rematch2",
         "scuttle",
-        "sf",
         "spatstat.explore",
         "testthat",
         "tidyr",
@@ -23632,7 +23624,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "sf",
         "spatstat.explore",
         "tidyr",
         "tidyverse",
@@ -23675,7 +23666,6 @@
         "scattermore",
         "sctransform",
         "scuttle",
-        "sf",
         "shiny",
         "spatstat.explore",
         "spdep",
@@ -23952,7 +23942,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "sf",
         "sftime",
         "stars",
         "testthat",
@@ -25763,7 +25752,6 @@
         "ggplot2",
         "patchwork",
         "scuttle",
-        "sf",
         "spdep"
     ],
     "VplotR": [
@@ -28187,10 +28175,8 @@
     ],
     "epiR": [
         "flextable",
-        "rmarkdown",
-        "sf"
+        "rmarkdown"
     ],
-    "sf": [],
     "ggwordcloud": [
         "ggplot2"
     ],
@@ -28240,8 +28226,7 @@
         "rtracklayer"
     ],
     "concaveman": [
-        "dplyr",
-        "sf"
+        "dplyr"
     ],
     "golem": [
         "roxygen2",
@@ -29266,9 +29251,7 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "spdep": [
-        "sf"
-    ],
+    "spdep": [],
     "alphahull": [
         "ggplot2"
     ],
@@ -29328,7 +29311,6 @@
     ],
     "gstat": [
         "lwgeom",
-        "sf",
         "sftime",
         "stars"
     ],
@@ -29337,16 +29319,11 @@
         "ggplot2",
         "viridis"
     ],
-    "sftime": [
-        "sf"
-    ],
+    "sftime": [],
     "stars": [
-        "lwgeom",
-        "sf"
+        "lwgeom"
     ],
-    "lwgeom": [
-        "sf"
-    ],
+    "lwgeom": [],
     "spsUtil": [],
     "spsComps": [
         "shiny",
