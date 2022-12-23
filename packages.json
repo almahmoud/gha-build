@@ -6449,7 +6449,6 @@
     "CellBarcode": [
         "BiocParallel",
         "Biostrings",
-        "Ckmeans.1d.dp",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -12232,7 +12231,6 @@
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
-        "Ckmeans.1d.dp",
         "DESeq2",
         "DOSE",
         "DT",
@@ -19522,7 +19520,6 @@
         "BiocIO",
         "BiocParallel",
         "Biostrings",
-        "Ckmeans.1d.dp",
         "DelayedArray",
         "GGally",
         "GenomeInfoDb",
@@ -21792,9 +21789,7 @@
     "hapFabia": [
         "fabia"
     ],
-    "Harman": [
-        "Ckmeans.1d.dp"
-    ],
+    "Harman": [],
     "Harshlight": [
         "Biostrings",
         "GenomeInfoDb",
@@ -53911,7 +53906,6 @@
     ],
     "weitrix": [
         "BiocParallel",
-        "Ckmeans.1d.dp",
         "DelayedArray",
         "DelayedMatrixStats",
         "GenomeInfoDb",
@@ -57286,7 +57280,6 @@
         "tibble"
     ],
     "magick": [],
-    "Ckmeans.1d.dp": [],
     "SpatialTools": [],
     "FactoMineR": [
         "DT",
