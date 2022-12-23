@@ -4182,7 +4182,6 @@
         "lifecycle",
         "limma",
         "lme4",
-        "log4r",
         "marray",
         "memoise",
         "mgcv",
@@ -64467,7 +64466,6 @@
         "lifecycle",
         "limma",
         "locfit",
-        "log4r",
         "matrixStats",
         "memoise",
         "mgcv",
@@ -73203,7 +73201,6 @@
         "lifecycle",
         "limma",
         "lme4",
-        "log4r",
         "marray",
         "mgcv",
         "minqa",
@@ -73227,8 +73224,7 @@
     ],
     "MSstatsConvert": [
         "checkmate",
-        "data.table",
-        "log4r"
+        "data.table"
     ],
     "MSstatsLiP": [
         "Biostrings",
@@ -73318,7 +73314,6 @@
         "limma",
         "lme4",
         "lmerTest",
-        "log4r",
         "lubridate",
         "marray",
         "memoise",
@@ -73443,7 +73438,6 @@
         "limma",
         "lme4",
         "lmerTest",
-        "log4r",
         "marray",
         "mgcv",
         "minqa",
@@ -73712,7 +73706,6 @@
         "lifecycle",
         "limma",
         "lme4",
-        "log4r",
         "lubridate",
         "marray",
         "mgcv",
@@ -73815,7 +73808,6 @@
         "limma",
         "lme4",
         "lmerTest",
-        "log4r",
         "marray",
         "memoise",
         "mgcv",
@@ -73892,7 +73884,6 @@
         "limma",
         "lme4",
         "lmerTest",
-        "log4r",
         "marray",
         "mgcv",
         "minqa",
@@ -130413,7 +130404,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "log4r": [],
     "ptw": [
         "Rcpp",
         "RcppArmadillo",
