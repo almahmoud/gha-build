@@ -1856,7 +1856,6 @@
         "GSVA"
     ],
     "esetVis": [],
-    "evaluomeR": [],
     "EventPointer": [
         "BSgenome",
         "GenomicFeatures",
