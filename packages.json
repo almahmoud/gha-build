@@ -806,7 +806,6 @@
         "sass",
         "shiny",
         "shinyjs",
-        "statip",
         "stringr",
         "tibble",
         "tidyr",
@@ -7303,7 +7302,6 @@
         "knitr",
         "modeest",
         "phylolm",
-        "statip",
         "stringr",
         "tibble"
     ],
@@ -22375,7 +22373,6 @@
         "purrr",
         "quantreg",
         "rematch2",
-        "statip",
         "testthat",
         "tibble",
         "tidyr",
@@ -41930,7 +41927,6 @@
         "ggplot2",
         "ggrepel",
         "modeest",
-        "statip",
         "tibble"
     ],
     "recipes": [
@@ -41944,10 +41940,7 @@
         "tidyr",
         "tidyselect"
     ],
-    "modeest": [
-        "statip"
-    ],
-    "statip": [],
+    "modeest": [],
     "hardhat": [
         "tibble"
     ],
