@@ -17347,7 +17347,6 @@
     "Maaslin2": [
         "broom",
         "car",
-        "chemometrics",
         "cplm",
         "dplyr",
         "ggplot2",
@@ -17384,7 +17383,6 @@
         "broom",
         "bslib",
         "car",
-        "chemometrics",
         "cplm",
         "dplyr",
         "ggplot2",
@@ -20586,7 +20584,6 @@
         "Maaslin2",
         "broom",
         "car",
-        "chemometrics",
         "cowplot",
         "cplm",
         "dplyr",
@@ -40001,7 +39998,6 @@
         "tibble",
         "tidyr"
     ],
-    "chemometrics": [],
     "glmmTMB": [
         "lme4",
         "nloptr",
