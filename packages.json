@@ -7444,7 +7444,6 @@
     "diffcoexp": [
         "AnnotationDbi",
         "Biostrings",
-        "DiffCorr",
         "GO.db",
         "GenomicRanges",
         "Hmisc",
@@ -32610,7 +32609,6 @@
         "reshape2",
         "tibble"
     ],
-    "DiffCorr": [],
     "fastDummies": [
         "tibble"
     ],
