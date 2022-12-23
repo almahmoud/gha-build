@@ -5474,7 +5474,6 @@
         "BiocParallel",
         "Biostrings",
         "DelayedArray",
-        "Deriv",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
@@ -27897,7 +27896,6 @@
         "DBI",
         "DelayedArray",
         "DelayedMatrixStats",
-        "Deriv",
         "GEOquery",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -47053,7 +47051,6 @@
     ],
     "gpls": [],
     "gpuMagic": [
-        "Deriv",
         "DescTools",
         "Exact",
         "MASS",
@@ -111872,7 +111869,6 @@
         "zlibbioc"
     ],
     "synlet": [
-        "Deriv",
         "MASS",
         "Matrix",
         "R6",
@@ -126631,7 +126627,6 @@
         "codetools"
     ],
     "doBy": [
-        "Deriv",
         "MASS",
         "Matrix",
         "R6",
@@ -126679,7 +126674,6 @@
         "waldo",
         "yaml"
     ],
-    "Deriv": [],
     "microbenchmark": [],
     "breastCancerVDX": [],
     "xgboost": [
@@ -133207,7 +133201,6 @@
         "viridisLite"
     ],
     "rsq": [
-        "Deriv",
         "MASS",
         "Matrix",
         "R6",
