@@ -1679,7 +1679,6 @@
         "enrichplot"
     ],
     "meshr": [],
-    "MetaboAnnotation": [],
     "MetaboSignal": [
         "EnsDb.Hsapiens.v75",
         "MWASTools",
