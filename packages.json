@@ -23542,8 +23542,7 @@
         "sqldf",
         "stringr",
         "tibble",
-        "tidyselect",
-        "yeastExpData"
+        "tidyselect"
     ],
     "GSgalgoR": [
         "doParallel",
@@ -41110,8 +41109,7 @@
         "sqldf",
         "stringr",
         "tibble",
-        "tidyselect",
-        "yeastExpData"
+        "tidyselect"
     ],
     "pqsfinder": [
         "Biostrings",
@@ -65731,7 +65729,6 @@
         "scales",
         "tibble"
     ],
-    "yeastExpData": [],
     "GA": [],
     "BatchJobs": [
         "BBmisc",
