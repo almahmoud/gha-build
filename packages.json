@@ -221,9 +221,7 @@
     "autonomics": [
         "assertive"
     ],
-    "BaalChIP": [
-        "doBy"
-    ],
+    "BaalChIP": [],
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
@@ -4289,9 +4287,7 @@
         "fields",
         "viridis"
     ],
-    "synlet": [
-        "doBy"
-    ],
+    "synlet": [],
     "systemPipeTools": [],
     "TADCompare": [
         "HiCcompare",
@@ -4705,7 +4701,6 @@
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [],
     "assertive": [],
-    "doBy": [],
     "pRolocdata": [
         "MSnbase",
         "affy",
