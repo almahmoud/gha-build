@@ -5558,9 +5558,7 @@
         "QFeatures",
         "plotly"
     ],
-    "metabolomicsWorkbenchR": [
-        "struct"
-    ],
+    "metabolomicsWorkbenchR": [],
     "MetaboSignal": [
         "AnnotationDbi",
         "EnsDb.Hsapiens.v75",
@@ -9955,10 +9953,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "struct": [],
-    "structToolbox": [
-        "struct"
-    ],
+    "structToolbox": [],
     "StructuralVariantAnnotation": [
         "AnnotationDbi",
         "BSgenome",
