@@ -29444,7 +29444,6 @@
         "klaR",
         "labelled",
         "miniUI",
-        "pdfCluster",
         "pillar",
         "progress",
         "purrr",
@@ -52282,7 +52281,6 @@
         "tibble",
         "tidyselect"
     ],
-    "pdfCluster": [],
     "diceR": [
         "NMF",
         "R.cache",
