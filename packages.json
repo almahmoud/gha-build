@@ -24917,7 +24917,6 @@
         "RSQLite",
         "Rcpp",
         "S4Vectors",
-        "SMVar",
         "SummarizedExperiment",
         "XML",
         "XVector",
@@ -133920,7 +133919,6 @@
         "reticulate"
     ],
     "metaMA": [
-        "SMVar",
         "limma"
     ],
     "reader": [
@@ -133951,7 +133949,6 @@
         "sourcetools",
         "xtable"
     ],
-    "SMVar": [],
     "NCmisc": [],
     "highcharter": [
         "Matrix",
