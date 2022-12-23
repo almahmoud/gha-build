@@ -1015,7 +1015,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "drugTargetInteractions": [],
     "DrugVsDisease": [
         "ArrayExpress",
         "affy",
