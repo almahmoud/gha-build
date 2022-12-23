@@ -1451,9 +1451,7 @@
         "ggraph",
         "viridis"
     ],
-    "EpiMix": [
-        "EpiMix.data"
-    ],
+    "EpiMix": [],
     "epimutacions": [
         "Gviz",
         "HDF5Array",
@@ -5085,7 +5083,6 @@
     "easierData": [],
     "coin": [],
     "EntropyExplorer": [],
-    "EpiMix.data": [],
     "qgraph": [
         "Hmisc",
         "viridis"
