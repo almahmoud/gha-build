@@ -71832,7 +71832,6 @@
         "IRanges",
         "KEGGREST",
         "KernSmooth",
-        "LungCancerACvsSCCGEO",
         "MASS",
         "Matrix",
         "ModelMetrics",
@@ -167636,7 +167635,6 @@
         "sp"
     ],
     "parmigene": [],
-    "LungCancerACvsSCCGEO": [],
     "venn": [],
     "PairedData": [
         "MASS",
