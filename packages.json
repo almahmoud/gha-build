@@ -12941,8 +12941,7 @@
         "S4Vectors",
         "XVector",
         "brglm",
-        "doParallel",
-        "splitstackshape"
+        "doParallel"
     ],
     "CNViz": [
         "AnnotationDbi",
@@ -44750,7 +44749,6 @@
         "sass",
         "scales",
         "sp",
-        "splitstackshape",
         "stringr",
         "survival",
         "tibble",
@@ -44787,8 +44785,7 @@
         "futile.logger",
         "lambda.r",
         "restfulr",
-        "rtracklayer",
-        "splitstackshape"
+        "rtracklayer"
     ],
     "motifmatchr": [
         "AnnotationDbi",
@@ -62528,7 +62525,6 @@
         "rtracklayer",
         "sass",
         "shiny",
-        "splitstackshape",
         "vctrs"
     ],
     "runibic": [
@@ -75714,7 +75710,6 @@
         "rtracklayer",
         "sass",
         "scales",
-        "splitstackshape",
         "stringr",
         "survival",
         "tibble",
@@ -84742,7 +84737,6 @@
     ],
     "princurve": [],
     "brglm": [],
-    "splitstackshape": [],
     "biwt": [],
     "skmeans": [
         "clue"
