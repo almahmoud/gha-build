@@ -24638,7 +24638,6 @@
         "mgcv",
         "openssl",
         "pillar",
-        "plgem",
         "progress",
         "promises",
         "purrr",
@@ -38845,7 +38844,6 @@
         "stringr",
         "tibble"
     ],
-    "plgem": [],
     "plier": [],
     "PloGO2": [
         "AnnotationDbi",
