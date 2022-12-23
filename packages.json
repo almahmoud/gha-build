@@ -16189,7 +16189,6 @@
         "tidyr"
     ],
     "HPiP": [
-        "MCL",
         "caret",
         "dplyr",
         "ggplot2",
@@ -17306,7 +17305,6 @@
         "GenomicRanges",
         "HDO.db",
         "KEGGREST",
-        "MCL",
         "RSQLite",
         "ScaledMatrix",
         "Seurat",
@@ -21208,7 +21206,6 @@
     ],
     "mina": [
         "Hmisc",
-        "MCL",
         "RSpectra",
         "bslib",
         "ggplot2",
@@ -21487,7 +21484,6 @@
         "HDO.db",
         "Hmisc",
         "KEGGREST",
-        "MCL",
         "MatrixCorrelation",
         "MetBrewer",
         "NMF",
@@ -21610,7 +21606,6 @@
         "GenomeInfoDb",
         "HDO.db",
         "KEGGREST",
-        "MCL",
         "MetBrewer",
         "RSQLite",
         "ReactomePA",
@@ -29929,7 +29924,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "MCL",
         "RSQLite",
         "Rsamtools",
         "STRINGdb",
@@ -42618,7 +42612,6 @@
     ],
     "R2jags": [],
     "servr": [],
-    "MCL": [],
     "available": [
         "dplyr",
         "purrr",
