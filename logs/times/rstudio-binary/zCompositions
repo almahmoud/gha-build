@@ -1,0 +1,493 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   78bfab10..c878b3b2  main       -> origin/main
+Updating 78bfab10..c878b3b2
+Fast-forward
+ logs/run_ids/rstudio-binaries/spdep | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/spdep
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=zCompositions
++ PKG=zCompositions
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "zCompositions"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 21 1124k   21  245k    0     0   258k      0  0:00:04 --:--:--  0:00:04  258k100 1124k  100 1124k    0     0   616k      0  0:00:01  0:00:01 --:--:--  617k
+built/
+built/MASS/
+built/MASS/libs/
+built/MASS/libs/MASS.so
+built/MASS/NEWS
+built/MASS/NAMESPACE
+built/MASS/DESCRIPTION
+built/MASS/help/
+built/MASS/help/paths.rds
+built/MASS/help/MASS.rdx
+built/MASS/help/MASS.rdb
+built/MASS/help/aliases.rds
+built/MASS/help/AnIndex
+built/MASS/data/
+built/MASS/data/Rdata.rds
+built/MASS/data/Rdata.rdb
+built/MASS/data/Rdata.rdx
+built/MASS/Meta/
+built/MASS/Meta/package.rds
+built/MASS/Meta/features.rds
+built/MASS/Meta/hsearch.rds
+built/MASS/Meta/links.rds
+built/MASS/Meta/nsInfo.rds
+built/MASS/Meta/Rd.rds
+built/MASS/Meta/data.rds
+built/MASS/scripts/
+built/MASS/scripts/ch08.R
+built/MASS/scripts/ch13.R
+built/MASS/scripts/ch14.R
+built/MASS/scripts/ch11.R
+built/MASS/scripts/ch02.R
+built/MASS/scripts/ch10.R
+built/MASS/scripts/ch15.R
+built/MASS/scripts/ch05.R
+built/MASS/scripts/ch16.R
+built/MASS/scripts/ch12.R
+built/MASS/scripts/ch03.R
+built/MASS/scripts/ch01.R
+built/MASS/scripts/ch09.R
+built/MASS/scripts/ch06.R
+built/MASS/scripts/ch04.R
+built/MASS/scripts/ch07.R
+built/MASS/po/
+built/MASS/po/it/
+built/MASS/po/it/LC_MESSAGES/
+built/MASS/po/it/LC_MESSAGES/R-MASS.mo
+built/MASS/po/fr/
+built/MASS/po/fr/LC_MESSAGES/
+built/MASS/po/fr/LC_MESSAGES/R-MASS.mo
+built/MASS/po/ko/
+built/MASS/po/ko/LC_MESSAGES/
+built/MASS/po/ko/LC_MESSAGES/R-MASS.mo
+built/MASS/po/pl/
+built/MASS/po/pl/LC_MESSAGES/
+built/MASS/po/pl/LC_MESSAGES/R-MASS.mo
+built/MASS/po/en@quot/
+built/MASS/po/en@quot/LC_MESSAGES/
+built/MASS/po/en@quot/LC_MESSAGES/R-MASS.mo
+built/MASS/po/de/
+built/MASS/po/de/LC_MESSAGES/
+built/MASS/po/de/LC_MESSAGES/R-MASS.mo
+built/MASS/CITATION
+built/MASS/html/
+built/MASS/html/00Index.html
+built/MASS/html/R.css
+built/MASS/INDEX
+built/MASS/R/
+built/MASS/R/MASS.rdx
+built/MASS/R/MASS.rdb
+built/MASS/R/MASS
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  3 12.1M    3  442k    0     0   405k      0  0:00:30  0:00:01  0:00:29  405k 12 12.1M   12 1621k    0     0   780k      0  0:00:16  0:00:02  0:00:14  779k 28 12.1M   28 3613k    0     0  1167k      0  0:00:10  0:00:03  0:00:07 1166k 50 12.1M   50 6307k    0     0  1544k      0  0:00:08  0:00:04  0:00:04 1544k 78 12.1M   78 9845k    0     0  1930k      0  0:00:06  0:00:05  0:00:01 1983k100 12.1M  100 12.1M    0     0  2183k      0  0:00:05  0:00:05 --:--:-- 2602k
+built/
+built/built/
+built/built/built/
+built/built/built/lattice/
+built/built/built/lattice/libs/
+built/built/built/lattice/libs/lattice.so
+built/built/built/lattice/NEWS
+built/built/built/lattice/NAMESPACE
+built/built/built/lattice/DESCRIPTION
+built/built/built/lattice/help/
+built/built/built/lattice/help/paths.rds
+built/built/built/lattice/help/lattice.rdx
+built/built/built/lattice/help/lattice.rdb
+built/built/built/lattice/help/aliases.rds
+built/built/built/lattice/help/AnIndex
+built/built/built/lattice/data/
+built/built/built/lattice/data/Rdata.rds
+built/built/built/lattice/data/Rdata.rdb
+built/built/built/lattice/data/Rdata.rdx
+built/built/built/lattice/Meta/
+built/built/built/lattice/Meta/package.rds
+built/built/built/lattice/Meta/demo.rds
+built/built/built/lattice/Meta/features.rds
+built/built/built/lattice/Meta/hsearch.rds
+built/built/built/lattice/Meta/links.rds
+built/built/built/lattice/Meta/nsInfo.rds
+built/built/built/lattice/Meta/Rd.rds
+built/built/built/lattice/Meta/data.rds
+built/built/built/lattice/po/
+built/built/built/lattice/po/it/
+built/built/built/lattice/po/it/LC_MESSAGES/
+built/built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/fr/
+built/built/built/lattice/po/fr/LC_MESSAGES/
+built/built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/ko/
+built/built/built/lattice/po/ko/LC_MESSAGES/
+built/built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/pl/
+built/built/built/lattice/po/pl/LC_MESSAGES/
+built/built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/en@quot/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/de/
+built/built/built/lattice/po/de/LC_MESSAGES/
+built/built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/CITATION
+built/built/built/lattice/html/
+built/built/built/lattice/html/00Index.html
+built/built/built/lattice/html/R.css
+built/built/built/lattice/INDEX
+built/built/built/lattice/R/
+built/built/built/lattice/R/lattice
+built/built/built/lattice/R/lattice.rdx
+built/built/built/lattice/R/lattice.rdb
+built/built/built/lattice/demo/
+built/built/built/lattice/demo/panel.R
+built/built/built/lattice/demo/intervals.R
+built/built/built/lattice/demo/labels.R
+built/built/built/lattice/demo/lattice.R
+built/built/built/Matrix/
+built/built/built/Matrix/Doxyfile
+built/built/built/Matrix/libs/
+built/built/built/Matrix/libs/Matrix.so
+built/built/built/Matrix/NAMESPACE
+built/built/built/Matrix/LICENCE
+built/built/built/Matrix/DESCRIPTION
+built/built/built/Matrix/test-tools-1.R
+built/built/built/Matrix/help/
+built/built/built/Matrix/help/paths.rds
+built/built/built/Matrix/help/aliases.rds
+built/built/built/Matrix/help/AnIndex
+built/built/built/Matrix/help/Matrix.rdx
+built/built/built/Matrix/help/Matrix.rdb
+built/built/built/Matrix/data/
+built/built/built/Matrix/data/USCounties.R
+built/built/built/Matrix/data/datalist
+built/built/built/Matrix/data/CAex.R
+built/built/built/Matrix/data/wrld_1deg.R
+built/built/built/Matrix/data/KNex.R
+built/built/built/Matrix/Meta/
+built/built/built/Matrix/Meta/package.rds
+built/built/built/Matrix/Meta/vignette.rds
+built/built/built/Matrix/Meta/features.rds
+built/built/built/Matrix/Meta/hsearch.rds
+built/built/built/Matrix/Meta/links.rds
+built/built/built/Matrix/Meta/nsInfo.rds
+built/built/built/Matrix/Meta/Rd.rds
+built/built/built/Matrix/Meta/data.rds
+built/built/built/Matrix/NEWS.Rd
+built/built/built/Matrix/include/
+built/built/built/Matrix/include/cholmod.h
+built/built/built/Matrix/include/Matrix_stubs.c
+built/built/built/Matrix/include/Matrix.h
+built/built/built/Matrix/test-tools-Matrix.R
+built/built/built/Matrix/test-tools.R
+built/built/built/Matrix/po/
+built/built/built/Matrix/po/lt/
+built/built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/it/
+built/built/built/Matrix/po/it/LC_MESSAGES/
+built/built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/fr/
+built/built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/ko/
+built/built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/pl/
+built/built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/en@quot/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/de/
+built/built/built/Matrix/po/de/LC_MESSAGES/
+built/built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/Copyrights
+built/built/built/Matrix/html/
+built/built/built/Matrix/html/00Index.html
+built/built/built/Matrix/html/R.css
+built/built/built/Matrix/INDEX
+built/built/built/Matrix/doc/
+built/built/built/Matrix/doc/Design-issues.Rnw
+built/built/built/Matrix/doc/sparseModels.R
+built/built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/built/Matrix/doc/Introduction.R
+built/built/built/Matrix/doc/sparseModels.Rnw
+built/built/built/Matrix/doc/Design-issues.pdf
+built/built/built/Matrix/doc/Design-issues.R
+built/built/built/Matrix/doc/Comparisons.R
+built/built/built/Matrix/doc/Announce.txt
+built/built/built/Matrix/doc/Introduction.Rnw
+built/built/built/Matrix/doc/Intro2Matrix.R
+built/built/built/Matrix/doc/index.html
+built/built/built/Matrix/doc/SuiteSparse/
+built/built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/built/Matrix/doc/Comparisons.pdf
+built/built/built/Matrix/doc/sparseModels.pdf
+built/built/built/Matrix/doc/Comparisons.Rnw
+built/built/built/Matrix/doc/Introduction.pdf
+built/built/built/Matrix/R/
+built/built/built/Matrix/R/Matrix
+built/built/built/Matrix/R/Matrix.rdx
+built/built/built/Matrix/R/Matrix.rdb
+built/built/built/Matrix/external/
+built/built/built/Matrix/external/symW.rda
+built/built/built/Matrix/external/lund_a.rsa
+built/built/built/Matrix/external/wrong.mtx
+built/built/built/Matrix/external/pores_1.mtx
+built/built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/built/Matrix/external/CAex_slots.rda
+built/built/built/Matrix/external/KNex_slots.rda
+built/built/built/Matrix/external/jgl009.mtx
+built/built/built/Matrix/external/utm300.rua
+built/built/built/Matrix/external/test3comp.rda
+built/built/built/Matrix/external/USCounties_slots.rda
+built/built/built/Matrix/external/Z_NA_rnk.rds
+built/built/built/Matrix/external/symA.rda
+built/built/built/Matrix/external/lund_a.mtx
+built/built/survival/
+built/built/survival/libs/
+built/built/survival/libs/survival.so
+built/built/survival/NAMESPACE
+built/built/survival/DESCRIPTION
+built/built/survival/help/
+built/built/survival/help/paths.rds
+built/built/survival/help/survival.rdb
+built/built/survival/help/aliases.rds
+built/built/survival/help/figures/
+built/built/survival/help/figures/logo.png
+built/built/survival/help/survival.rdx
+built/built/survival/help/AnIndex
+built/built/survival/data/
+built/built/survival/data/Rdata.rds
+built/built/survival/data/Rdata.rdb
+built/built/survival/data/Rdata.rdx
+built/built/survival/Meta/
+built/built/survival/Meta/package.rds
+built/built/survival/Meta/vignette.rds
+built/built/survival/Meta/features.rds
+built/built/survival/Meta/hsearch.rds
+built/built/survival/Meta/links.rds
+built/built/survival/Meta/nsInfo.rds
+built/built/survival/Meta/Rd.rds
+built/built/survival/Meta/data.rds
+built/built/survival/NEWS.Rd
+built/built/survival/CITATION
+built/built/survival/html/
+built/built/survival/html/00Index.html
+built/built/survival/html/R.css
+built/built/survival/INDEX
+built/built/survival/doc/
+built/built/survival/doc/population.pdf
+built/built/survival/doc/concordance.Rnw
+built/built/survival/doc/validate.Rnw
+built/built/survival/doc/survival.pdf
+built/built/survival/doc/splines.pdf
+built/built/survival/doc/timedep.R
+built/built/survival/doc/discrim.Rnw
+built/built/survival/doc/tiedtimes.pdf
+built/built/survival/doc/splines.Rnw
+built/built/survival/doc/multi.pdf
+built/built/survival/doc/validate.R
+built/built/survival/doc/compete.pdf
+built/built/survival/doc/concordance.pdf
+built/built/survival/doc/concordance.R
+built/built/survival/doc/adjcurve.pdf
+built/built/survival/doc/other.pdf
+built/built/survival/doc/approximate.Rnw
+built/built/survival/doc/validate.pdf
+built/built/survival/doc/discrim.pdf
+built/built/survival/doc/splines.R
+built/built/survival/doc/survival.R
+built/built/survival/doc/adjcurve.R
+built/built/survival/doc/approximate.pdf
+built/built/survival/doc/timedep.pdf
+built/built/survival/doc/other.Rnw
+built/built/survival/doc/population.R
+built/built/survival/doc/adjcurve.Rnw
+built/built/survival/doc/timedep.Rnw
+built/built/survival/doc/discrim.R
+built/built/survival/doc/tiedtimes.R
+built/built/survival/doc/index.html
+built/built/survival/doc/compete.Rnw
+built/built/survival/doc/population.Rnw
+built/built/survival/doc/tiedtimes.Rnw
+built/built/survival/doc/approximate.R
+built/built/survival/doc/compete.R
+built/built/survival/doc/multi.Rnw
+built/built/survival/doc/survival.Rnw
+built/built/survival/R/
+built/built/survival/R/survival.rdb
+built/built/survival/R/survival.rdx
+built/built/survival/R/survival
+built/built/survival/COPYRIGHTS
+built/NADA/
+built/NADA/NAMESPACE
+built/NADA/DESCRIPTION
+built/NADA/help/
+built/NADA/help/paths.rds
+built/NADA/help/NADA.rdb
+built/NADA/help/NADA.rdx
+built/NADA/help/aliases.rds
+built/NADA/help/AnIndex
+built/NADA/data/
+built/NADA/data/Thames.rda
+built/NADA/data/SedPb.rda
+built/NADA/data/Silver.rda
+built/NADA/data/DOC.rda
+built/NADA/data/Golden.rda
+built/NADA/data/Atra.rda
+built/NADA/data/CuZnAlt.rda
+built/NADA/data/AsExample.rda
+built/NADA/data/Cadmium.rda
+built/NADA/data/TCEReg.rda
+built/NADA/data/ChlfmCA.rda
+built/NADA/data/Atrazine.rda
+built/NADA/data/MDCu.rda
+built/NADA/data/Oahu.rda
+built/NADA/data/Bloodlead.rda
+built/NADA/data/Arsenic.rda
+built/NADA/data/TCE.rda
+built/NADA/data/NADA.As.rda
+built/NADA/data/Recon.rda
+built/NADA/data/DFe.rda
+built/NADA/data/Hatchery.rda
+built/NADA/data/Roach.rda
+built/NADA/data/CuZn.rda
+built/NADA/data/ShePyrene.rda
+built/NADA/data/Tbl1one.rda
+built/NADA/data/Ag.rda
+built/NADA/data/HgFish.rda
+built/NADA/data/AtraAlt.rda
+built/NADA/Meta/
+built/NADA/Meta/package.rds
+built/NADA/Meta/features.rds
+built/NADA/Meta/hsearch.rds
+built/NADA/Meta/links.rds
+built/NADA/Meta/nsInfo.rds
+built/NADA/Meta/Rd.rds
+built/NADA/Meta/data.rds
+built/NADA/html/
+built/NADA/html/00Index.html
+built/NADA/html/R.css
+built/NADA/INDEX
+built/NADA/R/
+built/NADA/R/NADA.rdb
+built/NADA/R/NADA.rdx
+built/NADA/R/NADA
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 42966  100 42966    0     0   176k      0 --:--:-- --:--:-- --:--:--  176k
+built/
+built/truncnorm/
+built/truncnorm/libs/
+built/truncnorm/libs/truncnorm.so
+built/truncnorm/NAMESPACE
+built/truncnorm/DESCRIPTION
+built/truncnorm/help/
+built/truncnorm/help/truncnorm.rdx
+built/truncnorm/help/paths.rds
+built/truncnorm/help/aliases.rds
+built/truncnorm/help/AnIndex
+built/truncnorm/help/truncnorm.rdb
+built/truncnorm/Meta/
+built/truncnorm/Meta/package.rds
+built/truncnorm/Meta/features.rds
+built/truncnorm/Meta/hsearch.rds
+built/truncnorm/Meta/links.rds
+built/truncnorm/Meta/nsInfo.rds
+built/truncnorm/Meta/Rd.rds
+built/truncnorm/html/
+built/truncnorm/html/00Index.html
+built/truncnorm/html/R.css
+built/truncnorm/INDEX
+built/truncnorm/R/
+built/truncnorm/R/truncnorm.rdx
+built/truncnorm/R/truncnorm.rdb
+built/truncnorm/R/truncnorm
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''zCompositions'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv NADA_1.6-1.1_R_x86_64-pc-linux-gnu.tar.gz truncnorm_1.0-8_R_x86_64-pc-linux-gnu.tar.gz zCompositions_1.4.0-1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/zCompositions
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'zCompositions'
+also installing the dependencies ‘NADA’, ‘truncnorm’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/NADA_1.6-1.1.tar.gz'
+Content type 'binary/octet-stream' length 467180 bytes (456 KB)
+==================================================
+downloaded 456 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/truncnorm_1.0-8.tar.gz'
+Content type 'binary/octet-stream' length 43430 bytes (42 KB)
+==================================================
+downloaded 42 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/zCompositions_1.4.0-1.tar.gz'
+Content type 'binary/octet-stream' length 300870 bytes (293 KB)
+==================================================
+downloaded 293 KB
+
+* installing *binary* package ‘NADA’ ...
+* ‘NADA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘NADA’ as ‘NADA_1.6-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NADA)
+* installing *binary* package ‘truncnorm’ ...
+* ‘truncnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘truncnorm’ as ‘truncnorm_1.0-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (truncnorm)
+* installing *binary* package ‘zCompositions’ ...
+* ‘zCompositions’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘zCompositions’ as ‘zCompositions_1.4.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zCompositions)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpb8PrTe/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m16.851s
+user	0m5.103s
+sys	0m0.618s
