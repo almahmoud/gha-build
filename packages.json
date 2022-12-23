@@ -32172,7 +32172,6 @@
         "vctrs",
         "vroom"
     ],
-    "nnNorm": [],
     "nnSVG": [
         "BRISC",
         "BiocFileCache",
