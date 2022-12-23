@@ -160,7 +160,7 @@ def main():
         tables[status].append([name, status, tartext])
     process_failed_pkgs(tables)
 
-    tables["Failed"] = [x + ["Error unknown"] if len(x) < 4 else x for x in tables["Failed"]]
+    tables["Failed"] = [x if len(x)>4 else x+["Error unknown"] for x in tables["Failed"]]
     tables["Failed"].sort(key=lambda x: x[4])
 
     failed_headers = ["Package", "Status", "BBS Status", "Log", "Known Error"]
