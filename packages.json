@@ -43613,7 +43613,6 @@
         "futile.logger",
         "ggplot2",
         "gridExtra",
-        "h5vcData",
         "labeling",
         "lambda.r",
         "lifecycle",
@@ -120841,7 +120840,6 @@
         "sendmailR",
         "vctrs"
     ],
-    "h5vcData": [],
     "HiContactsData": [
         "AnnotationDbi",
         "AnnotationHub",
