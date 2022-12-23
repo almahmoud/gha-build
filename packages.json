@@ -37773,7 +37773,6 @@
         "vroom"
     ],
     "RBGL": [],
-    "RBM": [],
     "Rbowtie2": [
         "BiocParallel",
         "Biostrings",

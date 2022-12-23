@@ -1,0 +1,257 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   49341b41..fda86df1  main       -> origin/main
+Updating 49341b41..fda86df1
+Fast-forward
+ lists/OLIN                           |  1 +
+ lists/phylogram                      |  1 +
+ logs/run_ids/rstudio-binaries/ranger |  2 ++
+ packages.json                        | 13 +++----------
+ 4 files changed, 7 insertions(+), 10 deletions(-)
+ create mode 100644 lists/OLIN
+ create mode 100644 lists/phylogram
+ create mode 100644 logs/run_ids/rstudio-binaries/ranger
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=RBM
++ PKG=RBM
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "RBM"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 10.6M    0 65280    0     0   176k      0  0:01:01 --:--:--  0:01:01  176k 12 10.6M   12 1322k    0     0   969k      0  0:00:11  0:00:01  0:00:10  969k 36 10.6M   36 3964k    0     0  1679k      0  0:00:06  0:00:02  0:00:04 1679k 74 10.6M   74 8123k    0     0  2412k      0  0:00:04  0:00:03  0:00:01 2412k100 10.6M  100 10.6M    0     0  2803k      0  0:00:03  0:00:03 --:--:-- 2803k
+built/
+built/built/
+built/built/limma/
+built/built/limma/libs/
+built/built/limma/libs/limma.so
+built/built/limma/NAMESPACE
+built/built/limma/DESCRIPTION
+built/built/limma/help/
+built/built/limma/help/paths.rds
+built/built/limma/help/limma.rdx
+built/built/limma/help/limma.rdb
+built/built/limma/help/aliases.rds
+built/built/limma/help/AnIndex
+built/built/limma/Meta/
+built/built/limma/Meta/package.rds
+built/built/limma/Meta/vignette.rds
+built/built/limma/Meta/features.rds
+built/built/limma/Meta/hsearch.rds
+built/built/limma/Meta/links.rds
+built/built/limma/Meta/nsInfo.rds
+built/built/limma/Meta/Rd.rds
+built/built/limma/NEWS.Rd
+built/built/limma/CITATION
+built/built/limma/html/
+built/built/limma/html/00Index.html
+built/built/limma/html/R.css
+built/built/limma/INDEX
+built/built/limma/doc/
+built/built/limma/doc/intro.pdf
+built/built/limma/doc/changelog.txt
+built/built/limma/doc/index.html
+built/built/limma/doc/usersguide.pdf
+built/built/limma/doc/intro.Rnw
+built/built/limma/R/
+built/built/limma/R/limma.rdx
+built/built/limma/R/limma.rdb
+built/built/limma/R/limma
+built/limma/
+built/limma/libs/
+built/limma/libs/limma.so
+built/limma/NAMESPACE
+built/limma/DESCRIPTION
+built/limma/help/
+built/limma/help/paths.rds
+built/limma/help/limma.rdx
+built/limma/help/limma.rdb
+built/limma/help/aliases.rds
+built/limma/help/AnIndex
+built/limma/Meta/
+built/limma/Meta/package.rds
+built/limma/Meta/vignette.rds
+built/limma/Meta/features.rds
+built/limma/Meta/hsearch.rds
+built/limma/Meta/links.rds
+built/limma/Meta/nsInfo.rds
+built/limma/Meta/Rd.rds
+built/limma/NEWS.Rd
+built/limma/CITATION
+built/limma/html/
+built/limma/html/00Index.html
+built/limma/html/R.css
+built/limma/INDEX
+built/limma/doc/
+built/limma/doc/intro.pdf
+built/limma/doc/changelog.txt
+built/limma/doc/index.html
+built/limma/doc/usersguide.pdf
+built/limma/doc/intro.Rnw
+built/limma/R/
+built/limma/R/limma.rdx
+built/limma/R/limma.rdb
+built/limma/R/limma
+built/marray/
+built/marray/NAMESPACE
+built/marray/DESCRIPTION
+built/marray/help/
+built/marray/help/paths.rds
+built/marray/help/marray.rdb
+built/marray/help/aliases.rds
+built/marray/help/marray.rdx
+built/marray/help/AnIndex
+built/marray/data/
+built/marray/data/swirl.RData
+built/marray/Meta/
+built/marray/Meta/package.rds
+built/marray/Meta/vignette.rds
+built/marray/Meta/features.rds
+built/marray/Meta/hsearch.rds
+built/marray/Meta/links.rds
+built/marray/Meta/nsInfo.rds
+built/marray/Meta/Rd.rds
+built/marray/Meta/data.rds
+built/marray/swirldata/
+built/marray/swirldata/swirl.2.spot
+built/marray/swirldata/swirl.3.spot
+built/marray/swirldata/swirl.1.spot
+built/marray/swirldata/SwirlSample.txt
+built/marray/swirldata/swirl.4.spot
+built/marray/swirldata/fish.gal
+built/marray/LICENSE
+built/marray/html/
+built/marray/html/00Index.html
+built/marray/html/R.css
+built/marray/INDEX
+built/marray/doc/
+built/marray/doc/marrayPlots.R
+built/marray/doc/marrayClassesShort.R
+built/marray/doc/marrayNorm.pdf
+built/marray/doc/marrayClassesShort.Rnw
+built/marray/doc/marrayNorm.Rnw
+built/marray/doc/marrayNorm.R
+built/marray/doc/marrayInput.R
+built/marray/doc/marrayPlots.Rnw
+built/marray/doc/marrayPlots.pdf
+built/marray/doc/marrayClasses.Rnw
+built/marray/doc/marrayClasses.pdf
+built/marray/doc/marrayInput.pdf
+built/marray/doc/marray.R
+built/marray/doc/index.html
+built/marray/doc/marrayClasses.R
+built/marray/doc/marrayInput.Rnw
+built/marray/doc/marray.Rnw
+built/marray/doc/marray.pdf
+built/marray/doc/marrayClassesShort.pdf
+built/marray/R/
+built/marray/R/marray.rdb
+built/marray/R/marray.rdx
+built/marray/R/marray
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''RBM'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz marray_1.76.0_R_x86_64-pc-linux-gnu.tar.gz RBM_1.30.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/RBM
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'RBM'
+also installing the dependencies ‘limma’, ‘marray’
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/limma_3.54.0.tar.gz'
+Content type 'application/x-gzip' length 1516770 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/marray_1.76.0.tar.gz'
+Content type 'application/x-gzip' length 5045364 bytes (4.8 MB)
+==================================================
+downloaded 4.8 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/RBM_1.30.0.tar.gz'
+Content type 'application/x-gzip' length 251000 bytes (245 KB)
+==================================================
+downloaded 245 KB
+
+* installing *source* package ‘limma’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c normexp.c -o normexp.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c weighted_lowess.c -o weighted_lowess.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o limma.so init.o normexp.o weighted_lowess.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-limma/00new/limma/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘limma’ as ‘limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (limma)
+* installing *source* package ‘marray’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘marray’ as ‘marray_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (marray)
+* installing *source* package ‘RBM’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RBM’ as ‘RBM_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RBM)
+
+The downloaded source packages are in
+	‘/tmp/RtmpwAWJKp/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m31.229s
+user	0m24.945s
+sys	0m2.123s
