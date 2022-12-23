@@ -53812,7 +53812,6 @@
     "TileDBArray": [
         "DelayedArray",
         "IRanges",
-        "nanotime",
         "tiledb"
     ],
     "tilingArray": [
@@ -65674,10 +65673,7 @@
         "tibble",
         "tidyselect"
     ],
-    "tiledb": [
-        "nanotime"
-    ],
-    "nanotime": [],
+    "tiledb": [],
     "FreqProf": [
         "bslib",
         "fontawesome",
