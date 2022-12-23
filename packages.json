@@ -9492,7 +9492,6 @@
     ],
     "ctsGE": [
         "bslib",
-        "ccaPP",
         "ggplot2",
         "pillar",
         "reshape2",
@@ -30383,7 +30382,6 @@
         "XVector",
         "annotate",
         "blob",
-        "ccaPP",
         "cowplot",
         "dplyr",
         "fgsea",
@@ -48936,7 +48934,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "ccaPP": [],
     "cytometree": [
         "cowplot",
         "ggplot2",
