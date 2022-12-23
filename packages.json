@@ -1645,7 +1645,6 @@
     "synlet": [
         "doBy"
     ],
-    "systemPipeTools": [],
     "TADCompare": [
         "CGHcall",
         "HiCcompare",
