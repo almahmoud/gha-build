@@ -2058,7 +2058,6 @@
         "scater",
         "scuttle"
     ],
-    "dittoSeq": [],
     "DMCFB": [
         "arm",
         "benchmarkme",
@@ -7213,7 +7212,6 @@
     "SPIAT": [
         "DropletUtils",
         "SpatialExperiment",
-        "dittoSeq",
         "scuttle"
     ],
     "spicyR": [
