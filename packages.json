@@ -10062,7 +10062,6 @@
         "openssl",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "outliers",
         "pillar",
         "plyr",
         "prettyunits",
@@ -21217,7 +21216,6 @@
         "munsell",
         "nlme",
         "nnet",
-        "outliers",
         "pcaPP",
         "pillar",
         "plot3D",
@@ -30247,7 +30245,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "outliers",
         "pillar",
         "plyr",
         "prettyunits",
@@ -94772,7 +94769,6 @@
         "munsell",
         "nlme",
         "nloptr",
-        "outliers",
         "pillar",
         "pkgload",
         "processx",
@@ -96842,7 +96838,6 @@
         "nlme",
         "nnTensor",
         "openssl",
-        "outliers",
         "patchwork",
         "pbapply",
         "pillar",
@@ -123212,7 +123207,6 @@
     "qualV": [
         "KernSmooth"
     ],
-    "outliers": [],
     "betareg": [
         "flexmix",
         "lmtest",
