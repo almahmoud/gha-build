@@ -478,7 +478,6 @@
     ],
     "GEWIST": [],
     "ggbio": [],
-    "ggspavis": [],
     "glmSparseNet": [
         "ggpubr",
         "rstatix",
