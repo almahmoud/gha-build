@@ -28,7 +28,6 @@
     "AnnotationHubData": [],
     "APAlyzer": [],
     "appreci8R": [
-        "Homo.sapiens",
         "MafDb.1Kgenomes.phase3.hs37d5",
         "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137"
@@ -49,7 +48,6 @@
         "biovizBase"
     ],
     "ATACCoGAPS": [
-        "Homo.sapiens",
         "Mus.musculus",
         "chromVAR",
         "rGREAT"
@@ -96,7 +94,6 @@
     "biovizBase": [],
     "biscuiteer": [
         "CGHcall",
-        "Homo.sapiens",
         "Mus.musculus",
         "QDNAseq",
         "dmrseq"
@@ -429,7 +426,6 @@
     "EpiMix": [],
     "epimutacions": [
         "Gviz",
-        "Homo.sapiens",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
@@ -449,8 +445,7 @@
         "epivizrData"
     ],
     "erma": [
-        "GenomicFiles",
-        "Homo.sapiens"
+        "GenomicFiles"
     ],
     "esATAC": [
         "ChIPseeker",
@@ -586,9 +581,7 @@
         "drc"
     ],
     "GSEABenchmarkeR": [],
-    "GSReg": [
-        "Homo.sapiens"
-    ],
+    "GSReg": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -724,7 +717,6 @@
     "MBECS": [],
     "mCSEA": [
         "Gviz",
-        "Homo.sapiens",
         "biovizBase"
     ],
     "MEAL": [
@@ -1409,7 +1401,6 @@
     "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
-        "Homo.sapiens",
         "biovizBase"
     ],
     "Uniquorn": [],
@@ -1463,7 +1454,6 @@
     ],
     "rstatix": [],
     "ReorderCluster": [],
-    "Homo.sapiens": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
     "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
