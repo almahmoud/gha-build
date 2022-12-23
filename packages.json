@@ -3805,7 +3805,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "uSORT": [],
     "VAExprs": [
         "DeepPINCS",
         "mlapi",
