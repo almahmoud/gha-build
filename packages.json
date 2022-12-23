@@ -2170,7 +2170,6 @@
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
-        "assertive.datetimes",
         "assertive.strings",
         "cellranger",
         "dbplyr",
@@ -28512,7 +28511,6 @@
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
-        "assertive.datetimes",
         "assertive.strings",
         "bamsignals",
         "biomaRt",
@@ -50163,13 +50161,11 @@
         "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
-        "assertive.datetimes",
         "assertive.strings",
         "knitr",
         "stringr"
     ],
     "assertive.strings": [],
-    "assertive.datetimes": [],
     "assertive.data": [
         "assertive.strings"
     ],
