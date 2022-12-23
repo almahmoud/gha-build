@@ -1615,9 +1615,7 @@
         "ShortRead",
         "chipseq"
     ],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "Cormotif": [
         "affy"
     ],
@@ -5554,7 +5552,6 @@
         "iC10",
         "lme4",
         "pbkrtest",
-        "piano",
         "rstatix",
         "survminer",
         "verification",
@@ -5609,8 +5606,7 @@
         "rhdf5"
     ],
     "PharmacoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "phenomis": [
         "biodb",
@@ -5656,7 +5652,6 @@
         "rhdf5"
     ],
     "Pi": [],
-    "piano": [],
     "PICS": [],
     "Pigengene": [
         "DOSE",
@@ -6090,8 +6085,7 @@
         "rtracklayer"
     ],
     "RadioGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "ramwas": [],
     "RandomWalkRestartMH": [],
@@ -7864,8 +7858,7 @@
     ],
     "topGO": [],
     "ToxicoGx": [
-        "CoreGx",
-        "piano"
+        "CoreGx"
     ],
     "TPP": [],
     "trackViewer": [
@@ -8254,8 +8247,7 @@
     ],
     "Xeva": [
         "CoreGx",
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "XNAString": [
         "BSgenome",
