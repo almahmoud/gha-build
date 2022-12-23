@@ -1258,7 +1258,6 @@
         "htmlwidgets",
         "intergraph",
         "networkD3",
-        "sna",
         "sva",
         "viridis"
     ],
@@ -1637,7 +1636,6 @@
         "intergraph",
         "networkD3",
         "rtracklayer",
-        "sna",
         "sva",
         "tidyr",
         "viridis"
@@ -1949,7 +1947,6 @@
         "intergraph",
         "scatterpie",
         "shadowtext",
-        "sna",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -2026,7 +2023,6 @@
         "rstatix",
         "scatterpie",
         "shadowtext",
-        "sna",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -2473,7 +2469,6 @@
         "affy",
         "htmlwidgets",
         "plotly",
-        "sna",
         "tidyr",
         "vsn"
     ],
@@ -4272,7 +4267,6 @@
         "org.Mm.eg.db",
         "scatterpie",
         "shadowtext",
-        "sna",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -5068,7 +5062,6 @@
         "intergraph",
         "scatterpie",
         "shadowtext",
-        "sna",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -5959,7 +5952,6 @@
     ],
     "GGPA": [
         "GGally",
-        "sna",
         "tidyr"
     ],
     "ggspavis": [
@@ -10761,7 +10753,6 @@
         "ggnetwork",
         "ggrepel",
         "recipes",
-        "sna",
         "supraHex",
         "tidyr"
     ],
@@ -14517,7 +14508,6 @@
         "intergraph",
         "networkD3",
         "rtracklayer",
-        "sna",
         "testthat",
         "waldo"
     ],
@@ -16289,14 +16279,12 @@
         "interactiveDisplayBase"
     ],
     "ggnetwork": [
-        "ggrepel",
-        "sna"
+        "ggrepel"
     ],
     "intergraph": [],
     "networkD3": [
         "htmlwidgets"
     ],
-    "sna": [],
     "superheat": [
         "ggdendro"
     ],
