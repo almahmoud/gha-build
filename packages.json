@@ -11720,7 +11720,6 @@
     "MSA2dist": [
         "tidyr"
     ],
-    "MsBackendMassbank": [],
     "MsExperiment": [
         "AnnotationFilter",
         "MultiAssayExperiment",
