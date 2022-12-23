@@ -18610,7 +18610,6 @@
         "htmlTable",
         "htmlwidgets",
         "knitr",
-        "mboost",
         "org.Hs.eg.db",
         "pcalg",
         "progress",
@@ -37409,10 +37408,7 @@
         "XVector",
         "rtracklayer"
     ],
-    "InvariantCausalPrediction": [
-        "mboost"
-    ],
-    "mboost": [],
+    "InvariantCausalPrediction": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "Biostrings",
