@@ -2212,7 +2212,6 @@
         "scuttle",
         "viridis"
     ],
-    "dittoSeq": [],
     "DMCFB": [
         "arm",
         "benchmarkme",
@@ -7657,7 +7656,6 @@
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
-        "dittoSeq",
         "rhdf5",
         "scuttle"
     ],
