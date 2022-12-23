@@ -3769,13 +3769,11 @@
         "EBImage",
         "htmlwidgets"
     ],
-    "crisprBase": [],
     "crisprBowtie": [
         "BSgenome",
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "crisprBase",
         "readr",
         "rtracklayer"
     ],
@@ -3784,7 +3782,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "crisprBase",
         "readr",
         "rtracklayer"
     ],
@@ -3803,7 +3800,6 @@
         "VariantAnnotation",
         "basilisk",
         "biomaRt",
-        "crisprBase",
         "crisprBowtie",
         "crisprScore",
         "crisprScoreData",
@@ -3889,7 +3885,6 @@
         "basilisk",
         "biomaRt",
         "biovizBase",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
@@ -3922,7 +3917,6 @@
         "basilisk",
         "biomaRt",
         "biovizBase",
-        "crisprBase",
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
