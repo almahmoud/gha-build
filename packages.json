@@ -53099,7 +53099,6 @@
         "BiocParallel",
         "Biostrings",
         "BumpyMatrix",
-        "CircStats",
         "ConsensusClusterPlus",
         "CoreGx",
         "DT",
@@ -67654,7 +67653,6 @@
         "vctrs"
     ],
     "seqCNA": [
-        "CircStats",
         "GLAD",
         "ade4",
         "adehabitatLT",
@@ -91090,7 +91088,6 @@
         "vcd"
     ],
     "verification": [
-        "CircStats",
         "dtw",
         "fields",
         "ggplot2",
@@ -91105,7 +91102,6 @@
         "vctrs",
         "viridis"
     ],
-    "CircStats": [],
     "aroma.affymetrix": [
         "PSCBS",
         "R.cache",
@@ -92245,7 +92241,6 @@
     ],
     "cvTools": [],
     "adehabitatLT": [
-        "CircStats",
         "ade4",
         "adehabitatMA",
         "sp"
