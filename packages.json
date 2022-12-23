@@ -530,7 +530,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "BrainSABER": [],
     "branchpointer": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38"
