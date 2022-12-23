@@ -2305,7 +2305,6 @@
         "basilisk",
         "htmlwidgets",
         "rapportools",
-        "rintrojs",
         "shinyBS",
         "shinycssloaders",
         "shinydashboard",
@@ -6354,7 +6353,6 @@
         "DT",
         "cowplot",
         "htmlwidgets",
-        "rintrojs",
         "shinydashboard",
         "shinyjs",
         "tidyr"
@@ -7268,7 +7266,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "rintrojs",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
@@ -8650,7 +8647,6 @@
         "htmlwidgets",
         "pcaExplorer",
         "plotly",
-        "rintrojs",
         "rtracklayer",
         "shinyBS",
         "shinydashboard",
@@ -9108,7 +9104,6 @@
         "colourpicker",
         "ggrepel",
         "htmlwidgets",
-        "rintrojs",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -9121,7 +9116,6 @@
         "ggrepel",
         "htmlwidgets",
         "iSEE",
-        "rintrojs",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -9141,7 +9135,6 @@
         "htmlwidgets",
         "iSEE",
         "interactiveDisplayBase",
-        "rintrojs",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -9155,7 +9148,6 @@
         "htmlwidgets",
         "iSEE",
         "iSEEhex",
-        "rintrojs",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -16390,7 +16382,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "plotly",
-        "rintrojs",
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
@@ -21105,7 +21096,6 @@
         "waldo"
     ],
     "rapportools": [],
-    "rintrojs": [],
     "enrichR": [],
     "multipanelfigure": [],
     "FactoMineR": [
