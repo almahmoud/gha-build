@@ -674,7 +674,6 @@
         "annotate",
         "biomformat",
         "caret",
-        "covr",
         "dplyr",
         "forcats",
         "geneplotter",
@@ -37032,7 +37031,6 @@
         "tidyselect"
     ],
     "rentrez": [],
-    "covr": [],
     "plotROC": [
         "ggplot2",
         "pillar",
