@@ -4893,7 +4893,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "scp": [],
     "scPipe": [
         "scater",
         "viridis"
