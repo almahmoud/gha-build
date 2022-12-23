@@ -3235,7 +3235,6 @@
         "VIM",
         "broom",
         "car",
-        "ggplot.multistats",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -14071,7 +14070,6 @@
         "syuzhet"
     ],
     "syuzhet": [],
-    "ggplot.multistats": [],
     "VIM": [
         "broom",
         "car",
