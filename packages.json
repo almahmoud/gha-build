@@ -2546,7 +2546,6 @@
         "GOstats"
     ],
     "miRSM": [
-        "BiBitR",
         "DOSE",
         "ReactomePA",
         "SPONGE",
@@ -4809,7 +4808,6 @@
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome"
     ],
-    "BiBitR": [],
     "cvms": [],
     "blme": [],
     "deconstructSigs": [
