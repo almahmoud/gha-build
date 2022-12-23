@@ -31662,7 +31662,6 @@
         "XVector",
         "blob",
         "bslib",
-        "distrEx",
         "dplyr",
         "fitdistrplus",
         "ggplot2",
@@ -31693,7 +31692,6 @@
         "XVector",
         "blob",
         "bslib",
-        "distrEx",
         "dplyr",
         "fitdistrplus",
         "ggplot2",
@@ -55245,7 +55243,6 @@
         "httr"
     ],
     "ontologyPlot": [],
-    "distrEx": [],
     "AICcmodavg": [
         "lme4",
         "nloptr",
