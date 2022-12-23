@@ -37620,7 +37620,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "bamlss",
         "ggplot2",
         "pillar",
         "restfulr",
@@ -48099,7 +48098,6 @@
         "sqldf",
         "stringr"
     ],
-    "bamlss": [],
     "dml": [
         "lfda",
         "rARPACK"
