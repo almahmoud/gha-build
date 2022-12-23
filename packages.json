@@ -7563,7 +7563,6 @@
         "EBarrays",
         "GSEABase",
         "GenomeInfoDb",
-        "Heatplus",
         "Hmisc",
         "IRanges",
         "KEGGREST",
@@ -28380,7 +28379,6 @@
         "stringr",
         "vctrs"
     ],
-    "Heatplus": [],
     "HelloRanges": [
         "AnnotationDbi",
         "BSgenome",
@@ -47230,7 +47228,6 @@
         "Category",
         "GSEABase",
         "GenomeInfoDb",
-        "Heatplus",
         "Hmisc",
         "IRanges",
         "KEGGREST",
@@ -67447,7 +67444,6 @@
         "GOSemSim",
         "GenomeInfoDb",
         "GenomicRanges",
-        "Heatplus",
         "IRanges",
         "KEGGREST",
         "MatrixGenerics",
