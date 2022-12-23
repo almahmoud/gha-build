@@ -16782,7 +16782,6 @@
         "survival",
         "sva",
         "tibble",
-        "truncdist",
         "vctrs",
         "viridis"
     ],
@@ -48505,7 +48504,6 @@
         "lifecycle",
         "mgcv",
         "purrr",
-        "truncdist",
         "vctrs",
         "vegan"
     ],
@@ -58601,7 +58599,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "truncdist",
         "tweenr",
         "vctrs",
         "vegan",
@@ -77115,7 +77112,6 @@
         "quantmod",
         "xts"
     ],
-    "truncdist": [],
     "imputeLCMD": [
         "gmm",
         "pcaMethods",
