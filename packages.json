@@ -2062,7 +2062,6 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "progeny",
         "rstatix",
         "viper"
     ],
@@ -5249,7 +5248,6 @@
         "soGGi",
         "viridis"
     ],
-    "progeny": [],
     "projectR": [
         "CoGAPS",
         "rhdf5",
