@@ -18,7 +18,6 @@
         "genefilter"
     ],
     "a4Classif": [],
-    "ABarray": [],
     "abseqR": [
         "BiocStyle",
         "bookdown",
