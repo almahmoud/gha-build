@@ -13706,7 +13706,6 @@
         "knitr",
         "purrr",
         "rmarkdown",
-        "sf",
         "stringr",
         "tibble",
         "tidyr",
@@ -15048,7 +15047,6 @@
         "rhdf5",
         "rmarkdown",
         "scuttle",
-        "sf",
         "shiny",
         "shinydashboard",
         "stringr",
@@ -16386,7 +16384,6 @@
         "rematch2",
         "rhdf5",
         "scuttle",
-        "sf",
         "spatstat.explore",
         "spicyR",
         "testthat",
@@ -28642,7 +28639,6 @@
         "rmarkdown",
         "scattermore",
         "sctransform",
-        "sf",
         "shiny",
         "spatstat.explore",
         "stringr",
@@ -29146,7 +29142,6 @@
         "scatterpie",
         "schex",
         "sctransform",
-        "sf",
         "shadowtext",
         "shiny",
         "spatstat.explore",
@@ -29199,7 +29194,6 @@
         "scattermore",
         "schex",
         "sctransform",
-        "sf",
         "shiny",
         "spatstat.explore",
         "stringr",
@@ -30918,7 +30912,6 @@
         "purrr",
         "rhdf5",
         "scuttle",
-        "sf",
         "spdep",
         "tibble",
         "tidyselect"
@@ -31108,7 +31101,6 @@
         "rematch2",
         "rhdf5",
         "scuttle",
-        "sf",
         "spatstat.explore",
         "testthat",
         "tibble",
@@ -31744,7 +31736,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "sf",
         "spatstat.explore",
         "stringr",
         "tibble",
@@ -31805,7 +31796,6 @@
         "scattermore",
         "sctransform",
         "scuttle",
-        "sf",
         "shiny",
         "spatstat.explore",
         "spdep",
@@ -32214,7 +32204,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "sf",
         "sftime",
         "stars",
         "stringr",
@@ -34656,7 +34645,6 @@
         "purrr",
         "rhdf5",
         "scuttle",
-        "sf",
         "spdep",
         "tibble",
         "tidyselect"
@@ -38198,10 +38186,8 @@
         "flextable",
         "knitr",
         "rmarkdown",
-        "sf",
         "stringr"
     ],
-    "sf": [],
     "fGarch": [],
     "ggwordcloud": [
         "ggplot2",
@@ -38278,7 +38264,6 @@
     ],
     "concaveman": [
         "dplyr",
-        "sf",
         "tibble",
         "tidyselect"
     ],
@@ -39753,9 +39738,7 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "spdep": [
-        "sf"
-    ],
+    "spdep": [],
     "alphahull": [
         "ggplot2",
         "tibble"
@@ -39846,7 +39829,6 @@
     "slider": [],
     "gstat": [
         "lwgeom",
-        "sf",
         "sftime",
         "stars"
     ],
@@ -39856,16 +39838,11 @@
         "tibble",
         "viridis"
     ],
-    "sftime": [
-        "sf"
-    ],
+    "sftime": [],
     "stars": [
-        "lwgeom",
-        "sf"
+        "lwgeom"
     ],
-    "lwgeom": [
-        "sf"
-    ],
+    "lwgeom": [],
     "spsUtil": [
         "stringr"
     ],
