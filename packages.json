@@ -19733,7 +19733,6 @@
         "prodlim",
         "recipes",
         "rematch2",
-        "reportROC",
         "reshape2",
         "rmarkdown",
         "rstatix",
@@ -33093,7 +33092,6 @@
         "tensorflow",
         "tfruns"
     ],
-    "reportROC": [],
     "verification": [
         "fields",
         "ggplot2",
