@@ -7290,7 +7290,6 @@
         "tibble",
         "viridis"
     ],
-    "cytoMEM": [],
     "CytoML": [
         "DelayedArray",
         "dplyr",
