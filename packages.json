@@ -1818,8 +1818,7 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "enrichplot",
-        "rGREAT",
-        "soGGi"
+        "rGREAT"
     ],
     "pRoloc": [],
     "pRolocGUI": [
@@ -2253,7 +2252,6 @@
     "SNPhood": [
         "VariantAnnotation"
     ],
-    "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
