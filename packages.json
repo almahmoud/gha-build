@@ -4091,7 +4091,6 @@
     ],
     "hypeR": [
         "kableExtra",
-        "reactable",
         "visNetwork"
     ],
     "iBBiG": [],
@@ -4349,7 +4348,6 @@
     "ISAnalytics": [
         "datamods",
         "haven",
-        "reactable",
         "rio",
         "shinybusy"
     ],
@@ -10232,7 +10230,6 @@
         "interactiveDisplayBase"
     ],
     "available": [],
-    "reactable": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures",
         "biomaRt",
@@ -10241,7 +10238,6 @@
     "wordcloud2": [],
     "datamods": [
         "haven",
-        "reactable",
         "rio",
         "shinybusy"
     ],
