@@ -19507,7 +19507,6 @@
         "topGO",
         "viridis"
     ],
-    "PCAN": [],
     "PCAtools": [
         "BiocSingular",
         "ScaledMatrix",
