@@ -350,7 +350,6 @@
         "sva"
     ],
     "BioNetStat": [],
-    "biosigner": [],
     "BioTIP": [
         "scran"
     ],
@@ -2959,7 +2958,6 @@
         "DOSE",
         "ReactomePA",
         "anyLib",
-        "biosigner",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
