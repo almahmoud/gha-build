@@ -66,7 +66,6 @@
     ],
     "diffcyt": [],
     "DMRcate": [],
-    "ELMER": [],
     "epihet": [
         "EntropyExplorer"
     ],
@@ -187,9 +186,7 @@
         "QDNAseq"
     ],
     "TargetDecoy": [],
-    "TCGAbiolinksGUI": [
-        "ELMER"
-    ],
+    "TCGAbiolinksGUI": [],
     "TDARACNE": [
         "GenKern"
     ],
