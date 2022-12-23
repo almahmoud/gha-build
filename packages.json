@@ -1291,9 +1291,7 @@
         "depmap",
         "enrichplot"
     ],
-    "MAIT": [
-        "agricolae"
-    ],
+    "MAIT": [],
     "maser": [
         "Gviz",
         "VariantAnnotation",
@@ -2698,7 +2696,6 @@
     "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "depmap": [],
-    "agricolae": [],
     "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb"
