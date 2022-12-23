@@ -357,9 +357,7 @@
         "ggbio",
         "viridis"
     ],
-    "branchpointer": [
-        "BSgenome.Hsapiens.UCSC.hg38"
-    ],
+    "branchpointer": [],
     "BRGenomics": [],
     "bsseq": [
         "HDF5Array",
@@ -1736,9 +1734,7 @@
         "biovizBase",
         "viridis"
     ],
-    "katdetectr": [
-        "BSgenome.Hsapiens.UCSC.hg38"
-    ],
+    "katdetectr": [],
     "kissDE": [
         "DSS",
         "FactoMineR",
@@ -2375,7 +2371,6 @@
         "viridis"
     ],
     "musicatk": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "FactoMineR",
         "car",
         "decompTumor2Sig",
@@ -2563,9 +2558,7 @@
         "rhdf5"
     ],
     "optimalFlow": [],
-    "ORFhunteR": [
-        "BSgenome.Hsapiens.UCSC.hg38"
-    ],
+    "ORFhunteR": [],
     "ORFik": [
         "fst"
     ],
@@ -2725,7 +2718,6 @@
         "rCGH"
     ],
     "primirTSS": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "GenomicScores",
         "Gviz",
         "HDF5Array",
@@ -3750,7 +3742,6 @@
         "rstatix"
     ],
     "trena": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "Hmisc",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "WGCNA",
@@ -3784,7 +3775,6 @@
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
-        "BSgenome.Hsapiens.UCSC.hg38",
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
         "Gviz",
@@ -4002,7 +3992,6 @@
         "derfinder",
         "viridis"
     ],
-    "BSgenome.Hsapiens.UCSC.hg38": [],
     "drc": [
         "car"
     ],
