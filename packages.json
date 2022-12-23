@@ -1859,7 +1859,6 @@
         "rmarkdown"
     ],
     "biocthis": [
-        "styler",
         "usethis"
     ],
     "BiocWorkflowTools": [
@@ -10860,7 +10859,6 @@
         "available",
         "biocthis",
         "dplyr",
-        "styler",
         "tidytext",
         "usethis"
     ],
@@ -12607,7 +12605,6 @@
         "recipes",
         "rmarkdown",
         "shiny",
-        "styler",
         "tidyr",
         "viridis",
         "vroom",
@@ -16514,7 +16511,6 @@
         "questionr",
         "readr",
         "shiny",
-        "styler",
         "tidyr",
         "vroom",
         "yardstick"
@@ -18448,7 +18444,6 @@
         "selectr",
         "shiny",
         "shinydashboard",
-        "styler",
         "testthat",
         "tidyr",
         "viridis",
@@ -24022,7 +24017,6 @@
         "shinytoastr",
         "spsComps",
         "spsUtil",
-        "styler",
         "tidyr",
         "vroom",
         "waiter"
@@ -27039,7 +27033,6 @@
         "ggplot2"
     ],
     "rorcid": [],
-    "styler": [],
     "usethis": [],
     "rms": [
         "Hmisc",
@@ -28354,7 +28347,6 @@
         "questionr",
         "readr",
         "shiny",
-        "styler",
         "tidyr",
         "vroom"
     ],
@@ -28367,7 +28359,6 @@
         "questionr",
         "readr",
         "shiny",
-        "styler",
         "tidyr",
         "vroom"
     ],
@@ -28379,7 +28370,6 @@
         "miniUI",
         "readr",
         "shiny",
-        "styler",
         "tidyr",
         "vroom"
     ],
@@ -28742,7 +28732,6 @@
         "questionr",
         "readr",
         "shiny",
-        "styler",
         "tidyr",
         "vroom",
         "yardstick"
