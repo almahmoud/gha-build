@@ -3589,7 +3589,6 @@
         "fda",
         "fds",
         "genomation",
-        "rainbow",
         "rtracklayer"
     ],
     "fCI": [
@@ -3738,14 +3737,12 @@
     ],
     "flowStats": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "flowVS": [
         "fda",
         "fds",
-        "flowStats",
-        "rainbow"
+        "flowStats"
     ],
     "fmcsR": [
         "ChemmineR",
@@ -3786,8 +3783,7 @@
     ],
     "FRGEpistasis": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "frma": [
         "oligo",
@@ -3796,8 +3792,7 @@
     "FunChIP": [
         "GenomicAlignments",
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "funtooNorm": [
         "GEOquery",
@@ -5057,8 +5052,7 @@
     ],
     "IWTomics": [
         "fda",
-        "fds",
-        "rainbow"
+        "fds"
     ],
     "karyoploteR": [
         "BSgenome",
@@ -7547,7 +7541,6 @@
         "fda",
         "fds",
         "htmlTable",
-        "rainbow",
         "rtracklayer"
     ],
     "pipeComp": [
@@ -10649,7 +10642,6 @@
         "fds",
         "geneplotter",
         "org.Hs.eg.db",
-        "rainbow",
         "regioneR",
         "rtracklayer"
     ],
@@ -11622,13 +11614,9 @@
     ],
     "geepack": [],
     "fda": [
-        "fds",
-        "rainbow"
+        "fds"
     ],
-    "fds": [
-        "rainbow"
-    ],
-    "rainbow": [],
+    "fds": [],
     "SPARQL": [],
     "ggiraph": [],
     "NHPoisson": [
