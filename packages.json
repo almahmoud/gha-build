@@ -2618,8 +2618,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vctrs",
-        "xgboost"
+        "vctrs"
     ],
     "bamsignals": [
         "GenomeInfoDb",
@@ -3032,8 +3031,7 @@
         "tidyselect",
         "uwot",
         "vctrs",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "bayNorm": [
         "BiocParallel",
@@ -6357,8 +6355,7 @@
         "blob",
         "httr",
         "openssl",
-        "vctrs",
-        "xgboost"
+        "vctrs"
     ],
     "CCPROMISE": [
         "AnnotationDbi",
@@ -17571,8 +17568,7 @@
         "tidyselect",
         "uwot",
         "vctrs",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "flowAI": [
         "bslib",
@@ -20641,8 +20637,7 @@
         "vctrs",
         "viridis",
         "visNetwork",
-        "vroom",
-        "xgboost"
+        "vroom"
     ],
     "GOexpress": [
         "AnnotationDbi",
@@ -23335,8 +23330,7 @@
         "raster",
         "sitmo",
         "terra",
-        "uwot",
-        "xgboost"
+        "uwot"
     ],
     "InPAS": [
         "AnnotationDbi",
@@ -43483,8 +43477,7 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "xgboost"
+        "vctrs"
     ],
     "scater": [
         "BiocNeighbors",
@@ -43887,8 +43880,7 @@
         "tibble",
         "uwot",
         "vctrs",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "scDD": [
         "BiocNeighbors",
@@ -43966,8 +43958,7 @@
         "pillar",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "xgboost"
+        "vctrs"
     ],
     "SCFA": [
         "BiocParallel",
@@ -46645,7 +46636,6 @@
         "uwot",
         "vctrs",
         "viridis",
-        "xgboost",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -51830,8 +51820,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "Trendy": [
         "BiocParallel",
@@ -55948,7 +55937,6 @@
         "vctrs",
         "waldo"
     ],
-    "xgboost": [],
     "pRolocdata": [
         "BiocParallel",
         "IRanges",
