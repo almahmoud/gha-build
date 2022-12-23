@@ -1452,7 +1452,6 @@
         "globaltest",
         "goseq",
         "interactiveDisplayBase",
-        "isva",
         "lumi",
         "methylumi",
         "minfi",
@@ -5394,7 +5393,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "isva",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -6951,7 +6949,6 @@
         "annotate",
         "car",
         "genefilter",
-        "isva",
         "lme4",
         "made4",
         "mice",
@@ -11204,7 +11201,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "isva": [],
     "geneLenDataBase": [
         "AnnotationDbi",
         "GenomicFeatures",
@@ -11536,7 +11532,6 @@
         "AnnotationDbi",
         "annotate",
         "genefilter",
-        "isva",
         "sva"
     ],
     "EnsDb.Hsapiens.v75": [
