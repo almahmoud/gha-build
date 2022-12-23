@@ -1765,7 +1765,6 @@
         "SPONGE",
         "car",
         "clusterProfiler",
-        "cvms",
         "enrichplot",
         "ggpubr",
         "miRspongeR",
@@ -1777,7 +1776,6 @@
         "SPONGE",
         "car",
         "clusterProfiler",
-        "cvms",
         "enrichplot",
         "ggpubr",
         "pbkrtest",
@@ -2781,7 +2779,6 @@
     ],
     "SPONGE": [
         "car",
-        "cvms",
         "ggpubr",
         "pbkrtest",
         "rstatix"
@@ -3299,7 +3296,6 @@
         "OrganismDbi"
     ],
     "BSgenome.Hsapiens.UCSC.hg18": [],
-    "cvms": [],
     "blme": [],
     "deconstructSigs": [
         "BSgenome.Hsapiens.UCSC.hg19"
