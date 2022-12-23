@@ -19892,7 +19892,6 @@
         "HDO.db",
         "HiveR",
         "KEGGREST",
-        "RISmed",
         "RSQLite",
         "SummarizedExperiment",
         "TCGAbiolinks",
@@ -21268,7 +21267,6 @@
         "Biostrings",
         "GenomicRanges",
         "KEGGREST",
-        "RISmed",
         "RSQLite",
         "VarfromPDB",
         "XVector",
@@ -38826,7 +38824,6 @@
         "rmarkdown",
         "stringr"
     ],
-    "RISmed": [],
     "gghalves": [
         "ggplot2",
         "tibble"
@@ -38881,7 +38878,6 @@
         "stringr"
     ],
     "VarfromPDB": [
-        "RISmed",
         "stringr"
     ],
     "mppa": [],
