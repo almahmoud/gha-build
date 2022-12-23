@@ -2564,7 +2564,6 @@
         "keras",
         "lexicon",
         "mlapi",
-        "syuzhet",
         "text2vec",
         "textclean",
         "textstem",
@@ -3756,7 +3755,6 @@
         "fgsea",
         "ggraph",
         "lexicon",
-        "syuzhet",
         "textclean",
         "tidygraph"
     ],
@@ -4105,7 +4103,6 @@
         "keras",
         "lexicon",
         "mlapi",
-        "syuzhet",
         "text2vec",
         "textclean",
         "textstem",
@@ -10587,7 +10584,6 @@
         "keras",
         "lexicon",
         "mlapi",
-        "syuzhet",
         "text2vec",
         "textclean",
         "textstem",
@@ -10708,7 +10704,6 @@
         "mlapi",
         "scater",
         "scuttle",
-        "syuzhet",
         "text2vec",
         "textclean",
         "textstem",
@@ -10839,7 +10834,6 @@
         "msigdb",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "syuzhet",
         "textclean",
         "textstem",
         "tidygraph"
@@ -11582,18 +11576,13 @@
     ],
     "textstem": [
         "lexicon",
-        "syuzhet",
         "textclean"
     ],
     "mlapi": [],
-    "lexicon": [
-        "syuzhet"
-    ],
+    "lexicon": [],
     "textclean": [
-        "lexicon",
-        "syuzhet"
+        "lexicon"
     ],
-    "syuzhet": [],
     "VIM": [
         "car",
         "lme4",
