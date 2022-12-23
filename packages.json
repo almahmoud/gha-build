@@ -6586,7 +6586,6 @@
         "htmlwidgets",
         "visNetwork"
     ],
-    "flowMap": [],
     "flowMerge": [],
     "flowPloidy": [
         "broom",
