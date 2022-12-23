@@ -1295,7 +1295,6 @@
     "dasper": [
         "GenomicFeatures",
         "car",
-        "cmdfun",
         "ggpubr",
         "lme4",
         "megadepth",
@@ -3018,13 +3017,9 @@
         "nloptr",
         "pbkrtest"
     ],
-    "megadepth": [
-        "cmdfun"
-    ],
+    "megadepth": [],
     "Melissa": [],
-    "memes": [
-        "cmdfun"
-    ],
+    "memes": [],
     "meshes": [
         "AnnotationHub",
         "DOSE",
@@ -3814,7 +3809,6 @@
         "VariantAnnotation",
         "bumphunter",
         "car",
-        "cmdfun",
         "dasper",
         "derfinder",
         "ggpubr",
@@ -6226,7 +6220,6 @@
         "lme4",
         "nloptr"
     ],
-    "cmdfun": [],
     "rsq": [
         "lme4",
         "nloptr"
