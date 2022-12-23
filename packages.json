@@ -6646,7 +6646,6 @@
         "dendextend",
         "ggplot2",
         "ggrepel",
-        "maptree",
         "mgcv",
         "pillar",
         "reshape2",
@@ -56289,7 +56288,6 @@
         "pillar",
         "tibble"
     ],
-    "maptree": [],
     "topicmodels": [
         "tm"
     ],
