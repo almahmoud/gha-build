@@ -91,9 +91,7 @@
         "methylumi",
         "minfi"
     ],
-    "artMS": [
-        "MSstats"
-    ],
+    "artMS": [],
     "ASpediaFI": [
         "Gviz",
         "IVAS",
@@ -1770,10 +1768,8 @@
         "pbkrtest"
     ],
     "msqrob2": [],
-    "MSstats": [],
     "MSstatsLiP": [
         "FactoMineR",
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
         "car",
@@ -1784,22 +1780,17 @@
         "rstatix"
     ],
     "MSstatsPTM": [
-        "MSstats",
         "MSstatsTMT",
         "lmerTest"
     ],
     "MSstatsQCgui": [],
-    "MSstatsSampleSize": [
-        "MSstats"
-    ],
+    "MSstatsSampleSize": [],
     "MSstatsShiny": [
-        "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
         "lmerTest"
     ],
     "MSstatsTMT": [
-        "MSstats",
         "lmerTest"
     ],
     "multicrispr": [
