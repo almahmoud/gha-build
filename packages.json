@@ -6115,7 +6115,6 @@
         "evaluate",
         "foreach",
         "futile.logger",
-        "gdsfmt",
         "genefilter",
         "ggplot2",
         "highr",
@@ -16027,7 +16026,6 @@
         "calibrate",
         "edgeR",
         "futile.logger",
-        "gdsfmt",
         "lambda.r",
         "lifecycle",
         "locfit",
@@ -32838,7 +32836,6 @@
         "dplyr",
         "ellipsis",
         "expm",
-        "gdsfmt",
         "ggplot2",
         "lifecycle",
         "mgcv",
@@ -33184,10 +33181,8 @@
         "S4Vectors",
         "SNPRelate",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
-    "gdsfmt": [],
     "GEM": [
         "Matrix",
         "ggplot2",
@@ -33813,7 +33808,6 @@
         "ellipsis",
         "formula.tools",
         "futile.logger",
-        "gdsfmt",
         "igraph",
         "lambda.r",
         "lifecycle",
@@ -35764,7 +35758,6 @@
         "S4Vectors",
         "SeqArray",
         "XVector",
-        "gdsfmt",
         "ggplot2",
         "ggrepel",
         "lifecycle",
@@ -38438,7 +38431,6 @@
         "dplyr",
         "ellipsis",
         "formula.tools",
-        "gdsfmt",
         "lifecycle",
         "lmtest",
         "logistf",
@@ -38500,7 +38492,6 @@
         "ellipsis",
         "formula.tools",
         "futile.logger",
-        "gdsfmt",
         "hms",
         "httr",
         "lambda.r",
@@ -47209,7 +47200,6 @@
         "ff",
         "foreach",
         "formula.tools",
-        "gdsfmt",
         "lifecycle",
         "lmtest",
         "logistf",
@@ -76748,8 +76738,7 @@
         "S4Vectors",
         "SPAtest",
         "SeqArray",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "sampleClassifier": [
         "AnnotationDbi",
@@ -77552,7 +77541,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "gdsfmt",
         "sparseMatrixStats"
     ],
     "SCATE": [
@@ -80958,8 +80946,7 @@
         "IRanges",
         "RCurl",
         "S4Vectors",
-        "XVector",
-        "gdsfmt"
+        "XVector"
     ],
     "seqbias": [
         "Biostrings",
@@ -81220,7 +81207,6 @@
         "evaluate",
         "fontawesome",
         "forcats",
-        "gdsfmt",
         "ggplot2",
         "gistr",
         "hexbin",
@@ -81285,7 +81271,6 @@
         "dplyr",
         "ellipsis",
         "formula.tools",
-        "gdsfmt",
         "lifecycle",
         "logistf",
         "mgcv",
@@ -84012,9 +83997,7 @@
         "xml2",
         "yaml"
     ],
-    "SNPRelate": [
-        "gdsfmt"
-    ],
+    "SNPRelate": [],
     "snpStats": [
         "Matrix",
         "survival"
@@ -94268,7 +94251,6 @@
         "dplyr",
         "ellipsis",
         "formula.tools",
-        "gdsfmt",
         "lifecycle",
         "logistf",
         "mgcv",
