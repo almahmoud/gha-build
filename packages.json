@@ -566,7 +566,6 @@
         "htmlwidgets",
         "ipred",
         "knitr",
-        "modeest",
         "plotROC",
         "plotly",
         "recipes",
@@ -5272,7 +5271,6 @@
     "compcodeR": [
         "ggplot2",
         "knitr",
-        "modeest",
         "tibble"
     ],
     "compEpiTools": [
@@ -16341,7 +16339,6 @@
         "MCMCpack",
         "dplyr",
         "ggplot2",
-        "modeest",
         "rematch2",
         "testthat",
         "tibble",
@@ -30534,7 +30531,6 @@
     "GUniFrac": [
         "ggplot2",
         "ggrepel",
-        "modeest",
         "tibble"
     ],
     "recipes": [
@@ -30544,7 +30540,6 @@
         "tibble",
         "tidyr"
     ],
-    "modeest": [],
     "hardhat": [
         "tibble"
     ],

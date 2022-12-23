@@ -1,0 +1,1137 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   a77b2114..5b9666e9  main       -> origin/main
+Updating a77b2114..5b9666e9
+Fast-forward
+ logs/run_ids/rstudio-binaries/MetaboCoreUtils | 2 ++
+ logs/run_ids/rstudio-binaries/imputeLCMD      | 2 ++
+ logs/run_ids/rstudio-binaries/np              | 2 ++
+ 3 files changed, 6 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/MetaboCoreUtils
+ create mode 100644 logs/run_ids/rstudio-binaries/imputeLCMD
+ create mode 100644 logs/run_ids/rstudio-binaries/np
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=modeest
++ PKG=modeest
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ grep '^        "'
++ sed -n '/^    "modeest"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 15.3M    0 16320    0     0  42665      0  0:06:17 --:--:--  0:06:17 42610  4 15.3M    4  701k    0     0   511k      0  0:00:30  0:00:01  0:00:29  511k 13 15.3M   13 2087k    0     0   882k      0  0:00:17  0:00:02  0:00:15  882k 27 15.3M   27 4255k    0     0  1267k      0  0:00:12  0:00:03  0:00:09 1267k 45 15.3M   45 7203k    0     0  1645k      0  0:00:09  0:00:04  0:00:05 1645k 69 15.3M   69 10.5M    0     0  2021k      0  0:00:07  0:00:05  0:00:02 2173k 92 15.3M   92 14.2M    0     0  2290k      0  0:00:06  0:00:06 --:--:-- 2779k100 15.3M  100 15.3M    0     0  2353k      0  0:00:06  0:00:06 --:--:-- 3160k
+built/
+built/timeDate/
+built/timeDate/pkgdown.yml
+built/timeDate/NAMESPACE
+built/timeDate/DESCRIPTION
+built/timeDate/help/
+built/timeDate/help/timeDate.rdb
+built/timeDate/help/timeDate.rdx
+built/timeDate/help/paths.rds
+built/timeDate/help/aliases.rds
+built/timeDate/help/AnIndex
+built/timeDate/Meta/
+built/timeDate/Meta/package.rds
+built/timeDate/Meta/features.rds
+built/timeDate/Meta/hsearch.rds
+built/timeDate/Meta/links.rds
+built/timeDate/Meta/nsInfo.rds
+built/timeDate/Meta/Rd.rds
+built/timeDate/COPYRIGHT.html
+built/timeDate/unitTests/
+built/timeDate/unitTests/runit.dayOfYear.R
+built/timeDate/unitTests/runit.HolidayDates.R
+built/timeDate/unitTests/runit.FinCenter.R
+built/timeDate/unitTests/runTests.R
+built/timeDate/unitTests/runit.ZZZ.R
+built/timeDate/unitTests/runit.isWeekday.R
+built/timeDate/unitTests/runit.Class.R
+built/timeDate/unitTests/runit.AAA.R
+built/timeDate/unitTests/runit.seq.R
+built/timeDate/unitTests/runit.DaylightSavingTime.R
+built/timeDate/unitTests/Makefile
+built/timeDate/unitTests/runit.HolidayCalendars.R
+built/timeDate/unitTests/runit.MathOps.R
+built/timeDate/unitTests/runit.SpecialDates.R
+built/timeDate/unitTests/runit.dayOfWeek.R
+built/timeDate/unitTests/runit.isWeekend.R
+built/timeDate/unitTests/runit.Coercion.R
+built/timeDate/unitTests/runit.Subsets.R
+built/timeDate/html/
+built/timeDate/html/00Index.html
+built/timeDate/html/R.css
+built/timeDate/INDEX
+built/timeDate/R/
+built/timeDate/R/timeDate.rdb
+built/timeDate/R/timeDate.rdx
+built/timeDate/R/timeDate
+built/timeDate/R/sysdata.rdb
+built/timeDate/R/sysdata.rdx
+built/timeDate/_pkgdown.yml
+built/timeDate/NEWS.md
+built/built/
+built/built/timeDate/
+built/built/timeDate/pkgdown.yml
+built/built/timeDate/NAMESPACE
+built/built/timeDate/DESCRIPTION
+built/built/timeDate/help/
+built/built/timeDate/help/timeDate.rdb
+built/built/timeDate/help/timeDate.rdx
+built/built/timeDate/help/paths.rds
+built/built/timeDate/help/aliases.rds
+built/built/timeDate/help/AnIndex
+built/built/timeDate/Meta/
+built/built/timeDate/Meta/package.rds
+built/built/timeDate/Meta/features.rds
+built/built/timeDate/Meta/hsearch.rds
+built/built/timeDate/Meta/links.rds
+built/built/timeDate/Meta/nsInfo.rds
+built/built/timeDate/Meta/Rd.rds
+built/built/timeDate/COPYRIGHT.html
+built/built/timeDate/unitTests/
+built/built/timeDate/unitTests/runit.dayOfYear.R
+built/built/timeDate/unitTests/runit.HolidayDates.R
+built/built/timeDate/unitTests/runit.FinCenter.R
+built/built/timeDate/unitTests/runTests.R
+built/built/timeDate/unitTests/runit.ZZZ.R
+built/built/timeDate/unitTests/runit.isWeekday.R
+built/built/timeDate/unitTests/runit.Class.R
+built/built/timeDate/unitTests/runit.AAA.R
+built/built/timeDate/unitTests/runit.seq.R
+built/built/timeDate/unitTests/runit.DaylightSavingTime.R
+built/built/timeDate/unitTests/Makefile
+built/built/timeDate/unitTests/runit.HolidayCalendars.R
+built/built/timeDate/unitTests/runit.MathOps.R
+built/built/timeDate/unitTests/runit.SpecialDates.R
+built/built/timeDate/unitTests/runit.dayOfWeek.R
+built/built/timeDate/unitTests/runit.isWeekend.R
+built/built/timeDate/unitTests/runit.Coercion.R
+built/built/timeDate/unitTests/runit.Subsets.R
+built/built/timeDate/html/
+built/built/timeDate/html/00Index.html
+built/built/timeDate/html/R.css
+built/built/timeDate/INDEX
+built/built/timeDate/R/
+built/built/timeDate/R/timeDate.rdb
+built/built/timeDate/R/timeDate.rdx
+built/built/timeDate/R/timeDate
+built/built/timeDate/R/sysdata.rdb
+built/built/timeDate/R/sysdata.rdx
+built/built/timeDate/_pkgdown.yml
+built/built/timeDate/NEWS.md
+built/built/built/
+built/built/built/timeDate/
+built/built/built/timeDate/pkgdown.yml
+built/built/built/timeDate/NAMESPACE
+built/built/built/timeDate/DESCRIPTION
+built/built/built/timeDate/help/
+built/built/built/timeDate/help/timeDate.rdb
+built/built/built/timeDate/help/timeDate.rdx
+built/built/built/timeDate/help/paths.rds
+built/built/built/timeDate/help/aliases.rds
+built/built/built/timeDate/help/AnIndex
+built/built/built/timeDate/Meta/
+built/built/built/timeDate/Meta/package.rds
+built/built/built/timeDate/Meta/features.rds
+built/built/built/timeDate/Meta/hsearch.rds
+built/built/built/timeDate/Meta/links.rds
+built/built/built/timeDate/Meta/nsInfo.rds
+built/built/built/timeDate/Meta/Rd.rds
+built/built/built/timeDate/COPYRIGHT.html
+built/built/built/timeDate/unitTests/
+built/built/built/timeDate/unitTests/runit.dayOfYear.R
+built/built/built/timeDate/unitTests/runit.HolidayDates.R
+built/built/built/timeDate/unitTests/runit.FinCenter.R
+built/built/built/timeDate/unitTests/runTests.R
+built/built/built/timeDate/unitTests/runit.ZZZ.R
+built/built/built/timeDate/unitTests/runit.isWeekday.R
+built/built/built/timeDate/unitTests/runit.Class.R
+built/built/built/timeDate/unitTests/runit.AAA.R
+built/built/built/timeDate/unitTests/runit.seq.R
+built/built/built/timeDate/unitTests/runit.DaylightSavingTime.R
+built/built/built/timeDate/unitTests/Makefile
+built/built/built/timeDate/unitTests/runit.HolidayCalendars.R
+built/built/built/timeDate/unitTests/runit.MathOps.R
+built/built/built/timeDate/unitTests/runit.SpecialDates.R
+built/built/built/timeDate/unitTests/runit.dayOfWeek.R
+built/built/built/timeDate/unitTests/runit.isWeekend.R
+built/built/built/timeDate/unitTests/runit.Coercion.R
+built/built/built/timeDate/unitTests/runit.Subsets.R
+built/built/built/timeDate/html/
+built/built/built/timeDate/html/00Index.html
+built/built/built/timeDate/html/R.css
+built/built/built/timeDate/INDEX
+built/built/built/timeDate/R/
+built/built/built/timeDate/R/timeDate.rdb
+built/built/built/timeDate/R/timeDate.rdx
+built/built/built/timeDate/R/timeDate
+built/built/built/timeDate/R/sysdata.rdb
+built/built/built/timeDate/R/sysdata.rdx
+built/built/built/timeDate/_pkgdown.yml
+built/built/built/timeDate/NEWS.md
+built/built/timeSeries/
+built/built/timeSeries/COPYING
+built/built/timeSeries/extdata/
+built/built/timeSeries/extdata/msft.csv
+built/built/timeSeries/NAMESPACE
+built/built/timeSeries/DESCRIPTION
+built/built/timeSeries/help/
+built/built/timeSeries/help/paths.rds
+built/built/timeSeries/help/timeSeries.rdb
+built/built/timeSeries/help/aliases.rds
+built/built/timeSeries/help/timeSeries.rdx
+built/built/timeSeries/help/AnIndex
+built/built/timeSeries/data/
+built/built/timeSeries/data/Rdata.rds
+built/built/timeSeries/data/Rdata.rdb
+built/built/timeSeries/data/Rdata.rdx
+built/built/timeSeries/Meta/
+built/built/timeSeries/Meta/package.rds
+built/built/timeSeries/Meta/vignette.rds
+built/built/timeSeries/Meta/features.rds
+built/built/timeSeries/Meta/hsearch.rds
+built/built/timeSeries/Meta/links.rds
+built/built/timeSeries/Meta/nsInfo.rds
+built/built/timeSeries/Meta/Rd.rds
+built/built/timeSeries/Meta/data.rds
+built/built/timeSeries/extensionsTests/
+built/built/timeSeries/extensionsTests/endpointsWrappers.R
+built/built/timeSeries/extensionsTests/alignWrappers.R
+built/built/timeSeries/extensionsTests/attributesExtension.R
+built/built/timeSeries/extensionsTests/chicPlots.R
+built/built/timeSeries/extensionsTests/xtsWrappers.R
+built/built/timeSeries/extensionsTests/aggregateWrappers.R
+built/built/timeSeries/THANKS
+built/built/timeSeries/README
+built/built/timeSeries/unitTests/
+built/built/timeSeries/unitTests/runit.methods-summary.R
+built/built/timeSeries/unitTests/runit.merge.R
+built/built/timeSeries/unitTests/runit.colStats.R
+built/built/timeSeries/unitTests/runit.aggregate.R
+built/built/timeSeries/unitTests/runTests.R
+built/built/timeSeries/unitTests/runit.periodical.R
+built/built/timeSeries/unitTests/runit.colCum.R
+built/built/timeSeries/unitTests/runit.spreads.R
+built/built/timeSeries/unitTests/runit.mathOps.R
+built/built/timeSeries/unitTests/runit.na.contiguous.R
+built/built/timeSeries/unitTests/runit.methods-print.R
+built/built/timeSeries/unitTests/runit.as.R
+built/built/timeSeries/unitTests/runit.rank.R
+built/built/timeSeries/unitTests/runit.TimeSeriesData.R
+built/built/timeSeries/unitTests/runit.signalCounts.R
+built/built/timeSeries/unitTests/runit.methods-plot.R
+built/built/timeSeries/unitTests/runit.apply.R
+built/built/timeSeries/unitTests/runit.bind.R
+built/built/timeSeries/unitTests/runit.Omit.R
+built/built/timeSeries/unitTests/runit.dim.R
+built/built/timeSeries/unitTests/runit.TimeSeriesCoercion.R
+built/built/timeSeries/unitTests/runit.cor.R
+built/built/timeSeries/unitTests/runit.timeSeries.R
+built/built/timeSeries/unitTests/runit.time.R
+built/built/timeSeries/unitTests/Makefile
+built/built/timeSeries/unitTests/runit.TimeSeriesPositions.R
+built/built/timeSeries/unitTests/runit.subset.R
+built/built/timeSeries/unitTests/runit.TimeSeriesClass.R
+built/built/timeSeries/unitTests/runit.model.frame.R
+built/built/timeSeries/unitTests/runit.lag.R
+built/built/timeSeries/unitTests/runit.monthly.R
+built/built/timeSeries/unitTests/runit.align.R
+built/built/timeSeries/unitTests/runit.drawdowns.R
+built/built/timeSeries/unitTests/runit.daily.R
+built/built/timeSeries/unitTests/runit.durations.R
+built/built/timeSeries/unitTests/runit.NA.R
+built/built/timeSeries/unitTests/runit.attach.R
+built/built/timeSeries/unitTests/runit.cumulated.R
+built/built/timeSeries/unitTests/runit.rowCum.R
+built/built/timeSeries/unitTests/runit.returns.R
+built/built/timeSeries/unitTests/runit.order.R
+built/built/timeSeries/html/
+built/built/timeSeries/html/00Index.html
+built/built/timeSeries/html/R.css
+built/built/timeSeries/INDEX
+built/built/timeSeries/doc/
+built/built/timeSeries/doc/timeSeriesRefCard.pdf
+built/built/timeSeries/doc/timeSeriesPlot.Rnw
+built/built/timeSeries/doc/timeSeriesPlot.R
+built/built/timeSeries/doc/timeSeriesPlot.pdf
+built/built/timeSeries/doc/index.html
+built/built/timeSeries/R/
+built/built/timeSeries/R/timeSeries.rdb
+built/built/timeSeries/R/timeSeries.rdx
+built/built/timeSeries/R/timeSeries
+built/built/timeSeries/COPYRIGHTS
+built/built/timeSeries/_pkgdown.yml
+built/built/timeSeries/NEWS.md
+built/spatial/
+built/spatial/libs/
+built/spatial/libs/spatial.so
+built/spatial/NEWS
+built/spatial/NAMESPACE
+built/spatial/DESCRIPTION
+built/spatial/help/
+built/spatial/help/paths.rds
+built/spatial/help/aliases.rds
+built/spatial/help/AnIndex
+built/spatial/help/spatial.rdx
+built/spatial/help/spatial.rdb
+built/spatial/PP.files
+built/spatial/Meta/
+built/spatial/Meta/package.rds
+built/spatial/Meta/features.rds
+built/spatial/Meta/hsearch.rds
+built/spatial/Meta/links.rds
+built/spatial/Meta/nsInfo.rds
+built/spatial/Meta/Rd.rds
+built/spatial/po/
+built/spatial/po/it/
+built/spatial/po/it/LC_MESSAGES/
+built/spatial/po/it/LC_MESSAGES/R-spatial.mo
+built/spatial/po/fr/
+built/spatial/po/fr/LC_MESSAGES/
+built/spatial/po/fr/LC_MESSAGES/R-spatial.mo
+built/spatial/po/ko/
+built/spatial/po/ko/LC_MESSAGES/
+built/spatial/po/ko/LC_MESSAGES/R-spatial.mo
+built/spatial/po/pl/
+built/spatial/po/pl/LC_MESSAGES/
+built/spatial/po/pl/LC_MESSAGES/R-spatial.mo
+built/spatial/po/en@quot/
+built/spatial/po/en@quot/LC_MESSAGES/
+built/spatial/po/en@quot/LC_MESSAGES/R-spatial.mo
+built/spatial/po/de/
+built/spatial/po/de/LC_MESSAGES/
+built/spatial/po/de/LC_MESSAGES/R-spatial.mo
+built/spatial/ppdata/
+built/spatial/ppdata/fig3b.dat
+built/spatial/ppdata/fig1b.dat
+built/spatial/ppdata/fig3c.dat
+built/spatial/ppdata/caveolae.dat
+built/spatial/ppdata/cells.dat
+built/spatial/ppdata/pairfn.dat
+built/spatial/ppdata/tokyo.dat
+built/spatial/ppdata/fig3a.dat
+built/spatial/ppdata/pines.dat
+built/spatial/ppdata/pereg.dat
+built/spatial/ppdata/towns.dat
+built/spatial/ppdata/hccells.dat
+built/spatial/ppdata/davis.dat
+built/spatial/ppdata/fig2b.dat
+built/spatial/ppdata/drumlin.dat
+built/spatial/ppdata/nztrees.dat
+built/spatial/ppdata/redwood.dat
+built/spatial/ppdata/fig1c.dat
+built/spatial/ppdata/agter.dat
+built/spatial/ppdata/schools.dat
+built/spatial/ppdata/eagles.dat
+built/spatial/ppdata/fig2a.dat
+built/spatial/ppdata/grocery.dat
+built/spatial/ppdata/stowns1.dat
+built/spatial/CITATION
+built/spatial/html/
+built/spatial/html/00Index.html
+built/spatial/html/R.css
+built/spatial/INDEX
+built/spatial/R/
+built/spatial/R/spatial
+built/spatial/R/spatial.rdx
+built/spatial/R/spatial.rdb
+built/gss/
+built/gss/libs/
+built/gss/libs/gss.so
+built/gss/NAMESPACE
+built/gss/DESCRIPTION
+built/gss/help/
+built/gss/help/paths.rds
+built/gss/help/gss.rdb
+built/gss/help/aliases.rds
+built/gss/help/AnIndex
+built/gss/help/gss.rdx
+built/gss/data/
+built/gss/data/esc.rda
+built/gss/data/Sachs.rda
+built/gss/data/datalist
+built/gss/data/bacteriuria.rda
+built/gss/data/ozone.rda
+built/gss/data/nox.rda
+built/gss/data/penny.rda
+built/gss/data/wesdr.rda
+built/gss/data/gastric.rda
+built/gss/data/eyetrack.rda
+built/gss/data/wesdr1.rda
+built/gss/data/clim.rda
+built/gss/data/DiaRet.rda
+built/gss/data/NO2.rda
+built/gss/data/buffalo.rda
+built/gss/data/ColoCan.rda
+built/gss/data/aids.rda
+built/gss/data/stan.rda
+built/gss/data/LakeAcidity.rda
+built/gss/Meta/
+built/gss/Meta/package.rds
+built/gss/Meta/features.rds
+built/gss/Meta/hsearch.rds
+built/gss/Meta/links.rds
+built/gss/Meta/nsInfo.rds
+built/gss/Meta/Rd.rds
+built/gss/Meta/data.rds
+built/gss/CITATION
+built/gss/html/
+built/gss/html/00Index.html
+built/gss/html/R.css
+built/gss/INDEX
+built/gss/R/
+built/gss/R/gss.rdb
+built/gss/R/gss
+built/gss/R/gss.rdx
+built/stabledist/
+built/stabledist/NAMESPACE
+built/stabledist/DESCRIPTION
+built/stabledist/help/
+built/stabledist/help/paths.rds
+built/stabledist/help/stabledist.rdb
+built/stabledist/help/stabledist.rdx
+built/stabledist/help/aliases.rds
+built/stabledist/help/AnIndex
+built/stabledist/Meta/
+built/stabledist/Meta/package.rds
+built/stabledist/Meta/features.rds
+built/stabledist/Meta/hsearch.rds
+built/stabledist/Meta/links.rds
+built/stabledist/Meta/nsInfo.rds
+built/stabledist/Meta/Rd.rds
+built/stabledist/unitTests/
+built/stabledist/unitTests/runTests.R
+built/stabledist/unitTests/Makefile
+built/stabledist/unitTests/runit.StableDistribution.R
+built/stabledist/html/
+built/stabledist/html/00Index.html
+built/stabledist/html/R.css
+built/stabledist/INDEX
+built/stabledist/R/
+built/stabledist/R/stabledist.rdb
+built/stabledist/R/stabledist.rdx
+built/stabledist/R/stabledist
+built/stabledist/xtraR/
+built/stabledist/xtraR/Levy.R
+built/MASS/
+built/MASS/libs/
+built/MASS/libs/MASS.so
+built/MASS/NEWS
+built/MASS/NAMESPACE
+built/MASS/DESCRIPTION
+built/MASS/help/
+built/MASS/help/paths.rds
+built/MASS/help/MASS.rdx
+built/MASS/help/MASS.rdb
+built/MASS/help/aliases.rds
+built/MASS/help/AnIndex
+built/MASS/data/
+built/MASS/data/Rdata.rds
+built/MASS/data/Rdata.rdb
+built/MASS/data/Rdata.rdx
+built/MASS/Meta/
+built/MASS/Meta/package.rds
+built/MASS/Meta/features.rds
+built/MASS/Meta/hsearch.rds
+built/MASS/Meta/links.rds
+built/MASS/Meta/nsInfo.rds
+built/MASS/Meta/Rd.rds
+built/MASS/Meta/data.rds
+built/MASS/scripts/
+built/MASS/scripts/ch08.R
+built/MASS/scripts/ch13.R
+built/MASS/scripts/ch14.R
+built/MASS/scripts/ch11.R
+built/MASS/scripts/ch02.R
+built/MASS/scripts/ch10.R
+built/MASS/scripts/ch15.R
+built/MASS/scripts/ch05.R
+built/MASS/scripts/ch16.R
+built/MASS/scripts/ch12.R
+built/MASS/scripts/ch03.R
+built/MASS/scripts/ch01.R
+built/MASS/scripts/ch09.R
+built/MASS/scripts/ch06.R
+built/MASS/scripts/ch04.R
+built/MASS/scripts/ch07.R
+built/MASS/po/
+built/MASS/po/it/
+built/MASS/po/it/LC_MESSAGES/
+built/MASS/po/it/LC_MESSAGES/R-MASS.mo
+built/MASS/po/fr/
+built/MASS/po/fr/LC_MESSAGES/
+built/MASS/po/fr/LC_MESSAGES/R-MASS.mo
+built/MASS/po/ko/
+built/MASS/po/ko/LC_MESSAGES/
+built/MASS/po/ko/LC_MESSAGES/R-MASS.mo
+built/MASS/po/pl/
+built/MASS/po/pl/LC_MESSAGES/
+built/MASS/po/pl/LC_MESSAGES/R-MASS.mo
+built/MASS/po/en@quot/
+built/MASS/po/en@quot/LC_MESSAGES/
+built/MASS/po/en@quot/LC_MESSAGES/R-MASS.mo
+built/MASS/po/de/
+built/MASS/po/de/LC_MESSAGES/
+built/MASS/po/de/LC_MESSAGES/R-MASS.mo
+built/MASS/CITATION
+built/MASS/html/
+built/MASS/html/00Index.html
+built/MASS/html/R.css
+built/MASS/INDEX
+built/MASS/R/
+built/MASS/R/MASS.rdx
+built/MASS/R/MASS.rdb
+built/MASS/R/MASS
+built/fBasics/
+built/fBasics/libs/
+built/fBasics/libs/fBasics.so
+built/fBasics/pkgdown.yml
+built/fBasics/NAMESPACE
+built/fBasics/DESCRIPTION
+built/fBasics/help/
+built/fBasics/help/paths.rds
+built/fBasics/help/aliases.rds
+built/fBasics/help/fBasics.rdb
+built/fBasics/help/AnIndex
+built/fBasics/help/fBasics.rdx
+built/fBasics/data/
+built/fBasics/data/Rdata.rds
+built/fBasics/data/Rdata.rdb
+built/fBasics/data/Rdata.rdx
+built/fBasics/Meta/
+built/fBasics/Meta/package.rds
+built/fBasics/Meta/features.rds
+built/fBasics/Meta/hsearch.rds
+built/fBasics/Meta/links.rds
+built/fBasics/Meta/nsInfo.rds
+built/fBasics/Meta/Rd.rds
+built/fBasics/Meta/data.rds
+built/fBasics/unitTests/
+built/fBasics/unitTests/runit.krigeInterp.R
+built/fBasics/unitTests/runit.symbolTable.R
+built/fBasics/unitTests/runit.rgb.R
+built/fBasics/unitTests/runit.Sys.putenv.R
+built/fBasics/unitTests/runit.sliderMenu.R
+built/fBasics/unitTests/runit.HyperbolicDistribution.R
+built/fBasics/unitTests/runit.unitrootNA.R
+built/fBasics/unitTests/runit.DistributionFits.R
+built/fBasics/unitTests/runit.matrixAddon.R
+built/fBasics/unitTests/HeavisideSlider.R
+built/fBasics/unitTests/runit.as.matrix.ts.R
+built/fBasics/unitTests/runit.kurtosis.R
+built/fBasics/unitTests/runit.colorLocator.R
+built/fBasics/unitTests/runit.print.R
+built/fBasics/unitTests/runit.colStats.R
+built/fBasics/unitTests/runTests.R
+built/fBasics/unitTests/runit.JarqueBeraPValues.R
+built/fBasics/unitTests/runit.listFunctions.R
+built/fBasics/unitTests/runit.colorPalette.R
+built/fBasics/unitTests/runit.skewness.R
+built/fBasics/unitTests/runit.linearInterp.R
+built/fBasics/unitTests/runit.Heaviside.R
+built/fBasics/unitTests/runit.lcg.R
+built/fBasics/unitTests/runit.distCheck.R
+built/fBasics/unitTests/runit.decor.R
+built/fBasics/unitTests/runit.interactivePlot.R
+built/fBasics/unitTests/runit.gridVector.R
+built/fBasics/unitTests/runit.subStars.R
+built/fBasics/unitTests/runit.baseMethods.R
+built/fBasics/unitTests/runit.julian.R
+built/fBasics/unitTests/runit.listIndex.R
+built/fBasics/unitTests/Makefile
+built/fBasics/unitTests/runit.akimaInterp.R
+built/fBasics/unitTests/runit.characterTable.R
+built/fBasics/unitTests/runit.fHTEST.R
+built/fBasics/unitTests/runit.plot.R
+built/fBasics/unitTests/runit.asPOSIXlt.R
+built/fBasics/unitTests/runit.listDescription.R
+built/fBasics/unitTests/runit.rowStats.R
+built/fBasics/unitTests/runit.colorTable.R
+built/fBasics/unitTests/runit.description.R
+built/fBasics/unitTests/runit.NormalityTests.R
+built/fBasics/unitTests/runit.StylizedFacts.R
+built/fBasics/unitTests/runit.subPlot.R
+built/fBasics/unitTests/runit.ReturnSeriesBasics.R
+built/fBasics/unitTests/runit.getS4.R
+built/fBasics/unitTests/runit.TwoSampleTests.R
+built/fBasics/html/
+built/fBasics/html/00Index.html
+built/fBasics/html/R.css
+built/fBasics/INDEX
+built/fBasics/R/
+built/fBasics/R/fBasics.rdb
+built/fBasics/R/fBasics
+built/fBasics/R/fBasics.rdx
+built/fBasics/_pkgdown.yml
+built/fBasics/NEWS.md
+built/timeSeries/
+built/timeSeries/COPYING
+built/timeSeries/extdata/
+built/timeSeries/extdata/msft.csv
+built/timeSeries/NAMESPACE
+built/timeSeries/DESCRIPTION
+built/timeSeries/help/
+built/timeSeries/help/paths.rds
+built/timeSeries/help/timeSeries.rdb
+built/timeSeries/help/aliases.rds
+built/timeSeries/help/timeSeries.rdx
+built/timeSeries/help/AnIndex
+built/timeSeries/data/
+built/timeSeries/data/Rdata.rds
+built/timeSeries/data/Rdata.rdb
+built/timeSeries/data/Rdata.rdx
+built/timeSeries/Meta/
+built/timeSeries/Meta/package.rds
+built/timeSeries/Meta/vignette.rds
+built/timeSeries/Meta/features.rds
+built/timeSeries/Meta/hsearch.rds
+built/timeSeries/Meta/links.rds
+built/timeSeries/Meta/nsInfo.rds
+built/timeSeries/Meta/Rd.rds
+built/timeSeries/Meta/data.rds
+built/timeSeries/extensionsTests/
+built/timeSeries/extensionsTests/endpointsWrappers.R
+built/timeSeries/extensionsTests/alignWrappers.R
+built/timeSeries/extensionsTests/attributesExtension.R
+built/timeSeries/extensionsTests/chicPlots.R
+built/timeSeries/extensionsTests/xtsWrappers.R
+built/timeSeries/extensionsTests/aggregateWrappers.R
+built/timeSeries/THANKS
+built/timeSeries/README
+built/timeSeries/unitTests/
+built/timeSeries/unitTests/runit.methods-summary.R
+built/timeSeries/unitTests/runit.merge.R
+built/timeSeries/unitTests/runit.colStats.R
+built/timeSeries/unitTests/runit.aggregate.R
+built/timeSeries/unitTests/runTests.R
+built/timeSeries/unitTests/runit.periodical.R
+built/timeSeries/unitTests/runit.colCum.R
+built/timeSeries/unitTests/runit.spreads.R
+built/timeSeries/unitTests/runit.mathOps.R
+built/timeSeries/unitTests/runit.na.contiguous.R
+built/timeSeries/unitTests/runit.methods-print.R
+built/timeSeries/unitTests/runit.as.R
+built/timeSeries/unitTests/runit.rank.R
+built/timeSeries/unitTests/runit.TimeSeriesData.R
+built/timeSeries/unitTests/runit.signalCounts.R
+built/timeSeries/unitTests/runit.methods-plot.R
+built/timeSeries/unitTests/runit.apply.R
+built/timeSeries/unitTests/runit.bind.R
+built/timeSeries/unitTests/runit.Omit.R
+built/timeSeries/unitTests/runit.dim.R
+built/timeSeries/unitTests/runit.TimeSeriesCoercion.R
+built/timeSeries/unitTests/runit.cor.R
+built/timeSeries/unitTests/runit.timeSeries.R
+built/timeSeries/unitTests/runit.time.R
+built/timeSeries/unitTests/Makefile
+built/timeSeries/unitTests/runit.TimeSeriesPositions.R
+built/timeSeries/unitTests/runit.subset.R
+built/timeSeries/unitTests/runit.TimeSeriesClass.R
+built/timeSeries/unitTests/runit.model.frame.R
+built/timeSeries/unitTests/runit.lag.R
+built/timeSeries/unitTests/runit.monthly.R
+built/timeSeries/unitTests/runit.align.R
+built/timeSeries/unitTests/runit.drawdowns.R
+built/timeSeries/unitTests/runit.daily.R
+built/timeSeries/unitTests/runit.durations.R
+built/timeSeries/unitTests/runit.NA.R
+built/timeSeries/unitTests/runit.attach.R
+built/timeSeries/unitTests/runit.cumulated.R
+built/timeSeries/unitTests/runit.rowCum.R
+built/timeSeries/unitTests/runit.returns.R
+built/timeSeries/unitTests/runit.order.R
+built/timeSeries/html/
+built/timeSeries/html/00Index.html
+built/timeSeries/html/R.css
+built/timeSeries/INDEX
+built/timeSeries/doc/
+built/timeSeries/doc/timeSeriesRefCard.pdf
+built/timeSeries/doc/timeSeriesPlot.Rnw
+built/timeSeries/doc/timeSeriesPlot.R
+built/timeSeries/doc/timeSeriesPlot.pdf
+built/timeSeries/doc/index.html
+built/timeSeries/R/
+built/timeSeries/R/timeSeries.rdb
+built/timeSeries/R/timeSeries.rdx
+built/timeSeries/R/timeSeries
+built/timeSeries/COPYRIGHTS
+built/timeSeries/_pkgdown.yml
+built/timeSeries/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4 1581k    4 65280    0     0   146k      0  0:00:10 --:--:--  0:00:10  146k 58 1581k   58  924k    0     0   651k      0  0:00:02  0:00:01  0:00:01  650k100 1581k  100 1581k    0     0   859k      0  0:00:01  0:00:01 --:--:--  859k
+built/
+built/built/
+built/built/rmutil/
+built/built/rmutil/libs/
+built/built/rmutil/libs/rmutil.so
+built/built/rmutil/NAMESPACE
+built/built/rmutil/DESCRIPTION
+built/built/rmutil/help/
+built/built/rmutil/help/paths.rds
+built/built/rmutil/help/rmutil.rdb
+built/built/rmutil/help/rmutil.rdx
+built/built/rmutil/help/aliases.rds
+built/built/rmutil/help/AnIndex
+built/built/rmutil/Meta/
+built/built/rmutil/Meta/package.rds
+built/built/rmutil/Meta/features.rds
+built/built/rmutil/Meta/hsearch.rds
+built/built/rmutil/Meta/links.rds
+built/built/rmutil/Meta/nsInfo.rds
+built/built/rmutil/Meta/Rd.rds
+built/built/rmutil/html/
+built/built/rmutil/html/00Index.html
+built/built/rmutil/html/R.css
+built/built/rmutil/INDEX
+built/built/rmutil/R/
+built/built/rmutil/R/rmutil.rdb
+built/built/rmutil/R/rmutil.rdx
+built/built/rmutil/R/rmutil
+built/built/rmutil/NEWS.md
+built/rmutil/
+built/rmutil/libs/
+built/rmutil/libs/rmutil.so
+built/rmutil/NAMESPACE
+built/rmutil/DESCRIPTION
+built/rmutil/help/
+built/rmutil/help/paths.rds
+built/rmutil/help/rmutil.rdb
+built/rmutil/help/rmutil.rdx
+built/rmutil/help/aliases.rds
+built/rmutil/help/AnIndex
+built/rmutil/Meta/
+built/rmutil/Meta/package.rds
+built/rmutil/Meta/features.rds
+built/rmutil/Meta/hsearch.rds
+built/rmutil/Meta/links.rds
+built/rmutil/Meta/nsInfo.rds
+built/rmutil/Meta/Rd.rds
+built/rmutil/html/
+built/rmutil/html/00Index.html
+built/rmutil/html/R.css
+built/rmutil/INDEX
+built/rmutil/R/
+built/rmutil/R/rmutil.rdb
+built/rmutil/R/rmutil.rdx
+built/rmutil/R/rmutil
+built/rmutil/NEWS.md
+built/stable/
+built/stable/libs/
+built/stable/libs/stable.so
+built/stable/NAMESPACE
+built/stable/DESCRIPTION
+built/stable/help/
+built/stable/help/paths.rds
+built/stable/help/stable.rdb
+built/stable/help/stable.rdx
+built/stable/help/aliases.rds
+built/stable/help/AnIndex
+built/stable/Meta/
+built/stable/Meta/package.rds
+built/stable/Meta/features.rds
+built/stable/Meta/hsearch.rds
+built/stable/Meta/links.rds
+built/stable/Meta/nsInfo.rds
+built/stable/Meta/Rd.rds
+built/stable/html/
+built/stable/html/00Index.html
+built/stable/html/R.css
+built/stable/INDEX
+built/stable/R/
+built/stable/R/stable.rdb
+built/stable/R/stable.rdx
+built/stable/R/stable
+built/stable/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 3626k    2  107k    0     0   193k      0  0:00:18 --:--:--  0:00:18  193k 25 3626k   25  920k    0     0   595k      0  0:00:06  0:00:01  0:00:05  595k 67 3626k   67 2450k    0     0   966k      0  0:00:03  0:00:02  0:00:01  966k100 3626k  100 3626k    0     0  1183k      0  0:00:03  0:00:03 --:--:-- 1184k
+built/
+built/built/
+built/built/rpart/
+built/built/rpart/libs/
+built/built/rpart/libs/rpart.so
+built/built/rpart/NAMESPACE
+built/built/rpart/DESCRIPTION
+built/built/rpart/help/
+built/built/rpart/help/rpart.rdb
+built/built/rpart/help/paths.rds
+built/built/rpart/help/rpart.rdx
+built/built/rpart/help/aliases.rds
+built/built/rpart/help/figures/
+built/built/rpart/help/figures/rpart.png
+built/built/rpart/help/AnIndex
+built/built/rpart/data/
+built/built/rpart/data/Rdata.rds
+built/built/rpart/data/Rdata.rdb
+built/built/rpart/data/Rdata.rdx
+built/built/rpart/Meta/
+built/built/rpart/Meta/package.rds
+built/built/rpart/Meta/vignette.rds
+built/built/rpart/Meta/features.rds
+built/built/rpart/Meta/hsearch.rds
+built/built/rpart/Meta/links.rds
+built/built/rpart/Meta/nsInfo.rds
+built/built/rpart/Meta/Rd.rds
+built/built/rpart/Meta/data.rds
+built/built/rpart/NEWS.Rd
+built/built/rpart/po/
+built/built/rpart/po/fr/
+built/built/rpart/po/fr/LC_MESSAGES/
+built/built/rpart/po/fr/LC_MESSAGES/R-rpart.mo
+built/built/rpart/po/fr/LC_MESSAGES/rpart.mo
+built/built/rpart/po/ko/
+built/built/rpart/po/ko/LC_MESSAGES/
+built/built/rpart/po/ko/LC_MESSAGES/R-rpart.mo
+built/built/rpart/po/ko/LC_MESSAGES/rpart.mo
+built/built/rpart/po/pl/
+built/built/rpart/po/pl/LC_MESSAGES/
+built/built/rpart/po/pl/LC_MESSAGES/R-rpart.mo
+built/built/rpart/po/pl/LC_MESSAGES/rpart.mo
+built/built/rpart/po/en@quot/
+built/built/rpart/po/en@quot/LC_MESSAGES/
+built/built/rpart/po/en@quot/LC_MESSAGES/R-rpart.mo
+built/built/rpart/po/en@quot/LC_MESSAGES/rpart.mo
+built/built/rpart/po/de/
+built/built/rpart/po/de/LC_MESSAGES/
+built/built/rpart/po/de/LC_MESSAGES/R-rpart.mo
+built/built/rpart/po/de/LC_MESSAGES/rpart.mo
+built/built/rpart/po/ru/
+built/built/rpart/po/ru/LC_MESSAGES/
+built/built/rpart/po/ru/LC_MESSAGES/R-rpart.mo
+built/built/rpart/po/ru/LC_MESSAGES/rpart.mo
+built/built/rpart/html/
+built/built/rpart/html/00Index.html
+built/built/rpart/html/R.css
+built/built/rpart/INDEX
+built/built/rpart/doc/
+built/built/rpart/doc/usercode.R
+built/built/rpart/doc/longintro.R
+built/built/rpart/doc/longintro.pdf
+built/built/rpart/doc/longintro.Rnw
+built/built/rpart/doc/usercode.pdf
+built/built/rpart/doc/usercode.Rnw
+built/built/rpart/doc/index.html
+built/built/rpart/R/
+built/built/rpart/R/rpart.rdb
+built/built/rpart/R/rpart.rdx
+built/built/rpart/R/rpart
+built/built/clue/
+built/built/clue/libs/
+built/built/clue/libs/clue.so
+built/built/clue/NAMESPACE
+built/built/clue/DESCRIPTION
+built/built/clue/help/
+built/built/clue/help/paths.rds
+built/built/clue/help/clue.rdx
+built/built/clue/help/aliases.rds
+built/built/clue/help/clue.rdb
+built/built/clue/help/AnIndex
+built/built/clue/data/
+built/built/clue/data/GVME_Consensus.rda
+built/built/clue/data/Cassini.rda
+built/built/clue/data/Phonemes.rda
+built/built/clue/data/GVME.rda
+built/built/clue/data/Kinship82_Consensus.rda
+built/built/clue/data/Kinship82.rda
+built/built/clue/data/CKME.rda
+built/built/clue/Meta/
+built/built/clue/Meta/package.rds
+built/built/clue/Meta/vignette.rds
+built/built/clue/Meta/features.rds
+built/built/clue/Meta/hsearch.rds
+built/built/clue/Meta/links.rds
+built/built/clue/Meta/nsInfo.rds
+built/built/clue/Meta/Rd.rds
+built/built/clue/Meta/data.rds
+built/built/clue/po/
+built/built/clue/po/en@quot/
+built/built/clue/po/en@quot/LC_MESSAGES/
+built/built/clue/po/en@quot/LC_MESSAGES/R-clue.mo
+built/built/clue/CITATION
+built/built/clue/html/
+built/built/clue/html/00Index.html
+built/built/clue/html/R.css
+built/built/clue/INDEX
+built/built/clue/doc/
+built/built/clue/doc/clue.Rnw
+built/built/clue/doc/clue.pdf
+built/built/clue/doc/index.html
+built/built/clue/doc/clue.R
+built/built/clue/R/
+built/built/clue/R/clue.rdx
+built/built/clue/R/clue
+built/built/clue/R/clue.rdb
+built/built/cluster/
+built/built/cluster/libs/
+built/built/cluster/libs/cluster.so
+built/built/cluster/NAMESPACE
+built/built/cluster/DESCRIPTION
+built/built/cluster/help/
+built/built/cluster/help/paths.rds
+built/built/cluster/help/cluster.rdx
+built/built/cluster/help/aliases.rds
+built/built/cluster/help/cluster.rdb
+built/built/cluster/help/AnIndex
+built/built/cluster/data/
+built/built/cluster/data/Rdata.rds
+built/built/cluster/data/Rdata.rdb
+built/built/cluster/data/Rdata.rdx
+built/built/cluster/Meta/
+built/built/cluster/Meta/package.rds
+built/built/cluster/Meta/features.rds
+built/built/cluster/Meta/hsearch.rds
+built/built/cluster/Meta/links.rds
+built/built/cluster/Meta/nsInfo.rds
+built/built/cluster/Meta/Rd.rds
+built/built/cluster/Meta/data.rds
+built/built/cluster/NEWS.Rd
+built/built/cluster/test-tools.R
+built/built/cluster/po/
+built/built/cluster/po/lt/
+built/built/cluster/po/lt/LC_MESSAGES/
+built/built/cluster/po/lt/LC_MESSAGES/cluster.mo
+built/built/cluster/po/lt/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/it/
+built/built/cluster/po/it/LC_MESSAGES/
+built/built/cluster/po/it/LC_MESSAGES/cluster.mo
+built/built/cluster/po/it/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/fr/
+built/built/cluster/po/fr/LC_MESSAGES/
+built/built/cluster/po/fr/LC_MESSAGES/cluster.mo
+built/built/cluster/po/fr/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/ko/
+built/built/cluster/po/ko/LC_MESSAGES/
+built/built/cluster/po/ko/LC_MESSAGES/cluster.mo
+built/built/cluster/po/ko/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/pl/
+built/built/cluster/po/pl/LC_MESSAGES/
+built/built/cluster/po/pl/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/en@quot/
+built/built/cluster/po/en@quot/LC_MESSAGES/
+built/built/cluster/po/en@quot/LC_MESSAGES/cluster.mo
+built/built/cluster/po/en@quot/LC_MESSAGES/R-cluster.mo
+built/built/cluster/po/de/
+built/built/cluster/po/de/LC_MESSAGES/
+built/built/cluster/po/de/LC_MESSAGES/cluster.mo
+built/built/cluster/po/de/LC_MESSAGES/R-cluster.mo
+built/built/cluster/CITATION
+built/built/cluster/html/
+built/built/cluster/html/00Index.html
+built/built/cluster/html/R.css
+built/built/cluster/INDEX
+built/built/cluster/R/
+built/built/cluster/R/cluster.rdx
+built/built/cluster/R/cluster.rdb
+built/built/cluster/R/cluster
+built/statip/
+built/statip/libs/
+built/statip/libs/statip.so
+built/statip/NAMESPACE
+built/statip/DESCRIPTION
+built/statip/help/
+built/statip/help/paths.rds
+built/statip/help/statip.rdb
+built/statip/help/aliases.rds
+built/statip/help/statip.rdx
+built/statip/help/AnIndex
+built/statip/Meta/
+built/statip/Meta/package.rds
+built/statip/Meta/features.rds
+built/statip/Meta/hsearch.rds
+built/statip/Meta/links.rds
+built/statip/Meta/nsInfo.rds
+built/statip/Meta/Rd.rds
+built/statip/html/
+built/statip/html/00Index.html
+built/statip/html/R.css
+built/statip/INDEX
+built/statip/R/
+built/statip/R/statip.rdb
+built/statip/R/statip.rdx
+built/statip/R/statip
+built/statip/NEWS.md
+built/clue/
+built/clue/libs/
+built/clue/libs/clue.so
+built/clue/NAMESPACE
+built/clue/DESCRIPTION
+built/clue/help/
+built/clue/help/paths.rds
+built/clue/help/clue.rdx
+built/clue/help/aliases.rds
+built/clue/help/clue.rdb
+built/clue/help/AnIndex
+built/clue/data/
+built/clue/data/GVME_Consensus.rda
+built/clue/data/Cassini.rda
+built/clue/data/Phonemes.rda
+built/clue/data/GVME.rda
+built/clue/data/Kinship82_Consensus.rda
+built/clue/data/Kinship82.rda
+built/clue/data/CKME.rda
+built/clue/Meta/
+built/clue/Meta/package.rds
+built/clue/Meta/vignette.rds
+built/clue/Meta/features.rds
+built/clue/Meta/hsearch.rds
+built/clue/Meta/links.rds
+built/clue/Meta/nsInfo.rds
+built/clue/Meta/Rd.rds
+built/clue/Meta/data.rds
+built/clue/po/
+built/clue/po/en@quot/
+built/clue/po/en@quot/LC_MESSAGES/
+built/clue/po/en@quot/LC_MESSAGES/R-clue.mo
+built/clue/CITATION
+built/clue/html/
+built/clue/html/00Index.html
+built/clue/html/R.css
+built/clue/INDEX
+built/clue/doc/
+built/clue/doc/clue.Rnw
+built/clue/doc/clue.pdf
+built/clue/doc/index.html
+built/clue/doc/clue.R
+built/clue/R/
+built/clue/R/clue.rdx
+built/clue/R/clue
+built/clue/R/clue.rdb
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''modeest'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv clue_0.3-63_R_x86_64-pc-linux-gnu.tar.gz fBasics_4021.93_R_x86_64-pc-linux-gnu.tar.gz gss_2.2-3_R_x86_64-pc-linux-gnu.tar.gz modeest_2.4.0_R_x86_64-pc-linux-gnu.tar.gz rmutil_1.1.10_R_x86_64-pc-linux-gnu.tar.gz stable_1.1.6_R_x86_64-pc-linux-gnu.tar.gz stabledist_0.7-1_R_x86_64-pc-linux-gnu.tar.gz statip_0.2.3_R_x86_64-pc-linux-gnu.tar.gz timeDate_4021.107_R_x86_64-pc-linux-gnu.tar.gz timeSeries_4021.105_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/modeest
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'modeest'
+also installing the dependencies ‘timeDate’, ‘timeSeries’, ‘gss’, ‘rmutil’, ‘clue’, ‘fBasics’, ‘stable’, ‘stabledist’, ‘statip’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/timeDate_4021.107.tar.gz'
+Content type 'binary/octet-stream' length 2076064 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/timeSeries_4021.105.tar.gz'
+Content type 'binary/octet-stream' length 2022297 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gss_2.2-3.tar.gz'
+Content type 'binary/octet-stream' length 1779627 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/rmutil_1.1.10.tar.gz'
+Content type 'binary/octet-stream' length 748440 bytes (730 KB)
+==================================================
+downloaded 730 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/clue_0.3-63.tar.gz'
+Content type 'binary/octet-stream' length 989547 bytes (966 KB)
+==================================================
+downloaded 966 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/fBasics_4021.93.tar.gz'
+Content type 'binary/octet-stream' length 2670390 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/stable_1.1.6.tar.gz'
+Content type 'binary/octet-stream' length 126483 bytes (123 KB)
+==================================================
+downloaded 123 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/stabledist_0.7-1.tar.gz'
+Content type 'binary/octet-stream' length 72361 bytes (70 KB)
+==================================================
+downloaded 70 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/statip_0.2.3.tar.gz'
+Content type 'binary/octet-stream' length 107926 bytes (105 KB)
+==================================================
+downloaded 105 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/modeest_2.4.0.tar.gz'
+Content type 'binary/octet-stream' length 141284 bytes (137 KB)
+==================================================
+downloaded 137 KB
+
+* installing *binary* package ‘timeDate’ ...
+* ‘timeDate’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘timeDate’ as ‘timeDate_4021.107_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (timeDate)
+* installing *binary* package ‘gss’ ...
+* ‘gss’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gss’ as ‘gss_2.2-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gss)
+* installing *binary* package ‘rmutil’ ...
+* ‘rmutil’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rmutil’ as ‘rmutil_1.1.10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rmutil)
+* installing *binary* package ‘clue’ ...
+* ‘clue’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clue’ as ‘clue_0.3-63_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clue)
+* installing *binary* package ‘stabledist’ ...
+* ‘stabledist’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘stabledist’ as ‘stabledist_0.7-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (stabledist)
+* installing *binary* package ‘timeSeries’ ...
+* ‘timeSeries’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘timeSeries’ as ‘timeSeries_4021.105_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (timeSeries)
+* installing *binary* package ‘stable’ ...
+* ‘stable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘stable’ as ‘stable_1.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (stable)
+* installing *binary* package ‘statip’ ...
+* ‘statip’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘statip’ as ‘statip_0.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (statip)
+* installing *binary* package ‘fBasics’ ...
+* ‘fBasics’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fBasics’ as ‘fBasics_4021.93_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fBasics)
+* installing *binary* package ‘modeest’ ...
+* ‘modeest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘modeest’ as ‘modeest_2.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (modeest)
+
+The downloaded source packages are in
+	‘/tmp/RtmpWq1e2Z/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m30.500s
+user	0m9.032s
+sys	0m1.583s
