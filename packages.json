@@ -1529,7 +1529,6 @@
         "IRanges",
         "KEGGREST",
         "RCurl",
-        "RMySQL",
         "RSQLite",
         "Rsamtools",
         "S4Vectors",
@@ -27931,7 +27930,6 @@
     "GLAD": [],
     "GladiaTOX": [
         "RCurl",
-        "RMySQL",
         "RSQLite",
         "blob",
         "dplyr",
@@ -32601,7 +32599,6 @@
         "KEGGREST",
         "MatrixGenerics",
         "RCurl",
-        "RMySQL",
         "RSQLite",
         "Rsamtools",
         "S4Vectors",
@@ -71484,7 +71481,6 @@
         "MatrixGenerics",
         "MotifDb",
         "RCurl",
-        "RMySQL",
         "RSQLite",
         "RcppEigen",
         "Rsamtools",
@@ -76010,7 +76006,6 @@
         "survival"
     ],
     "progressr": [],
-    "RMySQL": [],
     "rapiclient": [
         "httr",
         "openssl"
