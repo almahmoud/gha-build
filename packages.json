@@ -15548,7 +15548,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "cvar",
         "fGarch",
         "nloptr",
         "pillar",
@@ -43072,10 +43071,7 @@
         "stringr"
     ],
     "sf": [],
-    "fGarch": [
-        "cvar"
-    ],
-    "cvar": [],
+    "fGarch": [],
     "ggwordcloud": [
         "ggplot2",
         "pillar",
