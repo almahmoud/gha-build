@@ -141,7 +141,6 @@
         "multtest",
         "survival"
     ],
-    "ACME": [],
     "ADaCGH2": [
         "AnnotationDbi",
         "Biostrings",
