@@ -3202,7 +3202,6 @@
         "rhdf5"
     ],
     "MetID": [],
-    "MGFM": [],
     "mia": [
         "TreeSummarizedExperiment",
         "scater",
@@ -4840,9 +4839,7 @@
         "EDASeq",
         "GenomicFeatures"
     ],
-    "sampleClassifier": [
-        "MGFM"
-    ],
+    "sampleClassifier": [],
     "SBGNview": [
         "pathview"
     ],
