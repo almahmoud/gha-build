@@ -301,7 +301,6 @@
         "selectr",
         "shiny",
         "smoother",
-        "sp",
         "stringr",
         "tibble",
         "tidyselect",
@@ -768,7 +767,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -1740,7 +1738,6 @@
         "sctransform",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -1827,7 +1824,6 @@
         "seqinr",
         "shiny",
         "shinyjs",
-        "sp",
         "stringr",
         "tibble",
         "tidyselect",
@@ -2065,7 +2061,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "survival",
         "testthat",
@@ -2502,7 +2497,6 @@
         "sass",
         "scales",
         "shiny",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -2652,7 +2646,6 @@
         "rtracklayer",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "testthat",
         "tibble",
@@ -3132,7 +3125,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "terra",
         "tibble",
@@ -3745,7 +3737,6 @@
         "shiny",
         "sitmo",
         "softImpute",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.explore",
@@ -6714,7 +6705,6 @@
         "rmarkdown",
         "sass",
         "signal",
-        "sp",
         "stringr",
         "tinytex",
         "vctrs"
@@ -7296,7 +7286,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "tibble",
         "vctrs"
@@ -7443,7 +7432,6 @@
         "scuttle",
         "shiny",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.explore",
@@ -7522,7 +7510,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sp",
         "spBayes",
         "stringr",
         "survival",
@@ -9324,7 +9311,6 @@
         "seqinr",
         "shiny",
         "snpStats",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -9501,7 +9487,6 @@
         "rtracklayer",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "vctrs"
     ],
@@ -9735,7 +9720,6 @@
         "rsvd",
         "scales",
         "softImpute",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -10651,7 +10635,6 @@
         "reshape2",
         "rhdf5",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -11235,7 +11218,6 @@
         "rrcov",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "terra",
@@ -11922,7 +11904,6 @@
         "genefilter",
         "httr",
         "openssl",
-        "sp",
         "survival",
         "vctrs"
     ],
@@ -12181,7 +12162,6 @@
         "rtracklayer",
         "segmented",
         "seqinr",
-        "sp",
         "tensorflow",
         "tfautograph",
         "tfruns",
@@ -12260,7 +12240,6 @@
         "seqinr",
         "shiny",
         "shinyjs",
-        "sp",
         "stringr",
         "survival",
         "tensorflow",
@@ -12951,7 +12930,6 @@
         "reshape2",
         "rgeos",
         "scales",
-        "sp",
         "splancs",
         "stringr",
         "survival",
@@ -13228,7 +13206,6 @@
         "shiny",
         "shinydashboard",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "stringr",
         "svgPanZoom",
@@ -13349,7 +13326,6 @@
         "rtracklayer",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "tibble",
         "tidyselect",
@@ -13759,7 +13735,6 @@
         "rematch2",
         "rgeos",
         "scales",
-        "sp",
         "splancs",
         "stringr",
         "survival",
@@ -13968,7 +13943,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "tibble",
         "tinytex",
@@ -14925,7 +14899,6 @@
         "rematch2",
         "scales",
         "smoother",
-        "sp",
         "stringr",
         "survival",
         "testthat",
@@ -15458,7 +15431,6 @@
         "scuttle",
         "shiny",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.explore",
@@ -19963,7 +19935,6 @@
         "rematch2",
         "rgeos",
         "scales",
-        "sp",
         "splancs",
         "stringr",
         "survival",
@@ -20014,7 +19985,6 @@
         "rematch2",
         "rgeos",
         "scales",
-        "sp",
         "splancs",
         "stringr",
         "survival",
@@ -20062,7 +20032,6 @@
         "doParallel",
         "reshape2",
         "scales",
-        "sp",
         "stringr",
         "vctrs"
     ],
@@ -20630,7 +20599,6 @@
         "reshape2",
         "rstatix",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "testthat",
@@ -20868,7 +20836,6 @@
         "flowViz",
         "interp",
         "latticeExtra",
-        "sp",
         "splancs"
     ],
     "GBScleanR": [
@@ -21354,8 +21321,7 @@
     "GeneGA": [
         "ade4",
         "segmented",
-        "seqinr",
-        "sp"
+        "seqinr"
     ],
     "GeneGeneInteR": [
         "BiocParallel",
@@ -22381,7 +22347,6 @@
         "rrcov",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "testthat",
         "tibble",
@@ -22448,7 +22413,6 @@
         "shinyBS",
         "shinyHeatmaply",
         "shinybusy",
-        "sp",
         "stringr",
         "survival",
         "testthat",
@@ -22530,7 +22494,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "testthat",
         "tibble",
@@ -23934,7 +23897,6 @@
         "sass",
         "scales",
         "shiny",
-        "sp",
         "stringr",
         "tibble",
         "vctrs"
@@ -24250,7 +24212,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "survival",
         "tensorflow",
@@ -25510,7 +25471,6 @@
         "pillar",
         "purrr",
         "scales",
-        "sp",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -26156,7 +26116,6 @@
         "shiny",
         "shinydashboard",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "stringr",
         "svgPanZoom",
@@ -26186,7 +26145,6 @@
         "igraph",
         "segmented",
         "seqinr",
-        "sp",
         "sqldf",
         "vctrs"
     ],
@@ -26356,7 +26314,6 @@
         "sctransform",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -26378,7 +26335,6 @@
         "irlba",
         "raster",
         "sitmo",
-        "sp",
         "terra",
         "uwot",
         "xgboost"
@@ -26432,7 +26388,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "tibble",
         "tidyselect",
@@ -26840,7 +26795,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -27151,7 +27105,6 @@
         "shadowtext",
         "shiny",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.explore",
@@ -27986,7 +27939,6 @@
         "scales",
         "shiny",
         "shinycssloaders",
-        "sp",
         "sparseMatrixStats",
         "stringr",
         "survival",
@@ -28131,7 +28083,6 @@
         "plot3D",
         "rematch2",
         "scales",
-        "sp",
         "testthat",
         "tibble",
         "vctrs",
@@ -28648,7 +28599,6 @@
         "scales",
         "selectr",
         "shiny",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -29129,8 +29079,7 @@
         "SummarizedExperiment",
         "XVector",
         "ade4",
-        "gplots",
-        "sp"
+        "gplots"
     ],
     "MADSEQ": [
         "AnnotationDbi",
@@ -29525,7 +29474,6 @@
         "multtest",
         "openssl",
         "reactome.db",
-        "sp",
         "survival",
         "vctrs"
     ],
@@ -29865,7 +29813,6 @@
         "ruv",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "sva",
@@ -29941,7 +29888,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -31330,7 +31276,6 @@
         "rngtools",
         "rtracklayer",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -31592,7 +31537,6 @@
         "gplots",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "vctrs"
     ],
@@ -32123,7 +32067,6 @@
         "shiny",
         "shinyFiles",
         "shinyjs",
-        "sp",
         "tibble",
         "vctrs"
     ],
@@ -32558,7 +32501,6 @@
         "reshape2",
         "rhdf5",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -32591,7 +32533,6 @@
         "reshape2",
         "rhdf5",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -32799,7 +32740,6 @@
         "scuttle",
         "shiny",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "stringr",
         "survival",
@@ -33661,7 +33601,6 @@
         "selectr",
         "shadowtext",
         "shiny",
-        "sp",
         "stringr",
         "subspace",
         "survival",
@@ -34797,7 +34736,6 @@
         "rtracklayer",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -34918,7 +34856,6 @@
         "rtracklayer",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "tibble",
         "tidyselect",
@@ -35048,7 +34985,6 @@
         "purrr",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "tibble",
         "tidyr",
@@ -35428,7 +35364,6 @@
         "rematch2",
         "rngtools",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "sva",
@@ -36006,7 +35941,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "survival",
         "tensorflow",
@@ -36835,7 +36769,6 @@
         "shiny",
         "signal",
         "sn",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -37259,7 +37192,6 @@
         "sctransform",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -37693,7 +37625,6 @@
         "scuttle",
         "sitmo",
         "softImpute",
-        "sp",
         "sparseMatrixStats",
         "stringr",
         "survival",
@@ -38018,7 +37949,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "terra",
@@ -38599,8 +38529,7 @@
         "XVector",
         "ade4",
         "gplots",
-        "made4",
-        "sp"
+        "made4"
     ],
     "OmicCircos": [
         "GenomeInfoDb",
@@ -38709,7 +38638,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "sva",
@@ -39184,7 +39112,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -39234,7 +39161,6 @@
         "shiny",
         "shinyBS",
         "shinyjs",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -40217,7 +40143,6 @@
         "scales",
         "shiny",
         "shinyjs",
-        "sp",
         "stringr",
         "survival",
         "testthat",
@@ -40711,7 +40636,6 @@
         "rhdf5",
         "scales",
         "sn",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -41235,7 +41159,6 @@
         "reshape2",
         "rhdf5",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -41565,7 +41488,6 @@
         "scuttle",
         "shiny",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.explore",
@@ -42146,7 +42068,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -43772,7 +43693,6 @@
         "sass",
         "scales",
         "seriation",
-        "sp",
         "stringr",
         "survival",
         "testthat",
@@ -44837,7 +44757,6 @@
         "reshape2",
         "rhdf5",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -45155,7 +45074,6 @@
         "reshape2",
         "rhdf5",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -46654,7 +46572,6 @@
         "rtracklayer",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "tibble",
         "tidyselect",
@@ -47994,7 +47911,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -48850,7 +48766,6 @@
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
-        "sp",
         "stringr",
         "tibble",
         "tidyr",
@@ -49035,7 +48950,6 @@
         "sctransform",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -49248,7 +49162,6 @@
         "sctransform",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -49452,7 +49365,6 @@
         "shiny",
         "sitmo",
         "softImpute",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -49516,7 +49428,6 @@
         "sctransform",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -49593,7 +49504,6 @@
         "scuttle",
         "shiny",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.explore",
@@ -49700,7 +49610,6 @@
         "rstan",
         "rstantools",
         "scales",
-        "sp",
         "stringr",
         "tibble",
         "tidyr",
@@ -49761,7 +49670,6 @@
         "sctransform",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -50050,7 +49958,6 @@
         "sf",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -50170,7 +50077,6 @@
         "sctransform",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -50754,7 +50660,6 @@
         "purrr",
         "reshape2",
         "scales",
-        "sp",
         "stringr",
         "tibble",
         "tidygraph",
@@ -50972,7 +50877,6 @@
         "shadowtext",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -51066,7 +50970,6 @@
         "sf",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -51185,7 +51088,6 @@
         "scuttle",
         "shiny",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.explore",
@@ -51550,8 +51452,7 @@
         "ade4",
         "adehabitatLT",
         "adehabitatMA",
-        "doSNOW",
-        "sp"
+        "doSNOW"
     ],
     "seqcombo": [
         "ggplot2",
@@ -52083,7 +51984,6 @@
         "reshape2",
         "rhdf5",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "testthat",
@@ -52619,7 +52519,6 @@
         "reticulate",
         "rhdf5",
         "scales",
-        "sp",
         "sparseMatrixStats",
         "stringr",
         "survival",
@@ -52700,7 +52599,6 @@
         "shiny",
         "shinydashboard",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.geom",
@@ -52981,7 +52879,6 @@
         "sitmo",
         "sn",
         "softImpute",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.explore",
@@ -53202,7 +53099,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sp",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -53558,7 +53454,6 @@
         "segmented",
         "shiny",
         "shinyjs",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -53721,7 +53616,6 @@
         "scuttle",
         "shiny",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.explore",
@@ -54001,7 +53895,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "testthat",
         "tibble",
@@ -54078,7 +53971,6 @@
         "scuttle",
         "sf",
         "sitmo",
-        "sp",
         "spData",
         "sparseMatrixStats",
         "spdep",
@@ -54250,7 +54142,6 @@
         "blob",
         "segmented",
         "seqinr",
-        "sp",
         "vctrs"
     ],
     "SpeCond": [
@@ -54369,7 +54260,6 @@
         "scales",
         "scuttle",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.explore",
@@ -54489,7 +54379,6 @@
         "restfulr",
         "rtracklayer",
         "scales",
-        "sp",
         "survival",
         "tibble",
         "vctrs"
@@ -54904,7 +54793,6 @@
         "scuttle",
         "shiny",
         "sitmo",
-        "sp",
         "sparseMatrixStats",
         "spatstat.data",
         "spatstat.explore",
@@ -55001,7 +54889,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -55166,8 +55053,7 @@
         "XVector",
         "ade4",
         "segmented",
-        "seqinr",
-        "sp"
+        "seqinr"
     ],
     "sSeq": [],
     "ssize": [],
@@ -55670,7 +55556,6 @@
         "sf",
         "shiny",
         "sitmo",
-        "sp",
         "spData",
         "sparseMatrixStats",
         "spatstat.data",
@@ -55797,7 +55682,6 @@
         "purrr",
         "rols",
         "scales",
-        "sp",
         "stringr",
         "struct",
         "tibble",
@@ -56038,7 +55922,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "testthat",
         "tibble",
@@ -56372,7 +56255,6 @@
         "selectr",
         "sf",
         "sftime",
-        "sp",
         "spacetime",
         "stars",
         "stringr",
@@ -56437,7 +56319,6 @@
         "ade4",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "vctrs"
     ],
@@ -60557,7 +60438,6 @@
         "scuttle",
         "sf",
         "sitmo",
-        "sp",
         "spData",
         "sparseMatrixStats",
         "spdep",
@@ -60920,7 +60800,6 @@
         "scales",
         "segmented",
         "seqinr",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -61966,9 +61845,7 @@
         "tinytex",
         "vctrs"
     ],
-    "ade4": [
-        "sp"
-    ],
+    "ade4": [],
     "rvest": [
         "httr",
         "openssl",
@@ -61983,7 +61860,6 @@
         "TTR",
         "xts"
     ],
-    "sp": [],
     "selectr": [
         "stringr",
         "vctrs"
@@ -62178,8 +62054,7 @@
     ],
     "seqinr": [
         "ade4",
-        "segmented",
-        "sp"
+        "segmented"
     ],
     "segmented": [],
     "optimx": [],
@@ -62584,7 +62459,6 @@
         "sctransform",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -62676,8 +62550,7 @@
     "SeuratObject": [
         "RcppEigen",
         "future",
-        "future.apply",
-        "sp"
+        "future.apply"
     ],
     "spatstat.explore": [
         "spatstat.data",
@@ -63650,7 +63523,6 @@
         "vctrs"
     ],
     "raster": [
-        "sp",
         "terra"
     ],
     "terra": [],
@@ -63794,7 +63666,6 @@
         "reshape2",
         "rhdf5",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "tibble",
@@ -64900,7 +64771,6 @@
     "magick": [],
     "Ckmeans.1d.dp": [],
     "SpatialTools": [
-        "sp",
         "spBayes"
     ],
     "FactoMineR": [
@@ -64938,9 +64808,7 @@
         "vctrs",
         "waldo"
     ],
-    "spBayes": [
-        "sp"
-    ],
+    "spBayes": [],
     "EnvStats": [
         "ggplot2",
         "mgcv",
@@ -65712,7 +65580,6 @@
         "purrr",
         "reshape2",
         "rncl",
-        "sp",
         "stringr",
         "tibble",
         "tidyr",
@@ -66232,9 +66099,7 @@
         "tibble",
         "vctrs"
     ],
-    "rgeos": [
-        "sp"
-    ],
+    "rgeos": [],
     "RFOC": [
         "GEOmap",
         "RSEIS",
@@ -66243,7 +66108,6 @@
         "mgcv",
         "pillar",
         "scales",
-        "sp",
         "splancs",
         "tibble",
         "vctrs",
@@ -66256,16 +66120,13 @@
         "mgcv",
         "pillar",
         "scales",
-        "sp",
         "splancs",
         "tibble",
         "vctrs",
         "viridis"
     ],
     "RSEIS": [],
-    "splancs": [
-        "sp"
-    ],
+    "splancs": [],
     "fields": [
         "ggplot2",
         "mgcv",
@@ -66589,7 +66450,6 @@
         "ranger",
         "rematch2",
         "scales",
-        "sp",
         "stringr",
         "survival",
         "testthat",
@@ -67031,7 +66891,6 @@
         "pillar",
         "reshape2",
         "scales",
-        "sp",
         "stringr",
         "tibble",
         "vctrs"
@@ -67047,7 +66906,6 @@
         "pillar",
         "reshape2",
         "scales",
-        "sp",
         "stringr",
         "tibble",
         "vctrs"
@@ -67166,9 +67024,7 @@
         "rrcov"
     ],
     "roptim": [],
-    "maptools": [
-        "sp"
-    ],
+    "maptools": [],
     "shinyHeatmaply": [
         "TSP",
         "bslib",
@@ -67564,7 +67420,6 @@
         "sass",
         "scales",
         "shiny",
-        "sp",
         "stringr",
         "tibble",
         "vctrs"
@@ -67685,9 +67540,7 @@
         "tinytex",
         "vctrs"
     ],
-    "akima": [
-        "sp"
-    ],
+    "akima": [],
     "scam": [
         "mgcv"
     ],
@@ -67958,8 +67811,7 @@
     ],
     "clusterSim": [
         "ade4",
-        "e1071",
-        "sp"
+        "e1071"
     ],
     "venn": [],
     "PairedData": [
@@ -68417,7 +68269,6 @@
         "sass",
         "scales",
         "shiny",
-        "sp",
         "stringr",
         "tibble",
         "vctrs"
@@ -68440,7 +68291,6 @@
         "pillar",
         "purrr",
         "scales",
-        "sp",
         "stringr",
         "tibble",
         "vctrs"
@@ -69862,12 +69712,9 @@
     ],
     "adehabitatLT": [
         "ade4",
-        "adehabitatMA",
-        "sp"
+        "adehabitatMA"
     ],
-    "adehabitatMA": [
-        "sp"
-    ],
+    "adehabitatMA": [],
     "rbokeh": [
         "bslib",
         "crul",
@@ -70127,7 +69974,6 @@
         "sctransform",
         "shiny",
         "sitmo",
-        "sp",
         "spatstat.data",
         "spatstat.explore",
         "spatstat.geom",
@@ -70260,12 +70106,9 @@
         "classInt",
         "e1071",
         "sf",
-        "sp",
         "spData"
     ],
-    "spData": [
-        "sp"
-    ],
+    "spData": [],
     "PRIMME": [],
     "mmand": [],
     "alphahull": [
@@ -70275,7 +70118,6 @@
         "mgcv",
         "pillar",
         "scales",
-        "sp",
         "spatstat.data",
         "spatstat.geom",
         "spatstat.random",
@@ -70285,7 +70127,6 @@
     ],
     "elsa": [
         "raster",
-        "sp",
         "terra"
     ],
     "miRNAtap.db": [
@@ -70307,7 +70148,6 @@
     ],
     "bamlss": [
         "mgcv",
-        "sp",
         "survival"
     ],
     "dml": [
@@ -70431,7 +70271,6 @@
         "lwgeom",
         "sf",
         "sftime",
-        "sp",
         "spacetime",
         "stars",
         "xts"
@@ -70452,7 +70291,6 @@
         "sf"
     ],
     "spacetime": [
-        "sp",
         "xts"
     ],
     "stars": [
