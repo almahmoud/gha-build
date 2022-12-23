@@ -1826,7 +1826,6 @@
         "GenomicAlignments",
         "SingleCellExperiment",
         "batchelor",
-        "gggenes",
         "ggrastr",
         "msigdbr",
         "plotly",
@@ -12736,7 +12735,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "gggenes": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
