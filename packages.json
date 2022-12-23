@@ -128,7 +128,6 @@
         "HiCcompare",
         "QDNAseq"
     ],
-    "survtype": [],
     "TADCompare": [
         "CGHcall",
         "HiCcompare",
