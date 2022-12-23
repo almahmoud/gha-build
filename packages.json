@@ -9687,7 +9687,6 @@
         "GenomicRanges",
         "IRanges",
         "XVector",
-        "brglm",
         "doParallel"
     ],
     "CNViz": [
@@ -19799,7 +19798,6 @@
         "SummarizedExperiment",
         "XVector",
         "analogue",
-        "brglm",
         "broom",
         "car",
         "cowplot",
@@ -63206,7 +63204,6 @@
         "tibble",
         "tidyselect"
     ],
-    "brglm": [],
     "biwt": [],
     "skmeans": [
         "clue"
@@ -64436,7 +64433,6 @@
         "tibble"
     ],
     "analogue": [
-        "brglm",
         "mgcv",
         "vegan"
     ],
