@@ -963,7 +963,6 @@
         "sva"
     ],
     "bnem": [
-        "Linnorm",
         "annotate",
         "epiNEM",
         "genefilter",
@@ -2465,7 +2464,6 @@
         "testthat"
     ],
     "dce": [
-        "Linnorm",
         "epiNEM",
         "ggraph",
         "graphite",
@@ -3320,7 +3318,6 @@
         "rtracklayer"
     ],
     "epiNEM": [
-        "Linnorm",
         "mnem"
     ],
     "epistack": [],
@@ -5164,7 +5161,6 @@
         "rstatix",
         "testthat"
     ],
-    "Linnorm": [],
     "LinTInd": [
         "aplot",
         "ggtree",
@@ -6284,9 +6280,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "mnem": [
-        "Linnorm"
-    ],
+    "mnem": [],
     "moanin": [
         "GO.db",
         "topGO"
@@ -6815,7 +6809,6 @@
         "plotly"
     ],
     "nempi": [
-        "Linnorm",
         "epiNEM",
         "mnem"
     ],
