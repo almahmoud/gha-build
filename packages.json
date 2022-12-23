@@ -94054,7 +94054,6 @@
         "blob",
         "caTools",
         "cachem",
-        "chromhmmData",
         "circlize",
         "clue",
         "cluster",
@@ -130023,7 +130022,6 @@
         "viridis",
         "viridisLite"
     ],
-    "chromhmmData": [],
     "cvTools": [
         "robustbase"
     ],
