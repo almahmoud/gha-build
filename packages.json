@@ -6344,7 +6344,6 @@
     "optimalFlow": [
         "rgl"
     ],
-    "OPWeight": [],
     "ORFhunteR": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
