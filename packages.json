@@ -48,7 +48,6 @@
     ],
     "Anaquin": [],
     "ANCOMBC": [
-        "lmerTest",
         "mia"
     ],
     "AneuFinder": [
@@ -155,7 +154,6 @@
     ],
     "benchdamic": [
         "ANCOMBC",
-        "lmerTest",
         "mia"
     ],
     "BgeeCall": [],
@@ -474,8 +472,7 @@
         "ensembldb"
     ],
     "coMethDMR": [
-        "bumphunter",
-        "lmerTest"
+        "bumphunter"
     ],
     "compEpiTools": [
         "Gviz",
@@ -1045,8 +1042,7 @@
         "VariantAnnotation"
     ],
     "GeoDiff": [
-        "GeomxTools",
-        "lmerTest"
+        "GeomxTools"
     ],
     "GEOexplorer": [
         "FactoMineR",
@@ -1056,9 +1052,7 @@
         "rstatix",
         "shinyHeatmaply"
     ],
-    "GeomxTools": [
-        "lmerTest"
-    ],
+    "GeomxTools": [],
     "gespeR": [],
     "GEWIST": [
         "car"
@@ -1291,7 +1285,6 @@
     ],
     "LinTInd": [],
     "lisaClust": [
-        "lmerTest",
         "spicyR"
     ],
     "LowMACA": [
@@ -1312,13 +1305,11 @@
     "LymphoSeq": [],
     "m6Aboost": [],
     "Maaslin2": [
-        "car",
-        "lmerTest"
+        "car"
     ],
     "Macarron": [
         "Maaslin2",
-        "car",
-        "lmerTest"
+        "car"
     ],
     "MACSr": [],
     "MADSEQ": [
@@ -1350,9 +1341,7 @@
     "MatrixRider": [
         "TFBSTools"
     ],
-    "MBECS": [
-        "lmerTest"
-    ],
+    "MBECS": [],
     "mCSEA": [
         "Gviz",
         "Homo.sapiens",
@@ -1502,7 +1491,6 @@
     ],
     "microbiomeMarker": [
         "ANCOMBC",
-        "lmerTest",
         "mia"
     ],
     "MicrobiomeProfiler": [
@@ -1578,8 +1566,7 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "car",
-        "lmerTest"
+        "car"
     ],
     "MODA": [],
     "monaLisa": [
@@ -1629,23 +1616,18 @@
         "car",
         "factoextra",
         "ggpubr",
-        "lmerTest",
         "rstatix"
     ],
     "MSstatsPTM": [
-        "MSstatsTMT",
-        "lmerTest"
+        "MSstatsTMT"
     ],
     "MSstatsQCgui": [],
     "MSstatsSampleSize": [],
     "MSstatsShiny": [
         "MSstatsPTM",
-        "MSstatsTMT",
-        "lmerTest"
+        "MSstatsTMT"
     ],
-    "MSstatsTMT": [
-        "lmerTest"
-    ],
+    "MSstatsTMT": [],
     "multicrispr": [
         "VariantAnnotation",
         "biovizBase",
@@ -1667,7 +1649,6 @@
         "VariantAnnotation"
     ],
     "muscat": [
-        "lmerTest",
         "variancePartition"
     ],
     "musicatk": [
@@ -2294,9 +2275,7 @@
         "bumphunter",
         "minfi"
     ],
-    "SIAMCAT": [
-        "lmerTest"
-    ],
+    "SIAMCAT": [],
     "SigCheck": [],
     "signatureSearch": [
         "clusterProfiler",
@@ -2377,8 +2356,7 @@
     "spaSim": [],
     "spatialDE": [],
     "SpatialDecon": [
-        "GeomxTools",
-        "lmerTest"
+        "GeomxTools"
     ],
     "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
@@ -2397,9 +2375,7 @@
         "QDNAseq"
     ],
     "SPIAT": [],
-    "spicyR": [
-        "lmerTest"
-    ],
+    "spicyR": [],
     "spiky": [],
     "splatter": [],
     "SpliceWiz": [
@@ -2618,9 +2594,7 @@
     "VanillaICE": [
         "BSgenome.Hsapiens.UCSC.hg18"
     ],
-    "variancePartition": [
-        "lmerTest"
-    ],
+    "variancePartition": [],
     "VariantAnnotation": [],
     "VariantFiltering": [
         "Gviz",
@@ -2687,7 +2661,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "lmerTest",
         "variancePartition"
     ],
     "ggpubr": [
@@ -2700,7 +2673,6 @@
     "car": [],
     "adductData": [],
     "curatedTCGAData": [],
-    "lmerTest": [],
     "ReorderCluster": [],
     "BSgenome.Hsapiens.UCSC.hg19": [],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [],
