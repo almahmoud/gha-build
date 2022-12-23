@@ -92,7 +92,6 @@
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
-        "SIFT.Hsapiens.dbSNP137",
         "rhdf5"
     ],
     "ArrayExpress": [
@@ -3599,7 +3598,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
     "assertive": [],
     "pRolocdata": [
