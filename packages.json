@@ -1702,7 +1702,6 @@
         "sass",
         "stringr",
         "survival",
-        "svglite",
         "tibble",
         "viridis",
         "vsn"
@@ -7629,7 +7628,6 @@
         "shinyhelper",
         "shinyjs",
         "stringr",
-        "svglite",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -11201,7 +11199,6 @@
         "shinydashboard",
         "stringr",
         "svgPanZoom",
-        "svglite",
         "tibble",
         "tidyselect",
         "viridis"
@@ -13113,7 +13110,6 @@
         "shinydashboard",
         "shinyjs",
         "stringr",
-        "svglite",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -15679,7 +15675,6 @@
         "sass",
         "selectr",
         "stringr",
-        "svglite",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -21556,7 +21551,6 @@
         "selectr",
         "shiny",
         "stringr",
-        "svglite",
         "tibble",
         "tidyselect",
         "tweenr",
@@ -22125,7 +22119,6 @@
         "shinydashboard",
         "stringr",
         "svgPanZoom",
-        "svglite",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -22525,7 +22518,6 @@
         "selectr",
         "shiny",
         "stringr",
-        "svglite",
         "tibble",
         "webshot"
     ],
@@ -27866,7 +27858,6 @@
         "sass",
         "selectr",
         "stringr",
-        "svglite",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -32725,7 +32716,6 @@
         "selectr",
         "stringr",
         "survival",
-        "svglite",
         "testthat",
         "tibble",
         "tidyr",
@@ -34397,7 +34387,6 @@
         "readr",
         "rhdf5",
         "stringr",
-        "svglite",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -36348,7 +36337,6 @@
         "stringr",
         "styler",
         "survival",
-        "svglite",
         "testthat",
         "tibble",
         "tidyr",
@@ -42175,7 +42163,6 @@
         "selectr",
         "shiny",
         "stringr",
-        "svglite",
         "tibble",
         "tidyselect",
         "webshot"
@@ -44349,7 +44336,6 @@
         "spatstat.geom",
         "stringr",
         "svgPanZoom",
-        "svglite",
         "tibble",
         "tidyselect",
         "viridis"
@@ -53049,7 +53035,6 @@
     "base64": [
         "openssl"
     ],
-    "svglite": [],
     "UpSetR": [
         "ggplot2",
         "pillar",
@@ -55069,7 +55054,6 @@
         "sass",
         "selectr",
         "stringr",
-        "svglite",
         "tibble",
         "webshot"
     ],
