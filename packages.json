@@ -2894,7 +2894,6 @@
         "scater",
         "scran",
         "scuttle",
-        "shinyWidgets",
         "shinydashboardPlus",
         "tidyr",
         "viridis",
@@ -4014,7 +4013,6 @@
         "oligoClasses",
         "readr",
         "readxl",
-        "shinyWidgets",
         "shinypanel",
         "sva",
         "tidyr"
@@ -7101,7 +7099,6 @@
         "htmlwidgets",
         "patchwork",
         "plotly",
-        "shinyWidgets",
         "tidyr",
         "tippy",
         "viridis",
@@ -8884,7 +8881,6 @@
         "readr",
         "readxl",
         "rio",
-        "shinyWidgets",
         "shinybusy",
         "tidyr"
     ],
@@ -8894,8 +8890,7 @@
         "SummarizedExperiment",
         "colourpicker",
         "ggrepel",
-        "htmlwidgets",
-        "shinyWidgets"
+        "htmlwidgets"
     ],
     "iSEEhex": [
         "DT",
@@ -8904,8 +8899,7 @@
         "colourpicker",
         "ggrepel",
         "htmlwidgets",
-        "iSEE",
-        "shinyWidgets"
+        "iSEE"
     ],
     "iSEEhub": [
         "AnnotationDbi",
@@ -8921,8 +8915,7 @@
         "ggrepel",
         "htmlwidgets",
         "iSEE",
-        "interactiveDisplayBase",
-        "shinyWidgets"
+        "interactiveDisplayBase"
     ],
     "iSEEu": [
         "DT",
@@ -8932,8 +8925,7 @@
         "ggrepel",
         "htmlwidgets",
         "iSEE",
-        "iSEEhex",
-        "shinyWidgets"
+        "iSEEhex"
     ],
     "ISLET": [
         "SummarizedExperiment"
@@ -10654,7 +10646,6 @@
         "plotly",
         "readr",
         "rhdf5",
-        "shinyWidgets",
         "testthat",
         "tidyr",
         "viridis",
@@ -10735,7 +10726,6 @@
         "qvalue",
         "scatterpie",
         "shadowtext",
-        "shinyWidgets",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -12711,7 +12701,6 @@
         "pbkrtest",
         "plotly",
         "rstatix",
-        "shinyWidgets",
         "shinybusy",
         "survMisc",
         "survminer",
@@ -13942,7 +13931,6 @@
         "pRoloc",
         "plotly",
         "recipes",
-        "shinyWidgets",
         "shinydashboardPlus",
         "threejs",
         "tidyr",
@@ -14214,8 +14202,7 @@
         "genefilter",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "pwrEWAS.data",
-        "shinyWidgets"
+        "pwrEWAS.data"
     ],
     "qckitfastq": [],
     "QDNAseq": [
@@ -15901,7 +15888,6 @@
         "htmlwidgets",
         "plotly",
         "sangerseqR",
-        "shinyWidgets",
         "tidyr"
     ],
     "sangerseqR": [],
@@ -16800,7 +16786,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "shinyWidgets",
         "tidyr",
         "viridis"
     ],
@@ -16941,7 +16926,6 @@
         "readr",
         "rstatix",
         "rtracklayer",
-        "shinyWidgets",
         "survMisc",
         "survivalAnalysis",
         "survminer",
@@ -17446,7 +17430,6 @@
         "ggrepel",
         "htmlwidgets",
         "readr",
-        "shinyWidgets",
         "tidyr"
     ],
     "spatialDE": [
@@ -17659,7 +17642,6 @@
         "rhandsontable",
         "rhdf5",
         "rtracklayer",
-        "shinyWidgets",
         "tidyr",
         "viridis"
     ],
@@ -18235,7 +18217,6 @@
         "drawer",
         "htmlwidgets",
         "plotly",
-        "shinyWidgets",
         "shinydashboardPlus",
         "shinyjqui",
         "spsComps",
@@ -19246,7 +19227,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "rtracklayer",
-        "shinyWidgets",
         "viridis"
     ],
     "unifiedWMWqPCR": [
@@ -19681,8 +19661,7 @@
         "DT",
         "SummarizedExperiment",
         "golem",
-        "htmlwidgets",
-        "shinyWidgets"
+        "htmlwidgets"
     ],
     "wppi": [
         "OmnipathR",
@@ -20763,7 +20742,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "shinyWidgets": [],
     "shinydashboardPlus": [
         "waiter"
     ],
@@ -21234,7 +21212,6 @@
         "readr",
         "readxl",
         "rio",
-        "shinyWidgets",
         "shinybusy"
     ],
     "pd.mapping50k.xba240": [
