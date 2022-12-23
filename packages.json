@@ -1514,7 +1514,6 @@
         "rhdf5"
     ],
     "HelloRanges": [],
-    "hermes": [],
     "HGC": [
         "dendextend",
         "viridis"
