@@ -28573,7 +28573,6 @@
         "dplyr",
         "egg",
         "ellipsis",
-        "extraDistr",
         "foreach",
         "futile.logger",
         "gclus",
@@ -41658,7 +41657,6 @@
         "doParallel",
         "dplyr",
         "ellipsis",
-        "extraDistr",
         "fontawesome",
         "foreach",
         "ggplot2",
@@ -59547,8 +59545,7 @@
         "RCurl",
         "S4Vectors",
         "SummarizedExperiment",
-        "XVector",
-        "extraDistr"
+        "XVector"
     ],
     "proFIA": [
         "Biobase",
@@ -94255,7 +94252,6 @@
     ],
     "ada": [],
     "BBmisc": [],
-    "extraDistr": [],
     "NHPoisson": [
         "Matrix",
         "MatrixModels",
