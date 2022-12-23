@@ -242,7 +242,6 @@
         "car",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
         "pbkrtest",
         "radiant.data"
     ],
@@ -396,8 +395,7 @@
     "CancerInSilico": [],
     "cardelino": [
         "GenomicFeatures",
-        "VariantAnnotation",
-        "ggtree"
+        "VariantAnnotation"
     ],
     "casper": [
         "GenomicFeatures"
@@ -445,8 +443,7 @@
     ],
     "CEMiTool": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "censcyt": [
         "FlowSOM",
@@ -462,7 +459,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
-        "ggtree",
         "pbkrtest",
         "rstatix"
     ],
@@ -548,8 +544,7 @@
     "ChIPseeker": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "ChIPXpress": [],
     "ChromSCape": [
@@ -594,8 +589,7 @@
         "zinbwave"
     ],
     "clusterProfiler": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "CNVfilteR": [
         "CopyNumberPlots",
@@ -626,9 +620,7 @@
     "CODEX": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
-    "cogeqc": [
-        "ggtree"
-    ],
+    "cogeqc": [],
     "Cogito": [
         "GenomicFeatures",
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
@@ -669,7 +661,6 @@
         "enrichplot",
         "factoextra",
         "ggpubr",
-        "ggtree",
         "pbkrtest",
         "rstatix",
         "scater",
@@ -868,7 +859,6 @@
     "debrowser": [
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
         "heatmaply",
         "sva"
     ],
@@ -1038,8 +1028,7 @@
     ],
     "EasyCellType": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "EBSEA": [],
     "EDASeq": [
@@ -1051,8 +1040,7 @@
     ],
     "eegc": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "EGSEA": [
         "PADOG"
@@ -1079,16 +1067,13 @@
         "minfi"
     ],
     "EnrichmentBrowser": [],
-    "enrichplot": [
-        "ggtree"
-    ],
+    "enrichplot": [],
     "enrichTF": [
         "TFBSTools",
         "car",
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
-        "ggtree",
         "motifmatchr",
         "pbkrtest",
         "pipeFrame",
@@ -1111,8 +1096,7 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
-        "genomation",
-        "ggtree"
+        "genomation"
     ],
     "epidecodeR": [
         "car",
@@ -1130,8 +1114,7 @@
     "epihet": [
         "EntropyExplorer",
         "ReactomePA",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "EpiMix": [
         "EpiMix.data",
@@ -1203,7 +1186,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
         "motifmatchr",
         "pipeFrame"
     ],
@@ -1217,7 +1199,6 @@
         "car",
         "ewceData",
         "ggpubr",
-        "ggtree",
         "orthogene",
         "pbkrtest",
         "rstatix"
@@ -1249,8 +1230,7 @@
     ],
     "famat": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "fastLiquidAssociation": [],
     "fCCAC": [
@@ -1258,8 +1238,7 @@
     ],
     "fcoex": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "fcScan": [
         "GenomicFeatures",
@@ -1364,7 +1343,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
-        "ggtree",
         "pbkrtest",
         "rstatix",
         "survminer"
@@ -1479,19 +1457,12 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ggmsa": [
-        "ggtree"
-    ],
+    "ggmsa": [],
     "ggspavis": [
         "SpatialExperiment"
     ],
-    "ggtree": [],
-    "ggtreeDendro": [
-        "ggtree"
-    ],
-    "ggtreeExtra": [
-        "ggtree"
-    ],
+    "ggtreeDendro": [],
+    "ggtreeExtra": [],
     "GISPA": [],
     "Glimma": [],
     "glmSparseNet": [
@@ -1519,8 +1490,7 @@
     "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "GOstats": [],
     "GOTHiC": [],
@@ -1722,7 +1692,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
-        "ggtree",
         "pbkrtest",
         "rstatix",
         "scater",
@@ -1795,9 +1764,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "LinTInd": [
-        "ggtree"
-    ],
+    "LinTInd": [],
     "lisaClust": [
         "SpatialExperiment",
         "lmerTest",
@@ -1823,9 +1790,7 @@
         "methylumi",
         "minfi"
     ],
-    "LymphoSeq": [
-        "ggtree"
-    ],
+    "LymphoSeq": [],
     "m6Aboost": [
         "ExperimentHub"
     ],
@@ -1863,8 +1828,7 @@
         "ExperimentHub",
         "clusterProfiler",
         "depmap",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "MAIT": [
         "agricolae",
@@ -1936,8 +1900,7 @@
     ],
     "megadepth": [],
     "meshes": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "meshr": [],
     "MetaboAnnotation": [],
@@ -1965,8 +1928,7 @@
     "metaMS": [],
     "MetaPhOR": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "metaseqR2": [
         "DSS",
@@ -2039,7 +2001,6 @@
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
         "methylumi",
         "minfi",
         "missMethyl"
@@ -2070,7 +2031,6 @@
     ],
     "miaSim": [],
     "miaViz": [
-        "ggtree",
         "mia",
         "scater"
     ],
@@ -2081,18 +2041,15 @@
     ],
     "microbiomeMarker": [
         "ANCOMBC",
-        "ggtree",
         "lmerTest",
         "mia",
         "scater"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "MicrobiotaProcess": [
-        "ggtree",
         "ggtreeExtra"
     ],
     "MIGSA": [
@@ -2130,7 +2087,6 @@
         "cvms",
         "enrichplot",
         "ggpubr",
-        "ggtree",
         "miRspongeR",
         "pbkrtest",
         "rstatix"
@@ -2143,7 +2099,6 @@
         "cvms",
         "enrichplot",
         "ggpubr",
-        "ggtree",
         "pbkrtest",
         "rstatix"
     ],
@@ -2188,8 +2143,7 @@
     ],
     "MoonlightR": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "Motif2Site": [],
     "motifbreakR": [
@@ -2284,8 +2238,7 @@
     "multiSight": [
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "mumosa": [
         "scran"
@@ -2369,8 +2322,7 @@
     "netboost": [],
     "netboxr": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "netOmics": [
         "RandomWalkRestartMH"
@@ -2496,7 +2448,6 @@
     "orthogene": [
         "car",
         "ggpubr",
-        "ggtree",
         "pbkrtest",
         "rstatix"
     ],
@@ -2520,8 +2471,7 @@
     "PAIRADISE": [],
     "PanomiR": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "pareg": [],
     "PathoStat": [],
@@ -2545,8 +2495,7 @@
     "periodicDNA": [],
     "PFP": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "phantasus": [],
     "PharmacoGx": [
@@ -2558,9 +2507,7 @@
         "car",
         "pbkrtest"
     ],
-    "philr": [
-        "ggtree"
-    ],
+    "philr": [],
     "PhosR": [
         "car",
         "ggpubr",
@@ -2574,8 +2521,7 @@
     "Pigengene": [
         "ReactomePA",
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "PING": [
         "GenomicFeatures",
@@ -2645,7 +2591,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "enrichplot",
-        "ggtree",
         "rGREAT",
         "soGGi"
     ],
@@ -2785,8 +2730,7 @@
     "RcisTarget": [],
     "RcwlPipelines": [],
     "ReactomePA": [
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "recount": [
         "GenomicFeatures",
@@ -2986,7 +2930,6 @@
         "enrichplot",
         "factoextra",
         "ggpubr",
-        "ggtree",
         "pbkrtest",
         "rstatix",
         "sva"
@@ -3072,9 +3015,7 @@
     "scBFA": [
         "zinbwave"
     ],
-    "scBubbletree": [
-        "ggtree"
-    ],
+    "scBubbletree": [],
     "scCB2": [],
     "scClassify": [],
     "scDataviz": [],
@@ -3128,7 +3069,6 @@
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "ggtree",
         "heatmaply",
         "meshr",
         "schex"
@@ -3150,8 +3090,7 @@
         "ChIPseeker",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "segmentSeq": [],
     "selectKSigs": [
@@ -3200,8 +3139,7 @@
     "signatureSearch": [
         "ExperimentHub",
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "signeR": [
         "GenomicFeatures",
@@ -3248,7 +3186,6 @@
         "celda",
         "celldex",
         "ensembldb",
-        "ggtree",
         "scDblFinder",
         "scMerge",
         "scRNAseq",
@@ -3267,9 +3204,7 @@
     "sitadela": [
         "GenomicFeatures"
     ],
-    "sitePath": [
-        "ggtree"
-    ],
+    "sitePath": [],
     "skewr": [
         "FDb.InfiniumMethylation.hg19",
         "GenomicFeatures",
@@ -3450,9 +3385,7 @@
         "doBy",
         "pbkrtest"
     ],
-    "systemPipeTools": [
-        "ggtree"
-    ],
+    "systemPipeTools": [],
     "TADCompare": [
         "CGHcall",
         "HiCcompare",
@@ -3462,9 +3395,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "tanggle": [
-        "ggtree"
-    ],
+    "tanggle": [],
     "TAPseq": [
         "GenomicFeatures"
     ],
@@ -3491,7 +3422,6 @@
         "enrichplot",
         "ensembldb",
         "ggpubr",
-        "ggtree",
         "pbkrtest",
         "rstatix",
         "sesame",
@@ -3528,8 +3458,7 @@
     ],
     "TimiRGeN": [
         "clusterProfiler",
-        "enrichplot",
-        "ggtree"
+        "enrichplot"
     ],
     "TIN": [],
     "TitanCNA": [
@@ -3578,7 +3507,6 @@
         "car",
         "diffcyt",
         "ggpubr",
-        "ggtree",
         "pbkrtest",
         "rstatix"
     ],
