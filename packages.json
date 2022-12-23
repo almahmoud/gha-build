@@ -10122,7 +10122,6 @@
         "broom",
         "caret",
         "caretEnsemble",
-        "ggprism",
         "interactiveDisplayBase",
         "recipes",
         "regioneR",
@@ -14272,7 +14271,6 @@
         "caret",
         "recipes"
     ],
-    "ggprism": [],
     "RLHub": [
         "AnnotationDbi",
         "AnnotationHub",
