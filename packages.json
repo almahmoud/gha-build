@@ -34655,7 +34655,6 @@
         "beachmat",
         "dqrng",
         "futile.logger",
-        "genlasso",
         "ggbeeswarm",
         "ggplot2",
         "ggrastr",
@@ -58692,7 +58691,6 @@
         "aroma.light"
     ],
     "R.huge": [],
-    "genlasso": [],
     "opencpu": [
         "httpuv",
         "knitr",
