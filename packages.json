@@ -757,7 +757,6 @@
         "rvest",
         "sass",
         "selectr",
-        "signal",
         "speaq",
         "stringr",
         "tibble",
@@ -5824,7 +5823,6 @@
         "matter",
         "rmarkdown",
         "sass",
-        "signal",
         "stringr",
         "vctrs"
     ],
@@ -13052,7 +13050,6 @@
         "pillar",
         "purrr",
         "reticulate",
-        "signal",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -18158,7 +18155,6 @@
         "roxygen2",
         "sass",
         "shiny",
-        "signal",
         "stringr",
         "testthat",
         "textshaping",
@@ -23182,7 +23178,6 @@
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
-        "signal",
         "stringr",
         "testthat",
         "tibble",
@@ -31820,7 +31815,6 @@
         "rtracklayer",
         "sass",
         "shiny",
-        "signal",
         "sn",
         "stringr",
         "tibble",
@@ -37434,7 +37428,6 @@
         "sass",
         "shiny",
         "shinyscreenshot",
-        "signal",
         "stringr",
         "testthat",
         "tibble",
@@ -53573,7 +53566,6 @@
         "segmented"
     ],
     "segmented": [],
-    "signal": [],
     "readxl": [
         "cellranger",
         "hms",
@@ -57696,7 +57688,6 @@
         "vctrs"
     ],
     "dplR": [
-        "signal",
         "stringr",
         "vctrs"
     ],
