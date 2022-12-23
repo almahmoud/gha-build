@@ -3449,7 +3449,6 @@
         "motifStack",
         "rtracklayer"
     ],
-    "LRBaseDbi": [],
     "LRcell": [
         "AnnotationHub",
         "ExperimentHub",
