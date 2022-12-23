@@ -1,0 +1,136 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   f2dbba85..f6e29113  main       -> origin/main
+Updating f2dbba85..f6e29113
+Fast-forward
+ lists/HilbertVisGUI                                |   2 +-
+ lists/factDesign                                   |   2 +-
+ lists/marray                                       |   2 +-
+ logs/sizes/rstudio-binaries/binaries/HilbertVisGUI |   1 +
+ logs/sizes/rstudio-binaries/binaries/marray        |   1 +
+ .../sizes/rstudio-binaries/libraries/HilbertVisGUI |   1 +
+ logs/sizes/rstudio-binaries/libraries/marray       |   1 +
+ logs/times/rstudio-binary/HilbertVisGUI            | 608 +++++++++++++++++++++
+ logs/times/rstudio-binary/marray                   | 148 +++++
+ packages.json                                      |  88 +--
+ 10 files changed, 780 insertions(+), 74 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/HilbertVisGUI
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/marray
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/HilbertVisGUI
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/marray
+ create mode 100644 logs/times/rstudio-binary/HilbertVisGUI
+ create mode 100644 logs/times/rstudio-binary/marray
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=mitools
++ PKG=mitools
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "mitools"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 40  736k   40  298k    0     0   343k      0  0:00:02 --:--:--  0:00:02  343k100  736k  100  736k    0     0   557k      0  0:00:01  0:00:01 --:--:--  557k
+built/
+built/DBI/
+built/DBI/NAMESPACE
+built/DBI/DESCRIPTION
+built/DBI/help/
+built/DBI/help/paths.rds
+built/DBI/help/DBI.rdx
+built/DBI/help/aliases.rds
+built/DBI/help/DBI.rdb
+built/DBI/help/AnIndex
+built/DBI/Meta/
+built/DBI/Meta/package.rds
+built/DBI/Meta/vignette.rds
+built/DBI/Meta/features.rds
+built/DBI/Meta/hsearch.rds
+built/DBI/Meta/links.rds
+built/DBI/Meta/nsInfo.rds
+built/DBI/Meta/Rd.rds
+built/DBI/html/
+built/DBI/html/00Index.html
+built/DBI/html/R.css
+built/DBI/INDEX
+built/DBI/doc/
+built/DBI/doc/DBI-1.html
+built/DBI/doc/DBI.Rmd
+built/DBI/doc/DBI-history.Rmd
+built/DBI/doc/DBI-proposal.Rmd
+built/DBI/doc/DBI-advanced.R
+built/DBI/doc/backend.html
+built/DBI/doc/backend.Rmd
+built/DBI/doc/DBI.html
+built/DBI/doc/DBI.R
+built/DBI/doc/index.html
+built/DBI/doc/DBI-advanced.Rmd
+built/DBI/doc/DBI-proposal.html
+built/DBI/doc/DBI-history.html
+built/DBI/doc/backend.R
+built/DBI/doc/spec.Rmd
+built/DBI/doc/DBI-advanced.html
+built/DBI/doc/spec.html
+built/DBI/doc/DBI-1.Rmd
+built/DBI/doc/spec.R
+built/DBI/R/
+built/DBI/R/DBI.rdx
+built/DBI/R/DBI.rdb
+built/DBI/R/DBI
+built/DBI/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''mitools'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv DBI_1.1.3_R_x86_64-pc-linux-gnu.tar.gz mitools_2.4_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/mitools
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'mitools'
+also installing the dependency ‘DBI’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/DBI_1.1.3.tar.gz'
+Content type 'binary/octet-stream' length 748403 bytes (730 KB)
+==================================================
+downloaded 730 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/mitools_2.4.tar.gz'
+Content type 'binary/octet-stream' length 269265 bytes (262 KB)
+==================================================
+downloaded 262 KB
+
+* installing *binary* package ‘DBI’ ...
+* ‘DBI’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DBI’ as ‘DBI_1.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DBI)
+* installing *binary* package ‘mitools’ ...
+* ‘mitools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mitools’ as ‘mitools_2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mitools)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp1okAys/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m7.811s
+user	0m4.189s
+sys	0m0.445s

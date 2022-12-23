@@ -3536,7 +3536,6 @@
         "mgcv",
         "mia",
         "miniUI",
-        "mitools",
         "multtest",
         "nloptr",
         "openssl",
@@ -13066,7 +13065,6 @@
         "dplyr",
         "ggplot2",
         "mgcv",
-        "mitools",
         "patchwork",
         "pillar",
         "reshape2",
@@ -18086,7 +18084,6 @@
         "kinship2",
         "knitr",
         "mgcv",
-        "mitools",
         "openssl",
         "pillar",
         "plotly",
@@ -35510,7 +35507,6 @@
         "glmnet",
         "huge",
         "mgcv",
-        "mitools",
         "multtest",
         "network",
         "pillar",
@@ -44801,7 +44797,6 @@
         "interp",
         "latticeExtra",
         "mgcv",
-        "mitools",
         "openssl",
         "pillar",
         "survey",
@@ -60331,13 +60326,11 @@
         "ROI.plugin.lpsolve"
     ],
     "survey": [
-        "mitools",
         "survival"
     ],
     "softImpute": [],
     "ROI.plugin.lpsolve": [],
     "Rvmmin": [],
-    "mitools": [],
     "sjmisc": [
         "dplyr",
         "pillar",
@@ -64847,12 +64840,10 @@
     "huge": [],
     "ICSNP": [
         "ICS",
-        "mitools",
         "survey",
         "survival"
     ],
     "ICS": [
-        "mitools",
         "survey",
         "survival"
     ],
