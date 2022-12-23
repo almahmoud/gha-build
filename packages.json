@@ -3215,7 +3215,6 @@
         "phyloseq",
         "rhdf5"
     ],
-    "SigCheck": [],
     "signatureSearch": [
         "HDF5Array",
         "clusterProfiler",
