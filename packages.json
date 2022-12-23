@@ -24277,7 +24277,6 @@
         "processx",
         "promises",
         "purrr",
-        "qvcalc",
         "rappdirs",
         "registry",
         "reshape2",
@@ -104694,15 +104693,12 @@
     "MetaCycle": [
         "Matrix",
         "gnm",
-        "nnet",
-        "qvcalc"
+        "nnet"
     ],
     "gnm": [
         "Matrix",
-        "nnet",
-        "qvcalc"
+        "nnet"
     ],
-    "qvcalc": [],
     "fastDummies": [
         "lifecycle",
         "pillar",
