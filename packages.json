@@ -9730,7 +9730,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "MethTargetedNGS": [],
     "MethylAid": [
         "AnnotationDbi",
         "BiocFileCache",
