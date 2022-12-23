@@ -31149,7 +31149,6 @@
         "mgcv",
         "munsell",
         "nloptr",
-        "optparse",
         "pbkrtest",
         "pheatmap",
         "pillar",
@@ -31223,7 +31222,6 @@
         "munsell",
         "nloptr",
         "openssl",
-        "optparse",
         "pbkrtest",
         "pheatmap",
         "pillar",
@@ -36876,7 +36874,6 @@
         "mgcv",
         "munsell",
         "nloptr",
-        "optparse",
         "pbkrtest",
         "pheatmap",
         "pillar",
@@ -57848,7 +57845,6 @@
         "MCMCpack",
         "MatrixModels",
         "gmm",
-        "optparse",
         "quantreg",
         "sandwich",
         "survival",
@@ -73041,7 +73037,6 @@
     "chemometrics": [
         "e1071"
     ],
-    "optparse": [],
     "glmmTMB": [
         "RcppEigen",
         "TMB",
