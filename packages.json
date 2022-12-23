@@ -12191,7 +12191,6 @@
         "MSQC",
         "MatrixModels",
         "RSQLite",
-        "RWeka",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -18906,7 +18905,6 @@
         "MSQC",
         "MatrixModels",
         "RSQLite",
-        "RWeka",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -60314,9 +60312,7 @@
     "kknn": [
         "igraph"
     ],
-    "FSelector": [
-        "RWeka"
-    ],
+    "FSelector": [],
     "arm": [
         "lme4",
         "nloptr",
@@ -60326,7 +60322,6 @@
         "tibble",
         "waldo"
     ],
-    "RWeka": [],
     "MSQC": [
         "bslib",
         "htmlwidgets",
