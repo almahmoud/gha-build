@@ -719,7 +719,6 @@
         "rstatix"
     ],
     "MWASTools": [],
-    "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
