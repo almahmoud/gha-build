@@ -589,8 +589,7 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "TxDb.Hsapiens.UCSC.hg18.knownGene",
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
+        "TxDb.Hsapiens.UCSC.hg18.knownGene"
     ],
     "ChIPseeker": [
         "enrichplot",
@@ -701,9 +700,7 @@
     "CoGAPS": [
         "rhdf5"
     ],
-    "Cogito": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "Cogito": [],
     "comapr": [
         "Gviz",
         "Hmisc",
@@ -1791,9 +1788,7 @@
     "InPAS": [
         "cleanUpdTSeq"
     ],
-    "INSPEcT": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "INSPEcT": [],
     "InTAD": [
         "car",
         "ggpubr",
@@ -2935,7 +2930,6 @@
     "profileplyr": [
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "enrichplot",
         "ggraph",
         "rGREAT",
@@ -3252,9 +3246,7 @@
         "rcdk",
         "vsn"
     ],
-    "Rmmquant": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "Hmisc",
@@ -4303,7 +4295,6 @@
     ],
     "spp": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
-    "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
     "propr": [],
     "benchmarkme": [],
     "factoextra": [
