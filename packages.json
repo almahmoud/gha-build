@@ -9161,7 +9161,6 @@
     "logitT": [
         "affy"
     ],
-    "LOLA": [],
     "LoomExperiment": [
         "HDF5Array",
         "SingleCellExperiment",
