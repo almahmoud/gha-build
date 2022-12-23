@@ -3589,7 +3589,6 @@
     "epiNEM": [
         "mnem"
     ],
-    "epistack": [],
     "epistasisGA": [
         "Hmisc",
         "qgraph",
