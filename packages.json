@@ -5717,7 +5717,6 @@
     "cancerclass": [],
     "CancerInSilico": [],
     "CancerSubtypes": [
-        "ConsensusClusterPlus",
         "NMF",
         "ggplot2",
         "pillar",
@@ -5849,7 +5848,6 @@
         "BiocParallel",
         "BiocSingular",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "DelayedMatrixStats",
         "FlowSOM",
@@ -6684,7 +6682,6 @@
     "censcyt": [
         "BiocParallel",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
@@ -7667,7 +7664,6 @@
         "BiocParallel",
         "BiocSingular",
         "Biostrings",
-        "ConsensusClusterPlus",
         "DT",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -9664,7 +9660,6 @@
     "consensus": [
         "gplots"
     ],
-    "ConsensusClusterPlus": [],
     "consensusDE": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -11200,7 +11195,6 @@
     "CyTOFpower": [
         "BiocParallel",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "CytoGLMM",
         "DT",
         "DelayedArray",
@@ -12373,7 +12367,6 @@
         "BiocParallel",
         "Biostrings",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DESeq2",
         "DelayedArray",
         "GenomeInfoDb",
@@ -13057,7 +13050,6 @@
     ],
     "diffcyt": [
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
@@ -17321,7 +17313,6 @@
         "waldo"
     ],
     "FlowSOM": [
-        "ConsensusClusterPlus",
         "broom",
         "car",
         "cowplot",
@@ -23705,7 +23696,6 @@
         "BiocParallel",
         "Biostrings",
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DEGreport",
         "DESeq2",
         "DelayedArray",
@@ -26560,7 +26550,6 @@
         "waldo"
     ],
     "MetaCyto": [
-        "ConsensusClusterPlus",
         "FlowSOM",
         "broom",
         "car",
@@ -34653,7 +34642,6 @@
         "BiocParallel",
         "Biostrings",
         "BumpyMatrix",
-        "ConsensusClusterPlus",
         "CoreGx",
         "DT",
         "DelayedArray",
@@ -50296,7 +50284,6 @@
     ],
     "treekoR": [
         "ComplexHeatmap",
-        "ConsensusClusterPlus",
         "DelayedArray",
         "FlowSOM",
         "GenomeInfoDb",
