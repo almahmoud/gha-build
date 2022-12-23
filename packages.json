@@ -594,8 +594,7 @@
     "condiments": [
         "Ecume",
         "distinct",
-        "scater",
-        "slingshot"
+        "scater"
     ],
     "CONFESS": [
         "contrast",
@@ -2831,7 +2830,6 @@
         "minfi",
         "wateRmelon"
     ],
-    "slingshot": [],
     "SMITE": [
         "geneLenDataBase",
         "goseq"
@@ -3068,9 +3066,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "tradeSeq": [
-        "slingshot"
-    ],
+    "tradeSeq": [],
     "transcriptR": [],
     "tRanslatome": [],
     "TraRe": [
@@ -3080,9 +3076,7 @@
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
     "Travel": [],
-    "traviz": [
-        "slingshot"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "car",
