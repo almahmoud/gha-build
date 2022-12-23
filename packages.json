@@ -34,7 +34,6 @@
     "BiocOncoTK": [
         "ggpubr"
     ],
-    "biomvRCNS": [],
     "biscuiteer": [
         "CGHcall",
         "QDNAseq"
