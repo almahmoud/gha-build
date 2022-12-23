@@ -336,7 +336,6 @@
         "ggbio",
         "viridis"
     ],
-    "branchpointer": [],
     "bsseq": [
         "HDF5Array",
         "rhdf5"
