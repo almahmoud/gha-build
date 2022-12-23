@@ -642,7 +642,6 @@
     "DaMiRseq": [
         "EDASeq",
         "FactoMineR",
-        "arm",
         "car",
         "pbkrtest"
     ],
@@ -733,9 +732,7 @@
     "Dino": [],
     "DiscoRhythm": [],
     "distinct": [],
-    "DMCFB": [
-        "arm"
-    ],
+    "DMCFB": [],
     "DMRcate": [
         "DSS",
         "FDb.InfiniumMethylation.hg19",
@@ -1037,7 +1034,6 @@
         "EDASeq",
         "FactoMineR",
         "MLSeq",
-        "arm",
         "car",
         "pbkrtest"
     ],
@@ -1854,9 +1850,7 @@
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "nondetects": [
-        "arm"
-    ],
+    "nondetects": [],
     "NoRCE": [],
     "NormalyzerDE": [
         "RcmdrMisc",
@@ -2375,9 +2369,7 @@
     "scClassify": [],
     "scDataviz": [],
     "scDblFinder": [],
-    "scDD": [
-        "arm"
-    ],
+    "scDD": [],
     "scGPS": [],
     "schex": [],
     "scmeth": [
@@ -2852,9 +2844,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ensembldb"
     ],
-    "waddR": [
-        "arm"
-    ],
+    "waddR": [],
     "wateRmelon": [
         "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -3008,7 +2998,6 @@
     ],
     "dorothea": [],
     "crisprScoreData": [],
-    "arm": [],
     "rsq": [],
     "text2vec": [
         "mlapi"
