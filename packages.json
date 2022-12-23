@@ -38175,7 +38175,6 @@
         "purrr",
         "rmarkdown",
         "shiny",
-        "splines2",
         "stringr",
         "tibble",
         "tidyselect",
@@ -53537,7 +53536,6 @@
         "tibble",
         "vctrs"
     ],
-    "splines2": [],
     "SCATEData": [
         "AnnotationDbi",
         "AnnotationHub",
