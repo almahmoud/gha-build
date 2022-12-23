@@ -5091,7 +5091,6 @@
     "graphite": [
         "AnnotationDbi"
     ],
-    "GraphPAC": [],
     "GreyListChIP": [
         "BSgenome",
         "GenomicAlignments",
@@ -9327,9 +9326,7 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "QuartPAC": [
-        "GraphPAC"
-    ],
+    "QuartPAC": [],
     "QuasR": [
         "AnnotationDbi",
         "BSgenome",
