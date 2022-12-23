@@ -39,7 +39,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "missMethyl",
         "wateRmelon"
     ],
     "ChIC": [
@@ -66,9 +65,7 @@
         "ttgsea"
     ],
     "diffcyt": [],
-    "DMRcate": [
-        "missMethyl"
-    ],
+    "DMRcate": [],
     "ELMER": [],
     "epihet": [
         "EntropyExplorer"
@@ -123,9 +120,7 @@
     "kissDE": [],
     "LinkHD": [],
     "MAGAR": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "wateRmelon"
     ],
@@ -133,9 +128,7 @@
     "metavizr": [],
     "MethReg": [],
     "methylclock": [],
-    "methylGSA": [
-        "missMethyl"
-    ],
+    "methylGSA": [],
     "MineICA": [],
     "miRSM": [
         "SPONGE",
@@ -144,7 +137,6 @@
     "miRspongeR": [
         "SPONGE"
     ],
-    "missMethyl": [],
     "MPFE": [],
     "MSstatsLiP": [],
     "multiHiCcompare": [
