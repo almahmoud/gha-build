@@ -39654,7 +39654,6 @@
         "tidyselect",
         "viridis"
     ],
-    "SOMNiBUS": [],
     "SpacePAC": [
         "Biostrings",
         "GenomeInfoDb",
