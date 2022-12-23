@@ -35,7 +35,6 @@
     ],
     "BitSeq": [],
     "brainflowprobes": [
-        "GenomicState",
         "derfinderPlot"
     ],
     "CAGEfightR": [],
@@ -413,7 +412,6 @@
     "yarn": [],
     "ReorderCluster": [],
     "mGSZ": [],
-    "GenomicState": [],
     "GenomicTools": [],
     "spp": [],
     "qs": [],
