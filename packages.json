@@ -1492,7 +1492,6 @@
         "basilisk",
         "car",
         "ggpubr",
-        "megadepth",
         "pbkrtest",
         "plyranges",
         "rstatix"
@@ -3317,7 +3316,6 @@
         "drc",
         "pbkrtest"
     ],
-    "megadepth": [],
     "Melissa": [],
     "memes": [],
     "meshes": [
@@ -4201,7 +4199,6 @@
         "dasper",
         "derfinder",
         "ggpubr",
-        "megadepth",
         "pbkrtest",
         "plyranges",
         "rstatix",
