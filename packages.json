@@ -269,8 +269,7 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "CiteFuse": [
         "propr"
@@ -574,9 +573,7 @@
         "enrichplot",
         "motifmatchr"
     ],
-    "EventPointer": [
-        "SGSeq"
-    ],
+    "EventPointer": [],
     "EWCE": [
         "car",
         "ggpubr",
@@ -1400,9 +1397,7 @@
     "rgsepd": [
         "goseq"
     ],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [],
     "RiboProfiling": [
         "biovizBase",
@@ -1538,7 +1533,6 @@
     "SeqGSEA": [],
     "sesame": [],
     "SEtools": [],
-    "SGSeq": [],
     "shinyepico": [
         "minfi"
     ],
