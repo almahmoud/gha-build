@@ -126,8 +126,7 @@
     ],
     "apComplex": [],
     "APL": [
-        "Seurat",
-        "topGO"
+        "Seurat"
     ],
     "appreci8R": [
         "AnnotationHub",
@@ -312,9 +311,7 @@
     "BgeeCall": [
         "GenomicFeatures"
     ],
-    "BgeeDB": [
-        "topGO"
-    ],
+    "BgeeDB": [],
     "BicARE": [
         "GSEABase"
     ],
@@ -377,8 +374,7 @@
     "biodbNci": [],
     "biodbUniprot": [],
     "BioMM": [
-        "rms",
-        "topGO"
+        "rms"
     ],
     "biomvRCNS": [
         "BSgenome",
@@ -627,9 +623,7 @@
         "Seurat",
         "scater"
     ],
-    "cellity": [
-        "topGO"
-    ],
+    "cellity": [],
     "cellmigRation": [
         "FactoMineR",
         "car",
@@ -640,9 +634,7 @@
         "scater"
     ],
     "CellTrails": [],
-    "cellTree": [
-        "topGO"
-    ],
+    "cellTree": [],
     "CEMiTool": [
         "DOSE",
         "WGCNA",
@@ -941,8 +933,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "methylPipe",
-        "topGO"
+        "methylPipe"
     ],
     "ComPrAn": [
         "rio"
@@ -987,9 +978,7 @@
         "GSVA"
     ],
     "consensusSeekeR": [],
-    "consICA": [
-        "topGO"
-    ],
+    "consICA": [],
     "contiBAIT": [
         "BSgenome",
         "GenomicFeatures",
@@ -1510,8 +1499,7 @@
         "globaltest",
         "hgu133a.db",
         "hgu133plus2.db",
-        "pathview",
-        "topGO"
+        "pathview"
     ],
     "eiR": [],
     "ELMER": [
@@ -1855,9 +1843,7 @@
         "flowStats"
     ],
     "fobitools": [],
-    "FoldGO": [
-        "topGO"
-    ],
+    "FoldGO": [],
     "FRASER": [
         "BSgenome",
         "DESeq2",
@@ -2144,9 +2130,7 @@
         "GenomicFeatures",
         "geneLenDataBase"
     ],
-    "GOSim": [
-        "topGO"
-    ],
+    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -2164,8 +2148,7 @@
         "BSgenome"
     ],
     "GRaNIE": [
-        "DESeq2",
-        "topGO"
+        "DESeq2"
     ],
     "granulator": [],
     "GreyListChIP": [
@@ -2348,8 +2331,7 @@
         "genefilter",
         "goseq",
         "heatmaply",
-        "pcaExplorer",
-        "topGO"
+        "pcaExplorer"
     ],
     "IdeoViz": [],
     "idiogram": [],
@@ -3085,9 +3067,7 @@
         "lmerTest",
         "pbkrtest"
     ],
-    "moanin": [
-        "topGO"
-    ],
+    "moanin": [],
     "MODA": [
         "WGCNA"
     ],
@@ -3454,9 +3434,7 @@
         "klaR",
         "questionr"
     ],
-    "OmaDB": [
-        "topGO"
-    ],
+    "OmaDB": [],
     "omicRexposome": [
         "FactoMineR",
         "SmartSVA",
@@ -3594,8 +3572,7 @@
         "GOstats",
         "GSEABase",
         "genefilter",
-        "heatmaply",
-        "topGO"
+        "heatmaply"
     ],
     "PDATK": [
         "CoreGx",
@@ -3658,8 +3635,7 @@
     "PhyloProfile": [
         "AnnotationHub",
         "ExperimentHub",
-        "OmaDB",
-        "topGO"
+        "OmaDB"
     ],
     "Pi": [],
     "Pigengene": [
@@ -3831,8 +3807,7 @@
     ],
     "PSMatch": [],
     "psygenet2r": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "ptairMS": [
         "car",
@@ -4151,8 +4126,7 @@
         "BgeeDB",
         "EnsDb.Hsapiens.v86",
         "GenomicFeatures",
-        "ensembldb",
-        "topGO"
+        "ensembldb"
     ],
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
@@ -5061,7 +5035,6 @@
         "rstatix"
     ],
     "tomoseqr": [],
-    "topGO": [],
     "ToxicoGx": [
         "CoreGx"
     ],
@@ -5077,17 +5050,14 @@
     "tradeSeq": [
         "slingshot"
     ],
-    "transcriptogramer": [
-        "topGO"
-    ],
+    "transcriptogramer": [],
     "transcriptR": [
         "GenomicFeatures",
         "chipseq"
     ],
     "transformGamPoi": [],
     "tRanslatome": [
-        "DESeq2",
-        "topGO"
+        "DESeq2"
     ],
     "TraRe": [
         "vbsr"
@@ -5259,8 +5229,7 @@
     "viper": [],
     "ViSEAGO": [
         "DiagrammeR",
-        "heatmaply",
-        "topGO"
+        "heatmaply"
     ],
     "vissE": [
         "AnnotationHub",
