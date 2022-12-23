@@ -6386,7 +6386,6 @@
     "cancerclass": [],
     "CancerInSilico": [],
     "CancerSubtypes": [
-        "ALL",
         "ConsensusClusterPlus",
         "NMF",
         "doParallel",
@@ -6533,7 +6532,6 @@
         "vctrs"
     ],
     "CATALYST": [
-        "ALL",
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
@@ -7484,7 +7482,6 @@
         "xts"
     ],
     "censcyt": [
-        "ALL",
         "BiocParallel",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
@@ -8571,7 +8568,6 @@
         "vctrs"
     ],
     "ChromSCape": [
-        "ALL",
         "BiocIO",
         "BiocNeighbors",
         "BiocParallel",
@@ -10816,9 +10812,7 @@
     "consensus": [
         "gplots"
     ],
-    "ConsensusClusterPlus": [
-        "ALL"
-    ],
+    "ConsensusClusterPlus": [],
     "consensusDE": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -12515,7 +12509,6 @@
         "vctrs"
     ],
     "CyTOFpower": [
-        "ALL",
         "BiocParallel",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
@@ -13827,7 +13820,6 @@
         "vctrs"
     ],
     "DEGreport": [
-        "ALL",
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
@@ -14618,7 +14610,6 @@
         "viridis"
     ],
     "diffcyt": [
-        "ALL",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "DelayedArray",
@@ -19356,7 +19347,6 @@
         "waldo"
     ],
     "FlowSOM": [
-        "ALL",
         "ConsensusClusterPlus",
         "MatrixModels",
         "S4Vectors",
@@ -26462,7 +26452,6 @@
         "vroom"
     ],
     "isomiRs": [
-        "ALL",
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
@@ -29692,7 +29681,6 @@
         "waldo"
     ],
     "MetaCyto": [
-        "ALL",
         "ConsensusClusterPlus",
         "FlowSOM",
         "MatrixModels",
@@ -38803,7 +38791,6 @@
     ],
     "PDATK": [
         "AIMS",
-        "ALL",
         "AnnotationDbi",
         "BiocFileCache",
         "BiocParallel",
@@ -56358,7 +56345,6 @@
         "vctrs"
     ],
     "treekoR": [
-        "ALL",
         "ComplexHeatmap",
         "ConsensusClusterPlus",
         "DelayedArray",
@@ -62131,7 +62117,6 @@
     "BMA": [
         "survival"
     ],
-    "ALL": [],
     "vcfR": [
         "ape",
         "dplyr",
