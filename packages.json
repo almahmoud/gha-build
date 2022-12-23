@@ -11685,7 +11685,6 @@
         "vctrs",
         "vsn"
     ],
-    "DART": [],
     "dasper": [
         "AnnotationDbi",
         "BiocFileCache",
