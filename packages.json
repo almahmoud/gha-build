@@ -131,7 +131,6 @@
         "ggpubr"
     ],
     "ddPCRclust": [],
-    "debrowser": [],
     "DeepPINCS": [
         "mlapi",
         "text2vec",
