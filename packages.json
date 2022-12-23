@@ -1215,7 +1215,6 @@
         "mppa"
     ],
     "nearBynding": [],
-    "NetActivity": [],
     "netboxr": [
         "clusterProfiler",
         "enrichplot"
