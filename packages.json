@@ -12025,7 +12025,6 @@
     "nanotatoR": [
         "AnnotationDbi",
         "KEGGREST",
-        "VarfromPDB",
         "broom",
         "dbplyr",
         "dtplyr",
@@ -21430,7 +21429,6 @@
     "shinyjqui": [
         "htmlwidgets"
     ],
-    "VarfromPDB": [],
     "mppa": [],
     "ICSNP": [],
     "dnet": [
