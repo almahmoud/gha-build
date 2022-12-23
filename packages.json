@@ -5032,7 +5032,6 @@
         "ChemmineR",
         "DT",
         "GenomicRanges",
-        "Spectra",
         "bslib",
         "dbplyr",
         "dplyr",
@@ -14302,7 +14301,6 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "QFeatures",
-        "Spectra",
         "SummarizedExperiment",
         "bslib",
         "dbplyr",
@@ -14592,7 +14590,6 @@
         "topconfects"
     ],
     "MetCirc": [
-        "Spectra",
         "bslib",
         "ggplot2",
         "shiny"
@@ -16037,7 +16034,6 @@
         "GenomicRanges",
         "MSnbase",
         "MsFeatures",
-        "Spectra",
         "SummarizedExperiment",
         "ggplot2",
         "vsn",
@@ -16365,24 +16361,15 @@
         "dplyr",
         "tidyr"
     ],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendMsp": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendMsp": [],
+    "MsBackendRawFileReader": [],
     "MsExperiment": [
         "AnnotationFilter",
         "GenomicRanges",
         "MultiAssayExperiment",
         "QFeatures",
-        "Spectra",
         "SummarizedExperiment",
         "bslib",
         "dplyr",
@@ -25182,7 +25169,6 @@
         "ggplot2",
         "viridis"
     ],
-    "Spectra": [],
     "SpectralTAD": [
         "Biostrings",
         "CGHcall",
