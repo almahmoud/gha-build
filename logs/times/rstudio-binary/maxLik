@@ -1,0 +1,454 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   f76a32e8..a6dc071b  main       -> origin/main
+Updating f76a32e8..a6dc071b
+Fast-forward
+ lists/RSpectra                                  |    2 +-
+ lists/seriation                                 |    2 +-
+ logs/run_ids/rstudio-binaries/TMB               |    2 +
+ logs/sizes/rstudio-binaries/binaries/RSpectra   |    1 +
+ logs/sizes/rstudio-binaries/binaries/seriation  |    1 +
+ logs/sizes/rstudio-binaries/libraries/RSpectra  |    1 +
+ logs/sizes/rstudio-binaries/libraries/seriation |    1 +
+ logs/times/rstudio-binary/RSpectra              | 1623 +++++++++++++++++++++++
+ logs/times/rstudio-binary/seriation             | 1186 +++++++++++++++++
+ packages.json                                   |   78 +-
+ 10 files changed, 2820 insertions(+), 77 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/TMB
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RSpectra
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/seriation
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RSpectra
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/seriation
+ create mode 100644 logs/times/rstudio-binary/RSpectra
+ create mode 100644 logs/times/rstudio-binary/seriation
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=maxLik
++ PKG=maxLik
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "maxLik"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 27  274k   27 76488    0     0   141k      0  0:00:01 --:--:--  0:00:01  141k100  274k  100  274k    0     0   283k      0 --:--:-- --:--:-- --:--:--  282k
+built/
+built/miscTools/
+built/miscTools/NEWS
+built/miscTools/NAMESPACE
+built/miscTools/DESCRIPTION
+built/miscTools/help/
+built/miscTools/help/paths.rds
+built/miscTools/help/miscTools.rdb
+built/miscTools/help/aliases.rds
+built/miscTools/help/miscTools.rdx
+built/miscTools/help/AnIndex
+built/miscTools/Meta/
+built/miscTools/Meta/package.rds
+built/miscTools/Meta/features.rds
+built/miscTools/Meta/hsearch.rds
+built/miscTools/Meta/links.rds
+built/miscTools/Meta/nsInfo.rds
+built/miscTools/Meta/Rd.rds
+built/miscTools/html/
+built/miscTools/html/00Index.html
+built/miscTools/html/R.css
+built/miscTools/INDEX
+built/miscTools/R/
+built/miscTools/R/miscTools
+built/miscTools/R/miscTools.rdb
+built/miscTools/R/miscTools.rdx
+built/digest/
+built/digest/libs/
+built/digest/libs/digest.so
+built/digest/NAMESPACE
+built/digest/tinytest/
+built/digest/tinytest/test_new_matrix_behaviour.R
+built/digest/tinytest/test_crc32.R
+built/digest/tinytest/test_misc.R
+built/digest/tinytest/test_digest2int.R
+built/digest/tinytest/test_hmac.R
+built/digest/tinytest/test_blake3.R
+built/digest/tinytest/test_raw.R
+built/digest/tinytest/test_aes.R
+built/digest/tinytest/test_digest.R
+built/digest/tinytest/test_sha1.R
+built/digest/tinytest/test_encoding.R
+built/digest/tinytest/test_num2hex.R
+built/digest/DESCRIPTION
+built/digest/help/
+built/digest/help/paths.rds
+built/digest/help/aliases.rds
+built/digest/help/digest.rdx
+built/digest/help/digest.rdb
+built/digest/help/AnIndex
+built/digest/Meta/
+built/digest/Meta/package.rds
+built/digest/Meta/vignette.rds
+built/digest/Meta/demo.rds
+built/digest/Meta/features.rds
+built/digest/Meta/hsearch.rds
+built/digest/Meta/links.rds
+built/digest/Meta/nsInfo.rds
+built/digest/Meta/Rd.rds
+built/digest/include/
+built/digest/include/pmurhashAPI.h
+built/digest/GPL-2
+built/digest/html/
+built/digest/html/00Index.html
+built/digest/html/R.css
+built/digest/INDEX
+built/digest/doc/
+built/digest/doc/sha1.html
+built/digest/doc/sha1.md
+built/digest/doc/sha1.R
+built/digest/doc/index.html
+built/digest/R/
+built/digest/R/digest.rdx
+built/digest/R/digest.rdb
+built/digest/R/digest
+built/digest/demo/
+built/digest/demo/vectorised.R
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 4555k    1 81600    0     0   148k      0  0:00:30 --:--:--  0:00:30  148k 15 4555k   15  685k    0     0   451k      0  0:00:10  0:00:01  0:00:09  451k 39 4555k   39 1785k    0     0   707k      0  0:00:06  0:00:02  0:00:04  706k 74 4555k   74 3410k    0     0   966k      0  0:00:04  0:00:03  0:00:01  966k100 4555k  100 4555k    0     0  1114k      0  0:00:04  0:00:04 --:--:-- 1114k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/zoo/
+built/built/zoo/WISHLIST
+built/built/zoo/libs/
+built/built/zoo/libs/zoo.so
+built/built/zoo/NEWS
+built/built/zoo/NAMESPACE
+built/built/zoo/DESCRIPTION
+built/built/zoo/help/
+built/built/zoo/help/paths.rds
+built/built/zoo/help/zoo.rdb
+built/built/zoo/help/zoo.rdx
+built/built/zoo/help/aliases.rds
+built/built/zoo/help/AnIndex
+built/built/zoo/Meta/
+built/built/zoo/Meta/package.rds
+built/built/zoo/Meta/vignette.rds
+built/built/zoo/Meta/demo.rds
+built/built/zoo/Meta/features.rds
+built/built/zoo/Meta/hsearch.rds
+built/built/zoo/Meta/links.rds
+built/built/zoo/Meta/nsInfo.rds
+built/built/zoo/Meta/Rd.rds
+built/built/zoo/include/
+built/built/zoo/include/zoo.h
+built/built/zoo/THANKS
+built/built/zoo/CITATION
+built/built/zoo/html/
+built/built/zoo/html/00Index.html
+built/built/zoo/html/R.css
+built/built/zoo/TODO
+built/built/zoo/INDEX
+built/built/zoo/doc/
+built/built/zoo/doc/zoo-read.pdf
+built/built/zoo/doc/zoo-faq.R
+built/built/zoo/doc/MSFT.rda
+built/built/zoo/doc/zoo-design.R
+built/built/zoo/doc/zoo-read.R
+built/built/zoo/doc/demo1.txt
+built/built/zoo/doc/zoo-design.Rnw
+built/built/zoo/doc/zoo.R
+built/built/zoo/doc/demo2.txt
+built/built/zoo/doc/zoo-quickref.R
+built/built/zoo/doc/zoo-read.Rnw
+built/built/zoo/doc/zoo-faq.pdf
+built/built/zoo/doc/zoo-quickref.Rnw
+built/built/zoo/doc/zoo-design.pdf
+built/built/zoo/doc/zoo-quickref.pdf
+built/built/zoo/doc/index.html
+built/built/zoo/doc/sunw.rda
+built/built/zoo/doc/zoo.Rnw
+built/built/zoo/doc/zoo-faq.Rnw
+built/built/zoo/doc/zoo.pdf
+built/built/zoo/R/
+built/built/zoo/R/zoo
+built/built/zoo/R/zoo.rdb
+built/built/zoo/R/zoo.rdx
+built/built/zoo/demo/
+built/built/zoo/demo/zoo-overplot.R
+built/zoo/
+built/zoo/WISHLIST
+built/zoo/libs/
+built/zoo/libs/zoo.so
+built/zoo/NEWS
+built/zoo/NAMESPACE
+built/zoo/DESCRIPTION
+built/zoo/help/
+built/zoo/help/paths.rds
+built/zoo/help/zoo.rdb
+built/zoo/help/zoo.rdx
+built/zoo/help/aliases.rds
+built/zoo/help/AnIndex
+built/zoo/Meta/
+built/zoo/Meta/package.rds
+built/zoo/Meta/vignette.rds
+built/zoo/Meta/demo.rds
+built/zoo/Meta/features.rds
+built/zoo/Meta/hsearch.rds
+built/zoo/Meta/links.rds
+built/zoo/Meta/nsInfo.rds
+built/zoo/Meta/Rd.rds
+built/zoo/include/
+built/zoo/include/zoo.h
+built/zoo/THANKS
+built/zoo/CITATION
+built/zoo/html/
+built/zoo/html/00Index.html
+built/zoo/html/R.css
+built/zoo/TODO
+built/zoo/INDEX
+built/zoo/doc/
+built/zoo/doc/zoo-read.pdf
+built/zoo/doc/zoo-faq.R
+built/zoo/doc/MSFT.rda
+built/zoo/doc/zoo-design.R
+built/zoo/doc/zoo-read.R
+built/zoo/doc/demo1.txt
+built/zoo/doc/zoo-design.Rnw
+built/zoo/doc/zoo.R
+built/zoo/doc/demo2.txt
+built/zoo/doc/zoo-quickref.R
+built/zoo/doc/zoo-read.Rnw
+built/zoo/doc/zoo-faq.pdf
+built/zoo/doc/zoo-quickref.Rnw
+built/zoo/doc/zoo-design.pdf
+built/zoo/doc/zoo-quickref.pdf
+built/zoo/doc/index.html
+built/zoo/doc/sunw.rda
+built/zoo/doc/zoo.Rnw
+built/zoo/doc/zoo-faq.Rnw
+built/zoo/doc/zoo.pdf
+built/zoo/R/
+built/zoo/R/zoo
+built/zoo/R/zoo.rdb
+built/zoo/R/zoo.rdx
+built/zoo/demo/
+built/zoo/demo/zoo-overplot.R
+built/sandwich/
+built/sandwich/NAMESPACE
+built/sandwich/DESCRIPTION
+built/sandwich/help/
+built/sandwich/help/paths.rds
+built/sandwich/help/sandwich.rdx
+built/sandwich/help/sandwich.rdb
+built/sandwich/help/aliases.rds
+built/sandwich/help/figures/
+built/sandwich/help/figures/README-sandwich.svg
+built/sandwich/help/AnIndex
+built/sandwich/data/
+built/sandwich/data/Investment.rda
+built/sandwich/data/PetersenCL.rda
+built/sandwich/data/PublicSchools.rda
+built/sandwich/data/InstInnovation.rda
+built/sandwich/Meta/
+built/sandwich/Meta/package.rds
+built/sandwich/Meta/vignette.rds
+built/sandwich/Meta/features.rds
+built/sandwich/Meta/hsearch.rds
+built/sandwich/Meta/links.rds
+built/sandwich/Meta/nsInfo.rds
+built/sandwich/Meta/Rd.rds
+built/sandwich/Meta/data.rds
+built/sandwich/CITATION
+built/sandwich/html/
+built/sandwich/html/00Index.html
+built/sandwich/html/R.css
+built/sandwich/INDEX
+built/sandwich/doc/
+built/sandwich/doc/sandwich-CL.pdf
+built/sandwich/doc/sandwich.pdf
+built/sandwich/doc/sandwich.Rnw
+built/sandwich/doc/sandwich-CL.R
+built/sandwich/doc/sandwich-OOP.pdf
+built/sandwich/doc/sim-CL.R
+built/sandwich/doc/sandwich-OOP.Rnw
+built/sandwich/doc/sandwich-CL.Rnw
+built/sandwich/doc/sandwich-OOP.R
+built/sandwich/doc/sim-CL.rda
+built/sandwich/doc/index.html
+built/sandwich/doc/sandwich.R
+built/sandwich/R/
+built/sandwich/R/sandwich
+built/sandwich/R/sandwich.rdx
+built/sandwich/R/sandwich.rdb
+built/sandwich/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 37 73123   37 27528    0     0  81500      0 --:--:-- --:--:-- --:--:-- 81443100 73123  100 73123    0     0   144k      0 --:--:-- --:--:-- --:--:--  144k
+built/
+built/generics/
+built/generics/NAMESPACE
+built/generics/DESCRIPTION
+built/generics/help/
+built/generics/help/paths.rds
+built/generics/help/aliases.rds
+built/generics/help/generics.rdb
+built/generics/help/AnIndex
+built/generics/help/generics.rdx
+built/generics/Meta/
+built/generics/Meta/package.rds
+built/generics/Meta/features.rds
+built/generics/Meta/hsearch.rds
+built/generics/Meta/links.rds
+built/generics/Meta/nsInfo.rds
+built/generics/Meta/Rd.rds
+built/generics/LICENSE
+built/generics/html/
+built/generics/html/00Index.html
+built/generics/html/R.css
+built/generics/INDEX
+built/generics/R/
+built/generics/R/generics.rdb
+built/generics/R/generics
+built/generics/R/generics.rdx
+built/generics/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''maxLik'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv generics_0.1.3_R_x86_64-pc-linux-gnu.tar.gz maxLik_1.5-2_R_x86_64-pc-linux-gnu.tar.gz miscTools_0.6-26_R_x86_64-pc-linux-gnu.tar.gz sandwich_3.0-2_R_x86_64-pc-linux-gnu.tar.gz zoo_1.8-11_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/maxLik
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'maxLik'
+also installing the dependencies ‘zoo’, ‘miscTools’, ‘sandwich’, ‘generics’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/zoo_1.8-11.tar.gz'
+Content type 'binary/octet-stream' length 1024169 bytes (1000 KB)
+==================================================
+downloaded 1000 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/miscTools_0.6-26.tar.gz'
+Content type 'binary/octet-stream' length 85729 bytes (83 KB)
+==================================================
+downloaded 83 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/sandwich_3.0-2.tar.gz'
+Content type 'binary/octet-stream' length 1456523 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/generics_0.1.3.tar.gz'
+Content type 'binary/octet-stream' length 73201 bytes (71 KB)
+==================================================
+downloaded 71 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/maxLik_1.5-2.tar.gz'
+Content type 'binary/octet-stream' length 1594223 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+* installing *binary* package ‘zoo’ ...
+* ‘zoo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘zoo’ as ‘zoo_1.8-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zoo)
+* installing *binary* package ‘miscTools’ ...
+* ‘miscTools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘miscTools’ as ‘miscTools_0.6-26_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (miscTools)
+* installing *binary* package ‘generics’ ...
+* ‘generics’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘generics’ as ‘generics_0.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (generics)
+* installing *binary* package ‘sandwich’ ...
+* ‘sandwich’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sandwich’ as ‘sandwich_3.0-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sandwich)
+* installing *binary* package ‘maxLik’ ...
+* ‘maxLik’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘maxLik’ as ‘maxLik_1.5-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (maxLik)
+
+The downloaded source packages are in
+	‘/tmp/RtmpXc15TR/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m16.833s
+user	0m5.773s
+sys	0m0.834s

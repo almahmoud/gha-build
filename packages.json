@@ -2732,7 +2732,6 @@
         "ggrastr",
         "ggrepel",
         "httr",
-        "maxLik",
         "pillar",
         "purrr",
         "ragg",
@@ -12039,8 +12038,7 @@
     "DEsingle": [
         "BiocParallel",
         "futile.logger",
-        "gamlss",
-        "maxLik"
+        "gamlss"
     ],
     "destiny": [
         "DelayedArray",
@@ -17221,7 +17219,6 @@
         "httr",
         "knitr",
         "lme4",
-        "maxLik",
         "nloptr",
         "pbkrtest",
         "pillar",
@@ -22021,7 +22018,6 @@
         "leiden",
         "lme4",
         "lmtest",
-        "maxLik",
         "miniUI",
         "mixtools",
         "nloptr",
@@ -51392,11 +51388,8 @@
         "tibble",
         "vctrs"
     ],
-    "DirichletReg": [
-        "maxLik"
-    ],
+    "DirichletReg": [],
     "RcppDist": [],
-    "maxLik": [],
     "corncob": [
         "Biostrings",
         "GenomeInfoDb",
