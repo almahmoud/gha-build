@@ -3604,7 +3604,6 @@
         "pbkrtest",
         "unmarked"
     ],
-    "oposSOM": [],
     "oppar": [
         "GSEABase",
         "GSVA"
