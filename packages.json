@@ -39289,7 +39289,6 @@
         "progress",
         "promises",
         "purrr",
-        "qpdf",
         "quantreg",
         "rematch2",
         "reshape2",
@@ -69901,10 +69900,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "pdftools": [
-        "qpdf"
-    ],
-    "qpdf": [],
+    "pdftools": [],
     "flatxml": [
         "httr",
         "openssl"
