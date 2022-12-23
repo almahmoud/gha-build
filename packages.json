@@ -712,7 +712,6 @@
         "IRanges",
         "XVector",
         "affy",
-        "hypergraph",
         "makecdfenv"
     ],
     "AMARETTO": [
@@ -3102,7 +3101,6 @@
     ],
     "BiGGR": [
         "hyperdraw",
-        "hypergraph",
         "stringr",
         "vctrs"
     ],
@@ -19977,7 +19975,6 @@
         "XVector",
         "affy",
         "altcdfenvs",
-        "hypergraph",
         "makecdfenv"
     ],
     "hca": [
@@ -20692,10 +20689,7 @@
         "vctrs",
         "visNetwork"
     ],
-    "hyperdraw": [
-        "hypergraph"
-    ],
-    "hypergraph": [],
+    "hyperdraw": [],
     "iasva": [
         "BiocParallel",
         "DelayedArray",
