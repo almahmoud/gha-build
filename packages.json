@@ -3677,9 +3677,7 @@
         "genefilter",
         "sva"
     ],
-    "LACE": [
-        "sortable"
-    ],
+    "LACE": [],
     "LedPred": [],
     "levi": [],
     "LineagePulse": [],
@@ -4797,8 +4795,7 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "rtracklayer",
-        "sortable"
+        "rtracklayer"
     ],
     "MutationalPatterns": [
         "BSgenome",
@@ -8313,7 +8310,6 @@
     "hgu95av2.db": [
         "org.Hs.eg.db"
     ],
-    "sortable": [],
     "reldist": [],
     "adabag": [
         "caret"
