@@ -14,8 +14,7 @@
         "annaffy",
         "annotate",
         "blob",
-        "genefilter",
-        "multtest"
+        "genefilter"
     ],
     "a4Base": [
         "AnnotationDbi",
@@ -29,17 +28,14 @@
         "annaffy",
         "annotate",
         "blob",
-        "genefilter",
-        "multtest"
+        "genefilter"
     ],
     "a4Classif": [
         "ROCR",
         "a4Core"
     ],
     "a4Core": [],
-    "ABarray": [
-        "multtest"
-    ],
+    "ABarray": [],
     "abseqR": [
         "BiocParallel",
         "BiocStyle",
@@ -76,9 +72,7 @@
         "pillar",
         "tibble"
     ],
-    "aCGH": [
-        "multtest"
-    ],
+    "aCGH": [],
     "ADaCGH2": [
         "AnnotationDbi",
         "Biostrings",
@@ -92,7 +86,6 @@
         "blob",
         "genefilter",
         "ggplot2",
-        "multtest",
         "pillar",
         "snapCGH",
         "tibble",
@@ -215,8 +208,7 @@
         "KEGGREST",
         "RSQLite",
         "XVector",
-        "blob",
-        "multtest"
+        "blob"
     ],
     "AffiXcan": [
         "BiocParallel",
@@ -457,7 +449,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "multtest",
         "zCompositions"
     ],
     "alevinQC": [
@@ -987,7 +978,6 @@
     ],
     "anota": [
         "ggplot2",
-        "multtest",
         "pillar",
         "qvalue",
         "reshape2",
@@ -1010,7 +1000,6 @@
         "blob",
         "geneplotter",
         "ggplot2",
-        "multtest",
         "pillar",
         "qvalue",
         "reshape2",
@@ -1320,7 +1309,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -1699,7 +1687,6 @@
         "interactiveDisplayBase",
         "knitr",
         "motifStack",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -2535,7 +2522,6 @@
         "metagenomeSeq",
         "mia",
         "miniUI",
-        "multtest",
         "nloptr",
         "optimr",
         "patchwork",
@@ -2634,8 +2620,7 @@
         "RSQLite",
         "XVector",
         "annotate",
-        "blob",
-        "multtest"
+        "blob"
     ],
     "BiFET": [
         "GenomeInfoDb",
@@ -2683,7 +2668,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -5626,7 +5610,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "plotly",
@@ -5921,7 +5904,6 @@
         "ensembldb",
         "ggplot2",
         "hms",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -7178,7 +7160,6 @@
         "ggplot2",
         "hms",
         "knitr",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -7350,7 +7331,6 @@
         "biomformat",
         "cobs",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "pillar",
         "reshape2",
@@ -7938,7 +7918,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -8263,7 +8242,6 @@
         "bslib",
         "htmlwidgets",
         "knitr",
-        "multtest",
         "rmarkdown",
         "stringr"
     ],
@@ -8456,7 +8434,6 @@
         "htmlwidgets",
         "keras",
         "knitr",
-        "multtest",
         "patchwork",
         "pillar",
         "progress",
@@ -9450,7 +9427,6 @@
         "mnem",
         "modelr",
         "multcomp",
-        "multtest",
         "mutoss",
         "org.Hs.eg.db",
         "pcalg",
@@ -9747,7 +9723,6 @@
         "lme4",
         "methylKit",
         "minfi",
-        "multtest",
         "nloptr",
         "pillar",
         "progress",
@@ -10247,7 +10222,6 @@
         "ensembldb",
         "ggplot2",
         "hms",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -10478,7 +10452,6 @@
         "htmlTable",
         "htmlwidgets",
         "knitr",
-        "multtest",
         "pillar",
         "rmarkdown",
         "stringr",
@@ -10862,7 +10835,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -11645,7 +11617,6 @@
         "knitr",
         "metap",
         "multcomp",
-        "multtest",
         "mutoss",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -11837,7 +11808,6 @@
         "interactiveDisplayBase",
         "knitr",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -12436,7 +12406,6 @@
         "interactiveDisplayBase",
         "knitr",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -13622,7 +13591,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -14302,7 +14270,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -16616,8 +16583,7 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "iPAC",
-        "multtest"
+        "iPAC"
     ],
     "GRENITS": [
         "ggplot2",
@@ -16906,7 +16872,6 @@
         "haven",
         "hms",
         "keras",
-        "multtest",
         "patchwork",
         "pillar",
         "progress",
@@ -17887,7 +17852,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -18733,8 +18697,7 @@
     "iPAC": [
         "Biostrings",
         "GenomeInfoDb",
-        "XVector",
-        "multtest"
+        "XVector"
     ],
     "iPath": [
         "BiocParallel",
@@ -19398,7 +19361,6 @@
         "tidyselect"
     ],
     "KCsmart": [
-        "multtest",
         "siggenes"
     ],
     "kebabs": [
@@ -20018,7 +19980,6 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -20325,7 +20286,6 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "multtest",
         "oligoClasses",
         "org.Hs.eg.db",
         "pillar",
@@ -20516,7 +20476,6 @@
         "RSQLite",
         "XVector",
         "blob",
-        "multtest",
         "reactome.db"
     ],
     "maPredictDSC": [
@@ -20734,7 +20693,6 @@
         "knitr",
         "lme4",
         "lmerTest",
-        "multtest",
         "nloptr",
         "phyloseq",
         "pillar",
@@ -20992,7 +20950,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -21051,7 +21008,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -21402,7 +21358,6 @@
     "metabomxtr": [
         "BiocParallel",
         "ggplot2",
-        "multtest",
         "pillar",
         "tibble"
     ],
@@ -21746,7 +21701,6 @@
         "ggplot2",
         "hms",
         "metagenomeSeq",
-        "multtest",
         "phyloseq",
         "pillar",
         "progress",
@@ -21769,7 +21723,6 @@
         "knitr",
         "metap",
         "multcomp",
-        "multtest",
         "mutoss",
         "pillar",
         "plotly",
@@ -21962,7 +21915,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -22012,7 +21964,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "plyranges",
         "progress",
@@ -22094,7 +22045,6 @@
         "minfi",
         "miniUI",
         "modelr",
-        "multtest",
         "nloptr",
         "pbkrtest",
         "pillar",
@@ -22184,7 +22134,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "multtest",
         "org.Hs.eg.db",
         "patchwork",
         "pillar",
@@ -22390,7 +22339,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -22619,7 +22567,6 @@
         "biomformat",
         "dplyr",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "pillar",
         "purrr",
@@ -22637,7 +22584,6 @@
         "biomformat",
         "ggplot2",
         "metagenomeSeq",
-        "multtest",
         "phyloseq",
         "pillar",
         "reshape2",
@@ -22759,7 +22705,6 @@
         "metagenomeSeq",
         "mia",
         "multcomp",
-        "multtest",
         "nloptr",
         "patchwork",
         "phyloseq",
@@ -23051,7 +22996,6 @@
         "lumiHumanAll.db",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -23097,7 +23041,6 @@
         "genefilter",
         "hms",
         "illuminaio",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -23350,7 +23293,6 @@
         "metR",
         "miRspongeR",
         "modelr",
-        "multtest",
         "nloptr",
         "org.Hs.eg.db",
         "patchwork",
@@ -23539,7 +23481,6 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -25012,7 +24953,6 @@
         "graphite",
         "metap",
         "multcomp",
-        "multtest",
         "mutoss",
         "pillar",
         "purrr",
@@ -25118,7 +25058,6 @@
         "miniUI",
         "mixOmics",
         "multcomp",
-        "multtest",
         "mutoss",
         "networkD3",
         "patchwork",
@@ -25158,7 +25097,6 @@
         "viridis",
         "waldo"
     ],
-    "multtest": [],
     "mumosa": [
         "BiocNeighbors",
         "BiocParallel",
@@ -25554,7 +25492,6 @@
         "metap",
         "motifStack",
         "multcomp",
-        "multtest",
         "mutoss",
         "pillar",
         "progress",
@@ -25990,7 +25927,6 @@
         "ICS",
         "ICSNP",
         "ggplot2",
-        "multtest",
         "network",
         "pillar",
         "tibble"
@@ -26167,7 +26103,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pandaR",
         "pillar",
@@ -26499,9 +26434,7 @@
         "tidyr",
         "tidyselect"
     ],
-    "OCplus": [
-        "multtest"
-    ],
+    "OCplus": [],
     "octad": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -26776,7 +26709,6 @@
         "bslib",
         "htmlwidgets",
         "knitr",
-        "multtest",
         "rmarkdown",
         "shiny",
         "stringr",
@@ -27719,7 +27651,6 @@
         "gson",
         "metap",
         "multcomp",
-        "multtest",
         "mutoss",
         "org.Hs.eg.db",
         "patchwork",
@@ -27856,7 +27787,6 @@
         "htmlwidgets",
         "knitr",
         "miniUI",
-        "multtest",
         "phyloseq",
         "pillar",
         "pkgdown",
@@ -28171,7 +28101,6 @@
         "XVector",
         "biomformat",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "pillar",
         "reshape2",
@@ -28539,7 +28468,6 @@
         "XVector",
         "biomformat",
         "ggplot2",
-        "multtest",
         "pillar",
         "reshape2",
         "rhdf5",
@@ -29144,7 +29072,6 @@
         "bslib",
         "ggplot2",
         "knitr",
-        "multtest",
         "phyloseq",
         "pillar",
         "reshape2",
@@ -29184,7 +29111,6 @@
         "hardhat",
         "hms",
         "ipred",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "prodlim",
@@ -29209,8 +29135,7 @@
         "RSQLite",
         "XVector",
         "annotate",
-        "blob",
-        "multtest"
+        "blob"
     ],
     "primirTSS": [
         "AnnotationDbi",
@@ -30496,7 +30421,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -30518,8 +30442,7 @@
         "GraphPAC",
         "SpacePAC",
         "XVector",
-        "iPAC",
-        "multtest"
+        "iPAC"
     ],
     "QuasR": [
         "AnnotationDbi",
@@ -30724,9 +30647,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "rain": [
-        "multtest"
-    ],
+    "rain": [],
     "ramr": [
         "EnvStats",
         "GenomeInfoDb",
@@ -30964,7 +30885,6 @@
         "dplyr",
         "ggplot2",
         "hms",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -31014,7 +30934,6 @@
         "XVector",
         "biomformat",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "pillar",
         "quantmod",
@@ -31214,7 +31133,6 @@
         "XVector",
         "biomformat",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "pillar",
         "reshape2",
@@ -31323,7 +31241,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -31400,7 +31317,6 @@
         "ensembldb",
         "ggplot2",
         "hms",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -31647,7 +31563,6 @@
         "ipred",
         "knitr",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "prodlim",
@@ -33149,7 +33064,6 @@
         "illuminaio",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -33251,7 +33165,6 @@
         "bslib",
         "ggplot2",
         "knitr",
-        "multtest",
         "phyloseq",
         "pillar",
         "reshape2",
@@ -33358,7 +33271,6 @@
         "lme4",
         "metap",
         "multcomp",
-        "multtest",
         "mutoss",
         "nloptr",
         "pbkrtest",
@@ -33614,9 +33526,7 @@
         "viper",
         "waldo"
     ],
-    "RTopper": [
-        "multtest"
-    ],
+    "RTopper": [],
     "Rtpca": [
         "dplyr",
         "ggplot2",
@@ -35844,7 +35754,6 @@
         "illuminaio",
         "knitr",
         "minfi",
-        "multtest",
         "pillar",
         "plotly",
         "progress",
@@ -35898,7 +35807,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -35938,7 +35846,6 @@
         "mlr3",
         "mlr3learners",
         "mlr3tuning",
-        "multtest",
         "nloptr",
         "phyloseq",
         "pillar",
@@ -36005,9 +35912,7 @@
         "pillar",
         "tibble"
     ],
-    "siggenes": [
-        "multtest"
-    ],
+    "siggenes": [],
     "sights": [
         "ggplot2",
         "pillar",
@@ -36315,7 +36220,6 @@
         "biomformat",
         "dplyr",
         "ggplot2",
-        "multtest",
         "phyloseq",
         "pillar",
         "purrr",
@@ -36441,7 +36345,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "multtest",
         "scran",
         "scuttle",
         "stringr"
@@ -36531,7 +36434,6 @@
         "msigdbr",
         "multcomp",
         "multipanelfigure",
-        "multtest",
         "mutoss",
         "org.Hs.eg.db",
         "patchwork",
@@ -36764,7 +36666,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -36874,7 +36775,6 @@
         "blob",
         "genefilter",
         "ggplot2",
-        "multtest",
         "pillar",
         "tibble",
         "tilingArray",
@@ -37031,8 +36931,7 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "iPAC",
-        "multtest"
+        "iPAC"
     ],
     "Spaniel": [
         "BiocNeighbors",
@@ -37910,7 +37809,6 @@
         "htmlTable",
         "htmlwidgets",
         "knitr",
-        "multtest",
         "phyloseq",
         "pillar",
         "reshape2",
@@ -38818,7 +38716,6 @@
         "ggplot2",
         "hms",
         "knitr",
-        "multtest",
         "pillar",
         "progress",
         "qvalue",
@@ -40470,7 +40367,6 @@
         "blob",
         "geneplotter",
         "ggplot2",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "qvalue",
@@ -40780,7 +40676,6 @@
         "tibble"
     ],
     "trio": [
-        "multtest",
         "siggenes"
     ],
     "triplex": [
@@ -41974,7 +41869,6 @@
         "htmlwidgets",
         "knitr",
         "mixtools",
-        "multtest",
         "pillar",
         "plotly",
         "progress",
@@ -42054,7 +41948,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "multtest",
         "org.Hs.eg.db",
         "pillar",
         "progress",
@@ -42122,7 +42015,6 @@
         "blob",
         "gcrma",
         "ggplot2",
-        "multtest",
         "pillar",
         "qvalue",
         "reshape2",
@@ -42257,7 +42149,6 @@
         "annotate",
         "blob",
         "genefilter",
-        "multtest",
         "siggenes"
     ],
     "Xeva": [
@@ -42422,7 +42313,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -43909,7 +43799,6 @@
         "biomformat",
         "dplyr",
         "ggplot2",
-        "multtest",
         "optimr",
         "phyloseq",
         "pillar",
@@ -43963,7 +43852,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -44703,7 +44591,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -44746,7 +44633,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -44789,7 +44675,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -45356,7 +45241,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
@@ -45584,7 +45468,6 @@
     "metap": [
         "TFisher",
         "multcomp",
-        "multtest",
         "mutoss",
         "sn"
     ],
@@ -45592,8 +45475,7 @@
         "sn"
     ],
     "mutoss": [
-        "multcomp",
-        "multtest"
+        "multcomp"
     ],
     "sn": [],
     "DMwR2": [
@@ -45718,9 +45600,7 @@
         "tibble"
     ],
     "swamp": [],
-    "DiffCorr": [
-        "multtest"
-    ],
+    "DiffCorr": [],
     "fastDummies": [
         "pillar",
         "stringr",
@@ -46665,7 +46545,6 @@
         "hms",
         "illuminaio",
         "minfi",
-        "multtest",
         "pillar",
         "progress",
         "purrr",
