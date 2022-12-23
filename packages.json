@@ -2314,7 +2314,6 @@
         "FactoMineR",
         "car"
     ],
-    "pageRank": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot",
