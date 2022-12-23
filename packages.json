@@ -8876,9 +8876,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "ROCpAI": [
-        "fission"
-    ],
+    "ROCpAI": [],
     "RolDE": [],
     "ropls": [
         "MultiAssayExperiment",
@@ -12178,7 +12176,6 @@
         "interactiveDisplayBase"
     ],
     "TBX20BamSubset": [],
-    "fission": [],
     "excelR": [],
     "SBGNview.data": [],
     "scanMiRData": [
