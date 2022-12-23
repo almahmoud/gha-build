@@ -1,0 +1,830 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   ce414feb..b6354b07  main       -> origin/main
+Updating ce414feb..b6354b07
+Fast-forward
+ logs/run_ids/rstudio-binaries/BEclear        | 2 ++
+ logs/run_ids/rstudio-binaries/BiocNeighbors  | 2 ++
+ logs/run_ids/rstudio-binaries/assertive.data | 2 ++
+ logs/run_ids/rstudio-binaries/beachmat       | 2 ++
+ 4 files changed, 8 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/BEclear
+ create mode 100644 logs/run_ids/rstudio-binaries/BiocNeighbors
+ create mode 100644 logs/run_ids/rstudio-binaries/assertive.data
+ create mode 100644 logs/run_ids/rstudio-binaries/beachmat
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=cqn
++ PKG=cqn
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "cqn"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  5 3983k    5  216k    0     0   184k      0  0:00:21  0:00:01  0:00:20  184k 22 3983k   22  901k    0     0   413k      0  0:00:09  0:00:02  0:00:07  413k 51 3983k   51 2033k    0     0   638k      0  0:00:06  0:00:03  0:00:03  638k 89 3983k   89 3547k    0     0   854k      0  0:00:04  0:00:04 --:--:--  854k100 3983k  100 3983k    0     0   906k      0  0:00:04  0:00:04 --:--:--  940k
+built/
+built/mclust/
+built/mclust/libs/
+built/mclust/libs/mclust.so
+built/mclust/NAMESPACE
+built/mclust/DESCRIPTION
+built/mclust/help/
+built/mclust/help/paths.rds
+built/mclust/help/mclust.rdb
+built/mclust/help/aliases.rds
+built/mclust/help/figures/
+built/mclust/help/figures/logo.png
+built/mclust/help/AnIndex
+built/mclust/help/mclust.rdx
+built/mclust/data/
+built/mclust/data/Rdata.rds
+built/mclust/data/Rdata.rdb
+built/mclust/data/Rdata.rdx
+built/mclust/Meta/
+built/mclust/Meta/package.rds
+built/mclust/Meta/vignette.rds
+built/mclust/Meta/features.rds
+built/mclust/Meta/hsearch.rds
+built/mclust/Meta/links.rds
+built/mclust/Meta/nsInfo.rds
+built/mclust/Meta/Rd.rds
+built/mclust/Meta/data.rds
+built/mclust/CITATION
+built/mclust/html/
+built/mclust/html/00Index.html
+built/mclust/html/R.css
+built/mclust/INDEX
+built/mclust/doc/
+built/mclust/doc/mclust.html
+built/mclust/doc/mclust.Rmd
+built/mclust/doc/index.html
+built/mclust/doc/mclust.R
+built/mclust/R/
+built/mclust/R/mclust
+built/mclust/R/mclust.rdb
+built/mclust/R/mclust.rdx
+built/mclust/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  122k  100  122k    0     0   191k      0 --:--:-- --:--:-- --:--:--  191k
+built/
+built/nor1mix/
+built/nor1mix/NAMESPACE
+built/nor1mix/DESCRIPTION
+built/nor1mix/help/
+built/nor1mix/help/paths.rds
+built/nor1mix/help/nor1mix.rdb
+built/nor1mix/help/aliases.rds
+built/nor1mix/help/AnIndex
+built/nor1mix/help/nor1mix.rdx
+built/nor1mix/Meta/
+built/nor1mix/Meta/package.rds
+built/nor1mix/Meta/features.rds
+built/nor1mix/Meta/hsearch.rds
+built/nor1mix/Meta/links.rds
+built/nor1mix/Meta/nsInfo.rds
+built/nor1mix/Meta/Rd.rds
+built/nor1mix/html/
+built/nor1mix/html/00Index.html
+built/nor1mix/html/R.css
+built/nor1mix/INDEX
+built/nor1mix/R/
+built/nor1mix/R/nor1mix
+built/nor1mix/R/nor1mix.rdb
+built/nor1mix/R/nor1mix.rdx
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 87  329k   87  286k    0     0   281k      0  0:00:01  0:00:01 --:--:--  281k100  329k  100  329k    0     0   302k      0  0:00:01  0:00:01 --:--:--  302k
+built/
+built/preprocessCore/
+built/preprocessCore/libs/
+built/preprocessCore/libs/preprocessCore.so
+built/preprocessCore/NAMESPACE
+built/preprocessCore/DESCRIPTION
+built/preprocessCore/help/
+built/preprocessCore/help/paths.rds
+built/preprocessCore/help/aliases.rds
+built/preprocessCore/help/preprocessCore.rdx
+built/preprocessCore/help/AnIndex
+built/preprocessCore/help/preprocessCore.rdb
+built/preprocessCore/Meta/
+built/preprocessCore/Meta/package.rds
+built/preprocessCore/Meta/features.rds
+built/preprocessCore/Meta/hsearch.rds
+built/preprocessCore/Meta/links.rds
+built/preprocessCore/Meta/nsInfo.rds
+built/preprocessCore/Meta/Rd.rds
+built/preprocessCore/include/
+built/preprocessCore/include/preprocessCore_background_stubs.h
+built/preprocessCore/include/lm.h
+built/preprocessCore/include/log_median.h
+built/preprocessCore/include/rma_background4.h
+built/preprocessCore/include/medianpolish.h
+built/preprocessCore/include/avg.h
+built/preprocessCore/include/R_subColSummarize.h
+built/preprocessCore/include/preprocessCore_summarization_stubs.h
+built/preprocessCore/include/plmr.h
+built/preprocessCore/include/weightedkerneldensity_stubs.c
+built/preprocessCore/include/rlm_se.h
+built/preprocessCore/include/biweight.h
+built/preprocessCore/include/preprocessCore_summarization_stubs.c
+built/preprocessCore/include/plmd.h
+built/preprocessCore/include/preprocessCore_normalization_stubs.c
+built/preprocessCore/include/preprocessCore_normalization_stubs.h
+built/preprocessCore/include/median.h
+built/preprocessCore/include/qnorm.h
+built/preprocessCore/include/log_avg.h
+built/preprocessCore/include/median_log.h
+built/preprocessCore/include/weightedkerneldensity_stubs.h
+built/preprocessCore/include/avg_log.h
+built/preprocessCore/include/rlm.h
+built/preprocessCore/include/R_subColSummarize_stubs.c
+built/preprocessCore/include/preprocessCore_background_stubs.c
+built/preprocessCore/html/
+built/preprocessCore/html/00Index.html
+built/preprocessCore/html/R.css
+built/preprocessCore/INDEX
+built/preprocessCore/R/
+built/preprocessCore/R/preprocessCore
+built/preprocessCore/R/preprocessCore.rdx
+built/preprocessCore/R/preprocessCore.rdb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 16.3M    1  235k    0     0   258k      0  0:01:04 --:--:--  0:01:04  257k  6 16.3M    6 1031k    0     0   539k      0  0:00:30  0:00:01  0:00:29  539k 12 16.3M   12 2131k    0     0   730k      0  0:00:22  0:00:02  0:00:20  730k 21 16.3M   21 3534k    0     0   901k      0  0:00:18  0:00:03  0:00:15  901k 32 16.3M   32 5398k    0     0  1097k      0  0:00:15  0:00:04  0:00:11 1097k 42 16.3M   42 7151k    0     0  1207k      0  0:00:13  0:00:05  0:00:08 1379k 56 16.3M   56 9399k    0     0  1356k      0  0:00:12  0:00:06  0:00:06 1668k 67 16.3M   67 11.0M    0     0  1430k      0  0:00:11  0:00:07  0:00:04 1837k 78 16.3M   78 12.8M    0     0  1474k      0  0:00:11  0:00:08  0:00:03 1922k 92 16.3M   92 15.0M    0     0  1561k      0  0:00:10  0:00:09  0:00:01 2018k100 16.3M  100 16.3M    0     0  1613k      0  0:00:10  0:00:10 --:--:-- 2158k
+built/
+built/SparseM/
+built/SparseM/libs/
+built/SparseM/libs/SparseM.so
+built/SparseM/extdata/
+built/SparseM/extdata/lsq.rra
+built/SparseM/extdata/lsq.out
+built/SparseM/extdata/rua_32_ax.rua
+built/SparseM/NAMESPACE
+built/SparseM/ChangeLog
+built/SparseM/DESCRIPTION
+built/SparseM/help/
+built/SparseM/help/paths.rds
+built/SparseM/help/aliases.rds
+built/SparseM/help/SparseM.rdb
+built/SparseM/help/SparseM.rdx
+built/SparseM/help/AnIndex
+built/SparseM/data/
+built/SparseM/data/lsq.rda
+built/SparseM/data/triogramX.rda
+built/SparseM/Meta/
+built/SparseM/Meta/package.rds
+built/SparseM/Meta/vignette.rds
+built/SparseM/Meta/demo.rds
+built/SparseM/Meta/features.rds
+built/SparseM/Meta/hsearch.rds
+built/SparseM/Meta/links.rds
+built/SparseM/Meta/nsInfo.rds
+built/SparseM/Meta/Rd.rds
+built/SparseM/Meta/data.rds
+built/SparseM/html/
+built/SparseM/html/00Index.html
+built/SparseM/html/R.css
+built/SparseM/TODO
+built/SparseM/INDEX
+built/SparseM/doc/
+built/SparseM/doc/SparseM.R
+built/SparseM/doc/index.html
+built/SparseM/doc/SparseM.pdf
+built/SparseM/doc/SparseM.Rnw
+built/SparseM/R/
+built/SparseM/R/SparseM
+built/SparseM/R/SparseM.rdb
+built/SparseM/R/SparseM.rdx
+built/SparseM/demo/
+built/SparseM/demo/Solve.R
+built/SparseM/demo/Visualization.R
+built/SparseM/demo/LinearAlgebra.R
+built/SparseM/demo/LeastSquares.R
+built/SparseM/demo/Binding.R
+built/SparseM/demo/Coercion.R
+built/built/
+built/built/built/
+built/built/built/lattice/
+built/built/built/lattice/libs/
+built/built/built/lattice/libs/lattice.so
+built/built/built/lattice/NEWS
+built/built/built/lattice/NAMESPACE
+built/built/built/lattice/DESCRIPTION
+built/built/built/lattice/help/
+built/built/built/lattice/help/paths.rds
+built/built/built/lattice/help/lattice.rdx
+built/built/built/lattice/help/lattice.rdb
+built/built/built/lattice/help/aliases.rds
+built/built/built/lattice/help/AnIndex
+built/built/built/lattice/data/
+built/built/built/lattice/data/Rdata.rds
+built/built/built/lattice/data/Rdata.rdb
+built/built/built/lattice/data/Rdata.rdx
+built/built/built/lattice/Meta/
+built/built/built/lattice/Meta/package.rds
+built/built/built/lattice/Meta/demo.rds
+built/built/built/lattice/Meta/features.rds
+built/built/built/lattice/Meta/hsearch.rds
+built/built/built/lattice/Meta/links.rds
+built/built/built/lattice/Meta/nsInfo.rds
+built/built/built/lattice/Meta/Rd.rds
+built/built/built/lattice/Meta/data.rds
+built/built/built/lattice/po/
+built/built/built/lattice/po/it/
+built/built/built/lattice/po/it/LC_MESSAGES/
+built/built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/fr/
+built/built/built/lattice/po/fr/LC_MESSAGES/
+built/built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/ko/
+built/built/built/lattice/po/ko/LC_MESSAGES/
+built/built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/pl/
+built/built/built/lattice/po/pl/LC_MESSAGES/
+built/built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/en@quot/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/de/
+built/built/built/lattice/po/de/LC_MESSAGES/
+built/built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/CITATION
+built/built/built/lattice/html/
+built/built/built/lattice/html/00Index.html
+built/built/built/lattice/html/R.css
+built/built/built/lattice/INDEX
+built/built/built/lattice/R/
+built/built/built/lattice/R/lattice
+built/built/built/lattice/R/lattice.rdx
+built/built/built/lattice/R/lattice.rdb
+built/built/built/lattice/demo/
+built/built/built/lattice/demo/panel.R
+built/built/built/lattice/demo/intervals.R
+built/built/built/lattice/demo/labels.R
+built/built/built/lattice/demo/lattice.R
+built/built/built/Matrix/
+built/built/built/Matrix/Doxyfile
+built/built/built/Matrix/libs/
+built/built/built/Matrix/libs/Matrix.so
+built/built/built/Matrix/NAMESPACE
+built/built/built/Matrix/LICENCE
+built/built/built/Matrix/DESCRIPTION
+built/built/built/Matrix/test-tools-1.R
+built/built/built/Matrix/help/
+built/built/built/Matrix/help/paths.rds
+built/built/built/Matrix/help/aliases.rds
+built/built/built/Matrix/help/AnIndex
+built/built/built/Matrix/help/Matrix.rdx
+built/built/built/Matrix/help/Matrix.rdb
+built/built/built/Matrix/data/
+built/built/built/Matrix/data/USCounties.R
+built/built/built/Matrix/data/datalist
+built/built/built/Matrix/data/CAex.R
+built/built/built/Matrix/data/wrld_1deg.R
+built/built/built/Matrix/data/KNex.R
+built/built/built/Matrix/Meta/
+built/built/built/Matrix/Meta/package.rds
+built/built/built/Matrix/Meta/vignette.rds
+built/built/built/Matrix/Meta/features.rds
+built/built/built/Matrix/Meta/hsearch.rds
+built/built/built/Matrix/Meta/links.rds
+built/built/built/Matrix/Meta/nsInfo.rds
+built/built/built/Matrix/Meta/Rd.rds
+built/built/built/Matrix/Meta/data.rds
+built/built/built/Matrix/NEWS.Rd
+built/built/built/Matrix/include/
+built/built/built/Matrix/include/cholmod.h
+built/built/built/Matrix/include/Matrix_stubs.c
+built/built/built/Matrix/include/Matrix.h
+built/built/built/Matrix/test-tools-Matrix.R
+built/built/built/Matrix/test-tools.R
+built/built/built/Matrix/po/
+built/built/built/Matrix/po/lt/
+built/built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/it/
+built/built/built/Matrix/po/it/LC_MESSAGES/
+built/built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/fr/
+built/built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/ko/
+built/built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/pl/
+built/built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/en@quot/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/de/
+built/built/built/Matrix/po/de/LC_MESSAGES/
+built/built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/Copyrights
+built/built/built/Matrix/html/
+built/built/built/Matrix/html/00Index.html
+built/built/built/Matrix/html/R.css
+built/built/built/Matrix/INDEX
+built/built/built/Matrix/doc/
+built/built/built/Matrix/doc/Design-issues.Rnw
+built/built/built/Matrix/doc/sparseModels.R
+built/built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/built/Matrix/doc/Introduction.R
+built/built/built/Matrix/doc/sparseModels.Rnw
+built/built/built/Matrix/doc/Design-issues.pdf
+built/built/built/Matrix/doc/Design-issues.R
+built/built/built/Matrix/doc/Comparisons.R
+built/built/built/Matrix/doc/Announce.txt
+built/built/built/Matrix/doc/Introduction.Rnw
+built/built/built/Matrix/doc/Intro2Matrix.R
+built/built/built/Matrix/doc/index.html
+built/built/built/Matrix/doc/SuiteSparse/
+built/built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/built/Matrix/doc/Comparisons.pdf
+built/built/built/Matrix/doc/sparseModels.pdf
+built/built/built/Matrix/doc/Comparisons.Rnw
+built/built/built/Matrix/doc/Introduction.pdf
+built/built/built/Matrix/R/
+built/built/built/Matrix/R/Matrix
+built/built/built/Matrix/R/Matrix.rdx
+built/built/built/Matrix/R/Matrix.rdb
+built/built/built/Matrix/external/
+built/built/built/Matrix/external/symW.rda
+built/built/built/Matrix/external/lund_a.rsa
+built/built/built/Matrix/external/wrong.mtx
+built/built/built/Matrix/external/pores_1.mtx
+built/built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/built/Matrix/external/CAex_slots.rda
+built/built/built/Matrix/external/KNex_slots.rda
+built/built/built/Matrix/external/jgl009.mtx
+built/built/built/Matrix/external/utm300.rua
+built/built/built/Matrix/external/test3comp.rda
+built/built/built/Matrix/external/USCounties_slots.rda
+built/built/built/Matrix/external/Z_NA_rnk.rds
+built/built/built/Matrix/external/symA.rda
+built/built/built/Matrix/external/lund_a.mtx
+built/built/survival/
+built/built/survival/libs/
+built/built/survival/libs/survival.so
+built/built/survival/NAMESPACE
+built/built/survival/DESCRIPTION
+built/built/survival/help/
+built/built/survival/help/paths.rds
+built/built/survival/help/survival.rdb
+built/built/survival/help/aliases.rds
+built/built/survival/help/figures/
+built/built/survival/help/figures/logo.png
+built/built/survival/help/survival.rdx
+built/built/survival/help/AnIndex
+built/built/survival/data/
+built/built/survival/data/Rdata.rds
+built/built/survival/data/Rdata.rdb
+built/built/survival/data/Rdata.rdx
+built/built/survival/Meta/
+built/built/survival/Meta/package.rds
+built/built/survival/Meta/vignette.rds
+built/built/survival/Meta/features.rds
+built/built/survival/Meta/hsearch.rds
+built/built/survival/Meta/links.rds
+built/built/survival/Meta/nsInfo.rds
+built/built/survival/Meta/Rd.rds
+built/built/survival/Meta/data.rds
+built/built/survival/NEWS.Rd
+built/built/survival/CITATION
+built/built/survival/html/
+built/built/survival/html/00Index.html
+built/built/survival/html/R.css
+built/built/survival/INDEX
+built/built/survival/doc/
+built/built/survival/doc/population.pdf
+built/built/survival/doc/concordance.Rnw
+built/built/survival/doc/validate.Rnw
+built/built/survival/doc/survival.pdf
+built/built/survival/doc/splines.pdf
+built/built/survival/doc/timedep.R
+built/built/survival/doc/discrim.Rnw
+built/built/survival/doc/tiedtimes.pdf
+built/built/survival/doc/splines.Rnw
+built/built/survival/doc/multi.pdf
+built/built/survival/doc/validate.R
+built/built/survival/doc/compete.pdf
+built/built/survival/doc/concordance.pdf
+built/built/survival/doc/concordance.R
+built/built/survival/doc/adjcurve.pdf
+built/built/survival/doc/other.pdf
+built/built/survival/doc/approximate.Rnw
+built/built/survival/doc/validate.pdf
+built/built/survival/doc/discrim.pdf
+built/built/survival/doc/splines.R
+built/built/survival/doc/survival.R
+built/built/survival/doc/adjcurve.R
+built/built/survival/doc/approximate.pdf
+built/built/survival/doc/timedep.pdf
+built/built/survival/doc/other.Rnw
+built/built/survival/doc/population.R
+built/built/survival/doc/adjcurve.Rnw
+built/built/survival/doc/timedep.Rnw
+built/built/survival/doc/discrim.R
+built/built/survival/doc/tiedtimes.R
+built/built/survival/doc/index.html
+built/built/survival/doc/compete.Rnw
+built/built/survival/doc/population.Rnw
+built/built/survival/doc/tiedtimes.Rnw
+built/built/survival/doc/approximate.R
+built/built/survival/doc/compete.R
+built/built/survival/doc/multi.Rnw
+built/built/survival/doc/survival.Rnw
+built/built/survival/R/
+built/built/survival/R/survival.rdb
+built/built/survival/R/survival.rdx
+built/built/survival/R/survival
+built/built/survival/COPYRIGHTS
+built/built/MatrixModels/
+built/built/MatrixModels/NAMESPACE
+built/built/MatrixModels/DESCRIPTION
+built/built/MatrixModels/help/
+built/built/MatrixModels/help/paths.rds
+built/built/MatrixModels/help/aliases.rds
+built/built/MatrixModels/help/MatrixModels.rdb
+built/built/MatrixModels/help/AnIndex
+built/built/MatrixModels/help/MatrixModels.rdx
+built/built/MatrixModels/Meta/
+built/built/MatrixModels/Meta/package.rds
+built/built/MatrixModels/Meta/features.rds
+built/built/MatrixModels/Meta/hsearch.rds
+built/built/MatrixModels/Meta/links.rds
+built/built/MatrixModels/Meta/nsInfo.rds
+built/built/MatrixModels/Meta/Rd.rds
+built/built/MatrixModels/html/
+built/built/MatrixModels/html/00Index.html
+built/built/MatrixModels/html/R.css
+built/built/MatrixModels/INDEX
+built/built/MatrixModels/R/
+built/built/MatrixModels/R/MatrixModels.rdb
+built/built/MatrixModels/R/MatrixModels
+built/built/MatrixModels/R/MatrixModels.rdx
+built/quantreg/
+built/quantreg/libs/
+built/quantreg/libs/quantreg.so
+built/quantreg/NAMESPACE
+built/quantreg/ChangeLog
+built/quantreg/DESCRIPTION
+built/quantreg/help/
+built/quantreg/help/paths.rds
+built/quantreg/help/quantreg.rdx
+built/quantreg/help/aliases.rds
+built/quantreg/help/quantreg.rdb
+built/quantreg/help/AnIndex
+built/quantreg/data/
+built/quantreg/data/Peirce.rda
+built/quantreg/data/CobarOre.rda
+built/quantreg/data/barro.rda
+built/quantreg/data/uis.rda
+built/quantreg/data/gasprice.rda
+built/quantreg/data/MelTemp.rda
+built/quantreg/data/Bosco.rda
+built/quantreg/data/Mammals.rda
+built/quantreg/data/engel.rda
+built/quantreg/Meta/
+built/quantreg/Meta/package.rds
+built/quantreg/Meta/vignette.rds
+built/quantreg/Meta/demo.rds
+built/quantreg/Meta/features.rds
+built/quantreg/Meta/hsearch.rds
+built/quantreg/Meta/links.rds
+built/quantreg/Meta/nsInfo.rds
+built/quantreg/Meta/Rd.rds
+built/quantreg/Meta/data.rds
+built/quantreg/FAQ
+built/quantreg/html/
+built/quantreg/html/00Index.html
+built/quantreg/html/R.css
+built/quantreg/TODO
+built/quantreg/INDEX
+built/quantreg/doc/
+built/quantreg/doc/crq.pdf
+built/quantreg/doc/crq.pdf.asis
+built/quantreg/doc/rq.pdf
+built/quantreg/doc/index.html
+built/quantreg/doc/rq.pdf.asis
+built/quantreg/R/
+built/quantreg/R/quantreg.rdx
+built/quantreg/R/quantreg
+built/quantreg/R/quantreg.rdb
+built/quantreg/demo/
+built/quantreg/demo/predemo.R
+built/quantreg/demo/crquis.R
+built/quantreg/demo/Mammals.R
+built/quantreg/demo/RB-r.R
+built/quantreg/demo/hinged.R
+built/quantreg/demo/MCV.R
+built/quantreg/demo/Frank.R
+built/quantreg/demo/Panel.R
+built/quantreg/demo/cobar.R
+built/quantreg/demo/Polson.R
+built/quantreg/demo/combos.R
+built/quantreg/demo/engel2.R
+built/quantreg/demo/Mel.R
+built/quantreg/demo/rqsslasso.R
+built/quantreg/demo/cpoint.R
+built/quantreg/demo/engel1.R
+built/quantreg/demo/stack.R
+built/quantreg/demo/KMvCRQ.R
+built/quantreg/demo/arqss.R
+built/quantreg/demo/Mel2.R
+built/quantreg/demo/panelfig.R
+built/quantreg/demo/subset.R
+built/MASS/
+built/MASS/libs/
+built/MASS/libs/MASS.so
+built/MASS/NEWS
+built/MASS/NAMESPACE
+built/MASS/DESCRIPTION
+built/MASS/help/
+built/MASS/help/paths.rds
+built/MASS/help/MASS.rdx
+built/MASS/help/MASS.rdb
+built/MASS/help/aliases.rds
+built/MASS/help/AnIndex
+built/MASS/data/
+built/MASS/data/Rdata.rds
+built/MASS/data/Rdata.rdb
+built/MASS/data/Rdata.rdx
+built/MASS/Meta/
+built/MASS/Meta/package.rds
+built/MASS/Meta/features.rds
+built/MASS/Meta/hsearch.rds
+built/MASS/Meta/links.rds
+built/MASS/Meta/nsInfo.rds
+built/MASS/Meta/Rd.rds
+built/MASS/Meta/data.rds
+built/MASS/scripts/
+built/MASS/scripts/ch08.R
+built/MASS/scripts/ch13.R
+built/MASS/scripts/ch14.R
+built/MASS/scripts/ch11.R
+built/MASS/scripts/ch02.R
+built/MASS/scripts/ch10.R
+built/MASS/scripts/ch15.R
+built/MASS/scripts/ch05.R
+built/MASS/scripts/ch16.R
+built/MASS/scripts/ch12.R
+built/MASS/scripts/ch03.R
+built/MASS/scripts/ch01.R
+built/MASS/scripts/ch09.R
+built/MASS/scripts/ch06.R
+built/MASS/scripts/ch04.R
+built/MASS/scripts/ch07.R
+built/MASS/po/
+built/MASS/po/it/
+built/MASS/po/it/LC_MESSAGES/
+built/MASS/po/it/LC_MESSAGES/R-MASS.mo
+built/MASS/po/fr/
+built/MASS/po/fr/LC_MESSAGES/
+built/MASS/po/fr/LC_MESSAGES/R-MASS.mo
+built/MASS/po/ko/
+built/MASS/po/ko/LC_MESSAGES/
+built/MASS/po/ko/LC_MESSAGES/R-MASS.mo
+built/MASS/po/pl/
+built/MASS/po/pl/LC_MESSAGES/
+built/MASS/po/pl/LC_MESSAGES/R-MASS.mo
+built/MASS/po/en@quot/
+built/MASS/po/en@quot/LC_MESSAGES/
+built/MASS/po/en@quot/LC_MESSAGES/R-MASS.mo
+built/MASS/po/de/
+built/MASS/po/de/LC_MESSAGES/
+built/MASS/po/de/LC_MESSAGES/R-MASS.mo
+built/MASS/CITATION
+built/MASS/html/
+built/MASS/html/00Index.html
+built/MASS/html/R.css
+built/MASS/INDEX
+built/MASS/R/
+built/MASS/R/MASS.rdx
+built/MASS/R/MASS.rdb
+built/MASS/R/MASS
+built/MatrixModels/
+built/MatrixModels/NAMESPACE
+built/MatrixModels/DESCRIPTION
+built/MatrixModels/help/
+built/MatrixModels/help/paths.rds
+built/MatrixModels/help/aliases.rds
+built/MatrixModels/help/MatrixModels.rdb
+built/MatrixModels/help/AnIndex
+built/MatrixModels/help/MatrixModels.rdx
+built/MatrixModels/Meta/
+built/MatrixModels/Meta/package.rds
+built/MatrixModels/Meta/features.rds
+built/MatrixModels/Meta/hsearch.rds
+built/MatrixModels/Meta/links.rds
+built/MatrixModels/Meta/nsInfo.rds
+built/MatrixModels/Meta/Rd.rds
+built/MatrixModels/html/
+built/MatrixModels/html/00Index.html
+built/MatrixModels/html/R.css
+built/MatrixModels/INDEX
+built/MatrixModels/R/
+built/MatrixModels/R/MatrixModels.rdb
+built/MatrixModels/R/MatrixModels
+built/MatrixModels/R/MatrixModels.rdx
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''cqn'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv cqn_1.44.0_R_x86_64-pc-linux-gnu.tar.gz MatrixModels_0.5-1_R_x86_64-pc-linux-gnu.tar.gz mclust_6.0.0_R_x86_64-pc-linux-gnu.tar.gz nor1mix_1.3-0_R_x86_64-pc-linux-gnu.tar.gz preprocessCore_1.60.1_R_x86_64-pc-linux-gnu.tar.gz quantreg_5.94_R_x86_64-pc-linux-gnu.tar.gz SparseM_1.81_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/cqn
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'cqn'
+also installing the dependencies ‘SparseM’, ‘MatrixModels’, ‘mclust’, ‘nor1mix’, ‘preprocessCore’, ‘quantreg’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/SparseM_1.81.tar.gz'
+Content type 'binary/octet-stream' length 1104977 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/MatrixModels_0.5-1.tar.gz'
+Content type 'binary/octet-stream' length 434533 bytes (424 KB)
+==================================================
+downloaded 424 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/mclust_6.0.0.tar.gz'
+Content type 'binary/octet-stream' length 4085105 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/nor1mix_1.3-0.tar.gz'
+Content type 'binary/octet-stream' length 125501 bytes (122 KB)
+==================================================
+downloaded 122 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/preprocessCore_1.60.1.tar.gz'
+Content type 'application/x-gzip' length 124014 bytes (121 KB)
+==================================================
+downloaded 121 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/quantreg_5.94.tar.gz'
+Content type 'binary/octet-stream' length 1664593 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/cqn_1.44.0.tar.gz'
+Content type 'application/x-gzip' length 810122 bytes (791 KB)
+==================================================
+downloaded 791 KB
+
+* installing *binary* package ‘SparseM’ ...
+* ‘SparseM’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘SparseM’ as ‘SparseM_1.81_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SparseM)
+* installing *binary* package ‘MatrixModels’ ...
+* ‘MatrixModels’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘MatrixModels’ as ‘MatrixModels_0.5-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MatrixModels)
+* installing *binary* package ‘mclust’ ...
+* ‘mclust’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mclust’ as ‘mclust_6.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mclust)
+* installing *binary* package ‘nor1mix’ ...
+* ‘nor1mix’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘nor1mix’ as ‘nor1mix_1.3-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (nor1mix)
+* installing *source* package ‘preprocessCore’ ...
+** using staged installation
+'config' variable 'CPP' is defunct
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking how to run the C preprocessor... gcc -E
+checking for library containing pthread_create... none required
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for stdlib.h... (cached) yes
+checking if PTHREAD_STACK_MIN is defined... yes
+checking if R is using flexiblas... flexiblas not found. preprocessCore threading will not be disabled
+configure: Enabling threading for preprocessCore
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_colSummarize.c -o R_colSummarize.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_plmd_interfaces.c -o R_plmd_interfaces.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_plmr_interfaces.c -o R_plmr_interfaces.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_rlm_interfaces.c -o R_rlm_interfaces.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_subColSummarize.c -o R_subColSummarize.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_subrcModel_interfaces.c -o R_subrcModel_interfaces.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c avg.c -o avg.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c avg_log.c -o avg_log.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c biweight.c -o biweight.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init_package.c -o init_package.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c lm.c -o lm.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c log_avg.c -o log_avg.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c log_median.c -o log_median.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c matrix_functions.c -o matrix_functions.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c median.c -o median.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c median_log.c -o median_log.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c medianpolish.c -o medianpolish.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c plmd.c -o plmd.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c plmr.c -o plmr.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c psi_fns.c -o psi_fns.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c qnorm.c -o qnorm.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rlm.c -o rlm.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rlm_anova.c -o rlm_anova.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rlm_se.c -o rlm_se.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rma_background4.c -o rma_background4.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rma_common.c -o rma_common.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/local/include  -I/usr/local/include  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DUSE_PTHREADS=1 -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c weightedkerneldensity.c -o weightedkerneldensity.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o preprocessCore.so R_colSummarize.o R_plmd_interfaces.o R_plmr_interfaces.o R_rlm_interfaces.o R_subColSummarize.o R_subrcModel_interfaces.o avg.o avg_log.o biweight.o init_package.o lm.o log_avg.o log_median.o matrix_functions.o median.o median_log.o medianpolish.o plmd.o plmr.o psi_fns.o qnorm.o rlm.o rlm_anova.o rlm_se.o rma_background4.o rma_common.o weightedkerneldensity.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-preprocessCore/00new/preprocessCore/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘preprocessCore’ as ‘preprocessCore_1.60.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (preprocessCore)
+* installing *binary* package ‘quantreg’ ...
+* ‘quantreg’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘quantreg’ as ‘quantreg_5.94_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (quantreg)
+* installing *source* package ‘cqn’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘cqn’ as ‘cqn_1.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (cqn)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp2G6hZ1/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m43.420s
+user	0m19.463s
+sys	0m2.893s

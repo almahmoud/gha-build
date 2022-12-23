@@ -5872,7 +5872,6 @@
         "rtracklayer",
         "tibble"
     ],
-    "cqn": [],
     "CRImage": [
         "EBImage",
         "aCGH",
@@ -13970,7 +13969,6 @@
         "RSQLite",
         "annotate",
         "caret",
-        "cqn",
         "dplyr",
         "genefilter",
         "ggplot2",
@@ -29388,9 +29386,7 @@
         "tidyr",
         "viridis"
     ],
-    "tweeDEseq": [
-        "cqn"
-    ],
+    "tweeDEseq": [],
     "twoddpcr": [
         "ggplot2",
         "shiny",
