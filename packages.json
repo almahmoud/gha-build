@@ -1425,7 +1425,6 @@
     ],
     "bnem": [
         "AnnotationDbi",
-        "CellNOptR",
         "Linnorm",
         "affy",
         "annotate",
@@ -1940,7 +1939,6 @@
         "tidyr",
         "viridis"
     ],
-    "CellNOptR": [],
     "cellscape": [
         "htmlwidgets"
     ],
@@ -2595,21 +2593,14 @@
         "readr",
         "rtracklayer"
     ],
-    "CNORdt": [
-        "CellNOptR"
-    ],
-    "CNORfeeder": [
-        "CellNOptR"
-    ],
+    "CNORdt": [],
+    "CNORfeeder": [],
     "CNORfuzzy": [
-        "CellNOptR",
         "nloptr",
         "testthat",
         "waldo"
     ],
-    "CNORode": [
-        "CellNOptR"
-    ],
+    "CNORode": [],
     "CNTools": [
         "AnnotationDbi",
         "annotate",
@@ -8118,8 +8109,7 @@
         "waldo"
     ],
     "MEIGOR": [
-        "CNORode",
-        "CellNOptR"
+        "CNORode"
     ],
     "Melissa": [
         "BPRMeth",
