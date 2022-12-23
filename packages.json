@@ -976,8 +976,7 @@
         "car",
         "ggpubr",
         "rstatix",
-        "sesame",
-        "sesameData"
+        "sesame"
     ],
     "MethylAid": [
         "minfi"
@@ -1549,9 +1548,7 @@
     ],
     "seqCAT": [],
     "SeqGSEA": [],
-    "sesame": [
-        "sesameData"
-    ],
+    "sesame": [],
     "SEtools": [],
     "SGSeq": [],
     "shinyepico": [
@@ -1709,8 +1706,7 @@
         "enrichplot",
         "ggpubr",
         "rstatix",
-        "sesame",
-        "sesameData"
+        "sesame"
     ],
     "TDARACNE": [
         "GenKern"
@@ -1917,7 +1913,6 @@
         "rstatix"
     ],
     "EnsDb.Hsapiens.v75": [],
-    "sesameData": [],
     "FlowSorted.Blood.450k": [
         "minfi"
     ],
