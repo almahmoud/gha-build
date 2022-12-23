@@ -12457,7 +12457,6 @@
         "futile.logger",
         "ggplot2",
         "ggrepel",
-        "gmm",
         "hms",
         "htmlwidgets",
         "httpuv",
@@ -24256,7 +24255,6 @@
         "futile.logger",
         "ggplot2",
         "ggrepel",
-        "gmm",
         "htmlwidgets",
         "httr",
         "imputeLCMD",
@@ -25380,7 +25378,6 @@
         "crosstalk",
         "dplyr",
         "ggplot2",
-        "gmm",
         "htmlTable",
         "htmlwidgets",
         "httpuv",
@@ -27801,7 +27798,6 @@
         "biomformat",
         "ggplot2",
         "glmnet",
-        "gmm",
         "gplots",
         "metagenomeSeq",
         "multtest",
@@ -32952,7 +32948,6 @@
         "ggplot2",
         "ggrepel",
         "glmnet",
-        "gmm",
         "gplots",
         "htmlTable",
         "htmlwidgets",
@@ -39190,7 +39185,6 @@
         "ggplot2",
         "ggrepel",
         "glmnet",
-        "gmm",
         "gplots",
         "htmlTable",
         "htmlwidgets",
@@ -45722,7 +45716,6 @@
     ],
     "sparseDOSSA": [
         "MCMCpack",
-        "gmm",
         "quantreg",
         "tmvtnorm"
     ],
@@ -56495,13 +56488,9 @@
         "quantmod"
     ],
     "imputeLCMD": [
-        "gmm",
         "tmvtnorm"
     ],
-    "tmvtnorm": [
-        "gmm"
-    ],
-    "gmm": [],
+    "tmvtnorm": [],
     "ggplot.multistats": [
         "ggplot2",
         "pillar",
