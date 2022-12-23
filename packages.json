@@ -15,7 +15,6 @@
         "genefilter"
     ],
     "abseqR": [
-        "BiocStyle",
         "plotly"
     ],
     "ACE": [
@@ -417,7 +416,6 @@
     "ASpli": [
         "AnnotationDbi",
         "BSgenome",
-        "BiocStyle",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -569,7 +567,6 @@
     ],
     "bandle": [
         "AnnotationDbi",
-        "BiocStyle",
         "MLInterfaces",
         "MSnbase",
         "affy",
@@ -826,10 +823,7 @@
     "BiocSklearn": [
         "basilisk"
     ],
-    "BiocStyle": [],
-    "BiocWorkflowTools": [
-        "BiocStyle"
-    ],
+    "BiocWorkflowTools": [],
     "biodb": [
         "testthat"
     ],
@@ -1055,9 +1049,7 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "BPRMeth": [
-        "BiocStyle"
-    ],
+    "BPRMeth": [],
     "brainflowprobes": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -1115,7 +1107,6 @@
     "BubbleTree": [
         "AnnotationDbi",
         "BSgenome",
-        "BiocStyle",
         "GenomicFeatures",
         "Hmisc",
         "VariantAnnotation",
@@ -1545,7 +1536,6 @@
     "chimeraviz": [
         "AnnotationDbi",
         "BSgenome",
-        "BiocStyle",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -1987,9 +1977,7 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "COMPASS": [
-        "BiocStyle"
-    ],
+    "COMPASS": [],
     "compEpiTools": [
         "AnnotationDbi",
         "BSgenome",
@@ -2571,7 +2559,6 @@
     ],
     "deco": [
         "AnnotationDbi",
-        "BiocStyle",
         "made4"
     ],
     "DEComplexDisease": [
@@ -2833,7 +2820,6 @@
         "scuttle"
     ],
     "DiscoRhythm": [
-        "BiocStyle",
         "dendextend",
         "ggExtra",
         "heatmaply",
@@ -3563,9 +3549,7 @@
         "treeio"
     ],
     "ExploreModelMatrix": [],
-    "ExpressionAtlas": [
-        "BiocStyle"
-    ],
+    "ExpressionAtlas": [],
     "extraChIPs": [
         "AnnotationDbi",
         "BSgenome",
@@ -4056,7 +4040,6 @@
     ],
     "geneXtendeR": [
         "AnnotationDbi",
-        "BiocStyle",
         "GO.db",
         "org.Rn.eg.db",
         "rtracklayer"
@@ -5614,8 +5597,7 @@
     ],
     "MEIGOR": [],
     "Melissa": [
-        "BPRMeth",
-        "BiocStyle"
+        "BPRMeth"
     ],
     "memes": [
         "cmdfun",
@@ -5643,7 +5625,6 @@
     ],
     "meshr": [
         "AnnotationDbi",
-        "BiocStyle",
         "Category",
         "GSEABase",
         "MeSHDbi",
@@ -6551,7 +6532,6 @@
     "MSnID": [
         "AnnotationDbi",
         "AnnotationHub",
-        "BiocStyle",
         "MSnbase",
         "affy",
         "interactiveDisplayBase",
@@ -6953,9 +6933,7 @@
         "gprofiler2",
         "plotly"
     ],
-    "netresponse": [
-        "BiocStyle"
-    ],
+    "netresponse": [],
     "NetSAM": [
         "AnnotationDbi",
         "GO.db",
@@ -7421,7 +7399,6 @@
     ],
     "PathoStat": [
         "AnnotationDbi",
-        "BiocStyle",
         "DESeq2",
         "annotate",
         "biomformat",
@@ -7591,7 +7568,6 @@
     "PhyloProfile": [
         "AnnotationDbi",
         "AnnotationHub",
-        "BiocStyle",
         "ExperimentHub",
         "GO.db",
         "OmaDB",
@@ -7611,7 +7587,6 @@
     "PICS": [],
     "Pigengene": [
         "AnnotationDbi",
-        "BiocStyle",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -7738,7 +7713,6 @@
         "rtracklayer"
     ],
     "prebs": [
-        "BiocStyle",
         "RPA",
         "affy",
         "biomformat",
@@ -8293,9 +8267,7 @@
         "treeio",
         "viridis"
     ],
-    "rebook": [
-        "BiocStyle"
-    ],
+    "rebook": [],
     "reconsi": [
         "biomformat",
         "phyloseq",
@@ -8378,7 +8350,6 @@
     "regionReport": [
         "AnnotationDbi",
         "BSgenome",
-        "BiocStyle",
         "DEFormats",
         "DESeq2",
         "GenomicFeatures",
@@ -8674,7 +8645,6 @@
     ],
     "Rmmquant": [
         "AnnotationDbi",
-        "BiocStyle",
         "DESeq2",
         "GenomicFeatures",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
@@ -8870,7 +8840,6 @@
         "plotly"
     ],
     "RPA": [
-        "BiocStyle",
         "affy",
         "biomformat",
         "phyloseq",
@@ -8881,7 +8850,6 @@
     "Rqc": [
         "AnnotationDbi",
         "BSgenome",
-        "BiocStyle",
         "GenomicFeatures",
         "GenomicFiles",
         "Hmisc",
@@ -9005,7 +8973,6 @@
         "biomaRt"
     ],
     "sangeranalyseR": [
-        "BiocStyle",
         "plotly"
     ],
     "satuRn": [],
@@ -9186,7 +9153,6 @@
         "viridis"
     ],
     "scMET": [
-        "BiocStyle",
         "SingleCellExperiment",
         "viridis"
     ],
@@ -9293,7 +9259,6 @@
         "AnnotationDbi",
         "AnnotationForge",
         "AnnotationHub",
-        "BiocStyle",
         "Category",
         "DOSE",
         "GO.db",
@@ -9329,7 +9294,6 @@
     ],
     "scTGIF": [
         "AnnotationDbi",
-        "BiocStyle",
         "GSEABase",
         "Seurat",
         "SingleCellExperiment",
@@ -10068,7 +10032,6 @@
     "srnadiff": [
         "AnnotationDbi",
         "BSgenome",
-        "BiocStyle",
         "DESeq2",
         "GenomicFeatures",
         "Gviz",
