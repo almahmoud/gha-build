@@ -553,7 +553,6 @@
         "scater",
         "viridis"
     ],
-    "cellity": [],
     "cellmigRation": [
         "FactoMineR",
         "Hmisc",
