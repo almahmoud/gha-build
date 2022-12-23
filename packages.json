@@ -183,7 +183,6 @@
     "COCOA": [
         "MIRA"
     ],
-    "CODEX": [],
     "comapr": [
         "Gviz"
     ],
@@ -532,9 +531,7 @@
         "methylumi",
         "minfi"
     ],
-    "iCNV": [
-        "CODEX"
-    ],
+    "iCNV": [],
     "ideal": [],
     "igvR": [],
     "imcRtools": [],
