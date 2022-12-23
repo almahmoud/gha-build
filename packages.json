@@ -138,7 +138,6 @@
     ],
     "ATACCoGAPS": [
         "CoGAPS",
-        "Mus.musculus",
         "projectR",
         "rGREAT",
         "rhdf5",
@@ -282,7 +281,6 @@
     ],
     "biscuiteer": [
         "HDF5Array",
-        "Mus.musculus",
         "bsseq",
         "dmrseq",
         "rhdf5"
@@ -3620,7 +3618,6 @@
     ],
     "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
-    "Mus.musculus": [],
     "assertive": [],
     "pRolocdata": [
         "MSnbase",
