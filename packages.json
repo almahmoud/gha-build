@@ -22911,7 +22911,6 @@
         "XVector",
         "biomaRt",
         "blob",
-        "changepoint.np",
         "dbplyr",
         "dplyr",
         "futile.logger",
@@ -55163,7 +55162,6 @@
         "oligoClasses",
         "vctrs"
     ],
-    "changepoint.np": [],
     "hgu95av2.db": [
         "AnnotationDbi",
         "Biostrings",
