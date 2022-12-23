@@ -11940,7 +11940,6 @@
         "ggExtra",
         "htmlwidgets",
         "plotly",
-        "qcmetrics",
         "shinyjs",
         "tidyr",
         "vsn"
@@ -11953,7 +11952,6 @@
         "ggExtra",
         "htmlwidgets",
         "plotly",
-        "qcmetrics",
         "shinyjs",
         "tidyr",
         "vsn"
@@ -14591,7 +14589,6 @@
         "shinyWidgets"
     ],
     "qckitfastq": [],
-    "qcmetrics": [],
     "QDNAseq": [
         "Rsamtools"
     ],
