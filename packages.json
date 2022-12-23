@@ -8678,7 +8678,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "RnBeads",
-        "RnBeads.hg19",
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "UpSetR",
@@ -19515,7 +19514,6 @@
     "bigstatsr": [
         "cowplot"
     ],
-    "RnBeads.hg19": [],
     "depmap": [
         "AnnotationDbi",
         "AnnotationHub",
