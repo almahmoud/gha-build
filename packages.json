@@ -346,7 +346,6 @@
         "viridis"
     ],
     "bioCancer": [
-        "DOSE",
         "DiagrammeR",
         "ReactomePA",
         "car",
@@ -616,7 +615,6 @@
     ],
     "cellTree": [],
     "CEMiTool": [
-        "DOSE",
         "Hmisc",
         "WGCNA",
         "clusterProfiler",
@@ -641,7 +639,6 @@
     ],
     "CeTF": [
         "DESeq2",
-        "DOSE",
         "GenomicTools",
         "car",
         "clusterProfiler",
@@ -744,7 +741,6 @@
         "systemPipeR"
     ],
     "ChIPseeker": [
-        "DOSE",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
         "ggraph",
@@ -820,7 +816,6 @@
         "zinbwave"
     ],
     "clusterProfiler": [
-        "DOSE",
         "enrichplot",
         "ggraph",
         "viridis"
@@ -915,7 +910,6 @@
         "viridis"
     ],
     "conclus": [
-        "DOSE",
         "FactoMineR",
         "car",
         "clusterProfiler",
@@ -1173,7 +1167,6 @@
     ],
     "debrowser": [
         "DESeq2",
-        "DOSE",
         "clusterProfiler",
         "dendextend",
         "enrichplot",
@@ -1383,7 +1376,6 @@
         "drc",
         "vsn"
     ],
-    "DOSE": [],
     "dpeak": [],
     "DropletUtils": [
         "HDF5Array",
@@ -1412,7 +1404,6 @@
         "rstatix"
     ],
     "EasyCellType": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -1429,7 +1420,6 @@
     ],
     "eegc": [
         "DESeq2",
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -1464,12 +1454,10 @@
     ],
     "EnrichmentBrowser": [],
     "enrichplot": [
-        "DOSE",
         "ggraph",
         "viridis"
     ],
     "enrichTF": [
-        "DOSE",
         "TFBSTools",
         "car",
         "clusterProfiler",
@@ -1492,7 +1480,6 @@
         "BRGenomics",
         "ChIPseeker",
         "DESeq2",
-        "DOSE",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
         "genomation",
@@ -1512,7 +1499,6 @@
         "rstatix"
     ],
     "epihet": [
-        "DOSE",
         "EntropyExplorer",
         "Hmisc",
         "ReactomePA",
@@ -1585,7 +1571,6 @@
     ],
     "esATAC": [
         "ChIPseeker",
-        "DOSE",
         "TFBSTools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "clusterProfiler",
@@ -1643,7 +1628,6 @@
         "gap"
     ],
     "famat": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -1661,7 +1645,6 @@
         "genomation"
     ],
     "fcoex": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -1801,7 +1784,6 @@
     ],
     "GDCRNATools": [
         "DESeq2",
-        "DOSE",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -1984,7 +1966,6 @@
     ],
     "GOSim": [],
     "goSorensen": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -2261,7 +2242,6 @@
     ],
     "IRISFGM": [
         "DEsingle",
-        "DOSE",
         "Seurat",
         "car",
         "clusterProfiler",
@@ -2422,7 +2402,6 @@
         "viridis"
     ],
     "MAGeCKFlute": [
-        "DOSE",
         "clusterProfiler",
         "depmap",
         "enrichplot",
@@ -2543,7 +2522,6 @@
         "drc"
     ],
     "meshes": [
-        "DOSE",
         "enrichplot",
         "ggraph",
         "viridis"
@@ -2587,7 +2565,6 @@
         "xcms"
     ],
     "MetaPhOR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -2673,7 +2650,6 @@
         "rstatix"
     ],
     "methylGSA": [
-        "DOSE",
         "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -2762,7 +2738,6 @@
         "viridis"
     ],
     "MicrobiomeProfiler": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -2828,7 +2803,6 @@
     "miRSM": [
         "BiBitR",
         "BicARE",
-        "DOSE",
         "Hmisc",
         "ReactomePA",
         "SPONGE",
@@ -2844,7 +2818,6 @@
         "viridis"
     ],
     "miRspongeR": [
-        "DOSE",
         "ReactomePA",
         "SPONGE",
         "car",
@@ -2914,7 +2887,6 @@
         "viridis"
     ],
     "MoonlightR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -3056,7 +3028,6 @@
     ],
     "multiSight": [
         "DESeq2",
-        "DOSE",
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
@@ -3161,7 +3132,6 @@
         "viridis"
     ],
     "netboxr": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -3346,7 +3316,6 @@
         "motifmatchr"
     ],
     "PanomiR": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -3356,7 +3325,6 @@
         "affy"
     ],
     "pareg": [
-        "DOSE",
         "ggraph",
         "viridis"
     ],
@@ -3413,7 +3381,6 @@
     ],
     "periodicDNA": [],
     "PFP": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -3449,7 +3416,6 @@
         "rhdf5"
     ],
     "Pigengene": [
-        "DOSE",
         "Hmisc",
         "ReactomePA",
         "WGCNA",
@@ -3556,7 +3522,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "DOSE",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
@@ -3771,7 +3736,6 @@
         "viridis"
     ],
     "ReactomePA": [
-        "DOSE",
         "enrichplot",
         "ggraph",
         "viridis"
@@ -3811,7 +3775,6 @@
     ],
     "RegEnrich": [
         "DESeq2",
-        "DOSE",
         "Hmisc",
         "WGCNA",
         "viridis"
@@ -4016,7 +3979,6 @@
     ],
     "RNASeqR": [
         "DESeq2",
-        "DOSE",
         "FactoMineR",
         "ballgown",
         "car",
@@ -4229,7 +4191,6 @@
     ],
     "scTensor": [
         "Category",
-        "DOSE",
         "GOstats",
         "ReactomePA",
         "Seurat",
@@ -4266,7 +4227,6 @@
     ],
     "segmenter": [
         "ChIPseeker",
-        "DOSE",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
         "ggraph",
@@ -4329,7 +4289,6 @@
         "MLInterfaces"
     ],
     "signatureSearch": [
-        "DOSE",
         "HDF5Array",
         "clusterProfiler",
         "enrichplot",
@@ -4733,7 +4692,6 @@
         "DESeq2"
     ],
     "TCGAbiolinksGUI": [
-        "DOSE",
         "ELMER",
         "Gviz",
         "Hmisc",
@@ -4783,7 +4741,6 @@
         "propr"
     ],
     "TimiRGeN": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
