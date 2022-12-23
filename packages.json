@@ -3310,7 +3310,6 @@
         "GenomicFeatures",
         "biomaRt",
         "rtracklayer",
-        "tRNA",
         "tRNAdbImport"
     ],
     "epivizr": [
@@ -10456,15 +10455,11 @@
         "DT",
         "plotly"
     ],
-    "tRNA": [],
-    "tRNAdbImport": [
-        "tRNA"
-    ],
+    "tRNAdbImport": [],
     "tRNAscanImport": [
         "BSgenome",
         "GenomicAlignments",
-        "rtracklayer",
-        "tRNA"
+        "rtracklayer"
     ],
     "TSCAN": [
         "SingleCellExperiment",
