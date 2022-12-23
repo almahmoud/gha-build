@@ -568,7 +568,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "graphite",
         "lme4",
         "org.Bt.eg.db",
         "org.Hs.eg.db",
@@ -1903,7 +1902,6 @@
     "dce": [
         "epiNEM",
         "ggraph",
-        "graphite",
         "org.Hs.eg.db",
         "tidyverse",
         "viridis"
@@ -2413,7 +2411,6 @@
     "EnrichmentBrowser": [
         "GSEABase",
         "annotate",
-        "graphite",
         "org.Hs.eg.db",
         "pathview",
         "safe"
@@ -2518,7 +2515,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "graphite",
         "reactome.db",
         "treeio",
         "viridis"
@@ -3338,7 +3334,6 @@
         "viridis"
     ],
     "granulator": [],
-    "graphite": [],
     "GreyListChIP": [
         "BSgenome",
         "rtracklayer"
@@ -3365,7 +3360,6 @@
         "ExperimentHub",
         "GSEABase",
         "annotate",
-        "graphite",
         "org.Hs.eg.db",
         "pathview",
         "safe"
@@ -4697,7 +4691,6 @@
         "ggpubr",
         "ggraph",
         "ggtree",
-        "graphite",
         "lme4",
         "miRspongeR",
         "org.Hs.eg.db",
@@ -4721,7 +4714,6 @@
         "ggpubr",
         "ggraph",
         "ggtree",
-        "graphite",
         "lme4",
         "org.Hs.eg.db",
         "pbkrtest",
@@ -4812,8 +4804,7 @@
     "mogsa": [
         "GSEABase",
         "annotate",
-        "genefilter",
-        "graphite"
+        "genefilter"
     ],
     "monaLisa": [
         "BSgenome",
@@ -5029,9 +5020,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "multiGSEA": [
-        "graphite"
-    ],
+    "multiGSEA": [],
     "multiHiCcompare": [
         "HiCcompare",
         "rhdf5"
@@ -5052,7 +5041,6 @@
         "geneplotter",
         "ggraph",
         "ggtree",
-        "graphite",
         "reactome.db",
         "ropls",
         "treeio",
@@ -5711,7 +5699,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "graphite",
         "reactome.db",
         "treeio",
         "viridis"
@@ -5784,7 +5771,6 @@
         "geneplotter"
     ],
     "PoTRA": [
-        "graphite",
         "org.Hs.eg.db"
     ],
     "POWSC": [],
@@ -6207,7 +6193,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "graphite",
         "reactome.db",
         "treeio",
         "viridis"
@@ -6973,7 +6958,6 @@
         "genefilter",
         "ggraph",
         "ggtree",
-        "graphite",
         "heatmaply",
         "meshr",
         "nnTensor",
@@ -7569,7 +7553,6 @@
     ],
     "sSNAPPY": [
         "ggraph",
-        "graphite",
         "org.Hs.eg.db",
         "viridis"
     ],
@@ -7612,7 +7595,6 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "graphite",
         "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db"
@@ -8354,7 +8336,6 @@
         "EnrichmentBrowser",
         "GSEABase",
         "annotate",
-        "graphite",
         "lme4",
         "lmerTest",
         "org.Hs.eg.db",
