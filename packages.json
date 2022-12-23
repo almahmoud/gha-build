@@ -11445,7 +11445,6 @@
         "Hmisc",
         "MSnbase",
         "affy",
-        "forecast",
         "htmlTable",
         "htmlwidgets",
         "tidyr",
@@ -17913,7 +17912,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "forecast": [],
     "rhandsontable": [
         "htmlwidgets"
     ],
