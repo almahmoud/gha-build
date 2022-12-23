@@ -1767,9 +1767,7 @@
         "exomeCopy",
         "testthat"
     ],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [
         "BSgenome",
         "GenomicAlignments",
@@ -3766,7 +3764,6 @@
         "tidytree",
         "treeio"
     ],
-    "GDSArray": [],
     "gemini": [
         "mixtools",
         "plotly"
@@ -10331,7 +10328,6 @@
         "rtracklayer"
     ],
     "VariantExperiment": [
-        "GDSArray",
         "SeqVarTools",
         "logistf",
         "mice"
