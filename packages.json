@@ -1805,7 +1805,6 @@
         "HDF5Array",
         "car",
         "ggpubr",
-        "methylclockData",
         "minfi",
         "rhdf5",
         "rstatix"
@@ -3684,7 +3683,6 @@
         "minfi",
         "rhdf5"
     ],
-    "methylclockData": [],
     "rebus": [],
     "BiBitR": [
         "dendextend",
