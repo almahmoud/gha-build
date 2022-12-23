@@ -7383,7 +7383,6 @@
         "annotate",
         "geneplotter"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "ExperimentHub",
         "ontoProc",
