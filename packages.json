@@ -127,7 +127,6 @@
         "multtest",
         "pillar",
         "snapCGH",
-        "strucchange",
         "tibble",
         "tilingArray",
         "vctrs",
@@ -11115,7 +11114,6 @@
         "shinyjs",
         "speedglm",
         "stringr",
-        "strucchange",
         "testthat",
         "tibble",
         "tidyr",
@@ -11169,7 +11167,6 @@
         "sass",
         "speedglm",
         "stringr",
-        "strucchange",
         "testthat",
         "tibble",
         "tidyr",
@@ -45085,7 +45082,6 @@
         "httr",
         "multtest",
         "pillar",
-        "strucchange",
         "tibble",
         "tilingArray",
         "vctrs",
@@ -48691,7 +48687,6 @@
         "ggplot2",
         "httr",
         "pillar",
-        "strucchange",
         "tibble",
         "vctrs",
         "vsn"
@@ -52115,7 +52110,6 @@
         "vctrs"
     ],
     "httpuv": [],
-    "strucchange": [],
     "DT": [
         "bslib",
         "crosstalk",
