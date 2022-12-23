@@ -3490,12 +3490,10 @@
     "memes": [
         "cmdfun"
     ],
-    "MeSHDbi": [],
     "meshes": [
         "AnnotationHub",
         "DOSE",
         "GOSemSim",
-        "MeSHDbi",
         "enrichplot",
         "ggtree",
         "scatterpie",
@@ -3504,7 +3502,6 @@
     "meshr": [
         "Category",
         "GSEABase",
-        "MeSHDbi",
         "genefilter"
     ],
     "Metab": [],
@@ -5735,7 +5732,6 @@
         "GOSemSim",
         "GOstats",
         "GSEABase",
-        "MeSHDbi",
         "ReactomePA",
         "Seurat",
         "ccTensor",
