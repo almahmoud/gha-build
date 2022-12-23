@@ -1213,7 +1213,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "SmartSVA",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "biovizBase",
@@ -1555,7 +1554,6 @@
     ],
     "omicRexposome": [
         "FactoMineR",
-        "SmartSVA",
         "car",
         "rexposome"
     ],
@@ -2459,7 +2457,6 @@
     ],
     "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
-    "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb"
     ],
