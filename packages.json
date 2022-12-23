@@ -2377,7 +2377,6 @@
         "scater",
         "viridis"
     ],
-    "miaSim": [],
     "miaViz": [
         "ggraph",
         "mia",
