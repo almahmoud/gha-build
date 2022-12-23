@@ -2028,9 +2028,7 @@
         "FactoMineR",
         "car"
     ],
-    "rGenomeTracks": [
-        "rGenomeTracksData"
-    ],
+    "rGenomeTracks": [],
     "RgnTX": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
@@ -2819,7 +2817,6 @@
     ],
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
-    "rGenomeTracksData": [],
     "RLHub": [],
     "SCATEData": [],
     "Rmagic": [],
