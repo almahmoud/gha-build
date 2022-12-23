@@ -8150,7 +8150,6 @@
         "viridis",
         "vroom"
     ],
-    "dcGSA": [],
     "ddPCRclust": [
         "DelayedArray",
         "GEOmap",
