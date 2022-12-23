@@ -2628,7 +2628,6 @@
         "phastCons100way.UCSC.hg19",
         "rhdf5"
     ],
-    "RCAS": [],
     "rcellminer": [],
     "rCGH": [
         "affy"
