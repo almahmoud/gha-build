@@ -10556,7 +10556,6 @@
         "DT",
         "DelayedArray",
         "EDASeq",
-        "FSelector",
         "FactoMineR",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -16386,7 +16385,6 @@
         "DaMiRseq",
         "DelayedArray",
         "EDASeq",
-        "FSelector",
         "FactoMineR",
         "GenomeInfoDb",
         "GenomicAlignments",
@@ -51934,7 +51932,6 @@
         "stringr"
     ],
     "kknn": [],
-    "FSelector": [],
     "arm": [
         "lme4",
         "nloptr",
