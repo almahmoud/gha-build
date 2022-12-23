@@ -1314,7 +1314,6 @@
         "biomaRt",
         "blob",
         "bslib",
-        "crul",
         "dbplyr",
         "dplyr",
         "futile.logger",
@@ -3259,7 +3258,6 @@
         "biocViews",
         "blob",
         "bslib",
-        "crul",
         "dbplyr",
         "dplyr",
         "gh",
@@ -30685,7 +30683,6 @@
         "XVector",
         "caret",
         "clock",
-        "crul",
         "dnet",
         "dplyr",
         "ggnetwork",
@@ -38368,7 +38365,6 @@
         "XVector",
         "blob",
         "bslib",
-        "crul",
         "dbplyr",
         "dplyr",
         "forcats",
@@ -46544,7 +46540,6 @@
         "rtracklayer"
     ],
     "rsnps": [
-        "crul",
         "httr",
         "stringr"
     ],
@@ -46770,7 +46765,6 @@
         "tibble",
         "tidyselect"
     ],
-    "crul": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -47504,7 +47498,6 @@
         "httr"
     ],
     "rorcid": [
-        "crul",
         "httr",
         "pillar",
         "tibble"
@@ -50832,7 +50825,6 @@
     "PMCMRplus": [],
     "SmoothWin": [],
     "osfr": [
-        "crul",
         "httr",
         "pillar",
         "purrr",
@@ -51383,7 +51375,6 @@
     "adehabitatLT": [],
     "rbokeh": [
         "bslib",
-        "crul",
         "dplyr",
         "gistr",
         "htmlwidgets",
@@ -51398,7 +51389,6 @@
     ],
     "gistr": [
         "bslib",
-        "crul",
         "dplyr",
         "httr",
         "knitr",
