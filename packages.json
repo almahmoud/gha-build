@@ -500,7 +500,6 @@
         "rtracklayer"
     ],
     "BASiCS": [
-        "ggExtra",
         "scran",
         "scuttle",
         "viridis"
@@ -508,7 +507,6 @@
     "BASiCStan": [
         "BASiCS",
         "HDF5Array",
-        "ggExtra",
         "glmGamPoi",
         "rhdf5",
         "scran",
@@ -2395,7 +2393,6 @@
     ],
     "DiscoRhythm": [
         "dendextend",
-        "ggExtra",
         "heatmaply",
         "viridis"
     ],
@@ -3945,7 +3942,6 @@
     "HiCDOC": [
         "HiCcompare",
         "car",
-        "ggExtra",
         "ggpubr",
         "lme4",
         "multiHiCcompare",
@@ -5618,14 +5614,12 @@
     "MSstatsQC": [
         "MSnbase",
         "affy",
-        "ggExtra",
         "vsn"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
         "affy",
-        "ggExtra",
         "vsn"
     ],
     "MSstatsSampleSize": [
@@ -9643,7 +9637,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "ggExtra": [],
     "heatmaply": [
         "dendextend",
         "viridis"
