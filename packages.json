@@ -2230,8 +2230,7 @@
     "cbpManager": [
         "DT",
         "basilisk",
-        "htmlwidgets",
-        "rapportools"
+        "htmlwidgets"
     ],
     "ccfindR": [
         "SingleCellExperiment",
@@ -12627,7 +12626,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rapportools",
         "summarytools",
         "testthat",
         "tidyr",
@@ -20305,7 +20303,6 @@
         "tidyr",
         "waldo"
     ],
-    "rapportools": [],
     "enrichR": [],
     "multipanelfigure": [],
     "FactoMineR": [
@@ -21311,7 +21308,6 @@
         "waldo"
     ],
     "summarytools": [
-        "rapportools",
         "tidyr"
     ],
     "unmarked": [
