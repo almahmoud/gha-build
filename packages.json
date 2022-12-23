@@ -4711,7 +4711,6 @@
         "org.Hs.eg.db",
         "recipes"
     ],
-    "marr": [],
     "maser": [
         "BSgenome",
         "GenomicFeatures",
