@@ -36720,7 +36720,6 @@
         "interp",
         "ipred",
         "irlba",
-        "isa2",
         "jquerylib",
         "knitr",
         "latticeExtra",
@@ -37880,7 +37879,6 @@
         "flexclust",
         "ggplot2",
         "igraph",
-        "isa2",
         "mgcv",
         "munsell",
         "pillar",
@@ -74758,7 +74756,6 @@
     "linkcomm": [
         "igraph"
     ],
-    "isa2": [],
     "s4vd": [
         "biclust",
         "dplyr",
