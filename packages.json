@@ -2435,7 +2435,6 @@
         "slingshot",
         "spatstat",
         "spatstat.linnet",
-        "spatstat.model",
         "viridis"
     ],
     "CONFESS": [
@@ -13992,17 +13991,12 @@
         "caret",
         "recipes",
         "spatstat",
-        "spatstat.linnet",
-        "spatstat.model"
+        "spatstat.linnet"
     ],
     "spatstat": [
-        "spatstat.linnet",
-        "spatstat.model"
+        "spatstat.linnet"
     ],
-    "spatstat.model": [],
-    "spatstat.linnet": [
-        "spatstat.model"
-    ],
+    "spatstat.linnet": [],
     "contrast": [
         "Hmisc",
         "htmlTable",
