@@ -6967,7 +6967,6 @@
         "GenomicFeatures",
         "Organism.dplyr",
         "interactiveDisplayBase",
-        "mirbase.db",
         "plotgardener",
         "plyranges",
         "rtracklayer"
@@ -7911,7 +7910,6 @@
         "rtracklayer"
     ],
     "kmlShape": [],
-    "mirbase.db": [],
     "msigdb": [
         "AnnotationHub",
         "ExperimentHub",
