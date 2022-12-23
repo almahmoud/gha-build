@@ -24040,7 +24040,6 @@
         "vctrs"
     ],
     "GOsummaries": [
-        "gProfileR",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -68724,7 +68723,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "gProfileR": [],
     "epiR": [
         "bslib",
         "classInt",
