@@ -12799,7 +12799,6 @@
     "loci2path": [
         "GenomicRanges"
     ],
-    "logicFS": [],
     "LOLA": [
         "GenomicRanges",
         "reshape2"
