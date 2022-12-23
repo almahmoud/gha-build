@@ -24002,7 +24002,6 @@
     ],
     "mfa": [
         "GGally",
-        "MCMCglmm",
         "MCMCpack",
         "dplyr",
         "forcats",
@@ -50165,7 +50164,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "MCMCglmm": [],
     "shinycustomloader": [
         "bslib",
         "httpuv",
