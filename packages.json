@@ -4547,7 +4547,6 @@
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
-        "BoolNet",
         "CellNOptR",
         "GenomeInfoDb",
         "IRanges",
@@ -11185,7 +11184,6 @@
     "dce": [
         "AnnotationDbi",
         "Biostrings",
-        "BoolNet",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -14745,7 +14743,6 @@
         "vroom"
     ],
     "epiNEM": [
-        "BoolNet",
         "Linnorm",
         "RBGL",
         "apcluster",
@@ -30621,7 +30618,6 @@
         "vctrs"
     ],
     "nempi": [
-        "BoolNet",
         "Linnorm",
         "RBGL",
         "apcluster",
@@ -52762,7 +52758,6 @@
         "vctrs"
     ],
     "flexclust": [],
-    "BoolNet": [],
     "pcalg": [
         "RBGL",
         "lmtest",
