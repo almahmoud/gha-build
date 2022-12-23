@@ -1871,7 +1871,6 @@
         "enrichplot"
     ],
     "netOmics": [],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment"
     ],
