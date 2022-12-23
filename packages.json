@@ -3512,7 +3512,6 @@
         "cellHTS2",
         "genefilter"
     ],
-    "getDEE2": [],
     "GEWIST": [
         "car",
         "lme4",
