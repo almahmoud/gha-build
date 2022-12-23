@@ -47760,7 +47760,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "HiddenMarkov",
         "IRanges",
         "KernSmooth",
         "MASS",
@@ -62926,7 +62925,6 @@
     ],
     "MOSim": [
         "Biobase",
-        "HiddenMarkov",
         "IRanges",
         "MASS",
         "Matrix",
@@ -123866,7 +123864,6 @@
         "ape",
         "nlme"
     ],
-    "HiddenMarkov": [],
     "argparse": [],
     "depmixS4": [
         "MASS",
