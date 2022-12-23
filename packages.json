@@ -2422,8 +2422,7 @@
     "RLSeq": [
         "ExperimentHub",
         "RLHub",
-        "regioneR",
-        "valr"
+        "regioneR"
     ],
     "Rmmquant": [
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
@@ -3337,7 +3336,6 @@
     "BSgenome.Celegans.UCSC.ce2": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [],
     "rGenomeTracksData": [],
-    "valr": [],
     "RLHub": [
         "ExperimentHub"
     ],
