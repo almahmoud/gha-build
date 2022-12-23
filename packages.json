@@ -1109,7 +1109,6 @@
         "minfi",
         "rhdf5"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [
         "ggraph",
         "viridis"
@@ -1523,9 +1522,7 @@
     "GSCA": [
         "rhdf5"
     ],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "GSEAmining": [
         "dendextend",
         "viridis"
@@ -3942,9 +3939,7 @@
     "zellkonverter": [
         "basilisk"
     ],
-    "zenith": [
-        "EnrichmentBrowser"
-    ],
+    "zenith": [],
     "ggpubr": [
         "car",
         "rstatix"
