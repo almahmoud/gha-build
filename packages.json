@@ -13197,9 +13197,7 @@
         "BiocFileCache",
         "biomaRt"
     ],
-    "ReQON": [
-        "seqbias"
-    ],
+    "ReQON": [],
     "RESOLVE": [
         "BSgenome",
         "BSgenome.Hsapiens.1000genomes.hs37d5",
@@ -14720,7 +14718,6 @@
         "ggseqlogo"
     ],
     "SeqArray": [],
-    "seqbias": [],
     "seqCAT": [
         "AnnotationDbi",
         "BSgenome",
