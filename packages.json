@@ -4805,7 +4805,6 @@
     "RadioGx": [
         "CoreGx"
     ],
-    "ramwas": [],
     "RareVariantVis": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
