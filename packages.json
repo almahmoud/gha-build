@@ -8702,9 +8702,7 @@
         "vctrs",
         "viridisLite"
     ],
-    "bridge": [
-        "rama"
-    ],
+    "bridge": [],
     "BridgeDbR": [],
     "BrowserViz": [
         "httpuv",
@@ -64349,7 +64347,6 @@
         "multtest",
         "survival"
     ],
-    "rama": [],
     "ramr": [
         "EnvStats",
         "ExtDist",
