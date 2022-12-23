@@ -1699,7 +1699,6 @@
     ],
     "GeneMeta": [],
     "GENESIS": [
-        "GWASTools",
         "SeqVarTools"
     ],
     "GeneStructureTools": [
@@ -1908,10 +1907,8 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "GWASTools": [],
     "gwasurvivr": [
         "BSgenome",
-        "GWASTools",
         "GenomicFeatures",
         "VariantAnnotation"
     ],
@@ -2306,9 +2303,7 @@
     "mbOmic": [
         "WGCNA"
     ],
-    "mBPCR": [
-        "GWASTools"
-    ],
+    "mBPCR": [],
     "MCbiclust": [
         "WGCNA"
     ],
