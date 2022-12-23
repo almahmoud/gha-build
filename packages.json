@@ -2071,7 +2071,6 @@
     "frmaTools": [
         "affy"
     ],
-    "FunChIP": [],
     "funtooNorm": [
         "GenomicFeatures",
         "HDF5Array",
