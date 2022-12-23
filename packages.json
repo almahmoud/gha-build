@@ -40617,7 +40617,6 @@
         "tidyselect",
         "vroom"
     ],
-    "RBM": [],
     "Rbowtie2": [
         "BiocParallel",
         "Biostrings",
