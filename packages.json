@@ -425,14 +425,12 @@
         "rtracklayer"
     ],
     "BASiCS": [
-        "colourpicker",
         "ggExtra",
         "scran",
         "scuttle"
     ],
     "BASiCStan": [
         "BASiCS",
-        "colourpicker",
         "ggExtra",
         "glmGamPoi",
         "scran",
@@ -1209,7 +1207,6 @@
     "chromPlot": [],
     "ChromSCape": [
         "batchelor",
-        "colourpicker",
         "qs",
         "rtracklayer",
         "scater",
@@ -1845,7 +1842,6 @@
         "HDO.db",
         "annotate",
         "clusterProfiler",
-        "colourpicker",
         "dendextend",
         "enrichplot",
         "genefilter",
@@ -2054,7 +2050,6 @@
         "scuttle"
     ],
     "DiscoRhythm": [
-        "colourpicker",
         "dendextend",
         "ggExtra",
         "heatmaply"
@@ -2968,7 +2963,6 @@
         "GO.db",
         "annotate",
         "bs4Dash",
-        "colourpicker",
         "dendextend",
         "geneplotter"
     ],
@@ -3412,7 +3406,6 @@
         "HiCcompare",
         "QDNAseq",
         "car",
-        "colourpicker",
         "ggExtra",
         "ggpubr",
         "lme4",
@@ -3628,7 +3621,6 @@
     "InterCellar": [
         "FactoMineR",
         "car",
-        "colourpicker",
         "dendextend",
         "factoextra",
         "ggpubr",
@@ -3695,22 +3687,17 @@
         "datamods",
         "rio"
     ],
-    "iSEE": [
-        "colourpicker"
-    ],
+    "iSEE": [],
     "iSEEhex": [
-        "colourpicker",
         "iSEE"
     ],
     "iSEEhub": [
         "AnnotationHub",
         "ExperimentHub",
-        "colourpicker",
         "iSEE",
         "interactiveDisplayBase"
     ],
     "iSEEu": [
-        "colourpicker",
         "iSEE",
         "iSEEhex"
     ],
@@ -4845,12 +4832,10 @@
         "nloptr"
     ],
     "MSstatsQC": [
-        "colourpicker",
         "ggExtra"
     ],
     "MSstatsQCgui": [
         "MSstatsQC",
-        "colourpicker",
         "ggExtra"
     ],
     "MSstatsSampleSize": [
@@ -5560,7 +5545,6 @@
         "ExperimentHub",
         "GO.db",
         "OmaDB",
-        "colourpicker",
         "interactiveDisplayBase",
         "topGO"
     ],
@@ -5626,7 +5610,6 @@
     "plotGrouper": [
         "Hmisc",
         "car",
-        "colourpicker",
         "ggpubr",
         "lme4",
         "nloptr",
@@ -5778,7 +5761,6 @@
         "MLInterfaces",
         "annotate",
         "caret",
-        "colourpicker",
         "dendextend",
         "genefilter",
         "mixtools",
@@ -5838,7 +5820,6 @@
         "Hmisc",
         "VariantAnnotation",
         "bumphunter",
-        "colourpicker",
         "derfinder",
         "highcharter",
         "interactiveDisplayBase",
@@ -7033,7 +7014,6 @@
         "batchelor",
         "celda",
         "celldex",
-        "colourpicker",
         "ensembldb",
         "fields",
         "fishpond",
@@ -7543,7 +7523,6 @@
         "car",
         "caret",
         "clusterProfiler",
-        "colourpicker",
         "enrichplot",
         "ensembldb",
         "ggpubr",
@@ -8281,10 +8260,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "ggExtra": [
-        "colourpicker"
-    ],
-    "colourpicker": [],
+    "ggExtra": [],
     "heatmaply": [
         "dendextend"
     ],
