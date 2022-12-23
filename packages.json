@@ -1966,7 +1966,6 @@
         "EnrichmentBrowser",
         "ExperimentHub"
     ],
-    "GSEAmining": [],
     "gsean": [],
     "GSReg": [
         "GenomicFeatures",
