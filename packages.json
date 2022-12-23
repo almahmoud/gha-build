@@ -60331,7 +60331,6 @@
         "askpass",
         "bit64",
         "blob",
-        "cMAP",
         "cachem",
         "graph",
         "httr",
@@ -104339,7 +104338,6 @@
         "zeallot"
     ],
     "matrixLaplacian": [],
-    "cMAP": [],
     "Matching": [],
     "reportROC": [
         "lmtest",
