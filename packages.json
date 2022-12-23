@@ -1183,7 +1183,6 @@
     ],
     "censcyt": [
         "FlowSOM",
-        "broom.mixed",
         "car",
         "diffcyt",
         "ggpubr",
@@ -9794,7 +9793,6 @@
         "nloptr",
         "pbkrtest"
     ],
-    "broom.mixed": [],
     "mice": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
