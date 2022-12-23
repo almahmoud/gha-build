@@ -1658,7 +1658,6 @@
         "ggraph",
         "viridis"
     ],
-    "FoldGO": [],
     "FRASER": [
         "DESeq2",
         "HDF5Array",
