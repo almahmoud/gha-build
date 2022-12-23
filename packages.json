@@ -218,9 +218,7 @@
         "ggbio"
     ],
     "DEScan2": [],
-    "destiny": [
-        "VIM"
-    ],
+    "destiny": [],
     "diffcyt": [
         "FlowSOM",
         "ggpubr"
@@ -527,9 +525,7 @@
     "msgbsR": [
         "ggbio"
     ],
-    "MSPrep": [
-        "VIM"
-    ],
+    "MSPrep": [],
     "MSstatsLiP": [
         "factoextra",
         "ggpubr"
@@ -636,9 +632,7 @@
     "QDNAseq": [
         "CGHcall"
     ],
-    "qmtools": [
-        "VIM"
-    ],
+    "qmtools": [],
     "qrqc": [],
     "quantro": [],
     "QuasR": [],
@@ -899,7 +893,6 @@
         "mlapi"
     ],
     "mlapi": [],
-    "VIM": [],
     "EntropyExplorer": [],
     "SPARQL": [],
     "survminer": [
