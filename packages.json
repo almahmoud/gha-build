@@ -1367,7 +1367,6 @@
         "genefilter",
         "ggbio",
         "ggnetwork",
-        "ggtext",
         "htmlTable",
         "networkD3",
         "rtracklayer",
@@ -4550,7 +4549,6 @@
         "geneplotter",
         "ggpubr",
         "ggraph",
-        "ggtext",
         "ggtree",
         "gson",
         "lme4",
@@ -4955,7 +4953,6 @@
         "biomaRt",
         "car",
         "ggpubr",
-        "ggtext",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5737,7 +5734,6 @@
     "iPath": [
         "car",
         "ggpubr",
-        "ggtext",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5890,7 +5886,6 @@
     "ivygapSE": [
         "car",
         "ggpubr",
-        "ggtext",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5928,7 +5923,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "ggtext",
         "plyranges",
         "rtracklayer"
     ],
@@ -8311,7 +8305,6 @@
         "car",
         "fgsea",
         "ggpubr",
-        "ggtext",
         "lme4",
         "networkD3",
         "nloptr",
@@ -8611,7 +8604,6 @@
         "fields",
         "genefu",
         "ggpubr",
-        "ggtext",
         "iC10",
         "lme4",
         "nloptr",
@@ -8745,7 +8737,6 @@
         "car",
         "dendextend",
         "ggpubr",
-        "ggtext",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -10294,7 +10285,6 @@
     "RTCGA": [
         "car",
         "ggpubr",
-        "ggtext",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11018,7 +11008,6 @@
         "biomaRt",
         "car",
         "ggpubr",
-        "ggtext",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11046,7 +11035,6 @@
         "ensembldb",
         "genefu",
         "ggpubr",
-        "ggtext",
         "iC10",
         "lme4",
         "nloptr",
@@ -11761,7 +11749,6 @@
     "survtype": [
         "car",
         "ggpubr",
-        "ggtext",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -13293,7 +13280,6 @@
         "testthat"
     ],
     "profvis": [],
-    "ggtext": [],
     "drc": [
         "car",
         "lme4",
@@ -13640,7 +13626,6 @@
     "survminer": [
         "car",
         "ggpubr",
-        "ggtext",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -14055,7 +14040,6 @@
     "survivalAnalysis": [
         "car",
         "ggpubr",
-        "ggtext",
         "lme4",
         "nloptr",
         "pbkrtest",
