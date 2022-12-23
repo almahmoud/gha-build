@@ -34268,7 +34268,6 @@
         "iBBiG",
         "ids",
         "igraph",
-        "inaparc",
         "interp",
         "ipred",
         "irlba",
@@ -53337,7 +53336,6 @@
         "httpuv",
         "httr",
         "igraph",
-        "inaparc",
         "jquerylib",
         "kSamples",
         "kknn",
@@ -69902,9 +69900,7 @@
         "tibble",
         "vctrs"
     ],
-    "ppclust": [
-        "inaparc"
-    ],
+    "ppclust": [],
     "MatrixCorrelation": [
         "RSpectra",
         "RcppEigen",
@@ -69912,7 +69908,6 @@
         "progress",
         "vctrs"
     ],
-    "inaparc": [],
     "metR": [
         "ggplot2",
         "lubridate",
