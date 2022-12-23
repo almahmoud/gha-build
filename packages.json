@@ -1368,7 +1368,6 @@
     "GSCA": [
         "rhdf5"
     ],
-    "GSEABenchmarkeR": [],
     "GSEAmining": [
         "dendextend",
         "viridis"
