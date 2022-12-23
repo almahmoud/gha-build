@@ -3812,7 +3812,6 @@
         "altcdfenvs",
         "makecdfenv"
     ],
-    "hca": [],
     "HDF5Array": [
         "rhdf5"
     ],
