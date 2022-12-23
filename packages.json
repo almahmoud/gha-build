@@ -145,7 +145,6 @@
         "CoGAPS",
         "Homo.sapiens",
         "Mus.musculus",
-        "chromVAR",
         "motifmatchr",
         "projectR",
         "rGREAT",
@@ -533,7 +532,6 @@
         "scater",
         "viridis"
     ],
-    "chromVAR": [],
     "cicero": [
         "Gviz",
         "Hmisc",
