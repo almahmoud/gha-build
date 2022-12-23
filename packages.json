@@ -878,9 +878,7 @@
         "clusterProfiler"
     ],
     "MungeSumstats": [],
-    "muscat": [
-        "variancePartition"
-    ],
+    "muscat": [],
     "musicatk": [
         "FactoMineR",
         "factoextra",
@@ -1358,7 +1356,6 @@
         "ttgsea"
     ],
     "VanillaICE": [],
-    "variancePartition": [],
     "VariantFiltering": [
         "Gviz",
         "biovizBase"
@@ -1390,9 +1387,7 @@
         "minfi",
         "quantro"
     ],
-    "zenith": [
-        "variancePartition"
-    ],
+    "zenith": [],
     "ggpubr": [
         "rstatix"
     ],
