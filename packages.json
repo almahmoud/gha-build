@@ -1930,8 +1930,7 @@
     "OpenStats": [
         "AICcmodavg",
         "car",
-        "pbkrtest",
-        "unmarked"
+        "pbkrtest"
     ],
     "oppar": [],
     "ORFhunteR": [
@@ -3081,10 +3080,7 @@
     "NxtIRFdata": [],
     "octad.db": [],
     "diceR": [],
-    "AICcmodavg": [
-        "unmarked"
-    ],
-    "unmarked": [],
+    "AICcmodavg": [],
     "genlasso": [],
     "phastCons100way.UCSC.hg38": [],
     "EnsDb.Mmusculus.v79": [
