@@ -8837,7 +8837,6 @@
         "oligoClasses",
         "sva"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -8848,7 +8847,6 @@
         "interactiveDisplayBase",
         "plotly",
         "rtracklayer",
-        "scanMiR",
         "scanMiRData"
     ],
     "scAnnotatR": [
@@ -11840,9 +11838,7 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "scanMiRData": [
-        "scanMiR"
-    ],
+    "scanMiRData": [],
     "SCATEData": [
         "AnnotationDbi",
         "AnnotationHub",
