@@ -755,7 +755,6 @@
         "rhdf5",
         "viridis"
     ],
-    "dagLogo": [],
     "DaMiRseq": [
         "FSelector",
         "FactoMineR",
