@@ -15783,7 +15783,6 @@
     "sscore": [
         "affy"
     ],
-    "sscu": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "SummarizedExperiment",
