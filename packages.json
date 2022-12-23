@@ -212,9 +212,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "BioMM": [
-        "rms"
-    ],
+    "BioMM": [],
     "biomvRCNS": [
         "Gviz",
         "VariantAnnotation",
@@ -431,9 +429,7 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm9"
     ],
-    "chipenrich": [
-        "rms"
-    ],
+    "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
         "biovizBase",
@@ -566,8 +562,7 @@
         "distinct"
     ],
     "CONFESS": [
-        "contrast",
-        "rms"
+        "contrast"
     ],
     "consensusDE": [
         "EDASeq",
@@ -3199,7 +3194,6 @@
         "car",
         "pbkrtest"
     ],
-    "rms": [],
     "synaptome.db": [
         "synaptome.data"
     ],
@@ -3257,9 +3251,7 @@
         "rstatix"
     ],
     "Ecume": [],
-    "contrast": [
-        "rms"
-    ],
+    "contrast": [],
     "EnsDb.Hsapiens.v86": [
         "ensembldb"
     ],
