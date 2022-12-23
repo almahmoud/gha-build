@@ -4252,7 +4252,6 @@
         "rhdf5",
         "viridis"
     ],
-    "simplifyEnrichment": [],
     "sincell": [
         "fields",
         "viridis"
