@@ -8622,7 +8622,6 @@
         "EBImage",
         "RCurl",
         "S4Vectors",
-        "biglm",
         "bslib",
         "ellipsis",
         "futile.logger",
@@ -11294,7 +11293,6 @@
         "XVector",
         "affy",
         "biganalytics",
-        "biglm",
         "bigmemory",
         "blob",
         "dplyr",
@@ -37228,7 +37226,6 @@
         "RcppEigen",
         "TMB",
         "Wrench",
-        "biglm",
         "broom",
         "callr",
         "car",
@@ -37300,7 +37297,6 @@
         "WGCNA",
         "Wrench",
         "XVector",
-        "biglm",
         "blob",
         "broom",
         "bslib",
@@ -38342,7 +38338,6 @@
     ],
     "matter": [
         "BiocParallel",
-        "biglm",
         "futile.logger",
         "irlba",
         "lambda.r"
@@ -42566,7 +42561,6 @@
         "RcppEigen",
         "apcluster",
         "biganalytics",
-        "biglm",
         "bigmemory",
         "bslib",
         "ellipsis",
@@ -44005,7 +43999,6 @@
         "RcppEigen",
         "TMB",
         "Wrench",
-        "biglm",
         "broom",
         "callr",
         "car",
@@ -83492,7 +83485,6 @@
         "vctrs",
         "vegan"
     ],
-    "biglm": [],
     "sqldf": [
         "RSQLite",
         "blob",
@@ -84463,7 +84455,6 @@
     ],
     "bigmemory": [],
     "biganalytics": [
-        "biglm",
         "bigmemory"
     ],
     "shinyhelper": [
@@ -87493,7 +87484,6 @@
         "waldo"
     ],
     "cplm": [
-        "biglm",
         "ggplot2",
         "lifecycle",
         "mgcv",
