@@ -16487,7 +16487,6 @@
         "oligoClasses",
         "pd.mapping50k.xba240"
     ],
-    "iterativeBMA": [],
     "IVAS": [
         "AnnotationDbi",
         "BiocFileCache",

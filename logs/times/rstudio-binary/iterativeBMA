@@ -1,0 +1,1521 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   23e83d05..34fc31ef  main       -> origin/main
+Updating 23e83d05..34fc31ef
+Fast-forward
+ lists/DelayedArray                             |    2 +-
+ logs/run_ids/rstudio-binaries/downlit          |    2 +
+ logs/run_ids/rstudio-binaries/iterativeBMAsurv |    2 +
+ packages.json                                  | 1032 +-----------------------
+ 4 files changed, 12 insertions(+), 1026 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/downlit
+ create mode 100644 logs/run_ids/rstudio-binaries/iterativeBMAsurv
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=iterativeBMA
++ PKG=iterativeBMA
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "iterativeBMA"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 29.3M    0 16320    0     0  25721      0  0:19:55 --:--:--  0:19:55 25700  2 29.3M    2  812k    0     0   498k      0  0:01:00  0:00:01  0:00:59  498k  8 29.3M    8 2470k    0     0   939k      0  0:00:31  0:00:02  0:00:29  939k 16 29.3M   16 4988k    0     0  1375k      0  0:00:21  0:00:03  0:00:18 1375k 28 29.3M   28 8415k    0     0  1820k      0  0:00:16  0:00:04  0:00:12 1819k 42 29.3M   42 12.4M    0     0  2262k      0  0:00:13  0:00:05  0:00:08 2547k 59 29.3M   59 17.5M    0     0  2713k      0  0:00:11  0:00:06  0:00:05 3437k 80 29.3M   80 23.6M    0     0  3174k      0  0:00:09  0:00:07  0:00:02 4351k100 29.3M  100 29.3M    0     0  3541k      0  0:00:08  0:00:08 --:--:-- 5160k
+built/
+built/built/
+built/built/built/
+built/built/built/lattice/
+built/built/built/lattice/libs/
+built/built/built/lattice/libs/lattice.so
+built/built/built/lattice/NEWS
+built/built/built/lattice/NAMESPACE
+built/built/built/lattice/DESCRIPTION
+built/built/built/lattice/help/
+built/built/built/lattice/help/paths.rds
+built/built/built/lattice/help/lattice.rdx
+built/built/built/lattice/help/lattice.rdb
+built/built/built/lattice/help/aliases.rds
+built/built/built/lattice/help/AnIndex
+built/built/built/lattice/data/
+built/built/built/lattice/data/Rdata.rds
+built/built/built/lattice/data/Rdata.rdb
+built/built/built/lattice/data/Rdata.rdx
+built/built/built/lattice/Meta/
+built/built/built/lattice/Meta/package.rds
+built/built/built/lattice/Meta/demo.rds
+built/built/built/lattice/Meta/features.rds
+built/built/built/lattice/Meta/hsearch.rds
+built/built/built/lattice/Meta/links.rds
+built/built/built/lattice/Meta/nsInfo.rds
+built/built/built/lattice/Meta/Rd.rds
+built/built/built/lattice/Meta/data.rds
+built/built/built/lattice/po/
+built/built/built/lattice/po/it/
+built/built/built/lattice/po/it/LC_MESSAGES/
+built/built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/fr/
+built/built/built/lattice/po/fr/LC_MESSAGES/
+built/built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/ko/
+built/built/built/lattice/po/ko/LC_MESSAGES/
+built/built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/pl/
+built/built/built/lattice/po/pl/LC_MESSAGES/
+built/built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/en@quot/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/de/
+built/built/built/lattice/po/de/LC_MESSAGES/
+built/built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/CITATION
+built/built/built/lattice/html/
+built/built/built/lattice/html/00Index.html
+built/built/built/lattice/html/R.css
+built/built/built/lattice/INDEX
+built/built/built/lattice/R/
+built/built/built/lattice/R/lattice
+built/built/built/lattice/R/lattice.rdx
+built/built/built/lattice/R/lattice.rdb
+built/built/built/lattice/demo/
+built/built/built/lattice/demo/panel.R
+built/built/built/lattice/demo/intervals.R
+built/built/built/lattice/demo/labels.R
+built/built/built/lattice/demo/lattice.R
+built/built/built/DEoptimR/
+built/built/built/DEoptimR/NAMESPACE
+built/built/built/DEoptimR/DESCRIPTION
+built/built/built/DEoptimR/help/
+built/built/built/DEoptimR/help/paths.rds
+built/built/built/DEoptimR/help/DEoptimR.rdb
+built/built/built/DEoptimR/help/DEoptimR.rdx
+built/built/built/DEoptimR/help/aliases.rds
+built/built/built/DEoptimR/help/AnIndex
+built/built/built/DEoptimR/Meta/
+built/built/built/DEoptimR/Meta/package.rds
+built/built/built/DEoptimR/Meta/features.rds
+built/built/built/DEoptimR/Meta/hsearch.rds
+built/built/built/DEoptimR/Meta/links.rds
+built/built/built/DEoptimR/Meta/nsInfo.rds
+built/built/built/DEoptimR/Meta/Rd.rds
+built/built/built/DEoptimR/NEWS.Rd
+built/built/built/DEoptimR/html/
+built/built/built/DEoptimR/html/00Index.html
+built/built/built/DEoptimR/html/R.css
+built/built/built/DEoptimR/INDEX
+built/built/built/DEoptimR/R/
+built/built/built/DEoptimR/R/DEoptimR.rdb
+built/built/built/DEoptimR/R/DEoptimR
+built/built/built/DEoptimR/R/DEoptimR.rdx
+built/built/built/DEoptimR/xtraR/
+built/built/built/DEoptimR/xtraR/opt-test-funs.R
+built/built/built/robustbase/
+built/built/built/robustbase/libs/
+built/built/built/robustbase/libs/robustbase.so
+built/built/built/robustbase/NAMESPACE
+built/built/built/robustbase/DESCRIPTION
+built/built/built/robustbase/help/
+built/built/built/robustbase/help/paths.rds
+built/built/built/robustbase/help/aliases.rds
+built/built/built/robustbase/help/robustbase.rdb
+built/built/built/robustbase/help/AnIndex
+built/built/built/robustbase/help/robustbase.rdx
+built/built/built/robustbase/data/
+built/built/built/robustbase/data/Rdata.rds
+built/built/built/robustbase/data/Rdata.rdb
+built/built/built/robustbase/data/Rdata.rdx
+built/built/built/robustbase/Meta/
+built/built/built/robustbase/Meta/package.rds
+built/built/built/robustbase/Meta/vignette.rds
+built/built/built/robustbase/Meta/demo.rds
+built/built/built/robustbase/Meta/features.rds
+built/built/built/robustbase/Meta/hsearch.rds
+built/built/built/robustbase/Meta/links.rds
+built/built/built/robustbase/Meta/nsInfo.rds
+built/built/built/robustbase/Meta/Rd.rds
+built/built/built/robustbase/Meta/data.rds
+built/built/built/robustbase/NEWS.Rd
+built/built/built/robustbase/include/
+built/built/built/robustbase/include/robustbase.h
+built/built/built/robustbase/po/
+built/built/built/robustbase/po/en@quot/
+built/built/built/robustbase/po/en@quot/LC_MESSAGES/
+built/built/built/robustbase/po/en@quot/LC_MESSAGES/robustbase.mo
+built/built/built/robustbase/po/en@quot/LC_MESSAGES/R-robustbase.mo
+built/built/built/robustbase/po/de/
+built/built/built/robustbase/po/de/LC_MESSAGES/
+built/built/built/robustbase/po/de/LC_MESSAGES/robustbase.mo
+built/built/built/robustbase/po/de/LC_MESSAGES/R-robustbase.mo
+built/built/built/robustbase/Copyrights
+built/built/built/robustbase/CITATION
+built/built/built/robustbase/html/
+built/built/built/robustbase/html/00Index.html
+built/built/built/robustbase/html/R.css
+built/built/built/robustbase/INDEX
+built/built/built/robustbase/doc/
+built/built/built/robustbase/doc/simulation.functions.R
+built/built/built/robustbase/doc/psi_functions.Rnw
+built/built/built/robustbase/doc/fastMcd-kmini.R
+built/built/built/robustbase/doc/estimating.functions.R
+built/built/built/robustbase/doc/fastMcd-kmini.Rnw
+built/built/built/robustbase/doc/lmrob_simulation.Rnw
+built/built/built/robustbase/doc/aggr_results.Rdata
+built/built/built/robustbase/doc/asymptotic.max.bias.Rdata
+built/built/built/robustbase/doc/fastMcd-kmini.pdf
+built/built/built/robustbase/doc/index.html
+built/built/built/robustbase/doc/graphics.functions.R
+built/built/built/robustbase/doc/psi_functions.pdf
+built/built/built/robustbase/doc/psi_functions.R
+built/built/built/robustbase/doc/simulation.init.R
+built/built/built/robustbase/doc/lmrob_simulation.pdf
+built/built/built/robustbase/doc/error.distributions.R
+built/built/built/robustbase/doc/lmrob_simulation.R
+built/built/built/robustbase/R/
+built/built/built/robustbase/R/robustbase
+built/built/built/robustbase/R/robustbase.rdb
+built/built/built/robustbase/R/robustbase.rdx
+built/built/built/robustbase/demo/
+built/built/built/robustbase/demo/determinMCD.R
+built/built/built/robustbase/xtraR/
+built/built/built/robustbase/xtraR/test_MCD.R
+built/built/built/robustbase/xtraR/test_LTS.R
+built/built/built/robustbase/xtraR/m-s_fns.R
+built/built/built/robustbase/xtraR/subsample-fns.R
+built/built/built/robustbase/xtraR/lmrob-trace_lev.R
+built/built/built/robustbase/xtraR/plot-psiFun.R
+built/built/built/robustbase/xtraR/mcnaive.R
+built/built/built/robustbase/xtraR/platform-sessionInfo.R
+built/built/built/robustbase/xtraR/styleData.R
+built/built/built/robustbase/xtraR/ex-funs.R
+built/built/built/robustbase/external/
+built/built/built/robustbase/external/d1k27.rda
+built/built/built/Matrix/
+built/built/built/Matrix/Doxyfile
+built/built/built/Matrix/libs/
+built/built/built/Matrix/libs/Matrix.so
+built/built/built/Matrix/NAMESPACE
+built/built/built/Matrix/LICENCE
+built/built/built/Matrix/DESCRIPTION
+built/built/built/Matrix/test-tools-1.R
+built/built/built/Matrix/help/
+built/built/built/Matrix/help/paths.rds
+built/built/built/Matrix/help/aliases.rds
+built/built/built/Matrix/help/AnIndex
+built/built/built/Matrix/help/Matrix.rdx
+built/built/built/Matrix/help/Matrix.rdb
+built/built/built/Matrix/data/
+built/built/built/Matrix/data/USCounties.R
+built/built/built/Matrix/data/datalist
+built/built/built/Matrix/data/CAex.R
+built/built/built/Matrix/data/wrld_1deg.R
+built/built/built/Matrix/data/KNex.R
+built/built/built/Matrix/Meta/
+built/built/built/Matrix/Meta/package.rds
+built/built/built/Matrix/Meta/vignette.rds
+built/built/built/Matrix/Meta/features.rds
+built/built/built/Matrix/Meta/hsearch.rds
+built/built/built/Matrix/Meta/links.rds
+built/built/built/Matrix/Meta/nsInfo.rds
+built/built/built/Matrix/Meta/Rd.rds
+built/built/built/Matrix/Meta/data.rds
+built/built/built/Matrix/NEWS.Rd
+built/built/built/Matrix/include/
+built/built/built/Matrix/include/cholmod.h
+built/built/built/Matrix/include/Matrix_stubs.c
+built/built/built/Matrix/include/Matrix.h
+built/built/built/Matrix/test-tools-Matrix.R
+built/built/built/Matrix/test-tools.R
+built/built/built/Matrix/po/
+built/built/built/Matrix/po/lt/
+built/built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/it/
+built/built/built/Matrix/po/it/LC_MESSAGES/
+built/built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/fr/
+built/built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/ko/
+built/built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/pl/
+built/built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/en@quot/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/de/
+built/built/built/Matrix/po/de/LC_MESSAGES/
+built/built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/Copyrights
+built/built/built/Matrix/html/
+built/built/built/Matrix/html/00Index.html
+built/built/built/Matrix/html/R.css
+built/built/built/Matrix/INDEX
+built/built/built/Matrix/doc/
+built/built/built/Matrix/doc/Design-issues.Rnw
+built/built/built/Matrix/doc/sparseModels.R
+built/built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/built/Matrix/doc/Introduction.R
+built/built/built/Matrix/doc/sparseModels.Rnw
+built/built/built/Matrix/doc/Design-issues.pdf
+built/built/built/Matrix/doc/Design-issues.R
+built/built/built/Matrix/doc/Comparisons.R
+built/built/built/Matrix/doc/Announce.txt
+built/built/built/Matrix/doc/Introduction.Rnw
+built/built/built/Matrix/doc/Intro2Matrix.R
+built/built/built/Matrix/doc/index.html
+built/built/built/Matrix/doc/SuiteSparse/
+built/built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/built/Matrix/doc/Comparisons.pdf
+built/built/built/Matrix/doc/sparseModels.pdf
+built/built/built/Matrix/doc/Comparisons.Rnw
+built/built/built/Matrix/doc/Introduction.pdf
+built/built/built/Matrix/R/
+built/built/built/Matrix/R/Matrix
+built/built/built/Matrix/R/Matrix.rdx
+built/built/built/Matrix/R/Matrix.rdb
+built/built/built/Matrix/external/
+built/built/built/Matrix/external/symW.rda
+built/built/built/Matrix/external/lund_a.rsa
+built/built/built/Matrix/external/wrong.mtx
+built/built/built/Matrix/external/pores_1.mtx
+built/built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/built/Matrix/external/CAex_slots.rda
+built/built/built/Matrix/external/KNex_slots.rda
+built/built/built/Matrix/external/jgl009.mtx
+built/built/built/Matrix/external/utm300.rua
+built/built/built/Matrix/external/test3comp.rda
+built/built/built/Matrix/external/USCounties_slots.rda
+built/built/built/Matrix/external/Z_NA_rnk.rds
+built/built/built/Matrix/external/symA.rda
+built/built/built/Matrix/external/lund_a.mtx
+built/built/built/pcaPP/
+built/built/built/pcaPP/libs/
+built/built/built/pcaPP/libs/pcaPP.so
+built/built/built/pcaPP/NAMESPACE
+built/built/built/pcaPP/DESCRIPTION
+built/built/built/pcaPP/help/
+built/built/built/pcaPP/help/paths.rds
+built/built/built/pcaPP/help/pcaPP.rdx
+built/built/built/pcaPP/help/aliases.rds
+built/built/built/pcaPP/help/AnIndex
+built/built/built/pcaPP/help/pcaPP.rdb
+built/built/built/pcaPP/Meta/
+built/built/built/pcaPP/Meta/package.rds
+built/built/built/pcaPP/Meta/vignette.rds
+built/built/built/pcaPP/Meta/features.rds
+built/built/built/pcaPP/Meta/hsearch.rds
+built/built/built/pcaPP/Meta/links.rds
+built/built/built/pcaPP/Meta/nsInfo.rds
+built/built/built/pcaPP/Meta/Rd.rds
+built/built/built/pcaPP/html/
+built/built/built/pcaPP/html/00Index.html
+built/built/built/pcaPP/html/R.css
+built/built/built/pcaPP/INDEX
+built/built/built/pcaPP/doc/
+built/built/built/pcaPP/doc/matlab.pdf
+built/built/built/pcaPP/doc/matlab.R
+built/built/built/pcaPP/doc/index.html
+built/built/built/pcaPP/doc/matlab.rnw
+built/built/built/pcaPP/R/
+built/built/built/pcaPP/R/pcaPP
+built/built/built/pcaPP/R/pcaPP.rdx
+built/built/built/pcaPP/R/pcaPP.rdb
+built/built/built/mvtnorm/
+built/built/built/mvtnorm/libs/
+built/built/built/mvtnorm/libs/mvtnorm.so
+built/built/built/mvtnorm/NEWS
+built/built/built/mvtnorm/NAMESPACE
+built/built/built/mvtnorm/DESCRIPTION
+built/built/built/mvtnorm/help/
+built/built/built/mvtnorm/help/paths.rds
+built/built/built/mvtnorm/help/aliases.rds
+built/built/built/mvtnorm/help/mvtnorm.rdx
+built/built/built/mvtnorm/help/mvtnorm.rdb
+built/built/built/mvtnorm/help/AnIndex
+built/built/built/mvtnorm/Meta/
+built/built/built/mvtnorm/Meta/package.rds
+built/built/built/mvtnorm/Meta/vignette.rds
+built/built/built/mvtnorm/Meta/features.rds
+built/built/built/mvtnorm/Meta/hsearch.rds
+built/built/built/mvtnorm/Meta/links.rds
+built/built/built/mvtnorm/Meta/nsInfo.rds
+built/built/built/mvtnorm/Meta/Rd.rds
+built/built/built/mvtnorm/include/
+built/built/built/mvtnorm/include/mvtnormAPI.h
+built/built/built/mvtnorm/include/mvtnorm.h
+built/built/built/mvtnorm/CITATION
+built/built/built/mvtnorm/C_API_Example/
+built/built/built/mvtnorm/C_API_Example/NAMESPACE
+built/built/built/mvtnorm/C_API_Example/DESCRIPTION
+built/built/built/mvtnorm/C_API_Example/R/
+built/built/built/mvtnorm/C_API_Example/R/test.R
+built/built/built/mvtnorm/C_API_Example/src/
+built/built/built/mvtnorm/C_API_Example/src/test.c
+built/built/built/mvtnorm/C_API_Example/tests/
+built/built/built/mvtnorm/C_API_Example/tests/test.R
+built/built/built/mvtnorm/html/
+built/built/built/mvtnorm/html/00Index.html
+built/built/built/mvtnorm/html/R.css
+built/built/built/mvtnorm/INDEX
+built/built/built/mvtnorm/doc/
+built/built/built/mvtnorm/doc/MVT_Rnews.Rnw
+built/built/built/mvtnorm/doc/MVT_Rnews.R
+built/built/built/mvtnorm/doc/MVT_Rnews.pdf
+built/built/built/mvtnorm/doc/index.html
+built/built/built/mvtnorm/R/
+built/built/built/mvtnorm/R/mvtnorm
+built/built/built/mvtnorm/R/mvtnorm.rdx
+built/built/built/mvtnorm/R/mvtnorm.rdb
+built/built/DEoptimR/
+built/built/DEoptimR/NAMESPACE
+built/built/DEoptimR/DESCRIPTION
+built/built/DEoptimR/help/
+built/built/DEoptimR/help/paths.rds
+built/built/DEoptimR/help/DEoptimR.rdb
+built/built/DEoptimR/help/DEoptimR.rdx
+built/built/DEoptimR/help/aliases.rds
+built/built/DEoptimR/help/AnIndex
+built/built/DEoptimR/Meta/
+built/built/DEoptimR/Meta/package.rds
+built/built/DEoptimR/Meta/features.rds
+built/built/DEoptimR/Meta/hsearch.rds
+built/built/DEoptimR/Meta/links.rds
+built/built/DEoptimR/Meta/nsInfo.rds
+built/built/DEoptimR/Meta/Rd.rds
+built/built/DEoptimR/NEWS.Rd
+built/built/DEoptimR/html/
+built/built/DEoptimR/html/00Index.html
+built/built/DEoptimR/html/R.css
+built/built/DEoptimR/INDEX
+built/built/DEoptimR/R/
+built/built/DEoptimR/R/DEoptimR.rdb
+built/built/DEoptimR/R/DEoptimR
+built/built/DEoptimR/R/DEoptimR.rdx
+built/built/DEoptimR/xtraR/
+built/built/DEoptimR/xtraR/opt-test-funs.R
+built/built/robustbase/
+built/built/robustbase/libs/
+built/built/robustbase/libs/robustbase.so
+built/built/robustbase/NAMESPACE
+built/built/robustbase/DESCRIPTION
+built/built/robustbase/help/
+built/built/robustbase/help/paths.rds
+built/built/robustbase/help/aliases.rds
+built/built/robustbase/help/robustbase.rdb
+built/built/robustbase/help/AnIndex
+built/built/robustbase/help/robustbase.rdx
+built/built/robustbase/data/
+built/built/robustbase/data/Rdata.rds
+built/built/robustbase/data/Rdata.rdb
+built/built/robustbase/data/Rdata.rdx
+built/built/robustbase/Meta/
+built/built/robustbase/Meta/package.rds
+built/built/robustbase/Meta/vignette.rds
+built/built/robustbase/Meta/demo.rds
+built/built/robustbase/Meta/features.rds
+built/built/robustbase/Meta/hsearch.rds
+built/built/robustbase/Meta/links.rds
+built/built/robustbase/Meta/nsInfo.rds
+built/built/robustbase/Meta/Rd.rds
+built/built/robustbase/Meta/data.rds
+built/built/robustbase/NEWS.Rd
+built/built/robustbase/include/
+built/built/robustbase/include/robustbase.h
+built/built/robustbase/po/
+built/built/robustbase/po/en@quot/
+built/built/robustbase/po/en@quot/LC_MESSAGES/
+built/built/robustbase/po/en@quot/LC_MESSAGES/robustbase.mo
+built/built/robustbase/po/en@quot/LC_MESSAGES/R-robustbase.mo
+built/built/robustbase/po/de/
+built/built/robustbase/po/de/LC_MESSAGES/
+built/built/robustbase/po/de/LC_MESSAGES/robustbase.mo
+built/built/robustbase/po/de/LC_MESSAGES/R-robustbase.mo
+built/built/robustbase/Copyrights
+built/built/robustbase/CITATION
+built/built/robustbase/html/
+built/built/robustbase/html/00Index.html
+built/built/robustbase/html/R.css
+built/built/robustbase/INDEX
+built/built/robustbase/doc/
+built/built/robustbase/doc/simulation.functions.R
+built/built/robustbase/doc/psi_functions.Rnw
+built/built/robustbase/doc/fastMcd-kmini.R
+built/built/robustbase/doc/estimating.functions.R
+built/built/robustbase/doc/fastMcd-kmini.Rnw
+built/built/robustbase/doc/lmrob_simulation.Rnw
+built/built/robustbase/doc/aggr_results.Rdata
+built/built/robustbase/doc/asymptotic.max.bias.Rdata
+built/built/robustbase/doc/fastMcd-kmini.pdf
+built/built/robustbase/doc/index.html
+built/built/robustbase/doc/graphics.functions.R
+built/built/robustbase/doc/psi_functions.pdf
+built/built/robustbase/doc/psi_functions.R
+built/built/robustbase/doc/simulation.init.R
+built/built/robustbase/doc/lmrob_simulation.pdf
+built/built/robustbase/doc/error.distributions.R
+built/built/robustbase/doc/lmrob_simulation.R
+built/built/robustbase/R/
+built/built/robustbase/R/robustbase
+built/built/robustbase/R/robustbase.rdb
+built/built/robustbase/R/robustbase.rdx
+built/built/robustbase/demo/
+built/built/robustbase/demo/determinMCD.R
+built/built/robustbase/xtraR/
+built/built/robustbase/xtraR/test_MCD.R
+built/built/robustbase/xtraR/test_LTS.R
+built/built/robustbase/xtraR/m-s_fns.R
+built/built/robustbase/xtraR/subsample-fns.R
+built/built/robustbase/xtraR/lmrob-trace_lev.R
+built/built/robustbase/xtraR/plot-psiFun.R
+built/built/robustbase/xtraR/mcnaive.R
+built/built/robustbase/xtraR/platform-sessionInfo.R
+built/built/robustbase/xtraR/styleData.R
+built/built/robustbase/xtraR/ex-funs.R
+built/built/robustbase/external/
+built/built/robustbase/external/d1k27.rda
+built/built/pcaPP/
+built/built/pcaPP/libs/
+built/built/pcaPP/libs/pcaPP.so
+built/built/pcaPP/NAMESPACE
+built/built/pcaPP/DESCRIPTION
+built/built/pcaPP/help/
+built/built/pcaPP/help/paths.rds
+built/built/pcaPP/help/pcaPP.rdx
+built/built/pcaPP/help/aliases.rds
+built/built/pcaPP/help/AnIndex
+built/built/pcaPP/help/pcaPP.rdb
+built/built/pcaPP/Meta/
+built/built/pcaPP/Meta/package.rds
+built/built/pcaPP/Meta/vignette.rds
+built/built/pcaPP/Meta/features.rds
+built/built/pcaPP/Meta/hsearch.rds
+built/built/pcaPP/Meta/links.rds
+built/built/pcaPP/Meta/nsInfo.rds
+built/built/pcaPP/Meta/Rd.rds
+built/built/pcaPP/html/
+built/built/pcaPP/html/00Index.html
+built/built/pcaPP/html/R.css
+built/built/pcaPP/INDEX
+built/built/pcaPP/doc/
+built/built/pcaPP/doc/matlab.pdf
+built/built/pcaPP/doc/matlab.R
+built/built/pcaPP/doc/index.html
+built/built/pcaPP/doc/matlab.rnw
+built/built/pcaPP/R/
+built/built/pcaPP/R/pcaPP
+built/built/pcaPP/R/pcaPP.rdx
+built/built/pcaPP/R/pcaPP.rdb
+built/built/rrcov/
+built/built/rrcov/examples/
+built/built/rrcov/examples/ex-pca-skew.R
+built/built/rrcov/examples/ex-pca-explained-variance.R
+built/built/rrcov/examples/bm/
+built/built/rrcov/examples/bm/bmlts.S
+built/built/rrcov/examples/bm/bm_mcd.m
+built/built/rrcov/examples/bm/bmmcd.S
+built/built/rrcov/examples/bm/bm_lts.m
+built/built/rrcov/examples/test-ellipse.R
+built/built/rrcov/libs/
+built/built/rrcov/libs/rrcov.so
+built/built/rrcov/NAMESPACE
+built/built/rrcov/DESCRIPTION
+built/built/rrcov/help/
+built/built/rrcov/help/paths.rds
+built/built/rrcov/help/rrcov.rdb
+built/built/rrcov/help/aliases.rds
+built/built/rrcov/help/rrcov.rdx
+built/built/rrcov/help/AnIndex
+built/built/rrcov/data/
+built/built/rrcov/data/Cascades.rda
+built/built/rrcov/data/maryo.rda
+built/built/rrcov/data/lmom33.rda
+built/built/rrcov/data/rice.rda
+built/built/rrcov/data/fish.rda
+built/built/rrcov/data/olitos.rda
+built/built/rrcov/data/wages.rda
+built/built/rrcov/data/OsloTransect.rda
+built/built/rrcov/data/un86.rda
+built/built/rrcov/data/soil.rda
+built/built/rrcov/data/diabetes.rda
+built/built/rrcov/data/Appalachia.rda
+built/built/rrcov/data/hemophilia.rda
+built/built/rrcov/data/pottery.rda
+built/built/rrcov/data/bus.rda
+built/built/rrcov/data/lmom32.rda
+built/built/rrcov/data/salmon.rda
+built/built/rrcov/data/octane.rda
+built/built/rrcov/data/wolves.rda
+built/built/rrcov/data/bushmiss.rda
+built/built/rrcov/data/machines.rda
+built/built/rrcov/data/fruit.rda
+built/built/rrcov/Meta/
+built/built/rrcov/Meta/package.rds
+built/built/rrcov/Meta/vignette.rds
+built/built/rrcov/Meta/features.rds
+built/built/rrcov/Meta/hsearch.rds
+built/built/rrcov/Meta/links.rds
+built/built/rrcov/Meta/nsInfo.rds
+built/built/rrcov/Meta/Rd.rds
+built/built/rrcov/Meta/data.rds
+built/built/rrcov/NEWS.Rd
+built/built/rrcov/html/
+built/built/rrcov/html/00Index.html
+built/built/rrcov/html/R.css
+built/built/rrcov/INDEX
+built/built/rrcov/doc/
+built/built/rrcov/doc/rrcov.pdf
+built/built/rrcov/doc/rrcov.Rnw
+built/built/rrcov/doc/rrcov.R
+built/built/rrcov/doc/index.html
+built/built/rrcov/R/
+built/built/rrcov/R/rrcov
+built/built/rrcov/R/rrcov.rdb
+built/built/rrcov/R/rrcov.rdx
+built/built/rrcov/Citation
+built/built/mvtnorm/
+built/built/mvtnorm/libs/
+built/built/mvtnorm/libs/mvtnorm.so
+built/built/mvtnorm/NEWS
+built/built/mvtnorm/NAMESPACE
+built/built/mvtnorm/DESCRIPTION
+built/built/mvtnorm/help/
+built/built/mvtnorm/help/paths.rds
+built/built/mvtnorm/help/aliases.rds
+built/built/mvtnorm/help/mvtnorm.rdx
+built/built/mvtnorm/help/mvtnorm.rdb
+built/built/mvtnorm/help/AnIndex
+built/built/mvtnorm/Meta/
+built/built/mvtnorm/Meta/package.rds
+built/built/mvtnorm/Meta/vignette.rds
+built/built/mvtnorm/Meta/features.rds
+built/built/mvtnorm/Meta/hsearch.rds
+built/built/mvtnorm/Meta/links.rds
+built/built/mvtnorm/Meta/nsInfo.rds
+built/built/mvtnorm/Meta/Rd.rds
+built/built/mvtnorm/include/
+built/built/mvtnorm/include/mvtnormAPI.h
+built/built/mvtnorm/include/mvtnorm.h
+built/built/mvtnorm/CITATION
+built/built/mvtnorm/C_API_Example/
+built/built/mvtnorm/C_API_Example/NAMESPACE
+built/built/mvtnorm/C_API_Example/DESCRIPTION
+built/built/mvtnorm/C_API_Example/R/
+built/built/mvtnorm/C_API_Example/R/test.R
+built/built/mvtnorm/C_API_Example/src/
+built/built/mvtnorm/C_API_Example/src/test.c
+built/built/mvtnorm/C_API_Example/tests/
+built/built/mvtnorm/C_API_Example/tests/test.R
+built/built/mvtnorm/html/
+built/built/mvtnorm/html/00Index.html
+built/built/mvtnorm/html/R.css
+built/built/mvtnorm/INDEX
+built/built/mvtnorm/doc/
+built/built/mvtnorm/doc/MVT_Rnews.Rnw
+built/built/mvtnorm/doc/MVT_Rnews.R
+built/built/mvtnorm/doc/MVT_Rnews.pdf
+built/built/mvtnorm/doc/index.html
+built/built/mvtnorm/R/
+built/built/mvtnorm/R/mvtnorm
+built/built/mvtnorm/R/mvtnorm.rdx
+built/built/mvtnorm/R/mvtnorm.rdb
+built/built/inline/
+built/built/inline/NAMESPACE
+built/built/inline/tinytest/
+built/built/inline/tinytest/test_cxxfunction.R
+built/built/inline/tinytest/test_utilities.R
+built/built/inline/tinytest/test_cfunction.R
+built/built/inline/DESCRIPTION
+built/built/inline/help/
+built/built/inline/help/paths.rds
+built/built/inline/help/inline.rdx
+built/built/inline/help/inline.rdb
+built/built/inline/help/aliases.rds
+built/built/inline/help/AnIndex
+built/built/inline/Meta/
+built/built/inline/Meta/package.rds
+built/built/inline/Meta/features.rds
+built/built/inline/Meta/hsearch.rds
+built/built/inline/Meta/links.rds
+built/built/inline/Meta/nsInfo.rds
+built/built/inline/Meta/Rd.rds
+built/built/inline/NEWS.Rd
+built/built/inline/html/
+built/built/inline/html/00Index.html
+built/built/inline/html/R.css
+built/built/inline/INDEX
+built/built/inline/R/
+built/built/inline/R/inline.rdx
+built/built/inline/R/inline.rdb
+built/built/inline/R/inline
+built/built/leaps/
+built/built/leaps/libs/
+built/built/leaps/libs/leaps.so
+built/built/leaps/NEWS
+built/built/leaps/NAMESPACE
+built/built/leaps/DESCRIPTION
+built/built/leaps/help/
+built/built/leaps/help/paths.rds
+built/built/leaps/help/leaps.rdx
+built/built/leaps/help/leaps.rdb
+built/built/leaps/help/aliases.rds
+built/built/leaps/help/AnIndex
+built/built/leaps/Meta/
+built/built/leaps/Meta/package.rds
+built/built/leaps/Meta/features.rds
+built/built/leaps/Meta/hsearch.rds
+built/built/leaps/Meta/links.rds
+built/built/leaps/Meta/nsInfo.rds
+built/built/leaps/Meta/Rd.rds
+built/built/leaps/html/
+built/built/leaps/html/00Index.html
+built/built/leaps/html/R.css
+built/built/leaps/INDEX
+built/built/leaps/R/
+built/built/leaps/R/leaps.rdx
+built/built/leaps/R/leaps.rdb
+built/built/leaps/R/leaps
+built/built/survival/
+built/built/survival/libs/
+built/built/survival/libs/survival.so
+built/built/survival/NAMESPACE
+built/built/survival/DESCRIPTION
+built/built/survival/help/
+built/built/survival/help/paths.rds
+built/built/survival/help/survival.rdb
+built/built/survival/help/aliases.rds
+built/built/survival/help/figures/
+built/built/survival/help/figures/logo.png
+built/built/survival/help/survival.rdx
+built/built/survival/help/AnIndex
+built/built/survival/data/
+built/built/survival/data/Rdata.rds
+built/built/survival/data/Rdata.rdb
+built/built/survival/data/Rdata.rdx
+built/built/survival/Meta/
+built/built/survival/Meta/package.rds
+built/built/survival/Meta/vignette.rds
+built/built/survival/Meta/features.rds
+built/built/survival/Meta/hsearch.rds
+built/built/survival/Meta/links.rds
+built/built/survival/Meta/nsInfo.rds
+built/built/survival/Meta/Rd.rds
+built/built/survival/Meta/data.rds
+built/built/survival/NEWS.Rd
+built/built/survival/CITATION
+built/built/survival/html/
+built/built/survival/html/00Index.html
+built/built/survival/html/R.css
+built/built/survival/INDEX
+built/built/survival/doc/
+built/built/survival/doc/population.pdf
+built/built/survival/doc/concordance.Rnw
+built/built/survival/doc/validate.Rnw
+built/built/survival/doc/survival.pdf
+built/built/survival/doc/splines.pdf
+built/built/survival/doc/timedep.R
+built/built/survival/doc/discrim.Rnw
+built/built/survival/doc/tiedtimes.pdf
+built/built/survival/doc/splines.Rnw
+built/built/survival/doc/multi.pdf
+built/built/survival/doc/validate.R
+built/built/survival/doc/compete.pdf
+built/built/survival/doc/concordance.pdf
+built/built/survival/doc/concordance.R
+built/built/survival/doc/adjcurve.pdf
+built/built/survival/doc/other.pdf
+built/built/survival/doc/approximate.Rnw
+built/built/survival/doc/validate.pdf
+built/built/survival/doc/discrim.pdf
+built/built/survival/doc/splines.R
+built/built/survival/doc/survival.R
+built/built/survival/doc/adjcurve.R
+built/built/survival/doc/approximate.pdf
+built/built/survival/doc/timedep.pdf
+built/built/survival/doc/other.Rnw
+built/built/survival/doc/population.R
+built/built/survival/doc/adjcurve.Rnw
+built/built/survival/doc/timedep.Rnw
+built/built/survival/doc/discrim.R
+built/built/survival/doc/tiedtimes.R
+built/built/survival/doc/index.html
+built/built/survival/doc/compete.Rnw
+built/built/survival/doc/population.Rnw
+built/built/survival/doc/tiedtimes.Rnw
+built/built/survival/doc/approximate.R
+built/built/survival/doc/compete.R
+built/built/survival/doc/multi.Rnw
+built/built/survival/doc/survival.Rnw
+built/built/survival/R/
+built/built/survival/R/survival.rdb
+built/built/survival/R/survival.rdx
+built/built/survival/R/survival
+built/built/survival/COPYRIGHTS
+built/DEoptimR/
+built/DEoptimR/NAMESPACE
+built/DEoptimR/DESCRIPTION
+built/DEoptimR/help/
+built/DEoptimR/help/paths.rds
+built/DEoptimR/help/DEoptimR.rdb
+built/DEoptimR/help/DEoptimR.rdx
+built/DEoptimR/help/aliases.rds
+built/DEoptimR/help/AnIndex
+built/DEoptimR/Meta/
+built/DEoptimR/Meta/package.rds
+built/DEoptimR/Meta/features.rds
+built/DEoptimR/Meta/hsearch.rds
+built/DEoptimR/Meta/links.rds
+built/DEoptimR/Meta/nsInfo.rds
+built/DEoptimR/Meta/Rd.rds
+built/DEoptimR/NEWS.Rd
+built/DEoptimR/html/
+built/DEoptimR/html/00Index.html
+built/DEoptimR/html/R.css
+built/DEoptimR/INDEX
+built/DEoptimR/R/
+built/DEoptimR/R/DEoptimR.rdb
+built/DEoptimR/R/DEoptimR
+built/DEoptimR/R/DEoptimR.rdx
+built/DEoptimR/xtraR/
+built/DEoptimR/xtraR/opt-test-funs.R
+built/robustbase/
+built/robustbase/libs/
+built/robustbase/libs/robustbase.so
+built/robustbase/NAMESPACE
+built/robustbase/DESCRIPTION
+built/robustbase/help/
+built/robustbase/help/paths.rds
+built/robustbase/help/aliases.rds
+built/robustbase/help/robustbase.rdb
+built/robustbase/help/AnIndex
+built/robustbase/help/robustbase.rdx
+built/robustbase/data/
+built/robustbase/data/Rdata.rds
+built/robustbase/data/Rdata.rdb
+built/robustbase/data/Rdata.rdx
+built/robustbase/Meta/
+built/robustbase/Meta/package.rds
+built/robustbase/Meta/vignette.rds
+built/robustbase/Meta/demo.rds
+built/robustbase/Meta/features.rds
+built/robustbase/Meta/hsearch.rds
+built/robustbase/Meta/links.rds
+built/robustbase/Meta/nsInfo.rds
+built/robustbase/Meta/Rd.rds
+built/robustbase/Meta/data.rds
+built/robustbase/NEWS.Rd
+built/robustbase/include/
+built/robustbase/include/robustbase.h
+built/robustbase/po/
+built/robustbase/po/en@quot/
+built/robustbase/po/en@quot/LC_MESSAGES/
+built/robustbase/po/en@quot/LC_MESSAGES/robustbase.mo
+built/robustbase/po/en@quot/LC_MESSAGES/R-robustbase.mo
+built/robustbase/po/de/
+built/robustbase/po/de/LC_MESSAGES/
+built/robustbase/po/de/LC_MESSAGES/robustbase.mo
+built/robustbase/po/de/LC_MESSAGES/R-robustbase.mo
+built/robustbase/Copyrights
+built/robustbase/CITATION
+built/robustbase/html/
+built/robustbase/html/00Index.html
+built/robustbase/html/R.css
+built/robustbase/INDEX
+built/robustbase/doc/
+built/robustbase/doc/simulation.functions.R
+built/robustbase/doc/psi_functions.Rnw
+built/robustbase/doc/fastMcd-kmini.R
+built/robustbase/doc/estimating.functions.R
+built/robustbase/doc/fastMcd-kmini.Rnw
+built/robustbase/doc/lmrob_simulation.Rnw
+built/robustbase/doc/aggr_results.Rdata
+built/robustbase/doc/asymptotic.max.bias.Rdata
+built/robustbase/doc/fastMcd-kmini.pdf
+built/robustbase/doc/index.html
+built/robustbase/doc/graphics.functions.R
+built/robustbase/doc/psi_functions.pdf
+built/robustbase/doc/psi_functions.R
+built/robustbase/doc/simulation.init.R
+built/robustbase/doc/lmrob_simulation.pdf
+built/robustbase/doc/error.distributions.R
+built/robustbase/doc/lmrob_simulation.R
+built/robustbase/R/
+built/robustbase/R/robustbase
+built/robustbase/R/robustbase.rdb
+built/robustbase/R/robustbase.rdx
+built/robustbase/demo/
+built/robustbase/demo/determinMCD.R
+built/robustbase/xtraR/
+built/robustbase/xtraR/test_MCD.R
+built/robustbase/xtraR/test_LTS.R
+built/robustbase/xtraR/m-s_fns.R
+built/robustbase/xtraR/subsample-fns.R
+built/robustbase/xtraR/lmrob-trace_lev.R
+built/robustbase/xtraR/plot-psiFun.R
+built/robustbase/xtraR/mcnaive.R
+built/robustbase/xtraR/platform-sessionInfo.R
+built/robustbase/xtraR/styleData.R
+built/robustbase/xtraR/ex-funs.R
+built/robustbase/external/
+built/robustbase/external/d1k27.rda
+built/pcaPP/
+built/pcaPP/libs/
+built/pcaPP/libs/pcaPP.so
+built/pcaPP/NAMESPACE
+built/pcaPP/DESCRIPTION
+built/pcaPP/help/
+built/pcaPP/help/paths.rds
+built/pcaPP/help/pcaPP.rdx
+built/pcaPP/help/aliases.rds
+built/pcaPP/help/AnIndex
+built/pcaPP/help/pcaPP.rdb
+built/pcaPP/Meta/
+built/pcaPP/Meta/package.rds
+built/pcaPP/Meta/vignette.rds
+built/pcaPP/Meta/features.rds
+built/pcaPP/Meta/hsearch.rds
+built/pcaPP/Meta/links.rds
+built/pcaPP/Meta/nsInfo.rds
+built/pcaPP/Meta/Rd.rds
+built/pcaPP/html/
+built/pcaPP/html/00Index.html
+built/pcaPP/html/R.css
+built/pcaPP/INDEX
+built/pcaPP/doc/
+built/pcaPP/doc/matlab.pdf
+built/pcaPP/doc/matlab.R
+built/pcaPP/doc/index.html
+built/pcaPP/doc/matlab.rnw
+built/pcaPP/R/
+built/pcaPP/R/pcaPP
+built/pcaPP/R/pcaPP.rdx
+built/pcaPP/R/pcaPP.rdb
+built/BMA/
+built/BMA/libs/
+built/BMA/libs/BMA.so
+built/BMA/NAMESPACE
+built/BMA/DESCRIPTION
+built/BMA/help/
+built/BMA/help/BMA.rdb
+built/BMA/help/paths.rds
+built/BMA/help/BMA.rdx
+built/BMA/help/aliases.rds
+built/BMA/help/AnIndex
+built/BMA/data/
+built/BMA/data/race.RData
+built/BMA/data/vaso.txt.gz
+built/BMA/Meta/
+built/BMA/Meta/package.rds
+built/BMA/Meta/features.rds
+built/BMA/Meta/hsearch.rds
+built/BMA/Meta/links.rds
+built/BMA/Meta/nsInfo.rds
+built/BMA/Meta/Rd.rds
+built/BMA/Meta/data.rds
+built/BMA/html/
+built/BMA/html/00Index.html
+built/BMA/html/R.css
+built/BMA/INDEX
+built/BMA/R/
+built/BMA/R/BMA.rdb
+built/BMA/R/BMA
+built/BMA/R/BMA.rdx
+built/rrcov/
+built/rrcov/examples/
+built/rrcov/examples/ex-pca-skew.R
+built/rrcov/examples/ex-pca-explained-variance.R
+built/rrcov/examples/bm/
+built/rrcov/examples/bm/bmlts.S
+built/rrcov/examples/bm/bm_mcd.m
+built/rrcov/examples/bm/bmmcd.S
+built/rrcov/examples/bm/bm_lts.m
+built/rrcov/examples/test-ellipse.R
+built/rrcov/libs/
+built/rrcov/libs/rrcov.so
+built/rrcov/NAMESPACE
+built/rrcov/DESCRIPTION
+built/rrcov/help/
+built/rrcov/help/paths.rds
+built/rrcov/help/rrcov.rdb
+built/rrcov/help/aliases.rds
+built/rrcov/help/rrcov.rdx
+built/rrcov/help/AnIndex
+built/rrcov/data/
+built/rrcov/data/Cascades.rda
+built/rrcov/data/maryo.rda
+built/rrcov/data/lmom33.rda
+built/rrcov/data/rice.rda
+built/rrcov/data/fish.rda
+built/rrcov/data/olitos.rda
+built/rrcov/data/wages.rda
+built/rrcov/data/OsloTransect.rda
+built/rrcov/data/un86.rda
+built/rrcov/data/soil.rda
+built/rrcov/data/diabetes.rda
+built/rrcov/data/Appalachia.rda
+built/rrcov/data/hemophilia.rda
+built/rrcov/data/pottery.rda
+built/rrcov/data/bus.rda
+built/rrcov/data/lmom32.rda
+built/rrcov/data/salmon.rda
+built/rrcov/data/octane.rda
+built/rrcov/data/wolves.rda
+built/rrcov/data/bushmiss.rda
+built/rrcov/data/machines.rda
+built/rrcov/data/fruit.rda
+built/rrcov/Meta/
+built/rrcov/Meta/package.rds
+built/rrcov/Meta/vignette.rds
+built/rrcov/Meta/features.rds
+built/rrcov/Meta/hsearch.rds
+built/rrcov/Meta/links.rds
+built/rrcov/Meta/nsInfo.rds
+built/rrcov/Meta/Rd.rds
+built/rrcov/Meta/data.rds
+built/rrcov/NEWS.Rd
+built/rrcov/html/
+built/rrcov/html/00Index.html
+built/rrcov/html/R.css
+built/rrcov/INDEX
+built/rrcov/doc/
+built/rrcov/doc/rrcov.pdf
+built/rrcov/doc/rrcov.Rnw
+built/rrcov/doc/rrcov.R
+built/rrcov/doc/index.html
+built/rrcov/R/
+built/rrcov/R/rrcov
+built/rrcov/R/rrcov.rdb
+built/rrcov/R/rrcov.rdx
+built/rrcov/Citation
+built/mvtnorm/
+built/mvtnorm/libs/
+built/mvtnorm/libs/mvtnorm.so
+built/mvtnorm/NEWS
+built/mvtnorm/NAMESPACE
+built/mvtnorm/DESCRIPTION
+built/mvtnorm/help/
+built/mvtnorm/help/paths.rds
+built/mvtnorm/help/aliases.rds
+built/mvtnorm/help/mvtnorm.rdx
+built/mvtnorm/help/mvtnorm.rdb
+built/mvtnorm/help/AnIndex
+built/mvtnorm/Meta/
+built/mvtnorm/Meta/package.rds
+built/mvtnorm/Meta/vignette.rds
+built/mvtnorm/Meta/features.rds
+built/mvtnorm/Meta/hsearch.rds
+built/mvtnorm/Meta/links.rds
+built/mvtnorm/Meta/nsInfo.rds
+built/mvtnorm/Meta/Rd.rds
+built/mvtnorm/include/
+built/mvtnorm/include/mvtnormAPI.h
+built/mvtnorm/include/mvtnorm.h
+built/mvtnorm/CITATION
+built/mvtnorm/C_API_Example/
+built/mvtnorm/C_API_Example/NAMESPACE
+built/mvtnorm/C_API_Example/DESCRIPTION
+built/mvtnorm/C_API_Example/R/
+built/mvtnorm/C_API_Example/R/test.R
+built/mvtnorm/C_API_Example/src/
+built/mvtnorm/C_API_Example/src/test.c
+built/mvtnorm/C_API_Example/tests/
+built/mvtnorm/C_API_Example/tests/test.R
+built/mvtnorm/html/
+built/mvtnorm/html/00Index.html
+built/mvtnorm/html/R.css
+built/mvtnorm/INDEX
+built/mvtnorm/doc/
+built/mvtnorm/doc/MVT_Rnews.Rnw
+built/mvtnorm/doc/MVT_Rnews.R
+built/mvtnorm/doc/MVT_Rnews.pdf
+built/mvtnorm/doc/index.html
+built/mvtnorm/R/
+built/mvtnorm/R/mvtnorm
+built/mvtnorm/R/mvtnorm.rdx
+built/mvtnorm/R/mvtnorm.rdb
+built/inline/
+built/inline/NAMESPACE
+built/inline/tinytest/
+built/inline/tinytest/test_cxxfunction.R
+built/inline/tinytest/test_utilities.R
+built/inline/tinytest/test_cfunction.R
+built/inline/DESCRIPTION
+built/inline/help/
+built/inline/help/paths.rds
+built/inline/help/inline.rdx
+built/inline/help/inline.rdb
+built/inline/help/aliases.rds
+built/inline/help/AnIndex
+built/inline/Meta/
+built/inline/Meta/package.rds
+built/inline/Meta/features.rds
+built/inline/Meta/hsearch.rds
+built/inline/Meta/links.rds
+built/inline/Meta/nsInfo.rds
+built/inline/Meta/Rd.rds
+built/inline/NEWS.Rd
+built/inline/html/
+built/inline/html/00Index.html
+built/inline/html/R.css
+built/inline/INDEX
+built/inline/R/
+built/inline/R/inline.rdx
+built/inline/R/inline.rdb
+built/inline/R/inline
+built/leaps/
+built/leaps/libs/
+built/leaps/libs/leaps.so
+built/leaps/NEWS
+built/leaps/NAMESPACE
+built/leaps/DESCRIPTION
+built/leaps/help/
+built/leaps/help/paths.rds
+built/leaps/help/leaps.rdx
+built/leaps/help/leaps.rdb
+built/leaps/help/aliases.rds
+built/leaps/help/AnIndex
+built/leaps/Meta/
+built/leaps/Meta/package.rds
+built/leaps/Meta/features.rds
+built/leaps/Meta/hsearch.rds
+built/leaps/Meta/links.rds
+built/leaps/Meta/nsInfo.rds
+built/leaps/Meta/Rd.rds
+built/leaps/html/
+built/leaps/html/00Index.html
+built/leaps/html/R.css
+built/leaps/INDEX
+built/leaps/R/
+built/leaps/R/leaps.rdx
+built/leaps/R/leaps.rdb
+built/leaps/R/leaps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 10 2975k   10  314k    0     0   426k      0  0:00:06 --:--:--  0:00:06  426k 56 2975k   56 1669k    0     0   969k      0  0:00:03  0:00:01  0:00:02  968k100 2975k  100 2975k    0     0  1297k      0  0:00:02  0:00:02 --:--:-- 1298k
+built/
+built/BiocGenerics/
+built/BiocGenerics/NAMESPACE
+built/BiocGenerics/DESCRIPTION
+built/BiocGenerics/help/
+built/BiocGenerics/help/paths.rds
+built/BiocGenerics/help/BiocGenerics.rdb
+built/BiocGenerics/help/aliases.rds
+built/BiocGenerics/help/AnIndex
+built/BiocGenerics/help/BiocGenerics.rdx
+built/BiocGenerics/Meta/
+built/BiocGenerics/Meta/package.rds
+built/BiocGenerics/Meta/features.rds
+built/BiocGenerics/Meta/hsearch.rds
+built/BiocGenerics/Meta/links.rds
+built/BiocGenerics/Meta/nsInfo.rds
+built/BiocGenerics/Meta/Rd.rds
+built/BiocGenerics/unitTests/
+built/BiocGenerics/unitTests/test_combine.R
+built/BiocGenerics/unitTests/test_mapply.R
+built/BiocGenerics/unitTests/test_Extremes.R
+built/BiocGenerics/unitTests/test_order.R
+built/BiocGenerics/unitTests/test_updateObject.R
+built/BiocGenerics/unitTests/test_format.R
+built/BiocGenerics/unitTests/test_paste.R
+built/BiocGenerics/CITATION
+built/BiocGenerics/html/
+built/BiocGenerics/html/00Index.html
+built/BiocGenerics/html/R.css
+built/BiocGenerics/INDEX
+built/BiocGenerics/R/
+built/BiocGenerics/R/BiocGenerics
+built/BiocGenerics/R/BiocGenerics.rdb
+built/BiocGenerics/R/BiocGenerics.rdx
+built/Biobase/
+built/Biobase/ExpressionSet/
+built/Biobase/ExpressionSet/DESCRIPTION
+built/Biobase/ExpressionSet/man/
+built/Biobase/ExpressionSet/man/@PKGNAME@.Rd
+built/Biobase/libs/
+built/Biobase/libs/Biobase.so
+built/Biobase/NEWS
+built/Biobase/extdata/
+built/Biobase/extdata/pData.txt
+built/Biobase/extdata/exprsData.txt
+built/Biobase/NAMESPACE
+built/Biobase/testClass.R
+built/Biobase/DESCRIPTION
+built/Biobase/help/
+built/Biobase/help/Biobase.rdx
+built/Biobase/help/paths.rds
+built/Biobase/help/Biobase.rdb
+built/Biobase/help/aliases.rds
+built/Biobase/help/AnIndex
+built/Biobase/data/
+built/Biobase/data/geneCovariate.rda
+built/Biobase/data/sample.ExpressionSet.rda
+built/Biobase/data/seD.rda
+built/Biobase/data/reporter.rda
+built/Biobase/data/geneCov.R
+built/Biobase/data/aaMap.R
+built/Biobase/data/SW.rda
+built/Biobase/data/geneData.R
+built/Biobase/data/sample.MultiSet.rda
+built/Biobase/Meta/
+built/Biobase/Meta/package.rds
+built/Biobase/Meta/vignette.rds
+built/Biobase/Meta/features.rds
+built/Biobase/Meta/hsearch.rds
+built/Biobase/Meta/links.rds
+built/Biobase/Meta/nsInfo.rds
+built/Biobase/Meta/Rd.rds
+built/Biobase/Meta/data.rds
+built/Biobase/Code/
+built/Biobase/Code/DESCRIPTION
+built/Biobase/Code/R/
+built/Biobase/Code/R/get@PKGNAME@.R
+built/Biobase/Code/man/
+built/Biobase/Code/man/get@PKGNAME@.Rd
+built/Biobase/Code/man/@PKGNAME@.Rd
+built/Biobase/scripts/
+built/Biobase/scripts/esetTesting.R
+built/Biobase/scripts/getBioCHelp
+built/Biobase/scripts/query.packages.R
+built/Biobase/scripts/getBioC.R
+built/Biobase/scripts/getBioCPkgNames.R
+built/Biobase/scripts/makeExpressionSetPackage.R
+built/Biobase/unitTests/
+built/Biobase/unitTests/test_copyEnv.R
+built/Biobase/unitTests/test_combine.R
+built/Biobase/unitTests/test_AnnotatedDataFrame.R
+built/Biobase/unitTests/test_EsetSubclasses.R
+built/Biobase/unitTests/test_unsaveSetSlot.R
+built/Biobase/unitTests/VersionedClass_data/
+built/Biobase/unitTests/VersionedClass_data/devel/
+built/Biobase/unitTests/VersionedClass_data/devel/SnpSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/VersionedBiobase.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/swrep.rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.eSet.rda
+built/Biobase/unitTests/VersionedClass_data/devel/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/container.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/golubMergeSub.rda
+built/Biobase/unitTests/VersionedClass_data/devel/bbsym.rda
+built/Biobase/unitTests/VersionedClass_data/devel/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/aggregator.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/Versioned.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/eset.rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarInteger.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/VersionsNull.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarLogical.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.1.rda
+built/Biobase/unitTests/VersionedClass_data/devel/NChannelSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/Versions.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/MultiSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarCharacter.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarNumeric.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/SWPD.rda
+built/Biobase/unitTests/VersionedClass_data/1.8/
+built/Biobase/unitTests/VersionedClass_data/1.8/phenoData.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/raw/
+built/Biobase/unitTests/VersionedClass_data/raw/pData.tab
+built/Biobase/unitTests/VersionedClass_data/raw/exprs.tab
+built/Biobase/unitTests/VersionedClass_data/raw/varMetadata.tab
+built/Biobase/unitTests/VersionedClass_data/2.0/
+built/Biobase/unitTests/VersionedClass_data/2.0/SnpSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/phenoData.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/VersionedBiobase.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/container.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/aggregator.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/Versioned.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/VersionsNull.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/Versions.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/MultiSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/ScalarCharacter.Rda
+built/Biobase/unitTests/test_VersionedClass.R
+built/Biobase/unitTests/utilities.R
+built/Biobase/unitTests/test_NChannelSet.R
+built/Biobase/unitTests/test_AssayData.R
+built/Biobase/unitTests/test_checkClass.R
+built/Biobase/unitTests/test_UpdateObject.R
+built/Biobase/unitTests/test_SnpSet.R
+built/Biobase/unitTests/test_DataClasses.R
+built/Biobase/unitTests/test_ExpressionSet.R
+built/Biobase/unitTests/test_subListExtract.R
+built/Biobase/unitTests/test_esApply.R
+built/Biobase/unitTests/test_cache.R
+built/Biobase/CITATION
+built/Biobase/html/
+built/Biobase/html/00Index.html
+built/Biobase/html/R.css
+built/Biobase/INDEX
+built/Biobase/doc/
+built/Biobase/doc/esApply.Rmd
+built/Biobase/doc/ExpressionSetIntroduction.R
+built/Biobase/doc/esApply.html
+built/Biobase/doc/ExpressionSetIntroduction.Rnw
+built/Biobase/doc/index.html
+built/Biobase/doc/BiobaseDevelopment.html
+built/Biobase/doc/ExpressionSetIntroduction.pdf
+built/Biobase/doc/BiobaseDevelopment.R
+built/Biobase/doc/esApply.R
+built/Biobase/doc/BiobaseDevelopment.Rmd
+built/Biobase/R/
+built/Biobase/R/Biobase.rdx
+built/Biobase/R/Biobase.rdb
+built/Biobase/R/Biobase
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''iterativeBMA'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv Biobase_2.58.0_R_x86_64-pc-linux-gnu.tar.gz BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz BMA_3.18.17_R_x86_64-pc-linux-gnu.tar.gz DEoptimR_1.0-11_R_x86_64-pc-linux-gnu.tar.gz inline_0.3.19_R_x86_64-pc-linux-gnu.tar.gz iterativeBMA_1.56.0_R_x86_64-pc-linux-gnu.tar.gz leaps_3.1_R_x86_64-pc-linux-gnu.tar.gz mvtnorm_1.1-3_R_x86_64-pc-linux-gnu.tar.gz pcaPP_2.0-3_R_x86_64-pc-linux-gnu.tar.gz robustbase_0.95-0_R_x86_64-pc-linux-gnu.tar.gz rrcov_1.7-2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/iterativeBMA
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'iterativeBMA'
+also installing the dependencies ‘DEoptimR’, ‘mvtnorm’, ‘pcaPP’, ‘robustbase’, ‘inline’, ‘rrcov’, ‘BiocGenerics’, ‘BMA’, ‘leaps’, ‘Biobase’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/DEoptimR_1.0-11.tar.gz'
+Content type 'binary/octet-stream' length 40404 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/mvtnorm_1.1-3.tar.gz'
+Content type 'binary/octet-stream' length 263444 bytes (257 KB)
+==================================================
+downloaded 257 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/pcaPP_2.0-3.tar.gz'
+Content type 'binary/octet-stream' length 833679 bytes (814 KB)
+==================================================
+downloaded 814 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/robustbase_0.95-0.tar.gz'
+Content type 'binary/octet-stream' length 3198550 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/inline_0.3.19.tar.gz'
+Content type 'binary/octet-stream' length 127424 bytes (124 KB)
+==================================================
+downloaded 124 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/rrcov_1.7-2.tar.gz'
+Content type 'binary/octet-stream' length 2268583 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BiocGenerics_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 47711 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/BMA_3.18.17.tar.gz'
+Content type 'binary/octet-stream' length 452577 bytes (441 KB)
+==================================================
+downloaded 441 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/leaps_3.1.tar.gz'
+Content type 'binary/octet-stream' length 100357 bytes (98 KB)
+==================================================
+downloaded 98 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/Biobase_2.58.0.tar.gz'
+Content type 'application/x-gzip' length 1792896 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/iterativeBMA_1.56.0.tar.gz'
+Content type 'application/x-gzip' length 157411 bytes (153 KB)
+==================================================
+downloaded 153 KB
+
+* installing *binary* package ‘DEoptimR’ ...
+* ‘DEoptimR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DEoptimR’ as ‘DEoptimR_1.0-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DEoptimR)
+* installing *binary* package ‘mvtnorm’ ...
+* ‘mvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *binary* package ‘inline’ ...
+* ‘inline’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘inline’ as ‘inline_0.3.19_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (inline)
+* installing *source* package ‘BiocGenerics’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘union’ in package ‘BiocGenerics’
+Creating a new generic function for ‘intersect’ in package ‘BiocGenerics’
+Creating a new generic function for ‘setdiff’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sort’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *binary* package ‘leaps’ ...
+* ‘leaps’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘leaps’ as ‘leaps_3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (leaps)
+* installing *binary* package ‘pcaPP’ ...
+* ‘pcaPP’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pcaPP’ as ‘pcaPP_2.0-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pcaPP)
+* installing *binary* package ‘robustbase’ ...
+* ‘robustbase’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘robustbase’ as ‘robustbase_0.95-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (robustbase)
+* installing *source* package ‘Biobase’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rinit.c -o Rinit.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c anyMissing.c -o anyMissing.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c envir.c -o envir.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c matchpt.c -o matchpt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowMedians.c -o rowMedians.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sublist_extract.c -o sublist_extract.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Biobase.so Rinit.o anyMissing.o envir.o matchpt.o rowMedians.o sublist_extract.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-Biobase/00new/Biobase/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Biobase’ as ‘Biobase_2.58.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Biobase)
+* installing *binary* package ‘rrcov’ ...
+* ‘rrcov’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rrcov’ as ‘rrcov_1.7-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rrcov)
+* installing *binary* package ‘BMA’ ...
+* ‘BMA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BMA’ as ‘BMA_3.18.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BMA)
+* installing *source* package ‘iterativeBMA’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘iterativeBMA’ as ‘iterativeBMA_1.56.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterativeBMA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpTuCZ7F/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m40.822s
+user	0m25.613s
+sys	0m3.357s
