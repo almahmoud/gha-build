@@ -543,7 +543,6 @@
         "car",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "graphite",
         "lme4",
@@ -1002,7 +1001,6 @@
         "WGCNA",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "scatterpie",
         "treeio"
@@ -1023,9 +1021,7 @@
         "GSEABase",
         "annotate"
     ],
-    "ceRNAnetsim": [
-        "ggraph"
-    ],
+    "ceRNAnetsim": [],
     "CeTF": [
         "DESeq2",
         "DOSE",
@@ -1040,7 +1036,6 @@
         "geneplotter",
         "ggnetwork",
         "ggpubr",
-        "ggraph",
         "ggtree",
         "lme4",
         "nloptr",
@@ -1192,7 +1187,6 @@
         "HDO.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "rtracklayer",
         "scatterpie",
@@ -1250,9 +1244,7 @@
         "monocle",
         "rtracklayer"
     ],
-    "CIMICE": [
-        "ggraph"
-    ],
+    "CIMICE": [],
     "circRNAprofiler": [
         "AnnotationHub",
         "BSgenome",
@@ -1274,7 +1266,6 @@
         "rtracklayer"
     ],
     "CiteFuse": [
-        "ggraph",
         "mixtools",
         "propr",
         "scran",
@@ -1317,7 +1308,6 @@
         "GOSemSim",
         "HDO.db",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "scatterpie",
         "treeio"
@@ -1469,7 +1459,6 @@
         "enrichplot",
         "factoextra",
         "ggpubr",
-        "ggraph",
         "ggtree",
         "lme4",
         "nloptr",
@@ -1835,7 +1824,6 @@
     ],
     "dce": [
         "epiNEM",
-        "ggraph",
         "graphite",
         "mnem",
         "modelr",
@@ -1866,7 +1854,6 @@
         "enrichplot",
         "genefilter",
         "geneplotter",
-        "ggraph",
         "ggtree",
         "heatmaply",
         "org.Hs.eg.db",
@@ -2226,7 +2213,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -2268,7 +2254,6 @@
         "clusterProfiler",
         "enrichplot",
         "geneplotter",
-        "ggraph",
         "ggtree",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -2347,7 +2332,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "ggraph",
         "ggtree",
         "scatterpie",
         "treeio"
@@ -2365,7 +2349,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
-        "ggraph",
         "ggtree",
         "lme4",
         "motifmatchr",
@@ -2409,7 +2392,6 @@
         "enrichplot",
         "geneplotter",
         "genomation",
-        "ggraph",
         "ggtree",
         "interactiveDisplayBase",
         "rtracklayer",
@@ -2449,7 +2431,6 @@
         "ReactomePA",
         "WGCNA",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "graphite",
         "reactome.db",
@@ -2566,7 +2547,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "motifmatchr",
         "pipeFrame",
@@ -2666,7 +2646,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "gprofiler2",
         "org.Hs.eg.db",
@@ -2700,7 +2679,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "scatterpie",
         "treeio"
@@ -2807,7 +2785,6 @@
     ],
     "fmcsR": [],
     "fobitools": [
-        "ggraph",
         "lexicon",
         "textclean"
     ],
@@ -2920,7 +2897,6 @@
         "enrichplot",
         "geneplotter",
         "ggpubr",
-        "ggraph",
         "ggtree",
         "lme4",
         "nloptr",
@@ -3255,7 +3231,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "goProfiles",
         "org.Hs.eg.db",
@@ -3599,7 +3574,6 @@
         "DropletUtils",
         "SpatialExperiment",
         "cytomapper",
-        "ggraph",
         "scuttle"
     ],
     "ImmuneSpaceR": [
@@ -3709,7 +3683,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
-        "ggraph",
         "ggtree",
         "lme4",
         "mixtools",
@@ -4003,7 +3976,6 @@
         "clusterProfiler",
         "depmap",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
@@ -4174,7 +4146,6 @@
         "HDO.db",
         "MeSHDbi",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "interactiveDisplayBase",
         "scatterpie",
@@ -4244,7 +4215,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "scatterpie",
         "treeio"
@@ -4370,7 +4340,6 @@
         "clusterProfiler",
         "enrichplot",
         "genefilter",
-        "ggraph",
         "ggtree",
         "methylumi",
         "minfi",
@@ -4446,7 +4415,6 @@
     ],
     "miaViz": [
         "TreeSummarizedExperiment",
-        "ggraph",
         "ggtree",
         "mia",
         "scater",
@@ -4490,7 +4458,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "scatterpie",
         "treeio"
@@ -4514,9 +4481,7 @@
         "genefilter",
         "org.Hs.eg.db"
     ],
-    "miloR": [
-        "ggraph"
-    ],
+    "miloR": [],
     "mimager": [
         "oligo"
     ],
@@ -4605,7 +4570,6 @@
         "dendextend",
         "enrichplot",
         "ggpubr",
-        "ggraph",
         "ggtree",
         "graphite",
         "groupdata2",
@@ -4637,7 +4601,6 @@
         "cvms",
         "enrichplot",
         "ggpubr",
-        "ggraph",
         "ggtree",
         "graphite",
         "groupdata2",
@@ -4756,7 +4719,6 @@
         "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "scatterpie",
         "treeio"
@@ -4971,7 +4933,6 @@
         "devtools",
         "enrichplot",
         "geneplotter",
-        "ggraph",
         "ggtree",
         "graphite",
         "mixOmics",
@@ -5138,7 +5099,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "scatterpie",
         "treeio"
@@ -5470,7 +5430,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "org.Hs.eg.db",
         "scatterpie",
@@ -5481,7 +5440,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "ggraph",
         "nloptr",
         "tfprobability"
     ],
@@ -5556,7 +5514,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "scatterpie",
         "treeio"
@@ -5633,7 +5590,6 @@
         "WGCNA",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "graphite",
         "reactome.db",
@@ -5805,7 +5761,6 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "chipseq",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -6104,7 +6059,6 @@
         "GOSemSim",
         "HDO.db",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "graphite",
         "reactome.db",
@@ -6499,7 +6453,6 @@
         "genefilter",
         "geneplotter",
         "ggpubr",
-        "ggraph",
         "ggtree",
         "lme4",
         "nloptr",
@@ -6714,7 +6667,6 @@
         "Cepo",
         "GSEABase",
         "annotate",
-        "ggraph",
         "mixtools"
     ],
     "sccomp": [],
@@ -6811,9 +6763,7 @@
         "Rmagic"
     ],
     "ScreenR": [],
-    "scRepertoire": [
-        "ggraph"
-    ],
+    "scRepertoire": [],
     "scruff": [
         "BSgenome",
         "GenomicFeatures",
@@ -6846,7 +6796,6 @@
         "enrichplot",
         "fields",
         "genefilter",
-        "ggraph",
         "ggtree",
         "graphite",
         "heatmaply",
@@ -6875,7 +6824,6 @@
         "ensembldb",
         "epivizr",
         "epivizrData",
-        "ggraph",
         "rtracklayer",
         "scater",
         "scran",
@@ -6891,7 +6839,6 @@
         "HDO.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "rtracklayer",
         "scatterpie",
@@ -7001,7 +6948,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
         "ggtree",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
@@ -7397,7 +7343,6 @@
         "rtracklayer"
     ],
     "sSNAPPY": [
-        "ggraph",
         "graphite",
         "org.Hs.eg.db"
     ],
@@ -7616,7 +7561,6 @@
         "enrichplot",
         "ensembldb",
         "ggpubr",
-        "ggraph",
         "ggtree",
         "interactiveDisplayBase",
         "lme4",
@@ -7711,7 +7655,6 @@
         "clusterProfiler",
         "enrichplot",
         "gghighlight",
-        "ggraph",
         "ggtree",
         "scatterpie",
         "treeio"
@@ -8059,7 +8002,6 @@
         "ExperimentHub",
         "GSEABase",
         "annotate",
-        "ggraph",
         "interactiveDisplayBase",
         "lexicon",
         "msigdb",
@@ -8378,7 +8320,6 @@
     "org.Bt.eg.db": [],
     "DiagrammeR": [],
     "HDO.db": [],
-    "ggraph": [],
     "scatterpie": [],
     "rms": [
         "Hmisc"
@@ -8902,9 +8843,7 @@
     "ccTensor": [
         "fields"
     ],
-    "clustree": [
-        "ggraph"
-    ],
+    "clustree": [],
     "survivalAnalysis": [
         "car",
         "ggpubr",
