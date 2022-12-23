@@ -20153,7 +20153,6 @@
         "ggplot2",
         "htmlwidgets",
         "rcdk",
-        "readJDX",
         "rmarkdown",
         "rvest",
         "selectr",
@@ -28965,7 +28964,6 @@
         "interactiveDisplayBase",
         "rmarkdown"
     ],
-    "readJDX": [],
     "TBX20BamSubset": [
         "Biostrings",
         "GenomicRanges",
