@@ -35,7 +35,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "alpine": [],
     "AMARETTO": [],
     "ANCOMBC": [
         "mia"
