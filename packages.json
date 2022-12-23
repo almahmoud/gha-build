@@ -5505,7 +5505,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "imputeLCMD",
         "readr",
         "rmarkdown",
         "shiny",
@@ -10938,7 +10937,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "imputeLCMD",
         "plotly",
         "rmarkdown",
         "ropls",
@@ -11437,7 +11435,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "imputeLCMD",
         "plotly",
         "proDA",
         "rmarkdown",
@@ -14931,7 +14928,6 @@
         "ggrepel",
         "htmlTable",
         "htmlwidgets",
-        "imputeLCMD",
         "isva",
         "lme4",
         "made4",
@@ -17723,7 +17719,6 @@
         "ggrepel",
         "htmlTable",
         "htmlwidgets",
-        "imputeLCMD",
         "lme4",
         "mice",
         "nloptr",
@@ -25151,7 +25146,6 @@
     "tseries": [
         "quantmod"
     ],
-    "imputeLCMD": [],
     "ggplot.multistats": [
         "ggplot2"
     ],
