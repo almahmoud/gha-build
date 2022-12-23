@@ -1575,7 +1575,6 @@
         "hiAnnotator"
     ],
     "HiTC": [],
-    "HPiP": [],
     "HTSeqGenie": [
         "GenomicFeatures",
         "VariantAnnotation",
