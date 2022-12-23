@@ -83,9 +83,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "BioNAR": [
-        "synaptome.db"
-    ],
+    "BioNAR": [],
     "biovizBase": [],
     "biscuiteer": [
         "CGHcall",
@@ -1430,7 +1428,6 @@
         "minfi"
     ],
     "radiant.data": [],
-    "synaptome.db": [],
     "pasilla": [],
     "GenomicState": [
         "GenomicFiles",
