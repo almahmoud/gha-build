@@ -563,7 +563,6 @@
         "methylumi",
         "minfi"
     ],
-    "FindIT2": [],
     "FLAMES": [
         "biovizBase",
         "ggbio"
