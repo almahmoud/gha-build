@@ -315,7 +315,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "affycomp": [],
     "AffyCompatible": [
         "Biostrings",
         "GenomeInfoDb",
