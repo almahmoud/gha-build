@@ -7840,7 +7840,6 @@
         "annotate",
         "rhdf5"
     ],
-    "gtrellis": [],
     "GUIDEseq": [
         "AnnotationDbi",
         "BSgenome",
@@ -19537,7 +19536,6 @@
         "ensembldb",
         "ggbeeswarm",
         "ggbio",
-        "gtrellis",
         "htmlTable",
         "htmlwidgets",
         "rtracklayer",
