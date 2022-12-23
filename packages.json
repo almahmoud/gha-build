@@ -10866,7 +10866,6 @@
         "iC10",
         "lme4",
         "nloptr",
-        "openair",
         "org.Hs.eg.db",
         "pbkrtest",
         "rhdf5",
@@ -13822,7 +13821,6 @@
         "tidytidbits"
     ],
     "tidytidbits": [],
-    "openair": [],
     "celldex": [
         "AnnotationDbi",
         "AnnotationHub",
