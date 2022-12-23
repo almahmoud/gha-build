@@ -872,7 +872,6 @@
     "GARS": [
         "DaMiRseq",
         "FactoMineR",
-        "MLSeq",
         "car"
     ],
     "GDCRNATools": [
@@ -1400,7 +1399,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "MLSeq": [],
     "MMAPPR2": [
         "VariantAnnotation",
         "VariantTools",
