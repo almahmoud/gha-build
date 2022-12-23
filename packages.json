@@ -11367,7 +11367,6 @@
         "isva",
         "jquerylib",
         "knitr",
-        "kpmt",
         "lambda.r",
         "latticeExtra",
         "lifecycle",
@@ -91075,7 +91074,6 @@
         "vctrs",
         "vroom"
     ],
-    "kpmt": [],
     "isva": [
         "JADE",
         "Matrix",
