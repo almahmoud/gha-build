@@ -3457,7 +3457,6 @@
         "maxLik",
         "memoise",
         "mgcv",
-        "miscTools",
         "openssl",
         "pheatmap",
         "pillar",
@@ -15117,7 +15116,6 @@
         "futile.logger",
         "gamlss",
         "maxLik",
-        "miscTools",
         "sandwich",
         "survival"
     ],
@@ -21588,7 +21586,6 @@
         "maxLik",
         "memoise",
         "mgcv",
-        "miscTools",
         "nloptr",
         "openssl",
         "pbkrtest",
@@ -27568,7 +27565,6 @@
         "memoise",
         "mgcv",
         "miniUI",
-        "miscTools",
         "mixtools",
         "nloptr",
         "openssl",
@@ -64857,15 +64853,12 @@
     "gclus": [],
     "DirichletReg": [
         "maxLik",
-        "miscTools",
         "sandwich"
     ],
     "RcppDist": [],
     "maxLik": [
-        "miscTools",
         "sandwich"
     ],
-    "miscTools": [],
     "BB": [],
     "rjags": [],
     "corncob": [
