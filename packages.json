@@ -167,7 +167,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "SummarizedExperiment",
         "XVector",
@@ -2741,7 +2740,6 @@
         "IRanges",
         "KEGGREST",
         "MCMCpack",
-        "MatrixModels",
         "RSQLite",
         "XVector",
         "annotate",
@@ -2926,7 +2924,6 @@
         "tibble"
     ],
     "beadarraySNP": [
-        "MatrixModels",
         "quantreg",
         "quantsmooth"
     ],
@@ -3399,7 +3396,6 @@
         "HDO.db",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "ReactomePA",
         "XVector",
@@ -3565,7 +3561,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "MultiAssayExperiment",
         "RSQLite",
         "Rsamtools",
@@ -3973,7 +3968,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "TH.data",
         "XVector",
@@ -4276,7 +4270,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "ROCR",
         "SummarizedExperiment",
         "SuperLearner",
@@ -5648,7 +5641,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "RcppML",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -6212,7 +6204,6 @@
         "DT",
         "FactoMineR",
         "Hmisc",
-        "MatrixModels",
         "SpatialTools",
         "broom",
         "bslib",
@@ -6372,7 +6363,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "WGCNA",
         "XVector",
@@ -6440,7 +6430,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "SummarizedExperiment",
         "TH.data",
         "XVector",
@@ -6549,7 +6538,6 @@
         "IRdisplay",
         "IRkernel",
         "KEGGREST",
-        "MatrixModels",
         "RCy3",
         "RSQLite",
         "SummarizedExperiment",
@@ -6996,7 +6984,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -8794,7 +8781,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "SummarizedExperiment",
         "XVector",
         "biomformat",
@@ -9116,7 +9102,6 @@
         "HDO.db",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "RcppML",
         "ScaledMatrix",
@@ -9260,7 +9245,6 @@
     "CONFESS": [
         "EBImage",
         "Hmisc",
-        "MatrixModels",
         "TH.data",
         "bslib",
         "contrast",
@@ -9879,7 +9863,6 @@
         "tidyselect"
     ],
     "cqn": [
-        "MatrixModels",
         "quantreg"
     ],
     "CRImage": [
@@ -10691,7 +10674,6 @@
         "GEOmap",
         "GGally",
         "IRanges",
-        "MatrixModels",
         "RFOC",
         "broom",
         "car",
@@ -10774,7 +10756,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "SummarizedExperiment",
         "TH.data",
         "XVector",
@@ -10841,7 +10822,6 @@
         "BiocParallel",
         "DT",
         "FactoMineR",
-        "MatrixModels",
         "broom",
         "bslib",
         "car",
@@ -11106,7 +11086,6 @@
         "IRanges",
         "KEGGREST",
         "MSQC",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "ShortRead",
@@ -11213,7 +11192,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -11275,7 +11253,6 @@
         "IRanges",
         "KEGGREST",
         "Linnorm",
-        "MatrixModels",
         "RSQLite",
         "TFisher",
         "TH.data",
@@ -11353,7 +11330,6 @@
         "DelayedArray",
         "GEOmap",
         "IRanges",
-        "MatrixModels",
         "RFOC",
         "broom",
         "car",
@@ -12298,7 +12274,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "RSpectra",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -12553,7 +12528,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "SummarizedExperiment",
         "TH.data",
         "XVector",
@@ -13235,7 +13209,6 @@
     ],
     "Doscheda": [
         "DT",
-        "MatrixModels",
         "TH.data",
         "broom",
         "bslib",
@@ -13523,7 +13496,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "ROCR",
         "RSQLite",
         "SummarizedExperiment",
@@ -13884,7 +13856,6 @@
         "KEGGREST",
         "KEGGdzPathwaysGEO",
         "KEGGgraph",
-        "MatrixModels",
         "PADOG",
         "RSQLite",
         "ScaledMatrix",
@@ -13977,7 +13948,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "MultiAssayExperiment",
         "RSQLite",
         "Rsamtools",
@@ -14258,7 +14228,6 @@
         "HDO.db",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -14529,7 +14498,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
@@ -14573,7 +14541,6 @@
         "IRanges",
         "KEGGREST",
         "MCMCpack",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -14602,7 +14569,6 @@
         "GenomicRanges",
         "GreyListChIP",
         "IRanges",
-        "MatrixModels",
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
@@ -15371,7 +15337,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "SGSeq",
@@ -15418,7 +15383,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "R.cache",
         "RSQLite",
         "SingleCellExperiment",
@@ -16535,7 +16499,6 @@
         "DelayedArray",
         "GEOmap",
         "IRanges",
-        "MatrixModels",
         "RFOC",
         "broom",
         "car",
@@ -16572,7 +16535,6 @@
         "DelayedArray",
         "GEOmap",
         "IRanges",
-        "MatrixModels",
         "RFOC",
         "broom",
         "car",
@@ -16643,7 +16605,6 @@
         "ks"
     ],
     "flowPloidy": [
-        "MatrixModels",
         "broom",
         "bslib",
         "car",
@@ -16672,7 +16633,6 @@
     ],
     "FlowSOM": [
         "ConsensusClusterPlus",
-        "MatrixModels",
         "broom",
         "car",
         "cowplot",
@@ -16915,7 +16875,6 @@
     ],
     "frenchFISH": [
         "MCMCpack",
-        "MatrixModels",
         "NHPoisson",
         "broom",
         "car",
@@ -17043,7 +17002,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "SummarizedExperiment",
         "XVector",
         "analogue",
@@ -17201,7 +17159,6 @@
         "KEGGREST",
         "MLSeq",
         "MSQC",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "ShortRead",
@@ -17384,7 +17341,6 @@
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
-        "MatrixModels",
         "RSQLite",
         "SummarizedExperiment",
         "XVector",
@@ -17558,7 +17514,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "XVector",
         "biomaRt",
@@ -17696,7 +17651,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "Rsamtools",
         "XVector",
         "broom",
@@ -17783,7 +17737,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "RSQLite",
         "SeqArray",
         "SeqVarTools",
@@ -18349,7 +18302,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "RSQLite",
         "SummarizedExperiment",
         "XVector",
@@ -18560,7 +18512,6 @@
         "DT",
         "FactoMineR",
         "GEOquery",
-        "MatrixModels",
         "RSpectra",
         "broom",
         "bslib",
@@ -18752,7 +18703,6 @@
         "XVector"
     ],
     "GEWIST": [
-        "MatrixModels",
         "broom",
         "car",
         "dplyr",
@@ -19101,7 +19051,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "MultiAssayExperiment",
         "RSQLite",
         "SummarizedExperiment",
@@ -19719,7 +19668,6 @@
     ],
     "GraphAT": [
         "MCMCpack",
-        "MatrixModels",
         "quantreg"
     ],
     "graphite": [
@@ -19771,7 +19719,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "SummarizedExperiment",
         "TH.data",
         "XVector",
@@ -20264,7 +20211,6 @@
         "vroom"
     ],
     "GWASTools": [
-        "MatrixModels",
         "RSQLite",
         "blob",
         "broom",
@@ -20295,7 +20241,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -20650,7 +20595,6 @@
         "HiCcompare",
         "IRanges",
         "InteractionSet",
-        "MatrixModels",
         "QDNAseq",
         "Rsamtools",
         "SummarizedExperiment",
@@ -21932,7 +21876,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "MultiAssayExperiment",
         "Rsamtools",
         "SummarizedExperiment",
@@ -22117,7 +22060,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "RSpectra",
         "XVector",
@@ -22280,7 +22222,6 @@
     ],
     "iPath": [
         "BiocParallel",
-        "MatrixModels",
         "broom",
         "car",
         "cowplot",
@@ -22397,7 +22338,6 @@
         "IRanges",
         "KEGGREST",
         "MCL",
-        "MatrixModels",
         "ROCR",
         "RSQLite",
         "RcppML",
@@ -22912,7 +22852,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "SummarizedExperiment",
         "UpSetR",
         "XVector",
@@ -23140,7 +23079,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -23202,7 +23140,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "XVector",
         "annotate",
@@ -23404,7 +23341,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "XVector",
@@ -23947,7 +23883,6 @@
         "tidyselect"
     ],
     "Maaslin2": [
-        "MatrixModels",
         "TMB",
         "Wrench",
         "broom",
@@ -23991,7 +23926,6 @@
         "IRanges",
         "KEGGREST",
         "Maaslin2",
-        "MatrixModels",
         "RSQLite",
         "SummarizedExperiment",
         "TMB",
@@ -24775,7 +24709,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "RSQLite",
         "SummarizedExperiment",
         "XVector",
@@ -25134,7 +25067,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "MatrixModels",
         "TH.data",
         "XVector",
         "broom",
@@ -25202,7 +25134,6 @@
         "GenomicRanges",
         "IRanges",
         "MCMCpack",
-        "MatrixModels",
         "ROCR",
         "XVector",
         "bookdown",
@@ -25508,7 +25439,6 @@
         "KEGGREST",
         "KEGGgraph",
         "MWASTools",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -25559,7 +25489,6 @@
     "MetaCyto": [
         "ConsensusClusterPlus",
         "FlowSOM",
-        "MatrixModels",
         "broom",
         "car",
         "cowplot",
@@ -25906,7 +25835,6 @@
         "vegan"
     ],
     "MetaVolcanoR": [
-        "MatrixModels",
         "TFisher",
         "TH.data",
         "bslib",
@@ -26032,7 +25960,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "SummarizedExperiment",
         "XVector",
@@ -26249,7 +26176,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "OrganismDbi",
         "PerformanceAnalytics",
         "RSQLite",
@@ -26732,7 +26658,6 @@
         "GGally",
         "MCMCglmm",
         "MCMCpack",
-        "MatrixModels",
         "dplyr",
         "forcats",
         "ggmcmc",
@@ -26962,7 +26887,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "SummarizedExperiment",
         "Wrench",
@@ -27354,7 +27278,6 @@
     ],
     "MIMOSA": [
         "MCMCpack",
-        "MatrixModels",
         "dplyr",
         "fBasics",
         "ggplot2",
@@ -27722,7 +27645,6 @@
         "KEGGREST",
         "MCL",
         "MatrixCorrelation",
-        "MatrixModels",
         "MetBrewer",
         "NMF",
         "RSQLite",
@@ -27864,7 +27786,6 @@
         "IRanges",
         "KEGGREST",
         "MCL",
-        "MatrixModels",
         "MetBrewer",
         "RSQLite",
         "ReactomePA",
@@ -28313,7 +28234,6 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "MatrixModels",
         "TMB",
         "Wrench",
         "broom",
@@ -28917,7 +28837,6 @@
         "progress"
     ],
     "MQmetrics": [
-        "MatrixModels",
         "broom",
         "bslib",
         "car",
@@ -29235,7 +29154,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "SummarizedExperiment",
         "VIM",
@@ -29339,7 +29257,6 @@
         "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
-        "MatrixModels",
         "XVector",
         "blob",
         "broom",
@@ -29741,7 +29658,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "TFisher",
         "TH.data",
@@ -29829,7 +29745,6 @@
         "HDO.db",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "MultiAssayExperiment",
         "MultiDataSet",
         "RSQLite",
@@ -30082,7 +29997,6 @@
         "IRanges",
         "KEGGREST",
         "MCMCprecision",
-        "MatrixModels",
         "NMF",
         "RSQLite",
         "Rsamtools",
@@ -30212,7 +30126,6 @@
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
-        "MatrixModels",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -30359,7 +30272,6 @@
         "IRanges",
         "InteractionSet",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -30594,7 +30506,6 @@
     ],
     "NBSplice": [
         "BiocParallel",
-        "MatrixModels",
         "broom",
         "car",
         "dplyr",
@@ -31308,7 +31219,6 @@
         "GenomicRanges",
         "Hmisc",
         "IRanges",
-        "MatrixModels",
         "RcmdrMisc",
         "SummarizedExperiment",
         "XVector",
@@ -31604,7 +31514,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -31874,7 +31783,6 @@
         "IRanges",
         "JADE",
         "KEGGREST",
-        "MatrixModels",
         "MultiDataSet",
         "RSQLite",
         "RSpectra",
@@ -31959,7 +31867,6 @@
         "HelloRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "MultiAssayExperiment",
         "OMICsPCAdata",
         "PerformanceAnalytics",
@@ -32042,7 +31949,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "RSQLite",
         "SummarizedExperiment",
         "XVector",
@@ -32186,7 +32092,6 @@
         "tidyselect"
     ],
     "OncoSimulR": [
-        "MatrixModels",
         "broom",
         "car",
         "dplyr",
@@ -32363,7 +32268,6 @@
     "OpenStats": [
         "AICcmodavg",
         "Hmisc",
-        "MatrixModels",
         "TMB",
         "broom",
         "bslib",
@@ -32641,7 +32545,6 @@
     "orthogene": [
         "DelayedArray",
         "IRanges",
-        "MatrixModels",
         "R.cache",
         "aplot",
         "babelgene",
@@ -32816,7 +32719,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "XVector",
@@ -32959,7 +32861,6 @@
         "HDO.db",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "TFisher",
         "TH.data",
@@ -33319,7 +33220,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "MultiAssayExperiment",
         "RSQLite",
         "SummarizedExperiment",
@@ -33527,7 +33427,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "MatrixModels",
         "XVector",
         "biomformat",
         "fitdistrplus",
@@ -33802,7 +33701,6 @@
         "viridis"
     ],
     "PhenStat": [
-        "MatrixModels",
         "Rfast",
         "SmoothWin",
         "broom",
@@ -33869,7 +33767,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -34326,7 +34223,6 @@
     ],
     "plotGrouper": [
         "Hmisc",
-        "MatrixModels",
         "broom",
         "bslib",
         "car",
@@ -35498,7 +35394,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "R.cache",
         "RSQLite",
         "XVector",
@@ -35707,7 +35602,6 @@
         "Hmisc",
         "IRanges",
         "MSnbase",
-        "MatrixModels",
         "MsCoreUtils",
         "broom",
         "bslib",
@@ -36010,7 +35904,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "MsCoreUtils",
         "SummarizedExperiment",
         "VIM",
@@ -36320,7 +36213,6 @@
         "vroom"
     ],
     "quantsmooth": [
-        "MatrixModels",
         "quantreg"
     ],
     "QuartPAC": [
@@ -37911,7 +37803,6 @@
         "DT",
         "FactoMineR",
         "Hmisc",
-        "MatrixModels",
         "broom",
         "bslib",
         "car",
@@ -38465,7 +38356,6 @@
         "GenomicAlignments",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
@@ -39246,7 +39136,6 @@
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
-        "MatrixModels",
         "PerformanceAnalytics",
         "RSQLite",
         "Rsamtools",
@@ -39345,7 +39234,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "RnaSeqSampleSizeData",
         "Rsamtools",
@@ -39680,7 +39568,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "MultiAssayExperiment",
         "MultiDataSet",
         "SummarizedExperiment",
@@ -39810,7 +39697,6 @@
         "latticeExtra"
     ],
     "RTCGA": [
-        "MatrixModels",
         "broom",
         "bslib",
         "car",
@@ -39898,7 +39784,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "RedeR",
         "SummarizedExperiment",
         "XVector",
@@ -39938,7 +39823,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "RTN",
         "RedeR",
         "SummarizedExperiment",
@@ -39979,7 +39863,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "RTN",
         "RTNduals",
         "RedeR",
@@ -41091,7 +40974,6 @@
     ],
     "scde": [
         "BiocParallel",
-        "MatrixModels",
         "edgeR",
         "extRemes",
         "quantreg"
@@ -41447,7 +41329,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
@@ -43041,7 +42922,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "NMF",
         "PMCMRplus",
         "RSQLite",
@@ -43135,7 +43015,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "Rsamtools",
         "ScaledMatrix",
@@ -43247,7 +43126,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "XVector",
         "annotate",
@@ -43487,7 +43365,6 @@
         "M3Drop",
         "MAST",
         "MCMCprecision",
-        "MatrixModels",
         "ROCR",
         "RSQLite",
         "RcppML",
@@ -44252,7 +44129,6 @@
     ],
     "sparseDOSSA": [
         "MCMCpack",
-        "MatrixModels",
         "gmm",
         "quantreg",
         "tmvtnorm"
@@ -45029,7 +44905,6 @@
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "MetBrewer",
         "RSQLite",
         "XVector",
@@ -46084,7 +45959,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -46290,7 +46164,6 @@
         "vsn"
     ],
     "synergyfinder": [
-        "MatrixModels",
         "SpatialExtremes",
         "TH.data",
         "blob",
@@ -46562,7 +46435,6 @@
         "HiCcompare",
         "IRanges",
         "InteractionSet",
-        "MatrixModels",
         "QDNAseq",
         "Rsamtools",
         "SummarizedExperiment",
@@ -46661,7 +46533,6 @@
         "shiny"
     ],
     "TargetDecoy": [
-        "MatrixModels",
         "broom",
         "bslib",
         "car",
@@ -46866,7 +46737,6 @@
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
-        "MatrixModels",
         "MultiAssayExperiment",
         "RSQLite",
         "Rsamtools",
@@ -47756,7 +47626,6 @@
         "HDF5Array",
         "IRanges",
         "KEGGREST",
-        "MatrixModels",
         "RSQLite",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -48319,7 +48188,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MatrixModels",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TH.data",
@@ -48824,7 +48692,6 @@
         "viridis"
     ],
     "tweeDEseq": [
-        "MatrixModels",
         "cqn",
         "edgeR",
         "quantreg"
@@ -50787,7 +50654,6 @@
         "tibble"
     ],
     "ggpubr": [
-        "MatrixModels",
         "broom",
         "car",
         "cowplot",
@@ -50842,7 +50708,6 @@
         "tibble"
     ],
     "rstatix": [
-        "MatrixModels",
         "broom",
         "car",
         "dplyr",
@@ -50876,7 +50741,6 @@
         "tidyselect"
     ],
     "car": [
-        "MatrixModels",
         "broom",
         "dplyr",
         "knitr",
@@ -50914,9 +50778,7 @@
         "tidyselect",
         "waldo"
     ],
-    "quantreg": [
-        "MatrixModels"
-    ],
+    "quantreg": [],
     "lme4": [
         "nloptr",
         "pillar",
@@ -50932,7 +50794,6 @@
         "tibble",
         "waldo"
     ],
-    "MatrixModels": [],
     "adductData": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -52333,7 +52194,6 @@
         "tibble"
     ],
     "MCMCpack": [
-        "MatrixModels",
         "quantreg"
     ],
     "heatmaply": [
@@ -52490,7 +52350,6 @@
     "tweenr": [],
     "radiant.data": [
         "DT",
-        "MatrixModels",
         "broom",
         "bslib",
         "car",
@@ -52720,7 +52579,6 @@
     ],
     "rms": [
         "Hmisc",
-        "MatrixModels",
         "TH.data",
         "bslib",
         "ggplot2",
@@ -52902,7 +52760,6 @@
         "tidyselect"
     ],
     "drtmle": [
-        "MatrixModels",
         "ROCR",
         "SuperLearner",
         "cvAUC",
@@ -52915,7 +52772,6 @@
         "cvAUC"
     ],
     "np": [
-        "MatrixModels",
         "quantreg"
     ],
     "cvAUC": [
@@ -53201,7 +53057,6 @@
         "blob"
     ],
     "drc": [
-        "MatrixModels",
         "TH.data",
         "broom",
         "car",
@@ -53262,7 +53117,6 @@
     "SpatialTools": [],
     "FactoMineR": [
         "DT",
-        "MatrixModels",
         "broom",
         "bslib",
         "car",
@@ -53296,7 +53150,6 @@
     ],
     "topicmodels": [],
     "ggpmisc": [
-        "MatrixModels",
         "dplyr",
         "ggplot2",
         "ggpp",
@@ -53981,7 +53834,6 @@
     ],
     "skmeans": [],
     "cobs": [
-        "MatrixModels",
         "quantreg"
     ],
     "phylolm": [
@@ -54003,7 +53855,6 @@
     "factoextra": [
         "DT",
         "FactoMineR",
-        "MatrixModels",
         "broom",
         "bslib",
         "car",
@@ -54085,7 +53936,6 @@
     ],
     "contrast": [
         "Hmisc",
-        "MatrixModels",
         "TH.data",
         "bslib",
         "ggplot2",
@@ -54464,7 +54314,6 @@
         "waldo"
     ],
     "metap": [
-        "MatrixModels",
         "TFisher",
         "TH.data",
         "multcomp",
@@ -54474,7 +54323,6 @@
         "sn"
     ],
     "TFisher": [
-        "MatrixModels",
         "quantreg",
         "sn"
     ],
@@ -54484,7 +54332,6 @@
         "multtest"
     ],
     "sn": [
-        "MatrixModels",
         "quantreg"
     ],
     "DMwR2": [
@@ -54600,7 +54447,6 @@
         "tibble"
     ],
     "VIM": [
-        "MatrixModels",
         "broom",
         "car",
         "dplyr",
@@ -54933,7 +54779,6 @@
         "prodlim"
     ],
     "NHPoisson": [
-        "MatrixModels",
         "broom",
         "car",
         "dplyr",
@@ -54974,7 +54819,6 @@
         "stringr"
     ],
     "survminer": [
-        "MatrixModels",
         "broom",
         "car",
         "cowplot",
@@ -56279,7 +56123,6 @@
     "rdist": [],
     "RcmdrMisc": [
         "Hmisc",
-        "MatrixModels",
         "broom",
         "bslib",
         "car",
@@ -57282,7 +57125,6 @@
         "paradox"
     ],
     "survivalAnalysis": [
-        "MatrixModels",
         "broom",
         "car",
         "cowplot",
