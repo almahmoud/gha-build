@@ -21699,7 +21699,6 @@
         "GenomicRanges",
         "Rsamtools"
     ],
-    "rbsurv": [],
     "Rcade": [
         "Biostrings",
         "GenomicAlignments",
