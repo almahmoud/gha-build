@@ -1650,9 +1650,7 @@
     "fcScan": [
         "VariantAnnotation"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "ffpe": [
         "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
@@ -4349,7 +4347,6 @@
         "Seurat",
         "SoupX",
         "TENxPBMCData",
-        "TSCAN",
         "celda",
         "celldex",
         "ensembldb",
@@ -4817,7 +4814,6 @@
         "sva"
     ],
     "tRNAscanImport": [],
-    "TSCAN": [],
     "tscR": [
         "kmlShape"
     ],
