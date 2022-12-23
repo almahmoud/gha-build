@@ -34499,7 +34499,6 @@
         "PSCBS",
         "R.cache",
         "R.filesets",
-        "R.huge",
         "R.rsp",
         "RSQLite",
         "XVector",
@@ -49088,7 +49087,6 @@
         "PSCBS",
         "R.cache",
         "R.filesets",
-        "R.huge",
         "R.rsp",
         "RSQLite",
         "WGCNA",
@@ -58430,7 +58428,6 @@
         "PSCBS",
         "R.cache",
         "R.filesets",
-        "R.huge",
         "R.rsp",
         "aroma.apd",
         "aroma.core",
@@ -58446,9 +58443,7 @@
     "R.filesets": [
         "R.cache"
     ],
-    "aroma.apd": [
-        "R.huge"
-    ],
+    "aroma.apd": [],
     "R.rsp": [
         "R.cache"
     ],
@@ -58456,7 +58451,6 @@
         "R.cache",
         "aroma.light"
     ],
-    "R.huge": [],
     "opencpu": [
         "httpuv",
         "knitr",
