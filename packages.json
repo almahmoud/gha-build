@@ -255,8 +255,7 @@
         "reactome.db"
     ],
     "AUCell": [
-        "GSEABase",
-        "mixtools"
+        "GSEABase"
     ],
     "BaalChIP": [
         "doBy",
@@ -280,7 +279,6 @@
     "bandle": [
         "MLInterfaces",
         "genefilter",
-        "mixtools",
         "pRoloc"
     ],
     "basecallQC": [],
@@ -630,7 +628,6 @@
     ],
     "CBEA": [
         "TreeSummarizedExperiment",
-        "mixtools",
         "treeio"
     ],
     "cBioPortalData": [
@@ -863,7 +860,6 @@
         "SGSeq"
     ],
     "CiteFuse": [
-        "mixtools",
         "propr",
         "scran"
     ],
@@ -1078,7 +1074,6 @@
     "cosmosR": [
         "GSEABase",
         "dorothea",
-        "mixtools",
         "viper"
     ],
     "countsimQC": [
@@ -1427,7 +1422,6 @@
         "genefilter"
     ],
     "diggit": [
-        "mixtools",
         "viper"
     ],
     "Dino": [
@@ -1536,7 +1530,6 @@
         "easierData",
         "ggpubr",
         "lme4",
-        "mixtools",
         "nloptr",
         "pbkrtest",
         "progeny",
@@ -2040,9 +2033,7 @@
         "survminer",
         "treeio"
     ],
-    "gemini": [
-        "mixtools"
-    ],
+    "gemini": [],
     "genbankr": [
         "BSgenome",
         "GenomicFeatures",
@@ -2100,9 +2091,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "genomicInstability": [
-        "mixtools"
-    ],
+    "genomicInstability": [],
     "GenomicInteractionNodes": [
         "GenomicFeatures"
     ],
@@ -2589,7 +2578,6 @@
         "ggpubr",
         "ggtree",
         "lme4",
-        "mixtools",
         "nloptr",
         "pbkrtest",
         "rstatix",
@@ -3311,8 +3299,7 @@
     ],
     "mosbi": [],
     "Motif2Site": [
-        "BSgenome",
-        "mixtools"
+        "BSgenome"
     ],
     "motifbreakR": [
         "BSgenome",
@@ -4056,13 +4043,11 @@
     "projectR": [],
     "pRoloc": [
         "MLInterfaces",
-        "genefilter",
-        "mixtools"
+        "genefilter"
     ],
     "pRolocGUI": [
         "MLInterfaces",
         "genefilter",
-        "mixtools",
         "pRoloc"
     ],
     "PROMISE": [
@@ -4250,8 +4235,7 @@
     ],
     "RcisTarget": [
         "AUCell",
-        "GSEABase",
-        "mixtools"
+        "GSEABase"
     ],
     "Rcpi": [],
     "Rcwl": [
@@ -4613,7 +4597,6 @@
     "RTN": [
         "car",
         "lme4",
-        "mixtools",
         "nloptr",
         "pbkrtest",
         "viper"
@@ -4622,7 +4605,6 @@
         "RTN",
         "car",
         "lme4",
-        "mixtools",
         "nloptr",
         "pbkrtest",
         "viper"
@@ -4632,7 +4614,6 @@
         "RTNduals",
         "car",
         "lme4",
-        "mixtools",
         "nloptr",
         "pbkrtest",
         "viper"
@@ -4695,8 +4676,7 @@
     ],
     "scClassify": [
         "Cepo",
-        "GSEABase",
-        "mixtools"
+        "GSEABase"
     ],
     "scDataviz": [
         "Seurat"
@@ -4742,8 +4722,7 @@
     "scone": [
         "EDASeq",
         "GenomicFeatures",
-        "RUVSeq",
-        "mixtools"
+        "RUVSeq"
     ],
     "SCOPE": [
         "BSgenome",
@@ -5038,7 +5017,6 @@
         "chipseq"
     ],
     "sojourner": [
-        "mixtools",
         "sampSurf"
     ],
     "SomaticSignatures": [
@@ -5634,9 +5612,7 @@
     "vidger": [
         "DESeq2"
     ],
-    "viper": [
-        "mixtools"
-    ],
+    "viper": [],
     "ViSEAGO": [
         "DiagrammeR",
         "heatmaply",
@@ -5671,7 +5647,6 @@
         "GreyListChIP",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ensembldb",
-        "mixtools",
         "regioneR",
         "systemPipeR",
         "viper"
@@ -5848,7 +5823,6 @@
         "GenomicFeatures"
     ],
     "reactome.db": [],
-    "mixtools": [],
     "doBy": [
         "lme4",
         "nloptr",
@@ -5992,7 +5966,6 @@
         "minfi"
     ],
     "dorothea": [
-        "mixtools",
         "viper"
     ],
     "crisprScoreData": [
