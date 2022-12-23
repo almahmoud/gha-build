@@ -10081,7 +10081,6 @@
         "ggdendro",
         "minfi",
         "org.Hs.eg.db",
-        "pandaR",
         "quantro",
         "readr",
         "rhdf5",
@@ -10651,7 +10650,6 @@
         "waldo"
     ],
     "pairkat": [],
-    "pandaR": [],
     "panelcn.mops": [
         "cn.mops",
         "exomeCopy"
