@@ -9924,7 +9924,6 @@
         "vctrs",
         "vroom"
     ],
-    "convert": [],
     "copa": [],
     "copynumber": [
         "GenomeInfoDb",
@@ -25366,9 +25365,7 @@
         "vctrs",
         "vroom"
     ],
-    "maigesPack": [
-        "convert"
-    ],
+    "maigesPack": [],
     "MAIT": [
         "BiocParallel",
         "CAMERA",
@@ -50884,8 +50881,7 @@
         "vctrs"
     ],
     "TurboNorm": [
-        "affy",
-        "convert"
+        "affy"
     ],
     "TVTB": [
         "AnnotationDbi",
