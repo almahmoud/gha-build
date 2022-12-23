@@ -3201,7 +3201,6 @@
         "viridis"
     ],
     "CNVgears": [],
-    "cnvGSA": [],
     "CNViz": [
         "AnnotationDbi",
         "BSgenome",
