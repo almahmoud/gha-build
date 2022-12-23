@@ -185,7 +185,6 @@
         "nloptr",
         "scater",
         "scuttle",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -584,7 +583,6 @@
         "rhdf5",
         "scater",
         "scuttle",
-        "tidytree",
         "treeio",
         "viridis",
         "zinbwave"
@@ -666,7 +664,6 @@
         "pbkrtest",
         "radiant.data",
         "reactome.db",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -1053,7 +1050,6 @@
         "biomaRt",
         "ggtree",
         "rtracklayer",
-        "tidytree",
         "treeio"
     ],
     "Cardinal": [],
@@ -1104,7 +1100,6 @@
         "BiocSet",
         "TreeSummarizedExperiment",
         "mixtools",
-        "tidytree",
         "treeio"
     ],
     "cBioPortalData": [
@@ -1192,7 +1187,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -1237,7 +1231,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -1399,7 +1392,6 @@
         "ggraph",
         "ggtree",
         "rtracklayer",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -1546,7 +1538,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -1643,7 +1634,6 @@
     ],
     "cogeqc": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "Cogito": [
@@ -1744,7 +1734,6 @@
         "scater",
         "scran",
         "scuttle",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -2206,7 +2195,6 @@
         "org.Mm.eg.db",
         "pathview",
         "sva",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -2619,7 +2607,6 @@
         "ggtree",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -2664,7 +2651,6 @@
         "ggtree",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -2750,7 +2736,6 @@
         "HDO.db",
         "ggraph",
         "ggtree",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -2776,7 +2761,6 @@
         "pipeFrame",
         "rstatix",
         "rtracklayer",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -2820,7 +2804,6 @@
         "ggtree",
         "interactiveDisplayBase",
         "rtracklayer",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -2862,7 +2845,6 @@
         "ggtree",
         "graphite",
         "reactome.db",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -2994,7 +2976,6 @@
         "motifmatchr",
         "pipeFrame",
         "rtracklayer",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -3032,7 +3013,6 @@
         "orthogene",
         "pbkrtest",
         "rstatix",
-        "tidytree",
         "treeio"
     ],
     "ExCluster": [
@@ -3072,7 +3052,6 @@
         "TreeSummarizedExperiment",
         "rhdf5",
         "scuttle",
-        "tidytree",
         "treeio"
     ],
     "ExploreModelMatrix": [],
@@ -3111,7 +3090,6 @@
         "gprofiler2",
         "org.Hs.eg.db",
         "reactome.db",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -3147,7 +3125,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -3419,7 +3396,6 @@
         "pbkrtest",
         "rstatix",
         "survminer",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -3663,7 +3639,6 @@
     "ggmsa": [
         "ggalt",
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "GGPA": [],
@@ -3675,17 +3650,14 @@
         "scuttle"
     ],
     "ggtree": [
-        "tidytree",
         "treeio"
     ],
     "ggtreeDendro": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "ggtreeExtra": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "girafe": [
@@ -3799,7 +3771,6 @@
         "ggtree",
         "goProfiles",
         "org.Hs.eg.db",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -4339,7 +4310,6 @@
         "scater",
         "scran",
         "scuttle",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -4498,7 +4468,6 @@
     ],
     "LinTInd": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "lipidr": [
@@ -4574,7 +4543,6 @@
     ],
     "LymphoSeq": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "M3Drop": [
@@ -4665,7 +4633,6 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "pathview",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -4869,7 +4836,6 @@
         "ggraph",
         "ggtree",
         "interactiveDisplayBase",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -4950,7 +4916,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -5110,7 +5075,6 @@
         "reactome.db",
         "rhdf5",
         "rtracklayer",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -5181,13 +5145,11 @@
         "TreeSummarizedExperiment",
         "scater",
         "scuttle",
-        "tidytree",
         "treeio",
         "viridis"
     ],
     "miaSim": [
         "TreeSummarizedExperiment",
-        "tidytree",
         "treeio"
     ],
     "miaViz": [
@@ -5197,7 +5159,6 @@
         "mia",
         "scater",
         "scuttle",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -5244,7 +5205,6 @@
         "rhdf5",
         "scater",
         "scuttle",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -5257,7 +5217,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -5265,7 +5224,6 @@
         "coin",
         "ggtree",
         "ggtreeExtra",
-        "tidytree",
         "treeio"
     ],
     "midasHLA": [
@@ -5409,7 +5367,6 @@
         "rstatix",
         "s4vd",
         "subspace",
-        "tidytree",
         "tidyverse",
         "treeio",
         "viridis"
@@ -5438,7 +5395,6 @@
         "pbkrtest",
         "reactome.db",
         "rstatix",
-        "tidytree",
         "tidyverse",
         "treeio",
         "viridis"
@@ -5565,7 +5521,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -5815,7 +5770,6 @@
         "graphite",
         "reactome.db",
         "ropls",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -5999,7 +5953,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -6317,7 +6270,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "tidytree",
         "treeio"
     ],
     "Oscope": [
@@ -6381,7 +6333,6 @@
         "ggraph",
         "ggtree",
         "org.Hs.eg.db",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -6490,7 +6441,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -6530,7 +6480,6 @@
     ],
     "philr": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "PhIPData": [],
@@ -6576,7 +6525,6 @@
         "ggtree",
         "graphite",
         "reactome.db",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -6781,7 +6729,6 @@
         "rGREAT",
         "rtracklayer",
         "soGGi",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -7154,7 +7101,6 @@
         "ggtree",
         "graphite",
         "reactome.db",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -7633,7 +7579,6 @@
         "rtracklayer",
         "sva",
         "systemPipeR",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -7848,7 +7793,6 @@
     "scBubbletree": [
         "Seurat",
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "scCB2": [
@@ -8026,7 +7970,6 @@
         "nnTensor",
         "reactome.db",
         "schex",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -8070,7 +8013,6 @@
         "ggraph",
         "ggtree",
         "rtracklayer",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -8208,7 +8150,6 @@
         "org.Hs.eg.db",
         "reactome.db",
         "rhdf5",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -8344,7 +8285,6 @@
         "scran",
         "scuttle",
         "sva",
-        "tidytree",
         "treeio",
         "viridis",
         "zinbwave"
@@ -8378,7 +8318,6 @@
     ],
     "sitePath": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "skewr": [
@@ -8857,7 +8796,6 @@
         "annotate",
         "geneplotter",
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "TADCompare": [
@@ -8873,7 +8811,6 @@
     ],
     "tanggle": [
         "ggtree",
-        "tidytree",
         "treeio"
     ],
     "TAPseq": [
@@ -8949,7 +8886,6 @@
         "rtracklayer",
         "sesame",
         "sesameData",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -9043,7 +8979,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "tidytree",
         "treeio",
         "viridis"
     ],
@@ -9170,9 +9105,7 @@
         "slingshot",
         "viridis"
     ],
-    "treeio": [
-        "tidytree"
-    ],
+    "treeio": [],
     "treekoR": [
         "FlowSOM",
         "car",
@@ -9183,11 +9116,9 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "tidytree",
         "treeio"
     ],
     "TreeSummarizedExperiment": [
-        "tidytree",
         "treeio"
     ],
     "trena": [
@@ -9668,7 +9599,6 @@
         "lme4",
         "nloptr"
     ],
-    "tidytree": [],
     "ReorderCluster": [],
     "caret": [],
     "org.Sc.sgd.db": [],
