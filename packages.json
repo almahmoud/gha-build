@@ -642,7 +642,6 @@
     "InPAS": [
         "cleanUpdTSeq"
     ],
-    "INSPEcT": [],
     "InTAD": [
         "ggpubr",
         "rstatix"
