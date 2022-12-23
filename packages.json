@@ -4718,9 +4718,7 @@
         "annotate",
         "geneplotter"
     ],
-    "HubPub": [
-        "available"
-    ],
+    "HubPub": [],
     "HumanTranscriptomeCompendium": [
         "ssrch"
     ],
@@ -11825,7 +11823,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "available": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "AnnotationDbi",
         "GenomicFeatures",
