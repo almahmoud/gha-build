@@ -1440,7 +1440,6 @@
         "rhdf5",
         "viridis"
     ],
-    "HiLDA": [],
     "hipathia": [
         "coin"
     ],
@@ -3023,9 +3022,7 @@
         "ggraph",
         "viridis"
     ],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "seq2pathway": [
         "Hmisc",
         "WGCNA",
