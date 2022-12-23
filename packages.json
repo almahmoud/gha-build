@@ -11851,7 +11851,6 @@
         "glmGamPoi",
         "rhdf5"
     ],
-    "transite": [],
     "tRanslatome": [
         "AnnotationDbi",
         "DESeq2",
