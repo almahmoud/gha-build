@@ -47427,7 +47427,6 @@
     ],
     "scde": [
         "BiocParallel",
-        "Lmoments",
         "MatrixModels",
         "edgeR",
         "extRemes",
@@ -66292,10 +66291,7 @@
         "tidyselect"
     ],
     "copula": [],
-    "extRemes": [
-        "Lmoments"
-    ],
-    "Lmoments": [],
+    "extRemes": [],
     "torch": [],
     "sparsepca": [
         "rsvd"
