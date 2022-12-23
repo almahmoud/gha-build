@@ -27196,7 +27196,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "anocva",
         "ape",
         "aplot",
         "bbmle",
@@ -67997,7 +67996,6 @@
         "stringr",
         "vctrs"
     ],
-    "anocva": [],
     "AdaptGauss": [
         "DataVisualizations",
         "bslib",
