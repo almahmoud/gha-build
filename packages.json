@@ -3429,7 +3429,6 @@
         "nlme",
         "openssl",
         "org.Hs.eg.db",
-        "parody",
         "pillar",
         "plyr",
         "prettyunits",
@@ -71270,7 +71269,6 @@
         "sendmailR",
         "vctrs"
     ],
-    "parody": [],
     "PAST": [
         "Biobase",
         "BiocIO",
