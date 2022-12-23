@@ -491,8 +491,7 @@
         "rmarkdown",
         "shiny",
         "shinyjs",
-        "tidyr",
-        "umap"
+        "tidyr"
     ],
     "annaffy": [
         "AnnotationDbi",
@@ -3076,7 +3075,6 @@
         "shiny",
         "spatstat.explore",
         "tidyr",
-        "umap",
         "viridis"
     ],
     "cellity": [
@@ -3788,7 +3786,6 @@
         "shinyhelper",
         "shinyjs",
         "tidyr",
-        "umap",
         "viridis",
         "waiter"
     ],
@@ -9591,7 +9588,6 @@
         "shinybusy",
         "testthat",
         "tidyr",
-        "umap",
         "viridis",
         "vroom",
         "waldo"
@@ -10759,8 +10755,7 @@
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "ggrepel",
-        "umap"
+        "ggrepel"
     ],
     "hiReadsProcessor": [
         "BSgenome",
@@ -11082,7 +11077,6 @@
         "dplyr",
         "ggplot2",
         "readxl",
-        "umap",
         "viridis"
     ],
     "imageHTS": [
@@ -11402,7 +11396,6 @@
         "shinyjs",
         "testthat",
         "tidyr",
-        "umap",
         "usethis",
         "viridis",
         "visNetwork",
@@ -12296,8 +12289,7 @@
         "treeio"
     ],
     "M3C": [
-        "ggplot2",
-        "umap"
+        "ggplot2"
     ],
     "M3Drop": [
         "Hmisc",
@@ -12675,7 +12667,6 @@
         "shinyhelper",
         "shinyjs",
         "tidyr",
-        "umap",
         "viridis",
         "vsn"
     ],
@@ -19094,8 +19085,7 @@
         "KEGGREST"
     ],
     "RCSL": [
-        "ggplot2",
-        "umap"
+        "ggplot2"
     ],
     "Rcwl": [
         "DiagrammeR",
@@ -19359,8 +19349,7 @@
         "ggplot2",
         "ggrepel",
         "regioneR",
-        "rtracklayer",
-        "umap"
+        "rtracklayer"
     ],
     "regionReport": [
         "AnnotationDbi",
@@ -20545,8 +20534,7 @@
         "ggplot2",
         "ggrepel",
         "shiny",
-        "treemap",
-        "umap"
+        "treemap"
     ],
     "Rsamtools": [
         "Biostrings",
@@ -21150,8 +21138,7 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "tidyr",
-        "umap"
+        "tidyr"
     ],
     "scDblFinder": [
         "BiocSingular",
@@ -23070,7 +23057,6 @@
         "scuttle",
         "spatstat.explore",
         "tidyr",
-        "umap",
         "vroom"
     ],
     "spicyR": [
@@ -23342,7 +23328,6 @@
         "ggplot2",
         "htmlwidgets",
         "rmarkdown",
-        "umap",
         "visNetwork"
     ],
     "SRAdb": [
@@ -24670,8 +24655,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "ggplot2",
-        "ggrepel",
-        "umap"
+        "ggrepel"
     ],
     "tomoseqr": [
         "BiocFileCache",
@@ -26342,7 +26326,6 @@
         "ggplot2",
         "shiny"
     ],
-    "umap": [],
     "GUniFrac": [
         "ggplot2",
         "ggrepel"
