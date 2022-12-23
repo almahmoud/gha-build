@@ -7186,7 +7186,6 @@
         "rstatix",
         "shinyFeedback",
         "shinyFiles",
-        "shinyalert",
         "shinycssloaders",
         "shinydashboard",
         "shinyjs",
@@ -9890,7 +9889,6 @@
         "rstatix",
         "rtracklayer",
         "shinyBS",
-        "shinyalert",
         "shinybusy",
         "shinydashboard",
         "shinyjqui",
@@ -14198,7 +14196,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shinyalert",
         "shinycssloaders",
         "shinyjs",
         "sva",
@@ -17585,7 +17582,6 @@
     ],
     "concaveman": [],
     "golem": [],
-    "shinyalert": [],
     "wordcloud2": [
         "htmlwidgets"
     ],
