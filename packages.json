@@ -1240,7 +1240,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "PathoStat": [],
     "pcaExplorer": [],
     "PDATK": [
         "car",
