@@ -1266,7 +1266,6 @@
     "CAMERA": [
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "affy",
         "viridis",
         "vsn",
@@ -1867,7 +1866,6 @@
     ],
     "cliqueMS": [
         "MSnbase",
-        "MsFeatures",
         "affy",
         "vsn",
         "xcms"
@@ -2281,7 +2279,6 @@
     ],
     "cosmiq": [
         "MSnbase",
-        "MsFeatures",
         "affy",
         "faahKO",
         "vsn",
@@ -3889,7 +3886,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "affy",
         "viridis",
         "vsn",
@@ -5227,7 +5223,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "affy",
         "viridis",
         "vsn",
@@ -5493,7 +5488,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "affy",
         "viridis",
         "vsn",
@@ -5675,7 +5669,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "affy",
         "agricolae",
         "caret",
@@ -5922,7 +5915,6 @@
     ],
     "Metab": [
         "MSnbase",
-        "MsFeatures",
         "affy",
         "vsn",
         "xcms"
@@ -5986,7 +5978,6 @@
         "CAMERA",
         "Hmisc",
         "MSnbase",
-        "MsFeatures",
         "affy",
         "viridis",
         "vsn",
@@ -6678,7 +6669,6 @@
     ],
     "MobilityTransformR": [
         "MSnbase",
-        "MsFeatures",
         "affy",
         "vsn",
         "xcms"
@@ -6813,7 +6803,6 @@
         "QFeatures",
         "plotly"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "AnnotationDbi",
         "BSgenome",
@@ -7211,7 +7200,6 @@
     ],
     "ncGTW": [
         "MSnbase",
-        "MsFeatures",
         "affy",
         "vsn",
         "xcms"
@@ -8182,7 +8170,6 @@
     ],
     "proFIA": [
         "MSnbase",
-        "MsFeatures",
         "MultiDataSet",
         "affy",
         "plotly",
@@ -9031,7 +9018,6 @@
     ],
     "Risa": [
         "MSnbase",
-        "MsFeatures",
         "affy",
         "vsn",
         "xcms"
@@ -11620,7 +11606,6 @@
     "wppi": [],
     "xcms": [
         "MSnbase",
-        "MsFeatures",
         "affy",
         "vsn"
     ],
@@ -12257,7 +12242,6 @@
     ],
     "faahKO": [
         "MSnbase",
-        "MsFeatures",
         "affy",
         "vsn",
         "xcms"
