@@ -10466,7 +10466,6 @@
     "scuttle": [
         "SingleCellExperiment"
     ],
-    "SDAMS": [],
     "segmenter": [
         "AnnotationDbi",
         "ChIPseeker",
