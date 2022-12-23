@@ -5299,9 +5299,7 @@
         "viridis",
         "vsn"
     ],
-    "NormqPCR": [
-        "qpcR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "rtracklayer"
     ],
@@ -8953,7 +8951,6 @@
         "pbkrtest",
         "viridis"
     ],
-    "qpcR": [],
     "NxtIRFdata": [
         "AnnotationHub",
         "ExperimentHub",
