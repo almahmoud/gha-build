@@ -5220,7 +5220,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "biomformat",
-        "cobs",
         "ggplot2",
         "phyloseq",
         "reshape2",
@@ -9241,7 +9240,6 @@
         "SGSeq",
         "SummarizedExperiment",
         "biomaRt",
-        "cobs",
         "cowplot",
         "dbplyr",
         "dplyr",
@@ -32246,7 +32244,6 @@
         "dplyr",
         "tibble"
     ],
-    "cobs": [],
     "rio": [
         "cellranger",
         "forcats",
