@@ -24216,7 +24216,6 @@
         "purrr",
         "rematch2",
         "rhdf5",
-        "scam",
         "scuttle",
         "sf",
         "spatstat.explore",
@@ -46009,7 +46008,6 @@
         "purrr",
         "rematch2",
         "rhdf5",
-        "scam",
         "scuttle",
         "sf",
         "spatstat.explore",
@@ -57128,7 +57126,6 @@
         "vctrs"
     ],
     "akima": [],
-    "scam": [],
     "LogicReg": [],
     "reldist": [
         "StanHeaders",
