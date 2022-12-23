@@ -8594,7 +8594,6 @@
         "tidyselect",
         "vroom"
     ],
-    "copa": [],
     "copynumber": [
         "GenomeInfoDb",
         "GenomicRanges",
