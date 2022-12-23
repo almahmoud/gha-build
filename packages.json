@@ -14409,7 +14409,6 @@
         "lifecycle",
         "markdown",
         "openssl",
-        "polylabelr",
         "skmeans",
         "stringr",
         "vctrs"
@@ -34291,8 +34290,7 @@
         "RCurl",
         "S4Vectors",
         "XVector",
-        "circlize",
-        "polylabelr"
+        "circlize"
     ],
     "HilbertVis": [],
     "HilbertVisGUI": [
@@ -70523,7 +70521,6 @@
         "nlme",
         "pillar",
         "plyr",
-        "polylabelr",
         "restfulr",
         "rtracklayer",
         "scales",
@@ -90093,10 +90090,8 @@
         "clue"
     ],
     "eulerr": [
-        "RcppArmadillo",
-        "polylabelr"
+        "RcppArmadillo"
     ],
-    "polylabelr": [],
     "alabama": [],
     "cobs": [
         "MatrixModels",
