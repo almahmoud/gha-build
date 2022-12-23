@@ -219,7 +219,6 @@
     "artMS": [
         "MSstats"
     ],
-    "ASICS": [],
     "ASpediaFI": [
         "BSgenome",
         "GenomicFeatures",
