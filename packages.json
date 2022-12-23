@@ -630,7 +630,6 @@
     "bnem": [
         "epiNEM",
         "genefilter",
-        "mnem",
         "sva"
     ],
     "BOBaFIT": [
@@ -1625,7 +1624,6 @@
     ],
     "dce": [
         "epiNEM",
-        "mnem",
         "tidyverse"
     ],
     "ddPCRclust": [
@@ -2196,9 +2194,7 @@
         "minfi",
         "rtracklayer"
     ],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "epistasisGA": [
         "Hmisc",
         "qgraph"
@@ -4141,7 +4137,6 @@
         "nloptr",
         "pbkrtest"
     ],
-    "mnem": [],
     "moanin": [
         "topGO"
     ],
@@ -4499,8 +4494,7 @@
         "Seurat"
     ],
     "nempi": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "NetActivity": [
         "DESeq2",
