@@ -26488,9 +26488,7 @@
         "vctrs",
         "viridis"
     ],
-    "maSigPro": [
-        "venn"
-    ],
+    "maSigPro": [],
     "maskBAD": [
         "Biostrings",
         "GenomeInfoDb",
@@ -60340,7 +60338,6 @@
         "ade4",
         "e1071"
     ],
-    "venn": [],
     "PairedData": [
         "e1071",
         "ggplot2",
