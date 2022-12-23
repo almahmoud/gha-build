@@ -8792,7 +8792,6 @@
         "GO.db",
         "KEGGREST"
     ],
-    "GAprediction": [],
     "GARS": [
         "AnnotationDbi",
         "BiocFileCache",
