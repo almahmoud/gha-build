@@ -83772,7 +83772,6 @@
         "MASS",
         "Matrix",
         "MatrixGenerics",
-        "NMI",
         "R6",
         "RColorBrewer",
         "RCurl",
@@ -170219,7 +170218,6 @@
         "yaml"
     ],
     "countrycode": [],
-    "NMI": [],
     "svd": [],
     "MKmisc": [
         "DEoptimR",
