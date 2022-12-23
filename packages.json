@@ -10550,7 +10550,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "MetaCycle",
         "SummarizedExperiment",
         "UpSetR",
         "VennDiagram",
@@ -45299,7 +45298,6 @@
     "DiffCorr": [
         "multtest"
     ],
-    "MetaCycle": [],
     "fastDummies": [
         "stringr",
         "tibble"
