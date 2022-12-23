@@ -187,9 +187,7 @@
         "rstatix"
     ],
     "CONFESS": [],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "contiBAIT": [],
     "conumee": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -731,9 +729,7 @@
     "NormalyzerDE": [
         "RcmdrMisc"
     ],
-    "octad": [
-        "RUVSeq"
-    ],
+    "octad": [],
     "ODER": [
         "dasper",
         "derfinder",
@@ -868,9 +864,7 @@
     "RiboProfiling": [
         "ggbio"
     ],
-    "ribosomeProfilingQC": [
-        "RUVSeq"
-    ],
+    "ribosomeProfilingQC": [],
     "rifi": [],
     "RIPAT": [
         "karyoploteR"
@@ -927,12 +921,9 @@
         "RTN",
         "RTNduals"
     ],
-    "RUVSeq": [],
     "scanMiRApp": [],
     "scmeth": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "SCOPE": [],
     "scoreInvHap": [],
     "scRecover": [
@@ -1018,9 +1009,7 @@
     "STAN": [
         "Gviz"
     ],
-    "standR": [
-        "RUVSeq"
-    ],
+    "standR": [],
     "stJoincount": [],
     "strandCheckR": [],
     "survtype": [
