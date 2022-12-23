@@ -5951,7 +5951,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "httpcache",
         "knitr",
         "motifStack",
         "readr",
@@ -7250,7 +7249,6 @@
         "dbplyr",
         "dplyr",
         "ensembldb",
-        "httpcache",
         "rtracklayer"
     ],
     "DrugVsDisease": [
@@ -26915,8 +26913,7 @@
         "Biostrings",
         "KEGGREST",
         "dbplyr",
-        "dplyr",
-        "httpcache"
+        "dplyr"
     ],
     "Uniquorn": [
         "AnnotationDbi",
@@ -29484,7 +29481,6 @@
         "knitr",
         "rmarkdown"
     ],
-    "httpcache": [],
     "plsVarSel": [
         "MSQC",
         "htmlwidgets",
