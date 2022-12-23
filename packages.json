@@ -4989,9 +4989,7 @@
         "nloptr",
         "pbkrtest"
     ],
-    "NormqPCR": [
-        "qpcR"
-    ],
+    "NormqPCR": [],
     "normr": [
         "rtracklayer"
     ],
@@ -8467,7 +8465,6 @@
         "nloptr",
         "pbkrtest"
     ],
-    "qpcR": [],
     "NxtIRFdata": [
         "AnnotationHub",
         "ExperimentHub",
