@@ -30051,7 +30051,6 @@
         "R.cache",
         "R.devices",
         "R.filesets",
-        "R.huge",
         "R.rsp",
         "RSQLite",
         "XVector",
@@ -42791,7 +42790,6 @@
         "R.cache",
         "R.devices",
         "R.filesets",
-        "R.huge",
         "R.rsp",
         "RSQLite",
         "WGCNA",
@@ -50719,7 +50717,6 @@
         "R.cache",
         "R.devices",
         "R.filesets",
-        "R.huge",
         "R.rsp",
         "aroma.apd",
         "aroma.core",
@@ -50737,9 +50734,7 @@
     "R.filesets": [
         "R.cache"
     ],
-    "aroma.apd": [
-        "R.huge"
-    ],
+    "aroma.apd": [],
     "R.rsp": [
         "R.cache"
     ],
@@ -50747,7 +50742,6 @@
         "R.cache",
         "aroma.light"
     ],
-    "R.huge": [],
     "genlasso": [],
     "opencpu": [
         "httpuv",
