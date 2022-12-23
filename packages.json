@@ -31984,9 +31984,7 @@
         "XVector",
         "annotate"
     ],
-    "TileDBArray": [
-        "tiledb"
-    ],
+    "TileDBArray": [],
     "tilingArray": [
         "AnnotationDbi",
         "Biostrings",
@@ -38579,7 +38577,6 @@
         "dplyr",
         "tibble"
     ],
-    "tiledb": [],
     "FreqProf": [
         "ggplot2",
         "reshape2",
