@@ -4390,7 +4390,6 @@
         "HDO.db",
         "Hmisc",
         "ReactomePA",
-        "SOMbrero",
         "SPONGE",
         "WGCNA",
         "annotate",
@@ -8386,7 +8385,6 @@
     "BiBitR": [
         "dendextend"
     ],
-    "SOMbrero": [],
     "cvms": [
         "lme4",
         "nloptr"
