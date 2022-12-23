@@ -115,7 +115,6 @@
         "EntropyExplorer"
     ],
     "epimutacions": [],
-    "epivizrStandalone": [],
     "EWCE": [
         "orthogene"
     ],
@@ -201,9 +200,7 @@
     "MetaCyto": [
         "FlowSOM"
     ],
-    "metavizr": [
-        "epivizrStandalone"
-    ],
+    "metavizr": [],
     "MethReg": [],
     "methylCC": [],
     "methylclock": [],
