@@ -14485,7 +14485,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ctc": [],
     "CTDquerier": [
         "BiocFileCache",
         "RSQLite",
@@ -38514,7 +38513,6 @@
         "blob",
         "bslib",
         "clue",
-        "ctc",
         "dbplyr",
         "downloader",
         "dplyr",
@@ -41427,7 +41425,6 @@
         "vctrs"
     ],
     "multiClust": [
-        "ctc",
         "dendextend",
         "ggplot2",
         "lifecycle",
