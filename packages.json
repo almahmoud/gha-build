@@ -2800,7 +2800,6 @@
         "readr",
         "tidyr"
     ],
-    "chromDraw": [],
     "ChromHeatMap": [
         "AnnotationDbi",
         "GenomicAlignments",
