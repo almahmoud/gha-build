@@ -4496,7 +4496,6 @@
         "dbplyr",
         "dplyr",
         "genefu",
-        "iC10",
         "ipred",
         "survcomp"
     ],
@@ -8648,7 +8647,6 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "iC10",
         "ipred",
         "survcomp"
     ],
@@ -16401,7 +16399,6 @@
         "ggtext",
         "hardhat",
         "htmlwidgets",
-        "iC10",
         "ipred",
         "lme4",
         "nloptr",
@@ -21163,7 +21160,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "iC10",
         "ipred",
         "lme4",
         "nloptr",
@@ -26231,7 +26227,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "iC10": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
