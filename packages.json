@@ -2993,9 +2993,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DEGreport": [
         "AnnotationDbi",
         "DESeq2",
@@ -7794,7 +7792,6 @@
         "vsn",
         "xcms"
     ],
-    "NCIgraph": [],
     "nearBynding": [
         "AnnotationDbi",
         "GenomicAlignments",
