@@ -15,7 +15,6 @@
         "annotate",
         "blob",
         "genefilter",
-        "glmnet",
         "multtest"
     ],
     "a4Base": [
@@ -31,17 +30,13 @@
         "annotate",
         "blob",
         "genefilter",
-        "glmnet",
         "multtest"
     ],
     "a4Classif": [
         "ROCR",
-        "a4Core",
-        "glmnet"
+        "a4Core"
     ],
-    "a4Core": [
-        "glmnet"
-    ],
+    "a4Core": [],
     "ABarray": [
         "multtest"
     ],
@@ -210,8 +205,7 @@
         "SAVER",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "glmnet"
+        "XVector"
     ],
     "adSplit": [
         "AnnotationDbi",
@@ -446,7 +440,6 @@
         "ggplot2",
         "ggrastr",
         "ggrepel",
-        "glmnet",
         "pillar",
         "ragg",
         "scater",
@@ -633,7 +626,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "glmnet",
         "hms",
         "htmlwidgets",
         "interactiveDisplayBase",
@@ -809,7 +801,6 @@
         "geneplotter",
         "ggplot2",
         "ggrepel",
-        "glmnet",
         "hardhat",
         "htmlwidgets",
         "ipred",
@@ -1427,7 +1418,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "glmnet",
         "htmlwidgets",
         "knitr",
         "pillar",
@@ -2540,7 +2530,6 @@
         "ggrepel",
         "ggridges",
         "gld",
-        "glmnet",
         "hms",
         "htmlTable",
         "htmlwidgets",
@@ -3320,7 +3309,6 @@
         "blob",
         "bslib",
         "ggplot2",
-        "glmnet",
         "htmlTable",
         "htmlwidgets",
         "imager",
@@ -9017,7 +9005,6 @@
     "CytoDx": [
         "dplyr",
         "flowCore",
-        "glmnet",
         "pillar",
         "tibble",
         "tidyselect"
@@ -10144,8 +10131,7 @@
         "viridis"
     ],
     "DepInfeR": [
-        "BiocParallel",
-        "glmnet"
+        "BiocParallel"
     ],
     "DEqMS": [
         "ggplot2",
@@ -12943,7 +12929,6 @@
         "dplyr",
         "fgsea",
         "ggplot2",
-        "glmnet",
         "hms",
         "pillar",
         "prodlim",
@@ -13723,7 +13708,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "glmnet",
         "hms",
         "patchwork",
         "pillar",
@@ -14466,9 +14450,7 @@
         "XVector",
         "blob"
     ],
-    "GAprediction": [
-        "glmnet"
-    ],
+    "GAprediction": [],
     "GARS": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -15785,7 +15767,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "glmnet",
         "hms",
         "pillar",
         "progress",
@@ -16127,7 +16108,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "glmnet",
         "gridtext",
         "hms",
         "knitr",
@@ -16721,9 +16701,7 @@
         "restfulr",
         "rtracklayer"
     ],
-    "GRridge": [
-        "glmnet"
-    ],
+    "GRridge": [],
     "GSCA": [
         "bslib",
         "ggplot2",
@@ -17526,12 +17504,8 @@
         "viridis",
         "vroom"
     ],
-    "hierGWAS": [
-        "glmnet"
-    ],
-    "hierinf": [
-        "glmnet"
-    ],
+    "hierGWAS": [],
+    "hierinf": [],
     "HilbertCurve": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -20179,7 +20153,6 @@
         "dplyr",
         "ggplot2",
         "glmmTMB",
-        "glmnet",
         "knitr",
         "lme4",
         "lmerTest",
@@ -20220,7 +20193,6 @@
         "dplyr",
         "ggplot2",
         "glmmTMB",
-        "glmnet",
         "htmlTable",
         "htmlwidgets",
         "knitr",
@@ -21098,7 +21070,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "glmnet",
         "hms",
         "illuminaio",
         "knitr",
@@ -21604,9 +21575,7 @@
         "tibble",
         "tidyselect"
     ],
-    "metagenomeSeq": [
-        "glmnet"
-    ],
+    "metagenomeSeq": [],
     "metaMS": [
         "BiocParallel",
         "CAMERA",
@@ -21805,7 +21774,6 @@
         "epivizrData",
         "epivizrStandalone",
         "ggplot2",
-        "glmnet",
         "hms",
         "metagenomeSeq",
         "multtest",
@@ -22699,7 +22667,6 @@
         "XVector",
         "biomformat",
         "ggplot2",
-        "glmnet",
         "metagenomeSeq",
         "multtest",
         "phyloseq",
@@ -22734,7 +22701,6 @@
         "forcats",
         "geneplotter",
         "ggplot2",
-        "glmnet",
         "heatmaply",
         "hms",
         "htmlwidgets",
@@ -22814,7 +22780,6 @@
         "ggsignif",
         "ggtree",
         "gld",
-        "glmnet",
         "hardhat",
         "hms",
         "htmlTable",
@@ -23284,7 +23249,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "glmnet",
         "hms",
         "htmlTable",
         "htmlwidgets",
@@ -23402,7 +23366,6 @@
         "ggtree",
         "ggvis",
         "ggwordcloud",
-        "glmnet",
         "googledrive",
         "googlesheets4",
         "graphite",
@@ -23514,7 +23477,6 @@
         "ggsci",
         "ggsignif",
         "ggtree",
-        "glmnet",
         "googledrive",
         "googlesheets4",
         "graphite",
@@ -23870,7 +23832,6 @@
         "dplyr",
         "ggplot2",
         "glmmTMB",
-        "glmnet",
         "knitr",
         "lme4",
         "lmerTest",
@@ -24052,7 +24013,6 @@
         "annotate",
         "blob",
         "ggplot2",
-        "glmnet",
         "hms",
         "pillar",
         "progress",
@@ -26070,7 +26030,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "glmnet",
         "pillar",
         "purrr",
         "reshape2",
@@ -26083,7 +26042,6 @@
         "ICS",
         "ICSNP",
         "ggplot2",
-        "glmnet",
         "multtest",
         "network",
         "pillar",
@@ -26811,7 +26769,6 @@
         "dplyr",
         "forcats",
         "ggplot2",
-        "glmnet",
         "hardhat",
         "haven",
         "hms",
@@ -26902,7 +26859,6 @@
         "genefilter",
         "ggplot2",
         "ggrepel",
-        "glmnet",
         "htmlTable",
         "htmlwidgets",
         "imputeLCMD",
@@ -27949,7 +27905,6 @@
         "gert",
         "ggplot2",
         "gh",
-        "glmnet",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -28243,8 +28198,7 @@
         "viridis"
     ],
     "pengls": [
-        "BiocParallel",
-        "glmnet"
+        "BiocParallel"
     ],
     "PepsNMR": [
         "ggplot2",
@@ -28657,7 +28611,6 @@
         "ggnetwork",
         "ggplot2",
         "ggrepel",
-        "glmnet",
         "hardhat",
         "hms",
         "ipred",
@@ -29115,7 +29068,6 @@
         "geneplotter",
         "ggplot2",
         "ggrepel",
-        "glmnet",
         "hardhat",
         "ipred",
         "knitr",
@@ -30867,7 +30819,6 @@
         "blob",
         "dbplyr",
         "dplyr",
-        "glmnet",
         "hms",
         "pillar",
         "progress",
@@ -31666,8 +31617,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "XVector",
-        "glmnet"
+        "XVector"
     ],
     "regutools": [
         "AnnotationDbi",
@@ -31914,7 +31864,6 @@
         "SummarizedExperiment",
         "XVector",
         "ggplot2",
-        "glmnet",
         "pillar",
         "reshape2",
         "restfulr",
@@ -31968,7 +31917,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "glmnet",
         "htmlTable",
         "htmlwidgets",
         "imputeLCMD",
@@ -32590,7 +32538,6 @@
     ],
     "RIVER": [
         "ggplot2",
-        "glmnet",
         "pillar",
         "tibble"
     ],
@@ -32609,9 +32556,7 @@
         "rtracklayer",
         "stringr"
     ],
-    "RLassoCox": [
-        "glmnet"
-    ],
+    "RLassoCox": [],
     "RLSeq": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -33473,7 +33418,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "glmnet",
         "htmlwidgets",
         "knitr",
         "lme4",
@@ -34617,8 +34561,7 @@
         "tidyselect"
     ],
     "SCFA": [
-        "BiocParallel",
-        "glmnet"
+        "BiocParallel"
     ],
     "scFeatureFilter": [
         "dplyr",
@@ -34647,7 +34590,6 @@
         "dplyr",
         "geneplotter",
         "ggplot2",
-        "glmnet",
         "hardhat",
         "ipred",
         "pillar",
@@ -35119,8 +35061,7 @@
         "BiocParallel",
         "Rmagic",
         "SAVER",
-        "gamlss",
-        "glmnet"
+        "gamlss"
     ],
     "ScreenR": [
         "dplyr",
@@ -36059,7 +36000,6 @@
         "bbotk",
         "biomformat",
         "ggplot2",
-        "glmnet",
         "hms",
         "lme4",
         "lmerTest",
@@ -36249,7 +36189,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "glmnet",
         "gridtext",
         "hms",
         "htmlwidgets",
@@ -37249,9 +37188,7 @@
     "sparseDOSSA": [
         "MCMCpack"
     ],
-    "sparsenetgls": [
-        "glmnet"
-    ],
+    "sparsenetgls": [],
     "SparseSignatures": [
         "BSgenome",
         "BiocParallel",
@@ -37913,7 +37850,6 @@
         "ggridges",
         "ggsci",
         "ggsignif",
-        "glmnet",
         "googledrive",
         "googlesheets4",
         "groupdata2",
@@ -38220,7 +38156,6 @@
         "ggplot2",
         "ggridges",
         "ggstance",
-        "glmnet",
         "haven",
         "hms",
         "kinship2",
@@ -40645,7 +40580,6 @@
         "SummarizedExperiment",
         "XVector",
         "ggplot2",
-        "glmnet",
         "pillar",
         "tibble",
         "vbsr"
@@ -40802,7 +40736,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "glmnet",
         "hms",
         "htmlTable",
         "htmlwidgets",
@@ -42382,7 +42315,6 @@
         "SummarizedExperiment",
         "XVector",
         "dplyr",
-        "glmnet",
         "pillar",
         "purrr",
         "tibble",
@@ -42667,7 +42599,6 @@
         "blob",
         "genefilter"
     ],
-    "glmnet": [],
     "ROCR": [],
     "GO.db": [
         "AnnotationDbi",
@@ -42956,9 +42887,7 @@
         "tibble",
         "tidyselect"
     ],
-    "SAVER": [
-        "glmnet"
-    ],
+    "SAVER": [],
     "affydata": [
         "affy"
     ],
@@ -43016,9 +42945,7 @@
     ],
     "restfulr": [],
     "hms": [],
-    "smurf": [
-        "glmnet"
-    ],
+    "smurf": [],
     "ggbeeswarm": [
         "ggplot2",
         "pillar",
@@ -46945,7 +46872,6 @@
         "rtracklayer"
     ],
     "InvariantCausalPrediction": [
-        "glmnet",
         "mboost"
     ],
     "mboost": [],
@@ -48215,7 +48141,6 @@
         "ggplot2",
         "ggridges",
         "ggstance",
-        "glmnet",
         "haven",
         "hms",
         "kinship2",
