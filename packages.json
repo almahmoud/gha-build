@@ -1363,7 +1363,6 @@
         "AnVIL",
         "AnnotationDbi",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -1388,7 +1387,6 @@
         "AnVIL",
         "AnnotationDbi",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -4192,7 +4190,6 @@
         "DOSE",
         "GO.db",
         "GOSemSim",
-        "GenomicDataCommons",
         "HDO.db",
         "annotate",
         "biomaRt",
@@ -4327,7 +4324,6 @@
         "rtracklayer"
     ],
     "GenomicAlignments": [],
-    "GenomicDataCommons": [],
     "GenomicDistributions": [],
     "GenomicFeatures": [
         "AnnotationDbi",
@@ -5605,7 +5601,6 @@
         "CNEr",
         "GO.db",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "RTCGAToolbox",
@@ -9511,7 +9506,6 @@
     "RTCGAToolbox": [
         "AnnotationDbi",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "TCGAutils",
@@ -11079,7 +11073,6 @@
     "TCGAutils": [
         "AnnotationDbi",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "biomaRt",
@@ -11115,7 +11108,6 @@
         "AnVIL",
         "AnnotationDbi",
         "GenomicAlignments",
-        "GenomicDataCommons",
         "GenomicFeatures",
         "MultiAssayExperiment",
         "TCGAutils",
