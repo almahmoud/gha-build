@@ -18098,7 +18098,6 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "googleAuthR",
         "progress",
         "rtracklayer",
         "tibble"
@@ -33487,7 +33486,6 @@
         "usethis",
         "waldo"
     ],
-    "googleAuthR": [],
     "blme": [
         "lme4",
         "nloptr",
