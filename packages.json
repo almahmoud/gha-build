@@ -1320,7 +1320,6 @@
     "goseq": [
         "geneLenDataBase"
     ],
-    "GOSim": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
