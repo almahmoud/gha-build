@@ -171,7 +171,6 @@
         "Mus.musculus",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "chromVAR",
         "motifmatchr",
         "projectR",
@@ -345,7 +344,6 @@
         "Homo.sapiens",
         "Mus.musculus",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "VariantAnnotation",
         "annotatr",
         "bsseq",
@@ -601,7 +599,6 @@
         "TxDb.Celegans.UCSC.ce6.ensGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene"
     ],
@@ -2972,7 +2969,6 @@
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "enrichplot",
         "ggraph",
@@ -4286,10 +4282,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "mGSZ": [],
-    "Mus.musculus": [
-        "TxDb.Mmusculus.UCSC.mm10.knownGene"
-    ],
-    "TxDb.Mmusculus.UCSC.mm10.knownGene": [],
+    "Mus.musculus": [],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [],
     "assertive": [],
     "pRolocdata": [
