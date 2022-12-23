@@ -13600,7 +13600,6 @@
         "jquerylib",
         "keras",
         "knitr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "mgcv",
@@ -21318,7 +21317,6 @@
         "jquerylib",
         "keras",
         "knitr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "mgcv",
@@ -56571,7 +56569,6 @@
         "jquerylib",
         "keras",
         "knitr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "mgcv",
@@ -57149,7 +57146,6 @@
         "jquerylib",
         "keras",
         "knitr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "mgcv",
@@ -57770,7 +57766,6 @@
         "interactiveDisplayBase",
         "jquerylib",
         "knitr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "mgcv",
@@ -63437,7 +63432,6 @@
     ],
     "textstem": [
         "dplyr",
-        "koRpus",
         "koRpus.lang.en",
         "lexicon",
         "pillar",
@@ -63454,10 +63448,7 @@
         "MatrixExtra"
     ],
     "mlapi": [],
-    "koRpus.lang.en": [
-        "koRpus"
-    ],
-    "koRpus": [],
+    "koRpus.lang.en": [],
     "lexicon": [
         "dplyr",
         "pillar",
