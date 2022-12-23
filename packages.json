@@ -17354,7 +17354,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "PSCBS",
         "annotate",
         "aroma.affymetrix",
         "aroma.core",
@@ -24606,7 +24605,6 @@
         "GO.db",
         "Hmisc",
         "KEGGREST",
-        "PSCBS",
         "WGCNA",
         "aroma.affymetrix",
         "aroma.core",
@@ -28788,13 +28786,9 @@
         "viridis"
     ],
     "aroma.affymetrix": [
-        "PSCBS",
         "aroma.core"
     ],
-    "aroma.core": [
-        "PSCBS"
-    ],
-    "PSCBS": [],
+    "aroma.core": [],
     "genlasso": [],
     "opencpu": [],
     "osfr": [],
