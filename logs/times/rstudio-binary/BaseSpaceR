@@ -1,0 +1,303 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   db801af0..cbf37008  main       -> origin/main
+Updating db801af0..cbf37008
+Fast-forward
+ lists/strawr                                  |   2 +-
+ lists/survival                                |   2 +-
+ logs/run_ids/rstudio-binaries/DFP             |   2 +
+ logs/run_ids/rstudio-binaries/geneRecommender |   2 +
+ packages.json                                 | 889 +++-----------------------
+ 5 files changed, 105 insertions(+), 792 deletions(-)
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=BaseSpaceR
++ PKG=BaseSpaceR
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "BaseSpaceR"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 15 1125k   15  173k    0     0   223k      0  0:00:05 --:--:--  0:00:05  223k100 1125k  100 1125k    0     0   625k      0  0:00:01  0:00:01 --:--:--  625k100 1125k  100 1125k    0     0   625k      0  0:00:01  0:00:01 --:--:--  625k
+built/
+built/RCurl/
+built/RCurl/examples/
+built/RCurl/examples/proxy.R
+built/RCurl/examples/readHeader.S
+built/RCurl/examples/progress.S
+built/RCurl/examples/nestedHTML.xml
+built/RCurl/examples/CIS/
+built/RCurl/examples/CIS/cis.R
+built/RCurl/examples/CIS/cis1.R
+built/RCurl/examples/encoding.R
+built/RCurl/examples/multi.S
+built/RCurl/examples/postFormPasswd.R
+built/RCurl/examples/headers2.S
+built/RCurl/examples/download.R
+built/RCurl/examples/upload.R
+built/RCurl/examples/post.html
+built/RCurl/examples/elapsed.png
+built/RCurl/examples/worm.S
+built/RCurl/examples/post.c
+built/RCurl/examples/nestedHTML.html
+built/RCurl/examples/concurrent.S
+built/RCurl/examples/xmlParse.html
+built/RCurl/examples/system.png
+built/RCurl/examples/curl.c
+built/RCurl/examples/passwdSSL.S
+built/RCurl/examples/time.R
+built/RCurl/examples/soap.S
+built/RCurl/examples/ftpList.R
+built/RCurl/examples/speakeasy.S
+built/RCurl/examples/xmlParse.xml
+built/RCurl/examples/concurrent.html
+built/RCurl/examples/omg.netrc
+built/RCurl/examples/user.png
+built/RCurl/examples/cis1.R
+built/RCurl/examples/concurrent.xml
+built/RCurl/examples/headers.S
+built/RCurl/examples/logo.jpg
+built/RCurl/examples/passwd.S
+built/RCurl/examples/getinfo.S
+built/RCurl/examples/passwd2.S
+built/RCurl/examples/html.S
+built/RCurl/examples/chunks.S
+built/RCurl/libs/
+built/RCurl/libs/RCurl.so
+built/RCurl/enums/
+built/RCurl/enums/Renums.c
+built/RCurl/NAMESPACE
+built/RCurl/CurlSSL/
+built/RCurl/CurlSSL/ok.R
+built/RCurl/CurlSSL/boost.pem
+built/RCurl/CurlSSL/certs
+built/RCurl/CurlSSL/docs
+built/RCurl/CurlSSL/myBundle.crt
+built/RCurl/CurlSSL/google.pem
+built/RCurl/CurlSSL/cybertrust.pem
+built/RCurl/CurlSSL/cacert.pem
+built/RCurl/CurlSSL/curlSSL.xml
+built/RCurl/CurlSSL/certs.pem
+built/RCurl/CurlSSL/server.pem
+built/RCurl/CurlSSL/ca-bundle.crt
+built/RCurl/CurlSSL/statEth.pem
+built/RCurl/HTTPErrors/
+built/RCurl/HTTPErrors/makeErrorClasses.R
+built/RCurl/DESCRIPTION
+built/RCurl/help/
+built/RCurl/help/paths.rds
+built/RCurl/help/RCurl.rdb
+built/RCurl/help/aliases.rds
+built/RCurl/help/AnIndex
+built/RCurl/help/RCurl.rdx
+built/RCurl/etc/
+built/RCurl/etc/README
+built/RCurl/etc/ca-bundle.crt
+built/RCurl/data/
+built/RCurl/data/mimeTypeExtensions.rda
+built/RCurl/Meta/
+built/RCurl/Meta/package.rds
+built/RCurl/Meta/features.rds
+built/RCurl/Meta/hsearch.rds
+built/RCurl/Meta/links.rds
+built/RCurl/Meta/nsInfo.rds
+built/RCurl/Meta/Rd.rds
+built/RCurl/Meta/data.rds
+built/RCurl/LICENSE
+built/RCurl/html/
+built/RCurl/html/00Index.html
+built/RCurl/html/R.css
+built/RCurl/INDEX
+built/RCurl/doc/
+built/RCurl/doc/Changes.html
+built/RCurl/doc/FAQ.html
+built/RCurl/doc/fileUploads.xml
+built/RCurl/doc/withCookies.html
+built/RCurl/doc/getURL.html
+built/RCurl/doc/cookies.xml
+built/RCurl/doc/philosophy.html
+built/RCurl/doc/withCookies.Rdb
+built/RCurl/doc/philosophy.xml
+built/RCurl/R/
+built/RCurl/R/RCurl.rdb
+built/RCurl/R/RCurl
+built/RCurl/R/RCurl.rdx
+built/bitops/
+built/bitops/libs/
+built/bitops/libs/bitops.so
+built/bitops/NAMESPACE
+built/bitops/DESCRIPTION
+built/bitops/help/
+built/bitops/help/paths.rds
+built/bitops/help/bitops.rdb
+built/bitops/help/aliases.rds
+built/bitops/help/bitops.rdx
+built/bitops/help/AnIndex
+built/bitops/Meta/
+built/bitops/Meta/package.rds
+built/bitops/Meta/features.rds
+built/bitops/Meta/hsearch.rds
+built/bitops/Meta/links.rds
+built/bitops/Meta/nsInfo.rds
+built/bitops/Meta/Rd.rds
+built/bitops/html/
+built/bitops/html/00Index.html
+built/bitops/html/R.css
+built/bitops/INDEX
+built/bitops/R/
+built/bitops/R/bitops.rdb
+built/bitops/R/bitops
+built/bitops/R/bitops.rdx
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 26 1541k   26  405k    0     0   438k      0  0:00:03 --:--:--  0:00:03  438k100 1541k  100 1541k    0     0   859k      0  0:00:01  0:00:01 --:--:--  859k
+built/
+built/RJSONIO/
+built/RJSONIO/libs/
+built/RJSONIO/libs/RJSONIO.so
+built/RJSONIO/NAMESPACE
+built/RJSONIO/DESCRIPTION
+built/RJSONIO/help/
+built/RJSONIO/help/paths.rds
+built/RJSONIO/help/RJSONIO.rdb
+built/RJSONIO/help/RJSONIO.rdx
+built/RJSONIO/help/aliases.rds
+built/RJSONIO/help/AnIndex
+built/RJSONIO/Meta/
+built/RJSONIO/Meta/package.rds
+built/RJSONIO/Meta/features.rds
+built/RJSONIO/Meta/hsearch.rds
+built/RJSONIO/Meta/links.rds
+built/RJSONIO/Meta/nsInfo.rds
+built/RJSONIO/Meta/Rd.rds
+built/RJSONIO/LICENSE
+built/RJSONIO/html/
+built/RJSONIO/html/00Index.html
+built/RJSONIO/html/R.css
+built/RJSONIO/INDEX
+built/RJSONIO/doc/
+built/RJSONIO/doc/overview.Rdb
+built/RJSONIO/doc/Changes.html
+built/RJSONIO/doc/timings.docx
+built/RJSONIO/doc/overview.html
+built/RJSONIO/doc/overview.pdf
+built/RJSONIO/doc/overview.bib
+built/RJSONIO/doc/missingValues.Rdb
+built/RJSONIO/doc/fromJSONTimes.rda
+built/RJSONIO/doc/toJSONTimes.rda
+built/RJSONIO/doc/performance.R
+built/RJSONIO/doc/biblio.xml
+built/RJSONIO/doc/missingValues.html
+built/RJSONIO/doc/Changes
+built/RJSONIO/R/
+built/RJSONIO/R/RJSONIO.rdb
+built/RJSONIO/R/RJSONIO.rdx
+built/RJSONIO/R/RJSONIO
+built/RJSONIO/sampleData/
+built/RJSONIO/sampleData/array.json
+built/RJSONIO/sampleData/intScalar.json
+built/RJSONIO/sampleData/obj2.json
+built/RJSONIO/sampleData/widget.json
+built/RJSONIO/sampleData/embedded.json
+built/RJSONIO/sampleData/menu1.json
+built/RJSONIO/sampleData/int.json
+built/RJSONIO/sampleData/obj3.json
+built/RJSONIO/sampleData/keys.json
+built/RJSONIO/sampleData/menu.json
+built/RJSONIO/sampleData/usaColors.as
+built/RJSONIO/sampleData/obj1.json
+built/RJSONIO/sampleData/array3.json
+built/RJSONIO/sampleData/obj.json
+built/RJSONIO/sampleData/nestedArray.json
+built/RJSONIO/sampleData/glossay.json
+built/RJSONIO/sampleData/usaPolygons.as
+built/RJSONIO/sampleData/nestedObj.json
+built/RJSONIO/sampleData/array2.json
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''BaseSpaceR'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv BaseSpaceR_1.42.0_R_x86_64-pc-linux-gnu.tar.gz bitops_1.0-7_R_x86_64-pc-linux-gnu.tar.gz RCurl_1.98-1.9_R_x86_64-pc-linux-gnu.tar.gz RJSONIO_1.3-1.6_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/BaseSpaceR
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'BaseSpaceR'
+also installing the dependencies ‘bitops’, ‘RCurl’, ‘RJSONIO’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/bitops_1.0-7.tar.gz'
+Content type 'binary/octet-stream' length 32391 bytes (31 KB)
+==================================================
+downloaded 31 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/RCurl_1.98-1.9.tar.gz'
+Content type 'binary/octet-stream' length 1119862 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/RJSONIO_1.3-1.6.tar.gz'
+Content type 'binary/octet-stream' length 1570006 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BaseSpaceR_1.42.0.tar.gz'
+Content type 'application/x-gzip' length 433403 bytes (423 KB)
+==================================================
+downloaded 423 KB
+
+* installing *binary* package ‘bitops’ ...
+* ‘bitops’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bitops’ as ‘bitops_1.0-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bitops)
+* installing *binary* package ‘RJSONIO’ ...
+* ‘RJSONIO’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RJSONIO’ as ‘RJSONIO_1.3-1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RJSONIO)
+* installing *binary* package ‘RCurl’ ...
+* ‘RCurl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RCurl’ as ‘RCurl_1.98-1.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RCurl)
+* installing *source* package ‘BaseSpaceR’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BaseSpaceR’ as ‘BaseSpaceR_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BaseSpaceR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpmCzHrE/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m19.997s
+user	0m11.004s
+sys	0m1.171s
