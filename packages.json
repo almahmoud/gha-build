@@ -499,7 +499,6 @@
         "scater",
         "scuttle",
         "smurf",
-        "speedglm",
         "textshaping",
         "tibble",
         "tidyselect",
@@ -639,7 +638,6 @@
         "purrr",
         "restfulr",
         "rtracklayer",
-        "speedglm",
         "stringr",
         "tibble",
         "tidyselect",
@@ -10105,7 +10103,6 @@
         "shinyFeedback",
         "shinyMatrix",
         "shinyjs",
-        "speedglm",
         "stringr",
         "testthat",
         "tibble",
@@ -10153,7 +10150,6 @@
         "reshape2",
         "rmarkdown",
         "rstatix",
-        "speedglm",
         "stringr",
         "testthat",
         "tibble",
@@ -12046,7 +12042,6 @@
         "rematch2",
         "restfulr",
         "rtracklayer",
-        "speedglm",
         "stringr",
         "testthat",
         "tibble",
@@ -14409,7 +14404,6 @@
         "restfulr",
         "rhdf5",
         "rtracklayer",
-        "speedglm",
         "stringr",
         "tibble",
         "tidyselect",
@@ -14546,7 +14540,6 @@
         "purrr",
         "restfulr",
         "rtracklayer",
-        "speedglm",
         "stringr",
         "tibble",
         "tidyselect",
@@ -29462,7 +29455,6 @@
         "progress",
         "restfulr",
         "rtracklayer",
-        "speedglm",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -32624,7 +32616,6 @@
         "purrr",
         "quantmod",
         "rmarkdown",
-        "speedglm",
         "stringr",
         "tibble",
         "tidyr",
@@ -47798,8 +47789,7 @@
         "vctrs"
     ],
     "smurf": [
-        "glmnet",
-        "speedglm"
+        "glmnet"
     ],
     "ggbeeswarm": [
         "ggplot2",
@@ -47819,7 +47809,6 @@
         "tibble",
         "vctrs"
     ],
-    "speedglm": [],
     "ragg": [
         "textshaping"
     ],
