@@ -1270,7 +1270,6 @@
         "minfi",
         "rhdf5"
     ],
-    "FindIT2": [],
     "flagme": [
         "CAMERA",
         "Hmisc",
