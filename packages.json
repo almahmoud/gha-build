@@ -49705,7 +49705,6 @@
         "GenomicRanges",
         "IRanges",
         "MatrixGenerics",
-        "Peptides",
         "RCurl",
         "Rsamtools",
         "S4Vectors",
@@ -87289,7 +87288,6 @@
         "vctrs",
         "waldo"
     ],
-    "Peptides": [],
     "biomartr": [
         "AnnotationDbi",
         "Biobase",
