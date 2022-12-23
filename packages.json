@@ -662,7 +662,6 @@
     "Cepo": [
         "GSEABase"
     ],
-    "ceRNAnetsim": [],
     "CeTF": [
         "DESeq2",
         "DOSE",
