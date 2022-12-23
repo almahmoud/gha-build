@@ -926,7 +926,6 @@
     "deconvR": [
         "GenomicFeatures",
         "bumphunter",
-        "methylKit",
         "minfi",
         "rsq"
     ],
@@ -2087,12 +2086,9 @@
     ],
     "MethCP": [
         "DSS",
-        "bsseq",
-        "methylKit"
+        "bsseq"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "ExperimentHub",
         "car",
@@ -2148,10 +2144,7 @@
         "minfi",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylPipe": [
         "GenomicFeatures",
         "Gviz",
