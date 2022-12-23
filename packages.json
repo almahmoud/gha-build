@@ -255,7 +255,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "cytomapper": [],
     "dagLogo": [],
     "DaMiRseq": [
         "FactoMineR"
@@ -538,9 +537,7 @@
     ],
     "ideal": [],
     "igvR": [],
-    "imcRtools": [
-        "cytomapper"
-    ],
+    "imcRtools": [],
     "InPAS": [
         "cleanUpdTSeq"
     ],
@@ -1097,9 +1094,7 @@
         "survminer"
     ],
     "SigsPack": [],
-    "simpleSeg": [
-        "cytomapper"
-    ],
+    "simpleSeg": [],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
