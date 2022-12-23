@@ -169,7 +169,6 @@
         "CoGAPS",
         "Homo.sapiens",
         "Mus.musculus",
-        "TFBSTools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
@@ -184,16 +183,13 @@
         "ChIPpeakAnno",
         "GenomicScores",
         "HDF5Array",
-        "TFBSTools",
         "motifStack",
         "rhdf5"
     ],
     "ATACseqTFEA": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "atSNP": [
-        "TFBSTools",
         "motifStack"
     ],
     "attract": [
@@ -624,9 +620,7 @@
         "scater",
         "viridis"
     ],
-    "chromVAR": [
-        "TFBSTools"
-    ],
+    "chromVAR": [],
     "cicero": [
         "Gviz",
         "Hmisc",
@@ -935,7 +929,6 @@
         "viridis"
     ],
     "dagLogo": [
-        "TFBSTools",
         "motifStack"
     ],
     "DAMEfinder": [
@@ -1192,7 +1185,6 @@
         "viridis"
     ],
     "enhancerHomologSearch": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "ENmix": [
@@ -1206,7 +1198,6 @@
         "viridis"
     ],
     "enrichTF": [
-        "TFBSTools",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -1294,7 +1285,6 @@
     "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
-        "TFBSTools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "clusterProfiler",
         "enrichplot",
@@ -1967,7 +1957,6 @@
     ],
     "LowMACA": [
         "RTCGAToolbox",
-        "TFBSTools",
         "cBioPortalData",
         "motifStack"
     ],
@@ -2055,9 +2044,7 @@
         "viridis",
         "vsn"
     ],
-    "MatrixRider": [
-        "TFBSTools"
-    ],
+    "MatrixRider": [],
     "MBECS": [
         "biomformat",
         "phyloseq",
@@ -2439,9 +2426,7 @@
         "basilisk",
         "rhdf5"
     ],
-    "monaLisa": [
-        "TFBSTools"
-    ],
+    "monaLisa": [],
     "monocle": [
         "viridis"
     ],
@@ -2454,18 +2439,13 @@
     "motifbreakR": [
         "Gviz",
         "Hmisc",
-        "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
         "motifStack",
         "viridis"
     ],
-    "motifmatchr": [
-        "TFBSTools"
-    ],
-    "motifStack": [
-        "TFBSTools"
-    ],
+    "motifmatchr": [],
+    "motifStack": [],
     "MQmetrics": [
         "car",
         "ggpubr",
@@ -2624,7 +2604,6 @@
         "Gviz",
         "HDF5Array",
         "Hmisc",
-        "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
         "motifStack",
@@ -2812,7 +2791,6 @@
         "car"
     ],
     "pageRank": [
-        "TFBSTools",
         "motifmatchr"
     ],
     "PanomiR": [
@@ -2963,7 +2941,6 @@
         "Gviz",
         "HDF5Array",
         "Hmisc",
-        "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
         "phastCons100way.UCSC.hg38",
@@ -3287,7 +3264,6 @@
     ],
     "ribosomeProfilingQC": [
         "RUVSeq",
-        "TFBSTools",
         "motifStack"
     ],
     "rifi": [
@@ -3796,7 +3772,6 @@
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
         "motifmatchr",
@@ -3994,7 +3969,6 @@
         "fields",
         "viridis"
     ],
-    "TFBSTools": [],
     "TFHAZ": [
         "ORFik",
         "fst"
