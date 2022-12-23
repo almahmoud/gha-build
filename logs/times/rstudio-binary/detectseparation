@@ -1,0 +1,894 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   a3bdd663..78672a66  main       -> origin/main
+Updating a3bdd663..78672a66
+Fast-forward
+ lists/BUS                                     |   2 +-
+ lists/CausalR                                 |   2 +-
+ lists/calm                                    |   2 +-
+ logs/sizes/rstudio-binaries/binaries/BUS      |   1 +
+ logs/sizes/rstudio-binaries/binaries/CausalR  |   1 +
+ logs/sizes/rstudio-binaries/libraries/BUS     |   1 +
+ logs/sizes/rstudio-binaries/libraries/CausalR |   1 +
+ logs/times/rstudio-binary/BUS                 | 200 ++++++++++++
+ logs/times/rstudio-binary/CausalR             | 438 ++++++++++++++++++++++++++
+ packages.json                                 |   3 -
+ 10 files changed, 645 insertions(+), 6 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/BUS
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/CausalR
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/BUS
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/CausalR
+ create mode 100644 logs/times/rstudio-binary/BUS
+ create mode 100644 logs/times/rstudio-binary/CausalR
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=detectseparation
++ PKG=detectseparation
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "detectseparation"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  8 4618k    8  414k    0     0   436k      0  0:00:10 --:--:--  0:00:10  436k 49 4618k   49 2279k    0     0  1161k      0  0:00:03  0:00:01  0:00:02 1161k100 4618k  100 4618k    0     0  1705k      0  0:00:02  0:00:02 --:--:-- 1706k
+built/
+built/lpSolveAPI/
+built/lpSolveAPI/libs/
+built/lpSolveAPI/libs/lpSolveAPI.so
+built/lpSolveAPI/NAMESPACE
+built/lpSolveAPI/DESCRIPTION
+built/lpSolveAPI/help/
+built/lpSolveAPI/help/paths.rds
+built/lpSolveAPI/help/lpSolveAPI.rdx
+built/lpSolveAPI/help/lpSolveAPI.rdb
+built/lpSolveAPI/help/aliases.rds
+built/lpSolveAPI/help/AnIndex
+built/lpSolveAPI/Meta/
+built/lpSolveAPI/Meta/package.rds
+built/lpSolveAPI/Meta/features.rds
+built/lpSolveAPI/Meta/hsearch.rds
+built/lpSolveAPI/Meta/links.rds
+built/lpSolveAPI/Meta/nsInfo.rds
+built/lpSolveAPI/Meta/Rd.rds
+built/lpSolveAPI/include/
+built/lpSolveAPI/include/lp_report.h
+built/lpSolveAPI/include/lp_bit.h
+built/lpSolveAPI/include/RlpSolveLink.h
+built/lpSolveAPI/include/RlpSolve.h
+built/lpSolveAPI/include/lp_mipbb.h
+built/lpSolveAPI/include/lp_SOS.h
+built/lpSolveAPI/include/myblas.h
+built/lpSolveAPI/include/ini.h
+built/lpSolveAPI/include/lp_LUSOL.h
+built/lpSolveAPI/include/lp_crash.h
+built/lpSolveAPI/include/mmio.h
+built/lpSolveAPI/include/lp_presolve.h
+built/lpSolveAPI/include/lp_MPS.h
+built/lpSolveAPI/include/lp_wlp.h
+built/lpSolveAPI/include/lp_MDO.h
+built/lpSolveAPI/include/lusol.h
+built/lpSolveAPI/include/lp_simplex.h
+built/lpSolveAPI/include/commonlib.h
+built/lpSolveAPI/include/lp_lib.h
+built/lpSolveAPI/include/yacc_read.h
+built/lpSolveAPI/include/lpkit.h
+built/lpSolveAPI/include/lp_scale.h
+built/lpSolveAPI/include/colamd.h
+built/lpSolveAPI/include/lp_BFP.h
+built/lpSolveAPI/include/lp_pricePSE.h
+built/lpSolveAPI/include/lp_utils.h
+built/lpSolveAPI/include/lp_types.h
+built/lpSolveAPI/include/lp_Hash.h
+built/lpSolveAPI/include/lp_price.h
+built/lpSolveAPI/include/lp_rlp.h
+built/lpSolveAPI/include/lp_matrix.h
+built/lpSolveAPI/lpSolve/
+built/lpSolveAPI/lpSolve/lp.transport.q
+built/lpSolveAPI/lpSolve/lp.q
+built/lpSolveAPI/lpSolve/README
+built/lpSolveAPI/lpSolve/lp.assign.q
+built/lpSolveAPI/html/
+built/lpSolveAPI/html/00Index.html
+built/lpSolveAPI/html/R.css
+built/lpSolveAPI/INDEX
+built/lpSolveAPI/R/
+built/lpSolveAPI/R/lpSolveAPI
+built/lpSolveAPI/R/lpSolveAPI.rdx
+built/lpSolveAPI/R/lpSolveAPI.rdb
+built/lpSolveAPI/tests/
+built/lpSolveAPI/tests/sos5.mps
+built/lpSolveAPI/tests/semi-continuous2.lp
+built/lpSolveAPI/tests/binary1.lp
+built/lpSolveAPI/tests/sos4.lp
+built/lpSolveAPI/tests/integer1.mps
+built/lpSolveAPI/tests/absolute1.lp
+built/lpSolveAPI/tests/integer1.lp
+built/lpSolveAPI/tests/sos4.mps
+built/lpSolveAPI/tests/sos3.lp
+built/lpSolveAPI/tests/sos3.mps
+built/lpSolveAPI/tests/semi-continuous1.lp
+built/lpSolveAPI/tests/free1.lp
+built/lpSolveAPI/tests/sos2.lp
+built/lpSolveAPI/tests/sos5.lp
+built/lpSolveAPI/tests/sos2.mps
+built/lpSolveAPI/tests/semi-continuous1.mps
+built/lpSolveAPI/tests/semi-continuous3.lp
+built/lpSolveAPI/tests/free1.mps
+built/lpSolveAPI/tests/sos1.lp
+built/lpSolveAPI/tests/sos1.mps
+built/built/
+built/built/lpSolveAPI/
+built/built/lpSolveAPI/libs/
+built/built/lpSolveAPI/libs/lpSolveAPI.so
+built/built/lpSolveAPI/NAMESPACE
+built/built/lpSolveAPI/DESCRIPTION
+built/built/lpSolveAPI/help/
+built/built/lpSolveAPI/help/paths.rds
+built/built/lpSolveAPI/help/lpSolveAPI.rdx
+built/built/lpSolveAPI/help/lpSolveAPI.rdb
+built/built/lpSolveAPI/help/aliases.rds
+built/built/lpSolveAPI/help/AnIndex
+built/built/lpSolveAPI/Meta/
+built/built/lpSolveAPI/Meta/package.rds
+built/built/lpSolveAPI/Meta/features.rds
+built/built/lpSolveAPI/Meta/hsearch.rds
+built/built/lpSolveAPI/Meta/links.rds
+built/built/lpSolveAPI/Meta/nsInfo.rds
+built/built/lpSolveAPI/Meta/Rd.rds
+built/built/lpSolveAPI/include/
+built/built/lpSolveAPI/include/lp_report.h
+built/built/lpSolveAPI/include/lp_bit.h
+built/built/lpSolveAPI/include/RlpSolveLink.h
+built/built/lpSolveAPI/include/RlpSolve.h
+built/built/lpSolveAPI/include/lp_mipbb.h
+built/built/lpSolveAPI/include/lp_SOS.h
+built/built/lpSolveAPI/include/myblas.h
+built/built/lpSolveAPI/include/ini.h
+built/built/lpSolveAPI/include/lp_LUSOL.h
+built/built/lpSolveAPI/include/lp_crash.h
+built/built/lpSolveAPI/include/mmio.h
+built/built/lpSolveAPI/include/lp_presolve.h
+built/built/lpSolveAPI/include/lp_MPS.h
+built/built/lpSolveAPI/include/lp_wlp.h
+built/built/lpSolveAPI/include/lp_MDO.h
+built/built/lpSolveAPI/include/lusol.h
+built/built/lpSolveAPI/include/lp_simplex.h
+built/built/lpSolveAPI/include/commonlib.h
+built/built/lpSolveAPI/include/lp_lib.h
+built/built/lpSolveAPI/include/yacc_read.h
+built/built/lpSolveAPI/include/lpkit.h
+built/built/lpSolveAPI/include/lp_scale.h
+built/built/lpSolveAPI/include/colamd.h
+built/built/lpSolveAPI/include/lp_BFP.h
+built/built/lpSolveAPI/include/lp_pricePSE.h
+built/built/lpSolveAPI/include/lp_utils.h
+built/built/lpSolveAPI/include/lp_types.h
+built/built/lpSolveAPI/include/lp_Hash.h
+built/built/lpSolveAPI/include/lp_price.h
+built/built/lpSolveAPI/include/lp_rlp.h
+built/built/lpSolveAPI/include/lp_matrix.h
+built/built/lpSolveAPI/lpSolve/
+built/built/lpSolveAPI/lpSolve/lp.transport.q
+built/built/lpSolveAPI/lpSolve/lp.q
+built/built/lpSolveAPI/lpSolve/README
+built/built/lpSolveAPI/lpSolve/lp.assign.q
+built/built/lpSolveAPI/html/
+built/built/lpSolveAPI/html/00Index.html
+built/built/lpSolveAPI/html/R.css
+built/built/lpSolveAPI/INDEX
+built/built/lpSolveAPI/R/
+built/built/lpSolveAPI/R/lpSolveAPI
+built/built/lpSolveAPI/R/lpSolveAPI.rdx
+built/built/lpSolveAPI/R/lpSolveAPI.rdb
+built/built/lpSolveAPI/tests/
+built/built/lpSolveAPI/tests/sos5.mps
+built/built/lpSolveAPI/tests/semi-continuous2.lp
+built/built/lpSolveAPI/tests/binary1.lp
+built/built/lpSolveAPI/tests/sos4.lp
+built/built/lpSolveAPI/tests/integer1.mps
+built/built/lpSolveAPI/tests/absolute1.lp
+built/built/lpSolveAPI/tests/integer1.lp
+built/built/lpSolveAPI/tests/sos4.mps
+built/built/lpSolveAPI/tests/sos3.lp
+built/built/lpSolveAPI/tests/sos3.mps
+built/built/lpSolveAPI/tests/semi-continuous1.lp
+built/built/lpSolveAPI/tests/free1.lp
+built/built/lpSolveAPI/tests/sos2.lp
+built/built/lpSolveAPI/tests/sos5.lp
+built/built/lpSolveAPI/tests/sos2.mps
+built/built/lpSolveAPI/tests/semi-continuous1.mps
+built/built/lpSolveAPI/tests/semi-continuous3.lp
+built/built/lpSolveAPI/tests/free1.mps
+built/built/lpSolveAPI/tests/sos1.lp
+built/built/lpSolveAPI/tests/sos1.mps
+built/built/slam/
+built/built/slam/libs/
+built/built/slam/libs/slam.so
+built/built/slam/NAMESPACE
+built/built/slam/DESCRIPTION
+built/built/slam/help/
+built/built/slam/help/paths.rds
+built/built/slam/help/aliases.rds
+built/built/slam/help/slam.rdb
+built/built/slam/help/AnIndex
+built/built/slam/help/slam.rdx
+built/built/slam/Meta/
+built/built/slam/Meta/package.rds
+built/built/slam/Meta/features.rds
+built/built/slam/Meta/hsearch.rds
+built/built/slam/Meta/links.rds
+built/built/slam/Meta/nsInfo.rds
+built/built/slam/Meta/Rd.rds
+built/built/slam/po/
+built/built/slam/po/en@quot/
+built/built/slam/po/en@quot/LC_MESSAGES/
+built/built/slam/po/en@quot/LC_MESSAGES/R-slam.mo
+built/built/slam/html/
+built/built/slam/html/00Index.html
+built/built/slam/html/R.css
+built/built/slam/INDEX
+built/built/slam/R/
+built/built/slam/R/slam
+built/built/slam/R/slam.rdb
+built/built/slam/R/slam.rdx
+built/built/ROI/
+built/built/ROI/NAMESPACE
+built/built/ROI/DESCRIPTION
+built/built/ROI/help/
+built/built/ROI/help/paths.rds
+built/built/ROI/help/ROI.rdb
+built/built/ROI/help/ROI.rdx
+built/built/ROI/help/aliases.rds
+built/built/ROI/help/AnIndex
+built/built/ROI/data/
+built/built/ROI/data/US30.rda
+built/built/ROI/Meta/
+built/built/ROI/Meta/package.rds
+built/built/ROI/Meta/features.rds
+built/built/ROI/Meta/hsearch.rds
+built/built/ROI/Meta/links.rds
+built/built/ROI/Meta/nsInfo.rds
+built/built/ROI/Meta/Rd.rds
+built/built/ROI/Meta/data.rds
+built/built/ROI/CITATION
+built/built/ROI/html/
+built/built/ROI/html/00Index.html
+built/built/ROI/html/R.css
+built/built/ROI/INDEX
+built/built/ROI/R/
+built/built/ROI/R/ROI.rdb
+built/built/ROI/R/ROI.rdx
+built/built/ROI/R/ROI
+built/built/registry/
+built/built/registry/NAMESPACE
+built/built/registry/DESCRIPTION
+built/built/registry/help/
+built/built/registry/help/paths.rds
+built/built/registry/help/registry.rdx
+built/built/registry/help/aliases.rds
+built/built/registry/help/registry.rdb
+built/built/registry/help/AnIndex
+built/built/registry/Meta/
+built/built/registry/Meta/package.rds
+built/built/registry/Meta/vignette.rds
+built/built/registry/Meta/demo.rds
+built/built/registry/Meta/features.rds
+built/built/registry/Meta/hsearch.rds
+built/built/registry/Meta/links.rds
+built/built/registry/Meta/nsInfo.rds
+built/built/registry/Meta/Rd.rds
+built/built/registry/html/
+built/built/registry/html/00Index.html
+built/built/registry/html/R.css
+built/built/registry/INDEX
+built/built/registry/doc/
+built/built/registry/doc/registry.R
+built/built/registry/doc/registry.Rnw
+built/built/registry/doc/index.html
+built/built/registry/doc/registry.pdf
+built/built/registry/R/
+built/built/registry/R/registry.rdx
+built/built/registry/R/registry
+built/built/registry/R/registry.rdb
+built/built/registry/demo/
+built/built/registry/demo/registry.R
+built/slam/
+built/slam/libs/
+built/slam/libs/slam.so
+built/slam/NAMESPACE
+built/slam/DESCRIPTION
+built/slam/help/
+built/slam/help/paths.rds
+built/slam/help/aliases.rds
+built/slam/help/slam.rdb
+built/slam/help/AnIndex
+built/slam/help/slam.rdx
+built/slam/Meta/
+built/slam/Meta/package.rds
+built/slam/Meta/features.rds
+built/slam/Meta/hsearch.rds
+built/slam/Meta/links.rds
+built/slam/Meta/nsInfo.rds
+built/slam/Meta/Rd.rds
+built/slam/po/
+built/slam/po/en@quot/
+built/slam/po/en@quot/LC_MESSAGES/
+built/slam/po/en@quot/LC_MESSAGES/R-slam.mo
+built/slam/html/
+built/slam/html/00Index.html
+built/slam/html/R.css
+built/slam/INDEX
+built/slam/R/
+built/slam/R/slam
+built/slam/R/slam.rdb
+built/slam/R/slam.rdx
+built/ROI/
+built/ROI/NAMESPACE
+built/ROI/DESCRIPTION
+built/ROI/help/
+built/ROI/help/paths.rds
+built/ROI/help/ROI.rdb
+built/ROI/help/ROI.rdx
+built/ROI/help/aliases.rds
+built/ROI/help/AnIndex
+built/ROI/data/
+built/ROI/data/US30.rda
+built/ROI/Meta/
+built/ROI/Meta/package.rds
+built/ROI/Meta/features.rds
+built/ROI/Meta/hsearch.rds
+built/ROI/Meta/links.rds
+built/ROI/Meta/nsInfo.rds
+built/ROI/Meta/Rd.rds
+built/ROI/Meta/data.rds
+built/ROI/CITATION
+built/ROI/html/
+built/ROI/html/00Index.html
+built/ROI/html/R.css
+built/ROI/INDEX
+built/ROI/R/
+built/ROI/R/ROI.rdb
+built/ROI/R/ROI.rdx
+built/ROI/R/ROI
+built/ROI.plugin.lpsolve/
+built/ROI.plugin.lpsolve/NAMESPACE
+built/ROI.plugin.lpsolve/DESCRIPTION
+built/ROI.plugin.lpsolve/help/
+built/ROI.plugin.lpsolve/help/paths.rds
+built/ROI.plugin.lpsolve/help/ROI.plugin.lpsolve.rdb
+built/ROI.plugin.lpsolve/help/ROI.plugin.lpsolve.rdx
+built/ROI.plugin.lpsolve/help/aliases.rds
+built/ROI.plugin.lpsolve/help/AnIndex
+built/ROI.plugin.lpsolve/Meta/
+built/ROI.plugin.lpsolve/Meta/package.rds
+built/ROI.plugin.lpsolve/Meta/features.rds
+built/ROI.plugin.lpsolve/Meta/hsearch.rds
+built/ROI.plugin.lpsolve/Meta/links.rds
+built/ROI.plugin.lpsolve/Meta/nsInfo.rds
+built/ROI.plugin.lpsolve/Meta/Rd.rds
+built/ROI.plugin.lpsolve/html/
+built/ROI.plugin.lpsolve/html/00Index.html
+built/ROI.plugin.lpsolve/html/R.css
+built/ROI.plugin.lpsolve/INDEX
+built/ROI.plugin.lpsolve/R/
+built/ROI.plugin.lpsolve/R/ROI.plugin.lpsolve.rdb
+built/ROI.plugin.lpsolve/R/ROI.plugin.lpsolve.rdx
+built/ROI.plugin.lpsolve/R/ROI.plugin.lpsolve
+built/registry/
+built/registry/NAMESPACE
+built/registry/DESCRIPTION
+built/registry/help/
+built/registry/help/paths.rds
+built/registry/help/registry.rdx
+built/registry/help/aliases.rds
+built/registry/help/registry.rdb
+built/registry/help/AnIndex
+built/registry/Meta/
+built/registry/Meta/package.rds
+built/registry/Meta/vignette.rds
+built/registry/Meta/demo.rds
+built/registry/Meta/features.rds
+built/registry/Meta/hsearch.rds
+built/registry/Meta/links.rds
+built/registry/Meta/nsInfo.rds
+built/registry/Meta/Rd.rds
+built/registry/html/
+built/registry/html/00Index.html
+built/registry/html/R.css
+built/registry/INDEX
+built/registry/doc/
+built/registry/doc/registry.R
+built/registry/doc/registry.Rnw
+built/registry/doc/index.html
+built/registry/doc/registry.pdf
+built/registry/R/
+built/registry/R/registry.rdx
+built/registry/R/registry
+built/registry/R/registry.rdb
+built/registry/demo/
+built/registry/demo/registry.R
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 16 4972k   16  796k    0     0   713k      0  0:00:06  0:00:01  0:00:05  713k 64 4972k   64 3219k    0     0  1510k      0  0:00:03  0:00:02  0:00:01 1510k100 4972k  100 4972k    0     0  1894k      0  0:00:02  0:00:02 --:--:-- 1893k
+built/
+built/built/
+built/built/cli/
+built/built/cli/examples/
+built/built/cli/examples/apps/
+built/built/cli/examples/apps/news.R
+built/built/cli/examples/apps/outdated.R
+built/built/cli/examples/apps/up.R
+built/built/cli/examples/apps/search.R
+built/built/cli/libs/
+built/built/cli/libs/cli.so
+built/built/cli/NAMESPACE
+built/built/cli/DESCRIPTION
+built/built/cli/help/
+built/built/cli/help/paths.rds
+built/built/cli/help/cli.rdx
+built/built/cli/help/aliases.rds
+built/built/cli/help/figures/
+built/built/cli/help/figures/progress-after.svg
+built/built/cli/help/figures/demo-spinners.svg
+built/built/cli/help/figures/progress-along-3.svg
+built/built/cli/help/figures/progress-along-2.svg
+built/built/cli/help/figures/progress-step-msg.svg
+built/built/cli/help/figures/progress-clear.svg
+built/built/cli/help/figures/get-spinner.svg
+built/built/cli/help/figures/progress-1.svg
+built/built/cli/help/figures/progress-natotal.svg
+built/built/cli/help/figures/progress-tasks.svg
+built/built/cli/help/figures/progress-step-dynamic.svg
+built/built/cli/help/figures/make-spinner-custom.svg
+built/built/cli/help/figures/make-spinner-template.svg
+built/built/cli/help/figures/progress-output2.svg
+built/built/cli/help/figures/progress-output.svg
+built/built/cli/help/figures/progress-current.svg
+built/built/cli/help/figures/progress-step.svg
+built/built/cli/help/figures/progress-format.svg
+built/built/cli/help/figures/progress-along-1.svg
+built/built/cli/help/figures/progress-step-spin.svg
+built/built/cli/help/figures/make-spinner-default.svg
+built/built/cli/help/figures/progress-message.svg
+built/built/cli/help/cli.rdb
+built/built/cli/help/AnIndex
+built/built/cli/shiny/
+built/built/cli/shiny/nested/
+built/built/cli/shiny/nested/app.R
+built/built/cli/shiny/format/
+built/built/cli/shiny/format/app.R
+built/built/cli/shiny/along/
+built/built/cli/shiny/along/app.R
+built/built/cli/shiny/simple/
+built/built/cli/shiny/simple/app.R
+built/built/cli/shiny/output/
+built/built/cli/shiny/output/app.R
+built/built/cli/Meta/
+built/built/cli/Meta/package.rds
+built/built/cli/Meta/features.rds
+built/built/cli/Meta/hsearch.rds
+built/built/cli/Meta/links.rds
+built/built/cli/Meta/nsInfo.rds
+built/built/cli/Meta/Rd.rds
+built/built/cli/include/
+built/built/cli/include/cli/
+built/built/cli/include/cli/progress.h
+built/built/cli/logo.txt
+built/built/cli/scripts/
+built/built/cli/scripts/news.R
+built/built/cli/scripts/outdated.R
+built/built/cli/scripts/up.R
+built/built/cli/scripts/search.R
+built/built/cli/LICENSE
+built/built/cli/html/
+built/built/cli/html/00Index.html
+built/built/cli/html/R.css
+built/built/cli/INDEX
+built/built/cli/R/
+built/built/cli/R/cli
+built/built/cli/R/cli.rdx
+built/built/cli/R/sysdata.rdb
+built/built/cli/R/sysdata.rdx
+built/built/cli/R/cli.rdb
+built/built/cli/NEWS.md
+built/built/rprojroot/
+built/built/rprojroot/NAMESPACE
+built/built/rprojroot/DESCRIPTION
+built/built/rprojroot/help/
+built/built/rprojroot/help/paths.rds
+built/built/rprojroot/help/rprojroot.rdx
+built/built/rprojroot/help/aliases.rds
+built/built/rprojroot/help/rprojroot.rdb
+built/built/rprojroot/help/figures/
+built/built/rprojroot/help/figures/lifecycle-soft-deprecated.svg
+built/built/rprojroot/help/figures/lifecycle-experimental.svg
+built/built/rprojroot/help/figures/lifecycle-deprecated.svg
+built/built/rprojroot/help/figures/lifecycle-maturing.svg
+built/built/rprojroot/help/figures/lifecycle-superseded.svg
+built/built/rprojroot/help/figures/lifecycle-questioning.svg
+built/built/rprojroot/help/figures/lifecycle-defunct.svg
+built/built/rprojroot/help/figures/lifecycle-archived.svg
+built/built/rprojroot/help/figures/lifecycle-stable.svg
+built/built/rprojroot/help/AnIndex
+built/built/rprojroot/Meta/
+built/built/rprojroot/Meta/package.rds
+built/built/rprojroot/Meta/vignette.rds
+built/built/rprojroot/Meta/features.rds
+built/built/rprojroot/Meta/hsearch.rds
+built/built/rprojroot/Meta/links.rds
+built/built/rprojroot/Meta/nsInfo.rds
+built/built/rprojroot/Meta/Rd.rds
+built/built/rprojroot/WORDLIST
+built/built/rprojroot/LICENSE
+built/built/rprojroot/html/
+built/built/rprojroot/html/00Index.html
+built/built/rprojroot/html/R.css
+built/built/rprojroot/INDEX
+built/built/rprojroot/doc/
+built/built/rprojroot/doc/rprojroot.html
+built/built/rprojroot/doc/rprojroot.R
+built/built/rprojroot/doc/index.html
+built/built/rprojroot/doc/rprojroot.Rmd
+built/built/rprojroot/R/
+built/built/rprojroot/R/rprojroot
+built/built/rprojroot/R/rprojroot.rdx
+built/built/rprojroot/R/rprojroot.rdb
+built/built/rprojroot/NEWS.md
+built/built/withr/
+built/built/withr/NAMESPACE
+built/built/withr/DESCRIPTION
+built/built/withr/help/
+built/built/withr/help/paths.rds
+built/built/withr/help/withr.rdx
+built/built/withr/help/aliases.rds
+built/built/withr/help/figures/
+built/built/withr/help/figures/README-unnamed-chunk-3-1.png
+built/built/withr/help/figures/logo.png
+built/built/withr/help/withr.rdb
+built/built/withr/help/AnIndex
+built/built/withr/Meta/
+built/built/withr/Meta/package.rds
+built/built/withr/Meta/vignette.rds
+built/built/withr/Meta/features.rds
+built/built/withr/Meta/hsearch.rds
+built/built/withr/Meta/links.rds
+built/built/withr/Meta/nsInfo.rds
+built/built/withr/Meta/Rd.rds
+built/built/withr/LICENSE
+built/built/withr/html/
+built/built/withr/html/00Index.html
+built/built/withr/html/R.css
+built/built/withr/INDEX
+built/built/withr/doc/
+built/built/withr/doc/changing-and-restoring-state.R
+built/built/withr/doc/changing-and-restoring-state.html
+built/built/withr/doc/index.html
+built/built/withr/doc/changing-and-restoring-state.Rmd
+built/built/withr/R/
+built/built/withr/R/withr
+built/built/withr/R/withr.rdx
+built/built/withr/R/withr.rdb
+built/built/withr/NEWS.md
+built/built/fs/
+built/built/fs/libs/
+built/built/fs/libs/fs.so
+built/built/fs/NAMESPACE
+built/built/fs/DESCRIPTION
+built/built/fs/help/
+built/built/fs/help/paths.rds
+built/built/fs/help/aliases.rds
+built/built/fs/help/fs.rdb
+built/built/fs/help/fs.rdx
+built/built/fs/help/AnIndex
+built/built/fs/Meta/
+built/built/fs/Meta/package.rds
+built/built/fs/Meta/vignette.rds
+built/built/fs/Meta/features.rds
+built/built/fs/Meta/hsearch.rds
+built/built/fs/Meta/links.rds
+built/built/fs/Meta/nsInfo.rds
+built/built/fs/Meta/Rd.rds
+built/built/fs/WORDLIST
+built/built/fs/LICENSE
+built/built/fs/html/
+built/built/fs/html/00Index.html
+built/built/fs/html/R.css
+built/built/fs/INDEX
+built/built/fs/doc/
+built/built/fs/doc/function-comparisons.html
+built/built/fs/doc/function-comparisons.Rmd
+built/built/fs/doc/function-comparisons.R
+built/built/fs/doc/index.html
+built/built/fs/R/
+built/built/fs/R/fs
+built/built/fs/R/fs.rdb
+built/built/fs/R/fs.rdx
+built/built/fs/COPYRIGHTS
+built/built/fs/NEWS.md
+built/built/desc/
+built/built/desc/NAMESPACE
+built/built/desc/DESCRIPTION
+built/built/desc/help/
+built/built/desc/help/paths.rds
+built/built/desc/help/aliases.rds
+built/built/desc/help/desc.rdb
+built/built/desc/help/desc.rdx
+built/built/desc/help/AnIndex
+built/built/desc/Meta/
+built/built/desc/Meta/package.rds
+built/built/desc/Meta/features.rds
+built/built/desc/Meta/hsearch.rds
+built/built/desc/Meta/links.rds
+built/built/desc/Meta/nsInfo.rds
+built/built/desc/Meta/Rd.rds
+built/built/desc/WORDLIST
+built/built/desc/LICENSE
+built/built/desc/html/
+built/built/desc/html/00Index.html
+built/built/desc/html/R.css
+built/built/desc/INDEX
+built/built/desc/R/
+built/built/desc/R/desc
+built/built/desc/R/desc.rdb
+built/built/desc/R/desc.rdx
+built/built/desc/NEWS.md
+built/built/glue/
+built/built/glue/libs/
+built/built/glue/libs/glue.so
+built/built/glue/NAMESPACE
+built/built/glue/DESCRIPTION
+built/built/glue/help/
+built/built/glue/help/paths.rds
+built/built/glue/help/glue.rdx
+built/built/glue/help/glue.rdb
+built/built/glue/help/aliases.rds
+built/built/glue/help/figures/
+built/built/glue/help/figures/logo.png
+built/built/glue/help/AnIndex
+built/built/glue/Meta/
+built/built/glue/Meta/package.rds
+built/built/glue/Meta/vignette.rds
+built/built/glue/Meta/features.rds
+built/built/glue/Meta/hsearch.rds
+built/built/glue/Meta/links.rds
+built/built/glue/Meta/nsInfo.rds
+built/built/glue/Meta/Rd.rds
+built/built/glue/LICENSE
+built/built/glue/html/
+built/built/glue/html/00Index.html
+built/built/glue/html/R.css
+built/built/glue/INDEX
+built/built/glue/doc/
+built/built/glue/doc/transformers.R
+built/built/glue/doc/engines.html
+built/built/glue/doc/speed.html
+built/built/glue/doc/transformers.Rmd
+built/built/glue/doc/speed.Rmd
+built/built/glue/doc/transformers.html
+built/built/glue/doc/engines.R
+built/built/glue/doc/index.html
+built/built/glue/doc/engines.Rmd
+built/built/glue/doc/speed.R
+built/built/glue/R/
+built/built/glue/R/glue.rdx
+built/built/glue/R/glue.rdb
+built/built/glue/R/glue
+built/built/glue/NEWS.md
+built/built/crayon/
+built/built/crayon/NAMESPACE
+built/built/crayon/DESCRIPTION
+built/built/crayon/help/
+built/built/crayon/help/paths.rds
+built/built/crayon/help/crayon.rdb
+built/built/crayon/help/aliases.rds
+built/built/crayon/help/crayon.rdx
+built/built/crayon/help/AnIndex
+built/built/crayon/Meta/
+built/built/crayon/Meta/package.rds
+built/built/crayon/Meta/features.rds
+built/built/crayon/Meta/hsearch.rds
+built/built/crayon/Meta/links.rds
+built/built/crayon/Meta/nsInfo.rds
+built/built/crayon/Meta/Rd.rds
+built/built/crayon/LICENSE
+built/built/crayon/html/
+built/built/crayon/html/00Index.html
+built/built/crayon/html/R.css
+built/built/crayon/INDEX
+built/built/crayon/R/
+built/built/crayon/R/crayon.rdb
+built/built/crayon/R/crayon
+built/built/crayon/R/crayon.rdx
+built/built/crayon/NEWS.md
+built/built/R6/
+built/built/R6/NAMESPACE
+built/built/R6/DESCRIPTION
+built/built/R6/help/
+built/built/R6/help/paths.rds
+built/built/R6/help/R6.rdx
+built/built/R6/help/R6.rdb
+built/built/R6/help/aliases.rds
+built/built/R6/help/figures/
+built/built/R6/help/figures/logo.svg
+built/built/R6/help/figures/logo.png
+built/built/R6/help/AnIndex
+built/built/R6/Meta/
+built/built/R6/Meta/package.rds
+built/built/R6/Meta/features.rds
+built/built/R6/Meta/hsearch.rds
+built/built/R6/Meta/links.rds
+built/built/R6/Meta/nsInfo.rds
+built/built/R6/Meta/Rd.rds
+built/built/R6/LICENSE
+built/built/R6/html/
+built/built/R6/html/00Index.html
+built/built/R6/html/R.css
+built/built/R6/INDEX
+built/built/R6/R/
+built/built/R6/R/R6.rdx
+built/built/R6/R/R6.rdb
+built/built/R6/R/R6
+built/built/R6/NEWS.md
+built/built/rlang/
+built/built/rlang/libs/
+built/built/rlang/libs/rlang.so
+built/built/rlang/NAMESPACE
+built/built/rlang/DESCRIPTION
+built/built/rlang/help/
+built/built/rlang/help/rlang.rdb
+built/built/rlang/help/paths.rds
+built/built/rlang/help/rlang.rdx
+built/built/rlang/help/aliases.rds
+built/built/rlang/help/figures/
+built/built/rlang/help/figures/lifecycle-soft-deprecated.svg
+built/built/rlang/help/figures/lifecycle-experimental.svg
+built/built/rlang/help/figures/lifecycle-deprecated.svg
+built/built/rlang/help/figures/lifecycle-maturing.svg
+built/built/rlang/help/figures/lifecycle-superseded.svg
+built/built/rlang/help/figures/logo.png
+built/built/rlang/help/figures/lifecycle-questioning.svg
+built/built/rlang/help/figures/lifecycle-defunct.svg
+built/built/rlang/help/figures/lifecycle-archived.svg
+built/built/rlang/help/figures/lifecycle-retired.svg
+built/built/rlang/help/figures/lifecycle-stable.svg
+built/built/rlang/help/AnIndex
+built/built/rlang/Meta/
+built/built/rlang/Meta/package.rds
+built/built/rlang/Meta/features.rds
+built/built/rlang/Meta/hsearch.rds
+built/built/rlang/Meta/links.rds
+built/built/rlang/Meta/nsInfo.rds
+built/built/rlang/Meta/Rd.rds
+built/built/rlang/LICENSE
+built/built/rlang/html/
+built/built/rlang/html/00Index.html
+built/built/rlang/html/R.css
+built/built/rlang/INDEX
+built/built/rlang/R/
+built/built/rlang/R/rlang.rdb
+built/built/rlang/R/rlang.rdx
+built/built/rlang/R/rlang
+built/built/rlang/backtrace-ver
+built/built/rlang/NEWS.md
+built/pkgload/
+built/pkgload/NAMESPACE
+built/pkgload/DESCRIPTION
+built/pkgload/help/
+built/pkgload/help/paths.rds
+built/pkgload/help/pkgload.rdb
+built/pkgload/help/pkgload.rdx
+built/pkgload/help/aliases.rds
+built/pkgload/help/AnIndex
+built/pkgload/Meta/
+built/pkgload/Meta/package.rds
+built/pkgload/Meta/features.rds
+built/pkgload/Meta/hsearch.rds
+built/pkgload/Meta/links.rds
+built/pkgload/Meta/nsInfo.rds
+built/pkgload/Meta/Rd.rds
+built/pkgload/WORDLIST
+built/pkgload/html/
+built/pkgload/html/00Index.html
+built/pkgload/html/R.css
+built/pkgload/INDEX
+built/pkgload/R/
+built/pkgload/R/pkgload.rdb
+built/pkgload/R/pkgload.rdx
+built/pkgload/R/pkgload
+built/pkgload/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''detectseparation'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv detectseparation_0.3_R_x86_64-pc-linux-gnu.tar.gz lpSolveAPI_5.5.2.0-17.9_R_x86_64-pc-linux-gnu.tar.gz registry_0.5-1_R_x86_64-pc-linux-gnu.tar.gz ROI_1.0-0_R_x86_64-pc-linux-gnu.tar.gz ROI.plugin.lpsolve_1.0-1_R_x86_64-pc-linux-gnu.tar.gz slam_0.1-50_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/detectseparation
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'detectseparation'
+also installing the dependencies ‘registry’, ‘slam’, ‘ROI’, ‘ROI.plugin.lpsolve’, ‘lpSolveAPI’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/registry_0.5-1.tar.gz'
+Content type 'binary/octet-stream' length 193730 bytes (189 KB)
+==================================================
+downloaded 189 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/slam_0.1-50.tar.gz'
+Content type 'binary/octet-stream' length 220397 bytes (215 KB)
+==================================================
+downloaded 215 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/ROI_1.0-0.tar.gz'
+Content type 'binary/octet-stream' length 461847 bytes (451 KB)
+==================================================
+downloaded 451 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/ROI.plugin.lpsolve_1.0-1.tar.gz'
+Content type 'binary/octet-stream' length 45283 bytes (44 KB)
+==================================================
+downloaded 44 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/lpSolveAPI_5.5.2.0-17.9.tar.gz'
+Content type 'binary/octet-stream' length 1466592 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/detectseparation_0.3.tar.gz'
+Content type 'binary/octet-stream' length 150258 bytes (146 KB)
+==================================================
+downloaded 146 KB
+
+* installing *binary* package ‘registry’ ...
+* ‘registry’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘registry’ as ‘registry_0.5-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (registry)
+* installing *binary* package ‘slam’ ...
+* ‘slam’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘slam’ as ‘slam_0.1-50_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (slam)
+* installing *binary* package ‘lpSolveAPI’ ...
+* ‘lpSolveAPI’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lpSolveAPI’ as ‘lpSolveAPI_5.5.2.0-17.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lpSolveAPI)
+* installing *binary* package ‘ROI’ ...
+* ‘ROI’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ROI’ as ‘ROI_1.0-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ROI)
+* installing *binary* package ‘ROI.plugin.lpsolve’ ...
+* ‘ROI.plugin.lpsolve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ROI.plugin.lpsolve’ as ‘ROI.plugin.lpsolve_1.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ROI.plugin.lpsolve)
+* installing *binary* package ‘detectseparation’ ...
+* ‘detectseparation’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘detectseparation’ as ‘detectseparation_0.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (detectseparation)
+
+The downloaded source packages are in
+	‘/tmp/RtmpoGcUqK/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m15.898s
+user	0m7.073s
+sys	0m1.029s
