@@ -595,9 +595,7 @@
         "plyranges"
     ],
     "CGHcall": [],
-    "cghMCR": [
-        "CNTools"
-    ],
+    "cghMCR": [],
     "CGHnormaliter": [
         "CGHcall"
     ],
@@ -759,7 +757,6 @@
     "cn.farms": [],
     "CNEr": [],
     "CNORfuzzy": [],
-    "CNTools": [],
     "CNVfilteR": [
         "BSgenome",
         "CopyNumberPlots",
