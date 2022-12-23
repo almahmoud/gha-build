@@ -5529,9 +5529,7 @@
         "viridis"
     ],
     "flowAI": [],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowcatchR": [
         "EBImage",
         "htmlwidgets",
@@ -5576,7 +5574,6 @@
         "viridis",
         "waldo"
     ],
-    "flowFP": [],
     "flowGraph": [
         "ggiraph",
         "ggrepel",
@@ -5812,9 +5809,7 @@
         "viridis",
         "waldo"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GBScleanR": [
         "tidyr"
     ],
