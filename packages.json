@@ -17957,8 +17957,7 @@
         "XVector",
         "annotate",
         "genefilter",
-        "httr",
-        "les"
+        "httr"
     ],
     "GSVA": [
         "AnnotationDbi",
@@ -20926,7 +20925,6 @@
         "multcomp",
         "tibble"
     ],
-    "les": [],
     "levi": [
         "DT",
         "bslib",
