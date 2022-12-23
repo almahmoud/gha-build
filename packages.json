@@ -248,9 +248,7 @@
         "biovizBase"
     ],
     "ChIPpeakAnno": [],
-    "ChIPQC": [
-        "TxDb.Hsapiens.UCSC.hg18.knownGene"
-    ],
+    "ChIPQC": [],
     "ChIPseeker": [
         "enrichplot"
     ],
@@ -544,7 +542,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "biovizBase",
         "minfi"
     ],
@@ -1276,7 +1273,6 @@
         "rstatix"
     ],
     "preciseTAD": [
-        "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "rCGH"
     ],
     "primirTSS": [
@@ -1343,9 +1339,7 @@
     "RadioGx": [],
     "RareVariantVis": [],
     "RCAS": [],
-    "rCGH": [
-        "TxDb.Hsapiens.UCSC.hg18.knownGene"
-    ],
+    "rCGH": [],
     "ReactomePA": [
         "enrichplot"
     ],
@@ -1832,7 +1826,6 @@
         "minfi"
     ],
     "spp": [],
-    "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
     "qs": [],
     "propr": [],
     "factoextra": [
