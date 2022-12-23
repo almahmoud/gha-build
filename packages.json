@@ -21,8 +21,7 @@
         "affy",
         "biovizBase",
         "gcrma",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "affyILM": [
         "affy",
@@ -47,18 +46,15 @@
         "affycoretools",
         "biovizBase",
         "gcrma",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "airpart": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "AllelicImbalance": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "altcdfenvs": [
         "affy",
@@ -72,8 +68,7 @@
     "ANCOMBC": [
         "Hmisc",
         "mia",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "AneuFinder": [
         "ReorderCluster"
@@ -95,8 +90,7 @@
     ],
     "ArrayExpress": [],
     "ArrayExpressHTS": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "arrayMvout": [
         "HDF5Array",
@@ -113,7 +107,6 @@
         "affy",
         "affyPLM",
         "gcrma",
-        "viridis",
         "vsn"
     ],
     "artMS": [
@@ -123,20 +116,17 @@
         "Gviz",
         "Hmisc",
         "biovizBase",
-        "mGSZ",
-        "viridis"
+        "mGSZ"
     ],
     "ASpli": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "ATACCoGAPS": [
         "CoGAPS",
         "projectR",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "ATACseqQC": [
         "GenomicScores",
@@ -152,32 +142,24 @@
         "dendextend",
         "pRoloc",
         "pRolocdata",
-        "viridis",
         "vsn"
     ],
-    "barcodetrackR": [
-        "viridis"
-    ],
-    "BASiCS": [
-        "viridis"
-    ],
+    "barcodetrackR": [],
+    "BASiCS": [],
     "BASiCStan": [
         "BASiCS",
         "HDF5Array",
         "glmGamPoi",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "basilisk": [],
     "BatchQC": [
         "dendextend",
-        "heatmaply",
-        "viridis"
+        "heatmaply"
     ],
     "BayesSpace": [
         "rhdf5",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "benchdamic": [
         "ANCOMBC",
@@ -188,8 +170,7 @@
         "mia",
         "phyloseq",
         "rhdf5",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "BgeeCall": [
         "rhdf5"
@@ -209,14 +190,12 @@
         "wateRmelon"
     ],
     "bigPint": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "BindingSiteFinder": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "bioCancer": [
         "DiagrammeR",
@@ -224,8 +203,7 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "radiant.data",
-        "viridis"
+        "radiant.data"
     ],
     "BiocOncoTK": [
         "HDF5Array",
@@ -243,32 +221,26 @@
     "BioMM": [
         "Hmisc",
         "rms",
-        "viridis",
         "xlsx"
     ],
     "biomvRCNS": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "BioNAR": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "BioNERO": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "BioNetStat": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "biovizBase": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "biscuiteer": [
         "HDF5Array",
@@ -277,9 +249,7 @@
         "rhdf5"
     ],
     "BitSeq": [],
-    "blacksheepr": [
-        "viridis"
-    ],
+    "blacksheepr": [],
     "bnbc": [
         "rhdf5"
     ],
@@ -290,8 +260,7 @@
     "BOBaFIT": [
         "Hmisc",
         "biovizBase",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -306,8 +275,7 @@
         "biovizBase",
         "derfinder",
         "derfinderPlot",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "bsseq": [
         "HDF5Array",
@@ -315,43 +283,37 @@
     ],
     "BubbleTree": [
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "CAFE": [
         "Hmisc",
         "affy",
         "biovizBase",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "CAGEfightR": [
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "cageminer": [
         "BioNERO",
         "Hmisc",
         "WGCNA",
         "biovizBase",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "CAMERA": [
         "Hmisc",
         "MSnbase",
         "affy",
-        "viridis",
         "vsn",
         "xcms"
     ],
     "canceR": [
         "Hmisc",
-        "phenoTest",
-        "viridis"
+        "phenoTest"
     ],
     "CancerInSilico": [],
     "CATALYST": [
@@ -359,15 +321,13 @@
         "drc",
         "ggpubr",
         "rstatix",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "cbpManager": [
         "basilisk"
     ],
     "celda": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "cellHTS2": [
         "affy",
@@ -375,29 +335,24 @@
     ],
     "CelliD": [
         "Seurat",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "cellmigRation": [
         "FactoMineR",
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "CellMixS": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "CellTrails": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "CEMiTool": [
         "Hmisc",
         "WGCNA",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "censcyt": [
         "FlowSOM",
@@ -410,8 +365,7 @@
         "rhdf5"
     ],
     "ceRNAnetsim": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "CeTF": [
         "GenomicTools",
@@ -419,8 +373,7 @@
         "enrichplot",
         "ggpubr",
         "ggraph",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "ChAMP": [
         "DMRcate",
@@ -441,65 +394,54 @@
         "minfi",
         "missMethyl",
         "rhdf5",
-        "viridis",
         "wateRmelon"
     ],
     "CHETAH": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "ChIC": [
         "spp"
     ],
     "Chicago": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "chimeraviz": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "chipenrich": [
         "Hmisc",
-        "rms",
-        "viridis"
+        "rms"
     ],
     "ChIPexoQual": [
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "ChIPseeker": [
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "ChIPXpress": [
         "affy",
         "frma"
     ],
     "ChromSCape": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "cicero": [
         "Gviz",
         "Hmisc",
         "biovizBase",
-        "monocle",
-        "viridis"
+        "monocle"
     ],
     "CIMICE": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "CiteFuse": [
         "ggraph",
         "propr",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "cliqueMS": [
         "MSnbase",
@@ -519,8 +461,7 @@
     ],
     "clusterProfiler": [
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "cmapR": [
         "rhdf5"
@@ -531,16 +472,14 @@
         "Hmisc",
         "biovizBase",
         "karyoploteR",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "CNViz": [
         "CopyNumberPlots",
         "Hmisc",
         "biovizBase",
         "karyoploteR",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "COCOA": [
         "HDF5Array",
@@ -558,8 +497,7 @@
     "comapr": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "combi": [
         "biomformat",
@@ -569,8 +507,7 @@
     "coMET": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "compartmap": [
         "HDF5Array",
@@ -580,8 +517,7 @@
         "Gviz",
         "Hmisc",
         "biovizBase",
-        "methylPipe",
-        "viridis"
+        "methylPipe"
     ],
     "conclus": [
         "FactoMineR",
@@ -592,23 +528,19 @@
         "ggpubr",
         "ggraph",
         "rstatix",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "condiments": [
         "distinct",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "CONFESS": [
         "Hmisc",
         "contrast",
-        "rms",
-        "viridis"
+        "rms"
     ],
     "consensusDE": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "consensusOV": [
         "GSVA",
@@ -629,8 +561,7 @@
         "Hmisc",
         "biovizBase",
         "karyoploteR",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "Cormotif": [
         "affy"
@@ -664,8 +595,7 @@
         "biovizBase",
         "crisprDesign",
         "crisprScore",
-        "crisprViz",
-        "viridis"
+        "crisprViz"
     ],
     "crisprViz": [
         "Gviz",
@@ -673,16 +603,14 @@
         "basilisk",
         "biovizBase",
         "crisprDesign",
-        "crisprScore",
-        "viridis"
+        "crisprScore"
     ],
     "crossmeta": [
         "affy"
     ],
     "csdR": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "cTRAP": [
         "rhdf5"
@@ -696,19 +624,15 @@
     "cummeRbund": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "cyanoFilter": [
         "GEOmap",
         "RFOC",
         "fields",
-        "flowDensity",
-        "viridis"
+        "flowDensity"
     ],
-    "cydar": [
-        "viridis"
-    ],
+    "cydar": [],
     "CyTOFpower": [
         "CytoGLMM",
         "FactoMineR",
@@ -717,30 +641,26 @@
         "diffcyt",
         "factoextra",
         "ggpubr",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "CytoGLMM": [
         "FactoMineR",
         "dendextend",
         "factoextra",
         "ggpubr",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "cytomapper": [
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "DaMiRseq": [
         "FSelector",
         "FactoMineR",
         "Hmisc",
-        "RWeka",
-        "viridis"
+        "RWeka"
     ],
     "DAPAR": [
         "DAPARdata",
@@ -754,23 +674,20 @@
         "rstatix"
     ],
     "dce": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "ddPCRclust": [
         "GEOmap",
         "RFOC",
         "fields",
-        "flowDensity",
-        "viridis"
+        "flowDensity"
     ],
     "debrowser": [
         "clusterProfiler",
         "dendextend",
         "enrichplot",
         "ggraph",
-        "heatmaply",
-        "viridis"
+        "heatmaply"
     ],
     "deconvR": [
         "HDF5Array",
@@ -780,13 +697,11 @@
     "DeepPINCS": [
         "DiagrammeR",
         "rcdk",
-        "ttgsea",
-        "viridis"
+        "ttgsea"
     ],
     "DegNorm": [
         "dendextend",
-        "heatmaply",
-        "viridis"
+        "heatmaply"
     ],
     "DelayedTensor": [
         "HDF5Array",
@@ -797,8 +712,7 @@
         "HDF5Array",
         "bsseq",
         "dendextend",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "densvis": [
         "basilisk"
@@ -808,19 +722,15 @@
         "affy",
         "vsn"
     ],
-    "DepecheR": [
-        "viridis"
-    ],
+    "DepecheR": [],
     "derfinder": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "derfinderPlot": [
         "Hmisc",
         "biovizBase",
         "derfinder",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "DEsingle": [
         "gamlss"
@@ -831,8 +741,7 @@
     "DExMA": [],
     "diffcoexp": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "diffcyt": [
         "FlowSOM",
@@ -847,12 +756,10 @@
     ],
     "DiscoRhythm": [
         "dendextend",
-        "heatmaply",
-        "viridis"
+        "heatmaply"
     ],
     "distinct": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "DMCFB": [],
     "DMRcate": [
@@ -869,14 +776,12 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "DMRforPairs": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "dmrseq": [
         "HDF5Array",
@@ -884,8 +789,7 @@
         "rhdf5"
     ],
     "DNAshapeR": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "Doscheda": [
         "affy",
@@ -913,15 +817,13 @@
     "EasyCellType": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "edge": [],
     "eegc": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "EGSEA": [
         "GSVA",
@@ -933,8 +835,7 @@
         "Hmisc",
         "biovizBase",
         "ggpubr",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "ENmix": [
         "HDF5Array",
@@ -942,22 +843,19 @@
         "rhdf5"
     ],
     "enrichplot": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "enrichTF": [
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
         "ggraph",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "EpiCompare": [
         "ChIPseeker",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "epidecodeR": [
         "ggpubr",
@@ -974,8 +872,7 @@
         "ReactomePA",
         "WGCNA",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "EpiMix": [],
     "epimutacions": [
@@ -988,13 +885,11 @@
         "IlluminaHumanMethylationEPICmanifest",
         "biovizBase",
         "minfi",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "epistasisGA": [
         "Hmisc",
-        "qgraph",
-        "viridis"
+        "qgraph"
     ],
     "epivizr": [],
     "epivizrStandalone": [
@@ -1004,8 +899,7 @@
         "ChIPseeker",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "escape": [
         "GSVA",
@@ -1033,29 +927,25 @@
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "FamAgg": [],
     "famat": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "farms": [
         "affy"
     ],
     "fastLiquidAssociation": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "fcoex": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "ffpe": [
         "HDF5Array",
@@ -1070,7 +960,6 @@
         "Hmisc",
         "MSnbase",
         "affy",
-        "viridis",
         "vsn",
         "xcms"
     ],
@@ -1082,8 +971,7 @@
         "biovizBase",
         "ggbio",
         "rhdf5",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "flowCL": [
         "SPARQL"
@@ -1092,14 +980,12 @@
         "GEOmap",
         "RFOC",
         "fields",
-        "flowDensity",
-        "viridis"
+        "flowDensity"
     ],
     "flowDensity": [
         "GEOmap",
         "RFOC",
-        "fields",
-        "viridis"
+        "fields"
     ],
     "flowPloidy": [],
     "FlowSOM": [
@@ -1107,16 +993,14 @@
         "rstatix"
     ],
     "fobitools": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "FRASER": [
         "HDF5Array",
         "OUTRIDER",
         "dendextend",
         "heatmaply",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "frenchFISH": [
         "NHPoisson"
@@ -1143,8 +1027,7 @@
         "FSelector",
         "FactoMineR",
         "Hmisc",
-        "RWeka",
-        "viridis"
+        "RWeka"
     ],
     "gcrma": [
         "affy"
@@ -1155,8 +1038,7 @@
         "ggpubr",
         "ggraph",
         "rstatix",
-        "survminer",
-        "viridis"
+        "survminer"
     ],
     "GeneAccord": [
         "ggpubr",
@@ -1169,24 +1051,20 @@
     "GeneStructureTools": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "GeneTonic": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "GenomicInteractions": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "GenomicOZone": [
         "Hmisc",
         "biovizBase",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "GenomicScores": [
         "HDF5Array",
@@ -1200,12 +1078,9 @@
         "DeepPINCS",
         "DiagrammeR",
         "rcdk",
-        "ttgsea",
-        "viridis"
+        "ttgsea"
     ],
-    "GenVisR": [
-        "viridis"
-    ],
+    "GenVisR": [],
     "GeoDiff": [
         "robust"
     ],
@@ -1216,8 +1091,7 @@
         "ggpubr",
         "heatmaply",
         "rstatix",
-        "shinyHeatmaply",
-        "viridis"
+        "shinyHeatmaply"
     ],
     "GEOsubmission": [
         "affy"
@@ -1233,8 +1107,7 @@
     "GEWIST": [],
     "ggbio": [
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "ggspavis": [
         "DropletUtils",
@@ -1244,8 +1117,7 @@
     ],
     "GISPA": [
         "HH",
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "glmGamPoi": [
         "HDF5Array",
@@ -1257,31 +1129,24 @@
         "survminer"
     ],
     "GlobalAncova": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "GmicR": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "GNET2": [
-        "DiagrammeR",
-        "viridis"
+        "DiagrammeR"
     ],
     "GOpro": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
-    "GRaNIE": [
-        "viridis"
-    ],
+    "GRaNIE": [],
     "GRmetrics": [
         "drc"
     ],
@@ -1289,8 +1154,7 @@
         "rhdf5"
     ],
     "GSEAmining": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "GSVA": [
         "HDF5Array",
@@ -1302,13 +1166,11 @@
     ],
     "Gviz": [
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "GWENA": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "h5vc": [
         "rhdf5"
@@ -1322,12 +1184,10 @@
         "rhdf5"
     ],
     "HGC": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "HiCBricks": [
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "HiCcompare": [
         "rhdf5"
@@ -1336,8 +1196,7 @@
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "HiCDOC": [
         "HiCcompare",
@@ -1351,8 +1210,7 @@
         "Gviz",
         "Hmisc",
         "biovizBase",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "hipathia": [
         "coin"
@@ -1361,8 +1219,7 @@
         "affy"
     ],
     "iCARE": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "iCheck": [
         "HDF5Array",
@@ -1373,18 +1230,15 @@
         "rhdf5"
     ],
     "iCNV": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "ideal": [
         "dendextend",
         "heatmaply",
-        "pcaExplorer",
-        "viridis"
+        "pcaExplorer"
     ],
     "ILoReg": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "imageHTS": [
         "affy",
@@ -1397,13 +1251,11 @@
         "SpatialExperiment",
         "cytomapper",
         "ggraph",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "ImmuneSpaceR": [
         "dendextend",
-        "heatmaply",
-        "viridis"
+        "heatmaply"
     ],
     "infercnv": [
         "Seurat",
@@ -1416,8 +1268,7 @@
     "intansv": [
         "Hmisc",
         "biovizBase",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "interactiveDisplay": [],
     "InterCellar": [
@@ -1425,8 +1276,7 @@
         "dendextend",
         "factoextra",
         "ggpubr",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "IONiseR": [
         "rhdf5"
@@ -1441,7 +1291,6 @@
         "Hmisc",
         "MSnbase",
         "affy",
-        "viridis",
         "vsn",
         "xcms"
     ],
@@ -1454,8 +1303,7 @@
         "ggpubr",
         "ggraph",
         "rstatix",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "ISAnalytics": [],
     "ITALICS": [
@@ -1468,8 +1316,7 @@
     ],
     "karyoploteR": [
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "kissDE": [
         "DSS",
@@ -1480,12 +1327,10 @@
         "factoextra",
         "ggpubr",
         "rhdf5",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "KnowSeq": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "lefser": [
         "coin"
@@ -1506,7 +1351,6 @@
         "Hmisc",
         "MSnbase",
         "affy",
-        "viridis",
         "vsn",
         "xcms"
     ],
@@ -1526,15 +1370,13 @@
         "rhdf5"
     ],
     "M3Drop": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "Maaslin2": [],
     "Macarron": [
         "Hmisc",
         "Maaslin2",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "MACSr": [
         "basilisk"
@@ -1545,14 +1387,12 @@
         "fields",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "MAIT": [
         "CAMERA",
@@ -1561,7 +1401,6 @@
         "affy",
         "fields",
         "plsgenomics",
-        "viridis",
         "vsn",
         "xcms"
     ],
@@ -1575,8 +1414,7 @@
     "maser": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "maskBAD": [
         "affy",
@@ -1585,7 +1423,6 @@
     "MatrixQCvis": [
         "Hmisc",
         "affy",
-        "viridis",
         "vsn"
     ],
     "MBECS": [
@@ -1596,19 +1433,16 @@
     "mbkmeans": [],
     "mbOmic": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "MCbiclust": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "mCSEA": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "MEAL": [
         "Gviz",
@@ -1622,8 +1456,7 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "MEAT": [
         "HDF5Array",
@@ -1640,8 +1473,7 @@
     ],
     "meshes": [
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "Metab": [
         "MSnbase",
@@ -1652,8 +1484,7 @@
     "MetaboSignal": [
         "Hmisc",
         "MWASTools",
-        "mygene",
-        "viridis"
+        "mygene"
     ],
     "MetaCyto": [
         "FlowSOM",
@@ -1665,19 +1496,16 @@
         "Hmisc",
         "MSnbase",
         "affy",
-        "viridis",
         "vsn",
         "xcms"
     ],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "metapone": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "metaseqR2": [
         "DSS",
@@ -1687,7 +1515,6 @@
         "dendextend",
         "heatmaply",
         "rhdf5",
-        "viridis",
         "vsn"
     ],
     "metavizr": [
@@ -1745,8 +1572,7 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "methylInheritance": [
         "rebus"
@@ -1754,8 +1580,7 @@
     "methylPipe": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "methylSig": [
         "DSS",
@@ -1769,14 +1594,12 @@
         "rhdf5"
     ],
     "mia": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "miaViz": [
         "ggraph",
         "mia",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "microbiome": [
         "biomformat",
@@ -1792,8 +1615,7 @@
         "biomformat",
         "dendextend",
         "heatmaply",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "microbiomeMarker": [
         "ANCOMBC",
@@ -1803,21 +1625,18 @@
         "mia",
         "phyloseq",
         "rhdf5",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "MicrobiotaProcess": [
         "coin"
     ],
     "miloR": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "mimager": [
         "affy",
@@ -1825,8 +1644,7 @@
         "gcrma"
     ],
     "mina": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "MineICA": [
         "HDF5Array",
@@ -1835,8 +1653,7 @@
         "lumi",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "minfi": [
         "HDF5Array",
@@ -1848,8 +1665,7 @@
         "rhdf5"
     ],
     "miRLAB": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "miRSM": [
         "BiBitR",
@@ -1863,8 +1679,7 @@
         "ggpubr",
         "ggraph",
         "miRspongeR",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "miRspongeR": [
         "ReactomePA",
@@ -1873,8 +1688,7 @@
         "enrichplot",
         "ggpubr",
         "ggraph",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "missMethyl": [
         "HDF5Array",
@@ -1889,9 +1703,7 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "moanin": [
-        "viridis"
-    ],
+    "moanin": [],
     "MobilityTransformR": [
         "MSnbase",
         "affy",
@@ -1900,28 +1712,23 @@
     ],
     "MODA": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "MOFA2": [
         "HDF5Array",
         "basilisk",
         "rhdf5"
     ],
-    "monocle": [
-        "viridis"
-    ],
+    "monocle": [],
     "MoonlightR": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "motifbreakR": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "MQmetrics": [
         "ggpubr",
@@ -1930,8 +1737,7 @@
     "msgbsR": [
         "Hmisc",
         "biovizBase",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "msmsEDA": [
         "MSnbase",
@@ -1967,8 +1773,7 @@
         "dendextend",
         "factoextra",
         "ggpubr",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "MSstatsPTM": [
         "MSstats",
@@ -1992,8 +1797,7 @@
         "Hmisc",
         "MSstats",
         "MSstatsPTM",
-        "MSstatsTMT",
-        "viridis"
+        "MSstatsTMT"
     ],
     "MSstatsTMT": [
         "MSstats"
@@ -2002,12 +1806,10 @@
         "rhdf5"
     ],
     "Mulcom": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "multiClust": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "multicrispr": [
         "CRISPRseek",
@@ -2015,8 +1817,7 @@
         "assertive",
         "biovizBase",
         "karyoploteR",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -2026,29 +1827,24 @@
         "ReactomePA",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "muscat": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "musicatk": [
         "FactoMineR",
         "dendextend",
         "factoextra",
         "ggpubr",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "MWASTools": [],
     "mygene": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "myvariant": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "NADfinder": [
         "ATACseqQC",
@@ -2058,8 +1854,7 @@
         "Hmisc",
         "biovizBase",
         "rhdf5",
-        "trackViewer",
-        "viridis"
+        "trackViewer"
     ],
     "NanoMethViz": [
         "HDF5Array",
@@ -2081,27 +1876,23 @@
     "NetActivity": [],
     "netboost": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "netboxr": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "NetSAM": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "netSmooth": [
         "HDF5Array",
         "clusterExperiment",
         "mbkmeans",
         "rhdf5",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "netZooR": [
         "HDF5Array",
@@ -2124,7 +1915,6 @@
         "Hmisc",
         "RcmdrMisc",
         "affy",
-        "viridis",
         "vsn"
     ],
     "NxtIRFcore": [
@@ -2143,28 +1933,24 @@
         "dasper",
         "derfinder",
         "ggpubr",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "OGRE": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "omicRexposome": [
         "FactoMineR",
         "Hmisc",
-        "rexposome",
-        "viridis"
+        "rexposome"
     ],
     "OMICsPCA": [
         "FactoMineR",
         "dendextend",
         "factoextra",
         "ggpubr",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "omicsViewer": [
         "ggpubr",
@@ -2173,17 +1959,14 @@
     ],
     "OncoSimulR": [],
     "openPrimeR": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "openPrimeRui": [
         "Hmisc",
-        "openPrimeR",
-        "viridis"
+        "openPrimeR"
     ],
     "OpenStats": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "oppar": [
         "GSVA",
@@ -2200,8 +1983,7 @@
     ],
     "OUTRIDER": [
         "dendextend",
-        "heatmaply",
-        "viridis"
+        "heatmaply"
     ],
     "padma": [
         "FactoMineR"
@@ -2209,15 +1991,13 @@
     "PanomiR": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "panp": [
         "affy"
     ],
     "pareg": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "PathoStat": [
         "biomformat",
@@ -2226,8 +2006,7 @@
     ],
     "pcaExplorer": [
         "dendextend",
-        "heatmaply",
-        "viridis"
+        "heatmaply"
     ],
     "PDATK": [
         "fields",
@@ -2235,8 +2014,7 @@
         "ggpubr",
         "rstatix",
         "survminer",
-        "verification",
-        "viridis"
+        "verification"
     ],
     "pdInfoBuilder": [],
     "peakPantheR": [
@@ -2248,12 +2026,10 @@
         "affy"
     ],
     "peco": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "pepStat": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "PERFect": [
         "biomformat",
@@ -2263,22 +2039,19 @@
     "PFP": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "phantasus": [
         "rhdf5"
     ],
     "phenoTest": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "PhenStat": [],
     "PhosR": [
         "dendextend",
         "ggpubr",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "phyloseq": [
         "biomformat",
@@ -2290,19 +2063,16 @@
         "WGCNA",
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "PING": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "pipeComp": [
         "Seurat",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "plier": [
         "affy"
@@ -2310,8 +2080,7 @@
     "plotGrouper": [
         "Hmisc",
         "ggpubr",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "ppcseq": [],
     "prebs": [
@@ -2332,14 +2101,12 @@
         "Hmisc",
         "biovizBase",
         "phastCons100way.UCSC.hg38",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "PrInCE": [
         "Hmisc",
         "MSnbase",
         "affy",
-        "viridis",
         "vsn"
     ],
     "proBatch": [
@@ -2347,7 +2114,6 @@
         "WGCNA",
         "affy",
         "pvca",
-        "viridis",
         "vsn"
     ],
     "proFIA": [
@@ -2359,19 +2125,16 @@
     "profileplyr": [
         "ChIPseeker",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "projectR": [
         "CoGAPS",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "pRoloc": [
         "MSnbase",
         "affy",
         "dendextend",
-        "viridis",
         "vsn"
     ],
     "pRolocGUI": [
@@ -2379,7 +2142,6 @@
         "affy",
         "dendextend",
         "pRoloc",
-        "viridis",
         "vsn"
     ],
     "Prostar": [
@@ -2400,14 +2162,12 @@
         "factoextra",
         "ggpubr",
         "rstatix",
-        "viridis",
         "vsn"
     ],
     "psichomics": [
         "Hmisc",
         "derfinder",
-        "recount",
-        "viridis"
+        "recount"
     ],
     "ptairMS": [
         "Hmisc",
@@ -2416,7 +2176,6 @@
         "ggpubr",
         "rhdf5",
         "rstatix",
-        "viridis",
         "vsn"
     ],
     "puma": [
@@ -2435,15 +2194,13 @@
     "Pviz": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "pwrEWAS": [],
     "qmtools": [
         "VIM",
         "dendextend",
-        "heatmaply",
-        "viridis"
+        "heatmaply"
     ],
     "qpcrNorm": [
         "affy"
@@ -2455,12 +2212,10 @@
     ],
     "qrqc": [
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "qsmooth": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "quantro": [
         "HDF5Array",
@@ -2470,8 +2225,7 @@
     "R3CPET": [
         "Hmisc",
         "biovizBase",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "RareVariantVis": [
         "GenomicScores",
@@ -2493,19 +2247,16 @@
     ],
     "Rcwl": [
         "DiagrammeR",
-        "basilisk",
-        "viridis"
+        "basilisk"
     ],
     "RcwlPipelines": [
         "DiagrammeR",
         "Rcwl",
-        "basilisk",
-        "viridis"
+        "basilisk"
     ],
     "ReactomePA": [
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "reconsi": [
         "biomformat",
@@ -2514,8 +2265,7 @@
     ],
     "recount": [
         "Hmisc",
-        "derfinder",
-        "viridis"
+        "derfinder"
     ],
     "recountmethylation": [
         "HDF5Array",
@@ -2530,19 +2280,16 @@
     ],
     "RegEnrich": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "regionReport": [
         "Hmisc",
-        "derfinder",
-        "viridis"
+        "derfinder"
     ],
     "regutools": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "REMP": [
         "HDF5Array",
@@ -2557,13 +2304,11 @@
     "ReportingTools": [
         "Hmisc",
         "biovizBase",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "rexposome": [
         "FactoMineR",
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "RGMQL": [],
     "rhdf5": [],
@@ -2574,8 +2319,7 @@
     "RiboProfiling": [
         "Hmisc",
         "biovizBase",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "ribor": [
         "rhdf5"
@@ -2588,8 +2332,7 @@
     "RIPAT": [
         "Hmisc",
         "biovizBase",
-        "karyoploteR",
-        "viridis"
+        "karyoploteR"
     ],
     "Risa": [
         "MSnbase",
@@ -2606,8 +2349,7 @@
     "RNAAgeCalc": [
         "Hmisc",
         "derfinder",
-        "recount",
-        "viridis"
+        "recount"
     ],
     "RNAinteract": [
         "affy",
@@ -2617,29 +2359,25 @@
     "RNAmodR": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "Gviz",
         "Hmisc",
         "RNAmodR",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "RNAmodR.ML": [
         "Gviz",
         "Hmisc",
         "RNAmodR",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "RNAmodR.RiboMethSeq": [
         "Gviz",
         "Hmisc",
         "RNAmodR",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "RNASeqR": [
         "FactoMineR",
@@ -2649,24 +2387,21 @@
         "factoextra",
         "ggpubr",
         "ggraph",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "RnaSeqSampleSize": [
         "Hmisc",
         "derfinder",
         "ggpubr",
         "recount",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "RnBeads": [
         "HDF5Array",
         "fields",
         "methylumi",
         "minfi",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "RPA": [
         "affy",
@@ -2676,15 +2411,13 @@
     ],
     "Rqc": [
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "rqt": [],
     "RTCGA": [
         "ggpubr",
         "rstatix",
-        "survminer",
-        "viridis"
+        "survminer"
     ],
     "RTN": [],
     "RTNduals": [
@@ -2695,8 +2428,7 @@
         "RTNduals"
     ],
     "Rtreemix": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "RUVnormalize": [],
     "scAlign": [
@@ -2712,9 +2444,7 @@
         "Seurat"
     ],
     "SCATE": [],
-    "scater": [
-        "viridis"
-    ],
+    "scater": [],
     "scBFA": [
         "Seurat"
     ],
@@ -2731,19 +2461,16 @@
         "Cepo",
         "HDF5Array",
         "ggraph",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "scDataviz": [
         "Seurat"
     ],
     "scDblFinder": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "scDD": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "schex": [
         "Seurat"
@@ -2753,12 +2480,9 @@
     ],
     "scMerge": [
         "Hmisc",
-        "M3Drop",
-        "viridis"
+        "M3Drop"
     ],
-    "scMET": [
-        "viridis"
-    ],
+    "scMET": [],
     "scmeth": [
         "HDF5Array",
         "bsseq",
@@ -2768,22 +2492,19 @@
         "rhdf5"
     ],
     "scPipe": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "scRecover": [
         "Rmagic",
         "gamlss"
     ],
     "scRepertoire": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "scruff": [
         "Hmisc",
         "biovizBase",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "scry": [
         "HDF5Array",
@@ -2799,34 +2520,29 @@
         "ggraph",
         "heatmaply",
         "nnTensor",
-        "schex",
-        "viridis"
+        "schex"
     ],
     "scTGIF": [
         "Seurat",
         "fields",
         "nnTensor",
-        "schex",
-        "viridis"
+        "schex"
     ],
     "scTreeViz": [
         "Seurat",
         "clustree",
         "epivizr",
         "ggraph",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "segmenter": [
         "ChIPseeker",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "seq2pathway": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "seqCNA": [],
     "sesame": [],
@@ -2835,8 +2551,7 @@
         "dendextend",
         "heatmaply",
         "minfi",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "shinyMethyl": [
         "HDF5Array",
@@ -2857,8 +2572,7 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "signeR": [
         "ggpubr",
@@ -2874,8 +2588,7 @@
         "ggpubr",
         "rhdf5",
         "rstatix",
-        "survminer",
-        "viridis"
+        "survminer"
     ],
     "SimBindProfiles": [
         "Ringo",
@@ -2893,12 +2606,10 @@
         "HDF5Array",
         "SpatialExperiment",
         "cytomapper",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "sincell": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "singleCellTK": [
         "DropletUtils",
@@ -2914,8 +2625,7 @@
         "rhdf5",
         "scDblFinder",
         "scMerge",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "SISPA": [
         "GSVA",
@@ -2934,8 +2644,7 @@
         "wateRmelon"
     ],
     "SMITE": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "snapCGH": [
         "affy",
@@ -2951,20 +2660,16 @@
     "SomaticSignatures": [
         "Hmisc",
         "biovizBase",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "Spaniel": [
         "DropletUtils",
         "HDF5Array",
         "Seurat",
         "rhdf5",
-        "scater",
-        "viridis"
+        "scater"
     ],
-    "sparrow": [
-        "viridis"
-    ],
+    "sparrow": [],
     "spaSim": [
         "DropletUtils",
         "HDF5Array",
@@ -2992,19 +2697,16 @@
     "spatialHeatmap": [
         "Hmisc",
         "WGCNA",
-        "scater",
-        "viridis"
+        "scater"
     ],
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "SpeCond": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "SpectralTAD": [
         "HiCcompare",
@@ -3023,22 +2725,19 @@
         "rhdf5"
     ],
     "splatter": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "SpliceWiz": [
         "HDF5Array",
         "dendextend",
         "fst",
         "heatmaply",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "SPLINTER": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "SPONGE": [
         "ggpubr",
@@ -3049,35 +2748,30 @@
         "HDF5Array",
         "Seurat",
         "SpatialExperiment",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "SPsimSeq": [
         "Hmisc",
         "WGCNA",
         "biomformat",
         "phyloseq",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "srnadiff": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "sscore": [
         "affy"
     ],
     "sSNAPPY": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "STAN": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "standR": [
         "DropletUtils",
@@ -3093,9 +2787,7 @@
     "STATegRa": [
         "affy"
     ],
-    "STdeconvolve": [
-        "viridis"
-    ],
+    "STdeconvolve": [],
     "stJoincount": [
         "DropletUtils",
         "HDF5Array",
@@ -3116,8 +2808,7 @@
     "synergyfinder": [
         "SpatialExtremes",
         "drc",
-        "fields",
-        "viridis"
+        "fields"
     ],
     "TADCompare": [
         "HiCcompare",
@@ -3130,8 +2821,7 @@
         "rstatix"
     ],
     "TarSeqQC": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "TBSignatureProfiler": [
         "GSVA",
@@ -3148,15 +2838,13 @@
         "ggpubr",
         "ggraph",
         "rstatix",
-        "sesame",
-        "viridis"
+        "sesame"
     ],
     "TDARACNE": [
         "GenKern"
     ],
     "TFARM": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "TFHAZ": [
         "ORFik",
@@ -3172,17 +2860,14 @@
     "TimiRGeN": [
         "clusterProfiler",
         "enrichplot",
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "TIN": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "tLOH": [
-        "naniar",
-        "viridis"
+        "naniar"
     ],
     "TNBC.CMS": [
         "GSVA",
@@ -3200,12 +2885,9 @@
         "Gviz",
         "Hmisc",
         "biovizBase",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
-    "tradeSeq": [
-        "viridis"
-    ],
+    "tradeSeq": [],
     "transformGamPoi": [
         "HDF5Array",
         "glmGamPoi",
@@ -3215,9 +2897,7 @@
         "vbsr"
     ],
     "Travel": [],
-    "traviz": [
-        "viridis"
-    ],
+    "traviz": [],
     "treekoR": [
         "FlowSOM",
         "diffcyt",
@@ -3226,19 +2906,16 @@
     ],
     "trena": [
         "Hmisc",
-        "WGCNA",
-        "viridis"
+        "WGCNA"
     ],
     "tricycle": [
-        "scater",
-        "viridis"
+        "scater"
     ],
     "tscR": [
         "kmlShape"
     ],
     "ttgsea": [
-        "DiagrammeR",
-        "viridis"
+        "DiagrammeR"
     ],
     "TurboNorm": [
         "affy"
@@ -3246,30 +2923,26 @@
     "TVTB": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "uncoverappLib": [
         "Gviz",
         "Hmisc",
-        "biovizBase",
-        "viridis"
+        "biovizBase"
     ],
     "unifiedWMWqPCR": [
         "HTqPCR",
         "affy"
     ],
     "uSORT": [
-        "monocle",
-        "viridis"
+        "monocle"
     ],
     "VAExprs": [
         "DeepPINCS",
         "DiagrammeR",
         "rcdk",
         "scater",
-        "ttgsea",
-        "viridis"
+        "ttgsea"
     ],
     "VariantFiltering": [
         "GenomicScores",
@@ -3277,8 +2950,7 @@
         "HDF5Array",
         "Hmisc",
         "biovizBase",
-        "rhdf5",
-        "viridis"
+        "rhdf5"
     ],
     "VDJdive": [
         "basilisk"
@@ -3290,12 +2962,10 @@
     "ViSEAGO": [
         "DiagrammeR",
         "dendextend",
-        "heatmaply",
-        "viridis"
+        "heatmaply"
     ],
     "vissE": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "Voyager": [
         "DropletUtils",
@@ -3317,8 +2987,7 @@
         "rhdf5"
     ],
     "wavClusteR": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "webbioc": [
         "affy",
@@ -3335,8 +3004,7 @@
         "SomaticSignatures",
         "biovizBase",
         "dendextend",
-        "ggbio",
-        "viridis"
+        "ggbio"
     ],
     "yarn": [
         "HDF5Array",
@@ -3354,10 +3022,7 @@
     "affydata": [
         "affy"
     ],
-    "Hmisc": [
-        "viridis"
-    ],
-    "viridis": [],
+    "Hmisc": [],
     "curatedTCGAData": [
         "HDF5Array",
         "rhdf5"
@@ -3386,12 +3051,9 @@
         "affy",
         "vsn"
     ],
-    "dendextend": [
-        "viridis"
-    ],
+    "dendextend": [],
     "heatmaply": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "corncob": [
         "biomformat",
@@ -3404,26 +3066,19 @@
         "rhdf5"
     ],
     "radiant.data": [],
-    "DiagrammeR": [
-        "viridis"
-    ],
-    "ggraph": [
-        "viridis"
-    ],
+    "DiagrammeR": [],
+    "ggraph": [],
     "rms": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "xlsx": [],
     "WGCNA": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "gamlss": [],
     "GenomicState": [
         "Hmisc",
-        "derfinder",
-        "viridis"
+        "derfinder"
     ],
     "drc": [],
     "FactoMineR": [],
@@ -3449,13 +3104,11 @@
         "FactoMineR",
         "dendextend",
         "ggpubr",
-        "rstatix",
-        "viridis"
+        "rstatix"
     ],
     "contrast": [
         "Hmisc",
-        "rms",
-        "viridis"
+        "rms"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "HDF5Array",
@@ -3470,16 +3123,12 @@
     ],
     "RFOC": [
         "GEOmap",
-        "fields",
-        "viridis"
+        "fields"
     ],
     "GEOmap": [
-        "fields",
-        "viridis"
+        "fields"
     ],
-    "fields": [
-        "viridis"
-    ],
+    "fields": [],
     "FSelector": [
         "RWeka"
     ],
@@ -3494,8 +3143,7 @@
     "coin": [],
     "EntropyExplorer": [],
     "qgraph": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "SPARQL": [],
     "NHPoisson": [],
@@ -3506,17 +3154,14 @@
     "robust": [],
     "shinyHeatmaply": [
         "dendextend",
-        "heatmaply",
-        "viridis"
+        "heatmaply"
     ],
     "HH": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "pd.mapping50k.xba240": [],
     "plsgenomics": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "FlowSorted.Blood.450k": [
         "HDF5Array",
@@ -3525,18 +3170,15 @@
     ],
     "rebus": [],
     "BiBitR": [
-        "dendextend",
-        "viridis"
+        "dendextend"
     ],
     "mppa": [],
     "RcmdrMisc": [
-        "Hmisc",
-        "viridis"
+        "Hmisc"
     ],
     "fst": [],
     "verification": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
@@ -3550,16 +3192,13 @@
     ],
     "Rmagic": [],
     "nnTensor": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "ccTensor": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "clustree": [
-        "ggraph",
-        "viridis"
+        "ggraph"
     ],
     "mlr3": [],
     "mlr3learners": [
@@ -3582,13 +3221,10 @@
     ],
     "sampSurf": [],
     "SpatialExtremes": [
-        "fields",
-        "viridis"
+        "fields"
     ],
     "GenKern": [],
-    "naniar": [
-        "viridis"
-    ],
+    "naniar": [],
     "vbsr": [],
     "kmlShape": []
 }
