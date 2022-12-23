@@ -3048,7 +3048,6 @@
         "SingleCellExperiment",
         "viridis"
     ],
-    "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
         "DT",
