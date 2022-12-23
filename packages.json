@@ -68649,8 +68649,7 @@
     ],
     "miRcomp": [
         "Biobase",
-        "KernSmooth",
-        "miRcompData"
+        "KernSmooth"
     ],
     "mirIntegrator": [
         "AnnotationDbi",
@@ -142177,7 +142176,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "miRcompData": [],
     "InvariantCausalPrediction": [
         "Matrix",
         "Rcpp",
