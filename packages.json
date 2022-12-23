@@ -2290,7 +2290,6 @@
         "minfi",
         "rtracklayer"
     ],
-    "fgga": [],
     "FindIT2": [
         "GenomicFeatures",
         "rtracklayer"
