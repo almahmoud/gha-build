@@ -11433,7 +11433,6 @@
     "TimiRGeN": [
         "BiocFileCache",
         "DOSE",
-        "FreqProf",
         "GO.db",
         "GOSemSim",
         "HDO.db",
@@ -13393,7 +13392,6 @@
     "spsComps": [],
     "drawer": [],
     "GenKern": [],
-    "FreqProf": [],
     "gghighlight": [],
     "bestNormalize": [
         "recipes"
