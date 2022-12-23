@@ -3179,7 +3179,6 @@
         "WGCNA",
         "XVector",
         "bslib",
-        "clusterCons",
         "cowplot",
         "dbplyr",
         "dplyr",
@@ -41883,7 +41882,6 @@
         "tibble",
         "tidyselect"
     ],
-    "clusterCons": [],
     "WGCNA": [
         "AnnotationDbi",
         "Biostrings",
