@@ -23047,9 +23047,7 @@
         "XVector",
         "futile.logger"
     ],
-    "logicFS": [
-        "LogicReg"
-    ],
+    "logicFS": [],
     "logitT": [
         "affy"
     ],
@@ -47415,7 +47413,6 @@
         "vctrs"
     ],
     "trio": [
-        "LogicReg",
         "multtest",
         "siggenes"
     ],
@@ -54064,7 +54061,6 @@
         "stringr",
         "vctrs"
     ],
-    "LogicReg": [],
     "reldist": [
         "densEstBayes",
         "ggplot2",
