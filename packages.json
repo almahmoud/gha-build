@@ -49,7 +49,6 @@
     ],
     "bioCancer": [
         "ReactomePA",
-        "clusterProfiler",
         "radiant.data"
     ],
     "BiocOncoTK": [
@@ -98,9 +97,7 @@
     ],
     "cBioPortalData": [],
     "cellmigRation": [],
-    "CEMiTool": [
-        "clusterProfiler"
-    ],
+    "CEMiTool": [],
     "censcyt": [
         "FlowSOM",
         "diffcyt",
@@ -109,7 +106,6 @@
     ],
     "CeTF": [
         "GenomicTools",
-        "clusterProfiler",
         "ggpubr",
         "rstatix"
     ],
@@ -151,7 +147,6 @@
     "CiteFuse": [
         "propr"
     ],
-    "clusterProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "karyoploteR"
@@ -172,7 +167,6 @@
         "methylPipe"
     ],
     "conclus": [
-        "clusterProfiler",
         "factoextra",
         "ggpubr",
         "rstatix"
@@ -230,9 +224,7 @@
     "ddPCRclust": [
         "flowDensity"
     ],
-    "debrowser": [
-        "clusterProfiler"
-    ],
+    "debrowser": [],
     "deconvR": [],
     "DeepPINCS": [
         "mlapi",
@@ -271,12 +263,8 @@
         "ggpubr",
         "rstatix"
     ],
-    "EasyCellType": [
-        "clusterProfiler"
-    ],
-    "eegc": [
-        "clusterProfiler"
-    ],
+    "EasyCellType": [],
+    "eegc": [],
     "ELMER": [
         "Gviz",
         "ggpubr",
@@ -285,7 +273,6 @@
     "enhancerHomologSearch": [],
     "ENmix": [],
     "enrichTF": [
-        "clusterProfiler",
         "ggpubr",
         "rstatix"
     ],
@@ -318,8 +305,7 @@
     ],
     "erma": [],
     "esATAC": [
-        "ChIPseeker",
-        "clusterProfiler"
+        "ChIPseeker"
     ],
     "EventPointer": [],
     "EWCE": [
@@ -332,12 +318,8 @@
         "GenomicInteractions",
         "Gviz"
     ],
-    "famat": [
-        "clusterProfiler"
-    ],
-    "fcoex": [
-        "clusterProfiler"
-    ],
+    "famat": [],
+    "fcoex": [],
     "ffpe": [
         "lumi",
         "methylumi"
@@ -374,7 +356,6 @@
         "DaMiRseq"
     ],
     "GDCRNATools": [
-        "clusterProfiler",
         "ggpubr",
         "rstatix",
         "survminer"
@@ -419,9 +400,7 @@
         "rstatix",
         "survminer"
     ],
-    "goSorensen": [
-        "clusterProfiler"
-    ],
+    "goSorensen": [],
     "GRmetrics": [],
     "GSReg": [],
     "GUIDEseq": [],
@@ -473,7 +452,6 @@
         "survminer"
     ],
     "IRISFGM": [
-        "clusterProfiler",
         "ggpubr",
         "rstatix"
     ],
@@ -509,9 +487,7 @@
         "RnBeads",
         "methylumi"
     ],
-    "MAGeCKFlute": [
-        "clusterProfiler"
-    ],
+    "MAGeCKFlute": [],
     "maser": [
         "Gviz"
     ],
@@ -544,9 +520,7 @@
         "rstatix"
     ],
     "metagene": [],
-    "MetaPhOR": [
-        "clusterProfiler"
-    ],
+    "MetaPhOR": [],
     "metaseqR2": [],
     "metavizr": [
         "epivizr",
@@ -574,7 +548,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "clusterProfiler",
         "methylumi",
         "missMethyl"
     ],
@@ -585,9 +558,7 @@
     "methylumi": [],
     "microbiomeExplorer": [],
     "microbiomeMarker": [],
-    "MicrobiomeProfiler": [
-        "clusterProfiler"
-    ],
+    "MicrobiomeProfiler": [],
     "MineICA": [
         "lumi",
         "methylumi"
@@ -598,7 +569,6 @@
     "miRSM": [
         "ReactomePA",
         "SPONGE",
-        "clusterProfiler",
         "ggpubr",
         "miRspongeR",
         "rstatix"
@@ -606,7 +576,6 @@
     "miRspongeR": [
         "ReactomePA",
         "SPONGE",
-        "clusterProfiler",
         "ggpubr",
         "rstatix"
     ],
@@ -622,9 +591,7 @@
     "MMUPHin": [
         "Maaslin2"
     ],
-    "MoonlightR": [
-        "clusterProfiler"
-    ],
+    "MoonlightR": [],
     "motifbreakR": [
         "Gviz"
     ],
@@ -658,8 +625,7 @@
         "QDNAseq"
     ],
     "multiSight": [
-        "ReactomePA",
-        "clusterProfiler"
+        "ReactomePA"
     ],
     "muscat": [],
     "musicatk": [
@@ -676,9 +642,7 @@
     "NBSplice": [
         "mppa"
     ],
-    "netboxr": [
-        "clusterProfiler"
-    ],
+    "netboxr": [],
     "netZooR": [
         "quantro",
         "yarn"
@@ -717,9 +681,7 @@
     ],
     "padma": [],
     "pageRank": [],
-    "PanomiR": [
-        "clusterProfiler"
-    ],
+    "PanomiR": [],
     "PDATK": [
         "ggpubr",
         "rstatix",
@@ -728,17 +690,14 @@
     "peco": [
         "genlasso"
     ],
-    "PFP": [
-        "clusterProfiler"
-    ],
+    "PFP": [],
     "PhenStat": [],
     "PhosR": [
         "ggpubr",
         "rstatix"
     ],
     "Pigengene": [
-        "ReactomePA",
-        "clusterProfiler"
+        "ReactomePA"
     ],
     "PING": [
         "Gviz"
@@ -839,7 +798,6 @@
         "RNAmodR"
     ],
     "RNASeqR": [
-        "clusterProfiler",
         "factoextra",
         "ggpubr",
         "rstatix"
@@ -891,9 +849,7 @@
     "shinyMethyl": [
         "IlluminaHumanMethylation450kmanifest"
     ],
-    "signatureSearch": [
-        "clusterProfiler"
-    ],
+    "signatureSearch": [],
     "signeR": [
         "ggpubr",
         "rstatix",
@@ -971,7 +927,6 @@
     "TCGAbiolinksGUI": [
         "ELMER",
         "Gviz",
-        "clusterProfiler",
         "ggpubr",
         "rstatix"
     ],
@@ -982,9 +937,7 @@
     "timeOmics": [
         "propr"
     ],
-    "TimiRGeN": [
-        "clusterProfiler"
-    ],
+    "TimiRGeN": [],
     "TNBC.CMS": [
         "ggpubr",
         "rstatix"
