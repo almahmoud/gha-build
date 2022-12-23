@@ -50989,7 +50989,6 @@
     ],
     "scde": [
         "BiocParallel",
-        "Lmoments",
         "MatrixModels",
         "edgeR",
         "extRemes",
@@ -71351,10 +71350,7 @@
     ],
     "copula": [],
     "proxyC": [],
-    "extRemes": [
-        "Lmoments"
-    ],
-    "Lmoments": [],
+    "extRemes": [],
     "torch": [
         "callr"
     ],
