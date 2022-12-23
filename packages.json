@@ -11597,7 +11597,6 @@
         "DropletUtils",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "alphahull",
         "dittoSeq",
         "plotly",
         "scuttle"
@@ -14368,7 +14367,6 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "alphahull": [],
     "miRNAtap.db": [
         "AnnotationDbi",
         "miRNAtap"
