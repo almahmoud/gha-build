@@ -8752,7 +8752,6 @@
         "shiny",
         "shinyBS"
     ],
-    "fastreeR": [],
     "fastseg": [
         "GenomicRanges"
     ],
