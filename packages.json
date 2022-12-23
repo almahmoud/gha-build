@@ -6660,7 +6660,6 @@
         "TH.data",
         "bslib",
         "contrast",
-        "feature",
         "flowClust",
         "flowMeans",
         "flowMerge",
@@ -11972,11 +11971,8 @@
         "reshape2"
     ],
     "flowMatch": [],
-    "flowMeans": [
-        "feature"
-    ],
+    "flowMeans": [],
     "flowMerge": [
-        "feature",
         "flowClust"
     ],
     "flowPloidy": [
@@ -23481,7 +23477,6 @@
     "optimalFlow": [
         "bslib",
         "dplyr",
-        "feature",
         "flowMeans",
         "htmlwidgets",
         "knitr",
@@ -38817,7 +38812,6 @@
         "tibble",
         "viridis"
     ],
-    "feature": [],
     "airway": [
         "DelayedArray",
         "GenomeInfoDb",
