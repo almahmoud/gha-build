@@ -5183,7 +5183,6 @@
         "purrr",
         "restfulr",
         "rtracklayer",
-        "snpStats",
         "stringr",
         "tibble",
         "tidyr",
@@ -6168,7 +6167,6 @@
         "scatterpie",
         "shadowtext",
         "sna",
-        "snpStats",
         "stringr",
         "testthat",
         "tibble",
@@ -7234,7 +7232,6 @@
         "segmented",
         "seqinr",
         "shiny",
-        "snpStats",
         "stringr",
         "tibble",
         "tidyselect",
@@ -11651,7 +11648,6 @@
         "progress",
         "purrr",
         "readr",
-        "snpStats",
         "sva",
         "swamp",
         "tibble",
@@ -16665,7 +16661,6 @@
         "quantreg",
         "rematch2",
         "rmarkdown",
-        "snpStats",
         "stringr",
         "testthat",
         "tibble",
@@ -19087,7 +19082,6 @@
         "rmarkdown",
         "rtracklayer",
         "shiny",
-        "snpStats",
         "stringr",
         "tibble",
         "tidyselect",
@@ -22747,7 +22741,6 @@
         "rhdf5",
         "rtracklayer",
         "siggenes",
-        "snpStats",
         "stringr",
         "tibble",
         "tidyr",
@@ -23007,9 +23000,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "martini": [
-        "snpStats"
-    ],
+    "martini": [],
     "maser": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -37788,7 +37779,6 @@
         "knitr",
         "pillar",
         "purrr",
-        "snpStats",
         "stringr",
         "tibble",
         "tidyr",
@@ -39062,7 +39052,6 @@
         "purrr",
         "restfulr",
         "rtracklayer",
-        "snpStats",
         "stringr",
         "tibble",
         "tidyselect",
@@ -41360,7 +41349,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "snpStats": [],
     "soGGi": [
         "BiocIO",
         "BiocParallel",
@@ -46923,7 +46911,6 @@
         "rmarkdown",
         "rtracklayer",
         "shiny",
-        "snpStats",
         "stringr",
         "tibble",
         "tidyselect",
@@ -50126,9 +50113,7 @@
         "vctrs"
     ],
     "GenomicTools": [],
-    "GenomicTools.fileHandler": [
-        "snpStats"
-    ],
+    "GenomicTools.fileHandler": [],
     "quantmod": [
         "TTR"
     ],
