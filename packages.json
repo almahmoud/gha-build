@@ -8990,8 +8990,7 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
-        "zeallot"
+        "viridisLite"
     ],
     "BUSseq": [
         "Biobase",
@@ -17383,8 +17382,7 @@
         "tfruns",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "zeallot"
+        "vctrs"
     ],
     "crisprseekplus": [
         "AnnotationDbi",
@@ -17495,8 +17493,7 @@
         "tzdb",
         "vctrs",
         "viridisLite",
-        "vroom",
-        "zeallot"
+        "vroom"
     ],
     "CrispRVariants": [
         "AnnotationDbi",
@@ -20358,7 +20355,6 @@
         "visNetwork",
         "vroom",
         "webchem",
-        "zeallot",
         "zoo"
     ],
     "deepSNV": [
@@ -31937,7 +31933,6 @@
         "vroom",
         "webchem",
         "word2vec",
-        "zeallot",
         "zoo"
     ],
     "GenVisR": [
@@ -34778,8 +34773,7 @@
         "tzdb",
         "vctrs",
         "viridisLite",
-        "vroom",
-        "zeallot"
+        "vroom"
     ],
     "Guitar": [
         "AnnotationDbi",
@@ -51674,8 +51668,7 @@
         "tinytex",
         "vctrs",
         "viridis",
-        "viridisLite",
-        "zeallot"
+        "viridisLite"
     ],
     "MultiDataSet": [
         "Biobase",
@@ -54237,8 +54230,7 @@
         "tfautograph",
         "tfruns",
         "tidyselect",
-        "vctrs",
-        "zeallot"
+        "vctrs"
     ],
     "NewWave": [
         "Biobase",
@@ -57554,8 +57546,7 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "waldo",
-        "zeallot"
+        "waldo"
     ],
     "parglms": [
         "BBmisc",
@@ -70054,8 +70045,7 @@
         "tidyselect",
         "tinytex",
         "vctrs",
-        "viridisLite",
-        "zeallot"
+        "viridisLite"
     ],
     "sangerseqR": [
         "Biostrings",
@@ -77226,8 +77216,7 @@
         "tzdb",
         "vctrs",
         "viridisLite",
-        "vroom",
-        "zeallot"
+        "vroom"
     ],
     "spatialDE": [
         "Biobase",
@@ -84930,7 +84919,6 @@
         "viridisLite",
         "visNetwork",
         "vroom",
-        "zeallot",
         "zoo"
     ],
     "TTMap": [
@@ -85792,7 +85780,6 @@
         "visNetwork",
         "vroom",
         "webchem",
-        "zeallot",
         "zoo"
     ],
     "VanillaICE": [
@@ -93177,7 +93164,6 @@
     "xopen": [
         "processx"
     ],
-    "zeallot": [],
     "pryr": [
         "lifecycle",
         "lobstr",
@@ -95235,8 +95221,7 @@
         "tfautograph",
         "tfruns",
         "tidyselect",
-        "vctrs",
-        "zeallot"
+        "vctrs"
     ],
     "mltools": [
         "Matrix"
@@ -99728,8 +99713,7 @@
         "tfautograph",
         "tfruns",
         "tidyselect",
-        "vctrs",
-        "zeallot"
+        "vctrs"
     ],
     "matrixLaplacian": [],
     "Matching": [],
