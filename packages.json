@@ -30,7 +30,6 @@
     ],
     "ASpli": [],
     "ATACCoGAPS": [],
-    "ATACseqQC": [],
     "bigmelon": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
@@ -453,7 +452,6 @@
         "ggpubr"
     ],
     "NADfinder": [
-        "ATACseqQC",
         "trackViewer"
     ],
     "NBSplice": [
