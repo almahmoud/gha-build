@@ -1533,7 +1533,6 @@
         "jquerylib",
         "knitr",
         "plotly",
-        "ptw",
         "purrr",
         "reshape2",
         "rmarkdown",
@@ -30082,7 +30081,6 @@
     ],
     "PepsNMR": [
         "ggplot2",
-        "ptw",
         "reshape2",
         "stringr",
         "tibble"
@@ -46590,7 +46588,6 @@
         "ggplot2",
         "tibble"
     ],
-    "ptw": [],
     "DRaWR": [
         "ROCR"
     ],
