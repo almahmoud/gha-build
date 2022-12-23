@@ -22150,7 +22150,6 @@
         "VariantAnnotation",
         "bestNormalize",
         "biomaRt",
-        "butcher",
         "dbplyr",
         "dplyr",
         "forcats",
@@ -26298,7 +26297,6 @@
     ],
     "bestNormalize": [
         "LambertW",
-        "butcher",
         "dplyr",
         "ggplot2",
         "hardhat",
@@ -26319,7 +26317,6 @@
     "LambertW": [
         "ggplot2"
     ],
-    "butcher": [],
     "visdat": [
         "dplyr",
         "ggplot2",
