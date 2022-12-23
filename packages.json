@@ -74501,7 +74501,6 @@
         "foreach",
         "formatR",
         "futile.logger",
-        "geigen",
         "genlasso",
         "ggbeeswarm",
         "ggplot2",
@@ -128168,7 +128167,6 @@
     ],
     "circular": [],
     "conicfit": [
-        "geigen",
         "pracma"
     ],
     "genlasso": [
@@ -128176,7 +128174,6 @@
         "igraph",
         "rlang"
     ],
-    "geigen": [],
     "protolite": [
         "Rcpp"
     ],
