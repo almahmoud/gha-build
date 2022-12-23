@@ -28248,7 +28248,6 @@
         "affy",
         "annotate",
         "aroma.affymetrix",
-        "aroma.apd",
         "aroma.core",
         "blob",
         "genefilter"
@@ -40137,7 +40136,6 @@
         "WGCNA",
         "XVector",
         "aroma.affymetrix",
-        "aroma.apd",
         "aroma.core",
         "blob",
         "bslib",
@@ -47468,11 +47466,9 @@
         "viridis"
     ],
     "aroma.affymetrix": [
-        "aroma.apd",
         "aroma.core"
     ],
     "aroma.core": [],
-    "aroma.apd": [],
     "opencpu": [
         "knitr",
         "stringr"
