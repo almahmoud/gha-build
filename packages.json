@@ -1716,7 +1716,6 @@
     "HTSFilter": [
         "DESeq2"
     ],
-    "HumanTranscriptomeCompendium": [],
     "icetea": [
         "DESeq2",
         "GenomicFeatures",
