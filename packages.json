@@ -618,7 +618,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "cn.farms": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "GenomicFeatures",
