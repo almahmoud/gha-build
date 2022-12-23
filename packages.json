@@ -2588,7 +2588,6 @@
         "annotate",
         "geneplotter"
     ],
-    "DEGseq": [],
     "DelayedTensor": [
         "HDF5Array",
         "rhdf5"
