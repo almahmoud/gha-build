@@ -16488,7 +16488,6 @@
         "tidyr"
     ],
     "nethet": [
-        "ICSNP",
         "ggplot2",
         "network"
     ],
@@ -20766,7 +20765,6 @@
         "Biostrings",
         "Category",
         "GSEABase",
-        "ICSNP",
         "KEGGREST",
         "affy",
         "annotate",
@@ -29356,7 +29354,6 @@
     ],
     "VarfromPDB": [],
     "mppa": [],
-    "ICSNP": [],
     "dnet": [
         "dplyr",
         "readr",
