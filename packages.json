@@ -58005,7 +58005,6 @@
         "irlba",
         "lambda.r"
     ],
-    "MBAmethyl": [],
     "MBASED": [
         "Biobase",
         "BiocParallel",
