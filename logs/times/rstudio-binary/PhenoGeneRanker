@@ -1,0 +1,761 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   7eeb35dc..c1e73a9c  main       -> origin/main
+Updating 7eeb35dc..c1e73a9c
+Fast-forward
+ lists/HPAanalyze | 2 +-
+ packages.json    | 1 -
+ 2 files changed, 1 insertion(+), 2 deletions(-)
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=PhenoGeneRanker
++ PKG=PhenoGeneRanker
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ grep '^        "'
++ awk '-F"' '{print $2}'
++ sed -n '/^    "PhenoGeneRanker"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 15.5M    1  198k    0     0   357k      0  0:00:44 --:--:--  0:00:44  357k 10 15.5M   10 1712k    0     0  1086k      0  0:00:14  0:00:01  0:00:13 1086k 28 15.5M   28 4501k    0     0  1762k      0  0:00:09  0:00:02  0:00:07 1761k 54 15.5M   54 8724k    0     0  2451k      0  0:00:06  0:00:03  0:00:03 2450k 89 15.5M   89 13.9M    0     0  3135k      0  0:00:05  0:00:04  0:00:01 3135k100 15.5M  100 15.5M    0     0  3311k      0  0:00:04  0:00:04 --:--:-- 3695k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/magrittr/
+built/built/magrittr/libs/
+built/built/magrittr/libs/magrittr.so
+built/built/magrittr/logo.svg
+built/built/magrittr/NAMESPACE
+built/built/magrittr/logo-hex.svg
+built/built/magrittr/DESCRIPTION
+built/built/magrittr/help/
+built/built/magrittr/help/paths.rds
+built/built/magrittr/help/aliases.rds
+built/built/magrittr/help/figures/
+built/built/magrittr/help/figures/exposition-1.png
+built/built/magrittr/help/figures/logo.png
+built/built/magrittr/help/magrittr.rdb
+built/built/magrittr/help/magrittr.rdx
+built/built/magrittr/help/AnIndex
+built/built/magrittr/Meta/
+built/built/magrittr/Meta/package.rds
+built/built/magrittr/Meta/vignette.rds
+built/built/magrittr/Meta/features.rds
+built/built/magrittr/Meta/hsearch.rds
+built/built/magrittr/Meta/links.rds
+built/built/magrittr/Meta/nsInfo.rds
+built/built/magrittr/Meta/Rd.rds
+built/built/magrittr/logo.png
+built/built/magrittr/logo-hex.png
+built/built/magrittr/LICENSE
+built/built/magrittr/html/
+built/built/magrittr/html/00Index.html
+built/built/magrittr/html/R.css
+built/built/magrittr/INDEX
+built/built/magrittr/doc/
+built/built/magrittr/doc/magrittr.html
+built/built/magrittr/doc/magrittr.Rmd
+built/built/magrittr/doc/index.html
+built/built/magrittr/doc/tradeoffs.html
+built/built/magrittr/doc/tradeoffs.Rmd
+built/built/magrittr/doc/tradeoffs.R
+built/built/magrittr/doc/magrittr.R
+built/built/magrittr/R/
+built/built/magrittr/R/magrittr
+built/built/magrittr/R/magrittr.rdb
+built/built/magrittr/R/magrittr.rdx
+built/built/magrittr/NEWS.md
+built/built/pkgconfig/
+built/built/pkgconfig/README.Rmd
+built/built/pkgconfig/NAMESPACE
+built/built/pkgconfig/DESCRIPTION
+built/built/pkgconfig/help/
+built/built/pkgconfig/help/paths.rds
+built/built/pkgconfig/help/aliases.rds
+built/built/pkgconfig/help/pkgconfig.rdb
+built/built/pkgconfig/help/AnIndex
+built/built/pkgconfig/help/pkgconfig.rdx
+built/built/pkgconfig/Meta/
+built/built/pkgconfig/Meta/package.rds
+built/built/pkgconfig/Meta/features.rds
+built/built/pkgconfig/Meta/hsearch.rds
+built/built/pkgconfig/Meta/links.rds
+built/built/pkgconfig/Meta/nsInfo.rds
+built/built/pkgconfig/Meta/Rd.rds
+built/built/pkgconfig/NEWS.markdown
+built/built/pkgconfig/README.markdown
+built/built/pkgconfig/LICENSE
+built/built/pkgconfig/html/
+built/built/pkgconfig/html/00Index.html
+built/built/pkgconfig/html/R.css
+built/built/pkgconfig/INDEX
+built/built/pkgconfig/R/
+built/built/pkgconfig/R/pkgconfig
+built/built/pkgconfig/R/pkgconfig.rdb
+built/built/pkgconfig/R/pkgconfig.rdx
+built/built/Matrix/
+built/built/Matrix/Doxyfile
+built/built/Matrix/libs/
+built/built/Matrix/libs/Matrix.so
+built/built/Matrix/NAMESPACE
+built/built/Matrix/LICENCE
+built/built/Matrix/DESCRIPTION
+built/built/Matrix/test-tools-1.R
+built/built/Matrix/help/
+built/built/Matrix/help/paths.rds
+built/built/Matrix/help/aliases.rds
+built/built/Matrix/help/AnIndex
+built/built/Matrix/help/Matrix.rdx
+built/built/Matrix/help/Matrix.rdb
+built/built/Matrix/data/
+built/built/Matrix/data/USCounties.R
+built/built/Matrix/data/datalist
+built/built/Matrix/data/CAex.R
+built/built/Matrix/data/wrld_1deg.R
+built/built/Matrix/data/KNex.R
+built/built/Matrix/Meta/
+built/built/Matrix/Meta/package.rds
+built/built/Matrix/Meta/vignette.rds
+built/built/Matrix/Meta/features.rds
+built/built/Matrix/Meta/hsearch.rds
+built/built/Matrix/Meta/links.rds
+built/built/Matrix/Meta/nsInfo.rds
+built/built/Matrix/Meta/Rd.rds
+built/built/Matrix/Meta/data.rds
+built/built/Matrix/NEWS.Rd
+built/built/Matrix/include/
+built/built/Matrix/include/cholmod.h
+built/built/Matrix/include/Matrix_stubs.c
+built/built/Matrix/include/Matrix.h
+built/built/Matrix/test-tools-Matrix.R
+built/built/Matrix/test-tools.R
+built/built/Matrix/po/
+built/built/Matrix/po/lt/
+built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/it/
+built/built/Matrix/po/it/LC_MESSAGES/
+built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/fr/
+built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/ko/
+built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/pl/
+built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/en@quot/
+built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/de/
+built/built/Matrix/po/de/LC_MESSAGES/
+built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/Copyrights
+built/built/Matrix/html/
+built/built/Matrix/html/00Index.html
+built/built/Matrix/html/R.css
+built/built/Matrix/INDEX
+built/built/Matrix/doc/
+built/built/Matrix/doc/Design-issues.Rnw
+built/built/Matrix/doc/sparseModels.R
+built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/Matrix/doc/Introduction.R
+built/built/Matrix/doc/sparseModels.Rnw
+built/built/Matrix/doc/Design-issues.pdf
+built/built/Matrix/doc/Design-issues.R
+built/built/Matrix/doc/Comparisons.R
+built/built/Matrix/doc/Announce.txt
+built/built/Matrix/doc/Introduction.Rnw
+built/built/Matrix/doc/Intro2Matrix.R
+built/built/Matrix/doc/index.html
+built/built/Matrix/doc/SuiteSparse/
+built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/Matrix/doc/Comparisons.pdf
+built/built/Matrix/doc/sparseModels.pdf
+built/built/Matrix/doc/Comparisons.Rnw
+built/built/Matrix/doc/Introduction.pdf
+built/built/Matrix/R/
+built/built/Matrix/R/Matrix
+built/built/Matrix/R/Matrix.rdx
+built/built/Matrix/R/Matrix.rdb
+built/built/Matrix/external/
+built/built/Matrix/external/symW.rda
+built/built/Matrix/external/lund_a.rsa
+built/built/Matrix/external/wrong.mtx
+built/built/Matrix/external/pores_1.mtx
+built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/Matrix/external/CAex_slots.rda
+built/built/Matrix/external/KNex_slots.rda
+built/built/Matrix/external/jgl009.mtx
+built/built/Matrix/external/utm300.rua
+built/built/Matrix/external/test3comp.rda
+built/built/Matrix/external/USCounties_slots.rda
+built/built/Matrix/external/Z_NA_rnk.rds
+built/built/Matrix/external/symA.rda
+built/built/Matrix/external/lund_a.mtx
+built/built/rlang/
+built/built/rlang/libs/
+built/built/rlang/libs/rlang.so
+built/built/rlang/NAMESPACE
+built/built/rlang/DESCRIPTION
+built/built/rlang/help/
+built/built/rlang/help/rlang.rdb
+built/built/rlang/help/paths.rds
+built/built/rlang/help/rlang.rdx
+built/built/rlang/help/aliases.rds
+built/built/rlang/help/figures/
+built/built/rlang/help/figures/lifecycle-soft-deprecated.svg
+built/built/rlang/help/figures/lifecycle-experimental.svg
+built/built/rlang/help/figures/lifecycle-deprecated.svg
+built/built/rlang/help/figures/lifecycle-maturing.svg
+built/built/rlang/help/figures/lifecycle-superseded.svg
+built/built/rlang/help/figures/logo.png
+built/built/rlang/help/figures/lifecycle-questioning.svg
+built/built/rlang/help/figures/lifecycle-defunct.svg
+built/built/rlang/help/figures/lifecycle-archived.svg
+built/built/rlang/help/figures/lifecycle-retired.svg
+built/built/rlang/help/figures/lifecycle-stable.svg
+built/built/rlang/help/AnIndex
+built/built/rlang/Meta/
+built/built/rlang/Meta/package.rds
+built/built/rlang/Meta/features.rds
+built/built/rlang/Meta/hsearch.rds
+built/built/rlang/Meta/links.rds
+built/built/rlang/Meta/nsInfo.rds
+built/built/rlang/Meta/Rd.rds
+built/built/rlang/LICENSE
+built/built/rlang/html/
+built/built/rlang/html/00Index.html
+built/built/rlang/html/R.css
+built/built/rlang/INDEX
+built/built/rlang/R/
+built/built/rlang/R/rlang.rdb
+built/built/rlang/R/rlang.rdx
+built/built/rlang/R/rlang
+built/built/rlang/backtrace-ver
+built/built/rlang/NEWS.md
+built/igraph/
+built/igraph/html_library.tcl
+built/igraph/libs/
+built/igraph/libs/igraph.so
+built/igraph/NAMESPACE
+built/igraph/my_html_library.tcl
+built/igraph/benchmarks/
+built/igraph/benchmarks/time_sir.R
+built/igraph/benchmarks/correlated.R
+built/igraph/benchmarks/time_call.R
+built/igraph/benchmarks/time_fr_layout.R
+built/igraph/benchmarks/time_print.R
+built/igraph/benchmarks/local.scan.R
+built/igraph/benchmarks/time_sgm.R
+built/igraph/benchmarks/time_kk_layout.R
+built/igraph/benchmarks/time_dirSelect.R
+built/igraph/README.md
+built/igraph/DESCRIPTION
+built/igraph/help/
+built/igraph/help/paths.rds
+built/igraph/help/igraph.rdx
+built/igraph/help/igraph.rdb
+built/igraph/help/aliases.rds
+built/igraph/help/AnIndex
+built/igraph/Meta/
+built/igraph/Meta/package.rds
+built/igraph/Meta/demo.rds
+built/igraph/Meta/features.rds
+built/igraph/Meta/hsearch.rds
+built/igraph/Meta/links.rds
+built/igraph/Meta/nsInfo.rds
+built/igraph/Meta/Rd.rds
+built/igraph/igraph.gif
+built/igraph/CITATION
+built/igraph/html/
+built/igraph/html/00Index.html
+built/igraph/html/R.css
+built/igraph/igraph2.gif
+built/igraph/AUTHORS
+built/igraph/INDEX
+built/igraph/R/
+built/igraph/R/igraph.rdx
+built/igraph/R/igraph.rdb
+built/igraph/R/igraph
+built/igraph/demo/
+built/igraph/demo/hrg.R
+built/igraph/demo/centrality.R
+built/igraph/demo/crashR.R
+built/igraph/demo/community.R
+built/igraph/demo/cohesive.R
+built/igraph/demo/smallworld.R
+built/igraph/html_library.license.terms
+built/igraph/NEWS.md
+built/igraph/tkigraph_help/
+built/igraph/tkigraph_help/tkigraph-main.gif
+built/igraph/tkigraph_help/style.css
+built/igraph/tkigraph_help/communities.html
+built/igraph/tkigraph_help/index.html
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  6 1215k    6 82584    0     0   191k      0  0:00:06 --:--:--  0:00:06  191k100 1215k  100 1215k    0     0   944k      0  0:00:01  0:00:01 --:--:--  945k
+built/
+built/built/
+built/built/foreach/
+built/built/foreach/examples/
+built/built/foreach/examples/sqlite.R
+built/built/foreach/examples/apply.R
+built/built/foreach/examples/bootpar.R
+built/built/foreach/examples/rf.R
+built/built/foreach/examples/bigmean2.R
+built/built/foreach/examples/bootseq.R
+built/built/foreach/examples/sinc2.R
+built/built/foreach/examples/cross.R
+built/built/foreach/examples/bootpar2.R
+built/built/foreach/examples/comprehensions.R
+built/built/foreach/examples/output.R
+built/built/foreach/examples/sinc.R
+built/built/foreach/examples/colMeans.R
+built/built/foreach/examples/qsort.R
+built/built/foreach/examples/matmul.R
+built/built/foreach/examples/bigmax.R
+built/built/foreach/examples/bigmean.R
+built/built/foreach/examples/isplit.R
+built/built/foreach/examples/feapply.R
+built/built/foreach/examples/tuneRF.R
+built/built/foreach/examples/for.R
+built/built/foreach/examples/pi.R
+built/built/foreach/examples/matmul2.R
+built/built/foreach/examples/germandata.txt
+built/built/foreach/NAMESPACE
+built/built/foreach/DESCRIPTION
+built/built/foreach/help/
+built/built/foreach/help/paths.rds
+built/built/foreach/help/aliases.rds
+built/built/foreach/help/foreach.rdx
+built/built/foreach/help/AnIndex
+built/built/foreach/help/foreach.rdb
+built/built/foreach/Meta/
+built/built/foreach/Meta/package.rds
+built/built/foreach/Meta/vignette.rds
+built/built/foreach/Meta/demo.rds
+built/built/foreach/Meta/features.rds
+built/built/foreach/Meta/hsearch.rds
+built/built/foreach/Meta/links.rds
+built/built/foreach/Meta/nsInfo.rds
+built/built/foreach/Meta/Rd.rds
+built/built/foreach/html/
+built/built/foreach/html/00Index.html
+built/built/foreach/html/R.css
+built/built/foreach/INDEX
+built/built/foreach/doc/
+built/built/foreach/doc/nested.Rmd
+built/built/foreach/doc/foreach.Rmd
+built/built/foreach/doc/foreach.R
+built/built/foreach/doc/nested.html
+built/built/foreach/doc/foreach.html
+built/built/foreach/doc/index.html
+built/built/foreach/doc/nested.R
+built/built/foreach/R/
+built/built/foreach/R/foreach
+built/built/foreach/R/foreach.rdx
+built/built/foreach/R/foreach.rdb
+built/built/foreach/demo/
+built/built/foreach/demo/sincSEQ.R
+built/built/foreach/NEWS.md
+built/built/codetools/
+built/built/codetools/NAMESPACE
+built/built/codetools/DESCRIPTION
+built/built/codetools/help/
+built/built/codetools/help/paths.rds
+built/built/codetools/help/codetools.rdb
+built/built/codetools/help/aliases.rds
+built/built/codetools/help/codetools.rdx
+built/built/codetools/help/AnIndex
+built/built/codetools/Meta/
+built/built/codetools/Meta/package.rds
+built/built/codetools/Meta/features.rds
+built/built/codetools/Meta/hsearch.rds
+built/built/codetools/Meta/links.rds
+built/built/codetools/Meta/nsInfo.rds
+built/built/codetools/Meta/Rd.rds
+built/built/codetools/html/
+built/built/codetools/html/00Index.html
+built/built/codetools/html/R.css
+built/built/codetools/INDEX
+built/built/codetools/R/
+built/built/codetools/R/codetools.rdb
+built/built/codetools/R/codetools.rdx
+built/built/codetools/R/codetools
+built/built/iterators/
+built/built/iterators/examples/
+built/built/iterators/examples/irecycle.R
+built/built/iterators/examples/ivector2.R
+built/built/iterators/examples/ihasNext.R
+built/built/iterators/examples/itimer.R
+built/built/iterators/examples/irep.R
+built/built/iterators/examples/ilimit.R
+built/built/iterators/examples/iseq.R
+built/built/iterators/examples/ifilter.R
+built/built/iterators/examples/ivector.R
+built/built/iterators/examples/iforever.R
+built/built/iterators/examples/ipermn.R
+built/built/iterators/NAMESPACE
+built/built/iterators/DESCRIPTION
+built/built/iterators/help/
+built/built/iterators/help/iterators.rdx
+built/built/iterators/help/paths.rds
+built/built/iterators/help/aliases.rds
+built/built/iterators/help/iterators.rdb
+built/built/iterators/help/AnIndex
+built/built/iterators/Meta/
+built/built/iterators/Meta/package.rds
+built/built/iterators/Meta/vignette.rds
+built/built/iterators/Meta/features.rds
+built/built/iterators/Meta/hsearch.rds
+built/built/iterators/Meta/links.rds
+built/built/iterators/Meta/nsInfo.rds
+built/built/iterators/Meta/Rd.rds
+built/built/iterators/unitTests/
+built/built/iterators/unitTests/runTestSuite.sh
+built/built/iterators/unitTests/recycleTest.R
+built/built/iterators/unitTests/iapplyTest.R
+built/built/iterators/unitTests/chunksizeTest.R
+built/built/iterators/unitTests/isplitTest.R
+built/built/iterators/unitTests/icountnTest.R
+built/built/iterators/unitTests/basicTest.R
+built/built/iterators/html/
+built/built/iterators/html/00Index.html
+built/built/iterators/html/R.css
+built/built/iterators/INDEX
+built/built/iterators/doc/
+built/built/iterators/doc/writing.R
+built/built/iterators/doc/iterators.pdf
+built/built/iterators/doc/writing.pdf
+built/built/iterators/doc/iterators.R
+built/built/iterators/doc/index.html
+built/built/iterators/doc/iterators.Rnw
+built/built/iterators/doc/writing.Rnw
+built/built/iterators/R/
+built/built/iterators/R/iterators.rdx
+built/built/iterators/R/iterators.rdb
+built/built/iterators/R/iterators
+built/built/iterators/NEWS.md
+built/foreach/
+built/foreach/examples/
+built/foreach/examples/sqlite.R
+built/foreach/examples/apply.R
+built/foreach/examples/bootpar.R
+built/foreach/examples/rf.R
+built/foreach/examples/bigmean2.R
+built/foreach/examples/bootseq.R
+built/foreach/examples/sinc2.R
+built/foreach/examples/cross.R
+built/foreach/examples/bootpar2.R
+built/foreach/examples/comprehensions.R
+built/foreach/examples/output.R
+built/foreach/examples/sinc.R
+built/foreach/examples/colMeans.R
+built/foreach/examples/qsort.R
+built/foreach/examples/matmul.R
+built/foreach/examples/bigmax.R
+built/foreach/examples/bigmean.R
+built/foreach/examples/isplit.R
+built/foreach/examples/feapply.R
+built/foreach/examples/tuneRF.R
+built/foreach/examples/for.R
+built/foreach/examples/pi.R
+built/foreach/examples/matmul2.R
+built/foreach/examples/germandata.txt
+built/foreach/NAMESPACE
+built/foreach/DESCRIPTION
+built/foreach/help/
+built/foreach/help/paths.rds
+built/foreach/help/aliases.rds
+built/foreach/help/foreach.rdx
+built/foreach/help/AnIndex
+built/foreach/help/foreach.rdb
+built/foreach/Meta/
+built/foreach/Meta/package.rds
+built/foreach/Meta/vignette.rds
+built/foreach/Meta/demo.rds
+built/foreach/Meta/features.rds
+built/foreach/Meta/hsearch.rds
+built/foreach/Meta/links.rds
+built/foreach/Meta/nsInfo.rds
+built/foreach/Meta/Rd.rds
+built/foreach/html/
+built/foreach/html/00Index.html
+built/foreach/html/R.css
+built/foreach/INDEX
+built/foreach/doc/
+built/foreach/doc/nested.Rmd
+built/foreach/doc/foreach.Rmd
+built/foreach/doc/foreach.R
+built/foreach/doc/nested.html
+built/foreach/doc/foreach.html
+built/foreach/doc/index.html
+built/foreach/doc/nested.R
+built/foreach/R/
+built/foreach/R/foreach
+built/foreach/R/foreach.rdx
+built/foreach/R/foreach.rdb
+built/foreach/demo/
+built/foreach/demo/sincSEQ.R
+built/foreach/NEWS.md
+built/iterators/
+built/iterators/examples/
+built/iterators/examples/irecycle.R
+built/iterators/examples/ivector2.R
+built/iterators/examples/ihasNext.R
+built/iterators/examples/itimer.R
+built/iterators/examples/irep.R
+built/iterators/examples/ilimit.R
+built/iterators/examples/iseq.R
+built/iterators/examples/ifilter.R
+built/iterators/examples/ivector.R
+built/iterators/examples/iforever.R
+built/iterators/examples/ipermn.R
+built/iterators/NAMESPACE
+built/iterators/DESCRIPTION
+built/iterators/help/
+built/iterators/help/iterators.rdx
+built/iterators/help/paths.rds
+built/iterators/help/aliases.rds
+built/iterators/help/iterators.rdb
+built/iterators/help/AnIndex
+built/iterators/Meta/
+built/iterators/Meta/package.rds
+built/iterators/Meta/vignette.rds
+built/iterators/Meta/features.rds
+built/iterators/Meta/hsearch.rds
+built/iterators/Meta/links.rds
+built/iterators/Meta/nsInfo.rds
+built/iterators/Meta/Rd.rds
+built/iterators/unitTests/
+built/iterators/unitTests/runTestSuite.sh
+built/iterators/unitTests/recycleTest.R
+built/iterators/unitTests/iapplyTest.R
+built/iterators/unitTests/chunksizeTest.R
+built/iterators/unitTests/isplitTest.R
+built/iterators/unitTests/icountnTest.R
+built/iterators/unitTests/basicTest.R
+built/iterators/html/
+built/iterators/html/00Index.html
+built/iterators/html/R.css
+built/iterators/INDEX
+built/iterators/doc/
+built/iterators/doc/writing.R
+built/iterators/doc/iterators.pdf
+built/iterators/doc/writing.pdf
+built/iterators/doc/iterators.R
+built/iterators/doc/index.html
+built/iterators/doc/iterators.Rnw
+built/iterators/doc/writing.Rnw
+built/iterators/R/
+built/iterators/R/iterators.rdx
+built/iterators/R/iterators.rdb
+built/iterators/R/iterators
+built/iterators/NEWS.md
+built/doParallel/
+built/doParallel/examples/
+built/doParallel/examples/bootParallel.R
+built/doParallel/NEWS
+built/doParallel/NAMESPACE
+built/doParallel/DESCRIPTION
+built/doParallel/help/
+built/doParallel/help/paths.rds
+built/doParallel/help/aliases.rds
+built/doParallel/help/doParallel.rdx
+built/doParallel/help/doParallel.rdb
+built/doParallel/help/AnIndex
+built/doParallel/Meta/
+built/doParallel/Meta/package.rds
+built/doParallel/Meta/vignette.rds
+built/doParallel/Meta/demo.rds
+built/doParallel/Meta/features.rds
+built/doParallel/Meta/hsearch.rds
+built/doParallel/Meta/links.rds
+built/doParallel/Meta/nsInfo.rds
+built/doParallel/Meta/Rd.rds
+built/doParallel/unitTests/
+built/doParallel/unitTests/runTestSuite.sh
+built/doParallel/unitTests/options.R
+built/doParallel/html/
+built/doParallel/html/00Index.html
+built/doParallel/html/R.css
+built/doParallel/INDEX
+built/doParallel/doc/
+built/doParallel/doc/gettingstartedParallel.pdf
+built/doParallel/doc/gettingstartedParallel.R
+built/doParallel/doc/gettingstartedParallel.Rnw
+built/doParallel/doc/index.html
+built/doParallel/R/
+built/doParallel/R/doParallel.rdx
+built/doParallel/R/doParallel.rdb
+built/doParallel/R/doParallel
+built/doParallel/demo/
+built/doParallel/demo/sincParallel.R
+Dependency dplyr is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''PhenoGeneRanker'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv doParallel_1.0.17_R_x86_64-pc-linux-gnu.tar.gz foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz igraph_1.3.5_R_x86_64-pc-linux-gnu.tar.gz iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz PhenoGeneRanker_1.6.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/PhenoGeneRanker
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'PhenoGeneRanker'
+also installing the dependencies ‘iterators’, ‘igraph’, ‘foreach’, ‘doParallel’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/iterators_1.0.14.tar.gz'
+Content type 'binary/octet-stream' length 345456 bytes (337 KB)
+==================================================
+downloaded 337 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/igraph_1.3.5.tar.gz'
+Content type 'binary/octet-stream' length 8440779 bytes (8.0 MB)
+==================================================
+downloaded 8.0 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/foreach_1.5.2.tar.gz'
+Content type 'binary/octet-stream' length 137791 bytes (134 KB)
+==================================================
+downloaded 134 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/doParallel_1.0.17.tar.gz'
+Content type 'binary/octet-stream' length 187670 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/PhenoGeneRanker_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 28211 bytes (27 KB)
+==================================================
+downloaded 27 KB
+
+* installing *binary* package ‘iterators’ ...
+* ‘iterators’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘iterators’ as ‘iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterators)
+* installing *binary* package ‘igraph’ ...
+* ‘igraph’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘igraph’ as ‘igraph_1.3.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (igraph)
+* installing *binary* package ‘foreach’ ...
+* ‘foreach’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘foreach’ as ‘foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (foreach)
+* installing *binary* package ‘doParallel’ ...
+* ‘doParallel’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘doParallel’ as ‘doParallel_1.0.17_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (doParallel)
+* installing *source* package ‘PhenoGeneRanker’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘PhenoGeneRanker’ as ‘PhenoGeneRanker_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PhenoGeneRanker)
+
+The downloaded source packages are in
+	‘/tmp/RtmpgmimIb/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m23.612s
+user	0m15.236s
+sys	0m1.335s
