@@ -3729,7 +3729,6 @@
     "scAnnotatR": [
         "AnnotationHub"
     ],
-    "SCANVIS": [],
     "SCATE": [
         "AnnotationHub",
         "ExperimentHub",
