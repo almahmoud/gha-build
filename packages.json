@@ -2156,7 +2156,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
-    "RcisTarget": [],
     "RcwlPipelines": [],
     "ReactomePA": [
         "enrichplot"
