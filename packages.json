@@ -19563,7 +19563,6 @@
         "vroom"
     ],
     "nnSVG": [
-        "BRISC",
         "BiocFileCache",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -34894,7 +34893,6 @@
         "tidyr",
         "vroom"
     ],
-    "BRISC": [],
     "RcmdrMisc": [
         "Hmisc",
         "broom",
