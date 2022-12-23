@@ -7175,7 +7175,6 @@
         "tidyr",
         "waldo"
     ],
-    "GenomicTuples": [],
     "genotypeeval": [
         "AnnotationDbi",
         "BSgenome",
