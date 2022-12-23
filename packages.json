@@ -19025,7 +19025,6 @@
         "IRanges",
         "SummarizedExperiment",
         "XVector",
-        "cvar",
         "fBasics",
         "fGarch",
         "nloptr",
@@ -53006,10 +53005,8 @@
     "classInt": [],
     "penalized": [],
     "fGarch": [
-        "cvar",
         "fBasics"
     ],
-    "cvar": [],
     "ggwordcloud": [
         "ggplot2",
         "pillar",
