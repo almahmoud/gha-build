@@ -2337,7 +2337,6 @@
         "GO.db",
         "GOstats",
         "GSEABase",
-        "IRkernel",
         "KEGGREST",
         "RCy3",
         "annotate",
@@ -2677,7 +2676,6 @@
         "GOSemSim",
         "GenomicTools",
         "HDO.db",
-        "IRkernel",
         "KEGGREST",
         "RCy3",
         "SummarizedExperiment",
@@ -4930,7 +4928,6 @@
         "viridis"
     ],
     "DEGraph": [
-        "IRkernel",
         "NCIgraph",
         "RCy3"
     ],
@@ -6841,7 +6838,6 @@
         "TrajectoryUtils"
     ],
     "fedup": [
-        "IRkernel",
         "RCy3",
         "ggthemes"
     ],
@@ -10824,7 +10820,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "IRkernel",
         "KEGGREST",
         "RCy3",
         "RecordLinkage",
@@ -12039,7 +12034,6 @@
         "tidyr"
     ],
     "MOGAMUN": [
-        "IRkernel",
         "RCy3"
     ],
     "mogsa": [
@@ -12981,7 +12975,6 @@
         "xcms"
     ],
     "NCIgraph": [
-        "IRkernel",
         "RCy3"
     ],
     "ncRNAtools": [],
@@ -13163,7 +13156,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "IRkernel",
         "KEGGREST",
         "RCy3",
         "Rsamtools",
@@ -15633,9 +15625,7 @@
         "visNetwork",
         "vroom"
     ],
-    "RCy3": [
-        "IRkernel"
-    ],
+    "RCy3": [],
     "RDRToolbox": [
         "htmlwidgets",
         "rgl",
@@ -15870,7 +15860,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "IRkernel",
         "KEGGREST",
         "RCy3",
         "Rsamtools",
@@ -19957,7 +19946,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "IRkernel",
         "KEGGREST",
         "MultiAssayExperiment",
         "RCy3",
@@ -20230,7 +20218,6 @@
         "topGO"
     ],
     "transomics2cytoscape": [
-        "IRkernel",
         "KEGGREST",
         "RCy3"
     ],
@@ -22038,7 +22025,6 @@
         "tidyr",
         "waldo"
     ],
-    "IRkernel": [],
     "rapportools": [],
     "rintrojs": [],
     "enrichR": [],
