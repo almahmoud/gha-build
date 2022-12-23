@@ -1250,7 +1250,6 @@
         "drc",
         "vsn"
     ],
-    "dpeak": [],
     "DropletUtils": [
         "HDF5Array",
         "rhdf5"
