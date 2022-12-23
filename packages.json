@@ -138,7 +138,6 @@
     "ATACCoGAPS": [
         "CoGAPS",
         "projectR",
-        "rGREAT",
         "rhdf5",
         "viridis"
     ],
@@ -2506,7 +2505,6 @@
         "ChIPseeker",
         "enrichplot",
         "ggraph",
-        "rGREAT",
         "viridis"
     ],
     "projectR": [
@@ -2721,7 +2719,6 @@
         "viridis"
     ],
     "RGMQL": [],
-    "rGREAT": [],
     "rgsepd": [],
     "rhdf5": [],
     "RiboCrypt": [
