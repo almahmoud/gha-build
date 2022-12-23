@@ -1755,9 +1755,7 @@
         "rtracklayer",
         "sva"
     ],
-    "DAPAR": [
-        "DAPARdata"
-    ],
+    "DAPAR": [],
     "dasper": [
         "GenomicFeatures",
         "car",
@@ -5615,8 +5613,7 @@
         "sva"
     ],
     "Prostar": [
-        "DAPAR",
-        "DAPARdata"
+        "DAPAR"
     ],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
@@ -8277,7 +8274,6 @@
         "nloptr"
     ],
     "MSQC": [],
-    "DAPARdata": [],
     "cmdfun": [],
     "rsq": [
         "lme4",
