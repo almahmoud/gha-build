@@ -87975,7 +87975,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "ROCit",
         "RSQLite",
         "RcppArmadillo",
         "S4Vectors",
@@ -110390,7 +110389,6 @@
         "vctrs",
         "yaml"
     ],
-    "ROCit": [],
     "GenKern": [],
     "ttservice": [
         "dplyr",
