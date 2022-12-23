@@ -5713,7 +5713,6 @@
         "org.Hs.eg.db",
         "tidyverse"
     ],
-    "NanoTube": [],
     "NBAMSeq": [
         "DESeq2",
         "annotate",
