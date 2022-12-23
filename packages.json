@@ -12937,7 +12937,6 @@
     ],
     "ctsGE": [
         "bslib",
-        "ccaPP",
         "fontawesome",
         "ggplot2",
         "htmltools",
@@ -41693,7 +41692,6 @@
         "XVector",
         "annotate",
         "blob",
-        "ccaPP",
         "cowplot",
         "dplyr",
         "fgsea",
@@ -67664,7 +67662,6 @@
         "vctrs",
         "xts"
     ],
-    "ccaPP": [],
     "cytometree": [
         "cowplot",
         "ggplot2",
