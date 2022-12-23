@@ -2604,7 +2604,6 @@
         "geneplotter"
     ],
     "DEGseq": [],
-    "DelayedTensor": [],
     "deltaCaptureC": [
         "DESeq2",
         "annotate",
