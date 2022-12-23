@@ -829,7 +829,6 @@
         "TCGAutils",
         "rtracklayer"
     ],
-    "cbpManager": [],
     "ccmap": [],
     "CCPROMISE": [
         "GSEABase",
