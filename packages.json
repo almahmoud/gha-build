@@ -45630,7 +45630,6 @@
         "progress",
         "promises",
         "purrr",
-        "rBiopaxParser",
         "rmarkdown",
         "sass",
         "shiny",
@@ -46661,7 +46660,6 @@
     ],
     "RBGL": [],
     "RBioinf": [],
-    "rBiopaxParser": [],
     "RBM": [],
     "Rbowtie2": [
         "BiocParallel",
