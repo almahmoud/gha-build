@@ -38538,7 +38538,6 @@
         "waldo"
     ],
     "NormqPCR": [
-        "ReadqPCR",
         "bslib",
         "htmltools",
         "htmlwidgets",
@@ -45710,7 +45709,6 @@
         "vctrs",
         "viridis"
     ],
-    "ReadqPCR": [],
     "REBET": [
         "ASSET",
         "expm",
