@@ -17641,7 +17641,6 @@
         "HDF5Array",
         "KEGGREST",
         "OrganismDbi",
-        "PerformanceAnalytics",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -21563,7 +21562,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "OMICsPCAdata",
-        "PerformanceAnalytics",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -26433,7 +26431,6 @@
         "GenomicRanges",
         "HDO.db",
         "KEGGREST",
-        "PerformanceAnalytics",
         "RSQLite",
         "Rsamtools",
         "ShortRead",
@@ -37321,7 +37318,6 @@
         "shiny",
         "tibble"
     ],
-    "PerformanceAnalytics": [],
     "ggmcmc": [
         "GGally",
         "dplyr",
