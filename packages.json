@@ -708,9 +708,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "bandle": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -3551,7 +3549,6 @@
     ],
     "DifferentialRegulation": [
         "BANDITS",
-        "DRIMSeq",
         "SingleCellExperiment"
     ],
     "diffHic": [
@@ -3765,7 +3762,6 @@
         "rtracklayer"
     ],
     "drawProteins": [],
-    "DRIMSeq": [],
     "DropletUtils": [
         "HDF5Array",
         "SingleCellExperiment",
@@ -6490,7 +6486,6 @@
         "BiocFileCache",
         "DESeq2",
         "DEXSeq",
-        "DRIMSeq",
         "DT",
         "GenomicAlignments",
         "GenomicFeatures",
