@@ -1207,7 +1207,6 @@
         "KEGGREST",
         "annotate"
     ],
-    "BiFET": [],
     "bigmelon": [
         "AnnotationDbi",
         "BiocFileCache",
