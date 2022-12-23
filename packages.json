@@ -9966,7 +9966,6 @@
     "flowMap": [
         "reshape2"
     ],
-    "flowMatch": [],
     "flowMeans": [],
     "flowMerge": [
         "flowClust"
