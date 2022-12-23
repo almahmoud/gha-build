@@ -2718,7 +2718,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot"
     ],
-    "segmentSeq": [],
     "selectKSigs": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "HiLDA",
