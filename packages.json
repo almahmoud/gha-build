@@ -2935,7 +2935,6 @@
     "scone": [
         "rhdf5"
     ],
-    "SCOPE": [],
     "scPipe": [
         "scater",
         "viridis"
