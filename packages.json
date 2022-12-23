@@ -1755,7 +1755,6 @@
         "viridis"
     ],
     "icetea": [
-        "TxDb.Dmelanogaster.UCSC.dm6.ensGene",
         "VariantAnnotation"
     ],
     "iCheck": [
@@ -4451,7 +4450,6 @@
         "Hmisc",
         "viridis"
     ],
-    "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "pd.mapping50k.xba240": [
         "oligo"
     ],
