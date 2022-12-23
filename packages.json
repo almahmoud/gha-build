@@ -3663,9 +3663,7 @@
     "scAnnotatR": [
         "Seurat"
     ],
-    "SCATE": [
-        "SCATEData"
-    ],
+    "SCATE": [],
     "scater": [
         "viridis"
     ],
@@ -4809,7 +4807,6 @@
     ],
     "BSgenome.Celegans.UCSC.ce2": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [],
-    "SCATEData": [],
     "Rmagic": [],
     "nnTensor": [
         "fields",
