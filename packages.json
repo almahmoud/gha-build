@@ -4178,7 +4178,6 @@
         "Hmisc",
         "contrast",
         "flowClust",
-        "flowMeans",
         "flowMerge",
         "ggplot2",
         "htmlTable",
@@ -7681,7 +7680,6 @@
     ],
     "flowMap": [],
     "flowMatch": [],
-    "flowMeans": [],
     "flowMerge": [
         "flowClust"
     ],
@@ -15085,7 +15083,6 @@
     ],
     "optimalFlow": [
         "dplyr",
-        "flowMeans",
         "htmlwidgets",
         "rgl",
         "rmarkdown"
