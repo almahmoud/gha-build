@@ -24527,7 +24527,6 @@
     ],
     "GSgalgoR": [
         "doParallel",
-        "matchingR",
         "survival"
     ],
     "GSReg": [
@@ -68752,7 +68751,6 @@
         "vctrs"
     ],
     "yeastExpData": [],
-    "matchingR": [],
     "GA": [],
     "BatchJobs": [
         "BBmisc",
