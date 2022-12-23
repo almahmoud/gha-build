@@ -2530,9 +2530,7 @@
         "testthat"
     ],
     "dearseq": [],
-    "debCAM": [
-        "DMwR2"
-    ],
+    "debCAM": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
@@ -11792,7 +11790,6 @@
         "testthat"
     ],
     "metap": [],
-    "DMwR2": [],
     "rsq": [
         "lme4",
         "nloptr",
