@@ -24532,7 +24532,6 @@
         "KEGGREST",
         "RSQLite",
         "Rsamtools",
-        "Rsolnp",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -28279,7 +28278,6 @@
         "CellNOptR",
         "RBGL",
         "Rgraphviz",
-        "Rsolnp",
         "bslib",
         "ggplot2",
         "jquerylib",
@@ -30585,7 +30583,6 @@
         "HardyWeinberg",
         "IRanges",
         "MultiAssayExperiment",
-        "Rsolnp",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -42409,7 +42406,6 @@
         "RSQLite",
         "Ringo",
         "Rsamtools",
-        "Rsolnp",
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
@@ -50240,9 +50236,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "SPEM": [
-        "Rsolnp"
-    ],
+    "SPEM": [],
     "SPIA": [
         "KEGGgraph",
         "Rgraphviz"
@@ -51175,7 +51169,6 @@
         "KEGGREST",
         "RSQLite",
         "Rsamtools",
-        "Rsolnp",
         "S4Vectors",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -53627,7 +53620,6 @@
         "LambertW",
         "RSQLite",
         "Rsamtools",
-        "Rsolnp",
         "S4Vectors",
         "SummarizedExperiment",
         "UpSetR",
@@ -53676,7 +53668,6 @@
     ],
     "TMixClust": [
         "BiocParallel",
-        "Rsolnp",
         "SPEM",
         "flexclust",
         "futile.logger"
@@ -62333,10 +62324,7 @@
         "openssl"
     ],
     "phyclust": [],
-    "depmixS4": [
-        "Rsolnp"
-    ],
-    "Rsolnp": [],
+    "depmixS4": [],
     "golem": [
         "bslib",
         "credentials",
@@ -63037,7 +63025,6 @@
         "vctrs"
     ],
     "HardyWeinberg": [
-        "Rsolnp",
         "broom",
         "dplyr",
         "mice",
