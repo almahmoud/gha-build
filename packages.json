@@ -10250,7 +10250,6 @@
         "ShortRead"
     ],
     "systemPipeShiny": [
-        "drawer",
         "plotly"
     ],
     "systemPipeTools": [
@@ -12202,7 +12201,6 @@
         "fields",
         "viridis"
     ],
-    "drawer": [],
     "GenKern": [],
     "bestNormalize": [
         "recipes"
