@@ -596,7 +596,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "bacon": [],
     "BadRegionFinder": [
         "AnnotationDbi",
         "BSgenome",
