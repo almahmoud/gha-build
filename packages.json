@@ -15595,7 +15595,6 @@
         "tidyr",
         "waldo"
     ],
-    "RUVcorr": [],
     "RUVnormalize": [],
     "RUVSeq": [
         "AnnotationDbi",
