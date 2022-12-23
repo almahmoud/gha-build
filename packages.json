@@ -3060,7 +3060,6 @@
         "ggraph",
         "graphite",
         "haven",
-        "metap",
         "mnem",
         "modelr",
         "org.Hs.eg.db",
@@ -3769,7 +3768,6 @@
         "globaltest",
         "hgu133a.db",
         "hgu133plus2.db",
-        "metap",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "org.Rn.eg.db",
@@ -7068,7 +7066,6 @@
         "rtracklayer"
     ],
     "MetaVolcanoR": [
-        "metap",
         "plotly"
     ],
     "MethCP": [
@@ -8143,8 +8140,7 @@
     "multiGSEA": [
         "AnnotationDbi",
         "fgsea",
-        "graphite",
-        "metap"
+        "graphite"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -8181,7 +8177,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "metap",
         "mixOmics",
         "networkD3",
         "pkgdown",
@@ -8341,7 +8336,6 @@
         "ensembldb",
         "htmlTable",
         "interactiveDisplayBase",
-        "metap",
         "motifStack",
         "regioneR",
         "rhdf5",
@@ -9013,7 +9007,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "metap",
         "org.Hs.eg.db",
         "scatterpie",
         "tidygraph",
@@ -10860,7 +10853,6 @@
         "broom",
         "car",
         "lme4",
-        "metap",
         "nloptr",
         "pbkrtest",
         "plotly",
@@ -11819,7 +11811,6 @@
         "hgu95a.db",
         "htmlTable",
         "interactiveDisplayBase",
-        "metap",
         "msigdbr",
         "org.Hs.eg.db",
         "plotly",
@@ -14393,7 +14384,6 @@
     "cmdfun": [
         "testthat"
     ],
-    "metap": [],
     "DMwR2": [],
     "rsq": [
         "lme4",
