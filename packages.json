@@ -1435,8 +1435,7 @@
         "ggtree",
         "rtracklayer",
         "tidytree",
-        "treeio",
-        "vcfR"
+        "treeio"
     ],
     "Cardinal": [
         "EBImage"
@@ -6442,8 +6441,7 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "vcfR"
+        "rtracklayer"
     ],
     "MAGAR": [
         "AnnotationDbi",
@@ -13769,7 +13767,6 @@
     ],
     "profvis": [],
     "ggtext": [],
-    "vcfR": [],
     "drc": [
         "broom",
         "car",
