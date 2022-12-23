@@ -2982,7 +2982,6 @@
         "dplyr",
         "ggplot2",
         "plyranges",
-        "quantmod",
         "rtracklayer"
     ],
     "CGHcall": [],
@@ -4748,7 +4747,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "qs",
-        "quantmod",
         "readxl",
         "rmarkdown",
         "shiny",
@@ -5069,7 +5067,6 @@
         "ggplot2",
         "highcharter",
         "htmlwidgets",
-        "quantmod",
         "rmarkdown",
         "tidyr",
         "vsn"
@@ -5181,7 +5178,6 @@
         "SummarizedExperiment",
         "dplyr",
         "ggplot2",
-        "quantmod",
         "readr",
         "vroom"
     ],
@@ -5440,7 +5436,6 @@
     ],
     "deltaGseg": [
         "ggplot2",
-        "quantmod",
         "tseries"
     ],
     "DeMixT": [
@@ -16221,7 +16216,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "quantmod",
         "rmarkdown",
         "tidyr",
         "tseries",
@@ -16470,7 +16464,6 @@
         "ggplot2",
         "highcharter",
         "htmlwidgets",
-        "quantmod",
         "rhandsontable",
         "rmarkdown",
         "shiny",
@@ -16602,7 +16595,6 @@
         "interactiveDisplayBase",
         "miniUI",
         "pairsD3",
-        "quantmod",
         "qvalue",
         "readr",
         "recount",
@@ -17173,7 +17165,6 @@
     "RCM": [
         "ggplot2",
         "phyloseq",
-        "quantmod",
         "tseries"
     ],
     "Rcpi": [
@@ -24474,7 +24465,6 @@
         "tidyr"
     ],
     "GenomicTools": [],
-    "quantmod": [],
     "ChAMPdata": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "AnnotationDbi",
@@ -24878,7 +24868,6 @@
         "broom",
         "dplyr",
         "htmlwidgets",
-        "quantmod",
         "rmarkdown",
         "tidyr"
     ],
@@ -24958,7 +24947,6 @@
     "mutoss": [],
     "DMwR2": [
         "dplyr",
-        "quantmod",
         "readr",
         "vroom"
     ],
@@ -25006,9 +24994,7 @@
         "dplyr",
         "tidyr"
     ],
-    "tseries": [
-        "quantmod"
-    ],
+    "tseries": [],
     "ggplot.multistats": [
         "ggplot2"
     ],
@@ -25896,7 +25882,6 @@
     ],
     "forecast": [
         "ggplot2",
-        "quantmod",
         "tseries"
     ],
     "rhandsontable": [
