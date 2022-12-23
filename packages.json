@@ -3251,7 +3251,6 @@
         "minfi",
         "rhdf5"
     ],
-    "recoup": [],
     "REDseq": [
         "ChIPpeakAnno"
     ],
