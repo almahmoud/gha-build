@@ -69,7 +69,6 @@
         "biovizBase",
         "viridis"
     ],
-    "alpine": [],
     "altcdfenvs": [
         "affy",
         "makecdfenv"
