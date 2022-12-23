@@ -4126,7 +4126,6 @@
         "stringr",
         "sva",
         "tibble",
-        "vcd",
         "vegan",
         "vsn"
     ],
@@ -10166,7 +10165,6 @@
         "tidyselect",
         "tidyverse",
         "tweenr",
-        "vcd",
         "vegan",
         "viridis",
         "vroom"
@@ -11044,7 +11042,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "waldo"
     ],
     "DEsubs": [
@@ -13331,7 +13328,6 @@
         "pcalg",
         "stringr",
         "tibble",
-        "vcd",
         "vegan"
     ],
     "epistack": [
@@ -17080,7 +17076,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "vcd",
         "viridis"
     ],
     "GladiaTOX": [
@@ -24808,7 +24803,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "viridis",
         "vroom"
     ],
@@ -26255,7 +26249,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "waldo"
     ],
     "msPurity": [
@@ -27612,7 +27605,6 @@
         "pcalg",
         "stringr",
         "tibble",
-        "vcd",
         "vegan"
     ],
     "NetActivity": [
@@ -29947,7 +29939,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "verification",
         "viridis",
         "visNetwork",
@@ -32329,7 +32320,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "viridis",
         "waldo",
         "webshot"
@@ -47522,11 +47512,9 @@
     ],
     "BoolNet": [],
     "pcalg": [
-        "ggm",
-        "vcd"
+        "ggm"
     ],
     "ggm": [],
-    "vcd": [],
     "gamlss": [],
     "GenomicState": [
         "AnnotationDbi",
@@ -48923,7 +48911,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vcd",
         "waldo"
     ],
     "knn.covertree": [],
@@ -49394,7 +49381,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "vcd",
         "viridis"
     ],
     "gRain": [
@@ -50612,9 +50598,7 @@
         "tfruns",
         "tidyselect"
     ],
-    "reportROC": [
-        "vcd"
-    ],
+    "reportROC": [],
     "verification": [
         "fields",
         "ggplot2",
