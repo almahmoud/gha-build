@@ -114,7 +114,6 @@
         "SIFT.Hsapiens.dbSNP137",
         "SNPlocs.Hsapiens.dbSNP144.GRCh37",
         "VariantAnnotation",
-        "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37",
         "rhdf5"
     ],
     "ArrayExpress": [
@@ -4199,7 +4198,6 @@
     "BSgenome.Hsapiens.UCSC.hg19": [],
     "Homo.sapiens": [],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [],
-    "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
         "HDF5Array",
