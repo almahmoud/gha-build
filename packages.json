@@ -3933,9 +3933,7 @@
         "geneplotter"
     ],
     "HubPub": [],
-    "HumanTranscriptomeCompendium": [
-        "ssrch"
-    ],
+    "HumanTranscriptomeCompendium": [],
     "hypeR": [],
     "iCARE": [
         "Hmisc",
@@ -8377,7 +8375,6 @@
         "ggformula",
         "labelled"
     ],
-    "ssrch": [],
     "STAN": [
         "BSgenome",
         "GenomicFeatures",
