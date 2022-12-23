@@ -5090,7 +5090,6 @@
         "DT",
         "FactoMineR",
         "Hmisc",
-        "SpatialTools",
         "broom",
         "bslib",
         "car",
@@ -43937,7 +43936,6 @@
         "ggplot2",
         "tibble"
     ],
-    "SpatialTools": [],
     "FactoMineR": [
         "DT",
         "broom",
