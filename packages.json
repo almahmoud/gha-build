@@ -837,9 +837,7 @@
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "ensembldb"
     ],
-    "consensusOV": [
-        "GSVA"
-    ],
+    "consensusOV": [],
     "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
@@ -1296,7 +1294,6 @@
         "ggtree"
     ],
     "EGSEA": [
-        "GSVA",
         "PADOG"
     ],
     "ELMER": [
@@ -1477,9 +1474,7 @@
         "motifmatchr",
         "pipeFrame"
     ],
-    "escape": [
-        "GSVA"
-    ],
+    "escape": [],
     "EventPointer": [
         "BSgenome",
         "GenomicFeatures",
@@ -1892,7 +1887,6 @@
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "GSVA": [],
     "GUIDEseq": [
         "BSgenome",
         "CRISPRseek",
@@ -2965,7 +2959,6 @@
         "DESeq2",
         "EDASeq",
         "ExperimentHub",
-        "GSVA",
         "GenomicFeatures",
         "RUVSeq",
         "octad.db"
@@ -3044,9 +3037,7 @@
         "pbkrtest",
         "unmarked"
     ],
-    "oppar": [
-        "GSVA"
-    ],
+    "oppar": [],
     "oppti": [],
     "ORFhunteR": [
         "BSgenome",
@@ -3959,7 +3950,6 @@
         "survminer"
     ],
     "signifinder": [
-        "GSVA",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -3993,7 +3983,6 @@
         "AnnotationHub",
         "DESeq2",
         "ExperimentHub",
-        "GSVA",
         "GSVAdata",
         "GenomicFeatures",
         "M3Drop",
@@ -4021,9 +4010,7 @@
         "VariantAnnotation"
     ],
     "singscore": [],
-    "SISPA": [
-        "GSVA"
-    ],
+    "SISPA": [],
     "sitadela": [
         "GenomicFeatures"
     ],
@@ -4275,7 +4262,6 @@
     "TBSignatureProfiler": [
         "ASSIGN",
         "DESeq2",
-        "GSVA",
         "singscore",
         "sva"
     ],
@@ -4362,7 +4348,6 @@
         "VariantAnnotation"
     ],
     "TNBC.CMS": [
-        "GSVA",
         "car",
         "ggpubr",
         "pbkrtest",
