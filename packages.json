@@ -592,8 +592,7 @@
     "MethCP": [],
     "MethReg": [
         "ggpubr",
-        "rstatix",
-        "sesame"
+        "rstatix"
     ],
     "MethylAid": [],
     "methylCC": [
@@ -940,7 +939,6 @@
         "ChIPseeker"
     ],
     "selectKSigs": [],
-    "sesame": [],
     "shinyepico": [],
     "shinyMethyl": [
         "IlluminaHumanMethylation450kmanifest"
@@ -1036,8 +1034,7 @@
         "Gviz",
         "clusterProfiler",
         "ggpubr",
-        "rstatix",
-        "sesame"
+        "rstatix"
     ],
     "TDARACNE": [
         "GenKern"
