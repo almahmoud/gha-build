@@ -7776,7 +7776,6 @@
         "aplot",
         "coin",
         "ggsignif",
-        "ggstar",
         "ggtree",
         "ggtreeExtra",
         "tidytree",
@@ -15384,7 +15383,6 @@
     "ggmcmc": [
         "GGally"
     ],
-    "ggstar": [],
     "formattable": [
         "htmlwidgets"
     ],

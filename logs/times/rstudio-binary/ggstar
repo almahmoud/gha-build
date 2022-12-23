@@ -1,0 +1,182 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   be380778..5ef85ef9  main       -> origin/main
+Updating be380778..5ef85ef9
+Fast-forward
+ lists/GenomAutomorphism                            |   2 +-
+ lists/ggplot.multistats                            |   2 +-
+ lists/ggplotify                                    |   2 +-
+ lists/ggrepel                                      |   2 +-
+ lists/googlesheets4                                |   2 +-
+ logs/run_ids/rstudio-binaries/ggthemes             |   2 +
+ .../rstudio-binaries/binaries/GenomAutomorphism    |   1 +
+ logs/sizes/rstudio-binaries/binaries/ggplotify     |   1 +
+ logs/sizes/rstudio-binaries/binaries/googlesheets4 |   1 +
+ .../rstudio-binaries/libraries/GenomAutomorphism   |   1 +
+ logs/sizes/rstudio-binaries/libraries/ggplotify    |   1 +
+ .../sizes/rstudio-binaries/libraries/googlesheets4 |   1 +
+ logs/times/rstudio-binary/GenomAutomorphism        | 441 +++++++++++++++++++++
+ logs/times/rstudio-binary/ggplotify                |  81 ++++
+ logs/times/rstudio-binary/googlesheets4            |  80 ++++
+ packages.json                                      | 405 ++-----------------
+ 16 files changed, 640 insertions(+), 385 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/ggthemes
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/GenomAutomorphism
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ggplotify
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/googlesheets4
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/GenomAutomorphism
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ggplotify
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/googlesheets4
+ create mode 100644 logs/times/rstudio-binary/GenomAutomorphism
+ create mode 100644 logs/times/rstudio-binary/ggplotify
+ create mode 100644 logs/times/rstudio-binary/googlesheets4
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=ggstar
++ PKG=ggstar
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "ggstar"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency ggplot2 is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 25 1232k   25  318k    0     0   361k      0  0:00:03 --:--:--  0:00:03  361k100 1232k  100 1232k    0     0   704k      0  0:00:01  0:00:01 --:--:--  705k
+built/
+built/gtable/
+built/gtable/NAMESPACE
+built/gtable/DESCRIPTION
+built/gtable/help/
+built/gtable/help/paths.rds
+built/gtable/help/gtable.rdb
+built/gtable/help/gtable.rdx
+built/gtable/help/aliases.rds
+built/gtable/help/figures/
+built/gtable/help/figures/README-unnamed-chunk-3-1.png
+built/gtable/help/figures/README-unnamed-chunk-2-1.png
+built/gtable/help/figures/logo.png
+built/gtable/help/AnIndex
+built/gtable/Meta/
+built/gtable/Meta/package.rds
+built/gtable/Meta/vignette.rds
+built/gtable/Meta/features.rds
+built/gtable/Meta/hsearch.rds
+built/gtable/Meta/links.rds
+built/gtable/Meta/nsInfo.rds
+built/gtable/Meta/Rd.rds
+built/gtable/LICENSE
+built/gtable/html/
+built/gtable/html/00Index.html
+built/gtable/html/R.css
+built/gtable/INDEX
+built/gtable/doc/
+built/gtable/doc/profiling.html
+built/gtable/doc/profiling.Rmd
+built/gtable/doc/profiling.R
+built/gtable/doc/index.html
+built/gtable/R/
+built/gtable/R/gtable
+built/gtable/R/gtable.rdb
+built/gtable/R/gtable.rdx
+built/gtable/NEWS.md
+built/gridExtra/
+built/gridExtra/NAMESPACE
+built/gridExtra/DESCRIPTION
+built/gridExtra/help/
+built/gridExtra/help/paths.rds
+built/gridExtra/help/gridExtra.rdb
+built/gridExtra/help/aliases.rds
+built/gridExtra/help/gridExtra.rdx
+built/gridExtra/help/AnIndex
+built/gridExtra/Meta/
+built/gridExtra/Meta/package.rds
+built/gridExtra/Meta/vignette.rds
+built/gridExtra/Meta/features.rds
+built/gridExtra/Meta/hsearch.rds
+built/gridExtra/Meta/links.rds
+built/gridExtra/Meta/nsInfo.rds
+built/gridExtra/Meta/Rd.rds
+built/gridExtra/html/
+built/gridExtra/html/00Index.html
+built/gridExtra/html/R.css
+built/gridExtra/INDEX
+built/gridExtra/doc/
+built/gridExtra/doc/arrangeGrob.R
+built/gridExtra/doc/arrangeGrob.rmd
+built/gridExtra/doc/arrangeGrob.html
+built/gridExtra/doc/tableGrob.R
+built/gridExtra/doc/gtable.Rmd
+built/gridExtra/doc/tableGrob.html
+built/gridExtra/doc/gtable.R
+built/gridExtra/doc/tableGrob.Rmd
+built/gridExtra/doc/ngonGrob.R
+built/gridExtra/doc/gtable.html
+built/gridExtra/doc/ngonGrob.html
+built/gridExtra/doc/index.html
+built/gridExtra/doc/ngonGrob.Rmd
+built/gridExtra/R/
+built/gridExtra/R/gridExtra.rdb
+built/gridExtra/R/gridExtra
+built/gridExtra/R/gridExtra.rdx
+built/gridExtra/tests/
+built/gridExtra/tests/testthat.r
+built/gridExtra/tests/testthat/
+built/gridExtra/tests/testthat/test-arrangeGrob.R
+built/gridExtra/tests/testthat/test-tableGrob.R
+built/gridExtra/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''ggstar'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv ggstar_1.0.4_R_x86_64-pc-linux-gnu.tar.gz gridExtra_2.3_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/ggstar
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'ggstar'
+also installing the dependency ‘gridExtra’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gridExtra_2.3.tar.gz'
+Content type 'binary/octet-stream' length 1106730 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/ggstar_1.0.4.tar.gz'
+Content type 'binary/octet-stream' length 199686 bytes (195 KB)
+==================================================
+downloaded 195 KB
+
+* installing *binary* package ‘gridExtra’ ...
+* ‘gridExtra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gridExtra’ as ‘gridExtra_2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gridExtra)
+* installing *binary* package ‘ggstar’ ...
+* ‘ggstar’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggstar’ as ‘ggstar_1.0.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggstar)
+
+The downloaded source packages are in
+	‘/tmp/RtmpmhayZl/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m10.092s
+user	0m4.304s
+sys	0m0.504s
