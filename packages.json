@@ -1245,7 +1245,6 @@
         "GenomicFeatures",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "KEGGREST",
-        "ROC",
         "Rsamtools",
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -2669,7 +2668,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
         "KEGGREST",
-        "ROC",
         "Rsamtools",
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -3187,11 +3185,8 @@
         "vsn",
         "xcms"
     ],
-    "clst": [
-        "ROC"
-    ],
+    "clst": [],
     "clstutils": [
-        "ROC",
         "clst"
     ],
     "CluMSID": [
@@ -9951,7 +9946,6 @@
     "maPredictDSC": [
         "AnnotationDbi",
         "KEGGREST",
-        "ROC",
         "caret",
         "gcrma",
         "hgu133plus2.db",
@@ -10182,7 +10176,6 @@
         "GenomicFeatures",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "KEGGREST",
-        "ROC",
         "Rsamtools",
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -16129,7 +16122,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "ROC": [],
     "ROCpAI": [
         "SummarizedExperiment",
         "fission"
@@ -17818,7 +17810,6 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "KEGGREST",
-        "ROC",
         "Rsamtools",
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -18548,9 +18539,7 @@
         "tidyverse",
         "vroom"
     ],
-    "statTarget": [
-        "ROC"
-    ],
+    "statTarget": [],
     "STdeconvolve": [
         "ggforce",
         "ggfun",
@@ -18971,7 +18960,6 @@
         "AnnotationDbi",
         "DESeq2",
         "KEGGREST",
-        "ROC",
         "SummarizedExperiment",
         "annotate",
         "baySeq",
@@ -20285,7 +20273,6 @@
         "GenomicFeatures",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "KEGGREST",
-        "ROC",
         "Rsamtools",
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
