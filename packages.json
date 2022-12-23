@@ -937,7 +937,6 @@
         "scuttle",
         "testthat",
         "tidyr",
-        "tidytext",
         "tidytree",
         "treeio",
         "viridis",
@@ -6456,7 +6455,6 @@
     "GSEAmining": [
         "dendextend",
         "ggwordcloud",
-        "tidytext",
         "viridis"
     ],
     "gsean": [
@@ -6794,8 +6792,7 @@
         "geneplotter"
     ],
     "HubPub": [
-        "available",
-        "tidytext"
+        "available"
     ],
     "HumanTranscriptomeCompendium": [
         "DT",
@@ -16711,7 +16708,6 @@
     "corncob": [
         "phyloseq"
     ],
-    "tidytext": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -17454,9 +17450,7 @@
         "htmlwidgets",
         "interactiveDisplayBase"
     ],
-    "available": [
-        "tidytext"
-    ],
+    "available": [],
     "reactable": [
         "htmlwidgets"
     ],
