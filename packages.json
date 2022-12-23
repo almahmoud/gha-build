@@ -2256,7 +2256,6 @@
         "progress",
         "promises",
         "purrr",
-        "rapidjsonr",
         "rmarkdown",
         "sass",
         "scales",
@@ -6281,7 +6280,6 @@
         "promises",
         "purrr",
         "quantreg",
-        "rapidjsonr",
         "rematch2",
         "restfulr",
         "rhdf5",
@@ -66649,7 +66647,6 @@
         "progress",
         "promises",
         "purrr",
-        "rapidjsonr",
         "reshape2",
         "rhdf5client",
         "rmarkdown",
@@ -82882,7 +82879,6 @@
         "progress",
         "promises",
         "purrr",
-        "rapidjsonr",
         "reshape2",
         "restfulSE",
         "rhdf5client",
@@ -90687,7 +90683,6 @@
         "pillar",
         "prettyunits",
         "progress",
-        "rapidjsonr",
         "tibble",
         "vctrs"
     ],
@@ -90711,7 +90706,6 @@
         "httr",
         "openssl"
     ],
-    "rapidjsonr": [],
     "repmis": [
         "R.cache",
         "R.oo",
