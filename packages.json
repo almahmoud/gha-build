@@ -7646,7 +7646,6 @@
         "ggplot2",
         "knitr",
         "modeest",
-        "phylolm",
         "pillar",
         "stringr",
         "tibble",
@@ -46215,7 +46214,6 @@
     "cobs": [
         "quantreg"
     ],
-    "phylolm": [],
     "rio": [
         "cellranger",
         "forcats",
