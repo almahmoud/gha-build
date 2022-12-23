@@ -631,9 +631,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "bioassayR": [
-        "ChemmineR"
-    ],
+    "bioassayR": [],
     "bioCancer": [
         "DOSE",
         "DiagrammeR",
@@ -1273,7 +1271,6 @@
         "viridis",
         "wateRmelon"
     ],
-    "ChemmineR": [],
     "CHETAH": [
         "dendextend",
         "viridis"
@@ -1685,9 +1682,7 @@
         "topGO",
         "viridis"
     ],
-    "CompoundDb": [
-        "ChemmineR"
-    ],
+    "CompoundDb": [],
     "ComPrAn": [
         "rio"
     ],
@@ -1995,7 +1990,6 @@
     ],
     "customCMPdb": [
         "AnnotationHub",
-        "ChemmineR",
         "interactiveDisplayBase"
     ],
     "customProDB": [
@@ -2648,9 +2642,7 @@
         "safe",
         "topGO"
     ],
-    "eiR": [
-        "ChemmineR"
-    ],
+    "eiR": [],
     "ELMER": [
         "BSgenome",
         "GenomicFeatures",
@@ -3218,9 +3210,7 @@
         "fds",
         "flowStats"
     ],
-    "fmcsR": [
-        "ChemmineR"
-    ],
+    "fmcsR": [],
     "fobitools": [
         "ggraph",
         "lexicon",
@@ -4818,7 +4808,6 @@
         "caret"
     ],
     "MetaboAnnotation": [
-        "ChemmineR",
         "CompoundDb",
         "QFeatures"
     ],
@@ -5088,7 +5077,6 @@
         "rtracklayer"
     ],
     "MetID": [
-        "ChemmineR",
         "devtools"
     ],
     "mfa": [
@@ -7386,7 +7374,6 @@
         "valr"
     ],
     "RMassBank": [
-        "ChemmineR",
         "MSnbase",
         "affy",
         "rcdk",
