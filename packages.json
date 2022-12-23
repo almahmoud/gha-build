@@ -3706,7 +3706,6 @@
         "Hmisc",
         "KEGGREST",
         "RSQLite",
-        "TH.data",
         "XVector",
         "blob",
         "bslib",
@@ -5266,7 +5265,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "beachmat",
         "broom",
@@ -6007,7 +6005,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "broom",
         "broom.mixed",
@@ -6536,7 +6533,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "blob",
         "bslib",
@@ -8681,7 +8677,6 @@
     "CONFESS": [
         "EBImage",
         "Hmisc",
-        "TH.data",
         "bslib",
         "contrast",
         "feature",
@@ -10105,7 +10100,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "broom",
         "bslib",
@@ -10574,7 +10568,6 @@
         "RBGL",
         "RSQLite",
         "TFisher",
-        "TH.data",
         "XVector",
         "blob",
         "broom",
@@ -11777,7 +11770,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "broom",
         "car",
@@ -12117,7 +12109,6 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "futile.logger",
         "multcomp",
@@ -12411,7 +12402,6 @@
     ],
     "Doscheda": [
         "DT",
-        "TH.data",
         "affy",
         "broom",
         "bslib",
@@ -12693,7 +12683,6 @@
         "ROCR",
         "RSQLite",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "annotate",
         "blob",
@@ -13038,7 +13027,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TFisher",
-        "TH.data",
         "XVector",
         "annotate",
         "beachmat",
@@ -17883,7 +17871,6 @@
         "Hmisc",
         "KEGGREST",
         "RSQLite",
-        "TH.data",
         "XVector",
         "annotate",
         "blob",
@@ -18612,7 +18599,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "broom",
         "bslib",
@@ -19617,7 +19603,6 @@
         "MultiAssayExperiment",
         "RSQLite",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "blob",
         "bslib",
@@ -20501,7 +20486,6 @@
         "Seurat",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "bslib",
         "coin",
@@ -21898,7 +21882,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "coin",
         "ggplot2",
@@ -23592,7 +23575,6 @@
     "MEDME": [
         "Biostrings",
         "GenomeInfoDb",
-        "TH.data",
         "XVector",
         "broom",
         "car",
@@ -24329,7 +24311,6 @@
     ],
     "MetaVolcanoR": [
         "TFisher",
-        "TH.data",
         "bslib",
         "cowplot",
         "dplyr",
@@ -25405,7 +25386,6 @@
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "TH.data",
         "TreeSummarizedExperiment",
         "Wrench",
         "XVector",
@@ -25548,7 +25528,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "aplot",
         "coin",
@@ -27970,7 +27949,6 @@
         "KEGGREST",
         "RSQLite",
         "TFisher",
-        "TH.data",
         "XVector",
         "blob",
         "cowplot",
@@ -28056,7 +28034,6 @@
         "ReactomePA",
         "SummarizedExperiment",
         "TFisher",
-        "TH.data",
         "XVector",
         "annotate",
         "anyLib",
@@ -28555,7 +28532,6 @@
         "SummarizedExperiment",
         "TFBSTools",
         "TFisher",
-        "TH.data",
         "VariantAnnotation",
         "VennDiagram",
         "XVector",
@@ -30982,7 +30958,6 @@
         "KEGGREST",
         "RSQLite",
         "TFisher",
-        "TH.data",
         "XVector",
         "annotate",
         "aplot",
@@ -37309,7 +37284,6 @@
         "MultiDataSet",
         "SummarizedExperiment",
         "TFisher",
-        "TH.data",
         "XVector",
         "broom",
         "bslib",
@@ -40821,7 +40795,6 @@
         "SummarizedExperiment",
         "TENxPBMCData",
         "TFisher",
-        "TH.data",
         "TSCAN",
         "TrajectoryUtils",
         "XVector",
@@ -43453,7 +43426,6 @@
     ],
     "synergyfinder": [
         "SpatialExtremes",
-        "TH.data",
         "blob",
         "broom",
         "bslib",
@@ -45367,7 +45339,6 @@
         "GenomicRanges",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "TH.data",
         "XVector",
         "aplot",
         "broom",
@@ -49496,7 +49467,6 @@
     "gert": [],
     "rms": [
         "Hmisc",
-        "TH.data",
         "bslib",
         "ggplot2",
         "htmlTable",
@@ -49525,10 +49495,7 @@
         "vctrs"
     ],
     "xlsx": [],
-    "multcomp": [
-        "TH.data"
-    ],
-    "TH.data": [],
+    "multcomp": [],
     "latex2exp": [
         "stringr",
         "vctrs"
@@ -49936,7 +49903,6 @@
         "vctrs"
     ],
     "drc": [
-        "TH.data",
         "broom",
         "car",
         "dplyr",
@@ -50776,7 +50742,6 @@
     ],
     "contrast": [
         "Hmisc",
-        "TH.data",
         "bslib",
         "ggplot2",
         "htmlTable",
@@ -51139,7 +51104,6 @@
     ],
     "metap": [
         "TFisher",
-        "TH.data",
         "multcomp",
         "multtest",
         "mutoss",
@@ -51151,7 +51115,6 @@
         "sn"
     ],
     "mutoss": [
-        "TH.data",
         "multcomp",
         "multtest"
     ],
@@ -51361,7 +51324,6 @@
         "vctrs"
     ],
     "coin": [
-        "TH.data",
         "multcomp"
     ],
     "ELMER.data": [
@@ -51755,7 +51717,6 @@
     ],
     "HH": [
         "Hmisc",
-        "TH.data",
         "bslib",
         "ggplot2",
         "htmlTable",
