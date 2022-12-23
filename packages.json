@@ -4815,7 +4815,6 @@
         "rtracklayer",
         "tibble"
     ],
-    "CGEN": [],
     "CGHcall": [],
     "cghMCR": [
         "AnnotationDbi",
