@@ -4018,7 +4018,6 @@
         "annotate",
         "genefilter"
     ],
-    "GeneNetworkBuilder": [],
     "geneplotter": [
         "annotate"
     ],
