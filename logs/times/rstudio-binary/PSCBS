@@ -1,0 +1,438 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   eaf943bd..1978c241  main       -> origin/main
+Updating eaf943bd..1978c241
+Fast-forward
+ lists/lubridate                                 |   2 +-
+ logs/run_ids/rstudio-binaries/PROPER            |   2 +
+ logs/run_ids/rstudio-binaries/msm               |   2 +
+ logs/run_ids/rstudio-binaries/randPack          |   2 +
+ logs/sizes/rstudio-binaries/binaries/lubridate  |   1 +
+ logs/sizes/rstudio-binaries/libraries/lubridate |   1 +
+ logs/times/rstudio-binary/lubridate             | 191 ++++++++++++++++++++++++
+ packages.json                                   |  90 -----------
+ 8 files changed, 200 insertions(+), 91 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/msm
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/lubridate
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/lubridate
+ create mode 100644 logs/times/rstudio-binary/lubridate
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=PSCBS
++ PKG=PSCBS
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "PSCBS"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency R.cache is already found.
+Dependency aroma.light is already found.
+Dependency DNAcopy is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 10 1940k   10  208k    0     0   183k      0  0:00:10  0:00:01  0:00:09  183k 60 1940k   60 1180k    0     0   556k      0  0:00:03  0:00:02  0:00:01  555k100 1940k  100 1940k    0     0   745k      0  0:00:02  0:00:02 --:--:--  745k
+built/
+built/listenv/
+built/listenv/NAMESPACE
+built/listenv/DESCRIPTION
+built/listenv/help/
+built/listenv/help/paths.rds
+built/listenv/help/listenv.rdb
+built/listenv/help/aliases.rds
+built/listenv/help/AnIndex
+built/listenv/help/listenv.rdx
+built/listenv/Meta/
+built/listenv/Meta/package.rds
+built/listenv/Meta/vignette.rds
+built/listenv/Meta/features.rds
+built/listenv/Meta/hsearch.rds
+built/listenv/Meta/links.rds
+built/listenv/Meta/nsInfo.rds
+built/listenv/Meta/Rd.rds
+built/listenv/WORDLIST
+built/listenv/html/
+built/listenv/html/00Index.html
+built/listenv/html/R.css
+built/listenv/INDEX
+built/listenv/doc/
+built/listenv/doc/listenv.html
+built/listenv/doc/index.html
+built/listenv/doc/listenv.md.rsp
+built/listenv/R/
+built/listenv/R/listenv
+built/listenv/R/listenv.rdb
+built/listenv/R/listenv.rdx
+built/listenv/NEWS.md
+built/built/
+built/built/listenv/
+built/built/listenv/NAMESPACE
+built/built/listenv/DESCRIPTION
+built/built/listenv/help/
+built/built/listenv/help/paths.rds
+built/built/listenv/help/listenv.rdb
+built/built/listenv/help/aliases.rds
+built/built/listenv/help/AnIndex
+built/built/listenv/help/listenv.rdx
+built/built/listenv/Meta/
+built/built/listenv/Meta/package.rds
+built/built/listenv/Meta/vignette.rds
+built/built/listenv/Meta/features.rds
+built/built/listenv/Meta/hsearch.rds
+built/built/listenv/Meta/links.rds
+built/built/listenv/Meta/nsInfo.rds
+built/built/listenv/Meta/Rd.rds
+built/built/listenv/WORDLIST
+built/built/listenv/html/
+built/built/listenv/html/00Index.html
+built/built/listenv/html/R.css
+built/built/listenv/INDEX
+built/built/listenv/doc/
+built/built/listenv/doc/listenv.html
+built/built/listenv/doc/index.html
+built/built/listenv/doc/listenv.md.rsp
+built/built/listenv/R/
+built/built/listenv/R/listenv
+built/built/listenv/R/listenv.rdb
+built/built/listenv/R/listenv.rdx
+built/built/listenv/NEWS.md
+built/built/parallelly/
+built/built/parallelly/NAMESPACE
+built/built/parallelly/DESCRIPTION
+built/built/parallelly/help/
+built/built/parallelly/help/paths.rds
+built/built/parallelly/help/aliases.rds
+built/built/parallelly/help/figures/
+built/built/parallelly/help/figures/lifecycle-maturing-blue.svg
+built/built/parallelly/help/figures/logo.png
+built/built/parallelly/help/parallelly.rdb
+built/built/parallelly/help/AnIndex
+built/built/parallelly/help/parallelly.rdx
+built/built/parallelly/Meta/
+built/built/parallelly/Meta/package.rds
+built/built/parallelly/Meta/features.rds
+built/built/parallelly/Meta/hsearch.rds
+built/built/parallelly/Meta/links.rds
+built/built/parallelly/Meta/nsInfo.rds
+built/built/parallelly/Meta/Rd.rds
+built/built/parallelly/WORDLIST
+built/built/parallelly/html/
+built/built/parallelly/html/00Index.html
+built/built/parallelly/html/R.css
+built/built/parallelly/INDEX
+built/built/parallelly/R/
+built/built/parallelly/R/parallelly
+built/built/parallelly/R/parallelly.rdb
+built/built/parallelly/R/parallelly.rdx
+built/built/parallelly/NEWS.md
+built/built/globals/
+built/built/globals/NAMESPACE
+built/built/globals/DESCRIPTION
+built/built/globals/help/
+built/built/globals/help/paths.rds
+built/built/globals/help/globals.rdb
+built/built/globals/help/globals.rdx
+built/built/globals/help/aliases.rds
+built/built/globals/help/AnIndex
+built/built/globals/Meta/
+built/built/globals/Meta/package.rds
+built/built/globals/Meta/features.rds
+built/built/globals/Meta/hsearch.rds
+built/built/globals/Meta/links.rds
+built/built/globals/Meta/nsInfo.rds
+built/built/globals/Meta/Rd.rds
+built/built/globals/WORDLIST
+built/built/globals/html/
+built/built/globals/html/00Index.html
+built/built/globals/html/R.css
+built/built/globals/INDEX
+built/built/globals/R/
+built/built/globals/R/globals.rdb
+built/built/globals/R/globals.rdx
+built/built/globals/R/globals
+built/built/globals/NEWS.md
+built/built/codetools/
+built/built/codetools/NAMESPACE
+built/built/codetools/DESCRIPTION
+built/built/codetools/help/
+built/built/codetools/help/paths.rds
+built/built/codetools/help/codetools.rdb
+built/built/codetools/help/aliases.rds
+built/built/codetools/help/codetools.rdx
+built/built/codetools/help/AnIndex
+built/built/codetools/Meta/
+built/built/codetools/Meta/package.rds
+built/built/codetools/Meta/features.rds
+built/built/codetools/Meta/hsearch.rds
+built/built/codetools/Meta/links.rds
+built/built/codetools/Meta/nsInfo.rds
+built/built/codetools/Meta/Rd.rds
+built/built/codetools/html/
+built/built/codetools/html/00Index.html
+built/built/codetools/html/R.css
+built/built/codetools/INDEX
+built/built/codetools/R/
+built/built/codetools/R/codetools.rdb
+built/built/codetools/R/codetools.rdx
+built/built/codetools/R/codetools
+built/built/digest/
+built/built/digest/libs/
+built/built/digest/libs/digest.so
+built/built/digest/NAMESPACE
+built/built/digest/tinytest/
+built/built/digest/tinytest/test_new_matrix_behaviour.R
+built/built/digest/tinytest/test_crc32.R
+built/built/digest/tinytest/test_misc.R
+built/built/digest/tinytest/test_digest2int.R
+built/built/digest/tinytest/test_hmac.R
+built/built/digest/tinytest/test_blake3.R
+built/built/digest/tinytest/test_raw.R
+built/built/digest/tinytest/test_aes.R
+built/built/digest/tinytest/test_digest.R
+built/built/digest/tinytest/test_sha1.R
+built/built/digest/tinytest/test_encoding.R
+built/built/digest/tinytest/test_num2hex.R
+built/built/digest/DESCRIPTION
+built/built/digest/help/
+built/built/digest/help/paths.rds
+built/built/digest/help/aliases.rds
+built/built/digest/help/digest.rdx
+built/built/digest/help/digest.rdb
+built/built/digest/help/AnIndex
+built/built/digest/Meta/
+built/built/digest/Meta/package.rds
+built/built/digest/Meta/vignette.rds
+built/built/digest/Meta/demo.rds
+built/built/digest/Meta/features.rds
+built/built/digest/Meta/hsearch.rds
+built/built/digest/Meta/links.rds
+built/built/digest/Meta/nsInfo.rds
+built/built/digest/Meta/Rd.rds
+built/built/digest/include/
+built/built/digest/include/pmurhashAPI.h
+built/built/digest/GPL-2
+built/built/digest/html/
+built/built/digest/html/00Index.html
+built/built/digest/html/R.css
+built/built/digest/INDEX
+built/built/digest/doc/
+built/built/digest/doc/sha1.html
+built/built/digest/doc/sha1.md
+built/built/digest/doc/sha1.R
+built/built/digest/doc/index.html
+built/built/digest/R/
+built/built/digest/R/digest.rdx
+built/built/digest/R/digest.rdb
+built/built/digest/R/digest
+built/built/digest/demo/
+built/built/digest/demo/vectorised.R
+built/parallelly/
+built/parallelly/NAMESPACE
+built/parallelly/DESCRIPTION
+built/parallelly/help/
+built/parallelly/help/paths.rds
+built/parallelly/help/aliases.rds
+built/parallelly/help/figures/
+built/parallelly/help/figures/lifecycle-maturing-blue.svg
+built/parallelly/help/figures/logo.png
+built/parallelly/help/parallelly.rdb
+built/parallelly/help/AnIndex
+built/parallelly/help/parallelly.rdx
+built/parallelly/Meta/
+built/parallelly/Meta/package.rds
+built/parallelly/Meta/features.rds
+built/parallelly/Meta/hsearch.rds
+built/parallelly/Meta/links.rds
+built/parallelly/Meta/nsInfo.rds
+built/parallelly/Meta/Rd.rds
+built/parallelly/WORDLIST
+built/parallelly/html/
+built/parallelly/html/00Index.html
+built/parallelly/html/R.css
+built/parallelly/INDEX
+built/parallelly/R/
+built/parallelly/R/parallelly
+built/parallelly/R/parallelly.rdb
+built/parallelly/R/parallelly.rdx
+built/parallelly/NEWS.md
+built/globals/
+built/globals/NAMESPACE
+built/globals/DESCRIPTION
+built/globals/help/
+built/globals/help/paths.rds
+built/globals/help/globals.rdb
+built/globals/help/globals.rdx
+built/globals/help/aliases.rds
+built/globals/help/AnIndex
+built/globals/Meta/
+built/globals/Meta/package.rds
+built/globals/Meta/features.rds
+built/globals/Meta/hsearch.rds
+built/globals/Meta/links.rds
+built/globals/Meta/nsInfo.rds
+built/globals/Meta/Rd.rds
+built/globals/WORDLIST
+built/globals/html/
+built/globals/html/00Index.html
+built/globals/html/R.css
+built/globals/INDEX
+built/globals/R/
+built/globals/R/globals.rdb
+built/globals/R/globals.rdx
+built/globals/R/globals
+built/globals/NEWS.md
+built/future/
+built/future/NAMESPACE
+built/future/DESCRIPTION
+built/future/help/
+built/future/help/paths.rds
+built/future/help/future.rdb
+built/future/help/aliases.rds
+built/future/help/figures/
+built/future/help/figures/logo.png
+built/future/help/future.rdx
+built/future/help/AnIndex
+built/future/Meta/
+built/future/Meta/package.rds
+built/future/Meta/vignette.rds
+built/future/Meta/demo.rds
+built/future/Meta/features.rds
+built/future/Meta/hsearch.rds
+built/future/Meta/links.rds
+built/future/Meta/nsInfo.rds
+built/future/Meta/Rd.rds
+built/future/WORDLIST
+built/future/CITATION
+built/future/html/
+built/future/html/00Index.html
+built/future/html/R.css
+built/future/INDEX
+built/future/doc/
+built/future/doc/future-7-for-package-developers.md.rsp
+built/future/doc/future-4-non-exportable-objects.md.rsp
+built/future/doc/future-4-issues.html
+built/future/doc/future-4-issues.md.rsp
+built/future/doc/future-3-topologies.html
+built/future/doc/future-3-topologies.md.rsp
+built/future/doc/future-6-future-api-backend-specification.html
+built/future/doc/future-1-overview.md.rsp
+built/future/doc/future-8-how-future-is-validated.html
+built/future/doc/future-6-future-api-backend-specification.md.rsp
+built/future/doc/future-2-output.md.rsp
+built/future/doc/future-5-startup.html
+built/future/doc/index.html
+built/future/doc/future-7-for-package-developers.html
+built/future/doc/future-4-non-exportable-objects.html
+built/future/doc/future-1-overview.html
+built/future/doc/future-8-how-future-is-validated.md.rsp
+built/future/doc/future-2-output.html
+built/future/doc/future-5-startup.md.rsp
+built/future/R/
+built/future/R/future.rdb
+built/future/R/future.rdx
+built/future/R/future
+built/future/demo/
+built/future/demo/fibonacci.R
+built/future/demo/mandelbrot.R
+built/future/vignettes-static/
+built/future/vignettes-static/future-1-overview.md.rsp.rsp
+built/future/vignettes-static/incl/
+built/future/vignettes-static/incl/future-1-overview-example2.R
+built/future/vignettes-static/incl/future-1-overview-example3.R
+built/future/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''PSCBS'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv future_1.30.0_R_x86_64-pc-linux-gnu.tar.gz globals_0.16.2_R_x86_64-pc-linux-gnu.tar.gz listenv_0.9.0_R_x86_64-pc-linux-gnu.tar.gz parallelly_1.33.0_R_x86_64-pc-linux-gnu.tar.gz PSCBS_0.66.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/PSCBS
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'PSCBS'
+also installing the dependencies ‘globals’, ‘parallelly’, ‘listenv’, ‘future’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/globals_0.16.2.tar.gz'
+Content type 'binary/octet-stream' length 104455 bytes (102 KB)
+==================================================
+downloaded 102 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/parallelly_1.33.0.tar.gz'
+Content type 'binary/octet-stream' length 323992 bytes (316 KB)
+==================================================
+downloaded 316 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/listenv_0.9.0.tar.gz'
+Content type 'binary/octet-stream' length 104439 bytes (101 KB)
+==================================================
+downloaded 101 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/future_1.30.0.tar.gz'
+Content type 'binary/octet-stream' length 630409 bytes (615 KB)
+==================================================
+downloaded 615 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/PSCBS_0.66.0.tar.gz'
+Content type 'binary/octet-stream' length 3693755 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+* installing *binary* package ‘globals’ ...
+* ‘globals’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘globals’ as ‘globals_0.16.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (globals)
+* installing *binary* package ‘parallelly’ ...
+* ‘parallelly’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘parallelly’ as ‘parallelly_1.33.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (parallelly)
+* installing *binary* package ‘listenv’ ...
+* ‘listenv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘listenv’ as ‘listenv_0.9.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (listenv)
+* installing *binary* package ‘future’ ...
+* ‘future’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘future’ as ‘future_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (future)
+* installing *source* package ‘PSCBS’ ...
+** package ‘PSCBS’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘PSCBS’ as ‘PSCBS_0.66.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PSCBS)
+
+The downloaded source packages are in
+	‘/tmp/RtmpThQ6QP/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m20.255s
+user	0m14.063s
+sys	0m1.137s

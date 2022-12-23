@@ -28740,7 +28740,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "KEGGREST",
-        "PSCBS",
         "RSQLite",
         "XVector",
         "affy",
@@ -40851,7 +40850,6 @@
         "GenomeInfoDb",
         "Hmisc",
         "KEGGREST",
-        "PSCBS",
         "RSQLite",
         "WGCNA",
         "XVector",
@@ -48338,15 +48336,11 @@
         "viridis"
     ],
     "aroma.affymetrix": [
-        "PSCBS",
         "aroma.apd",
         "aroma.core"
     ],
-    "aroma.core": [
-        "PSCBS"
-    ],
+    "aroma.core": [],
     "aroma.apd": [],
-    "PSCBS": [],
     "opencpu": [
         "knitr",
         "stringr"
