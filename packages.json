@@ -10816,9 +10816,7 @@
         "Rmagic",
         "gamlss"
     ],
-    "ScreenR": [
-        "ggvenn"
-    ],
+    "ScreenR": [],
     "scRepertoire": [
         "SingleCellExperiment",
         "ggalluvial",
@@ -14216,7 +14214,6 @@
         "interactiveDisplayBase"
     ],
     "Rmagic": [],
-    "ggvenn": [],
     "nnTensor": [
         "fields",
         "viridis"
