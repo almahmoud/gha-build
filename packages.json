@@ -1404,7 +1404,6 @@
     "DeepPINCS": [
         "DiagrammeR",
         "rcdk",
-        "textstem",
         "ttgsea",
         "viridis"
     ],
@@ -2219,7 +2218,6 @@
         "DeepPINCS",
         "DiagrammeR",
         "rcdk",
-        "textstem",
         "ttgsea",
         "viridis"
     ],
@@ -5700,7 +5698,6 @@
     ],
     "ttgsea": [
         "DiagrammeR",
-        "textstem",
         "viridis"
     ],
     "TurboNorm": [
@@ -5774,7 +5771,6 @@
         "DiagrammeR",
         "rcdk",
         "scater",
-        "textstem",
         "ttgsea",
         "viridis"
     ],
@@ -5841,7 +5837,6 @@
     "vissE": [
         "ggraph",
         "msigdb",
-        "textstem",
         "viridis"
     ],
     "Voyager": [
@@ -6232,7 +6227,6 @@
     ],
     "rsq": [],
     "rcdk": [],
-    "textstem": [],
     "VIM": [
         "car",
         "pbkrtest"
