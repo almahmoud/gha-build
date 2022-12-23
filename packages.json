@@ -633,7 +633,6 @@
     "MinimumDistance": [
         "VanillaICE"
     ],
-    "miRLAB": [],
     "miRSM": [
         "ReactomePA",
         "SPONGE",
