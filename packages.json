@@ -1195,8 +1195,7 @@
         "bumphunter",
         "methylKit",
         "minfi",
-        "rhdf5",
-        "rsq"
+        "rhdf5"
     ],
     "DeepPINCS": [
         "DiagrammeR",
@@ -5296,7 +5295,6 @@
         "affy",
         "vsn"
     ],
-    "rsq": [],
     "rcdk": [],
     "VIM": [
         "car"
