@@ -8887,7 +8887,6 @@
         "oligoClasses",
         "sva"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
         "AnnotationHub",
         "DT",
@@ -8898,7 +8897,6 @@
         "interactiveDisplayBase",
         "plotly",
         "rtracklayer",
-        "scanMiR",
         "scanMiRData"
     ],
     "scAnnotatR": [
@@ -11933,9 +11931,7 @@
     ],
     "TBX20BamSubset": [],
     "excelR": [],
-    "scanMiRData": [
-        "scanMiR"
-    ],
+    "scanMiRData": [],
     "SCATEData": [
         "AnnotationHub",
         "DT",
