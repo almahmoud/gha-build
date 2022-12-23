@@ -52596,7 +52596,6 @@
         "IRanges",
         "S4Vectors",
         "XVector",
-        "cvTools",
         "futile.logger",
         "ggplot2",
         "ggseqlogo",
@@ -71429,7 +71428,6 @@
         "vctrs",
         "viridis"
     ],
-    "cvTools": [],
     "adehabitatLT": [
         "ade4",
         "adehabitatMA",
