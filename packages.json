@@ -3378,8 +3378,7 @@
         "Biostrings",
         "GO.db",
         "KEGGREST",
-        "topGO",
-        "topicmodels"
+        "topGO"
     ],
     "cellxgenedp": [
         "DT",
@@ -16665,7 +16664,6 @@
         "sortable",
         "testthat",
         "tidyr",
-        "topicmodels",
         "viridis",
         "vroom",
         "waldo"
@@ -25170,7 +25168,6 @@
         "reshape2",
         "scatterpie",
         "tidyr",
-        "topicmodels",
         "viridis"
     ],
     "stJoincount": [
@@ -29076,7 +29073,6 @@
     "EnvStats": [
         "ggplot2"
     ],
-    "topicmodels": [],
     "ggpmisc": [
         "dplyr",
         "ggplot2",
