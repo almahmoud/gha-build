@@ -654,7 +654,6 @@
         "org.Hs.eg.db",
         "rhdf5",
         "rmarkdown",
-        "rsnps",
         "rtracklayer",
         "shinyjs"
     ],
@@ -23972,7 +23971,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "rsnps": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "AnnotationDbi",
         "AnnotationHub",
