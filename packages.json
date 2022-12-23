@@ -299,7 +299,6 @@
         "scater",
         "scuttle",
         "smurf",
-        "uwot",
         "viridis"
     ],
     "ALDEx2": [
@@ -495,7 +494,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis",
         "waldo"
     ],
@@ -774,8 +772,7 @@
         "shiny",
         "spatstat.explore",
         "tidyr",
-        "topGO",
-        "uwot"
+        "topGO"
     ],
     "appreci8R": [
         "AnnotationDbi",
@@ -1563,7 +1560,6 @@
         "scater",
         "scran",
         "scuttle",
-        "uwot",
         "viridis"
     ],
     "bayNorm": [
@@ -1706,7 +1702,6 @@
         "tidytext",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis",
         "waldo",
         "zCompositions",
@@ -3117,7 +3112,6 @@
         "scuttle",
         "testthat",
         "tidyr",
-        "uwot",
         "viridis",
         "waldo"
     ],
@@ -3303,7 +3297,6 @@
         "scater",
         "scran",
         "scuttle",
-        "uwot",
         "viridis"
     ],
     "CellaRepertorium": [
@@ -3384,7 +3377,6 @@
         "spatstat.explore",
         "tidyr",
         "umap",
-        "uwot",
         "viridis"
     ],
     "cellity": [
@@ -3440,7 +3432,6 @@
         "scater",
         "scuttle",
         "tidyr",
-        "uwot",
         "viridis"
     ],
     "CellNOptR": [
@@ -4160,7 +4151,6 @@
         "shinyjs",
         "tidyr",
         "umap",
-        "uwot",
         "viridis",
         "waiter"
     ],
@@ -4365,7 +4355,6 @@
         "scuttle",
         "tidygraph",
         "tidyr",
-        "uwot",
         "viridis"
     ],
     "ClassifyR": [
@@ -5130,7 +5119,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis",
         "vroom",
         "waldo"
@@ -5165,7 +5153,6 @@
         "spatstat.linnet",
         "spatstat.model",
         "tidyr",
-        "uwot",
         "viridis"
     ],
     "CONFESS": [
@@ -7095,8 +7082,7 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "discordant": [
         "dplyr"
@@ -7148,7 +7134,6 @@
         "ggrepel",
         "scater",
         "scuttle",
-        "uwot",
         "viridis"
     ],
     "dittoSeq": [
@@ -9267,7 +9252,6 @@
         "scran",
         "scuttle",
         "tidyr",
-        "uwot",
         "viridis"
     ],
     "flowAI": [
@@ -12228,12 +12212,9 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
-    "infinityFlow": [
-        "uwot"
-    ],
+    "infinityFlow": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
@@ -12624,7 +12605,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis",
         "waldo"
     ],
@@ -15105,7 +15085,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis"
     ],
     "miaSim": [
@@ -15153,7 +15132,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis"
     ],
     "microbiome": [
@@ -15276,7 +15254,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis",
         "waldo",
         "zCompositions"
@@ -16065,8 +16042,7 @@
         "ggplot2",
         "ggrepel",
         "reshape2",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "MOGAMUN": [
         "IRdisplay",
@@ -16918,8 +16894,7 @@
         "beachmat",
         "bluster",
         "scran",
-        "scuttle",
-        "uwot"
+        "scuttle"
     ],
     "MungeSumstats": [
         "AnnotationDbi",
@@ -16974,7 +16949,6 @@
         "scuttle",
         "testthat",
         "tidyr",
-        "uwot",
         "variancePartition",
         "viridis",
         "waldo"
@@ -17049,7 +17023,6 @@
         "testthat",
         "tidyr",
         "topicmodels",
-        "uwot",
         "viridis",
         "vroom",
         "waldo"
@@ -17383,8 +17356,7 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "nempi": [
         "Linnorm",
@@ -17567,7 +17539,6 @@
         "scater",
         "scuttle",
         "tidyr",
-        "uwot",
         "viridis",
         "zinbwave"
     ],
@@ -18930,7 +18901,6 @@
         "ggrepel",
         "scater",
         "scuttle",
-        "uwot",
         "viridis"
     ],
     "pengls": [],
@@ -19357,7 +19327,6 @@
         "shiny",
         "spatstat.explore",
         "tidyr",
-        "uwot",
         "viridis"
     ],
     "pipeFrame": [
@@ -19533,8 +19502,7 @@
         "recipes",
         "reshape2",
         "rmarkdown",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "PoTRA": [
         "AnnotationDbi",
@@ -22807,8 +22775,7 @@
         "spatstat.explore",
         "tensorflow",
         "tfruns",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "SCAN.UPC": [
         "AnnotationDbi",
@@ -22906,8 +22873,7 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "SCANVIS": [
         "Biostrings",
@@ -22958,7 +22924,6 @@
         "ggrastr",
         "ggrepel",
         "scuttle",
-        "uwot",
         "viridis"
     ],
     "scatterHatch": [
@@ -22994,7 +22959,6 @@
         "shiny",
         "spatstat.explore",
         "tidyr",
-        "uwot",
         "zinbwave"
     ],
     "scBubbletree": [
@@ -23022,8 +22986,7 @@
         "spatstat.explore",
         "tidyr",
         "tidytree",
-        "treeio",
-        "uwot"
+        "treeio"
     ],
     "scCB2": [
         "DelayedMatrixStats",
@@ -23052,8 +23015,7 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "scClassify": [
         "AnnotationDbi",
@@ -23121,8 +23083,7 @@
         "shiny",
         "spatstat.explore",
         "tidyr",
-        "umap",
-        "uwot"
+        "umap"
     ],
     "scDblFinder": [
         "BiocSingular",
@@ -23144,7 +23105,6 @@
         "scater",
         "scran",
         "scuttle",
-        "uwot",
         "viridis"
     ],
     "scDD": [
@@ -23237,8 +23197,7 @@
         "sf",
         "shiny",
         "spatstat.explore",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "scHOT": [
         "GenomicRanges",
@@ -23280,8 +23239,7 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "scmap": [
         "GenomicRanges",
@@ -23486,7 +23444,6 @@
         "scuttle",
         "testthat",
         "tidyr",
-        "uwot",
         "viridis",
         "waldo"
     ],
@@ -23653,7 +23610,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis",
         "visNetwork"
     ],
@@ -23695,7 +23651,6 @@
         "shiny",
         "spatstat.explore",
         "tidyr",
-        "uwot",
         "viridis"
     ],
     "scTreeViz": [
@@ -23752,7 +23707,6 @@
         "spatstat.explore",
         "tidygraph",
         "tidyr",
-        "uwot",
         "viridis"
     ],
     "scuttle": [
@@ -24592,7 +24546,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "uwot",
         "viridis",
         "zinbwave"
     ],
@@ -24928,7 +24881,6 @@
         "shiny",
         "spatstat.explore",
         "tidyr",
-        "uwot",
         "viridis"
     ],
     "sparrow": [
@@ -25115,7 +25067,6 @@
         "shiny",
         "shinydashboard",
         "tidyr",
-        "uwot",
         "viridis",
         "visNetwork"
     ],
@@ -25268,7 +25219,6 @@
         "ggrepel",
         "scater",
         "scuttle",
-        "uwot",
         "viridis"
     ],
     "SpliceWiz": [
@@ -25453,7 +25403,6 @@
         "shiny",
         "spatstat.explore",
         "tidyr",
-        "uwot",
         "viridis"
     ],
     "SPOTlight": [
@@ -25798,8 +25747,7 @@
         "shiny",
         "spatstat.explore",
         "spdep",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "strandCheckR": [
         "AnnotationDbi",
@@ -27344,7 +27292,6 @@
         "scater",
         "scattermore",
         "scuttle",
-        "uwot",
         "viridis"
     ],
     "trigger": [
@@ -27741,7 +27688,6 @@
         "tfruns",
         "tidyr",
         "ttgsea",
-        "uwot",
         "viridis",
         "visNetwork",
         "vroom",
@@ -28715,7 +28661,6 @@
     "ggbeeswarm": [
         "ggplot2"
     ],
-    "uwot": [],
     "ggrastr": [
         "ggbeeswarm",
         "ggplot2"
@@ -28860,8 +28805,7 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "org.Hs.eg.db": [
         "AnnotationDbi",
@@ -31938,8 +31882,7 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "tidyr",
-        "uwot"
+        "tidyr"
     ],
     "scRNAseq": [
         "AnnotationDbi",
