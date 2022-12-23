@@ -6402,7 +6402,6 @@
         "reshape2",
         "rmarkdown",
         "sass",
-        "spBayes",
         "stringr",
         "testthat",
         "tibble",
@@ -54773,9 +54772,7 @@
         "tibble",
         "vctrs"
     ],
-    "SpatialTools": [
-        "spBayes"
-    ],
+    "SpatialTools": [],
     "FactoMineR": [
         "DT",
         "broom",
@@ -54805,7 +54802,6 @@
         "vctrs",
         "waldo"
     ],
-    "spBayes": [],
     "EnvStats": [
         "ggplot2",
         "pillar",
