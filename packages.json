@@ -3441,8 +3441,7 @@
         "minfi"
     ],
     "Repitools": [
-        "BSgenome",
-        "Ringo"
+        "BSgenome"
     ],
     "ReportingTools": [
         "BSgenome",
@@ -3529,7 +3528,6 @@
         "car",
         "pbkrtest"
     ],
-    "Ringo": [],
     "RIPAT": [
         "BSgenome",
         "GenomicFeatures",
@@ -3916,9 +3914,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SimBindProfiles": [
-        "Ringo"
-    ],
+    "SimBindProfiles": [],
     "simpleSeg": [
         "SpatialExperiment",
         "cytomapper"
