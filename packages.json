@@ -8338,7 +8338,6 @@
         "viridis"
     ],
     "sRACIPE": [],
-    "SRAdb": [],
     "srnadiff": [
         "BSgenome",
         "DESeq2",
