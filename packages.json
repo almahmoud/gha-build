@@ -513,7 +513,6 @@
         "viridis"
     ],
     "circRNAprofiler": [],
-    "CircSeqAlignTk": [],
     "CiteFuse": [
         "ggraph",
         "propr",
