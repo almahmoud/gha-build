@@ -358,9 +358,7 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmosR": [],
     "crisprDesign": [
         "crisprScore"
@@ -822,7 +820,6 @@
         "VariantTools",
         "gmapR"
     ],
-    "HTSFilter": [],
     "icetea": [],
     "iCheck": [
         "FDb.InfiniumMethylation.hg19",
