@@ -80,7 +80,6 @@
         "tidyselect",
         "vegan"
     ],
-    "ABSSeq": [],
     "ACE": [
         "BiocParallel",
         "Biostrings",
@@ -24759,7 +24758,6 @@
     ],
     "metaSeq": [],
     "metaseqR2": [
-        "ABSSeq",
         "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
