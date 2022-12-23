@@ -544,10 +544,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
+    "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq",
         "FactoMineR"
