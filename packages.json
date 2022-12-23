@@ -51395,7 +51395,6 @@
         "knitr",
         "magick",
         "mgcv",
-        "mmand",
         "openssl",
         "pheatmap",
         "pillar",
@@ -66335,7 +66334,6 @@
     ],
     "spData": [],
     "PRIMME": [],
-    "mmand": [],
     "alphahull": [
         "ggplot2",
         "interp",
