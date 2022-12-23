@@ -12125,7 +12125,6 @@
         "biomaRt",
         "fgsea"
     ],
-    "pqsfinder": [],
     "pram": [
         "GenomicAlignments",
         "SummarizedExperiment",
