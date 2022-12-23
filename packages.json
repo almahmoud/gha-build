@@ -1073,7 +1073,6 @@
     "DeepPINCS": [
         "mlapi",
         "text2vec",
-        "textstem",
         "ttgsea"
     ],
     "deepSNV": [
@@ -1751,7 +1750,6 @@
         "DeepPINCS",
         "mlapi",
         "text2vec",
-        "textstem",
         "ttgsea"
     ],
     "GenVisR": [
@@ -4372,8 +4370,7 @@
     ],
     "ttgsea": [
         "mlapi",
-        "text2vec",
-        "textstem"
+        "text2vec"
     ],
     "TVTB": [
         "BSgenome",
@@ -4434,7 +4431,6 @@
         "mlapi",
         "scater",
         "text2vec",
-        "textstem",
         "ttgsea"
     ],
     "VanillaICE": [
@@ -4489,8 +4485,7 @@
     "vissE": [
         "AnnotationHub",
         "ExperimentHub",
-        "msigdb",
-        "textstem"
+        "msigdb"
     ],
     "Voyager": [
         "SpatialExperiment",
@@ -4791,7 +4786,6 @@
     "text2vec": [
         "mlapi"
     ],
-    "textstem": [],
     "mlapi": [],
     "VIM": [
         "car",
