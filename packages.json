@@ -105,7 +105,6 @@
         "viridis"
     ],
     "arrayMvout": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "affy",
         "affyContam",
@@ -219,7 +218,6 @@
         "gcrma"
     ],
     "bigmelon": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "affy",
@@ -463,7 +461,6 @@
     "ChAMP": [
         "DMRcate",
         "DSS",
-        "FDb.InfiniumMethylation.hg19",
         "Gviz",
         "HDF5Array",
         "Hmisc",
@@ -931,7 +928,6 @@
     ],
     "DMRcate": [
         "DSS",
-        "FDb.InfiniumMethylation.hg19",
         "Gviz",
         "HDF5Array",
         "Hmisc",
@@ -1155,7 +1151,6 @@
         "viridis"
     ],
     "ffpe": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "affy",
         "lumi",
@@ -1502,7 +1497,6 @@
     ],
     "icetea": [],
     "iCheck": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "affy",
         "lumi",
@@ -1677,7 +1671,6 @@
         "motifStack"
     ],
     "lumi": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "affy",
         "methylumi",
@@ -1704,7 +1697,6 @@
     ],
     "MADSEQ": [],
     "MAGAR": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "RnBeads",
         "fields",
@@ -1780,7 +1772,6 @@
         "viridis"
     ],
     "MEAL": [
-        "FDb.InfiniumMethylation.hg19",
         "Gviz",
         "HDF5Array",
         "Hmisc",
@@ -1796,7 +1787,6 @@
         "viridis"
     ],
     "MEAT": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "affy",
@@ -1913,7 +1903,6 @@
         "rstatix"
     ],
     "methylGSA": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -1944,7 +1933,6 @@
         "rhdf5"
     ],
     "methylumi": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "minfi",
         "rhdf5"
@@ -2013,7 +2001,6 @@
         "viridis"
     ],
     "MineICA": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "Hmisc",
         "affy",
@@ -2067,7 +2054,6 @@
         "viridis"
     ],
     "missMethyl": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -2931,7 +2917,6 @@
         "viridis"
     ],
     "RnBeads": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "fields",
         "methylumi",
@@ -3217,7 +3202,6 @@
         "rhdf5"
     ],
     "skewr": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -3638,7 +3622,6 @@
         "ChIPpeakAnno"
     ],
     "wateRmelon": [
-        "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "affy",
@@ -3718,7 +3701,6 @@
     ],
     "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
-    "FDb.InfiniumMethylation.hg19": [],
     "mGSZ": [],
     "Mus.musculus": [],
     "assertive": [],
