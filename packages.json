@@ -2046,7 +2046,6 @@
     ],
     "GNET2": [],
     "GOpro": [],
-    "goProfiles": [],
     "goseq": [
         "GenomicFeatures",
         "geneLenDataBase"
@@ -2056,8 +2055,7 @@
         "DOSE",
         "clusterProfiler",
         "enrichplot",
-        "ggtree",
-        "goProfiles"
+        "ggtree"
     ],
     "GOstats": [
         "Category",
