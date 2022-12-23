@@ -2056,7 +2056,6 @@
     "CRISPRseek": [
         "BSgenome",
         "GenomicAlignments",
-        "keras",
         "rtracklayer"
     ],
     "crisprseekplus": [
@@ -2070,7 +2069,6 @@
         "biomaRt",
         "ensembldb",
         "haven",
-        "keras",
         "regioneR",
         "rio",
         "rtracklayer"
@@ -2399,7 +2397,6 @@
     ],
     "DeepPINCS": [
         "DiagrammeR",
-        "keras",
         "lexicon",
         "mlapi",
         "text2vec",
@@ -3843,7 +3840,6 @@
     "GenProSeq": [
         "DeepPINCS",
         "DiagrammeR",
-        "keras",
         "lexicon",
         "mlapi",
         "text2vec",
@@ -4188,7 +4184,6 @@
         "biomaRt",
         "ensembldb",
         "haven",
-        "keras",
         "regioneR",
         "rio",
         "rtracklayer"
@@ -6165,7 +6160,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "keras",
         "plyranges",
         "regioneR",
         "rtracklayer"
@@ -6471,8 +6465,7 @@
         "yarn"
     ],
     "NeuCA": [
-        "SingleCellExperiment",
-        "keras"
+        "SingleCellExperiment"
     ],
     "NewWave": [
         "SingleCellExperiment"
@@ -6863,7 +6856,6 @@
         "HDO.db",
         "fgsea",
         "ggraph",
-        "keras",
         "nloptr",
         "testthat",
         "tfprobability"
@@ -9933,7 +9925,6 @@
     ],
     "ttgsea": [
         "DiagrammeR",
-        "keras",
         "lexicon",
         "mlapi",
         "text2vec",
@@ -10045,7 +10036,6 @@
         "DiagrammeR",
         "SingleCellExperiment",
         "ggrastr",
-        "keras",
         "lexicon",
         "mlapi",
         "scater",
@@ -10824,7 +10814,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "keras": [],
     "shinypanel": [],
     "highcharter": [],
     "cytometree": [],
@@ -11157,9 +11146,7 @@
     "biomartr": [
         "biomaRt"
     ],
-    "tfprobability": [
-        "keras"
-    ],
+    "tfprobability": [],
     "verification": [
         "fields"
     ],
