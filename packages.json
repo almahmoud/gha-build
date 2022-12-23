@@ -1268,7 +1268,6 @@
         "htmlTable",
         "htmlwidgets",
         "plotly",
-        "shinycssloaders",
         "tidyr",
         "viridis"
     ],
@@ -2300,7 +2299,6 @@
         "basilisk",
         "htmlwidgets",
         "rapportools",
-        "shinycssloaders",
         "vroom"
     ],
     "ccfindR": [
@@ -2947,7 +2945,6 @@
         "scuttle",
         "shinyFiles",
         "shinyWidgets",
-        "shinycssloaders",
         "shinydashboardPlus",
         "shinyhelper",
         "shinyjs",
@@ -4150,7 +4147,6 @@
         "interactiveDisplayBase",
         "readxl",
         "rhdf5",
-        "shinycssloaders",
         "tidyr"
     ],
     "ctsGE": [],
@@ -5043,7 +5039,6 @@
         "kableExtra",
         "plotly",
         "rvest",
-        "shinycssloaders",
         "shinyjs",
         "tidyr",
         "viridis"
@@ -7241,7 +7236,6 @@
         "patchwork",
         "plotly",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "tidyr",
         "tippy",
@@ -8901,7 +8895,6 @@
         "shinyFeedback",
         "shinyFiles",
         "shinyalert",
-        "shinycssloaders",
         "shinyjs",
         "testthat",
         "tidyr",
@@ -9318,7 +9311,6 @@
         "rhdf5",
         "rstatix",
         "rtracklayer",
-        "shinycssloaders",
         "testthat",
         "tidyr",
         "viridis",
@@ -10866,7 +10858,6 @@
         "readr",
         "rhdf5",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "testthat",
         "tidyr",
@@ -12973,7 +12964,6 @@
         "rstatix",
         "shinyWidgets",
         "shinybusy",
-        "shinycssloaders",
         "shinyjs",
         "shinythemes",
         "survMisc",
@@ -13491,7 +13481,6 @@
         "MSnbase",
         "affy",
         "htmlwidgets",
-        "shinycssloaders",
         "vsn"
     ],
     "PECA": [
@@ -14267,7 +14256,6 @@
         "highcharter",
         "htmlwidgets",
         "rhandsontable",
-        "shinycssloaders",
         "shinyjqui",
         "shinyjs",
         "shinythemes",
@@ -15969,8 +15957,7 @@
         "DT",
         "htmlwidgets",
         "patchwork",
-        "shinyFeedback",
-        "shinycssloaders"
+        "shinyFeedback"
     ],
     "rpx": [
         "BiocFileCache",
@@ -16224,7 +16211,6 @@
         "plotly",
         "sangerseqR",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "tidyr"
     ],
@@ -16307,7 +16293,6 @@
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
-        "shinycssloaders",
         "shinyjqui",
         "tidyr",
         "waiter"
@@ -17140,7 +17125,6 @@
         "rhdf5",
         "rtracklayer",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "shinythemes",
         "tidyr",
@@ -17287,7 +17271,6 @@
         "rstatix",
         "rtracklayer",
         "shinyWidgets",
-        "shinycssloaders",
         "survMisc",
         "survivalAnalysis",
         "survminer",
@@ -17513,7 +17496,6 @@
         "sctransform",
         "scuttle",
         "shinyalert",
-        "shinycssloaders",
         "shinyjs",
         "sva",
         "tidyr",
@@ -17806,7 +17788,6 @@
         "htmlwidgets",
         "readr",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "tidyr",
         "vroom"
@@ -19649,7 +19630,6 @@
         "org.Hs.eg.db",
         "rtracklayer",
         "shinyWidgets",
-        "shinycssloaders",
         "shinyjs",
         "viridis"
     ],
@@ -19726,8 +19706,7 @@
         "Rsamtools",
         "SummarizedExperiment",
         "rtracklayer",
-        "shinyFiles",
-        "shinycssloaders"
+        "shinyFiles"
     ],
     "variancePartition": [
         "broom",
@@ -20780,7 +20759,6 @@
         "tidyr",
         "vroom"
     ],
-    "shinycssloaders": [],
     "ggforce": [],
     "radiant.data": [
         "DT",
