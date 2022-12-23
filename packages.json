@@ -3101,7 +3101,6 @@
         "gson",
         "org.Hs.eg.db",
         "plotly",
-        "rWikiPathways",
         "reactome.db",
         "scatterpie",
         "tidytree",
@@ -5766,7 +5765,6 @@
         "metap",
         "mixOmics",
         "plotly",
-        "rWikiPathways",
         "reactome.db",
         "recipes",
         "ropls",
@@ -6034,7 +6032,6 @@
         "GO.db",
         "GenomicFeatures",
         "biomaRt",
-        "rWikiPathways",
         "reactome.db",
         "rtracklayer"
     ],
@@ -7713,7 +7710,6 @@
     "RVS": [
         "gRain"
     ],
-    "rWikiPathways": [],
     "safe": [],
     "sampleClassifier": [
         "MGFM",
@@ -9030,7 +9026,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "rWikiPathways",
         "scatterpie",
         "tidytree",
         "treeio"
