@@ -30774,7 +30774,6 @@
         "Rsamtools",
         "XVector"
     ],
-    "rbsurv": [],
     "Rcade": [
         "BiocParallel",
         "Biostrings",
