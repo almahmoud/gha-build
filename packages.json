@@ -7680,7 +7680,6 @@
         "testthat",
         "viper"
     ],
-    "Rtpca": [],
     "rtracklayer": [],
     "Rtreemix": [
         "Hmisc"
