@@ -1336,7 +1336,6 @@
         "GenomicFeatures",
         "Hmisc",
         "RWeka",
-        "arm",
         "car",
         "pbkrtest",
         "sva",
@@ -1546,7 +1545,6 @@
         "viridis"
     ],
     "DMCFB": [
-        "arm",
         "benchmarkme"
     ],
     "DMCHMM": [],
@@ -2100,7 +2098,6 @@
         "Hmisc",
         "MLSeq",
         "RWeka",
-        "arm",
         "car",
         "pbkrtest",
         "sva",
@@ -3739,8 +3736,7 @@
     ],
     "nondetects": [
         "HTqPCR",
-        "affy",
-        "arm"
+        "affy"
     ],
     "NoRCE": [
         "GenomicFeatures"
@@ -4862,7 +4858,6 @@
         "viridis"
     ],
     "scDD": [
-        "arm",
         "fields",
         "scran",
         "viridis"
@@ -5867,9 +5862,7 @@
         "regioneR",
         "systemPipeR"
     ],
-    "waddR": [
-        "arm"
-    ],
+    "waddR": [],
     "wateRmelon": [
         "FDb.InfiniumMethylation.hg19",
         "GenomicFeatures",
@@ -6218,7 +6211,6 @@
     "FSelector": [
         "RWeka"
     ],
-    "arm": [],
     "RWeka": [],
     "DAPARdata": [
         "MSnbase",
