@@ -2122,7 +2122,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "DifferentialRegulation": [],
     "diffHic": [
         "BSgenome",
         "rhdf5",
