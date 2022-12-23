@@ -3344,7 +3344,6 @@
         "vsn",
         "xcms"
     ],
-    "metabCombiner": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [
         "EnsDb.Hsapiens.v75",
