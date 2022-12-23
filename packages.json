@@ -11090,7 +11090,6 @@
     ],
     "DeepPINCS": [
         "DiagrammeR",
-        "MatrixExtra",
         "bslib",
         "dplyr",
         "ggplot2",
@@ -17475,7 +17474,6 @@
     "GenProSeq": [
         "DeepPINCS",
         "DiagrammeR",
-        "MatrixExtra",
         "bslib",
         "dplyr",
         "ggplot2",
@@ -46212,7 +46210,6 @@
     ],
     "ttgsea": [
         "DiagrammeR",
-        "MatrixExtra",
         "bslib",
         "dplyr",
         "ggplot2",
@@ -46681,7 +46678,6 @@
         "DiagrammeR",
         "GenomeInfoDb",
         "GenomicRanges",
-        "MatrixExtra",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -51747,7 +51743,6 @@
         "vctrs"
     ],
     "text2vec": [
-        "MatrixExtra",
         "rsparse"
     ],
     "textstem": [
@@ -51763,9 +51758,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "rsparse": [
-        "MatrixExtra"
-    ],
+    "rsparse": [],
     "lexicon": [
         "dplyr",
         "pillar",
@@ -51797,7 +51790,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "MatrixExtra": [],
     "tseries": [
         "TTR",
         "quantmod"
