@@ -7096,7 +7096,6 @@
         "sva",
         "testthat"
     ],
-    "OmicsLonDA": [],
     "OMICsPCA": [
         "BSgenome",
         "DT",
