@@ -2127,7 +2127,6 @@
     "scDblFinder": [],
     "scDD": [],
     "scGPS": [],
-    "schex": [],
     "scmeth": [
         "annotatr"
     ],
@@ -2152,12 +2151,9 @@
     ],
     "scTensor": [
         "ReactomePA",
-        "enrichplot",
-        "schex"
+        "enrichplot"
     ],
-    "scTGIF": [
-        "schex"
-    ],
+    "scTGIF": [],
     "scTreeViz": [
         "OrganismDbi",
         "bumphunter",
