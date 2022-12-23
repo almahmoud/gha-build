@@ -1222,7 +1222,6 @@
     ],
     "batchelor": [
         "BiocSingular",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -3363,7 +3362,6 @@
         "BiocSingular",
         "DT",
         "GenomicAlignments",
-        "ResidualMatrix",
         "Rsamtools",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -14010,7 +14008,6 @@
     ],
     "mumosa": [
         "BiocSingular",
-        "ResidualMatrix",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -17689,7 +17686,6 @@
         "Rsamtools",
         "seqbias"
     ],
-    "ResidualMatrix": [],
     "RESOLVE": [
         "BSgenome",
         "BSgenome.Hsapiens.1000genomes.hs37d5",
@@ -20274,7 +20270,6 @@
         "KEGGREST",
         "M3Drop",
         "MAST",
-        "ResidualMatrix",
         "Rsamtools",
         "ScaledMatrix",
         "Seurat",
