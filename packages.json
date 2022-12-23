@@ -2703,7 +2703,6 @@
         "minfi"
     ],
     "MetID": [],
-    "mfa": [],
     "mia": [
         "TreeSummarizedExperiment",
         "scater"
