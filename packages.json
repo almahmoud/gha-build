@@ -4367,9 +4367,7 @@
     "MetID": [
         "devtools"
     ],
-    "mfa": [
-        "ggmcmc"
-    ],
+    "mfa": [],
     "MGFM": [
         "annotate"
     ],
@@ -8634,7 +8632,6 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "ggmcmc": [],
     "HardyWeinberg": [
         "mice"
     ],
