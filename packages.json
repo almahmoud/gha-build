@@ -498,7 +498,6 @@
     "fcoex": [
         "clusterProfiler"
     ],
-    "fcScan": [],
     "ffpe": [
         "FDb.InfiniumMethylation.hg19",
         "lumi",
