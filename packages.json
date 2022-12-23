@@ -4651,9 +4651,7 @@
         "ggtree",
         "viridis"
     ],
-    "netOmics": [
-        "RandomWalkRestartMH"
-    ],
+    "netOmics": [],
     "NetSAM": [
         "Hmisc",
         "WGCNA",
@@ -5468,7 +5466,6 @@
         "CoreGx"
     ],
     "ramwas": [],
-    "RandomWalkRestartMH": [],
     "RAREsim": [],
     "RareVariantVis": [
         "BSgenome",
