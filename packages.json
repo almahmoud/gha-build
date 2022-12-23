@@ -139180,7 +139180,6 @@
         "BiocIO",
         "BiocParallel",
         "Biostrings",
-        "BlandAltmanLeh",
         "DelayedArray",
         "Formula",
         "GenomeInfoDb",
@@ -183821,7 +183820,6 @@
         "sp",
         "survival"
     ],
-    "BlandAltmanLeh": [],
     "FIs": [],
     "dml": [
         "MASS",
