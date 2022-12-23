@@ -985,7 +985,6 @@
         "chipenrich.data",
         "org.Dr.eg.db",
         "org.Mm.eg.db",
-        "org.Rn.eg.db",
         "rms",
         "rtracklayer"
     ],
@@ -1984,7 +1983,6 @@
         "hgu133a.db",
         "hgu133plus2.db",
         "org.Mm.eg.db",
-        "org.Rn.eg.db",
         "pathview",
         "topGO"
     ],
@@ -2603,7 +2601,6 @@
         "geneplotter"
     ],
     "geneXtendeR": [
-        "org.Rn.eg.db",
         "rtracklayer"
     ],
     "genomation": [
@@ -7367,7 +7364,6 @@
         "rtracklayer"
     ],
     "org.Dr.eg.db": [],
-    "org.Rn.eg.db": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures",
         "rtracklayer"
