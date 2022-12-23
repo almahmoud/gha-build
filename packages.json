@@ -167,7 +167,6 @@
     "ASSIGN": [],
     "ATACCoGAPS": [
         "BSgenome.Hsapiens.UCSC.hg19",
-        "BSgenome.Mmusculus.UCSC.mm10",
         "CoGAPS",
         "Homo.sapiens",
         "Mus.musculus",
@@ -1512,7 +1511,6 @@
         "car"
     ],
     "GeneStructureTools": [
-        "BSgenome.Mmusculus.UCSC.mm10",
         "Gviz",
         "Hmisc",
         "VariantAnnotation",
@@ -2598,7 +2596,6 @@
     "musicatk": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "BSgenome.Mmusculus.UCSC.mm10",
         "FactoMineR",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -4097,7 +4094,6 @@
     "trena": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "BSgenome.Mmusculus.UCSC.mm10",
         "Hmisc",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "WGCNA",
@@ -4343,7 +4339,6 @@
     "Mus.musculus": [
         "TxDb.Mmusculus.UCSC.mm10.knownGene"
     ],
-    "BSgenome.Mmusculus.UCSC.mm10": [],
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [],
     "assertive": [],
