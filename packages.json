@@ -890,7 +890,6 @@
     ],
     "musicatk": [
         "FactoMineR",
-        "deconstructSigs",
         "factoextra",
         "ggpubr",
         "rstatix"
@@ -1489,7 +1488,6 @@
         "AnnotationHubData",
         "ExperimentHubData"
     ],
-    "deconstructSigs": [],
     "mppa": [],
     "RcmdrMisc": [],
     "genlasso": [],
