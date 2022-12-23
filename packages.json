@@ -5821,7 +5821,6 @@
         "methylKit",
         "rtracklayer"
     ],
-    "methimpute": [],
     "methInheritSim": [
         "GenomicAlignments",
         "methylKit",
