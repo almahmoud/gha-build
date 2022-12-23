@@ -46807,7 +46807,6 @@
         "XVector",
         "beachmat",
         "circular",
-        "conicfit",
         "doParallel",
         "dqrng",
         "futile.logger",
@@ -79976,7 +79975,6 @@
         "R.utils"
     ],
     "circular": [],
-    "conicfit": [],
     "genlasso": [
         "igraph"
     ],
