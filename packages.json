@@ -880,7 +880,6 @@
         "ggrepel",
         "progress",
         "purrr",
-        "repmis",
         "rtracklayer",
         "stringr",
         "tibble",
@@ -10388,7 +10387,6 @@
         "purrr",
         "readr",
         "rematch2",
-        "repmis",
         "reshape2",
         "rmarkdown",
         "rstatix",
@@ -22061,7 +22059,6 @@
         "purrr",
         "readr",
         "rematch2",
-        "repmis",
         "rmarkdown",
         "rstatix",
         "stringr",
@@ -29908,7 +29905,6 @@
         "purrr",
         "readxl",
         "rematch2",
-        "repmis",
         "reshape2",
         "rmarkdown",
         "stringr",
@@ -34516,7 +34512,6 @@
     "shinytoastr": [
         "shiny"
     ],
-    "repmis": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "Biostrings",
