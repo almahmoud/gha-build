@@ -3465,7 +3465,6 @@
     ],
     "GeoDiff": [
         "GeomxTools",
-        "NanoStringNCTools",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -3486,7 +3485,6 @@
         "viridis"
     ],
     "GeomxTools": [
-        "NanoStringNCTools",
         "lme4",
         "lmerTest",
         "nloptr"
@@ -5719,7 +5717,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "NanoStringNCTools": [],
     "NanoStringQCPro": [
         "org.Hs.eg.db"
     ],
@@ -8211,7 +8208,6 @@
     ],
     "SpatialDecon": [
         "GeomxTools",
-        "NanoStringNCTools",
         "lme4",
         "lmerTest",
         "nloptr"
