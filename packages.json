@@ -1355,7 +1355,6 @@
         "dendextend",
         "viridis"
     ],
-    "gmapR": [],
     "GmicR": [
         "Hmisc",
         "WGCNA",
@@ -1462,8 +1461,7 @@
         "affy"
     ],
     "HTSeqGenie": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "iCARE": [
         "Hmisc",
@@ -2037,8 +2035,7 @@
     ],
     "mitoClone2": [],
     "MMAPPR2": [
-        "VariantTools",
-        "gmapR"
+        "VariantTools"
     ],
     "MMUPHin": [
         "Maaslin2",
