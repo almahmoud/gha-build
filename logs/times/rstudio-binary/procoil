@@ -1,0 +1,101 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   02dc1864..e6111805  main       -> origin/main
+Updating 02dc1864..e6111805
+Fast-forward
+ lists/M3C                                    |    2 +-
+ lists/MKmisc                                 |    2 +-
+ lists/idr2d                                  |    2 +-
+ lists/mdp                                    |    2 +-
+ lists/messina                                |    2 +-
+ logs/run_ids/rstudio-binaries/RCSL           |    2 +
+ logs/run_ids/rstudio-binaries/planet         |    2 +
+ logs/run_ids/rstudio-binaries/prettydoc      |    2 +
+ logs/run_ids/rstudio-binaries/reprex         |    2 +
+ logs/run_ids/rstudio-binaries/ruv            |    2 +
+ logs/run_ids/rstudio-binaries/savR           |    2 +
+ logs/sizes/rstudio-binaries/binaries/MKmisc  |    1 +
+ logs/sizes/rstudio-binaries/binaries/idr2d   |    1 +
+ logs/sizes/rstudio-binaries/libraries/MKmisc |    1 +
+ logs/sizes/rstudio-binaries/libraries/idr2d  |    1 +
+ logs/times/rstudio-binary/MKmisc             |  214 +++
+ logs/times/rstudio-binary/idr2d              | 1810 ++++++++++++++++++++++++++
+ packages.json                                |    6 -
+ 18 files changed, 2045 insertions(+), 11 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/RCSL
+ create mode 100644 logs/run_ids/rstudio-binaries/planet
+ create mode 100644 logs/run_ids/rstudio-binaries/prettydoc
+ create mode 100644 logs/run_ids/rstudio-binaries/reprex
+ create mode 100644 logs/run_ids/rstudio-binaries/ruv
+ create mode 100644 logs/run_ids/rstudio-binaries/savR
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/MKmisc
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/idr2d
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/MKmisc
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/idr2d
+ create mode 100644 logs/times/rstudio-binary/MKmisc
+ create mode 100644 logs/times/rstudio-binary/idr2d
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=procoil
++ PKG=procoil
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "procoil"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency kebabs is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''procoil'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv procoil_2.26.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/procoil
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'procoil'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/procoil_2.26.0.tar.gz'
+Content type 'application/x-gzip' length 1434773 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+* installing *source* package ‘procoil’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘procoil’ as ‘procoil_2.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (procoil)
+
+The downloaded source packages are in
+	‘/tmp/RtmpOcgPpS/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m40.796s
+user	0m35.564s
+sys	0m1.826s
