@@ -8999,8 +8999,7 @@
         "biomaRt",
         "naniar",
         "rtracklayer",
-        "viridis",
-        "visdat"
+        "viridis"
     ],
     "TNBC.CMS": [
         "GSEABase",
@@ -10408,10 +10407,8 @@
     "GenKern": [],
     "bestNormalize": [],
     "naniar": [
-        "viridis",
-        "visdat"
+        "viridis"
     ],
-    "visdat": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
