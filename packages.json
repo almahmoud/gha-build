@@ -2099,7 +2099,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "esetVis": [],
     "EventPointer": [
         "BSgenome",
         "GenomicFeatures",
