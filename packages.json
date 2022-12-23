@@ -44,7 +44,6 @@
     "cTRAP": [
         "qs"
     ],
-    "CyTOFpower": [],
     "DeepPINCS": [
         "mlapi",
         "text2vec",
