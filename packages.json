@@ -12429,7 +12429,6 @@
         "vroom"
     ],
     "DNABarcodeCompatibility": [
-        "DNABarcodes",
         "dplyr",
         "pillar",
         "purrr",
@@ -12439,7 +12438,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "DNABarcodes": [],
     "DNAfusion": [
         "BiocParallel",
         "Biostrings",
