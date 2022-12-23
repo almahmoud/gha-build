@@ -12944,7 +12944,6 @@
         "XVector",
         "annotate",
         "blob",
-        "bnstruct",
         "dplyr",
         "futile.logger",
         "genefilter",
@@ -57133,7 +57132,6 @@
     "swamp": [
         "gplots"
     ],
-    "bnstruct": [],
     "phangorn": [],
     "DiffCorr": [
         "multtest"
