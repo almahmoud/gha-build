@@ -542,7 +542,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "bioassayR": [],
     "bioCancer": [
         "DOSE",
         "DiagrammeR",
