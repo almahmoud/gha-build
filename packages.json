@@ -8468,7 +8468,6 @@
         "DESeq2",
         "GenomicAlignments",
         "GenomicFeatures",
-        "TBX20BamSubset",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "annotate",
         "biomaRt",
@@ -11848,7 +11847,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "TBX20BamSubset": [],
     "excelR": [],
     "scanMiRData": [],
     "SCATEData": [
