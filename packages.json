@@ -8686,7 +8686,6 @@
         "edgeR"
     ],
     "ClusterSignificance": [],
-    "clusterStab": [],
     "clustifyr": [
         "BiocParallel",
         "DelayedArray",
