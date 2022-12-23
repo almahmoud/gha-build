@@ -299,8 +299,7 @@
     "ChIPQC": [
         "TxDb.Celegans.UCSC.ce6.ensGene",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
-        "TxDb.Hsapiens.UCSC.hg18.knownGene",
-        "TxDb.Rnorvegicus.UCSC.rn4.ensGene"
+        "TxDb.Hsapiens.UCSC.hg18.knownGene"
     ],
     "ChIPseeker": [
         "enrichplot"
@@ -2128,7 +2127,6 @@
     "geneLenDataBase": [],
     "spp": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
-    "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
     "TxDb.Celegans.UCSC.ce6.ensGene": [],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
     "qs": [],
