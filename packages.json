@@ -685,7 +685,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "bugsigdbr": [],
     "BUMHMM": [
         "devtools"
     ],
