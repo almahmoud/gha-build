@@ -932,7 +932,6 @@
         "minfi",
         "rsq"
     ],
-    "DeepBlueR": [],
     "DeepPINCS": [
         "mlapi",
         "text2vec",
