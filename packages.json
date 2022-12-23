@@ -3037,7 +3037,6 @@
         "ExperimentHub",
         "GenomicFeatures",
         "RLHub",
-        "caretEnsemble",
         "regioneR",
         "valr"
     ],
@@ -4198,7 +4197,6 @@
     "BSgenome.Hsapiens.1000genomes.hs37d5": [],
     "rGenomeTracksData": [],
     "valr": [],
-    "caretEnsemble": [],
     "RLHub": [
         "ExperimentHub"
     ],
