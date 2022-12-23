@@ -7859,7 +7859,6 @@
     "panp": [
         "affy"
     ],
-    "PanViz": [],
     "pareg": [
         "AnnotationDbi",
         "DOSE",
