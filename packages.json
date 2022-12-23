@@ -392,7 +392,6 @@
         "testthat"
     ],
     "ASICS": [
-        "MultiDataSet",
         "plotly",
         "ropls"
     ],
@@ -932,7 +931,6 @@
         "viridis"
     ],
     "biosigner": [
-        "MultiDataSet",
         "plotly",
         "ropls"
     ],
@@ -5225,7 +5223,6 @@
         "treeio"
     ],
     "lipidr": [
-        "MultiDataSet",
         "plotly",
         "ropls"
     ],
@@ -5564,7 +5561,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "MultiDataSet",
         "SmartSVA",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
@@ -6673,7 +6669,6 @@
         "viridis"
     ],
     "MultiBaC": [
-        "MultiDataSet",
         "plotly",
         "ropls"
     ],
@@ -6699,7 +6694,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [
         "AnnotationDbi",
         "graphite"
@@ -6719,7 +6713,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "MultiDataSet",
         "ReactomePA",
         "annotate",
         "anyLib",
@@ -7183,7 +7176,6 @@
         "AnnotationDbi",
         "FactoMineR",
         "Hmisc",
-        "MultiDataSet",
         "SmartSVA",
         "annotate",
         "car",
@@ -7559,7 +7551,6 @@
         "piano"
     ],
     "phenomis": [
-        "MultiDataSet",
         "biodb",
         "biodbChebi",
         "plotly",
@@ -7844,7 +7835,6 @@
     ],
     "proFIA": [
         "MSnbase",
-        "MultiDataSet",
         "affy",
         "plotly",
         "ropls",
@@ -8885,7 +8875,6 @@
     "RolDE": [],
     "ROntoTools": [],
     "ropls": [
-        "MultiDataSet",
         "plotly"
     ],
     "RPA": [
@@ -8913,7 +8902,6 @@
         "viridis"
     ],
     "rqt": [
-        "MultiDataSet",
         "car",
         "lme4",
         "nloptr",
