@@ -7786,7 +7786,6 @@
         "ComplexHeatmap",
         "httr",
         "knitr",
-        "skmeans",
         "stringr"
     ],
     "comapr": [
@@ -48169,7 +48168,6 @@
         "tibble",
         "tidyselect"
     ],
-    "skmeans": [],
     "cobs": [
         "quantreg"
     ],
