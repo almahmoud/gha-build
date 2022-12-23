@@ -23602,7 +23602,6 @@
         "S4Vectors",
         "rhdf5"
     ],
-    "HDTD": [],
     "heatmaps": [
         "Biostrings",
         "EBImage",
