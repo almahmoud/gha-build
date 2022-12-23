@@ -32149,7 +32149,6 @@
         "Biostrings",
         "BoolNet",
         "DBI",
-        "FMStable",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "IRanges",
@@ -74166,7 +74165,6 @@
         "DelayedArray",
         "DelayedMatrixStats",
         "EDASeq",
-        "FMStable",
         "GenomeInfoDb",
         "GenomeInfoDbData",
         "GenomicAlignments",
@@ -159227,11 +159225,8 @@
         "MASS"
     ],
     "glm2": [],
-    "harmonicmeanp": [
-        "FMStable"
-    ],
+    "harmonicmeanp": [],
     "logger": [],
-    "FMStable": [],
     "TFisher": [
         "MASS",
         "Matrix",
