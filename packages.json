@@ -146,7 +146,6 @@
         "viridis"
     ],
     "airpart": [
-        "ggrastr",
         "scater",
         "scuttle",
         "viridis"
@@ -200,7 +199,6 @@
     "ANCOMBC": [
         "Hmisc",
         "TreeSummarizedExperiment",
-        "ggrastr",
         "lme4",
         "lmerTest",
         "mia",
@@ -616,7 +614,6 @@
         "viridis"
     ],
     "BayesSpace": [
-        "ggrastr",
         "rhdf5",
         "scater",
         "scran",
@@ -657,7 +654,6 @@
         "corncob",
         "genefilter",
         "geneplotter",
-        "ggrastr",
         "lme4",
         "lmerTest",
         "mia",
@@ -1215,7 +1211,6 @@
         "car",
         "drc",
         "ggpubr",
-        "ggrastr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -1288,7 +1283,6 @@
         "MAST"
     ],
     "celda": [
-        "ggrastr",
         "scater",
         "scran",
         "scuttle",
@@ -1310,7 +1304,6 @@
     ],
     "CelliD": [
         "Seurat",
-        "ggrastr",
         "plotly",
         "scater",
         "scuttle",
@@ -1334,7 +1327,6 @@
         "viridis"
     ],
     "CellMixS": [
-        "ggrastr",
         "scater",
         "scuttle",
         "viridis"
@@ -1617,7 +1609,6 @@
     ],
     "ChromSCape": [
         "batchelor",
-        "ggrastr",
         "plotly",
         "rtracklayer",
         "scater",
@@ -1968,7 +1959,6 @@
         "factoextra",
         "ggpubr",
         "ggraph",
-        "ggrastr",
         "ggtree",
         "lme4",
         "nloptr",
@@ -1990,7 +1980,6 @@
         "TrajectoryUtils",
         "caret",
         "distinct",
-        "ggrastr",
         "recipes",
         "scater",
         "scuttle",
@@ -2761,7 +2750,6 @@
         "viridis"
     ],
     "distinct": [
-        "ggrastr",
         "scater",
         "scuttle",
         "viridis"
@@ -3620,7 +3608,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "ggrastr",
         "rhdf5",
         "rtracklayer",
         "scater",
@@ -4563,7 +4550,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "ggrastr",
         "interactiveDisplayBase",
         "rhdf5",
         "rtracklayer",
@@ -4880,7 +4866,6 @@
         "gamlss",
         "ggpubr",
         "ggraph",
-        "ggrastr",
         "ggtree",
         "lme4",
         "mixtools",
@@ -5838,7 +5823,6 @@
     ],
     "mia": [
         "TreeSummarizedExperiment",
-        "ggrastr",
         "scater",
         "scuttle",
         "tidytree",
@@ -5853,7 +5837,6 @@
     "miaViz": [
         "TreeSummarizedExperiment",
         "ggraph",
-        "ggrastr",
         "ggtree",
         "mia",
         "scater",
@@ -5900,7 +5883,6 @@
         "caret",
         "coin",
         "geneplotter",
-        "ggrastr",
         "ggtree",
         "lme4",
         "lmerTest",
@@ -6584,7 +6566,6 @@
         "annotate",
         "blme",
         "geneplotter",
-        "ggrastr",
         "glmmTMB",
         "lme4",
         "lmerTest",
@@ -6692,7 +6673,6 @@
         "BSgenome",
         "HDF5Array",
         "bsseq",
-        "ggrastr",
         "rhdf5",
         "rtracklayer"
     ],
@@ -6801,7 +6781,6 @@
         "benchmarkme",
         "clusterExperiment",
         "genefilter",
-        "ggrastr",
         "mbkmeans",
         "phylobase",
         "rhdf5",
@@ -7316,7 +7295,6 @@
         "genefilter"
     ],
     "peco": [
-        "ggrastr",
         "scater",
         "scuttle",
         "viridis"
@@ -7463,7 +7441,6 @@
     ],
     "pipeComp": [
         "Seurat",
-        "ggrastr",
         "plotly",
         "scater",
         "scran",
@@ -8858,7 +8835,6 @@
         "interactiveDisplayBase"
     ],
     "scater": [
-        "ggrastr",
         "scuttle",
         "viridis"
     ],
@@ -8905,7 +8881,6 @@
         "plotly"
     ],
     "scDblFinder": [
-        "ggrastr",
         "rtracklayer",
         "scater",
         "scran",
@@ -9005,7 +8980,6 @@
     "scPipe": [
         "AnnotationDbi",
         "biomaRt",
-        "ggrastr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rtracklayer",
@@ -9104,7 +9078,6 @@
         "epivizr",
         "epivizrData",
         "ggraph",
-        "ggrastr",
         "plotly",
         "rtracklayer",
         "scater",
@@ -9413,7 +9386,6 @@
         "fishpond",
         "genefilter",
         "geneplotter",
-        "ggrastr",
         "ggtree",
         "hgu95a.db",
         "interactiveDisplayBase",
@@ -9570,7 +9542,6 @@
         "DropletUtils",
         "HDF5Array",
         "Seurat",
-        "ggrastr",
         "plotly",
         "rhdf5",
         "scater",
@@ -9634,7 +9605,6 @@
         "WGCNA",
         "annotate",
         "genefilter",
-        "ggrastr",
         "plotly",
         "scater",
         "scran",
@@ -9700,7 +9670,6 @@
         "rtracklayer"
     ],
     "splatter": [
-        "ggrastr",
         "scater",
         "scuttle",
         "viridis"
@@ -10420,7 +10389,6 @@
     ],
     "tricycle": [
         "AnnotationDbi",
-        "ggrastr",
         "scater",
         "scuttle",
         "viridis"
@@ -10564,7 +10532,6 @@
     "VAExprs": [
         "DeepPINCS",
         "DiagrammeR",
-        "ggrastr",
         "lexicon",
         "rcdk",
         "scater",
@@ -10924,7 +10891,6 @@
         "viridis"
     ],
     "viridis": [],
-    "ggrastr": [],
     "curatedTCGAData": [
         "AnnotationDbi",
         "AnnotationHub",
