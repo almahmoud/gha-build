@@ -4515,9 +4515,7 @@
         "viridis"
     ],
     "flowAI": [],
-    "flowBin": [
-        "flowFP"
-    ],
+    "flowBin": [],
     "flowcatchR": [
         "EBImage",
         "plotly"
@@ -4555,7 +4553,6 @@
         "testthat",
         "viridis"
     ],
-    "flowFP": [],
     "flowGraph": [
         "ggiraph",
         "visNetwork"
@@ -4749,9 +4746,7 @@
         "testthat",
         "viridis"
     ],
-    "GateFinder": [
-        "flowFP"
-    ],
+    "GateFinder": [],
     "GBScleanR": [],
     "gcapc": [
         "BSgenome",
