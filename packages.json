@@ -1947,9 +1947,7 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "MinimumDistance": [
-        "VanillaICE"
-    ],
+    "MinimumDistance": [],
     "MIRA": [
         "HDF5Array",
         "bsseq",
@@ -3455,7 +3453,6 @@
         "ttgsea",
         "viridis"
     ],
-    "VanillaICE": [],
     "VariantFiltering": [
         "GenomicScores",
         "Gviz",
