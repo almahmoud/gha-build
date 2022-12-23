@@ -2821,7 +2821,6 @@
     "SingleCellSignalR": [],
     "singleCellTK": [
         "ExperimentHub",
-        "GSVAdata",
         "SoupX",
         "TENxPBMCData",
         "celda",
@@ -3540,7 +3539,6 @@
     "celldex": [
         "ExperimentHub"
     ],
-    "GSVAdata": [],
     "SoupX": [],
     "scRNAseq": [
         "ExperimentHub",
