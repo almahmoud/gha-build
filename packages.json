@@ -1565,7 +1565,6 @@
     ],
     "biotmle": [
         "SummarizedExperiment",
-        "drtmle",
         "ggdendro",
         "ggsci",
         "superheat"
@@ -20182,7 +20181,6 @@
     "superheat": [
         "ggdendro"
     ],
-    "drtmle": [],
     "biscuiteerData": [
         "AnnotationDbi",
         "AnnotationHub",
