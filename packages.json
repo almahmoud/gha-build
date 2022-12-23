@@ -382,7 +382,6 @@
         "geneplotter",
         "ggrepel",
         "htmlwidgets",
-        "ipred",
         "plotROC",
         "plotly",
         "recipes",
@@ -1025,7 +1024,6 @@
         "ggrepel",
         "ggvis",
         "htmlwidgets",
-        "ipred",
         "mixtools",
         "pRoloc",
         "pRolocdata",
@@ -1971,7 +1969,6 @@
         "caret",
         "cowplot",
         "dbplyr",
-        "ipred",
         "recipes",
         "rtracklayer",
         "tidyr"
@@ -2822,7 +2819,6 @@
         "Rsamtools",
         "caret",
         "genomeIntervals",
-        "ipred",
         "recipes",
         "spp",
         "tidyr"
@@ -3812,7 +3808,6 @@
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
-        "ipred",
         "recipes",
         "scater",
         "scuttle",
@@ -3873,7 +3868,6 @@
         "biomaRt",
         "dbplyr",
         "genefu",
-        "ipred",
         "survcomp"
     ],
     "consensusSeekeR": [
@@ -4452,7 +4446,6 @@
         "ggsci",
         "ggsignif",
         "htmlwidgets",
-        "ipred",
         "lme4",
         "mbest",
         "nloptr",
@@ -4484,7 +4477,6 @@
         "ggsci",
         "ggsignif",
         "htmlwidgets",
-        "ipred",
         "lme4",
         "mbest",
         "nloptr",
@@ -4597,7 +4589,6 @@
         "ggrepel",
         "htmlTable",
         "htmlwidgets",
-        "ipred",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7072,7 +7063,6 @@
         "ggforce",
         "ggraph",
         "ggrepel",
-        "ipred",
         "lexicon",
         "syuzhet",
         "textclean",
@@ -7261,7 +7251,6 @@
         "ggrepel",
         "htmlTable",
         "htmlwidgets",
-        "ipred",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7452,7 +7441,6 @@
         "KEGGREST",
         "biomaRt",
         "dbplyr",
-        "ipred",
         "survcomp"
     ],
     "GeneGeneInteR": [
@@ -8495,7 +8483,6 @@
     ],
     "GWAS.BAYES": [
         "caret",
-        "ipred",
         "recipes",
         "tidyr"
     ],
@@ -8792,7 +8779,6 @@
     ],
     "HPiP": [
         "caret",
-        "ipred",
         "readr",
         "recipes",
         "tidyr",
@@ -9760,7 +9746,6 @@
         "genefilter",
         "htmlTable",
         "htmlwidgets",
-        "ipred",
         "recipes",
         "rmarkdown",
         "sva",
@@ -10049,7 +10034,6 @@
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "ipred",
         "recipes",
         "rmarkdown",
         "rtracklayer",
@@ -10227,7 +10211,6 @@
         "googledrive",
         "googlesheets4",
         "haven",
-        "ipred",
         "modelr",
         "readr",
         "readxl",
@@ -10252,7 +10235,6 @@
         "haven",
         "htmlTable",
         "htmlwidgets",
-        "ipred",
         "klaR",
         "labelled",
         "miniUI",
@@ -10280,7 +10262,6 @@
         "caret",
         "gcrma",
         "hgu133plus2.db",
-        "ipred",
         "org.Hs.eg.db",
         "recipes",
         "tidyr"
@@ -10668,7 +10649,6 @@
     ],
     "metabCombiner": [
         "caret",
-        "ipred",
         "recipes",
         "tidyr"
     ],
@@ -10807,7 +10787,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "ipred",
         "patchwork",
         "qvalue",
         "scatterpie",
@@ -10852,7 +10831,6 @@
         "geneplotter",
         "heatmaply",
         "htmlwidgets",
-        "ipred",
         "plotly",
         "qvalue",
         "rmarkdown",
@@ -11381,7 +11359,6 @@
         "ggtree",
         "htmlTable",
         "htmlwidgets",
-        "ipred",
         "lme4",
         "lmerTest",
         "mia",
@@ -11705,7 +11682,6 @@
         "htmlTable",
         "htmlwidgets",
         "iBBiG",
-        "ipred",
         "lme4",
         "metR",
         "miRspongeR",
@@ -11782,7 +11758,6 @@
         "groupdata2",
         "gson",
         "haven",
-        "ipred",
         "lme4",
         "modelr",
         "nloptr",
@@ -11850,7 +11825,6 @@
     ],
     "mistyR": [
         "caret",
-        "ipred",
         "readr",
         "recipes",
         "tidyr",
@@ -11908,7 +11882,6 @@
         "annotate",
         "caret",
         "geneplotter",
-        "ipred",
         "recipes",
         "rematch2",
         "testthat",
@@ -12432,7 +12405,6 @@
         "MSstats",
         "caret",
         "ggrepel",
-        "ipred",
         "lme4",
         "nloptr",
         "recipes",
@@ -12598,7 +12570,6 @@
         "graphite",
         "gson",
         "htmlwidgets",
-        "ipred",
         "metap",
         "miniUI",
         "mixOmics",
@@ -14070,7 +14041,6 @@
         "ggsignif",
         "ggtext",
         "htmlwidgets",
-        "ipred",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -14329,7 +14299,6 @@
         "dnet",
         "ggnetwork",
         "ggrepel",
-        "ipred",
         "network",
         "osfr",
         "readr",
@@ -14568,7 +14537,6 @@
         "caret",
         "geneplotter",
         "ggrepel",
-        "ipred",
         "mixOmics",
         "recipes",
         "rmarkdown",
@@ -14636,7 +14604,6 @@
         "biomaRt",
         "caret",
         "dbplyr",
-        "ipred",
         "org.Hs.eg.db",
         "rCGH",
         "recipes",
@@ -14851,7 +14818,6 @@
         "genefilter",
         "ggvis",
         "htmlwidgets",
-        "ipred",
         "mixtools",
         "plotly",
         "recipes",
@@ -14880,7 +14846,6 @@
         "genefilter",
         "ggvis",
         "htmlwidgets",
-        "ipred",
         "miniUI",
         "mixtools",
         "pRoloc",
@@ -15853,7 +15818,6 @@
         "genefilter",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "ipred",
         "minfi",
         "org.Hs.eg.db",
         "readr",
@@ -16281,7 +16245,6 @@
         "ggprism",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "ipred",
         "readr",
         "recipes",
         "regioneR",
@@ -17068,7 +17031,6 @@
         "ggridges",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "ipred",
         "miniUI",
         "patchwork",
         "plotly",
@@ -17282,7 +17244,6 @@
         "annotate",
         "caret",
         "geneplotter",
-        "ipred",
         "recipes",
         "tidyr"
     ],
@@ -18113,7 +18074,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "ipred",
         "lme4",
         "nloptr",
         "openair",
@@ -18881,7 +18841,6 @@
         "googlesheets4",
         "groupdata2",
         "haven",
-        "ipred",
         "lme4",
         "modelr",
         "nloptr",
@@ -19213,7 +19172,6 @@
         "caret",
         "ggrepel",
         "htmlwidgets",
-        "ipred",
         "networkD3",
         "org.Hs.eg.db",
         "recipes",
@@ -19240,7 +19198,6 @@
     "supersigs": [
         "SummarizedExperiment",
         "caret",
-        "ipred",
         "recipes",
         "rsample",
         "tidyr"
@@ -19263,9 +19220,7 @@
         "vroom",
         "waldo"
     ],
-    "survcomp": [
-        "ipred"
-    ],
+    "survcomp": [],
     "survtype": [
         "SummarizedExperiment",
         "broom",
@@ -19646,7 +19601,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "ipred",
         "lme4",
         "miniUI",
         "nloptr",
@@ -19979,7 +19933,6 @@
         "bestNormalize",
         "biomaRt",
         "dbplyr",
-        "ipred",
         "naniar",
         "readr",
         "recipes",
@@ -20140,7 +20093,6 @@
         "caret",
         "chipseq",
         "dbplyr",
-        "ipred",
         "recipes",
         "rtracklayer",
         "tidyr"
@@ -21345,7 +21297,6 @@
     ],
     "ReorderCluster": [],
     "caret": [
-        "ipred",
         "recipes",
         "tidyr"
     ],
@@ -21356,10 +21307,8 @@
         "ggrepel"
     ],
     "recipes": [
-        "ipred",
         "tidyr"
     ],
-    "ipred": [],
     "miniUI": [
         "shiny"
     ],
@@ -22120,7 +22069,6 @@
     "ChIC.data": [
         "caret",
         "genomeIntervals",
-        "ipred",
         "recipes",
         "tidyr"
     ],
@@ -22297,7 +22245,6 @@
     ],
     "Ecume": [
         "caret",
-        "ipred",
         "recipes",
         "spatstat",
         "spatstat.linnet",
@@ -22622,9 +22569,7 @@
         "htmlwidgets",
         "rmarkdown"
     ],
-    "RecordLinkage": [
-        "ipred"
-    ],
+    "RecordLinkage": [],
     "NHPoisson": [
         "broom",
         "car",
@@ -22823,7 +22768,6 @@
     ],
     "adabag": [
         "caret",
-        "ipred",
         "recipes",
         "tidyr"
     ],
@@ -23034,7 +22978,6 @@
     "metR": [],
     "cvms": [
         "groupdata2",
-        "ipred",
         "lme4",
         "nloptr",
         "rearrr",
@@ -23376,7 +23319,6 @@
     ],
     "caretEnsemble": [
         "caret",
-        "ipred",
         "recipes",
         "tidyr"
     ],
@@ -23649,7 +23591,6 @@
     ],
     "bestNormalize": [
         "LambertW",
-        "ipred",
         "recipes",
         "tidyr"
     ],
