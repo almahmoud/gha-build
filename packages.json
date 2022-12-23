@@ -3098,7 +3098,6 @@
         "ssrch"
     ],
     "hypeR": [],
-    "iBBiG": [],
     "iCARE": [
         "Hmisc"
     ],
@@ -4061,7 +4060,6 @@
         "enrichplot",
         "ggpubr",
         "ggtree",
-        "iBBiG",
         "lme4",
         "miRspongeR",
         "modelr",
