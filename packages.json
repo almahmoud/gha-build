@@ -17,7 +17,6 @@
         "affydata"
     ],
     "affycoretools": [
-        "Glimma",
         "Hmisc",
         "ReportingTools",
         "affy",
@@ -43,7 +42,6 @@
         "affy"
     ],
     "AgiMicroRna": [
-        "Glimma",
         "Hmisc",
         "ReportingTools",
         "affy",
@@ -1392,7 +1390,6 @@
         "Hmisc",
         "viridis"
     ],
-    "Glimma": [],
     "glmGamPoi": [
         "HDF5Array",
         "rhdf5"
