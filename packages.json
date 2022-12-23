@@ -9213,7 +9213,6 @@
         "flowViz",
         "flowWorkspace",
         "forcats",
-        "geometry",
         "ggplot2",
         "hms",
         "knitr",
@@ -9825,7 +9824,6 @@
         "TTR",
         "XVector",
         "dplyr",
-        "geometry",
         "ggplot2",
         "hms",
         "pillar",
@@ -27519,7 +27517,6 @@
         "diceR",
         "dplyr",
         "forcats",
-        "geometry",
         "ggplot2",
         "glmnet",
         "hardhat",
@@ -46865,7 +46862,6 @@
         "tibble"
     ],
     "mrfDepth": [
-        "geometry",
         "ggplot2",
         "pillar",
         "reshape2",
@@ -46880,7 +46876,6 @@
         "tibble",
         "viridis"
     ],
-    "geometry": [],
     "GEOmap": [
         "fields",
         "ggplot2",
@@ -48559,9 +48554,7 @@
         "tibble",
         "tidyselect"
     ],
-    "pdfCluster": [
-        "geometry"
-    ],
+    "pdfCluster": [],
     "diceR": [
         "NMF",
         "bslib",
