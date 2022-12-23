@@ -10639,7 +10639,6 @@
         "FCPS",
         "GenomicRanges",
         "SummarizedExperiment",
-        "analogue",
         "broom",
         "car",
         "cowplot",
@@ -34123,7 +34122,6 @@
         "reshape2",
         "tibble"
     ],
-    "analogue": [],
     "DataVisualizations": [
         "ggplot2",
         "reshape2",
