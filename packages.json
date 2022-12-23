@@ -218,7 +218,6 @@
         "blob",
         "bslib",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "htmlwidgets",
         "httr",
@@ -683,7 +682,6 @@
         "BiocParallel",
         "bslib",
         "cellranger",
-        "doSNOW",
         "dplyr",
         "futile.logger",
         "ggplot2",
@@ -2753,7 +2751,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "doSNOW",
         "fitdistrplus",
         "futile.logger"
     ],
@@ -11815,7 +11812,6 @@
     ],
     "DepecheR": [
         "BiocParallel",
-        "doSNOW",
         "dplyr",
         "futile.logger",
         "ggplot2",
@@ -14422,7 +14418,6 @@
         "blob",
         "bslib",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "futile.logger",
         "ggplot2",
@@ -21119,7 +21114,6 @@
         "cellranger",
         "cowplot",
         "dendextend",
-        "doSNOW",
         "dplyr",
         "ggplot2",
         "gld",
@@ -23371,7 +23365,6 @@
         "vctrs"
     ],
     "M3C": [
-        "doSNOW",
         "ggplot2",
         "pillar",
         "reticulate",
@@ -28707,7 +28700,6 @@
         "RSQLite",
         "blob",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "ggplot2",
         "mzR",
@@ -34058,7 +34050,6 @@
         "caret",
         "clock",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "futile.logger",
         "ggplot2",
@@ -35238,7 +35229,6 @@
         "blob",
         "bslib",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "genefilter",
         "ggplot2",
@@ -41561,8 +41551,7 @@
         "vctrs"
     ],
     "seqCNA": [
-        "adehabitatLT",
-        "doSNOW"
+        "adehabitatLT"
     ],
     "seqcombo": [
         "ggplot2",
@@ -47147,7 +47136,6 @@
         "biomaRt",
         "blob",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "ggplot2",
         "hms",
@@ -49989,7 +49977,6 @@
         "tibble",
         "vctrs"
     ],
-    "doSNOW": [],
     "smoother": [
         "TTR"
     ],
@@ -50131,7 +50118,6 @@
         "vctrs"
     ],
     "speaq": [
-        "doSNOW",
         "ggplot2",
         "httr",
         "missForest",
