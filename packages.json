@@ -18224,7 +18224,6 @@
         "VariantAnnotation",
         "XVector",
         "biomaRt",
-        "changepoint.np",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -43712,7 +43711,6 @@
         "oligo",
         "oligoClasses"
     ],
-    "changepoint.np": [],
     "hgu95av2.db": [
         "AnnotationDbi",
         "Biostrings",
