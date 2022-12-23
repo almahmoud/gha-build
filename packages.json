@@ -9600,7 +9600,6 @@
         "tidyselect",
         "vroom"
     ],
-    "CMA": [],
     "cmapR": [
         "DelayedArray",
         "GenomeInfoDb",
