@@ -4789,7 +4789,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "qPLEXanalyzer": [],
     "qrqc": [
         "BSgenome",
         "GenomicFeatures",
