@@ -1,0 +1,830 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   3a94a8c7..f97622ee  main       -> origin/main
+Updating 3a94a8c7..f97622ee
+Fast-forward
+ lists/gplots                           |   2 +-
+ logs/run_ids/rstudio-binaries/R.rsp    |   2 +
+ logs/run_ids/rstudio-binaries/RankProd |   2 +
+ logs/run_ids/rstudio-binaries/RcppDE   |   2 +
+ packages.json                          | 287 +++------------------------------
+ 5 files changed, 31 insertions(+), 264 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/R.rsp
+ create mode 100644 logs/run_ids/rstudio-binaries/RankProd
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=qusage
++ PKG=qusage
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ sed -n '/^    "qusage"/,/^    "/p' directdeps.json
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 2787k    2 81600    0     0  95951      0  0:00:29 --:--:--  0:00:29 95887 14 2787k   14  410k    0     0   223k      0  0:00:12  0:00:01  0:00:11  223k 34 2787k   34  968k    0     0   339k      0  0:00:08  0:00:02  0:00:06  339k 61 2787k   61 1701k    0     0   444k      0  0:00:06  0:00:03  0:00:03  444k 97 2787k   97 2721k    0     0   561k      0  0:00:04  0:00:04 --:--:--  561k100 2787k  100 2787k    0     0   568k      0  0:00:04  0:00:04 --:--:--  667k
+built/
+built/limma/
+built/limma/libs/
+built/limma/libs/limma.so
+built/limma/NAMESPACE
+built/limma/DESCRIPTION
+built/limma/help/
+built/limma/help/paths.rds
+built/limma/help/limma.rdx
+built/limma/help/limma.rdb
+built/limma/help/aliases.rds
+built/limma/help/AnIndex
+built/limma/Meta/
+built/limma/Meta/package.rds
+built/limma/Meta/vignette.rds
+built/limma/Meta/features.rds
+built/limma/Meta/hsearch.rds
+built/limma/Meta/links.rds
+built/limma/Meta/nsInfo.rds
+built/limma/Meta/Rd.rds
+built/limma/NEWS.Rd
+built/limma/CITATION
+built/limma/html/
+built/limma/html/00Index.html
+built/limma/html/R.css
+built/limma/INDEX
+built/limma/doc/
+built/limma/doc/intro.pdf
+built/limma/doc/changelog.txt
+built/limma/doc/index.html
+built/limma/doc/usersguide.pdf
+built/limma/doc/intro.Rnw
+built/limma/R/
+built/limma/R/limma.rdx
+built/limma/R/limma.rdb
+built/limma/R/limma
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  3 2975k    3 97920    0     0   111k      0  0:00:26 --:--:--  0:00:26  111k 14 2975k   14  442k    0     0   234k      0  0:00:12  0:00:01  0:00:11  234k 33 2975k   33 1000k    0     0   350k      0  0:00:08  0:00:02  0:00:06  350k 60 2975k   60 1796k    0     0   463k      0  0:00:06  0:00:03  0:00:03  463k 94 2975k   94 2800k    0     0   577k      0  0:00:05  0:00:04  0:00:01  577k100 2975k  100 2975k    0     0   592k      0  0:00:05  0:00:05 --:--:--  691k
+built/
+built/BiocGenerics/
+built/BiocGenerics/NAMESPACE
+built/BiocGenerics/DESCRIPTION
+built/BiocGenerics/help/
+built/BiocGenerics/help/paths.rds
+built/BiocGenerics/help/BiocGenerics.rdb
+built/BiocGenerics/help/aliases.rds
+built/BiocGenerics/help/AnIndex
+built/BiocGenerics/help/BiocGenerics.rdx
+built/BiocGenerics/Meta/
+built/BiocGenerics/Meta/package.rds
+built/BiocGenerics/Meta/features.rds
+built/BiocGenerics/Meta/hsearch.rds
+built/BiocGenerics/Meta/links.rds
+built/BiocGenerics/Meta/nsInfo.rds
+built/BiocGenerics/Meta/Rd.rds
+built/BiocGenerics/unitTests/
+built/BiocGenerics/unitTests/test_combine.R
+built/BiocGenerics/unitTests/test_mapply.R
+built/BiocGenerics/unitTests/test_Extremes.R
+built/BiocGenerics/unitTests/test_order.R
+built/BiocGenerics/unitTests/test_updateObject.R
+built/BiocGenerics/unitTests/test_format.R
+built/BiocGenerics/unitTests/test_paste.R
+built/BiocGenerics/CITATION
+built/BiocGenerics/html/
+built/BiocGenerics/html/00Index.html
+built/BiocGenerics/html/R.css
+built/BiocGenerics/INDEX
+built/BiocGenerics/R/
+built/BiocGenerics/R/BiocGenerics
+built/BiocGenerics/R/BiocGenerics.rdb
+built/BiocGenerics/R/BiocGenerics.rdx
+built/Biobase/
+built/Biobase/ExpressionSet/
+built/Biobase/ExpressionSet/DESCRIPTION
+built/Biobase/ExpressionSet/man/
+built/Biobase/ExpressionSet/man/@PKGNAME@.Rd
+built/Biobase/libs/
+built/Biobase/libs/Biobase.so
+built/Biobase/NEWS
+built/Biobase/extdata/
+built/Biobase/extdata/pData.txt
+built/Biobase/extdata/exprsData.txt
+built/Biobase/NAMESPACE
+built/Biobase/testClass.R
+built/Biobase/DESCRIPTION
+built/Biobase/help/
+built/Biobase/help/Biobase.rdx
+built/Biobase/help/paths.rds
+built/Biobase/help/Biobase.rdb
+built/Biobase/help/aliases.rds
+built/Biobase/help/AnIndex
+built/Biobase/data/
+built/Biobase/data/geneCovariate.rda
+built/Biobase/data/sample.ExpressionSet.rda
+built/Biobase/data/seD.rda
+built/Biobase/data/reporter.rda
+built/Biobase/data/geneCov.R
+built/Biobase/data/aaMap.R
+built/Biobase/data/SW.rda
+built/Biobase/data/geneData.R
+built/Biobase/data/sample.MultiSet.rda
+built/Biobase/Meta/
+built/Biobase/Meta/package.rds
+built/Biobase/Meta/vignette.rds
+built/Biobase/Meta/features.rds
+built/Biobase/Meta/hsearch.rds
+built/Biobase/Meta/links.rds
+built/Biobase/Meta/nsInfo.rds
+built/Biobase/Meta/Rd.rds
+built/Biobase/Meta/data.rds
+built/Biobase/Code/
+built/Biobase/Code/DESCRIPTION
+built/Biobase/Code/R/
+built/Biobase/Code/R/get@PKGNAME@.R
+built/Biobase/Code/man/
+built/Biobase/Code/man/get@PKGNAME@.Rd
+built/Biobase/Code/man/@PKGNAME@.Rd
+built/Biobase/scripts/
+built/Biobase/scripts/esetTesting.R
+built/Biobase/scripts/getBioCHelp
+built/Biobase/scripts/query.packages.R
+built/Biobase/scripts/getBioC.R
+built/Biobase/scripts/getBioCPkgNames.R
+built/Biobase/scripts/makeExpressionSetPackage.R
+built/Biobase/unitTests/
+built/Biobase/unitTests/test_copyEnv.R
+built/Biobase/unitTests/test_combine.R
+built/Biobase/unitTests/test_AnnotatedDataFrame.R
+built/Biobase/unitTests/test_EsetSubclasses.R
+built/Biobase/unitTests/test_unsaveSetSlot.R
+built/Biobase/unitTests/VersionedClass_data/
+built/Biobase/unitTests/VersionedClass_data/devel/
+built/Biobase/unitTests/VersionedClass_data/devel/SnpSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/VersionedBiobase.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/swrep.rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.eSet.rda
+built/Biobase/unitTests/VersionedClass_data/devel/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/container.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/golubMergeSub.rda
+built/Biobase/unitTests/VersionedClass_data/devel/bbsym.rda
+built/Biobase/unitTests/VersionedClass_data/devel/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/aggregator.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/Versioned.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/eset.rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarInteger.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/VersionsNull.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarLogical.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.1.rda
+built/Biobase/unitTests/VersionedClass_data/devel/NChannelSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/Versions.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/MultiSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarCharacter.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarNumeric.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/SWPD.rda
+built/Biobase/unitTests/VersionedClass_data/1.8/
+built/Biobase/unitTests/VersionedClass_data/1.8/phenoData.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/raw/
+built/Biobase/unitTests/VersionedClass_data/raw/pData.tab
+built/Biobase/unitTests/VersionedClass_data/raw/exprs.tab
+built/Biobase/unitTests/VersionedClass_data/raw/varMetadata.tab
+built/Biobase/unitTests/VersionedClass_data/2.0/
+built/Biobase/unitTests/VersionedClass_data/2.0/SnpSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/phenoData.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/VersionedBiobase.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/container.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/aggregator.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/Versioned.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/VersionsNull.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/Versions.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/MultiSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/ScalarCharacter.Rda
+built/Biobase/unitTests/test_VersionedClass.R
+built/Biobase/unitTests/utilities.R
+built/Biobase/unitTests/test_NChannelSet.R
+built/Biobase/unitTests/test_AssayData.R
+built/Biobase/unitTests/test_checkClass.R
+built/Biobase/unitTests/test_UpdateObject.R
+built/Biobase/unitTests/test_SnpSet.R
+built/Biobase/unitTests/test_DataClasses.R
+built/Biobase/unitTests/test_ExpressionSet.R
+built/Biobase/unitTests/test_subListExtract.R
+built/Biobase/unitTests/test_esApply.R
+built/Biobase/unitTests/test_cache.R
+built/Biobase/CITATION
+built/Biobase/html/
+built/Biobase/html/00Index.html
+built/Biobase/html/R.css
+built/Biobase/INDEX
+built/Biobase/doc/
+built/Biobase/doc/esApply.Rmd
+built/Biobase/doc/ExpressionSetIntroduction.R
+built/Biobase/doc/esApply.html
+built/Biobase/doc/ExpressionSetIntroduction.Rnw
+built/Biobase/doc/index.html
+built/Biobase/doc/BiobaseDevelopment.html
+built/Biobase/doc/ExpressionSetIntroduction.pdf
+built/Biobase/doc/BiobaseDevelopment.R
+built/Biobase/doc/esApply.R
+built/Biobase/doc/BiobaseDevelopment.Rmd
+built/Biobase/R/
+built/Biobase/R/Biobase.rdx
+built/Biobase/R/Biobase.rdb
+built/Biobase/R/Biobase
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 3364k    0 16320    0     0  20578      0  0:02:47 --:--:--  0:02:47 20580  8 3364k    8  286k    0     0   161k      0  0:00:20  0:00:01  0:00:19  161k 23 3364k   23  780k    0     0   281k      0  0:00:11  0:00:02  0:00:09  281k 44 3364k   44 1498k    0     0   396k      0  0:00:08  0:00:03  0:00:05  396k 72 3364k   72 2454k    0     0   513k      0  0:00:06  0:00:04  0:00:02  513k100 3364k  100 3364k    0     0   605k      0  0:00:05  0:00:05 --:--:--  703k
+built/
+built/lattice/
+built/lattice/libs/
+built/lattice/libs/lattice.so
+built/lattice/NEWS
+built/lattice/NAMESPACE
+built/lattice/DESCRIPTION
+built/lattice/help/
+built/lattice/help/paths.rds
+built/lattice/help/lattice.rdx
+built/lattice/help/lattice.rdb
+built/lattice/help/aliases.rds
+built/lattice/help/AnIndex
+built/lattice/data/
+built/lattice/data/Rdata.rds
+built/lattice/data/Rdata.rdb
+built/lattice/data/Rdata.rdx
+built/lattice/Meta/
+built/lattice/Meta/package.rds
+built/lattice/Meta/demo.rds
+built/lattice/Meta/features.rds
+built/lattice/Meta/hsearch.rds
+built/lattice/Meta/links.rds
+built/lattice/Meta/nsInfo.rds
+built/lattice/Meta/Rd.rds
+built/lattice/Meta/data.rds
+built/lattice/po/
+built/lattice/po/it/
+built/lattice/po/it/LC_MESSAGES/
+built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/lattice/po/fr/
+built/lattice/po/fr/LC_MESSAGES/
+built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/lattice/po/ko/
+built/lattice/po/ko/LC_MESSAGES/
+built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/lattice/po/pl/
+built/lattice/po/pl/LC_MESSAGES/
+built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/lattice/po/en@quot/
+built/lattice/po/en@quot/LC_MESSAGES/
+built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/lattice/po/de/
+built/lattice/po/de/LC_MESSAGES/
+built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/lattice/CITATION
+built/lattice/html/
+built/lattice/html/00Index.html
+built/lattice/html/R.css
+built/lattice/INDEX
+built/lattice/R/
+built/lattice/R/lattice
+built/lattice/R/lattice.rdx
+built/lattice/R/lattice.rdb
+built/lattice/demo/
+built/lattice/demo/panel.R
+built/lattice/demo/intervals.R
+built/lattice/demo/labels.R
+built/lattice/demo/lattice.R
+built/nlme/
+built/nlme/libs/
+built/nlme/libs/nlme.so
+built/nlme/NAMESPACE
+built/nlme/DESCRIPTION
+built/nlme/help/
+built/nlme/help/nlme.rdb
+built/nlme/help/paths.rds
+built/nlme/help/aliases.rds
+built/nlme/help/nlme.rdx
+built/nlme/help/AnIndex
+built/nlme/data/
+built/nlme/data/Rdata.rds
+built/nlme/data/Rdata.rdb
+built/nlme/data/Rdata.rdx
+built/nlme/Meta/
+built/nlme/Meta/package.rds
+built/nlme/Meta/features.rds
+built/nlme/Meta/hsearch.rds
+built/nlme/Meta/links.rds
+built/nlme/Meta/nsInfo.rds
+built/nlme/Meta/Rd.rds
+built/nlme/Meta/data.rds
+built/nlme/scripts/
+built/nlme/scripts/ch08.R
+built/nlme/scripts/runme.R
+built/nlme/scripts/ch02.R
+built/nlme/scripts/ch05.R
+built/nlme/scripts/sims.rda
+built/nlme/scripts/ch03.R
+built/nlme/scripts/ch01.R
+built/nlme/scripts/ch06.R
+built/nlme/scripts/ch04.R
+built/nlme/po/
+built/nlme/po/fr/
+built/nlme/po/fr/LC_MESSAGES/
+built/nlme/po/fr/LC_MESSAGES/nlme.mo
+built/nlme/po/fr/LC_MESSAGES/R-nlme.mo
+built/nlme/po/ko/
+built/nlme/po/ko/LC_MESSAGES/
+built/nlme/po/ko/LC_MESSAGES/nlme.mo
+built/nlme/po/ko/LC_MESSAGES/R-nlme.mo
+built/nlme/po/pl/
+built/nlme/po/pl/LC_MESSAGES/
+built/nlme/po/pl/LC_MESSAGES/nlme.mo
+built/nlme/po/pl/LC_MESSAGES/R-nlme.mo
+built/nlme/po/en@quot/
+built/nlme/po/en@quot/LC_MESSAGES/
+built/nlme/po/en@quot/LC_MESSAGES/nlme.mo
+built/nlme/po/en@quot/LC_MESSAGES/R-nlme.mo
+built/nlme/po/de/
+built/nlme/po/de/LC_MESSAGES/
+built/nlme/po/de/LC_MESSAGES/nlme.mo
+built/nlme/po/de/LC_MESSAGES/R-nlme.mo
+built/nlme/CITATION
+built/nlme/html/
+built/nlme/html/00Index.html
+built/nlme/html/R.css
+built/nlme/INDEX
+built/nlme/R/
+built/nlme/R/nlme.rdb
+built/nlme/R/nlme
+built/nlme/R/nlme.rdx
+built/nlme/mlbook/
+built/nlme/mlbook/README
+built/nlme/mlbook/ch05.R
+built/nlme/mlbook/ch04.R
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 2453k  100 2453k    0     0  3015k      0 --:--:-- --:--:-- --:--:-- 3013k
+built/
+built/estimability/
+built/estimability/NEWS
+built/estimability/NAMESPACE
+built/estimability/DESCRIPTION
+built/estimability/help/
+built/estimability/help/paths.rds
+built/estimability/help/aliases.rds
+built/estimability/help/estimability.rdx
+built/estimability/help/AnIndex
+built/estimability/help/estimability.rdb
+built/estimability/Meta/
+built/estimability/Meta/package.rds
+built/estimability/Meta/features.rds
+built/estimability/Meta/hsearch.rds
+built/estimability/Meta/links.rds
+built/estimability/Meta/nsInfo.rds
+built/estimability/Meta/Rd.rds
+built/estimability/html/
+built/estimability/html/00Index.html
+built/estimability/html/R.css
+built/estimability/INDEX
+built/estimability/R/
+built/estimability/R/estimability
+built/estimability/R/estimability.rdx
+built/estimability/R/estimability.rdb
+built/mvtnorm/
+built/mvtnorm/libs/
+built/mvtnorm/libs/mvtnorm.so
+built/mvtnorm/NEWS
+built/mvtnorm/NAMESPACE
+built/mvtnorm/DESCRIPTION
+built/mvtnorm/help/
+built/mvtnorm/help/paths.rds
+built/mvtnorm/help/aliases.rds
+built/mvtnorm/help/mvtnorm.rdx
+built/mvtnorm/help/mvtnorm.rdb
+built/mvtnorm/help/AnIndex
+built/mvtnorm/Meta/
+built/mvtnorm/Meta/package.rds
+built/mvtnorm/Meta/vignette.rds
+built/mvtnorm/Meta/features.rds
+built/mvtnorm/Meta/hsearch.rds
+built/mvtnorm/Meta/links.rds
+built/mvtnorm/Meta/nsInfo.rds
+built/mvtnorm/Meta/Rd.rds
+built/mvtnorm/include/
+built/mvtnorm/include/mvtnormAPI.h
+built/mvtnorm/include/mvtnorm.h
+built/mvtnorm/CITATION
+built/mvtnorm/C_API_Example/
+built/mvtnorm/C_API_Example/NAMESPACE
+built/mvtnorm/C_API_Example/DESCRIPTION
+built/mvtnorm/C_API_Example/R/
+built/mvtnorm/C_API_Example/R/test.R
+built/mvtnorm/C_API_Example/src/
+built/mvtnorm/C_API_Example/src/test.c
+built/mvtnorm/C_API_Example/tests/
+built/mvtnorm/C_API_Example/tests/test.R
+built/mvtnorm/html/
+built/mvtnorm/html/00Index.html
+built/mvtnorm/html/R.css
+built/mvtnorm/INDEX
+built/mvtnorm/doc/
+built/mvtnorm/doc/MVT_Rnews.Rnw
+built/mvtnorm/doc/MVT_Rnews.R
+built/mvtnorm/doc/MVT_Rnews.pdf
+built/mvtnorm/doc/index.html
+built/mvtnorm/R/
+built/mvtnorm/R/mvtnorm
+built/mvtnorm/R/mvtnorm.rdx
+built/mvtnorm/R/mvtnorm.rdb
+built/emmeans/
+built/emmeans/extdata/
+built/emmeans/extdata/cbpppriorrglist
+built/emmeans/extdata/cbpprglist
+built/emmeans/extdata/cbppsigma
+built/emmeans/extdata/cbpplist
+built/emmeans/extexamples/
+built/emmeans/extexamples/cld-multcomp.R
+built/emmeans/extexamples/qdrg-biglm.R
+built/emmeans/extexamples/as.mcmc-coda.R
+built/emmeans/extexamples/xtable.R
+built/emmeans/extexamples/qdrg-ordinal.R
+built/emmeans/extexamples/hpd.summary-coda.R
+built/emmeans/extexamples/qdrg-coda.R
+built/emmeans/extexamples/glht-multcomp.R
+built/emmeans/NAMESPACE
+built/emmeans/DESCRIPTION
+built/emmeans/help/
+built/emmeans/help/paths.rds
+built/emmeans/help/emmeans.rdx
+built/emmeans/help/aliases.rds
+built/emmeans/help/emmeans.rdb
+built/emmeans/help/AnIndex
+built/emmeans/data/
+built/emmeans/data/Rdata.rds
+built/emmeans/data/Rdata.rdb
+built/emmeans/data/Rdata.rdx
+built/emmeans/Meta/
+built/emmeans/Meta/package.rds
+built/emmeans/Meta/vignette.rds
+built/emmeans/Meta/features.rds
+built/emmeans/Meta/hsearch.rds
+built/emmeans/Meta/links.rds
+built/emmeans/Meta/nsInfo.rds
+built/emmeans/Meta/Rd.rds
+built/emmeans/Meta/data.rds
+built/emmeans/css/
+built/emmeans/css/clean-simple.css
+built/emmeans/html/
+built/emmeans/html/00Index.html
+built/emmeans/html/R.css
+built/emmeans/INDEX
+built/emmeans/doc/
+built/emmeans/doc/xplanations.Rmd
+built/emmeans/doc/utilities.html
+built/emmeans/doc/sophisticated.Rmd
+built/emmeans/doc/basics.html
+built/emmeans/doc/xplanations.R
+built/emmeans/doc/sophisticated.html
+built/emmeans/doc/confidence-intervals.html
+built/emmeans/doc/interactions.R
+built/emmeans/doc/vignette-topics.Rmd
+built/emmeans/doc/messy-data.R
+built/emmeans/doc/vignette-topics.html
+built/emmeans/doc/predictions.html
+built/emmeans/doc/utilities.R
+built/emmeans/doc/sophisticated.R
+built/emmeans/doc/basics.Rmd
+built/emmeans/doc/messy-data.html
+built/emmeans/doc/xtending.Rmd
+built/emmeans/doc/comparisons.R
+built/emmeans/doc/re-engineering-clds.R
+built/emmeans/doc/re-engineering-clds.html
+built/emmeans/doc/models.Rmd
+built/emmeans/doc/utilities.Rmd
+built/emmeans/doc/FAQs.html
+built/emmeans/doc/messy-data.Rmd
+built/emmeans/doc/predictions.Rmd
+built/emmeans/doc/comparisons.html
+built/emmeans/doc/interactions.Rmd
+built/emmeans/doc/transformations.R
+built/emmeans/doc/predictions.R
+built/emmeans/doc/comparisons.Rmd
+built/emmeans/doc/index.html
+built/emmeans/doc/xtending.html
+built/emmeans/doc/transformations.html
+built/emmeans/doc/FAQs.Rmd
+built/emmeans/doc/xplanations.html
+built/emmeans/doc/re-engineering-clds.Rmd
+built/emmeans/doc/models.html
+built/emmeans/doc/confidence-intervals.Rmd
+built/emmeans/doc/basics.R
+built/emmeans/doc/xtending.R
+built/emmeans/doc/FAQs.R
+built/emmeans/doc/confidence-intervals.R
+built/emmeans/doc/transformations.Rmd
+built/emmeans/doc/interactions.html
+built/emmeans/R/
+built/emmeans/R/emmeans.rdx
+built/emmeans/R/emmeans.rdb
+built/emmeans/R/emmeans
+built/emmeans/NEWS.md
+built/numDeriv/
+built/numDeriv/NEWS
+built/numDeriv/NAMESPACE
+built/numDeriv/DESCRIPTION
+built/numDeriv/help/
+built/numDeriv/help/paths.rds
+built/numDeriv/help/numDeriv.rdx
+built/numDeriv/help/numDeriv.rdb
+built/numDeriv/help/aliases.rds
+built/numDeriv/help/AnIndex
+built/numDeriv/Meta/
+built/numDeriv/Meta/package.rds
+built/numDeriv/Meta/vignette.rds
+built/numDeriv/Meta/features.rds
+built/numDeriv/Meta/hsearch.rds
+built/numDeriv/Meta/links.rds
+built/numDeriv/Meta/nsInfo.rds
+built/numDeriv/Meta/Rd.rds
+built/numDeriv/html/
+built/numDeriv/html/00Index.html
+built/numDeriv/html/R.css
+built/numDeriv/INDEX
+built/numDeriv/doc/
+built/numDeriv/doc/Guide.R
+built/numDeriv/doc/Guide.pdf
+built/numDeriv/doc/index.html
+built/numDeriv/doc/Guide.Stex
+built/numDeriv/R/
+built/numDeriv/R/numDeriv.rdx
+built/numDeriv/R/numDeriv.rdb
+built/numDeriv/R/numDeriv
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 23491  100 23491    0     0  66707      0 --:--:-- --:--:-- --:--:-- 66546
+built/
+built/fftw/
+built/fftw/libs/
+built/fftw/libs/fftw.so
+built/fftw/NAMESPACE
+built/fftw/DESCRIPTION
+built/fftw/help/
+built/fftw/help/paths.rds
+built/fftw/help/fftw.rdx
+built/fftw/help/fftw.rdb
+built/fftw/help/aliases.rds
+built/fftw/help/AnIndex
+built/fftw/Meta/
+built/fftw/Meta/package.rds
+built/fftw/Meta/features.rds
+built/fftw/Meta/hsearch.rds
+built/fftw/Meta/links.rds
+built/fftw/Meta/nsInfo.rds
+built/fftw/Meta/Rd.rds
+built/fftw/html/
+built/fftw/html/00Index.html
+built/fftw/html/R.css
+built/fftw/INDEX
+built/fftw/R/
+built/fftw/R/fftw.rdx
+built/fftw/R/fftw
+built/fftw/R/fftw.rdb
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''qusage'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv Biobase_2.58.0_R_x86_64-pc-linux-gnu.tar.gz BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz emmeans_1.8.3_R_x86_64-pc-linux-gnu.tar.gz estimability_1.4.1_R_x86_64-pc-linux-gnu.tar.gz fftw_1.0-7_R_x86_64-pc-linux-gnu.tar.gz limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz mvtnorm_1.1-3_R_x86_64-pc-linux-gnu.tar.gz numDeriv_2016.8-1.1_R_x86_64-pc-linux-gnu.tar.gz qusage_2.32.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/qusage
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'qusage'
+also installing the dependencies ‘BiocGenerics’, ‘estimability’, ‘numDeriv’, ‘mvtnorm’, ‘limma’, ‘Biobase’, ‘emmeans’, ‘fftw’
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BiocGenerics_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 47711 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/estimability_1.4.1.tar.gz'
+Content type 'binary/octet-stream' length 40540 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/numDeriv_2016.8-1.1.tar.gz'
+Content type 'binary/octet-stream' length 112651 bytes (110 KB)
+==================================================
+downloaded 110 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/mvtnorm_1.1-3.tar.gz'
+Content type 'binary/octet-stream' length 263444 bytes (257 KB)
+==================================================
+downloaded 257 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/limma_3.54.0.tar.gz'
+Content type 'application/x-gzip' length 1516770 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/Biobase_2.58.0.tar.gz'
+Content type 'application/x-gzip' length 1792896 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/emmeans_1.8.3.tar.gz'
+Content type 'binary/octet-stream' length 2071924 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/fftw_1.0-7.tar.gz'
+Content type 'binary/octet-stream' length 23706 bytes (23 KB)
+==================================================
+downloaded 23 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/qusage_2.32.0.tar.gz'
+Content type 'application/x-gzip' length 9930926 bytes (9.5 MB)
+==================================================
+downloaded 9.5 MB
+
+* installing *source* package ‘BiocGenerics’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘union’ in package ‘BiocGenerics’
+Creating a new generic function for ‘intersect’ in package ‘BiocGenerics’
+Creating a new generic function for ‘setdiff’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sort’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *binary* package ‘estimability’ ...
+* ‘estimability’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘estimability’ as ‘estimability_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (estimability)
+* installing *binary* package ‘numDeriv’ ...
+* ‘numDeriv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘numDeriv’ as ‘numDeriv_2016.8-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (numDeriv)
+* installing *binary* package ‘mvtnorm’ ...
+* ‘mvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *source* package ‘limma’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c normexp.c -o normexp.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c weighted_lowess.c -o weighted_lowess.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o limma.so init.o normexp.o weighted_lowess.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-limma/00new/limma/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘limma’ as ‘limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (limma)
+* installing *binary* package ‘fftw’ ...
+* ‘fftw’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fftw’ as ‘fftw_1.0-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fftw)
+* installing *source* package ‘Biobase’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rinit.c -o Rinit.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c anyMissing.c -o anyMissing.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c envir.c -o envir.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c matchpt.c -o matchpt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowMedians.c -o rowMedians.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sublist_extract.c -o sublist_extract.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Biobase.so Rinit.o anyMissing.o envir.o matchpt.o rowMedians.o sublist_extract.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-Biobase/00new/Biobase/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Biobase’ as ‘Biobase_2.58.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Biobase)
+* installing *binary* package ‘emmeans’ ...
+* ‘emmeans’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘emmeans’ as ‘emmeans_1.8.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (emmeans)
+* installing *source* package ‘qusage’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘qusage’ as ‘qusage_2.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qusage)
+
+The downloaded source packages are in
+	‘/tmp/RtmpRqR8fb/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	1m18.590s
+user	0m52.870s
+sys	0m4.355s
