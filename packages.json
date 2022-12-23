@@ -641,7 +641,6 @@
         "survminer"
     ],
     "OncoSimulR": [],
-    "OpenStats": [],
     "orthogene": [
         "ggpubr",
         "rstatix"
