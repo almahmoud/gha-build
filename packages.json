@@ -442,7 +442,6 @@
         "motifmatchr",
         "rstatix"
     ],
-    "ensemblVEP": [],
     "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker"
@@ -928,7 +927,6 @@
     ],
     "MMAPPR2": [
         "VariantTools",
-        "ensemblVEP",
         "gmapR"
     ],
     "MMUPHin": [
@@ -1500,8 +1498,7 @@
     ],
     "TVTB": [
         "Gviz",
-        "biovizBase",
-        "ensemblVEP"
+        "biovizBase"
     ],
     "tximeta": [],
     "Ularcirc": [],
