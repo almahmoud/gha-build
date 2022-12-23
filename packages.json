@@ -6188,7 +6188,6 @@
     "sincell": [
         "fields"
     ],
-    "single": [],
     "SingleCellSignalR": [
         "scran",
         "scuttle"
