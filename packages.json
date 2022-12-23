@@ -19538,7 +19538,6 @@
         "RSQLite",
         "annotate"
     ],
-    "nucleoSim": [],
     "nucleR": [
         "Biostrings",
         "GenomicAlignments",
