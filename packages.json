@@ -2319,7 +2319,6 @@
         "GEOmap",
         "RFOC",
         "car",
-        "cytometree",
         "fields",
         "flowDensity",
         "lme4",
@@ -11472,7 +11471,6 @@
         "interactiveDisplayBase"
     ],
     "highcharter": [],
-    "cytometree": [],
     "RFOC": [
         "GEOmap",
         "fields",
