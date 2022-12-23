@@ -79291,7 +79291,6 @@
         "mgcv",
         "mice",
         "minqa",
-        "msgps",
         "munsell",
         "nlme",
         "nloptr",
@@ -135274,7 +135273,6 @@
         "Rfast",
         "nlme"
     ],
-    "msgps": [],
     "pingr": [
         "R6",
         "processx"
