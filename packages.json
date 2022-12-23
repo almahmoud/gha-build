@@ -2691,7 +2691,6 @@
         "ROCR",
         "ROI.plugin.lpsolve",
         "RSQLite",
-        "Rcgmin",
         "RcppML",
         "Rfast",
         "Rvmmin",
@@ -47041,7 +47040,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "ROI.plugin.lpsolve",
-        "Rcgmin",
         "Rvmmin",
         "XVector",
         "biomformat",
@@ -47066,7 +47064,6 @@
         "tidyselect"
     ],
     "optimr": [
-        "Rcgmin",
         "Rvmmin"
     ],
     "detectseparation": [
@@ -47075,7 +47072,6 @@
     "survey": [],
     "ROI.plugin.lpsolve": [],
     "Rvmmin": [],
-    "Rcgmin": [],
     "sjmisc": [
         "dplyr",
         "purrr",
