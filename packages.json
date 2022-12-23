@@ -4036,7 +4036,6 @@
         "QuasR",
         "VariantAnnotation"
     ],
-    "singscore": [],
     "SISPA": [
         "GSVA",
         "HDF5Array",
@@ -4319,8 +4318,7 @@
         "ASSIGN",
         "GSVA",
         "HDF5Array",
-        "rhdf5",
-        "singscore"
+        "rhdf5"
     ],
     "TCC": [],
     "TCGAbiolinksGUI": [
