@@ -1513,7 +1513,6 @@
         "car",
         "pbkrtest"
     ],
-    "GeneMeta": [],
     "GENESIS": [],
     "GeneStructureTools": [
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -4073,9 +4072,7 @@
     ],
     "webbioc": [],
     "wiggleplotr": [],
-    "XDE": [
-        "GeneMeta"
-    ],
+    "XDE": [],
     "Xeva": [
         "CoreGx",
         "PharmacoGx"
