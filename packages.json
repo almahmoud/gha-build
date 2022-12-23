@@ -178,9 +178,7 @@
         "ensembldb",
         "viridis"
     ],
-    "ASSIGN": [
-        "sva"
-    ],
+    "ASSIGN": [],
     "ATACCoGAPS": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -229,9 +227,7 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "ballgown": [
-        "sva"
-    ],
+    "ballgown": [],
     "bambu": [],
     "bandle": [
         "MSnbase",
@@ -262,7 +258,6 @@
     "BatchQC": [
         "dendextend",
         "heatmaply",
-        "sva",
         "viridis"
     ],
     "BayesSpace": [
@@ -366,7 +361,6 @@
     "BioNERO": [
         "Hmisc",
         "WGCNA",
-        "sva",
         "viridis"
     ],
     "BioNetStat": [
@@ -405,12 +399,10 @@
         "PADOG"
     ],
     "bnbc": [
-        "rhdf5",
-        "sva"
+        "rhdf5"
     ],
     "bnem": [
         "affy",
-        "sva",
         "vsn"
     ],
     "BOBaFIT": [
@@ -492,7 +484,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "sva",
         "viridis"
     ],
     "CAGEr": [],
@@ -631,7 +622,6 @@
         "minfi",
         "missMethyl",
         "rhdf5",
-        "sva",
         "viridis",
         "wateRmelon"
     ],
@@ -979,8 +969,7 @@
     ],
     "crossmeta": [
         "affy",
-        "oligo",
-        "sva"
+        "oligo"
     ],
     "csdR": [
         "Hmisc",
@@ -1062,7 +1051,6 @@
         "Hmisc",
         "RWeka",
         "car",
-        "sva",
         "viridis"
     ],
     "DAPAR": [
@@ -1095,7 +1083,6 @@
         "enrichplot",
         "ggraph",
         "heatmaply",
-        "sva",
         "viridis"
     ],
     "DEComplexDisease": [],
@@ -1137,7 +1124,6 @@
         "bsseq",
         "dendextend",
         "rhdf5",
-        "sva",
         "viridis"
     ],
     "densvis": [
@@ -1184,9 +1170,7 @@
     ],
     "DEsubs": [],
     "DEWSeq": [],
-    "DExMA": [
-        "sva"
-    ],
+    "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [
         "GreyListChIP"
@@ -1269,9 +1253,7 @@
     "DominoEffect": [
         "VariantAnnotation"
     ],
-    "doppelgangR": [
-        "sva"
-    ],
+    "doppelgangR": [],
     "Doscheda": [
         "affy",
         "car",
@@ -1310,9 +1292,7 @@
     ],
     "EBSEA": [],
     "EDASeq": [],
-    "edge": [
-        "sva"
-    ],
+    "edge": [],
     "eegc": [
         "clusterProfiler",
         "enrichplot",
@@ -1653,7 +1633,6 @@
         "MLSeq",
         "RWeka",
         "car",
-        "sva",
         "viridis"
     ],
     "gcapc": [],
@@ -2147,7 +2126,6 @@
     ],
     "KnowSeq": [
         "Hmisc",
-        "sva",
         "viridis"
     ],
     "lefser": [
@@ -2286,8 +2264,7 @@
     "MBECS": [
         "biomformat",
         "phyloseq",
-        "rhdf5",
-        "sva"
+        "rhdf5"
     ],
     "mbkmeans": [
         "benchmarkme"
@@ -2332,7 +2309,6 @@
         "minfi",
         "missMethyl",
         "rhdf5",
-        "sva",
         "viridis"
     ],
     "MEAT": [
@@ -2758,8 +2734,7 @@
     ],
     "MSPrep": [
         "VIM",
-        "car",
-        "sva"
+        "car"
     ],
     "MSstats": [],
     "MSstatsLiP": [
@@ -3018,7 +2993,6 @@
         "SmartSVA",
         "car",
         "rexposome",
-        "sva",
         "viridis"
     ],
     "OMICsPCA": [
@@ -3079,9 +3053,7 @@
         "heatmaply",
         "viridis"
     ],
-    "PAA": [
-        "sva"
-    ],
+    "PAA": [],
     "padma": [
         "FactoMineR",
         "car"
@@ -3266,7 +3238,6 @@
         "WGCNA",
         "affy",
         "pvca",
-        "sva",
         "viridis",
         "vsn"
     ],
@@ -3308,9 +3279,7 @@
         "viridis",
         "vsn"
     ],
-    "PROPS": [
-        "sva"
-    ],
+    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "DAPARdata",
@@ -3411,12 +3380,9 @@
     "qsea": [],
     "qsmooth": [
         "Hmisc",
-        "sva",
         "viridis"
     ],
-    "qsvaR": [
-        "sva"
-    ],
+    "qsvaR": [],
     "quantro": [
         "HDF5Array",
         "bumphunter",
@@ -3718,7 +3684,6 @@
         "ggpubr",
         "ggraph",
         "rstatix",
-        "sva",
         "viridis"
     ],
     "RnaSeqSampleSize": [
@@ -3799,8 +3764,7 @@
     ],
     "SCAN.UPC": [
         "affy",
-        "oligo",
-        "sva"
+        "oligo"
     ],
     "scanMiRApp": [
         "ensembldb",
@@ -3962,9 +3926,7 @@
     "SeqGSEA": [],
     "SeqSQC": [],
     "sesame": [],
-    "SEtools": [
-        "sva"
-    ],
+    "SEtools": [],
     "SGSeq": [],
     "shinyepico": [
         "HDF5Array",
@@ -4067,7 +4029,6 @@
         "scMerge",
         "scRNAseq",
         "scater",
-        "sva",
         "viridis",
         "zinbwave"
     ],
@@ -4314,7 +4275,6 @@
         "rstatix",
         "survminer"
     ],
-    "sva": [],
     "svaNUMT": [
         "StructuralVariantAnnotation",
         "VariantAnnotation"
@@ -4361,8 +4321,7 @@
         "GSVA",
         "HDF5Array",
         "rhdf5",
-        "singscore",
-        "sva"
+        "singscore"
     ],
     "TCC": [],
     "TCGAbiolinksGUI": [
@@ -4493,9 +4452,7 @@
         "scater",
         "viridis"
     ],
-    "trigger": [
-        "sva"
-    ],
+    "trigger": [],
     "tRNAscanImport": [],
     "tscR": [
         "kmlShape"
@@ -4585,8 +4542,7 @@
         "VariantAnnotation"
     ],
     "VaSP": [
-        "ballgown",
-        "sva"
+        "ballgown"
     ],
     "VCFArray": [
         "GenomicFiles",
@@ -4942,9 +4898,7 @@
         "klaR"
     ],
     "klaR": [],
-    "SmartSVA": [
-        "sva"
-    ],
+    "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb"
     ],
