@@ -41263,7 +41263,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "RbcBook1": [],
     "Rbec": [
         "BiocParallel",
         "Biostrings",
