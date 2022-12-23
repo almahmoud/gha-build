@@ -445,7 +445,6 @@
         "contrast"
     ],
     "consensusDE": [
-        "EDASeq",
         "EnsDb.Hsapiens.v86",
         "RUVSeq",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
@@ -548,7 +547,6 @@
         "VariantAnnotation"
     ],
     "DaMiRseq": [
-        "EDASeq",
         "FactoMineR",
         "car"
     ],
@@ -675,7 +673,6 @@
         "enrichplot"
     ],
     "EBSEA": [],
-    "EDASeq": [],
     "edge": [],
     "eegc": [
         "clusterProfiler",
@@ -882,7 +879,6 @@
     ],
     "GARS": [
         "DaMiRseq",
-        "EDASeq",
         "FactoMineR",
         "MLSeq",
         "car"
@@ -1287,8 +1283,7 @@
         "enrichplot"
     ],
     "metaseqR2": [
-        "DSS",
-        "EDASeq"
+        "DSS"
     ],
     "metavizr": [
         "OrganismDbi",
@@ -1570,7 +1565,6 @@
         "NxtIRFdata"
     ],
     "octad": [
-        "EDASeq",
         "RUVSeq",
         "octad.db"
     ],
@@ -1879,7 +1873,6 @@
         "ggbio"
     ],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq",
         "motifStack"
     ],
@@ -1992,9 +1985,7 @@
         "RTNduals",
         "car"
     ],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "SCAN.UPC": [],
     "scanMiRApp": [
         "ensembldb"
@@ -2011,7 +2002,6 @@
         "annotatr"
     ],
     "scone": [
-        "EDASeq",
         "RUVSeq"
     ],
     "SCOPE": [],
@@ -2193,7 +2183,6 @@
         "ensembldb"
     ],
     "standR": [
-        "EDASeq",
         "RUVSeq"
     ],
     "staRank": [],
