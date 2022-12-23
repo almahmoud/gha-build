@@ -228,7 +228,6 @@
         "nloptr"
     ],
     "ASICS": [
-        "MultiDataSet",
         "ropls"
     ],
     "ASpediaFI": [
@@ -559,7 +558,6 @@
         "pathview"
     ],
     "biosigner": [
-        "MultiDataSet",
         "ropls"
     ],
     "BioTIP": [
@@ -3408,7 +3406,6 @@
         "treeio"
     ],
     "lipidr": [
-        "MultiDataSet",
         "ropls"
     ],
     "LiquidAssociation": [],
@@ -3611,7 +3608,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "MultiDataSet",
         "SmartSVA",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
@@ -4309,7 +4305,6 @@
         "fields"
     ],
     "MultiBaC": [
-        "MultiDataSet",
         "ropls"
     ],
     "multiClust": [
@@ -4328,7 +4323,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "MultiDataSet": [],
     "multiGSEA": [],
     "multiHiCcompare": [
         "CGHcall",
@@ -4340,7 +4334,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "MultiDataSet",
         "ReactomePA",
         "anyLib",
         "biosigner",
@@ -4641,7 +4634,6 @@
     "omicRexposome": [
         "FactoMineR",
         "Hmisc",
-        "MultiDataSet",
         "SmartSVA",
         "car",
         "genefilter",
@@ -4879,7 +4871,6 @@
         "piano"
     ],
     "phenomis": [
-        "MultiDataSet",
         "biodb",
         "biodbChebi",
         "ropls"
@@ -5062,7 +5053,6 @@
         "sva"
     ],
     "proFIA": [
-        "MultiDataSet",
         "ropls"
     ],
     "profileplyr": [
@@ -5748,9 +5738,7 @@
         "rtracklayer"
     ],
     "ROCpAI": [],
-    "ropls": [
-        "MultiDataSet"
-    ],
+    "ropls": [],
     "RPA": [],
     "rprimer": [],
     "Rqc": [
@@ -5765,7 +5753,6 @@
         "rtracklayer"
     ],
     "rqt": [
-        "MultiDataSet",
         "car",
         "lme4",
         "nloptr",
