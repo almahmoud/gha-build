@@ -3067,7 +3067,6 @@
         "Hmisc",
         "LiquidAssociation",
         "WGCNA",
-        "geepack",
         "org.Sc.sgd.db",
         "viridis"
     ],
@@ -4428,7 +4427,6 @@
         "ropls"
     ],
     "LiquidAssociation": [
-        "geepack",
         "org.Sc.sgd.db"
     ],
     "lisaClust": [
@@ -8557,7 +8555,6 @@
     ],
     "ssPATHS": [
         "MESS",
-        "geepack",
         "ggformula",
         "labelled"
     ],
@@ -9974,7 +9971,6 @@
     ],
     "gprofiler2": [],
     "gap": [],
-    "geepack": [],
     "fda": [
         "fds"
     ],
@@ -10315,7 +10311,6 @@
         "miRNAtap"
     ],
     "MESS": [
-        "geepack",
         "ggformula",
         "labelled"
     ],
