@@ -1,0 +1,862 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   8c005079..b6aa055c  main       -> origin/main
+Updating 8c005079..b6aa055c
+Fast-forward
+ lists/CellNOptR                                    |   2 +-
+ lists/GRENITS                                      |   2 +-
+ lists/PhenoGeneRanker                              |   2 +-
+ logs/run_ids/rstudio-binaries/qckitfastq           |   2 +
+ logs/run_ids/rstudio-binaries/readxl               |   2 +
+ logs/run_ids/rstudio-binaries/rfaRm                |   2 +
+ .../rstudio-binaries/binaries/PhenoGeneRanker      |   1 +
+ .../rstudio-binaries/libraries/PhenoGeneRanker     |   1 +
+ logs/times/rstudio-binary/PhenoGeneRanker          | 761 +++++++++++++++++++++
+ packages.json                                      |  20 +-
+ 10 files changed, 776 insertions(+), 19 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/qckitfastq
+ create mode 100644 logs/run_ids/rstudio-binaries/readxl
+ create mode 100644 logs/run_ids/rstudio-binaries/rfaRm
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/PhenoGeneRanker
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/PhenoGeneRanker
+ create mode 100644 logs/times/rstudio-binary/PhenoGeneRanker
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=RCy3
++ PKG=RCy3
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "RCy3"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency httr is already found.
+Dependency RJSONIO is already found.
+Dependency XML is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  3 2107k    3 81600    0     0   105k      0  0:00:19 --:--:--  0:00:19  105k 32 2107k   32  681k    0     0   392k      0  0:00:05  0:00:01  0:00:04  392k 88 2107k   88 1860k    0     0   675k      0  0:00:03  0:00:02  0:00:01  675k100 2107k  100 2107k    0     0   725k      0  0:00:02  0:00:02 --:--:--  725k
+built/
+built/BiocGenerics/
+built/BiocGenerics/NAMESPACE
+built/BiocGenerics/DESCRIPTION
+built/BiocGenerics/help/
+built/BiocGenerics/help/paths.rds
+built/BiocGenerics/help/BiocGenerics.rdb
+built/BiocGenerics/help/aliases.rds
+built/BiocGenerics/help/AnIndex
+built/BiocGenerics/help/BiocGenerics.rdx
+built/BiocGenerics/Meta/
+built/BiocGenerics/Meta/package.rds
+built/BiocGenerics/Meta/features.rds
+built/BiocGenerics/Meta/hsearch.rds
+built/BiocGenerics/Meta/links.rds
+built/BiocGenerics/Meta/nsInfo.rds
+built/BiocGenerics/Meta/Rd.rds
+built/BiocGenerics/unitTests/
+built/BiocGenerics/unitTests/test_combine.R
+built/BiocGenerics/unitTests/test_mapply.R
+built/BiocGenerics/unitTests/test_Extremes.R
+built/BiocGenerics/unitTests/test_order.R
+built/BiocGenerics/unitTests/test_updateObject.R
+built/BiocGenerics/unitTests/test_format.R
+built/BiocGenerics/unitTests/test_paste.R
+built/BiocGenerics/CITATION
+built/BiocGenerics/html/
+built/BiocGenerics/html/00Index.html
+built/BiocGenerics/html/R.css
+built/BiocGenerics/INDEX
+built/BiocGenerics/R/
+built/BiocGenerics/R/BiocGenerics
+built/BiocGenerics/R/BiocGenerics.rdb
+built/BiocGenerics/R/BiocGenerics.rdx
+built/graph/
+built/graph/libs/
+built/graph/libs/BioC_graph.so
+built/graph/NAMESPACE
+built/graph/DESCRIPTION
+built/graph/help/
+built/graph/help/paths.rds
+built/graph/help/graph.rdb
+built/graph/help/aliases.rds
+built/graph/help/graph.rdx
+built/graph/help/AnIndex
+built/graph/data/
+built/graph/data/graphExamples.rda
+built/graph/data/pancrCaIni.rda
+built/graph/data/apopGraph.rda
+built/graph/data/esetsFemale.rda
+built/graph/data/biocRepos.rda
+built/graph/data/defunctGraph.rda
+built/graph/data/integrinMediatedCellAdhesion.rda
+built/graph/data/MAPKsig.rda
+built/graph/data/esetsMale.rda
+built/graph/Meta/
+built/graph/Meta/package.rds
+built/graph/Meta/vignette.rds
+built/graph/Meta/features.rds
+built/graph/Meta/hsearch.rds
+built/graph/Meta/links.rds
+built/graph/Meta/nsInfo.rds
+built/graph/Meta/Rd.rds
+built/graph/Meta/data.rds
+built/graph/perf/
+built/graph/perf/bgt.R
+built/graph/perf/Makefile
+built/graph/perf/multigraphs.Rnw
+built/graph/perf/graphperf.Rnw
+built/graph/unitTests/
+built/graph/unitTests/leaves_test.R
+built/graph/unitTests/degree_test.R
+built/graph/unitTests/attrData_test.R
+built/graph/unitTests/gxl_test.R
+built/graph/unitTests/simple_sparse_test.R
+built/graph/unitTests/MultiGraph_test.R
+built/graph/unitTests/setbit_test.R
+built/graph/unitTests/graphAM_test.R
+built/graph/unitTests/clusterGraph_test.R
+built/graph/unitTests/nodeAndEdgeData_test.R
+built/graph/unitTests/graphBAM_test.R
+built/graph/unitTests/graphNEL_test.R
+built/graph/unitTests/edgeWeights_test.R
+built/graph/html/
+built/graph/html/00Index.html
+built/graph/html/R.css
+built/graph/Scripts/
+built/graph/Scripts/testintersection.R
+built/graph/Scripts/distGraph.R
+built/graph/Scripts/Graph.R
+built/graph/Scripts/pTreetest.R
+built/graph/Scripts/multigraph.R
+built/graph/INDEX
+built/graph/doc/
+built/graph/doc/graphAttributes.Rnw
+built/graph/doc/graphAttributes.pdf
+built/graph/doc/graph.R
+built/graph/doc/GraphClass.Rmd
+built/graph/doc/graph.Rnw
+built/graph/doc/graph.pdf
+built/graph/doc/clusterGraph.R
+built/graph/doc/clusterGraph.Rnw
+built/graph/doc/MultiGraphClass.pdf
+built/graph/doc/GraphClass.R
+built/graph/doc/clusterGraph.pdf
+built/graph/doc/GraphClass.html
+built/graph/doc/graphAttributes.R
+built/graph/doc/index.html
+built/graph/doc/MultiGraphClass.Rnw
+built/graph/doc/MultiGraphClass.R
+built/graph/GXL/
+built/graph/GXL/c2.gxl
+built/graph/GXL/graphExample-15.gxl.gz
+built/graph/GXL/complexExample.gxl
+built/graph/GXL/graphExample-13.gxl.gz
+built/graph/GXL/graphExample-14.gxl.gz
+built/graph/GXL/graphExample-11.gxl.gz
+built/graph/GXL/graphExample-09.gxl.gz
+built/graph/GXL/graphExample-17.gxl.gz
+built/graph/GXL/graphExample-16.gxl.gz
+built/graph/GXL/graphExample-18.gxl.gz
+built/graph/GXL/graphExample-12.gxl.gz
+built/graph/GXL/createGraphExamples.R
+built/graph/GXL/graphExample-07.gxl.gz
+built/graph/GXL/kmstEx.gxl
+built/graph/GXL/outOfOrderExample.gxl
+built/graph/GXL/graphExample-03.gxl.gz
+built/graph/GXL/graphExample-05.gxl.gz
+built/graph/GXL/graphExample-02.gxl.gz
+built/graph/GXL/graphExample-08.gxl.gz
+built/graph/GXL/graphExample-06.gxl.gz
+built/graph/GXL/simpleExample.gxl
+built/graph/GXL/graphExample-10.gxl.gz
+built/graph/GXL/simplExample.gxl.www
+built/graph/GXL/graphExample-01.gxl.gz
+built/graph/GXL/attributesExample.gxl
+built/graph/GXL/gxl-1.0.1.dtd
+built/graph/GXL/graphExample-04.gxl.gz
+built/graph/R/
+built/graph/R/graph.rdb
+built/graph/R/graph
+built/graph/R/graph.rdx
+Dependency fs is already found.
+Dependency uchardet is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  8 1125k    8 98904    0     0   126k      0  0:00:08 --:--:--  0:00:08  126k 60 1125k   60  686k    0     0   388k      0  0:00:02  0:00:01  0:00:01  388k100 1125k  100 1125k    0     0   502k      0  0:00:02  0:00:02 --:--:--  503k
+built/
+built/RCurl/
+built/RCurl/examples/
+built/RCurl/examples/proxy.R
+built/RCurl/examples/readHeader.S
+built/RCurl/examples/progress.S
+built/RCurl/examples/nestedHTML.xml
+built/RCurl/examples/CIS/
+built/RCurl/examples/CIS/cis.R
+built/RCurl/examples/CIS/cis1.R
+built/RCurl/examples/encoding.R
+built/RCurl/examples/multi.S
+built/RCurl/examples/postFormPasswd.R
+built/RCurl/examples/headers2.S
+built/RCurl/examples/download.R
+built/RCurl/examples/upload.R
+built/RCurl/examples/post.html
+built/RCurl/examples/elapsed.png
+built/RCurl/examples/worm.S
+built/RCurl/examples/post.c
+built/RCurl/examples/nestedHTML.html
+built/RCurl/examples/concurrent.S
+built/RCurl/examples/xmlParse.html
+built/RCurl/examples/system.png
+built/RCurl/examples/curl.c
+built/RCurl/examples/passwdSSL.S
+built/RCurl/examples/time.R
+built/RCurl/examples/soap.S
+built/RCurl/examples/ftpList.R
+built/RCurl/examples/speakeasy.S
+built/RCurl/examples/xmlParse.xml
+built/RCurl/examples/concurrent.html
+built/RCurl/examples/omg.netrc
+built/RCurl/examples/user.png
+built/RCurl/examples/cis1.R
+built/RCurl/examples/concurrent.xml
+built/RCurl/examples/headers.S
+built/RCurl/examples/logo.jpg
+built/RCurl/examples/passwd.S
+built/RCurl/examples/getinfo.S
+built/RCurl/examples/passwd2.S
+built/RCurl/examples/html.S
+built/RCurl/examples/chunks.S
+built/RCurl/libs/
+built/RCurl/libs/RCurl.so
+built/RCurl/enums/
+built/RCurl/enums/Renums.c
+built/RCurl/NAMESPACE
+built/RCurl/CurlSSL/
+built/RCurl/CurlSSL/ok.R
+built/RCurl/CurlSSL/boost.pem
+built/RCurl/CurlSSL/certs
+built/RCurl/CurlSSL/docs
+built/RCurl/CurlSSL/myBundle.crt
+built/RCurl/CurlSSL/google.pem
+built/RCurl/CurlSSL/cybertrust.pem
+built/RCurl/CurlSSL/cacert.pem
+built/RCurl/CurlSSL/curlSSL.xml
+built/RCurl/CurlSSL/certs.pem
+built/RCurl/CurlSSL/server.pem
+built/RCurl/CurlSSL/ca-bundle.crt
+built/RCurl/CurlSSL/statEth.pem
+built/RCurl/HTTPErrors/
+built/RCurl/HTTPErrors/makeErrorClasses.R
+built/RCurl/DESCRIPTION
+built/RCurl/help/
+built/RCurl/help/paths.rds
+built/RCurl/help/RCurl.rdb
+built/RCurl/help/aliases.rds
+built/RCurl/help/AnIndex
+built/RCurl/help/RCurl.rdx
+built/RCurl/etc/
+built/RCurl/etc/README
+built/RCurl/etc/ca-bundle.crt
+built/RCurl/data/
+built/RCurl/data/mimeTypeExtensions.rda
+built/RCurl/Meta/
+built/RCurl/Meta/package.rds
+built/RCurl/Meta/features.rds
+built/RCurl/Meta/hsearch.rds
+built/RCurl/Meta/links.rds
+built/RCurl/Meta/nsInfo.rds
+built/RCurl/Meta/Rd.rds
+built/RCurl/Meta/data.rds
+built/RCurl/LICENSE
+built/RCurl/html/
+built/RCurl/html/00Index.html
+built/RCurl/html/R.css
+built/RCurl/INDEX
+built/RCurl/doc/
+built/RCurl/doc/Changes.html
+built/RCurl/doc/FAQ.html
+built/RCurl/doc/fileUploads.xml
+built/RCurl/doc/withCookies.html
+built/RCurl/doc/getURL.html
+built/RCurl/doc/cookies.xml
+built/RCurl/doc/philosophy.html
+built/RCurl/doc/withCookies.Rdb
+built/RCurl/doc/philosophy.xml
+built/RCurl/R/
+built/RCurl/R/RCurl.rdb
+built/RCurl/R/RCurl
+built/RCurl/R/RCurl.rdx
+built/bitops/
+built/bitops/libs/
+built/bitops/libs/bitops.so
+built/bitops/NAMESPACE
+built/bitops/DESCRIPTION
+built/bitops/help/
+built/bitops/help/paths.rds
+built/bitops/help/bitops.rdb
+built/bitops/help/aliases.rds
+built/bitops/help/bitops.rdx
+built/bitops/help/AnIndex
+built/bitops/Meta/
+built/bitops/Meta/package.rds
+built/bitops/Meta/features.rds
+built/bitops/Meta/hsearch.rds
+built/bitops/Meta/links.rds
+built/bitops/Meta/nsInfo.rds
+built/bitops/Meta/Rd.rds
+built/bitops/html/
+built/bitops/html/00Index.html
+built/bitops/html/R.css
+built/bitops/INDEX
+built/bitops/R/
+built/bitops/R/bitops.rdb
+built/bitops/R/bitops
+built/bitops/R/bitops.rdx
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 24  130k   24 32640    0     0  67764      0  0:00:01 --:--:--  0:00:01 67717100  130k  100  130k    0     0   176k      0 --:--:-- --:--:-- --:--:--  176k
+built/
+built/backports/
+built/backports/libs/
+built/backports/libs/backports.so
+built/backports/NAMESPACE
+built/backports/DESCRIPTION
+built/backports/help/
+built/backports/help/paths.rds
+built/backports/help/backports.rdx
+built/backports/help/aliases.rds
+built/backports/help/AnIndex
+built/backports/help/backports.rdb
+built/backports/Meta/
+built/backports/Meta/package.rds
+built/backports/Meta/features.rds
+built/backports/Meta/hsearch.rds
+built/backports/Meta/links.rds
+built/backports/Meta/nsInfo.rds
+built/backports/Meta/Rd.rds
+built/backports/html/
+built/backports/html/00Index.html
+built/backports/html/R.css
+built/backports/INDEX
+built/backports/R/
+built/backports/R/backports.rdx
+built/backports/R/backports
+built/backports/R/backports.rdb
+built/backports/NEWS.md
+built/base64url/
+built/base64url/libs/
+built/base64url/libs/base64url.so
+built/base64url/NAMESPACE
+built/base64url/DESCRIPTION
+built/base64url/help/
+built/base64url/help/paths.rds
+built/base64url/help/base64url.rdx
+built/base64url/help/base64url.rdb
+built/base64url/help/aliases.rds
+built/base64url/help/AnIndex
+built/base64url/Meta/
+built/base64url/Meta/package.rds
+built/base64url/Meta/vignette.rds
+built/base64url/Meta/features.rds
+built/base64url/Meta/hsearch.rds
+built/base64url/Meta/links.rds
+built/base64url/Meta/nsInfo.rds
+built/base64url/Meta/Rd.rds
+built/base64url/html/
+built/base64url/html/00Index.html
+built/base64url/html/R.css
+built/base64url/INDEX
+built/base64url/doc/
+built/base64url/doc/Benchmarks.html
+built/base64url/doc/Benchmarks.R
+built/base64url/doc/index.html
+built/base64url/doc/Benchmarks.Rmd
+built/base64url/R/
+built/base64url/R/base64url.rdx
+built/base64url/R/base64url.rdb
+built/base64url/R/base64url
+built/base64url/NEWS.md
+Dependency IRkernel is already found.
+Dependency RColorBrewer is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4 1915k    4 82584    0     0   114k      0  0:00:16 --:--:--  0:00:16  114k 35 1915k   35  681k    0     0   394k      0  0:00:04  0:00:01  0:00:03  394k 91 1915k   91 1749k    0     0   644k      0  0:00:02  0:00:02 --:--:--  644k100 1915k  100 1915k    0     0   676k      0  0:00:02  0:00:02 --:--:--  676k
+built/
+built/gplots/
+built/gplots/NEWS
+built/gplots/NAMESPACE
+built/gplots/ChangeLog
+built/gplots/DESCRIPTION
+built/gplots/help/
+built/gplots/help/paths.rds
+built/gplots/help/gplots.rdx
+built/gplots/help/aliases.rds
+built/gplots/help/AnIndex
+built/gplots/help/gplots.rdb
+built/gplots/data/
+built/gplots/data/rtPCR.rda
+built/gplots/Meta/
+built/gplots/Meta/package.rds
+built/gplots/Meta/vignette.rds
+built/gplots/Meta/features.rds
+built/gplots/Meta/hsearch.rds
+built/gplots/Meta/links.rds
+built/gplots/Meta/nsInfo.rds
+built/gplots/Meta/Rd.rds
+built/gplots/Meta/data.rds
+built/gplots/html/
+built/gplots/html/00Index.html
+built/gplots/html/R.css
+built/gplots/TODO
+built/gplots/INDEX
+built/gplots/doc/
+built/gplots/doc/venn.Rnw
+built/gplots/doc/venn.pdf
+built/gplots/doc/venn.R
+built/gplots/doc/index.html
+built/gplots/R/
+built/gplots/R/gplots
+built/gplots/R/gplots.rdx
+built/gplots/R/gplots.rdb
+built/gplots/NEWS.md
+built/built/
+built/built/caTools/
+built/built/caTools/libs/
+built/built/caTools/libs/caTools.so
+built/built/caTools/NEWS
+built/built/caTools/NAMESPACE
+built/built/caTools/DESCRIPTION
+built/built/caTools/help/
+built/built/caTools/help/paths.rds
+built/built/caTools/help/caTools.rdx
+built/built/caTools/help/aliases.rds
+built/built/caTools/help/AnIndex
+built/built/caTools/help/caTools.rdb
+built/built/caTools/Meta/
+built/built/caTools/Meta/package.rds
+built/built/caTools/Meta/features.rds
+built/built/caTools/Meta/hsearch.rds
+built/built/caTools/Meta/links.rds
+built/built/caTools/Meta/nsInfo.rds
+built/built/caTools/Meta/Rd.rds
+built/built/caTools/html/
+built/built/caTools/html/00Index.html
+built/built/caTools/html/R.css
+built/built/caTools/INDEX
+built/built/caTools/R/
+built/built/caTools/R/caTools
+built/built/caTools/R/caTools.rdx
+built/built/caTools/R/caTools.rdb
+built/built/bitops/
+built/built/bitops/libs/
+built/built/bitops/libs/bitops.so
+built/built/bitops/NAMESPACE
+built/built/bitops/DESCRIPTION
+built/built/bitops/help/
+built/built/bitops/help/paths.rds
+built/built/bitops/help/bitops.rdb
+built/built/bitops/help/aliases.rds
+built/built/bitops/help/bitops.rdx
+built/built/bitops/help/AnIndex
+built/built/bitops/Meta/
+built/built/bitops/Meta/package.rds
+built/built/bitops/Meta/features.rds
+built/built/bitops/Meta/hsearch.rds
+built/built/bitops/Meta/links.rds
+built/built/bitops/Meta/nsInfo.rds
+built/built/bitops/Meta/Rd.rds
+built/built/bitops/html/
+built/built/bitops/html/00Index.html
+built/built/bitops/html/R.css
+built/built/bitops/INDEX
+built/built/bitops/R/
+built/built/bitops/R/bitops.rdb
+built/built/bitops/R/bitops
+built/built/bitops/R/bitops.rdx
+built/built/KernSmooth/
+built/built/KernSmooth/libs/
+built/built/KernSmooth/libs/KernSmooth.so
+built/built/KernSmooth/NAMESPACE
+built/built/KernSmooth/DESCRIPTION
+built/built/KernSmooth/help/
+built/built/KernSmooth/help/paths.rds
+built/built/KernSmooth/help/aliases.rds
+built/built/KernSmooth/help/KernSmooth.rdx
+built/built/KernSmooth/help/KernSmooth.rdb
+built/built/KernSmooth/help/AnIndex
+built/built/KernSmooth/Meta/
+built/built/KernSmooth/Meta/package.rds
+built/built/KernSmooth/Meta/features.rds
+built/built/KernSmooth/Meta/hsearch.rds
+built/built/KernSmooth/Meta/links.rds
+built/built/KernSmooth/Meta/nsInfo.rds
+built/built/KernSmooth/Meta/Rd.rds
+built/built/KernSmooth/po/
+built/built/KernSmooth/po/it/
+built/built/KernSmooth/po/it/LC_MESSAGES/
+built/built/KernSmooth/po/it/LC_MESSAGES/R-KernSmooth.mo
+built/built/KernSmooth/po/fr/
+built/built/KernSmooth/po/fr/LC_MESSAGES/
+built/built/KernSmooth/po/fr/LC_MESSAGES/R-KernSmooth.mo
+built/built/KernSmooth/po/ko/
+built/built/KernSmooth/po/ko/LC_MESSAGES/
+built/built/KernSmooth/po/ko/LC_MESSAGES/R-KernSmooth.mo
+built/built/KernSmooth/po/pl/
+built/built/KernSmooth/po/pl/LC_MESSAGES/
+built/built/KernSmooth/po/pl/LC_MESSAGES/R-KernSmooth.mo
+built/built/KernSmooth/po/en@quot/
+built/built/KernSmooth/po/en@quot/LC_MESSAGES/
+built/built/KernSmooth/po/en@quot/LC_MESSAGES/R-KernSmooth.mo
+built/built/KernSmooth/po/de/
+built/built/KernSmooth/po/de/LC_MESSAGES/
+built/built/KernSmooth/po/de/LC_MESSAGES/R-KernSmooth.mo
+built/built/KernSmooth/html/
+built/built/KernSmooth/html/00Index.html
+built/built/KernSmooth/html/R.css
+built/built/KernSmooth/INDEX
+built/built/KernSmooth/R/
+built/built/KernSmooth/R/KernSmooth.rdx
+built/built/KernSmooth/R/KernSmooth
+built/built/KernSmooth/R/KernSmooth.rdb
+built/built/gtools/
+built/built/gtools/libs/
+built/built/gtools/libs/gtools.so
+built/built/gtools/NAMESPACE
+built/built/gtools/ChangeLog
+built/built/gtools/DESCRIPTION
+built/built/gtools/help/
+built/built/gtools/help/gtools.rdb
+built/built/gtools/help/paths.rds
+built/built/gtools/help/gtools.rdx
+built/built/gtools/help/aliases.rds
+built/built/gtools/help/figures/
+built/built/gtools/help/figures/README-pressure-1.png
+built/built/gtools/help/AnIndex
+built/built/gtools/data/
+built/built/gtools/data/ELISA.rda
+built/built/gtools/data/badDend.rda
+built/built/gtools/Meta/
+built/built/gtools/Meta/package.rds
+built/built/gtools/Meta/features.rds
+built/built/gtools/Meta/hsearch.rds
+built/built/gtools/Meta/links.rds
+built/built/gtools/Meta/nsInfo.rds
+built/built/gtools/Meta/Rd.rds
+built/built/gtools/Meta/data.rds
+built/built/gtools/WORDLIST
+built/built/gtools/html/
+built/built/gtools/html/00Index.html
+built/built/gtools/html/R.css
+built/built/gtools/INDEX
+built/built/gtools/R/
+built/built/gtools/R/gtools.rdb
+built/built/gtools/R/gtools.rdx
+built/built/gtools/R/gtools
+built/built/gtools/NEWS.md
+built/caTools/
+built/caTools/libs/
+built/caTools/libs/caTools.so
+built/caTools/NEWS
+built/caTools/NAMESPACE
+built/caTools/DESCRIPTION
+built/caTools/help/
+built/caTools/help/paths.rds
+built/caTools/help/caTools.rdx
+built/caTools/help/aliases.rds
+built/caTools/help/AnIndex
+built/caTools/help/caTools.rdb
+built/caTools/Meta/
+built/caTools/Meta/package.rds
+built/caTools/Meta/features.rds
+built/caTools/Meta/hsearch.rds
+built/caTools/Meta/links.rds
+built/caTools/Meta/nsInfo.rds
+built/caTools/Meta/Rd.rds
+built/caTools/html/
+built/caTools/html/00Index.html
+built/caTools/html/R.css
+built/caTools/INDEX
+built/caTools/R/
+built/caTools/R/caTools
+built/caTools/R/caTools.rdx
+built/caTools/R/caTools.rdb
+built/bitops/
+built/bitops/libs/
+built/bitops/libs/bitops.so
+built/bitops/NAMESPACE
+built/bitops/DESCRIPTION
+built/bitops/help/
+built/bitops/help/paths.rds
+built/bitops/help/bitops.rdb
+built/bitops/help/aliases.rds
+built/bitops/help/bitops.rdx
+built/bitops/help/AnIndex
+built/bitops/Meta/
+built/bitops/Meta/package.rds
+built/bitops/Meta/features.rds
+built/bitops/Meta/hsearch.rds
+built/bitops/Meta/links.rds
+built/bitops/Meta/nsInfo.rds
+built/bitops/Meta/Rd.rds
+built/bitops/html/
+built/bitops/html/00Index.html
+built/bitops/html/R.css
+built/bitops/INDEX
+built/bitops/R/
+built/bitops/R/bitops.rdb
+built/bitops/R/bitops
+built/bitops/R/bitops.rdx
+built/gtools/
+built/gtools/libs/
+built/gtools/libs/gtools.so
+built/gtools/NAMESPACE
+built/gtools/ChangeLog
+built/gtools/DESCRIPTION
+built/gtools/help/
+built/gtools/help/gtools.rdb
+built/gtools/help/paths.rds
+built/gtools/help/gtools.rdx
+built/gtools/help/aliases.rds
+built/gtools/help/figures/
+built/gtools/help/figures/README-pressure-1.png
+built/gtools/help/AnIndex
+built/gtools/data/
+built/gtools/data/ELISA.rda
+built/gtools/data/badDend.rda
+built/gtools/Meta/
+built/gtools/Meta/package.rds
+built/gtools/Meta/features.rds
+built/gtools/Meta/hsearch.rds
+built/gtools/Meta/links.rds
+built/gtools/Meta/nsInfo.rds
+built/gtools/Meta/Rd.rds
+built/gtools/Meta/data.rds
+built/gtools/WORDLIST
+built/gtools/html/
+built/gtools/html/00Index.html
+built/gtools/html/R.css
+built/gtools/INDEX
+built/gtools/R/
+built/gtools/R/gtools.rdb
+built/gtools/R/gtools.rdx
+built/gtools/R/gtools
+built/gtools/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''RCy3'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv backports_1.4.1_R_x86_64-pc-linux-gnu.tar.gz base64url_1.4_R_x86_64-pc-linux-gnu.tar.gz BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz bitops_1.0-7_R_x86_64-pc-linux-gnu.tar.gz caTools_1.18.2_R_x86_64-pc-linux-gnu.tar.gz gplots_3.1.3_R_x86_64-pc-linux-gnu.tar.gz graph_1.76.0_R_x86_64-pc-linux-gnu.tar.gz gtools_3.9.4_R_x86_64-pc-linux-gnu.tar.gz RCurl_1.98-1.9_R_x86_64-pc-linux-gnu.tar.gz RCy3_2.18.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/RCy3
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'RCy3'
+also installing the dependencies ‘bitops’, ‘backports’, ‘gtools’, ‘caTools’, ‘BiocGenerics’, ‘graph’, ‘RCurl’, ‘base64url’, ‘gplots’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/bitops_1.0-7.tar.gz'
+Content type 'binary/octet-stream' length 32391 bytes (31 KB)
+==================================================
+downloaded 31 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/backports_1.4.1.tar.gz'
+Content type 'binary/octet-stream' length 99762 bytes (97 KB)
+==================================================
+downloaded 97 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gtools_3.9.4.tar.gz'
+Content type 'binary/octet-stream' length 352174 bytes (343 KB)
+==================================================
+downloaded 343 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/caTools_1.18.2.tar.gz'
+Content type 'binary/octet-stream' length 245911 bytes (240 KB)
+==================================================
+downloaded 240 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BiocGenerics_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 47711 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/graph_1.76.0.tar.gz'
+Content type 'application/x-gzip' length 837753 bytes (818 KB)
+==================================================
+downloaded 818 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/RCurl_1.98-1.9.tar.gz'
+Content type 'binary/octet-stream' length 1119862 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/base64url_1.4.tar.gz'
+Content type 'binary/octet-stream' length 33450 bytes (32 KB)
+==================================================
+downloaded 32 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gplots_3.1.3.tar.gz'
+Content type 'binary/octet-stream' length 594297 bytes (580 KB)
+==================================================
+downloaded 580 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/RCy3_2.18.0.tar.gz'
+Content type 'application/x-gzip' length 6556307 bytes (6.3 MB)
+==================================================
+downloaded 6.3 MB
+
+* installing *binary* package ‘bitops’ ...
+* ‘bitops’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bitops’ as ‘bitops_1.0-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bitops)
+* installing *binary* package ‘backports’ ...
+* ‘backports’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘backports’ as ‘backports_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (backports)
+* installing *binary* package ‘gtools’ ...
+* ‘gtools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gtools’ as ‘gtools_3.9.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gtools)
+* installing *source* package ‘BiocGenerics’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘union’ in package ‘BiocGenerics’
+Creating a new generic function for ‘intersect’ in package ‘BiocGenerics’
+Creating a new generic function for ‘setdiff’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sort’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *binary* package ‘caTools’ ...
+* ‘caTools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘caTools’ as ‘caTools_1.18.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (caTools)
+* installing *source* package ‘graph’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c graph.c -o graph.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o graph.so graph.o -L/usr/local/lib/R/lib -lR
+mv graph.so BioC_graph.so
+installing to /__w/gha-build/gha-build/built/00LOCK-graph/00new/graph/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘graph’ as ‘graph_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (graph)
+* installing *binary* package ‘RCurl’ ...
+* ‘RCurl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RCurl’ as ‘RCurl_1.98-1.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RCurl)
+* installing *binary* package ‘base64url’ ...
+* ‘base64url’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘base64url’ as ‘base64url_1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (base64url)
+* installing *binary* package ‘gplots’ ...
+* ‘gplots’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gplots’ as ‘gplots_3.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gplots)
+* installing *source* package ‘RCy3’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RCy3’ as ‘RCy3_2.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RCy3)
+
+The downloaded source packages are in
+	‘/tmp/RtmpWyW8mQ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m49.811s
+user	0m32.470s
+sys	0m3.170s

@@ -1749,7 +1749,6 @@
         "GO.db",
         "GOstats",
         "GSEABase",
-        "RCy3",
         "annotate",
         "genefilter"
     ],
@@ -2004,7 +2003,6 @@
         "GOSemSim",
         "GenomicTools",
         "HDO.db",
-        "RCy3",
         "annotate",
         "aplot",
         "broom",
@@ -3660,8 +3658,7 @@
         "viridis"
     ],
     "DEGraph": [
-        "NCIgraph",
-        "RCy3"
+        "NCIgraph"
     ],
     "DEGreport": [
         "AnnotationDbi",
@@ -5098,7 +5095,6 @@
         "TrajectoryUtils"
     ],
     "fedup": [
-        "RCy3",
         "ggthemes"
     ],
     "FELLA": [],
@@ -8086,7 +8082,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "RCy3",
         "aplot",
         "clusterProfiler",
         "enrichplot",
@@ -9026,9 +9021,7 @@
         "rhdf5",
         "tidyr"
     ],
-    "MOGAMUN": [
-        "RCy3"
-    ],
+    "MOGAMUN": [],
     "mogsa": [
         "AnnotationDbi",
         "GSEABase",
@@ -9734,9 +9727,7 @@
         "vsn",
         "xcms"
     ],
-    "NCIgraph": [
-        "RCy3"
-    ],
+    "NCIgraph": [],
     "ncRNAtools": [],
     "ndexr": [
         "tidyr"
@@ -9876,7 +9867,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "RCy3",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -11709,7 +11699,6 @@
         "viridis",
         "visNetwork"
     ],
-    "RCy3": [],
     "RDRToolbox": [
         "htmlwidgets",
         "rgl"
@@ -11890,7 +11879,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "RCy3",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -14881,7 +14869,6 @@
         "GOSemSim",
         "HDO.db",
         "MultiAssayExperiment",
-        "RCy3",
         "aplot",
         "biomaRt",
         "clusterProfiler",
@@ -15087,9 +15074,7 @@
         "org.Hs.eg.db",
         "topGO"
     ],
-    "transomics2cytoscape": [
-        "RCy3"
-    ],
+    "transomics2cytoscape": [],
     "TraRe": [
         "vbsr"
     ],
