@@ -2844,7 +2844,6 @@
         "viridis"
     ],
     "bayNorm": [
-        "BB",
         "BiocParallel",
         "DelayedArray",
         "GenomeInfoDb",
@@ -8855,7 +8854,6 @@
         "viridis"
     ],
     "combi": [
-        "BB",
         "Biostrings",
         "DelayedArray",
         "GenomeInfoDb",
@@ -52826,7 +52824,6 @@
         "maxLik"
     ],
     "maxLik": [],
-    "BB": [],
     "corncob": [
         "Biostrings",
         "GenomeInfoDb",
