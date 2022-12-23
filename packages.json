@@ -3406,7 +3406,6 @@
         "recipes",
         "rstatix",
         "shinyFeedback",
-        "shinyMatrix",
         "shinyjs",
         "testthat",
         "tidyr",
@@ -17223,7 +17222,6 @@
         "viridis"
     ],
     "shinyFeedback": [],
-    "shinyMatrix": [],
     "mbest": [
         "lme4",
         "nloptr",
