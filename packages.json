@@ -128,7 +128,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "AlphaBeta": [],
     "alpine": [
         "GenomicFeatures",
         "rtracklayer"
