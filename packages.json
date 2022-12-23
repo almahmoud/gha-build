@@ -1620,7 +1620,6 @@
         "annotate",
         "genefilter",
         "oligo",
-        "shinypanel",
         "sva"
     ],
     "csdR": [
@@ -8205,7 +8204,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "shinypanel": [],
     "RFOC": [
         "GEOmap",
         "fields"
