@@ -14034,7 +14034,6 @@
         "sass",
         "stringr"
     ],
-    "geneplast": [],
     "geneplotter": [
         "AnnotationDbi",
         "Biostrings",
