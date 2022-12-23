@@ -27819,7 +27819,6 @@
         "tidyselect",
         "vroom"
     ],
-    "NetPathMiner": [],
     "netprioR": [
         "dplyr",
         "ggplot2",
