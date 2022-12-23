@@ -5427,10 +5427,8 @@
         "ggplot2",
         "qvalue"
     ],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
-        "BiocSingular",
-        "DelayedRandomArray"
+        "BiocSingular"
     ],
     "deltaCaptureC": [
         "AnnotationDbi",
