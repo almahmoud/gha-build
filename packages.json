@@ -44516,7 +44516,6 @@
         "TH.data",
         "TSCAN",
         "TrajectoryUtils",
-        "VAM",
         "XVector",
         "annotate",
         "aplot",
@@ -58900,7 +58899,6 @@
         "tibble",
         "tidyselect"
     ],
-    "VAM": [],
     "hgu95a.db": [
         "AnnotationDbi",
         "Biostrings",
