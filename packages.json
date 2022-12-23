@@ -398,7 +398,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "ggfortify",
         "lme4",
         "mGSZ",
         "nloptr",
@@ -4505,8 +4504,7 @@
         "DESeq2",
         "annotate",
         "biomaRt",
-        "geneplotter",
-        "ggfortify"
+        "geneplotter"
     ],
     "HGC": [
         "dendextend",
@@ -4730,7 +4728,6 @@
         "GenomicFeatures",
         "IVAS",
         "biomaRt",
-        "ggfortify",
         "lme4",
         "nloptr",
         "rtracklayer",
@@ -4961,7 +4958,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "biomaRt",
-        "ggfortify",
         "lme4",
         "nloptr",
         "rtracklayer",
@@ -7634,7 +7630,6 @@
         "affy",
         "annotate",
         "genefilter",
-        "ggfortify",
         "lme4",
         "nloptr",
         "pvca",
@@ -11055,7 +11050,6 @@
         "rtracklayer"
     ],
     "mGSZ": [],
-    "ggfortify": [],
     "tidyverse": [
         "haven",
         "modelr"
