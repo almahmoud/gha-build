@@ -54,7 +54,6 @@
     ],
     "brainflowprobes": [
         "GenomicState",
-        "derfinder",
         "derfinderPlot",
         "ggbio"
     ],
@@ -178,9 +177,7 @@
         "text2vec",
         "ttgsea"
     ],
-    "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
         "ggbio"
     ],
     "destiny": [],
@@ -491,7 +488,6 @@
     "octad": [],
     "ODER": [
         "dasper",
-        "derfinder",
         "ggpubr"
     ],
     "OGRE": [],
@@ -536,7 +532,6 @@
         "ggpubr"
     ],
     "psichomics": [
-        "derfinder",
         "recount"
     ],
     "ptairMS": [
@@ -553,16 +548,12 @@
     "R3CPET": [
         "ggbio"
     ],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [
         "IlluminaHumanMethylation450kmanifest"
     ],
     "REDseq": [],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [],
     "REMP": [],
     "ReportingTools": [
@@ -577,7 +568,6 @@
         "karyoploteR"
     ],
     "RNAAgeCalc": [
-        "derfinder",
         "recount"
     ],
     "RNAmodR": [],
@@ -595,7 +585,6 @@
         "ggpubr"
     ],
     "RnaSeqSampleSize": [
-        "derfinder",
         "ggpubr",
         "recount"
     ],
@@ -748,9 +737,7 @@
     "ReorderCluster": [],
     "mGSZ": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
-    "GenomicState": [
-        "derfinder"
-    ],
+    "GenomicState": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [],
     "IlluminaHumanMethylation450kmanifest": [],
