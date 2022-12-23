@@ -19125,7 +19125,6 @@
         "sass",
         "scales",
         "selectr",
-        "stopwords",
         "stringr",
         "syuzhet",
         "tensorflow",
@@ -29974,7 +29973,6 @@
         "sass",
         "scales",
         "selectr",
-        "stopwords",
         "stringr",
         "syuzhet",
         "tensorflow",
@@ -79666,7 +79664,6 @@
         "rsparse",
         "sass",
         "scales",
-        "stopwords",
         "stringr",
         "syuzhet",
         "tensorflow",
@@ -80474,7 +80471,6 @@
         "selectr",
         "sitmo",
         "sparseMatrixStats",
-        "stopwords",
         "stringr",
         "systemfonts",
         "syuzhet",
@@ -81328,7 +81324,6 @@
         "scales",
         "scico",
         "shiny",
-        "stopwords",
         "stringr",
         "systemfonts",
         "syuzhet",
@@ -89721,7 +89716,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "stopwords",
         "syuzhet",
         "textclean",
         "textshape",
@@ -89731,7 +89725,6 @@
         "vctrs",
         "zoo"
     ],
-    "stopwords": [],
     "data.tree": [],
     "rsparse": [
         "MatrixExtra",
@@ -89759,8 +89752,7 @@
         "zoo"
     ],
     "quanteda": [
-        "RcppArmadillo",
-        "stopwords"
+        "RcppArmadillo"
     ],
     "textclean": [
         "dplyr",
