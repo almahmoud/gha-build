@@ -770,7 +770,6 @@
     ],
     "chipenrich": [
         "Hmisc",
-        "chipenrich.data",
         "rms",
         "viridis"
     ],
@@ -5735,7 +5734,6 @@
     ],
     "spp": [],
     "BSgenome.Mmusculus.UCSC.mm9": [],
-    "chipenrich.data": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
         "GenomicFeatures"
     ],
