@@ -9419,7 +9419,6 @@
         "MAST",
         "Seurat",
         "SingleCellExperiment",
-        "SingleR",
         "SoupX",
         "TENxPBMCData",
         "TSCAN",
@@ -9471,7 +9470,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "SingleR": [],
     "singscore": [
         "GSEABase",
         "annotate",
