@@ -911,7 +911,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "topGO",
@@ -1987,7 +1986,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "survey",
         "testthat",
         "tibble",
@@ -3936,7 +3934,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "umap",
@@ -5980,7 +5977,6 @@
         "spatstat.explore",
         "spatstat.linnet",
         "spatstat.model",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot",
@@ -8239,7 +8235,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot"
@@ -14187,7 +14182,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot"
@@ -14624,7 +14618,6 @@
         "shadowtext",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "testthat",
         "tibble",
         "tidygraph",
@@ -15364,7 +15357,6 @@
         "scuttle",
         "sf",
         "spatstat.explore",
-        "spatstat.random",
         "spicyR",
         "testthat",
         "tibble",
@@ -20117,7 +20109,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot"
@@ -22400,7 +22391,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot",
@@ -26414,7 +26404,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -26529,7 +26518,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot"
@@ -26631,7 +26619,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot",
@@ -26660,7 +26647,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidytree",
@@ -26696,7 +26682,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot"
@@ -26775,7 +26760,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "umap",
@@ -26915,7 +26899,6 @@
         "sf",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot"
@@ -26965,7 +26948,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot"
@@ -27397,7 +27379,6 @@
         "shadowtext",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -27446,7 +27427,6 @@
         "sf",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot",
@@ -27507,7 +27487,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -28492,7 +28471,6 @@
         "shinyjs",
         "sn",
         "spatstat.explore",
-        "spatstat.random",
         "sva",
         "tibble",
         "tidyr",
@@ -28889,7 +28867,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot",
@@ -28956,7 +28933,6 @@
         "dplyr",
         "ggplot2",
         "scuttle",
-        "spatstat.random",
         "tibble"
     ],
     "SpatialCPie": [
@@ -29216,7 +29192,6 @@
         "rmarkdown",
         "scuttle",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "umap",
@@ -29246,7 +29221,6 @@
         "scuttle",
         "sf",
         "spatstat.explore",
-        "spatstat.random",
         "testthat",
         "tibble",
         "tidyr",
@@ -29500,7 +29474,6 @@
         "scuttle",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot",
@@ -29846,7 +29819,6 @@
         "selectr",
         "sf",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "tidyverse",
@@ -29901,7 +29873,6 @@
         "sf",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "spdep",
         "tibble",
         "tidyr",
@@ -33518,7 +33489,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot"
@@ -33553,10 +33523,7 @@
         "reshape2",
         "tibble"
     ],
-    "spatstat.explore": [
-        "spatstat.random"
-    ],
-    "spatstat.random": [],
+    "spatstat.explore": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "Biostrings",
@@ -35080,24 +35047,20 @@
         "spatstat.explore",
         "spatstat.linnet",
         "spatstat.model",
-        "spatstat.random",
         "tibble",
         "tidyr"
     ],
     "spatstat": [
         "spatstat.explore",
         "spatstat.linnet",
-        "spatstat.model",
-        "spatstat.random"
+        "spatstat.model"
     ],
     "spatstat.model": [
-        "spatstat.explore",
-        "spatstat.random"
+        "spatstat.explore"
     ],
     "spatstat.linnet": [
         "spatstat.explore",
-        "spatstat.model",
-        "spatstat.random"
+        "spatstat.model"
     ],
     "contrast": [
         "Hmisc",
@@ -37138,7 +37101,6 @@
         "sctransform",
         "shiny",
         "spatstat.explore",
-        "spatstat.random",
         "tibble",
         "tidyr",
         "uwot"
@@ -37211,7 +37173,6 @@
     ],
     "alphahull": [
         "ggplot2",
-        "spatstat.random",
         "tibble"
     ],
     "elsa": [],
