@@ -101,8 +101,7 @@
         "interactiveDisplayBase",
         "rmarkdown",
         "rvest",
-        "shiny",
-        "smoother"
+        "shiny"
     ],
     "ADImpute": [
         "SingleCellExperiment",
@@ -5585,7 +5584,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "smoother",
         "testthat",
         "tidyr",
         "waldo"
@@ -23545,7 +23543,6 @@
         "shiny"
     ],
     "rvest": [],
-    "smoother": [],
     "dbplyr": [
         "dplyr"
     ],
