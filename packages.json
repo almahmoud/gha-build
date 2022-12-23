@@ -43018,7 +43018,6 @@
         "RColorBrewer",
         "codetools",
         "colorspace",
-        "emdist",
         "farver",
         "formatR",
         "futile.logger",
@@ -171327,7 +171326,6 @@
         "zlibbioc"
     ],
     "TCGAbiolinksGUI.data": [],
-    "emdist": [],
     "CDFt": [],
     "JASPAR2018": [],
     "heatmap3": [
