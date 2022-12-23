@@ -1484,7 +1484,6 @@
         "GEOmap",
         "RFOC",
         "car",
-        "fields",
         "flowDensity",
         "lme4",
         "nloptr",
@@ -1578,7 +1577,6 @@
         "GEOmap",
         "RFOC",
         "car",
-        "fields",
         "flowDensity",
         "lme4",
         "nloptr",
@@ -1836,9 +1834,7 @@
         "regioneR",
         "rtracklayer"
     ],
-    "DNAshapeR": [
-        "fields"
-    ],
+    "DNAshapeR": [],
     "DominoEffect": [
         "BSgenome",
         "GenomicFeatures",
@@ -2364,7 +2360,6 @@
         "GEOmap",
         "RFOC",
         "car",
-        "fields",
         "flowDensity",
         "lme4",
         "nloptr",
@@ -2374,7 +2369,6 @@
         "GEOmap",
         "RFOC",
         "car",
-        "fields",
         "lme4",
         "nloptr",
         "pbkrtest"
@@ -3025,7 +3019,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "CODEX",
-        "fields",
         "rtracklayer"
     ],
     "ideal": [
@@ -3409,7 +3402,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter",
         "crlmm",
-        "fields",
         "genefilter",
         "methylumi",
         "minfi",
@@ -3438,7 +3430,6 @@
         "Hmisc",
         "agricolae",
         "caret",
-        "fields",
         "klaR",
         "labelled",
         "plsgenomics",
@@ -3629,9 +3620,7 @@
         "scatterpie",
         "treeio"
     ],
-    "metapone": [
-        "fields"
-    ],
+    "metapone": [],
     "metaseqR2": [
         "BSgenome",
         "DESeq2",
@@ -4195,9 +4184,7 @@
         "nloptr"
     ],
     "MuData": [],
-    "Mulcom": [
-        "fields"
-    ],
+    "Mulcom": [],
     "MultiBaC": [
         "ropls"
     ],
@@ -4701,7 +4688,6 @@
         "CoreGx",
         "car",
         "caret",
-        "fields",
         "genefu",
         "ggpubr",
         "lme4",
@@ -4723,9 +4709,7 @@
         "scater",
         "scuttle"
     ],
-    "pepStat": [
-        "fields"
-    ],
+    "pepStat": [],
     "periodicDNA": [
         "BSgenome",
         "rtracklayer"
@@ -5581,7 +5565,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter",
-        "fields",
         "genefilter",
         "methylumi",
         "minfi",
@@ -5751,7 +5734,6 @@
     "scDD": [
         "EBSeq",
         "arm",
-        "fields",
         "lme4",
         "nloptr",
         "scran",
@@ -5847,7 +5829,6 @@
         "Seurat",
         "ccTensor",
         "enrichplot",
-        "fields",
         "genefilter",
         "ggtree",
         "heatmaply",
@@ -5862,7 +5843,6 @@
     "scTGIF": [
         "GSEABase",
         "Seurat",
-        "fields",
         "nnTensor",
         "schex"
     ],
@@ -6041,9 +6021,7 @@
     "simplifyEnrichment": [
         "GOSemSim"
     ],
-    "sincell": [
-        "fields"
-    ],
+    "sincell": [],
     "SingleCellSignalR": [
         "scran",
         "scuttle"
@@ -6067,7 +6045,6 @@
         "celda",
         "celldex",
         "ensembldb",
-        "fields",
         "genefilter",
         "geneplotter",
         "ggtree",
@@ -6233,9 +6210,7 @@
         "motifmatchr",
         "rtracklayer"
     ],
-    "SpeCond": [
-        "fields"
-    ],
+    "SpeCond": [],
     "SpectralTAD": [
         "CGHcall",
         "HiCcompare",
@@ -6429,7 +6404,6 @@
         "SpatialExtremes",
         "car",
         "drc",
-        "fields",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6555,9 +6529,7 @@
         "TCGAutils",
         "rtracklayer"
     ],
-    "TFARM": [
-        "fields"
-    ],
+    "TFARM": [],
     "TFBSTools": [
         "BSgenome",
         "CNEr",
@@ -7335,13 +7307,9 @@
         "interactiveDisplayBase"
     ],
     "RFOC": [
-        "GEOmap",
-        "fields"
+        "GEOmap"
     ],
-    "GEOmap": [
-        "fields"
-    ],
-    "fields": [],
+    "GEOmap": [],
     "mbest": [
         "lme4",
         "nloptr"
@@ -7446,9 +7414,7 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "plsgenomics": [
-        "fields"
-    ],
+    "plsgenomics": [],
     "agricolae": [
         "klaR",
         "labelled",
@@ -7554,9 +7520,7 @@
     ],
     "biomartr": [],
     "tfprobability": [],
-    "verification": [
-        "fields"
-    ],
+    "verification": [],
     "genlasso": [],
     "phastCons100way.UCSC.hg38": [
         "AnnotationHub",
@@ -7617,12 +7581,8 @@
         "interactiveDisplayBase"
     ],
     "Rmagic": [],
-    "nnTensor": [
-        "fields"
-    ],
-    "ccTensor": [
-        "fields"
-    ],
+    "nnTensor": [],
+    "ccTensor": [],
     "clustree": [],
     "survivalAnalysis": [
         "car",
@@ -7668,9 +7628,7 @@
     "ggformula": [
         "labelled"
     ],
-    "SpatialExtremes": [
-        "fields"
-    ],
+    "SpatialExtremes": [],
     "GenKern": [],
     "bestNormalize": [],
     "naniar": [],
