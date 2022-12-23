@@ -28888,7 +28888,6 @@
         "Matrix",
         "MatrixExtra",
         "NLP",
-        "PRROC",
         "R6",
         "Rcpp",
         "RcppArmadillo",
@@ -41598,7 +41597,6 @@
         "Matrix",
         "MatrixGenerics",
         "OUTRIDER",
-        "PRROC",
         "R.methodsS3",
         "R.oo",
         "R.utils",
@@ -45374,7 +45372,6 @@
         "Matrix",
         "MatrixExtra",
         "NLP",
-        "PRROC",
         "R6",
         "Rcpp",
         "RcppArmadillo",
@@ -51640,7 +51637,6 @@
         "MCL",
         "Matrix",
         "ModelMetrics",
-        "PRROC",
         "R6",
         "Rcpp",
         "askpass",
@@ -81072,7 +81068,6 @@
         "MASS",
         "Matrix",
         "MatrixGenerics",
-        "PRROC",
         "R6",
         "RCurl",
         "RSQLite",
@@ -86154,7 +86149,6 @@
         "Matrix",
         "MatrixGenerics",
         "ModelMetrics",
-        "PRROC",
         "R6",
         "RCurl",
         "RSQLite",
@@ -106180,7 +106174,6 @@
         "LiblineaR",
         "MASS",
         "Matrix",
-        "PRROC",
         "R6",
         "RCurl",
         "Rcpp",
@@ -121828,7 +121821,6 @@
         "MatrixExtra",
         "MatrixGenerics",
         "NLP",
-        "PRROC",
         "R6",
         "RCurl",
         "Rcpp",
@@ -136824,7 +136816,6 @@
         "vctrs",
         "xml2"
     ],
-    "PRROC": [],
     "rcdklibs": [],
     "fingerprint": [],
     "text2vec": [
@@ -144699,7 +144690,6 @@
     ],
     "objectSignals": [],
     "mlr3": [
-        "PRROC",
         "R6",
         "checkmate",
         "codetools",
@@ -144716,7 +144706,6 @@
         "paradox"
     ],
     "mlr3learners": [
-        "PRROC",
         "R6",
         "checkmate",
         "codetools",
@@ -144734,7 +144723,6 @@
         "paradox"
     ],
     "mlr3tuning": [
-        "PRROC",
         "R6",
         "bbotk",
         "checkmate",
@@ -144760,7 +144748,6 @@
         "mlr3misc"
     ],
     "mlr3measures": [
-        "PRROC",
         "checkmate"
     ],
     "mlr3misc": [
