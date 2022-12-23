@@ -18135,7 +18135,6 @@
         "tidyr",
         "tidytree",
         "tidyverse",
-        "tnet",
         "treeio",
         "viridis",
         "vroom",
@@ -18223,7 +18222,6 @@
         "tidyr",
         "tidytree",
         "tidyverse",
-        "tnet",
         "treeio",
         "viridis",
         "vroom",
@@ -29372,7 +29370,6 @@
         "tibble",
         "tidyr",
         "tidyverse",
-        "tnet",
         "vroom",
         "waldo"
     ],
@@ -36203,7 +36200,6 @@
         "ggplot2",
         "tibble"
     ],
-    "tnet": [],
     "groupdata2": [
         "dplyr",
         "rearrr",
