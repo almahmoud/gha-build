@@ -1,0 +1,78 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   86c6f34b..6dc7507e  main       -> origin/main
+Updating 86c6f34b..6dc7507e
+Fast-forward
+ lists/PepsNMR                                 |   2 +-
+ lists/RCy3                                    |   2 +-
+ lists/shinydashboardPlus                      |   2 +-
+ logs/sizes/rstudio-binaries/binaries/PepsNMR  |   1 +
+ logs/sizes/rstudio-binaries/binaries/RCy3     |   1 +
+ logs/sizes/rstudio-binaries/libraries/PepsNMR |   1 +
+ logs/sizes/rstudio-binaries/libraries/RCy3    |   1 +
+ logs/times/rstudio-binary/PepsNMR             | 198 ++++++
+ logs/times/rstudio-binary/RCy3                | 862 ++++++++++++++++++++++++++
+ packages.json                                 |  29 +-
+ 10 files changed, 1071 insertions(+), 28 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/PepsNMR
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RCy3
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/PepsNMR
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RCy3
+ create mode 100644 logs/times/rstudio-binary/PepsNMR
+ create mode 100644 logs/times/rstudio-binary/RCy3
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=spsComps
++ PKG=spsComps
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "spsComps"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency assertthat is already found.
+Dependency stringr is already found.
+Dependency shinytoastr is already found.
+Dependency shinyAce is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''spsComps'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv spsComps_0.3.2.1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/spsComps
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'spsComps'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/spsComps_0.3.2.1.tar.gz'
+Content type 'binary/octet-stream' length 284152 bytes (277 KB)
+==================================================
+downloaded 277 KB
+
+* installing *binary* package ‘spsComps’ ...
+* ‘spsComps’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spsComps’ as ‘spsComps_0.3.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spsComps)
+
+The downloaded source packages are in
+	‘/tmp/RtmpB7nUtk/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m5.464s
+user	0m3.625s
+sys	0m0.346s

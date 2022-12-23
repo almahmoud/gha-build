@@ -14532,7 +14532,6 @@
         "htmlwidgets",
         "plotly",
         "shinyjqui",
-        "spsComps",
         "tidyr"
     ],
     "systemPipeTools": [
@@ -17510,7 +17509,6 @@
         "fields",
         "viridis"
     ],
-    "spsComps": [],
     "drawer": [],
     "GenKern": [],
     "ttservice": [],
