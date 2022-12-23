@@ -3304,7 +3304,6 @@
         "mixtools",
         "plotly"
     ],
-    "gemma.R": [],
     "genbankr": [
         "BSgenome",
         "GenomicFeatures",
