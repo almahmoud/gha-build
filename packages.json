@@ -2620,7 +2620,6 @@
     "GSCA": [
         "rhdf5"
     ],
-    "gscreend": [],
     "GSEABase": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
