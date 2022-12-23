@@ -6395,8 +6395,7 @@
         "MAST"
     ],
     "ppcseq": [
-        "benchmarkme",
-        "tidybayes"
+        "benchmarkme"
     ],
     "PPInfer": [
         "biomaRt"
@@ -9912,7 +9911,6 @@
         "fields",
         "viridis"
     ],
-    "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
         "AnnotationHub",
         "BSgenome",
