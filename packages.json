@@ -6742,7 +6742,6 @@
         "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryGeometry": [],
     "TrajectoryUtils": [],
     "transcriptogramer": [
         "topGO"
