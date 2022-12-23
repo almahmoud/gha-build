@@ -31290,7 +31290,6 @@
         "restfulr",
         "rhdf5",
         "rtracklayer",
-        "scico",
         "stringr",
         "textshaping",
         "tibble",
@@ -51146,7 +51145,6 @@
         "reshape2",
         "rmarkdown",
         "sass",
-        "scico",
         "shiny",
         "stringr",
         "syuzhet",
@@ -51192,7 +51190,6 @@
         "pillar",
         "purrr",
         "rhdf5",
-        "scico",
         "scuttle",
         "sf",
         "spData",
@@ -57865,7 +57862,6 @@
         "stringr",
         "vctrs"
     ],
-    "scico": [],
     "VarfromPDB": [
         "RISmed",
         "XML2R",
