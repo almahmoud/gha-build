@@ -879,7 +879,6 @@
         "reshape2",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -1783,7 +1782,6 @@
         "reshape2",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom",
@@ -3751,7 +3749,6 @@
         "ruv",
         "shiny",
         "shinythemes",
-        "siggenes",
         "sva",
         "tibble",
         "tidyr",
@@ -4777,7 +4774,6 @@
         "knitr",
         "readr",
         "rmarkdown",
-        "siggenes",
         "sqldf",
         "tibble",
         "tidyr",
@@ -5290,7 +5286,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -6524,7 +6519,6 @@
         "rhdf5",
         "rsq",
         "rtracklayer",
-        "siggenes",
         "testthat",
         "tibble",
         "tidyr",
@@ -7260,7 +7254,6 @@
         "rtracklayer",
         "ruv",
         "shiny",
-        "siggenes",
         "tibble",
         "tidyr",
         "viridis",
@@ -7928,7 +7921,6 @@
         "rmarkdown",
         "rtracklayer",
         "shiny",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -8365,7 +8357,6 @@
         "rmarkdown",
         "rtracklayer",
         "shiny",
-        "siggenes",
         "tibble",
         "tidyr",
         "viridis",
@@ -9168,7 +9159,6 @@
         "reshape2",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -9636,7 +9626,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -12023,7 +12012,6 @@
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -13059,9 +13047,7 @@
         "tibble",
         "tidyr"
     ],
-    "KCsmart": [
-        "siggenes"
-    ],
+    "KCsmart": [],
     "kebabs": [
         "Biostrings"
     ],
@@ -13489,7 +13475,6 @@
         "reshape2",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -13705,7 +13690,6 @@
         "reshape2",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "viridis",
@@ -14158,7 +14142,6 @@
         "rmarkdown",
         "rtracklayer",
         "ruv",
-        "siggenes",
         "sva",
         "tibble",
         "tidyr",
@@ -14198,7 +14181,6 @@
         "reshape2",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom",
@@ -14815,7 +14797,6 @@
         "rhdf5",
         "rtracklayer",
         "shiny",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -14848,7 +14829,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -14921,7 +14901,6 @@
         "rvest",
         "selectr",
         "shiny",
-        "siggenes",
         "testthat",
         "tibble",
         "tidyr",
@@ -14987,7 +14966,6 @@
         "scatterpie",
         "shadowtext",
         "shiny",
-        "siggenes",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -15120,7 +15098,6 @@
         "reshape2",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -15574,7 +15551,6 @@
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "viridis",
@@ -15601,7 +15577,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -15931,7 +15906,6 @@
         "rhdf5",
         "rtracklayer",
         "ruv",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -17727,7 +17701,6 @@
         "reshape2",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "sqldf",
         "tibble",
         "tidyr",
@@ -20681,7 +20654,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -21215,7 +21187,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -21435,7 +21406,6 @@
         "rmarkdown",
         "rtracklayer",
         "shiny",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -22463,7 +22433,6 @@
         "reshape2",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "viridis",
@@ -24264,7 +24233,6 @@
         "shinycssloaders",
         "shinyjs",
         "shinythemes",
-        "siggenes",
         "tibble",
         "tidyr",
         "viridis",
@@ -24294,7 +24262,6 @@
         "rhdf5",
         "rtracklayer",
         "shiny",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -24356,7 +24323,6 @@
         "ggplot2",
         "tibble"
     ],
-    "siggenes": [],
     "sights": [
         "ggplot2",
         "qvalue",
@@ -24897,7 +24863,6 @@
         "reshape2",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom",
@@ -27553,9 +27518,7 @@
         "sva",
         "tibble"
     ],
-    "trio": [
-        "siggenes"
-    ],
+    "trio": [],
     "triplex": [
         "Biostrings",
         "GenomicRanges"
@@ -28409,7 +28372,6 @@
         "reshape2",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -28529,8 +28491,7 @@
         "GeneMeta",
         "KEGGREST",
         "annotate",
-        "genefilter",
-        "siggenes"
+        "genefilter"
     ],
     "Xeva": [
         "CoreGx",
@@ -28647,7 +28608,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -29626,7 +29586,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -30105,7 +30064,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -30132,7 +30090,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -30159,7 +30116,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -30518,7 +30474,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
@@ -31395,7 +31350,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "siggenes",
         "tibble",
         "tidyr",
         "vroom"
