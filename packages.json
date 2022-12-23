@@ -34595,7 +34595,6 @@
         "dplyr",
         "ellipsis",
         "ensembldb",
-        "epimutacionsData",
         "evaluate",
         "filelock",
         "fontawesome",
@@ -131106,7 +131105,6 @@
         "R.oo",
         "R.utils"
     ],
-    "epimutacionsData": [],
     "isotree": [
         "Rcpp"
     ],
