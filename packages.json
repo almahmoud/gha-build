@@ -1172,7 +1172,6 @@
         "ggraph",
         "viridis"
     ],
-    "fcScan": [],
     "ffpe": [
         "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
