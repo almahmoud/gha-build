@@ -6712,7 +6712,6 @@
         "rtracklayer",
         "seqinr",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tibble"
     ],
@@ -6762,7 +6761,6 @@
         "shinyjs",
         "stringr",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -7852,7 +7850,6 @@
         "text2vec",
         "textclean",
         "textstem",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -12423,7 +12420,6 @@
         "text2vec",
         "textclean",
         "textstem",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -13564,7 +13560,6 @@
         "seqinr",
         "stringr",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -20075,7 +20070,6 @@
         "seqinr",
         "stringr",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -21068,7 +21062,6 @@
         "XVector",
         "keras",
         "tensorflow",
-        "tfautograph",
         "tfruns"
     ],
     "NewWave": [
@@ -22343,7 +22336,6 @@
         "stringr",
         "tensorflow",
         "testthat",
-        "tfautograph",
         "tfprobability",
         "tfruns",
         "tibble",
@@ -27268,7 +27260,6 @@
         "spatstat.explore",
         "stringr",
         "tensorflow",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -32856,7 +32847,6 @@
         "text2vec",
         "textclean",
         "textstem",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -33203,7 +33193,6 @@
         "text2vec",
         "textclean",
         "textstem",
-        "tfautograph",
         "tfruns",
         "tibble",
         "tidyr",
@@ -36395,15 +36384,12 @@
     ],
     "keras": [
         "tensorflow",
-        "tfautograph",
         "tfruns"
     ],
     "tensorflow": [
-        "tfautograph",
         "tfruns"
     ],
     "tfruns": [],
-    "tfautograph": [],
     "shinypanel": [
         "shiny",
         "shinyBS",
@@ -37844,7 +37830,6 @@
     "tfprobability": [
         "keras",
         "tensorflow",
-        "tfautograph",
         "tfruns"
     ],
     "reportROC": [
