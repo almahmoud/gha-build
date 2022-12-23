@@ -5301,9 +5301,7 @@
         "visNetwork"
     ],
     "iasva": [],
-    "iBBiG": [
-        "biclust"
-    ],
+    "iBBiG": [],
     "iCARE": [
         "Hmisc",
         "htmlTable",
@@ -6952,7 +6950,6 @@
         "SPONGE",
         "WGCNA",
         "annotate",
-        "biclust",
         "biomaRt",
         "car",
         "caret",
@@ -7189,8 +7186,7 @@
         "GenomicAlignments"
     ],
     "mosbi": [
-        "QUBIC",
-        "biclust"
+        "QUBIC"
     ],
     "MOSim": [],
     "Motif2Site": [
@@ -9101,9 +9097,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "QUBIC": [
-        "biclust"
-    ],
+    "QUBIC": [],
     "R3CPET": [
         "AnnotationDbi",
         "BSgenome",
@@ -9959,9 +9953,7 @@
         "ropls",
         "testthat"
     ],
-    "rqubic": [
-        "biclust"
-    ],
+    "rqubic": [],
     "rrvgo": [
         "AnnotationDbi",
         "GO.db",
@@ -10048,7 +10040,6 @@
         "rtracklayer"
     ],
     "runibic": [
-        "biclust",
         "testthat"
     ],
     "RUVnormalize": [],
@@ -13245,7 +13236,6 @@
     ],
     "available": [],
     "reactable": [],
-    "biclust": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -13380,11 +13370,8 @@
     "miRBaseVersions.db": [
         "AnnotationDbi"
     ],
-    "s4vd": [
-        "biclust"
-    ],
+    "s4vd": [],
     "BiBitR": [
-        "biclust",
         "dendextend",
         "viridis"
     ],
