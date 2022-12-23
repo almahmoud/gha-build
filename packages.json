@@ -22,9 +22,7 @@
     "AneuFinder": [
         "ReorderCluster"
     ],
-    "appreci8R": [
-        "MafDb.1Kgenomes.phase3.hs37d5"
-    ],
+    "appreci8R": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
         "lumi",
@@ -1278,7 +1276,6 @@
     ],
     "rstatix": [],
     "ReorderCluster": [],
-    "MafDb.1Kgenomes.phase3.hs37d5": [],
     "mGSZ": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi"
