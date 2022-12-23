@@ -2529,7 +2529,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "GenomicDistributions": [],
     "GenomicFeatures": [
         "rtracklayer"
     ],
