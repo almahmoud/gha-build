@@ -17645,7 +17645,6 @@
     "GeneOverlap": [
         "gplots"
     ],
-    "geneplast": [],
     "geneplotter": [
         "AnnotationDbi",
         "Biostrings",
