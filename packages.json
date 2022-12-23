@@ -12463,7 +12463,6 @@
         "tidyselect"
     ],
     "DeepPINCS": [
-        "CatEncoders",
         "DiagrammeR",
         "bslib",
         "dplyr",
@@ -19570,7 +19569,6 @@
         "tidyselect"
     ],
     "GenProSeq": [
-        "CatEncoders",
         "DeepPINCS",
         "DiagrammeR",
         "bslib",
@@ -52521,7 +52519,6 @@
         "BiocNeighbors",
         "BiocParallel",
         "BiocSingular",
-        "CatEncoders",
         "DeepPINCS",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -58250,7 +58247,6 @@
         "sass",
         "stringr"
     ],
-    "CatEncoders": [],
     "webchem": [
         "dplyr",
         "httr",
