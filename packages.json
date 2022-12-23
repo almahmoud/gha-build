@@ -350,7 +350,6 @@
         "knitr",
         "rmarkdown",
         "rtracklayer",
-        "seqinr",
         "tibble",
         "viridis"
     ],
@@ -813,7 +812,6 @@
         "rmarkdown",
         "rsnps",
         "rtracklayer",
-        "seqinr",
         "shiny",
         "shinyjs",
         "tibble"
@@ -923,7 +921,6 @@
         "plotly",
         "rematch2",
         "rmarkdown",
-        "seqinr",
         "testthat",
         "tibble",
         "tidyr",
@@ -3312,7 +3309,6 @@
         "SummarizedExperiment",
         "egg",
         "ggplot2",
-        "seqinr",
         "tibble"
     ],
     "cellbaseR": [
@@ -4287,7 +4283,6 @@
         "reshape2",
         "rmarkdown",
         "rtracklayer",
-        "seqinr",
         "shiny",
         "tibble",
         "universalmotif",
@@ -4365,8 +4360,7 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "rtracklayer",
-        "seqinr"
+        "rtracklayer"
     ],
     "cleaver": [
         "Biostrings"
@@ -5587,7 +5581,6 @@
         "keras",
         "rhdf5",
         "rtracklayer",
-        "seqinr",
         "tensorflow",
         "tfruns",
         "tibble"
@@ -5628,7 +5621,6 @@
         "rio",
         "rmarkdown",
         "rtracklayer",
-        "seqinr",
         "shiny",
         "shinyjs",
         "tensorflow",
@@ -9998,9 +9990,7 @@
         "survcomp",
         "tibble"
     ],
-    "GeneGA": [
-        "seqinr"
-    ],
+    "GeneGA": [],
     "GeneGeneInteR": [
         "Biostrings",
         "DT",
@@ -11369,7 +11359,6 @@
         "rhdf5",
         "rio",
         "rtracklayer",
-        "seqinr",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -12244,7 +12233,6 @@
     "IMMAN": [
         "Biostrings",
         "STRINGdb",
-        "seqinr",
         "sqldf"
     ],
     "ImmuneSpaceR": [
@@ -12340,7 +12328,6 @@
         "readr",
         "reshape2",
         "rtracklayer",
-        "seqinr",
         "tibble",
         "vroom"
     ],
@@ -12545,7 +12532,6 @@
         "geneplotter",
         "ggplot2",
         "rtracklayer",
-        "seqinr",
         "tibble"
     ],
     "InterMineR": [
@@ -14770,8 +14756,7 @@
         "tibble"
     ],
     "MethTargetedNGS": [
-        "Biostrings",
-        "seqinr"
+        "Biostrings"
     ],
     "MethylAid": [
         "AnnotationDbi",
@@ -15039,7 +15024,6 @@
         "Biostrings",
         "GenomicRanges",
         "SummarizedExperiment",
-        "seqinr",
         "shiny",
         "shinyFiles",
         "shinyjs",
@@ -16433,7 +16417,6 @@
         "Biostrings",
         "GenomicRanges",
         "dplyr",
-        "seqinr",
         "tibble",
         "tidyr"
     ],
@@ -16877,7 +16860,6 @@
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
-        "seqinr",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -18367,7 +18349,6 @@
         "knitr",
         "reshape2",
         "rmarkdown",
-        "seqinr",
         "tibble",
         "viridis"
     ],
@@ -18385,7 +18366,6 @@
         "openPrimeR",
         "reshape2",
         "rmarkdown",
-        "seqinr",
         "shiny",
         "shinyBS",
         "shinyjs",
@@ -22878,7 +22858,6 @@
         "reshape2",
         "rmarkdown",
         "sangerseqR",
-        "seqinr",
         "shiny",
         "shinyWidgets",
         "shinycssloaders",
@@ -24823,7 +24802,6 @@
         "ggrepel",
         "ggtree",
         "patchwork",
-        "seqinr",
         "tibble",
         "tidyr",
         "tidytree",
@@ -25294,9 +25272,7 @@
         "viridis",
         "vroom"
     ],
-    "specL": [
-        "seqinr"
-    ],
+    "specL": [],
     "SpeCond": [
         "fields",
         "ggplot2",
@@ -25698,8 +25674,7 @@
         "affy"
     ],
     "sscu": [
-        "Biostrings",
-        "seqinr"
+        "Biostrings"
     ],
     "sSNAPPY": [
         "AnnotationDbi",
@@ -26084,7 +26059,6 @@
         "msa",
         "readr",
         "rematch2",
-        "seqinr",
         "testthat",
         "tibble",
         "vroom",
@@ -26275,8 +26249,7 @@
         "waldo"
     ],
     "SynMut": [
-        "Biostrings",
-        "seqinr"
+        "Biostrings"
     ],
     "syntenet": [
         "Biostrings",
@@ -28396,7 +28369,6 @@
         "knitr",
         "rmarkdown",
         "rtracklayer",
-        "seqinr",
         "tibble",
         "viridis"
     ],
@@ -28912,7 +28884,6 @@
     "shinydashboard": [
         "shiny"
     ],
-    "seqinr": [],
     "readxl": [
         "cellranger",
         "tibble"
