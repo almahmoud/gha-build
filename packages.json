@@ -181,7 +181,6 @@
     ],
     "BaalChIP": [],
     "BadRegionFinder": [],
-    "ballgown": [],
     "bandle": [
         "MSnbase",
         "affy",
@@ -3085,7 +3084,6 @@
     ],
     "RNASeqR": [
         "FactoMineR",
-        "ballgown",
         "car",
         "clusterProfiler",
         "dendextend",
@@ -3813,9 +3811,7 @@
         "viridis"
     ],
     "VariantTools": [],
-    "VaSP": [
-        "ballgown"
-    ],
+    "VaSP": [],
     "VCFArray": [
         "GenomicFiles"
     ],
