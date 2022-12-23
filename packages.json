@@ -666,7 +666,6 @@
         "pbkrtest",
         "radiant.data",
         "reactome.db",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -1193,7 +1192,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -1239,7 +1237,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -1402,7 +1399,6 @@
         "ggraph",
         "ggtree",
         "rtracklayer",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -1550,7 +1546,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -1747,7 +1742,6 @@
         "pbkrtest",
         "rstatix",
         "scater",
-        "scatterpie",
         "scran",
         "scuttle",
         "tidytree",
@@ -2211,7 +2205,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "pathview",
-        "scatterpie",
         "sva",
         "tidytree",
         "treeio",
@@ -2626,7 +2619,6 @@
         "ggtree",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -2672,7 +2664,6 @@
         "ggtree",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -2759,7 +2750,6 @@
         "HDO.db",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -2786,7 +2776,6 @@
         "pipeFrame",
         "rstatix",
         "rtracklayer",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -2831,7 +2820,6 @@
         "ggtree",
         "interactiveDisplayBase",
         "rtracklayer",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -2874,7 +2862,6 @@
         "ggtree",
         "graphite",
         "reactome.db",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -3007,7 +2994,6 @@
         "motifmatchr",
         "pipeFrame",
         "rtracklayer",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -3125,7 +3111,6 @@
         "gprofiler2",
         "org.Hs.eg.db",
         "reactome.db",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -3162,7 +3147,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -3434,7 +3418,6 @@
         "pathview",
         "pbkrtest",
         "rstatix",
-        "scatterpie",
         "survminer",
         "tidytree",
         "treeio",
@@ -3816,7 +3799,6 @@
         "ggtree",
         "goProfiles",
         "org.Hs.eg.db",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -4355,7 +4337,6 @@
         "pbkrtest",
         "rstatix",
         "scater",
-        "scatterpie",
         "scran",
         "scuttle",
         "tidytree",
@@ -4684,7 +4665,6 @@
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "pathview",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -4889,7 +4869,6 @@
         "ggraph",
         "ggtree",
         "interactiveDisplayBase",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -4971,7 +4950,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -5132,7 +5110,6 @@
         "reactome.db",
         "rhdf5",
         "rtracklayer",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -5280,7 +5257,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -5432,7 +5408,6 @@
         "rqubic",
         "rstatix",
         "s4vd",
-        "scatterpie",
         "subspace",
         "tidytree",
         "tidyverse",
@@ -5463,7 +5438,6 @@
         "pbkrtest",
         "reactome.db",
         "rstatix",
-        "scatterpie",
         "tidytree",
         "tidyverse",
         "treeio",
@@ -5591,7 +5565,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -5842,7 +5815,6 @@
         "graphite",
         "reactome.db",
         "ropls",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -6027,7 +5999,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -6410,7 +6381,6 @@
         "ggraph",
         "ggtree",
         "org.Hs.eg.db",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -6520,7 +6490,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -6607,7 +6576,6 @@
         "ggtree",
         "graphite",
         "reactome.db",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -6812,7 +6780,6 @@
         "org.Mm.eg.db",
         "rGREAT",
         "rtracklayer",
-        "scatterpie",
         "soGGi",
         "tidytree",
         "treeio",
@@ -7187,7 +7154,6 @@
         "ggtree",
         "graphite",
         "reactome.db",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -7665,7 +7631,6 @@
         "pbkrtest",
         "rstatix",
         "rtracklayer",
-        "scatterpie",
         "sva",
         "systemPipeR",
         "tidytree",
@@ -8060,7 +8025,6 @@
         "meshr",
         "nnTensor",
         "reactome.db",
-        "scatterpie",
         "schex",
         "tidytree",
         "treeio",
@@ -8106,7 +8070,6 @@
         "ggraph",
         "ggtree",
         "rtracklayer",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -8245,7 +8208,6 @@
         "org.Hs.eg.db",
         "reactome.db",
         "rhdf5",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -8787,7 +8749,6 @@
         "tidyverse"
     ],
     "STdeconvolve": [
-        "scatterpie",
         "viridis"
     ],
     "stJoincount": [
@@ -8986,7 +8947,6 @@
         "pbkrtest",
         "rstatix",
         "rtracklayer",
-        "scatterpie",
         "sesame",
         "sesameData",
         "tidytree",
@@ -9083,7 +9043,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "scatterpie",
         "tidytree",
         "treeio",
         "viridis"
@@ -9880,7 +9839,6 @@
     "ggraph": [
         "viridis"
     ],
-    "scatterpie": [],
     "rms": [
         "Hmisc",
         "viridis"
