@@ -39728,9 +39728,7 @@
         "tibble",
         "vctrs"
     ],
-    "OrderedList": [
-        "twilight"
-    ],
+    "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -59727,7 +59725,6 @@
         "quantreg",
         "survival"
     ],
-    "twilight": [],
     "twoddpcr": [
         "bslib",
         "fontawesome",
