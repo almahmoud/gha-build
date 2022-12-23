@@ -1726,7 +1726,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "diffuStats": [],
     "diffUTR": [
         "DESeq2",
         "DEXSeq",
