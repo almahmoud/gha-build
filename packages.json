@@ -7150,7 +7150,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "summarytools",
         "testthat",
         "unmarked"
     ],
@@ -11863,7 +11862,6 @@
         "testthat",
         "unmarked"
     ],
-    "summarytools": [],
     "unmarked": [
         "lme4",
         "nloptr",
