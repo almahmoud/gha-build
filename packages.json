@@ -8293,7 +8293,6 @@
         "viridis",
         "waldo"
     ],
-    "cycle": [],
     "cydar": [
         "BiocNeighbors",
         "DelayedArray",
