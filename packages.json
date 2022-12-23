@@ -30769,7 +30769,6 @@
         "tidyselect",
         "uwot"
     ],
-    "NeighborNet": [],
     "nempi": [
         "BoolNet",
         "Linnorm",
