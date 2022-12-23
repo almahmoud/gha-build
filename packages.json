@@ -7238,7 +7238,6 @@
         "BSgenome",
         "GenomicFeatures",
         "Organism.dplyr",
-        "mirbase.db",
         "plotgardener",
         "plyranges",
         "rtracklayer"
@@ -8156,7 +8155,6 @@
         "rtracklayer"
     ],
     "kmlShape": [],
-    "mirbase.db": [],
     "msigdb": [
         "ExperimentHub",
         "GSEABase",
