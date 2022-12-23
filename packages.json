@@ -6008,7 +6008,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "MCMCprecision",
         "RcppML",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -30308,7 +30307,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MCMCprecision",
         "NMF",
         "RSQLite",
         "Rsamtools",
@@ -43766,7 +43764,6 @@
         "KEGGREST",
         "M3Drop",
         "MAST",
-        "MCMCprecision",
         "ROCR",
         "RSQLite",
         "RcppML",
@@ -53664,7 +53661,6 @@
         "tibble",
         "vctrs"
     ],
-    "MCMCprecision": [],
     "multipanelfigure": [
         "assertive.types",
         "ggplot2",
