@@ -1446,7 +1446,6 @@
     "EGSEA": [
         "GSVA",
         "PADOG",
-        "gage",
         "hgu133a.db",
         "hgu133plus2.db",
         "pathview"
@@ -1829,7 +1828,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "gage": [],
     "GARS": [
         "DESeq2",
         "DaMiRseq",
