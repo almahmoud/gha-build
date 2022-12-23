@@ -3490,7 +3490,6 @@
     "SplicingGraphs": [
         "GenomicFeatures"
     ],
-    "splineTimeR": [],
     "SPLINTER": [
         "BSgenome.Mmusculus.UCSC.mm9",
         "GenomicFeatures",
