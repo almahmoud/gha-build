@@ -13520,7 +13520,6 @@
         "sva",
         "viridis"
     ],
-    "QSutils": [],
     "qsvaR": [
         "AnnotationDbi",
         "SummarizedExperiment",
