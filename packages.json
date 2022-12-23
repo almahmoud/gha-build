@@ -7947,7 +7947,6 @@
         "biomaRt",
         "viridis"
     ],
-    "seqArchR": [],
     "seqCAT": [
         "BSgenome",
         "GenomicFeatures",
