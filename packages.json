@@ -37276,7 +37276,6 @@
         "RISmed",
         "RSQLite",
         "VarfromPDB",
-        "XML2R",
         "XVector",
         "blob",
         "broom",
@@ -69344,13 +69343,11 @@
     ],
     "VarfromPDB": [
         "RISmed",
-        "XML2R",
         "httr",
         "openssl",
         "stringr",
         "vctrs"
     ],
-    "XML2R": [],
     "mppa": [],
     "huge": [
         "RcppEigen",
