@@ -1058,7 +1058,6 @@
         "GO.db",
         "Hmisc",
         "htmlTable",
-        "precrec",
         "rms",
         "topGO",
         "viridis",
@@ -3402,9 +3401,7 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "diffuStats": [
-        "precrec"
-    ],
+    "diffuStats": [],
     "diffUTR": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -14007,7 +14004,6 @@
         "htmlTable",
         "viridis"
     ],
-    "precrec": [],
     "xlsx": [],
     "synaptome.db": [
         "AnnotationDbi",
