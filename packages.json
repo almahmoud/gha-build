@@ -5465,8 +5465,7 @@
         "ggplot2"
     ],
     "deltaGseg": [
-        "ggplot2",
-        "tseries"
+        "ggplot2"
     ],
     "DeMixT": [
         "AnnotationDbi",
@@ -16323,7 +16322,6 @@
         "htmlwidgets",
         "rmarkdown",
         "tidyr",
-        "tseries",
         "viridis",
         "vsn"
     ],
@@ -17277,8 +17275,7 @@
         "biomformat",
         "ggplot2",
         "phyloseq",
-        "rhdf5",
-        "tseries"
+        "rhdf5"
     ],
     "Rcpi": [
         "AnnotationDbi",
@@ -25069,7 +25066,6 @@
         "dplyr",
         "tidyr"
     ],
-    "tseries": [],
     "ggplot.multistats": [
         "ggplot2"
     ],
@@ -25916,8 +25912,7 @@
         "rtracklayer"
     ],
     "forecast": [
-        "ggplot2",
-        "tseries"
+        "ggplot2"
     ],
     "rhandsontable": [
         "htmlwidgets",
