@@ -1530,7 +1530,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "epigenomix": [],
     "epigraHMM": [
         "BSgenome",
         "GreyListChIP",
