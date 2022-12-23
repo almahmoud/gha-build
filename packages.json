@@ -8529,7 +8529,6 @@
         "ShortRead"
     ],
     "systemPipeShiny": [
-        "drawer",
         "plotly",
         "shinydashboardPlus",
         "spsComps"
@@ -10157,7 +10156,6 @@
         "fields"
     ],
     "spsComps": [],
-    "drawer": [],
     "GenKern": [],
     "gghighlight": [],
     "bestNormalize": [
