@@ -2765,7 +2765,6 @@
         "DESeq2",
         "DOSE",
         "ReactomePA",
-        "anyLib",
         "clusterProfiler",
         "enrichplot",
         "ggtree"
@@ -4854,7 +4853,6 @@
     ],
     "BiBitR": [],
     "cvms": [],
-    "anyLib": [],
     "blme": [],
     "deconstructSigs": [
         "BSgenome",
