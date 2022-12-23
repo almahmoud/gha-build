@@ -31,7 +31,6 @@
         "httr",
         "lifecycle",
         "memoise",
-        "mpm",
         "multtest",
         "openssl",
         "pamr",
@@ -67,7 +66,6 @@
         "httr",
         "lifecycle",
         "memoise",
-        "mpm",
         "multtest",
         "openssl",
         "survival",
@@ -25109,7 +25107,6 @@
         "httr",
         "lifecycle",
         "memoise",
-        "mpm",
         "openssl",
         "vctrs"
     ],
@@ -83663,7 +83660,6 @@
         "survival",
         "vctrs"
     ],
-    "mpm": [],
     "glmnet": [
         "RcppEigen",
         "foreach",
