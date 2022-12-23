@@ -815,7 +815,6 @@
     "HiContacts": [
         "GenomicInteractions",
         "Gviz",
-        "HiContactsData",
         "biovizBase"
     ],
     "HiLDA": [],
@@ -1995,7 +1994,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "HiContactsData": [],
     "EnsDb.Hsapiens.v75": [],
     "sesameData": [],
     "FlowSorted.Blood.450k": [
