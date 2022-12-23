@@ -20114,7 +20114,6 @@
         "miniUI",
         "multcomp",
         "patchwork",
-        "phyclust",
         "pillar",
         "plotly",
         "purrr",
@@ -51155,7 +51154,6 @@
     "Rlabkey": [
         "httr"
     ],
-    "phyclust": [],
     "depmixS4": [],
     "golem": [
         "bslib",
