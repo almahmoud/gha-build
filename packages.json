@@ -14368,7 +14368,6 @@
         "XVector",
         "annotate",
         "blob",
-        "blockmodeling",
         "futile.logger",
         "geneplotter",
         "ggplot2",
@@ -15946,7 +15945,6 @@
         "vctrs"
     ],
     "EBSeq": [
-        "blockmodeling",
         "gplots",
         "pillar",
         "rematch2",
@@ -15957,7 +15955,6 @@
     ],
     "EBSeqHMM": [
         "EBSeq",
-        "blockmodeling",
         "gplots",
         "pillar",
         "rematch2",
@@ -38049,7 +38046,6 @@
     "Oscope": [
         "BiocParallel",
         "EBSeq",
-        "blockmodeling",
         "futile.logger",
         "gplots",
         "pillar",
@@ -47833,7 +47829,6 @@
         "XVector",
         "arm",
         "beachmat",
-        "blockmodeling",
         "bluster",
         "dqrng",
         "fields",
@@ -47870,7 +47865,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "blockmodeling",
         "futile.logger",
         "ggplot2",
         "gplots",
@@ -63830,7 +63824,6 @@
         "tibble",
         "vctrs"
     ],
-    "blockmodeling": [],
     "swamp": [
         "gplots"
     ],
