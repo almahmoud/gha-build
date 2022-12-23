@@ -803,7 +803,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "rtracklayer"
     ],
-    "breakpointR": [],
     "BRGenomics": [
         "DESeq2",
         "annotate",
