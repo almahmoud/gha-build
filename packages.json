@@ -5612,7 +5612,6 @@
         "BSgenome",
         "GenomicFeatures",
         "VariantAnnotation",
-        "bestNormalize",
         "naniar"
     ],
     "TNBC.CMS": [
@@ -6477,7 +6476,6 @@
     ],
     "SpatialExtremes": [],
     "GenKern": [],
-    "bestNormalize": [],
     "naniar": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
