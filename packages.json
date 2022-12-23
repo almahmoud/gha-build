@@ -212,7 +212,6 @@
     "apComplex": [],
     "APL": [
         "Seurat",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "topGO"
     ],
@@ -235,7 +234,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer"
     ],
@@ -261,7 +259,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer"
     ],
@@ -277,8 +274,7 @@
     ],
     "artMS": [
         "MSstats",
-        "lme4",
-        "org.Hs.eg.db"
+        "lme4"
     ],
     "ASICS": [
         "ropls"
@@ -330,7 +326,6 @@
         "annotate",
         "chromVAR",
         "motifmatchr",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "projectR",
         "rGREAT",
@@ -381,7 +376,6 @@
         "GSEABase",
         "annotate",
         "genefilter",
-        "org.Hs.eg.db",
         "reactome.db"
     ],
     "AUCell": [
@@ -532,7 +526,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
         "wateRmelon"
@@ -566,7 +559,6 @@
         "ggtree",
         "lme4",
         "org.Bt.eg.db",
-        "org.Hs.eg.db",
         "pbkrtest",
         "radiant.data",
         "reactome.db",
@@ -652,7 +644,6 @@
         "AnnotationHub",
         "Hmisc",
         "WGCNA",
-        "org.Hs.eg.db",
         "synaptome.data",
         "synaptome.db",
         "viridis"
@@ -667,7 +658,6 @@
     ],
     "BioNetStat": [
         "Hmisc",
-        "org.Hs.eg.db",
         "pathview",
         "viridis"
     ],
@@ -704,7 +694,6 @@
         "bsseq",
         "bumphunter",
         "dmrseq",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "regioneR",
         "rhdf5",
@@ -729,8 +718,7 @@
     "BLMA": [
         "PADOG",
         "hgu133a.db",
-        "hgu133plus2.db",
-        "org.Hs.eg.db"
+        "hgu133plus2.db"
     ],
     "BloodGen3Module": [
         "AnnotationHub",
@@ -788,7 +776,6 @@
         "derfinderPlot",
         "ensembldb",
         "ggbio",
-        "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
     ],
@@ -901,7 +888,6 @@
         "annotate",
         "genefilter",
         "hgu133a.db",
-        "org.Hs.eg.db",
         "phenoTest",
         "viridis"
     ],
@@ -996,7 +982,6 @@
         "viridis"
     ],
     "cellity": [
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "topGO"
     ],
@@ -1116,7 +1101,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
         "sva",
@@ -1143,7 +1127,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rtracklayer",
         "viridis"
@@ -1162,7 +1145,6 @@
         "Hmisc",
         "chipenrich.data",
         "org.Dr.eg.db",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "org.Rn.eg.db",
         "rms",
@@ -1400,9 +1382,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "CoCiteStats": [
-        "org.Hs.eg.db"
-    ],
+    "CoCiteStats": [],
     "COCOA": [
         "BSgenome",
         "HDF5Array",
@@ -1509,7 +1489,6 @@
         "ggraph",
         "ggtree",
         "lme4",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "pbkrtest",
         "rstatix",
@@ -1545,7 +1524,6 @@
         "dendextend",
         "ensembldb",
         "geneplotter",
-        "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
     ],
@@ -1562,7 +1540,6 @@
         "rtracklayer"
     ],
     "consICA": [
-        "org.Hs.eg.db",
         "topGO"
     ],
     "contiBAIT": [
@@ -1885,7 +1862,6 @@
     "dce": [
         "epiNEM",
         "ggraph",
-        "org.Hs.eg.db",
         "tidyverse",
         "viridis"
     ],
@@ -1913,7 +1889,6 @@
         "ggraph",
         "ggtree",
         "heatmaply",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "pathview",
         "sva",
@@ -2170,7 +2145,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
         "viridis"
@@ -2251,8 +2225,7 @@
         "hgu133a.db",
         "hgu133a2.db",
         "hgu133plus2.db",
-        "oligo",
-        "org.Hs.eg.db"
+        "oligo"
     ],
     "DSS": [
         "BSgenome",
@@ -2286,7 +2259,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "viridis"
     ],
@@ -2325,7 +2297,6 @@
         "geneplotter",
         "ggraph",
         "ggtree",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "viridis"
     ],
@@ -2339,7 +2310,6 @@
         "globaltest",
         "hgu133a.db",
         "hgu133plus2.db",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "org.Rn.eg.db",
         "pathview",
@@ -2389,7 +2359,6 @@
     "EnrichmentBrowser": [
         "GSEABase",
         "annotate",
-        "org.Hs.eg.db",
         "pathview",
         "safe"
     ],
@@ -2524,7 +2493,6 @@
         "ensembldb",
         "genefilter",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
         "viridis"
@@ -2577,7 +2545,6 @@
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
-        "org.Hs.eg.db",
         "rtracklayer"
     ],
     "ERSSA": [
@@ -2697,7 +2664,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "org.Hs.eg.db",
         "reactome.db",
         "viridis"
     ],
@@ -2753,7 +2719,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer"
     ],
@@ -2954,7 +2919,6 @@
         "ggraph",
         "ggtree",
         "lme4",
-        "org.Hs.eg.db",
         "pathview",
         "pbkrtest",
         "rstatix",
@@ -2977,7 +2941,6 @@
     ],
     "geneAttribution": [
         "GenomicFeatures",
-        "org.Hs.eg.db",
         "rtracklayer"
     ],
     "genefilter": [
@@ -3227,7 +3190,6 @@
         "WGCNA",
         "annotate",
         "genefilter",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "viridis"
     ],
@@ -3242,7 +3204,6 @@
     "GOexpress": [],
     "GOpro": [
         "dendextend",
-        "org.Hs.eg.db",
         "viridis"
     ],
     "goProfiles": [],
@@ -3254,7 +3215,6 @@
     ],
     "GOSim": [
         "annotate",
-        "org.Hs.eg.db",
         "topGO"
     ],
     "goSorensen": [
@@ -3266,7 +3226,6 @@
         "ggraph",
         "ggtree",
         "goProfiles",
-        "org.Hs.eg.db",
         "viridis"
     ],
     "goSTAG": [],
@@ -3317,7 +3276,6 @@
         "ExperimentHub",
         "GSEABase",
         "annotate",
-        "org.Hs.eg.db",
         "pathview",
         "safe"
     ],
@@ -3333,7 +3291,6 @@
         "Homo.sapiens",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "org.Hs.eg.db",
         "rtracklayer"
     ],
     "GSRI": [
@@ -3534,7 +3491,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer"
     ],
@@ -3718,7 +3674,6 @@
         "ggraph",
         "ggtree",
         "lme4",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "pbkrtest",
         "rstatix",
@@ -3800,12 +3755,10 @@
         "rtracklayer"
     ],
     "KEGGlincs": [
-        "hgu133a.db",
-        "org.Hs.eg.db"
+        "hgu133a.db"
     ],
     "keggorthology": [
-        "hgu95av2.db",
-        "org.Hs.eg.db"
+        "hgu95av2.db"
     ],
     "kissDE": [
         "BSgenome",
@@ -3912,7 +3865,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer"
     ],
@@ -3976,7 +3928,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
         "viridis"
@@ -3992,7 +3943,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "org.Hs.eg.db",
         "pathview",
         "viridis"
     ],
@@ -4023,8 +3973,7 @@
     "maPredictDSC": [
         "affy",
         "gcrma",
-        "hgu133plus2.db",
-        "org.Hs.eg.db"
+        "hgu133plus2.db"
     ],
     "maser": [
         "BSgenome",
@@ -4078,7 +4027,6 @@
     "MCbiclust": [
         "Hmisc",
         "WGCNA",
-        "org.Hs.eg.db",
         "viridis"
     ],
     "mCSEA": [
@@ -4092,7 +4040,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
     ],
@@ -4118,7 +4065,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
         "sva",
@@ -4137,7 +4083,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
         "wateRmelon"
@@ -4193,7 +4138,6 @@
         "ensembldb",
         "lme4",
         "mygene",
-        "org.Hs.eg.db",
         "pbkrtest",
         "rtracklayer",
         "viridis"
@@ -4374,7 +4318,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "org.Hs.eg.db",
         "reactome.db",
         "rhdf5",
         "rtracklayer",
@@ -4422,7 +4365,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer"
     ],
@@ -4518,8 +4460,7 @@
         "GOstats",
         "GSEABase",
         "annotate",
-        "genefilter",
-        "org.Hs.eg.db"
+        "genefilter"
     ],
     "miloR": [
         "ggraph",
@@ -4553,7 +4494,6 @@
         "lumiHumanAll.db",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
         "viridis"
@@ -4583,9 +4523,7 @@
         "rtracklayer"
     ],
     "MiRaGE": [],
-    "mirIntegrator": [
-        "org.Hs.eg.db"
-    ],
+    "mirIntegrator": [],
     "miRLAB": [
         "AnnotationForge",
         "Category",
@@ -4595,7 +4533,6 @@
         "TCGAbiolinks",
         "annotate",
         "genefilter",
-        "org.Hs.eg.db",
         "viridis"
     ],
     "miRNAmeConverter": [],
@@ -4621,7 +4558,6 @@
         "ggtree",
         "lme4",
         "miRspongeR",
-        "org.Hs.eg.db",
         "pbkrtest",
         "reactome.db",
         "rstatix",
@@ -4642,7 +4578,6 @@
         "ggraph",
         "ggtree",
         "lme4",
-        "org.Hs.eg.db",
         "pbkrtest",
         "reactome.db",
         "rstatix",
@@ -4663,7 +4598,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer"
     ],
@@ -4821,9 +4755,7 @@
         "scran",
         "scuttle"
     ],
-    "mslp": [
-        "org.Hs.eg.db"
-    ],
+    "mslp": [],
     "msmsEDA": [
         "MSnbase",
         "affy",
@@ -5073,11 +5005,8 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "NanoStringQCPro": [
-        "org.Hs.eg.db"
-    ],
+    "NanoStringQCPro": [],
     "nanotatoR": [
-        "org.Hs.eg.db",
         "tidyverse"
     ],
     "NBAMSeq": [
@@ -5164,7 +5093,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "org.Hs.eg.db",
         "quantro",
         "rhdf5",
         "rtracklayer",
@@ -5423,8 +5351,7 @@
     ],
     "PADOG": [
         "hgu133a.db",
-        "hgu133plus2.db",
-        "org.Hs.eg.db"
+        "hgu133plus2.db"
     ],
     "pageRank": [
         "BSgenome",
@@ -5448,7 +5375,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "org.Hs.eg.db",
         "viridis"
     ],
     "panp": [
@@ -5473,9 +5399,7 @@
         "phyloseq",
         "rhdf5"
     ],
-    "pathview": [
-        "org.Hs.eg.db"
-    ],
+    "pathview": [],
     "pcaExplorer": [
         "AnnotationForge",
         "Category",
@@ -5567,7 +5491,6 @@
         "annotate",
         "genefilter",
         "hgu133a.db",
-        "org.Hs.eg.db",
         "viridis"
     ],
     "PhenStat": [
@@ -5680,9 +5603,7 @@
         "annotate",
         "geneplotter"
     ],
-    "PoTRA": [
-        "org.Hs.eg.db"
-    ],
+    "PoTRA": [],
     "POWSC": [],
     "ppcseq": [
         "benchmarkme"
@@ -5704,7 +5625,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "affy",
-        "org.Hs.eg.db",
         "rCGH",
         "rtracklayer"
     ],
@@ -5783,7 +5703,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rGREAT",
         "rtracklayer",
@@ -6066,7 +5985,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "affy",
-        "org.Hs.eg.db",
         "rtracklayer"
     ],
     "RcisTarget": [
@@ -6208,7 +6126,6 @@
         "bumphunter",
         "genefilter",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer"
     ],
@@ -6282,7 +6199,6 @@
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "org.Hs.eg.db",
         "rtracklayer"
     ],
     "rgsepd": [
@@ -6292,7 +6208,6 @@
         "geneLenDataBase",
         "geneplotter",
         "goseq",
-        "org.Hs.eg.db",
         "rtracklayer"
     ],
     "rhdf5": [],
@@ -6426,7 +6341,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "org.Hs.eg.db",
         "recount",
         "rtracklayer",
         "viridis"
@@ -6514,7 +6428,6 @@
         "ggraph",
         "ggtree",
         "lme4",
-        "org.Hs.eg.db",
         "pathview",
         "pbkrtest",
         "rstatix",
@@ -6551,7 +6464,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
         "viridis"
@@ -6633,7 +6545,6 @@
     "rTRM": [],
     "rTRMui": [
         "MotifDb",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rTRM",
         "rtracklayer"
@@ -6655,7 +6566,6 @@
     ],
     "sangeranalyseR": [],
     "SBGNview": [
-        "org.Hs.eg.db",
         "pathview"
     ],
     "SC3": [],
@@ -6803,7 +6713,6 @@
         "QFeatures"
     ],
     "scPipe": [
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rtracklayer",
         "scater",
@@ -7016,7 +6925,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "org.Hs.eg.db",
         "reactome.db",
         "rhdf5",
         "viridis"
@@ -7049,7 +6957,6 @@
         "ggpubr",
         "iC10",
         "lme4",
-        "org.Hs.eg.db",
         "pbkrtest",
         "rhdf5",
         "rstatix",
@@ -7090,8 +6997,7 @@
         "viridis"
     ],
     "simplifyEnrichment": [
-        "GOSemSim",
-        "org.Hs.eg.db"
+        "GOSemSim"
     ],
     "sincell": [
         "fields",
@@ -7129,7 +7035,6 @@
         "geneplotter",
         "ggtree",
         "hgu95a.db",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
         "scDblFinder",
@@ -7185,7 +7090,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
         "wateRmelon"
@@ -7202,7 +7106,6 @@
         "Hmisc",
         "geneLenDataBase",
         "goseq",
-        "org.Hs.eg.db",
         "reactome.db",
         "rtracklayer",
         "viridis"
@@ -7352,8 +7255,7 @@
         "scuttle"
     ],
     "SpidermiR": [
-        "miRNAtap.db",
-        "org.Hs.eg.db"
+        "miRNAtap.db"
     ],
     "spiky": [
         "BSgenome",
@@ -7447,7 +7349,6 @@
     ],
     "sSNAPPY": [
         "ggraph",
-        "org.Hs.eg.db",
         "viridis"
     ],
     "ssPATHS": [
@@ -7489,8 +7390,7 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "miRNAtap.db",
-        "org.Hs.eg.db"
+        "miRNAtap.db"
     ],
     "STATegRa": [
         "affy"
@@ -7521,9 +7421,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "SubCellBarCode": [
-        "org.Hs.eg.db"
-    ],
+    "SubCellBarCode": [],
     "Summix": [],
     "supersigs": [],
     "surfaltr": [],
@@ -7657,7 +7555,6 @@
         "ggraph",
         "ggtree",
         "lme4",
-        "org.Hs.eg.db",
         "pathview",
         "pbkrtest",
         "rstatix",
@@ -7704,7 +7601,6 @@
     ],
     "TFEA.ChIP": [
         "GenomicFeatures",
-        "org.Hs.eg.db",
         "rtracklayer"
     ],
     "TFHAZ": [
@@ -7720,8 +7616,7 @@
     ],
     "TFutils": [
         "GSEABase",
-        "annotate",
-        "org.Hs.eg.db"
+        "annotate"
     ],
     "tidySingleCellExperiment": [],
     "tidySummarizedExperiment": [],
@@ -7830,7 +7725,6 @@
         "GOSemSim",
         "annotate",
         "geneplotter",
-        "org.Hs.eg.db",
         "topGO"
     ],
     "TraRe": [
@@ -7867,7 +7761,6 @@
         "MotifDb",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "WGCNA",
-        "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
     ],
@@ -7947,7 +7840,6 @@
         "annotate",
         "fda",
         "geneplotter",
-        "org.Hs.eg.db",
         "regioneR",
         "rtracklayer"
     ],
@@ -7967,7 +7859,6 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
     ],
@@ -8085,7 +7976,6 @@
         "annotate",
         "ggraph",
         "msigdb",
-        "org.Hs.eg.db",
         "org.Mm.eg.db",
         "textstem",
         "viridis"
@@ -8144,7 +8034,6 @@
         "lumi",
         "methylumi",
         "minfi",
-        "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer"
     ],
@@ -8216,7 +8105,6 @@
         "annotate",
         "lme4",
         "lmerTest",
-        "org.Hs.eg.db",
         "pathview",
         "pbkrtest",
         "safe",
@@ -8268,7 +8156,6 @@
     ],
     "ReorderCluster": [],
     "Seurat": [],
-    "org.Hs.eg.db": [],
     "org.Mm.eg.db": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
@@ -8282,7 +8169,6 @@
         "GenomicFeatures",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "org.Hs.eg.db",
         "rtracklayer"
     ],
     "SNPlocs.Hsapiens.dbSNP144.GRCh37": [
@@ -8338,7 +8224,6 @@
     "FDb.InfiniumMethylation.hg19": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "org.Hs.eg.db",
         "rtracklayer"
     ],
     "mGSZ": [],
@@ -8439,12 +8324,8 @@
         "genefilter",
         "geneplotter"
     ],
-    "hgu133plus2.db": [
-        "org.Hs.eg.db"
-    ],
-    "hgu133a.db": [
-        "org.Hs.eg.db"
-    ],
+    "hgu133plus2.db": [],
+    "hgu133a.db": [],
     "gamlss": [],
     "GenomicState": [
         "AnnotationHub",
@@ -8455,7 +8336,6 @@
         "VariantAnnotation",
         "bumphunter",
         "derfinder",
-        "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
     ],
@@ -8633,9 +8513,7 @@
         "lme4",
         "pbkrtest"
     ],
-    "hgu133a2.db": [
-        "org.Hs.eg.db"
-    ],
+    "hgu133a2.db": [],
     "easierData": [
         "AnnotationHub",
         "ExperimentHub"
@@ -8694,9 +8572,7 @@
     "pd.mapping50k.xba240": [
         "oligo"
     ],
-    "hgu95av2.db": [
-        "org.Hs.eg.db"
-    ],
+    "hgu95av2.db": [],
     "adabag": [],
     "glmmTMB": [
         "lme4"
@@ -8757,9 +8633,7 @@
         "rtracklayer"
     ],
     "rebus": [],
-    "lumiHumanAll.db": [
-        "org.Hs.eg.db"
-    ],
+    "lumiHumanAll.db": [],
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome",
         "rtracklayer"
@@ -8907,8 +8781,7 @@
     "GSVAdata": [
         "GSEABase",
         "annotate",
-        "hgu95a.db",
-        "org.Hs.eg.db"
+        "hgu95a.db"
     ],
     "SoupX": [
         "Seurat"
@@ -8926,9 +8799,7 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "hgu95a.db": [
-        "org.Hs.eg.db"
-    ],
+    "hgu95a.db": [],
     "sampSurf": [],
     "miRNAtap.db": [],
     "MESS": [
@@ -8958,7 +8829,6 @@
         "ExperimentHub",
         "GSEABase",
         "annotate",
-        "org.Hs.eg.db",
         "org.Mm.eg.db"
     ]
 }
