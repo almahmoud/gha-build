@@ -7106,7 +7106,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "BAC": [],
     "bacon": [
         "BH",
         "BiocParallel",
