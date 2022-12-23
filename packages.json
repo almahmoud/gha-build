@@ -22562,7 +22562,6 @@
         "SummarizedExperiment",
         "rhdf5"
     ],
-    "scShapes": [],
     "scTensor": [
         "AnnotationDbi",
         "AnnotationForge",
