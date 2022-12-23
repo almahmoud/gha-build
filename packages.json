@@ -3962,7 +3962,6 @@
         "rhdf5",
         "rstatix"
     ],
-    "TAPseq": [],
     "TargetDecoy": [
         "car",
         "ggpubr",
