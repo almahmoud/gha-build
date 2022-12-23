@@ -868,7 +868,6 @@
     "CluMSID": [],
     "clusterExperiment": [
         "genefilter",
-        "mbkmeans",
         "zinbwave"
     ],
     "clusterProfiler": [
@@ -2759,7 +2758,6 @@
         "lmerTest",
         "sva"
     ],
-    "mbkmeans": [],
     "mbOmic": [
         "WGCNA"
     ],
@@ -3493,7 +3491,6 @@
     "netSmooth": [
         "clusterExperiment",
         "genefilter",
-        "mbkmeans",
         "scater",
         "zinbwave"
     ],
