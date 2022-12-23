@@ -3755,7 +3755,6 @@
         "ggpubr",
         "ggtree",
         "gprofiler2",
-        "homologene",
         "interactiveDisplayBase",
         "lme4",
         "nloptr",
@@ -7839,7 +7838,6 @@
         "ggpubr",
         "ggtree",
         "gprofiler2",
-        "homologene",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -12663,7 +12661,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "homologene": [],
     "gprofiler2": [
         "plotly"
     ],
