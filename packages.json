@@ -4475,7 +4475,6 @@
     ],
     "M3Drop": [
         "Hmisc",
-        "densEstBayes",
         "reldist",
         "viridis"
     ],
@@ -7241,7 +7240,6 @@
         "GenomicFeatures",
         "annotate",
         "biomaRt",
-        "densEstBayes",
         "geneplotter",
         "reldist",
         "rtracklayer"
@@ -7748,7 +7746,6 @@
     "scMerge": [
         "Hmisc",
         "M3Drop",
-        "densEstBayes",
         "reldist",
         "viridis"
     ],
@@ -8153,7 +8150,6 @@
         "biomaRt",
         "celda",
         "celldex",
-        "densEstBayes",
         "ensembldb",
         "fields",
         "fishpond",
@@ -9976,10 +9972,7 @@
         "org.Hs.eg.db"
     ],
     "sortable": [],
-    "reldist": [
-        "densEstBayes"
-    ],
-    "densEstBayes": [],
+    "reldist": [],
     "adabag": [
         "caret"
     ],
