@@ -54049,7 +54049,6 @@
         "httr",
         "openssl"
     ],
-    "Rdisop": [],
     "RDRToolbox": [
         "bslib",
         "ellipsis",
