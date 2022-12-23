@@ -4898,7 +4898,6 @@
         "rstatix",
         "s4vd",
         "scatterpie",
-        "subspace",
         "tidytree",
         "tidyverse",
         "treeio"
@@ -9291,7 +9290,6 @@
     "BiBitR": [
         "dendextend"
     ],
-    "subspace": [],
     "SOMbrero": [],
     "cvms": [
         "groupdata2",
