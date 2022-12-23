@@ -3640,9 +3640,7 @@
         "geneplotter",
         "topGO"
     ],
-    "granulator": [
-        "epiR"
-    ],
+    "granulator": [],
     "graphite": [],
     "GreyListChIP": [
         "BSgenome",
@@ -9660,7 +9658,6 @@
         "Hmisc"
     ],
     "gRain": [],
-    "epiR": [],
     "HiContactsData": [
         "AnnotationHub",
         "ExperimentHub",
