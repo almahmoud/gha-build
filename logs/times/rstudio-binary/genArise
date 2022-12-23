@@ -1,0 +1,363 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   6531a15d..faee2801  main       -> origin/main
+Updating 6531a15d..faee2801
+Fast-forward
+ lists/bladderbatch                            |    2 +-
+ lists/htmltools                               |    2 +-
+ lists/memoise                                 |    2 +-
+ logs/run_ids/rstudio-binaries/cvTools         |    2 +
+ logs/sizes/rstudio-binaries/binaries/memoise  |    1 +
+ logs/sizes/rstudio-binaries/libraries/memoise |    1 +
+ logs/times/rstudio-binary/memoise             |  169 +++
+ packages.json                                 | 2014 +------------------------
+ 8 files changed, 185 insertions(+), 2008 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/memoise
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/memoise
+ create mode 100644 logs/times/rstudio-binary/memoise
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=genArise
++ PKG=genArise
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "genArise"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  7 1897k    7  139k    0     0    98k      0  0:00:19  0:00:01  0:00:18   98k 26 1897k   26  505k    0     0   212k      0  0:00:08  0:00:02  0:00:06  212k 56 1897k   56 1063k    0     0   311k      0  0:00:06  0:00:03  0:00:03  311k 94 1897k   94 1796k    0     0   410k      0  0:00:04  0:00:04 --:--:--  410k100 1897k  100 1897k    0     0   421k      0  0:00:04  0:00:04 --:--:--  460k
+built/
+built/lattice/
+built/lattice/libs/
+built/lattice/libs/lattice.so
+built/lattice/NEWS
+built/lattice/NAMESPACE
+built/lattice/DESCRIPTION
+built/lattice/help/
+built/lattice/help/paths.rds
+built/lattice/help/lattice.rdx
+built/lattice/help/lattice.rdb
+built/lattice/help/aliases.rds
+built/lattice/help/AnIndex
+built/lattice/data/
+built/lattice/data/Rdata.rds
+built/lattice/data/Rdata.rdb
+built/lattice/data/Rdata.rdx
+built/lattice/Meta/
+built/lattice/Meta/package.rds
+built/lattice/Meta/demo.rds
+built/lattice/Meta/features.rds
+built/lattice/Meta/hsearch.rds
+built/lattice/Meta/links.rds
+built/lattice/Meta/nsInfo.rds
+built/lattice/Meta/Rd.rds
+built/lattice/Meta/data.rds
+built/lattice/po/
+built/lattice/po/it/
+built/lattice/po/it/LC_MESSAGES/
+built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/lattice/po/fr/
+built/lattice/po/fr/LC_MESSAGES/
+built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/lattice/po/ko/
+built/lattice/po/ko/LC_MESSAGES/
+built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/lattice/po/pl/
+built/lattice/po/pl/LC_MESSAGES/
+built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/lattice/po/en@quot/
+built/lattice/po/en@quot/LC_MESSAGES/
+built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/lattice/po/de/
+built/lattice/po/de/LC_MESSAGES/
+built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/lattice/CITATION
+built/lattice/html/
+built/lattice/html/00Index.html
+built/lattice/html/R.css
+built/lattice/INDEX
+built/lattice/R/
+built/lattice/R/lattice
+built/lattice/R/lattice.rdx
+built/lattice/R/lattice.rdb
+built/lattice/demo/
+built/lattice/demo/panel.R
+built/lattice/demo/intervals.R
+built/lattice/demo/labels.R
+built/lattice/demo/lattice.R
+built/locfit/
+built/locfit/libs/
+built/locfit/libs/locfit.so
+built/locfit/NEWS
+built/locfit/NAMESPACE
+built/locfit/DESCRIPTION
+built/locfit/help/
+built/locfit/help/locfit.rdb
+built/locfit/help/paths.rds
+built/locfit/help/aliases.rds
+built/locfit/help/locfit.rdx
+built/locfit/help/AnIndex
+built/locfit/data/
+built/locfit/data/kangaroo.rda
+built/locfit/data/geyser.round.tab.gz
+built/locfit/data/spencer.rda
+built/locfit/data/morths.rda
+built/locfit/data/geyser.rda
+built/locfit/data/trimod.tab.gz
+built/locfit/data/mcyc.tab.gz
+built/locfit/data/stamp.rda
+built/locfit/data/ais.rda
+built/locfit/data/co2.rda
+built/locfit/data/border.rda
+built/locfit/data/cldem.tab.gz
+built/locfit/data/livmet.rda
+built/locfit/data/mine.rda
+built/locfit/data/ethanol.rda
+built/locfit/data/heart.rda
+built/locfit/data/penny.tab.gz
+built/locfit/data/iris.rda
+built/locfit/data/mmsamp.tab.gz
+built/locfit/data/claw54.rda
+built/locfit/data/insect.tab.gz
+built/locfit/data/chemdiab.tab.gz
+built/locfit/data/bad.rda
+built/locfit/data/cltest.rda
+built/locfit/data/cltrain.rda
+built/locfit/data/diab.tab.gz
+built/locfit/Meta/
+built/locfit/Meta/package.rds
+built/locfit/Meta/features.rds
+built/locfit/Meta/hsearch.rds
+built/locfit/Meta/links.rds
+built/locfit/Meta/nsInfo.rds
+built/locfit/Meta/Rd.rds
+built/locfit/Meta/data.rds
+built/locfit/html/
+built/locfit/html/00Index.html
+built/locfit/html/R.css
+built/locfit/INDEX
+built/locfit/R/
+built/locfit/R/locfit.rdb
+built/locfit/R/locfit.rdx
+built/locfit/R/locfit
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 30792  100 30792    0     0  52331      0 --:--:-- --:--:-- --:--:-- 52367
+built/
+built/tkrplot/
+built/tkrplot/libs/
+built/tkrplot/libs/tkrplot.so
+built/tkrplot/NAMESPACE
+built/tkrplot/DESCRIPTION
+built/tkrplot/help/
+built/tkrplot/help/paths.rds
+built/tkrplot/help/tkrplot.rdb
+built/tkrplot/help/tkrplot.rdx
+built/tkrplot/help/aliases.rds
+built/tkrplot/help/AnIndex
+built/tkrplot/Meta/
+built/tkrplot/Meta/package.rds
+built/tkrplot/Meta/features.rds
+built/tkrplot/Meta/hsearch.rds
+built/tkrplot/Meta/links.rds
+built/tkrplot/Meta/nsInfo.rds
+built/tkrplot/Meta/Rd.rds
+built/tkrplot/html/
+built/tkrplot/html/00Index.html
+built/tkrplot/html/R.css
+built/tkrplot/INDEX
+built/tkrplot/R/
+built/tkrplot/R/tkrplot.rdb
+built/tkrplot/R/tkrplot
+built/tkrplot/R/tkrplot.rdx
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 34  685k   34  235k    0     0   188k      0  0:00:03  0:00:01  0:00:02  188k100  685k  100  685k    0     0   308k      0  0:00:02  0:00:02 --:--:--  308k
+built/
+built/xtable/
+built/xtable/NEWS
+built/xtable/NAMESPACE
+built/xtable/DESCRIPTION
+built/xtable/help/
+built/xtable/help/paths.rds
+built/xtable/help/aliases.rds
+built/xtable/help/AnIndex
+built/xtable/help/xtable.rdx
+built/xtable/help/xtable.rdb
+built/xtable/data/
+built/xtable/data/tli.txt.gz
+built/xtable/Meta/
+built/xtable/Meta/package.rds
+built/xtable/Meta/vignette.rds
+built/xtable/Meta/features.rds
+built/xtable/Meta/hsearch.rds
+built/xtable/Meta/links.rds
+built/xtable/Meta/nsInfo.rds
+built/xtable/Meta/Rd.rds
+built/xtable/Meta/data.rds
+built/xtable/html/
+built/xtable/html/00Index.html
+built/xtable/html/R.css
+built/xtable/INDEX
+built/xtable/doc/
+built/xtable/doc/margintable.R
+built/xtable/doc/xtableGallery.Rnw
+built/xtable/doc/listOfTablesGallery.pdf
+built/xtable/doc/listOfTablesGallery.R
+built/xtable/doc/OtherPackagesGallery.Rnw
+built/xtable/doc/margintable.pdf
+built/xtable/doc/xtableGallery.R
+built/xtable/doc/listOfTablesGallery.Rnw
+built/xtable/doc/margintable.Rnw
+built/xtable/doc/OtherPackagesGallery.R
+built/xtable/doc/index.html
+built/xtable/doc/xtableGallery.pdf
+built/xtable/doc/OtherPackagesGallery.pdf
+built/xtable/R/
+built/xtable/R/xtable
+built/xtable/R/xtable.rdx
+built/xtable/R/xtable.rdb
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''genArise'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv genArise_1.74.0_R_x86_64-pc-linux-gnu.tar.gz locfit_1.5-9.6_R_x86_64-pc-linux-gnu.tar.gz tkrplot_0.0-27_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/genArise
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'genArise'
+also installing the dependencies ‘locfit’, ‘tkrplot’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/locfit_1.5-9.6.tar.gz'
+Content type 'binary/octet-stream' length 784963 bytes (766 KB)
+==================================================
+downloaded 766 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/tkrplot_0.0-27.tar.gz'
+Content type 'binary/octet-stream' length 33509 bytes (32 KB)
+==================================================
+downloaded 32 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/genArise_1.74.0.tar.gz'
+Content type 'application/x-gzip' length 852033 bytes (832 KB)
+==================================================
+downloaded 832 KB
+
+* installing *binary* package ‘locfit’ ...
+* ‘locfit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘locfit’ as ‘locfit_1.5-9.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (locfit)
+* installing *source* package ‘tkrplot’ ...
+** package ‘tkrplot’ successfully unpacked and MD5 sums checked
+** using staged installation
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -I/usr/include/tcl8.6 -I/usr/include/tcl8.6  -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c tcltkimg.c -o tcltkimg.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o tkrplot.so tcltkimg.o -L/usr/lib/x86_64-linux-gnu -ltcl8.6 -L/usr/lib/x86_64-linux-gnu -ltk8.6 -lX11 -lXss -lXext -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-tkrplot/00new/tkrplot/libs
+** R
+** byte-compile and prepare package for lazy loading
+Warning message:
+no DISPLAY variable so Tk is not available 
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+Warning: loading Rplot failed
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+Warning: loading Rplot failed
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘tkrplot’ as ‘tkrplot_0.0-27_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tkrplot)
+* installing *source* package ‘genArise’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning messages:
+1: no DISPLAY variable so Tk is not available 
+2: loading Rplot failed 
+Note: possible error in 'pdf(paste(name, ".pdf", ': unused argument (horiz = FALSE) 
+Note: possible error in 'pdf(paste(name, ".pdf", ': unused argument (horiz = FALSE) 
+Note: possible error in 'pdf(paste(name, "OriginalCy3vsCy5.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "OriginalRvsI.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "OriginalMvsA.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "CorrectedCy3vsCy5.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "CorrectedRvsI.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "CorrectedMvsA.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NormalCy3vsCy5.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NormalRvsI.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NormalMvsA.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "FilterCy3vsCy5.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "FilterRvsI.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "FilterMvsA.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NoDuplicatesCy3vsCy5.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NoDuplicatesRvsI.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NoDuplicatesMvsA.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "OriginalCy3vsCy5.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "OriginalRvsI.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "OriginalMvsA.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "CorrectedCy3vsCy5.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "CorrectedRvsI.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "CorrectedMvsA.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NormalCy3vsCy5.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NormalRvsI.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NormalMvsA.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "FilterCy3vsCy5.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "FilterRvsI.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "FilterMvsA.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NoDuplicatesCy3vsCy5.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NoDuplicatesRvsI.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "NoDuplicatesMvsA.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(name, horiz = F, ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, ".pdf", ': unused argument (horiz = FALSE) 
+Note: possible error in 'pdf(paste(name, "R&G.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "BgCy5.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "BgCy3.pdf", ': unused argument (horiz = F) 
+Note: possible error in 'pdf(paste(name, "Swap.pdf", ': unused argument (horiz = F) 
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+Warning: loading Rplot failed
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+Warning: loading Rplot failed
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘genArise’ as ‘genArise_1.74.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (genArise)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpk2boVp/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m24.252s
+user	0m11.147s
+sys	0m1.873s
