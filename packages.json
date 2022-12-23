@@ -2342,7 +2342,6 @@
     "DEsubs": [
         "DESeq2",
         "EBSeq",
-        "NBPSeq",
         "annotate",
         "geneplotter",
         "testthat"
@@ -4968,7 +4967,6 @@
         "DSS",
         "EDASeq",
         "GenomicFeatures",
-        "NBPSeq",
         "ShortRead",
         "annotate",
         "biomaRt",
@@ -7570,9 +7568,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "RNAsense": [
-        "NBPSeq"
-    ],
+    "RNAsense": [],
     "RNASeqR": [
         "DESeq2",
         "DOSE",
@@ -10164,7 +10160,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "NBPSeq": [],
     "hgu133a2.db": [
         "org.Hs.eg.db"
     ],
