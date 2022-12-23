@@ -116,9 +116,7 @@
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "CopyNumberPlots": [],
-    "crisprseekplus": [
-        "GUIDEseq"
-    ],
+    "crisprseekplus": [],
     "crisprVerse": [
         "crisprViz"
     ],
@@ -250,7 +248,6 @@
     ],
     "goSorensen": [],
     "GRmetrics": [],
-    "GUIDEseq": [],
     "HiCcompare": [
         "CGHcall",
         "QDNAseq"
