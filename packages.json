@@ -4258,7 +4258,6 @@
         "ensembldb",
         "viridis"
     ],
-    "pwOmics": [],
     "pwrEWAS": [
         "pwrEWAS.data"
     ],
