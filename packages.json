@@ -5142,7 +5142,6 @@
         "annotate",
         "broom",
         "car",
-        "coin",
         "cowplot",
         "dbplyr",
         "decoupleR",
@@ -8111,7 +8110,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "SummarizedExperiment",
-        "coin",
         "dbplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
@@ -8444,7 +8442,6 @@
         "Seurat",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "coin",
         "cowplot",
         "ggrepel",
         "ggridges",
@@ -9057,8 +9054,7 @@
         "waldo"
     ],
     "lefser": [
-        "SummarizedExperiment",
-        "coin"
+        "SummarizedExperiment"
     ],
     "levi": [
         "DT",
@@ -10509,7 +10505,6 @@
         "annotate",
         "aplot",
         "caret",
-        "coin",
         "decontam",
         "geneplotter",
         "ggbeeswarm",
@@ -10577,7 +10572,6 @@
     "MicrobiotaProcess": [
         "SummarizedExperiment",
         "aplot",
-        "coin",
         "dtplyr",
         "ggfun",
         "ggnewscale",
@@ -20787,7 +20781,6 @@
         "htmlwidgets",
         "interactiveDisplayBase"
     ],
-    "coin": [],
     "ELMER.data": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
