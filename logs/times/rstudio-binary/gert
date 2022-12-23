@@ -1,0 +1,86 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   c40b844d..6df36c7d  main       -> origin/main
+Updating c40b844d..6df36c7d
+Fast-forward
+ lists/BumpyMatrix                                  |     2 +-
+ lists/clock                                        |     2 +-
+ lists/derfinderHelper                              |     2 +-
+ lists/flowCore                                     |     2 +-
+ logs/run_ids/rstudio-binaries/flatxml              |     2 +
+ logs/sizes/rstudio-binaries/binaries/BumpyMatrix   |     1 +
+ .../rstudio-binaries/binaries/derfinderHelper      |     1 +
+ logs/sizes/rstudio-binaries/binaries/flowCore      |     1 +
+ logs/sizes/rstudio-binaries/libraries/BumpyMatrix  |     1 +
+ .../rstudio-binaries/libraries/derfinderHelper     |     1 +
+ logs/sizes/rstudio-binaries/libraries/flowCore     |     1 +
+ logs/times/rstudio-binary/BumpyMatrix              |   256 +
+ logs/times/rstudio-binary/derfinderHelper          |   264 +
+ logs/times/rstudio-binary/flowCore                 | 34620 +++++++++++++++++++
+ packages.json                                      |   142 +-
+ 15 files changed, 35161 insertions(+), 137 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/flatxml
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/BumpyMatrix
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/derfinderHelper
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/flowCore
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/BumpyMatrix
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/derfinderHelper
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/flowCore
+ create mode 100644 logs/times/rstudio-binary/BumpyMatrix
+ create mode 100644 logs/times/rstudio-binary/derfinderHelper
+ create mode 100644 logs/times/rstudio-binary/flowCore
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=gert
++ PKG=gert
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "gert"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency credentials is already found.
+Dependency rstudioapi is already found.
+Dependency zip is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''gert'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv gert_1.9.2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/gert
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'gert'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gert_1.9.2.tar.gz'
+Content type 'binary/octet-stream' length 2841660 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+* installing *binary* package ‘gert’ ...
+* ‘gert’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gert’ as ‘gert_1.9.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gert)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpf2tAGS/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m9.506s
+user	0m5.986s
+sys	0m0.302s
