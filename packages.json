@@ -360,7 +360,6 @@
     "bioCancer": [
         "DOSE",
         "DiagrammeR",
-        "GOSemSim",
         "ReactomePA",
         "car",
         "clusterProfiler",
@@ -676,7 +675,6 @@
     ],
     "CEMiTool": [
         "DOSE",
-        "GOSemSim",
         "WGCNA",
         "clusterProfiler",
         "enrichplot",
@@ -700,7 +698,6 @@
     "CeTF": [
         "DESeq2",
         "DOSE",
-        "GOSemSim",
         "GenomicTools",
         "car",
         "clusterProfiler",
@@ -815,7 +812,6 @@
     ],
     "ChIPseeker": [
         "DOSE",
-        "GOSemSim",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
@@ -893,7 +889,6 @@
     ],
     "clusterProfiler": [
         "DOSE",
-        "GOSemSim",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -1001,7 +996,6 @@
     "conclus": [
         "DOSE",
         "FactoMineR",
-        "GOSemSim",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -1293,7 +1287,6 @@
     "debrowser": [
         "DESeq2",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "genefilter",
@@ -1512,9 +1505,7 @@
         "nloptr",
         "pbkrtest"
     ],
-    "DOSE": [
-        "GOSemSim"
-    ],
+    "DOSE": [],
     "doseR": [
         "lme4",
         "nloptr"
@@ -1556,7 +1547,6 @@
     ],
     "EasyCellType": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -1583,7 +1573,6 @@
     "eegc": [
         "DESeq2",
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -1636,7 +1625,6 @@
     ],
     "enrichplot": [
         "DOSE",
-        "GOSemSim",
         "ggtree",
         "treeio"
     ],
@@ -1644,7 +1632,6 @@
         "BSgenome",
         "CNEr",
         "DOSE",
-        "GOSemSim",
         "TFBSTools",
         "car",
         "clusterProfiler",
@@ -1679,7 +1666,6 @@
         "ChIPseeker",
         "DESeq2",
         "DOSE",
-        "GOSemSim",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
@@ -1709,7 +1695,6 @@
     "epihet": [
         "DOSE",
         "EntropyExplorer",
-        "GOSemSim",
         "ReactomePA",
         "WGCNA",
         "enrichplot",
@@ -1795,7 +1780,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "GOSemSim",
         "GenomicFeatures",
         "TFBSTools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -1869,7 +1853,6 @@
     "FamAgg": [],
     "famat": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -1887,7 +1870,6 @@
     ],
     "fcoex": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -2048,7 +2030,6 @@
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
-        "GOSemSim",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -2286,7 +2267,6 @@
     "GOexpress": [],
     "GOpro": [],
     "goProfiles": [],
-    "GOSemSim": [],
     "goseq": [
         "GenomicFeatures",
         "geneLenDataBase"
@@ -2296,7 +2276,6 @@
     ],
     "goSorensen": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -2611,7 +2590,6 @@
     ],
     "IRISFGM": [
         "DOSE",
-        "GOSemSim",
         "Seurat",
         "car",
         "clusterProfiler",
@@ -2834,7 +2812,6 @@
         "AnnotationHub",
         "DOSE",
         "ExperimentHub",
-        "GOSemSim",
         "clusterProfiler",
         "depmap",
         "enrichplot",
@@ -2951,7 +2928,6 @@
     "meshes": [
         "AnnotationHub",
         "DOSE",
-        "GOSemSim",
         "enrichplot",
         "ggtree",
         "treeio"
@@ -2997,7 +2973,6 @@
     ],
     "MetaPhOR": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -3089,7 +3064,6 @@
     "methylGSA": [
         "DOSE",
         "FDb.InfiniumMethylation.hg19",
-        "GOSemSim",
         "GenomicFeatures",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -3179,7 +3153,6 @@
     ],
     "MicrobiomeProfiler": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -3245,7 +3218,6 @@
         "BiBitR",
         "BicARE",
         "DOSE",
-        "GOSemSim",
         "GSEABase",
         "ReactomePA",
         "SPONGE",
@@ -3267,7 +3239,6 @@
     ],
     "miRspongeR": [
         "DOSE",
-        "GOSemSim",
         "ReactomePA",
         "SPONGE",
         "car",
@@ -3349,7 +3320,6 @@
     ],
     "MoonlightR": [
         "DOSE",
-        "GOSemSim",
         "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot",
@@ -3504,7 +3474,6 @@
     "multiSight": [
         "DESeq2",
         "DOSE",
-        "GOSemSim",
         "ReactomePA",
         "anyLib",
         "biosigner",
@@ -3634,7 +3603,6 @@
     ],
     "netboxr": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -3879,7 +3847,6 @@
     ],
     "PanomiR": [
         "DOSE",
-        "GOSemSim",
         "GSEABase",
         "clusterProfiler",
         "enrichplot",
@@ -3888,7 +3855,6 @@
     ],
     "pareg": [
         "DOSE",
-        "GOSemSim",
         "nloptr"
     ],
     "PAST": [],
@@ -3934,7 +3900,6 @@
     ],
     "PFP": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -3986,7 +3951,6 @@
     "piano": [],
     "Pigengene": [
         "DOSE",
-        "GOSemSim",
         "ReactomePA",
         "WGCNA",
         "clusterProfiler",
@@ -4095,7 +4059,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "GOSemSim",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -4135,7 +4098,6 @@
         "EnsDb.Hsapiens.v86",
         "EnsDb.Mmusculus.v79",
         "EnsDb.Rnorvegicus.v79",
-        "GOSemSim",
         "GenomicFeatures",
         "Rcpi",
         "ensembldb"
@@ -4310,9 +4272,7 @@
         "GSEABase",
         "mixtools"
     ],
-    "Rcpi": [
-        "GOSemSim"
-    ],
+    "Rcpi": [],
     "Rcwl": [
         "DiagrammeR"
     ],
@@ -4322,7 +4282,6 @@
     ],
     "ReactomePA": [
         "DOSE",
-        "GOSemSim",
         "enrichplot",
         "ggtree",
         "reactome.db",
@@ -4359,7 +4318,6 @@
     "RegEnrich": [
         "DESeq2",
         "DOSE",
-        "GOSemSim",
         "WGCNA"
     ],
     "regioneR": [
@@ -4598,7 +4556,6 @@
         "DESeq2",
         "DOSE",
         "FactoMineR",
-        "GOSemSim",
         "ballgown",
         "car",
         "clusterProfiler",
@@ -4658,9 +4615,7 @@
         "pbkrtest",
         "ropls"
     ],
-    "rrvgo": [
-        "GOSemSim"
-    ],
+    "rrvgo": [],
     "RSVSim": [],
     "RTCGA": [
         "car",
@@ -4844,7 +4799,6 @@
         "AnnotationHub",
         "Category",
         "DOSE",
-        "GOSemSim",
         "GOstats",
         "GSEABase",
         "ReactomePA",
@@ -4880,7 +4834,6 @@
     "segmenter": [
         "ChIPseeker",
         "DOSE",
-        "GOSemSim",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
@@ -4956,7 +4909,6 @@
         "AnnotationHub",
         "DOSE",
         "ExperimentHub",
-        "GOSemSim",
         "GSEABase",
         "clusterProfiler",
         "enrichplot",
@@ -5010,9 +4962,7 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "simplifyEnrichment": [
-        "GOSemSim"
-    ],
+    "simplifyEnrichment": [],
     "sincell": [],
     "SingleCellSignalR": [
         "scran"
@@ -5402,7 +5352,6 @@
         "DOSE",
         "ELMER",
         "ExperimentHub",
-        "GOSemSim",
         "GenomicFeatures",
         "Gviz",
         "TCGAbiolinks",
@@ -5470,7 +5419,6 @@
     ],
     "TimiRGeN": [
         "DOSE",
-        "GOSemSim",
         "clusterProfiler",
         "enrichplot",
         "ggtree",
@@ -5531,7 +5479,6 @@
     "transformGamPoi": [],
     "tRanslatome": [
         "DESeq2",
-        "GOSemSim",
         "topGO"
     ],
     "TraRe": [
@@ -5717,7 +5664,6 @@
     ],
     "ViSEAGO": [
         "DiagrammeR",
-        "GOSemSim",
         "heatmaply",
         "topGO"
     ],
