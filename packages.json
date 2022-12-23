@@ -3403,7 +3403,6 @@
         "sva",
         "viridis"
     ],
-    "GBScleanR": [],
     "gcapc": [
         "BSgenome",
         "rtracklayer"
