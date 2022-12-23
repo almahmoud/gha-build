@@ -495,7 +495,6 @@
         "biovizBase",
         "viridis"
     ],
-    "ChIPComp": [],
     "chipenrich": [
         "Hmisc",
         "rms",
