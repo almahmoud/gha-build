@@ -3,7 +3,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "ADaCGH2": [],
     "ADAMgui": [
         "car",
         "ggpubr",
