@@ -2369,7 +2369,6 @@
     "GOTHiC": [
         "BSgenome"
     ],
-    "goTools": [],
     "GRaNIE": [
         "DESeq2",
         "geneplotter",
