@@ -500,7 +500,6 @@
         "DOSE",
         "DiagrammeR",
         "GOSemSim",
-        "HDO.db",
         "ReactomePA",
         "car",
         "clusterProfiler",
@@ -909,7 +908,6 @@
     "CEMiTool": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "Hmisc",
         "WGCNA",
         "clusterProfiler",
@@ -941,7 +939,6 @@
         "DOSE",
         "GOSemSim",
         "GenomicTools",
-        "HDO.db",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -1086,7 +1083,6 @@
         "DOSE",
         "GOSemSim",
         "GenomicFeatures",
-        "HDO.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
         "ggraph",
@@ -1210,7 +1206,6 @@
     "clusterProfiler": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "enrichplot",
         "ggraph",
         "ggtree",
@@ -1355,7 +1350,6 @@
         "DOSE",
         "FactoMineR",
         "GOSemSim",
-        "HDO.db",
         "car",
         "clusterProfiler",
         "dendextend",
@@ -1732,7 +1726,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "dendextend",
         "enrichplot",
@@ -2030,8 +2023,7 @@
         "vsn"
     ],
     "DOSE": [
-        "GOSemSim",
-        "HDO.db"
+        "GOSemSim"
     ],
     "doseR": [
         "lme4"
@@ -2083,7 +2075,6 @@
     "EasyCellType": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -2114,7 +2105,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "geneplotter",
@@ -2179,7 +2169,6 @@
     "enrichplot": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "ggraph",
         "ggtree",
         "viridis"
@@ -2189,7 +2178,6 @@
         "CNEr",
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "TFBSTools",
         "car",
         "clusterProfiler",
@@ -2229,7 +2217,6 @@
         "DOSE",
         "GOSemSim",
         "GenomicFeatures",
-        "HDO.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
         "geneplotter",
@@ -2263,7 +2250,6 @@
         "DOSE",
         "EntropyExplorer",
         "GOSemSim",
-        "HDO.db",
         "Hmisc",
         "ReactomePA",
         "WGCNA",
@@ -2366,7 +2352,6 @@
         "DOSE",
         "GOSemSim",
         "GenomicFeatures",
-        "HDO.db",
         "ShortRead",
         "TFBSTools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -2456,7 +2441,6 @@
     "famat": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -2484,7 +2468,6 @@
     "fcoex": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -2688,7 +2671,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -2979,7 +2961,6 @@
     "goSorensen": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -3393,7 +3374,6 @@
         "DEsingle",
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "Seurat",
         "car",
         "clusterProfiler",
@@ -3646,7 +3626,6 @@
         "DOSE",
         "ExperimentHub",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "depmap",
         "enrichplot",
@@ -3806,7 +3785,6 @@
     "meshes": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "MeSHDbi",
         "enrichplot",
         "ggraph",
@@ -3869,7 +3847,6 @@
     "MetaPhOR": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -3991,7 +3968,6 @@
         "GOSemSim",
         "GenomicFeatures",
         "HDF5Array",
-        "HDO.db",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -4119,7 +4095,6 @@
     "MicrobiomeProfiler": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -4212,7 +4187,6 @@
         "DOSE",
         "GOSemSim",
         "GSEABase",
-        "HDO.db",
         "Hmisc",
         "ReactomePA",
         "SPONGE",
@@ -4235,7 +4209,6 @@
     "miRspongeR": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "ReactomePA",
         "SPONGE",
         "car",
@@ -4340,7 +4313,6 @@
     "MoonlightR": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot",
@@ -4536,7 +4508,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "ReactomePA",
         "anyLib",
         "biosigner",
@@ -4693,7 +4664,6 @@
     "netboxr": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -4984,7 +4954,6 @@
         "DOSE",
         "GOSemSim",
         "GSEABase",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -4997,7 +4966,6 @@
     "pareg": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "ggraph",
         "viridis"
     ],
@@ -5072,7 +5040,6 @@
     "PFP": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -5128,7 +5095,6 @@
     "Pigengene": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "Hmisc",
         "ReactomePA",
         "WGCNA",
@@ -5283,7 +5249,6 @@
         "DOSE",
         "GOSemSim",
         "GenomicFeatures",
-        "HDO.db",
         "ShortRead",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -5586,7 +5551,6 @@
     "ReactomePA": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "enrichplot",
         "ggraph",
         "ggtree",
@@ -5644,7 +5608,6 @@
         "DESeq2",
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "Hmisc",
         "WGCNA",
         "geneplotter",
@@ -5964,7 +5927,6 @@
         "DOSE",
         "FactoMineR",
         "GOSemSim",
-        "HDO.db",
         "ShortRead",
         "ballgown",
         "car",
@@ -6279,7 +6241,6 @@
         "GOSemSim",
         "GOstats",
         "GSEABase",
-        "HDO.db",
         "MeSHDbi",
         "ReactomePA",
         "Seurat",
@@ -6327,7 +6288,6 @@
         "DOSE",
         "GOSemSim",
         "GenomicFeatures",
-        "HDO.db",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
         "ggraph",
@@ -6430,7 +6390,6 @@
         "GOSemSim",
         "GSEABase",
         "HDF5Array",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -7019,7 +6978,6 @@
         "GOSemSim",
         "GenomicFeatures",
         "Gviz",
-        "HDO.db",
         "Hmisc",
         "TCGAbiolinks",
         "VariantAnnotation",
@@ -7103,7 +7061,6 @@
     "TimiRGeN": [
         "DOSE",
         "GOSemSim",
-        "HDO.db",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -7728,7 +7685,6 @@
     "DiagrammeR": [
         "viridis"
     ],
-    "HDO.db": [],
     "ggraph": [
         "viridis"
     ],
