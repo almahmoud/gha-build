@@ -225,7 +225,6 @@
         "geneplotter"
     ],
     "ANCOMBC": [
-        "DescTools",
         "Hmisc",
         "MultiAssayExperiment",
         "SingleCellExperiment",
@@ -749,7 +748,6 @@
         "ANCOMBC",
         "AnnotationDbi",
         "DESeq2",
-        "DescTools",
         "Hmisc",
         "MAST",
         "MultiAssayExperiment",
@@ -4944,9 +4942,7 @@
     "GPA": [
         "DT"
     ],
-    "gpuMagic": [
-        "DescTools"
-    ],
+    "gpuMagic": [],
     "GRaNIE": [
         "AnnotationDbi",
         "DESeq2",
@@ -5399,7 +5395,6 @@
         "rtracklayer"
     ],
     "ILoReg": [
-        "DescTools",
         "SingleCellExperiment",
         "dendextend",
         "viridis"
@@ -6752,7 +6747,6 @@
         "ANCOMBC",
         "AnnotationDbi",
         "DESeq2",
-        "DescTools",
         "Hmisc",
         "MultiAssayExperiment",
         "SingleCellExperiment",
@@ -10301,7 +10295,6 @@
     "SCOPE": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "DescTools",
         "GenomicAlignments",
         "rtracklayer"
     ],
@@ -12542,7 +12535,6 @@
         "interactiveDisplayBase",
         "rhdf5"
     ],
-    "DescTools": [],
     "lmerTest": [
         "lme4",
         "nloptr",
