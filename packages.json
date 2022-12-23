@@ -2646,7 +2646,6 @@
         "minfi",
         "rhdf5"
     ],
-    "REDseq": [],
     "RefPlus": [
         "affy",
         "affyPLM",
