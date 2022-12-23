@@ -6152,7 +6152,6 @@
         "rtracklayer",
         "testthat"
     ],
-    "odseq": [],
     "OGRE": [
         "AnnotationHub",
         "BSgenome",
