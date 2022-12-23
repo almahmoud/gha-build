@@ -45581,7 +45581,6 @@
         "broom",
         "car",
         "cowplot",
-        "doMC",
         "dplyr",
         "egg",
         "futile.logger",
@@ -67855,7 +67854,6 @@
         "tibble",
         "tidyselect"
     ],
-    "doMC": [],
     "valr": [
         "BiocIO",
         "BiocParallel",
