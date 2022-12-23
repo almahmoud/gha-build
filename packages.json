@@ -3452,7 +3452,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "sitadela": [],
     "skewr": [
         "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
