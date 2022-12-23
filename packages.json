@@ -15445,7 +15445,6 @@
         "AnnotationDbi",
         "Biobase",
         "Biostrings",
-        "CCP",
         "DBI",
         "GSEABase",
         "GenomeInfoDb",
@@ -141024,7 +141023,6 @@
     ],
     "Rmpi": [],
     "ccdata": [],
-    "CCP": [],
     "enrichR": [
         "MASS",
         "Matrix",
