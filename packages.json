@@ -977,7 +977,6 @@
     "SomaticSignatures": [
         "ggbio"
     ],
-    "spaSim": [],
     "SpatialDecon": [],
     "spatzie": [
         "GenomicInteractions",
