@@ -2152,7 +2152,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "knitr",
-        "latex2exp",
         "latticeExtra",
         "org.Hs.eg.db",
         "rmarkdown",
@@ -2436,7 +2435,6 @@
         "ggdendro",
         "ggplot2",
         "knitr",
-        "latex2exp",
         "latticeExtra",
         "mnem",
         "pcalg",
@@ -6115,7 +6113,6 @@
         "graphite",
         "haven",
         "knitr",
-        "latex2exp",
         "latticeExtra",
         "metap",
         "mnem",
@@ -8130,7 +8127,6 @@
         "Linnorm",
         "ggdendro",
         "ggplot2",
-        "latex2exp",
         "latticeExtra",
         "mnem",
         "pcalg"
@@ -16926,7 +16922,6 @@
         "epiNEM",
         "ggdendro",
         "ggplot2",
-        "latex2exp",
         "latticeExtra",
         "mnem",
         "pcalg"
@@ -26687,7 +26682,6 @@
         "ggplot2",
         "kmlShape",
         "knitr",
-        "latex2exp",
         "prettydoc",
         "rmarkdown"
     ],
@@ -28686,7 +28680,6 @@
     ],
     "imager": [],
     "multcomp": [],
-    "latex2exp": [],
     "synaptome.db": [
         "AnnotationDbi",
         "AnnotationHub",
