@@ -793,7 +793,6 @@
         "bumphunter",
         "lmerTest"
     ],
-    "compartmap": [],
     "compEpiTools": [
         "BSgenome",
         "GenomicFeatures",
