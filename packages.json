@@ -7320,7 +7320,6 @@
     ],
     "ppcseq": [
         "benchmarkme",
-        "ggdist",
         "tidybayes"
     ],
     "PPInfer": [
@@ -11405,10 +11404,7 @@
         "fields"
     ],
     "genlasso": [],
-    "tidybayes": [
-        "ggdist"
-    ],
-    "ggdist": [],
+    "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
         "AnnotationHub",
         "BSgenome",
