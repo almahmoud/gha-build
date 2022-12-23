@@ -33,7 +33,6 @@
         "ExperimentHub",
         "adductData"
     ],
-    "adSplit": [],
     "affycoretools": [
         "BSgenome",
         "Category",
