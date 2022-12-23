@@ -22,7 +22,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "ANCOMBC": [],
     "AneuFinder": [
         "ReorderCluster"
     ],
@@ -73,9 +72,7 @@
     "bandle": [],
     "BASiCStan": [],
     "BBCAnalyzer": [],
-    "benchdamic": [
-        "ANCOMBC"
-    ],
+    "benchdamic": [],
     "bigmelon": [
         "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -859,9 +856,7 @@
     ],
     "miaViz": [],
     "microbiomeExplorer": [],
-    "microbiomeMarker": [
-        "ANCOMBC"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
