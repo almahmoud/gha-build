@@ -14408,7 +14408,6 @@
         "plotly",
         "rhdf5",
         "rstatix",
-        "shinyscreenshot",
         "testthat",
         "tidyr",
         "viridis",
@@ -22099,7 +22098,6 @@
     "pairsD3": [
         "htmlwidgets"
     ],
-    "shinyscreenshot": [],
     "pwrEWAS.data": [
         "AnnotationDbi",
         "AnnotationHub",
