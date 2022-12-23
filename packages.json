@@ -429,7 +429,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "RcppML",
-        "RcppNumerical",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -1134,7 +1133,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "RcppNumerical",
         "SummarizedExperiment",
         "XVector"
     ],
@@ -5909,7 +5907,6 @@
         "GreyListChIP",
         "KEGGREST",
         "RSQLite",
-        "RcppNumerical",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -9444,7 +9441,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "RcppNumerical",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -10283,7 +10279,6 @@
         "GreyListChIP",
         "KEGGREST",
         "RSQLite",
-        "RcppNumerical",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -39022,7 +39017,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "RcppNumerical",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -41429,7 +41423,6 @@
         "InteractionSet",
         "KEGGREST",
         "RSQLite",
-        "RcppNumerical",
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
@@ -42342,7 +42335,6 @@
     "smurf": [
         "glmnet"
     ],
-    "RcppNumerical": [],
     "ggbeeswarm": [
         "ggplot2",
         "tibble"
