@@ -52,7 +52,6 @@
     "AffyRNADegradation": [
         "affy"
     ],
-    "AGDEX": [],
     "AgiMicroRna": [
         "Category",
         "DESeq2",
