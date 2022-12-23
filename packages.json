@@ -3226,7 +3226,6 @@
         "tidyr",
         "viridis"
     ],
-    "CNVMetrics": [],
     "CNVPanelizer": [
         "Rsamtools",
         "exomeCopy",
