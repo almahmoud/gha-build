@@ -1,0 +1,293 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   61ca9794..25a6f2d8  main       -> origin/main
+Updating 61ca9794..25a6f2d8
+Fast-forward
+ lists/netbiov                           |   1 +
+ lists/vegan                             |   1 +
+ logs/run_ids/rstudio-binaries/jquerylib |   2 +
+ packages.json                           | 125 +++++++++-----------------------
+ 4 files changed, 37 insertions(+), 92 deletions(-)
+ create mode 100644 lists/netbiov
+ create mode 100644 lists/vegan
+ create mode 100644 logs/run_ids/rstudio-binaries/jquerylib
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=Director
++ PKG=Director
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "Director"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  5 2700k    5  160k    0     0   241k      0  0:00:11 --:--:--  0:00:11  241k 50 2700k   50 1371k    0     0   828k      0  0:00:03  0:00:01  0:00:02  827k100 2700k  100 2700k    0     0  1175k      0  0:00:02  0:00:02 --:--:-- 1176k
+built/
+built/built/
+built/built/fastmap/
+built/built/fastmap/libs/
+built/built/fastmap/libs/fastmap.so
+built/built/fastmap/NAMESPACE
+built/built/fastmap/DESCRIPTION
+built/built/fastmap/help/
+built/built/fastmap/help/paths.rds
+built/built/fastmap/help/fastmap.rdb
+built/built/fastmap/help/fastmap.rdx
+built/built/fastmap/help/aliases.rds
+built/built/fastmap/help/AnIndex
+built/built/fastmap/Meta/
+built/built/fastmap/Meta/package.rds
+built/built/fastmap/Meta/features.rds
+built/built/fastmap/Meta/hsearch.rds
+built/built/fastmap/Meta/links.rds
+built/built/fastmap/Meta/nsInfo.rds
+built/built/fastmap/Meta/Rd.rds
+built/built/fastmap/LICENSE
+built/built/fastmap/html/
+built/built/fastmap/html/00Index.html
+built/built/fastmap/html/R.css
+built/built/fastmap/INDEX
+built/built/fastmap/R/
+built/built/fastmap/R/fastmap
+built/built/fastmap/R/fastmap.rdb
+built/built/fastmap/R/fastmap.rdx
+built/built/fastmap/NEWS.md
+built/built/base64enc/
+built/built/base64enc/libs/
+built/built/base64enc/libs/base64enc.so
+built/built/base64enc/NEWS
+built/built/base64enc/NAMESPACE
+built/built/base64enc/DESCRIPTION
+built/built/base64enc/help/
+built/built/base64enc/help/paths.rds
+built/built/base64enc/help/base64enc.rdx
+built/built/base64enc/help/base64enc.rdb
+built/built/base64enc/help/aliases.rds
+built/built/base64enc/help/AnIndex
+built/built/base64enc/Meta/
+built/built/base64enc/Meta/package.rds
+built/built/base64enc/Meta/features.rds
+built/built/base64enc/Meta/hsearch.rds
+built/built/base64enc/Meta/links.rds
+built/built/base64enc/Meta/nsInfo.rds
+built/built/base64enc/Meta/Rd.rds
+built/built/base64enc/html/
+built/built/base64enc/html/00Index.html
+built/built/base64enc/html/R.css
+built/built/base64enc/INDEX
+built/built/base64enc/R/
+built/built/base64enc/R/base64enc.rdx
+built/built/base64enc/R/base64enc.rdb
+built/built/base64enc/R/base64enc
+built/built/rlang/
+built/built/rlang/libs/
+built/built/rlang/libs/rlang.so
+built/built/rlang/NAMESPACE
+built/built/rlang/DESCRIPTION
+built/built/rlang/help/
+built/built/rlang/help/rlang.rdb
+built/built/rlang/help/paths.rds
+built/built/rlang/help/rlang.rdx
+built/built/rlang/help/aliases.rds
+built/built/rlang/help/figures/
+built/built/rlang/help/figures/lifecycle-soft-deprecated.svg
+built/built/rlang/help/figures/lifecycle-experimental.svg
+built/built/rlang/help/figures/lifecycle-deprecated.svg
+built/built/rlang/help/figures/lifecycle-maturing.svg
+built/built/rlang/help/figures/lifecycle-superseded.svg
+built/built/rlang/help/figures/logo.png
+built/built/rlang/help/figures/lifecycle-questioning.svg
+built/built/rlang/help/figures/lifecycle-defunct.svg
+built/built/rlang/help/figures/lifecycle-archived.svg
+built/built/rlang/help/figures/lifecycle-retired.svg
+built/built/rlang/help/figures/lifecycle-stable.svg
+built/built/rlang/help/AnIndex
+built/built/rlang/Meta/
+built/built/rlang/Meta/package.rds
+built/built/rlang/Meta/features.rds
+built/built/rlang/Meta/hsearch.rds
+built/built/rlang/Meta/links.rds
+built/built/rlang/Meta/nsInfo.rds
+built/built/rlang/Meta/Rd.rds
+built/built/rlang/LICENSE
+built/built/rlang/html/
+built/built/rlang/html/00Index.html
+built/built/rlang/html/R.css
+built/built/rlang/INDEX
+built/built/rlang/R/
+built/built/rlang/R/rlang.rdb
+built/built/rlang/R/rlang.rdx
+built/built/rlang/R/rlang
+built/built/rlang/backtrace-ver
+built/built/rlang/NEWS.md
+built/built/ellipsis/
+built/built/ellipsis/libs/
+built/built/ellipsis/libs/ellipsis.so
+built/built/ellipsis/NAMESPACE
+built/built/ellipsis/DESCRIPTION
+built/built/ellipsis/help/
+built/built/ellipsis/help/paths.rds
+built/built/ellipsis/help/aliases.rds
+built/built/ellipsis/help/ellipsis.rdb
+built/built/ellipsis/help/ellipsis.rdx
+built/built/ellipsis/help/AnIndex
+built/built/ellipsis/Meta/
+built/built/ellipsis/Meta/package.rds
+built/built/ellipsis/Meta/features.rds
+built/built/ellipsis/Meta/hsearch.rds
+built/built/ellipsis/Meta/links.rds
+built/built/ellipsis/Meta/nsInfo.rds
+built/built/ellipsis/Meta/Rd.rds
+built/built/ellipsis/LICENSE
+built/built/ellipsis/html/
+built/built/ellipsis/html/00Index.html
+built/built/ellipsis/html/R.css
+built/built/ellipsis/INDEX
+built/built/ellipsis/R/
+built/built/ellipsis/R/ellipsis.rdb
+built/built/ellipsis/R/ellipsis.rdx
+built/built/ellipsis/R/ellipsis
+built/built/ellipsis/NEWS.md
+built/built/digest/
+built/built/digest/libs/
+built/built/digest/libs/digest.so
+built/built/digest/NAMESPACE
+built/built/digest/tinytest/
+built/built/digest/tinytest/test_new_matrix_behaviour.R
+built/built/digest/tinytest/test_crc32.R
+built/built/digest/tinytest/test_misc.R
+built/built/digest/tinytest/test_digest2int.R
+built/built/digest/tinytest/test_hmac.R
+built/built/digest/tinytest/test_blake3.R
+built/built/digest/tinytest/test_raw.R
+built/built/digest/tinytest/test_aes.R
+built/built/digest/tinytest/test_digest.R
+built/built/digest/tinytest/test_sha1.R
+built/built/digest/tinytest/test_encoding.R
+built/built/digest/tinytest/test_num2hex.R
+built/built/digest/DESCRIPTION
+built/built/digest/help/
+built/built/digest/help/paths.rds
+built/built/digest/help/aliases.rds
+built/built/digest/help/digest.rdx
+built/built/digest/help/digest.rdb
+built/built/digest/help/AnIndex
+built/built/digest/Meta/
+built/built/digest/Meta/package.rds
+built/built/digest/Meta/vignette.rds
+built/built/digest/Meta/demo.rds
+built/built/digest/Meta/features.rds
+built/built/digest/Meta/hsearch.rds
+built/built/digest/Meta/links.rds
+built/built/digest/Meta/nsInfo.rds
+built/built/digest/Meta/Rd.rds
+built/built/digest/include/
+built/built/digest/include/pmurhashAPI.h
+built/built/digest/GPL-2
+built/built/digest/html/
+built/built/digest/html/00Index.html
+built/built/digest/html/R.css
+built/built/digest/INDEX
+built/built/digest/doc/
+built/built/digest/doc/sha1.html
+built/built/digest/doc/sha1.md
+built/built/digest/doc/sha1.R
+built/built/digest/doc/index.html
+built/built/digest/R/
+built/built/digest/R/digest.rdx
+built/built/digest/R/digest.rdb
+built/built/digest/R/digest
+built/built/digest/demo/
+built/built/digest/demo/vectorised.R
+built/htmltools/
+built/htmltools/libs/
+built/htmltools/libs/htmltools.so
+built/htmltools/NAMESPACE
+built/htmltools/DESCRIPTION
+built/htmltools/help/
+built/htmltools/help/paths.rds
+built/htmltools/help/aliases.rds
+built/htmltools/help/figures/
+built/htmltools/help/figures/lifecycle-experimental.svg
+built/htmltools/help/figures/lifecycle-deprecated.svg
+built/htmltools/help/figures/lifecycle-superseded.svg
+built/htmltools/help/figures/logo.png
+built/htmltools/help/figures/lifecycle-questioning.svg
+built/htmltools/help/figures/plotly-taglist.png
+built/htmltools/help/htmltools.rdx
+built/htmltools/help/AnIndex
+built/htmltools/help/htmltools.rdb
+built/htmltools/Meta/
+built/htmltools/Meta/package.rds
+built/htmltools/Meta/features.rds
+built/htmltools/Meta/hsearch.rds
+built/htmltools/Meta/links.rds
+built/htmltools/Meta/nsInfo.rds
+built/htmltools/Meta/Rd.rds
+built/htmltools/fill/
+built/htmltools/fill/fill.css
+built/htmltools/html/
+built/htmltools/html/00Index.html
+built/htmltools/html/R.css
+built/htmltools/INDEX
+built/htmltools/R/
+built/htmltools/R/htmltools
+built/htmltools/R/htmltools.rdx
+built/htmltools/R/htmltools.rdb
+built/htmltools/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''Director'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv Director_1.24.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/Director
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'Director'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/Director_1.24.0.tar.gz'
+Content type 'application/x-gzip' length 609795 bytes (595 KB)
+==================================================
+downloaded 595 KB
+
+* installing *source* package ‘Director’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Director’ as ‘Director_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Director)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp2atdUf/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m10.222s
+user	0m6.004s
+sys	0m0.834s
