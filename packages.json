@@ -140,7 +140,6 @@
     "ATACCoGAPS": [
         "CoGAPS",
         "Mus.musculus",
-        "motifmatchr",
         "projectR",
         "rGREAT",
         "rhdf5",
@@ -151,9 +150,7 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [],
     "autonomics": [
         "assertive"
@@ -990,9 +987,7 @@
         "rstatix",
         "viridis"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "HDF5Array",
         "minfi",
@@ -1008,7 +1003,6 @@
         "enrichplot",
         "ggpubr",
         "ggraph",
-        "motifmatchr",
         "rstatix",
         "viridis"
     ],
@@ -1068,7 +1062,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggraph",
-        "motifmatchr",
         "viridis"
     ],
     "escape": [
@@ -2065,7 +2058,6 @@
         "biovizBase",
         "viridis"
     ],
-    "motifmatchr": [],
     "MQmetrics": [
         "car",
         "ggpubr",
@@ -2370,9 +2362,7 @@
         "FactoMineR",
         "car"
     ],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PanomiR": [
         "clusterProfiler",
         "enrichplot",
@@ -3223,7 +3213,6 @@
         "Gviz",
         "Hmisc",
         "biovizBase",
-        "motifmatchr",
         "viridis"
     ],
     "SpeCond": [
