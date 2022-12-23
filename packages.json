@@ -3103,7 +3103,6 @@
         "devtools"
     ],
     "mfa": [],
-    "MGFM": [],
     "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment",
@@ -4655,7 +4654,6 @@
     ],
     "RVS": [],
     "sampleClassifier": [
-        "MGFM",
         "MGFR"
     ],
     "sangeranalyseR": [],
