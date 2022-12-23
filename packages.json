@@ -2896,8 +2896,7 @@
         "scuttle",
         "shinydashboardPlus",
         "tidyr",
-        "viridis",
-        "waiter"
+        "viridis"
     ],
     "chromstaR": [
         "GenomicAlignments",
@@ -7099,8 +7098,7 @@
         "tidyr",
         "tippy",
         "viridis",
-        "visNetwork",
-        "waiter"
+        "visNetwork"
     ],
     "geneXtendeR": [
         "AnnotationDbi",
@@ -13927,8 +13925,7 @@
         "threejs",
         "tidyr",
         "viridis",
-        "vsn",
-        "waiter"
+        "vsn"
     ],
     "PROMISE": [
         "AnnotationDbi",
@@ -15960,8 +15957,7 @@
         "scanMiR",
         "scanMiRData",
         "shinyjqui",
-        "tidyr",
-        "waiter"
+        "tidyr"
     ],
     "scAnnotatR": [
         "AnnotationDbi",
@@ -18210,8 +18206,7 @@
         "shinydashboardPlus",
         "shinyjqui",
         "spsComps",
-        "tidyr",
-        "waiter"
+        "tidyr"
     ],
     "systemPipeTools": [
         "AnnotationDbi",
@@ -20730,9 +20725,7 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "shinydashboardPlus": [
-        "waiter"
-    ],
+    "shinydashboardPlus": [],
     "kableExtra": [
         "rvest"
     ],
@@ -20740,7 +20733,6 @@
         "ggfittext"
     ],
     "ggfittext": [],
-    "waiter": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
@@ -21108,9 +21100,7 @@
         "mice",
         "tidyr"
     ],
-    "bs4Dash": [
-        "waiter"
-    ],
+    "bs4Dash": [],
     "tippy": [
         "htmlwidgets"
     ],
