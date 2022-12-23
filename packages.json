@@ -72,10 +72,7 @@
     ],
     "ISAnalytics": [],
     "MEAT": [],
-    "miRSM": [
-        "miRspongeR"
-    ],
-    "miRspongeR": [],
+    "miRSM": [],
     "MPFE": [],
     "multiHiCcompare": [
         "CGHcall",
