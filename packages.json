@@ -2438,7 +2438,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "genomicInstability": [],
     "GenomicInteractionNodes": [
         "GenomicFeatures"
     ],
