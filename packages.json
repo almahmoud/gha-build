@@ -896,9 +896,7 @@
         "ChIPseeker"
     ],
     "pRolocGUI": [],
-    "proteasy": [
-        "EnsDb.Rnorvegicus.v79"
-    ],
+    "proteasy": [],
     "ProteoDisco": [],
     "protGear": [
         "FactoMineR",
@@ -1314,7 +1312,6 @@
     "mppa": [],
     "RcmdrMisc": [],
     "genlasso": [],
-    "EnsDb.Rnorvegicus.v79": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "ggpubr",
