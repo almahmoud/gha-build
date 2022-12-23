@@ -1,0 +1,735 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   60f2ed1a..41d04734  main       -> origin/main
+Updating 60f2ed1a..41d04734
+Fast-forward
+ lists/quantmod                                 |   2 +-
+ logs/run_ids/rstudio-binaries/OCplus           |   2 +
+ logs/run_ids/rstudio-binaries/pengls           |   2 +
+ logs/sizes/rstudio-binaries/binaries/quantmod  |   1 +
+ logs/sizes/rstudio-binaries/libraries/quantmod |   1 +
+ logs/times/rstudio-binary/quantmod             | 613 +++++++++++++++++++++++++
+ packages.json                                  |  17 +-
+ 7 files changed, 621 insertions(+), 17 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/OCplus
+ create mode 100644 logs/run_ids/rstudio-binaries/pengls
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/quantmod
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/quantmod
+ create mode 100644 logs/times/rstudio-binary/quantmod
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=repr
++ PKG=repr
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "repr"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  5 2700k    5  144k    0     0   138k      0  0:00:19  0:00:01  0:00:18  138k 19 2700k   19  526k    0     0   257k      0  0:00:10  0:00:02  0:00:08  257k 43 2700k   43 1164k    0     0   382k      0  0:00:07  0:00:03  0:00:04  382k 74 2700k   74 2025k    0     0   500k      0  0:00:05  0:00:04  0:00:01  500k100 2700k  100 2700k    0     0   577k      0  0:00:04  0:00:04 --:--:--  581k
+built/
+built/built/
+built/built/fastmap/
+built/built/fastmap/libs/
+built/built/fastmap/libs/fastmap.so
+built/built/fastmap/NAMESPACE
+built/built/fastmap/DESCRIPTION
+built/built/fastmap/help/
+built/built/fastmap/help/paths.rds
+built/built/fastmap/help/fastmap.rdb
+built/built/fastmap/help/fastmap.rdx
+built/built/fastmap/help/aliases.rds
+built/built/fastmap/help/AnIndex
+built/built/fastmap/Meta/
+built/built/fastmap/Meta/package.rds
+built/built/fastmap/Meta/features.rds
+built/built/fastmap/Meta/hsearch.rds
+built/built/fastmap/Meta/links.rds
+built/built/fastmap/Meta/nsInfo.rds
+built/built/fastmap/Meta/Rd.rds
+built/built/fastmap/LICENSE
+built/built/fastmap/html/
+built/built/fastmap/html/00Index.html
+built/built/fastmap/html/R.css
+built/built/fastmap/INDEX
+built/built/fastmap/R/
+built/built/fastmap/R/fastmap
+built/built/fastmap/R/fastmap.rdb
+built/built/fastmap/R/fastmap.rdx
+built/built/fastmap/NEWS.md
+built/built/base64enc/
+built/built/base64enc/libs/
+built/built/base64enc/libs/base64enc.so
+built/built/base64enc/NEWS
+built/built/base64enc/NAMESPACE
+built/built/base64enc/DESCRIPTION
+built/built/base64enc/help/
+built/built/base64enc/help/paths.rds
+built/built/base64enc/help/base64enc.rdx
+built/built/base64enc/help/base64enc.rdb
+built/built/base64enc/help/aliases.rds
+built/built/base64enc/help/AnIndex
+built/built/base64enc/Meta/
+built/built/base64enc/Meta/package.rds
+built/built/base64enc/Meta/features.rds
+built/built/base64enc/Meta/hsearch.rds
+built/built/base64enc/Meta/links.rds
+built/built/base64enc/Meta/nsInfo.rds
+built/built/base64enc/Meta/Rd.rds
+built/built/base64enc/html/
+built/built/base64enc/html/00Index.html
+built/built/base64enc/html/R.css
+built/built/base64enc/INDEX
+built/built/base64enc/R/
+built/built/base64enc/R/base64enc.rdx
+built/built/base64enc/R/base64enc.rdb
+built/built/base64enc/R/base64enc
+built/built/rlang/
+built/built/rlang/libs/
+built/built/rlang/libs/rlang.so
+built/built/rlang/NAMESPACE
+built/built/rlang/DESCRIPTION
+built/built/rlang/help/
+built/built/rlang/help/rlang.rdb
+built/built/rlang/help/paths.rds
+built/built/rlang/help/rlang.rdx
+built/built/rlang/help/aliases.rds
+built/built/rlang/help/figures/
+built/built/rlang/help/figures/lifecycle-soft-deprecated.svg
+built/built/rlang/help/figures/lifecycle-experimental.svg
+built/built/rlang/help/figures/lifecycle-deprecated.svg
+built/built/rlang/help/figures/lifecycle-maturing.svg
+built/built/rlang/help/figures/lifecycle-superseded.svg
+built/built/rlang/help/figures/logo.png
+built/built/rlang/help/figures/lifecycle-questioning.svg
+built/built/rlang/help/figures/lifecycle-defunct.svg
+built/built/rlang/help/figures/lifecycle-archived.svg
+built/built/rlang/help/figures/lifecycle-retired.svg
+built/built/rlang/help/figures/lifecycle-stable.svg
+built/built/rlang/help/AnIndex
+built/built/rlang/Meta/
+built/built/rlang/Meta/package.rds
+built/built/rlang/Meta/features.rds
+built/built/rlang/Meta/hsearch.rds
+built/built/rlang/Meta/links.rds
+built/built/rlang/Meta/nsInfo.rds
+built/built/rlang/Meta/Rd.rds
+built/built/rlang/LICENSE
+built/built/rlang/html/
+built/built/rlang/html/00Index.html
+built/built/rlang/html/R.css
+built/built/rlang/INDEX
+built/built/rlang/R/
+built/built/rlang/R/rlang.rdb
+built/built/rlang/R/rlang.rdx
+built/built/rlang/R/rlang
+built/built/rlang/backtrace-ver
+built/built/rlang/NEWS.md
+built/built/ellipsis/
+built/built/ellipsis/libs/
+built/built/ellipsis/libs/ellipsis.so
+built/built/ellipsis/NAMESPACE
+built/built/ellipsis/DESCRIPTION
+built/built/ellipsis/help/
+built/built/ellipsis/help/paths.rds
+built/built/ellipsis/help/aliases.rds
+built/built/ellipsis/help/ellipsis.rdb
+built/built/ellipsis/help/ellipsis.rdx
+built/built/ellipsis/help/AnIndex
+built/built/ellipsis/Meta/
+built/built/ellipsis/Meta/package.rds
+built/built/ellipsis/Meta/features.rds
+built/built/ellipsis/Meta/hsearch.rds
+built/built/ellipsis/Meta/links.rds
+built/built/ellipsis/Meta/nsInfo.rds
+built/built/ellipsis/Meta/Rd.rds
+built/built/ellipsis/LICENSE
+built/built/ellipsis/html/
+built/built/ellipsis/html/00Index.html
+built/built/ellipsis/html/R.css
+built/built/ellipsis/INDEX
+built/built/ellipsis/R/
+built/built/ellipsis/R/ellipsis.rdb
+built/built/ellipsis/R/ellipsis.rdx
+built/built/ellipsis/R/ellipsis
+built/built/ellipsis/NEWS.md
+built/built/digest/
+built/built/digest/libs/
+built/built/digest/libs/digest.so
+built/built/digest/NAMESPACE
+built/built/digest/tinytest/
+built/built/digest/tinytest/test_new_matrix_behaviour.R
+built/built/digest/tinytest/test_crc32.R
+built/built/digest/tinytest/test_misc.R
+built/built/digest/tinytest/test_digest2int.R
+built/built/digest/tinytest/test_hmac.R
+built/built/digest/tinytest/test_blake3.R
+built/built/digest/tinytest/test_raw.R
+built/built/digest/tinytest/test_aes.R
+built/built/digest/tinytest/test_digest.R
+built/built/digest/tinytest/test_sha1.R
+built/built/digest/tinytest/test_encoding.R
+built/built/digest/tinytest/test_num2hex.R
+built/built/digest/DESCRIPTION
+built/built/digest/help/
+built/built/digest/help/paths.rds
+built/built/digest/help/aliases.rds
+built/built/digest/help/digest.rdx
+built/built/digest/help/digest.rdb
+built/built/digest/help/AnIndex
+built/built/digest/Meta/
+built/built/digest/Meta/package.rds
+built/built/digest/Meta/vignette.rds
+built/built/digest/Meta/demo.rds
+built/built/digest/Meta/features.rds
+built/built/digest/Meta/hsearch.rds
+built/built/digest/Meta/links.rds
+built/built/digest/Meta/nsInfo.rds
+built/built/digest/Meta/Rd.rds
+built/built/digest/include/
+built/built/digest/include/pmurhashAPI.h
+built/built/digest/GPL-2
+built/built/digest/html/
+built/built/digest/html/00Index.html
+built/built/digest/html/R.css
+built/built/digest/INDEX
+built/built/digest/doc/
+built/built/digest/doc/sha1.html
+built/built/digest/doc/sha1.md
+built/built/digest/doc/sha1.R
+built/built/digest/doc/index.html
+built/built/digest/R/
+built/built/digest/R/digest.rdx
+built/built/digest/R/digest.rdb
+built/built/digest/R/digest
+built/built/digest/demo/
+built/built/digest/demo/vectorised.R
+built/htmltools/
+built/htmltools/libs/
+built/htmltools/libs/htmltools.so
+built/htmltools/NAMESPACE
+built/htmltools/DESCRIPTION
+built/htmltools/help/
+built/htmltools/help/paths.rds
+built/htmltools/help/aliases.rds
+built/htmltools/help/figures/
+built/htmltools/help/figures/lifecycle-experimental.svg
+built/htmltools/help/figures/lifecycle-deprecated.svg
+built/htmltools/help/figures/lifecycle-superseded.svg
+built/htmltools/help/figures/logo.png
+built/htmltools/help/figures/lifecycle-questioning.svg
+built/htmltools/help/figures/plotly-taglist.png
+built/htmltools/help/htmltools.rdx
+built/htmltools/help/AnIndex
+built/htmltools/help/htmltools.rdb
+built/htmltools/Meta/
+built/htmltools/Meta/package.rds
+built/htmltools/Meta/features.rds
+built/htmltools/Meta/hsearch.rds
+built/htmltools/Meta/links.rds
+built/htmltools/Meta/nsInfo.rds
+built/htmltools/Meta/Rd.rds
+built/htmltools/fill/
+built/htmltools/fill/fill.css
+built/htmltools/html/
+built/htmltools/html/00Index.html
+built/htmltools/html/R.css
+built/htmltools/INDEX
+built/htmltools/R/
+built/htmltools/R/htmltools
+built/htmltools/R/htmltools.rdx
+built/htmltools/R/htmltools.rdb
+built/htmltools/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 22 1057k   22  235k    0     0   182k      0  0:00:05  0:00:01  0:00:04  182k 62 1057k   62  665k    0     0   294k      0  0:00:03  0:00:02  0:00:01  294k100 1057k  100 1057k    0     0   366k      0  0:00:02  0:00:02 --:--:--  366k
+built/
+built/jsonlite/
+built/jsonlite/libs/
+built/jsonlite/libs/jsonlite.so
+built/jsonlite/NEWS
+built/jsonlite/NAMESPACE
+built/jsonlite/DESCRIPTION
+built/jsonlite/help/
+built/jsonlite/help/paths.rds
+built/jsonlite/help/jsonlite.rdb
+built/jsonlite/help/aliases.rds
+built/jsonlite/help/AnIndex
+built/jsonlite/help/jsonlite.rdx
+built/jsonlite/Meta/
+built/jsonlite/Meta/package.rds
+built/jsonlite/Meta/vignette.rds
+built/jsonlite/Meta/features.rds
+built/jsonlite/Meta/hsearch.rds
+built/jsonlite/Meta/links.rds
+built/jsonlite/Meta/nsInfo.rds
+built/jsonlite/Meta/Rd.rds
+built/jsonlite/LICENSE
+built/jsonlite/CITATION
+built/jsonlite/html/
+built/jsonlite/html/00Index.html
+built/jsonlite/html/R.css
+built/jsonlite/INDEX
+built/jsonlite/doc/
+built/jsonlite/doc/json-aaquickstart.Rmd
+built/jsonlite/doc/json-paging.html
+built/jsonlite/doc/json-apis.Rmd
+built/jsonlite/doc/json-opencpu.pdf.asis
+built/jsonlite/doc/json-opencpu.pdf
+built/jsonlite/doc/json-apis.html
+built/jsonlite/doc/index.html
+built/jsonlite/doc/json-aaquickstart.R
+built/jsonlite/doc/json-mapping.pdf.asis
+built/jsonlite/doc/json-paging.Rmd
+built/jsonlite/doc/json-aaquickstart.html
+built/jsonlite/doc/json-mapping.pdf
+built/jsonlite/R/
+built/jsonlite/R/jsonlite
+built/jsonlite/R/jsonlite.rdb
+built/jsonlite/R/jsonlite.rdx
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 5859k    2  123k    0     0  94516      0  0:01:03  0:00:01  0:01:02 94520  8 5859k    8  505k    0     0   218k      0  0:00:26  0:00:02  0:00:24  218k 19 5859k   19 1127k    0     0   338k      0  0:00:17  0:00:03  0:00:14  338k 32 5859k   32 1908k    0     0   443k      0  0:00:13  0:00:04  0:00:09  443k 50 5859k   50 2976k    0     0   557k      0  0:00:10  0:00:05  0:00:05  593k 72 5859k   72 4219k    0     0   669k      0  0:00:08  0:00:06  0:00:02  824k 97 5859k   97 5733k    0     0   781k      0  0:00:07  0:00:07 --:--:-- 1041k100 5859k  100 5859k    0     0   791k      0  0:00:07  0:00:07 --:--:-- 1160k
+built/
+built/built/
+built/built/fansi/
+built/built/fansi/libs/
+built/built/fansi/libs/fansi.so
+built/built/fansi/NAMESPACE
+built/built/fansi/DESCRIPTION
+built/built/fansi/help/
+built/built/fansi/help/fansi.rdb
+built/built/fansi/help/paths.rds
+built/built/fansi/help/fansi.rdx
+built/built/fansi/help/aliases.rds
+built/built/fansi/help/AnIndex
+built/built/fansi/Meta/
+built/built/fansi/Meta/package.rds
+built/built/fansi/Meta/vignette.rds
+built/built/fansi/Meta/features.rds
+built/built/fansi/Meta/hsearch.rds
+built/built/fansi/Meta/links.rds
+built/built/fansi/Meta/nsInfo.rds
+built/built/fansi/Meta/Rd.rds
+built/built/fansi/html/
+built/built/fansi/html/00Index.html
+built/built/fansi/html/R.css
+built/built/fansi/INDEX
+built/built/fansi/doc/
+built/built/fansi/doc/sgr-in-rmd.Rmd
+built/built/fansi/doc/sgr-in-rmd.html
+built/built/fansi/doc/index.html
+built/built/fansi/doc/sgr-in-rmd.R
+built/built/fansi/R/
+built/built/fansi/R/fansi
+built/built/fansi/R/fansi.rdb
+built/built/fansi/R/fansi.rdx
+built/built/fansi/NEWS.md
+built/built/built/
+built/built/built/cli/
+built/built/built/cli/examples/
+built/built/built/cli/examples/apps/
+built/built/built/cli/examples/apps/news.R
+built/built/built/cli/examples/apps/outdated.R
+built/built/built/cli/examples/apps/up.R
+built/built/built/cli/examples/apps/search.R
+built/built/built/cli/libs/
+built/built/built/cli/libs/cli.so
+built/built/built/cli/NAMESPACE
+built/built/built/cli/DESCRIPTION
+built/built/built/cli/help/
+built/built/built/cli/help/paths.rds
+built/built/built/cli/help/cli.rdx
+built/built/built/cli/help/aliases.rds
+built/built/built/cli/help/figures/
+built/built/built/cli/help/figures/progress-after.svg
+built/built/built/cli/help/figures/demo-spinners.svg
+built/built/built/cli/help/figures/progress-along-3.svg
+built/built/built/cli/help/figures/progress-along-2.svg
+built/built/built/cli/help/figures/progress-step-msg.svg
+built/built/built/cli/help/figures/progress-clear.svg
+built/built/built/cli/help/figures/get-spinner.svg
+built/built/built/cli/help/figures/progress-1.svg
+built/built/built/cli/help/figures/progress-natotal.svg
+built/built/built/cli/help/figures/progress-tasks.svg
+built/built/built/cli/help/figures/progress-step-dynamic.svg
+built/built/built/cli/help/figures/make-spinner-custom.svg
+built/built/built/cli/help/figures/make-spinner-template.svg
+built/built/built/cli/help/figures/progress-output2.svg
+built/built/built/cli/help/figures/progress-output.svg
+built/built/built/cli/help/figures/progress-current.svg
+built/built/built/cli/help/figures/progress-step.svg
+built/built/built/cli/help/figures/progress-format.svg
+built/built/built/cli/help/figures/progress-along-1.svg
+built/built/built/cli/help/figures/progress-step-spin.svg
+built/built/built/cli/help/figures/make-spinner-default.svg
+built/built/built/cli/help/figures/progress-message.svg
+built/built/built/cli/help/cli.rdb
+built/built/built/cli/help/AnIndex
+built/built/built/cli/shiny/
+built/built/built/cli/shiny/nested/
+built/built/built/cli/shiny/nested/app.R
+built/built/built/cli/shiny/format/
+built/built/built/cli/shiny/format/app.R
+built/built/built/cli/shiny/along/
+built/built/built/cli/shiny/along/app.R
+built/built/built/cli/shiny/simple/
+built/built/built/cli/shiny/simple/app.R
+built/built/built/cli/shiny/output/
+built/built/built/cli/shiny/output/app.R
+built/built/built/cli/Meta/
+built/built/built/cli/Meta/package.rds
+built/built/built/cli/Meta/features.rds
+built/built/built/cli/Meta/hsearch.rds
+built/built/built/cli/Meta/links.rds
+built/built/built/cli/Meta/nsInfo.rds
+built/built/built/cli/Meta/Rd.rds
+built/built/built/cli/include/
+built/built/built/cli/include/cli/
+built/built/built/cli/include/cli/progress.h
+built/built/built/cli/logo.txt
+built/built/built/cli/scripts/
+built/built/built/cli/scripts/news.R
+built/built/built/cli/scripts/outdated.R
+built/built/built/cli/scripts/up.R
+built/built/built/cli/scripts/search.R
+built/built/built/cli/LICENSE
+built/built/built/cli/html/
+built/built/built/cli/html/00Index.html
+built/built/built/cli/html/R.css
+built/built/built/cli/INDEX
+built/built/built/cli/R/
+built/built/built/cli/R/cli
+built/built/built/cli/R/cli.rdx
+built/built/built/cli/R/sysdata.rdb
+built/built/built/cli/R/sysdata.rdx
+built/built/built/cli/R/cli.rdb
+built/built/built/cli/NEWS.md
+built/built/built/glue/
+built/built/built/glue/libs/
+built/built/built/glue/libs/glue.so
+built/built/built/glue/NAMESPACE
+built/built/built/glue/DESCRIPTION
+built/built/built/glue/help/
+built/built/built/glue/help/paths.rds
+built/built/built/glue/help/glue.rdx
+built/built/built/glue/help/glue.rdb
+built/built/built/glue/help/aliases.rds
+built/built/built/glue/help/figures/
+built/built/built/glue/help/figures/logo.png
+built/built/built/glue/help/AnIndex
+built/built/built/glue/Meta/
+built/built/built/glue/Meta/package.rds
+built/built/built/glue/Meta/vignette.rds
+built/built/built/glue/Meta/features.rds
+built/built/built/glue/Meta/hsearch.rds
+built/built/built/glue/Meta/links.rds
+built/built/built/glue/Meta/nsInfo.rds
+built/built/built/glue/Meta/Rd.rds
+built/built/built/glue/LICENSE
+built/built/built/glue/html/
+built/built/built/glue/html/00Index.html
+built/built/built/glue/html/R.css
+built/built/built/glue/INDEX
+built/built/built/glue/doc/
+built/built/built/glue/doc/transformers.R
+built/built/built/glue/doc/engines.html
+built/built/built/glue/doc/speed.html
+built/built/built/glue/doc/transformers.Rmd
+built/built/built/glue/doc/speed.Rmd
+built/built/built/glue/doc/transformers.html
+built/built/built/glue/doc/engines.R
+built/built/built/glue/doc/index.html
+built/built/built/glue/doc/engines.Rmd
+built/built/built/glue/doc/speed.R
+built/built/built/glue/R/
+built/built/built/glue/R/glue.rdx
+built/built/built/glue/R/glue.rdb
+built/built/built/glue/R/glue
+built/built/built/glue/NEWS.md
+built/built/built/rlang/
+built/built/built/rlang/libs/
+built/built/built/rlang/libs/rlang.so
+built/built/built/rlang/NAMESPACE
+built/built/built/rlang/DESCRIPTION
+built/built/built/rlang/help/
+built/built/built/rlang/help/rlang.rdb
+built/built/built/rlang/help/paths.rds
+built/built/built/rlang/help/rlang.rdx
+built/built/built/rlang/help/aliases.rds
+built/built/built/rlang/help/figures/
+built/built/built/rlang/help/figures/lifecycle-soft-deprecated.svg
+built/built/built/rlang/help/figures/lifecycle-experimental.svg
+built/built/built/rlang/help/figures/lifecycle-deprecated.svg
+built/built/built/rlang/help/figures/lifecycle-maturing.svg
+built/built/built/rlang/help/figures/lifecycle-superseded.svg
+built/built/built/rlang/help/figures/logo.png
+built/built/built/rlang/help/figures/lifecycle-questioning.svg
+built/built/built/rlang/help/figures/lifecycle-defunct.svg
+built/built/built/rlang/help/figures/lifecycle-archived.svg
+built/built/built/rlang/help/figures/lifecycle-retired.svg
+built/built/built/rlang/help/figures/lifecycle-stable.svg
+built/built/built/rlang/help/AnIndex
+built/built/built/rlang/Meta/
+built/built/built/rlang/Meta/package.rds
+built/built/built/rlang/Meta/features.rds
+built/built/built/rlang/Meta/hsearch.rds
+built/built/built/rlang/Meta/links.rds
+built/built/built/rlang/Meta/nsInfo.rds
+built/built/built/rlang/Meta/Rd.rds
+built/built/built/rlang/LICENSE
+built/built/built/rlang/html/
+built/built/built/rlang/html/00Index.html
+built/built/built/rlang/html/R.css
+built/built/built/rlang/INDEX
+built/built/built/rlang/R/
+built/built/built/rlang/R/rlang.rdb
+built/built/built/rlang/R/rlang.rdx
+built/built/built/rlang/R/rlang
+built/built/built/rlang/backtrace-ver
+built/built/built/rlang/NEWS.md
+built/built/built/lifecycle/
+built/built/built/lifecycle/NAMESPACE
+built/built/built/lifecycle/DESCRIPTION
+built/built/built/lifecycle/help/
+built/built/built/lifecycle/help/paths.rds
+built/built/built/lifecycle/help/aliases.rds
+built/built/built/lifecycle/help/figures/
+built/built/built/lifecycle/help/figures/lifecycle-soft-deprecated.svg
+built/built/built/lifecycle/help/figures/lifecycle-experimental.svg
+built/built/built/lifecycle/help/figures/lifecycle-deprecated.svg
+built/built/built/lifecycle/help/figures/lifecycle-maturing.svg
+built/built/built/lifecycle/help/figures/lifecycle-superseded.svg
+built/built/built/lifecycle/help/figures/lifecycle-questioning.svg
+built/built/built/lifecycle/help/figures/lifecycle-defunct.svg
+built/built/built/lifecycle/help/figures/lifecycle-archived.svg
+built/built/built/lifecycle/help/figures/lifecycle-retired.svg
+built/built/built/lifecycle/help/figures/lifecycle-stable.svg
+built/built/built/lifecycle/help/lifecycle.rdb
+built/built/built/lifecycle/help/macros/
+built/built/built/lifecycle/help/macros/lifecycle.Rd
+built/built/built/lifecycle/help/lifecycle.rdx
+built/built/built/lifecycle/help/AnIndex
+built/built/built/lifecycle/Meta/
+built/built/built/lifecycle/Meta/package.rds
+built/built/built/lifecycle/Meta/vignette.rds
+built/built/built/lifecycle/Meta/features.rds
+built/built/built/lifecycle/Meta/hsearch.rds
+built/built/built/lifecycle/Meta/links.rds
+built/built/built/lifecycle/Meta/nsInfo.rds
+built/built/built/lifecycle/Meta/Rd.rds
+built/built/built/lifecycle/LICENSE
+built/built/built/lifecycle/html/
+built/built/built/lifecycle/html/00Index.html
+built/built/built/lifecycle/html/R.css
+built/built/built/lifecycle/INDEX
+built/built/built/lifecycle/doc/
+built/built/built/lifecycle/doc/stages.R
+built/built/built/lifecycle/doc/communicate.html
+built/built/built/lifecycle/doc/manage.R
+built/built/built/lifecycle/doc/stages.html
+built/built/built/lifecycle/doc/manage.Rmd
+built/built/built/lifecycle/doc/stages.Rmd
+built/built/built/lifecycle/doc/manage.html
+built/built/built/lifecycle/doc/communicate.Rmd
+built/built/built/lifecycle/doc/index.html
+built/built/built/lifecycle/doc/communicate.R
+built/built/built/lifecycle/R/
+built/built/built/lifecycle/R/lifecycle.rdb
+built/built/built/lifecycle/R/lifecycle
+built/built/built/lifecycle/R/lifecycle.rdx
+built/built/built/lifecycle/NEWS.md
+built/built/vctrs/
+built/built/vctrs/libs/
+built/built/vctrs/libs/vctrs.so
+built/built/vctrs/NAMESPACE
+built/built/vctrs/DESCRIPTION
+built/built/vctrs/help/
+built/built/vctrs/help/paths.rds
+built/built/vctrs/help/vctrs.rdb
+built/built/vctrs/help/aliases.rds
+built/built/vctrs/help/vctrs.rdx
+built/built/vctrs/help/figures/
+built/built/vctrs/help/figures/lifecycle-soft-deprecated.svg
+built/built/vctrs/help/figures/lifecycle-experimental.svg
+built/built/vctrs/help/figures/cast.png
+built/built/vctrs/help/figures/lifecycle-deprecated.svg
+built/built/vctrs/help/figures/lifecycle-maturing.svg
+built/built/vctrs/help/figures/lifecycle-superseded.svg
+built/built/vctrs/help/figures/coerce.png
+built/built/vctrs/help/figures/sizes-recycling.png
+built/built/vctrs/help/figures/logo.png
+built/built/vctrs/help/figures/lifecycle-questioning.svg
+built/built/vctrs/help/figures/lifecycle-defunct.svg
+built/built/vctrs/help/figures/vec-count-deps.png
+built/built/vctrs/help/figures/lifecycle-archived.svg
+built/built/vctrs/help/figures/vec-count-deps.svg
+built/built/vctrs/help/figures/combined.png
+built/built/vctrs/help/figures/lifecycle-stable.svg
+built/built/vctrs/help/AnIndex
+built/built/vctrs/Meta/
+built/built/vctrs/Meta/package.rds
+built/built/vctrs/Meta/vignette.rds
+built/built/vctrs/Meta/features.rds
+built/built/vctrs/Meta/hsearch.rds
+built/built/vctrs/Meta/links.rds
+built/built/vctrs/Meta/nsInfo.rds
+built/built/vctrs/Meta/Rd.rds
+built/built/vctrs/include/
+built/built/vctrs/include/vctrs.c
+built/built/vctrs/include/vctrs.h
+built/built/vctrs/WORDLIST
+built/built/vctrs/LICENSE
+built/built/vctrs/html/
+built/built/vctrs/html/00Index.html
+built/built/vctrs/html/R.css
+built/built/vctrs/INDEX
+built/built/vctrs/doc/
+built/built/vctrs/doc/pillar.html
+built/built/vctrs/doc/type-size.Rmd
+built/built/vctrs/doc/s3-vector.html
+built/built/vctrs/doc/stability.html
+built/built/vctrs/doc/pillar.R
+built/built/vctrs/doc/index.html
+built/built/vctrs/doc/s3-vector.Rmd
+built/built/vctrs/doc/stability.R
+built/built/vctrs/doc/pillar.Rmd
+built/built/vctrs/doc/type-size.html
+built/built/vctrs/doc/type-size.R
+built/built/vctrs/doc/s3-vector.R
+built/built/vctrs/doc/stability.Rmd
+built/built/vctrs/R/
+built/built/vctrs/R/vctrs
+built/built/vctrs/R/vctrs.rdb
+built/built/vctrs/R/vctrs.rdx
+built/built/vctrs/NEWS.md
+built/built/utf8/
+built/built/utf8/libs/
+built/built/utf8/libs/utf8.so
+built/built/utf8/NAMESPACE
+built/built/utf8/DESCRIPTION
+built/built/utf8/help/
+built/built/utf8/help/paths.rds
+built/built/utf8/help/aliases.rds
+built/built/utf8/help/utf8.rdx
+built/built/utf8/help/AnIndex
+built/built/utf8/help/utf8.rdb
+built/built/utf8/Meta/
+built/built/utf8/Meta/package.rds
+built/built/utf8/Meta/vignette.rds
+built/built/utf8/Meta/features.rds
+built/built/utf8/Meta/hsearch.rds
+built/built/utf8/Meta/links.rds
+built/built/utf8/Meta/nsInfo.rds
+built/built/utf8/Meta/Rd.rds
+built/built/utf8/LICENSE
+built/built/utf8/html/
+built/built/utf8/html/00Index.html
+built/built/utf8/html/R.css
+built/built/utf8/INDEX
+built/built/utf8/doc/
+built/built/utf8/doc/utf8.html
+built/built/utf8/doc/index.html
+built/built/utf8/doc/utf8.Rmd
+built/built/utf8/R/
+built/built/utf8/R/utf8.rdx
+built/built/utf8/R/utf8
+built/built/utf8/R/utf8.rdb
+built/pillar/
+built/pillar/NAMESPACE
+built/pillar/DESCRIPTION
+built/pillar/help/
+built/pillar/help/paths.rds
+built/pillar/help/aliases.rds
+built/pillar/help/figures/
+built/pillar/help/figures/lifecycle-soft-deprecated.svg
+built/pillar/help/figures/lifecycle-experimental.svg
+built/pillar/help/figures/lifecycle-deprecated.svg
+built/pillar/help/figures/lifecycle-maturing.svg
+built/pillar/help/figures/lifecycle-superseded.svg
+built/pillar/help/figures/lifecycle-questioning.svg
+built/pillar/help/figures/lifecycle-defunct.svg
+built/pillar/help/figures/lifecycle-archived.svg
+built/pillar/help/figures/lifecycle-stable.svg
+built/pillar/help/pillar.rdb
+built/pillar/help/AnIndex
+built/pillar/help/pillar.rdx
+built/pillar/Meta/
+built/pillar/Meta/package.rds
+built/pillar/Meta/vignette.rds
+built/pillar/Meta/features.rds
+built/pillar/Meta/hsearch.rds
+built/pillar/Meta/links.rds
+built/pillar/Meta/nsInfo.rds
+built/pillar/Meta/Rd.rds
+built/pillar/WORDLIST
+built/pillar/LICENSE
+built/pillar/html/
+built/pillar/html/00Index.html
+built/pillar/html/R.css
+built/pillar/INDEX
+built/pillar/doc/
+built/pillar/doc/debugme.Rmd
+built/pillar/doc/extending.R
+built/pillar/doc/numbers.R
+built/pillar/doc/extending.html
+built/pillar/doc/debugme.R
+built/pillar/doc/numbers.Rmd
+built/pillar/doc/debugme.html
+built/pillar/doc/digits.Rmd
+built/pillar/doc/numbers.html
+built/pillar/doc/printing.R
+built/pillar/doc/digits.html
+built/pillar/doc/index.html
+built/pillar/doc/extending.Rmd
+built/pillar/doc/printing.html
+built/pillar/doc/printing.Rmd
+built/pillar/R/
+built/pillar/R/pillar
+built/pillar/R/pillar.rdb
+built/pillar/R/pillar.rdx
+built/pillar/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''repr'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv repr_1.1.4_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/repr
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'repr'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/repr_1.1.4.tar.gz'
+Content type 'binary/octet-stream' length 117626 bytes (114 KB)
+==================================================
+downloaded 114 KB
+
+* installing *binary* package ‘repr’ ...
+* ‘repr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘repr’ as ‘repr_1.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (repr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpFDH1nW/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m24.668s
+user	0m5.146s
+sys	0m0.667s

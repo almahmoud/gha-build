@@ -3257,8 +3257,7 @@
         "RCy3",
         "RSQLite",
         "annotate",
-        "genefilter",
-        "repr"
+        "genefilter"
     ],
     "cbaf": [
         "AnVIL",
@@ -3767,7 +3766,6 @@
         "pbkrtest",
         "qvalue",
         "rematch2",
-        "repr",
         "reshape2",
         "rstatix",
         "scatterpie",
@@ -6853,8 +6851,7 @@
         "IRdisplay",
         "IRkernel",
         "NCIgraph",
-        "RCy3",
-        "repr"
+        "RCy3"
     ],
     "DEGreport": [
         "AnnotationDbi",
@@ -9416,7 +9413,6 @@
         "forcats",
         "ggplot2",
         "ggthemes",
-        "repr",
         "tibble"
     ],
     "FELLA": [
@@ -15022,7 +15018,6 @@
         "ipred",
         "patchwork",
         "qvalue",
-        "repr",
         "reshape2",
         "scatterpie",
         "shadowtext",
@@ -16657,8 +16652,7 @@
     "MOGAMUN": [
         "IRdisplay",
         "IRkernel",
-        "RCy3",
-        "repr"
+        "RCy3"
     ],
     "mogsa": [
         "AnnotationDbi",
@@ -17969,8 +17963,7 @@
     "NCIgraph": [
         "IRdisplay",
         "IRkernel",
-        "RCy3",
-        "repr"
+        "RCy3"
     ],
     "ncRNAtools": [
         "GenomicRanges",
@@ -18253,7 +18246,6 @@
         "pandaR",
         "quantro",
         "readr",
-        "repr",
         "reshape2",
         "rhdf5",
         "rtracklayer",
@@ -21690,8 +21682,7 @@
     ],
     "RCy3": [
         "IRdisplay",
-        "IRkernel",
-        "repr"
+        "IRkernel"
     ],
     "RDRToolbox": [
         "htmlwidgets",
@@ -22028,7 +22019,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "knitr",
-        "repr",
         "rmarkdown",
         "rtracklayer",
         "shiny",
@@ -27786,7 +27776,6 @@
         "qvalue",
         "rWikiPathways",
         "readxl",
-        "repr",
         "reshape2",
         "scatterpie",
         "shadowtext",
@@ -28164,7 +28153,6 @@
         "KEGGREST",
         "RCy3",
         "dplyr",
-        "repr",
         "tibble"
     ],
     "TransView": [
@@ -30885,13 +30873,9 @@
         "waldo"
     ],
     "IRkernel": [
-        "IRdisplay",
-        "repr"
+        "IRdisplay"
     ],
-    "IRdisplay": [
-        "repr"
-    ],
-    "repr": [],
+    "IRdisplay": [],
     "rapportools": [
         "reshape2"
     ],
