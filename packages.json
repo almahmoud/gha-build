@@ -1480,7 +1480,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "mumosa": [],
     "MungeSumstats": [
         "VariantAnnotation"
     ],
