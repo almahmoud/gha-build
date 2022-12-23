@@ -4805,9 +4805,7 @@
         "ggtreeExtra",
         "treeio"
     ],
-    "midasHLA": [
-        "HardyWeinberg"
-    ],
+    "midasHLA": [],
     "MIGSA": [
         "AnnotationForge",
         "Category",
@@ -9330,7 +9328,6 @@
         "rtracklayer"
     ],
     "rebus": [],
-    "HardyWeinberg": [],
     "lumiHumanAll.db": [
         "org.Hs.eg.db"
     ],
