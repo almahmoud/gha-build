@@ -9960,8 +9960,7 @@
         "klaR",
         "labelled",
         "miniUI",
-        "questionr",
-        "yardstick"
+        "questionr"
     ],
     "OmaDB": [
         "AnnotationDbi",
@@ -17051,10 +17050,8 @@
         "klaR",
         "labelled",
         "miniUI",
-        "questionr",
-        "yardstick"
+        "questionr"
     ],
-    "yardstick": [],
     "OMICsPCAdata": [
         "MultiAssayExperiment"
     ],
