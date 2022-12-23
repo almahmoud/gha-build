@@ -8540,7 +8540,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "SplicingFactory": [],
     "SplicingGraphs": [
         "GenomicFeatures",
         "biomaRt",
