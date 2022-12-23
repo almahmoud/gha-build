@@ -4071,7 +4071,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "genomes": [],
     "GenomicAlignments": [],
     "GenomicDataCommons": [],
     "GenomicDistributions": [],
