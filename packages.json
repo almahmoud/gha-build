@@ -3813,7 +3813,6 @@
     "sparrow": [
         "viridis"
     ],
-    "SparseSignatures": [],
     "spaSim": [
         "DropletUtils",
         "HDF5Array",
