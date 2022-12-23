@@ -2118,7 +2118,6 @@
         "RcppEigen",
         "Rhtslib",
         "Rsamtools",
-        "Rttf2pt1",
         "S4Vectors",
         "ShortRead",
         "SummarizedExperiment",
@@ -49812,7 +49811,6 @@
         "RCurl",
         "Rcpp",
         "RcppEigen",
-        "Rttf2pt1",
         "S4Vectors",
         "XVector",
         "ape",
@@ -114352,7 +114350,6 @@
         "Rhtslib",
         "Rmpfr",
         "Rsamtools",
-        "Rttf2pt1",
         "S4Vectors",
         "SummarizedExperiment",
         "SuppDists",
@@ -136599,7 +136596,6 @@
         "MASS",
         "Matrix",
         "R6",
-        "Rttf2pt1",
         "colorspace",
         "extrafont",
         "farver",
@@ -136619,10 +136615,7 @@
         "vctrs",
         "viridisLite"
     ],
-    "extrafont": [
-        "Rttf2pt1"
-    ],
-    "Rttf2pt1": [],
+    "extrafont": [],
     "CVXR": [
         "Matrix",
         "R6",
@@ -148825,7 +148818,6 @@
         "Matrix",
         "R6",
         "Rcpp",
-        "Rttf2pt1",
         "askpass",
         "base64enc",
         "bslib",
@@ -155568,7 +155560,6 @@
         "R6",
         "Rcpp",
         "RcppEigen",
-        "Rttf2pt1",
         "boot",
         "broom",
         "callr",
@@ -155649,7 +155640,6 @@
     ],
     "tidytidbits": [
         "R6",
-        "Rttf2pt1",
         "dplyr",
         "ellipsis",
         "extrafont",
