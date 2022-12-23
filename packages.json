@@ -4160,7 +4160,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "gCrisprTools": [],
     "gcrma": [
         "affy"
     ],
