@@ -163,8 +163,7 @@
         "geneplotter"
     ],
     "APL": [
-        "Seurat",
-        "topGO"
+        "Seurat"
     ],
     "appreci8R": [
         "BSgenome",
@@ -399,9 +398,7 @@
         "GenomicFeatures",
         "rhdf5"
     ],
-    "BgeeDB": [
-        "topGO"
-    ],
+    "BgeeDB": [],
     "bgx": [
         "affy",
         "gcrma"
@@ -486,7 +483,6 @@
     "BioMM": [
         "Hmisc",
         "rms",
-        "topGO",
         "viridis",
         "xlsx"
     ],
@@ -780,9 +776,7 @@
         "scater",
         "viridis"
     ],
-    "cellity": [
-        "topGO"
-    ],
+    "cellity": [],
     "cellmigRation": [
         "FactoMineR",
         "Hmisc",
@@ -798,9 +792,7 @@
         "dendextend",
         "viridis"
     ],
-    "cellTree": [
-        "topGO"
-    ],
+    "cellTree": [],
     "CEMiTool": [
         "DOSE",
         "Hmisc",
@@ -1175,7 +1167,6 @@
         "biovizBase",
         "ensembldb",
         "methylPipe",
-        "topGO",
         "viridis"
     ],
     "ComPrAn": [],
@@ -1229,9 +1220,7 @@
         "rhdf5"
     ],
     "consensusSeekeR": [],
-    "consICA": [
-        "topGO"
-    ],
+    "consICA": [],
     "contiBAIT": [
         "BSgenome",
         "GenomicFeatures",
@@ -1855,8 +1844,7 @@
         "hgu133a.db",
         "hgu133plus2.db",
         "pathview",
-        "rhdf5",
-        "topGO"
+        "rhdf5"
     ],
     "ELMER": [
         "BSgenome",
@@ -2246,9 +2234,7 @@
         "ggraph",
         "viridis"
     ],
-    "FoldGO": [
-        "topGO"
-    ],
+    "FoldGO": [],
     "FRASER": [
         "BSgenome",
         "DESeq2",
@@ -2576,9 +2562,7 @@
         "GenomicFeatures",
         "geneLenDataBase"
     ],
-    "GOSim": [
-        "topGO"
-    ],
+    "GOSim": [],
     "goSorensen": [
         "DOSE",
         "clusterProfiler",
@@ -2598,7 +2582,6 @@
     "GRaNIE": [
         "DESeq2",
         "geneplotter",
-        "topGO",
         "viridis"
     ],
     "GreyListChIP": [
@@ -2818,7 +2801,6 @@
         "goseq",
         "heatmaply",
         "pcaExplorer",
-        "topGO",
         "viridis"
     ],
     "IdeoViz": [],
@@ -3739,7 +3721,6 @@
         "pbkrtest"
     ],
     "moanin": [
-        "topGO",
         "viridis"
     ],
     "MobilityTransformR": [
@@ -4201,9 +4182,7 @@
         "klaR",
         "questionr"
     ],
-    "OmaDB": [
-        "topGO"
-    ],
+    "OmaDB": [],
     "omicRexposome": [
         "FactoMineR",
         "Hmisc",
@@ -4356,7 +4335,6 @@
         "genefilter",
         "geneplotter",
         "heatmaply",
-        "topGO",
         "viridis"
     ],
     "pcxn": [],
@@ -4445,8 +4423,7 @@
     ],
     "PhyloProfile": [
         "ExperimentHub",
-        "OmaDB",
-        "topGO"
+        "OmaDB"
     ],
     "phyloseq": [
         "biomformat",
@@ -4677,8 +4654,7 @@
     ],
     "PSMatch": [],
     "psygenet2r": [
-        "BgeeDB",
-        "topGO"
+        "BgeeDB"
     ],
     "ptairMS": [
         "Hmisc",
@@ -5080,8 +5056,7 @@
         "BgeeDB",
         "EnsDb.Hsapiens.v86",
         "GenomicFeatures",
-        "ensembldb",
-        "topGO"
+        "ensembldb"
     ],
     "RJMCMCNucleosomes": [
         "consensusSeekeR"
@@ -6186,7 +6161,6 @@
         "affy",
         "vsn"
     ],
-    "topGO": [],
     "ToxicoGx": [
         "CoreGx"
     ],
@@ -6205,9 +6179,7 @@
         "slingshot",
         "viridis"
     ],
-    "transcriptogramer": [
-        "topGO"
-    ],
+    "transcriptogramer": [],
     "transcriptR": [
         "GenomicFeatures",
         "chipseq"
@@ -6219,8 +6191,7 @@
     ],
     "tRanslatome": [
         "DESeq2",
-        "geneplotter",
-        "topGO"
+        "geneplotter"
     ],
     "TraRe": [
         "vbsr"
@@ -6414,7 +6385,6 @@
         "DiagrammeR",
         "dendextend",
         "heatmaply",
-        "topGO",
         "viridis"
     ],
     "vissE": [
