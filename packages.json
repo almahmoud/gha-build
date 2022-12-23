@@ -219,9 +219,7 @@
     "NBSplice": [
         "mppa"
     ],
-    "netZooR": [
-        "yarn"
-    ],
+    "netZooR": [],
     "ODER": [
         "dasper"
     ],
@@ -336,7 +334,6 @@
         "lumi"
     ],
     "YAPSA": [],
-    "yarn": [],
     "ReorderCluster": [],
     "mGSZ": [],
     "GenomicTools": [],
