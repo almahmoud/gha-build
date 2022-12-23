@@ -8822,7 +8822,6 @@
         "plotly",
         "readxl",
         "rstatix",
-        "shinyalert",
         "testthat",
         "tidyr",
         "viridis",
@@ -12076,7 +12075,6 @@
         "rstatix",
         "rtracklayer",
         "rvest",
-        "shinyalert",
         "shinybusy",
         "shinyjqui",
         "sortable",
@@ -17345,7 +17343,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shinyalert",
         "sva",
         "tidyr",
         "tidytree",
@@ -21458,7 +21455,6 @@
     ],
     "concaveman": [],
     "golem": [],
-    "shinyalert": [],
     "wordcloud2": [
         "htmlwidgets"
     ],
