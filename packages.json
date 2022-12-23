@@ -14817,7 +14817,6 @@
     "subSeq": [
         "tidyr"
     ],
-    "SUITOR": [],
     "SummarizedBenchmark": [
         "UpSetR",
         "tidyr"
