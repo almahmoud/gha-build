@@ -6487,7 +6487,6 @@
     "TFutils": [
         "GSEABase"
     ],
-    "tidySingleCellExperiment": [],
     "tigre": [],
     "tilingArray": [
         "affy",
