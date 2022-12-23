@@ -1039,8 +1039,7 @@
     ],
     "consensusOV": [
         "GSEABase",
-        "GSVA",
-        "genefu"
+        "GSVA"
     ],
     "consensusSeekeR": [],
     "consICA": [
@@ -2088,7 +2087,6 @@
         "QDNAseq"
     ],
     "genefilter": [],
-    "genefu": [],
     "GeneGeneInteR": [
         "FactoMineR",
         "car",
@@ -3913,7 +3911,6 @@
     "PDATK": [
         "CoreGx",
         "car",
-        "genefu",
         "ggpubr",
         "lme4",
         "nloptr",
@@ -4991,7 +4988,6 @@
         "car",
         "consensusOV",
         "ensembldb",
-        "genefu",
         "ggpubr",
         "lme4",
         "nloptr",
