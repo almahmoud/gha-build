@@ -60366,7 +60366,6 @@
         "TMB",
         "XVector",
         "annotate",
-        "aod",
         "askpass",
         "beachmat",
         "bit64",
@@ -99328,7 +99327,6 @@
         "Matrix",
         "RcppEigen",
         "Rdpack",
-        "aod",
         "broom",
         "caTools",
         "callr",
@@ -101817,7 +101815,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "aod",
         "askpass",
         "babelgene",
         "bit64",
@@ -114851,7 +114848,6 @@
         "vctrs",
         "waldo"
     ],
-    "aod": [],
     "deconstructSigs": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
