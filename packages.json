@@ -6128,7 +6128,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "SCnorm": [],
     "scone": [
         "EDASeq",
         "GenomicFeatures",
