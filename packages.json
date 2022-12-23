@@ -1,11 +1,9 @@
 {
     "a4": [
         "a4Base",
-        "annaffy",
         "genefilter"
     ],
     "a4Base": [
-        "annaffy",
         "genefilter"
     ],
     "ADaCGH2": [
@@ -148,7 +146,6 @@
         "geneplotter",
         "rhdf5"
     ],
-    "annaffy": [],
     "annmap": [
         "genefilter"
     ],
@@ -6840,7 +6837,6 @@
     ],
     "webbioc": [
         "affy",
-        "annaffy",
         "gcrma",
         "vsn"
     ],
