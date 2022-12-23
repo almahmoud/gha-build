@@ -5188,7 +5188,6 @@
         "org.Hs.eg.db",
         "pbkrtest",
         "reactome.db",
-        "rqubic",
         "rstatix",
         "tidyverse",
         "treeio",
@@ -7409,7 +7408,6 @@
         "pbkrtest",
         "ropls"
     ],
-    "rqubic": [],
     "rrvgo": [
         "GO.db",
         "GOSemSim"
