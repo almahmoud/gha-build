@@ -6555,7 +6555,6 @@
         "lme4",
         "nloptr"
     ],
-    "pmp": [],
     "PoDCall": [],
     "podkat": [
         "BSgenome",
