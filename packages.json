@@ -3024,7 +3024,6 @@
         "SummarizedExperiment"
     ],
     "ChIPXpress": [
-        "ChIPXpressData",
         "GEOquery",
         "SummarizedExperiment",
         "frma",
@@ -22139,7 +22138,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "ChIPXpressData": [],
     "shinyhelper": [
         "shiny"
     ],
