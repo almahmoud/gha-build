@@ -3633,7 +3633,6 @@
         "MAST",
         "MultiAssayExperiment",
         "NADA",
-        "NOISeq",
         "ROCR",
         "ROI.plugin.lpsolve",
         "RSQLite",
@@ -10166,7 +10165,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "NOISeq",
         "Rsamtools",
         "S4Vectors",
         "XVector",
@@ -31095,9 +31093,7 @@
         "vctrs",
         "viridis"
     ],
-    "metaSeq": [
-        "NOISeq"
-    ],
+    "metaSeq": [],
     "metaseqR2": [
         "ABSSeq",
         "AnnotationDbi",
@@ -37806,7 +37802,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR",
         "RcppEigen",
