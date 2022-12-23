@@ -335,7 +335,6 @@
     "BioNAR": [
         "Hmisc",
         "WGCNA",
-        "synaptome.db",
         "viridis"
     ],
     "BioNERO": [
@@ -4427,7 +4426,6 @@
         "viridis"
     ],
     "xlsx": [],
-    "synaptome.db": [],
     "WGCNA": [
         "Hmisc",
         "viridis"
