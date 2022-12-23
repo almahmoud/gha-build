@@ -29,7 +29,6 @@
         "CGHcall"
     ],
     "ChAMP": [
-        "DMRcate",
         "wateRmelon"
     ],
     "ChIC": [
@@ -49,7 +48,6 @@
         "text2vec",
         "ttgsea"
     ],
-    "DMRcate": [],
     "epihet": [
         "EntropyExplorer"
     ],
