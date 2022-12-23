@@ -47,8 +47,7 @@
         "Gviz"
     ],
     "bioCancer": [
-        "ReactomePA",
-        "radiant.data"
+        "ReactomePA"
     ],
     "BiocOncoTK": [
         "ggpubr",
@@ -952,7 +951,6 @@
     "ReorderCluster": [],
     "mGSZ": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
-    "radiant.data": [],
     "GenomicState": [
         "derfinder"
     ],
