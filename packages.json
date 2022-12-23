@@ -21094,7 +21094,6 @@
         "ggplot2",
         "rtracklayer"
     ],
-    "RedisParam": [],
     "REDseq": [
         "AnnotationDbi",
         "AnnotationFilter",
