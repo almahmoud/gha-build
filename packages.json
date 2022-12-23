@@ -2077,9 +2077,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "netOmics": [
-        "RandomWalkRestartMH"
-    ],
+    "netOmics": [],
     "NetSAM": [],
     "netSmooth": [
         "clusterExperiment",
@@ -2413,7 +2411,6 @@
         "VariantAnnotation"
     ],
     "RadioGx": [],
-    "RandomWalkRestartMH": [],
     "RareVariantVis": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicScores",
