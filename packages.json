@@ -5529,7 +5529,6 @@
         "phyloseq",
         "rhdf5"
     ],
-    "pathRender": [],
     "pathview": [
         "org.Hs.eg.db"
     ],
