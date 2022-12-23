@@ -63472,7 +63472,6 @@
         "speedglm",
         "stringr",
         "survival",
-        "tester",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -104626,7 +104625,6 @@
         "xts",
         "zoo"
     ],
-    "tester": [],
     "urca": [
         "nlme"
     ],
