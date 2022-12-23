@@ -92163,7 +92163,6 @@
         "scales",
         "stringi",
         "stringr",
-        "svUnit",
         "tensorA",
         "tibble",
         "tidybayes",
@@ -153708,7 +153707,6 @@
         "purrr",
         "rlang",
         "scales",
-        "svUnit",
         "tensorA",
         "tibble",
         "tidyr",
@@ -153744,9 +153742,7 @@
         "vctrs",
         "viridisLite"
     ],
-    "arrayhelpers": [
-        "svUnit"
-    ],
+    "arrayhelpers": [],
     "posterior": [
         "MASS",
         "Matrix",
@@ -153775,7 +153771,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "svUnit": [],
     "distributional": [
         "MASS",
         "Matrix",
