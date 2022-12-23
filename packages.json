@@ -1378,7 +1378,6 @@
         "dbplyr",
         "htmlwidgets",
         "readr",
-        "rorcid",
         "rvest"
     ],
     "BiocSet": [
@@ -20323,7 +20322,6 @@
     ],
     "ggfun": [],
     "ggplotify": [],
-    "rorcid": [],
     "usethis": [],
     "rms": [
         "Hmisc",
