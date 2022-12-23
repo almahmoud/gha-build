@@ -94,7 +94,6 @@
         "genefilter",
         "geneplotter",
         "ggbio",
-        "htmlTable",
         "oligoClasses",
         "rtracklayer",
         "viridis"
@@ -151,7 +150,6 @@
         "genefilter",
         "geneplotter",
         "ggbio",
-        "htmlTable",
         "oligoClasses",
         "rtracklayer",
         "viridis"
@@ -176,7 +174,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -223,7 +220,6 @@
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "ggrastr",
-        "htmlTable",
         "lme4",
         "lmerTest",
         "mia",
@@ -371,7 +367,6 @@
         "Hmisc",
         "ShortRead",
         "biomaRt",
-        "htmlTable",
         "viridis"
     ],
     "arrayMvout": [
@@ -405,7 +400,6 @@
         "beadarray",
         "gcrma",
         "genefilter",
-        "htmlTable",
         "viridis",
         "vsn"
     ],
@@ -437,7 +431,6 @@
         "biovizBase",
         "ensembldb",
         "ggfortify",
-        "htmlTable",
         "lme4",
         "mGSZ",
         "nloptr",
@@ -457,7 +450,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -737,7 +729,6 @@
         "genefilter",
         "geneplotter",
         "ggrastr",
-        "htmlTable",
         "lme4",
         "lmerTest",
         "mia",
@@ -799,7 +790,6 @@
     ],
     "bigPint": [
         "Hmisc",
-        "htmlTable",
         "plotly",
         "viridis"
     ],
@@ -814,7 +804,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -947,7 +936,6 @@
         "AnnotationDbi",
         "GO.db",
         "Hmisc",
-        "htmlTable",
         "rms",
         "topGO",
         "viridis",
@@ -964,7 +952,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -974,7 +961,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "htmlTable",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "synaptome.data",
@@ -989,7 +975,6 @@
         "annotate",
         "genefilter",
         "ggnetwork",
-        "htmlTable",
         "sva",
         "viridis"
     ],
@@ -999,7 +984,6 @@
     "BioNetStat": [
         "AnnotationDbi",
         "Hmisc",
-        "htmlTable",
         "org.Hs.eg.db",
         "pathview",
         "viridis"
@@ -1027,7 +1011,6 @@
         "VariantAnnotation",
         "biomaRt",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -1127,7 +1110,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "plyranges",
         "rtracklayer",
         "viridis"
@@ -1164,7 +1146,6 @@
         "derfinderPlot",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -1218,7 +1199,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -1262,7 +1242,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -1280,7 +1259,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -1302,7 +1280,6 @@
         "genefilter",
         "ggbio",
         "ggnetwork",
-        "htmlTable",
         "rtracklayer",
         "sva",
         "viridis"
@@ -1318,7 +1295,6 @@
         "MSnbase",
         "MsFeatures",
         "affy",
-        "htmlTable",
         "viridis",
         "vsn",
         "xcms"
@@ -1332,7 +1308,6 @@
         "biomaRt",
         "genefilter",
         "hgu133a.db",
-        "htmlTable",
         "org.Hs.eg.db",
         "phenoTest",
         "viridis"
@@ -1491,7 +1466,6 @@
         "FactoMineR",
         "Hmisc",
         "car",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -1530,7 +1504,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "htmlTable",
         "scatterpie",
         "tidytree",
         "treeio",
@@ -1639,7 +1612,6 @@
         "genefilter",
         "globaltest",
         "goseq",
-        "htmlTable",
         "interactiveDisplayBase",
         "isva",
         "lumi",
@@ -1669,7 +1641,6 @@
     ],
     "Chicago": [
         "Hmisc",
-        "htmlTable",
         "viridis"
     ],
     "chimeraviz": [
@@ -1684,7 +1655,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rtracklayer",
@@ -1707,7 +1677,6 @@
         "GenomicAlignments",
         "Hmisc",
         "chipenrich.data",
-        "htmlTable",
         "org.Dm.eg.db",
         "org.Dr.eg.db",
         "org.Hs.eg.db",
@@ -1727,7 +1696,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -1859,7 +1827,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "monocle",
         "rtracklayer",
         "viridis"
@@ -2018,7 +1985,6 @@
         "cn.mops",
         "ensembldb",
         "exomeCopy",
-        "htmlTable",
         "karyoploteR",
         "regioneR",
         "rhdf5",
@@ -2038,7 +2004,6 @@
         "cn.mops",
         "ensembldb",
         "exomeCopy",
-        "htmlTable",
         "karyoploteR",
         "plotly",
         "regioneR",
@@ -2122,7 +2087,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "plotly",
         "rtracklayer",
         "viridis"
@@ -2143,7 +2107,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -2183,7 +2146,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "methylPipe",
         "rtracklayer",
         "topGO",
@@ -2248,7 +2210,6 @@
     "CONFESS": [
         "Hmisc",
         "contrast",
-        "htmlTable",
         "rms",
         "viridis"
     ],
@@ -2334,7 +2295,6 @@
         "cn.mops",
         "ensembldb",
         "exomeCopy",
-        "htmlTable",
         "karyoploteR",
         "regioneR",
         "rhdf5",
@@ -2489,7 +2449,6 @@
         "crisprScoreData",
         "crisprViz",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "rtracklayer",
         "viridis"
@@ -2512,7 +2471,6 @@
         "crisprScore",
         "crisprScoreData",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "rtracklayer",
         "viridis"
@@ -2536,7 +2494,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "htmlTable",
         "viridis"
     ],
     "CSSQ": [
@@ -2573,7 +2530,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -2705,7 +2661,6 @@
         "caret",
         "genefilter",
         "geneplotter",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -2932,7 +2887,6 @@
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -2951,7 +2905,6 @@
         "derfinder",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -3032,7 +2985,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "htmlTable",
         "viridis"
     ],
     "diffcyt": [
@@ -3140,7 +3092,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "htmlTable",
         "interactiveDisplayBase",
         "methylumi",
         "minfi",
@@ -3161,7 +3112,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -3412,7 +3362,6 @@
         "car",
         "ensembldb",
         "ggpubr",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -3605,7 +3554,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "htmlTable",
         "reactome.db",
         "scatterpie",
         "tidytree",
@@ -3652,7 +3600,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "htmlTable",
         "interactiveDisplayBase",
         "minfi",
         "org.Hs.eg.db",
@@ -3666,7 +3613,6 @@
     "epistack": [],
     "epistasisGA": [
         "Hmisc",
-        "htmlTable",
         "qgraph",
         "viridis"
     ],
@@ -3888,7 +3834,6 @@
         "biovizBase",
         "csaw",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -3936,7 +3881,6 @@
         "LiquidAssociation",
         "WGCNA",
         "geepack",
-        "htmlTable",
         "org.Sc.sgd.db",
         "viridis"
     ],
@@ -4029,7 +3973,6 @@
         "MSnbase",
         "MsFeatures",
         "affy",
-        "htmlTable",
         "viridis",
         "vsn",
         "xcms"
@@ -4053,7 +3996,6 @@
         "ensembldb",
         "ggbio",
         "ggrastr",
-        "htmlTable",
         "rhdf5",
         "rtracklayer",
         "scater",
@@ -4247,7 +4189,6 @@
         "caret",
         "genefilter",
         "geneplotter",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -4386,7 +4327,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -4457,7 +4397,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -4473,7 +4412,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -4603,7 +4541,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -4650,7 +4587,6 @@
         "Hmisc",
         "annotate",
         "genefilter",
-        "htmlTable",
         "viridis"
     ],
     "Glimma": [
@@ -4710,7 +4646,6 @@
         "annotate",
         "gRain",
         "genefilter",
-        "htmlTable",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "viridis"
@@ -4938,7 +4873,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -4979,7 +4913,6 @@
         "Hmisc",
         "WGCNA",
         "gprofiler2",
-        "htmlTable",
         "plotly",
         "viridis"
     ],
@@ -5045,7 +4978,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -5081,7 +5013,6 @@
         "biovizBase",
         "ensembldb",
         "ggrastr",
-        "htmlTable",
         "interactiveDisplayBase",
         "rhdf5",
         "rtracklayer",
@@ -5159,7 +5090,6 @@
     "iBBiG": [],
     "iCARE": [
         "Hmisc",
-        "htmlTable",
         "viridis"
     ],
     "icetea": [
@@ -5353,7 +5283,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -5424,7 +5353,6 @@
         "MSnbase",
         "MsFeatures",
         "affy",
-        "htmlTable",
         "viridis",
         "vsn",
         "xcms"
@@ -5561,7 +5489,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "regioneR",
         "rtracklayer",
         "viridis"
@@ -5618,7 +5545,6 @@
         "annotate",
         "caret",
         "genefilter",
-        "htmlTable",
         "recipes",
         "sva",
         "viridis"
@@ -5696,7 +5622,6 @@
         "MSnbase",
         "MsFeatures",
         "affy",
-        "htmlTable",
         "viridis",
         "vsn",
         "xcms"
@@ -5764,7 +5689,6 @@
     "M3Drop": [
         "Hmisc",
         "densEstBayes",
-        "htmlTable",
         "reldist",
         "viridis"
     ],
@@ -5797,7 +5721,6 @@
         "WGCNA",
         "car",
         "glmmTMB",
-        "htmlTable",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -5890,7 +5813,6 @@
         "caret",
         "fields",
         "haven",
-        "htmlTable",
         "klaR",
         "labelled",
         "plsgenomics",
@@ -5929,7 +5851,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -5943,7 +5864,6 @@
     "MatrixQCvis": [
         "Hmisc",
         "affy",
-        "htmlTable",
         "plotly",
         "viridis",
         "vsn"
@@ -5981,7 +5901,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "htmlTable",
         "viridis",
         "visNetwork"
     ],
@@ -5997,7 +5916,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "htmlTable",
         "org.Hs.eg.db",
         "viridis"
     ],
@@ -6016,7 +5934,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
@@ -6049,7 +5966,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "htmlTable",
         "isva",
         "methylumi",
         "minfi",
@@ -6175,7 +6091,6 @@
         "biomaRt",
         "car",
         "ensembldb",
-        "htmlTable",
         "lme4",
         "mygene",
         "nloptr",
@@ -6214,7 +6129,6 @@
         "MSnbase",
         "MsFeatures",
         "affy",
-        "htmlTable",
         "viridis",
         "vsn",
         "xcms"
@@ -6449,7 +6363,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -6579,7 +6492,6 @@
         "geneplotter",
         "ggrastr",
         "ggtree",
-        "htmlTable",
         "lme4",
         "lmerTest",
         "mia",
@@ -6650,7 +6562,6 @@
     ],
     "mina": [
         "Hmisc",
-        "htmlTable",
         "viridis"
     ],
     "MineICA": [
@@ -6672,7 +6583,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "htmlTable",
         "lumi",
         "lumiHumanAll.db",
         "methylumi",
@@ -6735,7 +6645,6 @@
         "annotate",
         "biomaRt",
         "genefilter",
-        "htmlTable",
         "org.Hs.eg.db",
         "viridis"
     ],
@@ -6775,7 +6684,6 @@
         "graphite",
         "gson",
         "haven",
-        "htmlTable",
         "iBBiG",
         "lme4",
         "miRspongeR",
@@ -6938,7 +6846,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "htmlTable",
         "viridis"
     ],
     "MOFA2": [
@@ -7021,7 +6928,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "motifStack",
         "rtracklayer",
         "viridis"
@@ -7086,7 +6992,6 @@
         "easyRNASeq",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -7207,7 +7112,6 @@
         "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
-        "htmlTable",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -7254,7 +7158,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "karyoploteR",
         "plyranges",
         "regioneR",
@@ -7399,7 +7302,6 @@
         "GenomicFeatures",
         "Hmisc",
         "biomaRt",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -7411,7 +7313,6 @@
         "Hmisc",
         "VariantAnnotation",
         "biomaRt",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -7437,7 +7338,6 @@
         "biovizBase",
         "csaw",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "motifStack",
         "regioneR",
@@ -7524,7 +7424,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "htmlTable",
         "viridis"
     ],
     "netboxr": [
@@ -7563,7 +7462,6 @@
         "Hmisc",
         "WGCNA",
         "biomaRt",
-        "htmlTable",
         "viridis"
     ],
     "netSmooth": [
@@ -7646,7 +7544,6 @@
         "affy",
         "car",
         "haven",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7733,7 +7630,6 @@
         "dasper",
         "derfinder",
         "ggpubr",
-        "htmlTable",
         "lme4",
         "megadepth",
         "nloptr",
@@ -7757,7 +7653,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "rtracklayer",
         "viridis"
@@ -7793,7 +7688,6 @@
         "annotate",
         "car",
         "genefilter",
-        "htmlTable",
         "isva",
         "lme4",
         "made4",
@@ -7870,12 +7764,10 @@
     "openCyto": [],
     "openPrimeR": [
         "Hmisc",
-        "htmlTable",
         "viridis"
     ],
     "openPrimeRui": [
         "Hmisc",
-        "htmlTable",
         "openPrimeR",
         "viridis"
     ],
@@ -7883,7 +7775,6 @@
         "AICcmodavg",
         "Hmisc",
         "car",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8209,7 +8100,6 @@
         "biomaRt",
         "genefilter",
         "hgu133a.db",
-        "htmlTable",
         "org.Hs.eg.db",
         "viridis"
     ],
@@ -8281,7 +8171,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "htmlTable",
         "reactome.db",
         "scatterpie",
         "tidytree",
@@ -8302,7 +8191,6 @@
         "ensembldb",
         "fda",
         "fds",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -8344,7 +8232,6 @@
         "Hmisc",
         "car",
         "ggpubr",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8453,7 +8340,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "phastCons100way.UCSC.hg38",
         "rhdf5",
@@ -8464,7 +8350,6 @@
         "Hmisc",
         "MSnbase",
         "affy",
-        "htmlTable",
         "viridis",
         "vsn"
     ],
@@ -8494,7 +8379,6 @@
         "annotate",
         "genefilter",
         "ggfortify",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pvca",
@@ -8666,7 +8550,6 @@
         "bumphunter",
         "derfinder",
         "highcharter",
-        "htmlTable",
         "interactiveDisplayBase",
         "pairsD3",
         "recount",
@@ -8691,7 +8574,6 @@
         "affy",
         "car",
         "ggpubr",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8738,7 +8620,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -8800,7 +8681,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "testthat",
         "viridis"
@@ -8815,7 +8695,6 @@
         "Hmisc",
         "annotate",
         "genefilter",
-        "htmlTable",
         "sva",
         "viridis"
     ],
@@ -8865,7 +8744,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -9028,7 +8906,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -9088,7 +8965,6 @@
         "WGCNA",
         "annotate",
         "geneplotter",
-        "htmlTable",
         "viridis"
     ],
     "regioneR": [
@@ -9118,7 +8994,6 @@
         "bumphunter",
         "derfinder",
         "geneplotter",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -9134,7 +9009,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "rtracklayer",
         "viridis"
@@ -9192,7 +9066,6 @@
         "genefilter",
         "geneplotter",
         "ggbio",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -9218,7 +9091,6 @@
         "FactoMineR",
         "Hmisc",
         "car",
-        "htmlTable",
         "lme4",
         "mice",
         "nloptr",
@@ -9324,7 +9196,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -9374,7 +9245,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "karyoploteR",
         "regioneR",
         "rtracklayer",
@@ -9459,7 +9329,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "htmlTable",
         "org.Hs.eg.db",
         "recount",
         "rtracklayer",
@@ -9501,7 +9370,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -9517,7 +9385,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -9533,7 +9400,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -9549,7 +9415,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -9609,7 +9474,6 @@
         "car",
         "derfinder",
         "ggpubr",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9673,7 +9537,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -9759,7 +9622,6 @@
     ],
     "Rtreemix": [
         "Hmisc",
-        "htmlTable",
         "viridis"
     ],
     "rTRM": [
@@ -9985,7 +9847,6 @@
         "M3Drop",
         "SingleCellExperiment",
         "densEstBayes",
-        "htmlTable",
         "reldist",
         "viridis"
     ],
@@ -10093,7 +9954,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -10226,7 +10086,6 @@
         "Hmisc",
         "WGCNA",
         "biomaRt",
-        "htmlTable",
         "viridis"
     ],
     "seqArchR": [],
@@ -10515,7 +10374,6 @@
         "ggrastr",
         "ggtree",
         "hgu95a.db",
-        "htmlTable",
         "interactiveDisplayBase",
         "msigdbr",
         "org.Hs.eg.db",
@@ -10620,7 +10478,6 @@
         "biomaRt",
         "geneLenDataBase",
         "goseq",
-        "htmlTable",
         "org.Hs.eg.db",
         "reactome.db",
         "rtracklayer",
@@ -10678,7 +10535,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -10761,7 +10617,6 @@
         "annotate",
         "genefilter",
         "ggrastr",
-        "htmlTable",
         "plotly",
         "scater",
         "scran",
@@ -10786,7 +10641,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "motifmatchr",
         "rtracklayer",
         "viridis"
@@ -10886,7 +10740,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -10929,7 +10782,6 @@
         "SingleCellExperiment",
         "WGCNA",
         "biomformat",
-        "htmlTable",
         "phyloseq",
         "rhdf5",
         "viridis"
@@ -10956,7 +10808,6 @@
         "devtools",
         "ensembldb",
         "geneplotter",
-        "htmlTable",
         "rtracklayer",
         "testthat",
         "viridis"
@@ -10991,7 +10842,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -11228,7 +11078,6 @@
     "TarSeqQC": [
         "GenomicAlignments",
         "Hmisc",
-        "htmlTable",
         "viridis"
     ],
     "TBSignatureProfiler": [
@@ -11285,7 +11134,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "htmlTable",
         "interactiveDisplayBase",
         "lme4",
         "nloptr",
@@ -11437,7 +11285,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "htmlTable",
         "viridis"
     ],
     "TissueEnrich": [
@@ -11521,7 +11368,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rhdf5",
         "rtracklayer",
         "viridis"
@@ -11627,7 +11473,6 @@
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "WGCNA",
         "biomaRt",
-        "htmlTable",
         "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
@@ -11696,7 +11541,6 @@
         "biovizBase",
         "ensemblVEP",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -11773,7 +11617,6 @@
         "biovizBase",
         "condformat",
         "ensembldb",
-        "htmlTable",
         "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
@@ -11861,7 +11704,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "rhdf5",
         "rtracklayer",
@@ -12039,7 +11881,6 @@
         "GenomicFeatures",
         "Hmisc",
         "biomaRt",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -12104,7 +11945,6 @@
         "dendextend",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer",
         "viridis"
     ],
@@ -12203,10 +12043,8 @@
         "AnnotationDbi"
     ],
     "Hmisc": [
-        "htmlTable",
         "viridis"
     ],
-    "htmlTable": [],
     "viridis": [],
     "ggrastr": [],
     "curatedTCGAData": [
@@ -12460,7 +12298,6 @@
     "scatterpie": [],
     "rms": [
         "Hmisc",
-        "htmlTable",
         "viridis"
     ],
     "xlsx": [],
@@ -12474,7 +12311,6 @@
         "AnnotationDbi",
         "GO.db",
         "Hmisc",
-        "htmlTable",
         "viridis"
     ],
     "synaptome.data": [
@@ -12520,7 +12356,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "htmlTable",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -12693,7 +12528,6 @@
     "spatstat": [],
     "contrast": [
         "Hmisc",
-        "htmlTable",
         "rms",
         "viridis"
     ],
@@ -12824,7 +12658,6 @@
     ],
     "qgraph": [
         "Hmisc",
-        "htmlTable",
         "viridis"
     ],
     "ewceData": [
@@ -12880,7 +12713,6 @@
     ],
     "HH": [
         "Hmisc",
-        "htmlTable",
         "viridis"
     ],
     "gRain": [],
@@ -13061,7 +12893,6 @@
         "Hmisc",
         "car",
         "haven",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -13320,9 +13151,7 @@
     "mirbase.db": [
         "AnnotationDbi"
     ],
-    "condformat": [
-        "htmlTable"
-    ],
+    "condformat": [],
     "shinyTree": [],
     "msigdb": [
         "AnnotationDbi",
