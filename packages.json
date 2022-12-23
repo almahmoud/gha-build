@@ -217,9 +217,7 @@
     "musicatk": [
         "factoextra"
     ],
-    "NADfinder": [
-        "trackViewer"
-    ],
+    "NADfinder": [],
     "NBSplice": [
         "mppa"
     ],
@@ -318,7 +316,6 @@
         "propr"
     ],
     "TNBC.CMS": [],
-    "trackViewer": [],
     "TraRe": [
         "vbsr"
     ],
