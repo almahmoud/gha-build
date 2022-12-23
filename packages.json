@@ -1594,7 +1594,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "PepsNMR",
-        "RcppDE",
         "SummarizedExperiment",
         "XVector",
         "bslib",
@@ -31589,7 +31588,6 @@
         "glmnet"
     ],
     "PepsNMR": [
-        "RcppDE",
         "ggplot2",
         "pillar",
         "ptw",
@@ -48921,10 +48919,7 @@
         "tibble",
         "vctrs"
     ],
-    "ptw": [
-        "RcppDE"
-    ],
-    "RcppDE": [],
+    "ptw": [],
     "DRaWR": [
         "ROCR"
     ],
