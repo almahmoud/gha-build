@@ -2813,9 +2813,7 @@
         "scran",
         "viridis"
     ],
-    "ISAnalytics": [
-        "datamods"
-    ],
+    "ISAnalytics": [],
     "iSEEhex": [],
     "iSEEhub": [],
     "iSEEu": [
@@ -6595,7 +6593,6 @@
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures"
     ],
-    "datamods": [],
     "pd.mapping50k.xba240": [
         "oligo"
     ],
