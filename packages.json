@@ -19038,7 +19038,6 @@
         "reshape2",
         "rmarkdown",
         "robust",
-        "roptim",
         "sass",
         "stringr",
         "testthat",
@@ -56601,7 +56600,6 @@
         "stringr"
     ],
     "robust": [],
-    "roptim": [],
     "shinyHeatmaply": [
         "bslib",
         "cellranger",
