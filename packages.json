@@ -574,7 +574,6 @@
         "rhdf5",
         "viridis"
     ],
-    "cleanUpdTSeq": [],
     "clipper": [],
     "cliqueMS": [
         "MSnbase",
@@ -1627,9 +1626,7 @@
         "Seurat",
         "coin"
     ],
-    "InPAS": [
-        "cleanUpdTSeq"
-    ],
+    "InPAS": [],
     "INSPEcT": [],
     "InTAD": [
         "car",
