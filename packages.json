@@ -2572,7 +2572,6 @@
         "pbkrtest",
         "plotly",
         "progeny",
-        "quantiseqr",
         "rstatix",
         "testthat",
         "viper"
@@ -6959,7 +6958,6 @@
         "genefilter",
         "sva"
     ],
-    "quantiseqr": [],
     "quantro": [
         "GenomicFeatures",
         "annotate",
