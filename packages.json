@@ -3204,7 +3204,6 @@
     ],
     "MetID": [],
     "MGFM": [],
-    "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment",
         "scater",
@@ -4843,8 +4842,7 @@
         "GenomicFeatures"
     ],
     "sampleClassifier": [
-        "MGFM",
-        "MGFR"
+        "MGFM"
     ],
     "SBGNview": [
         "pathview"
