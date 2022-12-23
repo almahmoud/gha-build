@@ -49534,7 +49534,6 @@
     "hypergraph": [
         "graph"
     ],
-    "iASeq": [],
     "iasva": [
         "Biobase",
         "BiocParallel",
