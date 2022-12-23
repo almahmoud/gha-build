@@ -1684,7 +1684,6 @@
         "purrr",
         "rmarkdown",
         "sass",
-        "sendmailR",
         "stringr",
         "tibble",
         "tidyselect",
@@ -21753,7 +21752,6 @@
         "ggplot2",
         "pillar",
         "rhdf5",
-        "sendmailR",
         "tibble",
         "vctrs"
     ],
@@ -35351,7 +35349,6 @@
         "BatchJobs",
         "RSQLite",
         "blob",
-        "sendmailR",
         "vctrs"
     ],
     "PAST": [
@@ -55502,7 +55499,6 @@
         "urltools"
     ],
     "urltools": [],
-    "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -59188,7 +59184,6 @@
     "BatchJobs": [
         "RSQLite",
         "blob",
-        "sendmailR",
         "vctrs"
     ],
     "HiContactsData": [
