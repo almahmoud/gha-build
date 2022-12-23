@@ -495,7 +495,6 @@
         "biovizBase",
         "bsseq",
         "dendextend",
-        "goseq",
         "lumi",
         "methylumi",
         "minfi",
@@ -1457,7 +1456,6 @@
         "dendextend",
         "viridis"
     ],
-    "goseq": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot",
@@ -1585,7 +1583,6 @@
     "ideal": [
         "GOstats",
         "dendextend",
-        "goseq",
         "heatmaply",
         "pcaExplorer",
         "viridis"
@@ -2937,9 +2934,7 @@
     "RGMQL": [],
     "RgnTX": [],
     "rGREAT": [],
-    "rgsepd": [
-        "goseq"
-    ],
+    "rgsepd": [],
     "rhdf5": [],
     "Rhisat2": [],
     "RiboCrypt": [
@@ -3362,7 +3357,6 @@
     ],
     "SMITE": [
         "Hmisc",
-        "goseq",
         "viridis"
     ],
     "snapCGH": [
