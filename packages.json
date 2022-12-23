@@ -18541,7 +18541,6 @@
         "rgl",
         "rmarkdown",
         "rtracklayer",
-        "sSeq",
         "sass",
         "stringr",
         "survival",
@@ -30395,7 +30394,6 @@
         "recipes",
         "rematch2",
         "reshape2",
-        "sSeq",
         "stringr",
         "survival",
         "testthat",
@@ -49009,7 +49007,6 @@
         "ade4",
         "seqinr"
     ],
-    "sSeq": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "BiocParallel",
