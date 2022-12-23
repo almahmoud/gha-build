@@ -538,7 +538,6 @@
     ],
     "AnVILBilling": [
         "DT",
-        "bigrquery",
         "dplyr",
         "ggplot2",
         "htmlwidgets",
@@ -1580,7 +1579,6 @@
         "MultiAssayExperiment",
         "Rsamtools",
         "SummarizedExperiment",
-        "bigrquery",
         "biomaRt",
         "broom",
         "car",
@@ -17598,7 +17596,6 @@
         "GO.db",
         "KEGGREST",
         "SummarizedExperiment",
-        "bigrquery",
         "dbplyr",
         "dplyr",
         "htmlwidgets",
@@ -21808,7 +21805,6 @@
         "GO.db",
         "KEGGREST",
         "SummarizedExperiment",
-        "bigrquery",
         "dbplyr",
         "dplyr",
         "htmlwidgets",
@@ -23658,7 +23654,6 @@
     "miniUI": [
         "shiny"
     ],
-    "bigrquery": [],
     "shinytoastr": [
         "shiny"
     ],
