@@ -9180,7 +9180,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "condformat",
         "ensembldb",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -10358,7 +10357,6 @@
     ],
     "kmlShape": [],
     "mirbase.db": [],
-    "condformat": [],
     "msigdb": [
         "AnnotationHub",
         "ExperimentHub",
