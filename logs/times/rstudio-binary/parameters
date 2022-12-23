@@ -1,0 +1,794 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   b7e2d494..afef6125  main       -> origin/main
+Updating b7e2d494..afef6125
+Fast-forward
+ lists/ABSSeq                       |   1 +
+ lists/ACME                         |   1 +
+ lists/AIMS                         |   1 +
+ lists/ANF                          |   1 +
+ lists/BAGS                         |   1 +
+ lists/BMA                          |   1 +
+ lists/BRISC                        |   1 +
+ lists/BayesKnockdown               |   1 +
+ lists/BioMVCClass                  |   1 +
+ lists/BiocIO                       |   1 +
+ lists/BoolNet                      |   1 +
+ lists/BrowserViz                   |   1 +
+ lists/CGEN                         |   1 +
+ lists/CGHcall                      |   1 +
+ lists/CGHregions                   |   1 +
+ lists/CORREP                       |   1 +
+ lists/CVXR                         |   1 +
+ lists/CancerInSilico               |   1 +
+ lists/CellMapper                   |   1 +
+ lists/ChIPXpressData               |   1 +
+ lists/DNABarcodes                  |   1 +
+ lists/DrImpute                     |   1 +
+ lists/EntropyExplorer              |   1 +
+ lists/ExtDist                      |   1 +
+ lists/GA                           |   1 +
+ lists/GSEAlm                       |   1 +
+ lists/GenKern                      |   1 +
+ lists/GeneSelectMMD                |   1 +
+ lists/GenomicTools                 |   1 +
+ lists/HELP                         |   1 +
+ lists/HybridMTest                  |   1 +
+ lists/IRanges                      |   1 +
+ lists/Icens                        |   1 +
+ lists/JADE                         |   1 +
+ lists/KEGGgraph                    |   1 +
+ lists/LogicReg                     |   1 +
+ lists/MANOR                        |   1 +
+ lists/MCL                          |   1 +
+ lists/MSstatsConvert               |   1 +
+ lists/MatrixExtra                  |   1 +
+ lists/Mfuzz                        |   1 +
+ lists/MiChip                       |   1 +
+ lists/MiPP                         |   1 +
+ lists/MsCoreUtils                  |   1 +
+ lists/NADA                         |   1 +
+ lists/NanoStringDiff               |   1 +
+ lists/OLINgui                      |   1 +
+ lists/PMCMRplus                    |   1 +
+ lists/PROPER                       |   1 +
+ lists/PSCBS                        |   1 +
+ lists/PerformanceAnalytics         |   1 +
+ lists/R.filesets                   |   1 +
+ lists/R.rsp                        |   1 +
+ lists/RBGL                         |   1 +
+ lists/RNOmni                       |   1 +
+ lists/ROSeq                        |   1 +
+ lists/RSpectra                     |   1 +
+ lists/RTCA                         |   1 +
+ lists/RUVnormalize                 |   1 +
+ lists/RWeka                        |   1 +
+ lists/RankProd                     |   1 +
+ lists/RcppDE                       |   1 +
+ lists/RcppDist                     |   1 +
+ lists/RcppML                       |   1 +
+ lists/RcppNumerical                |   1 +
+ lists/ReadqPCR                     |   1 +
+ lists/RedeR                        |   1 +
+ lists/ReorderCluster               |   1 +
+ lists/Rmagic                       |   1 +
+ lists/Rmisc                        |   1 +
+ lists/Rsubread                     |   1 +
+ lists/Rvmmin                       |   1 +
+ lists/SIMD                         |   1 +
+ lists/SNAGEE                       |   1 +
+ lists/SNPediaR                     |   1 +
+ lists/SPARQL                       |   1 +
+ lists/SeuratObject                 |   1 +
+ lists/SmoothWin                    |   1 +
+ lists/SpatialTools                 |   1 +
+ lists/TH.data                      |   1 +
+ lists/TMB                          |   1 +
+ lists/TRONCO                       |   1 +
+ lists/TTR                          |   1 +
+ lists/TargetScore                  |   1 +
+ lists/Travel                       |   1 +
+ lists/VERSO                        |   1 +
+ lists/Wrench                       |   1 +
+ lists/XML2R                        |   1 +
+ lists/adehabitatLT                 |   1 +
+ lists/affy                         |   1 +
+ lists/akima                        |   1 +
+ lists/analogue                     |   1 +
+ lists/animation                    |   1 +
+ lists/annotationTools              |   1 +
+ lists/antiProfiles                 |   1 +
+ lists/apcluster                    |   1 +
+ lists/aroma.apd                    |   1 +
+ lists/arules                       |   1 +
+ lists/ashr                         |   1 +
+ lists/assertive.types              |   1 +
+ lists/bamlss                       |   1 +
+ lists/base64                       |   1 +
+ lists/baseline                     |   1 +
+ lists/biganalytics                 |   1 +
+ lists/bigparallelr                 |   1 +
+ lists/bioDist                      |   1 +
+ lists/cancerclass                  |   1 +
+ lists/ccaPP                        |   1 +
+ lists/changepoint.np               |   1 +
+ lists/chemometrics                 |   1 +
+ lists/chk                          |   1 +
+ lists/chopsticks                   |   1 +
+ lists/classInt                     |   1 +
+ lists/clusterSim                   |   1 +
+ lists/copa                         |   1 +
+ lists/credentials                  |   1 +
+ lists/crul                         |   1 +
+ lists/distrEx                      |   1 +
+ lists/dks                          |   1 +
+ lists/doSNOW                       |   1 +
+ lists/dqrng                        |   1 +
+ lists/eds                          |   1 +
+ lists/epivizrServer                |   1 +
+ lists/fBasics                      |   1 +
+ lists/fitdistrplus                 |   1 +
+ lists/flexclust                    |   1 +
+ lists/flowCore                     |   1 +
+ lists/fmrs                         |   1 +
+ lists/fst                          |   1 +
+ lists/futile.logger                |   1 +
+ lists/gProfileR                    |   1 +
+ lists/gamlss                       |   1 +
+ lists/gbm                          |   1 +
+ lists/gbutils                      |   1 +
+ lists/gcatest                      |   1 +
+ lists/gdtools                      |   1 +
+ lists/geNetClassifier              |   1 +
+ lists/geeM                         |   1 +
+ lists/geneClassifiers              |   1 +
+ lists/geometry                     |   1 +
+ lists/gld                          |   1 +
+ lists/glmnet                       |   1 +
+ lists/gplots                       |   1 +
+ lists/hmdbQuery                    |   1 +
+ lists/httr                         |   1 +
+ lists/hypergraph                   |   1 +
+ lists/iGC                          |   1 +
+ lists/ids                          |   1 +
+ lists/inaparc                      |   1 +
+ lists/km.ci                        |   1 +
+ lists/kmer                         |   1 +
+ lists/kmlShape                     |   1 +
+ lists/ks                           |   1 +
+ lists/lapmix                       |   1 +
+ lists/latticeExtra                 |   1 +
+ lists/lava                         |   1 +
+ lists/lmtest                       |   1 +
+ lists/lubridate                    |   1 +
+ lists/mGSZ                         |   1 +
+ lists/mRMRe                        |   1 +
+ lists/maSigPro                     |   1 +
+ lists/maanova                      |   1 +
+ lists/maftools                     |   1 +
+ lists/maigesPack                   |   1 +
+ lists/matchingR                    |   1 +
+ lists/maxLik                       |   1 +
+ lists/mclustcomp                   |   1 +
+ lists/metaSeq                      |   1 +
+ lists/miRcomp                      |   1 +
+ lists/missForest                   |   1 +
+ lists/mppa                         |   1 +
+ lists/msm                          |   1 +
+ lists/multiscan                    |   1 +
+ lists/multtest                     |   1 +
+ lists/mzID                         |   1 +
+ lists/mzR                          |   1 +
+ lists/ontologyPlot                 |   1 +
+ lists/origami                      |   1 +
+ lists/pROC                         |   1 +
+ lists/paircompviz                  |   1 +
+ lists/pamr                         |   1 +
+ lists/paradox                      |   1 +
+ lists/parameters                   |   1 +
+ lists/partykit                     |   1 +
+ lists/pathwayPCA                   |   1 +
+ lists/pcxn                         |   1 +
+ lists/penalized                    |   1 +
+ lists/phosphoricons                |   1 +
+ lists/phylolm                      |   1 +
+ lists/pkgbuild                     |   1 +
+ lists/propr                        |   1 +
+ lists/proxyC                       |   1 +
+ lists/qlcMatrix                    |   1 +
+ lists/qpdf                         |   1 +
+ lists/quanteda                     |   1 +
+ lists/quantreg                     |   1 +
+ lists/qusage                       |   1 +
+ lists/randPack                     |   1 +
+ lists/raster                       |   1 +
+ lists/rbsurv                       |   1 +
+ lists/rcdk                         |   1 +
+ lists/rebus                        |   1 +
+ lists/restfulr                     |   1 +
+ lists/reticulate                   |   1 +
+ lists/rhdf5                        |   1 +
+ lists/robust                       |   1 +
+ lists/sampSurf                     |   1 +
+ lists/sass                         |   1 +
+ lists/segmented                    |   1 +
+ lists/seriation                    |   1 +
+ lists/servr                        |   1 +
+ lists/sigsquared                   |   1 +
+ lists/skmeans                      |   1 +
+ lists/snpStats                     |   1 +
+ lists/softImpute                   |   1 +
+ lists/spacetime                    |   1 +
+ lists/sparseMVN                    |   1 +
+ lists/sparsepca                    |   1 +
+ lists/spatstat.random              |   1 +
+ lists/spdl                         |   1 +
+ lists/speedglm                     |   1 +
+ lists/splancs                      |   1 +
+ lists/splines2                     |   1 +
+ lists/spp                          |   1 +
+ lists/stepNorm                     |   1 +
+ lists/survey                       |   1 +
+ lists/textshaping                  |   1 +
+ lists/tmvtnorm                     |   1 +
+ lists/tnet                         |   1 +
+ lists/topicmodels                  |   1 +
+ lists/tractor.base                 |   1 +
+ lists/twilight                     |   1 +
+ lists/updateObject                 |   1 +
+ lists/urca                         |   1 +
+ lists/vbsr                         |   1 +
+ lists/vctrs                        |   1 +
+ lists/vioplot                      |   1 +
+ lists/xlsx                         |   1 +
+ lists/yeastExpData                 |   1 +
+ logs/run_ids/rstudio-binaries/sass |   2 +
+ packages.json                      |   2 -
+ tobuild.txt                        | 238 +++++++++++++++++++++++++++++++++++++
+ 242 files changed, 479 insertions(+), 2 deletions(-)
+ create mode 100644 lists/ABSSeq
+ create mode 100644 lists/ACME
+ create mode 100644 lists/AIMS
+ create mode 100644 lists/ANF
+ create mode 100644 lists/BAGS
+ create mode 100644 lists/BMA
+ create mode 100644 lists/BRISC
+ create mode 100644 lists/BayesKnockdown
+ create mode 100644 lists/BioMVCClass
+ create mode 100644 lists/BiocIO
+ create mode 100644 lists/BoolNet
+ create mode 100644 lists/BrowserViz
+ create mode 100644 lists/CGEN
+ create mode 100644 lists/CGHcall
+ create mode 100644 lists/CGHregions
+ create mode 100644 lists/CORREP
+ create mode 100644 lists/CVXR
+ create mode 100644 lists/CancerInSilico
+ create mode 100644 lists/CellMapper
+ create mode 100644 lists/ChIPXpressData
+ create mode 100644 lists/DNABarcodes
+ create mode 100644 lists/DrImpute
+ create mode 100644 lists/EntropyExplorer
+ create mode 100644 lists/ExtDist
+ create mode 100644 lists/GA
+ create mode 100644 lists/GSEAlm
+ create mode 100644 lists/GenKern
+ create mode 100644 lists/GeneSelectMMD
+ create mode 100644 lists/GenomicTools
+ create mode 100644 lists/HELP
+ create mode 100644 lists/HybridMTest
+ create mode 100644 lists/IRanges
+ create mode 100644 lists/Icens
+ create mode 100644 lists/JADE
+ create mode 100644 lists/KEGGgraph
+ create mode 100644 lists/LogicReg
+ create mode 100644 lists/MANOR
+ create mode 100644 lists/MCL
+ create mode 100644 lists/MSstatsConvert
+ create mode 100644 lists/MatrixExtra
+ create mode 100644 lists/Mfuzz
+ create mode 100644 lists/MiChip
+ create mode 100644 lists/MiPP
+ create mode 100644 lists/MsCoreUtils
+ create mode 100644 lists/NADA
+ create mode 100644 lists/NanoStringDiff
+ create mode 100644 lists/OLINgui
+ create mode 100644 lists/PMCMRplus
+ create mode 100644 lists/PROPER
+ create mode 100644 lists/PSCBS
+ create mode 100644 lists/PerformanceAnalytics
+ create mode 100644 lists/R.filesets
+ create mode 100644 lists/R.rsp
+ create mode 100644 lists/RBGL
+ create mode 100644 lists/RNOmni
+ create mode 100644 lists/ROSeq
+ create mode 100644 lists/RSpectra
+ create mode 100644 lists/RTCA
+ create mode 100644 lists/RUVnormalize
+ create mode 100644 lists/RWeka
+ create mode 100644 lists/RankProd
+ create mode 100644 lists/RcppDE
+ create mode 100644 lists/RcppDist
+ create mode 100644 lists/RcppML
+ create mode 100644 lists/RcppNumerical
+ create mode 100644 lists/ReadqPCR
+ create mode 100644 lists/RedeR
+ create mode 100644 lists/ReorderCluster
+ create mode 100644 lists/Rmagic
+ create mode 100644 lists/Rmisc
+ create mode 100644 lists/Rsubread
+ create mode 100644 lists/Rvmmin
+ create mode 100644 lists/SIMD
+ create mode 100644 lists/SNAGEE
+ create mode 100644 lists/SNPediaR
+ create mode 100644 lists/SPARQL
+ create mode 100644 lists/SeuratObject
+ create mode 100644 lists/SmoothWin
+ create mode 100644 lists/SpatialTools
+ create mode 100644 lists/TH.data
+ create mode 100644 lists/TMB
+ create mode 100644 lists/TRONCO
+ create mode 100644 lists/TTR
+ create mode 100644 lists/TargetScore
+ create mode 100644 lists/Travel
+ create mode 100644 lists/VERSO
+ create mode 100644 lists/Wrench
+ create mode 100644 lists/XML2R
+ create mode 100644 lists/adehabitatLT
+ create mode 100644 lists/affy
+ create mode 100644 lists/akima
+ create mode 100644 lists/analogue
+ create mode 100644 lists/animation
+ create mode 100644 lists/annotationTools
+ create mode 100644 lists/antiProfiles
+ create mode 100644 lists/apcluster
+ create mode 100644 lists/aroma.apd
+ create mode 100644 lists/arules
+ create mode 100644 lists/ashr
+ create mode 100644 lists/assertive.types
+ create mode 100644 lists/bamlss
+ create mode 100644 lists/base64
+ create mode 100644 lists/baseline
+ create mode 100644 lists/biganalytics
+ create mode 100644 lists/bigparallelr
+ create mode 100644 lists/bioDist
+ create mode 100644 lists/cancerclass
+ create mode 100644 lists/ccaPP
+ create mode 100644 lists/changepoint.np
+ create mode 100644 lists/chemometrics
+ create mode 100644 lists/chk
+ create mode 100644 lists/chopsticks
+ create mode 100644 lists/classInt
+ create mode 100644 lists/clusterSim
+ create mode 100644 lists/copa
+ create mode 100644 lists/credentials
+ create mode 100644 lists/crul
+ create mode 100644 lists/distrEx
+ create mode 100644 lists/dks
+ create mode 100644 lists/doSNOW
+ create mode 100644 lists/dqrng
+ create mode 100644 lists/eds
+ create mode 100644 lists/epivizrServer
+ create mode 100644 lists/fBasics
+ create mode 100644 lists/fitdistrplus
+ create mode 100644 lists/flexclust
+ create mode 100644 lists/flowCore
+ create mode 100644 lists/fmrs
+ create mode 100644 lists/fst
+ create mode 100644 lists/futile.logger
+ create mode 100644 lists/gProfileR
+ create mode 100644 lists/gamlss
+ create mode 100644 lists/gbm
+ create mode 100644 lists/gbutils
+ create mode 100644 lists/gcatest
+ create mode 100644 lists/gdtools
+ create mode 100644 lists/geNetClassifier
+ create mode 100644 lists/geeM
+ create mode 100644 lists/geneClassifiers
+ create mode 100644 lists/geometry
+ create mode 100644 lists/gld
+ create mode 100644 lists/glmnet
+ create mode 100644 lists/gplots
+ create mode 100644 lists/hmdbQuery
+ create mode 100644 lists/httr
+ create mode 100644 lists/hypergraph
+ create mode 100644 lists/iGC
+ create mode 100644 lists/ids
+ create mode 100644 lists/inaparc
+ create mode 100644 lists/km.ci
+ create mode 100644 lists/kmer
+ create mode 100644 lists/kmlShape
+ create mode 100644 lists/ks
+ create mode 100644 lists/lapmix
+ create mode 100644 lists/latticeExtra
+ create mode 100644 lists/lava
+ create mode 100644 lists/lmtest
+ create mode 100644 lists/lubridate
+ create mode 100644 lists/mGSZ
+ create mode 100644 lists/mRMRe
+ create mode 100644 lists/maSigPro
+ create mode 100644 lists/maanova
+ create mode 100644 lists/maftools
+ create mode 100644 lists/maigesPack
+ create mode 100644 lists/matchingR
+ create mode 100644 lists/maxLik
+ create mode 100644 lists/mclustcomp
+ create mode 100644 lists/metaSeq
+ create mode 100644 lists/miRcomp
+ create mode 100644 lists/missForest
+ create mode 100644 lists/mppa
+ create mode 100644 lists/msm
+ create mode 100644 lists/multiscan
+ create mode 100644 lists/multtest
+ create mode 100644 lists/mzID
+ create mode 100644 lists/mzR
+ create mode 100644 lists/ontologyPlot
+ create mode 100644 lists/origami
+ create mode 100644 lists/pROC
+ create mode 100644 lists/paircompviz
+ create mode 100644 lists/pamr
+ create mode 100644 lists/paradox
+ create mode 100644 lists/parameters
+ create mode 100644 lists/partykit
+ create mode 100644 lists/pathwayPCA
+ create mode 100644 lists/pcxn
+ create mode 100644 lists/penalized
+ create mode 100644 lists/phosphoricons
+ create mode 100644 lists/phylolm
+ create mode 100644 lists/pkgbuild
+ create mode 100644 lists/propr
+ create mode 100644 lists/proxyC
+ create mode 100644 lists/qlcMatrix
+ create mode 100644 lists/qpdf
+ create mode 100644 lists/quanteda
+ create mode 100644 lists/quantreg
+ create mode 100644 lists/qusage
+ create mode 100644 lists/randPack
+ create mode 100644 lists/raster
+ create mode 100644 lists/rbsurv
+ create mode 100644 lists/rcdk
+ create mode 100644 lists/rebus
+ create mode 100644 lists/restfulr
+ create mode 100644 lists/reticulate
+ create mode 100644 lists/rhdf5
+ create mode 100644 lists/robust
+ create mode 100644 lists/sampSurf
+ create mode 100644 lists/sass
+ create mode 100644 lists/segmented
+ create mode 100644 lists/seriation
+ create mode 100644 lists/servr
+ create mode 100644 lists/sigsquared
+ create mode 100644 lists/skmeans
+ create mode 100644 lists/snpStats
+ create mode 100644 lists/softImpute
+ create mode 100644 lists/spacetime
+ create mode 100644 lists/sparseMVN
+ create mode 100644 lists/sparsepca
+ create mode 100644 lists/spatstat.random
+ create mode 100644 lists/spdl
+ create mode 100644 lists/speedglm
+ create mode 100644 lists/splancs
+ create mode 100644 lists/splines2
+ create mode 100644 lists/spp
+ create mode 100644 lists/stepNorm
+ create mode 100644 lists/survey
+ create mode 100644 lists/textshaping
+ create mode 100644 lists/tmvtnorm
+ create mode 100644 lists/tnet
+ create mode 100644 lists/topicmodels
+ create mode 100644 lists/tractor.base
+ create mode 100644 lists/twilight
+ create mode 100644 lists/updateObject
+ create mode 100644 lists/urca
+ create mode 100644 lists/vbsr
+ create mode 100644 lists/vctrs
+ create mode 100644 lists/vioplot
+ create mode 100644 lists/xlsx
+ create mode 100644 lists/yeastExpData
+ create mode 100644 logs/run_ids/rstudio-binaries/sass
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=parameters
++ PKG=parameters
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "parameters"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 7754k    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  8 7754k    8  633k    0     0   458k      0  0:00:16  0:00:01  0:00:15  458k 25 7754k   25 1972k    0     0   830k      0  0:00:09  0:00:02  0:00:07  830k 52 7754k   52 4060k    0     0  1204k      0  0:00:06  0:00:03  0:00:03 1204k 89 7754k   89 6976k    0     0  1588k      0  0:00:04  0:00:04 --:--:-- 1588k100 7754k  100 7754k    0     0  1681k      0  0:00:04  0:00:04 --:--:-- 1837k
+built/
+built/built/
+built/built/datawizard/
+built/built/datawizard/NAMESPACE
+built/built/datawizard/DESCRIPTION
+built/built/datawizard/help/
+built/built/datawizard/help/paths.rds
+built/built/datawizard/help/datawizard.rdb
+built/built/datawizard/help/aliases.rds
+built/built/datawizard/help/figures/
+built/built/datawizard/help/figures/logo.png
+built/built/datawizard/help/datawizard.rdx
+built/built/datawizard/help/AnIndex
+built/built/datawizard/data/
+built/built/datawizard/data/efc.RData
+built/built/datawizard/data/nhanes_sample.RData
+built/built/datawizard/Meta/
+built/built/datawizard/Meta/package.rds
+built/built/datawizard/Meta/vignette.rds
+built/built/datawizard/Meta/features.rds
+built/built/datawizard/Meta/hsearch.rds
+built/built/datawizard/Meta/links.rds
+built/built/datawizard/Meta/nsInfo.rds
+built/built/datawizard/Meta/Rd.rds
+built/built/datawizard/Meta/data.rds
+built/built/datawizard/WORDLIST
+built/built/datawizard/CITATION
+built/built/datawizard/html/
+built/built/datawizard/html/00Index.html
+built/built/datawizard/html/R.css
+built/built/datawizard/INDEX
+built/built/datawizard/doc/
+built/built/datawizard/doc/standardize_data.R
+built/built/datawizard/doc/tidyverse_translation.html
+built/built/datawizard/doc/tidyverse_translation.Rmd
+built/built/datawizard/doc/tidyverse_translation.R
+built/built/datawizard/doc/standardize_data.html
+built/built/datawizard/doc/index.html
+built/built/datawizard/doc/standardize_data.Rmd
+built/built/datawizard/doc/selection_syntax.html
+built/built/datawizard/doc/selection_syntax.R
+built/built/datawizard/doc/selection_syntax.Rmd
+built/built/datawizard/R/
+built/built/datawizard/R/datawizard.rdb
+built/built/datawizard/R/datawizard
+built/built/datawizard/R/datawizard.rdx
+built/built/datawizard/NEWS.md
+built/built/insight/
+built/built/insight/NAMESPACE
+built/built/insight/DESCRIPTION
+built/built/insight/help/
+built/built/insight/help/paths.rds
+built/built/insight/help/insight.rdx
+built/built/insight/help/insight.rdb
+built/built/insight/help/aliases.rds
+built/built/insight/help/figures/
+built/built/insight/help/figures/logo.png
+built/built/insight/help/AnIndex
+built/built/insight/data/
+built/built/insight/data/fish.RData
+built/built/insight/Meta/
+built/built/insight/Meta/package.rds
+built/built/insight/Meta/vignette.rds
+built/built/insight/Meta/features.rds
+built/built/insight/Meta/hsearch.rds
+built/built/insight/Meta/links.rds
+built/built/insight/Meta/nsInfo.rds
+built/built/insight/Meta/Rd.rds
+built/built/insight/Meta/data.rds
+built/built/insight/CITATION
+built/built/insight/html/
+built/built/insight/html/00Index.html
+built/built/insight/html/R.css
+built/built/insight/INDEX
+built/built/insight/doc/
+built/built/insight/doc/display.R
+built/built/insight/doc/export.Rmd
+built/built/insight/doc/display.Rmd
+built/built/insight/doc/insight.Rmd
+built/built/insight/doc/insight.html
+built/built/insight/doc/display.html
+built/built/insight/doc/insight.R
+built/built/insight/doc/index.html
+built/built/insight/doc/export.R
+built/built/insight/doc/export.html
+built/built/insight/R/
+built/built/insight/R/insight.rdx
+built/built/insight/R/insight.rdb
+built/built/insight/R/insight
+built/built/insight/NEWS.md
+built/datawizard/
+built/datawizard/NAMESPACE
+built/datawizard/DESCRIPTION
+built/datawizard/help/
+built/datawizard/help/paths.rds
+built/datawizard/help/datawizard.rdb
+built/datawizard/help/aliases.rds
+built/datawizard/help/figures/
+built/datawizard/help/figures/logo.png
+built/datawizard/help/datawizard.rdx
+built/datawizard/help/AnIndex
+built/datawizard/data/
+built/datawizard/data/efc.RData
+built/datawizard/data/nhanes_sample.RData
+built/datawizard/Meta/
+built/datawizard/Meta/package.rds
+built/datawizard/Meta/vignette.rds
+built/datawizard/Meta/features.rds
+built/datawizard/Meta/hsearch.rds
+built/datawizard/Meta/links.rds
+built/datawizard/Meta/nsInfo.rds
+built/datawizard/Meta/Rd.rds
+built/datawizard/Meta/data.rds
+built/datawizard/WORDLIST
+built/datawizard/CITATION
+built/datawizard/html/
+built/datawizard/html/00Index.html
+built/datawizard/html/R.css
+built/datawizard/INDEX
+built/datawizard/doc/
+built/datawizard/doc/standardize_data.R
+built/datawizard/doc/tidyverse_translation.html
+built/datawizard/doc/tidyverse_translation.Rmd
+built/datawizard/doc/tidyverse_translation.R
+built/datawizard/doc/standardize_data.html
+built/datawizard/doc/index.html
+built/datawizard/doc/standardize_data.Rmd
+built/datawizard/doc/selection_syntax.html
+built/datawizard/doc/selection_syntax.R
+built/datawizard/doc/selection_syntax.Rmd
+built/datawizard/R/
+built/datawizard/R/datawizard.rdb
+built/datawizard/R/datawizard
+built/datawizard/R/datawizard.rdx
+built/datawizard/NEWS.md
+built/bayestestR/
+built/bayestestR/NAMESPACE
+built/bayestestR/DESCRIPTION
+built/bayestestR/help/
+built/bayestestR/help/bayestestR.rdx
+built/bayestestR/help/paths.rds
+built/bayestestR/help/aliases.rds
+built/bayestestR/help/figures/
+built/bayestestR/help/figures/logo.png
+built/bayestestR/help/figures/unnamed-chunk-16-1.png
+built/bayestestR/help/figures/unnamed-chunk-8-1.png
+built/bayestestR/help/figures/unnamed-chunk-14-1.png
+built/bayestestR/help/figures/unnamed-chunk-12-1.png
+built/bayestestR/help/figures/unnamed-chunk-7-1.png
+built/bayestestR/help/figures/unnamed-chunk-10-1.png
+built/bayestestR/help/AnIndex
+built/bayestestR/help/bayestestR.rdb
+built/bayestestR/Meta/
+built/bayestestR/Meta/package.rds
+built/bayestestR/Meta/vignette.rds
+built/bayestestR/Meta/features.rds
+built/bayestestR/Meta/hsearch.rds
+built/bayestestR/Meta/links.rds
+built/bayestestR/Meta/nsInfo.rds
+built/bayestestR/Meta/Rd.rds
+built/bayestestR/WORDLIST
+built/bayestestR/CITATION
+built/bayestestR/html/
+built/bayestestR/html/00Index.html
+built/bayestestR/html/R.css
+built/bayestestR/INDEX
+built/bayestestR/doc/
+built/bayestestR/doc/overview_of_vignettes.Rmd
+built/bayestestR/doc/overview_of_vignettes.html
+built/bayestestR/doc/index.html
+built/bayestestR/doc/overview_of_vignettes.R
+built/bayestestR/R/
+built/bayestestR/R/bayestestR.rdx
+built/bayestestR/R/bayestestR
+built/bayestestR/R/bayestestR.rdb
+built/bayestestR/NEWS.md
+built/insight/
+built/insight/NAMESPACE
+built/insight/DESCRIPTION
+built/insight/help/
+built/insight/help/paths.rds
+built/insight/help/insight.rdx
+built/insight/help/insight.rdb
+built/insight/help/aliases.rds
+built/insight/help/figures/
+built/insight/help/figures/logo.png
+built/insight/help/AnIndex
+built/insight/data/
+built/insight/data/fish.RData
+built/insight/Meta/
+built/insight/Meta/package.rds
+built/insight/Meta/vignette.rds
+built/insight/Meta/features.rds
+built/insight/Meta/hsearch.rds
+built/insight/Meta/links.rds
+built/insight/Meta/nsInfo.rds
+built/insight/Meta/Rd.rds
+built/insight/Meta/data.rds
+built/insight/CITATION
+built/insight/html/
+built/insight/html/00Index.html
+built/insight/html/R.css
+built/insight/INDEX
+built/insight/doc/
+built/insight/doc/display.R
+built/insight/doc/export.Rmd
+built/insight/doc/display.Rmd
+built/insight/doc/insight.Rmd
+built/insight/doc/insight.html
+built/insight/doc/display.html
+built/insight/doc/insight.R
+built/insight/doc/index.html
+built/insight/doc/export.R
+built/insight/doc/export.html
+built/insight/R/
+built/insight/R/insight.rdx
+built/insight/R/insight.rdb
+built/insight/R/insight
+built/insight/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''parameters'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv bayestestR_0.13.0_R_x86_64-pc-linux-gnu.tar.gz datawizard_0.6.5_R_x86_64-pc-linux-gnu.tar.gz insight_0.18.8_R_x86_64-pc-linux-gnu.tar.gz parameters_0.20.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/parameters
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'parameters'
+also installing the dependencies ‘bayestestR’, ‘datawizard’, ‘insight’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/bayestestR_0.13.0.tar.gz'
+Content type 'binary/octet-stream' length 1471880 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/datawizard_0.6.5.tar.gz'
+Content type 'binary/octet-stream' length 1222158 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/insight_0.18.8.tar.gz'
+Content type 'binary/octet-stream' length 2009431 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/parameters_0.20.0.tar.gz'
+Content type 'binary/octet-stream' length 1930003 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+* installing *binary* package ‘insight’ ...
+* ‘insight’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘insight’ as ‘insight_0.18.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (insight)
+* installing *binary* package ‘datawizard’ ...
+* ‘datawizard’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘datawizard’ as ‘datawizard_0.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (datawizard)
+* installing *binary* package ‘bayestestR’ ...
+* ‘bayestestR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bayestestR’ as ‘bayestestR_0.13.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bayestestR)
+* installing *binary* package ‘parameters’ ...
+* ‘parameters’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘parameters’ as ‘parameters_0.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (parameters)
+
+The downloaded source packages are in
+	‘/tmp/RtmpNgjFII/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m15.517s
+user	0m5.974s
+sys	0m0.653s
