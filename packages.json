@@ -5654,7 +5654,6 @@
         "vctrs",
         "vegan"
     ],
-    "calm": [],
     "CAMERA": [
         "BiocParallel",
         "DelayedArray",
