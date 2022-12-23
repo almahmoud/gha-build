@@ -6658,7 +6658,6 @@
     "FamAgg": [
         "gap",
         "htmlwidgets",
-        "kinship2",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -16920,7 +16919,6 @@
         "GENLIB",
         "broom",
         "gRain",
-        "kinship2",
         "tidyr"
     ],
     "rWikiPathways": [
@@ -19029,7 +19027,6 @@
         "ggridges",
         "ggstance",
         "haven",
-        "kinship2",
         "labelled",
         "lfda",
         "mosaicCore",
@@ -22597,7 +22594,6 @@
         "patchwork"
     ],
     "ggside": [],
-    "kinship2": [],
     "gap": [
         "htmlwidgets",
         "plotly",
@@ -23408,9 +23404,7 @@
     "treemap": [
         "shiny"
     ],
-    "GENLIB": [
-        "kinship2"
-    ],
+    "GENLIB": [],
     "excelR": [
         "htmlwidgets",
         "rmarkdown"
@@ -23596,7 +23590,6 @@
         "ggridges",
         "ggstance",
         "haven",
-        "kinship2",
         "labelled",
         "mosaicCore",
         "readr",
