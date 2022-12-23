@@ -1210,7 +1210,6 @@
         "ggtree",
         "viridis"
     ],
-    "clustifyr": [],
     "cmapR": [
         "rhdf5"
     ],
