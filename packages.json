@@ -145,7 +145,6 @@
         "MSstats",
         "lme4"
     ],
-    "ASICS": [],
     "ASpediaFI": [
         "BSgenome",
         "GenomicFeatures",
