@@ -3822,7 +3822,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "ProteoMM": [],
     "protGear": [
         "FactoMineR",
         "car",
