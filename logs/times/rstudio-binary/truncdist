@@ -1,0 +1,126 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   0b5d5dc5..c7632f18  main       -> origin/main
+Updating 0b5d5dc5..c7632f18
+Fast-forward
+ lists/svglite                                 |   2 +-
+ logs/run_ids/rstudio-binaries/TSP             |   2 +
+ logs/run_ids/rstudio-binaries/affycomp        |   2 +
+ logs/sizes/rstudio-binaries/binaries/svglite  |   1 +
+ logs/sizes/rstudio-binaries/libraries/svglite |   1 +
+ logs/times/rstudio-binary/svglite             | 179 ++++++++++++++++++++++++++
+ packages.json                                 |  16 ---
+ 7 files changed, 186 insertions(+), 17 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/svglite
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/svglite
+ create mode 100644 logs/times/rstudio-binary/svglite
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=truncdist
++ PKG=truncdist
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "truncdist"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4 1792k    4 81600    0     0  78148      0  0:00:23  0:00:01  0:00:22 78160 24 1792k   24  446k    0     0   218k      0  0:00:08  0:00:02  0:00:06  219k 56 1792k   56 1020k    0     0   340k      0  0:00:05  0:00:02  0:00:03  340k100 1792k  100 1792k    0     0   453k      0  0:00:03  0:00:03 --:--:--  453k
+built/
+built/evd/
+built/evd/libs/
+built/evd/libs/evd.so
+built/evd/NAMESPACE
+built/evd/DESCRIPTION
+built/evd/help/
+built/evd/help/paths.rds
+built/evd/help/evd.rdx
+built/evd/help/evd.rdb
+built/evd/help/aliases.rds
+built/evd/help/AnIndex
+built/evd/data/
+built/evd/data/Rdata.rds
+built/evd/data/Rdata.rdb
+built/evd/data/Rdata.rdx
+built/evd/Meta/
+built/evd/Meta/package.rds
+built/evd/Meta/vignette.rds
+built/evd/Meta/features.rds
+built/evd/Meta/hsearch.rds
+built/evd/Meta/links.rds
+built/evd/Meta/nsInfo.rds
+built/evd/Meta/Rd.rds
+built/evd/Meta/data.rds
+built/evd/README
+built/evd/CITATION
+built/evd/html/
+built/evd/html/00Index.html
+built/evd/html/R.css
+built/evd/INDEX
+built/evd/doc/
+built/evd/doc/Multivariate_Extremes.Rnw
+built/evd/doc/Multivariate_Extremes.R
+built/evd/doc/Multivariate_Extremes.pdf
+built/evd/doc/guide22.txt
+built/evd/doc/index.html
+built/evd/doc/guide22.pdf
+built/evd/R/
+built/evd/R/evd.rdx
+built/evd/R/evd.rdb
+built/evd/R/evd
+built/evd/CHANGES
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''truncdist'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv evd_2.3-6.1_R_x86_64-pc-linux-gnu.tar.gz truncdist_1.0-2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/truncdist
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'truncdist'
+also installing the dependency ‘evd’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/evd_2.3-6.1.tar.gz'
+Content type 'binary/octet-stream' length 1838427 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/truncdist_1.0-2.tar.gz'
+Content type 'binary/octet-stream' length 31860 bytes (31 KB)
+==================================================
+downloaded 31 KB
+
+* installing *binary* package ‘evd’ ...
+* ‘evd’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘evd’ as ‘evd_2.3-6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (evd)
+* installing *binary* package ‘truncdist’ ...
+* ‘truncdist’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘truncdist’ as ‘truncdist_1.0-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (truncdist)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp7wdPB2/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m15.308s
+user	0m5.407s
+sys	0m0.617s
