@@ -186,9 +186,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "AlpsNMR": [
-        "mixOmics"
-    ],
+    "AlpsNMR": [],
     "altcdfenvs": [
         "affy",
         "makecdfenv"
@@ -2854,7 +2852,6 @@
         "vsn"
     ],
     "DepecheR": [
-        "mixOmics",
         "viridis"
     ],
     "derfinder": [
@@ -6715,7 +6712,6 @@
         "deepSNV",
         "rtracklayer"
     ],
-    "mixOmics": [],
     "MLInterfaces": [
         "AnnotationDbi",
         "annotate",
@@ -7133,7 +7129,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "mixOmics",
         "plotly",
         "rWikiPathways",
         "reactome.db",
@@ -8188,7 +8183,6 @@
         "annotate",
         "caret",
         "geneplotter",
-        "mixOmics",
         "recipes"
     ],
     "PoTRA": [
@@ -11150,7 +11144,6 @@
         "vsn"
     ],
     "timeOmics": [
-        "mixOmics",
         "propr"
     ],
     "TimiRGeN": [
