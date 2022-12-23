@@ -6884,7 +6884,6 @@
         "viridis"
     ],
     "RDRToolbox": [],
-    "ReactomeGraph4R": [],
     "ReactomePA": [
         "DOSE",
         "GO.db",
