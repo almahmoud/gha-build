@@ -18933,9 +18933,7 @@
         "vctrs",
         "yeastExpData"
     ],
-    "GSgalgoR": [
-        "matchingR"
-    ],
+    "GSgalgoR": [],
     "GSReg": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -52340,7 +52338,6 @@
         "vctrs"
     ],
     "yeastExpData": [],
-    "matchingR": [],
     "GA": [],
     "BatchJobs": [
         "RSQLite",
