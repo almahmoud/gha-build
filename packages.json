@@ -8849,7 +8849,6 @@
         "shiny",
         "tidyr"
     ],
-    "infinityFlow": [],
     "InPAS": [
         "AnnotationDbi",
         "BSgenome",
