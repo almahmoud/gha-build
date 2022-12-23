@@ -3572,7 +3572,6 @@
     "RESOLVE": [
         "BSgenome.Hsapiens.1000genomes.hs37d5"
     ],
-    "restfulSE": [],
     "rexposome": [
         "FactoMineR",
         "Hmisc",
@@ -4394,9 +4393,7 @@
         "GenKern"
     ],
     "TEKRABber": [],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [
         "TCGAutils"
     ],
