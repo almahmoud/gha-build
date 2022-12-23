@@ -2602,7 +2602,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "RSQLite",
-        "RcppDist",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -49341,7 +49340,6 @@
         "vctrs"
     ],
     "DirichletReg": [],
-    "RcppDist": [],
     "corncob": [
         "Biostrings",
         "GenomeInfoDb",
