@@ -354,7 +354,6 @@
         "rhdf5",
         "rstatix"
     ],
-    "BioCor": [],
     "BiocSklearn": [
         "basilisk"
     ],
