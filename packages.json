@@ -1505,7 +1505,6 @@
     "RUVSeq": [],
     "scanMiRApp": [],
     "SCATE": [],
-    "scDblFinder": [],
     "scDD": [],
     "scGPS": [],
     "scmeth": [
@@ -1577,7 +1576,6 @@
     "singleCellTK": [
         "TENxPBMCData",
         "celda",
-        "scDblFinder",
         "scRNAseq"
     ],
     "SingleMoleculeFootprinting": [
