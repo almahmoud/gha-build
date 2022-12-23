@@ -556,7 +556,6 @@
         "rhdf5",
         "viridis"
     ],
-    "clipper": [],
     "cliqueMS": [
         "MSnbase",
         "affy",
