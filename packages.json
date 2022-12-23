@@ -18626,7 +18626,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "backbone",
         "blob",
         "bs4Dash",
         "bslib",
@@ -57534,7 +57533,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "backbone": [],
     "bs4Dash": [
         "bslib",
         "fontawesome",
