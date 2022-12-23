@@ -10779,7 +10779,6 @@
         "shinyjs",
         "sitmo",
         "sparseMatrixStats",
-        "stringfish",
         "stringr",
         "svglite",
         "systemfonts",
@@ -15253,7 +15252,6 @@
         "scales",
         "shiny",
         "shinycssloaders",
-        "stringfish",
         "stringr",
         "tibble",
         "tidyr",
@@ -79124,9 +79122,7 @@
         "tibble",
         "vctrs"
     ],
-    "qs": [
-        "stringfish"
-    ],
+    "qs": [],
     "rlist": [],
     "ggfittext": [
         "ggplot2",
@@ -79138,7 +79134,6 @@
         "tibble",
         "vctrs"
     ],
-    "stringfish": [],
     "fresh": [
         "bslib",
         "ellipsis",
