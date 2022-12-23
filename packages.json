@@ -17260,7 +17260,6 @@
         "XVector",
         "futile.logger"
     ],
-    "geneClassifiers": [],
     "genefilter": [
         "AnnotationDbi",
         "Biostrings",
