@@ -434,7 +434,6 @@
         "AnnotationDbi",
         "AnnotationForge",
         "AnnotationHub",
-        "BiocCheck",
         "BiocFileCache",
         "DT",
         "GenomicAlignments",
@@ -1420,7 +1419,6 @@
         "vroom",
         "waldo"
     ],
-    "BiocCheck": [],
     "BiocDockerManager": [
         "readr",
         "vroom"
@@ -6585,7 +6583,6 @@
         "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
-        "BiocCheck",
         "BiocFileCache",
         "DT",
         "ExperimentHub",
@@ -11076,7 +11073,6 @@
         "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
-        "BiocCheck",
         "BiocFileCache",
         "DT",
         "ExperimentHub",
@@ -23106,7 +23102,6 @@
         "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
-        "BiocCheck",
         "BiocFileCache",
         "DT",
         "ExperimentHub",
