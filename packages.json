@@ -17597,7 +17597,6 @@
         "KEGGREST",
         "RSQLite",
         "XVector",
-        "clusterSim",
         "httr",
         "multtest",
         "reactome.db"
@@ -17825,7 +17824,6 @@
         "WGCNA",
         "XVector",
         "bslib",
-        "clusterSim",
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
@@ -39855,7 +39853,6 @@
         "tidyr",
         "vroom"
     ],
-    "clusterSim": [],
     "PairedData": [
         "ggplot2",
         "gld",
