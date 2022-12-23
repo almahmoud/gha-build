@@ -152,9 +152,7 @@
         "factoextra"
     ],
     "LinkHD": [],
-    "MAGAR": [
-        "RnBeads"
-    ],
+    "MAGAR": [],
     "MEAL": [
         "missMethyl"
     ],
@@ -231,7 +229,6 @@
         "factoextra"
     ],
     "RnaSeqSampleSize": [],
-    "RnBeads": [],
     "RTCGA": [
         "survminer"
     ],
