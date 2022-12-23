@@ -2562,7 +2562,6 @@
         "vsn"
     ],
     "banocc": [
-        "StanHeaders",
         "ggplot2",
         "pillar",
         "pkgbuild",
@@ -2700,7 +2699,6 @@
         "IRanges",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "beachmat",
@@ -21740,7 +21738,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "ggplot2",
@@ -24164,7 +24161,6 @@
     ],
     "M3Drop": [
         "Hmisc",
-        "StanHeaders",
         "bslib",
         "densEstBayes",
         "ggplot2",
@@ -35043,7 +35039,6 @@
         "vctrs"
     ],
     "ppcseq": [
-        "StanHeaders",
         "benchmarkme",
         "benchmarkmeData",
         "distributional",
@@ -38790,7 +38785,6 @@
         "KEGGREST",
         "RSQLite",
         "Rsamtools",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -41452,7 +41446,6 @@
         "IRanges",
         "SeuratObject",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "dplyr",
@@ -41863,7 +41856,6 @@
         "M3Drop",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "beachmat",
@@ -41896,7 +41888,6 @@
         "GenomicRanges",
         "IRanges",
         "SingleCellExperiment",
-        "StanHeaders",
         "SummarizedExperiment",
         "XVector",
         "bookdown",
@@ -44045,7 +44036,6 @@
         "SingleCellExperiment",
         "SingleR",
         "SoupX",
-        "StanHeaders",
         "SummarizedExperiment",
         "TENxPBMCData",
         "TFisher",
@@ -52999,14 +52989,12 @@
         "vctrs"
     ],
     "rstan": [
-        "StanHeaders",
         "ggplot2",
         "pillar",
         "pkgbuild",
         "tibble",
         "vctrs"
     ],
-    "StanHeaders": [],
     "pkgbuild": [],
     "prettydoc": [
         "bslib",
@@ -56276,7 +56264,6 @@
     "akima": [],
     "LogicReg": [],
     "reldist": [
-        "StanHeaders",
         "densEstBayes",
         "ggplot2",
         "pillar",
@@ -56286,7 +56273,6 @@
         "vctrs"
     ],
     "densEstBayes": [
-        "StanHeaders",
         "ggplot2",
         "pillar",
         "pkgbuild",
