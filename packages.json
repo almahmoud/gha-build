@@ -1906,7 +1906,6 @@
         "enrichR",
         "ggrastr",
         "ggrepel",
-        "multipanelfigure",
         "scater",
         "scran",
         "scuttle",
@@ -14540,7 +14539,6 @@
         "metap",
         "miniUI",
         "msigdbr",
-        "multipanelfigure",
         "org.Hs.eg.db",
         "patchwork",
         "plotly",
@@ -17448,7 +17446,6 @@
     ],
     "rintrojs": [],
     "enrichR": [],
-    "multipanelfigure": [],
     "FactoMineR": [
         "DT",
         "broom",
