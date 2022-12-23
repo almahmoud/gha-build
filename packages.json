@@ -1875,7 +1875,6 @@
         "ggbeeswarm",
         "ggrastr",
         "ggrepel",
-        "multipanelfigure",
         "scater",
         "scran",
         "scuttle",
@@ -14180,7 +14179,6 @@
         "interactiveDisplayBase",
         "metap",
         "msigdbr",
-        "multipanelfigure",
         "org.Hs.eg.db",
         "patchwork",
         "plotly",
@@ -16987,7 +16985,6 @@
         "waldo"
     ],
     "enrichR": [],
-    "multipanelfigure": [],
     "FactoMineR": [
         "DT",
         "broom",
