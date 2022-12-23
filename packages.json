@@ -17123,7 +17123,6 @@
         "readr",
         "readxl",
         "reprex",
-        "sftime",
         "stars",
         "testthat",
         "tidyr",
@@ -20725,14 +20724,12 @@
         "tidyr"
     ],
     "gstat": [
-        "sftime",
         "stars"
     ],
     "SpatialExtremes": [
         "fields",
         "viridis"
     ],
-    "sftime": [],
     "stars": [],
     "spsComps": [
         "shinyAce",
