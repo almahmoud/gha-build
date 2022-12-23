@@ -9520,7 +9520,6 @@
         "annotate",
         "genefilter"
     ],
-    "sights": [],
     "signatureSearch": [
         "AnnotationDbi",
         "AnnotationHub",
