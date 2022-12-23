@@ -2236,7 +2236,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "LinTInd": [],
     "lisaClust": [
         "DropletUtils",
         "HDF5Array",
