@@ -21084,7 +21084,6 @@
         "testthat",
         "waldo"
     ],
-    "scde": [],
     "scds": [
         "GenomicRanges",
         "SingleCellExperiment",
