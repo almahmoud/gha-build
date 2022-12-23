@@ -1,0 +1,444 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   ea18fb84..818b6385  main       -> origin/main
+Updating ea18fb84..818b6385
+Fast-forward
+ lists/callr                         |   2 +-
+ logs/run_ids/rstudio-binaries/PLPE  |   2 +
+ logs/run_ids/rstudio-binaries/qqman |   2 +
+ packages.json                       | 275 +-----------------------------------
+ 4 files changed, 8 insertions(+), 273 deletions(-)
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=pkgload
++ PKG=pkgload
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "pkgload"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 41  154k   41 65280    0     0  59627      0  0:00:02  0:00:01  0:00:01 59616100  154k  100  154k    0     0   106k      0  0:00:01  0:00:01 --:--:--  106k
+built/
+built/crayon/
+built/crayon/NAMESPACE
+built/crayon/DESCRIPTION
+built/crayon/help/
+built/crayon/help/paths.rds
+built/crayon/help/crayon.rdb
+built/crayon/help/aliases.rds
+built/crayon/help/crayon.rdx
+built/crayon/help/AnIndex
+built/crayon/Meta/
+built/crayon/Meta/package.rds
+built/crayon/Meta/features.rds
+built/crayon/Meta/hsearch.rds
+built/crayon/Meta/links.rds
+built/crayon/Meta/nsInfo.rds
+built/crayon/Meta/Rd.rds
+built/crayon/LICENSE
+built/crayon/html/
+built/crayon/html/00Index.html
+built/crayon/html/R.css
+built/crayon/INDEX
+built/crayon/R/
+built/crayon/R/crayon.rdb
+built/crayon/R/crayon
+built/crayon/R/crayon.rdx
+built/crayon/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 1684k    1 32640    0     0  52138      0  0:00:33 --:--:--  0:00:33 52140 18 1684k   18  314k    0     0   193k      0  0:00:08  0:00:01  0:00:07  193k 47 1684k   47  792k    0     0   302k      0  0:00:05  0:00:02  0:00:03  302k 88 1684k   88 1493k    0     0   408k      0  0:00:04  0:00:03  0:00:01  408k100 1684k  100 1684k    0     0   437k      0  0:00:03  0:00:03 --:--:--  437k
+built/
+built/cli/
+built/cli/examples/
+built/cli/examples/apps/
+built/cli/examples/apps/news.R
+built/cli/examples/apps/outdated.R
+built/cli/examples/apps/up.R
+built/cli/examples/apps/search.R
+built/cli/libs/
+built/cli/libs/cli.so
+built/cli/NAMESPACE
+built/cli/DESCRIPTION
+built/cli/help/
+built/cli/help/paths.rds
+built/cli/help/cli.rdx
+built/cli/help/aliases.rds
+built/cli/help/figures/
+built/cli/help/figures/progress-after.svg
+built/cli/help/figures/demo-spinners.svg
+built/cli/help/figures/progress-along-3.svg
+built/cli/help/figures/progress-along-2.svg
+built/cli/help/figures/progress-step-msg.svg
+built/cli/help/figures/progress-clear.svg
+built/cli/help/figures/get-spinner.svg
+built/cli/help/figures/progress-1.svg
+built/cli/help/figures/progress-natotal.svg
+built/cli/help/figures/progress-tasks.svg
+built/cli/help/figures/progress-step-dynamic.svg
+built/cli/help/figures/make-spinner-custom.svg
+built/cli/help/figures/make-spinner-template.svg
+built/cli/help/figures/progress-output2.svg
+built/cli/help/figures/progress-output.svg
+built/cli/help/figures/progress-current.svg
+built/cli/help/figures/progress-step.svg
+built/cli/help/figures/progress-format.svg
+built/cli/help/figures/progress-along-1.svg
+built/cli/help/figures/progress-step-spin.svg
+built/cli/help/figures/make-spinner-default.svg
+built/cli/help/figures/progress-message.svg
+built/cli/help/cli.rdb
+built/cli/help/AnIndex
+built/cli/shiny/
+built/cli/shiny/nested/
+built/cli/shiny/nested/app.R
+built/cli/shiny/format/
+built/cli/shiny/format/app.R
+built/cli/shiny/along/
+built/cli/shiny/along/app.R
+built/cli/shiny/simple/
+built/cli/shiny/simple/app.R
+built/cli/shiny/output/
+built/cli/shiny/output/app.R
+built/cli/Meta/
+built/cli/Meta/package.rds
+built/cli/Meta/features.rds
+built/cli/Meta/hsearch.rds
+built/cli/Meta/links.rds
+built/cli/Meta/nsInfo.rds
+built/cli/Meta/Rd.rds
+built/cli/include/
+built/cli/include/cli/
+built/cli/include/cli/progress.h
+built/cli/logo.txt
+built/cli/scripts/
+built/cli/scripts/news.R
+built/cli/scripts/outdated.R
+built/cli/scripts/up.R
+built/cli/scripts/search.R
+built/cli/LICENSE
+built/cli/html/
+built/cli/html/00Index.html
+built/cli/html/R.css
+built/cli/INDEX
+built/cli/R/
+built/cli/R/cli
+built/cli/R/cli.rdx
+built/cli/R/sysdata.rdb
+built/cli/R/sysdata.rdx
+built/cli/R/cli.rdb
+built/cli/NEWS.md
+built/rprojroot/
+built/rprojroot/NAMESPACE
+built/rprojroot/DESCRIPTION
+built/rprojroot/help/
+built/rprojroot/help/paths.rds
+built/rprojroot/help/rprojroot.rdx
+built/rprojroot/help/aliases.rds
+built/rprojroot/help/rprojroot.rdb
+built/rprojroot/help/figures/
+built/rprojroot/help/figures/lifecycle-soft-deprecated.svg
+built/rprojroot/help/figures/lifecycle-experimental.svg
+built/rprojroot/help/figures/lifecycle-deprecated.svg
+built/rprojroot/help/figures/lifecycle-maturing.svg
+built/rprojroot/help/figures/lifecycle-superseded.svg
+built/rprojroot/help/figures/lifecycle-questioning.svg
+built/rprojroot/help/figures/lifecycle-defunct.svg
+built/rprojroot/help/figures/lifecycle-archived.svg
+built/rprojroot/help/figures/lifecycle-stable.svg
+built/rprojroot/help/AnIndex
+built/rprojroot/Meta/
+built/rprojroot/Meta/package.rds
+built/rprojroot/Meta/vignette.rds
+built/rprojroot/Meta/features.rds
+built/rprojroot/Meta/hsearch.rds
+built/rprojroot/Meta/links.rds
+built/rprojroot/Meta/nsInfo.rds
+built/rprojroot/Meta/Rd.rds
+built/rprojroot/WORDLIST
+built/rprojroot/LICENSE
+built/rprojroot/html/
+built/rprojroot/html/00Index.html
+built/rprojroot/html/R.css
+built/rprojroot/INDEX
+built/rprojroot/doc/
+built/rprojroot/doc/rprojroot.html
+built/rprojroot/doc/rprojroot.R
+built/rprojroot/doc/index.html
+built/rprojroot/doc/rprojroot.Rmd
+built/rprojroot/R/
+built/rprojroot/R/rprojroot
+built/rprojroot/R/rprojroot.rdx
+built/rprojroot/R/rprojroot.rdb
+built/rprojroot/NEWS.md
+built/desc/
+built/desc/NAMESPACE
+built/desc/DESCRIPTION
+built/desc/help/
+built/desc/help/paths.rds
+built/desc/help/aliases.rds
+built/desc/help/desc.rdb
+built/desc/help/desc.rdx
+built/desc/help/AnIndex
+built/desc/Meta/
+built/desc/Meta/package.rds
+built/desc/Meta/features.rds
+built/desc/Meta/hsearch.rds
+built/desc/Meta/links.rds
+built/desc/Meta/nsInfo.rds
+built/desc/Meta/Rd.rds
+built/desc/WORDLIST
+built/desc/LICENSE
+built/desc/html/
+built/desc/html/00Index.html
+built/desc/html/R.css
+built/desc/INDEX
+built/desc/R/
+built/desc/R/desc
+built/desc/R/desc.rdb
+built/desc/R/desc.rdx
+built/desc/NEWS.md
+built/R6/
+built/R6/NAMESPACE
+built/R6/DESCRIPTION
+built/R6/help/
+built/R6/help/paths.rds
+built/R6/help/R6.rdx
+built/R6/help/R6.rdb
+built/R6/help/aliases.rds
+built/R6/help/figures/
+built/R6/help/figures/logo.svg
+built/R6/help/figures/logo.png
+built/R6/help/AnIndex
+built/R6/Meta/
+built/R6/Meta/package.rds
+built/R6/Meta/features.rds
+built/R6/Meta/hsearch.rds
+built/R6/Meta/links.rds
+built/R6/Meta/nsInfo.rds
+built/R6/Meta/Rd.rds
+built/R6/LICENSE
+built/R6/html/
+built/R6/html/00Index.html
+built/R6/html/R.css
+built/R6/INDEX
+built/R6/R/
+built/R6/R/R6.rdx
+built/R6/R/R6.rdb
+built/R6/R/R6
+built/R6/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  9  715k    9 71376    0     0  97445      0  0:00:07 --:--:--  0:00:07 97375 58  715k   58  415k    0     0   239k      0  0:00:02  0:00:01  0:00:01  239k100  715k  100  715k    0     0   306k      0  0:00:02  0:00:02 --:--:--  306k
+built/
+built/fs/
+built/fs/libs/
+built/fs/libs/fs.so
+built/fs/NAMESPACE
+built/fs/DESCRIPTION
+built/fs/help/
+built/fs/help/paths.rds
+built/fs/help/aliases.rds
+built/fs/help/fs.rdb
+built/fs/help/fs.rdx
+built/fs/help/AnIndex
+built/fs/Meta/
+built/fs/Meta/package.rds
+built/fs/Meta/vignette.rds
+built/fs/Meta/features.rds
+built/fs/Meta/hsearch.rds
+built/fs/Meta/links.rds
+built/fs/Meta/nsInfo.rds
+built/fs/Meta/Rd.rds
+built/fs/WORDLIST
+built/fs/LICENSE
+built/fs/html/
+built/fs/html/00Index.html
+built/fs/html/R.css
+built/fs/INDEX
+built/fs/doc/
+built/fs/doc/function-comparisons.html
+built/fs/doc/function-comparisons.Rmd
+built/fs/doc/function-comparisons.R
+built/fs/doc/index.html
+built/fs/R/
+built/fs/R/fs
+built/fs/R/fs.rdb
+built/fs/R/fs.rdx
+built/fs/COPYRIGHTS
+built/fs/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 20  151k   20 32640    0     0  88270      0  0:00:01 --:--:--  0:00:01 88216100  151k  100  151k    0     0   341k      0 --:--:-- --:--:-- --:--:--  340k
+built/
+built/glue/
+built/glue/libs/
+built/glue/libs/glue.so
+built/glue/NAMESPACE
+built/glue/DESCRIPTION
+built/glue/help/
+built/glue/help/paths.rds
+built/glue/help/glue.rdx
+built/glue/help/glue.rdb
+built/glue/help/aliases.rds
+built/glue/help/figures/
+built/glue/help/figures/logo.png
+built/glue/help/AnIndex
+built/glue/Meta/
+built/glue/Meta/package.rds
+built/glue/Meta/vignette.rds
+built/glue/Meta/features.rds
+built/glue/Meta/hsearch.rds
+built/glue/Meta/links.rds
+built/glue/Meta/nsInfo.rds
+built/glue/Meta/Rd.rds
+built/glue/LICENSE
+built/glue/html/
+built/glue/html/00Index.html
+built/glue/html/R.css
+built/glue/INDEX
+built/glue/doc/
+built/glue/doc/transformers.R
+built/glue/doc/engines.html
+built/glue/doc/speed.html
+built/glue/doc/transformers.Rmd
+built/glue/doc/speed.Rmd
+built/glue/doc/transformers.html
+built/glue/doc/engines.R
+built/glue/doc/index.html
+built/glue/doc/engines.Rmd
+built/glue/doc/speed.R
+built/glue/R/
+built/glue/R/glue.rdx
+built/glue/R/glue.rdb
+built/glue/R/glue
+built/glue/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4 1875k    4 82584    0     0  92700      0  0:00:20 --:--:--  0:00:20 92686 20 1875k   20  383k    0     0   203k      0  0:00:09  0:00:01  0:00:08  203k 46 1875k   46  877k    0     0   304k      0  0:00:06  0:00:02  0:00:04  304k 82 1875k   82 1546k    0     0   399k      0  0:00:04  0:00:03  0:00:01  399k100 1875k  100 1875k    0     0   438k      0  0:00:04  0:00:04 --:--:--  438k
+built/
+built/rlang/
+built/rlang/libs/
+built/rlang/libs/rlang.so
+built/rlang/NAMESPACE
+built/rlang/DESCRIPTION
+built/rlang/help/
+built/rlang/help/rlang.rdb
+built/rlang/help/paths.rds
+built/rlang/help/rlang.rdx
+built/rlang/help/aliases.rds
+built/rlang/help/figures/
+built/rlang/help/figures/lifecycle-soft-deprecated.svg
+built/rlang/help/figures/lifecycle-experimental.svg
+built/rlang/help/figures/lifecycle-deprecated.svg
+built/rlang/help/figures/lifecycle-maturing.svg
+built/rlang/help/figures/lifecycle-superseded.svg
+built/rlang/help/figures/logo.png
+built/rlang/help/figures/lifecycle-questioning.svg
+built/rlang/help/figures/lifecycle-defunct.svg
+built/rlang/help/figures/lifecycle-archived.svg
+built/rlang/help/figures/lifecycle-retired.svg
+built/rlang/help/figures/lifecycle-stable.svg
+built/rlang/help/AnIndex
+built/rlang/Meta/
+built/rlang/Meta/package.rds
+built/rlang/Meta/features.rds
+built/rlang/Meta/hsearch.rds
+built/rlang/Meta/links.rds
+built/rlang/Meta/nsInfo.rds
+built/rlang/Meta/Rd.rds
+built/rlang/LICENSE
+built/rlang/html/
+built/rlang/html/00Index.html
+built/rlang/html/R.css
+built/rlang/INDEX
+built/rlang/R/
+built/rlang/R/rlang.rdb
+built/rlang/R/rlang.rdx
+built/rlang/R/rlang
+built/rlang/backtrace-ver
+built/rlang/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  218k  100  218k    0     0   444k      0 --:--:-- --:--:-- --:--:--  444k
+built/
+built/withr/
+built/withr/NAMESPACE
+built/withr/DESCRIPTION
+built/withr/help/
+built/withr/help/paths.rds
+built/withr/help/withr.rdx
+built/withr/help/aliases.rds
+built/withr/help/figures/
+built/withr/help/figures/README-unnamed-chunk-3-1.png
+built/withr/help/figures/logo.png
+built/withr/help/withr.rdb
+built/withr/help/AnIndex
+built/withr/Meta/
+built/withr/Meta/package.rds
+built/withr/Meta/vignette.rds
+built/withr/Meta/features.rds
+built/withr/Meta/hsearch.rds
+built/withr/Meta/links.rds
+built/withr/Meta/nsInfo.rds
+built/withr/Meta/Rd.rds
+built/withr/LICENSE
+built/withr/html/
+built/withr/html/00Index.html
+built/withr/html/R.css
+built/withr/INDEX
+built/withr/doc/
+built/withr/doc/changing-and-restoring-state.R
+built/withr/doc/changing-and-restoring-state.html
+built/withr/doc/index.html
+built/withr/doc/changing-and-restoring-state.Rmd
+built/withr/R/
+built/withr/R/withr
+built/withr/R/withr.rdx
+built/withr/R/withr.rdb
+built/withr/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''pkgload'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv pkgload_1.3.2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/pkgload
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'pkgload'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/pkgload_1.3.2.tar.gz'
+Content type 'binary/octet-stream' length 173399 bytes (169 KB)
+==================================================
+downloaded 169 KB
+
+* installing *binary* package ‘pkgload’ ...
+* ‘pkgload’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pkgload’ as ‘pkgload_1.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pkgload)
+
+The downloaded source packages are in
+	‘/tmp/RtmpskrUxY/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m19.716s
+user	0m4.291s
+sys	0m0.469s
