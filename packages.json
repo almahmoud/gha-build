@@ -10781,8 +10781,7 @@
     "rrvgo": [
         "AnnotationDbi",
         "GO.db",
-        "GOSemSim",
-        "treemap"
+        "GOSemSim"
     ],
     "rScudo": [],
     "RSVSim": [
@@ -14732,7 +14731,6 @@
     ],
     "TBX20BamSubset": [],
     "fission": [],
-    "treemap": [],
     "excelR": [],
     "SBGNview.data": [],
     "scanMiRData": [
