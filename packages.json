@@ -109,7 +109,6 @@
     ],
     "ANCOMBC": [
         "Hmisc",
-        "lmerTest",
         "mia",
         "scater",
         "viridis"
@@ -349,7 +348,6 @@
         "Seurat",
         "biomformat",
         "corncob",
-        "lmerTest",
         "mia",
         "phyloseq",
         "rhdf5",
@@ -1037,8 +1035,7 @@
     ],
     "coMethDMR": [
         "GenomicFeatures",
-        "bumphunter",
-        "lmerTest"
+        "bumphunter"
     ],
     "compartmap": [
         "HDF5Array",
@@ -2211,7 +2208,6 @@
     ],
     "GeoDiff": [
         "GeomxTools",
-        "lmerTest",
         "robust"
     ],
     "GEOexplorer": [
@@ -2226,9 +2222,7 @@
         "shinyHeatmaply",
         "viridis"
     ],
-    "GeomxTools": [
-        "lmerTest"
-    ],
+    "GeomxTools": [],
     "GEOsubmission": [
         "affy"
     ],
@@ -2744,7 +2738,6 @@
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
-        "lmerTest",
         "rhdf5",
         "spicyR"
     ],
@@ -2796,7 +2789,6 @@
     ],
     "Maaslin2": [
         "car",
-        "lmerTest",
         "pbkrtest"
     ],
     "Macarron": [
@@ -2804,7 +2796,6 @@
         "Maaslin2",
         "WGCNA",
         "car",
-        "lmerTest",
         "pbkrtest",
         "viridis"
     ],
@@ -2886,7 +2877,6 @@
     ],
     "MBECS": [
         "biomformat",
-        "lmerTest",
         "phyloseq",
         "rhdf5",
         "sva"
@@ -3200,7 +3190,6 @@
         "Hmisc",
         "biomformat",
         "coin",
-        "lmerTest",
         "mia",
         "phyloseq",
         "rhdf5",
@@ -3347,7 +3336,6 @@
     "MMUPHin": [
         "Maaslin2",
         "car",
-        "lmerTest",
         "pbkrtest"
     ],
     "moanin": [
@@ -3473,15 +3461,13 @@
         "dendextend",
         "factoextra",
         "ggpubr",
-        "lmerTest",
         "pbkrtest",
         "rstatix",
         "viridis"
     ],
     "MSstatsPTM": [
         "MSstats",
-        "MSstatsTMT",
-        "lmerTest"
+        "MSstatsTMT"
     ],
     "MSstatsQC": [
         "MSnbase",
@@ -3502,12 +3488,10 @@
         "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
-        "lmerTest",
         "viridis"
     ],
     "MSstatsTMT": [
-        "MSstats",
-        "lmerTest"
+        "MSstats"
     ],
     "MuData": [
         "rhdf5"
@@ -3558,7 +3542,6 @@
     ],
     "muscat": [
         "DESeq2",
-        "lmerTest",
         "pbkrtest",
         "scater",
         "variancePartition",
@@ -4995,7 +4978,6 @@
     ],
     "SIAMCAT": [
         "biomformat",
-        "lmerTest",
         "mlr3",
         "mlr3learners",
         "mlr3tuning",
@@ -5203,8 +5185,7 @@
         "rhdf5"
     ],
     "SpatialDecon": [
-        "GeomxTools",
-        "lmerTest"
+        "GeomxTools"
     ],
     "SpatialExperiment": [
         "DropletUtils",
@@ -5256,7 +5237,6 @@
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
-        "lmerTest",
         "rhdf5"
     ],
     "SpidermiR": [],
@@ -5727,7 +5707,6 @@
         "BSgenome"
     ],
     "variancePartition": [
-        "lmerTest",
         "pbkrtest"
     ],
     "VariantAnnotation": [
@@ -5878,7 +5857,6 @@
     ],
     "zenith": [
         "EnrichmentBrowser",
-        "lmerTest",
         "pbkrtest",
         "variancePartition"
     ],
@@ -5908,7 +5886,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "lmerTest": [],
     "ReorderCluster": [],
     "Seurat": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
