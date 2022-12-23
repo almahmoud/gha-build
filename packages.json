@@ -14,7 +14,6 @@
     ],
     "abseqR": [
         "BiocStyle",
-        "flexdashboard",
         "plotly"
     ],
     "ACE": [
@@ -7542,7 +7541,6 @@
         "car",
         "dendextend",
         "factoextra",
-        "flexdashboard",
         "genefilter",
         "ggpubr",
         "kableExtra",
@@ -10596,7 +10594,6 @@
         "genefilter"
     ],
     "GO.db": [],
-    "flexdashboard": [],
     "plotly": [],
     "ggpubr": [
         "car",
