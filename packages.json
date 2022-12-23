@@ -13496,7 +13496,6 @@
         "vctrs",
         "waldo"
     ],
-    "eds": [],
     "eegc": [
         "AnnotationDbi",
         "BiocParallel",
