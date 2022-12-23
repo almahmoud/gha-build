@@ -544,8 +544,7 @@
         "pRoloc",
         "pRolocdata",
         "plotly",
-        "recipes",
-        "threejs"
+        "recipes"
     ],
     "banocc": [],
     "barcodetrackR": [],
@@ -4743,7 +4742,6 @@
         "pcaExplorer",
         "plotly",
         "rtracklayer",
-        "threejs",
         "topGO"
     ],
     "IdeoViz": [
@@ -6233,8 +6231,7 @@
     "mixOmics": [],
     "MLInterfaces": [
         "annotate",
-        "genefilter",
-        "threejs"
+        "genefilter"
     ],
     "MLP": [],
     "MLSeq": [
@@ -7342,7 +7339,6 @@
         "geneplotter",
         "heatmaply",
         "plotly",
-        "threejs",
         "topGO"
     ],
     "PCAtools": [],
@@ -7767,8 +7763,7 @@
         "genefilter",
         "mixtools",
         "plotly",
-        "recipes",
-        "threejs"
+        "recipes"
     ],
     "pRolocGUI": [
         "DT",
@@ -7783,8 +7778,7 @@
         "pRoloc",
         "plotly",
         "recipes",
-        "shinydashboardPlus",
-        "threejs"
+        "shinydashboardPlus"
     ],
     "PROMISE": [
         "GSEABase",
@@ -9362,8 +9356,7 @@
     "SigCheck": [
         "MLInterfaces",
         "annotate",
-        "genefilter",
-        "threejs"
+        "genefilter"
     ],
     "sights": [],
     "signatureSearch": [
@@ -11205,7 +11198,6 @@
     ],
     "pRolocdata": [],
     "dendextend": [],
-    "threejs": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "GenomicAlignments",
