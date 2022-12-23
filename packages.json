@@ -6219,7 +6219,6 @@
         "ChemmineR",
         "DT",
         "GenomicRanges",
-        "MetaboCoreUtils",
         "RSQLite",
         "Spectra",
         "XVector",
@@ -17609,7 +17608,6 @@
         "DT",
         "DelayedArray",
         "GenomicRanges",
-        "MetaboCoreUtils",
         "MultiAssayExperiment",
         "QFeatures",
         "RSQLite",
@@ -17628,7 +17626,6 @@
         "tibble",
         "tidyr"
     ],
-    "MetaboCoreUtils": [],
     "metabolomicsWorkbenchR": [
         "DelayedArray",
         "GenomicRanges",
@@ -19710,7 +19707,6 @@
         "DelayedArray",
         "GenomicRanges",
         "MSnbase",
-        "MetaboCoreUtils",
         "MsFeatures",
         "Spectra",
         "SummarizedExperiment",
