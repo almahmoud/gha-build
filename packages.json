@@ -41,9 +41,7 @@
     "ATACCoGAPS": [
         "chromVAR"
     ],
-    "ATACseqQC": [
-        "ChIPpeakAnno"
-    ],
+    "ATACseqQC": [],
     "ATACseqTFEA": [],
     "atSNP": [],
     "BaalChIP": [],
@@ -161,7 +159,6 @@
     ],
     "ChIPComp": [],
     "ChIPexoQual": [],
-    "ChIPpeakAnno": [],
     "ChIPQC": [],
     "ChIPseeker": [],
     "ChromSCape": [
@@ -230,7 +227,6 @@
     ],
     "crisprDesign": [],
     "crisprseekplus": [
-        "ChIPpeakAnno",
         "GUIDEseq"
     ],
     "crisprVerse": [
@@ -298,9 +294,7 @@
         "derfinder",
         "ggbio"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "destiny": [
         "VIM"
     ],
@@ -515,9 +509,7 @@
     ],
     "GSEABenchmarkeR": [],
     "GSReg": [],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "Gviz": [],
     "gwasurvivr": [],
     "HiCcompare": [
@@ -820,7 +812,6 @@
     "myvariant": [],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "Gviz",
         "trackViewer"
     ],
@@ -974,9 +965,7 @@
         "IlluminaHumanMethylation450kmanifest",
         "minfi"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "regionReport": [
         "GenomicFiles",
         "derfinder"
@@ -1268,9 +1257,7 @@
     "vissE": [],
     "Voyager": [],
     "vtpnet": [],
-    "vulcan": [
-        "ChIPpeakAnno"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
