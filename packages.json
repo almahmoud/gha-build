@@ -218,9 +218,7 @@
     ],
     "MethReg": [],
     "methylCC": [],
-    "methylclock": [
-        "methylclockData"
-    ],
+    "methylclock": [],
     "methylGSA": [
         "missMethyl"
     ],
@@ -441,7 +439,6 @@
     "EntropyExplorer": [],
     "SPARQL": [],
     "survminer": [],
-    "methylclockData": [],
     "mppa": [],
     "genlasso": [],
     "Rmagic": [],
