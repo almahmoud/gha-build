@@ -498,7 +498,6 @@
         "scuttle",
         "viridis"
     ],
-    "bayNorm": [],
     "BBCAnalyzer": [
         "BSgenome",
         "GenomicFeatures",
