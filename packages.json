@@ -560,7 +560,6 @@
         "clusterProfiler"
     ],
     "fcScan": [],
-    "FEAST": [],
     "ffpe": [
         "FDb.InfiniumMethylation.hg19",
         "lumi",
