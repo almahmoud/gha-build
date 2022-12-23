@@ -3009,7 +3009,6 @@
         "enrichplot",
         "ggraph",
         "rGREAT",
-        "soGGi",
         "viridis"
     ],
     "projectR": [
@@ -3751,7 +3750,6 @@
     "SNPhood": [
         "VariantAnnotation"
     ],
-    "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
