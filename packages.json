@@ -1287,7 +1287,6 @@
         "basilisk"
     ],
     "BiocStyle": [],
-    "biocthis": [],
     "BiocWorkflowTools": [
         "BiocStyle"
     ],
@@ -7635,7 +7634,6 @@
     ],
     "HubPub": [
         "available",
-        "biocthis",
         "tidytext"
     ],
     "HumanTranscriptomeCompendium": [
