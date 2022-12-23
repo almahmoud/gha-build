@@ -21061,7 +21061,6 @@
     "makecdfenv": [
         "affy"
     ],
-    "MANOR": [],
     "mAPKL": [
         "AnnotationDbi",
         "Biostrings",

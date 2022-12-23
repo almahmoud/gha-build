@@ -1,0 +1,452 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   f8883aba..21705a2f  main       -> origin/main
+Updating f8883aba..21705a2f
+Fast-forward
+ lists/biganalytics                         |   2 +-
+ lists/kmer                                 |   2 +-
+ logs/run_ids/rstudio-binaries/MiPP         |   2 +
+ logs/run_ids/rstudio-binaries/kmlShape     |   2 +
+ logs/run_ids/rstudio-binaries/maftools     |   2 +
+ logs/sizes/rstudio-binaries/binaries/kmer  |   1 +
+ logs/sizes/rstudio-binaries/libraries/kmer |   1 +
+ logs/times/rstudio-binary/kmer             | 172 +++++++++++++++++++++++++++++
+ packages.json                              |   7 +-
+ 9 files changed, 183 insertions(+), 8 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/MiPP
+ create mode 100644 logs/run_ids/rstudio-binaries/maftools
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/kmer
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/kmer
+ create mode 100644 logs/times/rstudio-binary/kmer
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=MANOR
++ PKG=MANOR
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "MANOR"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  3 5844k    3  191k    0     0   139k      0  0:00:41  0:00:01  0:00:40  139k 10 5844k   10  605k    0     0   256k      0  0:00:22  0:00:02  0:00:20  256k 20 5844k   20 1179k    0     0   350k      0  0:00:16  0:00:03  0:00:13  350k 33 5844k   33 1976k    0     0   449k      0  0:00:12  0:00:04  0:00:08  449k 50 5844k   50 2932k    0     0   546k      0  0:00:10  0:00:05  0:00:05  586k 70 5844k   70 4143k    0     0   652k      0  0:00:08  0:00:06  0:00:02  793k 94 5844k   94 5498k    0     0   746k      0  0:00:07  0:00:07 --:--:--  977k100 5844k  100 5844k    0     0   772k      0  0:00:07  0:00:07 --:--:-- 1111k
+built/
+built/awsMethods/
+built/awsMethods/libs/
+built/awsMethods/libs/awsMethods.so
+built/awsMethods/NAMESPACE
+built/awsMethods/DESCRIPTION
+built/awsMethods/help/
+built/awsMethods/help/paths.rds
+built/awsMethods/help/aliases.rds
+built/awsMethods/help/awsMethods.rdb
+built/awsMethods/help/AnIndex
+built/awsMethods/help/awsMethods.rdx
+built/awsMethods/Meta/
+built/awsMethods/Meta/package.rds
+built/awsMethods/Meta/features.rds
+built/awsMethods/Meta/hsearch.rds
+built/awsMethods/Meta/links.rds
+built/awsMethods/Meta/nsInfo.rds
+built/awsMethods/Meta/Rd.rds
+built/awsMethods/html/
+built/awsMethods/html/00Index.html
+built/awsMethods/html/R.css
+built/awsMethods/INDEX
+built/awsMethods/R/
+built/awsMethods/R/awsMethods
+built/awsMethods/R/awsMethods.rdb
+built/awsMethods/R/awsMethods.rdx
+built/built/
+built/built/awsMethods/
+built/built/awsMethods/libs/
+built/built/awsMethods/libs/awsMethods.so
+built/built/awsMethods/NAMESPACE
+built/built/awsMethods/DESCRIPTION
+built/built/awsMethods/help/
+built/built/awsMethods/help/paths.rds
+built/built/awsMethods/help/aliases.rds
+built/built/awsMethods/help/awsMethods.rdb
+built/built/awsMethods/help/AnIndex
+built/built/awsMethods/help/awsMethods.rdx
+built/built/awsMethods/Meta/
+built/built/awsMethods/Meta/package.rds
+built/built/awsMethods/Meta/features.rds
+built/built/awsMethods/Meta/hsearch.rds
+built/built/awsMethods/Meta/links.rds
+built/built/awsMethods/Meta/nsInfo.rds
+built/built/awsMethods/Meta/Rd.rds
+built/built/awsMethods/html/
+built/built/awsMethods/html/00Index.html
+built/built/awsMethods/html/R.css
+built/built/awsMethods/INDEX
+built/built/awsMethods/R/
+built/built/awsMethods/R/awsMethods
+built/built/awsMethods/R/awsMethods.rdb
+built/built/awsMethods/R/awsMethods.rdx
+built/built/aws/
+built/built/aws/libs/
+built/built/aws/libs/aws.so
+built/built/aws/NAMESPACE
+built/built/aws/DESCRIPTION
+built/built/aws/help/
+built/built/aws/help/aws.rdx
+built/built/aws/help/paths.rds
+built/built/aws/help/aws.rdb
+built/built/aws/help/aliases.rds
+built/built/aws/help/AnIndex
+built/built/aws/Meta/
+built/built/aws/Meta/package.rds
+built/built/aws/Meta/vignette.rds
+built/built/aws/Meta/demo.rds
+built/built/aws/Meta/features.rds
+built/built/aws/Meta/hsearch.rds
+built/built/aws/Meta/links.rds
+built/built/aws/Meta/nsInfo.rds
+built/built/aws/Meta/Rd.rds
+built/built/aws/scripts/
+built/built/aws/scripts/adjust.r
+built/built/aws/CITATION
+built/built/aws/html/
+built/built/aws/html/00Index.html
+built/built/aws/html/R.css
+built/built/aws/INDEX
+built/built/aws/doc/
+built/built/aws/doc/aws-Example.R
+built/built/aws/doc/aws-Example.pdf
+built/built/aws/doc/index.html
+built/built/aws/doc/aws-Example.Rnw
+built/built/aws/R/
+built/built/aws/R/aws.rdx
+built/built/aws/R/aws
+built/built/aws/R/aws.rdb
+built/built/aws/demo/
+built/built/aws/demo/irreg_ex2.r
+built/built/aws/demo/awssegm_ex2.r
+built/built/aws/demo/aws_ex1.r
+built/built/aws/demo/lpaws_ex2.r
+built/built/aws/demo/paws_ex1.r
+built/built/aws/demo/awssegm_ex1.r
+built/built/aws/demo/awssegm_ex3.r
+built/built/aws/demo/aws_ex3.r
+built/built/aws/demo/lpaws_ex1.r
+built/built/aws/demo/paws_ex2.r
+built/built/aws/demo/irreg_ex1.r
+built/built/aws/demo/aws_ex2.r
+built/built/gsl/
+built/built/gsl/gsl_stickermaker.R
+built/built/gsl/libs/
+built/built/gsl/libs/gsl.so
+built/built/gsl/NAMESPACE
+built/built/gsl/DESCRIPTION
+built/built/gsl/help/
+built/built/gsl/help/paths.rds
+built/built/gsl/help/gsl.rdb
+built/built/gsl/help/gsl.rdx
+built/built/gsl/help/aliases.rds
+built/built/gsl/help/figures/
+built/built/gsl/help/figures/gsl.png
+built/built/gsl/help/AnIndex
+built/built/gsl/Meta/
+built/built/gsl/Meta/package.rds
+built/built/gsl/Meta/vignette.rds
+built/built/gsl/Meta/features.rds
+built/built/gsl/Meta/hsearch.rds
+built/built/gsl/Meta/links.rds
+built/built/gsl/Meta/nsInfo.rds
+built/built/gsl/Meta/Rd.rds
+built/built/gsl/CITATION
+built/built/gsl/html/
+built/built/gsl/html/00Index.html
+built/built/gsl/html/R.css
+built/built/gsl/INDEX
+built/built/gsl/doc/
+built/built/gsl/doc/gslpaper.R
+built/built/gsl/doc/gslpaper.Rnw
+built/built/gsl/doc/gslpaper.pdf
+built/built/gsl/doc/index.html
+built/built/gsl/R/
+built/built/gsl/R/gsl.rdb
+built/built/gsl/R/gsl
+built/built/gsl/R/gsl.rdx
+built/aws/
+built/aws/libs/
+built/aws/libs/aws.so
+built/aws/NAMESPACE
+built/aws/DESCRIPTION
+built/aws/help/
+built/aws/help/aws.rdx
+built/aws/help/paths.rds
+built/aws/help/aws.rdb
+built/aws/help/aliases.rds
+built/aws/help/AnIndex
+built/aws/Meta/
+built/aws/Meta/package.rds
+built/aws/Meta/vignette.rds
+built/aws/Meta/demo.rds
+built/aws/Meta/features.rds
+built/aws/Meta/hsearch.rds
+built/aws/Meta/links.rds
+built/aws/Meta/nsInfo.rds
+built/aws/Meta/Rd.rds
+built/aws/scripts/
+built/aws/scripts/adjust.r
+built/aws/CITATION
+built/aws/html/
+built/aws/html/00Index.html
+built/aws/html/R.css
+built/aws/INDEX
+built/aws/doc/
+built/aws/doc/aws-Example.R
+built/aws/doc/aws-Example.pdf
+built/aws/doc/index.html
+built/aws/doc/aws-Example.Rnw
+built/aws/R/
+built/aws/R/aws.rdx
+built/aws/R/aws
+built/aws/R/aws.rdb
+built/aws/demo/
+built/aws/demo/irreg_ex2.r
+built/aws/demo/awssegm_ex2.r
+built/aws/demo/aws_ex1.r
+built/aws/demo/lpaws_ex2.r
+built/aws/demo/paws_ex1.r
+built/aws/demo/awssegm_ex1.r
+built/aws/demo/awssegm_ex3.r
+built/aws/demo/aws_ex3.r
+built/aws/demo/lpaws_ex1.r
+built/aws/demo/paws_ex2.r
+built/aws/demo/irreg_ex1.r
+built/aws/demo/aws_ex2.r
+built/gsl/
+built/gsl/gsl_stickermaker.R
+built/gsl/libs/
+built/gsl/libs/gsl.so
+built/gsl/NAMESPACE
+built/gsl/DESCRIPTION
+built/gsl/help/
+built/gsl/help/paths.rds
+built/gsl/help/gsl.rdb
+built/gsl/help/gsl.rdx
+built/gsl/help/aliases.rds
+built/gsl/help/figures/
+built/gsl/help/figures/gsl.png
+built/gsl/help/AnIndex
+built/gsl/Meta/
+built/gsl/Meta/package.rds
+built/gsl/Meta/vignette.rds
+built/gsl/Meta/features.rds
+built/gsl/Meta/hsearch.rds
+built/gsl/Meta/links.rds
+built/gsl/Meta/nsInfo.rds
+built/gsl/Meta/Rd.rds
+built/gsl/CITATION
+built/gsl/html/
+built/gsl/html/00Index.html
+built/gsl/html/R.css
+built/gsl/INDEX
+built/gsl/doc/
+built/gsl/doc/gslpaper.R
+built/gsl/doc/gslpaper.Rnw
+built/gsl/doc/gslpaper.pdf
+built/gsl/doc/index.html
+built/gsl/R/
+built/gsl/R/gsl.rdb
+built/gsl/R/gsl
+built/gsl/R/gsl.rdx
+built/GLAD/
+built/GLAD/libs/
+built/GLAD/libs/GLAD.so
+built/GLAD/NAMESPACE
+built/GLAD/DESCRIPTION
+built/GLAD/help/
+built/GLAD/help/GLAD.rdb
+built/GLAD/help/paths.rds
+built/GLAD/help/GLAD.rdx
+built/GLAD/help/aliases.rds
+built/GLAD/help/AnIndex
+built/GLAD/data/
+built/GLAD/data/veltman.RData
+built/GLAD/data/arrayCGH.RData
+built/GLAD/data/cytoband.RData
+built/GLAD/data/snijders.RData
+built/GLAD/Meta/
+built/GLAD/Meta/package.rds
+built/GLAD/Meta/vignette.rds
+built/GLAD/Meta/demo.rds
+built/GLAD/Meta/features.rds
+built/GLAD/Meta/hsearch.rds
+built/GLAD/Meta/links.rds
+built/GLAD/Meta/nsInfo.rds
+built/GLAD/Meta/Rd.rds
+built/GLAD/Meta/data.rds
+built/GLAD/README
+built/GLAD/html/
+built/GLAD/html/00Index.html
+built/GLAD/html/R.css
+built/GLAD/INDEX
+built/GLAD/doc/
+built/GLAD/doc/GLAD.R
+built/GLAD/doc/GLAD.pdf
+built/GLAD/doc/GLAD.Rnw
+built/GLAD/doc/index.html
+built/GLAD/R/
+built/GLAD/R/GLAD.rdb
+built/GLAD/R/GLAD.rdx
+built/GLAD/R/GLAD
+built/GLAD/demo/
+built/GLAD/demo/tkdaglad.R
+built/GLAD/demo/tkglad.R
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''MANOR'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv aws_2.5-1_R_x86_64-pc-linux-gnu.tar.gz awsMethods_1.1-1_R_x86_64-pc-linux-gnu.tar.gz GLAD_2.62.0_R_x86_64-pc-linux-gnu.tar.gz gsl_2.1-7.1_R_x86_64-pc-linux-gnu.tar.gz MANOR_1.70.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/MANOR
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'MANOR'
+also installing the dependencies ‘awsMethods’, ‘gsl’, ‘aws’, ‘GLAD’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/awsMethods_1.1-1.tar.gz'
+Content type 'binary/octet-stream' length 24475 bytes (23 KB)
+==================================================
+downloaded 23 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gsl_2.1-7.1.tar.gz'
+Content type 'binary/octet-stream' length 607266 bytes (593 KB)
+==================================================
+downloaded 593 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/aws_2.5-1.tar.gz'
+Content type 'binary/octet-stream' length 1406810 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/GLAD_2.62.0.tar.gz'
+Content type 'application/x-gzip' length 1228695 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/MANOR_1.70.0.tar.gz'
+Content type 'application/x-gzip' length 1498232 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+* installing *binary* package ‘awsMethods’ ...
+* ‘awsMethods’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘awsMethods’ as ‘awsMethods_1.1-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (awsMethods)
+* installing *binary* package ‘gsl’ ...
+* ‘gsl’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gsl’ as ‘gsl_2.1-7.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gsl)
+* installing *binary* package ‘aws’ ...
+* ‘aws’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘aws’ as ‘aws_2.5-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (aws)
+* installing *source* package ‘GLAD’ ...
+** using staged installation
+checking for pkg-config... /usr/bin/pkg-config
+checking pkg-config is at least version 0.9.0... yes
+checking for GSL... yes
+GSL has been found on the operating system
+operating system: Linux
+configure: creating ./config.status
+config.status: creating src/Makevars
+
+src/Makevars file
+
+PKG_LIBS = -lgsl -lgslcblas -lm
+PKG_CPPFLAGS = 
+
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c BkpInfo.cpp -o BkpInfo.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c HaarSeg.cpp -o HaarSeg.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c MoveBkp.cpp -o MoveBkp.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c OutliersGNL.cpp -o OutliersGNL.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c chrBreakpoints.cpp -o chrBreakpoints.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c cutree.cpp -o cutree.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c daglad.cpp -o daglad.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c distance.cpp -o distance.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c filterBkp.cpp -o filterBkp.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c findCluster.cpp -o findCluster.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c glad-utils.cpp -o glad-utils.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hclust.cpp -o hclust.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c laws.c -o laws.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c loopRemove.cpp -o loopRemove.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o GLAD.so BkpInfo.o HaarSeg.o MoveBkp.o OutliersGNL.o chrBreakpoints.o cutree.o daglad.o distance.o filterBkp.o findCluster.o glad-utils.o hclust.o laws.o loopRemove.o -lgsl -lgslcblas -lm -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-GLAD/00new/GLAD/libs
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GLAD’ as ‘GLAD_2.62.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GLAD)
+* installing *source* package ‘MANOR’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rnem_arg.c -o Rnem_arg.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rnem_exe.c -o Rnem_exe.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c exememo.c -o exememo.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_alg.c -o nem_alg.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_hlp.c -o nem_hlp.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_mod.c -o nem_mod.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_nei.c -o nem_nei.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_rnd.c -o nem_rnd.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_ver.c -o nem_ver.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c registerDynamicSymbols.c -o registerDynamicSymbols.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o MANOR.so Rnem_arg.o Rnem_exe.o exememo.o nem_alg.o nem_hlp.o nem_mod.o nem_nei.o nem_rnd.o nem_ver.o registerDynamicSymbols.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-MANOR/00new/MANOR/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MANOR’ as ‘MANOR_1.70.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MANOR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpObb17f/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m33.363s
+user	0m17.891s
+sys	0m2.091s
