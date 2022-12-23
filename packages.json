@@ -126,7 +126,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "geneplotter",
         "ggbio",
@@ -137,18 +136,13 @@
         "tidyr",
         "viridis"
     ],
-    "affyILM": [
-        "gcrma"
-    ],
+    "affyILM": [],
     "affylmGUI": [
         "AnnotationDbi",
         "KEGGREST",
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
-    "affyPLM": [
-        "gcrma"
-    ],
+    "affyPLM": [],
     "AGDEX": [
         "AnnotationDbi",
         "GSEABase",
@@ -187,7 +181,6 @@
         "biovizBase",
         "dbplyr",
         "ensembldb",
-        "gcrma",
         "genefilter",
         "geneplotter",
         "ggbio",
@@ -592,7 +585,6 @@
         "affyPLM",
         "annotate",
         "beadarray",
-        "gcrma",
         "genefilter",
         "htmlTable",
         "htmlwidgets",
@@ -1165,9 +1157,7 @@
         "tidyr",
         "topGO"
     ],
-    "bgx": [
-        "gcrma"
-    ],
+    "bgx": [],
     "BicARE": [
         "AnnotationDbi",
         "GSEABase",
@@ -6726,7 +6716,6 @@
     "gCrisprTools": [
         "SummarizedExperiment"
     ],
-    "gcrma": [],
     "GCSscore": [
         "devtools",
         "htmlwidgets",
@@ -9468,7 +9457,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "caret",
-        "gcrma",
         "hgu133plus2.db",
         "org.Hs.eg.db",
         "recipes",
@@ -9502,9 +9490,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "maskBAD": [
-        "gcrma"
-    ],
+    "maskBAD": [],
     "MAST": [
         "SingleCellExperiment",
         "SummarizedExperiment"
@@ -10604,7 +10590,6 @@
     "mimager": [
         "SummarizedExperiment",
         "affyPLM",
-        "gcrma",
         "oligo",
         "oligoClasses"
     ],
@@ -14501,8 +14486,7 @@
         "rtracklayer"
     ],
     "RefPlus": [
-        "affyPLM",
-        "gcrma"
+        "affyPLM"
     ],
     "RegEnrich": [
         "AnnotationDbi",
@@ -19370,7 +19354,6 @@
         "GO.db",
         "KEGGREST",
         "annaffy",
-        "gcrma",
         "qvalue",
         "vsn"
     ],
