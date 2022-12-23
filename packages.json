@@ -15093,7 +15093,6 @@
         "HDO.db",
         "HiveR",
         "KEGGREST",
-        "RISmed",
         "SummarizedExperiment",
         "TCGAbiolinks",
         "aplot",
@@ -16149,7 +16148,6 @@
         "Biostrings",
         "GenomicRanges",
         "KEGGREST",
-        "RISmed",
         "VarfromPDB",
         "broom",
         "cellranger",
@@ -29162,7 +29160,6 @@
         "rgl",
         "rmarkdown"
     ],
-    "RISmed": [],
     "gghalves": [
         "ggplot2"
     ],
@@ -29204,9 +29201,7 @@
         "rmarkdown",
         "shiny"
     ],
-    "VarfromPDB": [
-        "RISmed"
-    ],
+    "VarfromPDB": [],
     "mppa": [],
     "ICSNP": [
         "ICS"
