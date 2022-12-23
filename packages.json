@@ -2125,14 +2125,11 @@
     "ISAnalytics": [
         "datamods"
     ],
-    "iSEEhex": [],
     "iSEEhub": [
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "iSEEu": [
-        "iSEEhex"
-    ],
+    "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationHub",
         "BSgenome",
