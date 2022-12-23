@@ -68905,7 +68905,6 @@
         "viridisLite"
     ],
     "rnaseqcomp": [],
-    "RNASeqPower": [],
     "RNASeqR": [
         "AnnotationDbi",
         "Biobase",
