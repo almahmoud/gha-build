@@ -3497,7 +3497,6 @@
         "fields",
         "viridis"
     ],
-    "systemPipeTools": [],
     "TADCompare": [
         "HiCcompare",
         "car",
