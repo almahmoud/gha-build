@@ -370,7 +370,6 @@
         "ggplot2",
         "ggrepel",
         "knitr",
-        "missForest",
         "mixOmics",
         "rARPACK",
         "readxl",
@@ -13178,7 +13177,6 @@
         "haven",
         "ipred",
         "knitr",
-        "missForest",
         "modelr",
         "prodlim",
         "readr",
@@ -15903,7 +15901,6 @@
         "genefilter",
         "knitr",
         "lme4",
-        "missForest",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -18760,7 +18757,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "ggplot2",
-        "missForest",
         "reshape2"
     ],
     "PoDCall": [
@@ -19078,7 +19074,6 @@
         "ggrepel",
         "htmlwidgets",
         "knitr",
-        "missForest",
         "plotly",
         "rmarkdown",
         "ropls",
@@ -27685,14 +27680,12 @@
     ],
     "speaq": [
         "ggplot2",
-        "missForest",
         "reshape2",
         "rvest",
         "selectr"
     ],
     "rARPACK": [],
     "cellranger": [],
-    "missForest": [],
     "curatedTCGAData": [
         "AnnotationDbi",
         "AnnotationHub",
