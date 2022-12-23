@@ -3288,7 +3288,6 @@
         "jquerylib",
         "knitr",
         "lava",
-        "lbfgs",
         "lubridate",
         "memoise",
         "mgcv",
@@ -69437,7 +69436,6 @@
         "vctrs",
         "vsn"
     ],
-    "lbfgs": [],
     "dendextend": [
         "ggplot2",
         "mgcv",
