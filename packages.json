@@ -51406,7 +51406,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "wk",
         "xml2",
         "yaml",
         "yulab.utils",
@@ -56627,7 +56626,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "wk",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -61686,7 +61684,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "wk",
         "zlibbioc"
     ],
     "lmdme": [
@@ -108162,7 +108159,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "wk",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -110119,7 +110115,6 @@
         "viridisLite",
         "visNetwork",
         "webshot",
-        "wk",
         "xtable",
         "yaml",
         "yulab.utils",
@@ -110295,7 +110290,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "wk",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -116623,7 +116617,6 @@
         "units",
         "utf8",
         "vctrs",
-        "wk",
         "zlibbioc"
     ],
     "spatialHeatmap": [
@@ -117390,7 +117383,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "wk",
         "zlibbioc"
     ],
     "SpidermiR": [
@@ -119747,7 +119739,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "wk",
         "xml2",
         "yaml",
         "zlibbioc"
@@ -120008,7 +119999,6 @@
         "uwot",
         "vctrs",
         "viridisLite",
-        "wk",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -121558,7 +121548,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "wk",
         "xml2",
         "xts",
         "yaml",
@@ -130523,7 +130512,6 @@
         "utf8",
         "vctrs",
         "viridisLite",
-        "wk",
         "zlibbioc"
     ],
     "VplotR": [
@@ -147108,7 +147096,6 @@
         "tinytex",
         "units",
         "vctrs",
-        "wk",
         "xml2",
         "yaml",
         "zip",
@@ -147125,8 +147112,7 @@
         "e1071",
         "proxy",
         "s2",
-        "units",
-        "wk"
+        "units"
     ],
     "classInt": [
         "KernSmooth",
@@ -147136,13 +147122,11 @@
         "proxy"
     ],
     "s2": [
-        "Rcpp",
-        "wk"
+        "Rcpp"
     ],
     "units": [
         "Rcpp"
     ],
-    "wk": [],
     "RMallow": [
         "combinat"
     ],
@@ -147555,8 +147539,7 @@
         "tidyselect",
         "units",
         "utf8",
-        "vctrs",
-        "wk"
+        "vctrs"
     ],
     "distances": [],
     "Rlabkey": [
@@ -154135,8 +154118,7 @@
         "sf",
         "sp",
         "spData",
-        "units",
-        "wk"
+        "units"
     ],
     "spData": [
         "sp"
@@ -154505,7 +154487,6 @@
         "spacetime",
         "stars",
         "units",
-        "wk",
         "xts",
         "zoo"
     ],
@@ -154548,8 +154529,7 @@
         "proxy",
         "s2",
         "sf",
-        "units",
-        "wk"
+        "units"
     ],
     "spacetime": [
         "intervals",
@@ -154570,8 +154550,7 @@
         "rlang",
         "s2",
         "sf",
-        "units",
-        "wk"
+        "units"
     ],
     "lwgeom": [
         "DBI",
@@ -154584,8 +154563,7 @@
         "proxy",
         "s2",
         "sf",
-        "units",
-        "wk"
+        "units"
     ],
     "spsUtil": [
         "R6",
