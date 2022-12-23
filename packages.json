@@ -4427,7 +4427,6 @@
     "SPsimSeq": [
         "WGCNA"
     ],
-    "sRACIPE": [],
     "srnadiff": [
         "BSgenome",
         "DESeq2",
