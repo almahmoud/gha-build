@@ -43129,7 +43129,6 @@
     ],
     "rebook": [
         "BiocStyle",
-        "CodeDepends",
         "bookdown",
         "bslib",
         "jquerylib",
@@ -66258,7 +66257,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "CodeDepends": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "BiocIO",
