@@ -30225,7 +30225,6 @@
         "selectr",
         "sf",
         "sftime",
-        "spacetime",
         "stars",
         "testthat",
         "tibble",
@@ -37237,7 +37236,6 @@
         "lwgeom",
         "sf",
         "sftime",
-        "spacetime",
         "stars"
     ],
     "SpatialExtremes": [
@@ -37249,7 +37247,6 @@
     "sftime": [
         "sf"
     ],
-    "spacetime": [],
     "stars": [
         "lwgeom",
         "sf"
