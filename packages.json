@@ -40770,7 +40770,6 @@
         "tibble",
         "tidyselect"
     ],
-    "VERSO": [],
     "vidger": [
         "AnnotationDbi",
         "BiocParallel",
