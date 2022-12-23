@@ -2445,7 +2445,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "CNVgears": [],
     "CNViz": [
         "AnnotationDbi",
         "BSgenome",
