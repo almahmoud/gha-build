@@ -7989,8 +7989,7 @@
         "cowplot",
         "htmlwidgets",
         "metap",
-        "plotly",
-        "topconfects"
+        "plotly"
     ],
     "MetCirc": [],
     "MethCP": [
@@ -14645,7 +14644,6 @@
         "htmlwidgets",
         "plotly"
     ],
-    "topconfects": [],
     "topdownr": [
         "MSnbase",
         "vsn"
@@ -15348,9 +15346,7 @@
         "annaffy",
         "vsn"
     ],
-    "weitrix": [
-        "topconfects"
-    ],
+    "weitrix": [],
     "wiggleplotr": [
         "GenomicAlignments",
         "cowplot",
