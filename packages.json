@@ -5104,7 +5104,6 @@
         "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
-        "ELMER.data",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -5454,7 +5453,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "ELMER.data",
         "EpiMix.data",
         "ExperimentHub",
         "GEOquery",
@@ -17413,7 +17411,6 @@
         "DOSE",
         "DT",
         "ELMER",
-        "ELMER.data",
         "ExperimentHub",
         "GO.db",
         "GOSemSim",
@@ -19960,7 +19957,6 @@
         "htmlwidgets",
         "interactiveDisplayBase"
     ],
-    "ELMER.data": [],
     "EntropyExplorer": [],
     "EpiMix.data": [
         "AnnotationDbi",
