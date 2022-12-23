@@ -538,7 +538,6 @@
         "DSS",
         "bsseq"
     ],
-    "BPRMeth": [],
     "brainflowprobes": [
         "AnnotationHub",
         "BSgenome",
@@ -3086,9 +3085,7 @@
     "megadepth": [
         "cmdfun"
     ],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [
         "cmdfun"
     ],
