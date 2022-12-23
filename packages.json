@@ -2672,7 +2672,6 @@
         "munsell",
         "openssl",
         "pillar",
-        "preseqR",
         "progress",
         "promises",
         "purrr",
@@ -39682,7 +39681,6 @@
         "mutoss",
         "openssl",
         "pillar",
-        "preseqR",
         "progress",
         "promises",
         "purrr",
@@ -54604,7 +54602,6 @@
         "gamlss",
         "glmnet",
         "penalized",
-        "preseqR",
         "pscl",
         "rsvd",
         "survival"
@@ -68317,7 +68314,6 @@
     "ids": [
         "openssl"
     ],
-    "preseqR": [],
     "reactome.db": [
         "AnnotationDbi",
         "Biostrings",
