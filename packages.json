@@ -4512,7 +4512,6 @@
         "BSgenome",
         "DESeq2",
         "GenomicFeatures",
-        "biomartr",
         "fst",
         "geneplotter"
     ],
@@ -5297,7 +5296,6 @@
         "DESeq2",
         "GenomicFeatures",
         "ORFik",
-        "biomartr",
         "fst",
         "geneplotter"
     ],
@@ -6470,7 +6468,6 @@
         "DESeq2",
         "GenomicFeatures",
         "ORFik",
-        "biomartr",
         "fst",
         "geneplotter"
     ],
@@ -7369,7 +7366,6 @@
     "unmarked": [
         "lme4"
     ],
-    "biomartr": [],
     "verification": [
         "fields",
         "viridis"
