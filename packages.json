@@ -6071,7 +6071,6 @@
         "rtracklayer"
     ],
     "InterMineR": [],
-    "IntramiRExploreR": [],
     "IONiseR": [
         "GenomicAlignments",
         "ShortRead",

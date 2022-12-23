@@ -1,0 +1,103 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   072e84dd..8c961f50  main       -> origin/main
+Updating 072e84dd..8c961f50
+Fast-forward
+ lists/DRIMSeq                                  |    2 +-
+ lists/compcodeR                                |    2 +-
+ lists/ggstance                                 |    2 +-
+ lists/ggstar                                   |    2 +-
+ lists/ggvis                                    |    2 +-
+ logs/run_ids/rstudio-binaries/keras            |    2 +
+ logs/sizes/rstudio-binaries/binaries/DRIMSeq   |    1 +
+ logs/sizes/rstudio-binaries/binaries/ggstance  |    1 +
+ logs/sizes/rstudio-binaries/binaries/ggstar    |    1 +
+ logs/sizes/rstudio-binaries/libraries/DRIMSeq  |    1 +
+ logs/sizes/rstudio-binaries/libraries/ggstance |    1 +
+ logs/sizes/rstudio-binaries/libraries/ggstar   |    1 +
+ logs/times/rstudio-binary/DRIMSeq              | 1206 ++++++++++++++++++++++++
+ logs/times/rstudio-binary/ggstance             |  879 +++++++++++++++++
+ logs/times/rstudio-binary/ggstar               |  182 ++++
+ packages.json                                  |   26 +-
+ 16 files changed, 2282 insertions(+), 29 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/keras
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/DRIMSeq
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ggstance
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ggstar
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/DRIMSeq
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ggstance
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ggstar
+ create mode 100644 logs/times/rstudio-binary/DRIMSeq
+ create mode 100644 logs/times/rstudio-binary/ggstance
+ create mode 100644 logs/times/rstudio-binary/ggstar
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=IntramiRExploreR
++ PKG=IntramiRExploreR
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "IntramiRExploreR"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency FGNet is already found.
+Dependency knitr is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''IntramiRExploreR'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv IntramiRExploreR_1.20.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/IntramiRExploreR
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'IntramiRExploreR'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/IntramiRExploreR_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 9332767 bytes (8.9 MB)
+==================================================
+downloaded 8.9 MB
+
+* installing *source* package ‘IntramiRExploreR’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Note: possible error in 'FGNet_report(feaResults_topGO, ': unused argument (plotKeggPw = FALSE) 
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: Package 'IntramiRExploreR' is deprecated and will be removed from
+  Bioconductor version 3.14
+** testing if installed package can be loaded from final location
+Warning: Package 'IntramiRExploreR' is deprecated and will be removed from
+  Bioconductor version 3.14
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IntramiRExploreR’ as ‘IntramiRExploreR_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IntramiRExploreR)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp2n7ber/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m16.038s
+user	0m14.284s
+sys	0m1.180s
