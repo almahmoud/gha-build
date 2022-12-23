@@ -8398,7 +8398,6 @@
     "ribor": [
         "rhdf5"
     ],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "AnnotationDbi",
         "BSgenome",
