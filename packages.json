@@ -11370,7 +11370,6 @@
         "rhdf5",
         "viridis"
     ],
-    "SQLDataFrame": [],
     "sRACIPE": [
         "visNetwork"
     ],
