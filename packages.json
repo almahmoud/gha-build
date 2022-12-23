@@ -34,7 +34,6 @@
         "COSMIC.67",
         "Homo.sapiens",
         "MafDb.1Kgenomes.phase3.hs37d5",
-        "MafDb.ExAC.r1.0.hs37d5",
         "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137"
     ],
@@ -1714,7 +1713,6 @@
     "ReorderCluster": [],
     "Homo.sapiens": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
-    "MafDb.ExAC.r1.0.hs37d5": [],
     "COSMIC.67": [],
     "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
