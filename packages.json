@@ -88619,7 +88619,6 @@
         "doSNOW",
         "foreach",
         "iterators",
-        "seqCNA.annot",
         "sp"
     ],
     "seqcombo": [
@@ -121352,7 +121351,6 @@
         "adehabitatMA",
         "sp"
     ],
-    "seqCNA.annot": [],
     "adehabitatMA": [
         "sp"
     ],
