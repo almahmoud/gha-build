@@ -5637,7 +5637,6 @@
         "GSEABase",
         "mixtools"
     ],
-    "sccomp": [],
     "scDataviz": [
         "Seurat"
     ],
