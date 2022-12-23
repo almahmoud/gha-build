@@ -85,8 +85,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "ABSSeq": [],
     "ACE": [
@@ -935,7 +934,6 @@
         "treeio",
         "uwot",
         "vctrs",
-        "vegan",
         "viridis",
         "waldo"
     ],
@@ -1027,8 +1025,7 @@
         "tidyr",
         "tidyselect",
         "umap",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "annaffy": [
         "AnnotationDbi",
@@ -2633,7 +2630,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vegan",
         "viridis"
     ],
     "basecallQC": [
@@ -2979,8 +2975,7 @@
         "ggplot2",
         "pillar",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "beachmat": [
         "DelayedArray",
@@ -3185,7 +3180,6 @@
         "treeio",
         "uwot",
         "vctrs",
-        "vegan",
         "viridis",
         "waldo",
         "zCompositions",
@@ -4751,7 +4745,6 @@
         "tibble",
         "vcd",
         "vctrs",
-        "vegan",
         "vsn"
     ],
     "BOBaFIT": [
@@ -5561,8 +5554,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "CAMERA": [
         "BiocParallel",
@@ -5701,8 +5693,7 @@
         "tidytree",
         "treeio",
         "vcfR",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "Cardinal": [
         "BiocParallel",
@@ -9046,8 +9037,7 @@
         "rhdf5",
         "stringr",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "coMET": [
         "AnnotationDbi",
@@ -11638,7 +11628,6 @@
         "tweenr",
         "vcd",
         "vctrs",
-        "vegan",
         "viridis",
         "vroom"
     ],
@@ -15226,8 +15215,7 @@
         "stringr",
         "tibble",
         "vcd",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "epistack": [
         "DelayedArray",
@@ -16932,8 +16920,7 @@
         "sass",
         "stringr",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "flowCL": [
         "SPARQL"
@@ -16983,8 +16970,7 @@
         "waldo"
     ],
     "flowCyBar": [
-        "gplots",
-        "vegan"
+        "gplots"
     ],
     "flowDensity": [
         "DelayedArray",
@@ -17510,7 +17496,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vegan",
         "waldo"
     ],
     "GA4GHclient": [
@@ -20125,8 +20110,7 @@
         "shinyBS",
         "stringr",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "gpuMagic": [
         "DescTools",
@@ -24030,7 +24014,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vegan",
         "vroom",
         "waldo"
     ],
@@ -24040,8 +24023,7 @@
         "ggplot2",
         "pillar",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "LinTInd": [
         "Biostrings",
@@ -24579,7 +24561,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vegan",
         "waldo"
     ],
     "Macarron": [
@@ -24637,7 +24618,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vegan",
         "viridis",
         "waldo"
     ],
@@ -24757,8 +24737,7 @@
         "tibble",
         "tidyselect",
         "vcfR",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "maftools": [],
     "MAGAR": [
@@ -25335,7 +25314,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vegan",
         "waldo"
     ],
     "mbkmeans": [
@@ -25655,7 +25633,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vegan",
         "viridis",
         "vroom"
     ],
@@ -26560,8 +26537,7 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "MetaVolcanoR": [
         "TFisher",
@@ -27499,7 +27475,6 @@
         "treeio",
         "uwot",
         "vctrs",
-        "vegan",
         "viridis"
     ],
     "miaSim": [
@@ -27580,7 +27555,6 @@
         "tweenr",
         "uwot",
         "vctrs",
-        "vegan",
         "viridis"
     ],
     "MiChip": [],
@@ -27602,8 +27576,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "microbiomeDASim": [
         "Biostrings",
@@ -27624,8 +27597,7 @@
         "stringr",
         "tibble",
         "tmvtnorm",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "microbiomeExplorer": [
         "AnnotationDbi",
@@ -27693,7 +27665,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vegan",
         "viridis",
         "vroom",
         "waldo",
@@ -27807,7 +27778,6 @@
         "treeio",
         "uwot",
         "vctrs",
-        "vegan",
         "viridis",
         "waldo",
         "zCompositions"
@@ -27910,8 +27880,7 @@
         "tidyselect",
         "tidytree",
         "treeio",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "microRNA": [
         "Biostrings",
@@ -27978,8 +27947,7 @@
         "reshape2",
         "stringr",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "miloR": [
         "BiocNeighbors",
@@ -29040,7 +29008,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vegan",
         "waldo"
     ],
     "mnem": [
@@ -29051,8 +29018,7 @@
         "ggplot2",
         "pillar",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "moanin": [
         "AnnotationDbi",
@@ -31574,8 +31540,7 @@
         "stringr",
         "tibble",
         "vcd",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "NetActivity": [
         "AnnotationDbi",
@@ -31959,7 +31924,6 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vegan",
         "vroom",
         "yarn"
     ],
@@ -32687,7 +32651,6 @@
         "shiny",
         "stringr",
         "vctrs",
-        "vegan",
         "zCompositions"
     ],
     "omicRexposome": [
@@ -33565,8 +33528,7 @@
         "XVector",
         "futile.logger",
         "interp",
-        "latticeExtra",
-        "vegan"
+        "latticeExtra"
     ],
     "OUTRIDER": [
         "AnnotationDbi",
@@ -34029,7 +33991,6 @@
         "tidyselect",
         "usethis",
         "vctrs",
-        "vegan",
         "waldo",
         "webshot"
     ],
@@ -34413,8 +34374,7 @@
         "sn",
         "stringr",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "periodicDNA": [
         "BSgenome",
@@ -34846,8 +34806,7 @@
         "rhdf5",
         "stringr",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "Pi": [
         "GenomeInfoDb",
@@ -35451,8 +35410,7 @@
         "tidyr",
         "tidyselect",
         "uwot",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "PoTRA": [
         "AnnotationDbi",
@@ -35471,8 +35429,7 @@
     ],
     "powerTCR": [
         "purrr",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "POWSC": [
         "DelayedArray",
@@ -35599,8 +35556,7 @@
         "sass",
         "stringr",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "preciseTAD": [
         "AnnotationDbi",
@@ -37894,8 +37850,7 @@
         "stringr",
         "tibble",
         "tseries",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "Rcpi": [
         "AnnotationDbi",
@@ -38147,8 +38102,7 @@
         "rhdf5",
         "stringr",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "recount": [
         "AnnotationDbi",
@@ -40613,8 +40567,7 @@
         "sass",
         "stringr",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "rprimer": [
         "Biostrings",
@@ -42853,7 +42806,6 @@
         "tidyselect",
         "tweenr",
         "vctrs",
-        "vegan",
         "viridis"
     ],
     "scruff": [
@@ -43966,7 +43918,6 @@
         "testthat",
         "tibble",
         "vctrs",
-        "vegan",
         "waldo"
     ],
     "SICtools": [
@@ -44417,8 +44368,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "SIMD": [],
     "SimFFPE": [
@@ -46368,7 +46318,6 @@
         "stringr",
         "tibble",
         "vctrs",
-        "vegan",
         "viridis"
     ],
     "SQLDataFrame": [
@@ -47542,7 +47491,6 @@
         "tidyverse",
         "tweenr",
         "vctrs",
-        "vegan",
         "viridis",
         "vroom",
         "waldo"
@@ -52008,7 +51956,6 @@
         "stringr",
         "vctrs"
     ],
-    "vegan": [],
     "ggcorrplot": [
         "ggplot2",
         "pillar",
@@ -52648,8 +52595,7 @@
         "modeest",
         "pillar",
         "tibble",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "pROC": [],
     "recipes": [
@@ -53796,8 +53742,7 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "tidytext": [
         "dplyr",
@@ -54615,8 +54560,7 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "vctrs",
-        "vegan"
+        "vctrs"
     ],
     "sqldf": [
         "RSQLite",
@@ -56442,9 +56386,7 @@
         "tibble",
         "vctrs"
     ],
-    "analogue": [
-        "vegan"
-    ],
+    "analogue": [],
     "DataVisualizations": [
         "ggplot2",
         "pillar",
