@@ -43686,7 +43686,6 @@
         "annotate",
         "blob",
         "bslib",
-        "copula",
         "cowplot",
         "crosstalk",
         "dplyr",
@@ -61492,7 +61491,6 @@
         "tibble",
         "tidyselect"
     ],
-    "copula": [],
     "extRemes": [],
     "torch": [],
     "sparsepca": [
