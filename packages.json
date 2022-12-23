@@ -29356,7 +29356,6 @@
         "pillar",
         "tibble"
     ],
-    "netbiov": [],
     "netboost": [
         "AnnotationDbi",
         "Biostrings",
