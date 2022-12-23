@@ -2333,7 +2333,6 @@
         "ggdendro",
         "ggplot2",
         "mnem",
-        "pcalg",
         "rmarkdown",
         "sva",
         "vsn"
@@ -5867,7 +5866,6 @@
         "multcomp",
         "mutoss",
         "org.Hs.eg.db",
-        "pcalg",
         "readr",
         "readxl",
         "rematch2",
@@ -7815,8 +7813,7 @@
         "Linnorm",
         "ggdendro",
         "ggplot2",
-        "mnem",
-        "pcalg"
+        "mnem"
     ],
     "epistack": [
         "GenomicRanges",
@@ -14578,7 +14575,6 @@
         "htmlTable",
         "htmlwidgets",
         "org.Hs.eg.db",
-        "pcalg",
         "readr",
         "rmarkdown",
         "rvest",
@@ -16279,8 +16275,7 @@
         "epiNEM",
         "ggdendro",
         "ggplot2",
-        "mnem",
-        "pcalg"
+        "mnem"
     ],
     "NetActivity": [
         "AnnotationDbi",
@@ -27701,7 +27696,6 @@
         "KEGGREST",
         "org.Hs.eg.db"
     ],
-    "pcalg": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
