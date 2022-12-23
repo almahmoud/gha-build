@@ -9641,7 +9641,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "GRridge": [],
     "GSCA": [
         "ggplot2",
         "shiny"
