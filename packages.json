@@ -5945,7 +5945,6 @@
         "hgu133plus2.db",
         "httr",
         "memoise",
-        "metadat",
         "metafor",
         "openssl",
         "org.Hs.eg.db",
@@ -33752,7 +33751,6 @@
         "igraph",
         "knitr",
         "lme4",
-        "metadat",
         "metafor",
         "mgcv",
         "munsell",
@@ -34220,7 +34218,6 @@
         "jquerylib",
         "knitr",
         "memoise",
-        "metadat",
         "metafor",
         "metap",
         "mgcv",
@@ -37416,7 +37413,6 @@
         "lme4",
         "lmerTest",
         "locfit",
-        "metadat",
         "metafor",
         "metagenomeSeq",
         "mgcv",
@@ -70518,10 +70514,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "metafor": [
-        "metadat"
-    ],
-    "metadat": [],
+    "metafor": [],
     "KEGGdzPathwaysGEO": [],
     "hgu133plus2.db": [
         "AnnotationDbi",
