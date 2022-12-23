@@ -3170,7 +3170,6 @@
         "bumphunter",
         "genefilter",
         "lumi",
-        "lumiHumanAll.db",
         "methylumi",
         "minfi"
     ],
@@ -6125,7 +6124,6 @@
         "GenomicFeatures",
         "OrganismDbi"
     ],
-    "lumiHumanAll.db": [],
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome"
     ],
