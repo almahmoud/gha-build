@@ -31174,7 +31174,6 @@
         "MCL",
         "MatrixGenerics",
         "MatrixModels",
-        "Polychrome",
         "ROCR",
         "RSQLite",
         "RcppEigen",
@@ -78221,7 +78220,6 @@
         "vctrs"
     ],
     "anocva": [],
-    "Polychrome": [],
     "AdaptGauss": [
         "DataVisualizations",
         "bslib",
