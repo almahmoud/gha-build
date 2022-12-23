@@ -1291,7 +1291,6 @@
     ],
     "pipeComp": [],
     "PloGO2": [],
-    "plotgardener": [],
     "plotGrouper": [
         "car",
         "ggpubr",
@@ -1775,9 +1774,7 @@
         "ensemblVEP"
     ],
     "tximeta": [],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
         "EnsDb.Hsapiens.v75",
