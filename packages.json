@@ -12849,7 +12849,6 @@
         "dplyr",
         "ggplot2",
         "mzR",
-        "phangorn",
         "pillar",
         "purrr",
         "reticulate",
@@ -24560,7 +24559,6 @@
         "ggtree",
         "msa",
         "patchwork",
-        "phangorn",
         "pillar",
         "purrr",
         "tibble",
@@ -26120,7 +26118,6 @@
         "ggrepel",
         "ggridges",
         "httr",
-        "phangorn",
         "pillar",
         "purrr",
         "tibble",
@@ -34884,7 +34881,6 @@
         "ggplotify",
         "ggtree",
         "patchwork",
-        "phangorn",
         "pillar",
         "purrr",
         "tibble",
@@ -41515,7 +41511,6 @@
         "httr",
         "jquerylib",
         "knitr",
-        "phangorn",
         "pillar",
         "plotly",
         "purrr",
@@ -48062,7 +48057,6 @@
         "ggplotify",
         "ggtree",
         "patchwork",
-        "phangorn",
         "pillar",
         "purrr",
         "tibble",
@@ -56413,7 +56407,6 @@
     "swamp": [
         "gplots"
     ],
-    "phangorn": [],
     "DiffCorr": [
         "multtest"
     ],
