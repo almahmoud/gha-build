@@ -813,7 +813,6 @@
         "drc",
         "pbkrtest"
     ],
-    "doseR": [],
     "dpeak": [],
     "drugTargetInteractions": [
         "ensembldb"
