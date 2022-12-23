@@ -1723,7 +1723,6 @@
         "SummarizedExperiment",
         "XVector",
         "assertive",
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
         "cellranger",
@@ -22410,7 +22409,6 @@
         "VariantAnnotation",
         "XVector",
         "assertive",
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
         "bamsignals",
@@ -39266,13 +39264,11 @@
         "tidyr"
     ],
     "assertive": [
-        "assertive.data",
         "assertive.data.uk",
         "assertive.data.us",
         "knitr",
         "stringr"
     ],
-    "assertive.data": [],
     "assertive.data.uk": [],
     "assertive.data.us": [],
     "doBy": [
