@@ -2711,7 +2711,6 @@
     ],
     "MetID": [],
     "mfa": [],
-    "MGFR": [],
     "mia": [
         "TreeSummarizedExperiment",
         "scater"
@@ -4036,9 +4035,7 @@
         "GenomicFeatures"
     ],
     "RVS": [],
-    "sampleClassifier": [
-        "MGFR"
-    ],
+    "sampleClassifier": [],
     "sangeranalyseR": [],
     "SBGNview": [
         "pathview"
