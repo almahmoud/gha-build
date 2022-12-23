@@ -70769,7 +70769,6 @@
         "S4Vectors",
         "ScaledMatrix",
         "dplyr",
-        "elasticnet",
         "futile.logger",
         "future",
         "future.apply",
@@ -98460,7 +98459,6 @@
         "ellipsis",
         "processx"
     ],
-    "elasticnet": [],
     "sparsepca": [
         "Matrix",
         "rsvd"
