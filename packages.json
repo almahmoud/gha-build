@@ -202,7 +202,6 @@
         "ensembldb"
     ],
     "BioNAR": [
-        "synaptome.data",
         "synaptome.db"
     ],
     "BioNERO": [],
@@ -2952,10 +2951,7 @@
         "car",
         "pbkrtest"
     ],
-    "synaptome.db": [
-        "synaptome.data"
-    ],
-    "synaptome.data": [],
+    "synaptome.db": [],
     "biscuiteerData": [],
     "pasilla": [
         "DEXSeq"
