@@ -2002,7 +2002,6 @@
     "HiContacts": [
         "GenomicInteractions",
         "Gviz",
-        "HiContactsData",
         "Hmisc",
         "VariantAnnotation",
         "biovizBase",
@@ -5092,7 +5091,6 @@
         "Hmisc",
         "viridis"
     ],
-    "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "pd.mapping50k.xba240": [
         "oligo"
