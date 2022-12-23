@@ -1156,7 +1156,6 @@
     ],
     "bnbc": [
         "AnnotationDbi",
-        "EBImage",
         "annotate",
         "genefilter",
         "rhdf5",
@@ -1418,9 +1417,7 @@
         "tidytree",
         "treeio"
     ],
-    "Cardinal": [
-        "EBImage"
-    ],
+    "Cardinal": [],
     "CARNIVAL": [],
     "casper": [
         "AnnotationDbi",
@@ -2373,7 +2370,6 @@
         "viridis"
     ],
     "CONFESS": [
-        "EBImage",
         "Hmisc",
         "contrast",
         "htmlTable",
@@ -2542,9 +2538,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "CRImage": [
-        "EBImage"
-    ],
+    "CRImage": [],
     "crisprBowtie": [
         "BSgenome",
         "GenomicAlignments",
@@ -2796,7 +2790,6 @@
     "cytoKernel": [],
     "cytomapper": [
         "DropletUtils",
-        "EBImage",
         "HDF5Array",
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -3498,7 +3491,6 @@
         "ShortRead",
         "biomaRt"
     ],
-    "EBImage": [],
     "EBSEA": [
         "AnnotationDbi",
         "DESeq2",
@@ -4250,9 +4242,7 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "FISHalyseR": [
-        "EBImage"
-    ],
+    "FISHalyseR": [],
     "fishpond": [
         "SingleCellExperiment"
     ],
@@ -4297,12 +4287,9 @@
     ],
     "flowBin": [],
     "flowcatchR": [
-        "EBImage",
         "plotly"
     ],
-    "flowCHIC": [
-        "EBImage"
-    ],
+    "flowCHIC": [],
     "flowCL": [
         "SPARQL"
     ],
@@ -5290,9 +5277,7 @@
     "HDF5Array": [
         "rhdf5"
     ],
-    "heatmaps": [
-        "EBImage"
-    ],
+    "heatmaps": [],
     "HelloRanges": [
         "AnnotationDbi",
         "BSgenome",
@@ -5569,7 +5554,6 @@
     "imageHTS": [
         "AnnotationDbi",
         "Category",
-        "EBImage",
         "GSEABase",
         "affy",
         "annotate",
@@ -5592,7 +5576,6 @@
     "imcRtools": [
         "DT",
         "DropletUtils",
-        "EBImage",
         "HDF5Array",
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -11076,7 +11059,6 @@
     "SimFFPE": [],
     "simpleSeg": [
         "DropletUtils",
-        "EBImage",
         "HDF5Array",
         "SingleCellExperiment",
         "SpatialExperiment",
@@ -11294,7 +11276,6 @@
         "rtracklayer"
     ],
     "sojourner": [
-        "EBImage",
         "mixtools",
         "plotly",
         "sampSurf"
@@ -11785,9 +11766,7 @@
     "switchde": [
         "SingleCellExperiment"
     ],
-    "synapsis": [
-        "EBImage"
-    ],
+    "synapsis": [],
     "synapter": [
         "MSnbase",
         "affy",
@@ -12802,9 +12781,7 @@
         "formattable",
         "rtracklayer"
     ],
-    "yamss": [
-        "EBImage"
-    ],
+    "yamss": [],
     "YAPSA": [
         "AnnotationDbi",
         "BSgenome",
