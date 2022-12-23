@@ -3249,7 +3249,6 @@
     "msImpute": [
         "scran"
     ],
-    "mslp": [],
     "msmsTests": [],
     "MSnID": [
         "AnnotationHub",
