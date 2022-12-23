@@ -1602,7 +1602,6 @@
         "GenomicFeatures"
     ],
     "GNET2": [],
-    "GOpro": [],
     "goseq": [
         "GenomicFeatures",
         "geneLenDataBase"
