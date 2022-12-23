@@ -11296,7 +11296,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "seqcombo": [],
     "SeqGate": [],
     "SeqGSEA": [
         "AnnotationDbi",
