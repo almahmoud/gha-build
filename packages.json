@@ -67,7 +67,6 @@
         "GSEABase",
         "annotate"
     ],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "AnnotationForge",
         "BSgenome",
