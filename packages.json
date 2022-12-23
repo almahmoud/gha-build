@@ -589,7 +589,6 @@
         "bsseq",
         "bumphunter",
         "dendextend",
-        "geneLenDataBase",
         "goseq",
         "lumi",
         "methylumi",
@@ -1715,9 +1714,7 @@
         "dendextend",
         "viridis"
     ],
-    "goseq": [
-        "geneLenDataBase"
-    ],
+    "goseq": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot",
@@ -1875,7 +1872,6 @@
     "ideal": [
         "GOstats",
         "dendextend",
-        "geneLenDataBase",
         "goseq",
         "heatmaply",
         "pcaExplorer",
@@ -3425,7 +3421,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
     "rgsepd": [
-        "geneLenDataBase",
         "goseq"
     ],
     "rhdf5": [],
@@ -3912,7 +3907,6 @@
     ],
     "SMITE": [
         "Hmisc",
-        "geneLenDataBase",
         "goseq",
         "viridis"
     ],
@@ -4620,7 +4614,6 @@
         "minfi",
         "rhdf5"
     ],
-    "geneLenDataBase": [],
     "spp": [],
     "BSgenome.Mmusculus.UCSC.mm9": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
