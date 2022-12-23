@@ -14206,7 +14206,6 @@
         "cowplot",
         "fgsea",
         "geneplotter",
-        "opencpu",
         "readr",
         "rhdf5",
         "tidyr",
@@ -23155,7 +23154,6 @@
         "fields",
         "viridis"
     ],
-    "opencpu": [],
     "C50": [
         "Cubist"
     ],
