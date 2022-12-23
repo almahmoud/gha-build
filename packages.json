@@ -30749,7 +30749,6 @@
         "ggtree",
         "gprofiler2",
         "gridExtra",
-        "grr",
         "highr",
         "hms",
         "homologene",
@@ -65670,7 +65669,6 @@
         "ggtree",
         "gprofiler2",
         "gridExtra",
-        "grr",
         "highr",
         "hms",
         "homologene",
@@ -111462,7 +111460,6 @@
         "viridisLite",
         "yaml"
     ],
-    "grr": [],
     "ComplexUpset": [
         "Matrix",
         "ggplot2",
