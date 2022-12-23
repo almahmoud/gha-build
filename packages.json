@@ -4427,7 +4427,6 @@
         "bsseq",
         "rtracklayer"
     ],
-    "dStruct": [],
     "Dune": [
         "gganimate",
         "tidyr"
