@@ -332,7 +332,6 @@
         "factoextra",
         "ggpubr"
     ],
-    "MSstatsShiny": [],
     "multicrispr": [],
     "multiHiCcompare": [
         "CGHcall",
