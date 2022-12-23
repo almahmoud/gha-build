@@ -5089,7 +5089,6 @@
         "yarn"
     ],
     "NeuCA": [],
-    "ngsReports": [],
     "nnSVG": [
         "DropletUtils",
         "HDF5Array",
