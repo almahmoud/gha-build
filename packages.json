@@ -17148,7 +17148,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "backbone",
         "bs4Dash",
         "bslib",
         "colourpicker",
@@ -52872,7 +52871,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "backbone": [],
     "bs4Dash": [
         "bslib",
         "fontawesome",
