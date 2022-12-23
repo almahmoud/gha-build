@@ -811,7 +811,6 @@
         "ggraph",
         "viridis"
     ],
-    "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
         "affy",
