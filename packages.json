@@ -29512,7 +29512,6 @@
         "htmlwidgets",
         "httr",
         "interp",
-        "inum",
         "jquerylib",
         "knitr",
         "latticeExtra",
@@ -36442,7 +36441,6 @@
         "htmlwidgets",
         "httr",
         "interp",
-        "inum",
         "jquerylib",
         "knitr",
         "latticeExtra",
@@ -60037,18 +60035,13 @@
     ],
     "InvariantCausalPrediction": [
         "glmnet",
-        "inum",
         "mboost",
         "partykit"
     ],
     "mboost": [
-        "inum",
         "partykit"
     ],
-    "partykit": [
-        "inum"
-    ],
-    "inum": [],
+    "partykit": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "Biostrings",
@@ -60725,7 +60718,6 @@
     ],
     "C50": [
         "Cubist",
-        "inum",
         "partykit",
         "reshape2",
         "stringr",
