@@ -1,0 +1,234 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   32f272bd..4d86fd4a  main       -> origin/main
+Updating 32f272bd..4d86fd4a
+Fast-forward
+ logs/run_ids/rstudio-binaries/rdist  | 2 ++
+ logs/run_ids/rstudio-binaries/signal | 2 ++
+ 2 files changed, 4 insertions(+)
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=psych
++ PKG=psych
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "psych"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  206k  100  206k    0     0   274k      0 --:--:-- --:--:-- --:--:--  274k
+built/
+built/mnormt/
+built/mnormt/libs/
+built/mnormt/libs/mnormt.so
+built/mnormt/NAMESPACE
+built/mnormt/DESCRIPTION
+built/mnormt/help/
+built/mnormt/help/paths.rds
+built/mnormt/help/mnormt.rdb
+built/mnormt/help/mnormt.rdx
+built/mnormt/help/aliases.rds
+built/mnormt/help/AnIndex
+built/mnormt/Meta/
+built/mnormt/Meta/package.rds
+built/mnormt/Meta/features.rds
+built/mnormt/Meta/hsearch.rds
+built/mnormt/Meta/links.rds
+built/mnormt/Meta/nsInfo.rds
+built/mnormt/Meta/Rd.rds
+built/mnormt/NEWS.Rd
+built/mnormt/CITATION
+built/mnormt/html/
+built/mnormt/html/00Index.html
+built/mnormt/html/R.css
+built/mnormt/INDEX
+built/mnormt/R/
+built/mnormt/R/mnormt.rdb
+built/mnormt/R/mnormt.rdx
+built/mnormt/R/mnormt
+built/mnormt/notice-Genz
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 3364k    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 23 3364k   23  776k    0     0   612k      0  0:00:05  0:00:01  0:00:04  612k 74 3364k   74 2513k    0     0  1111k      0  0:00:03  0:00:02  0:00:01 1111k100 3364k  100 3364k    0     0  1287k      0  0:00:02  0:00:02 --:--:-- 1287k
+built/
+built/lattice/
+built/lattice/libs/
+built/lattice/libs/lattice.so
+built/lattice/NEWS
+built/lattice/NAMESPACE
+built/lattice/DESCRIPTION
+built/lattice/help/
+built/lattice/help/paths.rds
+built/lattice/help/lattice.rdx
+built/lattice/help/lattice.rdb
+built/lattice/help/aliases.rds
+built/lattice/help/AnIndex
+built/lattice/data/
+built/lattice/data/Rdata.rds
+built/lattice/data/Rdata.rdb
+built/lattice/data/Rdata.rdx
+built/lattice/Meta/
+built/lattice/Meta/package.rds
+built/lattice/Meta/demo.rds
+built/lattice/Meta/features.rds
+built/lattice/Meta/hsearch.rds
+built/lattice/Meta/links.rds
+built/lattice/Meta/nsInfo.rds
+built/lattice/Meta/Rd.rds
+built/lattice/Meta/data.rds
+built/lattice/po/
+built/lattice/po/it/
+built/lattice/po/it/LC_MESSAGES/
+built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/lattice/po/fr/
+built/lattice/po/fr/LC_MESSAGES/
+built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/lattice/po/ko/
+built/lattice/po/ko/LC_MESSAGES/
+built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/lattice/po/pl/
+built/lattice/po/pl/LC_MESSAGES/
+built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/lattice/po/en@quot/
+built/lattice/po/en@quot/LC_MESSAGES/
+built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/lattice/po/de/
+built/lattice/po/de/LC_MESSAGES/
+built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/lattice/CITATION
+built/lattice/html/
+built/lattice/html/00Index.html
+built/lattice/html/R.css
+built/lattice/INDEX
+built/lattice/R/
+built/lattice/R/lattice
+built/lattice/R/lattice.rdx
+built/lattice/R/lattice.rdb
+built/lattice/demo/
+built/lattice/demo/panel.R
+built/lattice/demo/intervals.R
+built/lattice/demo/labels.R
+built/lattice/demo/lattice.R
+built/nlme/
+built/nlme/libs/
+built/nlme/libs/nlme.so
+built/nlme/NAMESPACE
+built/nlme/DESCRIPTION
+built/nlme/help/
+built/nlme/help/nlme.rdb
+built/nlme/help/paths.rds
+built/nlme/help/aliases.rds
+built/nlme/help/nlme.rdx
+built/nlme/help/AnIndex
+built/nlme/data/
+built/nlme/data/Rdata.rds
+built/nlme/data/Rdata.rdb
+built/nlme/data/Rdata.rdx
+built/nlme/Meta/
+built/nlme/Meta/package.rds
+built/nlme/Meta/features.rds
+built/nlme/Meta/hsearch.rds
+built/nlme/Meta/links.rds
+built/nlme/Meta/nsInfo.rds
+built/nlme/Meta/Rd.rds
+built/nlme/Meta/data.rds
+built/nlme/scripts/
+built/nlme/scripts/ch08.R
+built/nlme/scripts/runme.R
+built/nlme/scripts/ch02.R
+built/nlme/scripts/ch05.R
+built/nlme/scripts/sims.rda
+built/nlme/scripts/ch03.R
+built/nlme/scripts/ch01.R
+built/nlme/scripts/ch06.R
+built/nlme/scripts/ch04.R
+built/nlme/po/
+built/nlme/po/fr/
+built/nlme/po/fr/LC_MESSAGES/
+built/nlme/po/fr/LC_MESSAGES/nlme.mo
+built/nlme/po/fr/LC_MESSAGES/R-nlme.mo
+built/nlme/po/ko/
+built/nlme/po/ko/LC_MESSAGES/
+built/nlme/po/ko/LC_MESSAGES/nlme.mo
+built/nlme/po/ko/LC_MESSAGES/R-nlme.mo
+built/nlme/po/pl/
+built/nlme/po/pl/LC_MESSAGES/
+built/nlme/po/pl/LC_MESSAGES/nlme.mo
+built/nlme/po/pl/LC_MESSAGES/R-nlme.mo
+built/nlme/po/en@quot/
+built/nlme/po/en@quot/LC_MESSAGES/
+built/nlme/po/en@quot/LC_MESSAGES/nlme.mo
+built/nlme/po/en@quot/LC_MESSAGES/R-nlme.mo
+built/nlme/po/de/
+built/nlme/po/de/LC_MESSAGES/
+built/nlme/po/de/LC_MESSAGES/nlme.mo
+built/nlme/po/de/LC_MESSAGES/R-nlme.mo
+built/nlme/CITATION
+built/nlme/html/
+built/nlme/html/00Index.html
+built/nlme/html/R.css
+built/nlme/INDEX
+built/nlme/R/
+built/nlme/R/nlme.rdb
+built/nlme/R/nlme
+built/nlme/R/nlme.rdx
+built/nlme/mlbook/
+built/nlme/mlbook/README
+built/nlme/mlbook/ch05.R
+built/nlme/mlbook/ch04.R
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''psych'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv mnormt_2.1.1_R_x86_64-pc-linux-gnu.tar.gz psych_2.2.9_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/psych
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'psych'
+also installing the dependency ‘mnormt’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/mnormt_2.1.1.tar.gz'
+Content type 'binary/octet-stream' length 212500 bytes (207 KB)
+==================================================
+downloaded 207 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/psych_2.2.9.tar.gz'
+Content type 'binary/octet-stream' length 3816081 bytes (3.6 MB)
+==================================================
+downloaded 3.6 MB
+
+* installing *binary* package ‘mnormt’ ...
+* ‘mnormt’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mnormt’ as ‘mnormt_2.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mnormt)
+* installing *binary* package ‘psych’ ...
+* ‘psych’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘psych’ as ‘psych_2.2.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (psych)
+
+The downloaded source packages are in
+	‘/tmp/RtmpDxsdsi/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m10.283s
+user	0m4.733s
+sys	0m0.460s
