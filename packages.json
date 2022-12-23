@@ -2843,7 +2843,6 @@
     ],
     "clusterExperiment": [
         "AnnotationDbi",
-        "ClusterR",
         "HDF5Array",
         "NMF",
         "RNeXML",
@@ -8932,7 +8931,6 @@
         "waldo"
     ],
     "mbkmeans": [
-        "ClusterR",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "benchmarkme",
@@ -10349,7 +10347,6 @@
     ],
     "moanin": [
         "AnnotationDbi",
-        "ClusterR",
         "GO.db",
         "SummarizedExperiment",
         "topGO",
@@ -11314,7 +11311,6 @@
     ],
     "netSmooth": [
         "AnnotationDbi",
-        "ClusterR",
         "HDF5Array",
         "NMF",
         "RNeXML",
@@ -19138,7 +19134,6 @@
         "RNeXML",
         "tidyr"
     ],
-    "ClusterR": [],
     "benchmarkme": [
         "benchmarkmeData"
     ],
