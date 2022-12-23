@@ -18277,7 +18277,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "knitr",
-        "ontologyPlot",
         "rmarkdown",
         "shiny"
     ],
@@ -19532,7 +19531,6 @@
         "interactiveDisplayBase",
         "knitr",
         "ontoProc",
-        "ontologyPlot",
         "rmarkdown",
         "shiny"
     ],
@@ -26610,7 +26608,6 @@
         "interactiveDisplayBase",
         "knitr",
         "ontoProc",
-        "ontologyPlot",
         "org.Mm.eg.db",
         "reshape2",
         "restfulSE",
@@ -31490,7 +31487,6 @@
         "tidyr"
     ],
     "flatxml": [],
-    "ontologyPlot": [],
     "AICcmodavg": [
         "lme4",
         "nloptr",
