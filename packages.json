@@ -1182,7 +1182,6 @@
     ],
     "BioNERO": [
         "AnnotationDbi",
-        "GENIE3",
         "GO.db",
         "Hmisc",
         "WGCNA",
@@ -1539,7 +1538,6 @@
         "BSgenome",
         "BioNERO",
         "BiocFileCache",
-        "GENIE3",
         "GGally",
         "GO.db",
         "GenomicAlignments",
@@ -5375,7 +5373,6 @@
         "org.Rn.eg.db",
         "rtracklayer"
     ],
-    "GENIE3": [],
     "genomation": [
         "BSgenome",
         "GenomicAlignments",
@@ -7949,9 +7946,7 @@
         "profvis",
         "testthat"
     ],
-    "MetNet": [
-        "GENIE3"
-    ],
+    "MetNet": [],
     "mfa": [
         "GGally",
         "ggmcmc"

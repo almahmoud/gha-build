@@ -1,0 +1,97 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   1bb3cdf2..c7eb9662  main       -> origin/main
+Updating 1bb3cdf2..c7eb9662
+Fast-forward
+ lists/DataVisualizations                           |    2 +-
+ lists/concaveman                                   |    2 +-
+ lists/rfaRm                                        |    2 +-
+ logs/run_ids/rstudio-binaries/flowSpecs            |    2 +
+ logs/run_ids/rstudio-binaries/ggforce              |    2 +
+ .../rstudio-binaries/binaries/DataVisualizations   |    1 +
+ logs/sizes/rstudio-binaries/binaries/rfaRm         |    1 +
+ .../rstudio-binaries/libraries/DataVisualizations  |    1 +
+ logs/sizes/rstudio-binaries/libraries/rfaRm        |    1 +
+ logs/times/rstudio-binary/DataVisualizations       | 1702 ++++++++++++++++++++
+ logs/times/rstudio-binary/rfaRm                    |  980 +++++++++++
+ packages.json                                      |   20 +-
+ 12 files changed, 2695 insertions(+), 21 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/flowSpecs
+ create mode 100644 logs/run_ids/rstudio-binaries/ggforce
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/DataVisualizations
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/rfaRm
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/DataVisualizations
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/rfaRm
+ create mode 100644 logs/times/rstudio-binary/DataVisualizations
+ create mode 100644 logs/times/rstudio-binary/rfaRm
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=GENIE3
++ PKG=GENIE3
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "GENIE3"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency reshape2 is already found.
+Dependency dplyr is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''GENIE3'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv GENIE3_1.20.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/GENIE3
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'GENIE3'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/GENIE3_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 247085 bytes (241 KB)
+==================================================
+downloaded 241 KB
+
+* installing *source* package ‘GENIE3’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c GENIE3.c -o GENIE3.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o GENIE3.so GENIE3.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-GENIE3/00new/GENIE3/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘GENIE3’ with signature ‘"SummarizedExperiment"’: no definition for class “SummarizedExperiment”
+in method for ‘GENIE3’ with signature ‘"ExpressionSet"’: no definition for class “ExpressionSet”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GENIE3’ as ‘GENIE3_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GENIE3)
+
+The downloaded source packages are in
+	‘/tmp/RtmpaWVhwJ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m9.572s
+user	0m6.191s
+sys	0m0.657s
