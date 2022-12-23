@@ -2041,7 +2041,6 @@
         "modelr",
         "motifmatchr",
         "msigdbr",
-        "nabor",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "pillar",
@@ -7745,7 +7744,6 @@
         "jquerylib",
         "knitr",
         "miniUI",
-        "nabor",
         "pillar",
         "plotly",
         "progress",
@@ -53526,7 +53524,6 @@
         "restfulr",
         "rtracklayer"
     ],
-    "nabor": [],
     "babelgene": [
         "dplyr",
         "pillar",
