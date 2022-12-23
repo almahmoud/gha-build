@@ -3651,7 +3651,6 @@
         "ROCR",
         "ROI.plugin.lpsolve",
         "RSQLite",
-        "Rcgmin",
         "RcppEigen",
         "RcppML",
         "RcppZiggurat",
@@ -63870,7 +63869,6 @@
         "GenomeInfoDb",
         "IRanges",
         "ROI.plugin.lpsolve",
-        "Rcgmin",
         "Rvmmin",
         "S4Vectors",
         "XVector",
@@ -63907,7 +63905,6 @@
         "vctrs"
     ],
     "optimr": [
-        "Rcgmin",
         "Rvmmin"
     ],
     "detectseparation": [
@@ -63920,7 +63917,6 @@
     "softImpute": [],
     "ROI.plugin.lpsolve": [],
     "Rvmmin": [],
-    "Rcgmin": [],
     "mitools": [],
     "sjmisc": [
         "dplyr",
