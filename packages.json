@@ -11875,7 +11875,6 @@
         "RSQLite",
         "XVector",
         "annotate",
-        "bnstruct",
         "dplyr",
         "edgeR",
         "genefilter",
@@ -52496,7 +52495,6 @@
         "tibble"
     ],
     "swamp": [],
-    "bnstruct": [],
     "phangorn": [],
     "DiffCorr": [
         "multtest"
