@@ -20068,7 +20068,6 @@
         "rgl",
         "rmarkdown",
         "rtracklayer",
-        "sSeq",
         "sass",
         "stringr",
         "survival",
@@ -32851,7 +32850,6 @@
         "recipes",
         "rematch2",
         "reshape2",
-        "sSeq",
         "stringr",
         "survival",
         "testthat",
@@ -53005,7 +53003,6 @@
         "segmented",
         "seqinr"
     ],
-    "sSeq": [],
     "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
