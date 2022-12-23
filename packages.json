@@ -24205,7 +24205,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "MLmetrics",
         "SpidermiR",
         "ggplot2",
         "graphite",
@@ -29994,7 +29993,6 @@
         "dplyr",
         "tidyr"
     ],
-    "MLmetrics": [],
     "rsample": [
         "dplyr",
         "tidyr"
