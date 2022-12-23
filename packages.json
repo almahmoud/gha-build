@@ -169,7 +169,6 @@
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
-    "BEAT": [],
     "benchdamic": [
         "ANCOMBC",
         "lmerTest",
