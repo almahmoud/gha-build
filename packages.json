@@ -2866,7 +2866,6 @@
     "ORFik": [
         "fst"
     ],
-    "Organism.dplyr": [],
     "OrganismDbi": [],
     "orthogene": [
         "car",
@@ -4226,7 +4225,6 @@
     "txcutr": [],
     "tximeta": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener"
     ],
     "UMI4Cats": [
