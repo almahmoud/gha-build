@@ -7656,7 +7656,6 @@
     ],
     "epistasisGA": [
         "Hmisc",
-        "batchtools",
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
@@ -11221,7 +11220,6 @@
         "KEGGREST",
         "Rsamtools",
         "SummarizedExperiment",
-        "batchtools",
         "biomaRt",
         "cleanUpdTSeq",
         "dbplyr",
@@ -19079,7 +19077,6 @@
     ],
     "Rcwl": [
         "DiagrammeR",
-        "batchtools",
         "dplyr",
         "ggplot2",
         "htmlwidgets",
@@ -19095,7 +19092,6 @@
         "BiocFileCache",
         "DiagrammeR",
         "Rcwl",
-        "batchtools",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -27856,7 +27852,6 @@
         "rmarkdown",
         "shiny"
     ],
-    "batchtools": [],
     "qgraph": [
         "Hmisc",
         "ggplot2",
