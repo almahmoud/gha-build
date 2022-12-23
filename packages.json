@@ -8817,7 +8817,6 @@
         "progress",
         "readr",
         "rmarkdown",
-        "rsparse",
         "rvest",
         "selectr",
         "stringr",
@@ -13885,7 +13884,6 @@
         "progress",
         "readr",
         "rmarkdown",
-        "rsparse",
         "rvest",
         "selectr",
         "stringr",
@@ -36784,7 +36782,6 @@
         "progress",
         "readr",
         "rmarkdown",
-        "rsparse",
         "stringr",
         "syuzhet",
         "tensorflow",
@@ -37157,7 +37154,6 @@
         "progress",
         "readr",
         "rmarkdown",
-        "rsparse",
         "rvest",
         "scater",
         "scuttle",
@@ -40942,8 +40938,7 @@
         "tibble"
     ],
     "text2vec": [
-        "mlapi",
-        "rsparse"
+        "mlapi"
     ],
     "textstem": [
         "dplyr",
@@ -40953,7 +40948,6 @@
         "tibble",
         "tidyr"
     ],
-    "rsparse": [],
     "mlapi": [],
     "lexicon": [
         "dplyr",
