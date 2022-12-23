@@ -2210,7 +2210,6 @@
         "rsq",
         "rtracklayer"
     ],
-    "decoupleR": [],
     "DeepBlueR": [
         "rtracklayer"
     ],
@@ -2563,7 +2562,6 @@
         "annotate",
         "car",
         "coin",
-        "decoupleR",
         "dorothea",
         "easierData",
         "geneplotter",
@@ -6689,9 +6687,7 @@
         "treeio",
         "viridis"
     ],
-    "progeny": [
-        "decoupleR"
-    ],
+    "progeny": [],
     "projectR": [
         "CoGAPS",
         "rhdf5",
