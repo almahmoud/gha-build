@@ -6429,7 +6429,6 @@
     "scMAGeCK": [
         "Seurat"
     ],
-    "scmap": [],
     "scMerge": [
         "Hmisc",
         "M3Drop",
