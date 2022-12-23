@@ -3847,7 +3847,6 @@
         "DESeq2",
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
     ],
-    "rmspc": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "Hmisc",
