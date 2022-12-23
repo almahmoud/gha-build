@@ -2426,7 +2426,6 @@
         "survminer",
         "viridis"
     ],
-    "gemini": [],
     "genbankr": [
         "BSgenome",
         "GenomicFeatures",
