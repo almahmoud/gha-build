@@ -2479,7 +2479,6 @@
         "ggdendro",
         "ggplot2",
         "ggsci",
-        "np",
         "superheat",
         "tibble"
     ],
@@ -31372,13 +31371,11 @@
     ],
     "drtmle": [
         "SuperLearner",
-        "cvAUC",
-        "np"
+        "cvAUC"
     ],
     "SuperLearner": [
         "cvAUC"
     ],
-    "np": [],
     "cvAUC": [],
     "biscuiteerData": [
         "AnnotationDbi",
