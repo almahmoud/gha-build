@@ -1276,18 +1276,13 @@
     ],
     "stJoincount": [],
     "strandCheckR": [],
-    "StructuralVariantAnnotation": [],
     "survtype": [
         "ggpubr",
         "rstatix",
         "survminer"
     ],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "synergyfinder": [
         "drc"
     ],
