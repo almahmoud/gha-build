@@ -8883,7 +8883,6 @@
         "qvalue",
         "rtracklayer"
     ],
-    "MethylMix": [],
     "methylPipe": [
         "AnnotationDbi",
         "BSgenome",
