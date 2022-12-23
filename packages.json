@@ -4573,7 +4573,6 @@
         "prettyunits",
         "progress",
         "purrr",
-        "rJava",
         "rappdirs",
         "rlang",
         "rmarkdown",
@@ -11714,7 +11713,6 @@
         "proxy",
         "purrr",
         "quantreg",
-        "rJava",
         "ranger",
         "rappdirs",
         "readbitmap",
@@ -14641,8 +14639,7 @@
         "rama"
     ],
     "BridgeDbR": [
-        "curl",
-        "rJava"
+        "curl"
     ],
     "BrowserViz": [
         "BiocGenerics",
@@ -22079,7 +22076,6 @@
         "prettyunits",
         "progress",
         "purrr",
-        "rJava",
         "rappdirs",
         "rlang",
         "stringi",
@@ -32762,7 +32758,6 @@
         "ps",
         "purrr",
         "quantreg",
-        "rJava",
         "randomForest",
         "rappdirs",
         "recipes",
@@ -33594,7 +33589,6 @@
         "prettyunits",
         "progress",
         "quantmod",
-        "rJava",
         "readr",
         "registry",
         "reshape2",
@@ -34592,7 +34586,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "rJava",
         "rappdirs",
         "rcdk",
         "rcdklibs",
@@ -44648,7 +44641,6 @@
         "progress",
         "purrr",
         "qvalue",
-        "rJava",
         "rappdirs",
         "readr",
         "reshape2",
@@ -46636,7 +46628,6 @@
         "lifecycle",
         "magrittr",
         "nlme",
-        "rJava",
         "rlang",
         "stringi",
         "stringr",
@@ -50647,8 +50638,7 @@
     "gaggle": [
         "BiocGenerics",
         "RUnit",
-        "graph",
-        "rJava"
+        "graph"
     ],
     "GAprediction": [
         "Matrix",
@@ -50854,7 +50844,6 @@
         "ps",
         "purrr",
         "quantreg",
-        "rJava",
         "randomForest",
         "rappdirs",
         "recipes",
@@ -54326,7 +54315,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "rJava",
         "rappdirs",
         "rcdk",
         "rcdklibs",
@@ -75329,9 +75317,7 @@
         "viridisLite",
         "withr"
     ],
-    "metabinR": [
-        "rJava"
-    ],
+    "metabinR": [],
     "MetaboAnnotation": [
         "AnnotationFilter",
         "BH",
@@ -82193,7 +82179,6 @@
         "purrr",
         "quantreg",
         "qvalue",
-        "rJava",
         "randomForest",
         "randomcoloR",
         "rappdirs",
@@ -98601,7 +98586,6 @@
         "plyr",
         "prettyunits",
         "progress",
-        "rJava",
         "rappdirs",
         "readr",
         "rjson",
@@ -105315,7 +105299,6 @@
         "prettyunits",
         "progress",
         "purrr",
-        "rJava",
         "rappdirs",
         "rcdk",
         "rcdklibs",
@@ -109835,7 +109818,6 @@
         "pkgconfig",
         "plogr",
         "png",
-        "rJava",
         "rcdk",
         "rcdklibs",
         "rjson",
@@ -112437,7 +112419,6 @@
         "formatR",
         "futile.logger",
         "lambda.r",
-        "rJava",
         "seqbias",
         "snow",
         "zlibbioc"
@@ -113060,7 +113041,6 @@
         "pillar",
         "pkgconfig",
         "plyr",
-        "rJava",
         "restfulr",
         "rjson",
         "rlang",
@@ -115167,7 +115147,6 @@
         "preprocessCore",
         "promises",
         "purrr",
-        "rJava",
         "rappdirs",
         "rcdk",
         "rcdklibs",
@@ -115200,7 +115179,6 @@
     ],
     "rmelting": [
         "Rdpack",
-        "rJava",
         "rbibutils"
     ],
     "Rmmquant": [
@@ -119591,7 +119569,6 @@
         "bitops",
         "cluster",
         "crayon",
-        "rJava",
         "zlibbioc"
     ],
     "satuRn": [
@@ -125491,7 +125468,6 @@
         "XVector",
         "bitops",
         "crayon",
-        "rJava",
         "zlibbioc"
     ],
     "SemDist": [
@@ -145981,7 +145957,6 @@
         "purrr",
         "qdapRegex",
         "quanteda",
-        "rJava",
         "ragg",
         "rappdirs",
         "rcdk",
@@ -154791,7 +154766,6 @@
         "MASS",
         "lpSolve"
     ],
-    "rJava": [],
     "svMisc": [],
     "sendmailR": [
         "base64enc"
@@ -157993,7 +157967,6 @@
         "vctrs"
     ],
     "xlsx": [
-        "rJava",
         "xlsxjars"
     ],
     "readbitmap": [
@@ -158013,9 +157986,7 @@
         "zoo"
     ],
     "sm": [],
-    "xlsxjars": [
-        "rJava"
-    ],
+    "xlsxjars": [],
     "TH.data": [
         "MASS",
         "Matrix",
@@ -163869,7 +163840,6 @@
         "RWekajars",
         "digest",
         "entropy",
-        "rJava",
         "randomForest"
     ],
     "arm": [
@@ -163917,8 +163887,7 @@
         "Rcpp"
     ],
     "RWeka": [
-        "RWekajars",
-        "rJava"
+        "RWekajars"
     ],
     "MSQC": [
         "R6",
@@ -163953,9 +163922,7 @@
         "yaml"
     ],
     "praznik": [],
-    "RWekajars": [
-        "rJava"
-    ],
+    "RWekajars": [],
     "DAPARdata": [
         "BH",
         "Biobase",
@@ -164295,7 +164262,6 @@
         "iterators",
         "itertools",
         "png",
-        "rJava",
         "rcdklibs"
     ],
     "webchem": [
@@ -164329,9 +164295,7 @@
         "xml2"
     ],
     "PRROC": [],
-    "rcdklibs": [
-        "rJava"
-    ],
+    "rcdklibs": [],
     "fingerprint": [],
     "text2vec": [
         "Matrix",
@@ -169840,7 +169804,6 @@
         "pillar",
         "pkgconfig",
         "promises",
-        "rJava",
         "rappdirs",
         "rlang",
         "sass",
