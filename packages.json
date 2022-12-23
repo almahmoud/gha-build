@@ -904,7 +904,6 @@
         "heatmaply",
         "viridis"
     ],
-    "DEGreport": [],
     "DelayedTensor": [
         "HDF5Array",
         "rhdf5"
@@ -1708,9 +1707,7 @@
         "DEXSeq",
         "tximeta"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [
         "oligo",
         "pd.mapping50k.xba240"
