@@ -1624,7 +1624,6 @@
         "drc",
         "pbkrtest"
     ],
-    "gscreend": [],
     "GSEABenchmarkeR": [
         "EnrichmentBrowser",
         "ExperimentHub"
