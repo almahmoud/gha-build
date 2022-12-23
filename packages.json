@@ -11280,7 +11280,6 @@
         "DT"
     ],
     "ssviz": [],
-    "stageR": [],
     "STAN": [
         "AnnotationDbi",
         "BSgenome",
