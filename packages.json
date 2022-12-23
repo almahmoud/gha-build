@@ -6626,7 +6626,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "GeneRegionScan": [],
     "GENESIS": [
         "GWASTools",
         "SeqArray",
