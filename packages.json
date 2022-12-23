@@ -9284,7 +9284,6 @@
         "GetoptLong",
         "IRanges",
         "doParallel",
-        "eulerr",
         "httr",
         "irlba",
         "knitr",
@@ -45410,7 +45409,6 @@
         "UpSetR",
         "XVector",
         "cowplot",
-        "eulerr",
         "ggplot2",
         "ggplotify",
         "mgcv",
@@ -57753,7 +57751,6 @@
         "tidyselect"
     ],
     "skmeans": [],
-    "eulerr": [],
     "cobs": [
         "MatrixModels",
         "quantreg",
