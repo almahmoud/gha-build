@@ -1490,7 +1490,6 @@
         "bumphunter"
     ],
     "MinimumDistance": [
-        "BSgenome.Hsapiens.UCSC.hg18",
         "VanillaICE"
     ],
     "MIRA": [],
@@ -2542,9 +2541,7 @@
         "text2vec",
         "ttgsea"
     ],
-    "VanillaICE": [
-        "BSgenome.Hsapiens.UCSC.hg18"
-    ],
+    "VanillaICE": [],
     "variancePartition": [],
     "VariantAnnotation": [],
     "VariantFiltering": [
@@ -2756,7 +2753,6 @@
         "ExperimentHubData",
         "OrganismDbi"
     ],
-    "BSgenome.Hsapiens.UCSC.hg18": [],
     "deconstructSigs": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
