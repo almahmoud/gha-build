@@ -62782,7 +62782,6 @@
         "Matrix",
         "MatrixGenerics",
         "MultiAssayExperiment",
-        "NISTunits",
         "RCurl",
         "S4Vectors",
         "SummarizedExperiment",
@@ -68161,7 +68160,6 @@
         "Matrix",
         "MatrixGenerics",
         "MultiAssayExperiment",
-        "NISTunits",
         "RCurl",
         "S4Vectors",
         "SummarizedExperiment",
@@ -93784,7 +93782,6 @@
         "Matrix",
         "MatrixGenerics",
         "MultiAssayExperiment",
-        "NISTunits",
         "PharmacoGx",
         "RCurl",
         "Rmisc",
@@ -107151,15 +107148,11 @@
         "curl"
     ],
     "magicaxis": [
-        "NISTunits",
         "celestial",
         "mapproj",
         "sm"
     ],
-    "celestial": [
-        "NISTunits"
-    ],
-    "NISTunits": [],
+    "celestial": [],
     "PMCMRplus": [
         "BWStest",
         "Rmpfr",
