@@ -71285,7 +71285,6 @@
         "IRanges",
         "MatrixGenerics",
         "RcppCCTZ",
-        "RcppSpdlog",
         "S4Vectors",
         "nanotime",
         "spdl",
@@ -87617,17 +87616,13 @@
     ],
     "tiledb": [
         "RcppCCTZ",
-        "RcppSpdlog",
         "nanotime",
         "spdl"
     ],
     "nanotime": [
         "RcppCCTZ"
     ],
-    "spdl": [
-        "RcppSpdlog"
-    ],
-    "RcppSpdlog": [],
+    "spdl": [],
     "RcppCCTZ": [],
     "FreqProf": [
         "bslib",
