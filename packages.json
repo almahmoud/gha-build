@@ -1807,7 +1807,6 @@
         "DESeq2",
         "geneplotter"
     ],
-    "EBSeqHMM": [],
     "EDASeq": [
         "GenomicFeatures"
     ],
