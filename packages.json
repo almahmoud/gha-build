@@ -416,7 +416,6 @@
         "pRoloc",
         "pRolocdata"
     ],
-    "barcodetrackR": [],
     "basecallQC": [
         "ShortRead"
     ],
