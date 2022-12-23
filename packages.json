@@ -668,8 +668,7 @@
         "gwascat"
     ],
     "CircSeqAlignTk": [
-        "Rhisat2",
-        "SGSeq"
+        "Rhisat2"
     ],
     "CiteFuse": [
         "ggraph",
@@ -1349,7 +1348,6 @@
         "rhdf5"
     ],
     "EventPointer": [
-        "SGSeq",
         "rhdf5"
     ],
     "EWCE": [
@@ -3344,9 +3342,7 @@
         "goseq"
     ],
     "rhdf5": [],
-    "Rhisat2": [
-        "SGSeq"
-    ],
+    "Rhisat2": [],
     "RiboCrypt": [
         "ORFik",
         "fst"
@@ -3689,7 +3685,6 @@
     "SeqGSEA": [],
     "sesame": [],
     "SEtools": [],
-    "SGSeq": [],
     "shinyepico": [
         "HDF5Array",
         "dendextend",
