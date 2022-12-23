@@ -1967,7 +1967,6 @@
     "DeepPINCS": [
         "DiagrammeR",
         "rcdk",
-        "textclean",
         "textstem",
         "ttgsea",
         "viridis"
@@ -2862,7 +2861,6 @@
     ],
     "fobitools": [
         "ggraph",
-        "textclean",
         "viridis"
     ],
     "FoldGO": [
@@ -3118,7 +3116,6 @@
         "DeepPINCS",
         "DiagrammeR",
         "rcdk",
-        "textclean",
         "textstem",
         "ttgsea",
         "viridis"
@@ -7989,7 +7986,6 @@
     ],
     "ttgsea": [
         "DiagrammeR",
-        "textclean",
         "textstem",
         "viridis"
     ],
@@ -8084,7 +8080,6 @@
         "rcdk",
         "scater",
         "scuttle",
-        "textclean",
         "textstem",
         "ttgsea",
         "viridis"
@@ -8180,7 +8175,6 @@
         "msigdb",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "textclean",
         "textstem",
         "viridis"
     ],
@@ -8723,10 +8717,7 @@
         "lme4"
     ],
     "rcdk": [],
-    "textstem": [
-        "textclean"
-    ],
-    "textclean": [],
+    "textstem": [],
     "VIM": [
         "car",
         "lme4",
