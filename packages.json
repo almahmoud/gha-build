@@ -61,7 +61,6 @@
         "VariantAnnotation"
     ],
     "appreci8R": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "COSMIC.67",
         "Homo.sapiens",
         "MafDb.1Kgenomes.phase3.hs37d5",
@@ -99,7 +98,6 @@
     ],
     "ASSIGN": [],
     "ATACCoGAPS": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "Homo.sapiens",
         "Mus.musculus",
         "OrganismDbi",
@@ -231,7 +229,6 @@
         "DSS"
     ],
     "brainflowprobes": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFiles",
         "GenomicState",
         "OrganismDbi",
@@ -366,9 +363,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ChIPComp": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "ChIPComp": [],
     "chipenrich": [],
     "ChIPexoQual": [
         "VariantAnnotation",
@@ -406,7 +401,6 @@
         "ensembldb"
     ],
     "circRNAprofiler": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "VariantAnnotation",
         "gwascat"
     ],
@@ -445,9 +439,7 @@
     "COCOA": [
         "MIRA"
     ],
-    "CODEX": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "CODEX": [],
     "cogeqc": [],
     "Cogito": [
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
@@ -619,7 +611,6 @@
     ],
     "DEComplexDisease": [],
     "decompTumor2Sig": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation"
     ],
@@ -1133,7 +1124,6 @@
         "ensembldb"
     ],
     "HiLDA": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "hiReadsProcessor": [],
@@ -1156,7 +1146,6 @@
         "minfi"
     ],
     "iCNV": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "CODEX"
     ],
     "ideal": [
@@ -1240,7 +1229,6 @@
         "ensembldb"
     ],
     "katdetectr": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "VariantAnnotation"
     ],
@@ -1291,7 +1279,6 @@
     ],
     "MACSr": [],
     "MADSEQ": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "VariantAnnotation"
     ],
     "MAGAR": [
@@ -1620,7 +1607,6 @@
         "variancePartition"
     ],
     "musicatk": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "FactoMineR",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -1925,14 +1911,11 @@
     ],
     "RadioGx": [],
     "RareVariantVis": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "phastCons100way.UCSC.hg19"
     ],
-    "RCAS": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "RCAS": [],
     "rCGH": [
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -2162,9 +2145,7 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "SCOPE": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "SCOPE": [],
     "scoreInvHap": [
         "VariantAnnotation"
     ],
@@ -2200,7 +2181,6 @@
         "enrichplot"
     ],
     "selectKSigs": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "HiLDA",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
@@ -2470,9 +2450,7 @@
     "TraRe": [
         "vbsr"
     ],
-    "traseR": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "traseR": [],
     "Travel": [],
     "traviz": [],
     "treekoR": [
@@ -2483,7 +2461,6 @@
         "rstatix"
     ],
     "trena": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38"
     ],
@@ -2517,7 +2494,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "uncoverappLib": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
@@ -2592,7 +2568,6 @@
         "PharmacoGx"
     ],
     "YAPSA": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "OrganismDbi",
         "SomaticSignatures",
         "VariantAnnotation",
@@ -2619,7 +2594,6 @@
     "adductData": [],
     "curatedTCGAData": [],
     "ReorderCluster": [],
-    "BSgenome.Hsapiens.UCSC.hg19": [],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [],
     "Homo.sapiens": [
         "OrganismDbi",
@@ -2750,9 +2724,7 @@
         "ExperimentHubData",
         "OrganismDbi"
     ],
-    "deconstructSigs": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "deconstructSigs": [],
     "mppa": [],
     "RcmdrMisc": [
         "car"
