@@ -1839,7 +1839,6 @@
         "ensembldb",
         "viridis"
     ],
-    "ggmsa": [],
     "ggspavis": [
         "DropletUtils",
         "HDF5Array",
