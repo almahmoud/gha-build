@@ -1,0 +1,283 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   d8661707..eaf943bd  main       -> origin/main
+Updating d8661707..eaf943bd
+Fast-forward
+ lists/geometry                               | 2 +-
+ logs/run_ids/rstudio-binaries/MSstatsConvert | 2 ++
+ logs/run_ids/rstudio-binaries/NanoStringDiff | 2 ++
+ logs/run_ids/rstudio-binaries/PSCBS          | 2 ++
+ logs/run_ids/rstudio-binaries/mzID           | 2 ++
+ logs/run_ids/rstudio-binaries/penalized      | 2 ++
+ packages.json                                | 9 +--------
+ 7 files changed, 12 insertions(+), 9 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/PSCBS
+ create mode 100644 logs/run_ids/rstudio-binaries/mzID
+ create mode 100644 logs/run_ids/rstudio-binaries/penalized
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=PMCMRplus
++ PKG=PMCMRplus
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "PMCMRplus"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency mvtnorm is already found.
+Dependency multcompView is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4 1826k    4 77320    0     0   133k      0  0:00:13 --:--:--  0:00:13  133k 36 1826k   36  665k    0     0   426k      0  0:00:04  0:00:01  0:00:03  426k 94 1826k   94 1717k    0     0   672k      0  0:00:02  0:00:02 --:--:--  672k100 1826k  100 1826k    0     0   694k      0  0:00:02  0:00:02 --:--:--  694k
+built/
+built/built/
+built/built/gmp/
+built/built/gmp/libs/
+built/built/gmp/libs/gmp.so
+built/built/gmp/NAMESPACE
+built/built/gmp/DESCRIPTION
+built/built/gmp/help/
+built/built/gmp/help/paths.rds
+built/built/gmp/help/aliases.rds
+built/built/gmp/help/gmp.rdx
+built/built/gmp/help/gmp.rdb
+built/built/gmp/help/AnIndex
+built/built/gmp/data/
+built/built/gmp/data/Oakley1.R
+built/built/gmp/data/Oakley2.R
+built/built/gmp/Meta/
+built/built/gmp/Meta/package.rds
+built/built/gmp/Meta/features.rds
+built/built/gmp/Meta/hsearch.rds
+built/built/gmp/Meta/links.rds
+built/built/gmp/Meta/nsInfo.rds
+built/built/gmp/Meta/Rd.rds
+built/built/gmp/Meta/data.rds
+built/built/gmp/html/
+built/built/gmp/html/00Index.html
+built/built/gmp/html/R.css
+built/built/gmp/INDEX
+built/built/gmp/R/
+built/built/gmp/R/gmp.rdx
+built/built/gmp/R/gmp.rdb
+built/built/gmp/R/gmp
+built/Rmpfr/
+built/Rmpfr/libs/
+built/Rmpfr/libs/Rmpfr.so
+built/Rmpfr/NAMESPACE
+built/Rmpfr/DESCRIPTION
+built/Rmpfr/help/
+built/Rmpfr/help/Rmpfr.rdx
+built/Rmpfr/help/paths.rds
+built/Rmpfr/help/aliases.rds
+built/Rmpfr/help/Rmpfr.rdb
+built/Rmpfr/help/AnIndex
+built/Rmpfr/Meta/
+built/Rmpfr/Meta/package.rds
+built/Rmpfr/Meta/vignette.rds
+built/Rmpfr/Meta/demo.rds
+built/Rmpfr/Meta/features.rds
+built/Rmpfr/Meta/hsearch.rds
+built/Rmpfr/Meta/links.rds
+built/Rmpfr/Meta/nsInfo.rds
+built/Rmpfr/Meta/Rd.rds
+built/Rmpfr/NEWS.Rd
+built/Rmpfr/check-tools.R
+built/Rmpfr/html/
+built/Rmpfr/html/00Index.html
+built/Rmpfr/html/R.css
+built/Rmpfr/INDEX
+built/Rmpfr/doc/
+built/Rmpfr/doc/log1mexp-note.pdf
+built/Rmpfr/doc/Rmpfr-pkg.R
+built/Rmpfr/doc/log1mexp-note.R
+built/Rmpfr/doc/Maechler_useR_2011-abstr.pdf
+built/Rmpfr/doc/log1mexp-note.Rnw
+built/Rmpfr/doc/Maechler_useR_2011-abstr.Rnw
+built/Rmpfr/doc/Maechler_useR_2011-abstr.R
+built/Rmpfr/doc/index.html
+built/Rmpfr/doc/Rmpfr-pkg.pdf
+built/Rmpfr/doc/Rmpfr-pkg.Rnw
+built/Rmpfr/R/
+built/Rmpfr/R/Rmpfr.rdx
+built/Rmpfr/R/Rmpfr
+built/Rmpfr/R/Rmpfr.rdb
+built/Rmpfr/demo/
+built/Rmpfr/demo/hjkMpfr.R
+built/gmp/
+built/gmp/libs/
+built/gmp/libs/gmp.so
+built/gmp/NAMESPACE
+built/gmp/DESCRIPTION
+built/gmp/help/
+built/gmp/help/paths.rds
+built/gmp/help/aliases.rds
+built/gmp/help/gmp.rdx
+built/gmp/help/gmp.rdb
+built/gmp/help/AnIndex
+built/gmp/data/
+built/gmp/data/Oakley1.R
+built/gmp/data/Oakley2.R
+built/gmp/Meta/
+built/gmp/Meta/package.rds
+built/gmp/Meta/features.rds
+built/gmp/Meta/hsearch.rds
+built/gmp/Meta/links.rds
+built/gmp/Meta/nsInfo.rds
+built/gmp/Meta/Rd.rds
+built/gmp/Meta/data.rds
+built/gmp/html/
+built/gmp/html/00Index.html
+built/gmp/html/R.css
+built/gmp/INDEX
+built/gmp/R/
+built/gmp/R/gmp.rdx
+built/gmp/R/gmp.rdb
+built/gmp/R/gmp
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 36  595k   36  219k    0     0   252k      0  0:00:02 --:--:--  0:00:02  252k100  595k  100  595k    0     0   420k      0  0:00:01  0:00:01 --:--:--  420k
+built/
+built/kSamples/
+built/kSamples/libs/
+built/kSamples/libs/kSamples.so
+built/kSamples/NAMESPACE
+built/kSamples/DESCRIPTION
+built/kSamples/help/
+built/kSamples/help/kSamples.rdb
+built/kSamples/help/paths.rds
+built/kSamples/help/aliases.rds
+built/kSamples/help/AnIndex
+built/kSamples/help/kSamples.rdx
+built/kSamples/data/
+built/kSamples/data/ShorelineFireEMS.rda
+built/kSamples/Meta/
+built/kSamples/Meta/package.rds
+built/kSamples/Meta/features.rds
+built/kSamples/Meta/hsearch.rds
+built/kSamples/Meta/links.rds
+built/kSamples/Meta/nsInfo.rds
+built/kSamples/Meta/Rd.rds
+built/kSamples/Meta/data.rds
+built/kSamples/NEWS.Rd
+built/kSamples/html/
+built/kSamples/html/00Index.html
+built/kSamples/html/R.css
+built/kSamples/INDEX
+built/kSamples/R/
+built/kSamples/R/kSamples.rdb
+built/kSamples/R/kSamples
+built/kSamples/R/kSamples.rdx
+built/SuppDists/
+built/SuppDists/libs/
+built/SuppDists/libs/SuppDists.so
+built/SuppDists/NAMESPACE
+built/SuppDists/DESCRIPTION
+built/SuppDists/help/
+built/SuppDists/help/paths.rds
+built/SuppDists/help/SuppDists.rdb
+built/SuppDists/help/SuppDists.rdx
+built/SuppDists/help/aliases.rds
+built/SuppDists/help/AnIndex
+built/SuppDists/Meta/
+built/SuppDists/Meta/package.rds
+built/SuppDists/Meta/features.rds
+built/SuppDists/Meta/hsearch.rds
+built/SuppDists/Meta/links.rds
+built/SuppDists/Meta/nsInfo.rds
+built/SuppDists/Meta/Rd.rds
+built/SuppDists/NEWS.Rd
+built/SuppDists/html/
+built/SuppDists/html/00Index.html
+built/SuppDists/html/R.css
+built/SuppDists/INDEX
+built/SuppDists/R/
+built/SuppDists/R/SuppDists.rdb
+built/SuppDists/R/SuppDists.rdx
+built/SuppDists/R/SuppDists
+Dependency BWStest is already found.
+Dependency MASS is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''PMCMRplus'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv gmp_0.6-9_R_x86_64-pc-linux-gnu.tar.gz kSamples_1.2-9_R_x86_64-pc-linux-gnu.tar.gz PMCMRplus_1.9.6_R_x86_64-pc-linux-gnu.tar.gz Rmpfr_0.8-9_R_x86_64-pc-linux-gnu.tar.gz SuppDists_1.1-9.7_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/PMCMRplus
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'PMCMRplus'
+also installing the dependencies ‘gmp’, ‘Rmpfr’, ‘SuppDists’, ‘kSamples’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gmp_0.6-9.tar.gz'
+Content type 'binary/octet-stream' length 307715 bytes (300 KB)
+==================================================
+downloaded 300 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/Rmpfr_0.8-9.tar.gz'
+Content type 'binary/octet-stream' length 1253705 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/SuppDists_1.1-9.7.tar.gz'
+Content type 'binary/octet-stream' length 335673 bytes (327 KB)
+==================================================
+downloaded 327 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/kSamples_1.2-9.tar.gz'
+Content type 'binary/octet-stream' length 272916 bytes (266 KB)
+==================================================
+downloaded 266 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/PMCMRplus_1.9.6.tar.gz'
+Content type 'binary/octet-stream' length 1219051 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *binary* package ‘gmp’ ...
+* ‘gmp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gmp’ as ‘gmp_0.6-9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gmp)
+* installing *binary* package ‘SuppDists’ ...
+* ‘SuppDists’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘SuppDists’ as ‘SuppDists_1.1-9.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SuppDists)
+* installing *binary* package ‘Rmpfr’ ...
+* ‘Rmpfr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Rmpfr’ as ‘Rmpfr_0.8-9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rmpfr)
+* installing *binary* package ‘kSamples’ ...
+* ‘kSamples’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kSamples’ as ‘kSamples_1.2-9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kSamples)
+* installing *binary* package ‘PMCMRplus’ ...
+* ‘PMCMRplus’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘PMCMRplus’ as ‘PMCMRplus_1.9.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PMCMRplus)
+
+The downloaded source packages are in
+	‘/tmp/RtmpQKVdpc/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m15.492s
+user	0m6.082s
+sys	0m0.750s

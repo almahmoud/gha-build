@@ -29122,7 +29122,6 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "MultiDataSet",
-        "PMCMRplus",
         "RSQLite",
         "SummarizedExperiment",
         "VennDiagram",
@@ -37141,7 +37140,6 @@
         "GenomicRanges",
         "KEGGREST",
         "NMF",
-        "PMCMRplus",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -43552,7 +43550,6 @@
         "KEGGREST",
         "NMF",
         "OrganismDbi",
-        "PMCMRplus",
         "RSQLite",
         "Rsamtools",
         "SomaticSignatures",
@@ -48606,7 +48603,6 @@
         "knitr",
         "stringr"
     ],
-    "PMCMRplus": [],
     "SmoothWin": [],
     "osfr": [
         "pillar",
