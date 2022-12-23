@@ -366,7 +366,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "plotly",
-        "scattermore",
         "sctransform",
         "topGO"
     ],
@@ -823,7 +822,6 @@
         "plotly",
         "rhdf5",
         "scater",
-        "scattermore",
         "sctransform",
         "scuttle",
         "testthat",
@@ -1644,7 +1642,6 @@
         "ggrastr",
         "plotly",
         "scater",
-        "scattermore",
         "sctransform",
         "scuttle",
         "viridis"
@@ -3078,9 +3075,7 @@
         "testthat",
         "viridis"
     ],
-    "dearseq": [
-        "scattermore"
-    ],
+    "dearseq": [],
     "debCAM": [
         "DMwR2"
     ],
@@ -3423,7 +3418,6 @@
         "Seurat",
         "SingleCellExperiment",
         "plotly",
-        "scattermore",
         "scran",
         "sctransform",
         "scuttle"
@@ -5943,7 +5937,6 @@
         "SingleCellExperiment",
         "coin",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "InPAS": [
@@ -6118,7 +6111,6 @@
         "plotly",
         "rstatix",
         "scater",
-        "scattermore",
         "scatterpie",
         "scran",
         "sctransform",
@@ -8397,7 +8389,6 @@
         "Seurat",
         "SingleCellExperiment",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "nempi": [
@@ -9310,7 +9301,6 @@
         "ggrastr",
         "plotly",
         "scater",
-        "scattermore",
         "scran",
         "sctransform",
         "scuttle",
@@ -10986,7 +10976,6 @@
         "Seurat",
         "SingleCellExperiment",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "SCAN.UPC": [
@@ -11028,7 +11017,6 @@
         "interactiveDisplayBase",
         "plotly",
         "recipes",
-        "scattermore",
         "sctransform"
     ],
     "SCANVIS": [
@@ -11063,7 +11051,6 @@
         "genefilter",
         "geneplotter",
         "plotly",
-        "scattermore",
         "sctransform",
         "zinbwave"
     ],
@@ -11072,7 +11059,6 @@
         "aplot",
         "ggtree",
         "plotly",
-        "scattermore",
         "sctransform",
         "tidytree",
         "treeio"
@@ -11084,7 +11070,6 @@
         "SingleCellExperiment",
         "plotly",
         "rhdf5",
-        "scattermore",
         "sctransform",
         "scuttle"
     ],
@@ -11110,7 +11095,6 @@
         "Seurat",
         "SingleCellExperiment",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "scDblFinder": [
@@ -11158,7 +11142,6 @@
         "Seurat",
         "SingleCellExperiment",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "scHOT": [
@@ -11168,7 +11151,6 @@
     "scMAGeCK": [
         "Seurat",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "scmap": [
@@ -11349,7 +11331,6 @@
         "nnTensor",
         "plotly",
         "reactome.db",
-        "scattermore",
         "scatterpie",
         "schex",
         "sctransform",
@@ -11370,7 +11351,6 @@
         "msigdbr",
         "nnTensor",
         "plotly",
-        "scattermore",
         "schex",
         "sctransform",
         "viridis"
@@ -11394,7 +11374,6 @@
         "plotly",
         "rtracklayer",
         "scater",
-        "scattermore",
         "scran",
         "sctransform",
         "scuttle",
@@ -11800,7 +11779,6 @@
         "scMerge",
         "scRNAseq",
         "scater",
-        "scattermore",
         "scds",
         "scran",
         "sctransform",
@@ -11976,7 +11954,6 @@
         "plotly",
         "rhdf5",
         "scater",
-        "scattermore",
         "scran",
         "sctransform",
         "scuttle",
@@ -12222,7 +12199,6 @@
         "SpatialExperiment",
         "plotly",
         "rhdf5",
-        "scattermore",
         "sctransform",
         "scuttle",
         "viridis"
@@ -12375,7 +12351,6 @@
         "SpatialExperiment",
         "plotly",
         "rhdf5",
-        "scattermore",
         "sctransform",
         "scuttle"
     ],
@@ -13052,7 +13027,6 @@
         "SingleCellExperiment",
         "ggrastr",
         "scater",
-        "scattermore",
         "scuttle",
         "viridis"
     ],
@@ -13721,7 +13695,6 @@
     ],
     "Seurat": [
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "org.Hs.eg.db": [
@@ -13730,7 +13703,6 @@
     "org.Mm.eg.db": [
         "AnnotationDbi"
     ],
-    "scattermore": [],
     "sctransform": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
@@ -14931,7 +14903,6 @@
     "SoupX": [
         "Seurat",
         "plotly",
-        "scattermore",
         "sctransform"
     ],
     "scRNAseq": [
