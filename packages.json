@@ -6650,7 +6650,6 @@
         "geneplotter",
         "ggplot2"
     ],
-    "DEsingle": [],
     "destiny": [
         "GenomicRanges",
         "SingleCellExperiment",
@@ -12224,7 +12223,6 @@
         "AnnotationDbi",
         "BiocSingular",
         "Biostrings",
-        "DEsingle",
         "DOSE",
         "DataVisualizations",
         "DelayedMatrixStats",
