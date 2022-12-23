@@ -5433,7 +5433,6 @@
         "EBSeq",
         "Oscope"
     ],
-    "scds": [],
     "scGPS": [
         "DESeq2",
         "caret",
@@ -5732,7 +5731,6 @@
         "scMerge",
         "scRNAseq",
         "scater",
-        "scds",
         "scran",
         "scuttle",
         "sva",
