@@ -389,7 +389,6 @@
     ],
     "netboxr": [],
     "netZooR": [
-        "quantro",
         "yarn"
     ],
     "NormalyzerDE": [],
@@ -449,7 +448,6 @@
         "CGHcall"
     ],
     "qmtools": [],
-    "quantro": [],
     "R3CPET": [],
     "recount": [],
     "recountmethylation": [],
@@ -607,9 +605,7 @@
     "YAPSA": [
         "SomaticSignatures"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "zenith": [],
     "ggpubr": [],
     "ReorderCluster": [],
