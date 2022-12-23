@@ -1094,7 +1094,6 @@
         "mia",
         "nloptr",
         "openssl",
-        "osqp",
         "pheatmap",
         "pillar",
         "pkgload",
@@ -3763,7 +3762,6 @@
         "nloptr",
         "openssl",
         "optimr",
-        "osqp",
         "patchwork",
         "pheatmap",
         "phyloseq",
@@ -33136,7 +33134,6 @@
         "multtest",
         "nloptr",
         "openssl",
-        "osqp",
         "pROC",
         "patchwork",
         "pheatmap",
@@ -62997,8 +62994,7 @@
     ],
     "CVXR": [
         "RcppEigen",
-        "Rmpfr",
-        "osqp"
+        "Rmpfr"
     ],
     "DescTools": [
         "cellranger",
@@ -63029,7 +63025,6 @@
         "waldo"
     ],
     "Rmpfr": [],
-    "osqp": [],
     "gld": [
         "e1071"
     ],
