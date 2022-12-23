@@ -6437,7 +6437,6 @@
         "HDF5Array",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "concaveman",
         "cytomapper",
         "ggforce",
         "ggraph",
@@ -6983,7 +6982,6 @@
         "HDF5Array",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "concaveman",
         "ggforce",
         "lme4",
         "lmerTest",
@@ -12204,7 +12202,6 @@
     "schex": [
         "Seurat",
         "SingleCellExperiment",
-        "concaveman",
         "ggforce",
         "ggrepel",
         "htmlwidgets",
@@ -12399,7 +12396,6 @@
         "annotate",
         "aplot",
         "ccTensor",
-        "concaveman",
         "dendextend",
         "enrichplot",
         "fgsea",
@@ -12437,7 +12433,6 @@
         "Seurat",
         "SingleCellExperiment",
         "annotate",
-        "concaveman",
         "fields",
         "ggforce",
         "ggrepel",
@@ -13246,7 +13241,6 @@
         "HDF5Array",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "concaveman",
         "ggforce",
         "lme4",
         "lmerTest",
@@ -13513,7 +13507,6 @@
     "Statial": [
         "SingleCellExperiment",
         "broom",
-        "concaveman",
         "dtplyr",
         "googlesheets4",
         "haven",
@@ -15901,7 +15894,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "concaveman": [],
     "golem": [],
     "wordcloud2": [
         "htmlwidgets"
