@@ -27200,7 +27200,6 @@
         "httr",
         "iBBiG",
         "ids",
-        "inaparc",
         "ipred",
         "knitr",
         "latticeExtra",
@@ -42172,7 +42171,6 @@
         "hms",
         "htmlwidgets",
         "httr",
-        "inaparc",
         "km.ci",
         "knitr",
         "lme4",
@@ -54849,15 +54847,12 @@
         "tibble",
         "vctrs"
     ],
-    "ppclust": [
-        "inaparc"
-    ],
+    "ppclust": [],
     "MatrixCorrelation": [
         "hms",
         "progress",
         "vctrs"
     ],
-    "inaparc": [],
     "metR": [
         "ggplot2",
         "lubridate",
