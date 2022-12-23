@@ -6910,7 +6910,6 @@
         "latticeExtra",
         "lme4",
         "mrfDepth",
-        "ncdfFlow",
         "nloptr",
         "pbkrtest",
         "progress",
@@ -7074,7 +7073,6 @@
         "ggcyto",
         "ggplot2",
         "latticeExtra",
-        "ncdfFlow",
         "openCyto",
         "tibble"
     ],
@@ -7344,7 +7342,6 @@
         "knitr",
         "latticeExtra",
         "lme4",
-        "ncdfFlow",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -10779,7 +10776,6 @@
         "knitr",
         "latticeExtra",
         "lme4",
-        "ncdfFlow",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -10803,7 +10799,6 @@
         "knitr",
         "latticeExtra",
         "lme4",
-        "ncdfFlow",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -10892,7 +10887,6 @@
         "ggplot2",
         "hdrcde",
         "latticeExtra",
-        "ncdfFlow",
         "rainbow",
         "tibble"
     ],
@@ -10919,7 +10913,6 @@
         "ggplot2",
         "hdrcde",
         "latticeExtra",
-        "ncdfFlow",
         "rainbow",
         "tibble"
     ],
@@ -10927,7 +10920,6 @@
         "DelayedArray",
         "dplyr",
         "ggplot2",
-        "ncdfFlow",
         "tibble"
     ],
     "fmcsR": [
@@ -12263,7 +12255,6 @@
         "dplyr",
         "flowWorkspace",
         "ggplot2",
-        "ncdfFlow",
         "tibble"
     ],
     "ggmanh": [
@@ -14114,7 +14105,6 @@
         "heatmaply",
         "htmlwidgets",
         "knitr",
-        "ncdfFlow",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -20033,7 +20023,6 @@
         "tidyr",
         "waldo"
     ],
-    "ncdfFlow": [],
     "ncGTW": [
         "DelayedArray",
         "GenomicRanges",
@@ -21126,7 +21115,6 @@
         "flowWorkspace",
         "ggplot2",
         "latticeExtra",
-        "ncdfFlow",
         "tibble"
     ],
     "openPrimeR": [
@@ -21857,7 +21845,6 @@
         "dplyr",
         "flowWorkspace",
         "ggplot2",
-        "ncdfFlow",
         "tibble"
     ],
     "peakPantheR": [
