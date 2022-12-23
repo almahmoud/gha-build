@@ -6252,7 +6252,6 @@
         "biomaRt",
         "learnr",
         "shinyBS",
-        "shinyvalidate",
         "sortable"
     ],
     "LedPred": [
@@ -14340,7 +14339,6 @@
     "sortable": [
         "learnr"
     ],
-    "shinyvalidate": [],
     "learnr": [],
     "reldist": [
         "densEstBayes",
