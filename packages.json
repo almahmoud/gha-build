@@ -615,7 +615,6 @@
     ],
     "gwascat": [],
     "gwasurvivr": [],
-    "HelloRanges": [],
     "HiCcompare": [
         "CGHcall",
         "QDNAseq"
@@ -1003,7 +1002,6 @@
     ],
     "OMICsPCA": [
         "FactoMineR",
-        "HelloRanges",
         "factoextra",
         "ggpubr",
         "rstatix"
