@@ -1739,7 +1739,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "qsmooth": [],
     "quantro": [
         "minfi"
     ],
