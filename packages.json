@@ -3607,7 +3607,6 @@
         "slingshot",
         "spatstat",
         "spatstat.linnet",
-        "spatstat.model",
         "tidyr",
         "viridis"
     ],
@@ -21055,17 +21054,12 @@
         "recipes",
         "spatstat",
         "spatstat.linnet",
-        "spatstat.model",
         "tidyr"
     ],
     "spatstat": [
-        "spatstat.linnet",
-        "spatstat.model"
+        "spatstat.linnet"
     ],
-    "spatstat.model": [],
-    "spatstat.linnet": [
-        "spatstat.model"
-    ],
+    "spatstat.linnet": [],
     "contrast": [
         "Hmisc",
         "htmlTable",
