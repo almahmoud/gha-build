@@ -1998,8 +1998,7 @@
         "IRanges",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "XVector",
-        "plot3D"
+        "XVector"
     ],
     "ATACCoGAPS": [
         "AnnotationDbi",
@@ -9693,7 +9692,6 @@
         "latticeExtra",
         "multcomp",
         "pillar",
-        "plot3D",
         "quantreg",
         "raster",
         "reshape2",
@@ -13266,7 +13264,6 @@
         "ks",
         "mixtools",
         "pillar",
-        "plot3D",
         "plotly",
         "purrr",
         "rmarkdown",
@@ -16705,7 +16702,6 @@
         "hms",
         "ks",
         "pillar",
-        "plot3D",
         "progress",
         "rainbow",
         "readr",
@@ -17368,15 +17364,13 @@
     "flowMeans": [
         "feature",
         "flowCore",
-        "ks",
-        "plot3D"
+        "ks"
     ],
     "flowMerge": [
         "feature",
         "flowClust",
         "flowCore",
-        "ks",
-        "plot3D"
+        "ks"
     ],
     "flowPloidy": [
         "broom",
@@ -17466,7 +17460,6 @@
         "latticeExtra",
         "ncdfFlow",
         "pillar",
-        "plot3D",
         "rainbow",
         "tibble",
         "tidyselect",
@@ -17510,7 +17503,6 @@
         "latticeExtra",
         "ncdfFlow",
         "pillar",
-        "plot3D",
         "rainbow",
         "tibble",
         "tidyselect",
@@ -17694,7 +17686,6 @@
         "hdrcde",
         "ks",
         "pillar",
-        "plot3D",
         "rainbow",
         "tibble",
         "vctrs"
@@ -17739,7 +17730,6 @@
         "jquerylib",
         "ks",
         "pillar",
-        "plot3D",
         "rainbow",
         "sass",
         "shiny",
@@ -23969,7 +23959,6 @@
         "hdrcde",
         "ks",
         "pillar",
-        "plot3D",
         "rainbow",
         "tibble",
         "vctrs"
@@ -24313,7 +24302,6 @@
         "ggplot2",
         "gplots",
         "pillar",
-        "plot3D",
         "rematch2",
         "testthat",
         "tibble",
@@ -32121,7 +32109,6 @@
         "miniUI",
         "patchwork",
         "pillar",
-        "plot3D",
         "plotly",
         "purrr",
         "reshape2",
@@ -32873,7 +32860,6 @@
         "hms",
         "ks",
         "pillar",
-        "plot3D",
         "plyranges",
         "progress",
         "restfulr",
@@ -33951,7 +33937,6 @@
         "knitr",
         "ks",
         "pillar",
-        "plot3D",
         "rgl",
         "rmarkdown",
         "sass",
@@ -35531,7 +35516,6 @@
         "osfr",
         "pROC",
         "pillar",
-        "plot3D",
         "prodlim",
         "progress",
         "purrr",
@@ -35702,7 +35686,6 @@
         "ks",
         "latticeExtra",
         "pillar",
-        "plot3D",
         "progress",
         "purrr",
         "rainbow",
@@ -38867,7 +38850,6 @@
         "multtest",
         "phyloseq",
         "pillar",
-        "plot3D",
         "reshape2",
         "rhdf5",
         "stringr",
@@ -43831,7 +43813,6 @@
         "nnTensor",
         "patchwork",
         "pillar",
-        "plot3D",
         "plotly",
         "purrr",
         "qvalue",
@@ -43915,7 +43896,6 @@
         "nnTensor",
         "patchwork",
         "pillar",
-        "plot3D",
         "plotly",
         "purrr",
         "reshape2",
@@ -50809,7 +50789,6 @@
         "jquerylib",
         "knitr",
         "pillar",
-        "plot3D",
         "plotly",
         "pryr",
         "purrr",
@@ -51258,7 +51237,6 @@
         "latticeExtra",
         "org.Hs.eg.db",
         "pillar",
-        "plot3D",
         "progress",
         "purrr",
         "rainbow",
@@ -54320,7 +54298,6 @@
         "vctrs"
     ],
     "msm": [],
-    "plot3D": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
@@ -56650,12 +56627,9 @@
         "viridis"
     ],
     "feature": [
-        "ks",
-        "plot3D"
+        "ks"
     ],
-    "ks": [
-        "plot3D"
-    ],
+    "ks": [],
     "airway": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -57496,7 +57470,6 @@
         "hdrcde",
         "ks",
         "pillar",
-        "plot3D",
         "rainbow",
         "tibble",
         "vctrs"
@@ -57506,7 +57479,6 @@
         "hdrcde",
         "ks",
         "pillar",
-        "plot3D",
         "rainbow",
         "tibble",
         "vctrs"
@@ -57516,7 +57488,6 @@
         "hdrcde",
         "ks",
         "pillar",
-        "plot3D",
         "tibble",
         "vctrs"
     ],
@@ -57524,7 +57495,6 @@
         "ggplot2",
         "ks",
         "pillar",
-        "plot3D",
         "tibble",
         "vctrs"
     ],
@@ -59973,7 +59943,6 @@
         "fields",
         "ggplot2",
         "pillar",
-        "plot3D",
         "tibble",
         "vctrs",
         "viridis"
