@@ -29213,7 +29213,6 @@
         "evaluate",
         "fastmatch",
         "fingerprint",
-        "float",
         "generics",
         "ggplot2",
         "gridExtra",
@@ -45870,7 +45869,6 @@
         "evaluate",
         "fastmatch",
         "fingerprint",
-        "float",
         "generics",
         "ggplot2",
         "gridExtra",
@@ -121855,7 +121853,6 @@
         "english",
         "evaluate",
         "fastmatch",
-        "float",
         "generics",
         "ggplot2",
         "gridExtra",
@@ -123075,7 +123072,6 @@
         "evaluate",
         "fastmatch",
         "fingerprint",
-        "float",
         "formatR",
         "futile.logger",
         "generics",
@@ -138177,7 +138173,6 @@
         "RhpcBLASctl",
         "data.table",
         "digest",
-        "float",
         "lgr",
         "mlapi",
         "rsparse"
@@ -138238,7 +138233,6 @@
         "RcppArmadillo",
         "RhpcBLASctl",
         "data.table",
-        "float",
         "lgr"
     ],
     "mlapi": [
@@ -138347,10 +138341,8 @@
     "MatrixExtra": [
         "Matrix",
         "Rcpp",
-        "RhpcBLASctl",
-        "float"
+        "RhpcBLASctl"
     ],
-    "float": [],
     "english": [],
     "qdapRegex": [],
     "dtt": [],
