@@ -167,7 +167,6 @@
     "ABSSeq": [
         "locfit"
     ],
-    "acde": [],
     "ACE": [
         "Biobase",
         "BiocParallel",
@@ -14787,7 +14786,6 @@
         "STRINGdb",
         "SummarizedExperiment",
         "XVector",
-        "acde",
         "affy",
         "bit64",
         "blob",
