@@ -27,7 +27,6 @@
         "ReorderCluster"
     ],
     "AnnotationHubData": [],
-    "annotatr": [],
     "APAlyzer": [],
     "appreci8R": [
         "COSMIC.67",
@@ -114,7 +113,6 @@
         "Homo.sapiens",
         "Mus.musculus",
         "QDNAseq",
-        "annotatr",
         "dmrseq"
     ],
     "BitSeq": [],
@@ -423,9 +421,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "dmrseq": [
-        "annotatr"
-    ],
+    "dmrseq": [],
     "DominoEffect": [],
     "Doscheda": [
         "drc"
@@ -1315,9 +1311,7 @@
     "scanMiRApp": [],
     "SCATE": [],
     "scDD": [],
-    "scmeth": [
-        "annotatr"
-    ],
+    "scmeth": [],
     "scone": [
         "RUVSeq"
     ],
