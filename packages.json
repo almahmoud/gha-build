@@ -17,7 +17,6 @@
     "abseqR": [
         "BiocStyle",
         "flexdashboard",
-        "htmlwidgets",
         "plotly"
     ],
     "ACE": [
@@ -34,8 +33,7 @@
     "ADAM": [
         "AnnotationDbi",
         "DT",
-        "GO.db",
-        "htmlwidgets"
+        "GO.db"
     ],
     "ADAMgui": [
         "ADAM",
@@ -46,7 +44,6 @@
         "car",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -61,7 +58,6 @@
         "DT",
         "ExperimentHub",
         "adductData",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "ADImpute": [
@@ -101,7 +97,6 @@
         "geneplotter",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "oligoClasses",
         "rtracklayer",
         "viridis"
@@ -145,7 +140,6 @@
         "geneplotter",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "oligoClasses",
         "rtracklayer",
         "viridis"
@@ -163,7 +157,6 @@
     "alevinQC": [
         "DT",
         "GGally",
-        "htmlwidgets",
         "shinydashboard"
     ],
     "AllelicImbalance": [
@@ -179,12 +172,10 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
     "AlphaBeta": [
-        "htmlwidgets",
         "plotly"
     ],
     "alpine": [
@@ -208,7 +199,6 @@
         "ExperimentHub",
         "MultiAssayExperiment",
         "curatedTCGAData",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "amplican": [
@@ -231,7 +221,6 @@
         "ggrastr",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "lmerTest",
         "mia",
@@ -258,7 +247,6 @@
         "caret",
         "geneplotter",
         "ggrepel",
-        "htmlwidgets",
         "plotly",
         "recipes",
         "shinyjs"
@@ -283,7 +271,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "DT",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "AnnotationHubData": [
@@ -296,7 +283,6 @@
         "GenomicFeatures",
         "OrganismDbi",
         "biomaRt",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -309,7 +295,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "regioneR",
         "rtracklayer"
@@ -323,19 +308,16 @@
     ],
     "AnVIL": [
         "DT",
-        "htmlwidgets",
         "miniUI"
     ],
     "AnVILBilling": [
         "DT",
-        "htmlwidgets",
         "plotly",
         "shinytoastr"
     ],
     "AnVILPublish": [
         "AnVIL",
         "DT",
-        "htmlwidgets",
         "miniUI"
     ],
     "APAlyzer": [
@@ -363,7 +345,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -397,7 +378,6 @@
         "VariantAnnotation",
         "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37",
         "biomaRt",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -415,7 +395,6 @@
         "ShortRead",
         "biomaRt",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "arrayMvout": [
@@ -443,7 +422,6 @@
         "beadarray",
         "genefilter",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "artMS": [
@@ -451,7 +429,6 @@
         "MSstats",
         "UpSetR",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -462,7 +439,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "ggrepel",
-        "htmlwidgets",
         "plotly",
         "ropls"
     ],
@@ -482,7 +458,6 @@
         "fgsea",
         "ggfortify",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "mGSZ",
         "nloptr",
@@ -506,7 +481,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -546,7 +520,6 @@
         "fgsea",
         "ggalluvial",
         "haven",
-        "htmlwidgets",
         "miniUI",
         "modelr",
         "motifmatchr",
@@ -578,7 +551,6 @@
         "annotate",
         "biomaRt",
         "ensembldb",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "motifStack",
         "regioneR",
@@ -602,7 +574,6 @@
         "BiocFileCache",
         "DT",
         "GenomicAlignments",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "atSNP": [
@@ -614,7 +585,6 @@
         "GenomicAlignments",
         "TFBSTools",
         "annotate",
-        "htmlwidgets",
         "motifStack",
         "rtracklayer",
         "testthat"
@@ -635,7 +605,6 @@
         "AnnotationDbi",
         "GSEABase",
         "annotate",
-        "htmlwidgets",
         "mixtools",
         "plotly"
     ],
@@ -696,7 +665,6 @@
         "genefilter",
         "ggalluvial",
         "ggrepel",
-        "htmlwidgets",
         "mixtools",
         "pRoloc",
         "pRolocdata",
@@ -715,7 +683,6 @@
         "DT",
         "GenomicAlignments",
         "ShortRead",
-        "htmlwidgets",
         "prettydoc"
     ],
     "Basic4Cseq": [
@@ -728,7 +695,6 @@
         "SingleCellExperiment",
         "colourpicker",
         "ggExtra",
-        "htmlwidgets",
         "miniUI",
         "scran",
         "scuttle",
@@ -741,7 +707,6 @@
         "colourpicker",
         "ggExtra",
         "glmGamPoi",
-        "htmlwidgets",
         "miniUI",
         "rstan",
         "scran",
@@ -762,7 +727,6 @@
         "dendextend",
         "genefilter",
         "heatmaply",
-        "htmlwidgets",
         "plotly",
         "sva",
         "viridis"
@@ -827,7 +791,6 @@
         "ggrastr",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "lmerTest",
         "mia",
@@ -888,7 +851,6 @@
         "GGally",
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "plotly",
         "shinycssloaders",
         "shinydashboard",
@@ -908,14 +870,12 @@
         "ensembldb",
         "ggforce",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
     "bioassayR": [
         "ChemmineR",
-        "DT",
-        "htmlwidgets"
+        "DT"
     ],
     "biobroom": [
         "broom"
@@ -941,7 +901,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "org.Bt.eg.db",
@@ -963,7 +922,6 @@
     "BiocDockerManager": [],
     "BiocFHIR": [
         "DT",
-        "htmlwidgets",
         "visNetwork"
     ],
     "BiocFileCache": [],
@@ -987,7 +945,6 @@
         "curatedTCGAData",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "lme4",
         "nloptr",
@@ -1003,8 +960,7 @@
     ],
     "BiocPkgTools": [
         "BiocFileCache",
-        "DT",
-        "htmlwidgets"
+        "DT"
     ],
     "BiocSet": [
         "AnnotationDbi"
@@ -1072,7 +1028,6 @@
         "GO.db",
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "precrec",
         "rms",
         "topGO",
@@ -1091,7 +1046,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -1106,7 +1060,6 @@
         "fgsea",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "synaptome.data",
@@ -1123,7 +1076,6 @@
         "ggnetwork",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "intergraph",
         "networkD3",
         "patchwork",
@@ -1138,7 +1090,6 @@
         "DT",
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "pathview",
         "shinyBS",
@@ -1148,7 +1099,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "ggrepel",
-        "htmlwidgets",
         "plotly",
         "ropls"
     ],
@@ -1171,7 +1121,6 @@
         "biomaRt",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -1199,7 +1148,6 @@
         "bsseq",
         "bumphunter",
         "dmrseq",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -1244,7 +1192,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "testthat"
     ],
@@ -1253,7 +1200,6 @@
         "EBImage",
         "annotate",
         "genefilter",
-        "htmlwidgets",
         "sva"
     ],
     "bnem": [
@@ -1281,7 +1227,6 @@
         "ggbio",
         "ggforce",
         "htmlTable",
-        "htmlwidgets",
         "plyranges",
         "rtracklayer",
         "viridis"
@@ -1319,7 +1264,6 @@
         "ensembldb",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -1377,7 +1321,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -1386,7 +1329,6 @@
     ],
     "BUMHMM": [
         "devtools",
-        "htmlwidgets",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -1432,7 +1374,6 @@
         "ensembldb",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -1452,7 +1393,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -1479,7 +1419,6 @@
         "ggrepel",
         "ggtext",
         "htmlTable",
-        "htmlwidgets",
         "intergraph",
         "networkD3",
         "patchwork",
@@ -1498,7 +1437,6 @@
         "MSnbase",
         "MsFeatures",
         "htmlTable",
-        "htmlwidgets",
         "viridis",
         "xcms"
     ],
@@ -1513,7 +1451,6 @@
         "genefilter",
         "hgu133a.db",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "phenoTest",
         "viridis"
@@ -1537,8 +1474,7 @@
         "vcfR"
     ],
     "Cardinal": [
-        "EBImage",
-        "htmlwidgets"
+        "EBImage"
     ],
     "CARNIVAL": [],
     "casper": [
@@ -1600,7 +1536,6 @@
         "biomaRt",
         "cBioPortalData",
         "genefilter",
-        "htmlwidgets",
         "miniUI",
         "rtracklayer"
     ],
@@ -1609,7 +1544,6 @@
         "BiocSet",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
-        "htmlwidgets",
         "mixtools",
         "plotly",
         "tidytree",
@@ -1628,13 +1562,11 @@
         "RaggedExperiment",
         "TCGAutils",
         "biomaRt",
-        "htmlwidgets",
         "miniUI",
         "rtracklayer"
     ],
     "cbpManager": [
         "DT",
-        "htmlwidgets",
         "shinyBS",
         "shinycssloaders",
         "shinydashboard"
@@ -1687,7 +1619,6 @@
         "fgsea",
         "ggrastr",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -1712,7 +1643,6 @@
         "car",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -1727,9 +1657,7 @@
         "scuttle",
         "viridis"
     ],
-    "cellscape": [
-        "htmlwidgets"
-    ],
+    "cellscape": [],
     "CellTrails": [
         "SingleCellExperiment",
         "dendextend",
@@ -1742,8 +1670,7 @@
         "topGO"
     ],
     "cellxgenedp": [
-        "DT",
-        "htmlwidgets"
+        "DT"
     ],
     "CEMiTool": [
         "AnnotationDbi",
@@ -1765,7 +1692,6 @@
         "ggtree",
         "gson",
         "htmlTable",
-        "htmlwidgets",
         "intergraph",
         "patchwork",
         "scatterpie",
@@ -1895,7 +1821,6 @@
         "globaltest",
         "goseq",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "isva",
         "lumi",
@@ -1912,13 +1837,11 @@
         "wateRmelon"
     ],
     "ChemmineR": [
-        "DT",
-        "htmlwidgets"
+        "DT"
     ],
     "CHETAH": [
         "SingleCellExperiment",
         "dendextend",
-        "htmlwidgets",
         "plotly",
         "viridis"
     ],
@@ -1931,7 +1854,6 @@
     "Chicago": [
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "chimeraviz": [
@@ -1949,7 +1871,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rtracklayer",
@@ -1973,7 +1894,6 @@
         "Hmisc",
         "chipenrich.data",
         "htmlTable",
-        "htmlwidgets",
         "org.Dm.eg.db",
         "org.Dr.eg.db",
         "org.Hs.eg.db",
@@ -1996,7 +1916,6 @@
         "broom",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -2035,7 +1954,6 @@
         "chipseq",
         "geneplotter",
         "ggrepel",
-        "htmlwidgets",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -2103,7 +2021,6 @@
         "gggenes",
         "ggrastr",
         "ggrepel",
-        "htmlwidgets",
         "kableExtra",
         "miniUI",
         "msigdbr",
@@ -2138,7 +2055,6 @@
         "GenomicAlignments",
         "TFBSTools",
         "annotate",
-        "htmlwidgets",
         "miniUI",
         "plotly",
         "rtracklayer"
@@ -2161,7 +2077,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "monocle",
         "rtracklayer",
         "viridis"
@@ -2170,7 +2085,6 @@
         "ggforce",
         "ggraph",
         "ggrepel",
-        "htmlwidgets",
         "networkD3",
         "tidygraph",
         "viridis",
@@ -2191,7 +2105,6 @@
         "biomaRt",
         "geneplotter",
         "gwascat",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -2212,7 +2125,6 @@
         "ggforce",
         "ggraph",
         "ggrepel",
-        "htmlwidgets",
         "mixtools",
         "plotly",
         "propr",
@@ -2234,7 +2146,6 @@
         "rtracklayer"
     ],
     "clippda": [
-        "htmlwidgets",
         "rgl"
     ],
     "clipper": [
@@ -2261,7 +2172,6 @@
     "CluMSID": [
         "GGally",
         "MSnbase",
-        "htmlwidgets",
         "plotly"
     ],
     "clusterExperiment": [
@@ -2343,7 +2253,6 @@
         "ensembldb",
         "exomeCopy",
         "htmlTable",
-        "htmlwidgets",
         "karyoploteR",
         "regioneR",
         "rtracklayer",
@@ -2365,7 +2274,6 @@
         "ensembldb",
         "exomeCopy",
         "htmlTable",
-        "htmlwidgets",
         "karyoploteR",
         "plotly",
         "regioneR",
@@ -2421,7 +2329,6 @@
     ],
     "cogena": [
         "devtools",
-        "htmlwidgets",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -2456,7 +2363,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "plotly",
         "rtracklayer",
         "viridis"
@@ -2477,7 +2383,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -2491,7 +2396,6 @@
         "GenomicFeatures",
         "biomaRt",
         "bumphunter",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "lme4",
         "lmerTest",
@@ -2521,7 +2425,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "methylPipe",
         "rtracklayer",
         "topGO",
@@ -2529,13 +2432,11 @@
     ],
     "CompoundDb": [
         "ChemmineR",
-        "DT",
-        "htmlwidgets"
+        "DT"
     ],
     "ComPrAn": [
         "DT",
         "haven",
-        "htmlwidgets",
         "rio",
         "shinydashboard",
         "shinyjs"
@@ -2567,7 +2468,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -2607,7 +2507,6 @@
         "Hmisc",
         "contrast",
         "htmlTable",
-        "htmlwidgets",
         "rms",
         "viridis"
     ],
@@ -2696,7 +2595,6 @@
         "ensembldb",
         "exomeCopy",
         "htmlTable",
-        "htmlwidgets",
         "karyoploteR",
         "regioneR",
         "rtracklayer",
@@ -2711,7 +2609,6 @@
         "DT",
         "MultiAssayExperiment",
         "fgsea",
-        "htmlwidgets",
         "piano",
         "shinydashboard",
         "shinyjs",
@@ -2740,7 +2637,6 @@
         "GSEABase",
         "annotate",
         "dorothea",
-        "htmlwidgets",
         "mixtools",
         "plotly",
         "viper",
@@ -2755,8 +2651,7 @@
         "DT",
         "annotate",
         "genefilter",
-        "geneplotter",
-        "htmlwidgets"
+        "geneplotter"
     ],
     "CoverageView": [
         "GenomicAlignments",
@@ -2778,8 +2673,7 @@
         "rtracklayer"
     ],
     "CRImage": [
-        "EBImage",
-        "htmlwidgets"
+        "EBImage"
     ],
     "crisprBowtie": [
         "BSgenome",
@@ -2805,7 +2699,6 @@
         "crisprBowtie",
         "crisprScore",
         "crisprScoreData",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -2816,7 +2709,6 @@
         "DT",
         "ExperimentHub",
         "crisprScoreData",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "CRISPRseek": [
@@ -2839,7 +2731,6 @@
         "biomaRt",
         "ensembldb",
         "haven",
-        "htmlwidgets",
         "keras",
         "patchwork",
         "regioneR",
@@ -2872,7 +2763,6 @@
         "crisprViz",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer",
         "viridis"
@@ -2897,7 +2787,6 @@
         "crisprScoreData",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer",
         "viridis"
@@ -2911,7 +2800,6 @@
         "GEOquery",
         "annotate",
         "genefilter",
-        "htmlwidgets",
         "miniUI",
         "oligo",
         "oligoClasses",
@@ -2928,7 +2816,6 @@
         "Hmisc",
         "WGCNA",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "CSSQ": [
@@ -2951,7 +2838,6 @@
         "fgsea",
         "ggrepel",
         "highcharter",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "qs",
         "shinycssloaders"
@@ -2976,7 +2862,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -2986,7 +2871,6 @@
         "BiocFileCache",
         "ChemmineR",
         "DT",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "customProDB": [
@@ -3033,7 +2917,6 @@
         "ggforce",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "mbest",
         "nloptr",
@@ -3055,7 +2938,6 @@
         "factoextra",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "mbest",
         "nloptr",
@@ -3072,7 +2954,6 @@
         "EBImage",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "htmlwidgets",
         "scuttle",
         "shinydashboard",
         "svgPanZoom",
@@ -3097,7 +2978,6 @@
         "UniProt.ws",
         "annotate",
         "biomaRt",
-        "htmlwidgets",
         "motifStack",
         "rtracklayer"
     ],
@@ -3134,7 +3014,6 @@
         "geneplotter",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -3150,8 +3029,7 @@
         "DAPARdata",
         "MSnbase",
         "broom",
-        "highcharter",
-        "htmlwidgets"
+        "highcharter"
     ],
     "dasper": [
         "AnnotationDbi",
@@ -3236,7 +3114,6 @@
         "ggtree",
         "gson",
         "heatmaply",
-        "htmlwidgets",
         "miniUI",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -3301,12 +3178,10 @@
     "DeepBlueR": [
         "GenomicAlignments",
         "diffr",
-        "htmlwidgets",
         "rtracklayer"
     ],
     "DeepPINCS": [
         "DiagrammeR",
-        "htmlwidgets",
         "keras",
         "lexicon",
         "mlapi",
@@ -3343,7 +3218,6 @@
         "biomaRt",
         "dendextend",
         "heatmaply",
-        "htmlwidgets",
         "plotly",
         "rtracklayer",
         "viridis"
@@ -3387,7 +3261,6 @@
         "DT",
         "MSnbase",
         "ggrepel",
-        "htmlwidgets",
         "shinydashboard"
     ],
     "DepecheR": [
@@ -3408,7 +3281,6 @@
         "biomaRt",
         "bumphunter",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -3430,7 +3302,6 @@
         "ensembldb",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -3506,7 +3377,6 @@
         "apeglm",
         "geneplotter",
         "ggrepel",
-        "htmlwidgets",
         "rtracklayer",
         "systemPipeR"
     ],
@@ -3516,7 +3386,6 @@
         "Hmisc",
         "WGCNA",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "diffcyt": [
@@ -3562,7 +3431,6 @@
         "rtracklayer"
     ],
     "diggit": [
-        "htmlwidgets",
         "mixtools",
         "plotly",
         "viper"
@@ -3571,7 +3439,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -3589,7 +3456,6 @@
         "dendextend",
         "ggExtra",
         "heatmaply",
-        "htmlwidgets",
         "kableExtra",
         "miniUI",
         "plotly",
@@ -3655,7 +3521,6 @@
         "ensembldb",
         "genefilter",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "methylumi",
         "minfi",
@@ -3678,7 +3543,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -3694,7 +3558,6 @@
         "biomaRt",
         "bsseq",
         "bumphunter",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "regioneR",
         "rtracklayer"
@@ -3728,7 +3591,6 @@
         "broom",
         "car",
         "drc",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -3804,7 +3666,6 @@
         "geneplotter",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "lme4",
         "mixtools",
@@ -3848,9 +3709,7 @@
         "ShortRead",
         "biomaRt"
     ],
-    "EBImage": [
-        "htmlwidgets"
-    ],
+    "EBImage": [],
     "EBSEA": [
         "AnnotationDbi",
         "DESeq2",
@@ -3926,7 +3785,6 @@
         "globaltest",
         "hgu133a.db",
         "hgu133plus2.db",
-        "htmlwidgets",
         "metap",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -3938,8 +3796,7 @@
     ],
     "eiR": [
         "ChemmineR",
-        "DT",
-        "htmlwidgets"
+        "DT"
     ],
     "eisaR": [],
     "ELMER": [
@@ -3961,7 +3818,6 @@
         "ggpubr",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -4000,7 +3856,6 @@
         "bumphunter",
         "genefilter",
         "geneplotter",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "minfi",
         "rtracklayer"
@@ -4058,7 +3913,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "htmlwidgets",
         "lme4",
         "motifmatchr",
         "nloptr",
@@ -4130,7 +3984,6 @@
         "ggraph",
         "ggrepel",
         "ggtree",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "patchwork",
         "plotly",
@@ -4194,7 +4047,6 @@
         "graphite",
         "gson",
         "htmlTable",
-        "htmlwidgets",
         "patchwork",
         "reactome.db",
         "scatterpie",
@@ -4214,7 +4066,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -4249,7 +4100,6 @@
         "genefilter",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "minfi",
         "org.Hs.eg.db",
@@ -4264,7 +4114,6 @@
     "epistasisGA": [
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "qgraph",
         "viridis"
     ],
@@ -4374,7 +4223,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "htmlwidgets",
         "motifmatchr",
         "patchwork",
         "pipeFrame",
@@ -4433,7 +4281,6 @@
         "ggtree",
         "gprofiler2",
         "homologene",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "lme4",
         "nloptr",
@@ -4468,7 +4315,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "ExperimentHubData": [
@@ -4483,7 +4329,6 @@
         "GenomicFeatures",
         "OrganismDbi",
         "biomaRt",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -4499,7 +4344,6 @@
     ],
     "ExploreModelMatrix": [
         "DT",
-        "htmlwidgets",
         "shinydashboard",
         "shinyjs"
     ],
@@ -4526,7 +4370,6 @@
         "ggforce",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "patchwork",
         "rtracklayer",
         "viridis"
@@ -4543,7 +4386,6 @@
     ],
     "FamAgg": [
         "gap",
-        "htmlwidgets",
         "plotly"
     ],
     "famat": [
@@ -4563,7 +4405,6 @@
         "ggtree",
         "gprofiler2",
         "gson",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "patchwork",
         "plotly",
@@ -4586,7 +4427,6 @@
         "broom",
         "geepack",
         "htmlTable",
-        "htmlwidgets",
         "org.Sc.sgd.db",
         "viridis"
     ],
@@ -4594,7 +4434,6 @@
         "DT",
         "GenomicAlignments",
         "ShortRead",
-        "htmlwidgets",
         "shinyBS"
     ],
     "FCBF": [],
@@ -4608,7 +4447,6 @@
         "rtracklayer"
     ],
     "fCI": [
-        "htmlwidgets",
         "rgl"
     ],
     "fcoex": [
@@ -4688,8 +4526,7 @@
         "rtracklayer"
     ],
     "FISHalyseR": [
-        "EBImage",
-        "htmlwidgets"
+        "EBImage"
     ],
     "fishpond": [
         "SingleCellExperiment"
@@ -4700,7 +4537,6 @@
         "MSnbase",
         "MsFeatures",
         "htmlTable",
-        "htmlwidgets",
         "viridis",
         "xcms"
     ],
@@ -4725,7 +4561,6 @@
         "ggrastr",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "scater",
         "scran",
@@ -4735,12 +4570,10 @@
     "flowBin": [],
     "flowcatchR": [
         "EBImage",
-        "htmlwidgets",
         "plotly"
     ],
     "flowCHIC": [
-        "EBImage",
-        "htmlwidgets"
+        "EBImage"
     ],
     "flowCL": [
         "SPARQL"
@@ -4773,7 +4606,6 @@
     "flowGraph": [
         "ggiraph",
         "ggrepel",
-        "htmlwidgets",
         "visNetwork"
     ],
     "flowPloidy": [
@@ -4811,8 +4643,7 @@
     ],
     "fmcsR": [
         "ChemmineR",
-        "DT",
-        "htmlwidgets"
+        "DT"
     ],
     "fobitools": [
         "RecordLinkage",
@@ -4845,7 +4676,6 @@
         "geneplotter",
         "ggrepel",
         "heatmaply",
-        "htmlwidgets",
         "plotly",
         "rtracklayer",
         "viridis"
@@ -4921,7 +4751,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "htmlwidgets",
         "rtracklayer",
         "shinyjs"
     ],
@@ -4953,7 +4782,6 @@
         "geneplotter",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -4975,7 +4803,6 @@
     "gCrisprTools": [],
     "GCSscore": [
         "devtools",
-        "htmlwidgets",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -5007,7 +4834,6 @@
         "ggtext",
         "ggtree",
         "gson",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -5025,7 +4851,6 @@
     ],
     "GDSArray": [],
     "gemini": [
-        "htmlwidgets",
         "mixtools",
         "plotly"
     ],
@@ -5083,7 +4908,6 @@
         "broom",
         "car",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5094,9 +4918,7 @@
         "annotate",
         "genefilter"
     ],
-    "GeneNetworkBuilder": [
-        "htmlwidgets"
-    ],
+    "GeneNetworkBuilder": [],
     "geneplotter": [
         "AnnotationDbi",
         "annotate"
@@ -5122,7 +4944,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -5139,7 +4960,6 @@
         "geneplotter",
         "ggforce",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -5156,7 +4976,6 @@
         "BiocStyle",
         "GO.db",
         "GenomicAlignments",
-        "htmlwidgets",
         "networkD3",
         "org.Rn.eg.db",
         "rtracklayer"
@@ -5191,7 +5010,6 @@
         "rtracklayer"
     ],
     "genomicInstability": [
-        "htmlwidgets",
         "mixtools",
         "plotly"
     ],
@@ -5218,7 +5036,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -5237,7 +5054,6 @@
         "ensembldb",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -5246,7 +5062,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "GenomicSuperSignature": [
@@ -5255,7 +5070,6 @@
         "car",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5276,7 +5090,6 @@
     "GenProSeq": [
         "DeepPINCS",
         "DiagrammeR",
-        "htmlwidgets",
         "keras",
         "lexicon",
         "mlapi",
@@ -5305,7 +5118,6 @@
         "GeomxTools",
         "NanoStringNCTools",
         "ggiraph",
-        "htmlwidgets",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -5322,7 +5134,6 @@
         "ggpubr",
         "ggrepel",
         "heatmaply",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5342,7 +5153,6 @@
         "GGally",
         "NanoStringNCTools",
         "ggiraph",
-        "htmlwidgets",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -5387,7 +5197,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -5400,7 +5209,6 @@
         "ggalt",
         "ggforce",
         "ggtree",
-        "htmlwidgets",
         "patchwork",
         "plotly",
         "statebins",
@@ -5449,7 +5257,6 @@
         "annotate",
         "genefilter",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "GladiaTOX": [
@@ -5459,8 +5266,7 @@
         "AnnotationDbi",
         "DESeq2",
         "annotate",
-        "geneplotter",
-        "htmlwidgets"
+        "geneplotter"
     ],
     "glmGamPoi": [
         "SingleCellExperiment"
@@ -5519,7 +5325,6 @@
         "gRain",
         "genefilter",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "viridis"
@@ -5534,7 +5339,6 @@
     ],
     "GNET2": [
         "DiagrammeR",
-        "htmlwidgets",
         "viridis",
         "visNetwork"
     ],
@@ -5631,7 +5435,6 @@
     "GPA": [
         "DT",
         "ggrepel",
-        "htmlwidgets",
         "shinyBS"
     ],
     "gpuMagic": [
@@ -5666,7 +5469,6 @@
         "broom",
         "car",
         "drc",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5697,7 +5499,6 @@
         "GSEABase",
         "annotate",
         "graphite",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "pathview",
@@ -5778,7 +5579,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -5796,7 +5596,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -5826,7 +5625,6 @@
         "WGCNA",
         "gprofiler2",
         "htmlTable",
-        "htmlwidgets",
         "plotly",
         "viridis"
     ],
@@ -5834,12 +5632,10 @@
     "hca": [
         "BiocFileCache",
         "DT",
-        "htmlwidgets",
         "miniUI"
     ],
     "heatmaps": [
-        "EBImage",
-        "htmlwidgets"
+        "EBImage"
     ],
     "HelloRanges": [
         "AnnotationDbi",
@@ -5895,7 +5691,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -5910,7 +5705,6 @@
         "ggExtra",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "miniUI",
         "multiHiCcompare",
@@ -5940,7 +5734,6 @@
         "ensembldb",
         "ggrastr",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer",
         "viridis"
@@ -5962,7 +5755,6 @@
         "BiocFileCache",
         "DT",
         "MultiAssayExperiment",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "HIPPO": [
@@ -6009,13 +5801,11 @@
     ],
     "HumanTranscriptomeCompendium": [
         "DT",
-        "htmlwidgets",
         "ssrch"
     ],
     "hummingbird": [],
     "hypeR": [
         "ggforce",
-        "htmlwidgets",
         "kableExtra",
         "msigdbr",
         "reactable",
@@ -6028,7 +5818,6 @@
     "iCARE": [
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "icetea": [
@@ -6059,7 +5848,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "htmlwidgets",
         "lumi",
         "methylumi",
         "minfi",
@@ -6079,7 +5867,6 @@
     "iCOBRA": [
         "DT",
         "UpSetR",
-        "htmlwidgets",
         "shinyBS",
         "shinydashboard"
     ],
@@ -6105,7 +5892,6 @@
         "ggrepel",
         "goseq",
         "heatmaply",
-        "htmlwidgets",
         "pcaExplorer",
         "plotly",
         "rtracklayer",
@@ -6150,8 +5936,7 @@
         "GSEABase",
         "annotate",
         "cellHTS2",
-        "genefilter",
-        "htmlwidgets"
+        "genefilter"
     ],
     "IMAS": [
         "AnnotationDbi",
@@ -6177,7 +5962,6 @@
         "ggforce",
         "ggraph",
         "ggrepel",
-        "htmlwidgets",
         "scuttle",
         "shinydashboard",
         "svgPanZoom",
@@ -6188,14 +5972,12 @@
     "ImmuneSpaceR": [
         "dendextend",
         "heatmaply",
-        "htmlwidgets",
         "plotly",
         "viridis"
     ],
     "immunotation": [],
     "INDEED": [
         "devtools",
-        "htmlwidgets",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -6206,7 +5988,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -6266,13 +6047,10 @@
         "ensembldb",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
-    "interacCircos": [
-        "htmlwidgets"
-    ],
+    "interacCircos": [],
     "InteractionSet": [],
     "InteractiveComplexHeatmap": [
         "kableExtra"
@@ -6284,12 +6062,10 @@
         "GSEABase",
         "annotate",
         "genefilter",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "interactiveDisplayBase": [
-        "DT",
-        "htmlwidgets"
+        "DT"
     ],
     "InterCellar": [
         "AnnotationDbi",
@@ -6305,7 +6081,6 @@
         "ggpubr",
         "ggrepel",
         "golem",
-        "htmlwidgets",
         "lme4",
         "miniUI",
         "nloptr",
@@ -6359,7 +6134,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "IPO": [
@@ -6368,7 +6142,6 @@
         "MSnbase",
         "MsFeatures",
         "htmlTable",
-        "htmlwidgets",
         "viridis",
         "xcms"
     ],
@@ -6394,7 +6167,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "htmlwidgets",
         "lme4",
         "miniUI",
         "mixtools",
@@ -6421,7 +6193,6 @@
         "datamods",
         "ggrepel",
         "haven",
-        "htmlwidgets",
         "reactable",
         "rio",
         "shinyWidgets",
@@ -6432,7 +6203,6 @@
         "SingleCellExperiment",
         "colourpicker",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "shinyWidgets",
         "shinydashboard",
@@ -6443,7 +6213,6 @@
         "SingleCellExperiment",
         "colourpicker",
         "ggrepel",
-        "htmlwidgets",
         "iSEE",
         "miniUI",
         "shinyWidgets",
@@ -6459,7 +6228,6 @@
         "SingleCellExperiment",
         "colourpicker",
         "ggrepel",
-        "htmlwidgets",
         "iSEE",
         "interactiveDisplayBase",
         "miniUI",
@@ -6472,7 +6240,6 @@
         "SingleCellExperiment",
         "colourpicker",
         "ggrepel",
-        "htmlwidgets",
         "iSEE",
         "iSEEhex",
         "miniUI",
@@ -6505,7 +6272,6 @@
         "ensembldb",
         "genefilter",
         "geneplotter",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer",
         "tximeta"
@@ -6544,7 +6310,6 @@
         "ggpubr",
         "ggrepel",
         "ggtext",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6570,7 +6335,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "regioneR",
         "rtracklayer",
         "viridis"
@@ -6616,7 +6380,6 @@
         "geneplotter",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6633,7 +6396,6 @@
         "caret",
         "genefilter",
         "htmlTable",
-        "htmlwidgets",
         "recipes",
         "sva",
         "viridis"
@@ -6643,7 +6405,6 @@
         "BiocFileCache",
         "DT",
         "biomaRt",
-        "htmlwidgets",
         "learnr",
         "shinyBS",
         "shinyFiles",
@@ -6658,7 +6419,6 @@
     "lefser": [],
     "levi": [
         "DT",
-        "htmlwidgets",
         "shinydashboard",
         "shinyjs",
         "testthat"
@@ -6694,7 +6454,6 @@
     "LinTInd": [
         "aplot",
         "ggtree",
-        "htmlwidgets",
         "networkD3",
         "patchwork",
         "tidytree",
@@ -6706,7 +6465,6 @@
         "MultiDataSet",
         "fgsea",
         "ggrepel",
-        "htmlwidgets",
         "plotly",
         "ropls"
     ],
@@ -6735,7 +6493,6 @@
         "MSnbase",
         "MsFeatures",
         "htmlTable",
-        "htmlwidgets",
         "viridis",
         "xcms"
     ],
@@ -6761,7 +6518,6 @@
         "annotate",
         "biomaRt",
         "cBioPortalData",
-        "htmlwidgets",
         "miniUI",
         "motifStack",
         "rtracklayer"
@@ -6776,7 +6532,6 @@
         "DT",
         "ExperimentHub",
         "ggrepel",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "lumi": [
@@ -6809,7 +6564,6 @@
         "Hmisc",
         "densEstBayes",
         "htmlTable",
-        "htmlwidgets",
         "reldist",
         "rstan",
         "viridis"
@@ -6824,7 +6578,6 @@
         "GenomicAlignments",
         "adabag",
         "caret",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "recipes",
         "rtracklayer"
@@ -6851,7 +6604,6 @@
         "cplm",
         "glmmTMB",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -6873,7 +6625,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "made4": [],
@@ -6933,7 +6684,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "msigdbr",
         "org.Hs.eg.db",
@@ -6964,7 +6714,6 @@
         "fields",
         "haven",
         "htmlTable",
-        "htmlwidgets",
         "klaR",
         "labelled",
         "miniUI",
@@ -6985,9 +6734,7 @@
         "org.Hs.eg.db",
         "recipes"
     ],
-    "mapscape": [
-        "htmlwidgets"
-    ],
+    "mapscape": [],
     "marr": [],
     "maser": [
         "AnnotationDbi",
@@ -7003,7 +6750,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -7015,7 +6761,6 @@
         "Hmisc",
         "UpSetR",
         "htmlTable",
-        "htmlwidgets",
         "plotly",
         "proDA",
         "shinydashboard",
@@ -7056,7 +6801,6 @@
         "Hmisc",
         "WGCNA",
         "htmlTable",
-        "htmlwidgets",
         "viridis",
         "visNetwork"
     ],
@@ -7078,7 +6822,6 @@
         "Hmisc",
         "WGCNA",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "viridis"
     ],
@@ -7100,7 +6843,6 @@
         "ensembldb",
         "fgsea",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
@@ -7136,7 +6878,6 @@
         "genefilter",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "isva",
         "methylumi",
         "minfi",
@@ -7221,7 +6962,6 @@
         "ggraph",
         "ggrepel",
         "ggtree",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "patchwork",
         "scatterpie",
@@ -7259,7 +6999,6 @@
         "DT",
         "MultiAssayExperiment",
         "QFeatures",
-        "htmlwidgets",
         "plotly"
     ],
     "metabolomicsWorkbenchR": [
@@ -7280,7 +7019,6 @@
         "car",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "mygene",
         "nloptr",
@@ -7323,7 +7061,6 @@
         "MSnbase",
         "MsFeatures",
         "htmlTable",
-        "htmlwidgets",
         "viridis",
         "xcms"
     ],
@@ -7378,7 +7115,6 @@
         "genefilter",
         "geneplotter",
         "heatmaply",
-        "htmlwidgets",
         "plotly",
         "rmdformats",
         "rtracklayer",
@@ -7401,7 +7137,6 @@
         "rtracklayer"
     ],
     "MetaVolcanoR": [
-        "htmlwidgets",
         "metap",
         "plotly"
     ],
@@ -7430,7 +7165,6 @@
         "car",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "lme4",
         "nloptr",
@@ -7501,7 +7235,6 @@
         "ggpubr",
         "ggrepel",
         "haven",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "lme4",
         "methylclockData",
@@ -7584,7 +7317,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -7627,7 +7359,6 @@
         "ChemmineR",
         "DT",
         "devtools",
-        "htmlwidgets",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -7701,7 +7432,6 @@
         "dendextend",
         "geneplotter",
         "heatmaply",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7731,7 +7461,6 @@
         "ggrepel",
         "ggtree",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "lmerTest",
         "mia",
@@ -7763,7 +7492,6 @@
         "ggtree",
         "golem",
         "gson",
-        "htmlwidgets",
         "patchwork",
         "scatterpie",
         "shinyWidgets",
@@ -7787,7 +7515,6 @@
         "MultiAssayExperiment",
         "broom",
         "formattable",
-        "htmlwidgets",
         "kableExtra",
         "mice"
     ],
@@ -7821,7 +7548,6 @@
     "mina": [
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "MineICA": [
@@ -7843,7 +7569,6 @@
         "bumphunter",
         "genefilter",
         "htmlTable",
-        "htmlwidgets",
         "lumi",
         "lumiHumanAll.db",
         "methylumi",
@@ -7904,7 +7629,6 @@
         "biomaRt",
         "genefilter",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "viridis"
     ],
@@ -7955,7 +7679,6 @@
         "gson",
         "haven",
         "htmlTable",
-        "htmlwidgets",
         "iBBiG",
         "lme4",
         "miRspongeR",
@@ -8061,8 +7784,7 @@
     "mitch": [
         "GGally",
         "broom",
-        "echarts4r",
-        "htmlwidgets"
+        "echarts4r"
     ],
     "mitoClone2": [
         "AnnotationDbi",
@@ -8082,7 +7804,6 @@
         "AnnotationDbi",
         "annotate",
         "genefilter",
-        "htmlwidgets",
         "threejs"
     ],
     "MLP": [
@@ -8147,7 +7868,6 @@
         "Hmisc",
         "WGCNA",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "MOFA2": [
@@ -8198,7 +7918,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "htmlwidgets",
         "patchwork",
         "rgl",
         "scatterpie",
@@ -8218,7 +7937,6 @@
     "Motif2Site": [
         "BSgenome",
         "GenomicAlignments",
-        "htmlwidgets",
         "mixtools",
         "plotly",
         "rtracklayer"
@@ -8241,7 +7959,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "motifStack",
         "rtracklayer",
         "viridis"
@@ -8268,7 +7985,6 @@
         "GenomicAlignments",
         "TFBSTools",
         "annotate",
-        "htmlwidgets",
         "rtracklayer"
     ],
     "MouseFM": [
@@ -8295,7 +8011,6 @@
     "MsExperiment": [
         "MultiAssayExperiment",
         "QFeatures",
-        "htmlwidgets",
         "plotly"
     ],
     "MsFeatures": [],
@@ -8316,7 +8031,6 @@
         "ensembldb",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -8344,7 +8058,6 @@
         "BiocStyle",
         "DT",
         "MSnbase",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "msmsEDA",
         "msmsTests"
@@ -8366,7 +8079,6 @@
     "msqrob2": [
         "MultiAssayExperiment",
         "QFeatures",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "plotly",
@@ -8391,7 +8103,6 @@
         "ggpubr",
         "ggrepel",
         "haven",
-        "htmlwidgets",
         "lme4",
         "lmerTest",
         "modelr",
@@ -8417,7 +8128,6 @@
         "MSnbase",
         "colourpicker",
         "ggExtra",
-        "htmlwidgets",
         "miniUI",
         "plotly",
         "shinyjs"
@@ -8427,7 +8137,6 @@
         "MSstatsQC",
         "colourpicker",
         "ggExtra",
-        "htmlwidgets",
         "miniUI",
         "plotly",
         "shinyjs"
@@ -8449,7 +8158,6 @@
         "MSstatsTMT",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -8480,7 +8188,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "ggrepel",
-        "htmlwidgets",
         "plotly",
         "ropls"
     ],
@@ -8501,7 +8208,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "karyoploteR",
         "keras",
         "plyranges",
@@ -8556,7 +8262,6 @@
         "golem",
         "graphite",
         "gson",
-        "htmlwidgets",
         "metap",
         "miniUI",
         "mixOmics",
@@ -8640,7 +8345,6 @@
         "factoextra",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "learnr",
         "lme4",
         "nloptr",
@@ -8684,7 +8388,6 @@
         "Hmisc",
         "biomaRt",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -8698,7 +8401,6 @@
         "VariantAnnotation",
         "biomaRt",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -8726,7 +8428,6 @@
         "csaw",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "metap",
         "motifStack",
@@ -8745,8 +8446,7 @@
         "rtracklayer"
     ],
     "NanoStringNCTools": [
-        "ggiraph",
-        "htmlwidgets"
+        "ggiraph"
     ],
     "NanoStringQCPro": [
         "AnnotationDbi",
@@ -8804,7 +8504,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -8829,7 +8528,6 @@
         "Hmisc",
         "WGCNA",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "netboxr": [
@@ -8848,7 +8546,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "htmlwidgets",
         "patchwork",
         "scatterpie",
         "tidygraph",
@@ -8866,7 +8563,6 @@
         "RandomWalkRestartMH",
         "dnet",
         "gprofiler2",
-        "htmlwidgets",
         "plotly",
         "supraHex"
     ],
@@ -8882,7 +8578,6 @@
         "WGCNA",
         "biomaRt",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "netSmooth": [
@@ -8933,7 +8628,6 @@
     ],
     "ngsReports": [
         "DT",
-        "htmlwidgets",
         "patchwork",
         "plotly"
     ],
@@ -8969,7 +8663,6 @@
         "ggforce",
         "haven",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8977,7 +8670,6 @@
         "viridis"
     ],
     "NormqPCR": [
-        "htmlwidgets",
         "qpcR",
         "rgl"
     ],
@@ -9014,7 +8706,6 @@
         "NxtIRFdata",
         "annotate",
         "genefilter",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "plotly",
         "rtracklayer"
@@ -9037,7 +8728,6 @@
         "annotate",
         "biomaRt",
         "geneplotter",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "octad.db",
         "plotly",
@@ -9062,7 +8752,6 @@
         "ggpubr",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "megadepth",
         "nloptr",
@@ -9089,7 +8778,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer",
         "shinyBS",
@@ -9119,8 +8807,7 @@
     ],
     "omicplotR": [
         "ALDEx2",
-        "DT",
-        "htmlwidgets"
+        "DT"
     ],
     "omicRexposome": [
         "AnnotationDbi",
@@ -9135,7 +8822,6 @@
         "genefilter",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "isva",
         "lme4",
         "made4",
@@ -9168,7 +8854,6 @@
         "factoextra",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "kableExtra",
         "lme4",
         "nloptr",
@@ -9191,7 +8876,6 @@
         "ggpubr",
         "ggrepel",
         "ggtext",
-        "htmlwidgets",
         "lme4",
         "networkD3",
         "nloptr",
@@ -9226,7 +8910,6 @@
         "testthat"
     ],
     "oneSENSE": [
-        "htmlwidgets",
         "plotly",
         "shinyFiles"
     ],
@@ -9235,21 +8918,18 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "openCyto": [],
     "openPrimeR": [
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "openPrimeRui": [
         "DT",
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "openPrimeR",
         "shinyBS",
         "shinyjs",
@@ -9261,7 +8941,6 @@
         "broom",
         "car",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9284,14 +8963,12 @@
     ],
     "oppti": [
         "devtools",
-        "htmlwidgets",
         "miniUI",
         "pkgdown",
         "profvis",
         "testthat"
     ],
     "optimalFlow": [
-        "htmlwidgets",
         "rgl"
     ],
     "OPWeight": [],
@@ -9339,7 +9016,6 @@
         "ggtree",
         "gprofiler2",
         "homologene",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "patchwork",
@@ -9369,7 +9045,6 @@
         "dendextend",
         "geneplotter",
         "heatmaply",
-        "htmlwidgets",
         "plotly",
         "rtracklayer",
         "viridis"
@@ -9388,7 +9063,6 @@
         "broom",
         "car",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9476,7 +9150,6 @@
         "annotate",
         "devtools",
         "geneplotter",
-        "htmlwidgets",
         "miniUI",
         "phyloseq",
         "pkgdown",
@@ -9510,7 +9183,6 @@
         "geneplotter",
         "ggrepel",
         "heatmaply",
-        "htmlwidgets",
         "plotly",
         "shinyBS",
         "shinydashboard",
@@ -9537,7 +9209,6 @@
         "ggpubr",
         "ggrepel",
         "ggtext",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9561,7 +9232,6 @@
     "peakPantheR": [
         "DT",
         "MSnbase",
-        "htmlwidgets",
         "shinycssloaders"
     ],
     "PECA": [
@@ -9625,7 +9295,6 @@
         "DT",
         "MultiAssayExperiment",
         "fgsea",
-        "htmlwidgets",
         "piano",
         "shinydashboard",
         "shinyjs",
@@ -9638,7 +9307,6 @@
         "biodb",
         "biodbChebi",
         "ggrepel",
-        "htmlwidgets",
         "plotly",
         "ropls",
         "testthat"
@@ -9655,7 +9323,6 @@
         "genefilter",
         "hgu133a.db",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "viridis"
     ],
@@ -9705,7 +9372,6 @@
         "GO.db",
         "OmaDB",
         "colourpicker",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "miniUI",
         "shinyBS",
@@ -9725,7 +9391,6 @@
     "piano": [
         "DT",
         "fgsea",
-        "htmlwidgets",
         "shinydashboard",
         "shinyjs",
         "visNetwork"
@@ -9754,7 +9419,6 @@
         "graphite",
         "gson",
         "htmlTable",
-        "htmlwidgets",
         "patchwork",
         "reactome.db",
         "scatterpie",
@@ -9779,7 +9443,6 @@
         "fda",
         "fds",
         "htmlTable",
-        "htmlwidgets",
         "rainbow",
         "rtracklayer",
         "viridis"
@@ -9789,7 +9452,6 @@
         "SingleCellExperiment",
         "ggrastr",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -9803,7 +9465,6 @@
     "pipeFrame": [
         "BSgenome",
         "GenomicAlignments",
-        "htmlwidgets",
         "rtracklayer",
         "visNetwork"
     ],
@@ -9831,7 +9492,6 @@
         "ggpubr",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "miniUI",
         "nloptr",
@@ -9853,7 +9513,6 @@
     "pmp": [],
     "PoDCall": [
         "DT",
-        "htmlwidgets",
         "shinyjs"
     ],
     "podkat": [
@@ -9866,7 +9525,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "ontoProc"
     ],
@@ -9954,7 +9612,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "phastCons100way.UCSC.hg38",
         "rtracklayer",
@@ -9965,7 +9622,6 @@
         "MSnbase",
         "forecast",
         "htmlTable",
-        "htmlwidgets",
         "tseries",
         "viridis"
     ],
@@ -9997,7 +9653,6 @@
         "genefilter",
         "ggfortify",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pvca",
@@ -10013,7 +9668,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "ggrepel",
-        "htmlwidgets",
         "plotly",
         "ropls",
         "xcms"
@@ -10043,7 +9697,6 @@
         "ggraph",
         "ggrepel",
         "ggtree",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "patchwork",
@@ -10077,7 +9730,6 @@
         "caret",
         "dendextend",
         "genefilter",
-        "htmlwidgets",
         "mixtools",
         "plotly",
         "recipes",
@@ -10096,7 +9748,6 @@
         "colourpicker",
         "dendextend",
         "genefilter",
-        "htmlwidgets",
         "miniUI",
         "mixtools",
         "pRoloc",
@@ -10127,7 +9778,6 @@
         "MSnbase",
         "broom",
         "highcharter",
-        "htmlwidgets",
         "rhandsontable",
         "shinyBS",
         "shinycssloaders",
@@ -10179,7 +9829,6 @@
         "genefilter",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "kableExtra",
         "lme4",
         "nloptr",
@@ -10210,7 +9859,6 @@
         "ggrepel",
         "highcharter",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "miniUI",
         "pairsD3",
@@ -10223,7 +9871,6 @@
     "PSMatch": [
         "MultiAssayExperiment",
         "QFeatures",
-        "htmlwidgets",
         "plotly"
     ],
     "psygenet2r": [
@@ -10243,7 +9890,6 @@
         "ggpubr",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -10284,7 +9930,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -10294,7 +9939,6 @@
         "BiocFileCache",
         "DT",
         "biomaRt",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "pwrEWAS": [
@@ -10305,7 +9949,6 @@
         "ExperimentHub",
         "annotate",
         "genefilter",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "pwrEWAS.data",
         "shinyBS",
@@ -10316,7 +9959,6 @@
     ],
     "QFeatures": [
         "MultiAssayExperiment",
-        "htmlwidgets",
         "plotly"
     ],
     "qmtools": [
@@ -10325,7 +9967,6 @@
         "car",
         "dendextend",
         "heatmaply",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "patchwork",
@@ -10358,7 +9999,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "testthat",
         "viridis"
@@ -10374,7 +10014,6 @@
         "annotate",
         "genefilter",
         "htmlTable",
-        "htmlwidgets",
         "sva",
         "viridis"
     ],
@@ -10431,7 +10070,6 @@
         "ensembldb",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -10455,7 +10093,6 @@
         "DT",
         "MultiAssayExperiment",
         "fgsea",
-        "htmlwidgets",
         "piano",
         "shinydashboard",
         "shinyjs",
@@ -10490,7 +10127,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "biomaRt",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "phastCons100way.UCSC.hg19",
         "rtracklayer"
@@ -10503,7 +10139,6 @@
     "Rbowtie2": [],
     "Rcade": [
         "GenomicAlignments",
-        "htmlwidgets",
         "rgl"
     ],
     "RCAS": [
@@ -10517,7 +10152,6 @@
         "biomaRt",
         "genomation",
         "gprofiler2",
-        "htmlwidgets",
         "plotly",
         "rtracklayer"
     ],
@@ -10539,7 +10173,6 @@
         "AnnotationDbi",
         "GSEABase",
         "annotate",
-        "htmlwidgets",
         "mixtools",
         "plotly"
     ],
@@ -10555,7 +10188,6 @@
     "RCSL": [],
     "Rcwl": [
         "DiagrammeR",
-        "htmlwidgets",
         "viridis",
         "visNetwork"
     ],
@@ -10563,12 +10195,10 @@
         "BiocFileCache",
         "DiagrammeR",
         "Rcwl",
-        "htmlwidgets",
         "viridis",
         "visNetwork"
     ],
     "RDRToolbox": [
-        "htmlwidgets",
         "rgl"
     ],
     "ReactomeGraph4R": [
@@ -10619,7 +10249,6 @@
         "bumphunter",
         "derfinder",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -10679,7 +10308,6 @@
         "fgsea",
         "geneplotter",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "regioneR": [
@@ -10712,7 +10340,6 @@
         "derfinder",
         "geneplotter",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -10732,7 +10359,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer",
         "viridis"
@@ -10751,7 +10377,6 @@
         "bumphunter",
         "caret",
         "genefilter",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "minfi",
         "org.Hs.eg.db",
@@ -10792,7 +10417,6 @@
         "geneplotter",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -10815,7 +10439,6 @@
         "DT",
         "ExperimentHub",
         "GO.db",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "rexposome": [
@@ -10826,7 +10449,6 @@
         "car",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "mice",
         "nloptr",
@@ -10846,7 +10468,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rGenomeTracksData"
     ],
@@ -10876,7 +10497,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "biomaRt",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "rtracklayer"
     ],
@@ -10916,7 +10536,6 @@
         "biomaRt",
         "biomartr",
         "geneplotter",
-        "htmlwidgets",
         "plotly",
         "rtracklayer"
     ],
@@ -10949,7 +10568,6 @@
         "ensembldb",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -10970,7 +10588,6 @@
         "annotate",
         "biomaRt",
         "ggrepel",
-        "htmlwidgets",
         "motifStack",
         "rtracklayer"
     ],
@@ -11001,7 +10618,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "karyoploteR",
         "regioneR",
         "rtracklayer",
@@ -11045,7 +10661,6 @@
         "caret",
         "caretEnsemble",
         "ggprism",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "recipes",
         "regioneR",
@@ -11056,7 +10671,6 @@
         "ChemmineR",
         "DT",
         "MSnbase",
-        "htmlwidgets",
         "webchem"
     ],
     "Rmmquant": [
@@ -11072,7 +10686,6 @@
         "biomaRt",
         "devtools",
         "geneplotter",
-        "htmlwidgets",
         "miniUI",
         "org.Mm.eg.db",
         "pkgdown",
@@ -11098,7 +10711,6 @@
         "bumphunter",
         "derfinder",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "recount",
         "rtracklayer",
@@ -11142,7 +10754,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -11160,7 +10771,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -11178,7 +10788,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -11196,7 +10805,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -11232,7 +10840,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -11269,7 +10876,6 @@
         "ggpubr",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11311,7 +10917,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "ggrepel",
-        "htmlwidgets",
         "plotly"
     ],
     "RPA": [
@@ -11320,7 +10925,6 @@
     ],
     "rprimer": [
         "DT",
-        "htmlwidgets",
         "patchwork",
         "shinyFeedback",
         "shinycssloaders"
@@ -11343,7 +10947,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -11353,7 +10956,6 @@
         "broom",
         "car",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "metap",
         "nloptr",
@@ -11406,7 +11008,6 @@
     "RTN": [
         "broom",
         "car",
-        "htmlwidgets",
         "lme4",
         "mixtools",
         "nloptr",
@@ -11419,7 +11020,6 @@
         "RTN",
         "broom",
         "car",
-        "htmlwidgets",
         "lme4",
         "mixtools",
         "nloptr",
@@ -11433,7 +11033,6 @@
         "RTNduals",
         "broom",
         "car",
-        "htmlwidgets",
         "lme4",
         "mixtools",
         "nloptr",
@@ -11449,7 +11048,6 @@
     "Rtreemix": [
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "rTRM": [
@@ -11499,7 +11097,6 @@
         "BiocStyle",
         "DT",
         "excelR",
-        "htmlwidgets",
         "plotly",
         "sangerseqR",
         "shinyWidgets",
@@ -11524,7 +11121,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -11550,7 +11146,6 @@
         "GenomicFeatures",
         "biomaRt",
         "ensembldb",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "plotly",
         "rtracklayer",
@@ -11570,7 +11165,6 @@
         "SingleCellExperiment",
         "caret",
         "ggrepel",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "miniUI",
         "patchwork",
@@ -11594,7 +11188,6 @@
         "ExperimentHub",
         "GenomicAlignments",
         "SCATEData",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "scater": [
@@ -11613,7 +11206,6 @@
         "genefilter",
         "geneplotter",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -11626,7 +11218,6 @@
         "aplot",
         "ggrepel",
         "ggtree",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -11640,7 +11231,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -11657,7 +11247,6 @@
         "ggforce",
         "ggraph",
         "ggrepel",
-        "htmlwidgets",
         "mixtools",
         "patchwork",
         "plotly",
@@ -11674,7 +11263,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -11728,7 +11316,6 @@
         "SingleCellExperiment",
         "ggforce",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -11746,7 +11333,6 @@
     "scMAGeCK": [
         "Seurat",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -11762,7 +11348,6 @@
         "SingleCellExperiment",
         "densEstBayes",
         "htmlTable",
-        "htmlwidgets",
         "reldist",
         "rstan",
         "ruv",
@@ -11785,7 +11370,6 @@
         "annotatr",
         "biomaRt",
         "bsseq",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "regioneR",
         "rtracklayer"
@@ -11803,7 +11387,6 @@
         "ShortRead",
         "SingleCellExperiment",
         "biomaRt",
-        "htmlwidgets",
         "mixtools",
         "plotly",
         "rtracklayer"
@@ -11830,7 +11413,6 @@
         "MultiAssayExperiment",
         "QFeatures",
         "SingleCellExperiment",
-        "htmlwidgets",
         "plotly"
     ],
     "scPCA": [],
@@ -11891,7 +11473,6 @@
         "ensembldb",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -11931,7 +11512,6 @@
         "graphite",
         "gson",
         "heatmaply",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "meshr",
         "miniUI",
@@ -11959,7 +11539,6 @@
         "fields",
         "ggforce",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "msigdbr",
         "nnTensor",
@@ -11988,7 +11567,6 @@
         "ggraph",
         "ggrastr",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -12062,7 +11640,6 @@
         "WGCNA",
         "biomaRt",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "seqArchR": [],
@@ -12098,7 +11675,6 @@
         "DT",
         "ExperimentHub",
         "GGally",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rbokeh"
     ],
@@ -12113,7 +11689,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "sesameData"
     ],
@@ -12152,7 +11727,6 @@
         "dendextend",
         "genefilter",
         "heatmaply",
-        "htmlwidgets",
         "minfi",
         "plotly",
         "rtracklayer",
@@ -12191,7 +11765,6 @@
         "MLInterfaces",
         "annotate",
         "genefilter",
-        "htmlwidgets",
         "threejs"
     ],
     "sigFeature": [],
@@ -12218,7 +11791,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "patchwork",
@@ -12244,7 +11816,6 @@
         "ggpubr",
         "ggrepel",
         "ggtext",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -12323,7 +11894,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "cytomapper",
-        "htmlwidgets",
         "scuttle",
         "shinydashboard",
         "svgPanZoom",
@@ -12389,7 +11959,6 @@
         "ggtree",
         "hgu95a.db",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "metap",
         "miniUI",
@@ -12437,7 +12006,6 @@
         "GSEABase",
         "annotate",
         "ggrepel",
-        "htmlwidgets",
         "plotly"
     ],
     "SISPA": [
@@ -12508,7 +12076,6 @@
         "geneLenDataBase",
         "goseq",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "reactome.db",
         "rtracklayer",
@@ -12547,7 +12114,6 @@
     ],
     "sojourner": [
         "EBImage",
-        "htmlwidgets",
         "mixtools",
         "plotly",
         "sampSurf",
@@ -12568,7 +12134,6 @@
         "ensembldb",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -12578,7 +12143,6 @@
         "SingleCellExperiment",
         "ggrastr",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -12594,7 +12158,6 @@
         "BiocSet",
         "GSEABase",
         "annotate",
-        "htmlwidgets",
         "plotly",
         "viridis"
     ],
@@ -12614,7 +12177,6 @@
         "ggforce",
         "ggiraph",
         "ggrepel",
-        "htmlwidgets",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs"
@@ -12632,7 +12194,6 @@
         "GeomxTools",
         "NanoStringNCTools",
         "ggiraph",
-        "htmlwidgets",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -12664,7 +12225,6 @@
         "ggrastr",
         "ggrepel",
         "htmlTable",
-        "htmlwidgets",
         "plotly",
         "scater",
         "scran",
@@ -12692,7 +12252,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "motifmatchr",
         "rtracklayer",
         "viridis"
@@ -12715,7 +12274,6 @@
         "alphahull",
         "dittoSeq",
         "ggrepel",
-        "htmlwidgets",
         "plotly",
         "scuttle"
     ],
@@ -12763,7 +12321,6 @@
         "dendextend",
         "genefilter",
         "heatmaply",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "plotly",
         "rhandsontable",
@@ -12801,7 +12358,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -12836,7 +12392,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -12856,13 +12411,11 @@
         "SingleCellExperiment",
         "WGCNA",
         "htmlTable",
-        "htmlwidgets",
         "phyloseq",
         "viridis"
     ],
     "SQLDataFrame": [],
     "sRACIPE": [
-        "htmlwidgets",
         "visNetwork"
     ],
     "SRAdb": [
@@ -12886,7 +12439,6 @@
         "ensembldb",
         "geneplotter",
         "htmlTable",
-        "htmlwidgets",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -12915,8 +12467,7 @@
         "mosaicCore"
     ],
     "ssrch": [
-        "DT",
-        "htmlwidgets"
+        "DT"
     ],
     "ssviz": [],
     "stageR": [],
@@ -12933,7 +12484,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -12992,7 +12542,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -13027,7 +12576,6 @@
         "AnnotationDbi",
         "caret",
         "ggrepel",
-        "htmlwidgets",
         "networkD3",
         "org.Hs.eg.db",
         "recipes"
@@ -13102,8 +12650,7 @@
         "SingleCellExperiment"
     ],
     "synapsis": [
-        "EBImage",
-        "htmlwidgets"
+        "EBImage"
     ],
     "synapter": [
         "MSnbase"
@@ -13118,7 +12665,6 @@
         "ggrepel",
         "gstat",
         "haven",
-        "htmlwidgets",
         "lme4",
         "mice",
         "modelr",
@@ -13142,7 +12688,6 @@
         "GenomicAlignments",
         "ggnetwork",
         "ggrepel",
-        "htmlwidgets",
         "intergraph",
         "networkD3",
         "rtracklayer",
@@ -13150,13 +12695,11 @@
     ],
     "systemPipeR": [
         "GenomicAlignments",
-        "ShortRead",
-        "htmlwidgets"
+        "ShortRead"
     ],
     "systemPipeShiny": [
         "DT",
         "drawer",
-        "htmlwidgets",
         "plotly",
         "shinyFiles",
         "shinyWidgets",
@@ -13178,7 +12721,6 @@
         "geneplotter",
         "ggrepel",
         "ggtree",
-        "htmlwidgets",
         "patchwork",
         "plotly",
         "tidytree",
@@ -13232,7 +12774,6 @@
         "GenomicAlignments",
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "TBSignatureProfiler": [
@@ -13247,7 +12788,6 @@
         "genefilter",
         "geneplotter",
         "ggrepel",
-        "htmlwidgets",
         "plotly",
         "singscore",
         "sva"
@@ -13300,7 +12840,6 @@
         "ggtree",
         "gson",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "lme4",
         "miniUI",
@@ -13362,7 +12901,6 @@
         "DT",
         "ExperimentHub",
         "GO.db",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "ontoProc",
         "org.Mm.eg.db",
@@ -13381,7 +12919,6 @@
         "RaggedExperiment",
         "TCGAutils",
         "biomaRt",
-        "htmlwidgets",
         "miniUI",
         "rtracklayer"
     ],
@@ -13427,18 +12964,15 @@
         "DT",
         "GSEABase",
         "annotate",
-        "htmlwidgets",
         "miniUI",
         "org.Hs.eg.db"
     ],
     "tidybulk": [],
     "tidySingleCellExperiment": [
         "SingleCellExperiment",
-        "htmlwidgets",
         "plotly"
     ],
     "tidySummarizedExperiment": [
-        "htmlwidgets",
         "plotly"
     ],
     "tigre": [
@@ -13455,9 +12989,7 @@
         "mixOmics",
         "propr"
     ],
-    "timescape": [
-        "htmlwidgets"
-    ],
+    "timescape": [],
     "TimiRGeN": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -13492,7 +13024,6 @@
         "Hmisc",
         "WGCNA",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "TissueEnrich": [
@@ -13544,9 +13075,7 @@
         "rstatix",
         "testthat"
     ],
-    "TnT": [
-        "htmlwidgets"
-    ],
+    "TnT": [],
     "TOAST": [
         "GGally"
     ],
@@ -13555,7 +13084,6 @@
     ],
     "tomoseqr": [
         "BiocFileCache",
-        "htmlwidgets",
         "plotly"
     ],
     "topdownr": [
@@ -13570,7 +13098,6 @@
         "DT",
         "MultiAssayExperiment",
         "fgsea",
-        "htmlwidgets",
         "piano",
         "shinydashboard",
         "shinyjs",
@@ -13596,7 +13123,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -13607,7 +13133,6 @@
         "viridis"
     ],
     "TrajectoryGeometry": [
-        "htmlwidgets",
         "rgl"
     ],
     "TrajectoryUtils": [
@@ -13662,7 +13187,6 @@
     "traviz": [
         "SingleCellExperiment",
         "TrajectoryUtils",
-        "htmlwidgets",
         "rgl",
         "slingshot",
         "viridis"
@@ -13682,7 +13206,6 @@
         "ggpubr",
         "ggrepel",
         "ggtree",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "patchwork",
@@ -13713,14 +13236,12 @@
         "WGCNA",
         "biomaRt",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "rtracklayer",
         "viridis"
     ],
     "Trendy": [
         "DT",
-        "htmlwidgets",
         "shinyFiles"
     ],
     "TRESS": [
@@ -13750,7 +13271,6 @@
     "tripr": [
         "DT",
         "golem",
-        "htmlwidgets",
         "plotly",
         "shinyBS",
         "shinyFiles",
@@ -13776,7 +13296,6 @@
     ],
     "ttgsea": [
         "DiagrammeR",
-        "htmlwidgets",
         "keras",
         "lexicon",
         "mlapi",
@@ -13788,7 +13307,6 @@
         "visNetwork"
     ],
     "TTMap": [
-        "htmlwidgets",
         "rgl"
     ],
     "TVTB": [
@@ -13806,7 +13324,6 @@
         "ensemblVEP",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -13828,7 +13345,6 @@
         "GenomicFeatures",
         "biomaRt",
         "ensembldb",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -13846,7 +13362,6 @@
         "Organism.dplyr",
         "biomaRt",
         "ggrepel",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "mirbase.db",
         "plotgardener",
@@ -13900,7 +13415,6 @@
         "condformat",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "org.Hs.eg.db",
         "rtracklayer",
         "shinyBS",
@@ -13933,7 +13447,6 @@
         "SingleCellExperiment",
         "ggrastr",
         "ggrepel",
-        "htmlwidgets",
         "keras",
         "lexicon",
         "mlapi",
@@ -14003,7 +13516,6 @@
         "biovizBase",
         "ensembldb",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer",
         "shinyTree",
@@ -14065,7 +13577,6 @@
         "ggrepel"
     ],
     "viper": [
-        "htmlwidgets",
         "mixtools",
         "plotly"
     ],
@@ -14082,7 +13593,6 @@
         "dendextend",
         "fgsea",
         "heatmaply",
-        "htmlwidgets",
         "plotly",
         "topGO",
         "viridis",
@@ -14100,7 +13610,6 @@
         "ggraph",
         "ggrepel",
         "ggwordcloud",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "lexicon",
         "msigdb",
@@ -14138,7 +13647,6 @@
         "VariantAnnotation",
         "biomaRt",
         "gwascat",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -14162,7 +13670,6 @@
         "ensembldb",
         "geneplotter",
         "ggrepel",
-        "htmlwidgets",
         "mixtools",
         "plotly",
         "regioneR",
@@ -14206,7 +13713,6 @@
         "Hmisc",
         "biomaRt",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -14223,7 +13729,6 @@
     "wpm": [
         "DT",
         "golem",
-        "htmlwidgets",
         "shinyWidgets",
         "shinycustomloader",
         "shinydashboard"
@@ -14250,7 +13755,6 @@
         "MultiAssayExperiment",
         "PharmacoGx",
         "fgsea",
-        "htmlwidgets",
         "piano",
         "shinydashboard",
         "shinyjs",
@@ -14261,12 +13765,10 @@
         "BSgenome",
         "GenomicAlignments",
         "formattable",
-        "htmlwidgets",
         "rtracklayer"
     ],
     "yamss": [
-        "EBImage",
-        "htmlwidgets"
+        "EBImage"
     ],
     "YAPSA": [
         "AnnotationDbi",
@@ -14286,7 +13788,6 @@
         "ensembldb",
         "ggbio",
         "htmlTable",
-        "htmlwidgets",
         "rtracklayer",
         "viridis"
     ],
@@ -14337,16 +13838,9 @@
     "GO.db": [
         "AnnotationDbi"
     ],
-    "flexdashboard": [
-        "htmlwidgets"
-    ],
-    "plotly": [
-        "htmlwidgets"
-    ],
-    "htmlwidgets": [],
-    "DT": [
-        "htmlwidgets"
-    ],
+    "flexdashboard": [],
+    "plotly": [],
+    "DT": [],
     "ggrepel": [],
     "ggpubr": [
         "broom",
@@ -14395,7 +13889,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "PFAM.db": [
@@ -14403,13 +13896,10 @@
     ],
     "Hmisc": [
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "GGally": [],
-    "htmlTable": [
-        "htmlwidgets"
-    ],
+    "htmlTable": [],
     "viridis": [],
     "ggrastr": [],
     "shinydashboard": [],
@@ -14421,7 +13911,6 @@
         "DT",
         "ExperimentHub",
         "MultiAssayExperiment",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "waffle": [],
@@ -14447,7 +13936,6 @@
     ],
     "Seurat": [
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -14506,7 +13994,6 @@
         "DT",
         "GenomicAlignments",
         "GenomicScores",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -14518,7 +14005,6 @@
         "DT",
         "GenomicAlignments",
         "GenomicScores",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -14530,7 +14016,6 @@
         "DT",
         "GenomicAlignments",
         "GenomicScores",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -14627,7 +14112,6 @@
         "AnnotationDbi"
     ],
     "mixtools": [
-        "htmlwidgets",
         "plotly"
     ],
     "doBy": [
@@ -14643,9 +14127,7 @@
     "dendextend": [
         "viridis"
     ],
-    "threejs": [
-        "htmlwidgets"
-    ],
+    "threejs": [],
     "rstan": [],
     "prettydoc": [],
     "BSgenome.Ecoli.NCBI.20080805": [
@@ -14655,18 +14137,15 @@
     ],
     "ggExtra": [
         "colourpicker",
-        "htmlwidgets",
         "miniUI",
         "shinyjs"
     ],
     "colourpicker": [
-        "htmlwidgets",
         "miniUI",
         "shinyjs"
     ],
     "heatmaply": [
         "dendextend",
-        "htmlwidgets",
         "plotly",
         "viridis"
     ],
@@ -14692,7 +14171,6 @@
         "DT",
         "broom",
         "car",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "patchwork",
@@ -14705,13 +14183,10 @@
         "AnnotationDbi"
     ],
     "DiagrammeR": [
-        "htmlwidgets",
         "viridis",
         "visNetwork"
     ],
-    "visNetwork": [
-        "htmlwidgets"
-    ],
+    "visNetwork": [],
     "gson": [],
     "HDO.db": [
         "AnnotationDbi"
@@ -14733,7 +14208,6 @@
     "rms": [
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "precrec": [],
@@ -14742,7 +14216,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "synaptome.data"
     ],
@@ -14751,7 +14224,6 @@
         "GO.db",
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "synaptome.data": [
@@ -14759,16 +14231,13 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "ggnetwork": [
         "ggrepel"
     ],
     "intergraph": [],
-    "networkD3": [
-        "htmlwidgets"
-    ],
+    "networkD3": [],
     "shinyBS": [],
     "superheat": [],
     "biscuiteerData": [
@@ -14777,7 +14246,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "pasilla": [
@@ -14813,7 +14281,6 @@
         "bumphunter",
         "derfinder",
         "htmlTable",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -14825,16 +14292,13 @@
         "rtracklayer"
     ],
     "devtools": [
-        "htmlwidgets",
         "miniUI",
         "pkgdown",
         "profvis",
         "testthat"
     ],
     "pkgdown": [],
-    "profvis": [
-        "htmlwidgets"
-    ],
+    "profvis": [],
     "ggtext": [],
     "vcfR": [],
     "drc": [
@@ -14850,7 +14314,6 @@
         "broom",
         "car",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -14992,9 +14455,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "rgl": [
-        "htmlwidgets"
-    ],
+    "rgl": [],
     "phylobase": [
         "RNeXML"
     ],
@@ -15014,7 +14475,6 @@
         "dendextend",
         "ggpubr",
         "ggrepel",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -15040,7 +14500,6 @@
     "contrast": [
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "rms",
         "viridis"
     ],
@@ -15073,7 +14532,6 @@
         "xcms"
     ],
     "dorothea": [
-        "htmlwidgets",
         "mixtools",
         "plotly",
         "viper"
@@ -15084,7 +14542,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "keras": [],
@@ -15093,8 +14550,7 @@
         "shinyjs"
     ],
     "highcharter": [
-        "broom",
-        "htmlwidgets"
+        "broom"
     ],
     "cytometree": [],
     "mrfDepth": [],
@@ -15116,12 +14572,9 @@
         "nloptr",
         "testthat"
     ],
-    "svgPanZoom": [
-        "htmlwidgets"
-    ],
+    "svgPanZoom": [],
     "plsVarSel": [
         "MSQC",
-        "htmlwidgets",
         "rgl"
     ],
     "arm": [
@@ -15130,7 +14583,6 @@
         "testthat"
     ],
     "MSQC": [
-        "htmlwidgets",
         "rgl"
     ],
     "DAPARdata": [
@@ -15146,9 +14598,7 @@
         "nloptr",
         "testthat"
     ],
-    "diffr": [
-        "htmlwidgets"
-    ],
+    "diffr": [],
     "webchem": [],
     "text2vec": [
         "mlapi"
@@ -15188,7 +14638,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "EntropyExplorer": [],
@@ -15198,13 +14647,11 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "qgraph": [
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "ewceData": [
@@ -15213,19 +14660,16 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "homologene": [],
     "gprofiler2": [
-        "htmlwidgets",
         "plotly"
     ],
     "ComplexUpset": [
         "patchwork"
     ],
     "gap": [
-        "htmlwidgets",
         "plotly"
     ],
     "geepack": [
@@ -15240,9 +14684,7 @@
     ],
     "rainbow": [],
     "SPARQL": [],
-    "ggiraph": [
-        "htmlwidgets"
-    ],
+    "ggiraph": [],
     "RecordLinkage": [],
     "NHPoisson": [
         "broom",
@@ -15272,28 +14714,21 @@
     "bs4Dash": [
         "waiter"
     ],
-    "tippy": [
-        "htmlwidgets"
-    ],
+    "tippy": [],
     "shinyHeatmaply": [
         "dendextend",
         "heatmaply",
-        "htmlwidgets",
         "plotly",
         "viridis"
     ],
-    "shinybusy": [
-        "htmlwidgets"
-    ],
+    "shinybusy": [],
     "ggalt": [
-        "htmlwidgets",
         "plotly"
     ],
     "statebins": [],
     "HH": [
         "Hmisc",
         "htmlTable",
-        "htmlwidgets",
         "viridis"
     ],
     "gRain": [
@@ -15307,13 +14742,10 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "available": [],
-    "reactable": [
-        "htmlwidgets"
-    ],
+    "reactable": [],
     "biclust": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "AnnotationDbi",
@@ -15324,13 +14756,10 @@
         "rtracklayer"
     ],
     "golem": [],
-    "wordcloud2": [
-        "htmlwidgets"
-    ],
+    "wordcloud2": [],
     "AdaptGauss": [],
     "datamods": [
         "haven",
-        "htmlwidgets",
         "reactable",
         "rio",
         "shinyWidgets",
@@ -15345,13 +14774,10 @@
         "org.Hs.eg.db"
     ],
     "sortable": [
-        "htmlwidgets",
         "learnr"
     ],
     "shinyvalidate": [],
-    "learnr": [
-        "htmlwidgets"
-    ],
+    "learnr": [],
     "reldist": [
         "densEstBayes",
         "rstan"
@@ -15376,7 +14802,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "plsgenomics": [
@@ -15428,7 +14853,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "FlowSorted.Blood.450k": [
@@ -15457,7 +14881,6 @@
         "GenomicFeatures",
         "OrganismDbi",
         "biomaRt",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -15465,9 +14888,7 @@
         "GGally"
     ],
     "shinycustomloader": [],
-    "formattable": [
-        "htmlwidgets"
-    ],
+    "formattable": [],
     "HardyWeinberg": [
         "broom",
         "mice"
@@ -15510,17 +14931,14 @@
     ],
     "rearrr": [],
     "echarts4r": [
-        "broom",
-        "htmlwidgets"
+        "broom"
     ],
     "MKmisc": [],
     "HiveR": [
-        "htmlwidgets",
         "rgl"
     ],
     "anyLib": [
         "devtools",
-        "htmlwidgets",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -15537,9 +14955,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "shinyjqui": [
-        "htmlwidgets"
-    ],
+    "shinyjqui": [],
     "mppa": [],
     "dnet": [
         "supraHex"
@@ -15550,7 +14966,6 @@
         "car",
         "haven",
         "htmlTable",
-        "htmlwidgets",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -15558,7 +14973,6 @@
         "viridis"
     ],
     "qpcR": [
-        "htmlwidgets",
         "rgl"
     ],
     "NxtIRFdata": [
@@ -15568,7 +14982,6 @@
         "DT",
         "ExperimentHub",
         "GenomicAlignments",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -15578,7 +14991,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "diceR": [
@@ -15630,16 +15042,13 @@
         "DT",
         "GenomicAlignments",
         "GenomicScores",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
     "forecast": [
         "tseries"
     ],
-    "rhandsontable": [
-        "htmlwidgets"
-    ],
+    "rhandsontable": [],
     "EnsDb.Mmusculus.v79": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -15658,16 +15067,13 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "pairsD3": [
-        "htmlwidgets"
-    ],
+    "pairsD3": [],
     "pwrEWAS.data": [
         "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "phastCons100way.UCSC.hg19": [
@@ -15678,7 +15084,6 @@
         "DT",
         "GenomicAlignments",
         "GenomicScores",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -15698,7 +15103,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "valr": [
@@ -15717,15 +15121,12 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "TBX20BamSubset": [],
     "fission": [],
     "treemap": [],
-    "excelR": [
-        "htmlwidgets"
-    ],
+    "excelR": [],
     "SBGNview.data": [],
     "scanMiRData": [
         "scanMiR"
@@ -15737,7 +15138,6 @@
         "DT",
         "ExperimentHub",
         "GenomicAlignments",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "Rmagic": [],
@@ -15757,9 +15157,7 @@
         "tidygraph",
         "viridis"
     ],
-    "rbokeh": [
-        "htmlwidgets"
-    ],
+    "rbokeh": [],
     "survivalAnalysis": [
         "broom",
         "car",
@@ -15782,7 +15180,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "GSVAdata": [
@@ -15795,7 +15192,6 @@
     "SoupX": [
         "Seurat",
         "ggrepel",
-        "htmlwidgets",
         "miniUI",
         "patchwork",
         "plotly",
@@ -15813,7 +15209,6 @@
         "SingleCellExperiment",
         "biomaRt",
         "ensembldb",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -15824,7 +15219,6 @@
         "DT",
         "ExperimentHub",
         "SingleCellExperiment",
-        "htmlwidgets",
         "interactiveDisplayBase"
     ],
     "hgu95a.db": [
@@ -15890,12 +15284,9 @@
         "AnnotationDbi"
     ],
     "condformat": [
-        "htmlTable",
-        "htmlwidgets"
+        "htmlTable"
     ],
-    "shinyTree": [
-        "htmlwidgets"
-    ],
+    "shinyTree": [],
     "msigdb": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -15904,7 +15295,6 @@
         "ExperimentHub",
         "GSEABase",
         "annotate",
-        "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "org.Mm.eg.db"
