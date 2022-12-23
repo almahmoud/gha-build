@@ -3180,7 +3180,6 @@
         "multtest",
         "nloptr",
         "openssl",
-        "optextras",
         "optimr",
         "patchwork",
         "pheatmap",
@@ -54187,7 +54186,6 @@
         "dplyr",
         "ggplot2",
         "multtest",
-        "optextras",
         "optimr",
         "phyloseq",
         "pillar",
@@ -54209,8 +54207,7 @@
     ],
     "optimr": [
         "Rcgmin",
-        "Rvmmin",
-        "optextras"
+        "Rvmmin"
     ],
     "detectseparation": [
         "ROI.plugin.lpsolve"
@@ -54219,13 +54216,8 @@
         "survival"
     ],
     "ROI.plugin.lpsolve": [],
-    "optextras": [],
-    "Rvmmin": [
-        "optextras"
-    ],
-    "Rcgmin": [
-        "optextras"
-    ],
+    "Rvmmin": [],
+    "Rcgmin": [],
     "sjmisc": [
         "dplyr",
         "pillar",
