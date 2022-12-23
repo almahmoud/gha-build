@@ -58109,7 +58109,6 @@
         "vctrs",
         "vsn"
     ],
-    "timecourse": [],
     "timeOmics": [
         "BiocParallel",
         "RSpectra",
