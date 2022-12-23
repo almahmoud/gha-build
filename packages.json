@@ -635,7 +635,6 @@
         "diffcyt",
         "factoextra",
         "ggpubr",
-        "mbest",
         "pbkrtest",
         "rstatix"
     ],
@@ -644,7 +643,6 @@
         "car",
         "factoextra",
         "ggpubr",
-        "mbest",
         "pbkrtest",
         "rstatix"
     ],
@@ -3107,7 +3105,6 @@
     "dorothea": [],
     "crisprScoreData": [],
     "RFOC": [],
-    "mbest": [],
     "arm": [],
     "rsq": [],
     "text2vec": [
