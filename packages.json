@@ -1225,9 +1225,7 @@
     "simpleSeg": [
         "cytomapper"
     ],
-    "singleCellTK": [
-        "scRNAseq"
-    ],
+    "singleCellTK": [],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
         "QuasR"
@@ -1495,7 +1493,6 @@
         "rstatix",
         "survminer"
     ],
-    "scRNAseq": [],
     "sampSurf": [],
     "GenKern": [],
     "vbsr": [],
