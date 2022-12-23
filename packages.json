@@ -3771,11 +3771,9 @@
     "megadepth": [],
     "Melissa": [],
     "memes": [],
-    "MeSHDbi": [],
     "meshes": [
         "DOSE",
         "GOSemSim",
-        "MeSHDbi",
         "enrichplot",
         "ggraph",
         "ggtree",
@@ -3784,7 +3782,6 @@
     "meshr": [
         "Category",
         "GSEABase",
-        "MeSHDbi",
         "genefilter"
     ],
     "Metab": [
@@ -6229,7 +6226,6 @@
         "GOSemSim",
         "GOstats",
         "GSEABase",
-        "MeSHDbi",
         "ReactomePA",
         "Seurat",
         "ccTensor",
