@@ -2028,7 +2028,6 @@
     "clusterExperiment": [
         "AnnotationDbi",
         "HDF5Array",
-        "RNeXML",
         "SingleCellExperiment",
         "annotate",
         "benchmarkme",
@@ -7879,7 +7878,6 @@
     "netSmooth": [
         "AnnotationDbi",
         "HDF5Array",
-        "RNeXML",
         "SingleCellExperiment",
         "annotate",
         "benchmarkme",
@@ -13192,11 +13190,8 @@
         "rtracklayer"
     ],
     "rgl": [],
-    "phylobase": [
-        "RNeXML"
-    ],
+    "phylobase": [],
     "benchmarkme": [],
-    "RNeXML": [],
     "rio": [
         "haven"
     ],
