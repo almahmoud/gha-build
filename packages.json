@@ -2426,7 +2426,6 @@
         "topGO",
         "viridis"
     ],
-    "BioMVCClass": [],
     "biomvRCNS": [
         "AnnotationDbi",
         "AnnotationFilter",
