@@ -1,0 +1,144 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   e1ef04ea..d6897317  main       -> origin/main
+Updating e1ef04ea..d6897317
+Fast-forward
+ logs/run_ids/rstudio-binaries/RTCA         | 2 ++
+ logs/run_ids/rstudio-binaries/SeuratObject | 2 ++
+ logs/run_ids/rstudio-binaries/skmeans      | 2 ++
+ 3 files changed, 6 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/SeuratObject
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=Rvmmin
++ PKG=Rvmmin
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "Rvmmin"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 14  224k   14 32640    0     0  59078      0  0:00:03 --:--:--  0:00:03 59023100  224k  100  224k    0     0   243k      0 --:--:-- --:--:-- --:--:--  243k
+built/
+built/optextras/
+built/optextras/NEWS
+built/optextras/NAMESPACE
+built/optextras/DESCRIPTION
+built/optextras/help/
+built/optextras/help/optextras.rdx
+built/optextras/help/paths.rds
+built/optextras/help/aliases.rds
+built/optextras/help/AnIndex
+built/optextras/help/optextras.rdb
+built/optextras/Meta/
+built/optextras/Meta/package.rds
+built/optextras/Meta/features.rds
+built/optextras/Meta/hsearch.rds
+built/optextras/Meta/links.rds
+built/optextras/Meta/nsInfo.rds
+built/optextras/Meta/Rd.rds
+built/optextras/html/
+built/optextras/html/00Index.html
+built/optextras/html/R.css
+built/optextras/INDEX
+built/optextras/R/
+built/optextras/R/optextras.rdx
+built/optextras/R/optextras
+built/optextras/R/optextras.rdb
+built/numDeriv/
+built/numDeriv/NEWS
+built/numDeriv/NAMESPACE
+built/numDeriv/DESCRIPTION
+built/numDeriv/help/
+built/numDeriv/help/paths.rds
+built/numDeriv/help/numDeriv.rdx
+built/numDeriv/help/numDeriv.rdb
+built/numDeriv/help/aliases.rds
+built/numDeriv/help/AnIndex
+built/numDeriv/Meta/
+built/numDeriv/Meta/package.rds
+built/numDeriv/Meta/vignette.rds
+built/numDeriv/Meta/features.rds
+built/numDeriv/Meta/hsearch.rds
+built/numDeriv/Meta/links.rds
+built/numDeriv/Meta/nsInfo.rds
+built/numDeriv/Meta/Rd.rds
+built/numDeriv/html/
+built/numDeriv/html/00Index.html
+built/numDeriv/html/R.css
+built/numDeriv/INDEX
+built/numDeriv/doc/
+built/numDeriv/doc/Guide.R
+built/numDeriv/doc/Guide.pdf
+built/numDeriv/doc/index.html
+built/numDeriv/doc/Guide.Stex
+built/numDeriv/R/
+built/numDeriv/R/numDeriv.rdx
+built/numDeriv/R/numDeriv.rdb
+built/numDeriv/R/numDeriv
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''Rvmmin'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv numDeriv_2016.8-1.1_R_x86_64-pc-linux-gnu.tar.gz optextras_2019-12.4_R_x86_64-pc-linux-gnu.tar.gz Rvmmin_2018-4.17.1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/Rvmmin
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'Rvmmin'
+also installing the dependencies ‘numDeriv’, ‘optextras’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/numDeriv_2016.8-1.1.tar.gz'
+Content type 'binary/octet-stream' length 112651 bytes (110 KB)
+==================================================
+downloaded 110 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/optextras_2019-12.4.tar.gz'
+Content type 'binary/octet-stream' length 116974 bytes (114 KB)
+==================================================
+downloaded 114 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/Rvmmin_2018-4.17.1.tar.gz'
+Content type 'binary/octet-stream' length 77337 bytes (75 KB)
+==================================================
+downloaded 75 KB
+
+* installing *binary* package ‘numDeriv’ ...
+* ‘numDeriv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘numDeriv’ as ‘numDeriv_2016.8-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (numDeriv)
+* installing *binary* package ‘optextras’ ...
+* ‘optextras’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘optextras’ as ‘optextras_2019-12.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (optextras)
+* installing *binary* package ‘Rvmmin’ ...
+* ‘Rvmmin’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Rvmmin’ as ‘Rvmmin_2018-4.17.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rvmmin)
+
+The downloaded source packages are in
+	‘/tmp/RtmpI7KIBw/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m8.251s
+user	0m4.413s
+sys	0m0.526s

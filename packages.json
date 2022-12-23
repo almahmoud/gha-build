@@ -2810,7 +2810,6 @@
         "NADA",
         "ROCR",
         "RSQLite",
-        "Rvmmin",
         "ScaledMatrix",
         "Seurat",
         "SeuratObject",
@@ -49351,7 +49350,6 @@
     "corncob": [
         "Biostrings",
         "GenomeInfoDb",
-        "Rvmmin",
         "XVector",
         "biomformat",
         "dplyr",
@@ -49376,12 +49374,9 @@
         "tidyselect",
         "vctrs"
     ],
-    "optimr": [
-        "Rvmmin"
-    ],
+    "optimr": [],
     "survey": [],
     "softImpute": [],
-    "Rvmmin": [],
     "sjmisc": [
         "dplyr",
         "pillar",
