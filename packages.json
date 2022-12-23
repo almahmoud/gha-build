@@ -3996,7 +3996,6 @@
         "BSgenome",
         "DESeq2",
         "GenomicFeatures",
-        "biomartr",
         "geneplotter"
     ],
     "Organism.dplyr": [
@@ -4663,7 +4662,6 @@
         "DESeq2",
         "GenomicFeatures",
         "ORFik",
-        "biomartr",
         "geneplotter"
     ],
     "RiboDiPA": [
@@ -5685,7 +5683,6 @@
         "DESeq2",
         "GenomicFeatures",
         "ORFik",
-        "biomartr",
         "geneplotter"
     ],
     "TFutils": [
@@ -6514,7 +6511,6 @@
         "lme4",
         "nloptr"
     ],
-    "biomartr": [],
     "verification": [],
     "genlasso": [],
     "phastCons100way.UCSC.hg38": [
