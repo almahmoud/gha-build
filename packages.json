@@ -2238,7 +2238,6 @@
         "XVector"
     ],
     "BiGGR": [
-        "hyperdraw",
         "stringr"
     ],
     "bigmelon": [
@@ -15215,7 +15214,6 @@
         "tweenr",
         "visNetwork"
     ],
-    "hyperdraw": [],
     "iasva": [
         "GenomicRanges",
         "SummarizedExperiment",
