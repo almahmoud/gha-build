@@ -285,7 +285,6 @@
     "BgeeCall": [
         "GenomicFeatures"
     ],
-    "BgeeDB": [],
     "BicARE": [],
     "bigmelon": [
         "FDb.InfiniumMethylation.hg19",
@@ -3507,9 +3506,7 @@
         "recount"
     ],
     "PSMatch": [],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "car",
         "ggpubr",
@@ -3807,7 +3804,6 @@
         "regioneR"
     ],
     "RITAN": [
-        "BgeeDB",
         "EnsDb.Hsapiens.v86",
         "GenomicFeatures",
         "ensembldb"
