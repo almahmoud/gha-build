@@ -331,7 +331,6 @@
         "rGREAT",
         "rhdf5",
         "rtracklayer",
-        "tidyverse",
         "viridis"
     ],
     "ATACseqQC": [
@@ -1862,7 +1861,6 @@
     "dce": [
         "epiNEM",
         "ggraph",
-        "tidyverse",
         "viridis"
     ],
     "ddPCRclust": [
@@ -3946,9 +3944,7 @@
         "pathview",
         "viridis"
     ],
-    "MAI": [
-        "tidyverse"
-    ],
+    "MAI": [],
     "MAIT": [
         "CAMERA",
         "Hmisc",
@@ -4293,8 +4289,7 @@
         "pbkrtest",
         "rhdf5",
         "rstatix",
-        "rtracklayer",
-        "tidyverse"
+        "rtracklayer"
     ],
     "methylGSA": [
         "DOSE",
@@ -4561,7 +4556,6 @@
         "pbkrtest",
         "reactome.db",
         "rstatix",
-        "tidyverse",
         "viridis"
     ],
     "miRspongeR": [
@@ -4581,7 +4575,6 @@
         "pbkrtest",
         "reactome.db",
         "rstatix",
-        "tidyverse",
         "viridis"
     ],
     "missMethyl": [
@@ -4808,7 +4801,6 @@
         "lmerTest",
         "pbkrtest",
         "rstatix",
-        "tidyverse",
         "viridis"
     ],
     "MSstatsPTM": [
@@ -5006,9 +4998,7 @@
         "rtracklayer"
     ],
     "NanoStringQCPro": [],
-    "nanotatoR": [
-        "tidyverse"
-    ],
+    "nanotatoR": [],
     "NBAMSeq": [
         "DESeq2",
         "annotate",
@@ -7307,8 +7297,7 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "rstatix",
-        "tidyverse"
+        "rstatix"
     ],
     "SpotClean": [
         "DropletUtils",
@@ -7395,9 +7384,7 @@
     "STATegRa": [
         "affy"
     ],
-    "Statial": [
-        "tidyverse"
-    ],
+    "Statial": [],
     "STdeconvolve": [
         "viridis"
     ],
@@ -7465,7 +7452,6 @@
         "fields",
         "lme4",
         "pbkrtest",
-        "tidyverse",
         "viridis"
     ],
     "synlet": [
@@ -8227,7 +8213,6 @@
         "rtracklayer"
     ],
     "mGSZ": [],
-    "tidyverse": [],
     "Mus.musculus": [
         "GenomicFeatures",
         "OrganismDbi",
