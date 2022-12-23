@@ -23765,7 +23765,6 @@
         "restfulr",
         "rtracklayer"
     ],
-    "MiPP": [],
     "miQC": [
         "DelayedArray",
         "GenomeInfoDb",
