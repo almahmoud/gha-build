@@ -1841,7 +1841,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "SmartSVA",
         "biovizBase",
         "methylumi",
         "minfi",
@@ -2436,7 +2435,6 @@
     "omicRexposome": [
         "FactoMineR",
         "Hmisc",
-        "SmartSVA",
         "car",
         "rexposome",
         "viridis"
@@ -3981,7 +3979,6 @@
         "fields",
         "viridis"
     ],
-    "SmartSVA": [],
     "FlowSorted.Blood.450k": [
         "HDF5Array",
         "minfi",
