@@ -1,0 +1,293 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   9686d086..a298c0bb  main       -> origin/main
+Updating 9686d086..a298c0bb
+Fast-forward
+ lists/RankProd                                 |    2 +-
+ lists/RcppDist                                 |    2 +-
+ lists/Rvmmin                                   |    2 +-
+ logs/sizes/rstudio-binaries/binaries/RcppDist  |    1 +
+ logs/sizes/rstudio-binaries/binaries/Rvmmin    |    1 +
+ logs/sizes/rstudio-binaries/libraries/RcppDist |    1 +
+ logs/sizes/rstudio-binaries/libraries/Rvmmin   |    1 +
+ logs/times/rstudio-binary/RcppDist             | 1563 ++++++++++++++++++++++++
+ logs/times/rstudio-binary/Rvmmin               |  144 +++
+ packages.json                                  |   14 +-
+ 10 files changed, 1715 insertions(+), 16 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RcppDist
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/Rvmmin
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RcppDist
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/Rvmmin
+ create mode 100644 logs/times/rstudio-binary/RcppDist
+ create mode 100644 logs/times/rstudio-binary/Rvmmin
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=sparsepca
++ PKG=sparsepca
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "sparsepca"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 9081k    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  7 9081k    7  653k    0     0   413k      0  0:00:21  0:00:01  0:00:20  413k 24 9081k   24 2263k    0     0   880k      0  0:00:10  0:00:02  0:00:08  880k 54 9081k   54 4972k    0     0  1385k      0  0:00:06  0:00:03  0:00:03 1385k 94 9081k   94 8606k    0     0  1878k      0  0:00:04  0:00:04 --:--:-- 1878k100 9081k  100 9081k    0     0  1936k      0  0:00:04  0:00:04 --:--:-- 2272k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/Matrix/
+built/built/Matrix/Doxyfile
+built/built/Matrix/libs/
+built/built/Matrix/libs/Matrix.so
+built/built/Matrix/NAMESPACE
+built/built/Matrix/LICENCE
+built/built/Matrix/DESCRIPTION
+built/built/Matrix/test-tools-1.R
+built/built/Matrix/help/
+built/built/Matrix/help/paths.rds
+built/built/Matrix/help/aliases.rds
+built/built/Matrix/help/AnIndex
+built/built/Matrix/help/Matrix.rdx
+built/built/Matrix/help/Matrix.rdb
+built/built/Matrix/data/
+built/built/Matrix/data/USCounties.R
+built/built/Matrix/data/datalist
+built/built/Matrix/data/CAex.R
+built/built/Matrix/data/wrld_1deg.R
+built/built/Matrix/data/KNex.R
+built/built/Matrix/Meta/
+built/built/Matrix/Meta/package.rds
+built/built/Matrix/Meta/vignette.rds
+built/built/Matrix/Meta/features.rds
+built/built/Matrix/Meta/hsearch.rds
+built/built/Matrix/Meta/links.rds
+built/built/Matrix/Meta/nsInfo.rds
+built/built/Matrix/Meta/Rd.rds
+built/built/Matrix/Meta/data.rds
+built/built/Matrix/NEWS.Rd
+built/built/Matrix/include/
+built/built/Matrix/include/cholmod.h
+built/built/Matrix/include/Matrix_stubs.c
+built/built/Matrix/include/Matrix.h
+built/built/Matrix/test-tools-Matrix.R
+built/built/Matrix/test-tools.R
+built/built/Matrix/po/
+built/built/Matrix/po/lt/
+built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/it/
+built/built/Matrix/po/it/LC_MESSAGES/
+built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/fr/
+built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/ko/
+built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/pl/
+built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/en@quot/
+built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/de/
+built/built/Matrix/po/de/LC_MESSAGES/
+built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/Copyrights
+built/built/Matrix/html/
+built/built/Matrix/html/00Index.html
+built/built/Matrix/html/R.css
+built/built/Matrix/INDEX
+built/built/Matrix/doc/
+built/built/Matrix/doc/Design-issues.Rnw
+built/built/Matrix/doc/sparseModels.R
+built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/Matrix/doc/Introduction.R
+built/built/Matrix/doc/sparseModels.Rnw
+built/built/Matrix/doc/Design-issues.pdf
+built/built/Matrix/doc/Design-issues.R
+built/built/Matrix/doc/Comparisons.R
+built/built/Matrix/doc/Announce.txt
+built/built/Matrix/doc/Introduction.Rnw
+built/built/Matrix/doc/Intro2Matrix.R
+built/built/Matrix/doc/index.html
+built/built/Matrix/doc/SuiteSparse/
+built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/Matrix/doc/Comparisons.pdf
+built/built/Matrix/doc/sparseModels.pdf
+built/built/Matrix/doc/Comparisons.Rnw
+built/built/Matrix/doc/Introduction.pdf
+built/built/Matrix/R/
+built/built/Matrix/R/Matrix
+built/built/Matrix/R/Matrix.rdx
+built/built/Matrix/R/Matrix.rdb
+built/built/Matrix/external/
+built/built/Matrix/external/symW.rda
+built/built/Matrix/external/lund_a.rsa
+built/built/Matrix/external/wrong.mtx
+built/built/Matrix/external/pores_1.mtx
+built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/Matrix/external/CAex_slots.rda
+built/built/Matrix/external/KNex_slots.rda
+built/built/Matrix/external/jgl009.mtx
+built/built/Matrix/external/utm300.rua
+built/built/Matrix/external/test3comp.rda
+built/built/Matrix/external/USCounties_slots.rda
+built/built/Matrix/external/Z_NA_rnk.rds
+built/built/Matrix/external/symA.rda
+built/built/Matrix/external/lund_a.mtx
+built/rsvd/
+built/rsvd/NAMESPACE
+built/rsvd/DESCRIPTION
+built/rsvd/help/
+built/rsvd/help/paths.rds
+built/rsvd/help/rsvd.rdx
+built/rsvd/help/aliases.rds
+built/rsvd/help/AnIndex
+built/rsvd/help/rsvd.rdb
+built/rsvd/data/
+built/rsvd/data/Rdata.rds
+built/rsvd/data/Rdata.rdb
+built/rsvd/data/Rdata.rdx
+built/rsvd/Meta/
+built/rsvd/Meta/package.rds
+built/rsvd/Meta/features.rds
+built/rsvd/Meta/hsearch.rds
+built/rsvd/Meta/links.rds
+built/rsvd/Meta/nsInfo.rds
+built/rsvd/Meta/Rd.rds
+built/rsvd/Meta/data.rds
+built/rsvd/CITATION
+built/rsvd/html/
+built/rsvd/html/00Index.html
+built/rsvd/html/R.css
+built/rsvd/INDEX
+built/rsvd/R/
+built/rsvd/R/rsvd.rdx
+built/rsvd/R/rsvd
+built/rsvd/R/rsvd.rdb
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''sparsepca'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv rsvd_1.0.5_R_x86_64-pc-linux-gnu.tar.gz sparsepca_0.1.2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/sparsepca
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'sparsepca'
+also installing the dependency ‘rsvd’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/rsvd_1.0.5.tar.gz'
+Content type 'binary/octet-stream' length 3581770 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/sparsepca_0.1.2.tar.gz'
+Content type 'binary/octet-stream' length 46815 bytes (45 KB)
+==================================================
+downloaded 45 KB
+
+* installing *binary* package ‘rsvd’ ...
+* ‘rsvd’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rsvd’ as ‘rsvd_1.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rsvd)
+* installing *binary* package ‘sparsepca’ ...
+* ‘sparsepca’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sparsepca’ as ‘sparsepca_0.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sparsepca)
+
+The downloaded source packages are in
+	‘/tmp/Rtmprlt2Nu/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m11.396s
+user	0m4.524s
+sys	0m0.487s

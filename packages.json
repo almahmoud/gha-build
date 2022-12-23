@@ -39113,7 +39113,6 @@
         "origami",
         "pillar",
         "purrr",
-        "sparsepca",
         "stringr",
         "tibble",
         "tidyselect",
@@ -53674,7 +53673,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "sparsepca": [],
     "origami": [],
     "Rmagic": [],
     "ggvenn": [
