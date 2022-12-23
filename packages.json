@@ -9106,7 +9106,6 @@
         "htmlwidgets",
         "iBBiG",
         "lme4",
-        "metR",
         "miRspongeR",
         "modelr",
         "nloptr",
@@ -15029,7 +15028,6 @@
         "haven",
         "htmlwidgets",
         "lme4",
-        "metR",
         "mice",
         "modelr",
         "nloptr",
@@ -17736,10 +17734,8 @@
         "ggvis"
     ],
     "SOMbrero": [
-        "ggwordcloud",
-        "metR"
+        "ggwordcloud"
     ],
-    "metR": [],
     "cvms": [
         "groupdata2",
         "lme4",
