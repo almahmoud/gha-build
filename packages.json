@@ -5729,7 +5729,6 @@
     "TCGAutils": [
         "GenomicFeatures"
     ],
-    "TCseq": [],
     "TDARACNE": [
         "GenKern"
     ],
