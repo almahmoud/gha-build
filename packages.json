@@ -4175,7 +4175,6 @@
         "DiffBind",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "waddR": [],
     "wateRmelon": [
         "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
