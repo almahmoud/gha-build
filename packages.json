@@ -2564,7 +2564,6 @@
         "SpatialExperiment",
         "rhdf5",
         "scuttle",
-        "svgPanZoom",
         "viridis"
     ],
     "CytoML": [
@@ -5120,7 +5119,6 @@
         "ggraph",
         "rhdf5",
         "scuttle",
-        "svgPanZoom",
         "viridis"
     ],
     "ImmuneSpaceR": [
@@ -10116,7 +10114,6 @@
         "cytomapper",
         "rhdf5",
         "scuttle",
-        "svgPanZoom",
         "viridis"
     ],
     "simplifyEnrichment": [
@@ -12347,7 +12344,6 @@
         "nloptr",
         "testthat"
     ],
-    "svgPanZoom": [],
     "plsVarSel": [
         "MSQC",
         "rgl"
