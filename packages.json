@@ -2799,7 +2799,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "XVector",
         "annotate",
         "beachmat",
@@ -22395,7 +22394,6 @@
         "vctrs"
     ],
     "Maaslin2": [
-        "Wrench",
         "broom",
         "car",
         "chemometrics",
@@ -22437,7 +22435,6 @@
         "RSQLite",
         "SummarizedExperiment",
         "WGCNA",
-        "Wrench",
         "XVector",
         "blob",
         "broom",
@@ -23984,7 +23981,6 @@
         "vctrs"
     ],
     "metagenomeSeq": [
-        "Wrench",
         "glmnet"
     ],
     "metaMS": [
@@ -24191,7 +24187,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "Wrench",
         "XVector",
         "biomaRt",
         "biomformat",
@@ -25195,7 +25190,6 @@
     "microbiomeDASim": [
         "Biostrings",
         "GenomeInfoDb",
-        "Wrench",
         "XVector",
         "biomformat",
         "ggplot2",
@@ -25223,7 +25217,6 @@
         "KEGGREST",
         "RSQLite",
         "SummarizedExperiment",
-        "Wrench",
         "XVector",
         "annotate",
         "biomformat",
@@ -25301,7 +25294,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
-        "Wrench",
         "XVector",
         "annotate",
         "aplot",
@@ -26474,7 +26466,6 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "Wrench",
         "broom",
         "car",
         "chemometrics",
@@ -47040,7 +47031,6 @@
         "vctrs",
         "vroom"
     ],
-    "Wrench": [],
     "xcms": [
         "BiocParallel",
         "DelayedArray",
