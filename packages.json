@@ -36360,8 +36360,7 @@
         "tidyselect",
         "vctrs",
         "vroom",
-        "waldo",
-        "wheatmap"
+        "waldo"
     ],
     "methrix": [
         "BSgenome",
@@ -59644,8 +59643,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "vroom",
-        "wheatmap"
+        "vroom"
     ],
     "SEtools": [
         "AnnotationDbi",
@@ -65799,8 +65797,7 @@
         "vctrs",
         "viridis",
         "vroom",
-        "waldo",
-        "wheatmap"
+        "waldo"
     ],
     "TCGAutils": [
         "AnnotationDbi",
@@ -78874,7 +78871,6 @@
         "vctrs",
         "vroom"
     ],
-    "wheatmap": [],
     "FlowSorted.Blood.450k": [
         "AnnotationDbi",
         "BiocFileCache",
