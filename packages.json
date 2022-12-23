@@ -13,9 +13,7 @@
         "genefilter"
     ],
     "abseqR": [],
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "affy",
         "annotate",
@@ -799,7 +797,6 @@
         "Homo.sapiens",
         "Mus.musculus",
         "OrganismDbi",
-        "QDNAseq",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "VariantAnnotation",
@@ -3405,9 +3402,7 @@
         "org.Hs.eg.db",
         "rtracklayer"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "genefilter": [
         "annotate"
     ],
@@ -3952,7 +3947,6 @@
         "viridis"
     ],
     "HiCcompare": [
-        "QDNAseq",
         "rhdf5"
     ],
     "HiCDCPlus": [
@@ -3970,7 +3964,6 @@
     ],
     "HiCDOC": [
         "HiCcompare",
-        "QDNAseq",
         "car",
         "ggExtra",
         "ggpubr",
@@ -5716,7 +5709,6 @@
     ],
     "multiHiCcompare": [
         "HiCcompare",
-        "QDNAseq",
         "rhdf5"
     ],
     "multiMiR": [],
@@ -6873,7 +6865,6 @@
         "interactiveDisplayBase",
         "pwrEWAS.data"
     ],
-    "QDNAseq": [],
     "QFeatures": [],
     "qmtools": [
         "VIM",
@@ -8457,7 +8448,6 @@
     ],
     "SpectralTAD": [
         "HiCcompare",
-        "QDNAseq",
         "rhdf5"
     ],
     "SPIAT": [
@@ -8759,7 +8749,6 @@
     ],
     "TADCompare": [
         "HiCcompare",
-        "QDNAseq",
         "car",
         "ggpubr",
         "lme4",
