@@ -58104,7 +58104,6 @@
         "DelayedArray",
         "IRanges",
         "nanotime",
-        "spdl",
         "tiledb"
     ],
     "tilingArray": [
@@ -71251,11 +71250,9 @@
         "vctrs"
     ],
     "tiledb": [
-        "nanotime",
-        "spdl"
+        "nanotime"
     ],
     "nanotime": [],
-    "spdl": [],
     "FreqProf": [
         "bslib",
         "fontawesome",
