@@ -16983,7 +16983,6 @@
     ],
     "FRASER": [
         "AnnotationDbi",
-        "BBmisc",
         "BSgenome",
         "BiocFileCache",
         "BiocIO",
@@ -20518,7 +20517,6 @@
         "viridis"
     ],
     "h5vc": [
-        "BBmisc",
         "BatchJobs",
         "BiocParallel",
         "Biostrings",
@@ -32993,7 +32991,6 @@
     ],
     "OUTRIDER": [
         "AnnotationDbi",
-        "BBmisc",
         "BiocFileCache",
         "BiocIO",
         "BiocParallel",
@@ -33351,7 +33348,6 @@
         "waldo"
     ],
     "parglms": [
-        "BBmisc",
         "BatchJobs",
         "RSQLite",
         "blob",
@@ -50760,7 +50756,6 @@
         "siggenes"
     ],
     "Xeva": [
-        "BBmisc",
         "BiocParallel",
         "BumpyMatrix",
         "ComplexHeatmap",
@@ -55394,7 +55389,6 @@
         "lava",
         "prodlim"
     ],
-    "BBmisc": [],
     "NHPoisson": [
         "MatrixModels",
         "broom",
@@ -55664,7 +55658,6 @@
         "tibble"
     ],
     "BatchJobs": [
-        "BBmisc",
         "RSQLite",
         "blob"
     ],
