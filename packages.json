@@ -4208,7 +4208,6 @@
         "rhdf5"
     ],
     "sitadela": [],
-    "sitePath": [],
     "skewr": [
         "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
