@@ -2067,8 +2067,7 @@
         "DropletUtils",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "scuttle",
-        "svgPanZoom"
+        "scuttle"
     ],
     "CytoML": [],
     "dada2": [
@@ -4168,8 +4167,7 @@
         "SpatialExperiment",
         "cytomapper",
         "ggraph",
-        "scuttle",
-        "svgPanZoom"
+        "scuttle"
     ],
     "ImmuneSpaceR": [
         "dendextend",
@@ -8238,8 +8236,7 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "cytomapper",
-        "scuttle",
-        "svgPanZoom"
+        "scuttle"
     ],
     "simplifyEnrichment": [
         "GO.db",
@@ -10040,7 +10037,6 @@
         "nloptr",
         "testthat"
     ],
-    "svgPanZoom": [],
     "plsVarSel": [
         "MSQC"
     ],
