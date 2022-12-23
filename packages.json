@@ -2909,7 +2909,6 @@
         "viridis"
     ],
     "ggmsa": [
-        "ggalt",
         "ggtree"
     ],
     "ggspavis": [
@@ -8016,7 +8015,6 @@
         "heatmaply",
         "viridis"
     ],
-    "ggalt": [],
     "HH": [
         "Hmisc",
         "viridis"
