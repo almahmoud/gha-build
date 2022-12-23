@@ -450,7 +450,6 @@
         "beachmat",
         "dplyr",
         "dqrng",
-        "emdbook",
         "ggbeeswarm",
         "ggplot2",
         "ggrastr",
@@ -1181,8 +1180,7 @@
         "GenomicRanges",
         "RcppNumerical",
         "SummarizedExperiment",
-        "XVector",
-        "emdbook"
+        "XVector"
     ],
     "APL": [
         "AnnotationDbi",
@@ -6178,7 +6176,6 @@
         "chipseq",
         "dbplyr",
         "dplyr",
-        "emdbook",
         "geneplotter",
         "ggplot2",
         "ggrepel",
@@ -9877,7 +9874,6 @@
         "dplyr",
         "edgeR",
         "egg",
-        "emdbook",
         "enrichplot",
         "fgsea",
         "genefilter",
@@ -10046,7 +10042,6 @@
         "dbplyr",
         "doRNG",
         "dplyr",
-        "emdbook",
         "fastseg",
         "genefilter",
         "ggplot2",
@@ -10747,7 +10742,6 @@
         "ashr",
         "bslib",
         "dplyr",
-        "emdbook",
         "geneplotter",
         "ggplot2",
         "ggrepel",
@@ -22439,7 +22433,6 @@
         "XVector",
         "beachmat",
         "bsseq",
-        "emdbook",
         "fastseg",
         "ggplot2",
         "methylKit",
@@ -22469,7 +22462,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "emdbook",
         "fastseg",
         "ggplot2",
         "methylKit",
@@ -22862,7 +22854,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "emdbook",
         "fastseg",
         "ggplot2",
         "methylKit",
@@ -22883,7 +22874,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
-        "emdbook",
         "fastseg",
         "ggplot2",
         "qvalue",
@@ -36200,9 +36190,7 @@
         "XVector",
         "beachmat"
     ],
-    "scShapes": [
-        "emdbook"
-    ],
+    "scShapes": [],
     "scTensor": [
         "AnnotationDbi",
         "AnnotationForge",
@@ -40728,7 +40716,6 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "emdbook",
         "geneplotter",
         "ggplot2",
         "hms",
@@ -43253,7 +43240,6 @@
         "dbplyr",
         "dplyr",
         "edgeR",
-        "emdbook",
         "ensembldb",
         "geneplotter",
         "ggplot2",
@@ -44190,7 +44176,6 @@
     "smurf": [
         "glmnet"
     ],
-    "emdbook": [],
     "RcppNumerical": [],
     "ggbeeswarm": [
         "ggplot2",
