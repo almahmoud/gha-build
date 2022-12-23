@@ -15722,7 +15722,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "SELEX": [],
     "SemDist": [
         "AnnotationDbi",
         "GO.db",
