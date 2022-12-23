@@ -59362,7 +59362,6 @@
         "munsell",
         "nlme",
         "nloptr",
-        "nls2",
         "pbkrtest",
         "pillar",
         "pkgload",
@@ -68030,7 +68029,6 @@
         "mltools",
         "munsell",
         "nlme",
-        "nls2",
         "openssl",
         "pillar",
         "plotly",
@@ -74084,7 +74082,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "nls2",
         "openxlsx",
         "pillar",
         "plyr",
@@ -88881,7 +88878,6 @@
         "vctrs"
     ],
     "doMC": [],
-    "nls2": [],
     "valr": [
         "Biobase",
         "BiocIO",
