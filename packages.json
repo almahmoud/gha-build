@@ -3630,7 +3630,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "copynumber": [],
     "CopyNumberPlots": [
         "AnnotationDbi",
         "BSgenome",
