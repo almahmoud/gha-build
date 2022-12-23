@@ -41479,7 +41479,6 @@
         "NMF",
         "R.cache",
         "R.utils",
-        "RankAggreg",
         "RcppEigen",
         "bslib",
         "clValid",
@@ -74212,7 +74211,6 @@
         "NMF",
         "R.cache",
         "R.utils",
-        "RankAggreg",
         "bslib",
         "clValid",
         "classInt",
@@ -74256,7 +74254,6 @@
         "yardstick"
     ],
     "clValid": [],
-    "RankAggreg": [],
     "yardstick": [
         "dplyr",
         "hardhat",
