@@ -34029,7 +34029,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "pathifier": [],
     "PathoStat": [
         "AnnotationDbi",
         "BiocParallel",
