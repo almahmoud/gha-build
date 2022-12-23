@@ -240,7 +240,6 @@
         "ggrepel",
         "scater",
         "scuttle",
-        "smurf",
         "viridis"
     ],
     "ALDEx2": [
@@ -23564,7 +23563,6 @@
     "viridis": [
         "ggplot2"
     ],
-    "smurf": [],
     "ggbeeswarm": [
         "ggplot2"
     ],
