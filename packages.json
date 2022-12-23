@@ -1061,7 +1061,6 @@
         "scran",
         "scuttle"
     ],
-    "CellaRepertorium": [],
     "CellBarcode": [
         "ShortRead"
     ],
