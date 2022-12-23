@@ -11366,7 +11366,6 @@
         "caret",
         "caretEnsemble",
         "ggplotify",
-        "ggprism",
         "htmlwidgets",
         "interactiveDisplayBase",
         "recipes",
@@ -16070,7 +16069,6 @@
         "caret",
         "recipes"
     ],
-    "ggprism": [],
     "RLHub": [
         "AnnotationDbi",
         "AnnotationHub",
