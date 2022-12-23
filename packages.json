@@ -3006,7 +3006,6 @@
         "GO.db",
         "GOstats",
         "GSEABase",
-        "IRdisplay",
         "IRkernel",
         "KEGGREST",
         "RCy3",
@@ -3455,7 +3454,6 @@
         "GenomicTools",
         "GenomicTools.fileHandler",
         "HDO.db",
-        "IRdisplay",
         "IRkernel",
         "KEGGREST",
         "RCy3",
@@ -6367,7 +6365,6 @@
         "viridis"
     ],
     "DEGraph": [
-        "IRdisplay",
         "IRkernel",
         "NCIgraph",
         "RCy3"
@@ -8765,7 +8762,6 @@
         "shiny"
     ],
     "fedup": [
-        "IRdisplay",
         "IRkernel",
         "RCy3",
         "dplyr",
@@ -13924,7 +13920,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "IRdisplay",
         "IRkernel",
         "KEGGREST",
         "RCy3",
@@ -15494,7 +15489,6 @@
         "tidyr"
     ],
     "MOGAMUN": [
-        "IRdisplay",
         "IRkernel",
         "RCy3"
     ],
@@ -16715,7 +16709,6 @@
         "xcms"
     ],
     "NCIgraph": [
-        "IRdisplay",
         "IRkernel",
         "RCy3"
     ],
@@ -16959,7 +16952,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "HDF5Array",
-        "IRdisplay",
         "IRkernel",
         "KEGGREST",
         "RCy3",
@@ -20149,7 +20141,6 @@
         "vroom"
     ],
     "RCy3": [
-        "IRdisplay",
         "IRkernel"
     ],
     "RCyjs": [],
@@ -20451,7 +20442,6 @@
         "GenomicRanges",
         "Gviz",
         "Hmisc",
-        "IRdisplay",
         "IRkernel",
         "KEGGREST",
         "RCy3",
@@ -25826,7 +25816,6 @@
         "GOSemSim",
         "GenomicRanges",
         "HDO.db",
-        "IRdisplay",
         "IRkernel",
         "KEGGREST",
         "MultiAssayExperiment",
@@ -26202,7 +26191,6 @@
     ],
     "transomics2cytoscape": [
         "Biostrings",
-        "IRdisplay",
         "IRkernel",
         "KEGGREST",
         "RCy3",
@@ -28660,10 +28648,7 @@
         "tidyr",
         "waldo"
     ],
-    "IRkernel": [
-        "IRdisplay"
-    ],
-    "IRdisplay": [],
+    "IRkernel": [],
     "rapportools": [
         "reshape2"
     ],
