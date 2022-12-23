@@ -27141,7 +27141,6 @@
         "ScaledMatrix",
         "dplyr",
         "origami",
-        "sparsepca",
         "tibble"
     ],
     "scPipe": [
@@ -36917,7 +36916,6 @@
         "shiny",
         "tibble"
     ],
-    "sparsepca": [],
     "origami": [],
     "Rmagic": [],
     "ggvenn": [
