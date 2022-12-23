@@ -4340,8 +4340,7 @@
         "ensembldb"
     ],
     "ssPATHS": [
-        "MESS",
-        "ggformula"
+        "MESS"
     ],
     "STAN": [
         "BSgenome",
@@ -5259,10 +5258,7 @@
         "ExperimentHub"
     ],
     "sampSurf": [],
-    "MESS": [
-        "ggformula"
-    ],
-    "ggformula": [],
+    "MESS": [],
     "SpatialExtremes": [],
     "GenKern": [],
     "vbsr": [],
