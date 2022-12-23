@@ -12913,7 +12913,6 @@
         "geepack",
         "ggforce",
         "ggformula",
-        "ggstance",
         "haven",
         "labelled",
         "mosaicCore"
@@ -15847,19 +15846,16 @@
         "geepack",
         "ggforce",
         "ggformula",
-        "ggstance",
         "haven",
         "labelled",
         "mosaicCore"
     ],
     "ggformula": [
         "ggforce",
-        "ggstance",
         "haven",
         "labelled",
         "mosaicCore"
     ],
-    "ggstance": [],
     "mosaicCore": [],
     "rsample": [],
     "gstat": [],
