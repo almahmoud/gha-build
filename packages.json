@@ -1071,7 +1071,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "bcSeq": [],
     "BDMMAcorrect": [
         "SummarizedExperiment"
     ],
