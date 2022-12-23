@@ -23868,7 +23868,6 @@
         "viridis"
     ],
     "sparseDOSSA": [],
-    "sparsenetgls": [],
     "SparseSignatures": [
         "BSgenome",
         "Biostrings",
