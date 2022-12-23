@@ -2309,7 +2309,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "randomcoloR",
         "rematch2",
         "reshape2",
         "rmarkdown",
@@ -14715,7 +14714,6 @@
         "patchwork",
         "pbkrtest",
         "qvalue",
-        "randomcoloR",
         "reactome.db",
         "readr",
         "readxl",
@@ -18154,7 +18152,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "randomcoloR",
         "reshape2",
         "rmarkdown",
         "scater",
@@ -22289,8 +22286,7 @@
     ],
     "sechm": [
         "GenomicRanges",
-        "SummarizedExperiment",
-        "randomcoloR"
+        "SummarizedExperiment"
     ],
     "segmenter": [
         "AnnotationDbi",
@@ -22535,7 +22531,6 @@
         "genefilter",
         "geneplotter",
         "ggplot2",
-        "randomcoloR",
         "sechm",
         "sva"
     ],
@@ -27770,7 +27765,6 @@
         "KEGGREST",
         "org.Hs.eg.db"
     ],
-    "randomcoloR": [],
     "pcalg": [],
     "GenomicState": [
         "AnnotationDbi",
@@ -29185,7 +29179,6 @@
         "dendextend",
         "dplyr",
         "ggplot2",
-        "randomcoloR",
         "tidyr",
         "viridis"
     ],
