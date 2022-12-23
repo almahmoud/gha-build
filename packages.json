@@ -205,7 +205,6 @@
         "BASiCS",
         "scran"
     ],
-    "batchelor": [],
     "BatchQC": [
         "heatmaply",
         "sva"
@@ -574,7 +573,6 @@
     "ChIPXpress": [],
     "ChromHeatMap": [],
     "ChromSCape": [
-        "batchelor",
         "qs",
         "scater",
         "scran"
@@ -2373,7 +2371,6 @@
         "ggtree"
     ],
     "mumosa": [
-        "batchelor",
         "scran"
     ],
     "MungeSumstats": [
@@ -3363,7 +3360,6 @@
         "GenomicFeatures",
         "SoupX",
         "TENxPBMCData",
-        "batchelor",
         "celda",
         "celldex",
         "ensembldb",
