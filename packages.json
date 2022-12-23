@@ -7022,10 +7022,8 @@
         "reshape2",
         "tibble"
     ],
-    "DelayedRandomArray": [],
     "DelayedTensor": [
         "BiocSingular",
-        "DelayedRandomArray",
         "HDF5Array",
         "ScaledMatrix",
         "rhdf5"
