@@ -327,7 +327,6 @@
         "rhdf5"
     ],
     "brainflowprobes": [
-        "GenomicFiles",
         "GenomicState",
         "Hmisc",
         "biovizBase",
@@ -353,7 +352,6 @@
         "viridis"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
@@ -670,9 +668,7 @@
         "iC10",
         "rhdf5"
     ],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [
         "HDF5Array",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -882,12 +878,10 @@
         "viridis"
     ],
     "derfinder": [
-        "GenomicFiles",
         "Hmisc",
         "viridis"
     ],
     "derfinderPlot": [
-        "GenomicFiles",
         "Hmisc",
         "biovizBase",
         "derfinder",
@@ -1095,7 +1089,6 @@
         "epivizr"
     ],
     "erma": [
-        "GenomicFiles",
         "Homo.sapiens"
     ],
     "esATAC": [
@@ -1296,7 +1289,6 @@
         "dendextend",
         "viridis"
     ],
-    "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz",
         "Hmisc",
@@ -2363,7 +2355,6 @@
         "rhdf5"
     ],
     "ODER": [
-        "GenomicFiles",
         "Hmisc",
         "basilisk",
         "car",
@@ -2661,7 +2652,6 @@
         "vsn"
     ],
     "psichomics": [
-        "GenomicFiles",
         "Hmisc",
         "derfinder",
         "recount",
@@ -2728,9 +2718,7 @@
         "minfi",
         "rhdf5"
     ],
-    "QuasR": [
-        "GenomicFiles"
-    ],
+    "QuasR": [],
     "R3CPET": [
         "Hmisc",
         "biovizBase",
@@ -2779,7 +2767,6 @@
         "rhdf5"
     ],
     "recount": [
-        "GenomicFiles",
         "Hmisc",
         "derfinder",
         "viridis"
@@ -2804,7 +2791,6 @@
         "viridis"
     ],
     "regionReport": [
-        "GenomicFiles",
         "Hmisc",
         "derfinder",
         "viridis"
@@ -2887,7 +2873,6 @@
     ],
     "Rmmquant": [],
     "RNAAgeCalc": [
-        "GenomicFiles",
         "Hmisc",
         "derfinder",
         "recount",
@@ -2938,7 +2923,6 @@
         "viridis"
     ],
     "RnaSeqSampleSize": [
-        "GenomicFiles",
         "Hmisc",
         "car",
         "derfinder",
@@ -2963,7 +2947,6 @@
         "rhdf5"
     ],
     "Rqc": [
-        "GenomicFiles",
         "Hmisc",
         "biovizBase",
         "viridis"
@@ -3227,7 +3210,6 @@
         "viridis"
     ],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR"
     ],
     "SISPA": [
@@ -3623,9 +3605,7 @@
     ],
     "VariantTools": [],
     "VaSP": [],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "VDJdive": [
         "basilisk"
     ],
@@ -3787,7 +3767,6 @@
     "pasilla": [],
     "gamlss": [],
     "GenomicState": [
-        "GenomicFiles",
         "Hmisc",
         "derfinder",
         "viridis"
