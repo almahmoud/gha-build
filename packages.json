@@ -12547,7 +12547,6 @@
         "tibble",
         "tidyselect"
     ],
-    "DFP": [],
     "DIAlignR": [
         "RSQLite",
         "blob",
