@@ -1240,7 +1240,6 @@
     ],
     "ORFhunteR": [],
     "ORFik": [],
-    "Organism.dplyr": [],
     "orthogene": [
         "car",
         "ggpubr",
@@ -1779,7 +1778,6 @@
     ],
     "tximeta": [],
     "Ularcirc": [
-        "Organism.dplyr",
         "plotgardener"
     ],
     "UMI4Cats": [],
