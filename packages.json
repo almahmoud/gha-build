@@ -92,7 +92,6 @@
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
-        "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137",
         "rhdf5"
     ],
@@ -3619,7 +3618,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
     "mGSZ": [],
     "Mus.musculus": [],
