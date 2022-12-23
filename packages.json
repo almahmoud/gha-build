@@ -15111,7 +15111,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "R.matlab",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -27202,7 +27201,6 @@
         "vctrs"
     ],
     "MethylMix": [
-        "R.matlab",
         "ggplot2",
         "pillar",
         "tibble",
@@ -45283,7 +45281,6 @@
     ],
     "sojourner": [
         "EBImage",
-        "R.matlab",
         "bslib",
         "crosstalk",
         "dplyr",
@@ -50042,9 +50039,7 @@
         "tibble",
         "vctrs"
     ],
-    "TRONCO": [
-        "R.matlab"
-    ],
+    "TRONCO": [],
     "TSCAN": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -56364,7 +56359,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "R.matlab": [],
     "batchtools": [
         "hms",
         "progress",
