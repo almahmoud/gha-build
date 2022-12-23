@@ -256,7 +256,6 @@
     "BBCAnalyzer": [
         "VariantAnnotation"
     ],
-    "BEAT": [],
     "benchdamic": [
         "ANCOMBC",
         "Hmisc",
