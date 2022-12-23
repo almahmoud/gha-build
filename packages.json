@@ -20914,7 +20914,6 @@
         "progress",
         "purrr",
         "qpgraph",
-        "qtl",
         "rappdirs",
         "restfulr",
         "rjson",
@@ -97092,7 +97091,6 @@
         "prettyunits",
         "progress",
         "purrr",
-        "qtl",
         "rappdirs",
         "restfulr",
         "rjson",
@@ -130314,7 +130312,6 @@
         "pillar",
         "plyr",
         "png",
-        "qtl",
         "qvalue",
         "reshape2",
         "rlang",
@@ -146552,7 +146549,6 @@
         "igraph",
         "rlang"
     ],
-    "qtl": [],
     "howmany": [],
     "locfdr": [],
     "phylobase": [
