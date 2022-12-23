@@ -30,7 +30,6 @@
         "lumi",
         "wateRmelon"
     ],
-    "BindingSiteFinder": [],
     "bioCancer": [],
     "BiocOncoTK": [
         "ggpubr"
