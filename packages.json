@@ -971,12 +971,10 @@
         "VariantAnnotation",
         "basilisk",
         "crisprBowtie",
-        "crisprScore",
-        "crisprScoreData"
+        "crisprScore"
     ],
     "crisprScore": [
-        "basilisk",
-        "crisprScoreData"
+        "basilisk"
     ],
     "CRISPRseek": [
         "rhdf5"
@@ -998,7 +996,6 @@
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
-        "crisprScoreData",
         "crisprViz",
         "ensembldb",
         "viridis"
@@ -1012,7 +1009,6 @@
         "crisprBowtie",
         "crisprDesign",
         "crisprScore",
-        "crisprScoreData",
         "ensembldb",
         "viridis"
     ],
@@ -5100,7 +5096,6 @@
         "vsn",
         "xcms"
     ],
-    "crisprScoreData": [],
     "RFOC": [
         "GEOmap",
         "fields",
