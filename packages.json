@@ -3297,7 +3297,6 @@
         "ggraph",
         "viridis"
     ],
-    "PAST": [],
     "PathoStat": [
         "DESeq2",
         "biomformat",
