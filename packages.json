@@ -487,7 +487,6 @@
         "dorothea"
     ],
     "countsimQC": [],
-    "cpvSNP": [],
     "crisprDesign": [
         "VariantAnnotation",
         "crisprScore",
