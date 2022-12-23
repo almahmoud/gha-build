@@ -6972,8 +6972,7 @@
     ],
     "VegaMC": [],
     "velociraptor": [
-        "scuttle",
-        "zellkonverter"
+        "scuttle"
     ],
     "vidger": [
         "DESeq2",
@@ -7097,7 +7096,6 @@
         "quantro",
         "rtracklayer"
     ],
-    "zellkonverter": [],
     "zenith": [
         "EnrichmentBrowser",
         "GSEABase",
