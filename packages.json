@@ -7251,7 +7251,6 @@
         "BiocFileCache",
         "DT",
         "biomaRt",
-        "bsplus",
         "dbplyr",
         "htmlwidgets",
         "learnr",
@@ -13379,7 +13378,6 @@
         "VariantAnnotation",
         "biomaRt",
         "broom",
-        "bsplus",
         "car",
         "cowplot",
         "dbplyr",
@@ -14392,7 +14390,6 @@
     ],
     "systemPipeShiny": [
         "DT",
-        "bsplus",
         "drawer",
         "htmlwidgets",
         "plotly",
@@ -16800,7 +16797,6 @@
         "htmlwidgets",
         "learnr"
     ],
-    "bsplus": [],
     "shinyvalidate": [],
     "learnr": [
         "htmlwidgets"
@@ -17366,9 +17362,7 @@
     "spsComps": [
         "shinytoastr"
     ],
-    "drawer": [
-        "bsplus"
-    ],
+    "drawer": [],
     "GenKern": [],
     "FreqProf": [],
     "gghighlight": [
