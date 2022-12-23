@@ -20967,7 +20967,6 @@
         "PSCBS",
         "annotate",
         "aroma.affymetrix",
-        "aroma.apd",
         "aroma.core",
         "genefilter"
     ],
@@ -29773,7 +29772,6 @@
         "PSCBS",
         "WGCNA",
         "aroma.affymetrix",
-        "aroma.apd",
         "aroma.core",
         "bslib",
         "ggplot2",
@@ -35066,13 +35064,11 @@
     ],
     "aroma.affymetrix": [
         "PSCBS",
-        "aroma.apd",
         "aroma.core"
     ],
     "aroma.core": [
         "PSCBS"
     ],
-    "aroma.apd": [],
     "PSCBS": [],
     "genlasso": [],
     "opencpu": [
