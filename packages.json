@@ -20661,7 +20661,6 @@
         "viridis",
         "vroom"
     ],
-    "specL": [],
     "SpeCond": [
         "fields",
         "ggplot2",
