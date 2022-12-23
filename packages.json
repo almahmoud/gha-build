@@ -6988,7 +6988,6 @@
         "testthat",
         "viridis"
     ],
-    "odseq": [],
     "OGRE": [
         "AnnotationDbi",
         "AnnotationHub",
