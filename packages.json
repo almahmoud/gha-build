@@ -18194,7 +18194,6 @@
         "vctrs",
         "viridis"
     ],
-    "fabia": [],
     "factDesign": [],
     "factR": [
         "AnnotationDbi",
@@ -23538,9 +23537,7 @@
         "tibble",
         "vctrs"
     ],
-    "hapFabia": [
-        "fabia"
-    ],
+    "hapFabia": [],
     "Harman": [],
     "Harshlight": [
         "Biostrings",
@@ -32093,7 +32090,6 @@
         "dtplyr",
         "e1071",
         "enrichplot",
-        "fabia",
         "fgsea",
         "flexclust",
         "fontawesome",
@@ -33140,7 +33136,6 @@
         "QUBIC",
         "biclust",
         "dplyr",
-        "fabia",
         "flexclust",
         "ggplot2",
         "igraph",
