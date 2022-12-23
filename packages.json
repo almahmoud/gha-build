@@ -5028,7 +5028,6 @@
         "xcms"
     ],
     "IRISFGM": [
-        "AdaptGauss",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -11924,7 +11923,6 @@
         "rtracklayer"
     ],
     "wordcloud2": [],
-    "AdaptGauss": [],
     "datamods": [
         "haven",
         "reactable",
