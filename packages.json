@@ -12500,7 +12500,6 @@
         "viridis",
         "vroom"
     ],
-    "hierGWAS": [],
     "hierinf": [],
     "HilbertCurve": [
         "GenomicRanges"
