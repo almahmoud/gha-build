@@ -3727,7 +3727,6 @@
     "goTools": [
         "GO.db"
     ],
-    "gpuMagic": [],
     "GRaNIE": [
         "DESeq2",
         "GO.db",
