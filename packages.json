@@ -588,15 +588,11 @@
         "VIM"
     ],
     "MSstatsLiP": [
-        "MSstatsPTM",
         "factoextra",
         "ggpubr",
         "rstatix"
     ],
-    "MSstatsPTM": [],
-    "MSstatsShiny": [
-        "MSstatsPTM"
-    ],
+    "MSstatsShiny": [],
     "multicrispr": [
         "karyoploteR"
     ],
