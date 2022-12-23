@@ -1398,9 +1398,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "ISAnalytics": [
-        "datamods"
-    ],
+    "ISAnalytics": [],
     "iSEEhub": [],
     "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
@@ -3200,7 +3198,6 @@
     "shinyHeatmaply": [],
     "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
-    "datamods": [],
     "pd.mapping50k.xba240": [],
     "glmmTMB": [],
     "depmap": [],
