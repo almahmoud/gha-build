@@ -3193,7 +3193,6 @@
         "phastCons100way.UCSC.hg19",
         "rhdf5"
     ],
-    "Rbec": [],
     "RCAS": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
