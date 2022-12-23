@@ -18263,7 +18263,6 @@
         "ggstance",
         "haven",
         "labelled",
-        "lfda",
         "mosaicCore",
         "readr",
         "tidyr",
@@ -22563,9 +22562,7 @@
         "KEGGREST",
         "miRNAtap"
     ],
-    "dml": [
-        "lfda"
-    ],
+    "dml": [],
     "MESS": [
         "broom",
         "geepack",
@@ -22580,7 +22577,6 @@
         "tidyr",
         "vroom"
     ],
-    "lfda": [],
     "ggformula": [
         "ggforce",
         "ggridges",
