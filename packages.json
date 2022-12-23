@@ -4113,7 +4113,6 @@
         "affy",
         "rCGH"
     ],
-    "PREDA": [],
     "primirTSS": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
