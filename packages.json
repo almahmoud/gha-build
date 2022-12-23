@@ -37486,7 +37486,6 @@
         "purrr",
         "restfulr",
         "rtracklayer",
-        "strawr",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -53505,7 +53504,6 @@
         "shinyFiles",
         "shinydashboard",
         "shinyjs",
-        "strawr",
         "stringr",
         "tibble",
         "tidyselect",
@@ -62053,7 +62051,6 @@
         "stringr",
         "vctrs"
     ],
-    "strawr": [],
     "tidybayes": [
         "distributional",
         "dplyr",
