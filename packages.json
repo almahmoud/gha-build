@@ -602,7 +602,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "BANDITS": [],
     "bandle": [
         "AnnotationDbi",
         "BiocStyle",
@@ -2980,7 +2979,6 @@
         "testthat"
     ],
     "DifferentialRegulation": [
-        "BANDITS",
         "SingleCellExperiment"
     ],
     "diffHic": [
