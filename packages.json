@@ -185,7 +185,6 @@
     "cBioPortalData": [
         "RTCGAToolbox"
     ],
-    "celda": [],
     "cellmigRation": [
         "FactoMineR",
         "car"
@@ -1533,7 +1532,6 @@
         "cytomapper"
     ],
     "singleCellTK": [
-        "celda",
         "scRNAseq"
     ],
     "SingleMoleculeFootprinting": [
