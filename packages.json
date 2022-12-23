@@ -26,11 +26,8 @@
     "BitSeq": [],
     "brainflowprobes": [],
     "CancerInSilico": [],
-    "CATALYST": [
-        "FlowSOM"
-    ],
+    "CATALYST": [],
     "censcyt": [
-        "FlowSOM",
         "diffcyt"
     ],
     "CeTF": [
@@ -61,7 +58,6 @@
     ],
     "CyTOFpower": [
         "CytoGLMM",
-        "FlowSOM",
         "diffcyt"
     ],
     "CytoGLMM": [],
@@ -70,9 +66,7 @@
         "text2vec",
         "ttgsea"
     ],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "DMRcate": [
         "missMethyl"
     ],
@@ -92,7 +86,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "FlowSOM": [],
     "FuseSOM": [],
     "GDCRNATools": [
         "survminer"
@@ -144,9 +137,7 @@
     "MEAT": [
         "wateRmelon"
     ],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "metavizr": [],
     "MethReg": [],
     "methylCC": [],
@@ -255,7 +246,6 @@
     ],
     "Travel": [],
     "treekoR": [
-        "FlowSOM",
         "diffcyt"
     ],
     "tscR": [
