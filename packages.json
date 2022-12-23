@@ -2291,7 +2291,6 @@
         "rstatix",
         "rtracklayer"
     ],
-    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "BSgenome",
         "CNEr",
