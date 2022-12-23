@@ -557,7 +557,6 @@
     "DSS": [],
     "easier": [
         "car",
-        "easierData",
         "ggpubr",
         "rstatix"
     ],
@@ -2122,7 +2121,6 @@
     "VIM": [
         "car"
     ],
-    "easierData": [],
     "EntropyExplorer": [],
     "SPARQL": [],
     "NHPoisson": [
