@@ -20559,7 +20559,6 @@
     ],
     "DIAlignR": [
         "Biobase",
-        "RMSNumpress",
         "RSQLite",
         "RcppEigen",
         "RcppTOML",
@@ -90909,7 +90908,6 @@
         "igraph",
         "nlme"
     ],
-    "RMSNumpress": [],
     "DiffCorr": [
         "Biobase",
         "igraph",
