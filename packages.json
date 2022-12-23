@@ -24187,7 +24187,6 @@
         "kinship2",
         "knitr",
         "labelled",
-        "lfda",
         "mosaicCore",
         "readr",
         "tidyr",
@@ -30074,9 +30073,7 @@
         "miRNAtap",
         "sqldf"
     ],
-    "dml": [
-        "lfda"
-    ],
+    "dml": [],
     "MESS": [
         "broom",
         "dplyr",
@@ -30096,7 +30093,6 @@
         "tidyr",
         "vroom"
     ],
-    "lfda": [],
     "ggformula": [
         "dplyr",
         "forcats",
