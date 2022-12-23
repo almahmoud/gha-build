@@ -43089,9 +43089,7 @@
         "reshape2",
         "stringr"
     ],
-    "RUVnormalize": [
-        "RUVnormalizeData"
-    ],
+    "RUVnormalize": [],
     "RUVSeq": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -61493,7 +61491,6 @@
         "shiny",
         "tibble"
     ],
-    "RUVnormalizeData": [],
     "GENLIB": [
         "doParallel",
         "kinship2",
