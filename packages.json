@@ -1748,7 +1748,6 @@
         "plotly"
     ],
     "clusterExperiment": [
-        "RNeXML",
         "SingleCellExperiment",
         "annotate",
         "benchmarkme",
@@ -6872,7 +6871,6 @@
         "htmlTable"
     ],
     "netSmooth": [
-        "RNeXML",
         "SingleCellExperiment",
         "annotate",
         "benchmarkme",
@@ -11486,11 +11484,8 @@
         "rtracklayer"
     ],
     "rgl": [],
-    "phylobase": [
-        "RNeXML"
-    ],
+    "phylobase": [],
     "benchmarkme": [],
-    "RNeXML": [],
     "rio": [
         "haven"
     ],
