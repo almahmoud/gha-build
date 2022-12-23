@@ -19722,7 +19722,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "annotate",
-        "arrow",
         "dplyr",
         "ggplot2",
         "htmlwidgets",
@@ -29739,7 +29738,6 @@
         "rmarkdown",
         "rtracklayer"
     ],
-    "arrow": [],
     "neo4r": [
         "dplyr",
         "tidyr"
