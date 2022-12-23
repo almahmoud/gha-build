@@ -6416,7 +6416,6 @@
         "EBImage",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "concaveman",
         "cytomapper",
         "ggforce",
         "ggraph",
@@ -6999,7 +6998,6 @@
         "DropletUtils",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "concaveman",
         "ggforce",
         "lme4",
         "lmerTest",
@@ -12214,7 +12212,6 @@
     "schex": [
         "Seurat",
         "SingleCellExperiment",
-        "concaveman",
         "cowplot",
         "ggforce",
         "ggrepel",
@@ -12412,7 +12409,6 @@
         "annotate",
         "aplot",
         "ccTensor",
-        "concaveman",
         "cowplot",
         "dendextend",
         "enrichplot",
@@ -12453,7 +12449,6 @@
         "Seurat",
         "SingleCellExperiment",
         "annotate",
-        "concaveman",
         "cowplot",
         "fields",
         "ggforce",
@@ -13254,7 +13249,6 @@
         "DropletUtils",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "concaveman",
         "ggforce",
         "lme4",
         "lmerTest",
@@ -13513,7 +13507,6 @@
     "Statial": [
         "SingleCellExperiment",
         "broom",
-        "concaveman",
         "dtplyr",
         "googlesheets4",
         "haven",
@@ -15952,7 +15945,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "concaveman": [],
     "golem": [],
     "wordcloud2": [
         "htmlwidgets"
