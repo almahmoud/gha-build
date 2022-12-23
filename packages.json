@@ -56305,7 +56305,6 @@
         "interp",
         "latticeExtra",
         "magick",
-        "mclustcomp",
         "memoise",
         "mgcv",
         "openssl",
@@ -71746,7 +71745,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "mclustcomp": [],
     "MLmetrics": [
         "ROCR",
         "gplots"
