@@ -2454,7 +2454,6 @@
         "rlang",
         "rmarkdown",
         "rngtools",
-        "rootSolve",
         "rpart",
         "rstudioapi",
         "rsvd",
@@ -8253,7 +8252,6 @@
         "rlang",
         "rmarkdown",
         "rngtools",
-        "rootSolve",
         "rpart",
         "rstudioapi",
         "rsvd",
@@ -16802,7 +16800,6 @@
         "reshape2",
         "rlang",
         "rmarkdown",
-        "rootSolve",
         "rpart",
         "rstudioapi",
         "sass",
@@ -52999,7 +52996,6 @@
         "readxl",
         "rematch",
         "rlang",
-        "rootSolve",
         "rstudioapi",
         "stringi",
         "stringr",
@@ -58222,7 +58218,6 @@
         "reticulate",
         "rlang",
         "rngtools",
-        "rootSolve",
         "rstudioapi",
         "scales",
         "snow",
@@ -59324,7 +59319,6 @@
         "restfulr",
         "rjson",
         "rlang",
-        "rootSolve",
         "rtracklayer",
         "sass",
         "scales",
@@ -73362,7 +73356,6 @@
         "rlang",
         "rmarkdown",
         "rngtools",
-        "rootSolve",
         "rpart",
         "rstudioapi",
         "rsvd",
@@ -112897,7 +112890,6 @@
         "restfulr",
         "rjson",
         "rlang",
-        "rootSolve",
         "rstudioapi",
         "rtracklayer",
         "snow",
@@ -139599,7 +139591,6 @@
         "readxl",
         "rematch",
         "rlang",
-        "rootSolve",
         "rstudioapi",
         "tibble",
         "utf8",
@@ -139669,9 +139660,7 @@
         "R6",
         "Rcpp"
     ],
-    "Exact": [
-        "rootSolve"
-    ],
+    "Exact": [],
     "gld": [
         "MASS",
         "class",
@@ -139685,7 +139674,6 @@
         "nlme"
     ],
     "rbibutils": [],
-    "rootSolve": [],
     "lmom": [],
     "tidytree": [
         "R6",
@@ -146120,8 +146108,7 @@
         "coda",
         "deSolve",
         "minpack.lm",
-        "minqa",
-        "rootSolve"
+        "minqa"
     ],
     "SpatialTools": [
         "Formula",
