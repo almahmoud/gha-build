@@ -42,7 +42,6 @@
         "QDNAseq"
     ],
     "BitSeq": [],
-    "BOBaFIT": [],
     "brainflowprobes": [
         "GenomicState",
         "derfinderPlot"
