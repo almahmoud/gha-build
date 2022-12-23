@@ -316,7 +316,6 @@
         "affy",
         "gcrma"
     ],
-    "BicARE": [],
     "bigmelon": [
         "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
@@ -2773,7 +2772,6 @@
     ],
     "miRSM": [
         "BiBitR",
-        "BicARE",
         "Hmisc",
         "ReactomePA",
         "SPONGE",
