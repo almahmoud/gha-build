@@ -918,7 +918,6 @@
         "lmerTest"
     ],
     "compartmap": [],
-    "COMPASS": [],
     "compEpiTools": [
         "BSgenome",
         "GenomicFeatures",
