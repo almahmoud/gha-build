@@ -3320,7 +3320,6 @@
         "viridis",
         "xlsx"
     ],
-    "BioMVCClass": [],
     "biomvRCNS": [
         "AnnotationDbi",
         "AnnotationFilter",
