@@ -3416,7 +3416,6 @@
         "MultiAssayExperiment",
         "NADA",
         "ROCR",
-        "ROI.plugin.lpsolve",
         "RSQLite",
         "RcppML",
         "Rfast",
@@ -59085,7 +59084,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "ROI.plugin.lpsolve",
         "Rvmmin",
         "S4Vectors",
         "XVector",
@@ -59119,14 +59117,11 @@
     "optimr": [
         "Rvmmin"
     ],
-    "detectseparation": [
-        "ROI.plugin.lpsolve"
-    ],
+    "detectseparation": [],
     "survey": [
         "survival"
     ],
     "softImpute": [],
-    "ROI.plugin.lpsolve": [],
     "Rvmmin": [],
     "sjmisc": [
         "dplyr",
