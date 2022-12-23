@@ -489,7 +489,6 @@
         "ANCOMBC",
         "DESeq2",
         "Hmisc",
-        "MAST",
         "Seurat",
         "TreeSummarizedExperiment",
         "annotate",
@@ -980,9 +979,7 @@
         "PROMISE",
         "annotate"
     ],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "scater",
         "scran",
@@ -4108,7 +4105,6 @@
         "affy",
         "gcrma"
     ],
-    "MAST": [],
     "MatrixQCvis": [
         "Hmisc",
         "affy",
@@ -5793,9 +5789,7 @@
         "graphite",
         "org.Hs.eg.db"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "ppcseq": [
         "benchmarkme"
     ],
@@ -7240,7 +7234,6 @@
         "HDF5Array",
         "Hmisc",
         "M3Drop",
-        "MAST",
         "Seurat",
         "SoupX",
         "TENxPBMCData",
