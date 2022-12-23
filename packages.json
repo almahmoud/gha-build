@@ -10768,7 +10768,6 @@
         "interactiveDisplayBase",
         "multcomp",
         "rmarkdown",
-        "servr",
         "shiny",
         "tidyr"
     ],
@@ -28185,7 +28184,6 @@
         "rmarkdown",
         "shiny"
     ],
-    "servr": [],
     "available": [
         "dplyr",
         "tidytext"
