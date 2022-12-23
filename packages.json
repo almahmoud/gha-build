@@ -23197,7 +23197,6 @@
         "XVector",
         "blob"
     ],
-    "miRcomp": [],
     "mirIntegrator": [
         "AnnotationDbi",
         "Biostrings",
