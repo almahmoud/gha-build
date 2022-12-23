@@ -64,7 +64,6 @@
         "BSgenome",
         "Category",
         "DESeq2",
-        "GGally",
         "GO.db",
         "GOstats",
         "GSEABase",
@@ -100,7 +99,6 @@
         "BSgenome",
         "Category",
         "DESeq2",
-        "GGally",
         "GO.db",
         "GOstats",
         "GSEABase",
@@ -132,8 +130,7 @@
     ],
     "ALDEx2": [],
     "alevinQC": [
-        "DT",
-        "GGally"
+        "DT"
     ],
     "AllelicImbalance": [
         "BSgenome",
@@ -690,7 +687,6 @@
         "wateRmelon"
     ],
     "bigPint": [
-        "GGally",
         "Hmisc",
         "htmlTable",
         "plotly"
@@ -978,7 +974,6 @@
     ],
     "BOBaFIT": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -1007,7 +1002,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "DT",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -1100,7 +1094,6 @@
     "CAEN": [],
     "CAFE": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -1133,7 +1126,6 @@
     "cageminer": [
         "BSgenome",
         "BioNERO",
-        "GGally",
         "GO.db",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1394,7 +1386,6 @@
     "CeTF": [
         "DESeq2",
         "DOSE",
-        "GGally",
         "GO.db",
         "GOSemSim",
         "GenomicTools",
@@ -1763,7 +1754,6 @@
         "xcms"
     ],
     "CluMSID": [
-        "GGally",
         "MSnbase",
         "plotly"
     ],
@@ -2357,7 +2347,6 @@
     ],
     "cyanoFilter": [
         "GEOmap",
-        "GGally",
         "RFOC",
         "car",
         "cytometree",
@@ -2670,7 +2659,6 @@
     ],
     "derfinderPlot": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -3704,7 +3692,6 @@
     "FLAMES": [
         "BSgenome",
         "DropletUtils",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -4102,7 +4089,6 @@
     ],
     "GenomicOZone": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -4161,7 +4147,6 @@
         "rtracklayer"
     ],
     "GeoDiff": [
-        "GGally",
         "GeomxTools",
         "NanoStringNCTools",
         "ggiraph",
@@ -4193,7 +4178,6 @@
         "GEOquery"
     ],
     "GeomxTools": [
-        "GGally",
         "NanoStringNCTools",
         "ggiraph",
         "lme4",
@@ -4224,7 +4208,6 @@
     ],
     "ggbio": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -4246,9 +4229,7 @@
         "tidytree",
         "treeio"
     ],
-    "GGPA": [
-        "GGally"
-    ],
+    "GGPA": [],
     "ggspavis": [
         "DropletUtils",
         "SingleCellExperiment",
@@ -4902,7 +4883,6 @@
     ],
     "intansv": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -5082,7 +5062,6 @@
     "isomiRs": [
         "DEGreport",
         "DESeq2",
-        "GGally",
         "annotate",
         "geneplotter"
     ],
@@ -5507,7 +5486,6 @@
     ],
     "MBQN": [],
     "MCbiclust": [
-        "GGally",
         "GO.db",
         "Hmisc",
         "WGCNA",
@@ -5963,7 +5941,6 @@
     ],
     "MetNet": [],
     "mfa": [
-        "GGally",
         "ggmcmc"
     ],
     "MGFM": [
@@ -6297,7 +6274,6 @@
         "recipes"
     ],
     "mitch": [
-        "GGally",
         "echarts4r"
     ],
     "mitoClone2": [
@@ -6491,7 +6467,6 @@
     "MsFeatures": [],
     "msgbsR": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -7575,7 +7550,6 @@
     ],
     "PhIPData": [],
     "PhosR": [
-        "GGally",
         "car",
         "dendextend",
         "ggpubr",
@@ -7949,7 +7923,6 @@
     "protGear": [
         "DT",
         "FactoMineR",
-        "GGally",
         "annotate",
         "car",
         "dendextend",
@@ -8142,7 +8115,6 @@
     ],
     "R3CPET": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -8428,7 +8400,6 @@
         "BSgenome",
         "Category",
         "DESeq2",
-        "GGally",
         "GO.db",
         "GOstats",
         "GSEABase",
@@ -8560,7 +8531,6 @@
     ],
     "RiboProfiling": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -9241,7 +9211,6 @@
         "plotly"
     ],
     "scPipe": [
-        "GGally",
         "GenomicAlignments",
         "SingleCellExperiment",
         "biomaRt",
@@ -9271,7 +9240,6 @@
     ],
     "scruff": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -9438,7 +9406,6 @@
         "AnnotationHub",
         "DT",
         "ExperimentHub",
-        "GGally",
         "interactiveDisplayBase",
         "rbokeh"
     ],
@@ -9802,7 +9769,6 @@
     ],
     "SomaticSignatures": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -9852,7 +9818,6 @@
         "scuttle"
     ],
     "SpatialDecon": [
-        "GGally",
         "GeomxTools",
         "NanoStringNCTools",
         "ggiraph",
@@ -10258,7 +10223,6 @@
     "systemPipeTools": [
         "DESeq2",
         "DT",
-        "GGally",
         "annotate",
         "aplot",
         "geneplotter",
@@ -10534,7 +10498,6 @@
         "visdat"
     ],
     "TNBC.CMS": [
-        "GGally",
         "GSEABase",
         "GSVA",
         "SingleCellExperiment",
@@ -10548,9 +10511,7 @@
         "testthat"
     ],
     "TnT": [],
-    "TOAST": [
-        "GGally"
-    ],
+    "TOAST": [],
     "tomoda": [],
     "tomoseqr": [
         "plotly"
@@ -10744,7 +10705,6 @@
     ],
     "TVTB": [
         "BSgenome",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Gviz",
@@ -10953,7 +10913,6 @@
     "VennDetail": [],
     "vidger": [
         "DESeq2",
-        "GGally",
         "annotate",
         "geneplotter"
     ],
@@ -11119,7 +11078,6 @@
     "YAPSA": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "GGally",
         "GenomicAlignments",
         "GenomicFeatures",
         "Hmisc",
@@ -11220,7 +11178,6 @@
     "Hmisc": [
         "htmlTable"
     ],
-    "GGally": [],
     "htmlTable": [],
     "ggrastr": [],
     "speaq": [],
@@ -11963,9 +11920,7 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "ggmcmc": [
-        "GGally"
-    ],
+    "ggmcmc": [],
     "formattable": [],
     "HardyWeinberg": [
         "mice"
