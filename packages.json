@@ -14274,7 +14274,6 @@
     ],
     "granulator": [
         "bslib",
-        "classInt",
         "cowplot",
         "dplyr",
         "epiR",
@@ -15659,7 +15658,6 @@
         "XVector",
         "beachmat",
         "bslib",
-        "classInt",
         "concaveman",
         "cytomapper",
         "dbplyr",
@@ -17069,7 +17067,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "classInt",
         "concaveman",
         "dbplyr",
         "dplyr",
@@ -17654,7 +17651,6 @@
         "agricolae",
         "bslib",
         "caret",
-        "classInt",
         "dplyr",
         "fields",
         "forcats",
@@ -23112,7 +23108,6 @@
     "omada": [
         "NMF",
         "bslib",
-        "classInt",
         "diceR",
         "dplyr",
         "forcats",
@@ -29902,7 +29897,6 @@
         "SummarizedExperiment",
         "XVector",
         "bslib",
-        "classInt",
         "concaveman",
         "cowplot",
         "dplyr",
@@ -30407,7 +30401,6 @@
         "bookdown",
         "bslib",
         "ccTensor",
-        "classInt",
         "concaveman",
         "cowplot",
         "dbplyr",
@@ -30481,7 +30474,6 @@
         "babelgene",
         "bookdown",
         "bslib",
-        "classInt",
         "concaveman",
         "cowplot",
         "dplyr",
@@ -32312,7 +32304,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "classInt",
         "dbplyr",
         "dplyr",
         "httr",
@@ -32505,7 +32496,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "classInt",
         "concaveman",
         "dbplyr",
         "dplyr",
@@ -33164,7 +33154,6 @@
         "broom",
         "bslib",
         "cellranger",
-        "classInt",
         "concaveman",
         "dbplyr",
         "dplyr",
@@ -33228,7 +33217,6 @@
         "XVector",
         "beachmat",
         "bslib",
-        "classInt",
         "cowplot",
         "dbplyr",
         "dplyr",
@@ -33622,7 +33610,6 @@
         "bslib",
         "car",
         "cellranger",
-        "classInt",
         "dbplyr",
         "dplyr",
         "drc",
@@ -36178,7 +36165,6 @@
         "XVector",
         "beachmat",
         "bluster",
-        "classInt",
         "dbplyr",
         "dplyr",
         "ggnewscale",
@@ -39780,16 +39766,12 @@
     ],
     "epiR": [
         "bslib",
-        "classInt",
         "flextable",
         "knitr",
         "rmarkdown",
         "sf"
     ],
-    "sf": [
-        "classInt"
-    ],
-    "classInt": [],
+    "sf": [],
     "penalized": [],
     "fGarch": [],
     "ggwordcloud": [
@@ -39866,7 +39848,6 @@
         "tibble"
     ],
     "concaveman": [
-        "classInt",
         "dplyr",
         "sf",
         "tibble"
@@ -40050,7 +40031,6 @@
     ],
     "agricolae": [
         "bslib",
-        "classInt",
         "dplyr",
         "forcats",
         "haven",
@@ -40068,7 +40048,6 @@
     ],
     "klaR": [
         "bslib",
-        "classInt",
         "dplyr",
         "forcats",
         "haven",
@@ -40085,7 +40064,6 @@
     ],
     "questionr": [
         "bslib",
-        "classInt",
         "dplyr",
         "forcats",
         "haven",
@@ -40599,7 +40577,6 @@
     "diceR": [
         "NMF",
         "bslib",
-        "classInt",
         "dplyr",
         "forcats",
         "ggplot2",
@@ -41364,7 +41341,6 @@
     ],
     "sampSurf": [],
     "spdep": [
-        "classInt",
         "sf"
     ],
     "alphahull": [
@@ -41450,7 +41426,6 @@
         "BMA"
     ],
     "gstat": [
-        "classInt",
         "lwgeom",
         "sf",
         "sftime",
@@ -41464,17 +41439,14 @@
         "viridis"
     ],
     "sftime": [
-        "classInt",
         "sf"
     ],
     "spacetime": [],
     "stars": [
-        "classInt",
         "lwgeom",
         "sf"
     ],
     "lwgeom": [
-        "classInt",
         "sf"
     ],
     "spsUtil": [
