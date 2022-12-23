@@ -3102,7 +3102,6 @@
         "DiagrammeR"
     ],
     "GOexpress": [],
-    "GOfuncR": [],
     "GOpro": [
         "dendextend",
         "org.Hs.eg.db"
