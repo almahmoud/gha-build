@@ -2719,7 +2719,6 @@
         "rstatix",
         "survminer"
     ],
-    "IWTomics": [],
     "karyoploteR": [
         "BSgenome",
         "GenomicFeatures",
