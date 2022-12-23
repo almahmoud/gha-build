@@ -436,7 +436,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "fgsea",
         "ggfortify",
         "htmlTable",
         "lme4",
@@ -492,7 +491,6 @@
         "annotate",
         "biomaRt",
         "chromVAR",
-        "fgsea",
         "haven",
         "modelr",
         "motifmatchr",
@@ -835,7 +833,6 @@
         "car",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "graphite",
@@ -977,7 +974,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "fgsea",
         "htmlTable",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
@@ -1478,7 +1474,6 @@
     "CelliD": [
         "Seurat",
         "SingleCellExperiment",
-        "fgsea",
         "ggrastr",
         "plotly",
         "scater",
@@ -1531,7 +1526,6 @@
         "WGCNA",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggpmisc",
         "ggraph",
         "ggtree",
@@ -1579,7 +1573,6 @@
         "car",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "geneplotter",
         "ggnetwork",
         "ggpubr",
@@ -1783,7 +1776,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "rtracklayer",
@@ -1976,7 +1968,6 @@
         "GOSemSim",
         "HDO.db",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -1986,8 +1977,7 @@
         "viridis"
     ],
     "clustifyr": [
-        "SingleCellExperiment",
-        "fgsea"
+        "SingleCellExperiment"
     ],
     "cmapR": [
         "rhdf5"
@@ -2221,7 +2211,6 @@
         "dendextend",
         "enrichplot",
         "factoextra",
-        "fgsea",
         "ggpubr",
         "ggraph",
         "ggrastr",
@@ -2359,7 +2348,6 @@
     ],
     "CoreGx": [
         "MultiAssayExperiment",
-        "fgsea",
         "piano",
         "visNetwork"
     ],
@@ -2562,7 +2550,6 @@
     "cTRAP": [
         "AnnotationDbi",
         "AnnotationHub",
-        "fgsea",
         "highcharter",
         "interactiveDisplayBase",
         "rhdf5"
@@ -2792,7 +2779,6 @@
         "clusterProfiler",
         "dendextend",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "geneplotter",
         "ggraph",
@@ -3232,8 +3218,7 @@
         "AnnotationDbi",
         "GO.db",
         "GOSemSim",
-        "HDO.db",
-        "fgsea"
+        "HDO.db"
     ],
     "doseR": [
         "lme4",
@@ -3316,7 +3301,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -3374,7 +3358,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "geneplotter",
         "ggraph",
         "ggtree",
@@ -3484,7 +3467,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "fgsea",
         "ggraph",
         "ggtree",
         "scatterpie",
@@ -3506,7 +3488,6 @@
         "car",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggpubr",
         "ggraph",
         "ggtree",
@@ -3567,7 +3548,6 @@
         "annotate",
         "biomaRt",
         "enrichplot",
-        "fgsea",
         "geneplotter",
         "genomation",
         "ggraph",
@@ -3621,7 +3601,6 @@
         "ReactomePA",
         "WGCNA",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "graphite",
@@ -3781,7 +3760,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -3819,7 +3797,6 @@
         "GenomicFeatures",
         "SGSeq",
         "biomaRt",
-        "fgsea",
         "rhdf5",
         "rtracklayer"
     ],
@@ -3936,7 +3913,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gprofiler2",
@@ -3990,7 +3966,6 @@
         "SingleCellExperiment",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -4035,7 +4010,6 @@
         "rtracklayer"
     ],
     "fgga": [],
-    "fgsea": [],
     "FilterFFPE": [],
     "FindIT2": [
         "AnnotationDbi",
@@ -4151,7 +4125,6 @@
         "ChemmineR"
     ],
     "fobitools": [
-        "fgsea",
         "ggraph",
         "lexicon",
         "textclean",
@@ -4314,7 +4287,6 @@
         "car",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "geneplotter",
         "ggpubr",
         "ggraph",
@@ -4802,7 +4774,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "goProfiles",
@@ -4906,8 +4877,7 @@
     "gsean": [
         "AnnotationDbi",
         "PPInfer",
-        "biomaRt",
-        "fgsea"
+        "biomaRt"
     ],
     "GSReg": [
         "AnnotationDbi",
@@ -5471,7 +5441,6 @@
         "car",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "gamlss",
         "ggpubr",
         "ggraph",
@@ -5700,7 +5669,6 @@
     "lipidr": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "fgsea",
         "plotly",
         "ropls"
     ],
@@ -5893,7 +5861,6 @@
         "clusterProfiler",
         "depmap",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -6049,7 +6016,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "fgsea",
         "htmlTable",
         "org.Hs.eg.db",
         "rtracklayer",
@@ -6157,7 +6123,6 @@
         "HDO.db",
         "MeSHDbi",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "interactiveDisplayBase",
@@ -6265,7 +6230,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -6275,7 +6239,6 @@
         "viridis"
     ],
     "metapone": [
-        "fgsea",
         "fields",
         "viridis"
     ],
@@ -6449,7 +6412,6 @@
         "bumphunter",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "genefilter",
         "ggraph",
         "ggtree",
@@ -6640,7 +6602,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -6808,7 +6769,6 @@
         "cvms",
         "dendextend",
         "enrichplot",
-        "fgsea",
         "ggpubr",
         "ggraph",
         "ggtree",
@@ -6850,7 +6810,6 @@
         "clusterProfiler",
         "cvms",
         "enrichplot",
-        "fgsea",
         "ggpubr",
         "ggraph",
         "ggtree",
@@ -7023,7 +6982,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -7307,7 +7265,6 @@
     "MultiDataSet": [],
     "multiGSEA": [
         "AnnotationDbi",
-        "fgsea",
         "graphite"
     ],
     "multiHiCcompare": [
@@ -7337,7 +7294,6 @@
         "clusterProfiler",
         "devtools",
         "enrichplot",
-        "fgsea",
         "geneplotter",
         "ggraph",
         "ggtree",
@@ -7515,9 +7471,7 @@
         "testthat",
         "tidyverse"
     ],
-    "NanoTube": [
-        "fgsea"
-    ],
+    "NanoTube": [],
     "NBAMSeq": [
         "AnnotationDbi",
         "DESeq2",
@@ -7581,7 +7535,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -7882,7 +7835,6 @@
     ],
     "omicsViewer": [
         "car",
-        "fgsea",
         "ggpubr",
         "lme4",
         "nloptr",
@@ -8080,7 +8032,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -8100,7 +8051,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "fgsea",
         "ggraph",
         "nloptr",
         "testthat",
@@ -8158,7 +8108,6 @@
         "biomaRt",
         "car",
         "caret",
-        "fgsea",
         "fields",
         "genefu",
         "ggpubr",
@@ -8220,7 +8169,6 @@
         "HDO.db",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -8234,14 +8182,12 @@
         "DESeq2",
         "GEOquery",
         "annotate",
-        "fgsea",
         "geneplotter",
         "rhdf5"
     ],
     "PharmacoGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "fgsea",
         "piano",
         "visNetwork"
     ],
@@ -8314,7 +8260,6 @@
         "recipes"
     ],
     "piano": [
-        "fgsea",
         "visNetwork"
     ],
     "PICS": [
@@ -8332,7 +8277,6 @@
         "WGCNA",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "graphite",
@@ -8456,8 +8400,7 @@
     ],
     "PPInfer": [
         "AnnotationDbi",
-        "biomaRt",
-        "fgsea"
+        "biomaRt"
     ],
     "pram": [
         "GenomicAlignments",
@@ -8588,7 +8531,6 @@
         "biomaRt",
         "chipseq",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "org.Hs.eg.db",
@@ -8944,7 +8886,6 @@
     "RadioGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "fgsea",
         "piano",
         "visNetwork"
     ],
@@ -9057,7 +8998,6 @@
         "GOSemSim",
         "HDO.db",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "graphite",
@@ -9147,7 +9087,6 @@
         "Hmisc",
         "WGCNA",
         "annotate",
-        "fgsea",
         "geneplotter",
         "htmlTable",
         "viridis"
@@ -9634,7 +9573,6 @@
         "dendextend",
         "enrichplot",
         "factoextra",
-        "fgsea",
         "genefilter",
         "geneplotter",
         "ggpubr",
@@ -10184,7 +10122,6 @@
         "ccTensor",
         "dendextend",
         "enrichplot",
-        "fgsea",
         "fields",
         "genefilter",
         "ggraph",
@@ -10255,7 +10192,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "biomaRt",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "rtracklayer",
@@ -10423,7 +10359,6 @@
         "annotate",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -11346,7 +11281,6 @@
         "clusterProfiler",
         "enrichplot",
         "ensembldb",
-        "fgsea",
         "ggpubr",
         "ggraph",
         "ggtree",
@@ -11489,7 +11423,6 @@
         "biomaRt",
         "clusterProfiler",
         "enrichplot",
-        "fgsea",
         "ggraph",
         "ggtree",
         "gson",
@@ -11569,7 +11502,6 @@
     "ToxicoGx": [
         "CoreGx",
         "MultiAssayExperiment",
-        "fgsea",
         "piano",
         "visNetwork"
     ],
@@ -11997,7 +11929,6 @@
         "GOSemSim",
         "biomaRt",
         "dendextend",
-        "fgsea",
         "heatmaply",
         "plotly",
         "topGO",
@@ -12148,7 +12079,6 @@
         "CoreGx",
         "MultiAssayExperiment",
         "PharmacoGx",
-        "fgsea",
         "piano",
         "visNetwork"
     ],
