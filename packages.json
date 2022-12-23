@@ -637,7 +637,6 @@
         "scran",
         "viridis"
     ],
-    "CellBarcode": [],
     "cellHTS2": [
         "Category",
         "affy",
