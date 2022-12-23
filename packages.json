@@ -216,7 +216,6 @@
     "amplican": [
         "GenomicAlignments",
         "ShortRead",
-        "ggthemes",
         "waffle"
     ],
     "Anaquin": [
@@ -1770,7 +1769,6 @@
         "ggpmisc",
         "ggraph",
         "ggrepel",
-        "ggthemes",
         "ggtree",
         "gson",
         "htmlTable",
@@ -2737,8 +2735,7 @@
     ],
     "corral": [
         "MultiAssayExperiment",
-        "SingleCellExperiment",
-        "ggthemes"
+        "SingleCellExperiment"
     ],
     "coseq": [
         "AnnotationDbi",
@@ -3484,7 +3481,6 @@
         "broom",
         "car",
         "ggplot.multistats",
-        "ggthemes",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -4693,9 +4689,7 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fedup": [
-        "ggthemes"
-    ],
+    "fedup": [],
     "ffpe": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -5359,7 +5353,6 @@
         "GeomxTools",
         "NanoStringNCTools",
         "ggiraph",
-        "ggthemes",
         "htmlwidgets",
         "lme4",
         "lmerTest",
@@ -5399,7 +5392,6 @@
         "GGally",
         "NanoStringNCTools",
         "ggiraph",
-        "ggthemes",
         "htmlwidgets",
         "lme4",
         "lmerTest",
@@ -8843,7 +8835,6 @@
     ],
     "NanoStringNCTools": [
         "ggiraph",
-        "ggthemes",
         "htmlwidgets"
     ],
     "NanoStringQCPro": [
@@ -11506,7 +11497,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "ggthemes",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -12014,7 +12004,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "ggthemes",
         "htmlTable",
         "htmlwidgets",
         "rtracklayer",
@@ -12761,7 +12750,6 @@
         "GeomxTools",
         "NanoStringNCTools",
         "ggiraph",
-        "ggthemes",
         "htmlwidgets",
         "lme4",
         "lmerTest",
@@ -13144,7 +13132,6 @@
     ],
     "struct": [],
     "structToolbox": [
-        "ggthemes",
         "struct"
     ],
     "StructuralVariantAnnotation": [
@@ -14574,7 +14561,6 @@
         "htmlwidgets",
         "interactiveDisplayBase"
     ],
-    "ggthemes": [],
     "waffle": [],
     "DescTools": [],
     "lmerTest": [
