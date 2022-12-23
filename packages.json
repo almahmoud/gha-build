@@ -37408,7 +37408,6 @@
         "vctrs",
         "vroom"
     ],
-    "NanoStringDiff": [],
     "NanoStringNCTools": [
         "Biostrings",
         "GenomeInfoDb",
