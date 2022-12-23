@@ -26953,7 +26953,6 @@
         "stringr",
         "tibble"
     ],
-    "OrderedList": [],
     "ORFhunteR": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
