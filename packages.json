@@ -2051,7 +2051,6 @@
         "IRanges",
         "KEGGREST",
         "MSstats",
-        "MSstatsConvert",
         "RSQLite",
         "RcppEigen",
         "UpSetR",
@@ -36120,7 +36119,6 @@
         "waldo"
     ],
     "MSstats": [
-        "MSstatsConvert",
         "RcppEigen",
         "callr",
         "ggplot2",
@@ -36139,7 +36137,6 @@
         "vctrs",
         "waldo"
     ],
-    "MSstatsConvert": [],
     "MSstatsLiP": [
         "Biostrings",
         "DT",
@@ -36147,7 +36144,6 @@
         "GenomeInfoDb",
         "IRanges",
         "MSstats",
-        "MSstatsConvert",
         "MSstatsPTM",
         "MSstatsTMT",
         "MatrixModels",
@@ -36235,7 +36231,6 @@
         "GenomeInfoDb",
         "IRanges",
         "MSstats",
-        "MSstatsConvert",
         "MSstatsTMT",
         "RcppEigen",
         "XVector",
@@ -36358,7 +36353,6 @@
     "MSstatsSampleSize": [
         "BiocParallel",
         "MSstats",
-        "MSstatsConvert",
         "RcppEigen",
         "callr",
         "caret",
@@ -36403,7 +36397,6 @@
         "Hmisc",
         "IRanges",
         "MSstats",
-        "MSstatsConvert",
         "MSstatsPTM",
         "MSstatsTMT",
         "RcppEigen",
@@ -36453,7 +36446,6 @@
     ],
     "MSstatsTMT": [
         "MSstats",
-        "MSstatsConvert",
         "RcppEigen",
         "callr",
         "ggplot2",
