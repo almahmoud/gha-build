@@ -11,9 +11,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "adductomicsR": [
-        "adductData"
-    ],
+    "adductomicsR": [],
     "affycoretools": [
         "Glimma",
         "OrganismDbi",
@@ -2570,7 +2568,6 @@
         "car"
     ],
     "car": [],
-    "adductData": [],
     "curatedTCGAData": [],
     "ReorderCluster": [],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [],
