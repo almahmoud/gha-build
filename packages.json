@@ -4409,7 +4409,6 @@
     "scMerge": [
         "M3Drop"
     ],
-    "scMET": [],
     "scmeth": [
         "AnnotationHub",
         "BSgenome",
