@@ -1194,7 +1194,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq",
         "FSelector",
