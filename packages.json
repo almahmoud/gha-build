@@ -2145,7 +2145,6 @@
     ],
     "fastLiquidAssociation": [
         "Hmisc",
-        "LiquidAssociation",
         "WGCNA",
         "viridis"
     ],
@@ -3070,7 +3069,6 @@
         "ggtree"
     ],
     "lipidr": [],
-    "LiquidAssociation": [],
     "lisaClust": [
         "DropletUtils",
         "HDF5Array",
