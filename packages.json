@@ -1341,7 +1341,6 @@
         "arm",
         "car",
         "pbkrtest",
-        "plsVarSel",
         "sva",
         "viridis"
     ],
@@ -2112,7 +2111,6 @@
         "arm",
         "car",
         "pbkrtest",
-        "plsVarSel",
         "sva",
         "viridis"
     ],
@@ -6266,7 +6264,6 @@
         "viridis"
     ],
     "mbest": [],
-    "plsVarSel": [],
     "FSelector": [
         "RWeka"
     ],
