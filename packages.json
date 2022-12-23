@@ -2689,7 +2689,6 @@
         "recount",
         "viridis"
     ],
-    "psygenet2r": [],
     "ptairMS": [
         "Hmisc",
         "MSnbase",
