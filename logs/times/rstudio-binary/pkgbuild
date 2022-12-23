@@ -1,17 +1,22 @@
 + git pull origin main
 From https://github.com/almahmoud/gha-build
  * branch              main       -> FETCH_HEAD
-   bb61b7b6..203a2bde  main       -> origin/main
-Updating bb61b7b6..203a2bde
+   e07bbed0..53796012  main       -> origin/main
+Updating e07bbed0..53796012
 Fast-forward
- lists/torch                                 | 1 +
- logs/run_ids/rstudio-binaries/ROSeq         | 2 ++
- logs/run_ids/rstudio-binaries/phosphoricons | 2 ++
- packages.json                               | 4 +---
- 4 files changed, 6 insertions(+), 3 deletions(-)
- create mode 100644 lists/torch
- create mode 100644 logs/run_ids/rstudio-binaries/ROSeq
- create mode 100644 logs/run_ids/rstudio-binaries/phosphoricons
+ lists/origami                                 |  2 +-
+ logs/run_ids/rstudio-binaries/ontologyPlot    |  2 +
+ logs/run_ids/rstudio-binaries/raster          |  2 +
+ logs/sizes/rstudio-binaries/binaries/origami  |  1 +
+ logs/sizes/rstudio-binaries/libraries/origami |  1 +
+ logs/times/rstudio-binary/origami             | 69 +++++++++++++++++++++++++++
+ packages.json                                 |  2 -
+ 7 files changed, 76 insertions(+), 3 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/ontologyPlot
+ create mode 100644 logs/run_ids/rstudio-binaries/raster
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/origami
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/origami
+ create mode 100644 logs/times/rstudio-binary/origami
 + export LIBRARY=/__w/gha-build/gha-build/built/
 + LIBRARY=/__w/gha-build/gha-build/built/
 + export PKG=pkgbuild
@@ -30,7 +35,7 @@ Fast-forward
 + cat /tmp/deps
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 10 1283k   10  128k    0     0   161k      0  0:00:07 --:--:--  0:00:07  161k 55 1283k   55  718k    0     0   401k      0  0:00:03  0:00:01  0:00:02  401k100 1283k  100 1283k    0     0   546k      0  0:00:02  0:00:02 --:--:--  546k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  9 1283k    9  127k    0     0   207k      0  0:00:06 --:--:--  0:00:06  207k 78 1283k   78 1004k    0     0   612k      0  0:00:02  0:00:01  0:00:01  612k100 1283k  100 1283k    0     0   702k      0  0:00:01  0:00:01 --:--:--  702k
 built/
 built/built/
 built/built/ps/
@@ -193,39 +198,10 @@ built/callr/R/callr.rdb
 built/callr/R/callr
 built/callr/R/callr.rdx
 built/callr/NEWS.md
+Dependency crayon is already found.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0  154k    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  154k  100  154k    0     0   178k      0 --:--:-- --:--:-- --:--:--  178k
-built/
-built/crayon/
-built/crayon/NAMESPACE
-built/crayon/DESCRIPTION
-built/crayon/help/
-built/crayon/help/paths.rds
-built/crayon/help/crayon.rdb
-built/crayon/help/aliases.rds
-built/crayon/help/crayon.rdx
-built/crayon/help/AnIndex
-built/crayon/Meta/
-built/crayon/Meta/package.rds
-built/crayon/Meta/features.rds
-built/crayon/Meta/hsearch.rds
-built/crayon/Meta/links.rds
-built/crayon/Meta/nsInfo.rds
-built/crayon/Meta/Rd.rds
-built/crayon/LICENSE
-built/crayon/html/
-built/crayon/html/00Index.html
-built/crayon/html/R.css
-built/crayon/INDEX
-built/crayon/R/
-built/crayon/R/crayon.rdb
-built/crayon/R/crayon
-built/crayon/R/crayon.rdx
-built/crayon/NEWS.md
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 22 1684k   22  382k    0     0   254k      0  0:00:06  0:00:01  0:00:05  254k 70 1684k   70 1195k    0     0   478k      0  0:00:03  0:00:02  0:00:01  478k100 1684k  100 1684k    0     0   579k      0  0:00:02  0:00:02 --:--:--  578k
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  6 1684k    6  111k    0     0   149k      0  0:00:11 --:--:--  0:00:11  149k 63 1684k   63 1067k    0     0   611k      0  0:00:02  0:00:01  0:00:01  610k100 1684k  100 1684k    0     0   794k      0  0:00:02  0:00:02 --:--:--  794k
 built/
 built/cli/
 built/cli/examples/
@@ -405,75 +381,8 @@ built/R6/R/R6.rdx
 built/R6/R/R6.rdb
 built/R6/R/R6
 built/R6/NEWS.md
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 34415    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 34415  100 34415    0     0  57474      0 --:--:-- --:--:-- --:--:-- 57454
-built/
-built/prettyunits/
-built/prettyunits/NAMESPACE
-built/prettyunits/DESCRIPTION
-built/prettyunits/help/
-built/prettyunits/help/paths.rds
-built/prettyunits/help/prettyunits.rdx
-built/prettyunits/help/prettyunits.rdb
-built/prettyunits/help/aliases.rds
-built/prettyunits/help/AnIndex
-built/prettyunits/Meta/
-built/prettyunits/Meta/package.rds
-built/prettyunits/Meta/features.rds
-built/prettyunits/Meta/hsearch.rds
-built/prettyunits/Meta/links.rds
-built/prettyunits/Meta/nsInfo.rds
-built/prettyunits/Meta/Rd.rds
-built/prettyunits/LICENSE
-built/prettyunits/html/
-built/prettyunits/html/00Index.html
-built/prettyunits/html/R.css
-built/prettyunits/INDEX
-built/prettyunits/R/
-built/prettyunits/R/prettyunits.rdx
-built/prettyunits/R/prettyunits.rdb
-built/prettyunits/R/prettyunits
-built/prettyunits/NEWS.md
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  218k  100  218k    0     0   260k      0 --:--:-- --:--:-- --:--:--  260k
-built/
-built/withr/
-built/withr/NAMESPACE
-built/withr/DESCRIPTION
-built/withr/help/
-built/withr/help/paths.rds
-built/withr/help/withr.rdx
-built/withr/help/aliases.rds
-built/withr/help/figures/
-built/withr/help/figures/README-unnamed-chunk-3-1.png
-built/withr/help/figures/logo.png
-built/withr/help/withr.rdb
-built/withr/help/AnIndex
-built/withr/Meta/
-built/withr/Meta/package.rds
-built/withr/Meta/vignette.rds
-built/withr/Meta/features.rds
-built/withr/Meta/hsearch.rds
-built/withr/Meta/links.rds
-built/withr/Meta/nsInfo.rds
-built/withr/Meta/Rd.rds
-built/withr/LICENSE
-built/withr/html/
-built/withr/html/00Index.html
-built/withr/html/R.css
-built/withr/INDEX
-built/withr/doc/
-built/withr/doc/changing-and-restoring-state.R
-built/withr/doc/changing-and-restoring-state.html
-built/withr/doc/index.html
-built/withr/doc/changing-and-restoring-state.Rmd
-built/withr/R/
-built/withr/R/withr
-built/withr/R/withr.rdx
-built/withr/R/withr.rdb
-built/withr/NEWS.md
+Dependency prettyunits is already found.
+Dependency withr is already found.
 + Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''pkgbuild'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
 + mv pkgbuild_1.4.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
 + echo '\n\nBinary Build log:\n'
@@ -499,13 +408,13 @@ packaged installation of ‘pkgbuild’ as ‘pkgbuild_1.4.0_R_x86_64-pc-linux-g
 * DONE (pkgbuild)
 
 The downloaded source packages are in
-	‘/tmp/RtmpXaERZu/downloaded_packages’
+	‘/tmp/Rtmp10Ls71/downloaded_packages’
 Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
   'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
   'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
   'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
   'foreign', 'Matrix', 'nlme'
 
-real	0m14.515s
-user	0m3.991s
-sys	0m0.416s
+real	0m9.353s
+user	0m3.797s
+sys	0m0.340s
