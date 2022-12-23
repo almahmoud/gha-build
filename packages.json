@@ -15,7 +15,6 @@
         "adductData"
     ],
     "affycoretools": [
-        "GOstats",
         "Glimma",
         "OrganismDbi",
         "ReportingTools",
@@ -25,7 +24,6 @@
         "ggbio"
     ],
     "AgiMicroRna": [
-        "GOstats",
         "Glimma",
         "OrganismDbi",
         "ReportingTools",
@@ -128,9 +126,7 @@
         "TFBSTools",
         "motifStack"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "BaalChIP": [
         "doBy"
     ],
@@ -297,9 +293,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "RTCGAToolbox",
         "TCGAutils",
@@ -1075,9 +1069,7 @@
     "gmapR": [
         "VariantAnnotation"
     ],
-    "GmicR": [
-        "GOstats"
-    ],
+    "GmicR": [],
     "gmoviz": [],
     "goseq": [
         "geneLenDataBase"
@@ -1086,7 +1078,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "GOstats": [],
     "GOTHiC": [],
     "GRaNIE": [],
     "GRmetrics": [
@@ -1177,7 +1168,6 @@
         "CODEX"
     ],
     "ideal": [
-        "GOstats",
         "geneLenDataBase",
         "goseq",
         "pcaExplorer"
@@ -1495,12 +1485,9 @@
     "MicrobiotaProcess": [
         "ggtreeExtra"
     ],
-    "MIGSA": [
-        "GOstats"
-    ],
+    "MIGSA": [],
     "MineICA": [
         "FDb.InfiniumMethylation.hg19",
-        "GOstats",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "bumphunter",
         "lumi",
@@ -1515,9 +1502,7 @@
         "VanillaICE"
     ],
     "MIRA": [],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "miRSM": [
         "ReactomePA",
         "SPONGE",
@@ -1700,7 +1685,6 @@
         "clusterExperiment"
     ],
     "netZooR": [
-        "GOstats",
         "bumphunter",
         "minfi",
         "quantro",
@@ -1796,9 +1780,7 @@
         "enrichplot"
     ],
     "PathoStat": [],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [
         "car",
         "ggpubr",
@@ -1836,9 +1818,7 @@
         "ensembldb"
     ],
     "pipeComp": [],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "plotgardener": [],
     "plotGrouper": [
         "car",
@@ -2015,7 +1995,6 @@
         "minfi"
     ],
     "ReportingTools": [
-        "GOstats",
         "OrganismDbi",
         "VariantAnnotation",
         "biovizBase",
@@ -2218,7 +2197,6 @@
         "ggbio"
     ],
     "scTensor": [
-        "GOstats",
         "ReactomePA",
         "enrichplot",
         "schex"
