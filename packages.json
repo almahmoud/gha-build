@@ -4670,7 +4670,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "ProteoMM": [],
     "protGear": [
         "FactoMineR",
         "affy",
