@@ -8295,7 +8295,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "transport",
         "uwot",
         "viridis"
     ],
@@ -8675,8 +8674,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "transport"
+        "tidyselect"
     ],
     "CORREP": [],
     "coseq": [
@@ -27553,8 +27551,7 @@
         "rtracklayer",
         "stringr",
         "tibble",
-        "tidyselect",
-        "transport"
+        "tidyselect"
     ],
     "Nebulosa": [
         "DelayedArray",
@@ -29157,8 +29154,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
-        "transport"
+        "tidyselect"
     ],
     "OPWeight": [
         "ggplot2",
@@ -48440,8 +48436,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "transport"
+        "tidyselect"
     ],
     "spatstat": [
         "spatstat.explore",
@@ -48450,7 +48445,6 @@
         "spatstat.model",
         "spatstat.random"
     ],
-    "transport": [],
     "spatstat.model": [
         "spatstat.explore",
         "spatstat.geom",
