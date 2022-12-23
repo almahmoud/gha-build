@@ -11678,7 +11678,6 @@
         "rtracklayer",
         "topGO"
     ],
-    "RIVER": [],
     "RJMCMCNucleosomes": [
         "GenomicAlignments",
         "consensusSeekeR",
