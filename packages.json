@@ -3080,7 +3080,6 @@
         "AnnotationHub",
         "interactiveDisplayBase"
     ],
-    "HIPPO": [],
     "hiReadsProcessor": [
         "BSgenome",
         "hiAnnotator",
