@@ -31016,7 +31016,6 @@
         "RSQLite",
         "XVector",
         "bslib",
-        "distrEx",
         "dplyr",
         "fitdistrplus",
         "ggplot2",
@@ -31048,7 +31047,6 @@
         "XVector",
         "bslib",
         "crosstalk",
-        "distrEx",
         "dplyr",
         "fitdistrplus",
         "fontawesome",
@@ -54246,7 +54244,6 @@
         "httr"
     ],
     "ontologyPlot": [],
-    "distrEx": [],
     "AICcmodavg": [
         "TMB",
         "lme4",
