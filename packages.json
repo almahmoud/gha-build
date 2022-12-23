@@ -599,7 +599,6 @@
         "Gviz",
         "biovizBase"
     ],
-    "HiLDA": [],
     "HTSeqGenie": [
         "VariantTools",
         "gmapR"
@@ -1186,9 +1185,7 @@
     "segmenter": [
         "ChIPseeker"
     ],
-    "selectKSigs": [
-        "HiLDA"
-    ],
+    "selectKSigs": [],
     "seqCAT": [],
     "sesame": [],
     "shinyepico": [
