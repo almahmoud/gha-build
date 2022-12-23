@@ -46203,7 +46203,6 @@
         "quantreg",
         "raster",
         "readr",
-        "readstata13",
         "readxl",
         "rematch2",
         "rmarkdown",
@@ -83817,7 +83816,6 @@
         "purrr",
         "quantreg",
         "readr",
-        "readstata13",
         "readxl",
         "rematch2",
         "rmarkdown",
@@ -83836,7 +83834,6 @@
         "vroom",
         "waldo"
     ],
-    "readstata13": [],
     "qpcR": [
         "bslib",
         "ellipsis",
