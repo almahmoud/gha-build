@@ -1514,7 +1514,6 @@
     "meshes": [
         "enrichplot"
     ],
-    "meshr": [],
     "MetaboSignal": [
         "EnsDb.Hsapiens.v75",
         "MWASTools",
@@ -2460,7 +2459,6 @@
         "GOstats",
         "ReactomePA",
         "enrichplot",
-        "meshr",
         "schex"
     ],
     "scTGIF": [
