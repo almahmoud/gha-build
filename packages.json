@@ -6321,7 +6321,6 @@
         "rvest",
         "selectr",
         "shadowtext",
-        "sn",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -7796,7 +7795,6 @@
         "rhdf5",
         "rmarkdown",
         "safe",
-        "sn",
         "tibble",
         "tidyr",
         "topGO"
@@ -14687,7 +14685,6 @@
         "mutoss",
         "plotly",
         "rmarkdown",
-        "sn",
         "tibble",
         "tidyr",
         "topconfects"
@@ -16933,7 +16930,6 @@
         "graphite",
         "metap",
         "mutoss",
-        "sn",
         "tibble"
     ],
     "multiHiCcompare": [
@@ -17025,7 +17021,6 @@
         "shadowtext",
         "shiny",
         "shinydashboard",
-        "sn",
         "testthat",
         "tibble",
         "tidygraph",
@@ -17319,7 +17314,6 @@
         "rmarkdown",
         "rtracklayer",
         "shiny",
-        "sn",
         "tibble",
         "trackViewer",
         "viridis",
@@ -18789,7 +18783,6 @@
         "reshape2",
         "scatterpie",
         "shadowtext",
-        "sn",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -19088,7 +19081,6 @@
         "phyloseq",
         "reshape2",
         "rhdf5",
-        "sn",
         "tibble"
     ],
     "periodicDNA": [
@@ -22614,7 +22606,6 @@
         "rematch2",
         "rmarkdown",
         "ropls",
-        "sn",
         "testthat",
         "tibble",
         "tidyr",
@@ -24770,7 +24761,6 @@
         "shinyalert",
         "shinycssloaders",
         "shinyjs",
-        "sn",
         "spatstat.explore",
         "sva",
         "tibble",
@@ -30689,14 +30679,10 @@
     ],
     "metap": [
         "TFisher",
-        "mutoss",
-        "sn"
+        "mutoss"
     ],
-    "TFisher": [
-        "sn"
-    ],
+    "TFisher": [],
     "mutoss": [],
-    "sn": [],
     "DMwR2": [
         "dplyr",
         "readr",
