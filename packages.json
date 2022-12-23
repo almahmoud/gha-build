@@ -536,9 +536,7 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "beer": [
-        "PhIPData"
-    ],
+    "beer": [],
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
@@ -6274,7 +6272,6 @@
         "ggtree",
         "treeio"
     ],
-    "PhIPData": [],
     "PhosR": [
         "car",
         "dendextend",
