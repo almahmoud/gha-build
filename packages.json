@@ -1884,7 +1884,6 @@
     ],
     "DeepPINCS": [
         "DiagrammeR",
-        "lexicon",
         "mlapi",
         "text2vec",
         "textclean",
@@ -2768,7 +2767,6 @@
     ],
     "fmcsR": [],
     "fobitools": [
-        "lexicon",
         "textclean"
     ],
     "FoldGO": [
@@ -3029,7 +3027,6 @@
     "GenProSeq": [
         "DeepPINCS",
         "DiagrammeR",
-        "lexicon",
         "mlapi",
         "text2vec",
         "textclean",
@@ -7756,7 +7753,6 @@
     ],
     "ttgsea": [
         "DiagrammeR",
-        "lexicon",
         "mlapi",
         "text2vec",
         "textclean",
@@ -7845,7 +7841,6 @@
     "VAExprs": [
         "DeepPINCS",
         "DiagrammeR",
-        "lexicon",
         "mlapi",
         "scater",
         "scuttle",
@@ -7943,7 +7938,6 @@
         "GSEABase",
         "annotate",
         "interactiveDisplayBase",
-        "lexicon",
         "msigdb",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -8476,14 +8470,10 @@
         "mlapi"
     ],
     "textstem": [
-        "lexicon",
         "textclean"
     ],
     "mlapi": [],
-    "lexicon": [],
-    "textclean": [
-        "lexicon"
-    ],
+    "textclean": [],
     "VIM": [
         "car",
         "lme4",
