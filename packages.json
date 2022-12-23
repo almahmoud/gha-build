@@ -6672,7 +6672,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "methylscaper": [],
     "MethylSeekR": [
         "AnnotationDbi",
         "BSgenome",
