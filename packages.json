@@ -24277,7 +24277,6 @@
         "biomaRt",
         "blob",
         "dbplyr",
-        "distr",
         "dplyr",
         "ggplot2",
         "hms",
@@ -34660,7 +34659,6 @@
         "XVector",
         "blob",
         "bslib",
-        "distr",
         "distrEx",
         "dplyr",
         "fitdistrplus",
@@ -34696,7 +34694,6 @@
         "blob",
         "bslib",
         "crosstalk",
-        "distr",
         "distrEx",
         "dplyr",
         "fitdistrplus",
@@ -44398,7 +44395,6 @@
         "beachmat",
         "bslib",
         "densEstBayes",
-        "distr",
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
@@ -46772,7 +46768,6 @@
         "crosstalk",
         "dbplyr",
         "densEstBayes",
-        "distr",
         "doParallel",
         "dplyr",
         "dqrng",
@@ -59608,7 +59603,6 @@
         "vroom"
     ],
     "phosphoricons": [],
-    "distr": [],
     "pd.mapping50k.xba240": [
         "Biostrings",
         "DelayedArray",
@@ -60760,9 +60754,7 @@
     "ontologyPlot": [
         "Rgraphviz"
     ],
-    "distrEx": [
-        "distr"
-    ],
+    "distrEx": [],
     "AICcmodavg": [
         "TMB",
         "lme4",
