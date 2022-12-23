@@ -5660,8 +5660,7 @@
         "viridis"
     ],
     "ssPATHS": [
-        "MESS",
-        "ggformula"
+        "MESS"
     ],
     "STAN": [
         "BSgenome",
@@ -6738,10 +6737,7 @@
     ],
     "hgu95a.db": [],
     "sampSurf": [],
-    "MESS": [
-        "ggformula"
-    ],
-    "ggformula": [],
+    "MESS": [],
     "SpatialExtremes": [
         "fields",
         "viridis"
