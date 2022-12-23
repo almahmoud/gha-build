@@ -5221,7 +5221,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "RNAsense": [],
     "RNASeqR": [
         "DESeq2",
         "DOSE",
