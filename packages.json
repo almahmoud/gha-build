@@ -2026,7 +2026,6 @@
         "sampling",
         "sass",
         "scales",
-        "sendmailR",
         "stringr",
         "survival",
         "tibble",
@@ -26404,7 +26403,6 @@
         "rhdf5",
         "rhdf5filters",
         "scales",
-        "sendmailR",
         "tibble",
         "vctrs"
     ],
@@ -43138,7 +43136,6 @@
         "blob",
         "doParallel",
         "memoise",
-        "sendmailR",
         "vctrs"
     ],
     "PAST": [
@@ -67807,7 +67804,6 @@
     ],
     "urltools": [],
     "sampling": [],
-    "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -72496,7 +72492,6 @@
         "RSQLite",
         "blob",
         "memoise",
-        "sendmailR",
         "vctrs"
     ],
     "HiContactsData": [
