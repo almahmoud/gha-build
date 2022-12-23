@@ -17513,7 +17513,6 @@
         "viridis"
     ],
     "GWAS.BAYES": [
-        "GA",
         "caret",
         "clock",
         "dplyr",
@@ -47680,7 +47679,6 @@
         "pillar",
         "tibble"
     ],
-    "GA": [],
     "BatchJobs": [
         "RSQLite",
         "blob"
