@@ -14534,7 +14534,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "analogue",
         "broom",
         "car",
         "cowplot",
@@ -46683,7 +46682,6 @@
         "stringr",
         "tibble"
     ],
-    "analogue": [],
     "DataVisualizations": [
         "ggplot2",
         "pillar",
