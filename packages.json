@@ -25722,7 +25722,6 @@
         "cellranger",
         "dplyr",
         "ellipsis",
-        "fit.models",
         "forcats",
         "future",
         "future.apply",
@@ -77681,11 +77680,9 @@
     "officer": [],
     "gdtools": [],
     "robust": [
-        "fit.models",
         "rrcov"
     ],
     "roptim": [],
-    "fit.models": [],
     "maptools": [],
     "shinyHeatmaply": [
         "TSP",
