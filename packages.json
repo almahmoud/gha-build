@@ -9986,7 +9986,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "HTSCluster",
         "HTSFilter",
         "IRanges",
         "KEGGREST",
@@ -55944,7 +55943,6 @@
         "vctrs"
     ],
     "Rmixmod": [],
-    "HTSCluster": [],
     "faahKO": [
         "BiocParallel",
         "DelayedArray",
