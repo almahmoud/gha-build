@@ -1,0 +1,545 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   96fa62bc..e96c3d6b  main       -> origin/main
+Updating 96fa62bc..e96c3d6b
+Fast-forward
+ lists/reticulate                          |   2 +-
+ logs/run_ids/rstudio-binaries/TargetScore |   2 +
+ packages.json                             | 110 +++---------------------------
+ 3 files changed, 12 insertions(+), 102 deletions(-)
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=spacetime
++ PKG=spacetime
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "spacetime"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4 2898k    4  123k    0     0   119k      0  0:00:24  0:00:01  0:00:23  119k 18 2898k   18  537k    0     0   261k      0  0:00:11  0:00:02  0:00:09  261k 39 2898k   39 1143k    0     0   376k      0  0:00:07  0:00:03  0:00:04  376k 67 2898k   67 1956k    0     0   483k      0  0:00:05  0:00:04  0:00:01  483k100 2898k  100 2898k    0     0   588k      0  0:00:04  0:00:04 --:--:--  591k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/sp/
+built/sp/libs/
+built/sp/libs/sp.so
+built/sp/NAMESPACE
+built/sp/DESCRIPTION
+built/sp/help/
+built/sp/help/paths.rds
+built/sp/help/sp.rdb
+built/sp/help/sp.rdx
+built/sp/help/aliases.rds
+built/sp/help/AnIndex
+built/sp/data/
+built/sp/data/Rlogo.rda
+built/sp/data/meuse.riv.rda
+built/sp/data/meuse.grid_ll.rda
+built/sp/data/meuse.grid.rda
+built/sp/data/meuse.rda
+built/sp/data/meuse.area.rda
+built/sp/Meta/
+built/sp/Meta/package.rds
+built/sp/Meta/vignette.rds
+built/sp/Meta/demo.rds
+built/sp/Meta/features.rds
+built/sp/Meta/hsearch.rds
+built/sp/Meta/links.rds
+built/sp/Meta/nsInfo.rds
+built/sp/Meta/Rd.rds
+built/sp/Meta/data.rds
+built/sp/NEWS.Rd
+built/sp/include/
+built/sp/include/sp.h
+built/sp/include/sp_xports.c
+built/sp/CITATION
+built/sp/html/
+built/sp/html/00Index.html
+built/sp/html/R.css
+built/sp/INDEX
+built/sp/doc/
+built/sp/doc/intro_sp.pdf
+built/sp/doc/CRS_warnings.Rmd
+built/sp/doc/csdacm.R
+built/sp/doc/csdacm.Rnw
+built/sp/doc/csdacm.pdf
+built/sp/doc/CRS_warnings.html
+built/sp/doc/intro_sp.Rnw
+built/sp/doc/over.R
+built/sp/doc/over.Rnw
+built/sp/doc/CRS_warnings.R
+built/sp/doc/index.html
+built/sp/doc/intro_sp.R
+built/sp/doc/over.pdf
+built/sp/R/
+built/sp/R/sp.rdb
+built/sp/R/sp.rdx
+built/sp/R/sp
+built/sp/demo/
+built/sp/demo/depend.R
+built/sp/demo/meuse.R
+built/sp/demo/webmap.R
+built/sp/demo/mp.R
+built/sp/demo/gallery.R
+built/sp/demo/fib.R
+built/sp/demo/polar.R
+built/sp/external/
+built/sp/external/test.ag
+built/sp/external/seamap105_mod.csv
+built/sp/external/simple.ag
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  3 4002k    3  139k    0     0   136k      0  0:00:29  0:00:01  0:00:28  136k 13 4002k   13  521k    0     0   258k      0  0:00:15  0:00:02  0:00:13  258k 28 4002k   28 1143k    0     0   378k      0  0:00:10  0:00:03  0:00:07  378k 49 4002k   49 1988k    0     0   494k      0  0:00:08  0:00:04  0:00:04  494k 75 4002k   75 3024k    0     0   601k      0  0:00:06  0:00:05  0:00:01  603k100 4002k  100 4002k    0     0   664k      0  0:00:06  0:00:06 --:--:--  772k100 4002k  100 4002k    0     0   664k      0  0:00:06  0:00:06 --:--:--  869k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/zoo/
+built/built/zoo/WISHLIST
+built/built/zoo/libs/
+built/built/zoo/libs/zoo.so
+built/built/zoo/NEWS
+built/built/zoo/NAMESPACE
+built/built/zoo/DESCRIPTION
+built/built/zoo/help/
+built/built/zoo/help/paths.rds
+built/built/zoo/help/zoo.rdb
+built/built/zoo/help/zoo.rdx
+built/built/zoo/help/aliases.rds
+built/built/zoo/help/AnIndex
+built/built/zoo/Meta/
+built/built/zoo/Meta/package.rds
+built/built/zoo/Meta/vignette.rds
+built/built/zoo/Meta/demo.rds
+built/built/zoo/Meta/features.rds
+built/built/zoo/Meta/hsearch.rds
+built/built/zoo/Meta/links.rds
+built/built/zoo/Meta/nsInfo.rds
+built/built/zoo/Meta/Rd.rds
+built/built/zoo/include/
+built/built/zoo/include/zoo.h
+built/built/zoo/THANKS
+built/built/zoo/CITATION
+built/built/zoo/html/
+built/built/zoo/html/00Index.html
+built/built/zoo/html/R.css
+built/built/zoo/TODO
+built/built/zoo/INDEX
+built/built/zoo/doc/
+built/built/zoo/doc/zoo-read.pdf
+built/built/zoo/doc/zoo-faq.R
+built/built/zoo/doc/MSFT.rda
+built/built/zoo/doc/zoo-design.R
+built/built/zoo/doc/zoo-read.R
+built/built/zoo/doc/demo1.txt
+built/built/zoo/doc/zoo-design.Rnw
+built/built/zoo/doc/zoo.R
+built/built/zoo/doc/demo2.txt
+built/built/zoo/doc/zoo-quickref.R
+built/built/zoo/doc/zoo-read.Rnw
+built/built/zoo/doc/zoo-faq.pdf
+built/built/zoo/doc/zoo-quickref.Rnw
+built/built/zoo/doc/zoo-design.pdf
+built/built/zoo/doc/zoo-quickref.pdf
+built/built/zoo/doc/index.html
+built/built/zoo/doc/sunw.rda
+built/built/zoo/doc/zoo.Rnw
+built/built/zoo/doc/zoo-faq.Rnw
+built/built/zoo/doc/zoo.pdf
+built/built/zoo/R/
+built/built/zoo/R/zoo
+built/built/zoo/R/zoo.rdb
+built/built/zoo/R/zoo.rdx
+built/built/zoo/demo/
+built/built/zoo/demo/zoo-overplot.R
+built/zoo/
+built/zoo/WISHLIST
+built/zoo/libs/
+built/zoo/libs/zoo.so
+built/zoo/NEWS
+built/zoo/NAMESPACE
+built/zoo/DESCRIPTION
+built/zoo/help/
+built/zoo/help/paths.rds
+built/zoo/help/zoo.rdb
+built/zoo/help/zoo.rdx
+built/zoo/help/aliases.rds
+built/zoo/help/AnIndex
+built/zoo/Meta/
+built/zoo/Meta/package.rds
+built/zoo/Meta/vignette.rds
+built/zoo/Meta/demo.rds
+built/zoo/Meta/features.rds
+built/zoo/Meta/hsearch.rds
+built/zoo/Meta/links.rds
+built/zoo/Meta/nsInfo.rds
+built/zoo/Meta/Rd.rds
+built/zoo/include/
+built/zoo/include/zoo.h
+built/zoo/THANKS
+built/zoo/CITATION
+built/zoo/html/
+built/zoo/html/00Index.html
+built/zoo/html/R.css
+built/zoo/TODO
+built/zoo/INDEX
+built/zoo/doc/
+built/zoo/doc/zoo-read.pdf
+built/zoo/doc/zoo-faq.R
+built/zoo/doc/MSFT.rda
+built/zoo/doc/zoo-design.R
+built/zoo/doc/zoo-read.R
+built/zoo/doc/demo1.txt
+built/zoo/doc/zoo-design.Rnw
+built/zoo/doc/zoo.R
+built/zoo/doc/demo2.txt
+built/zoo/doc/zoo-quickref.R
+built/zoo/doc/zoo-read.Rnw
+built/zoo/doc/zoo-faq.pdf
+built/zoo/doc/zoo-quickref.Rnw
+built/zoo/doc/zoo-design.pdf
+built/zoo/doc/zoo-quickref.pdf
+built/zoo/doc/index.html
+built/zoo/doc/sunw.rda
+built/zoo/doc/zoo.Rnw
+built/zoo/doc/zoo-faq.Rnw
+built/zoo/doc/zoo.pdf
+built/zoo/R/
+built/zoo/R/zoo
+built/zoo/R/zoo.rdb
+built/zoo/R/zoo.rdx
+built/zoo/demo/
+built/zoo/demo/zoo-overplot.R
+built/xts/
+built/xts/libs/
+built/xts/libs/xts.so
+built/xts/NEWS
+built/xts/NAMESPACE
+built/xts/benchmarks/
+built/xts/benchmarks/benchmark.subset.R
+built/xts/DESCRIPTION
+built/xts/help/
+built/xts/help/paths.rds
+built/xts/help/xts.rdx
+built/xts/help/xts.rdb
+built/xts/help/aliases.rds
+built/xts/help/AnIndex
+built/xts/data/
+built/xts/data/sample_matrix.rda
+built/xts/Meta/
+built/xts/Meta/package.rds
+built/xts/Meta/vignette.rds
+built/xts/Meta/features.rds
+built/xts/Meta/hsearch.rds
+built/xts/Meta/links.rds
+built/xts/Meta/nsInfo.rds
+built/xts/Meta/Rd.rds
+built/xts/Meta/data.rds
+built/xts/include/
+built/xts/include/xts.h
+built/xts/include/xts_stubs.c
+built/xts/include/xtsAPI.h
+built/xts/unitTests/
+built/xts/unitTests/runit.diff.R
+built/xts/unitTests/runit.na.omit.R
+built/xts/unitTests/runit.isordered.R
+built/xts/unitTests/runit.parseISO8601.R
+built/xts/unitTests/runit.na.locf.R
+built/xts/unitTests/runit.reclass.R
+built/xts/unitTests/runit.irts.R
+built/xts/unitTests/runit.endpoints.R
+built/xts/unitTests/runit.merge.R
+built/xts/unitTests/runit.Ops.R
+built/xts/unitTests/runit.periodicity.R
+built/xts/unitTests/runit.xts.R
+built/xts/unitTests/runit.tzone.R
+built/xts/unitTests/runit.tclass.R
+built/xts/unitTests/runit.all.equal.R
+built/xts/unitTests/runit.binsearch.R
+built/xts/unitTests/runit.subset-time-of-day.R
+built/xts/unitTests/runit.split.R
+built/xts/unitTests/runit.zoo.R
+built/xts/unitTests/runit.matrix.R
+built/xts/unitTests/runit.period.apply.R
+built/xts/unitTests/runit.first-last.R
+built/xts/unitTests/runit.timeSeries.R
+built/xts/unitTests/runit.index.R
+built/xts/unitTests/runit.tformat.R
+built/xts/unitTests/runit.data.frame.R
+built/xts/unitTests/runit.timeBasedSeq.R
+built/xts/unitTests/runit.plot.R
+built/xts/unitTests/runit.indexClass.R
+built/xts/unitTests/runit.subset.R
+built/xts/unitTests/runit.lag.R
+built/xts/unitTests/runit.align.time.R
+built/xts/unitTests/runit.coredata.R
+built/xts/unitTests/runit.to.period.R
+built/xts/unitTests/runit.xts.methods.R
+built/xts/unitTests/runit.ts.R
+built/xts/api_example/
+built/xts/api_example/NAMESPACE
+built/xts/api_example/DESCRIPTION
+built/xts/api_example/README
+built/xts/api_example/R/
+built/xts/api_example/R/checkOrder.R
+built/xts/api_example/man/
+built/xts/api_example/man/checkOrder.Rd
+built/xts/api_example/man/linkXTS-package.Rd
+built/xts/api_example/src/
+built/xts/api_example/src/checkOrder.c
+built/xts/html/
+built/xts/html/00Index.html
+built/xts/html/R.css
+built/xts/INDEX
+built/xts/doc/
+built/xts/doc/xts.pdf
+built/xts/doc/xts-faq.pdf
+built/xts/doc/xts-faq.R
+built/xts/doc/xts-faq.Rnw
+built/xts/doc/xts.R
+built/xts/doc/index.html
+built/xts/doc/xts.Rnw
+built/xts/R/
+built/xts/R/xts.rdx
+built/xts/R/xts.rdb
+built/xts/R/xts
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 25  804k   25  203k    0     0   224k      0  0:00:03 --:--:--  0:00:03  224k100  804k  100  804k    0     0   810k      0 --:--:-- --:--:-- --:--:--  810k
+built/
+built/intervals/
+built/intervals/libs/
+built/intervals/libs/intervals.so
+built/intervals/NEWS
+built/intervals/NAMESPACE
+built/intervals/DESCRIPTION
+built/intervals/help/
+built/intervals/help/paths.rds
+built/intervals/help/aliases.rds
+built/intervals/help/intervals.rdx
+built/intervals/help/intervals.rdb
+built/intervals/help/AnIndex
+built/intervals/data/
+built/intervals/data/sgd.rdata
+built/intervals/Meta/
+built/intervals/Meta/package.rds
+built/intervals/Meta/vignette.rds
+built/intervals/Meta/features.rds
+built/intervals/Meta/hsearch.rds
+built/intervals/Meta/links.rds
+built/intervals/Meta/nsInfo.rds
+built/intervals/Meta/Rd.rds
+built/intervals/Meta/data.rds
+built/intervals/html/
+built/intervals/html/00Index.html
+built/intervals/html/R.css
+built/intervals/INDEX
+built/intervals/doc/
+built/intervals/doc/intervals_overview.R
+built/intervals/doc/intervals_overview.pdf
+built/intervals/doc/index.html
+built/intervals/doc/intervals_overview.Rnw
+built/intervals/R/
+built/intervals/R/intervals.rdx
+built/intervals/R/intervals
+built/intervals/R/intervals.rdb
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''spacetime'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv intervals_0.15.2_R_x86_64-pc-linux-gnu.tar.gz sp_1.5-1_R_x86_64-pc-linux-gnu.tar.gz spacetime_1.2-8_R_x86_64-pc-linux-gnu.tar.gz xts_0.12.2_R_x86_64-pc-linux-gnu.tar.gz zoo_1.8-11_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/spacetime
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'spacetime'
+also installing the dependencies ‘sp’, ‘zoo’, ‘xts’, ‘intervals’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/sp_1.5-1.tar.gz'
+Content type 'binary/octet-stream' length 1812592 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/zoo_1.8-11.tar.gz'
+Content type 'binary/octet-stream' length 1024169 bytes (1000 KB)
+==================================================
+downloaded 1000 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/xts_0.12.2.tar.gz'
+Content type 'binary/octet-stream' length 889108 bytes (868 KB)
+==================================================
+downloaded 868 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/intervals_0.15.2.tar.gz'
+Content type 'binary/octet-stream' length 824384 bytes (805 KB)
+==================================================
+downloaded 805 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/spacetime_1.2-8.tar.gz'
+Content type 'binary/octet-stream' length 2952355 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+* installing *binary* package ‘sp’ ...
+* ‘sp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sp’ as ‘sp_1.5-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sp)
+* installing *binary* package ‘zoo’ ...
+* ‘zoo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘zoo’ as ‘zoo_1.8-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zoo)
+* installing *binary* package ‘intervals’ ...
+* ‘intervals’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘intervals’ as ‘intervals_0.15.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (intervals)
+* installing *binary* package ‘xts’ ...
+* ‘xts’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘xts’ as ‘xts_0.12.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (xts)
+* installing *binary* package ‘spacetime’ ...
+* ‘spacetime’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spacetime’ as ‘spacetime_1.2-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spacetime)
+
+The downloaded source packages are in
+	‘/tmp/RtmpIgRTC9/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m29.183s
+user	0m8.383s
+sys	0m1.115s

@@ -43475,7 +43475,6 @@
         "selectr",
         "sf",
         "sftime",
-        "spacetime",
         "stars",
         "stringr",
         "testthat",
@@ -54036,7 +54035,6 @@
         "lwgeom",
         "sf",
         "sftime",
-        "spacetime",
         "stars"
     ],
     "SpatialExtremes": [
@@ -54051,7 +54049,6 @@
         "classInt",
         "sf"
     ],
-    "spacetime": [],
     "stars": [
         "classInt",
         "lwgeom",
