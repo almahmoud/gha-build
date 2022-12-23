@@ -2923,9 +2923,7 @@
         "viridis"
     ],
     "dearseq": [],
-    "debCAM": [
-        "DMwR2"
-    ],
+    "debCAM": [],
     "debrowser": [
         "AnnotationDbi",
         "DESeq2",
@@ -13552,7 +13550,6 @@
     "cmdfun": [
         "testthat"
     ],
-    "DMwR2": [],
     "rsq": [
         "lme4",
         "nloptr",
