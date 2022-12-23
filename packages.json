@@ -158,7 +158,6 @@
     "enrichTF": [
         "ggpubr"
     ],
-    "EpiCompare": [],
     "epidecodeR": [
         "ggpubr"
     ],
