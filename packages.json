@@ -3435,7 +3435,6 @@
         "diffcyt",
         "dplyr",
         "forcats",
-        "furrr",
         "ggforce",
         "ggnewscale",
         "ggplot2",
@@ -3474,7 +3473,6 @@
     ],
     "ceRNAnetsim": [
         "dplyr",
-        "furrr",
         "ggforce",
         "ggplot2",
         "ggraph",
@@ -9112,7 +9110,6 @@
         "latticeExtra"
     ],
     "flowGraph": [
-        "furrr",
         "ggiraph",
         "ggplot2",
         "ggrepel",
@@ -15463,7 +15460,6 @@
     "mistyR": [
         "caret",
         "dplyr",
-        "furrr",
         "ggplot2",
         "hardhat",
         "ipred",
@@ -18215,7 +18211,6 @@
         "cowplot",
         "dplyr",
         "fgsea",
-        "furrr",
         "ggforce",
         "ggplot2",
         "ggraph",
@@ -19069,7 +19064,6 @@
         "benchmarkmeData",
         "distributional",
         "dplyr",
-        "furrr",
         "ggdist",
         "ggplot2",
         "posterior",
@@ -25256,7 +25250,6 @@
         "SummarizedExperiment",
         "caret",
         "dplyr",
-        "furrr",
         "ggplot2",
         "hardhat",
         "ipred",
@@ -25410,7 +25403,6 @@
         "dtplyr",
         "fields",
         "forcats",
-        "furrr",
         "ggforce",
         "ggplot2",
         "ggrepel",
@@ -29013,7 +29005,6 @@
         "broom",
         "dplyr",
         "forcats",
-        "furrr",
         "tidyr"
     ],
     "mice": [
@@ -29021,7 +29012,6 @@
         "dplyr",
         "tidyr"
     ],
-    "furrr": [],
     "GenomicTools": [],
     "GenomicTools.fileHandler": [],
     "quantmod": [],
@@ -31175,7 +31165,6 @@
     ],
     "rsample": [
         "dplyr",
-        "furrr",
         "tidyr"
     ],
     "gstat": [
