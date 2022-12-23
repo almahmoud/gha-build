@@ -1,12 +1,15 @@
 + git pull origin main
 From https://github.com/almahmoud/gha-build
  * branch              main       -> FETCH_HEAD
-   e5d6f855..27817598  main       -> origin/main
-Updating e5d6f855..27817598
+   abbfcd4e..4f4c26ee  main       -> origin/main
+Updating abbfcd4e..4f4c26ee
 Fast-forward
- logs/run_ids/rstudio-binaries/kmer | 2 ++
- 1 file changed, 2 insertions(+)
- create mode 100644 logs/run_ids/rstudio-binaries/kmer
+ lists/failed/EntropyExplorer              | 19 +++++++++++++++++++
+ logs/run_ids/rstudio-binaries/BitSeq      |  2 ++
+ logs/run_ids/rstudio-binaries/rcdk        |  2 ++
+ logs/times/rstudio-binary/EntropyExplorer | 25 ++++++++-----------------
+ 4 files changed, 31 insertions(+), 17 deletions(-)
+ create mode 100644 lists/failed/EntropyExplorer
 + export LIBRARY=/__w/gha-build/gha-build/built/
 + LIBRARY=/__w/gha-build/gha-build/built/
 + export PKG=GenomicTools
@@ -15,15 +18,15 @@ Fast-forward
 + runstart=2022-12-21-14-37
 + mkdir -p /__w/gha-build/gha-build/built/
 + mkdir -p /tmp/tars/
-+ sed -n '/^    "GenomicTools"/,/^    "/p' directdeps.json
 + awk '-F"' '{print $2}'
 + grep '^        "'
++ sed -n '/^    "GenomicTools"/,/^    "/p' directdeps.json
 + export -f process_dep
 + '[' -s /tmp/deps ']'
 + echo 'No dependencies'
 No dependencies
 + Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''GenomicTools'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
 
-real	0m5.404s
-user	0m4.121s
-sys	0m0.310s
+real	0m6.525s
+user	0m4.147s
+sys	0m0.332s
