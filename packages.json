@@ -1555,7 +1555,6 @@
         "cytomapper"
     ],
     "singleCellTK": [
-        "TENxPBMCData",
         "celda",
         "scRNAseq"
     ],
@@ -1901,7 +1900,6 @@
         "survminer"
     ],
     "scRNAseq": [],
-    "TENxPBMCData": [],
     "sampSurf": [],
     "GenKern": [],
     "vbsr": [],
