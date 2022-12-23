@@ -25959,7 +25959,6 @@
         "SummarizedExperiment",
         "broom",
         "car",
-        "clustvarsel",
         "cowplot",
         "dplyr",
         "ggplot2",
@@ -32069,7 +32068,6 @@
         "furrr",
         "tidyr"
     ],
-    "clustvarsel": [],
     "gstat": [
         "lwgeom",
         "sf",
