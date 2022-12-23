@@ -2008,7 +2008,6 @@
     ],
     "DEsubs": [
         "DESeq2",
-        "EBSeq",
         "annotate",
         "geneplotter"
     ],
@@ -2242,10 +2241,7 @@
         "annotate",
         "geneplotter"
     ],
-    "EBSeq": [],
-    "EBSeqHMM": [
-        "EBSeq"
-    ],
+    "EBSeqHMM": [],
     "EDASeq": [
         "GenomicFeatures",
         "ShortRead",
@@ -5275,9 +5271,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "Oscope": [
-        "EBSeq"
-    ],
+    "Oscope": [],
     "OTUbase": [
         "ShortRead"
     ],
@@ -6589,7 +6583,6 @@
         "viridis"
     ],
     "scDD": [
-        "EBSeq",
         "arm",
         "fields",
         "lme4",
@@ -6598,7 +6591,6 @@
         "viridis"
     ],
     "scDDboost": [
-        "EBSeq",
         "Oscope"
     ],
     "scds": [],
