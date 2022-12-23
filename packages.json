@@ -28844,7 +28844,6 @@
         "viridis"
     ],
     "PhenStat": [
-        "SmoothWin",
         "broom",
         "car",
         "dplyr",
@@ -48009,7 +48008,6 @@
         "knitr",
         "stringr"
     ],
-    "SmoothWin": [],
     "osfr": [
         "pillar",
         "purrr",
