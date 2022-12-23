@@ -17312,7 +17312,6 @@
     ],
     "HubPub": [
         "available",
-        "aws.s3",
         "biocthis",
         "dplyr",
         "gert",
@@ -31792,7 +31791,6 @@
         "SummarizedExperiment",
         "VennDiagram",
         "XVector",
-        "aws.s3",
         "biomaRt",
         "broom",
         "bslib",
@@ -45193,7 +45191,6 @@
         "tidyselect",
         "tidytext"
     ],
-    "aws.s3": [],
     "reactable": [
         "bslib",
         "htmlwidgets",
