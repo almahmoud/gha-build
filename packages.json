@@ -12969,7 +12969,6 @@
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
-        "LambertW",
         "UpSetR",
         "VariantAnnotation",
         "bestNormalize",
@@ -15172,7 +15171,6 @@
         "ggrepel"
     ],
     "bestNormalize": [
-        "LambertW",
         "recipes"
     ],
     "naniar": [
@@ -15180,7 +15178,6 @@
         "viridis",
         "visdat"
     ],
-    "LambertW": [],
     "visdat": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
