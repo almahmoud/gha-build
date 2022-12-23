@@ -123367,7 +123367,6 @@
         "openssl",
         "pillar",
         "png",
-        "poilog",
         "prettyunits",
         "progress",
         "purrr",
@@ -160108,7 +160107,6 @@
         "vctrs",
         "withr"
     ],
-    "poilog": [],
     "mclustcomp": [
         "Rcpp",
         "RcppArmadillo",
