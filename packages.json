@@ -514,7 +514,6 @@
         "biomaRt",
         "chromVAR",
         "fgsea",
-        "ggalluvial",
         "haven",
         "modelr",
         "motifmatchr",
@@ -651,7 +650,6 @@
         "caret",
         "dendextend",
         "genefilter",
-        "ggalluvial",
         "mixtools",
         "pRoloc",
         "pRolocdata",
@@ -7752,7 +7750,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "ggalluvial",
         "rtracklayer"
     ],
     "MWASTools": [
@@ -8995,7 +8992,6 @@
     "projectR": [
         "CoGAPS",
         "SingleCellExperiment",
-        "ggalluvial",
         "rhdf5",
         "viridis"
     ],
@@ -10584,7 +10580,6 @@
     "ScreenR": [],
     "scRepertoire": [
         "SingleCellExperiment",
-        "ggalluvial",
         "ggraph",
         "tidygraph",
         "viridis"
@@ -11551,7 +11546,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "biomaRt",
-        "ggalluvial",
         "rhdf5",
         "rtracklayer",
         "scuttle"
@@ -12984,7 +12978,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ggalluvial": [],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "AnnotationDbi",
         "GenomicAlignments",
