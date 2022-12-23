@@ -2454,7 +2454,6 @@
     "escape": [
         "GSEABase",
         "GSVA",
-        "UCell",
         "annotate"
     ],
     "esetVis": [],
@@ -7516,7 +7515,6 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "UCell": [],
     "Ularcirc": [
         "AnnotationHub",
         "BSgenome",
