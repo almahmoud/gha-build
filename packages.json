@@ -2522,7 +2522,6 @@
     "COMPASS": [
         "BiocStyle"
     ],
-    "compcodeR": [],
     "compEpiTools": [
         "AnnotationDbi",
         "BSgenome",
