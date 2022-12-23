@@ -4115,7 +4115,6 @@
         "purrr",
         "quantreg",
         "ranger",
-        "readbitmap",
         "rmarkdown",
         "rms",
         "sass",
@@ -9577,7 +9576,6 @@
         "pillar",
         "quantreg",
         "raster",
-        "readbitmap",
         "reshape2",
         "rmarkdown",
         "rms",
@@ -39219,7 +39217,6 @@
         "pillar",
         "purrr",
         "rGenomeTracksData",
-        "readbitmap",
         "rmarkdown",
         "sass",
         "shiny",
@@ -46608,7 +46605,6 @@
         "pillar",
         "plotly",
         "purrr",
-        "readbitmap",
         "reshape2",
         "rhdf5",
         "rmarkdown",
@@ -54413,11 +54409,9 @@
     "ranger": [],
     "imager": [
         "purrr",
-        "readbitmap",
         "stringr"
     ],
     "xlsx": [],
-    "readbitmap": [],
     "multcomp": [
         "TH.data",
         "survival"
