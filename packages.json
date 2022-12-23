@@ -479,7 +479,6 @@
         "Seurat",
         "TreeSummarizedExperiment",
         "annotate",
-        "corncob",
         "genefilter",
         "geneplotter",
         "lme4",
@@ -8297,7 +8296,6 @@
     "heatmaply": [
         "dendextend"
     ],
-    "corncob": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "GenomicFeatures",
         "annotate",
