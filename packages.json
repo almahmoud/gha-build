@@ -1099,7 +1099,6 @@
         "car",
         "pbkrtest"
     ],
-    "GENESIS": [],
     "GeneStructureTools": [
         "BSgenome.Mmusculus.UCSC.mm10",
         "Gviz",
