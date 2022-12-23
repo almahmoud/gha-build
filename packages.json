@@ -1741,7 +1741,6 @@
         "heatmaply",
         "rtracklayer"
     ],
-    "DEGraph": [],
     "DEGreport": [
         "DESeq2",
         "geneplotter"
