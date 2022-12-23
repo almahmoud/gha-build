@@ -45166,7 +45166,6 @@
         "fastmap",
         "fs",
         "gap",
-        "gap.datasets",
         "generics",
         "ggplot2",
         "glue",
@@ -161776,7 +161775,6 @@
         "farver",
         "fastmap",
         "fs",
-        "gap.datasets",
         "generics",
         "ggplot2",
         "glue",
@@ -161821,7 +161819,6 @@
         "xfun",
         "yaml"
     ],
-    "gap.datasets": [],
     "geepack": [
         "MASS",
         "R6",
