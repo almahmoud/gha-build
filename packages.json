@@ -10914,7 +10914,6 @@
         "dplyr",
         "ggplot2",
         "ggthemes",
-        "pals",
         "pillar",
         "purrr",
         "reshape2",
@@ -61236,7 +61235,6 @@
         "tibble",
         "vctrs"
     ],
-    "pals": [],
     "Rmixmod": [],
     "HTSCluster": [],
     "compositions": [],
