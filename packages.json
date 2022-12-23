@@ -2576,7 +2576,6 @@
         "diceR",
         "klaR"
     ],
-    "OmaDB": [],
     "omicRexposome": [
         "FactoMineR",
         "SmartSVA",
@@ -2715,8 +2714,7 @@
         "rstatix"
     ],
     "PhyloProfile": [
-        "ExperimentHub",
-        "OmaDB"
+        "ExperimentHub"
     ],
     "Pi": [],
     "Pigengene": [
