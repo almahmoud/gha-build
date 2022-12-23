@@ -91,7 +91,6 @@
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "chromVAR",
         "motifmatchr",
         "rGREAT"
@@ -178,7 +177,6 @@
         "OrganismDbi",
         "QDNAseq",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "VariantAnnotation",
         "annotatr",
         "biscuiteerData",
@@ -340,7 +338,6 @@
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene"
     ],
@@ -1664,7 +1661,6 @@
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "enrichplot",
         "rGREAT"
@@ -2377,10 +2373,8 @@
     ],
     "mGSZ": [],
     "Mus.musculus": [
-        "OrganismDbi",
-        "TxDb.Mmusculus.UCSC.mm10.knownGene"
+        "OrganismDbi"
     ],
-    "TxDb.Mmusculus.UCSC.mm10.knownGene": [],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [],
     "doBy": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
