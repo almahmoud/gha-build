@@ -4812,7 +4812,6 @@
         "ensembldb",
         "genefilter",
         "ggtree",
-        "hgu95a.db",
         "reldist",
         "scDblFinder",
         "scMerge",
@@ -6030,8 +6029,7 @@
         "ExperimentHub"
     ],
     "GSVAdata": [
-        "GSEABase",
-        "hgu95a.db"
+        "GSEABase"
     ],
     "SoupX": [
         "Seurat"
@@ -6046,7 +6044,6 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "hgu95a.db": [],
     "sampSurf": [],
     "miRNAtap.db": [],
     "MESS": [
