@@ -3628,8 +3628,7 @@
         "dbplyr",
         "genefu",
         "iC10",
-        "rhdf5",
-        "survcomp"
+        "rhdf5"
     ],
     "consensusSeekeR": [
         "GenomicAlignments",
@@ -7011,8 +7010,7 @@
         "KEGGREST",
         "biomaRt",
         "dbplyr",
-        "iC10",
-        "survcomp"
+        "iC10"
     ],
     "GeneGeneInteR": [
         "DT",
@@ -10170,7 +10168,6 @@
         "rhdf5",
         "rmdformats",
         "rtracklayer",
-        "survcomp",
         "tidyr",
         "viridis",
         "vsn"
@@ -13170,7 +13167,6 @@
         "recipes",
         "rstatix",
         "survMisc",
-        "survcomp",
         "survminer",
         "testthat",
         "tidyr",
@@ -16964,7 +16960,6 @@
         "rstatix",
         "rtracklayer",
         "survMisc",
-        "survcomp",
         "survminer",
         "testthat",
         "tidyr",
@@ -18050,7 +18045,6 @@
         "testthat",
         "waldo"
     ],
-    "survcomp": [],
     "survtype": [
         "SummarizedExperiment",
         "broom",
