@@ -7634,7 +7634,6 @@
         "testthat"
     ],
     "Omixer": [],
-    "oncoscanR": [],
     "OncoScore": [
         "AnnotationDbi",
         "biomaRt"
