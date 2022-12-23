@@ -6073,7 +6073,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "MACSQuantifyR": [],
     "MACSr": [
         "AnnotationDbi",
         "AnnotationHub",
