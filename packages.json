@@ -6746,8 +6746,7 @@
         "oligoClasses"
     ],
     "MBQN": [
-        "BiocFileCache",
-        "PairedData"
+        "BiocFileCache"
     ],
     "MCbiclust": [
         "AnnotationDbi",
@@ -14618,7 +14617,6 @@
     "labelled": [
         "haven"
     ],
-    "PairedData": [],
     "SmartSVA": [
         "AnnotationDbi",
         "annotate",
