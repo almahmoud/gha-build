@@ -7619,7 +7619,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "spBayes",
         "stringr",
         "survival",
         "testthat",
@@ -65702,9 +65701,7 @@
     "Ckmeans.1d.dp": [],
     "mvoutlier": [],
     "FME": [],
-    "SpatialTools": [
-        "spBayes"
-    ],
+    "SpatialTools": [],
     "FactoMineR": [
         "DT",
         "MatrixModels",
@@ -65745,7 +65742,6 @@
         "vctrs",
         "waldo"
     ],
-    "spBayes": [],
     "cba": [],
     "dtw": [],
     "EnvStats": [
