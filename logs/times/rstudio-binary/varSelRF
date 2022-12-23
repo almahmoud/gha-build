@@ -1,0 +1,109 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   e9a315e3..876017c8  main       -> origin/main
+Updating e9a315e3..876017c8
+Fast-forward
+ lists/Rmpfr                          |  2 +-
+ lists/SBMLR                          |  2 +-
+ logs/run_ids/rstudio-binaries/SNAGEE |  2 ++
+ packages.json                        | 25 +++----------------------
+ 4 files changed, 7 insertions(+), 24 deletions(-)
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=varSelRF
++ PKG=varSelRF
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "varSelRF"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  254k  100  254k    0     0   321k      0 --:--:-- --:--:-- --:--:--  321k
+built/
+built/randomForest/
+built/randomForest/libs/
+built/randomForest/libs/randomForest.so
+built/randomForest/NEWS
+built/randomForest/NAMESPACE
+built/randomForest/DESCRIPTION
+built/randomForest/help/
+built/randomForest/help/paths.rds
+built/randomForest/help/randomForest.rdx
+built/randomForest/help/randomForest.rdb
+built/randomForest/help/aliases.rds
+built/randomForest/help/AnIndex
+built/randomForest/data/
+built/randomForest/data/imports85.rda
+built/randomForest/Meta/
+built/randomForest/Meta/package.rds
+built/randomForest/Meta/features.rds
+built/randomForest/Meta/hsearch.rds
+built/randomForest/Meta/links.rds
+built/randomForest/Meta/nsInfo.rds
+built/randomForest/Meta/Rd.rds
+built/randomForest/Meta/data.rds
+built/randomForest/CITATION
+built/randomForest/html/
+built/randomForest/html/00Index.html
+built/randomForest/html/R.css
+built/randomForest/INDEX
+built/randomForest/R/
+built/randomForest/R/randomForest.rdx
+built/randomForest/R/randomForest.rdb
+built/randomForest/R/randomForest
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''varSelRF'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv randomForest_4.7-1.1_R_x86_64-pc-linux-gnu.tar.gz varSelRF_0.7-8_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/varSelRF
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'varSelRF'
+also installing the dependency ‘randomForest’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/randomForest_4.7-1.1.tar.gz'
+Content type 'binary/octet-stream' length 261878 bytes (255 KB)
+==================================================
+downloaded 255 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/varSelRF_0.7-8.tar.gz'
+Content type 'binary/octet-stream' length 111631 bytes (109 KB)
+==================================================
+downloaded 109 KB
+
+* installing *binary* package ‘randomForest’ ...
+* ‘randomForest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘randomForest’ as ‘randomForest_4.7-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (randomForest)
+* installing *binary* package ‘varSelRF’ ...
+* ‘varSelRF’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘varSelRF’ as ‘varSelRF_0.7-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (varSelRF)
+
+The downloaded source packages are in
+	‘/tmp/RtmpcSZSfb/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m8.456s
+user	0m4.129s
+sys	0m0.500s

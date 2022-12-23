@@ -23,7 +23,6 @@
         "openssl",
         "pamr",
         "survival",
-        "varSelRF",
         "vctrs"
     ],
     "a4Base": [
@@ -54,8 +53,7 @@
         "glmnet",
         "gplots",
         "pamr",
-        "survival",
-        "varSelRF"
+        "survival"
     ],
     "a4Core": [
         "glmnet",
@@ -55394,7 +55392,6 @@
     "pamr": [
         "survival"
     ],
-    "varSelRF": [],
     "GO.db": [
         "AnnotationDbi",
         "Biostrings",
