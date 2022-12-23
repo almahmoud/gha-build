@@ -47,7 +47,6 @@
     ],
     "abseqR": [
         "BiocStyle",
-        "VennDiagram",
         "bookdown",
         "bslib",
         "crosstalk",
@@ -1287,7 +1286,6 @@
         "MSstats",
         "RSQLite",
         "UpSetR",
-        "VennDiagram",
         "XVector",
         "bslib",
         "crosstalk",
@@ -1578,7 +1576,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "TFBSTools",
-        "VennDiagram",
         "XVector",
         "annotate",
         "biomaRt",
@@ -5485,7 +5482,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "VennDiagram",
         "XVector",
         "biomaRt",
         "dbplyr",
@@ -6986,7 +6982,6 @@
     ],
     "ComPrAn": [
         "DT",
-        "VennDiagram",
         "bslib",
         "cellranger",
         "crosstalk",
@@ -7778,7 +7773,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "VennDiagram",
         "XVector",
         "biomaRt",
         "bslib",
@@ -9427,7 +9421,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "VennDiagram",
         "XVector",
         "biomaRt",
         "dbplyr",
@@ -9829,7 +9822,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "UpSetR",
-        "VennDiagram",
         "XVector",
         "bookdown",
         "broom",
@@ -11745,7 +11737,6 @@
         "SummarizedExperiment",
         "TFBSTools",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "VennDiagram",
         "XVector",
         "annotate",
         "aplot",
@@ -12159,7 +12150,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
-        "VennDiagram",
         "XVector",
         "biomaRt",
         "biovizBase",
@@ -12389,7 +12379,6 @@
         "vroom"
     ],
     "fCI": [
-        "VennDiagram",
         "bslib",
         "htmlwidgets",
         "knitr",
@@ -13293,7 +13282,6 @@
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
-        "VennDiagram",
         "XVector",
         "annotate",
         "arm",
@@ -15530,7 +15518,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "VennDiagram",
         "XVector",
         "biomaRt",
         "cellranger",
@@ -17598,7 +17585,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "VennDiagram",
         "XVector",
         "annotate",
         "biomaRt",
@@ -18441,7 +18427,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "UpSetR",
-        "VennDiagram",
         "XVector",
         "aplot",
         "dplyr",
@@ -19976,7 +19961,6 @@
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
-        "VennDiagram",
         "XVector",
         "annotate",
         "baySeq",
@@ -21890,7 +21874,6 @@
         "KEGGREST",
         "RSQLite",
         "SummarizedExperiment",
-        "VennDiagram",
         "XVector",
         "annotate",
         "caret",
@@ -23571,7 +23554,6 @@
         "TFisher",
         "TH.data",
         "VariantAnnotation",
-        "VennDiagram",
         "XVector",
         "annotate",
         "biomaRt",
@@ -26154,7 +26136,6 @@
         "PMCMRplus",
         "RSQLite",
         "SummarizedExperiment",
-        "VennDiagram",
         "XVector",
         "biodb",
         "biodbChebi",
@@ -28968,7 +28949,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "VennDiagram",
         "XVector",
         "biomaRt",
         "dbplyr",
@@ -29986,7 +29966,6 @@
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
-        "VennDiagram",
         "XVector",
         "aws.s3",
         "biomaRt",
@@ -30814,9 +30793,7 @@
         "GenomeInfoDb",
         "XVector"
     ],
-    "RRHO": [
-        "VennDiagram"
-    ],
+    "RRHO": [],
     "rrvgo": [
         "AnnotationDbi",
         "Biostrings",
@@ -35820,9 +35797,7 @@
         "stringr",
         "tibble"
     ],
-    "SwathXtend": [
-        "VennDiagram"
-    ],
+    "SwathXtend": [],
     "switchde": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -37177,7 +37152,6 @@
         "visNetwork"
     ],
     "TPP": [
-        "VennDiagram",
         "biobroom",
         "broom",
         "bslib",
@@ -38454,7 +38428,6 @@
     ],
     "VennDetail": [
         "UpSetR",
-        "VennDiagram",
         "dplyr",
         "ggplot2",
         "purrr",
@@ -38719,7 +38692,6 @@
         "ShortRead",
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "VennDiagram",
         "XVector",
         "annotate",
         "apeglm",
@@ -39259,7 +39231,6 @@
     "reshape2": [
         "stringr"
     ],
-    "VennDiagram": [],
     "flexdashboard": [
         "bslib",
         "htmlwidgets",
