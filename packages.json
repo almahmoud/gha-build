@@ -1692,9 +1692,7 @@
         "pbkrtest"
     ],
     "GeneMeta": [],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "BSgenome",
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -3858,7 +3856,6 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "SeqVarTools": [],
     "sesame": [
         "AnnotationHub",
         "ExperimentHub",
@@ -4460,9 +4457,7 @@
         "BSgenome",
         "GenomicFeatures"
     ],
-    "VariantExperiment": [
-        "SeqVarTools"
-    ],
+    "VariantExperiment": [],
     "VariantFiltering": [
         "AnnotationHub",
         "BSgenome",
