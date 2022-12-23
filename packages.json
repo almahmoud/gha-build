@@ -1245,7 +1245,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "VariantAnnotation"
     ],
-    "KEGGlincs": [],
     "kissDE": [
         "DSS",
         "FactoMineR",
