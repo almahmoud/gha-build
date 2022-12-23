@@ -1525,7 +1525,6 @@
         "minfi",
         "rhdf5"
     ],
-    "LymphoSeq": [],
     "M3Drop": [
         "Hmisc",
         "viridis"
