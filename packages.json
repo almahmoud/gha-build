@@ -5908,7 +5908,6 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "idr2d": [],
     "IgGeneUsage": [
         "rstan"
     ],
