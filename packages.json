@@ -372,7 +372,6 @@
     "arrayMvout": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -768,7 +767,6 @@
     "bigmelon": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -1586,7 +1584,6 @@
         "DSS",
         "ExperimentHub",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GO.db",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1764,7 +1761,6 @@
         "ShortRead"
     ],
     "ChIPXpress": [
-        "GEOquery",
         "affy",
         "frma",
         "oligo",
@@ -2050,7 +2046,6 @@
         "rtracklayer"
     ],
     "coexnet": [
-        "GEOquery",
         "affy",
         "vsn"
     ],
@@ -2161,7 +2156,6 @@
         "AnnotationDbi",
         "DOSE",
         "FactoMineR",
-        "GEOquery",
         "GO.db",
         "GOSemSim",
         "HDO.db",
@@ -2266,7 +2260,6 @@
     ],
     "conumee": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -2479,7 +2472,6 @@
     ],
     "crossmeta": [
         "AnnotationDbi",
-        "GEOquery",
         "affy",
         "annotate",
         "genefilter",
@@ -2773,7 +2765,6 @@
     ],
     "deconvR": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -2953,7 +2944,6 @@
     ],
     "DExMA": [
         "AnnotationDbi",
-        "GEOquery",
         "annotate",
         "genefilter",
         "sva"
@@ -3071,7 +3061,6 @@
         "DSS",
         "ExperimentHub",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GO.db",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3198,7 +3187,6 @@
     "DrugVsDisease": [
         "AnnotationDbi",
         "ArrayExpress",
-        "GEOquery",
         "affy",
         "annotate",
         "biomaRt",
@@ -3318,9 +3306,7 @@
         "treeio",
         "viridis"
     ],
-    "EGAD": [
-        "GEOquery"
-    ],
+    "EGAD": [],
     "EGSEA": [
         "AnnotationDbi",
         "GO.db",
@@ -3385,7 +3371,6 @@
         "AnnotationDbi",
         "AnnotationHub",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -3564,7 +3549,6 @@
         "AnnotationHub",
         "EpiMix.data",
         "ExperimentHub",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
@@ -3576,7 +3560,6 @@
         "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
-        "GEOquery",
         "GO.db",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3934,7 +3917,6 @@
     "ffpe": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -4120,7 +4102,6 @@
     ],
     "funtooNorm": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -4471,7 +4452,6 @@
     ],
     "GEOexplorer": [
         "FactoMineR",
-        "GEOquery",
         "car",
         "dendextend",
         "factoextra",
@@ -4487,9 +4467,7 @@
         "testthat",
         "viridis"
     ],
-    "GEOmetadb": [
-        "GEOquery"
-    ],
+    "GEOmetadb": [],
     "GeomxTools": [
         "NanoStringNCTools",
         "ggiraph",
@@ -4498,7 +4476,6 @@
         "nloptr",
         "testthat"
     ],
-    "GEOquery": [],
     "GEOsubmission": [
         "affy"
     ],
@@ -5107,7 +5084,6 @@
     "iCheck": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5662,7 +5638,6 @@
     "lumi": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5750,7 +5725,6 @@
     "MAGAR": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -5941,7 +5915,6 @@
         "AnnotationDbi",
         "BSgenome",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GO.db",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5975,7 +5948,6 @@
     "MEAT": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6235,7 +6207,6 @@
     ],
     "MethylAid": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6251,7 +6222,6 @@
         "AnnotationDbi",
         "BSgenome",
         "FlowSorted.Blood.450k",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6274,7 +6244,6 @@
         "AnnotationHubData",
         "ExperimentHub",
         "ExperimentHubData",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6305,7 +6274,6 @@
         "AnnotationDbi",
         "DOSE",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GO.db",
         "GOSemSim",
         "GenomicAlignments",
@@ -6382,7 +6350,6 @@
     "methylumi": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6565,7 +6532,6 @@
         "AnnotationForge",
         "Category",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GO.db",
         "GOstats",
         "GSEABase",
@@ -6590,7 +6556,6 @@
     ],
     "minfi": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -6738,7 +6703,6 @@
     "missMethyl": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GO.db",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6876,7 +6840,6 @@
     "MoonlightR": [
         "AnnotationDbi",
         "DOSE",
-        "GEOquery",
         "GO.db",
         "GOSemSim",
         "HDO.db",
@@ -7480,7 +7443,6 @@
         "AnnotationDbi",
         "AnnotationForge",
         "Category",
-        "GEOquery",
         "GO.db",
         "GOstats",
         "GSEABase",
@@ -8065,7 +8027,6 @@
     "phantasus": [
         "AnnotationDbi",
         "DESeq2",
-        "GEOquery",
         "annotate",
         "geneplotter",
         "rhdf5"
@@ -8533,7 +8494,6 @@
         "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -8700,7 +8660,6 @@
     "quantiseqr": [],
     "quantro": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -8890,7 +8849,6 @@
     "recount": [
         "AnnotationDbi",
         "BSgenome",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -8908,7 +8866,6 @@
     ],
     "recountmethylation": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -9010,7 +8967,6 @@
         "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -9313,7 +9269,6 @@
     "RNAAgeCalc": [
         "AnnotationDbi",
         "BSgenome",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -9456,7 +9411,6 @@
     "RnaSeqSampleSize": [
         "AnnotationDbi",
         "BSgenome",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicFiles",
@@ -9479,7 +9433,6 @@
     "RnBeads": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -9677,7 +9630,6 @@
     ],
     "SCAN.UPC": [
         "AnnotationDbi",
-        "GEOquery",
         "affy",
         "annotate",
         "genefilter",
@@ -10143,7 +10095,6 @@
     ],
     "shinyepico": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -10161,7 +10112,6 @@
     ],
     "shinyMethyl": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -10429,7 +10379,6 @@
     "skewr": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -10780,9 +10729,7 @@
     "sRACIPE": [
         "visNetwork"
     ],
-    "SRAdb": [
-        "GEOquery"
-    ],
+    "SRAdb": [],
     "srnadiff": [
         "AnnotationDbi",
         "BSgenome",
@@ -11848,7 +11795,6 @@
     "wateRmelon": [
         "AnnotationDbi",
         "FDb.InfiniumMethylation.hg19",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -11941,7 +11887,6 @@
     ],
     "yarn": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -12251,7 +12196,6 @@
     ],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -12380,7 +12324,6 @@
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -12394,7 +12337,6 @@
     ],
     "IlluminaHumanMethylation450kmanifest": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -12408,7 +12350,6 @@
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -12533,7 +12474,6 @@
     "iC10": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
@@ -12802,7 +12742,6 @@
     ],
     "FlowSorted.Blood.450k": [
         "AnnotationDbi",
-        "GEOquery",
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
