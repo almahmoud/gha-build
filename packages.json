@@ -13,7 +13,6 @@
         "ReportingTools",
         "affycoretools"
     ],
-    "AllelicImbalance": [],
     "AneuFinder": [
         "ReorderCluster"
     ],
