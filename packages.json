@@ -4004,7 +4004,6 @@
         "mgcv",
         "mia",
         "miniUI",
-        "mitools",
         "multtest",
         "munsell",
         "nloptr",
@@ -14789,7 +14788,6 @@
         "dplyr",
         "ggplot2",
         "mgcv",
-        "mitools",
         "munsell",
         "patchwork",
         "pillar",
@@ -20496,7 +20494,6 @@
         "knitr",
         "memoise",
         "mgcv",
-        "mitools",
         "munsell",
         "openssl",
         "pillar",
@@ -40384,7 +40381,6 @@
         "huge",
         "igraph",
         "mgcv",
-        "mitools",
         "multtest",
         "munsell",
         "network",
@@ -50947,7 +50943,6 @@
         "locfit",
         "memoise",
         "mgcv",
-        "mitools",
         "munsell",
         "openssl",
         "pillar",
@@ -68693,7 +68688,6 @@
         "pkgload"
     ],
     "survey": [
-        "mitools",
         "survival"
     ],
     "tokenizers": [],
@@ -68709,7 +68703,6 @@
     "Rcgmin": [
         "optextras"
     ],
-    "mitools": [],
     "sjmisc": [
         "dplyr",
         "pillar",
@@ -74063,12 +74056,10 @@
     ],
     "ICSNP": [
         "ICS",
-        "mitools",
         "survey",
         "survival"
     ],
     "ICS": [
-        "mitools",
         "survey",
         "survival"
     ],
