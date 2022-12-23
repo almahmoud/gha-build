@@ -15171,7 +15171,6 @@
         "stringr",
         "tibble"
     ],
-    "fmrs": [],
     "fobitools": [
         "BiocParallel",
         "RSQLite",
