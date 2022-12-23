@@ -12102,7 +12102,6 @@
         "miRNAtap.db",
         "org.Hs.eg.db"
     ],
-    "STATegRa": [],
     "Statial": [
         "SingleCellExperiment",
         "broom",
