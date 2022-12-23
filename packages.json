@@ -58688,7 +58688,6 @@
         "DelayedArray",
         "IRanges",
         "S4Vectors",
-        "nanotime",
         "spdl",
         "tiledb"
     ],
@@ -71790,10 +71789,8 @@
         "vctrs"
     ],
     "tiledb": [
-        "nanotime",
         "spdl"
     ],
-    "nanotime": [],
     "spdl": [],
     "FreqProf": [
         "bslib",
