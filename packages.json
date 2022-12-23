@@ -654,7 +654,6 @@
         "BiocParallel",
         "RSpectra",
         "Rfast",
-        "baseline",
         "bslib",
         "cellranger",
         "doRNG",
@@ -29206,7 +29205,6 @@
         "VennDiagram",
         "XVector",
         "annotate",
-        "baseline",
         "biomaRt",
         "biovizBase",
         "bslib",
@@ -49204,7 +49202,6 @@
         "stringr",
         "tibble"
     ],
-    "baseline": [],
     "rARPACK": [
         "RSpectra"
     ],
