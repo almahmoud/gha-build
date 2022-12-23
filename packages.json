@@ -10678,7 +10678,6 @@
         "vegan",
         "viridisLite",
         "vsn",
-        "wesanderson",
         "xtable",
         "yaml",
         "zlibbioc",
@@ -25986,7 +25985,6 @@
         "viridis",
         "viridisLite",
         "vroom",
-        "wesanderson",
         "xml2",
         "yaml",
         "zlibbioc",
@@ -34028,7 +34026,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "zoo"
     ],
     "epistack": [
@@ -65163,7 +65160,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "zoo"
     ],
     "moanin": [
@@ -70972,7 +70968,6 @@
         "vctrs",
         "vegan",
         "viridisLite",
-        "wesanderson",
         "zoo"
     ],
     "NetActivity": [
@@ -80888,7 +80883,6 @@
         "viridisLite",
         "vsn",
         "waldo",
-        "wesanderson",
         "xtable",
         "yaml",
         "zlibbioc"
@@ -123434,7 +123428,6 @@
         "vcd",
         "zoo"
     ],
-    "wesanderson": [],
     "amap": [],
     "gmodels": [
         "MASS",
