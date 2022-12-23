@@ -3684,7 +3684,6 @@
         "minfi",
         "rhdf5"
     ],
-    "mistyR": [],
     "mitoClone2": [
         "BSgenome",
         "GenomicFeatures",
