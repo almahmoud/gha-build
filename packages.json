@@ -866,7 +866,6 @@
     "CellBarcode": [
         "ShortRead"
     ],
-    "CellBench": [],
     "cellHTS2": [
         "Category",
         "GSEABase",
