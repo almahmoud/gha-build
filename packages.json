@@ -124,7 +124,6 @@
     ],
     "animalcules": [
         "DESeq2",
-        "GUniFrac",
         "caret",
         "geneplotter"
     ],
@@ -6922,7 +6921,6 @@
     ],
     "ReorderCluster": [],
     "caret": [],
-    "GUniFrac": [],
     "Seurat": [],
     "org.Mm.eg.db": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
