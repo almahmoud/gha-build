@@ -10837,7 +10837,6 @@
         "viridis"
     ],
     "h5vc": [
-        "BatchJobs",
         "Biostrings",
         "GenomicRanges",
         "Rsamtools",
@@ -17671,9 +17670,7 @@
         "viridis",
         "waldo"
     ],
-    "parglms": [
-        "BatchJobs"
-    ],
+    "parglms": [],
     "PAST": [
         "Biostrings",
         "GenomicAlignments",
@@ -28937,7 +28934,6 @@
     "ggwordcloud": [
         "ggplot2"
     ],
-    "BatchJobs": [],
     "HiContactsData": [
         "AnnotationDbi",
         "AnnotationHub",
