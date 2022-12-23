@@ -12805,7 +12805,6 @@
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
-        "DExMAdata",
         "GEOquery",
         "GenomeInfoDb",
         "IRanges",
@@ -56520,7 +56519,6 @@
         "stringr",
         "tibble"
     ],
-    "DExMAdata": [],
     "swamp": [],
     "bnstruct": [],
     "phangorn": [],
