@@ -3881,7 +3881,6 @@
         "dplyr",
         "ggplot2",
         "plyranges",
-        "quantmod",
         "rtracklayer",
         "tibble"
     ],
@@ -6160,7 +6159,6 @@
         "interactiveDisplayBase",
         "knitr",
         "progress",
-        "quantmod",
         "readxl",
         "reshape2",
         "rhdf5",
@@ -6565,7 +6563,6 @@
         "highcharter",
         "htmlwidgets",
         "knitr",
-        "quantmod",
         "rmarkdown",
         "tibble",
         "tidyr",
@@ -6704,7 +6701,6 @@
         "dplyr",
         "ggplot2",
         "progress",
-        "quantmod",
         "readr",
         "reshape2",
         "tibble",
@@ -7043,7 +7039,6 @@
     ],
     "deltaGseg": [
         "ggplot2",
-        "quantmod",
         "tibble",
         "tseries"
     ],
@@ -20822,7 +20817,6 @@
         "htmlwidgets",
         "knitr",
         "progress",
-        "quantmod",
         "rmarkdown",
         "tibble",
         "tidyr",
@@ -21130,7 +21124,6 @@
         "highcharter",
         "htmlwidgets",
         "knitr",
-        "quantmod",
         "rhandsontable",
         "rmarkdown",
         "shiny",
@@ -21292,7 +21285,6 @@
         "miniUI",
         "pairsD3",
         "progress",
-        "quantmod",
         "qvalue",
         "readr",
         "recount",
@@ -22052,7 +22044,6 @@
         "biomformat",
         "ggplot2",
         "phyloseq",
-        "quantmod",
         "reshape2",
         "rhdf5",
         "tibble",
@@ -31551,7 +31542,6 @@
     ],
     "furrr": [],
     "GenomicTools": [],
-    "quantmod": [],
     "ChAMPdata": [
         "GenomicRanges"
     ],
@@ -32088,7 +32078,6 @@
         "dplyr",
         "htmlwidgets",
         "knitr",
-        "quantmod",
         "rmarkdown",
         "tibble",
         "tidyr"
@@ -32193,7 +32182,6 @@
     "DMwR2": [
         "dplyr",
         "progress",
-        "quantmod",
         "readr",
         "tibble",
         "vroom"
@@ -32249,9 +32237,7 @@
         "tibble",
         "tidyr"
     ],
-    "tseries": [
-        "quantmod"
-    ],
+    "tseries": [],
     "imputeLCMD": [],
     "ggplot.multistats": [
         "ggplot2",
@@ -33398,7 +33384,6 @@
     ],
     "forecast": [
         "ggplot2",
-        "quantmod",
         "tibble",
         "tseries"
     ],
