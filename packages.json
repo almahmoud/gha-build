@@ -447,7 +447,6 @@
     "BioNAR": [
         "Hmisc",
         "WGCNA",
-        "synaptome.data",
         "synaptome.db",
         "viridis"
     ],
@@ -6068,14 +6067,11 @@
         "viridis"
     ],
     "xlsx": [],
-    "synaptome.db": [
-        "synaptome.data"
-    ],
+    "synaptome.db": [],
     "WGCNA": [
         "Hmisc",
         "viridis"
     ],
-    "synaptome.data": [],
     "biscuiteerData": [],
     "pasilla": [
         "DESeq2",
