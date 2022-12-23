@@ -10798,7 +10798,6 @@
         "testthat",
         "variancePartition"
     ],
-    "zFPKM": [],
     "zinbwave": [
         "AnnotationDbi",
         "annotate",
