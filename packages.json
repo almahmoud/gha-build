@@ -1245,9 +1245,7 @@
         "RSQLite",
         "XVector"
     ],
-    "ASSET": [
-        "msm"
-    ],
+    "ASSET": [],
     "ASSIGN": [
         "AnnotationDbi",
         "Biostrings",
@@ -1257,7 +1255,6 @@
         "annotate",
         "genefilter",
         "ggplot2",
-        "msm",
         "sva",
         "tibble"
     ],
@@ -17482,7 +17479,6 @@
         "fastseg",
         "ggplot2",
         "methylKit",
-        "msm",
         "qvalue",
         "reshape2",
         "rtracklayer",
@@ -25018,8 +25014,7 @@
         "viridis"
     ],
     "REBET": [
-        "ASSET",
-        "msm"
+        "ASSET"
     ],
     "rebook": [
         "BiocStyle",
@@ -31504,7 +31499,6 @@
         "ggrepel",
         "htmlwidgets",
         "knitr",
-        "msm",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -34858,7 +34852,6 @@
         "tibble",
         "tidyr"
     ],
-    "msm": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
