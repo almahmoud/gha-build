@@ -1760,7 +1760,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "triebeard",
         "urltools",
         "vctrs"
     ],
@@ -4250,7 +4249,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "triebeard",
         "urltools",
         "vctrs",
         "vroom"
@@ -39656,7 +39654,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "triebeard",
         "urltools",
         "vctrs",
         "vroom"
@@ -49610,7 +49607,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "triebeard",
         "urltools",
         "vctrs"
     ],
@@ -60271,7 +60267,6 @@
         "httr",
         "openssl",
         "stringr",
-        "triebeard",
         "urltools",
         "vctrs"
     ],
@@ -60537,13 +60532,9 @@
         "vctrs"
     ],
     "crul": [
-        "triebeard",
         "urltools"
     ],
-    "urltools": [
-        "triebeard"
-    ],
-    "triebeard": [],
+    "urltools": [],
     "sampling": [],
     "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
@@ -61554,7 +61545,6 @@
         "openssl",
         "pillar",
         "tibble",
-        "triebeard",
         "urltools",
         "vctrs"
     ],
@@ -66243,7 +66233,6 @@
         "pillar",
         "purrr",
         "tibble",
-        "triebeard",
         "urltools",
         "vctrs"
     ],
@@ -66989,7 +66978,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "triebeard",
         "urltools",
         "vctrs"
     ],
@@ -67007,7 +66995,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "triebeard",
         "urltools",
         "vctrs"
     ],
