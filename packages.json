@@ -1180,7 +1180,6 @@
     "deconvR": [
         "HDF5Array",
         "bumphunter",
-        "methylKit",
         "minfi",
         "rhdf5"
     ],
@@ -2583,12 +2582,9 @@
         "DSS",
         "HDF5Array",
         "bsseq",
-        "methylKit",
         "rhdf5"
     ],
-    "methInheritSim": [
-        "methylKit"
-    ],
+    "methInheritSim": [],
     "MethReg": [
         "car",
         "ggpubr",
@@ -2648,10 +2644,8 @@
         "viridis"
     ],
     "methylInheritance": [
-        "methylKit",
         "rebus"
     ],
-    "methylKit": [],
     "methylPipe": [
         "Gviz",
         "Hmisc",
