@@ -47,8 +47,7 @@
         "biovizBase"
     ],
     "ATACCoGAPS": [
-        "chromVAR",
-        "rGREAT"
+        "chromVAR"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno"
@@ -996,8 +995,7 @@
         "biovizBase"
     ],
     "profileplyr": [
-        "ChIPseeker",
-        "rGREAT"
+        "ChIPseeker"
     ],
     "pRolocGUI": [],
     "proteasy": [
@@ -1079,7 +1077,6 @@
         "FactoMineR"
     ],
     "RgnTX": [],
-    "rGREAT": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
