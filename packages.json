@@ -1197,8 +1197,7 @@
         "scater",
         "scuttle",
         "slingshot",
-        "spatstat",
-        "spatstat.linnet"
+        "spatstat"
     ],
     "CONFESS": [
         "contrast",
@@ -6947,13 +6946,9 @@
     ],
     "Ecume": [
         "caret",
-        "spatstat",
-        "spatstat.linnet"
+        "spatstat"
     ],
-    "spatstat": [
-        "spatstat.linnet"
-    ],
-    "spatstat.linnet": [],
+    "spatstat": [],
     "contrast": [
         "rms"
     ],
