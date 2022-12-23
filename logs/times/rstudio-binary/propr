@@ -1,18 +1,15 @@
 + git pull origin main
 From https://github.com/almahmoud/gha-build
  * branch              main       -> FETCH_HEAD
-   6cc67721..bf72d816  main       -> origin/main
-Updating 6cc67721..bf72d816
+   e007e113..066beafc  main       -> origin/main
+Updating e007e113..066beafc
 Fast-forward
- lists/failed/kmlShape                   | 19 +++++++++++++++++++
- lists/gProfileR                         |  2 +-
- lists/kmlShape                          |  2 +-
- logs/run_ids/rstudio-binaries/lubridate |  2 ++
- logs/times/rstudio-binary/kmlShape      | 33 +++++++++++++++++++++++++++++++++
- packages.json                           |  2 --
- 6 files changed, 56 insertions(+), 4 deletions(-)
- create mode 100644 lists/failed/kmlShape
- create mode 100644 logs/times/rstudio-binary/kmlShape
+ lists/failed/mppa                        | 19 +++++++++++++++++++
+ logs/run_ids/rstudio-binaries/assertive  |  2 ++
+ logs/run_ids/rstudio-binaries/rcellminer |  2 ++
+ logs/times/rstudio-binary/mppa           | 17 ++++++++---------
+ 4 files changed, 31 insertions(+), 9 deletions(-)
+ create mode 100644 lists/failed/mppa
 + export LIBRARY=/__w/gha-build/gha-build/built/
 + LIBRARY=/__w/gha-build/gha-build/built/
 + export PKG=propr
@@ -30,6 +27,6 @@ Fast-forward
 No dependencies
 + Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''propr'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
 
-real	0m4.637s
-user	0m3.258s
-sys	0m0.245s
+real	0m5.169s
+user	0m3.317s
+sys	0m0.195s
