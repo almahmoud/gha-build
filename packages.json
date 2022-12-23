@@ -286,8 +286,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "plyranges"
+        "ggbio"
     ],
     "borealis": [
         "DSS",
@@ -318,8 +317,7 @@
     ],
     "bumphunter": [],
     "BUSpaRse": [
-        "ensembldb",
-        "plyranges"
+        "ensembldb"
     ],
     "CAFE": [
         "OrganismDbi",
@@ -416,9 +414,7 @@
     "CexoR": [
         "genomation"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "CGHcall": [],
     "cghMCR": [],
     "CGHnormaliter": [
@@ -756,7 +752,6 @@
         "car",
         "ggpubr",
         "pbkrtest",
-        "plyranges",
         "rstatix"
     ],
     "ddPCRclust": [
@@ -1447,8 +1442,7 @@
     "infercnv": [],
     "InPAS": [
         "BSgenome.Drerio.UCSC.danRer7",
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
@@ -1531,8 +1525,7 @@
     "katdetectr": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "VariantAnnotation",
-        "plyranges"
+        "VariantAnnotation"
     ],
     "KEGGlincs": [],
     "kissDE": [
@@ -1750,8 +1743,7 @@
         "IlluminaHumanMethylation450kmanifest",
         "bsseq",
         "bumphunter",
-        "minfi",
-        "plyranges"
+        "minfi"
     ],
     "methylclock": [
         "AnnotationHubData",
@@ -1986,7 +1978,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "plyranges",
         "regioneR"
     ],
     "multiHiCcompare": [
@@ -2063,8 +2054,7 @@
     ],
     "nearBynding": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "plyranges"
+        "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
     "Nebulosa": [],
     "NetActivity": [],
@@ -2099,9 +2089,7 @@
         "car",
         "pbkrtest"
     ],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "NxtIRFcore": [
         "ExperimentHub",
         "NxtIRFdata"
@@ -2121,7 +2109,6 @@
         "derfinder",
         "ggpubr",
         "pbkrtest",
-        "plyranges",
         "rstatix"
     ],
     "OGRE": [
@@ -2260,16 +2247,13 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [
         "car",
         "ggpubr",
         "pbkrtest",
         "rstatix"
     ],
-    "plyranges": [],
     "pmm": [],
     "podkat": [],
     "pogos": [
@@ -3142,8 +3126,7 @@
     ],
     "Ularcirc": [
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
