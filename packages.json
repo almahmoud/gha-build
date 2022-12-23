@@ -23035,7 +23035,6 @@
         "cvar",
         "fBasics",
         "fGarch",
-        "gbutils",
         "nloptr",
         "pillar",
         "pkgload",
@@ -64731,13 +64730,9 @@
     ],
     "fGarch": [
         "cvar",
-        "fBasics",
-        "gbutils"
+        "fBasics"
     ],
-    "cvar": [
-        "gbutils"
-    ],
-    "gbutils": [],
+    "cvar": [],
     "KEGGandMetacoreDzPathwaysGEO": [],
     "ggwordcloud": [
         "ggplot2",
