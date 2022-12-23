@@ -33978,7 +33978,6 @@
         "affy",
         "affyio"
     ],
-    "FScanR": [],
     "FunChIP": [
         "Biobase",
         "BiocParallel",
