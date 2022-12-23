@@ -1,0 +1,107 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   4af616f4..ade1c9bc  main       -> origin/main
+Updating 4af616f4..ade1c9bc
+Fast-forward
+ lists/SUITOR                                     |    2 +-
+ lists/statTarget                                 |    2 +-
+ lists/tidytext                                   |    2 +-
+ lists/yardstick                                  |    2 +-
+ logs/run_ids/rstudio-binaries/bacon              |    2 +
+ logs/run_ids/rstudio-binaries/benchmarkmeData    |    2 +
+ logs/run_ids/rstudio-binaries/clusterSeq         |    2 +
+ logs/sizes/rstudio-binaries/binaries/SUITOR      |    1 +
+ logs/sizes/rstudio-binaries/binaries/statTarget  |    1 +
+ logs/sizes/rstudio-binaries/binaries/tidytext    |    1 +
+ logs/sizes/rstudio-binaries/binaries/yardstick   |    1 +
+ logs/sizes/rstudio-binaries/libraries/SUITOR     |    1 +
+ logs/sizes/rstudio-binaries/libraries/statTarget |    1 +
+ logs/sizes/rstudio-binaries/libraries/tidytext   |    1 +
+ logs/sizes/rstudio-binaries/libraries/yardstick  |    1 +
+ logs/times/rstudio-binary/SUITOR                 |  102 ++
+ logs/times/rstudio-binary/statTarget             | 1449 ++++++++++++++++++++++
+ logs/times/rstudio-binary/tidytext               | 1163 +++++++++++++++++
+ logs/times/rstudio-binary/yardstick              |   73 ++
+ packages.json                                    |   19 +-
+ 20 files changed, 2809 insertions(+), 19 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/bacon
+ create mode 100644 logs/run_ids/rstudio-binaries/benchmarkmeData
+ create mode 100644 logs/run_ids/rstudio-binaries/clusterSeq
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/SUITOR
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/statTarget
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/tidytext
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/yardstick
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/SUITOR
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/statTarget
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/tidytext
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/yardstick
+ create mode 100644 logs/times/rstudio-binary/SUITOR
+ create mode 100644 logs/times/rstudio-binary/statTarget
+ create mode 100644 logs/times/rstudio-binary/tidytext
+ create mode 100644 logs/times/rstudio-binary/yardstick
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=clst
++ PKG=clst
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "clst"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency ROC is already found.
+Dependency lattice is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''clst'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv clst_1.46.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/clst
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'clst'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/clst_1.46.0.tar.gz'
+Content type 'application/x-gzip' length 944602 bytes (922 KB)
+==================================================
+downloaded 922 KB
+
+* installing *source* package ‘clst’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘clst’ as ‘clst_1.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clst)
+
+The downloaded source packages are in
+	‘/tmp/RtmpOloCod/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m8.440s
+user	0m5.349s
+sys	0m0.692s
