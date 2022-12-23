@@ -1343,7 +1343,6 @@
         "DESeq2",
         "car",
         "coin",
-        "easierData",
         "ggpubr",
         "rstatix"
     ],
@@ -5073,7 +5072,6 @@
     "VIM": [
         "car"
     ],
-    "easierData": [],
     "coin": [],
     "EntropyExplorer": [],
     "qgraph": [
