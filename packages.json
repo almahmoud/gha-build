@@ -1634,7 +1634,6 @@
     "DrugVsDisease": [
         "ArrayExpress",
         "affy",
-        "hgu133a2.db",
         "oligo"
     ],
     "DSS": [
@@ -6292,7 +6291,6 @@
         "car",
         "pbkrtest"
     ],
-    "hgu133a2.db": [],
     "easierData": [],
     "coin": [],
     "EntropyExplorer": [],
