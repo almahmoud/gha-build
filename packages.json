@@ -3081,7 +3081,6 @@
         "vctrs",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "aroma.light": [
@@ -3505,7 +3504,6 @@
         "viridisLite",
         "waldo",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "ASGSCA": [
@@ -7569,8 +7567,7 @@
         "usethis",
         "vctrs",
         "whisker",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "BiocVersion": [],
     "biocViews": [
@@ -7610,8 +7607,7 @@
         "usethis",
         "vctrs",
         "whisker",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "biodb": [
         "BiocFileCache",
@@ -10507,7 +10503,6 @@
         "xml2",
         "xopen",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "bumphunter": [
@@ -11883,7 +11878,6 @@
         "vroom",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "CBEA": [
@@ -15446,7 +15440,6 @@
         "tidyselect",
         "vctrs",
         "xml2",
-        "zip",
         "zlibbioc"
     ],
     "cicero": [
@@ -17254,7 +17247,6 @@
         "vctrs",
         "viridisLite",
         "waldo",
-        "zip",
         "zlibbioc"
     ],
     "CNVRanger": [
@@ -17713,8 +17705,7 @@
         "whisker",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "cogeqc": [
         "Biostrings",
@@ -18622,8 +18613,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "conclus": [
         "AnnotationDbi",
@@ -20743,7 +20733,6 @@
         "xml2",
         "yaml",
         "zeallot",
-        "zip",
         "zlibbioc"
     ],
     "CrispRVariants": [
@@ -23058,7 +23047,6 @@
         "whisker",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "dcanr": [
@@ -23335,7 +23323,6 @@
         "viridisLite",
         "waldo",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "dearseq": [
@@ -26440,7 +26427,6 @@
         "webshot",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "distinct": [
@@ -32951,8 +32937,7 @@
         "tibble",
         "tidyselect",
         "vctrs",
-        "viridisLite",
-        "zip"
+        "viridisLite"
     ],
     "FELLA": [
         "Biostrings",
@@ -35189,7 +35174,6 @@
         "vctrs",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "gaga": [
@@ -35636,8 +35620,7 @@
         "whisker",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "GDCRNATools": [
         "AnnotationDbi",
@@ -37649,7 +37632,6 @@
         "waldo",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "GenomicTuples": [
@@ -40349,7 +40331,6 @@
         "viridisLite",
         "xml2",
         "yaml",
-        "zip",
         "zoo"
     ],
     "graper": [
@@ -41172,7 +41153,6 @@
         "xml2",
         "yaml",
         "zeallot",
-        "zip",
         "zlibbioc"
     ],
     "Guitar": [
@@ -42870,8 +42850,7 @@
         "tidyselect",
         "vctrs",
         "viridisLite",
-        "xml2",
-        "zip"
+        "xml2"
     ],
     "HPAStainR": [
         "bslib",
@@ -43134,8 +43113,7 @@
         "vctrs",
         "whisker",
         "xml2",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "HumanTranscriptomeCompendium": [
         "Biobase",
@@ -43264,8 +43242,7 @@
         "visNetwork",
         "webshot",
         "xml2",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "hyperdraw": [
         "Rgraphviz",
@@ -44661,8 +44638,7 @@
         "whisker",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "infercnv": [
         "Biobase",
@@ -45518,7 +45494,6 @@
         "wordcloud2",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "IntEREst": [
@@ -46206,8 +46181,7 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "iSEE": [
         "Biobase",
@@ -48119,7 +48093,6 @@
         "vroom",
         "waldo",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "Linnorm": [
@@ -51745,7 +51718,6 @@
         "waldo",
         "whisker",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "MEIGOR": [
@@ -51917,7 +51889,6 @@
         "whisker",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "MeSHDbi": [
@@ -54136,7 +54107,6 @@
         "xopen",
         "xts",
         "yaml",
-        "zip",
         "zlibbioc",
         "zoo"
     ],
@@ -54859,8 +54829,7 @@
         "whisker",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "MetNet": [
         "Biobase",
@@ -55826,7 +55795,6 @@
         "whisker",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "MicrobiotaProcess": [
@@ -61597,7 +61565,6 @@
         "xml2",
         "xopen",
         "yaml",
-        "zip",
         "zlibbioc",
         "zoo"
     ],
@@ -62850,7 +62817,6 @@
         "waldo",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "NanoTube": [
@@ -65220,7 +65186,6 @@
         "whisker",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "odseq": [
@@ -66106,7 +66071,6 @@
         "waldo",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc",
         "zoo"
     ],
@@ -66586,7 +66550,6 @@
         "viridis",
         "viridisLite",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "openPrimeRui": [
@@ -66673,7 +66636,6 @@
         "viridis",
         "viridisLite",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "OpenStats": [
@@ -66933,8 +66895,7 @@
         "whisker",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "optimalFlow": [
         "Biobase",
@@ -68360,7 +68321,6 @@
         "xml2",
         "xopen",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "pathRender": [
@@ -69395,7 +69355,6 @@
         "webutils",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "PharmacoGx": [
@@ -70380,7 +70339,6 @@
         "viridis",
         "viridisLite",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "PING": [
@@ -70771,7 +70729,6 @@
         "openxlsx",
         "survival",
         "vctrs",
-        "zip",
         "zlibbioc"
     ],
     "plotgardener": [
@@ -79517,7 +79474,6 @@
         "viridisLite",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "Risa": [
@@ -80085,7 +80041,6 @@
         "xml2",
         "xopen",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "rmspc": [
@@ -82992,7 +82947,6 @@
         "viridisLite",
         "yaml",
         "zeallot",
-        "zip",
         "zlibbioc"
     ],
     "sangerseqR": [
@@ -87917,7 +87871,6 @@
         "tibble",
         "vctrs",
         "viridisLite",
-        "zip",
         "zlibbioc"
     ],
     "sevenbridges": [
@@ -88175,7 +88128,6 @@
         "webshot",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "shinyMethyl": [
@@ -88519,7 +88471,6 @@
         "proxy",
         "scales",
         "viridisLite",
-        "zip",
         "zlibbioc"
     ],
     "SigFuge": [
@@ -93472,7 +93423,6 @@
         "xml2",
         "xopen",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "sscore": [
@@ -95319,8 +95269,7 @@
         "futile.logger",
         "lambda.r",
         "openxlsx",
-        "proxy",
-        "zip"
+        "proxy"
     ],
     "switchBox": [
         "KernSmooth",
@@ -96324,7 +96273,6 @@
         "viridis",
         "viridisLite",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "TBSignatureProfiler": [
@@ -98816,8 +98764,7 @@
         "tinytex",
         "vctrs",
         "viridisLite",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "TPP2D": [
         "BiocParallel",
@@ -98847,8 +98794,7 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "viridisLite",
-        "zip"
+        "viridisLite"
     ],
     "tracktables": [
         "BiocParallel",
@@ -100149,8 +100095,7 @@
         "viridisLite",
         "whisker",
         "xml2",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "tRNA": [
         "Biostrings",
@@ -101143,7 +101088,6 @@
         "viridisLite",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "UNDO": [
@@ -103461,7 +103405,6 @@
         "whisker",
         "xml2",
         "yaml",
-        "zip",
         "zlibbioc"
     ],
     "wppi": [
@@ -107264,10 +107207,7 @@
         "yaml",
         "zlibbioc"
     ],
-    "openxlsx": [
-        "zip"
-    ],
-    "zip": [],
+    "openxlsx": [],
     "crul": [
         "curl",
         "triebeard",
@@ -109218,15 +109158,13 @@
         "rappdirs",
         "vctrs",
         "whisker",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "gert": [
         "askpass",
         "credentials",
         "curl",
-        "openssl",
-        "zip"
+        "openssl"
     ],
     "credentials": [
         "askpass",
@@ -110206,8 +110144,7 @@
         "whisker",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "pkgdown": [
         "askpass",
@@ -112141,8 +112078,7 @@
         "tidyselect",
         "tzdb",
         "vctrs",
-        "vroom",
-        "zip"
+        "vroom"
     ],
     "factoextra": [
         "DT",
@@ -113278,8 +113214,7 @@
         "vctrs",
         "waldo",
         "whisker",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "metap": [
         "Biobase",
@@ -114709,12 +114644,10 @@
         "tinytex",
         "vctrs",
         "xml2",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "officer": [
-        "xml2",
-        "zip"
+        "xml2"
     ],
     "gdtools": [
         "systemfonts"
@@ -115026,7 +114959,6 @@
         "vctrs",
         "xml2",
         "yaml",
-        "zip",
         "zoo"
     ],
     "dtangle": [],
@@ -115416,8 +115348,7 @@
         "vctrs",
         "whisker",
         "xml2",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "shinyalert": [
         "bslib",
@@ -115556,8 +115487,7 @@
         "tzdb",
         "vctrs",
         "vroom",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "phosphoricons": [
         "digest",
@@ -117360,8 +117290,7 @@
         "whisker",
         "xml2",
         "xopen",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "googleAuthR": [
         "askpass",
@@ -118255,8 +118184,7 @@
         "stringr",
         "vctrs",
         "webutils",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "webutils": [
         "curl"
@@ -121046,8 +120974,7 @@
         "tinytex",
         "vctrs",
         "viridisLite",
-        "yaml",
-        "zip"
+        "yaml"
     ],
     "shinyTree": [
         "bslib",
