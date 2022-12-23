@@ -785,7 +785,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
-    "cogena": [],
     "cogeqc": [
         "ggtree"
     ],
