@@ -3164,7 +3164,6 @@
         "rhdf5"
     ],
     "PharmacoGx": [],
-    "phenomis": [],
     "phenoTest": [
         "Hmisc",
         "viridis"
