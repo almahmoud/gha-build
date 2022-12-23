@@ -3310,7 +3310,6 @@
         "diffcyt",
         "dplyr",
         "forcats",
-        "furrr",
         "ggforce",
         "ggnewscale",
         "ggplot2",
@@ -3348,7 +3347,6 @@
     ],
     "ceRNAnetsim": [
         "dplyr",
-        "furrr",
         "ggforce",
         "ggplot2",
         "ggraph",
@@ -8821,7 +8819,6 @@
         "flowViz"
     ],
     "flowGraph": [
-        "furrr",
         "ggiraph",
         "ggplot2",
         "ggrepel",
@@ -14968,7 +14965,6 @@
     "mistyR": [
         "caret",
         "dplyr",
-        "furrr",
         "ggplot2",
         "hardhat",
         "readr",
@@ -17637,7 +17633,6 @@
         "cowplot",
         "dplyr",
         "fgsea",
-        "furrr",
         "ggforce",
         "ggplot2",
         "ggraph",
@@ -18462,7 +18457,6 @@
         "benchmarkmeData",
         "distributional",
         "dplyr",
-        "furrr",
         "ggdist",
         "ggplot2",
         "posterior",
@@ -24430,7 +24424,6 @@
         "SummarizedExperiment",
         "caret",
         "dplyr",
-        "furrr",
         "ggplot2",
         "hardhat",
         "recipes",
@@ -24580,7 +24573,6 @@
         "dtplyr",
         "fields",
         "forcats",
-        "furrr",
         "ggforce",
         "ggplot2",
         "ggrepel",
@@ -28036,7 +28028,6 @@
         "broom",
         "dplyr",
         "forcats",
-        "furrr",
         "tidyr"
     ],
     "mice": [
@@ -28044,7 +28035,6 @@
         "dplyr",
         "tidyr"
     ],
-    "furrr": [],
     "GenomicTools": [],
     "ChAMPdata": [
         "GenomicRanges"
@@ -30044,7 +30034,6 @@
     "MLmetrics": [],
     "rsample": [
         "dplyr",
-        "furrr",
         "tidyr"
     ],
     "gstat": [
