@@ -6374,7 +6374,6 @@
         "SummarizedExperiment",
         "broom",
         "car",
-        "flextable",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -6870,7 +6869,6 @@
     ],
     "granulator": [
         "epiR",
-        "flextable",
         "ggplotify",
         "tidyr"
     ],
@@ -18666,7 +18664,6 @@
     "tippy": [
         "htmlwidgets"
     ],
-    "flextable": [],
     "robust": [],
     "shinyHeatmaply": [
         "dendextend",
@@ -18696,9 +18693,7 @@
         "broom",
         "tidyr"
     ],
-    "epiR": [
-        "flextable"
-    ],
+    "epiR": [],
     "ggwordcloud": [],
     "HiContactsData": [
         "AnnotationDbi",
