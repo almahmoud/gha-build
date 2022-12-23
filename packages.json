@@ -2876,7 +2876,6 @@
         "fields",
         "flowDensity",
         "lme4",
-        "mrfDepth",
         "nloptr",
         "pbkrtest",
         "testthat",
@@ -14467,7 +14466,6 @@
         "broom"
     ],
     "cytometree": [],
-    "mrfDepth": [],
     "RFOC": [
         "GEOmap",
         "fields",
