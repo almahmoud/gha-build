@@ -1918,9 +1918,7 @@
         "GenomicFeatures",
         "wiggleplotr"
     ],
-    "FamAgg": [
-        "gap"
-    ],
+    "FamAgg": [],
     "famat": [
         "DOSE",
         "GOSemSim",
@@ -6277,7 +6275,6 @@
         "ExperimentHub"
     ],
     "gprofiler2": [],
-    "gap": [],
     "fda": [],
     "SPARQL": [],
     "NHPoisson": [
