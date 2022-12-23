@@ -436,7 +436,6 @@
     "cbpManager": [
         "basilisk"
     ],
-    "CCPROMISE": [],
     "celda": [
         "scater",
         "viridis"
