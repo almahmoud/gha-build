@@ -3652,7 +3652,6 @@
     ],
     "RJMCMCNucleosomes": [],
     "RLSeq": [
-        "RLHub",
         "regioneR"
     ],
     "RMassBank": [
@@ -5023,7 +5022,6 @@
     ],
     "BSgenome.Celegans.UCSC.ce2": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [],
-    "RLHub": [],
     "SCATEData": [],
     "Rmagic": [],
     "nnTensor": [
