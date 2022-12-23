@@ -39907,7 +39907,6 @@
         "XVector",
         "bench",
         "bslib",
-        "celestial",
         "cowplot",
         "crosstalk",
         "downloader",
@@ -43318,7 +43317,6 @@
         "XVector",
         "bench",
         "bslib",
-        "celestial",
         "cowplot",
         "crosstalk",
         "downloader",
@@ -59664,7 +59662,6 @@
         "XVector",
         "bench",
         "bslib",
-        "celestial",
         "clue",
         "cowplot",
         "crosstalk",
@@ -67416,10 +67413,7 @@
         "webutils"
     ],
     "webutils": [],
-    "magicaxis": [
-        "celestial"
-    ],
-    "celestial": [],
+    "magicaxis": [],
     "PMCMRplus": [
         "BWStest",
         "memoise"
