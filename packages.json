@@ -2228,7 +2228,6 @@
         "FactoMineR",
         "car",
         "decompTumor2Sig",
-        "deconstructSigs",
         "dendextend",
         "factoextra",
         "ggpubr",
@@ -3872,7 +3871,6 @@
         "dendextend",
         "viridis"
     ],
-    "deconstructSigs": [],
     "mppa": [],
     "RcmdrMisc": [
         "Hmisc",
