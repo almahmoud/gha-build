@@ -69,9 +69,7 @@
         "motifStack"
     ],
     "attract": [],
-    "BaalChIP": [
-        "doBy"
-    ],
+    "BaalChIP": [],
     "BadRegionFinder": [],
     "bandle": [],
     "BASiCStan": [],
@@ -1441,9 +1439,7 @@
     "synergyfinder": [
         "drc"
     ],
-    "synlet": [
-        "doBy"
-    ],
+    "synlet": [],
     "TADCompare": [
         "CGHcall",
         "HiCcompare",
@@ -1583,7 +1579,6 @@
     "FDb.InfiniumMethylation.hg19": [],
     "mGSZ": [],
     "Mus.musculus": [],
-    "doBy": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi"
     ],
