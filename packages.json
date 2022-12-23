@@ -2192,7 +2192,6 @@
         "cowplot",
         "dearseq",
         "decontam",
-        "detectseparation",
         "dplyr",
         "fitdistrplus",
         "genefilter",
@@ -37720,7 +37719,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "XVector",
-        "detectseparation",
         "dplyr",
         "ggplot2",
         "multtest",
@@ -37734,7 +37732,6 @@
         "tibble"
     ],
     "optimr": [],
-    "detectseparation": [],
     "survey": [],
     "sjmisc": [
         "dplyr",
