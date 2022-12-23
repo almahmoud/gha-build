@@ -3178,7 +3178,6 @@
         "biovizBase",
         "viridis"
     ],
-    "qsea": [],
     "qsmooth": [
         "Hmisc",
         "viridis"
