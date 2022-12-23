@@ -11687,7 +11687,6 @@
     "MSA2dist": [
         "tidyr"
     ],
-    "MsBackendMassbank": [],
     "MsBackendMsp": [],
     "MsBackendRawFileReader": [],
     "MsExperiment": [
