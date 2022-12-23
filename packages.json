@@ -1682,7 +1682,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "ToxicoGx": [],
     "trackViewer": [
         "Gviz",
         "biovizBase"
