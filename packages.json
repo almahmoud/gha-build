@@ -20,8 +20,7 @@
     "appreci8R": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ASpediaFI": [
         "mGSZ"
@@ -30,7 +29,6 @@
     "ATACCoGAPS": [],
     "bigmelon": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "BindingSiteFinder": [],
@@ -82,7 +80,6 @@
         "DMRcate",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "lumi",
-        "methylumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -161,7 +158,6 @@
     ],
     "DMRcate": [
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "methylumi",
         "missMethyl"
     ],
     "DMRforPairs": [],
@@ -202,8 +198,7 @@
     "famat": [],
     "fcoex": [],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "FLAMES": [],
     "flowCL": [
@@ -275,8 +270,7 @@
     ],
     "HTSeqGenie": [],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "iCNV": [],
     "InPAS": [],
@@ -312,25 +306,20 @@
     "LowMACA": [
         "cBioPortalData"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "Macarron": [],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MAGeCKFlute": [],
     "maser": [],
     "mCSEA": [],
     "MEAL": [
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "methylumi",
         "missMethyl"
     ],
     "MEAT": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "MEDME": [],
@@ -353,15 +342,12 @@
     ],
     "methylGSA": [
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "methylumi",
         "missMethyl"
     ],
     "methylPipe": [],
-    "methylumi": [],
     "MicrobiomeProfiler": [],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "MinimumDistance": [],
     "miRSM": [
@@ -374,8 +360,7 @@
         "ggpubr"
     ],
     "missMethyl": [
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "methylumi"
+        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19"
     ],
     "mitoClone2": [],
     "MMAPPR2": [],
@@ -508,9 +493,7 @@
         "ggpubr",
         "recount"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "Rqc": [],
     "RTCGA": [
         "ggpubr",
@@ -548,7 +531,6 @@
     ],
     "skewr": [
         "lumi",
-        "methylumi",
         "wateRmelon"
     ],
     "SMITE": [],
@@ -633,8 +615,7 @@
     "Voyager": [],
     "vulcan": [],
     "wateRmelon": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "YAPSA": [
         "SomaticSignatures"
