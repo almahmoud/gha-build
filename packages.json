@@ -1465,7 +1465,6 @@
         "rstatix",
         "survminer"
     ],
-    "GlobalAncova": [],
     "gmapR": [
         "GenomicFeatures",
         "VariantAnnotation"
