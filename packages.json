@@ -3070,7 +3070,6 @@
         "SummarizedExperiment",
         "SuperLearner",
         "XVector",
-        "cvAUC",
         "dplyr",
         "drtmle",
         "ggdendro",
@@ -38248,17 +38247,13 @@
     ],
     "drtmle": [
         "SuperLearner",
-        "cvAUC",
         "np",
         "quantreg"
     ],
-    "SuperLearner": [
-        "cvAUC"
-    ],
+    "SuperLearner": [],
     "np": [
         "quantreg"
     ],
-    "cvAUC": [],
     "biscuiteerData": [
         "AnnotationDbi",
         "AnnotationHub",
