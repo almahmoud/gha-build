@@ -1638,8 +1638,7 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tidyselect",
-        "urltools"
+        "tidyselect"
     ],
     "aroma.light": [],
     "ArrayExpress": [
@@ -3981,7 +3980,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "urltools",
         "vroom"
     ],
     "BiocSet": [
@@ -37451,7 +37449,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "urltools",
         "vroom"
     ],
     "piano": [
@@ -46833,8 +46830,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "urltools"
+        "tidyselect"
     ],
     "SeqVarTools": [
         "Biostrings",
@@ -56867,8 +56863,7 @@
         "crul",
         "httr",
         "openssl",
-        "stringr",
-        "urltools"
+        "stringr"
     ],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "AnnotationDbi",
@@ -57113,10 +57108,7 @@
         "tibble",
         "tidyselect"
     ],
-    "crul": [
-        "urltools"
-    ],
-    "urltools": [],
+    "crul": [],
     "FDb.InfiniumMethylation.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -58069,8 +58061,7 @@
         "httr",
         "openssl",
         "pillar",
-        "tibble",
-        "urltools"
+        "tibble"
     ],
     "styler": [
         "R.cache",
@@ -62471,8 +62462,7 @@
         "openssl",
         "pillar",
         "purrr",
-        "tibble",
-        "urltools"
+        "tibble"
     ],
     "C50": [
         "Cubist",
@@ -63164,8 +63154,7 @@
         "scales",
         "stringr",
         "tibble",
-        "tidyselect",
-        "urltools"
+        "tidyselect"
     ],
     "gistr": [
         "bslib",
@@ -63180,8 +63169,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
-        "urltools"
+        "tidyselect"
     ],
     "mlr3": [
         "future",
