@@ -2445,7 +2445,6 @@
         "oligoClasses",
         "sva"
     ],
-    "csaw": [],
     "csdR": [
         "AnnotationDbi",
         "GO.db",
@@ -2953,7 +2952,6 @@
     "diffHic": [
         "BSgenome",
         "GenomicAlignments",
-        "csaw",
         "rhdf5",
         "rtracklayer"
     ],
@@ -3471,7 +3469,6 @@
         "GenomicAlignments",
         "GreyListChIP",
         "car",
-        "csaw",
         "ggpubr",
         "lme4",
         "nloptr",
@@ -3766,7 +3763,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "csaw",
         "ensembldb",
         "rtracklayer",
         "viridis"
@@ -5007,7 +5003,6 @@
         "VariantAnnotation",
         "annotate",
         "biomaRt",
-        "csaw",
         "geneplotter",
         "rtracklayer"
     ],
@@ -7188,7 +7183,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "csaw",
         "ensembldb",
         "interactiveDisplayBase",
         "motifStack",
@@ -11606,7 +11600,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
         "biomaRt",
-        "csaw",
         "ensembldb",
         "geneplotter",
         "mixtools",
