@@ -94,7 +94,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ASSIGN": [],
     "ATACCoGAPS": [
         "Homo.sapiens",
         "Mus.musculus",
@@ -2362,9 +2361,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TCC": [],
     "TCGAbiolinksGUI": [
         "ELMER",
