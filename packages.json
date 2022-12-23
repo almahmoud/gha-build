@@ -12735,7 +12735,6 @@
         "tidyr",
         "viridis"
     ],
-    "immunoClust": [],
     "immunotation": [
         "dplyr",
         "ggplot2",
