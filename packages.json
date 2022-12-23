@@ -2933,7 +2933,6 @@
         "cellHTS2"
     ],
     "StarBioTrek": [],
-    "STdeconvolve": [],
     "stJoincount": [
         "SpatialExperiment"
     ],
