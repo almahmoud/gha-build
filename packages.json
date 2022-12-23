@@ -1225,7 +1225,6 @@
         "scuttle"
     ],
     "biotmle": [
-        "drtmle",
         "ggdendro",
         "ggsci",
         "superheat"
@@ -15357,7 +15356,6 @@
     "superheat": [
         "ggdendro"
     ],
-    "drtmle": [],
     "biscuiteerData": [
         "AnnotationDbi",
         "AnnotationHub",
