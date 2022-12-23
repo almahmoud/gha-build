@@ -1,0 +1,96 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   a4410ffb..9fa425e3  main       -> origin/main
+Updating a4410ffb..9fa425e3
+Fast-forward
+ lists/clusterSeq                                   |   2 +-
+ lists/distributional                               |   2 +-
+ lists/drtmle                                       |   2 +-
+ lists/rfaRm                                        |   2 +-
+ logs/run_ids/rstudio-binaries/GENIE3               |   2 +
+ logs/run_ids/rstudio-binaries/GenomAutomorphism    |   2 +
+ logs/run_ids/rstudio-binaries/flowSpecs            |   2 +
+ logs/sizes/rstudio-binaries/binaries/clusterSeq    |   1 +
+ .../sizes/rstudio-binaries/binaries/distributional |   1 +
+ logs/sizes/rstudio-binaries/binaries/drtmle        |   1 +
+ logs/sizes/rstudio-binaries/binaries/rfaRm         |   1 +
+ logs/sizes/rstudio-binaries/libraries/clusterSeq   |   1 +
+ .../rstudio-binaries/libraries/distributional      |   1 +
+ logs/sizes/rstudio-binaries/libraries/drtmle       |   1 +
+ logs/sizes/rstudio-binaries/libraries/rfaRm        |   1 +
+ logs/times/rstudio-binary/clusterSeq               | 105 +++
+ logs/times/rstudio-binary/distributional           |  75 ++
+ logs/times/rstudio-binary/drtmle                   |  78 ++
+ logs/times/rstudio-binary/rfaRm                    | 980 +++++++++++++++++++++
+ packages.json                                      |  15 +-
+ 20 files changed, 1258 insertions(+), 17 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/GENIE3
+ create mode 100644 logs/run_ids/rstudio-binaries/GenomAutomorphism
+ create mode 100644 logs/run_ids/rstudio-binaries/flowSpecs
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/clusterSeq
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/distributional
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/drtmle
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/rfaRm
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/clusterSeq
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/distributional
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/drtmle
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/rfaRm
+ create mode 100644 logs/times/rstudio-binary/clusterSeq
+ create mode 100644 logs/times/rstudio-binary/distributional
+ create mode 100644 logs/times/rstudio-binary/drtmle
+ create mode 100644 logs/times/rstudio-binary/rfaRm
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=FreqProf
++ PKG=FreqProf
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "FreqProf"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency reshape2 is already found.
+Dependency ggplot2 is already found.
+Dependency shiny is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''FreqProf'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv FreqProf_0.0.1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/FreqProf
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'FreqProf'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/FreqProf_0.0.1.tar.gz'
+Content type 'binary/octet-stream' length 56539 bytes (55 KB)
+==================================================
+downloaded 55 KB
+
+* installing *binary* package ‘FreqProf’ ...
+* ‘FreqProf’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘FreqProf’ as ‘FreqProf_0.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FreqProf)
+
+The downloaded source packages are in
+	‘/tmp/RtmpOhgO1T/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m5.925s
+user	0m3.722s
+sys	0m0.292s

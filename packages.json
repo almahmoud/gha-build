@@ -13976,7 +13976,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "DOSE",
-        "FreqProf",
         "GO.db",
         "GOSemSim",
         "HDO.db",
@@ -16416,7 +16415,6 @@
     ],
     "drawer": [],
     "GenKern": [],
-    "FreqProf": [],
     "gghighlight": [
         "ggrepel"
     ],
