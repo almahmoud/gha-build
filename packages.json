@@ -98160,7 +98160,6 @@
         "munsell",
         "mzID",
         "mzR",
-        "naivebayes",
         "ncdf4",
         "nlme",
         "nnet",
@@ -162995,7 +162994,6 @@
         "xts",
         "zoo"
     ],
-    "naivebayes": [],
     "tester": [],
     "fracdiff": [],
     "urca": [
