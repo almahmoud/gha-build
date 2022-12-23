@@ -4519,7 +4519,6 @@
         "tidyr",
         "vroom"
     ],
-    "chopsticks": [],
     "chromDraw": [
         "GenomicRanges"
     ],
