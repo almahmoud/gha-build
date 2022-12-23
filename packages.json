@@ -6420,7 +6420,6 @@
     "SCANVIS": [
         "rtracklayer"
     ],
-    "SCArray": [],
     "SCATE": [
         "ExperimentHub",
         "SCATEData"
