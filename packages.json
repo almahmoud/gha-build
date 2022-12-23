@@ -2921,7 +2921,6 @@
         "AnnotationDbi",
         "DESeq2",
         "EBSeq",
-        "NBPSeq",
         "annotate",
         "geneplotter",
         "testthat"
@@ -6109,7 +6108,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "HDF5Array",
-        "NBPSeq",
         "ShortRead",
         "affy",
         "annotate",
@@ -9335,9 +9333,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "RNAsense": [
-        "NBPSeq"
-    ],
+    "RNAsense": [],
     "RNASeqR": [
         "AnnotationDbi",
         "DESeq2",
@@ -12523,7 +12519,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "NBPSeq": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db"
