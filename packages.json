@@ -426,9 +426,7 @@
     "CiteFuse": [
         "propr"
     ],
-    "cleanUpdTSeq": [
-        "BSgenome.Drerio.UCSC.danRer7"
-    ],
+    "cleanUpdTSeq": [],
     "clipper": [
         "qpgraph"
     ],
@@ -1204,7 +1202,6 @@
     ],
     "ImmuneSpaceR": [],
     "InPAS": [
-        "BSgenome.Drerio.UCSC.danRer7",
         "cleanUpdTSeq"
     ],
     "INSPEcT": [
@@ -2782,7 +2779,6 @@
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
     "qs": [],
     "propr": [],
-    "BSgenome.Drerio.UCSC.danRer7": [],
     "factoextra": [
         "FactoMineR",
         "car",
