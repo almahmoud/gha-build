@@ -289,7 +289,6 @@
         "geneplotter",
         "ggrepel",
         "htmlwidgets",
-        "plotROC",
         "plotly",
         "recipes",
         "shinyjs",
@@ -8848,7 +8847,6 @@
         "nloptr",
         "patchwork",
         "phyloseq",
-        "plotROC",
         "recipes",
         "scater",
         "scuttle",
@@ -16585,7 +16583,6 @@
         "recipes",
         "tidyr"
     ],
-    "plotROC": [],
     "GUniFrac": [
         "ggrepel"
     ],
