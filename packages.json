@@ -11,9 +11,7 @@
         "mGSZ"
     ],
     "ATACCoGAPS": [],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "biscuiteer": [
         "CGHcall",
         "QDNAseq"
@@ -28,9 +26,7 @@
     "CGHnormaliter": [
         "CGHcall"
     ],
-    "ChAMP": [
-        "wateRmelon"
-    ],
+    "ChAMP": [],
     "ChIC": [
         "spp"
     ],
@@ -75,9 +71,7 @@
         "multiHiCcompare"
     ],
     "ISAnalytics": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "miRSM": [
         "miRspongeR"
     ],
@@ -101,9 +95,7 @@
     "scRecover": [
         "Rmagic"
     ],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "sojourner": [
         "sampSurf"
     ],
@@ -140,7 +132,6 @@
         "text2vec",
         "ttgsea"
     ],
-    "wateRmelon": [],
     "ReorderCluster": [],
     "mGSZ": [],
     "GenomicTools": [],
