@@ -533,7 +533,6 @@
         "TreeSummarizedExperiment",
         "annotate",
         "corncob",
-        "dearseq",
         "genefilter",
         "geneplotter",
         "ggrastr",
@@ -2085,7 +2084,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "dearseq": [],
     "debCAM": [],
     "debrowser": [
         "DESeq2",
