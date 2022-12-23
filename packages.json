@@ -1190,7 +1190,6 @@
         "WGCNA",
         "viridis"
     ],
-    "fCCAC": [],
     "fcoex": [
         "clusterProfiler",
         "enrichplot",
