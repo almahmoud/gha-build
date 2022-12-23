@@ -781,9 +781,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "BUMHMM": [
-        "devtools"
-    ],
+    "BUMHMM": [],
     "bumphunter": [
         "GenomicFeatures",
         "rtracklayer"
@@ -1376,9 +1374,7 @@
     "CoGAPS": [
         "rhdf5"
     ],
-    "cogena": [
-        "devtools"
-    ],
+    "cogena": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -2862,9 +2858,7 @@
     "gcrma": [
         "affy"
     ],
-    "GCSscore": [
-        "devtools"
-    ],
+    "GCSscore": [],
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
@@ -3525,9 +3519,7 @@
         "heatmaply",
         "viridis"
     ],
-    "INDEED": [
-        "devtools"
-    ],
+    "INDEED": [],
     "infercnv": [
         "Seurat",
         "coin"
@@ -4236,7 +4228,6 @@
         "annotate",
         "bumphunter",
         "car",
-        "devtools",
         "genefilter",
         "ggpubr",
         "lme4",
@@ -4319,9 +4310,7 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "MetID": [
-        "devtools"
-    ],
+    "MetID": [],
     "mfa": [],
     "MGFM": [
         "annotate"
@@ -4835,7 +4824,6 @@
         "anyLib",
         "biosigner",
         "clusterProfiler",
-        "devtools",
         "enrichplot",
         "geneplotter",
         "ggraph",
@@ -5226,9 +5214,7 @@
         "annotate",
         "rhdf5"
     ],
-    "oppti": [
-        "devtools"
-    ],
+    "oppti": [],
     "optimalFlow": [],
     "ORFhunteR": [
         "BSgenome",
@@ -5331,7 +5317,6 @@
         "DESeq2",
         "annotate",
         "biomformat",
-        "devtools",
         "geneplotter",
         "phyloseq",
         "rhdf5"
@@ -6256,7 +6241,6 @@
         "GenomicFeatures",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "annotate",
-        "devtools",
         "geneplotter",
         "org.Mm.eg.db",
         "rtracklayer"
@@ -7255,7 +7239,6 @@
         "VariantAnnotation",
         "annotate",
         "biovizBase",
-        "devtools",
         "ensembldb",
         "geneplotter",
         "rtracklayer",
@@ -8253,7 +8236,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "devtools": [],
     "drc": [
         "car",
         "lme4",
@@ -8555,9 +8537,7 @@
         "lme4"
     ],
     "HiveR": [],
-    "anyLib": [
-        "devtools"
-    ],
+    "anyLib": [],
     "blme": [
         "lme4"
     ],
