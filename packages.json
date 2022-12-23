@@ -27,7 +27,6 @@
         "ggdendro",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -62,7 +61,6 @@
         "SummarizedExperiment",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "ADAMgui": [
@@ -84,7 +82,6 @@
         "ggsci",
         "ggsignif",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -110,7 +107,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rvest",
@@ -182,7 +178,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "oligoClasses",
         "reshape2",
         "rmarkdown",
@@ -264,7 +259,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "oligoClasses",
         "reshape2",
         "rmarkdown",
@@ -299,7 +293,6 @@
         "forcats",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "shinydashboard",
         "tidyr"
@@ -327,7 +320,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -336,7 +328,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -361,7 +352,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "mixOmics",
         "readxl",
         "reshape2",
@@ -394,7 +384,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "reshape2",
         "rhdf5",
@@ -412,7 +401,6 @@
         "dplyr",
         "ggplot2",
         "ggthemes",
-        "knitr",
         "rmarkdown",
         "waffle"
     ],
@@ -426,7 +414,6 @@
         "annotate",
         "geneplotter",
         "ggplot2",
-        "knitr",
         "qvalue",
         "reshape2"
     ],
@@ -450,7 +437,6 @@
         "ggrepel",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "lmerTest",
         "mia",
@@ -502,7 +488,6 @@
         "ggrepel",
         "hardhat",
         "htmlwidgets",
-        "knitr",
         "plotROC",
         "plotly",
         "recipes",
@@ -554,7 +539,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "AnnotationHubData": [
@@ -577,7 +561,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
@@ -600,7 +583,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "regioneR",
         "reshape2",
@@ -630,7 +612,6 @@
         "DT",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "rmarkdown",
         "tidyr"
@@ -641,7 +622,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "shinytoastr",
@@ -652,7 +632,6 @@
         "DT",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "readr",
         "rmarkdown",
@@ -707,7 +686,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -754,7 +732,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "org.Hs.eg.db",
         "rhdf5",
         "rmarkdown",
@@ -786,7 +763,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -840,7 +816,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "viridis",
@@ -857,7 +832,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -878,7 +852,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -912,7 +885,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "mGSZ",
         "nloptr",
@@ -952,7 +924,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -1021,7 +992,6 @@
         "googlesheets4",
         "haven",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "modelr",
         "motifmatchr",
@@ -1075,7 +1045,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "motifStack",
         "readr",
         "regioneR",
@@ -1122,7 +1091,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "atSNP": [
@@ -1143,7 +1111,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "motifStack",
         "readr",
         "rematch2",
@@ -1179,7 +1146,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "rmarkdown",
@@ -1196,7 +1162,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "readxl",
         "tidyr"
     ],
@@ -1214,7 +1179,6 @@
         "doBy",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -1308,7 +1272,6 @@
         "ggvis",
         "hardhat",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "pRoloc",
         "pRolocdata",
@@ -1347,7 +1310,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "prettydoc",
         "rmarkdown",
         "tidyr"
@@ -1373,7 +1335,6 @@
         "ggExtra",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "reshape2",
         "rmarkdown",
@@ -1396,7 +1357,6 @@
         "ggplot2",
         "glmGamPoi",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "reshape2",
         "rhdf5",
@@ -1435,7 +1395,6 @@
         "ggvis",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -1566,7 +1525,6 @@
         "ggridges",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "lmerTest",
         "mia",
@@ -1658,7 +1616,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -1681,7 +1638,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "shinycssloaders",
@@ -1713,7 +1669,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -1724,7 +1679,6 @@
         "DT",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "biobroom": [
@@ -1763,7 +1717,6 @@
         "graphite",
         "gson",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "org.Bt.eg.db",
@@ -1794,9 +1747,7 @@
         "vroom",
         "waldo"
     ],
-    "BiocCheck": [
-        "knitr"
-    ],
+    "BiocCheck": [],
     "BiocDockerManager": [
         "dplyr",
         "readr",
@@ -1806,7 +1757,6 @@
         "DT",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "tidyr",
         "visNetwork"
@@ -1852,7 +1802,6 @@
         "ggsignif",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -1878,7 +1827,6 @@
         "dbplyr",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "readr",
         "rmarkdown",
         "rorcid",
@@ -1901,7 +1849,6 @@
     ],
     "BiocStyle": [
         "bookdown",
-        "knitr",
         "rmarkdown"
     ],
     "biocthis": [
@@ -1911,7 +1858,6 @@
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown",
-        "knitr",
         "rmarkdown",
         "usethis"
     ],
@@ -2025,7 +1971,6 @@
         "htmlTable",
         "htmlwidgets",
         "imager",
-        "knitr",
         "precrec",
         "rmarkdown",
         "rms",
@@ -2056,7 +2001,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -2080,7 +2024,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "org.Hs.eg.db",
         "rmarkdown",
         "synaptome.data",
@@ -2107,7 +2050,6 @@
         "htmlTable",
         "htmlwidgets",
         "intergraph",
-        "knitr",
         "network",
         "networkD3",
         "patchwork",
@@ -2131,7 +2073,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "pathview",
         "rmarkdown",
@@ -2147,7 +2088,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "ropls",
@@ -2195,7 +2135,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -2234,7 +2173,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "readr",
@@ -2316,7 +2254,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "randomcoloR",
         "rematch2",
         "reshape2",
@@ -2335,7 +2272,6 @@
         "annotate",
         "genefilter",
         "htmlwidgets",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "sva"
@@ -2352,7 +2288,6 @@
         "genefilter",
         "ggdendro",
         "ggplot2",
-        "knitr",
         "mnem",
         "pcalg",
         "rmarkdown",
@@ -2386,7 +2321,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "plyranges",
         "reshape2",
         "rmarkdown",
@@ -2417,7 +2351,6 @@
         "bookdown",
         "cowplot",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "BRAIN": [
@@ -2459,7 +2392,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "org.Hs.eg.db",
         "qvalue",
         "reshape2",
@@ -2574,7 +2506,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -2591,7 +2522,6 @@
         "SummarizedExperiment",
         "devtools",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -2679,7 +2609,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -2712,7 +2641,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "pryr",
         "rmarkdown",
         "rtracklayer",
@@ -2755,7 +2683,6 @@
         "htmlTable",
         "htmlwidgets",
         "intergraph",
-        "knitr",
         "network",
         "networkD3",
         "patchwork",
@@ -2791,7 +2718,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis",
         "vsn",
@@ -2814,7 +2740,6 @@
         "hgu133a.db",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "phenoTest",
         "rmarkdown",
@@ -2856,12 +2781,10 @@
     "Cardinal": [
         "EBImage",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "CARNIVAL": [
         "dplyr",
-        "knitr",
         "readr",
         "rmarkdown",
         "tidyr",
@@ -2904,7 +2827,6 @@
         "ggridges",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -2964,7 +2886,6 @@
         "dplyr",
         "genefilter",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "readr",
         "rmarkdown",
@@ -2986,7 +2907,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "rmarkdown",
@@ -3015,7 +2935,6 @@
         "dbplyr",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "readr",
         "rmarkdown",
@@ -3030,7 +2949,6 @@
         "basilisk",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "rapportools",
         "reshape2",
         "rintrojs",
@@ -3148,7 +3066,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -3182,7 +3099,6 @@
         "ggrepel",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -3213,13 +3129,11 @@
     ],
     "CellNOptR": [
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "cellscape": [
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown"
     ],
@@ -3245,7 +3159,6 @@
         "DT",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "CEMiTool": [
@@ -3281,7 +3194,6 @@
         "htmlTable",
         "htmlwidgets",
         "intergraph",
-        "knitr",
         "network",
         "patchwork",
         "qvalue",
@@ -3314,7 +3226,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "mice",
         "nloptr",
@@ -3391,7 +3302,6 @@
         "ggsignif",
         "ggtree",
         "gson",
-        "knitr",
         "lme4",
         "network",
         "nloptr",
@@ -3496,7 +3406,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "isva",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -3522,7 +3431,6 @@
         "DT",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "CHETAH": [
@@ -3534,7 +3442,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -3561,7 +3468,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -3591,7 +3497,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rmarkdown",
@@ -3631,7 +3536,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Dm.eg.db",
         "org.Dr.eg.db",
         "org.Hs.eg.db",
@@ -3667,7 +3571,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -3726,7 +3629,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -3860,7 +3762,6 @@
         "ggrepel",
         "htmlwidgets",
         "kableExtra",
-        "knitr",
         "miniUI",
         "msigdbr",
         "plotly",
@@ -3922,7 +3823,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "plotly",
         "readr",
@@ -3964,7 +3864,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "monocle",
         "reshape2",
         "rmarkdown",
@@ -3980,7 +3879,6 @@
         "ggraph",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "networkD3",
         "reshape2",
         "rmarkdown",
@@ -4018,7 +3916,6 @@
         "gwascat",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "reshape2",
         "rmarkdown",
@@ -4061,7 +3958,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "propr",
@@ -4101,7 +3997,6 @@
     ],
     "clippda": [
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown"
     ],
@@ -4144,13 +4039,11 @@
         "xcms"
     ],
     "clst": [
-        "ROC",
-        "knitr"
+        "ROC"
     ],
     "clstutils": [
         "ROC",
-        "clst",
-        "knitr"
+        "clst"
     ],
     "CluMSID": [
         "GGally",
@@ -4160,7 +4053,6 @@
         "forcats",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "network",
         "plotly",
         "rmarkdown",
@@ -4280,19 +4172,16 @@
     "CNORdt": [
         "CellNOptR",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "CNORfeeder": [
         "CellNOptR",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "CNORfuzzy": [
         "CellNOptR",
         "ggplot2",
-        "knitr",
         "nloptr",
         "rematch2",
         "rmarkdown",
@@ -4302,7 +4191,6 @@
     "CNORode": [
         "CellNOptR",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "CNTools": [
@@ -4339,7 +4227,6 @@
         "htmlTable",
         "htmlwidgets",
         "karyoploteR",
-        "knitr",
         "regioneR",
         "rhdf5",
         "rmarkdown",
@@ -4380,7 +4267,6 @@
         "htmlTable",
         "htmlwidgets",
         "karyoploteR",
-        "knitr",
         "plotly",
         "regioneR",
         "rhdf5",
@@ -4478,7 +4364,6 @@
         "affy",
         "dplyr",
         "ggplot2",
-        "knitr",
         "readr",
         "rmarkdown",
         "sqldf",
@@ -4497,7 +4382,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -4539,13 +4423,10 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
-    "cola": [
-        "knitr"
-    ],
+    "cola": [],
     "comapr": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -4569,7 +4450,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -4610,7 +4490,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -4635,7 +4514,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -4663,14 +4541,12 @@
         "BiocStyle",
         "bookdown",
         "dplyr",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "tidyr"
     ],
     "compcodeR": [
-        "ggplot2",
-        "knitr"
+        "ggplot2"
     ],
     "compEpiTools": [
         "AnnotationDbi",
@@ -4696,7 +4572,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "methylPipe",
         "rmarkdown",
         "rtracklayer",
@@ -4712,7 +4587,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "ComPrAn": [
@@ -4723,7 +4597,6 @@
         "ggplot2",
         "haven",
         "htmlwidgets",
-        "knitr",
         "readr",
         "readxl",
         "rio",
@@ -4777,7 +4650,6 @@
         "ggtree",
         "gson",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -4840,7 +4712,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rms",
@@ -4994,7 +4865,6 @@
         "htmlTable",
         "htmlwidgets",
         "karyoploteR",
-        "knitr",
         "regioneR",
         "rhdf5",
         "rmarkdown",
@@ -5027,7 +4897,6 @@
         "fgsea",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "piano",
         "rmarkdown",
         "shinydashboard",
@@ -5083,7 +4952,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "readr",
@@ -5113,7 +4981,6 @@
         "geneplotter",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "tidyr"
     ],
@@ -5153,7 +5020,6 @@
     "CRImage": [
         "EBImage",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "crisprBase": [
@@ -5209,7 +5075,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "rmarkdown",
         "rtracklayer",
@@ -5229,7 +5094,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "CRISPRseek": [
@@ -5272,7 +5136,6 @@
         "haven",
         "htmlwidgets",
         "keras",
-        "knitr",
         "patchwork",
         "readr",
         "readxl",
@@ -5331,7 +5194,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "rmarkdown",
         "rtracklayer",
@@ -5371,7 +5233,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "rmarkdown",
         "rtracklayer",
@@ -5398,7 +5259,6 @@
         "dplyr",
         "genefilter",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "oligo",
         "oligoClasses",
@@ -5432,7 +5292,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -5476,7 +5335,6 @@
         "highcharter",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readxl",
         "reshape2",
         "rhdf5",
@@ -5499,7 +5357,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "qvalue",
         "reshape2",
         "rhdf5",
@@ -5528,7 +5385,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -5547,7 +5403,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "customProDB": [
@@ -5583,7 +5438,6 @@
         "flowWorkspace",
         "forcats",
         "ggplot2",
-        "knitr",
         "lme4",
         "mrfDepth",
         "ncdfFlow",
@@ -5630,7 +5484,6 @@
         "ggsignif",
         "hardhat",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "mbest",
         "nloptr",
@@ -5665,7 +5518,6 @@
         "ggsignif",
         "hardhat",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "mbest",
         "nloptr",
@@ -5699,7 +5551,6 @@
         "ggbeeswarm",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "scuttle",
@@ -5748,7 +5599,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "motifStack",
         "readr",
         "reshape2",
@@ -5813,7 +5663,6 @@
         "hardhat",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5839,7 +5688,6 @@
         "ggplot2",
         "highcharter",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "tidyr",
         "vsn"
@@ -5867,7 +5715,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "megadepth",
         "nloptr",
@@ -5908,7 +5755,6 @@
         "googlesheets4",
         "graphite",
         "haven",
-        "knitr",
         "metap",
         "mnem",
         "modelr",
@@ -5941,7 +5787,6 @@
         "flowViz",
         "flowWorkspace",
         "ggplot2",
-        "knitr",
         "lme4",
         "ncdfFlow",
         "nloptr",
@@ -6006,7 +5851,6 @@
         "gson",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -6040,7 +5884,6 @@
         "SummarizedExperiment",
         "bookdown",
         "ggplot2",
-        "knitr",
         "made4",
         "reshape2",
         "rmarkdown"
@@ -6136,7 +5979,6 @@
         "diffr",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
@@ -6146,7 +5988,6 @@
         "ggplot2",
         "htmlwidgets",
         "keras",
-        "knitr",
         "lexicon",
         "rcdk",
         "readr",
@@ -6211,7 +6052,6 @@
         "ggplot2",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -6239,7 +6079,6 @@
         "ggdendro",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "tidyr"
     ],
     "DEGseq": [
@@ -6283,7 +6122,6 @@
         "dendextend",
         "genefilter",
         "ggplot2",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -6306,7 +6144,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "readr",
         "rmarkdown",
         "shinydashboard",
@@ -6347,7 +6184,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "qvalue",
         "reshape2",
         "rmarkdown",
@@ -6383,7 +6219,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "qvalue",
         "reshape2",
         "rmarkdown",
@@ -6437,7 +6272,6 @@
         "ggplot.multistats",
         "ggplot2",
         "ggthemes",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6529,7 +6363,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "systemPipeR"
@@ -6546,7 +6379,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -6565,7 +6397,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6629,7 +6460,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "rmarkdown",
@@ -6649,7 +6479,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -6681,7 +6510,6 @@
         "heatmaply",
         "htmlwidgets",
         "kableExtra",
-        "knitr",
         "miniUI",
         "plotly",
         "reshape2",
@@ -6792,7 +6620,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -6830,7 +6657,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -6861,7 +6687,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "regioneR",
         "reshape2",
@@ -6926,7 +6751,6 @@
         "drc",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7089,7 +6913,6 @@
         "ggsignif",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "mixtools",
         "nloptr",
@@ -7144,7 +6967,6 @@
         "viridis"
     ],
     "easyreporting": [
-        "knitr",
         "rmarkdown"
     ],
     "easyRNASeq": [
@@ -7164,7 +6986,6 @@
     ],
     "EBImage": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "EBSEA": [
@@ -7295,7 +7116,6 @@
         "hgu133a.db",
         "hgu133plus2.db",
         "htmlwidgets",
-        "knitr",
         "metap",
         "mutoss",
         "org.Hs.eg.db",
@@ -7314,7 +7134,6 @@
         "DT",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "eisaR": [
@@ -7354,7 +7173,6 @@
         "ggsignif",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7427,7 +7245,6 @@
         "geneplotter",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "minfi",
         "readr",
         "rhdf5",
@@ -7524,7 +7341,6 @@
         "ggtree",
         "gson",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "motifmatchr",
         "nloptr",
@@ -7641,7 +7457,6 @@
         "ggtree",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "patchwork",
         "plotly",
         "qvalue",
@@ -7675,7 +7490,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7716,7 +7530,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7758,7 +7571,6 @@
         "gson",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "patchwork",
         "qvalue",
         "reactome.db",
@@ -7794,7 +7606,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "rmarkdown",
         "rtracklayer",
@@ -7844,7 +7655,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "minfi",
         "org.Hs.eg.db",
         "readr",
@@ -7872,7 +7682,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "qgraph",
         "reshape2",
         "rmarkdown",
@@ -8056,7 +7865,6 @@
         "ggtree",
         "gson",
         "htmlwidgets",
-        "knitr",
         "motifmatchr",
         "patchwork",
         "pipeFrame",
@@ -8118,7 +7926,6 @@
         "ggdendro",
         "ggplot2",
         "kableExtra",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rvest",
@@ -8179,7 +7986,6 @@
         "homologene",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "nloptr",
         "orthogene",
@@ -8245,7 +8051,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "ExperimentHubData": [
@@ -8270,7 +8075,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
@@ -8298,7 +8102,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rintrojs",
         "rmarkdown",
         "shinydashboard",
@@ -8310,7 +8113,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "bookdown",
-        "knitr",
         "rmarkdown"
     ],
     "extraChIPs": [
@@ -8346,7 +8148,6 @@
         "ggside",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "patchwork",
         "rmarkdown",
         "rtracklayer",
@@ -8381,7 +8182,6 @@
         "ggplot2",
         "htmlwidgets",
         "kinship2",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -8412,7 +8212,6 @@
         "gprofiler2",
         "gson",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "patchwork",
         "plotly",
@@ -8448,7 +8247,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Sc.sgd.db",
         "rmarkdown",
         "tidyr",
@@ -8463,7 +8261,6 @@
         "ShortRead",
         "SummarizedExperiment",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "shinyBS"
     ],
@@ -8496,7 +8293,6 @@
     ],
     "fCI": [
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown"
     ],
@@ -8654,7 +8450,6 @@
     "FISHalyseR": [
         "EBImage",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "fishpond": [
@@ -8676,7 +8471,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis",
         "vsn",
@@ -8720,7 +8514,6 @@
         "ggrepel",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rhdf5",
         "rmarkdown",
@@ -8733,13 +8526,10 @@
     ],
     "flowAI": [
         "ggplot2",
-        "knitr",
         "reshape2",
         "rmarkdown"
     ],
-    "flowBeads": [
-        "knitr"
-    ],
+    "flowBeads": [],
     "flowBin": [
         "flowFP",
         "flowViz"
@@ -8749,7 +8539,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -8758,7 +8547,6 @@
         "EBImage",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "flowCL": [
@@ -8777,7 +8565,6 @@
         "flowViz",
         "flowWorkspace",
         "ggplot2",
-        "knitr",
         "lme4",
         "ncdfFlow",
         "nloptr",
@@ -8798,7 +8585,6 @@
         "flowViz",
         "flowWorkspace",
         "ggplot2",
-        "knitr",
         "lme4",
         "ncdfFlow",
         "nloptr",
@@ -8817,7 +8603,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "visNetwork"
     ],
@@ -8833,7 +8618,6 @@
         "broom",
         "car",
         "dplyr",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8855,7 +8639,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8910,7 +8693,6 @@
         "DT",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "fobitools": [
@@ -8966,7 +8748,6 @@
         "ggrepel",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rhdf5",
@@ -8980,7 +8761,6 @@
         "broom",
         "car",
         "dplyr",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9061,7 +8841,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9107,7 +8886,6 @@
         "dbplyr",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "shinyjs",
@@ -9156,7 +8934,6 @@
         "hardhat",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9198,7 +8975,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "gcrma": [
@@ -9208,7 +8984,6 @@
     "GCSscore": [
         "devtools",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -9259,7 +9034,6 @@
         "ggtree",
         "gson",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -9297,7 +9071,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "rmarkdown",
@@ -9342,7 +9115,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9405,7 +9177,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9424,7 +9195,6 @@
     ],
     "GeneNetworkBuilder": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "geneplotter": [
@@ -9476,7 +9246,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -9502,7 +9271,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -9531,7 +9299,6 @@
         "bookdown",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "networkD3",
         "org.Rn.eg.db",
         "rmarkdown",
@@ -9625,7 +9392,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "rmarkdown",
@@ -9671,7 +9437,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -9702,7 +9467,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -9723,7 +9487,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rhdf5",
         "rmarkdown"
     ],
@@ -9743,7 +9506,6 @@
         "ggsci",
         "ggsignif",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9783,7 +9545,6 @@
         "ggplot2",
         "htmlwidgets",
         "keras",
-        "knitr",
         "lexicon",
         "rcdk",
         "readr",
@@ -9836,7 +9597,6 @@
         "ggplot2",
         "ggthemes",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -9868,7 +9628,6 @@
         "ggsignif",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9912,7 +9671,6 @@
         "ggplot2",
         "ggthemes",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -9967,7 +9725,6 @@
         "broom",
         "car",
         "dplyr",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -10001,7 +9758,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -10033,7 +9789,6 @@
         "ggplotify",
         "ggtree",
         "htmlwidgets",
-        "knitr",
         "patchwork",
         "plotly",
         "rmarkdown",
@@ -10124,7 +9879,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "viridis"
@@ -10146,7 +9900,6 @@
         "geneplotter",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "glmGamPoi": [
@@ -10177,7 +9930,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -10246,7 +9998,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "reshape2",
@@ -10279,7 +10030,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "readr",
         "reshape2",
         "rmarkdown",
@@ -10440,7 +10190,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "shinyBS"
     ],
@@ -10481,7 +10230,6 @@
         "flextable",
         "ggplot2",
         "ggplotify",
-        "knitr",
         "rmarkdown",
         "tidyr"
     ],
@@ -10521,7 +10269,6 @@
         "drc",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -10578,7 +10325,6 @@
         "graphite",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "org.Hs.eg.db",
         "pathview",
         "rmarkdown",
@@ -10700,7 +10446,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "rtracklayer"
     ],
     "Gviz": [
@@ -10725,7 +10470,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -10758,7 +10502,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "rmarkdown",
         "rtracklayer",
@@ -10807,7 +10550,6 @@
         "gprofiler2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr",
@@ -10832,7 +10574,6 @@
         "dbplyr",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "readr",
         "rmarkdown",
@@ -10847,7 +10588,6 @@
         "EBImage",
         "GenomicRanges",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "HelloRanges": [
@@ -10951,7 +10691,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "tidyr",
@@ -10977,7 +10716,6 @@
         "ggsci",
         "ggsignif",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "miniUI",
         "multiHiCcompare",
@@ -11024,7 +10762,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -11072,7 +10809,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown",
         "tidyr"
     ],
@@ -11174,7 +10910,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "ssrch"
     ],
@@ -11189,7 +10924,6 @@
         "ggplot2",
         "htmlwidgets",
         "kableExtra",
-        "knitr",
         "msigdbr",
         "reactable",
         "reshape2",
@@ -11216,7 +10950,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -11267,7 +11000,6 @@
         "genefilter",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -11303,7 +11035,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "shinyBS",
@@ -11342,7 +11073,6 @@
         "goseq",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "pcaExplorer",
         "plotly",
         "reshape2",
@@ -11432,7 +11162,6 @@
         "genefilter",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "vsn"
     ],
@@ -11480,7 +11209,6 @@
         "ggraph",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "readr",
         "rhdf5",
         "rmarkdown",
@@ -11505,7 +11233,6 @@
         "ggplot2",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "ncdfFlow",
         "plotly",
         "reshape2",
@@ -11526,7 +11253,6 @@
     "INDEED": [
         "devtools",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -11550,7 +11276,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -11620,7 +11345,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11659,7 +11383,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -11668,7 +11391,6 @@
     ],
     "interacCircos": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "InteractionSet": [
@@ -11677,7 +11399,6 @@
     ],
     "InteractiveComplexHeatmap": [
         "kableExtra",
-        "knitr",
         "rmarkdown",
         "rvest",
         "selectr"
@@ -11694,14 +11415,12 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "reshape2",
         "rmarkdown"
     ],
     "interactiveDisplayBase": [
         "DT",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "InterCellar": [
@@ -11728,7 +11447,6 @@
         "ggsignif",
         "golem",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "miniUI",
         "nloptr",
@@ -11783,7 +11501,6 @@
     ],
     "IntramiRExploreR": [
         "FGNet",
-        "knitr",
         "reshape2"
     ],
     "IONiseR": [
@@ -11812,7 +11529,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11836,7 +11552,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "IPO": [
@@ -11850,7 +11565,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis",
         "vsn",
@@ -11898,7 +11612,6 @@
         "ggtree",
         "gson",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "miniUI",
         "mixtools",
@@ -11937,7 +11650,6 @@
         "ggrepel",
         "haven",
         "htmlwidgets",
-        "knitr",
         "reactable",
         "readr",
         "readxl",
@@ -11957,7 +11669,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "rintrojs",
         "rmarkdown",
@@ -11976,7 +11687,6 @@
         "ggrepel",
         "htmlwidgets",
         "iSEE",
-        "knitr",
         "miniUI",
         "rintrojs",
         "rmarkdown",
@@ -12004,7 +11714,6 @@
         "htmlwidgets",
         "iSEE",
         "interactiveDisplayBase",
-        "knitr",
         "miniUI",
         "rintrojs",
         "rmarkdown",
@@ -12024,7 +11733,6 @@
         "htmlwidgets",
         "iSEE",
         "iSEEhex",
-        "knitr",
         "miniUI",
         "rintrojs",
         "rmarkdown",
@@ -12089,7 +11797,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "reshape2",
         "rmarkdown",
@@ -12115,7 +11822,6 @@
         "ggdendro",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "readr",
         "tidyr",
         "vroom"
@@ -12166,7 +11872,6 @@
         "ggsignif",
         "ggtext",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -12211,7 +11916,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "regioneR",
         "rmarkdown",
         "rtracklayer",
@@ -12293,7 +11997,6 @@
         "ggsci",
         "ggsignif",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -12322,7 +12025,6 @@
         "hardhat",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "recipes",
         "reshape2",
         "rmarkdown",
@@ -12343,7 +12045,6 @@
         "dbplyr",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "learnr",
         "readr",
         "rmarkdown",
@@ -12374,7 +12075,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rematch2",
         "reshape2",
         "rmarkdown",
@@ -12387,8 +12087,7 @@
         "GenomicRanges",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "ggplot2",
-        "knitr"
+        "ggplot2"
     ],
     "lineagespot": [
         "AnnotationDbi",
@@ -12423,7 +12122,6 @@
         "ggsci",
         "ggsignif",
         "haven",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -12453,7 +12151,6 @@
         "ggplotify",
         "ggtree",
         "htmlwidgets",
-        "knitr",
         "networkD3",
         "patchwork",
         "reshape2",
@@ -12478,7 +12175,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "ropls",
@@ -12529,7 +12225,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis",
         "vsn",
@@ -12580,7 +12275,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "motifStack",
         "readr",
@@ -12611,7 +12305,6 @@
         "ggrepel",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "lumi": [
@@ -12670,7 +12363,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reldist",
         "rmarkdown",
         "rstan",
@@ -12697,7 +12389,6 @@
         "hardhat",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "recipes",
         "reshape2",
         "rmarkdown",
@@ -12711,7 +12402,6 @@
         "dplyr",
         "ggplot2",
         "glmmTMB",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -12740,7 +12430,6 @@
         "glmmTMB",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -12763,7 +12452,6 @@
         "cellranger",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "prettydoc",
         "readxl",
         "rmarkdown",
@@ -12783,7 +12471,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "made4": [
@@ -12881,7 +12568,6 @@
         "gson",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "msigdbr",
         "org.Hs.eg.db",
         "patchwork",
@@ -12912,7 +12598,6 @@
         "googlesheets4",
         "hardhat",
         "haven",
-        "knitr",
         "modelr",
         "readr",
         "readxl",
@@ -12946,7 +12631,6 @@
         "htmlTable",
         "htmlwidgets",
         "klaR",
-        "knitr",
         "labelled",
         "miniUI",
         "plsgenomics",
@@ -12983,7 +12667,6 @@
         "ggplot2",
         "hardhat",
         "hgu133plus2.db",
-        "knitr",
         "org.Hs.eg.db",
         "recipes",
         "reshape2",
@@ -12991,7 +12674,6 @@
     ],
     "mapscape": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "marr": [
@@ -13024,7 +12706,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -13052,7 +12733,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "proDA",
         "rmarkdown",
@@ -13095,7 +12775,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -13130,7 +12809,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis",
         "visNetwork"
@@ -13155,7 +12833,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "MCbiclust": [
@@ -13171,7 +12848,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "rmarkdown",
         "tidyr",
@@ -13206,7 +12882,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "rmarkdown",
         "rtracklayer",
@@ -13261,7 +12936,6 @@
         "htmlTable",
         "htmlwidgets",
         "isva",
-        "knitr",
         "methylumi",
         "minfi",
         "missMethyl",
@@ -13302,7 +12976,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -13340,7 +13013,6 @@
         "car",
         "dplyr",
         "drc",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -13364,7 +13036,6 @@
         "CNORode",
         "CellNOptR",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "Melissa": [
@@ -13374,7 +13045,6 @@
         "bookdown",
         "cowplot",
         "ggplot2",
-        "knitr",
         "rmarkdown"
     ],
     "memes": [
@@ -13427,7 +13097,6 @@
         "ggtree",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "patchwork",
         "qvalue",
         "reshape2",
@@ -13451,7 +13120,6 @@
         "annotate",
         "bookdown",
         "genefilter",
-        "knitr",
         "rmarkdown"
     ],
     "MesKit": [
@@ -13500,7 +13168,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -13510,7 +13177,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "dplyr",
-        "knitr",
         "rols",
         "struct",
         "tidyr"
@@ -13541,7 +13207,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "mygene",
         "nloptr",
@@ -13571,7 +13236,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -13622,7 +13286,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis",
         "vsn",
@@ -13714,7 +13377,6 @@
         "ggplot2",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "qvalue",
         "reshape2",
@@ -13760,7 +13422,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "metap",
         "mutoss",
         "plotly",
@@ -13830,7 +13491,6 @@
         "ggsignif",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -13963,7 +13623,6 @@
         "haven",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "methylclockData",
         "minfi",
@@ -14107,7 +13766,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -14181,7 +13839,6 @@
         "devtools",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -14330,7 +13987,6 @@
         "ggplot2",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -14386,7 +14042,6 @@
         "hardhat",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "lmerTest",
         "mia",
@@ -14435,7 +14090,6 @@
         "golem",
         "gson",
         "htmlwidgets",
-        "knitr",
         "patchwork",
         "qvalue",
         "reshape2",
@@ -14487,7 +14141,6 @@
         "formattable",
         "htmlwidgets",
         "kableExtra",
-        "knitr",
         "mice",
         "rmarkdown",
         "rvest",
@@ -14550,7 +14203,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "viridis"
@@ -14585,7 +14237,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lumi",
         "lumiHumanAll.db",
         "methylumi",
@@ -14692,7 +14343,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "pcalg",
         "readr",
@@ -14784,7 +14434,6 @@
         "htmlTable",
         "htmlwidgets",
         "iBBiG",
-        "knitr",
         "lme4",
         "metR",
         "miRspongeR",
@@ -14868,7 +14517,6 @@
         "gson",
         "hardhat",
         "haven",
-        "knitr",
         "lme4",
         "modelr",
         "nloptr",
@@ -14969,7 +14617,6 @@
         "forcats",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "tidyr"
@@ -15012,7 +14659,6 @@
         "genefilter",
         "ggvis",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "threejs"
     ],
@@ -15081,7 +14727,6 @@
         "dplyr",
         "ggplot2",
         "glmmTMB",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -15130,7 +14775,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -15233,7 +14877,6 @@
         "ggtree",
         "gson",
         "htmlwidgets",
-        "knitr",
         "patchwork",
         "qvalue",
         "readr",
@@ -15280,7 +14923,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "rmarkdown",
@@ -15315,7 +14957,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "motifStack",
         "readr",
         "reshape2",
@@ -15369,7 +15010,6 @@
         "annotate",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "readr",
         "reshape2",
         "rmarkdown",
@@ -15409,7 +15049,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -15445,7 +15084,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -15483,7 +15121,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -15543,7 +15180,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "msmsEDA",
         "msmsTests",
         "qvalue",
@@ -15563,7 +15199,6 @@
         "car",
         "dplyr",
         "genefilter",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -15588,7 +15223,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "plotly",
@@ -15633,7 +15267,6 @@
         "googlesheets4",
         "haven",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "lmerTest",
         "modelr",
@@ -15680,7 +15313,6 @@
         "ggExtra",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "plotly",
         "qcmetrics",
@@ -15698,7 +15330,6 @@
         "ggExtra",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "plotly",
         "qcmetrics",
@@ -15735,7 +15366,6 @@
         "ggrepel",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -15789,7 +15419,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "ropls",
@@ -15827,7 +15456,6 @@
         "htmlwidgets",
         "karyoploteR",
         "keras",
-        "knitr",
         "plyranges",
         "regioneR",
         "rhdf5",
@@ -15919,7 +15547,6 @@
         "gson",
         "hardhat",
         "htmlwidgets",
-        "knitr",
         "metap",
         "miniUI",
         "mixOmics",
@@ -15996,7 +15623,6 @@
         "ggrastr",
         "ggrepel",
         "glmmTMB",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -16055,7 +15681,6 @@
         "ggseqlogo",
         "ggsignif",
         "htmlwidgets",
-        "knitr",
         "learnr",
         "lme4",
         "nloptr",
@@ -16116,7 +15741,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -16144,7 +15768,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "sqldf",
@@ -16169,7 +15792,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -16211,7 +15833,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "metap",
         "motifStack",
         "mutoss",
@@ -16256,7 +15877,6 @@
         "ggplot2",
         "ggthemes",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "NanoStringQCPro": [
@@ -16265,7 +15885,6 @@
         "KEGGREST",
         "NMF",
         "ggplot2",
-        "knitr",
         "org.Hs.eg.db",
         "reshape2"
     ],
@@ -16285,7 +15904,6 @@
         "googledrive",
         "googlesheets4",
         "haven",
-        "knitr",
         "modelr",
         "org.Hs.eg.db",
         "readr",
@@ -16323,7 +15941,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "mppa",
         "nloptr",
@@ -16387,7 +16004,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -16427,7 +16043,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -16456,7 +16071,6 @@
         "ggtree",
         "gson",
         "htmlwidgets",
-        "knitr",
         "patchwork",
         "qvalue",
         "reshape2",
@@ -16495,7 +16109,6 @@
         "ggplot2",
         "gprofiler2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "readr",
         "rmarkdown",
@@ -16511,7 +16124,6 @@
         "BiocStyle",
         "bookdown",
         "ggplot2",
-        "knitr",
         "qvalue",
         "reshape2",
         "rmarkdown"
@@ -16530,7 +16142,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -16629,7 +16240,6 @@
         "ggdendro",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "patchwork",
         "plotly",
         "readr",
@@ -16701,7 +16311,6 @@
         "haven",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -16718,7 +16327,6 @@
     ],
     "NormqPCR": [
         "htmlwidgets",
-        "knitr",
         "qpcR",
         "rgl",
         "rmarkdown"
@@ -16793,7 +16401,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "plotly",
         "rhdf5",
         "rmarkdown",
@@ -16830,7 +16437,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "octad.db",
         "plotly",
         "reshape2",
@@ -16871,7 +16477,6 @@
         "ggsignif",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "megadepth",
         "nloptr",
@@ -16922,7 +16527,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "shinyBS",
@@ -16983,7 +16587,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "omicRexposome": [
@@ -17007,7 +16610,6 @@
         "htmlTable",
         "htmlwidgets",
         "isva",
-        "knitr",
         "lme4",
         "made4",
         "mice",
@@ -17063,7 +16665,6 @@
         "ggsignif",
         "htmlwidgets",
         "kableExtra",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -17105,7 +16706,6 @@
         "ggsignif",
         "ggtext",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "networkD3",
         "nloptr",
@@ -17136,7 +16736,6 @@
     "OmnipathR": [
         "cellranger",
         "dplyr",
-        "knitr",
         "readr",
         "readxl",
         "rmarkdown",
@@ -17171,7 +16770,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -17184,7 +16782,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "shinyFiles",
@@ -17204,7 +16801,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "openCyto": [
@@ -17224,7 +16820,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "viridis"
@@ -17239,7 +16834,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "openPrimeR",
         "reshape2",
         "rmarkdown",
@@ -17256,7 +16850,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -17299,7 +16892,6 @@
         "devtools",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -17314,7 +16906,6 @@
         "dplyr",
         "flowMeans",
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown"
     ],
@@ -17407,7 +16998,6 @@
         "gprofiler2",
         "homologene",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "patchwork",
@@ -17459,7 +17049,6 @@
         "ggplot2",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -17495,7 +17084,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -17664,7 +17252,6 @@
         "geneplotter",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "phyloseq",
         "pkgdown",
@@ -17726,7 +17313,6 @@
         "ggrepel",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -17777,7 +17363,6 @@
         "hardhat",
         "htmlwidgets",
         "iC10",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -17819,7 +17404,6 @@
         "affy",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "shinycssloaders",
         "vsn"
@@ -17922,7 +17506,6 @@
         "fgsea",
         "geneplotter",
         "ggplot2",
-        "knitr",
         "opencpu",
         "readr",
         "rhdf5",
@@ -17941,7 +17524,6 @@
         "fgsea",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "piano",
         "reshape2",
         "rmarkdown",
@@ -17966,7 +17548,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rematch2",
         "rmarkdown",
@@ -17999,7 +17580,6 @@
         "hgu133a.db",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "rmarkdown",
         "viridis"
@@ -18009,7 +17589,6 @@
         "car",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "logistf",
         "mice",
@@ -18056,7 +17635,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "network",
         "nloptr",
@@ -18089,7 +17667,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "miniUI",
         "rmarkdown",
         "shinyBS",
@@ -18129,7 +17706,6 @@
         "fgsea",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "shinydashboard",
         "shinyjs",
@@ -18175,7 +17751,6 @@
         "gson",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "patchwork",
         "qvalue",
         "reactome.db",
@@ -18216,7 +17791,6 @@
         "hdrcde",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rainbow",
         "rmarkdown",
         "rtracklayer",
@@ -18237,7 +17811,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -18260,7 +17833,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "visNetwork"
@@ -18315,7 +17887,6 @@
         "ggsignif",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "miniUI",
         "nloptr",
@@ -18359,7 +17930,6 @@
         "DT",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "readr",
         "rmarkdown",
         "shinyjs",
@@ -18388,7 +17958,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "ontoProc",
         "rmarkdown"
     ],
@@ -18410,7 +17979,6 @@
         "ggplot2",
         "ggrepel",
         "hardhat",
-        "knitr",
         "mixOmics",
         "recipes",
         "reshape2",
@@ -18483,7 +18051,6 @@
         "biomformat",
         "bookdown",
         "ggplot2",
-        "knitr",
         "phyloseq",
         "reshape2",
         "rhdf5",
@@ -18555,7 +18122,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "phastCons100way.UCSC.hg38",
         "readr",
         "reshape2",
@@ -18575,7 +18141,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "tidyr",
         "tseries",
@@ -18631,7 +18196,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pvca",
@@ -18665,7 +18229,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "ropls",
@@ -18712,7 +18275,6 @@
         "ggrepel",
         "ggtree",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "patchwork",
@@ -18774,7 +18336,6 @@
         "ggvis",
         "hardhat",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "recipes",
@@ -18809,7 +18370,6 @@
         "ggvis",
         "hardhat",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "mixtools",
         "pRoloc",
@@ -18854,7 +18414,6 @@
         "ggplot2",
         "highcharter",
         "htmlwidgets",
-        "knitr",
         "rhandsontable",
         "rmarkdown",
         "shinyAce",
@@ -18945,7 +18504,6 @@
         "ggsignif",
         "htmlwidgets",
         "kableExtra",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -18996,7 +18554,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "miniUI",
         "pairsD3",
         "qvalue",
@@ -19020,7 +18577,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -19056,7 +18612,6 @@
         "ggsignif",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -19135,7 +18690,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -19157,7 +18711,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown",
         "sqldf"
     ],
@@ -19176,7 +18729,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "pwrEWAS.data",
         "rmarkdown",
         "shinyBS",
@@ -19187,9 +18739,7 @@
         "ggplot2",
         "reshape2"
     ],
-    "qcmetrics": [
-        "knitr"
-    ],
+    "qcmetrics": [],
     "QDNAseq": [
         "Biostrings",
         "GenomicRanges",
@@ -19203,7 +18753,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -19220,7 +18769,6 @@
         "ggplot2",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "patchwork",
@@ -19287,7 +18835,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rematch2",
         "rmarkdown",
         "rtracklayer",
@@ -19316,7 +18863,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "sva",
         "viridis"
@@ -19435,7 +18981,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -19487,7 +19032,6 @@
         "fgsea",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "piano",
         "reshape2",
         "rmarkdown",
@@ -19556,7 +19100,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "phastCons100way.UCSC.hg19",
         "rhdf5",
         "rmarkdown",
@@ -19588,7 +19131,6 @@
         "SummarizedExperiment",
         "baySeq",
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown"
     ],
@@ -19614,7 +19156,6 @@
         "ggseqlogo",
         "gprofiler2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "readr",
         "reshape2",
@@ -19660,7 +19201,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "rmarkdown",
@@ -19692,7 +19232,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "readr",
         "rmarkdown",
         "tidyr",
@@ -19709,7 +19248,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "readr",
         "rmarkdown",
         "tidyr",
@@ -19722,7 +19260,6 @@
     ],
     "RDRToolbox": [
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown"
     ],
@@ -19774,7 +19311,6 @@
     "rebook": [
         "BiocStyle",
         "bookdown",
-        "knitr",
         "rmarkdown"
     ],
     "receptLoss": [
@@ -19815,7 +19351,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "qvalue",
         "readr",
         "reshape2",
@@ -19929,7 +19464,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "qvalue",
         "reshape2",
         "rmarkdown",
@@ -19987,7 +19521,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "knitrBootstrap",
         "qvalue",
         "reshape2",
@@ -20027,7 +19560,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -20058,7 +19590,6 @@
         "hardhat",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "minfi",
         "org.Hs.eg.db",
         "readr",
@@ -20123,7 +19654,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -20176,7 +19706,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "reshape2",
         "rmarkdown"
     ],
@@ -20191,7 +19720,6 @@
         "ggrepel",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "mice",
         "nloptr",
@@ -20240,7 +19768,6 @@
         "htmlwidgets",
         "imager",
         "interactiveDisplayBase",
-        "knitr",
         "rGenomeTracksData",
         "rmarkdown"
     ],
@@ -20293,7 +19820,6 @@
         "dbplyr",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "rmarkdown",
         "rtracklayer"
@@ -20361,7 +19887,6 @@
         "geneplotter",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "readr",
         "rmarkdown",
@@ -20419,7 +19944,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -20464,7 +19988,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "motifStack",
         "readr",
         "reshape2",
@@ -20484,7 +20007,6 @@
         "dplyr",
         "egg",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -20534,7 +20056,6 @@
         "htmlTable",
         "htmlwidgets",
         "karyoploteR",
-        "knitr",
         "regioneR",
         "rmarkdown",
         "rtracklayer",
@@ -20570,7 +20091,6 @@
         "dplyr",
         "ensembldb",
         "ggplot2",
-        "knitr",
         "reshape2",
         "rtracklayer",
         "sqldf",
@@ -20616,7 +20136,6 @@
         "hardhat",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "recipes",
         "regioneR",
@@ -20635,7 +20154,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rcdk",
         "readJDX",
         "rmarkdown",
@@ -20667,7 +20185,6 @@
         "geneplotter",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "org.Mm.eg.db",
         "pkgdown",
@@ -20711,7 +20228,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "qvalue",
         "readr",
@@ -20788,7 +20304,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -20819,7 +20334,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -20850,7 +20364,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -20881,7 +20394,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -20938,7 +20450,6 @@
         "ggtree",
         "gson",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "org.Hs.eg.db",
@@ -20995,7 +20506,6 @@
         "ggsignif",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -21054,14 +20564,11 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "ROC": [
-        "knitr"
-    ],
+    "ROC": [],
     "ROCpAI": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "fission",
-        "knitr"
+        "fission"
     ],
     "RolDE": [
         "GenomicRanges",
@@ -21084,7 +20591,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -21096,7 +20602,6 @@
         "biomformat",
         "bookdown",
         "ggplot2",
-        "knitr",
         "phyloseq",
         "reshape2",
         "rhdf5",
@@ -21107,7 +20612,6 @@
         "DT",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "patchwork",
         "reshape2",
         "rmarkdown",
@@ -21145,7 +20649,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -21163,7 +20666,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "metap",
         "mutoss",
@@ -21228,7 +20730,6 @@
         "ggsignif",
         "ggtext",
         "ggthemes",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -21276,7 +20777,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "mixtools",
         "nloptr",
@@ -21298,7 +20798,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "mixtools",
         "nloptr",
@@ -21322,7 +20821,6 @@
         "egg",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "mixtools",
         "nloptr",
@@ -21352,7 +20850,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -21413,7 +20910,6 @@
         "dplyr",
         "gRain",
         "kinship2",
-        "knitr",
         "tidyr"
     ],
     "rWikiPathways": [
@@ -21454,7 +20950,6 @@
         "ggdendro",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -21488,7 +20983,6 @@
         "SBGNview.data",
         "SummarizedExperiment",
         "bookdown",
-        "knitr",
         "org.Hs.eg.db",
         "pathview",
         "rmarkdown"
@@ -21514,7 +21008,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -21573,7 +21066,6 @@
         "ggseqlogo",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "plotly",
         "rintrojs",
         "rmarkdown",
@@ -21607,7 +21099,6 @@
         "hardhat",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -21648,7 +21139,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "scater": [
@@ -21684,7 +21174,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -21707,7 +21196,6 @@
         "ggridges",
         "ggtree",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -21732,7 +21220,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -21761,7 +21248,6 @@
         "ggraph",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "patchwork",
         "plotly",
@@ -21797,7 +21283,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -21898,7 +21383,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -21921,7 +21405,6 @@
         "dplyr",
         "ggplot2",
         "kableExtra",
-        "knitr",
         "rmarkdown",
         "rvest",
         "sangerseqR",
@@ -21935,7 +21418,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -21964,7 +21446,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reldist",
         "rmarkdown",
         "rstan",
@@ -21980,7 +21461,6 @@
         "cowplot",
         "dplyr",
         "ggplot2",
-        "knitr",
         "rmarkdown",
         "rstan",
         "viridis"
@@ -22007,7 +21487,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "regioneR",
         "reshape2",
@@ -22042,7 +21521,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "rhdf5",
@@ -22096,7 +21574,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -22204,7 +21681,6 @@
         "ggthemes",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -22269,7 +21745,6 @@
         "heatmaply",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "meshr",
         "miniUI",
         "nnTensor",
@@ -22313,7 +21788,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "msigdbr",
         "nnTensor",
@@ -22360,7 +21834,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -22494,7 +21967,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -22587,7 +22059,6 @@
         "gistr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "pryr",
         "rbokeh",
         "reshape2",
@@ -22619,7 +22090,6 @@
         "ggplot2",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "reshape2",
         "rmarkdown",
@@ -22692,7 +22162,6 @@
         "ggplot2",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "minfi",
         "plotly",
         "readr",
@@ -22775,7 +22244,6 @@
         "genefilter",
         "ggvis",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "threejs"
     ],
@@ -22827,7 +22295,6 @@
         "gson",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "org.Hs.eg.db",
         "patchwork",
         "qvalue",
@@ -22875,7 +22342,6 @@
         "ggsignif",
         "ggtext",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -22934,7 +22400,6 @@
         "ggsignif",
         "ggtext",
         "iC10",
-        "knitr",
         "lme4",
         "nloptr",
         "openair",
@@ -23028,7 +22493,6 @@
         "ggbeeswarm",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "scuttle",
@@ -23136,7 +22600,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "metap",
         "miniUI",
         "msigdbr",
@@ -23209,7 +22672,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -23284,7 +22746,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -23339,7 +22800,6 @@
         "goseq",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "reactome.db",
         "rmarkdown",
@@ -23410,7 +22870,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "reshape2",
@@ -23446,7 +22905,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -23474,7 +22932,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -23500,7 +22957,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr",
@@ -23542,7 +22998,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "readr",
         "rmarkdown",
         "shinyWidgets",
@@ -23581,7 +23036,6 @@
         "ggplot2",
         "ggthemes",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -23644,7 +23098,6 @@
         "ggrepel",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -23685,7 +23138,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "motifmatchr",
         "readr",
         "reshape2",
@@ -23729,7 +23181,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rhdf5",
@@ -23819,7 +23270,6 @@
         "heatmaply",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "plotly",
         "reshape2",
         "rhandsontable",
@@ -23882,7 +23332,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -23915,7 +23364,6 @@
         "groupdata2",
         "hardhat",
         "haven",
-        "knitr",
         "lme4",
         "modelr",
         "nloptr",
@@ -23953,7 +23401,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -23994,7 +23441,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "phyloseq",
         "reshape2",
         "rhdf5",
@@ -24010,7 +23456,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "visNetwork"
@@ -24052,7 +23497,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -24106,7 +23550,6 @@
         "ggstance",
         "haven",
         "kinship2",
-        "knitr",
         "labelled",
         "mosaicCore",
         "readr",
@@ -24116,7 +23559,6 @@
     "ssrch": [
         "DT",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "ssviz": [
@@ -24152,7 +23594,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -24233,7 +23674,6 @@
         "googledrive",
         "googlesheets4",
         "haven",
-        "knitr",
         "modelr",
         "readr",
         "readxl",
@@ -24247,8 +23687,7 @@
         "vroom"
     ],
     "statTarget": [
-        "ROC",
-        "knitr"
+        "ROC"
     ],
     "STdeconvolve": [
         "dplyr",
@@ -24276,7 +23715,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -24303,7 +23741,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer"
@@ -24314,7 +23751,6 @@
     "struct": [
         "GenomicRanges",
         "SummarizedExperiment",
-        "knitr",
         "rols"
     ],
     "Structstrings": [
@@ -24325,7 +23761,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "ggthemes",
-        "knitr",
         "rols",
         "struct"
     ],
@@ -24356,7 +23791,6 @@
         "ggrepel",
         "hardhat",
         "htmlwidgets",
-        "knitr",
         "networkD3",
         "org.Hs.eg.db",
         "recipes",
@@ -24440,7 +23874,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -24517,7 +23950,6 @@
     "synapsis": [
         "EBImage",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "synapter": [
@@ -24526,7 +23958,6 @@
         "affy",
         "cleaver",
         "ggplot2",
-        "knitr",
         "qvalue",
         "readr",
         "reshape2",
@@ -24553,7 +23984,6 @@
         "gstat",
         "haven",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "metR",
         "mice",
@@ -24586,7 +24016,6 @@
         "doBy",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -24610,7 +24039,6 @@
         "ggrepel",
         "htmlwidgets",
         "intergraph",
-        "knitr",
         "network",
         "networkD3",
         "rematch2",
@@ -24629,7 +24057,6 @@
         "SummarizedExperiment",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "systemPipeShiny": [
@@ -24640,7 +24067,6 @@
         "fresh",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "shinyAce",
@@ -24678,7 +24104,6 @@
         "ggrepel",
         "ggtree",
         "htmlwidgets",
-        "knitr",
         "patchwork",
         "plotly",
         "rmarkdown",
@@ -24703,7 +24128,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -24757,7 +24181,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "miniUI",
         "nloptr",
@@ -24779,7 +24202,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "viridis"
@@ -24805,7 +24227,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rhdf5",
@@ -24825,8 +24246,7 @@
         "annotate",
         "baySeq",
         "geneplotter",
-        "ggplot2",
-        "knitr"
+        "ggplot2"
     ],
     "TCGAbiolinks": [
         "AnnotationDbi",
@@ -24839,7 +24259,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "knitr",
         "readr",
         "rvest",
         "selectr",
@@ -24902,7 +24321,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "lme4",
         "miniUI",
         "nloptr",
@@ -25012,7 +24430,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "ontoProc",
         "org.Mm.eg.db",
         "reshape2",
@@ -25044,7 +24461,6 @@
         "dbplyr",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "readr",
         "rmarkdown",
@@ -25134,7 +24550,6 @@
         "dbplyr",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "org.Hs.eg.db",
         "readxl",
@@ -25155,7 +24570,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr",
@@ -25167,7 +24581,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -25201,7 +24614,6 @@
     "timescape": [
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "TimiRGeN": [
@@ -25262,7 +24674,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -25350,7 +24761,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -25364,7 +24774,6 @@
     "TnT": [
         "GenomicRanges",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "TOAST": [
@@ -25389,7 +24798,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "readr",
         "rmarkdown",
@@ -25424,7 +24832,6 @@
         "fgsea",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "piano",
         "reshape2",
         "rmarkdown",
@@ -25438,7 +24845,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "tidyr"
@@ -25477,7 +24883,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -25495,7 +24900,6 @@
     "TrajectoryGeometry": [
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown"
     ],
@@ -25607,7 +25011,6 @@
         "TrajectoryUtils",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown",
         "slingshot",
@@ -25641,7 +25044,6 @@
         "ggsignif",
         "ggtree",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "patchwork",
@@ -25694,7 +25096,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "rmarkdown",
         "rtracklayer",
@@ -25705,7 +25106,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "shinyFiles"
     ],
@@ -25765,7 +25165,6 @@
         "ggplot2",
         "golem",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "pryr",
         "rmarkdown",
@@ -25817,7 +25216,6 @@
         "dplyr",
         "ggplot2",
         "kmlShape",
-        "knitr",
         "prettydoc",
         "rmarkdown"
     ],
@@ -25827,7 +25225,6 @@
         "ggplot2",
         "htmlwidgets",
         "keras",
-        "knitr",
         "lexicon",
         "readr",
         "rmarkdown",
@@ -25845,7 +25242,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown"
     ],
@@ -25878,7 +25274,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -25923,7 +25318,6 @@
         "ensembldb",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
@@ -25955,7 +25349,6 @@
         "ggrepel",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "mirbase.db",
         "plotgardener",
         "plyranges",
@@ -26030,7 +25423,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "org.Hs.eg.db",
         "rmarkdown",
         "rtracklayer",
@@ -26094,7 +25486,6 @@
         "ggrepel",
         "htmlwidgets",
         "keras",
-        "knitr",
         "lexicon",
         "rcdk",
         "readr",
@@ -26143,7 +25534,6 @@
         "broom",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -26211,7 +25601,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "rtracklayer",
@@ -26314,7 +25703,6 @@
         "geneplotter",
         "ggplot2",
         "ggrepel",
-        "knitr",
         "rmarkdown",
         "tidyr"
     ],
@@ -26322,7 +25710,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "rmarkdown",
@@ -26349,7 +25736,6 @@
         "ggplot2",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "readr",
         "reshape2",
@@ -26379,7 +25765,6 @@
         "ggwordcloud",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "lexicon",
         "msigdb",
         "org.Hs.eg.db",
@@ -26455,7 +25840,6 @@
         "gwascat",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "rmarkdown",
         "rtracklayer",
@@ -26491,7 +25875,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "regioneR",
@@ -26542,7 +25925,6 @@
         "dplyr",
         "genefilter",
         "ggplot2",
-        "knitr",
         "lumi",
         "methylumi",
         "minfi",
@@ -26571,7 +25953,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -26616,7 +25997,6 @@
         "ggplot2",
         "golem",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "roxygen2",
         "shinyWidgets",
@@ -26628,7 +26008,6 @@
         "OmnipathR",
         "cellranger",
         "dplyr",
-        "knitr",
         "readr",
         "readxl",
         "rmarkdown",
@@ -26674,7 +26053,6 @@
         "fgsea",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "piano",
         "reshape2",
         "rmarkdown",
@@ -26697,7 +26075,6 @@
         "SummarizedExperiment",
         "formattable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
@@ -26706,7 +26083,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "YAPSA": [
@@ -26741,7 +26117,6 @@
         "gtrellis",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -26798,7 +26173,6 @@
         "dplyr",
         "ggplot2",
         "graphite",
-        "knitr",
         "lme4",
         "lmerTest",
         "msigdbr",
@@ -26840,13 +26214,9 @@
     "reshape2": [],
     "flexdashboard": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
-    "rmarkdown": [
-        "knitr"
-    ],
-    "knitr": [],
+    "rmarkdown": [],
     "ggcorrplot": [
         "ggplot2",
         "reshape2"
@@ -26858,16 +26228,13 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "tidyr"
     ],
     "bookdown": [
-        "knitr",
         "rmarkdown"
     ],
     "htmlwidgets": [
-        "knitr",
         "rmarkdown"
     ],
     "tidyr": [
@@ -26876,7 +26243,6 @@
     "dplyr": [],
     "DT": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "ggrepel": [
@@ -26891,7 +26257,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -26919,7 +26284,6 @@
         "broom",
         "car",
         "dplyr",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -26938,7 +26302,6 @@
     "car": [
         "broom",
         "dplyr",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -26951,7 +26314,6 @@
     "pbkrtest": [
         "broom",
         "dplyr",
-        "knitr",
         "lme4",
         "nloptr",
         "rematch2",
@@ -26982,7 +26344,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "rvest": [
@@ -27004,7 +26365,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -27017,7 +26377,6 @@
     "forcats": [],
     "htmlTable": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "viridis": [
@@ -27057,7 +26416,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "tidyr"
@@ -27125,7 +26483,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -27239,7 +26596,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "rtracklayer"
@@ -27262,7 +26618,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "rtracklayer"
@@ -27285,7 +26640,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "rtracklayer"
@@ -27382,7 +26736,6 @@
         "googledrive",
         "googlesheets4",
         "haven",
-        "knitr",
         "modelr",
         "readr",
         "readxl",
@@ -27484,7 +26837,6 @@
         "tidyr"
     ],
     "reprex": [
-        "knitr",
         "rmarkdown"
     ],
     "reactome.db": [
@@ -27496,19 +26848,15 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
     ],
-    "assertive": [
-        "knitr"
-    ],
+    "assertive": [],
     "doBy": [
         "broom",
         "dplyr",
         "ggplot2",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -27532,14 +26880,12 @@
     ],
     "threejs": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "rstan": [
         "ggplot2"
     ],
     "prettydoc": [
-        "knitr",
         "rmarkdown"
     ],
     "BSgenome.Ecoli.NCBI.20080805": [
@@ -27555,7 +26901,6 @@
         "colourpicker",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "rmarkdown",
         "shinyjs"
@@ -27563,7 +26908,6 @@
     "colourpicker": [
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "rmarkdown",
         "shinyjs"
@@ -27574,7 +26918,6 @@
         "egg",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "reshape2",
         "rmarkdown",
@@ -27636,7 +26979,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "patchwork",
@@ -27663,7 +27005,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "readr",
         "rmarkdown",
         "tidyr",
@@ -27673,7 +27014,6 @@
     ],
     "visNetwork": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "gson": [
@@ -27733,7 +27073,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -27753,7 +27092,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown",
         "synaptome.data"
     ],
@@ -27766,7 +27104,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "viridis"
     ],
@@ -27781,7 +27118,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "ggnetwork": [
@@ -27795,7 +27131,6 @@
     ],
     "networkD3": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "network": [],
@@ -27824,7 +27159,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "pasilla": [
@@ -27885,7 +27219,6 @@
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "org.Hs.eg.db",
         "qvalue",
         "reshape2",
@@ -27904,7 +27237,6 @@
     ],
     "devtools": [
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -27916,17 +27248,13 @@
         "waldo"
     ],
     "pkgdown": [
-        "knitr",
         "rmarkdown"
     ],
     "profvis": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
-    "roxygen2": [
-        "knitr"
-    ],
+    "roxygen2": [],
     "pryr": [],
     "ggtext": [
         "ggplot2"
@@ -27939,7 +27267,6 @@
         "broom",
         "car",
         "dplyr",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -27967,7 +27294,6 @@
         "ggplot2",
         "ggrepel",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -28233,7 +27559,6 @@
         "waiter"
     ],
     "kableExtra": [
-        "knitr",
         "rmarkdown",
         "rvest",
         "selectr"
@@ -28259,7 +27584,6 @@
     ],
     "rgl": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "phylobase": [
@@ -28307,7 +27631,6 @@
         "ggsci",
         "ggsignif",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -28345,7 +27668,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "rms",
         "viridis"
@@ -28412,7 +27734,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "mixtools",
         "plotly",
         "rmarkdown",
@@ -28431,7 +27752,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "keras": [
@@ -28446,7 +27766,6 @@
         "broom",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "tidyr"
     ],
@@ -28484,13 +27803,11 @@
     ],
     "svgPanZoom": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "plsVarSel": [
         "MSQC",
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown"
     ],
@@ -28507,7 +27824,6 @@
     "RWeka": [],
     "MSQC": [
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown"
     ],
@@ -28546,7 +27862,6 @@
     ],
     "diffr": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "rcdk": [],
@@ -28586,7 +27901,6 @@
         "broom",
         "car",
         "dplyr",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -28624,7 +27938,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "coin": [],
@@ -28644,7 +27957,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "qgraph": [
@@ -28652,7 +27964,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "viridis"
@@ -28669,7 +27980,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "homologene": [
@@ -28681,7 +27991,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -28693,14 +28002,11 @@
     "ggside": [
         "ggplot2"
     ],
-    "kinship2": [
-        "knitr"
-    ],
+    "kinship2": [],
     "gap": [
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -28732,7 +28038,6 @@
     "ggiraph": [
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "RecordLinkage": [],
@@ -28740,7 +28045,6 @@
         "broom",
         "car",
         "dplyr",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -28769,7 +28073,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -28781,8 +28084,7 @@
         "waldo"
     ],
     "survMisc": [
-        "ggplot2",
-        "knitr"
+        "ggplot2"
     ],
     "logistf": [
         "broom",
@@ -28796,11 +28098,9 @@
     ],
     "tippy": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "flextable": [
-        "knitr",
         "rmarkdown"
     ],
     "robust": [],
@@ -28812,7 +28112,6 @@
         "ggplot2",
         "heatmaply",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "readxl",
         "reshape2",
@@ -28822,14 +28121,12 @@
     ],
     "shinybusy": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "ggalt": [
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "knitr",
         "plotly",
         "rmarkdown",
         "tidyr"
@@ -28845,7 +28142,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "reshape2",
         "rmarkdown",
         "viridis"
@@ -28857,7 +28153,6 @@
     ],
     "epiR": [
         "flextable",
-        "knitr",
         "rmarkdown"
     ],
     "ggwordcloud": [
@@ -28875,7 +28170,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "available": [
@@ -28884,7 +28178,6 @@
     ],
     "reactable": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "biclust": [
@@ -28911,16 +28204,12 @@
         "dplyr"
     ],
     "golem": [
-        "knitr",
         "roxygen2",
         "usethis"
     ],
-    "shinyalert": [
-        "knitr"
-    ],
+    "shinyalert": [],
     "wordcloud2": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "AdaptGauss": [
@@ -28933,7 +28222,6 @@
         "forcats",
         "haven",
         "htmlwidgets",
-        "knitr",
         "reactable",
         "readr",
         "readxl",
@@ -28958,18 +28246,15 @@
     ],
     "sortable": [
         "htmlwidgets",
-        "knitr",
         "learnr",
         "rmarkdown"
     ],
     "bsplus": [
-        "knitr",
         "rmarkdown"
     ],
     "shinyvalidate": [],
     "learnr": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "reldist": [
@@ -29020,7 +28305,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "plsgenomics": [
@@ -29107,7 +28391,6 @@
     ],
     "rmdformats": [
         "bookdown",
-        "knitr",
         "rmarkdown"
     ],
     "sesameData": [
@@ -29123,7 +28406,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "readr",
         "rmarkdown",
         "vroom"
@@ -29176,7 +28458,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
@@ -29194,7 +28475,6 @@
     ],
     "formattable": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "HardyWeinberg": [
@@ -29281,7 +28561,6 @@
         "broom",
         "dplyr",
         "htmlwidgets",
-        "knitr",
         "rmarkdown",
         "tidyr"
     ],
@@ -29290,7 +28569,6 @@
     ],
     "HiveR": [
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown"
     ],
@@ -29300,7 +28578,6 @@
     "anyLib": [
         "devtools",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "pkgdown",
         "profvis",
@@ -29331,7 +28608,6 @@
     ],
     "shinyjqui": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "VarfromPDB": [],
@@ -29354,7 +28630,6 @@
         "haven",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -29370,7 +28645,6 @@
     ],
     "qpcR": [
         "htmlwidgets",
-        "knitr",
         "rgl",
         "rmarkdown"
     ],
@@ -29390,7 +28664,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
@@ -29407,7 +28680,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "diceR": [
@@ -29482,9 +28754,7 @@
         "ggplot2",
         "viridis"
     ],
-    "opencpu": [
-        "knitr"
-    ],
+    "opencpu": [],
     "osfr": [],
     "C50": [
         "Cubist",
@@ -29531,7 +28801,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "rtracklayer"
@@ -29542,7 +28811,6 @@
     ],
     "rhandsontable": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "EnsDb.Mmusculus.v79": [
@@ -29581,7 +28849,6 @@
     ],
     "pairsD3": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "shinyscreenshot": [],
@@ -29597,7 +28864,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "phastCons100way.UCSC.hg19": [
@@ -29618,7 +28884,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rhdf5",
         "rmarkdown",
         "rtracklayer"
@@ -29637,7 +28902,6 @@
         "rtracklayer"
     ],
     "knitrBootstrap": [
-        "knitr",
         "rmarkdown"
     ],
     "RefManageR": [],
@@ -29661,7 +28925,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "valr": [
@@ -29702,7 +28965,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "readJDX": [],
@@ -29722,17 +28984,14 @@
         "ggplot2"
     ],
     "GENLIB": [
-        "kinship2",
-        "knitr"
+        "kinship2"
     ],
     "excelR": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "SBGNview.data": [
         "bookdown",
-        "knitr",
         "rmarkdown"
     ],
     "scanMiRData": [
@@ -29759,7 +29018,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "Rmagic": [],
@@ -29791,13 +29049,11 @@
         "dplyr",
         "gistr",
         "htmlwidgets",
-        "knitr",
         "pryr",
         "rmarkdown"
     ],
     "gistr": [
         "dplyr",
-        "knitr",
         "rmarkdown"
     ],
     "mlr3": [],
@@ -29819,7 +29075,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "knitr",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -29860,7 +29115,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown"
     ],
     "GSVAdata": [
@@ -29880,7 +29134,6 @@
         "ggrepel",
         "ggridges",
         "htmlwidgets",
-        "knitr",
         "miniUI",
         "patchwork",
         "plotly",
@@ -29911,7 +29164,6 @@
         "ensembldb",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rmarkdown",
         "rtracklayer"
     ],
@@ -29931,7 +29183,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "rhdf5",
         "rmarkdown"
     ],
@@ -29965,7 +29216,6 @@
         "ggstance",
         "haven",
         "kinship2",
-        "knitr",
         "labelled",
         "mosaicCore",
         "readr",
@@ -30013,7 +29263,6 @@
     ],
     "drawer": [
         "bsplus",
-        "knitr",
         "rmarkdown"
     ],
     "GenKern": [],
@@ -30082,12 +29331,10 @@
         "dplyr",
         "htmlTable",
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "shinyTree": [
         "htmlwidgets",
-        "knitr",
         "rmarkdown"
     ],
     "msigdb": [
@@ -30104,7 +29351,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "knitr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rmarkdown"
