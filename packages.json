@@ -27587,7 +27587,6 @@
         "httr",
         "openssl"
     ],
-    "miRcomp": [],
     "mirIntegrator": [
         "AnnotationDbi",
         "Biostrings",
