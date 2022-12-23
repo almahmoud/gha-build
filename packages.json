@@ -13900,7 +13900,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "R2jags",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -28307,7 +28306,6 @@
         "GenomicRanges",
         "HiLDA",
         "KEGGREST",
-        "R2jags",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -36718,7 +36716,6 @@
         "shiny",
         "tibble"
     ],
-    "R2jags": [],
     "servr": [],
     "available": [
         "dplyr",
