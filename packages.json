@@ -150,9 +150,7 @@
         "VariantAnnotation",
         "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37"
     ],
-    "ArrayExpress": [
-        "oligo"
-    ],
+    "ArrayExpress": [],
     "ArrayExpressHTS": [],
     "arrayMvout": [
         "FDb.InfiniumMethylation.hg19",
@@ -807,8 +805,7 @@
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
-        "frma",
-        "oligo"
+        "frma"
     ],
     "ChromHeatMap": [],
     "ChromSCape": [
@@ -876,9 +873,7 @@
         "ggtree",
         "treeio"
     ],
-    "cn.farms": [
-        "oligo"
-    ],
+    "cn.farms": [],
     "cn.mops": [],
     "CNEr": [],
     "CNORfuzzy": [],
@@ -1137,7 +1132,6 @@
     "crlmm": [],
     "crossmeta": [
         "genefilter",
-        "oligo",
         "sva"
     ],
     "csdR": [
@@ -1485,8 +1479,7 @@
         "ArrayExpress",
         "hgu133a.db",
         "hgu133a2.db",
-        "hgu133plus2.db",
-        "oligo"
+        "hgu133plus2.db"
     ],
     "DSS": [
         "BSgenome",
@@ -1922,9 +1915,7 @@
         "pbkrtest"
     ],
     "FRGEpistasis": [],
-    "frma": [
-        "oligo"
-    ],
+    "frma": [],
     "FunChIP": [],
     "funtooNorm": [
         "GenomicFeatures",
@@ -2555,7 +2546,6 @@
         "DESeq2"
     ],
     "ITALICS": [
-        "oligo",
         "pd.mapping50k.xba240"
     ],
     "IVAS": [
@@ -3062,9 +3052,7 @@
         "genefilter"
     ],
     "miloR": [],
-    "mimager": [
-        "oligo"
-    ],
+    "mimager": [],
     "mina": [],
     "MineICA": [
         "Category",
@@ -3572,7 +3560,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "oligo": [],
     "omada": [
         "diceR",
         "klaR",
@@ -3735,9 +3722,7 @@
         "survminer",
         "verification"
     ],
-    "pdInfoBuilder": [
-        "oligo"
-    ],
+    "pdInfoBuilder": [],
     "PECA": [
         "genefilter"
     ],
@@ -3985,9 +3970,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "puma": [
-        "oligo"
-    ],
+    "puma": [],
     "PureCN": [
         "BSgenome",
         "GenomicFeatures",
@@ -4499,7 +4482,6 @@
     ],
     "SCAN.UPC": [
         "genefilter",
-        "oligo",
         "sva"
     ],
     "scanMiRApp": [
@@ -5863,9 +5845,7 @@
     "datamods": [
         "rio"
     ],
-    "pd.mapping50k.xba240": [
-        "oligo"
-    ],
+    "pd.mapping50k.xba240": [],
     "reldist": [],
     "adabag": [],
     "glmmTMB": [
