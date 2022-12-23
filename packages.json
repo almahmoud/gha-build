@@ -2886,7 +2886,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "drawProteins": [],
     "DropletUtils": [
         "HDF5Array",
         "rhdf5",
@@ -3489,7 +3488,6 @@
         "AnnotationDbi",
         "GenomicFeatures",
         "biomaRt",
-        "drawProteins",
         "rtracklayer",
         "wiggleplotr"
     ],
