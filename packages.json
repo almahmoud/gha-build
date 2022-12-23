@@ -702,12 +702,8 @@
         "ggpubr",
         "survminer"
     ],
-    "RTN": [],
-    "RTNduals": [
-        "RTN"
-    ],
+    "RTNduals": [],
     "RTNsurvival": [
-        "RTN",
         "RTNduals"
     ],
     "scmeth": [],
