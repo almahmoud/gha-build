@@ -40905,8 +40905,7 @@
     "SCFA": [
         "BiocParallel",
         "futile.logger",
-        "glmnet",
-        "torch"
+        "glmnet"
     ],
     "scFeatureFilter": [
         "dplyr",
@@ -56884,7 +56883,6 @@
         "vctrs"
     ],
     "proxyC": [],
-    "torch": [],
     "sparsepca": [],
     "origami": [],
     "Rmagic": [],
