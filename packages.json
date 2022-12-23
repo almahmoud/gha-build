@@ -8822,7 +8822,6 @@
         "interp",
         "jquerylib",
         "knitr",
-        "ks",
         "latticeExtra",
         "multcomp",
         "pillar",
@@ -12068,7 +12067,6 @@
         "httr",
         "jquerylib",
         "knitr",
-        "ks",
         "mixtools",
         "pillar",
         "plotly",
@@ -15249,7 +15247,6 @@
         "ggplot2",
         "hdrcde",
         "hms",
-        "ks",
         "pillar",
         "progress",
         "rainbow",
@@ -15848,14 +15845,12 @@
     ],
     "flowMeans": [
         "feature",
-        "flowCore",
-        "ks"
+        "flowCore"
     ],
     "flowMerge": [
         "feature",
         "flowClust",
-        "flowCore",
-        "ks"
+        "flowCore"
     ],
     "flowPloidy": [
         "broom",
@@ -15934,7 +15929,6 @@
         "ggplot2",
         "hdrcde",
         "interp",
-        "ks",
         "latticeExtra",
         "ncdfFlow",
         "pillar",
@@ -15974,7 +15968,6 @@
         "ggplot2",
         "hdrcde",
         "interp",
-        "ks",
         "latticeExtra",
         "ncdfFlow",
         "pillar",
@@ -16145,7 +16138,6 @@
         "fds",
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "rainbow",
         "tibble"
@@ -16181,7 +16173,6 @@
         "hdrcde",
         "httpuv",
         "jquerylib",
-        "ks",
         "pillar",
         "rainbow",
         "sass",
@@ -21880,7 +21871,6 @@
         "fds",
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "rainbow",
         "tibble"
@@ -29319,7 +29309,6 @@
         "httr",
         "jquerylib",
         "knitr",
-        "ks",
         "leiden",
         "miniUI",
         "patchwork",
@@ -30007,7 +29996,6 @@
         "ggplot2",
         "ggridges",
         "hms",
-        "ks",
         "pillar",
         "plyranges",
         "progress",
@@ -30993,7 +30981,6 @@
         "htmlwidgets",
         "jquerylib",
         "knitr",
-        "ks",
         "pillar",
         "rgl",
         "rmarkdown",
@@ -32582,7 +32569,6 @@
         "interp",
         "jquerylib",
         "knitr",
-        "ks",
         "latticeExtra",
         "pillar",
         "progress",
@@ -35452,7 +35438,6 @@
         "XVector",
         "biomformat",
         "ggplot2",
-        "ks",
         "multtest",
         "phyloseq",
         "pillar",
@@ -46821,7 +46806,6 @@
         "hms",
         "httr",
         "interp",
-        "ks",
         "latticeExtra",
         "org.Hs.eg.db",
         "pillar",
@@ -51617,10 +51601,7 @@
         "tibble",
         "viridis"
     ],
-    "feature": [
-        "ks"
-    ],
-    "ks": [],
+    "feature": [],
     "airway": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -52352,7 +52333,6 @@
         "fds",
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "rainbow",
         "tibble"
@@ -52360,7 +52340,6 @@
     "fds": [
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "rainbow",
         "tibble"
@@ -52368,13 +52347,11 @@
     "rainbow": [
         "ggplot2",
         "hdrcde",
-        "ks",
         "pillar",
         "tibble"
     ],
     "hdrcde": [
         "ggplot2",
-        "ks",
         "pillar",
         "tibble"
     ],
