@@ -1531,7 +1531,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "netOmics": [],
     "netSmooth": [
         "clusterExperiment"
     ],
