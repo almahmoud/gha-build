@@ -90374,7 +90374,6 @@
         "xml2",
         "yaml"
     ],
-    "TypeInfo": [],
     "UCell": [
         "Biobase",
         "BiocNeighbors",
