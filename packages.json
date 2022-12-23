@@ -6193,7 +6193,6 @@
         "car",
         "cowplot",
         "dbplyr",
-        "flextable",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -6680,7 +6679,6 @@
     "granulator": [
         "cowplot",
         "epiR",
-        "flextable",
         "ggplotify",
         "tidyr"
     ],
@@ -18233,7 +18231,6 @@
     "tippy": [
         "htmlwidgets"
     ],
-    "flextable": [],
     "shinyHeatmaply": [
         "dendextend",
         "heatmaply",
@@ -18262,9 +18259,7 @@
         "broom",
         "tidyr"
     ],
-    "epiR": [
-        "flextable"
-    ],
+    "epiR": [],
     "ggwordcloud": [],
     "HiContactsData": [
         "AnnotationDbi",
