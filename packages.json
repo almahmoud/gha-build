@@ -501,8 +501,7 @@
     ],
     "BLMA": [
         "PADOG",
-        "hgu133a.db",
-        "hgu133plus2.db"
+        "hgu133a.db"
     ],
     "BloodGen3Module": [],
     "bnbc": [
@@ -1639,7 +1638,6 @@
         "affy",
         "hgu133a.db",
         "hgu133a2.db",
-        "hgu133plus2.db",
         "oligo"
     ],
     "DSS": [
@@ -1689,7 +1687,6 @@
         "HDF5Array",
         "PADOG",
         "hgu133a.db",
-        "hgu133plus2.db",
         "pathview",
         "rhdf5"
     ],
@@ -2914,8 +2911,7 @@
     "mAPKL": [],
     "maPredictDSC": [
         "affy",
-        "gcrma",
-        "hgu133plus2.db"
+        "gcrma"
     ],
     "maser": [
         "BSgenome",
@@ -3956,8 +3952,7 @@
         "pbkrtest"
     ],
     "PADOG": [
-        "hgu133a.db",
-        "hgu133plus2.db"
+        "hgu133a.db"
     ],
     "pageRank": [
         "BSgenome",
@@ -6172,7 +6167,6 @@
         "DESeq2",
         "DEXSeq"
     ],
-    "hgu133plus2.db": [],
     "hgu133a.db": [],
     "gamlss": [],
     "GenomicState": [
