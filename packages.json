@@ -28085,7 +28085,6 @@
         "annotate",
         "broom",
         "car",
-        "crmn",
         "doRNG",
         "dplyr",
         "edgeR",
@@ -53979,7 +53978,6 @@
         "pillar",
         "tibble"
     ],
-    "crmn": [],
     "anyLib": [
         "bslib",
         "credentials",
