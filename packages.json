@@ -70628,10 +70628,7 @@
         "yaml",
         "zlibbioc"
     ],
-    "LPE": [],
-    "LPEadj": [
-        "LPE"
-    ],
+    "LPEadj": [],
     "lpNet": [
         "lpSolve"
     ],
@@ -102842,7 +102839,6 @@
     "PLPE": [
         "Biobase",
         "BiocGenerics",
-        "LPE",
         "MASS"
     ],
     "plyranges": [
