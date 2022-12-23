@@ -1,0 +1,511 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   bb61b7b6..203a2bde  main       -> origin/main
+Updating bb61b7b6..203a2bde
+Fast-forward
+ lists/torch                                 | 1 +
+ logs/run_ids/rstudio-binaries/ROSeq         | 2 ++
+ logs/run_ids/rstudio-binaries/phosphoricons | 2 ++
+ packages.json                               | 4 +---
+ 4 files changed, 6 insertions(+), 3 deletions(-)
+ create mode 100644 lists/torch
+ create mode 100644 logs/run_ids/rstudio-binaries/ROSeq
+ create mode 100644 logs/run_ids/rstudio-binaries/phosphoricons
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=pkgbuild
++ PKG=pkgbuild
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "pkgbuild"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 10 1283k   10  128k    0     0   161k      0  0:00:07 --:--:--  0:00:07  161k 55 1283k   55  718k    0     0   401k      0  0:00:03  0:00:01  0:00:02  401k100 1283k  100 1283k    0     0   546k      0  0:00:02  0:00:02 --:--:--  546k
+built/
+built/built/
+built/built/ps/
+built/built/ps/libs/
+built/built/ps/libs/ps.so
+built/built/ps/NAMESPACE
+built/built/ps/internals.md
+built/built/ps/DESCRIPTION
+built/built/ps/help/
+built/built/ps/help/paths.rds
+built/built/ps/help/ps.rdx
+built/built/ps/help/ps.rdb
+built/built/ps/help/aliases.rds
+built/built/ps/help/AnIndex
+built/built/ps/Meta/
+built/built/ps/Meta/package.rds
+built/built/ps/Meta/features.rds
+built/built/ps/Meta/hsearch.rds
+built/built/ps/Meta/links.rds
+built/built/ps/Meta/nsInfo.rds
+built/built/ps/Meta/Rd.rds
+built/built/ps/WORDLIST
+built/built/ps/tools/
+built/built/ps/tools/error-codes.R
+built/built/ps/tools/winver.R
+built/built/ps/LICENSE
+built/built/ps/html/
+built/built/ps/html/00Index.html
+built/built/ps/html/R.css
+built/built/ps/INDEX
+built/built/ps/R/
+built/built/ps/R/ps
+built/built/ps/R/ps.rdx
+built/built/ps/R/ps.rdb
+built/built/ps/bin/
+built/built/ps/bin/px
+built/built/ps/NEWS.md
+built/built/processx/
+built/built/processx/libs/
+built/built/processx/libs/client.so
+built/built/processx/libs/processx.so
+built/built/processx/CODE_OF_CONDUCT.md
+built/built/processx/NAMESPACE
+built/built/processx/DESCRIPTION
+built/built/processx/help/
+built/built/processx/help/paths.rds
+built/built/processx/help/processx.rdx
+built/built/processx/help/aliases.rds
+built/built/processx/help/figures/
+built/built/processx/help/figures/lifecycle-experimental.svg
+built/built/processx/help/figures/lifecycle-deprecated.svg
+built/built/processx/help/figures/lifecycle-maturing.svg
+built/built/processx/help/figures/lifecycle-superseded.svg
+built/built/processx/help/figures/lifecycle-questioning.svg
+built/built/processx/help/figures/lifecycle-defunct.svg
+built/built/processx/help/figures/lifecycle-archived.svg
+built/built/processx/help/figures/lifecycle-stable.svg
+built/built/processx/help/AnIndex
+built/built/processx/help/processx.rdb
+built/built/processx/Meta/
+built/built/processx/Meta/package.rds
+built/built/processx/Meta/features.rds
+built/built/processx/Meta/hsearch.rds
+built/built/processx/Meta/links.rds
+built/built/processx/Meta/nsInfo.rds
+built/built/processx/Meta/Rd.rds
+built/built/processx/include/
+built/built/processx/include/processx/
+built/built/processx/include/processx/unix-sockets.h
+built/built/processx/include/processx/unix-sockets.c
+built/built/processx/LICENSE
+built/built/processx/html/
+built/built/processx/html/00Index.html
+built/built/processx/html/R.css
+built/built/processx/INDEX
+built/built/processx/R/
+built/built/processx/R/processx.rdx
+built/built/processx/R/processx
+built/built/processx/R/processx.rdb
+built/built/processx/bin/
+built/built/processx/bin/supervisor
+built/built/processx/bin/sock
+built/built/processx/bin/px
+built/built/processx/NEWS.md
+built/built/R6/
+built/built/R6/NAMESPACE
+built/built/R6/DESCRIPTION
+built/built/R6/help/
+built/built/R6/help/paths.rds
+built/built/R6/help/R6.rdx
+built/built/R6/help/R6.rdb
+built/built/R6/help/aliases.rds
+built/built/R6/help/figures/
+built/built/R6/help/figures/logo.svg
+built/built/R6/help/figures/logo.png
+built/built/R6/help/AnIndex
+built/built/R6/Meta/
+built/built/R6/Meta/package.rds
+built/built/R6/Meta/features.rds
+built/built/R6/Meta/hsearch.rds
+built/built/R6/Meta/links.rds
+built/built/R6/Meta/nsInfo.rds
+built/built/R6/Meta/Rd.rds
+built/built/R6/LICENSE
+built/built/R6/html/
+built/built/R6/html/00Index.html
+built/built/R6/html/R.css
+built/built/R6/INDEX
+built/built/R6/R/
+built/built/R6/R/R6.rdx
+built/built/R6/R/R6.rdb
+built/built/R6/R/R6
+built/built/R6/NEWS.md
+built/callr/
+built/callr/NAMESPACE
+built/callr/DESCRIPTION
+built/callr/help/
+built/callr/help/paths.rds
+built/callr/help/callr.rdb
+built/callr/help/aliases.rds
+built/callr/help/figures/
+built/callr/help/figures/rsession.svg
+built/callr/help/figures/poll-3.svg
+built/callr/help/figures/poll.svg
+built/callr/help/figures/bg-methods.svg
+built/callr/help/figures/bg.svg
+built/callr/help/figures/rsession2.svg
+built/callr/help/figures/rcmd.svg
+built/callr/help/figures/rsession-4.svg
+built/callr/help/figures/passargsfail.svg
+built/callr/help/figures/error1.svg
+built/callr/help/figures/io.svg
+built/callr/help/figures/rsession2-2.svg
+built/callr/help/figures/simple.svg
+built/callr/help/figures/passargsok.svg
+built/callr/help/figures/io-2.svg
+built/callr/help/figures/rsession-5.svg
+built/callr/help/figures/poll-4.svg
+built/callr/help/figures/error2-2.svg
+built/callr/help/figures/packages.svg
+built/callr/help/figures/poll-2.svg
+built/callr/help/callr.rdx
+built/callr/help/AnIndex
+built/callr/Meta/
+built/callr/Meta/package.rds
+built/callr/Meta/features.rds
+built/callr/Meta/hsearch.rds
+built/callr/Meta/links.rds
+built/callr/Meta/nsInfo.rds
+built/callr/Meta/Rd.rds
+built/callr/WORDLIST
+built/callr/developer-notes.md
+built/callr/LICENSE
+built/callr/html/
+built/callr/html/00Index.html
+built/callr/html/R.css
+built/callr/INDEX
+built/callr/R/
+built/callr/R/callr.rdb
+built/callr/R/callr
+built/callr/R/callr.rdx
+built/callr/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0  154k    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  154k  100  154k    0     0   178k      0 --:--:-- --:--:-- --:--:--  178k
+built/
+built/crayon/
+built/crayon/NAMESPACE
+built/crayon/DESCRIPTION
+built/crayon/help/
+built/crayon/help/paths.rds
+built/crayon/help/crayon.rdb
+built/crayon/help/aliases.rds
+built/crayon/help/crayon.rdx
+built/crayon/help/AnIndex
+built/crayon/Meta/
+built/crayon/Meta/package.rds
+built/crayon/Meta/features.rds
+built/crayon/Meta/hsearch.rds
+built/crayon/Meta/links.rds
+built/crayon/Meta/nsInfo.rds
+built/crayon/Meta/Rd.rds
+built/crayon/LICENSE
+built/crayon/html/
+built/crayon/html/00Index.html
+built/crayon/html/R.css
+built/crayon/INDEX
+built/crayon/R/
+built/crayon/R/crayon.rdb
+built/crayon/R/crayon
+built/crayon/R/crayon.rdx
+built/crayon/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 22 1684k   22  382k    0     0   254k      0  0:00:06  0:00:01  0:00:05  254k 70 1684k   70 1195k    0     0   478k      0  0:00:03  0:00:02  0:00:01  478k100 1684k  100 1684k    0     0   579k      0  0:00:02  0:00:02 --:--:--  578k
+built/
+built/cli/
+built/cli/examples/
+built/cli/examples/apps/
+built/cli/examples/apps/news.R
+built/cli/examples/apps/outdated.R
+built/cli/examples/apps/up.R
+built/cli/examples/apps/search.R
+built/cli/libs/
+built/cli/libs/cli.so
+built/cli/NAMESPACE
+built/cli/DESCRIPTION
+built/cli/help/
+built/cli/help/paths.rds
+built/cli/help/cli.rdx
+built/cli/help/aliases.rds
+built/cli/help/figures/
+built/cli/help/figures/progress-after.svg
+built/cli/help/figures/demo-spinners.svg
+built/cli/help/figures/progress-along-3.svg
+built/cli/help/figures/progress-along-2.svg
+built/cli/help/figures/progress-step-msg.svg
+built/cli/help/figures/progress-clear.svg
+built/cli/help/figures/get-spinner.svg
+built/cli/help/figures/progress-1.svg
+built/cli/help/figures/progress-natotal.svg
+built/cli/help/figures/progress-tasks.svg
+built/cli/help/figures/progress-step-dynamic.svg
+built/cli/help/figures/make-spinner-custom.svg
+built/cli/help/figures/make-spinner-template.svg
+built/cli/help/figures/progress-output2.svg
+built/cli/help/figures/progress-output.svg
+built/cli/help/figures/progress-current.svg
+built/cli/help/figures/progress-step.svg
+built/cli/help/figures/progress-format.svg
+built/cli/help/figures/progress-along-1.svg
+built/cli/help/figures/progress-step-spin.svg
+built/cli/help/figures/make-spinner-default.svg
+built/cli/help/figures/progress-message.svg
+built/cli/help/cli.rdb
+built/cli/help/AnIndex
+built/cli/shiny/
+built/cli/shiny/nested/
+built/cli/shiny/nested/app.R
+built/cli/shiny/format/
+built/cli/shiny/format/app.R
+built/cli/shiny/along/
+built/cli/shiny/along/app.R
+built/cli/shiny/simple/
+built/cli/shiny/simple/app.R
+built/cli/shiny/output/
+built/cli/shiny/output/app.R
+built/cli/Meta/
+built/cli/Meta/package.rds
+built/cli/Meta/features.rds
+built/cli/Meta/hsearch.rds
+built/cli/Meta/links.rds
+built/cli/Meta/nsInfo.rds
+built/cli/Meta/Rd.rds
+built/cli/include/
+built/cli/include/cli/
+built/cli/include/cli/progress.h
+built/cli/logo.txt
+built/cli/scripts/
+built/cli/scripts/news.R
+built/cli/scripts/outdated.R
+built/cli/scripts/up.R
+built/cli/scripts/search.R
+built/cli/LICENSE
+built/cli/html/
+built/cli/html/00Index.html
+built/cli/html/R.css
+built/cli/INDEX
+built/cli/R/
+built/cli/R/cli
+built/cli/R/cli.rdx
+built/cli/R/sysdata.rdb
+built/cli/R/sysdata.rdx
+built/cli/R/cli.rdb
+built/cli/NEWS.md
+built/rprojroot/
+built/rprojroot/NAMESPACE
+built/rprojroot/DESCRIPTION
+built/rprojroot/help/
+built/rprojroot/help/paths.rds
+built/rprojroot/help/rprojroot.rdx
+built/rprojroot/help/aliases.rds
+built/rprojroot/help/rprojroot.rdb
+built/rprojroot/help/figures/
+built/rprojroot/help/figures/lifecycle-soft-deprecated.svg
+built/rprojroot/help/figures/lifecycle-experimental.svg
+built/rprojroot/help/figures/lifecycle-deprecated.svg
+built/rprojroot/help/figures/lifecycle-maturing.svg
+built/rprojroot/help/figures/lifecycle-superseded.svg
+built/rprojroot/help/figures/lifecycle-questioning.svg
+built/rprojroot/help/figures/lifecycle-defunct.svg
+built/rprojroot/help/figures/lifecycle-archived.svg
+built/rprojroot/help/figures/lifecycle-stable.svg
+built/rprojroot/help/AnIndex
+built/rprojroot/Meta/
+built/rprojroot/Meta/package.rds
+built/rprojroot/Meta/vignette.rds
+built/rprojroot/Meta/features.rds
+built/rprojroot/Meta/hsearch.rds
+built/rprojroot/Meta/links.rds
+built/rprojroot/Meta/nsInfo.rds
+built/rprojroot/Meta/Rd.rds
+built/rprojroot/WORDLIST
+built/rprojroot/LICENSE
+built/rprojroot/html/
+built/rprojroot/html/00Index.html
+built/rprojroot/html/R.css
+built/rprojroot/INDEX
+built/rprojroot/doc/
+built/rprojroot/doc/rprojroot.html
+built/rprojroot/doc/rprojroot.R
+built/rprojroot/doc/index.html
+built/rprojroot/doc/rprojroot.Rmd
+built/rprojroot/R/
+built/rprojroot/R/rprojroot
+built/rprojroot/R/rprojroot.rdx
+built/rprojroot/R/rprojroot.rdb
+built/rprojroot/NEWS.md
+built/desc/
+built/desc/NAMESPACE
+built/desc/DESCRIPTION
+built/desc/help/
+built/desc/help/paths.rds
+built/desc/help/aliases.rds
+built/desc/help/desc.rdb
+built/desc/help/desc.rdx
+built/desc/help/AnIndex
+built/desc/Meta/
+built/desc/Meta/package.rds
+built/desc/Meta/features.rds
+built/desc/Meta/hsearch.rds
+built/desc/Meta/links.rds
+built/desc/Meta/nsInfo.rds
+built/desc/Meta/Rd.rds
+built/desc/WORDLIST
+built/desc/LICENSE
+built/desc/html/
+built/desc/html/00Index.html
+built/desc/html/R.css
+built/desc/INDEX
+built/desc/R/
+built/desc/R/desc
+built/desc/R/desc.rdb
+built/desc/R/desc.rdx
+built/desc/NEWS.md
+built/R6/
+built/R6/NAMESPACE
+built/R6/DESCRIPTION
+built/R6/help/
+built/R6/help/paths.rds
+built/R6/help/R6.rdx
+built/R6/help/R6.rdb
+built/R6/help/aliases.rds
+built/R6/help/figures/
+built/R6/help/figures/logo.svg
+built/R6/help/figures/logo.png
+built/R6/help/AnIndex
+built/R6/Meta/
+built/R6/Meta/package.rds
+built/R6/Meta/features.rds
+built/R6/Meta/hsearch.rds
+built/R6/Meta/links.rds
+built/R6/Meta/nsInfo.rds
+built/R6/Meta/Rd.rds
+built/R6/LICENSE
+built/R6/html/
+built/R6/html/00Index.html
+built/R6/html/R.css
+built/R6/INDEX
+built/R6/R/
+built/R6/R/R6.rdx
+built/R6/R/R6.rdb
+built/R6/R/R6
+built/R6/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 34415    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 34415  100 34415    0     0  57474      0 --:--:-- --:--:-- --:--:-- 57454
+built/
+built/prettyunits/
+built/prettyunits/NAMESPACE
+built/prettyunits/DESCRIPTION
+built/prettyunits/help/
+built/prettyunits/help/paths.rds
+built/prettyunits/help/prettyunits.rdx
+built/prettyunits/help/prettyunits.rdb
+built/prettyunits/help/aliases.rds
+built/prettyunits/help/AnIndex
+built/prettyunits/Meta/
+built/prettyunits/Meta/package.rds
+built/prettyunits/Meta/features.rds
+built/prettyunits/Meta/hsearch.rds
+built/prettyunits/Meta/links.rds
+built/prettyunits/Meta/nsInfo.rds
+built/prettyunits/Meta/Rd.rds
+built/prettyunits/LICENSE
+built/prettyunits/html/
+built/prettyunits/html/00Index.html
+built/prettyunits/html/R.css
+built/prettyunits/INDEX
+built/prettyunits/R/
+built/prettyunits/R/prettyunits.rdx
+built/prettyunits/R/prettyunits.rdb
+built/prettyunits/R/prettyunits
+built/prettyunits/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  218k  100  218k    0     0   260k      0 --:--:-- --:--:-- --:--:--  260k
+built/
+built/withr/
+built/withr/NAMESPACE
+built/withr/DESCRIPTION
+built/withr/help/
+built/withr/help/paths.rds
+built/withr/help/withr.rdx
+built/withr/help/aliases.rds
+built/withr/help/figures/
+built/withr/help/figures/README-unnamed-chunk-3-1.png
+built/withr/help/figures/logo.png
+built/withr/help/withr.rdb
+built/withr/help/AnIndex
+built/withr/Meta/
+built/withr/Meta/package.rds
+built/withr/Meta/vignette.rds
+built/withr/Meta/features.rds
+built/withr/Meta/hsearch.rds
+built/withr/Meta/links.rds
+built/withr/Meta/nsInfo.rds
+built/withr/Meta/Rd.rds
+built/withr/LICENSE
+built/withr/html/
+built/withr/html/00Index.html
+built/withr/html/R.css
+built/withr/INDEX
+built/withr/doc/
+built/withr/doc/changing-and-restoring-state.R
+built/withr/doc/changing-and-restoring-state.html
+built/withr/doc/index.html
+built/withr/doc/changing-and-restoring-state.Rmd
+built/withr/R/
+built/withr/R/withr
+built/withr/R/withr.rdx
+built/withr/R/withr.rdb
+built/withr/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''pkgbuild'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv pkgbuild_1.4.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/pkgbuild
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'pkgbuild'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/pkgbuild_1.4.0.tar.gz'
+Content type 'binary/octet-stream' length 176289 bytes (172 KB)
+==================================================
+downloaded 172 KB
+
+* installing *binary* package ‘pkgbuild’ ...
+* ‘pkgbuild’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pkgbuild’ as ‘pkgbuild_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pkgbuild)
+
+The downloaded source packages are in
+	‘/tmp/RtmpXaERZu/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m14.515s
+user	0m3.991s
+sys	0m0.416s
