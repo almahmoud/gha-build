@@ -6903,7 +6903,6 @@
         "fields",
         "viridis"
     ],
-    "single": [],
     "SingleCellSignalR": [
         "scran",
         "scuttle"
