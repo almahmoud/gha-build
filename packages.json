@@ -552,7 +552,6 @@
         "ggtree"
     ],
     "ChIPXpress": [],
-    "ChromHeatMap": [],
     "ChromSCape": [
         "qs",
         "scater",
