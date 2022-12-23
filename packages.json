@@ -5176,7 +5176,6 @@
         "Hmisc",
         "bslib",
         "contrast",
-        "flowClust",
         "flowMeans",
         "flowMerge",
         "ggplot2",
@@ -5958,7 +5957,6 @@
         "cytometree",
         "dplyr",
         "fields",
-        "flowClust",
         "flowDensity",
         "flowViz",
         "flowWorkspace",
@@ -6104,7 +6102,6 @@
     ],
     "CytoML": [
         "dplyr",
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ggcyto",
@@ -9315,7 +9312,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowClust": [],
     "flowCut": [
         "GEOmap",
         "RFOC",
@@ -9378,9 +9374,7 @@
         "reshape2"
     ],
     "flowMeans": [],
-    "flowMerge": [
-        "flowClust"
-    ],
+    "flowMerge": [],
     "flowPloidy": [
         "broom",
         "bslib",
@@ -9438,7 +9432,6 @@
         "dplyr"
     ],
     "flowTrans": [
-        "flowClust",
         "flowViz",
         "latticeExtra"
     ],
@@ -18278,7 +18271,6 @@
     ],
     "openCyto": [
         "dplyr",
-        "flowClust",
         "flowViz",
         "flowWorkspace",
         "ggplot2",
