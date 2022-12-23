@@ -5265,7 +5265,6 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "gRbase",
         "progress",
         "qpgraph",
         "rtracklayer",
@@ -10873,7 +10872,6 @@
         "RSQLite",
         "dbplyr",
         "dplyr",
-        "gRbase",
         "tibble"
     ],
     "FGNet": [
@@ -12882,7 +12880,6 @@
         "bslib",
         "dplyr",
         "gRain",
-        "gRbase",
         "genefilter",
         "ggplot2",
         "htmlTable",
@@ -18598,7 +18595,6 @@
         "enrichplot",
         "fgsea",
         "forcats",
-        "gRbase",
         "gargle",
         "ggforce",
         "ggfun",
@@ -18702,7 +18698,6 @@
         "enrichplot",
         "fgsea",
         "forcats",
-        "gRbase",
         "gargle",
         "ggforce",
         "ggfun",
@@ -26934,7 +26929,6 @@
         "broom",
         "dplyr",
         "gRain",
-        "gRbase",
         "kinship2",
         "knitr",
         "snpStats",
@@ -30184,7 +30178,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gRbase",
         "gargle",
         "ggplot2",
         "ggpubr",
@@ -35900,7 +35893,6 @@
         "knitr",
         "rmarkdown"
     ],
-    "gRbase": [],
     "phylobase": [
         "RNeXML",
         "dplyr",
@@ -36696,7 +36688,6 @@
     "gRain": [
         "broom",
         "dplyr",
-        "gRbase",
         "tibble",
         "tidyr"
     ],
