@@ -3015,7 +3015,6 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "cleaver": [],
     "clippda": [
         "htmlwidgets",
         "rgl"
@@ -13840,7 +13839,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "biomaRt",
-        "cleaver",
         "dbplyr",
         "rtracklayer",
         "tidyr"
@@ -17912,7 +17910,6 @@
     ],
     "synapter": [
         "MSnbase",
-        "cleaver",
         "qvalue",
         "readr",
         "vsn"
