@@ -1308,8 +1308,7 @@
         "pbkrtest"
     ],
     "DEsubs": [
-        "DESeq2",
-        "EBSeq"
+        "DESeq2"
     ],
     "DEWSeq": [
         "DESeq2"
@@ -1469,10 +1468,7 @@
     "EBSEA": [
         "DESeq2"
     ],
-    "EBSeq": [],
-    "EBSeqHMM": [
-        "EBSeq"
-    ],
+    "EBSeqHMM": [],
     "EDASeq": [
         "GenomicFeatures"
     ],
@@ -3515,9 +3511,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "Oscope": [
-        "EBSeq"
-    ],
+    "Oscope": [],
     "OTUbase": [],
     "OUTRIDER": [
         "DESeq2",
@@ -4359,13 +4353,11 @@
         "scran"
     ],
     "scDD": [
-        "EBSeq",
         "arm",
         "lme4",
         "scran"
     ],
     "scDDboost": [
-        "EBSeq",
         "Oscope"
     ],
     "scGPS": [
