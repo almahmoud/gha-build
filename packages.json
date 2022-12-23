@@ -15821,7 +15821,6 @@
         "AnnotationDbi",
         "BiocStyle",
         "C50",
-        "Cubist",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -25766,10 +25765,7 @@
     "genlasso": [],
     "opencpu": [],
     "osfr": [],
-    "C50": [
-        "Cubist"
-    ],
-    "Cubist": [],
+    "C50": [],
     "tidybayes": [
         "distributional",
         "dplyr",
