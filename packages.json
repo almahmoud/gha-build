@@ -19429,7 +19429,6 @@
         "GenomicRanges",
         "Hmisc",
         "KEGGREST",
-        "RefManageR",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -28978,7 +28977,6 @@
     "knitrBootstrap": [
         "rmarkdown"
     ],
-    "RefManageR": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "Biostrings",
