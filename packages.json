@@ -8756,7 +8756,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "dbplyr",
@@ -12393,7 +12392,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "dbplyr",
@@ -27798,7 +27796,6 @@
         "rhdf5",
         "tibble"
     ],
-    "SPIA": [],
     "SPIAT": [
         "BiocFileCache",
         "DelayedMatrixStats",
@@ -31448,7 +31445,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "babelgene",
