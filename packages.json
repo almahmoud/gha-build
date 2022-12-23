@@ -806,7 +806,6 @@
         "clock",
         "covr",
         "dplyr",
-        "fBasics",
         "forcats",
         "geneplotter",
         "ggplot2",
@@ -6088,8 +6087,7 @@
         "Rsamtools",
         "ShortRead",
         "SummarizedExperiment",
-        "XVector",
-        "fBasics"
+        "XVector"
     ],
     "ChIPsim": [
         "BiocParallel",
@@ -7521,7 +7519,6 @@
     ],
     "compcodeR": [
         "ROCR",
-        "fBasics",
         "ggplot2",
         "knitr",
         "modeest",
@@ -10054,7 +10051,6 @@
         "tibble"
     ],
     "deltaGseg": [
-        "fBasics",
         "ggplot2",
         "pillar",
         "quantmod",
@@ -16757,7 +16753,6 @@
         "SummarizedExperiment",
         "XVector",
         "cvar",
-        "fBasics",
         "fGarch",
         "nloptr",
         "pillar",
@@ -23070,7 +23065,6 @@
     "MIMOSA": [
         "MCMCpack",
         "dplyr",
-        "fBasics",
         "ggplot2",
         "modeest",
         "pillar",
@@ -43228,7 +43222,6 @@
     ],
     "umap": [],
     "GUniFrac": [
-        "fBasics",
         "ggplot2",
         "ggrepel",
         "modeest",
@@ -43247,10 +43240,7 @@
         "tidyr",
         "tidyselect"
     ],
-    "modeest": [
-        "fBasics"
-    ],
-    "fBasics": [],
+    "modeest": [],
     "clock": [],
     "hardhat": [
         "pillar",
@@ -46374,8 +46364,7 @@
     ],
     "sf": [],
     "fGarch": [
-        "cvar",
-        "fBasics"
+        "cvar"
     ],
     "cvar": [],
     "ggwordcloud": [
