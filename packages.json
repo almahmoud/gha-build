@@ -12188,7 +12188,6 @@
         "GenomicFeatures",
         "GenomicRanges",
         "KEGGREST",
-        "R.matlab",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -21989,7 +21988,6 @@
         "tibble"
     ],
     "MethylMix": [
-        "R.matlab",
         "ggplot2",
         "tibble"
     ],
@@ -36618,7 +36616,6 @@
     ],
     "sojourner": [
         "EBImage",
-        "R.matlab",
         "bslib",
         "crosstalk",
         "dplyr",
@@ -40459,9 +40456,7 @@
         "tRNA",
         "tibble"
     ],
-    "TRONCO": [
-        "R.matlab"
-    ],
+    "TRONCO": [],
     "TSCAN": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -45394,7 +45389,6 @@
         "tibble",
         "tidyselect"
     ],
-    "R.matlab": [],
     "batchtools": [
         "progress"
     ],
