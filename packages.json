@@ -21176,7 +21176,6 @@
         "viridis"
     ],
     "PhenStat": [
-        "SmoothWin",
         "broom",
         "car",
         "dplyr",
@@ -35074,7 +35073,6 @@
     "opencpu": [
         "knitr"
     ],
-    "SmoothWin": [],
     "osfr": [
         "tibble"
     ],
