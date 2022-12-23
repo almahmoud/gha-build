@@ -1531,7 +1531,6 @@
     ],
     "EWCE": [
         "car",
-        "ewceData",
         "ggpubr",
         "orthogene",
         "rstatix"
@@ -5085,7 +5084,6 @@
         "Hmisc",
         "viridis"
     ],
-    "ewceData": [],
     "gap": [],
     "SPARQL": [],
     "NHPoisson": [
