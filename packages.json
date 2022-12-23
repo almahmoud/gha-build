@@ -1679,7 +1679,6 @@
         "htmlTable",
         "htmlwidgets",
         "intergraph",
-        "network",
         "networkD3",
         "patchwork",
         "rmarkdown",
@@ -2191,7 +2190,6 @@
         "htmlTable",
         "htmlwidgets",
         "intergraph",
-        "network",
         "networkD3",
         "patchwork",
         "rmarkdown",
@@ -2610,7 +2608,6 @@
         "htmlTable",
         "htmlwidgets",
         "intergraph",
-        "network",
         "patchwork",
         "qvalue",
         "rmarkdown",
@@ -2700,7 +2697,6 @@
         "ggtree",
         "gson",
         "lme4",
-        "network",
         "nloptr",
         "patchwork",
         "pbkrtest",
@@ -3310,7 +3306,6 @@
         "MSnbase",
         "affy",
         "htmlwidgets",
-        "network",
         "plotly",
         "rmarkdown",
         "sna",
@@ -5740,7 +5735,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "network",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "patchwork",
@@ -6802,7 +6796,6 @@
         "ggtree",
         "gson",
         "intergraph",
-        "network",
         "patchwork",
         "qvalue",
         "scatterpie",
@@ -7987,7 +7980,6 @@
     ],
     "GGPA": [
         "GGally",
-        "network",
         "sna",
         "tidyr"
     ],
@@ -13076,9 +13068,7 @@
         "dbplyr",
         "tidyr"
     ],
-    "nethet": [
-        "network"
-    ],
+    "nethet": [],
     "netOmics": [
         "AnnotationDbi",
         "GO.db",
@@ -14320,7 +14310,6 @@
         "ggsignif",
         "ggtext",
         "lme4",
-        "network",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -14362,7 +14351,6 @@
         "dnet",
         "ggnetwork",
         "ggrepel",
-        "network",
         "osfr",
         "readr",
         "recipes",
@@ -19466,7 +19454,6 @@
         "ggrepel",
         "htmlwidgets",
         "intergraph",
-        "network",
         "networkD3",
         "rematch2",
         "rmarkdown",
@@ -21896,20 +21883,14 @@
     ],
     "ggnetwork": [
         "ggrepel",
-        "network",
         "sna"
     ],
-    "intergraph": [
-        "network"
-    ],
+    "intergraph": [],
     "networkD3": [
         "htmlwidgets",
         "rmarkdown"
     ],
-    "network": [],
-    "sna": [
-        "network"
-    ],
+    "sna": [],
     "shinyBS": [],
     "superheat": [
         "ggdendro"
