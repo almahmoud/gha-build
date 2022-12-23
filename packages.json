@@ -2526,7 +2526,6 @@
     ],
     "GeoDiff": [
         "GeomxTools",
-        "NanoStringNCTools",
         "lme4",
         "lmerTest",
         "nloptr"
@@ -2544,7 +2543,6 @@
         "shinyHeatmaply"
     ],
     "GeomxTools": [
-        "NanoStringNCTools",
         "lme4",
         "lmerTest",
         "nloptr"
@@ -4124,7 +4122,6 @@
         "bsseq",
         "rtracklayer"
     ],
-    "NanoStringNCTools": [],
     "NanoStringQCPro": [],
     "nanotatoR": [
         "tidyverse"
@@ -5892,7 +5889,6 @@
     ],
     "SpatialDecon": [
         "GeomxTools",
-        "NanoStringNCTools",
         "lme4",
         "lmerTest",
         "nloptr"
