@@ -1609,7 +1609,6 @@
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
-        "MCMCpack",
         "RSQLite",
         "annotate",
         "dendextend",
@@ -8651,7 +8650,6 @@
         "Biostrings",
         "GenomicRanges",
         "KEGGREST",
-        "MCMCpack",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -10079,7 +10077,6 @@
         "viridis"
     ],
     "frenchFISH": [
-        "MCMCpack",
         "NHPoisson",
         "broom",
         "car",
@@ -11784,9 +11781,7 @@
         "ggplot2",
         "tibble"
     ],
-    "GraphAT": [
-        "MCMCpack"
-    ],
+    "GraphAT": [],
     "graphite": [
         "AnnotationDbi",
         "Biostrings",
@@ -15027,7 +15022,6 @@
         "BPRMeth",
         "BiocStyle",
         "GenomicRanges",
-        "MCMCpack",
         "bookdown",
         "cowplot",
         "ggplot2",
@@ -15957,7 +15951,6 @@
     ],
     "mfa": [
         "GGally",
-        "MCMCpack",
         "dplyr",
         "forcats",
         "ggmcmc",
@@ -16336,7 +16329,6 @@
         "oligoClasses"
     ],
     "MIMOSA": [
-        "MCMCpack",
         "dplyr",
         "ggplot2",
         "rematch2",
@@ -26414,9 +26406,7 @@
         "tidyr",
         "viridis"
     ],
-    "sparseDOSSA": [
-        "MCMCpack"
-    ],
+    "sparseDOSSA": [],
     "sparsenetgls": [],
     "SparseSignatures": [
         "BSgenome",
@@ -31084,7 +31074,6 @@
         "shinyjs",
         "tibble"
     ],
-    "MCMCpack": [],
     "heatmaply": [
         "dendextend",
         "dplyr",
