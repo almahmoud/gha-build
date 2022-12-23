@@ -13834,7 +13834,6 @@
         "DT",
         "ExperimentHub",
         "GGally",
-        "gistr",
         "htmlwidgets",
         "interactiveDisplayBase",
         "rbokeh",
@@ -18041,10 +18040,8 @@
         "viridis"
     ],
     "rbokeh": [
-        "gistr",
         "htmlwidgets"
     ],
-    "gistr": [],
     "mlr3": [],
     "mlr3learners": [
         "mlr3"
