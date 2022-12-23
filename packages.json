@@ -3431,7 +3431,6 @@
         "mppa",
         "pbkrtest"
     ],
-    "ncGTW": [],
     "nearBynding": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
