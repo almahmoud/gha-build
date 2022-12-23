@@ -8206,9 +8206,7 @@
     "RDRToolbox": [
         "rgl"
     ],
-    "ReactomeGraph4R": [
-        "neo4r"
-    ],
+    "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [
         "DOSE",
@@ -12041,7 +12039,6 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "neo4r": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "GenomicAlignments",
