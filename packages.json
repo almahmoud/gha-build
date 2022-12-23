@@ -298,8 +298,7 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "genefilter",
-        "reactome.db"
+        "genefilter"
     ],
     "AUCell": [
         "GSEABase"
@@ -450,7 +449,6 @@
         "ggtree",
         "pbkrtest",
         "radiant.data",
-        "reactome.db",
         "viridis"
     ],
     "biocGraph": [
@@ -1976,7 +1974,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "reactome.db",
         "viridis"
     ],
     "EpiMix": [
@@ -2142,7 +2139,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "reactome.db",
         "viridis"
     ],
     "farms": [
@@ -3207,9 +3203,7 @@
     "makecdfenv": [
         "affy"
     ],
-    "mAPKL": [
-        "reactome.db"
-    ],
+    "mAPKL": [],
     "maPredictDSC": [
         "affy",
         "gcrma",
@@ -3502,7 +3496,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "reactome.db",
         "rhdf5",
         "viridis"
     ],
@@ -3699,7 +3692,6 @@
         "ggtree",
         "miRspongeR",
         "pbkrtest",
-        "reactome.db",
         "rstatix",
         "viridis"
     ],
@@ -3715,7 +3707,6 @@
         "ggraph",
         "ggtree",
         "pbkrtest",
-        "reactome.db",
         "rstatix",
         "viridis"
     ],
@@ -3979,7 +3970,6 @@
         "geneplotter",
         "ggraph",
         "ggtree",
-        "reactome.db",
         "viridis"
     ],
     "mumosa": [
@@ -4158,8 +4148,7 @@
         "arm"
     ],
     "NoRCE": [
-        "GenomicFeatures",
-        "reactome.db"
+        "GenomicFeatures"
     ],
     "NormalyzerDE": [
         "Hmisc",
@@ -4497,7 +4486,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "reactome.db",
         "viridis"
     ],
     "PING": [
@@ -4898,7 +4886,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "reactome.db",
         "viridis"
     ],
     "reconsi": [
@@ -5497,7 +5484,6 @@
         "heatmaply",
         "meshr",
         "nnTensor",
-        "reactome.db",
         "schex",
         "viridis"
     ],
@@ -5618,7 +5604,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "reactome.db",
         "rhdf5",
         "viridis"
     ],
@@ -5770,7 +5755,6 @@
         "Hmisc",
         "geneLenDataBase",
         "goseq",
-        "reactome.db",
         "viridis"
     ],
     "snapCGH": [
@@ -6698,7 +6682,6 @@
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures"
     ],
-    "reactome.db": [],
     "assertive": [],
     "doBy": [
         "pbkrtest"
