@@ -121,9 +121,7 @@
         "biovizBase",
         "ggbio"
     ],
-    "borealis": [
-        "DSS"
-    ],
+    "borealis": [],
     "brainflowprobes": [
         "GenomicFiles",
         "GenomicState",
@@ -189,7 +187,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "DSS",
         "FDb.InfiniumMethylation.hg19",
         "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -363,9 +360,7 @@
         "ttgsea"
     ],
     "deepSNV": [],
-    "DeMixT": [
-        "DSS"
-    ],
+    "DeMixT": [],
     "derfinder": [
         "GenomicFiles"
     ],
@@ -389,7 +384,6 @@
     "diffUTR": [],
     "DMCFB": [],
     "DMRcate": [
-        "DSS",
         "FDb.InfiniumMethylation.hg19",
         "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -410,7 +404,6 @@
     "Doscheda": [
         "drc"
     ],
-    "DSS": [],
     "easier": [
         "ggpubr",
         "rstatix"
@@ -727,7 +720,6 @@
     ],
     "katdetectr": [],
     "kissDE": [
-        "DSS",
         "FactoMineR",
         "factoextra",
         "ggpubr",
@@ -816,17 +808,13 @@
     "MetaPhOR": [
         "clusterProfiler"
     ],
-    "metaseqR2": [
-        "DSS"
-    ],
+    "metaseqR2": [],
     "metavizr": [
         "epivizr",
         "epivizrData",
         "epivizrStandalone"
     ],
-    "MethCP": [
-        "DSS"
-    ],
+    "MethCP": [],
     "MethReg": [
         "ggpubr",
         "rstatix",
@@ -864,9 +852,7 @@
         "Gviz",
         "biovizBase"
     ],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "methylumi": [
         "FDb.InfiniumMethylation.hg19",
         "minfi"
