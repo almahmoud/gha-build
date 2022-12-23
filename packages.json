@@ -146,7 +146,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "ATACseqTFEA": [],
     "autonomics": [
         "assertive"
     ],
