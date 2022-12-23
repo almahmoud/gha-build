@@ -12011,9 +12011,7 @@
         "dbplyr",
         "tidyr"
     ],
-    "nethet": [
-        "ICSNP"
-    ],
+    "nethet": [],
     "netOmics": [
         "AnnotationDbi",
         "GO.db",
@@ -15101,7 +15099,6 @@
         "AnnotationDbi",
         "Category",
         "GSEABase",
-        "ICSNP",
         "KEGGREST",
         "annotate",
         "cellHTS2",
@@ -21191,7 +21188,6 @@
         "htmlwidgets"
     ],
     "mppa": [],
-    "ICSNP": [],
     "dnet": [
         "readr",
         "supraHex",
