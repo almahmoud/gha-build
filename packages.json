@@ -5186,7 +5186,6 @@
         "restfulr",
         "rhdf5",
         "rhdf5filters",
-        "rslurm",
         "rtracklayer",
         "sjlabelled",
         "sjmisc",
@@ -86917,7 +86916,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "rslurm": [],
     "sjlabelled": [
         "datawizard"
     ],
