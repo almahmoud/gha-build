@@ -827,7 +827,6 @@
         "heatmaply",
         "viridis"
     ],
-    "decompTumor2Sig": [],
     "deconvR": [
         "HDF5Array",
         "minfi",
@@ -2211,7 +2210,6 @@
     "musicatk": [
         "FactoMineR",
         "car",
-        "decompTumor2Sig",
         "dendextend",
         "factoextra",
         "ggpubr",
