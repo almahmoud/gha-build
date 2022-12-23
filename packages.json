@@ -52,16 +52,13 @@
         "Homo.sapiens",
         "Mus.musculus",
         "chromVAR",
-        "motifmatchr",
         "rGREAT"
     ],
     "ATACseqQC": [
         "ChIPpeakAnno",
         "motifStack"
     ],
-    "ATACseqTFEA": [
-        "motifmatchr"
-    ],
+    "ATACseqTFEA": [],
     "atSNP": [
         "motifStack"
     ],
@@ -404,16 +401,13 @@
         "ggpubr",
         "rstatix"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [
         "minfi"
     ],
     "enrichTF": [
         "clusterProfiler",
         "ggpubr",
-        "motifmatchr",
         "rstatix"
     ],
     "epialleleR": [],
@@ -460,8 +454,7 @@
     ],
     "esATAC": [
         "ChIPseeker",
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "EventPointer": [],
     "EWCE": [
@@ -878,7 +871,6 @@
         "biovizBase",
         "motifStack"
     ],
-    "motifmatchr": [],
     "motifStack": [],
     "MPFE": [],
     "MQmetrics": [
@@ -998,9 +990,7 @@
     "padma": [
         "FactoMineR"
     ],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
     ],
@@ -1303,8 +1293,7 @@
     "spatzie": [
         "GenomicInteractions",
         "Gviz",
-        "biovizBase",
-        "motifmatchr"
+        "biovizBase"
     ],
     "SpectralTAD": [
         "CGHcall",
