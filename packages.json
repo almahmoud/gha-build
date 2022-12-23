@@ -19101,7 +19101,6 @@
         "graphite",
         "graphlayouts",
         "gridExtra",
-        "harmonicmeanp",
         "haven",
         "highr",
         "hms",
@@ -43791,7 +43790,6 @@
         "globals",
         "gplots",
         "gridExtra",
-        "harmonicmeanp",
         "heatmaply",
         "highr",
         "hms",
@@ -93428,7 +93426,6 @@
         "zoo"
     ],
     "ppcor": [],
-    "harmonicmeanp": [],
     "TFisher": [
         "Matrix",
         "MatrixModels",
