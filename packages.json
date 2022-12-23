@@ -961,7 +961,6 @@
         "htmlTable",
         "org.Hs.eg.db",
         "pathview",
-        "shinyBS",
         "viridis"
     ],
     "biosigner": [
@@ -1393,8 +1392,7 @@
         "rtracklayer"
     ],
     "cbpManager": [
-        "DT",
-        "shinyBS"
+        "DT"
     ],
     "ccfindR": [
         "SingleCellExperiment"
@@ -2503,7 +2501,6 @@
         "genefilter",
         "oligo",
         "oligoClasses",
-        "shinyBS",
         "shinypanel",
         "sva"
     ],
@@ -2786,7 +2783,6 @@
         "pathview",
         "plotly",
         "scatterpie",
-        "shinyBS",
         "sva",
         "tidygraph",
         "tidytree",
@@ -3079,7 +3075,6 @@
         "heatmaply",
         "kableExtra",
         "plotly",
-        "shinyBS",
         "viridis"
     ],
     "distinct": [
@@ -3936,7 +3931,6 @@
         "rWikiPathways",
         "reactome.db",
         "scatterpie",
-        "shinyBS",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -3956,8 +3950,7 @@
     "FastqCleaner": [
         "DT",
         "GenomicAlignments",
-        "ShortRead",
-        "shinyBS"
+        "ShortRead"
     ],
     "FCBF": [],
     "fCCAC": [
@@ -4593,7 +4586,6 @@
         "pbkrtest",
         "plotly",
         "rstatix",
-        "shinyBS",
         "shinyHeatmaply",
         "shinybusy",
         "testthat",
@@ -4851,8 +4843,7 @@
         "GO.db"
     ],
     "GPA": [
-        "DT",
-        "shinyBS"
+        "DT"
     ],
     "gpuMagic": [
         "DescTools"
@@ -5244,8 +5235,7 @@
         "viridis"
     ],
     "iCOBRA": [
-        "DT",
-        "shinyBS"
+        "DT"
     ],
     "ideal": [
         "AnnotationForge",
@@ -5269,7 +5259,6 @@
         "pcaExplorer",
         "plotly",
         "rtracklayer",
-        "shinyBS",
         "threejs",
         "topGO",
         "viridis"
@@ -5699,7 +5688,6 @@
         "DT",
         "biomaRt",
         "learnr",
-        "shinyBS",
         "sortable"
     ],
     "LedPred": [
@@ -7238,7 +7226,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "shinyBS",
         "shinybusy",
         "testthat",
         "viridis"
@@ -7406,7 +7393,6 @@
         "plotly",
         "rstatix",
         "rtracklayer",
-        "shinyBS",
         "shinybusy",
         "shinyjqui",
         "sortable",
@@ -7793,7 +7779,6 @@
         "htmlTable",
         "interactiveDisplayBase",
         "rtracklayer",
-        "shinyBS",
         "viridis"
     ],
     "oligo": [
@@ -7926,7 +7911,6 @@
         "Hmisc",
         "htmlTable",
         "openPrimeR",
-        "shinyBS",
         "viridis"
     ],
     "OpenStats": [
@@ -8147,7 +8131,6 @@
         "geneplotter",
         "heatmaply",
         "plotly",
-        "shinyBS",
         "threejs",
         "topGO",
         "viridis"
@@ -8310,7 +8293,6 @@
         "OmaDB",
         "colourpicker",
         "interactiveDisplayBase",
-        "shinyBS",
         "topGO"
     ],
     "Pi": [
@@ -8663,7 +8645,6 @@
         "broom",
         "highcharter",
         "rhandsontable",
-        "shinyBS",
         "shinyjqui"
     ],
     "proteasy": [
@@ -8736,7 +8717,6 @@
         "pairsD3",
         "recount",
         "rtracklayer",
-        "shinyBS",
         "viridis"
     ],
     "PSMatch": [
@@ -8815,8 +8795,7 @@
         "annotate",
         "genefilter",
         "interactiveDisplayBase",
-        "pwrEWAS.data",
-        "shinyBS"
+        "pwrEWAS.data"
     ],
     "QDNAseq": [
         "CGHcall"
@@ -11347,7 +11326,6 @@
         "scatterpie",
         "sesame",
         "sesameData",
-        "shinyBS",
         "testthat",
         "tidygraph",
         "tidytree",
@@ -11715,8 +11693,7 @@
     ],
     "tripr": [
         "DT",
-        "plotly",
-        "shinyBS"
+        "plotly"
     ],
     "tRNA": [],
     "tRNAdbImport": [
@@ -11847,7 +11824,6 @@
         "htmlTable",
         "org.Hs.eg.db",
         "rtracklayer",
-        "shinyBS",
         "viridis"
     ],
     "UniProt.ws": [
@@ -12548,7 +12524,6 @@
     ],
     "ggnetwork": [],
     "networkD3": [],
-    "shinyBS": [],
     "superheat": [],
     "biscuiteerData": [
         "AnnotationHub",
@@ -12811,9 +12786,7 @@
         "interactiveDisplayBase"
     ],
     "keras": [],
-    "shinypanel": [
-        "shinyBS"
-    ],
+    "shinypanel": [],
     "highcharter": [
         "broom"
     ],
