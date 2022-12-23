@@ -89,7 +89,6 @@
         "rhdf5"
     ],
     "AnnotationHubData": [],
-    "annotatr": [],
     "APAlyzer": [],
     "APL": [
         "Seurat"
@@ -312,7 +311,6 @@
         "HDF5Array",
         "Homo.sapiens",
         "Mus.musculus",
-        "annotatr",
         "bsseq",
         "dmrseq",
         "rhdf5"
@@ -1011,7 +1009,6 @@
     ],
     "dmrseq": [
         "HDF5Array",
-        "annotatr",
         "bsseq",
         "rhdf5"
     ],
@@ -3203,7 +3200,6 @@
     ],
     "scmeth": [
         "HDF5Array",
-        "annotatr",
         "bsseq",
         "rhdf5"
     ],
