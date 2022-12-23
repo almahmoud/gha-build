@@ -25376,7 +25376,6 @@
         "visdat",
         "vroom"
     ],
-    "TMixClust": [],
     "TNBC.CMS": [
         "AnnotationDbi",
         "BiocSingular",
