@@ -165,7 +165,6 @@
     ],
     "bambu": [],
     "bandle": [
-        "MLInterfaces",
         "pRoloc"
     ],
     "Basic4Cseq": [
@@ -1876,7 +1875,6 @@
         "VariantAnnotation",
         "deepSNV"
     ],
-    "MLInterfaces": [],
     "MLSeq": [],
     "MMAPPR2": [
         "VariantAnnotation",
@@ -2291,11 +2289,8 @@
         "rGREAT",
         "soGGi"
     ],
-    "pRoloc": [
-        "MLInterfaces"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "MLInterfaces",
         "pRoloc"
     ],
     "PROPS": [
@@ -2758,9 +2753,7 @@
     "SIAMCAT": [
         "lmerTest"
     ],
-    "SigCheck": [
-        "MLInterfaces"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "ExperimentHub",
         "clusterProfiler",
