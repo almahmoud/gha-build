@@ -290,7 +290,6 @@
         "affy",
         "affyPLM",
         "annotate",
-        "beadarray",
         "gcrma",
         "genefilter",
         "viridis",
@@ -510,7 +509,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "beadarray": [],
     "BEARscc": [],
     "BEAT": [
         "BSgenome",
@@ -776,9 +774,7 @@
         "pasilla",
         "viridis"
     ],
-    "blima": [
-        "beadarray"
-    ],
+    "blima": [],
     "BLMA": [
         "PADOG",
         "hgu133a.db",
@@ -2616,9 +2612,7 @@
         "rstatix",
         "rtracklayer"
     ],
-    "epigenomix": [
-        "beadarray"
-    ],
+    "epigenomix": [],
     "epigraHMM": [
         "BSgenome",
         "GreyListChIP",
