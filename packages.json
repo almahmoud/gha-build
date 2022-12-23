@@ -113,9 +113,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ASSIGN": [
-        "sva"
-    ],
+    "ASSIGN": [],
     "ATACCoGAPS": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -157,9 +155,7 @@
     "BadRegionFinder": [
         "VariantAnnotation"
     ],
-    "ballgown": [
-        "sva"
-    ],
+    "ballgown": [],
     "bambu": [],
     "bandle": [
         "pRoloc"
@@ -171,9 +167,7 @@
     "BASiCStan": [
         "BASiCS"
     ],
-    "BatchQC": [
-        "sva"
-    ],
+    "BatchQC": [],
     "BayesSpace": [],
     "BBCAnalyzer": [
         "VariantAnnotation"
@@ -231,9 +225,7 @@
         "synaptome.data",
         "synaptome.db"
     ],
-    "BioNERO": [
-        "sva"
-    ],
+    "BioNERO": [],
     "BioNetStat": [],
     "BioTIP": [],
     "biovizBase": [
@@ -268,12 +260,8 @@
     "BloodGen3Module": [
         "ExperimentHub"
     ],
-    "bnbc": [
-        "sva"
-    ],
-    "bnem": [
-        "sva"
-    ],
+    "bnbc": [],
+    "bnem": [],
     "BOBaFIT": [
         "OrganismDbi",
         "VariantAnnotation",
@@ -333,8 +321,7 @@
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
-        "ggbio",
-        "sva"
+        "ggbio"
     ],
     "CAGEr": [],
     "canceR": [
@@ -428,7 +415,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "sva",
         "wateRmelon"
     ],
     "ChIC": [
@@ -663,9 +649,7 @@
         "crisprScoreData",
         "ensembldb"
     ],
-    "crossmeta": [
-        "sva"
-    ],
+    "crossmeta": [],
     "csdR": [],
     "CSSQ": [],
     "cTRAP": [
@@ -727,8 +711,7 @@
         "FactoMineR",
         "arm",
         "car",
-        "pbkrtest",
-        "sva"
+        "pbkrtest"
     ],
     "dasper": [
         "car",
@@ -744,8 +727,7 @@
     ],
     "debrowser": [
         "clusterProfiler",
-        "enrichplot",
-        "sva"
+        "enrichplot"
     ],
     "DEComplexDisease": [],
     "decompTumor2Sig": [
@@ -772,8 +754,7 @@
     "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
-        "bsseq",
-        "sva"
+        "bsseq"
     ],
     "derfinder": [
         "GenomicFiles",
@@ -802,9 +783,7 @@
     ],
     "DEsubs": [],
     "DEWSeq": [],
-    "DExMA": [
-        "sva"
-    ],
+    "DExMA": [],
     "DEXSeq": [],
     "DiffBind": [
         "GreyListChIP"
@@ -863,9 +842,7 @@
     "DominoEffect": [
         "VariantAnnotation"
     ],
-    "doppelgangR": [
-        "sva"
-    ],
+    "doppelgangR": [],
     "Doscheda": [
         "car",
         "drc",
@@ -896,8 +873,7 @@
     "EBSEA": [],
     "EDASeq": [],
     "edge": [
-        "snm",
-        "sva"
+        "snm"
     ],
     "eegc": [
         "clusterProfiler",
@@ -1159,8 +1135,7 @@
         "MLSeq",
         "arm",
         "car",
-        "pbkrtest",
-        "sva"
+        "pbkrtest"
     ],
     "gcapc": [],
     "GDCRNATools": [
@@ -1516,9 +1491,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "KnowSeq": [
-        "sva"
-    ],
+    "KnowSeq": [],
     "lineagespot": [
         "VariantAnnotation"
     ],
@@ -1605,8 +1578,7 @@
         "TFBSTools"
     ],
     "MBECS": [
-        "lmerTest",
-        "sva"
+        "lmerTest"
     ],
     "mbOmic": [],
     "mBPCR": [],
@@ -1635,8 +1607,7 @@
         "ensembldb",
         "methylumi",
         "minfi",
-        "missMethyl",
-        "sva"
+        "missMethyl"
     ],
     "MEAT": [
         "FDb.InfiniumMethylation.hg19",
@@ -1908,8 +1879,7 @@
     "MSPrep": [
         "VIM",
         "car",
-        "pbkrtest",
-        "sva"
+        "pbkrtest"
     ],
     "msqrob2": [],
     "MSstats": [],
@@ -2096,8 +2066,7 @@
         "SmartSVA",
         "car",
         "pbkrtest",
-        "rexposome",
-        "sva"
+        "rexposome"
     ],
     "OMICsPCA": [
         "FactoMineR",
@@ -2142,9 +2111,7 @@
         "rstatix"
     ],
     "OUTRIDER": [],
-    "PAA": [
-        "sva"
-    ],
+    "PAA": [],
     "padma": [
         "FactoMineR",
         "car",
@@ -2246,8 +2213,7 @@
     "proActiv": [],
     "proBAMr": [],
     "proBatch": [
-        "pvca",
-        "sva"
+        "pvca"
     ],
     "profileplyr": [
         "ChIPseeker",
@@ -2263,9 +2229,7 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "PROPS": [
-        "sva"
-    ],
+    "PROPS": [],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
         "EnsDb.Mmusculus.v79",
@@ -2327,12 +2291,8 @@
         "ensembldb"
     ],
     "qsea": [],
-    "qsmooth": [
-        "sva"
-    ],
-    "qsvaR": [
-        "sva"
-    ],
+    "qsmooth": [],
+    "qsvaR": [],
     "quantro": [
         "bumphunter",
         "minfi"
@@ -2544,8 +2504,7 @@
         "factoextra",
         "ggpubr",
         "pbkrtest",
-        "rstatix",
-        "sva"
+        "rstatix"
     ],
     "RnaSeqSampleSize": [
         "GenomicFiles",
@@ -2606,9 +2565,7 @@
     ],
     "SBGNview": [],
     "scAlign": [],
-    "SCAN.UPC": [
-        "sva"
-    ],
+    "SCAN.UPC": [],
     "scanMiRApp": [
         "ensembldb"
     ],
@@ -2698,9 +2655,7 @@
         "ExperimentHub",
         "sesameData"
     ],
-    "SEtools": [
-        "sva"
-    ],
+    "SEtools": [],
     "SGSeq": [],
     "shinyepico": [
         "bumphunter",
@@ -2760,7 +2715,6 @@
         "scDblFinder",
         "scMerge",
         "scRNAseq",
-        "sva",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -2907,7 +2861,6 @@
         "rstatix",
         "survminer"
     ],
-    "sva": [],
     "svaNUMT": [
         "StructuralVariantAnnotation",
         "VariantAnnotation"
@@ -2944,8 +2897,7 @@
         "rstatix"
     ],
     "TBSignatureProfiler": [
-        "ASSIGN",
-        "sva"
+        "ASSIGN"
     ],
     "TCC": [],
     "TCGAbiolinksGUI": [
@@ -3037,9 +2989,7 @@
     ],
     "TRESS": [],
     "tricycle": [],
-    "trigger": [
-        "sva"
-    ],
+    "trigger": [],
     "tRNAscanImport": [],
     "tscR": [
         "kmlShape"
@@ -3111,8 +3061,7 @@
         "VariantAnnotation"
     ],
     "VaSP": [
-        "ballgown",
-        "sva"
+        "ballgown"
     ],
     "VCFArray": [
         "GenomicFiles",
@@ -3370,9 +3319,7 @@
         "klaR"
     ],
     "klaR": [],
-    "SmartSVA": [
-        "sva"
-    ],
+    "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [
         "ensembldb"
     ],
