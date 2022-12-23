@@ -17034,7 +17034,6 @@
         "waldo"
     ],
     "edgeR": [],
-    "eds": [],
     "eegc": [
         "AnnotationDbi",
         "BiocParallel",
