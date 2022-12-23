@@ -7310,7 +7310,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "RNAsense": [],
     "RNASeqR": [
         "DESeq2",
         "DOSE",
