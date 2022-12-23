@@ -1,0 +1,126 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   d0cd66f2..a4331b0a  main       -> origin/main
+Updating d0cd66f2..a4331b0a
+Fast-forward
+ lists/RIVER                                      |    2 +-
+ lists/SUITOR                                     |    2 +-
+ lists/statTarget                                 |    2 +-
+ lists/ttservice                                  |    2 +-
+ lists/waldo                                      |    2 +-
+ lists/yardstick                                  |    2 +-
+ logs/run_ids/rstudio-binaries/CNVgears           |    2 +
+ logs/run_ids/rstudio-binaries/clusterSeq         |    2 +
+ logs/run_ids/rstudio-binaries/compcodeR          |    2 +
+ logs/sizes/rstudio-binaries/binaries/RIVER       |    1 +
+ logs/sizes/rstudio-binaries/binaries/SUITOR      |    1 +
+ logs/sizes/rstudio-binaries/binaries/statTarget  |    1 +
+ logs/sizes/rstudio-binaries/binaries/ttservice   |    1 +
+ logs/sizes/rstudio-binaries/binaries/waldo       |    1 +
+ logs/sizes/rstudio-binaries/binaries/yardstick   |    1 +
+ logs/sizes/rstudio-binaries/libraries/RIVER      |    1 +
+ logs/sizes/rstudio-binaries/libraries/SUITOR     |    1 +
+ logs/sizes/rstudio-binaries/libraries/statTarget |    1 +
+ logs/sizes/rstudio-binaries/libraries/ttservice  |    1 +
+ logs/sizes/rstudio-binaries/libraries/waldo      |    1 +
+ logs/sizes/rstudio-binaries/libraries/yardstick  |    1 +
+ logs/times/rstudio-binary/RIVER                  | 1263 +++++++++++++++++++
+ logs/times/rstudio-binary/SUITOR                 |  102 ++
+ logs/times/rstudio-binary/statTarget             | 1449 ++++++++++++++++++++++
+ logs/times/rstudio-binary/ttservice              |   72 ++
+ logs/times/rstudio-binary/waldo                  |  136 ++
+ logs/times/rstudio-binary/yardstick              |   73 ++
+ packages.json                                    |  648 ++++------
+ 28 files changed, 3332 insertions(+), 441 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/CNVgears
+ create mode 100644 logs/run_ids/rstudio-binaries/clusterSeq
+ create mode 100644 logs/run_ids/rstudio-binaries/compcodeR
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RIVER
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/SUITOR
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/statTarget
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ttservice
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/waldo
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/yardstick
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RIVER
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/SUITOR
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/statTarget
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ttservice
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/waldo
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/yardstick
+ create mode 100644 logs/times/rstudio-binary/RIVER
+ create mode 100644 logs/times/rstudio-binary/SUITOR
+ create mode 100644 logs/times/rstudio-binary/statTarget
+ create mode 100644 logs/times/rstudio-binary/ttservice
+ create mode 100644 logs/times/rstudio-binary/waldo
+ create mode 100644 logs/times/rstudio-binary/yardstick
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=bacon
++ PKG=bacon
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "bacon"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency ggplot2 is already found.
+Dependency BiocParallel is already found.
+Dependency ellipse is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''bacon'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv bacon_1.26.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/bacon
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'bacon'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/bacon_1.26.0.tar.gz'
+Content type 'application/x-gzip' length 1852671 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+* installing *source* package ‘bacon’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rinit.c -o Rinit.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bacon.c -o bacon.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o bacon.so Rinit.o bacon.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-bacon/00new/bacon/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bacon’ as ‘bacon_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bacon)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp3RqjFo/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m10.765s
+user	0m7.174s
+sys	0m0.791s
