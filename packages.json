@@ -723,7 +723,6 @@
     ],
     "GeneTonic": [],
     "GenomicFiles": [],
-    "GenomicInteractionNodes": [],
     "GenomicInteractions": [
         "Gviz",
         "biovizBase"
