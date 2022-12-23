@@ -29357,7 +29357,6 @@
         "nlme",
         "pillar",
         "plyr",
-        "pvclust",
         "quadprog",
         "quantmod",
         "reshape",
@@ -81169,7 +81168,6 @@
         "Matrix",
         "RedeR",
         "igraph",
-        "pvclust",
         "rlang"
     ],
     "PanViz": [
@@ -106005,7 +106003,6 @@
         "promises",
         "proxy",
         "purrr",
-        "pvclust",
         "quantreg",
         "randomForest",
         "rappdirs",
@@ -118605,7 +118602,6 @@
         "munsell",
         "nlme",
         "pillar",
-        "pvclust",
         "rlang",
         "scales",
         "sitmo",
@@ -136004,7 +136000,6 @@
         "xts",
         "zoo"
     ],
-    "pvclust": [],
     "truncdist": [
         "evd"
     ],
