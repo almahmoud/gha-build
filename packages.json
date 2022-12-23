@@ -2624,9 +2624,7 @@
         "plotly",
         "rtracklayer"
     ],
-    "DEGraph": [
-        "NCIgraph"
-    ],
+    "DEGraph": [],
     "DEGreport": [
         "DESeq2",
         "annotate",
@@ -6883,7 +6881,6 @@
         "MsFeatures",
         "xcms"
     ],
-    "NCIgraph": [],
     "ndexr": [],
     "nearBynding": [
         "GenomicAlignments",
