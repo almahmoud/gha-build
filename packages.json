@@ -10822,8 +10822,7 @@
     ],
     "supersigs": [
         "caret",
-        "recipes",
-        "rsample"
+        "recipes"
     ],
     "surfaltr": [
         "AnnotationDbi",
@@ -12983,7 +12982,6 @@
         "haven",
         "labelled"
     ],
-    "rsample": [],
     "SpatialExtremes": [
         "fields",
         "viridis"
