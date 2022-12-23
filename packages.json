@@ -7347,7 +7347,6 @@
         "WGCNA",
         "biomaRt"
     ],
-    "seqArchR": [],
     "seqCAT": [
         "BSgenome",
         "GenomicFeatures",
