@@ -34135,7 +34135,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "Path2PPI": [],
     "pathifier": [],
     "PathoStat": [
         "AnnotationDbi",
