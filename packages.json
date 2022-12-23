@@ -3578,7 +3578,6 @@
         "SummarizedExperiment",
         "XVector",
         "devtools",
-        "downlit",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -6141,7 +6140,6 @@
     ],
     "cogena": [
         "devtools",
-        "downlit",
         "dplyr",
         "ggplot2",
         "htmlwidgets",
@@ -12463,7 +12461,6 @@
     "GCSscore": [
         "RSQLite",
         "devtools",
-        "downlit",
         "dplR",
         "htmlwidgets",
         "knitr",
@@ -15681,7 +15678,6 @@
     ],
     "INDEED": [
         "devtools",
-        "downlit",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -18947,7 +18943,6 @@
         "cowplot",
         "dbplyr",
         "devtools",
-        "downlit",
         "dplyr",
         "dtplyr",
         "forcats",
@@ -19243,7 +19238,6 @@
         "ChemmineR",
         "DT",
         "devtools",
-        "downlit",
         "ggplot2",
         "htmlwidgets",
         "knitr",
@@ -21587,7 +21581,6 @@
         "clusterProfiler",
         "cowplot",
         "devtools",
-        "downlit",
         "dplyr",
         "enrichplot",
         "fgsea",
@@ -23481,7 +23474,6 @@
     ],
     "oppti": [
         "devtools",
-        "downlit",
         "ggplot2",
         "htmlwidgets",
         "knitr",
@@ -23973,7 +23965,6 @@
         "biomformat",
         "bookdown",
         "devtools",
-        "downlit",
         "dplyr",
         "geneplotter",
         "ggplot2",
@@ -28050,7 +28041,6 @@
         "bookdown",
         "dbplyr",
         "devtools",
-        "downlit",
         "dplyr",
         "geneplotter",
         "ggplot2",
@@ -32699,7 +32689,6 @@
         "bookdown",
         "dbplyr",
         "devtools",
-        "downlit",
         "dplyr",
         "ensembldb",
         "geneplotter",
@@ -38283,7 +38272,6 @@
         "rtracklayer"
     ],
     "devtools": [
-        "downlit",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -38304,7 +38292,6 @@
         "waldo"
     ],
     "pkgdown": [
-        "downlit",
         "knitr",
         "pillar",
         "purrr",
@@ -38325,7 +38312,6 @@
         "purrr",
         "stringr"
     ],
-    "downlit": [],
     "pryr": [
         "stringr"
     ],
@@ -40483,7 +40469,6 @@
     ],
     "anyLib": [
         "devtools",
-        "downlit",
         "htmlwidgets",
         "knitr",
         "miniUI",
