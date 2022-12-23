@@ -3875,7 +3875,6 @@
     "HDF5Array": [
         "rhdf5"
     ],
-    "heatmaps": [],
     "HelloRanges": [
         "BSgenome",
         "GenomicFeatures",
