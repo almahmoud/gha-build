@@ -1060,7 +1060,6 @@
     "ExiMiR": [
         "affy"
     ],
-    "ExperimentHubData": [],
     "ExperimentSubset": [
         "DropletUtils",
         "HDF5Array",
@@ -1809,7 +1808,6 @@
         "rhdf5"
     ],
     "methylclock": [
-        "ExperimentHubData",
         "HDF5Array",
         "car",
         "ggpubr",
@@ -3702,9 +3700,7 @@
         "minfi",
         "rhdf5"
     ],
-    "methylclockData": [
-        "ExperimentHubData"
-    ],
+    "methylclockData": [],
     "rebus": [],
     "BiBitR": [
         "dendextend",
