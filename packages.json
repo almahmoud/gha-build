@@ -126,7 +126,6 @@
     ],
     "airpart": [
         "SingleCellExperiment",
-        "apeglm",
         "ggrastr",
         "scater",
         "scuttle"
@@ -277,7 +276,6 @@
     "apComplex": [
         "org.Sc.sgd.db"
     ],
-    "apeglm": [],
     "APL": [
         "GO.db",
         "Seurat",
@@ -1591,7 +1589,6 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
         "annotate",
-        "apeglm",
         "biomaRt",
         "chipseq",
         "geneplotter",
@@ -2545,7 +2542,6 @@
         "GOSemSim",
         "HDO.db",
         "annotate",
-        "apeglm",
         "aplot",
         "clusterProfiler",
         "colourpicker",
@@ -2766,7 +2762,6 @@
         "GreyListChIP",
         "ShortRead",
         "annotate",
-        "apeglm",
         "geneplotter",
         "rtracklayer",
         "systemPipeR"
@@ -10461,7 +10456,6 @@
     "TEKRABber": [
         "DESeq2",
         "annotate",
-        "apeglm",
         "biomaRt",
         "geneplotter"
     ],
@@ -11094,7 +11088,6 @@
         "ShortRead",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
-        "apeglm",
         "biomaRt",
         "csaw",
         "ensembldb",
