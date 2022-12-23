@@ -857,9 +857,7 @@
         "ensembldb",
         "methylPipe"
     ],
-    "ComPrAn": [
-        "rio"
-    ],
+    "ComPrAn": [],
     "conclus": [
         "DOSE",
         "FactoMineR",
@@ -976,8 +974,7 @@
         "GUIDEseq",
         "GenomicFeatures",
         "ensembldb",
-        "regioneR",
-        "rio"
+        "regioneR"
     ],
     "crisprVerse": [
         "AnnotationHub",
@@ -2027,8 +2024,7 @@
         "ChIPpeakAnno",
         "GenomicFeatures",
         "ensembldb",
-        "regioneR",
-        "rio"
+        "regioneR"
     ],
     "Guitar": [
         "GenomicFeatures"
@@ -2267,8 +2263,7 @@
         "scran"
     ],
     "ISAnalytics": [
-        "datamods",
-        "rio"
+        "datamods"
     ],
     "iSEEhex": [],
     "iSEEhub": [
@@ -2351,7 +2346,6 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "rio",
         "rstatix"
     ],
     "LinTInd": [
@@ -5173,7 +5167,6 @@
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome"
     ],
-    "rio": [],
     "factoextra": [
         "FactoMineR",
         "car",
@@ -5266,9 +5259,7 @@
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "GenomicFeatures"
     ],
-    "datamods": [
-        "rio"
-    ],
+    "datamods": [],
     "pd.mapping50k.xba240": [],
     "adabag": [],
     "glmmTMB": [
