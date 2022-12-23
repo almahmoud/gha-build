@@ -6084,7 +6084,6 @@
         "factoextra",
         "ggpubr",
         "ggsignif",
-        "golem",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7484,7 +7483,6 @@
         "fgsea",
         "ggraph",
         "ggtree",
-        "golem",
         "gson",
         "scatterpie",
         "tidygraph",
@@ -8251,7 +8249,6 @@
         "geneplotter",
         "ggraph",
         "ggtree",
-        "golem",
         "graphite",
         "gson",
         "metap",
@@ -13203,7 +13200,6 @@
     ],
     "tripr": [
         "DT",
-        "golem",
         "plotly"
     ],
     "tRNA": [],
@@ -13658,8 +13654,7 @@
         "rtracklayer"
     ],
     "wpm": [
-        "DT",
-        "golem"
+        "DT"
     ],
     "wppi": [
         "OmnipathR"
@@ -14662,7 +14657,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "golem": [],
     "wordcloud2": [],
     "AdaptGauss": [],
     "datamods": [
