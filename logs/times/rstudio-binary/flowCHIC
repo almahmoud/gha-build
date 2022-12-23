@@ -1,0 +1,212 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   6ab1ffe3..38911f12  main       -> origin/main
+Updating 6ab1ffe3..38911f12
+Fast-forward
+ lists/CRImage                                 |     2 +-
+ lists/FISHalyseR                              |     2 +-
+ lists/SimFFPE                                 |     2 +-
+ lists/brendaDb                                |     2 +-
+ lists/condformat                              |     2 +-
+ lists/spqn                                    |     2 +-
+ lists/tomoda                                  |     2 +-
+ logs/run_ids/rstudio-binaries/ggExtra         |     2 +
+ logs/run_ids/rstudio-binaries/ggcyto          |     2 +
+ logs/sizes/rstudio-binaries/binaries/CRImage  |     1 +
+ logs/sizes/rstudio-binaries/binaries/spqn     |     1 +
+ logs/sizes/rstudio-binaries/binaries/tomoda   |     1 +
+ logs/sizes/rstudio-binaries/libraries/CRImage |     1 +
+ logs/sizes/rstudio-binaries/libraries/spqn    |     1 +
+ logs/sizes/rstudio-binaries/libraries/tomoda  |     1 +
+ logs/times/rstudio-binary/CRImage             |  5342 +++++++++
+ logs/times/rstudio-binary/spqn                |  7266 ++++++++++++
+ logs/times/rstudio-binary/tomoda              | 14395 ++++++++++++++++++++++++
+ packages.json                                 |     8 -
+ 19 files changed, 27020 insertions(+), 15 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/ggExtra
+ create mode 100644 logs/run_ids/rstudio-binaries/ggcyto
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/CRImage
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/spqn
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/tomoda
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/CRImage
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/spqn
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/tomoda
+ create mode 100644 logs/times/rstudio-binary/CRImage
+ create mode 100644 logs/times/rstudio-binary/spqn
+ create mode 100644 logs/times/rstudio-binary/tomoda
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=flowCHIC
++ PKG=flowCHIC
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "flowCHIC"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency flowCore is already found.
+Dependency EBImage is already found.
+Dependency vegan is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 10 2563k   10  271k    0     0   249k      0  0:00:10  0:00:01  0:00:09  249k 41 2563k   41 1068k    0     0   510k      0  0:00:05  0:00:02  0:00:03  510k 91 2563k   91 2343k    0     0   757k      0  0:00:03  0:00:03 --:--:--  757k100 2563k  100 2563k    0     0   798k      0  0:00:03  0:00:03 --:--:--  797k
+built/
+built/lattice/
+built/lattice/libs/
+built/lattice/libs/lattice.so
+built/lattice/NEWS
+built/lattice/NAMESPACE
+built/lattice/DESCRIPTION
+built/lattice/help/
+built/lattice/help/paths.rds
+built/lattice/help/lattice.rdx
+built/lattice/help/lattice.rdb
+built/lattice/help/aliases.rds
+built/lattice/help/AnIndex
+built/lattice/data/
+built/lattice/data/Rdata.rds
+built/lattice/data/Rdata.rdb
+built/lattice/data/Rdata.rdx
+built/lattice/Meta/
+built/lattice/Meta/package.rds
+built/lattice/Meta/demo.rds
+built/lattice/Meta/features.rds
+built/lattice/Meta/hsearch.rds
+built/lattice/Meta/links.rds
+built/lattice/Meta/nsInfo.rds
+built/lattice/Meta/Rd.rds
+built/lattice/Meta/data.rds
+built/lattice/po/
+built/lattice/po/it/
+built/lattice/po/it/LC_MESSAGES/
+built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/lattice/po/fr/
+built/lattice/po/fr/LC_MESSAGES/
+built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/lattice/po/ko/
+built/lattice/po/ko/LC_MESSAGES/
+built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/lattice/po/pl/
+built/lattice/po/pl/LC_MESSAGES/
+built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/lattice/po/en@quot/
+built/lattice/po/en@quot/LC_MESSAGES/
+built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/lattice/po/de/
+built/lattice/po/de/LC_MESSAGES/
+built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/lattice/CITATION
+built/lattice/html/
+built/lattice/html/00Index.html
+built/lattice/html/R.css
+built/lattice/INDEX
+built/lattice/R/
+built/lattice/R/lattice
+built/lattice/R/lattice.rdx
+built/lattice/R/lattice.rdb
+built/lattice/demo/
+built/lattice/demo/panel.R
+built/lattice/demo/intervals.R
+built/lattice/demo/labels.R
+built/lattice/demo/lattice.R
+built/hexbin/
+built/hexbin/libs/
+built/hexbin/libs/hexbin.so
+built/hexbin/NAMESPACE
+built/hexbin/DESCRIPTION
+built/hexbin/help/
+built/hexbin/help/paths.rds
+built/hexbin/help/hexbin.rdx
+built/hexbin/help/aliases.rds
+built/hexbin/help/AnIndex
+built/hexbin/help/hexbin.rdb
+built/hexbin/data/
+built/hexbin/data/NHANES.rda
+built/hexbin/Meta/
+built/hexbin/Meta/package.rds
+built/hexbin/Meta/vignette.rds
+built/hexbin/Meta/features.rds
+built/hexbin/Meta/hsearch.rds
+built/hexbin/Meta/links.rds
+built/hexbin/Meta/nsInfo.rds
+built/hexbin/Meta/Rd.rds
+built/hexbin/Meta/data.rds
+built/hexbin/html/
+built/hexbin/html/00Index.html
+built/hexbin/html/R.css
+built/hexbin/INDEX
+built/hexbin/doc/
+built/hexbin/doc/hexagon_binning.pdf
+built/hexbin/doc/hexagon_binning.R
+built/hexbin/doc/index.html
+built/hexbin/doc/hexagon_binning.Rnw
+built/hexbin/R/
+built/hexbin/R/hexbin.rdx
+built/hexbin/R/hexbin
+built/hexbin/R/hexbin.rdb
+Dependency ggplot2 is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''flowCHIC'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv flowCHIC_1.32.0_R_x86_64-pc-linux-gnu.tar.gz hexbin_1.28.2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/flowCHIC
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'flowCHIC'
+also installing the dependency ‘hexbin’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/hexbin_1.28.2.tar.gz'
+Content type 'binary/octet-stream' length 1467681 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/flowCHIC_1.32.0.tar.gz'
+Content type 'application/x-gzip' length 3215185 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+* installing *binary* package ‘hexbin’ ...
+* ‘hexbin’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hexbin’ as ‘hexbin_1.28.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hexbin)
+* installing *source* package ‘flowCHIC’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘flowCHIC’ as ‘flowCHIC_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (flowCHIC)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0VTlDH/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m39.075s
+user	0m31.445s
+sys	0m1.994s
