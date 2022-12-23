@@ -2387,7 +2387,6 @@
         "treeio",
         "viridis"
     ],
-    "clusterSeq": [],
     "clustifyr": [
         "SingleCellExperiment",
         "fgsea"

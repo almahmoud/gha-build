@@ -1,0 +1,105 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   ade1c9bc..f2f0baff  main       -> origin/main
+Updating ade1c9bc..f2f0baff
+Fast-forward
+ lists/RIVER                                       |    2 +-
+ lists/SynExtend                                   |    2 +-
+ lists/topconfects                                 |    2 +-
+ lists/ttservice                                   |    2 +-
+ lists/waldo                                       |    2 +-
+ logs/run_ids/rstudio-binaries/CNVgears            |    2 +
+ logs/run_ids/rstudio-binaries/compcodeR           |    2 +
+ logs/sizes/rstudio-binaries/binaries/RIVER        |    1 +
+ logs/sizes/rstudio-binaries/binaries/topconfects  |    1 +
+ logs/sizes/rstudio-binaries/binaries/ttservice    |    1 +
+ logs/sizes/rstudio-binaries/binaries/waldo        |    1 +
+ logs/sizes/rstudio-binaries/libraries/RIVER       |    1 +
+ logs/sizes/rstudio-binaries/libraries/topconfects |    1 +
+ logs/sizes/rstudio-binaries/libraries/ttservice   |    1 +
+ logs/sizes/rstudio-binaries/libraries/waldo       |    1 +
+ logs/times/rstudio-binary/RIVER                   | 1263 +++++++++++++++++++++
+ logs/times/rstudio-binary/topconfects             |   85 ++
+ logs/times/rstudio-binary/ttservice               |   72 ++
+ logs/times/rstudio-binary/waldo                   |  136 +++
+ packages.json                                     |  648 ++++-------
+ 20 files changed, 1786 insertions(+), 440 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/CNVgears
+ create mode 100644 logs/run_ids/rstudio-binaries/compcodeR
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RIVER
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/topconfects
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ttservice
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/waldo
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RIVER
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/topconfects
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ttservice
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/waldo
+ create mode 100644 logs/times/rstudio-binary/RIVER
+ create mode 100644 logs/times/rstudio-binary/topconfects
+ create mode 100644 logs/times/rstudio-binary/ttservice
+ create mode 100644 logs/times/rstudio-binary/waldo
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=clusterSeq
++ PKG=clusterSeq
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "clusterSeq"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency BiocParallel is already found.
+Dependency baySeq is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''clusterSeq'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv clusterSeq_1.22.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/clusterSeq
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'clusterSeq'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/clusterSeq_1.22.0.tar.gz'
+Content type 'application/x-gzip' length 1031475 bytes (1007 KB)
+==================================================
+downloaded 1007 KB
+
+* installing *source* package ‘clusterSeq’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘clusterSeq’ as ‘clusterSeq_1.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clusterSeq)
+
+The downloaded source packages are in
+	‘/tmp/RtmpxBsO2u/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m17.690s
+user	0m15.356s
+sys	0m1.422s
