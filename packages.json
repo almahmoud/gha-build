@@ -5240,7 +5240,6 @@
         "rstatix",
         "rtracklayer"
     ],
-    "omicsPrint": [],
     "omicsViewer": [
         "car",
         "ggpubr",
