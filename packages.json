@@ -219,7 +219,6 @@
         "ggpubr",
         "survminer"
     ],
-    "goSorensen": [],
     "HiCcompare": [
         "CGHcall",
         "QDNAseq"
