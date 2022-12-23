@@ -522,7 +522,6 @@
         "tibble"
     ],
     "AlpsNMR": [
-        "RSpectra",
         "bslib",
         "cellranger",
         "doRNG",
@@ -718,7 +717,6 @@
         "KEGGREST",
         "MultiAssayExperiment",
         "RSQLite",
-        "RSpectra",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -3050,7 +3048,6 @@
         "Hmisc",
         "KEGGREST",
         "RSQLite",
-        "RSpectra",
         "WGCNA",
         "XVector",
         "bslib",
@@ -4453,7 +4450,6 @@
         "XVector"
     ],
     "ccImpute": [
-        "RSpectra",
         "SIMLR"
     ],
     "ccmap": [
@@ -4601,7 +4597,6 @@
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
-        "RSpectra",
         "ScaledMatrix",
         "Seurat",
         "SeuratObject",
@@ -5583,7 +5578,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
-        "RSpectra",
         "ResidualMatrix",
         "Rsamtools",
         "ScaledMatrix",
@@ -9092,7 +9086,6 @@
         "vsn"
     ],
     "DepecheR": [
-        "RSpectra",
         "dplyr",
         "ggplot2",
         "ggrepel",
@@ -9255,7 +9248,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "RSpectra",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TTR",
@@ -14014,7 +14006,6 @@
         "DT",
         "FactoMineR",
         "GEOquery",
-        "RSpectra",
         "broom",
         "bslib",
         "car",
@@ -15756,7 +15747,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "RSpectra",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
@@ -16235,7 +16225,6 @@
         "DescTools",
         "GenomeInfoDb",
         "GenomicRanges",
-        "RSpectra",
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
@@ -16684,7 +16673,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "RSQLite",
-        "RSpectra",
         "XVector",
         "biomaRt",
         "broom",
@@ -18031,7 +18019,6 @@
         "treeio"
     ],
     "M3C": [
-        "RSpectra",
         "ggplot2",
         "tibble",
         "umap"
@@ -18263,7 +18250,6 @@
         "HDF5Array",
         "KEGGREST",
         "RSQLite",
-        "RSpectra",
         "RnBeads",
         "RnBeads.hg19",
         "Rsamtools",
@@ -18582,7 +18568,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "Hmisc",
-        "RSpectra",
         "SummarizedExperiment",
         "UpSetR",
         "XVector",
@@ -18872,7 +18857,6 @@
         "KEGGREST",
         "MultiDataSet",
         "RSQLite",
-        "RSpectra",
         "Rsamtools",
         "SmartSVA",
         "SummarizedExperiment",
@@ -20719,7 +20703,6 @@
     ],
     "mina": [
         "Hmisc",
-        "RSpectra",
         "bslib",
         "ggplot2",
         "htmlTable",
@@ -20998,7 +20981,6 @@
         "MetBrewer",
         "NMF",
         "RSQLite",
-        "RSpectra",
         "ReactomePA",
         "SOMbrero",
         "SPONGE",
@@ -21336,7 +21318,6 @@
         "tibble"
     ],
     "mixOmics": [
-        "RSpectra",
         "dplyr",
         "ggplot2",
         "ggrepel",
@@ -22604,7 +22585,6 @@
         "MultiAssayExperiment",
         "MultiDataSet",
         "RSQLite",
-        "RSpectra",
         "ReactomePA",
         "SummarizedExperiment",
         "TFisher",
@@ -24173,7 +24153,6 @@
         "KEGGREST",
         "MultiDataSet",
         "RSQLite",
-        "RSpectra",
         "SmartSVA",
         "SummarizedExperiment",
         "XVector",
@@ -26173,7 +26152,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "RSpectra",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -27988,7 +27966,6 @@
         "httr"
     ],
     "RCSL": [
-        "RSpectra",
         "ggplot2",
         "tibble",
         "umap"
@@ -28378,7 +28355,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
-        "RSpectra",
         "Rsamtools",
         "SummarizedExperiment",
         "XVector",
@@ -30114,7 +30090,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "RSQLite",
-        "RSpectra",
         "XVector",
         "bslib",
         "ggplot2",
@@ -31006,7 +30981,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "RSpectra",
         "Seurat",
         "SeuratObject",
         "SingleCellExperiment",
@@ -31390,7 +31364,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "RSpectra",
         "RUVSeq",
         "Rsamtools",
         "ShortRead",
@@ -31496,7 +31469,6 @@
     ],
     "scPCA": [
         "DelayedArray",
-        "RSpectra",
         "ScaledMatrix",
         "dplyr",
         "origami",
@@ -32808,9 +32780,7 @@
         "dplyr",
         "tibble"
     ],
-    "SIMLR": [
-        "RSpectra"
-    ],
+    "SIMLR": [],
     "simpleSeg": [
         "BiocFileCache",
         "DelayedArray",
@@ -32895,7 +32865,6 @@
         "DelayedMatrixStats",
         "GenomeInfoDb",
         "GenomicRanges",
-        "RSpectra",
         "SIMLR",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -33832,7 +33801,6 @@
         "GenomicRanges",
         "HDF5Array",
         "RSQLite",
-        "RSpectra",
         "SingleCellExperiment",
         "SpatialExperiment",
         "SummarizedExperiment",
@@ -34260,7 +34228,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "RSpectra",
         "SummarizedExperiment",
         "XVector",
         "bslib",
@@ -34380,7 +34347,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "MESS",
-        "RSpectra",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -35960,7 +35926,6 @@
         "vsn"
     ],
     "timeOmics": [
-        "RSpectra",
         "dplyr",
         "ggplot2",
         "ggrepel",
@@ -36237,7 +36202,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "RSpectra",
         "SummarizedExperiment",
         "XVector",
         "ggplot2",
@@ -37249,7 +37213,6 @@
         "tibble"
     ],
     "uSORT": [
-        "RSpectra",
         "dplyr",
         "ggplot2",
         "monocle",
@@ -37565,9 +37528,7 @@
         "scuttle",
         "zellkonverter"
     ],
-    "veloviz": [
-        "RSpectra"
-    ],
+    "veloviz": [],
     "VennDetail": [
         "UpSetR",
         "dplyr",
@@ -38668,9 +38629,7 @@
         "stringr",
         "tibble"
     ],
-    "rARPACK": [
-        "RSpectra"
-    ],
+    "rARPACK": [],
     "cellranger": [
         "tibble"
     ],
@@ -38678,7 +38637,6 @@
         "doRNG"
     ],
     "doRNG": [],
-    "RSpectra": [],
     "curatedTCGAData": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -38776,9 +38734,7 @@
         "shiny",
         "tibble"
     ],
-    "umap": [
-        "RSpectra"
-    ],
+    "umap": [],
     "GUniFrac": [
         "ggplot2",
         "ggrepel",
@@ -41801,7 +41757,6 @@
         "tibble"
     ],
     "bigstatsr": [
-        "RSpectra",
         "bigparallelr",
         "cowplot",
         "ggplot2",
@@ -41922,7 +41877,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "RSQLite",
-        "RSpectra",
         "XVector",
         "annotate",
         "genefilter",
@@ -42180,7 +42134,6 @@
         "tibble"
     ],
     "MatrixCorrelation": [
-        "RSpectra",
         "progress"
     ],
     "metR": [
@@ -43269,7 +43222,6 @@
     ],
     "bamlss": [],
     "dml": [
-        "RSpectra",
         "lfda",
         "rARPACK"
     ],
@@ -43298,7 +43250,6 @@
         "vroom"
     ],
     "lfda": [
-        "RSpectra",
         "rARPACK"
     ],
     "ggformula": [
