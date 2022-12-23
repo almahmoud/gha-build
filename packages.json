@@ -6214,7 +6214,6 @@
         "testthat"
     ],
     "Omixer": [],
-    "OmnipathR": [],
     "oncomix": [],
     "OncoScore": [
         "biomaRt"
@@ -9553,9 +9552,7 @@
         "rtracklayer"
     ],
     "wpm": [],
-    "wppi": [
-        "OmnipathR"
-    ],
+    "wppi": [],
     "xcms": [],
     "xcore": [],
     "XDE": [
