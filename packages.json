@@ -25603,7 +25603,6 @@
         "Biostrings",
         "GenomeInfoDb",
         "IRanges",
-        "RMallow",
         "S4Vectors",
         "TSP",
         "XVector",
@@ -47507,7 +47506,6 @@
         "GenomeInfoDb",
         "GraphPAC",
         "IRanges",
-        "RMallow",
         "S4Vectors",
         "SpacePAC",
         "TSP",
@@ -72538,7 +72536,6 @@
     "classInt": [
         "e1071"
     ],
-    "RMallow": [],
     "penalized": [
         "survival"
     ],
