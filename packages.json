@@ -2955,7 +2955,6 @@
     "phantasus": [
         "rhdf5"
     ],
-    "PharmacoGx": [],
     "phenoTest": [
         "Hmisc",
         "viridis"
@@ -4355,9 +4354,7 @@
         "vsn"
     ],
     "XDE": [],
-    "Xeva": [
-        "PharmacoGx"
-    ],
+    "Xeva": [],
     "XNAString": [],
     "YAPSA": [
         "BSgenome.Hsapiens.UCSC.hg19",
