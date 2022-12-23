@@ -30707,7 +30707,6 @@
         "BiocParallel",
         "DelayedArray",
         "GENIE3",
-        "GeneNet",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -35643,7 +35642,6 @@
         "tidyselect"
     ],
     "nethet": [
-        "GeneNet",
         "ICS",
         "ICSNP",
         "RcppEigen",
@@ -51941,7 +51939,6 @@
         "AnnotationDbi",
         "Biostrings",
         "GSEABase",
-        "GeneNet",
         "GenomeInfoDb",
         "IRanges",
         "KEGGREST",
@@ -64788,7 +64785,6 @@
         "xts"
     ],
     "rebus": [],
-    "GeneNet": [],
     "ggmcmc": [
         "GGally",
         "dplyr",
