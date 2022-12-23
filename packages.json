@@ -14118,7 +14118,6 @@
         "SummarizedExperiment",
         "XVector",
         "bitops",
-        "breakpointRdata",
         "codetools",
         "colorspace",
         "cowplot",
@@ -155583,7 +155582,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "breakpointRdata": [],
     "WriteXLS": [],
     "devtools": [
         "R6",
