@@ -48260,7 +48260,6 @@
         "ggforce",
         "ggfun",
         "ggplot2",
-        "liger",
         "mgcv",
         "pillar",
         "purrr",
@@ -60930,7 +60929,6 @@
     "MLmetrics": [
         "ROCR"
     ],
-    "liger": [],
     "rsample": [
         "dplyr",
         "furrr",
