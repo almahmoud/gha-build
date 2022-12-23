@@ -3463,7 +3463,6 @@
         "epiNEM",
         "genefilter",
         "ggdendro",
-        "ggm",
         "ggplot2",
         "httr",
         "knitr",
@@ -8475,7 +8474,6 @@
         "gargle",
         "ggdendro",
         "ggforce",
-        "ggm",
         "ggplot2",
         "ggraph",
         "ggrepel",
@@ -11189,7 +11187,6 @@
     "epiNEM": [
         "Linnorm",
         "ggdendro",
-        "ggm",
         "ggplot2",
         "latex2exp",
         "latticeExtra",
@@ -20855,7 +20852,6 @@
         "dbplyr",
         "dplyr",
         "genefilter",
-        "ggm",
         "ggplot2",
         "glmnet",
         "htmlTable",
@@ -23246,7 +23242,6 @@
         "Linnorm",
         "epiNEM",
         "ggdendro",
-        "ggm",
         "ggplot2",
         "latex2exp",
         "latticeExtra",
@@ -23364,7 +23359,6 @@
     "nethet": [
         "ICS",
         "ICSNP",
-        "ggm",
         "ggplot2",
         "glmnet",
         "multtest",
@@ -39850,10 +39844,7 @@
     "randomcoloR": [
         "stringr"
     ],
-    "pcalg": [
-        "ggm"
-    ],
-    "ggm": [],
+    "pcalg": [],
     "gamlss": [],
     "GenomicState": [
         "AnnotationDbi",
