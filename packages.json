@@ -36,9 +36,7 @@
     "ASpli": [
         "Gviz"
     ],
-    "ATACCoGAPS": [
-        "chromVAR"
-    ],
+    "ATACCoGAPS": [],
     "ATACseqQC": [],
     "ATACseqTFEA": [],
     "atSNP": [],
@@ -162,7 +160,6 @@
     "ChromSCape": [
         "qs"
     ],
-    "chromVAR": [],
     "cicero": [
         "Gviz"
     ],
