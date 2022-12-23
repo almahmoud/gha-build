@@ -1817,7 +1817,6 @@
         "annotate",
         "rtracklayer"
     ],
-    "CNORfeeder": [],
     "CNORfuzzy": [
         "nloptr",
         "testthat"
