@@ -7670,7 +7670,6 @@
         "rstatix",
         "rtracklayer",
         "shinybusy",
-        "shinyjqui",
         "sortable",
         "testthat",
         "viridis"
@@ -8970,7 +8969,6 @@
         "affy",
         "highcharter",
         "rhandsontable",
-        "shinyjqui",
         "vsn"
     ],
     "proteasy": [
@@ -10255,8 +10253,7 @@
         "plotly",
         "rtracklayer",
         "scanMiR",
-        "scanMiRData",
-        "shinyjqui"
+        "scanMiRData"
     ],
     "scAnnotatR": [
         "AnnotationDbi",
@@ -11630,8 +11627,7 @@
     "systemPipeShiny": [
         "DT",
         "drawer",
-        "plotly",
-        "shinyjqui"
+        "plotly"
     ],
     "systemPipeTools": [
         "AnnotationDbi",
@@ -13598,7 +13594,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "shinyjqui": [],
     "mppa": [],
     "dnet": [
         "supraHex"
