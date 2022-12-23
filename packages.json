@@ -23194,7 +23194,6 @@
         "cowplot",
         "dplyr",
         "fgsea",
-        "flatxml",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -40697,7 +40696,6 @@
         "tidyselect"
     ],
     "pdftools": [],
-    "flatxml": [],
     "AICcmodavg": [
         "lme4",
         "nloptr",
