@@ -2757,7 +2757,6 @@
         "ensembldb",
         "phastCons100way.UCSC.hg38"
     ],
-    "PrInCE": [],
     "proActiv": [
         "DESeq2",
         "GenomicFeatures"
