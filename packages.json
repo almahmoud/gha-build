@@ -34797,7 +34797,6 @@
         "httr",
         "hwriter",
         "igraph",
-        "ineq",
         "interp",
         "ipred",
         "isoband",
@@ -54112,7 +54111,6 @@
         "httr",
         "hwriter",
         "igraph",
-        "ineq",
         "interp",
         "ipred",
         "isoband",
@@ -75154,7 +75152,6 @@
         "gridGraphics",
         "gtable",
         "igraph",
-        "ineq",
         "isoband",
         "jsonlite",
         "labeling",
@@ -174896,7 +174893,6 @@
         "rJava",
         "randomForest"
     ],
-    "ineq": [],
     "arm": [
         "MASS",
         "Matrix",
