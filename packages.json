@@ -7645,7 +7645,6 @@
         "pillar",
         "plotly",
         "purrr",
-        "qs",
         "ragg",
         "restfulr",
         "reticulate",
@@ -10829,7 +10828,6 @@
         "pillar",
         "progress",
         "purrr",
-        "qs",
         "quantmod",
         "readxl",
         "reshape2",
@@ -55604,7 +55602,6 @@
         "tibble",
         "vctrs"
     ],
-    "qs": [],
     "ggfittext": [
         "ggplot2",
         "pillar",
