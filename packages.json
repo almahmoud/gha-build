@@ -7447,7 +7447,6 @@
     "systemPipeR": [
         "ShortRead"
     ],
-    "systemPipeShiny": [],
     "systemPipeTools": [
         "DESeq2",
         "annotate",
