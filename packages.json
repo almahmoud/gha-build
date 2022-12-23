@@ -209,7 +209,6 @@
     "attract": [
         "GOstats"
     ],
-    "AUCell": [],
     "BaalChIP": [
         "doBy",
         "lme4",
@@ -3557,9 +3556,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
-    "RcisTarget": [
-        "AUCell"
-    ],
+    "RcisTarget": [],
     "Rcpi": [],
     "Rcwl": [],
     "RcwlPipelines": [
