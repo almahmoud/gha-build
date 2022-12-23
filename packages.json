@@ -10977,7 +10977,6 @@
         "scatterpie",
         "shadowtext",
         "shinyWidgets",
-        "shinycustomloader",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -20144,7 +20143,6 @@
         "golem",
         "htmlwidgets",
         "shinyWidgets",
-        "shinycustomloader",
         "shinydashboard"
     ],
     "wppi": [
@@ -21921,7 +21919,6 @@
         "GGally",
         "tidyr"
     ],
-    "shinycustomloader": [],
     "ggstar": [],
     "formattable": [
         "htmlwidgets"
