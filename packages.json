@@ -3904,9 +3904,7 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "Dune": [
-        "gganimate"
-    ],
+    "Dune": [],
     "easier": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -15629,7 +15627,6 @@
         "AnnotationDbi",
         "org.Hs.eg.db"
     ],
-    "gganimate": [],
     "easierData": [
         "AnnotationDbi",
         "AnnotationHub",

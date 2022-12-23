@@ -1,0 +1,82 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   48502fdd..fad6dccd  main       -> origin/main
+Updating 48502fdd..fad6dccd
+Fast-forward
+ lists/cplm                                         |    2 +-
+ lists/dtplyr                                       |    2 +-
+ lists/universalmotif                               |    2 +-
+ logs/run_ids/rstudio-binaries/ggplot.multistats    |    2 +
+ logs/run_ids/rstudio-binaries/ggprism              |    2 +
+ logs/sizes/rstudio-binaries/binaries/cplm          |    1 +
+ .../sizes/rstudio-binaries/binaries/universalmotif |    1 +
+ logs/sizes/rstudio-binaries/libraries/cplm         |    1 +
+ .../rstudio-binaries/libraries/universalmotif      |    1 +
+ logs/times/rstudio-binary/cplm                     | 1068 ++++++++++++++++++++
+ logs/times/rstudio-binary/universalmotif           |  122 +++
+ packages.json                                      |   25 +-
+ 12 files changed, 1203 insertions(+), 26 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/ggplot.multistats
+ create mode 100644 logs/run_ids/rstudio-binaries/ggprism
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/cplm
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/universalmotif
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/cplm
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/universalmotif
+ create mode 100644 logs/times/rstudio-binary/cplm
+ create mode 100644 logs/times/rstudio-binary/universalmotif
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=gganimate
++ PKG=gganimate
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "gganimate"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency ggplot2 is already found.
+Dependency stringi is already found.
+Dependency tweenr is already found.
+Dependency progress is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''gganimate'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv gganimate_1.0.8_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/gganimate
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'gganimate'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gganimate_1.0.8.tar.gz'
+Content type 'binary/octet-stream' length 1296331 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *binary* package ‘gganimate’ ...
+* ‘gganimate’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gganimate’ as ‘gganimate_1.0.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gganimate)
+
+The downloaded source packages are in
+	‘/tmp/RtmpyqE1t7/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m6.626s
+user	0m3.775s
+sys	0m0.339s
