@@ -100,9 +100,7 @@
     "BadRegionFinder": [],
     "ballgown": [],
     "bambu": [],
-    "bandle": [
-        "pRoloc"
-    ],
+    "bandle": [],
     "Basic4Cseq": [],
     "BASiCStan": [],
     "BayesSpace": [],
@@ -1490,10 +1488,7 @@
         "enrichplot",
         "rGREAT"
     ],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "PROPS": [],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
