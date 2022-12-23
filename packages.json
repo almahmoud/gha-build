@@ -275,7 +275,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "chromVAR",
-        "modelr",
         "motifmatchr",
         "org.Mm.eg.db",
         "projectR",
@@ -1627,7 +1626,6 @@
     "dce": [
         "epiNEM",
         "mnem",
-        "modelr",
         "tidyverse"
     ],
     "ddPCRclust": [
@@ -3545,7 +3543,6 @@
     ],
     "MAI": [
         "caret",
-        "modelr",
         "tidyverse"
     ],
     "MAIT": [
@@ -3841,7 +3838,6 @@
         "lme4",
         "methylclockData",
         "minfi",
-        "modelr",
         "nloptr",
         "pbkrtest",
         "rstatix",
@@ -4062,7 +4058,6 @@
         "ggtree",
         "lme4",
         "miRspongeR",
-        "modelr",
         "nloptr",
         "pbkrtest",
         "reactome.db",
@@ -4085,7 +4080,6 @@
         "ggpubr",
         "ggtree",
         "lme4",
-        "modelr",
         "nloptr",
         "pbkrtest",
         "reactome.db",
@@ -4292,7 +4286,6 @@
         "ggpubr",
         "lme4",
         "lmerTest",
-        "modelr",
         "nloptr",
         "pbkrtest",
         "rstatix",
@@ -4485,7 +4478,6 @@
     "NanoStringNCTools": [],
     "NanoStringQCPro": [],
     "nanotatoR": [
-        "modelr",
         "tidyverse"
     ],
     "NanoTube": [],
@@ -6519,7 +6511,6 @@
         "cvms",
         "ggpubr",
         "lme4",
-        "modelr",
         "nloptr",
         "pbkrtest",
         "rstatix",
@@ -6589,7 +6580,6 @@
         "miRNAtap.db"
     ],
     "Statial": [
-        "modelr",
         "tidyverse"
     ],
     "STdeconvolve": [
@@ -6659,7 +6649,6 @@
         "drc",
         "fields",
         "lme4",
-        "modelr",
         "nloptr",
         "pbkrtest",
         "tidyverse"
@@ -7373,9 +7362,7 @@
         "rtracklayer"
     ],
     "mGSZ": [],
-    "tidyverse": [
-        "modelr"
-    ],
+    "tidyverse": [],
     "Mus.musculus": [
         "GenomicFeatures",
         "OrganismDbi",
@@ -7395,7 +7382,6 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "modelr": [],
     "reactome.db": [],
     "mixtools": [],
     "doBy": [
