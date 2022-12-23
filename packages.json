@@ -35,7 +35,6 @@
     ],
     "ArrayExpressHTS": [],
     "arrayMvout": [
-        "FDb.InfiniumMethylation.hg19",
         "lumi",
         "methylumi",
         "minfi"
@@ -74,7 +73,6 @@
     "BBCAnalyzer": [],
     "benchdamic": [],
     "bigmelon": [
-        "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
         "methylumi",
@@ -184,7 +182,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "FDb.InfiniumMethylation.hg19",
         "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -381,7 +378,6 @@
     "diffUTR": [],
     "DMCFB": [],
     "DMRcate": [
-        "FDb.InfiniumMethylation.hg19",
         "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -499,7 +495,6 @@
         "clusterProfiler"
     ],
     "ffpe": [
-        "FDb.InfiniumMethylation.hg19",
         "lumi",
         "methylumi",
         "minfi"
@@ -654,7 +649,6 @@
     ],
     "icetea": [],
     "iCheck": [
-        "FDb.InfiniumMethylation.hg19",
         "lumi",
         "methylumi",
         "minfi"
@@ -735,7 +729,6 @@
         "motifStack"
     ],
     "lumi": [
-        "FDb.InfiniumMethylation.hg19",
         "methylumi",
         "minfi"
     ],
@@ -745,7 +738,6 @@
     ],
     "MADSEQ": [],
     "MAGAR": [
-        "FDb.InfiniumMethylation.hg19",
         "RnBeads",
         "methylumi",
         "minfi"
@@ -766,7 +758,6 @@
         "biovizBase"
     ],
     "MEAL": [
-        "FDb.InfiniumMethylation.hg19",
         "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -778,7 +769,6 @@
         "missMethyl"
     ],
     "MEAT": [
-        "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
         "methylumi",
@@ -834,7 +824,6 @@
         "rstatix"
     ],
     "methylGSA": [
-        "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -850,7 +839,6 @@
     ],
     "methylSig": [],
     "methylumi": [
-        "FDb.InfiniumMethylation.hg19",
         "minfi"
     ],
     "miaViz": [],
@@ -862,7 +850,6 @@
     "MicrobiotaProcess": [],
     "MIGSA": [],
     "MineICA": [
-        "FDb.InfiniumMethylation.hg19",
         "lumi",
         "methylumi",
         "minfi"
@@ -889,7 +876,6 @@
         "rstatix"
     ],
     "missMethyl": [
-        "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -1239,7 +1225,6 @@
         "rstatix"
     ],
     "RnBeads": [
-        "FDb.InfiniumMethylation.hg19",
         "methylumi",
         "minfi"
     ],
@@ -1329,7 +1314,6 @@
         "QuasR"
     ],
     "skewr": [
-        "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "lumi",
@@ -1514,7 +1498,6 @@
     ],
     "waddR": [],
     "wateRmelon": [
-        "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi",
         "methylumi",
@@ -1542,7 +1525,6 @@
     "MafDb.1Kgenomes.phase3.hs37d5": [],
     "PolyPhen.Hsapiens.dbSNP131": [],
     "SIFT.Hsapiens.dbSNP137": [],
-    "FDb.InfiniumMethylation.hg19": [],
     "mGSZ": [],
     "Mus.musculus": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
