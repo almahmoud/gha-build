@@ -297,9 +297,7 @@
         "IRanges",
         "XVector"
     ],
-    "affyContam": [
-        "affydata"
-    ],
+    "affyContam": [],
     "affycoretools": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -1588,7 +1586,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
         "affyContam",
-        "affydata",
         "annotate",
         "base64",
         "biomaRt",
@@ -50826,7 +50823,6 @@
     "SAVER": [
         "glmnet"
     ],
-    "affydata": [],
     "PFAM.db": [
         "AnnotationDbi",
         "Biostrings",
