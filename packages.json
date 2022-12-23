@@ -307,8 +307,7 @@
         "geneplotter"
     ],
     "AnVIL": [
-        "DT",
-        "miniUI"
+        "DT"
     ],
     "AnVILBilling": [
         "DT",
@@ -317,8 +316,7 @@
     ],
     "AnVILPublish": [
         "AnVIL",
-        "DT",
-        "miniUI"
+        "DT"
     ],
     "APAlyzer": [
         "AnnotationDbi",
@@ -345,7 +343,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "miniUI",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "patchwork",
@@ -520,7 +517,6 @@
         "fgsea",
         "ggalluvial",
         "haven",
-        "miniUI",
         "modelr",
         "motifmatchr",
         "msigdbr",
@@ -695,7 +691,6 @@
         "SingleCellExperiment",
         "colourpicker",
         "ggExtra",
-        "miniUI",
         "scran",
         "scuttle",
         "shinyjs",
@@ -707,7 +702,6 @@
         "colourpicker",
         "ggExtra",
         "glmGamPoi",
-        "miniUI",
         "rstan",
         "scran",
         "scuttle",
@@ -794,7 +788,6 @@
         "lme4",
         "lmerTest",
         "mia",
-        "miniUI",
         "nloptr",
         "patchwork",
         "phyloseq",
@@ -1329,7 +1322,6 @@
     ],
     "BUMHMM": [
         "devtools",
-        "miniUI",
         "pkgdown",
         "profvis",
         "testthat"
@@ -1536,7 +1528,6 @@
         "biomaRt",
         "cBioPortalData",
         "genefilter",
-        "miniUI",
         "rtracklayer"
     ],
     "CBEA": [
@@ -1562,7 +1553,6 @@
         "RaggedExperiment",
         "TCGAutils",
         "biomaRt",
-        "miniUI",
         "rtracklayer"
     ],
     "cbpManager": [
@@ -1619,7 +1609,6 @@
         "fgsea",
         "ggrastr",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scater",
@@ -2022,7 +2011,6 @@
         "ggrastr",
         "ggrepel",
         "kableExtra",
-        "miniUI",
         "msigdbr",
         "plotly",
         "qs",
@@ -2055,7 +2043,6 @@
         "GenomicAlignments",
         "TFBSTools",
         "annotate",
-        "miniUI",
         "plotly",
         "rtracklayer"
     ],
@@ -2329,7 +2316,6 @@
     ],
     "cogena": [
         "devtools",
-        "miniUI",
         "pkgdown",
         "profvis",
         "testthat"
@@ -2800,7 +2786,6 @@
         "GEOquery",
         "annotate",
         "genefilter",
-        "miniUI",
         "oligo",
         "oligoClasses",
         "shinyBS",
@@ -3114,7 +3099,6 @@
         "ggtree",
         "gson",
         "heatmaply",
-        "miniUI",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "patchwork",
@@ -3439,7 +3423,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -3457,7 +3440,6 @@
         "ggExtra",
         "heatmaply",
         "kableExtra",
-        "miniUI",
         "plotly",
         "shinyBS",
         "shinycssloaders",
@@ -4802,7 +4784,6 @@
     "gCrisprTools": [],
     "GCSscore": [
         "devtools",
-        "miniUI",
         "pkgdown",
         "profvis",
         "testthat"
@@ -4959,7 +4940,6 @@
         "geneplotter",
         "ggforce",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "shinyWidgets",
@@ -5629,8 +5609,7 @@
     "h5vc": [],
     "hca": [
         "BiocFileCache",
-        "DT",
-        "miniUI"
+        "DT"
     ],
     "heatmaps": [
         "EBImage"
@@ -5704,7 +5683,6 @@
         "ggpubr",
         "ggrepel",
         "lme4",
-        "miniUI",
         "multiHiCcompare",
         "nloptr",
         "pbkrtest",
@@ -5975,7 +5953,6 @@
     "immunotation": [],
     "INDEED": [
         "devtools",
-        "miniUI",
         "pkgdown",
         "profvis",
         "testthat",
@@ -5985,7 +5962,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -6079,7 +6055,6 @@
         "ggrepel",
         "golem",
         "lme4",
-        "miniUI",
         "nloptr",
         "pbkrtest",
         "plotly",
@@ -6165,7 +6140,6 @@
         "ggtree",
         "gson",
         "lme4",
-        "miniUI",
         "mixtools",
         "nloptr",
         "org.Hs.eg.db",
@@ -6200,7 +6174,6 @@
         "SingleCellExperiment",
         "colourpicker",
         "ggrepel",
-        "miniUI",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -6211,7 +6184,6 @@
         "colourpicker",
         "ggrepel",
         "iSEE",
-        "miniUI",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -6227,7 +6199,6 @@
         "ggrepel",
         "iSEE",
         "interactiveDisplayBase",
-        "miniUI",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -6239,7 +6210,6 @@
         "ggrepel",
         "iSEE",
         "iSEEhex",
-        "miniUI",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -6515,7 +6485,6 @@
         "annotate",
         "biomaRt",
         "cBioPortalData",
-        "miniUI",
         "motifStack",
         "rtracklayer"
     ],
@@ -6713,7 +6682,6 @@
         "htmlTable",
         "klaR",
         "labelled",
-        "miniUI",
         "plsgenomics",
         "questionr",
         "recipes",
@@ -7236,7 +7204,6 @@
         "lme4",
         "methylclockData",
         "minfi",
-        "miniUI",
         "modelr",
         "nloptr",
         "pbkrtest",
@@ -7356,7 +7323,6 @@
         "ChemmineR",
         "DT",
         "devtools",
-        "miniUI",
         "pkgdown",
         "profvis",
         "testthat"
@@ -8125,7 +8091,6 @@
         "MSnbase",
         "colourpicker",
         "ggExtra",
-        "miniUI",
         "plotly",
         "shinyjs"
     ],
@@ -8134,7 +8099,6 @@
         "MSstatsQC",
         "colourpicker",
         "ggExtra",
-        "miniUI",
         "plotly",
         "shinyjs"
     ],
@@ -8260,7 +8224,6 @@
         "graphite",
         "gson",
         "metap",
-        "miniUI",
         "mixOmics",
         "networkD3",
         "patchwork",
@@ -8501,7 +8464,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -8791,7 +8753,6 @@
         "haven",
         "klaR",
         "labelled",
-        "miniUI",
         "questionr"
     ],
     "OmaDB": [
@@ -8960,7 +8921,6 @@
     ],
     "oppti": [
         "devtools",
-        "miniUI",
         "pkgdown",
         "profvis",
         "testthat"
@@ -9147,7 +9107,6 @@
         "annotate",
         "devtools",
         "geneplotter",
-        "miniUI",
         "phyloseq",
         "pkgdown",
         "plotly",
@@ -9370,7 +9329,6 @@
         "OmaDB",
         "colourpicker",
         "interactiveDisplayBase",
-        "miniUI",
         "shinyBS",
         "shinyFiles",
         "shinyjs",
@@ -9449,7 +9407,6 @@
         "SingleCellExperiment",
         "ggrastr",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scater",
@@ -9490,7 +9447,6 @@
         "ggrepel",
         "htmlTable",
         "lme4",
-        "miniUI",
         "nloptr",
         "pbkrtest",
         "rstatix",
@@ -9745,7 +9701,6 @@
         "colourpicker",
         "dendextend",
         "genefilter",
-        "miniUI",
         "mixtools",
         "pRoloc",
         "plotly",
@@ -9857,7 +9812,6 @@
         "highcharter",
         "htmlTable",
         "interactiveDisplayBase",
-        "miniUI",
         "pairsD3",
         "recount",
         "rtracklayer",
@@ -10683,7 +10637,6 @@
         "biomaRt",
         "devtools",
         "geneplotter",
-        "miniUI",
         "org.Mm.eg.db",
         "pkgdown",
         "profvis",
@@ -11118,7 +11071,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -11163,7 +11115,6 @@
         "caret",
         "ggrepel",
         "interactiveDisplayBase",
-        "miniUI",
         "patchwork",
         "plotly",
         "recipes",
@@ -11203,7 +11154,6 @@
         "genefilter",
         "geneplotter",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -11215,7 +11165,6 @@
         "aplot",
         "ggrepel",
         "ggtree",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -11228,7 +11177,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -11260,7 +11208,6 @@
         "Seurat",
         "SingleCellExperiment",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -11313,7 +11260,6 @@
         "SingleCellExperiment",
         "ggforce",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -11330,7 +11276,6 @@
     "scMAGeCK": [
         "Seurat",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -11511,7 +11456,6 @@
         "heatmaply",
         "interactiveDisplayBase",
         "meshr",
-        "miniUI",
         "nnTensor",
         "patchwork",
         "plotly",
@@ -11536,7 +11480,6 @@
         "fields",
         "ggforce",
         "ggrepel",
-        "miniUI",
         "msigdbr",
         "nnTensor",
         "patchwork",
@@ -11564,7 +11507,6 @@
         "ggraph",
         "ggrastr",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "rtracklayer",
@@ -11958,7 +11900,6 @@
         "htmlTable",
         "interactiveDisplayBase",
         "metap",
-        "miniUI",
         "msigdbr",
         "org.Hs.eg.db",
         "patchwork",
@@ -12140,7 +12081,6 @@
         "SingleCellExperiment",
         "ggrastr",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scater",
@@ -12389,7 +12329,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -12436,7 +12375,6 @@
         "ensembldb",
         "geneplotter",
         "htmlTable",
-        "miniUI",
         "pkgdown",
         "profvis",
         "rtracklayer",
@@ -12539,7 +12477,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -12761,7 +12698,6 @@
         "ggpubr",
         "ggrepel",
         "lme4",
-        "miniUI",
         "nloptr",
         "pbkrtest",
         "rstatix",
@@ -12839,7 +12775,6 @@
         "htmlTable",
         "interactiveDisplayBase",
         "lme4",
-        "miniUI",
         "nloptr",
         "org.Hs.eg.db",
         "patchwork",
@@ -12916,7 +12851,6 @@
         "RaggedExperiment",
         "TCGAutils",
         "biomaRt",
-        "miniUI",
         "rtracklayer"
     ],
     "TFARM": [
@@ -12961,7 +12895,6 @@
         "DT",
         "GSEABase",
         "annotate",
-        "miniUI",
         "org.Hs.eg.db"
     ],
     "tidybulk": [],
@@ -13926,14 +13859,12 @@
         "ggrepel"
     ],
     "recipes": [],
-    "miniUI": [],
     "shinytoastr": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi"
     ],
     "Seurat": [
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
@@ -14134,11 +14065,9 @@
     ],
     "ggExtra": [
         "colourpicker",
-        "miniUI",
         "shinyjs"
     ],
     "colourpicker": [
-        "miniUI",
         "shinyjs"
     ],
     "heatmaply": [
@@ -14289,7 +14218,6 @@
         "rtracklayer"
     ],
     "devtools": [
-        "miniUI",
         "pkgdown",
         "profvis",
         "testthat"
@@ -14809,19 +14737,16 @@
         "haven",
         "klaR",
         "labelled",
-        "miniUI",
         "questionr"
     ],
     "klaR": [
         "haven",
         "labelled",
-        "miniUI",
         "questionr"
     ],
     "questionr": [
         "haven",
-        "labelled",
-        "miniUI"
+        "labelled"
     ],
     "labelled": [
         "haven"
@@ -14936,7 +14861,6 @@
     ],
     "anyLib": [
         "devtools",
-        "miniUI",
         "pkgdown",
         "profvis",
         "testthat"
@@ -14994,7 +14918,6 @@
         "haven",
         "klaR",
         "labelled",
-        "miniUI",
         "questionr"
     ],
     "OMICsPCAdata": [
@@ -15189,7 +15112,6 @@
     "SoupX": [
         "Seurat",
         "ggrepel",
-        "miniUI",
         "patchwork",
         "plotly",
         "scattermore",
