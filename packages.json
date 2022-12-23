@@ -1628,7 +1628,6 @@
         "latticeExtra",
         "rtracklayer"
     ],
-    "BEclear": [],
     "beer": [
         "BiocFileCache",
         "GenomicRanges",
