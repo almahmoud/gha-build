@@ -20635,7 +20635,6 @@
         "tidyselect",
         "viridis"
     ],
-    "maSigPro": [],
     "maskBAD": [
         "Biostrings",
         "GenomeInfoDb",
