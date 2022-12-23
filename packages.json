@@ -7477,7 +7477,6 @@
         "genefilter"
     ],
     "SimBu": [],
-    "SimFFPE": [],
     "simpleSeg": [
         "DropletUtils",
         "SpatialExperiment",
