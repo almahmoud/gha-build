@@ -2773,7 +2773,6 @@
         "rstatix"
     ],
     "LinTInd": [],
-    "lipidr": [],
     "lisaClust": [
         "DropletUtils",
         "HDF5Array",
