@@ -682,7 +682,6 @@
         "httr",
         "jquerylib",
         "knitr",
-        "optimx",
         "pillar",
         "plotly",
         "purrr",
@@ -26736,7 +26735,6 @@
         "futile.logger",
         "ggplot2",
         "multtest",
-        "optimx",
         "pillar",
         "tibble",
         "vctrs"
@@ -38446,7 +38444,6 @@
         "XVector",
         "doRNG",
         "ggplot2",
-        "optimx",
         "pillar",
         "reshape2",
         "stringr",
@@ -53764,7 +53761,6 @@
         "segmented"
     ],
     "segmented": [],
-    "optimx": [],
     "signal": [],
     "readxl": [
         "cellranger",
@@ -59909,9 +59905,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "ExtDist": [
-        "optimx"
-    ],
+    "ExtDist": [],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
         "AnnotationHub",
