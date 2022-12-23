@@ -706,8 +706,7 @@
     "basecallQC": [
         "DT",
         "GenomicAlignments",
-        "ShortRead",
-        "prettydoc"
+        "ShortRead"
     ],
     "Basic4Cseq": [
         "BSgenome",
@@ -1832,7 +1831,6 @@
         "missMethyl",
         "org.Hs.eg.db",
         "plotly",
-        "prettydoc",
         "rhdf5",
         "rtracklayer",
         "sva",
@@ -6518,9 +6516,7 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "MACSQuantifyR": [
-        "prettydoc"
-    ],
+    "MACSQuantifyR": [],
     "MACSr": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -13045,8 +13041,7 @@
         "TrajectoryUtils"
     ],
     "tscR": [
-        "kmlShape",
-        "prettydoc"
+        "kmlShape"
     ],
     "ttgsea": [
         "DiagrammeR",
@@ -13881,7 +13876,6 @@
     ],
     "threejs": [],
     "rstan": [],
-    "prettydoc": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "GenomicAlignments",
