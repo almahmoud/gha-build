@@ -5358,7 +5358,6 @@
         "ggnetwork"
     ],
     "piano": [],
-    "PICS": [],
     "Pigengene": [
         "DOSE",
         "GOSemSim",
@@ -5378,7 +5377,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "PICS",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
