@@ -1,0 +1,551 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   b096a0b1..7e74d091  main       -> origin/main
+Updating b096a0b1..7e74d091
+Fast-forward
+ lists/sigsquared                                 |   2 +-
+ logs/run_ids/rstudio-binaries/biocViews          |   2 +
+ logs/sizes/rstudio-binaries/binaries/sigsquared  |   1 +
+ logs/sizes/rstudio-binaries/libraries/sigsquared |   1 +
+ logs/times/rstudio-binary/sigsquared             | 616 +++++++++++++++++++++++
+ packages.json                                    |   1 -
+ 6 files changed, 621 insertions(+), 2 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/biocViews
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/sigsquared
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/sigsquared
+ create mode 100644 logs/times/rstudio-binary/sigsquared
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=ASSET
++ PKG=ASSET
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "ASSET"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency MASS is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 13.8M    0 65280    0     0    97k      0  0:02:24 --:--:--  0:02:24   97k  7 13.8M    7 1000k    0     0   606k      0  0:00:23  0:00:01  0:00:22  606k 20 13.8M   20 2912k    0     0  1100k      0  0:00:12  0:00:02  0:00:10 1100k 41 13.8M   41 5813k    0     0  1595k      0  0:00:08  0:00:03  0:00:05 1595k 68 13.8M   68 9685k    0     0  2087k      0  0:00:06  0:00:04  0:00:02 2087k100 13.8M  100 13.8M    0     0  2550k      0  0:00:05  0:00:05 --:--:-- 2876k
+built/
+built/built/
+built/built/built/
+built/built/built/lattice/
+built/built/built/lattice/libs/
+built/built/built/lattice/libs/lattice.so
+built/built/built/lattice/NEWS
+built/built/built/lattice/NAMESPACE
+built/built/built/lattice/DESCRIPTION
+built/built/built/lattice/help/
+built/built/built/lattice/help/paths.rds
+built/built/built/lattice/help/lattice.rdx
+built/built/built/lattice/help/lattice.rdb
+built/built/built/lattice/help/aliases.rds
+built/built/built/lattice/help/AnIndex
+built/built/built/lattice/data/
+built/built/built/lattice/data/Rdata.rds
+built/built/built/lattice/data/Rdata.rdb
+built/built/built/lattice/data/Rdata.rdx
+built/built/built/lattice/Meta/
+built/built/built/lattice/Meta/package.rds
+built/built/built/lattice/Meta/demo.rds
+built/built/built/lattice/Meta/features.rds
+built/built/built/lattice/Meta/hsearch.rds
+built/built/built/lattice/Meta/links.rds
+built/built/built/lattice/Meta/nsInfo.rds
+built/built/built/lattice/Meta/Rd.rds
+built/built/built/lattice/Meta/data.rds
+built/built/built/lattice/po/
+built/built/built/lattice/po/it/
+built/built/built/lattice/po/it/LC_MESSAGES/
+built/built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/fr/
+built/built/built/lattice/po/fr/LC_MESSAGES/
+built/built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/ko/
+built/built/built/lattice/po/ko/LC_MESSAGES/
+built/built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/pl/
+built/built/built/lattice/po/pl/LC_MESSAGES/
+built/built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/en@quot/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/de/
+built/built/built/lattice/po/de/LC_MESSAGES/
+built/built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/CITATION
+built/built/built/lattice/html/
+built/built/built/lattice/html/00Index.html
+built/built/built/lattice/html/R.css
+built/built/built/lattice/INDEX
+built/built/built/lattice/R/
+built/built/built/lattice/R/lattice
+built/built/built/lattice/R/lattice.rdx
+built/built/built/lattice/R/lattice.rdb
+built/built/built/lattice/demo/
+built/built/built/lattice/demo/panel.R
+built/built/built/lattice/demo/intervals.R
+built/built/built/lattice/demo/labels.R
+built/built/built/lattice/demo/lattice.R
+built/built/built/Matrix/
+built/built/built/Matrix/Doxyfile
+built/built/built/Matrix/libs/
+built/built/built/Matrix/libs/Matrix.so
+built/built/built/Matrix/NAMESPACE
+built/built/built/Matrix/LICENCE
+built/built/built/Matrix/DESCRIPTION
+built/built/built/Matrix/test-tools-1.R
+built/built/built/Matrix/help/
+built/built/built/Matrix/help/paths.rds
+built/built/built/Matrix/help/aliases.rds
+built/built/built/Matrix/help/AnIndex
+built/built/built/Matrix/help/Matrix.rdx
+built/built/built/Matrix/help/Matrix.rdb
+built/built/built/Matrix/data/
+built/built/built/Matrix/data/USCounties.R
+built/built/built/Matrix/data/datalist
+built/built/built/Matrix/data/CAex.R
+built/built/built/Matrix/data/wrld_1deg.R
+built/built/built/Matrix/data/KNex.R
+built/built/built/Matrix/Meta/
+built/built/built/Matrix/Meta/package.rds
+built/built/built/Matrix/Meta/vignette.rds
+built/built/built/Matrix/Meta/features.rds
+built/built/built/Matrix/Meta/hsearch.rds
+built/built/built/Matrix/Meta/links.rds
+built/built/built/Matrix/Meta/nsInfo.rds
+built/built/built/Matrix/Meta/Rd.rds
+built/built/built/Matrix/Meta/data.rds
+built/built/built/Matrix/NEWS.Rd
+built/built/built/Matrix/include/
+built/built/built/Matrix/include/cholmod.h
+built/built/built/Matrix/include/Matrix_stubs.c
+built/built/built/Matrix/include/Matrix.h
+built/built/built/Matrix/test-tools-Matrix.R
+built/built/built/Matrix/test-tools.R
+built/built/built/Matrix/po/
+built/built/built/Matrix/po/lt/
+built/built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/it/
+built/built/built/Matrix/po/it/LC_MESSAGES/
+built/built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/fr/
+built/built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/ko/
+built/built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/pl/
+built/built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/en@quot/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/de/
+built/built/built/Matrix/po/de/LC_MESSAGES/
+built/built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/Copyrights
+built/built/built/Matrix/html/
+built/built/built/Matrix/html/00Index.html
+built/built/built/Matrix/html/R.css
+built/built/built/Matrix/INDEX
+built/built/built/Matrix/doc/
+built/built/built/Matrix/doc/Design-issues.Rnw
+built/built/built/Matrix/doc/sparseModels.R
+built/built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/built/Matrix/doc/Introduction.R
+built/built/built/Matrix/doc/sparseModels.Rnw
+built/built/built/Matrix/doc/Design-issues.pdf
+built/built/built/Matrix/doc/Design-issues.R
+built/built/built/Matrix/doc/Comparisons.R
+built/built/built/Matrix/doc/Announce.txt
+built/built/built/Matrix/doc/Introduction.Rnw
+built/built/built/Matrix/doc/Intro2Matrix.R
+built/built/built/Matrix/doc/index.html
+built/built/built/Matrix/doc/SuiteSparse/
+built/built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/built/Matrix/doc/Comparisons.pdf
+built/built/built/Matrix/doc/sparseModels.pdf
+built/built/built/Matrix/doc/Comparisons.Rnw
+built/built/built/Matrix/doc/Introduction.pdf
+built/built/built/Matrix/R/
+built/built/built/Matrix/R/Matrix
+built/built/built/Matrix/R/Matrix.rdx
+built/built/built/Matrix/R/Matrix.rdb
+built/built/built/Matrix/external/
+built/built/built/Matrix/external/symW.rda
+built/built/built/Matrix/external/lund_a.rsa
+built/built/built/Matrix/external/wrong.mtx
+built/built/built/Matrix/external/pores_1.mtx
+built/built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/built/Matrix/external/CAex_slots.rda
+built/built/built/Matrix/external/KNex_slots.rda
+built/built/built/Matrix/external/jgl009.mtx
+built/built/built/Matrix/external/utm300.rua
+built/built/built/Matrix/external/test3comp.rda
+built/built/built/Matrix/external/USCounties_slots.rda
+built/built/built/Matrix/external/Z_NA_rnk.rds
+built/built/built/Matrix/external/symA.rda
+built/built/built/Matrix/external/lund_a.mtx
+built/built/expm/
+built/built/expm/libs/
+built/built/expm/libs/expm.so
+built/built/expm/NAMESPACE
+built/built/expm/DESCRIPTION
+built/built/expm/help/
+built/built/expm/help/paths.rds
+built/built/expm/help/aliases.rds
+built/built/expm/help/expm.rdx
+built/built/expm/help/AnIndex
+built/built/expm/help/expm.rdb
+built/built/expm/data/
+built/built/expm/data/matStig.R
+built/built/expm/Meta/
+built/built/expm/Meta/package.rds
+built/built/expm/Meta/vignette.rds
+built/built/expm/Meta/demo.rds
+built/built/expm/Meta/features.rds
+built/built/expm/Meta/hsearch.rds
+built/built/expm/Meta/links.rds
+built/built/expm/Meta/nsInfo.rds
+built/built/expm/Meta/Rd.rds
+built/built/expm/Meta/data.rds
+built/built/expm/test-tools.R
+built/built/expm/po/
+built/built/expm/po/fr/
+built/built/expm/po/fr/LC_MESSAGES/
+built/built/expm/po/fr/LC_MESSAGES/fr.mo
+built/built/expm/po/fr/LC_MESSAGES/expm.mo
+built/built/expm/po/en@quot/
+built/built/expm/po/en@quot/LC_MESSAGES/
+built/built/expm/po/en@quot/LC_MESSAGES/R-expm.mo
+built/built/expm/po/en@quot/LC_MESSAGES/expm.mo
+built/built/expm/html/
+built/built/expm/html/00Index.html
+built/built/expm/html/R.css
+built/built/expm/INDEX
+built/built/expm/doc/
+built/built/expm/doc/expm.pdf
+built/built/expm/doc/index.html
+built/built/expm/doc/expm.Rnw
+built/built/expm/doc/expm.R
+built/built/expm/R/
+built/built/expm/R/expm
+built/built/expm/R/expm.rdx
+built/built/expm/R/expm.rdb
+built/built/expm/demo/
+built/built/expm/demo/exact-fn.R
+built/built/expm/demo/balanceTst.R
+built/built/expm/demo/expm.R
+built/built/survival/
+built/built/survival/libs/
+built/built/survival/libs/survival.so
+built/built/survival/NAMESPACE
+built/built/survival/DESCRIPTION
+built/built/survival/help/
+built/built/survival/help/paths.rds
+built/built/survival/help/survival.rdb
+built/built/survival/help/aliases.rds
+built/built/survival/help/figures/
+built/built/survival/help/figures/logo.png
+built/built/survival/help/survival.rdx
+built/built/survival/help/AnIndex
+built/built/survival/data/
+built/built/survival/data/Rdata.rds
+built/built/survival/data/Rdata.rdb
+built/built/survival/data/Rdata.rdx
+built/built/survival/Meta/
+built/built/survival/Meta/package.rds
+built/built/survival/Meta/vignette.rds
+built/built/survival/Meta/features.rds
+built/built/survival/Meta/hsearch.rds
+built/built/survival/Meta/links.rds
+built/built/survival/Meta/nsInfo.rds
+built/built/survival/Meta/Rd.rds
+built/built/survival/Meta/data.rds
+built/built/survival/NEWS.Rd
+built/built/survival/CITATION
+built/built/survival/html/
+built/built/survival/html/00Index.html
+built/built/survival/html/R.css
+built/built/survival/INDEX
+built/built/survival/doc/
+built/built/survival/doc/population.pdf
+built/built/survival/doc/concordance.Rnw
+built/built/survival/doc/validate.Rnw
+built/built/survival/doc/survival.pdf
+built/built/survival/doc/splines.pdf
+built/built/survival/doc/timedep.R
+built/built/survival/doc/discrim.Rnw
+built/built/survival/doc/tiedtimes.pdf
+built/built/survival/doc/splines.Rnw
+built/built/survival/doc/multi.pdf
+built/built/survival/doc/validate.R
+built/built/survival/doc/compete.pdf
+built/built/survival/doc/concordance.pdf
+built/built/survival/doc/concordance.R
+built/built/survival/doc/adjcurve.pdf
+built/built/survival/doc/other.pdf
+built/built/survival/doc/approximate.Rnw
+built/built/survival/doc/validate.pdf
+built/built/survival/doc/discrim.pdf
+built/built/survival/doc/splines.R
+built/built/survival/doc/survival.R
+built/built/survival/doc/adjcurve.R
+built/built/survival/doc/approximate.pdf
+built/built/survival/doc/timedep.pdf
+built/built/survival/doc/other.Rnw
+built/built/survival/doc/population.R
+built/built/survival/doc/adjcurve.Rnw
+built/built/survival/doc/timedep.Rnw
+built/built/survival/doc/discrim.R
+built/built/survival/doc/tiedtimes.R
+built/built/survival/doc/index.html
+built/built/survival/doc/compete.Rnw
+built/built/survival/doc/population.Rnw
+built/built/survival/doc/tiedtimes.Rnw
+built/built/survival/doc/approximate.R
+built/built/survival/doc/compete.R
+built/built/survival/doc/multi.Rnw
+built/built/survival/doc/survival.Rnw
+built/built/survival/R/
+built/built/survival/R/survival.rdb
+built/built/survival/R/survival.rdx
+built/built/survival/R/survival
+built/built/survival/COPYRIGHTS
+built/msm/
+built/msm/libs/
+built/msm/libs/msm.so
+built/msm/NEWS
+built/msm/NAMESPACE
+built/msm/DESCRIPTION
+built/msm/help/
+built/msm/help/paths.rds
+built/msm/help/msm.rdx
+built/msm/help/aliases.rds
+built/msm/help/msm.rdb
+built/msm/help/AnIndex
+built/msm/data/
+built/msm/data/Rdata.rds
+built/msm/data/Rdata.rdb
+built/msm/data/Rdata.rdx
+built/msm/Meta/
+built/msm/Meta/package.rds
+built/msm/Meta/vignette.rds
+built/msm/Meta/features.rds
+built/msm/Meta/hsearch.rds
+built/msm/Meta/links.rds
+built/msm/Meta/nsInfo.rds
+built/msm/Meta/Rd.rds
+built/msm/Meta/data.rds
+built/msm/CITATION
+built/msm/html/
+built/msm/html/00Index.html
+built/msm/html/R.css
+built/msm/INDEX
+built/msm/doc/
+built/msm/doc/msm-manual.R
+built/msm/doc/msm-manual.pdf
+built/msm/doc/index.html
+built/msm/R/
+built/msm/R/msm.rdx
+built/msm/R/msm
+built/msm/R/msm.rdb
+built/expm/
+built/expm/libs/
+built/expm/libs/expm.so
+built/expm/NAMESPACE
+built/expm/DESCRIPTION
+built/expm/help/
+built/expm/help/paths.rds
+built/expm/help/aliases.rds
+built/expm/help/expm.rdx
+built/expm/help/AnIndex
+built/expm/help/expm.rdb
+built/expm/data/
+built/expm/data/matStig.R
+built/expm/Meta/
+built/expm/Meta/package.rds
+built/expm/Meta/vignette.rds
+built/expm/Meta/demo.rds
+built/expm/Meta/features.rds
+built/expm/Meta/hsearch.rds
+built/expm/Meta/links.rds
+built/expm/Meta/nsInfo.rds
+built/expm/Meta/Rd.rds
+built/expm/Meta/data.rds
+built/expm/test-tools.R
+built/expm/po/
+built/expm/po/fr/
+built/expm/po/fr/LC_MESSAGES/
+built/expm/po/fr/LC_MESSAGES/fr.mo
+built/expm/po/fr/LC_MESSAGES/expm.mo
+built/expm/po/en@quot/
+built/expm/po/en@quot/LC_MESSAGES/
+built/expm/po/en@quot/LC_MESSAGES/R-expm.mo
+built/expm/po/en@quot/LC_MESSAGES/expm.mo
+built/expm/html/
+built/expm/html/00Index.html
+built/expm/html/R.css
+built/expm/INDEX
+built/expm/doc/
+built/expm/doc/expm.pdf
+built/expm/doc/index.html
+built/expm/doc/expm.Rnw
+built/expm/doc/expm.R
+built/expm/R/
+built/expm/R/expm
+built/expm/R/expm.rdx
+built/expm/R/expm.rdb
+built/expm/demo/
+built/expm/demo/exact-fn.R
+built/expm/demo/balanceTst.R
+built/expm/demo/expm.R
+built/mvtnorm/
+built/mvtnorm/libs/
+built/mvtnorm/libs/mvtnorm.so
+built/mvtnorm/NEWS
+built/mvtnorm/NAMESPACE
+built/mvtnorm/DESCRIPTION
+built/mvtnorm/help/
+built/mvtnorm/help/paths.rds
+built/mvtnorm/help/aliases.rds
+built/mvtnorm/help/mvtnorm.rdx
+built/mvtnorm/help/mvtnorm.rdb
+built/mvtnorm/help/AnIndex
+built/mvtnorm/Meta/
+built/mvtnorm/Meta/package.rds
+built/mvtnorm/Meta/vignette.rds
+built/mvtnorm/Meta/features.rds
+built/mvtnorm/Meta/hsearch.rds
+built/mvtnorm/Meta/links.rds
+built/mvtnorm/Meta/nsInfo.rds
+built/mvtnorm/Meta/Rd.rds
+built/mvtnorm/include/
+built/mvtnorm/include/mvtnormAPI.h
+built/mvtnorm/include/mvtnorm.h
+built/mvtnorm/CITATION
+built/mvtnorm/C_API_Example/
+built/mvtnorm/C_API_Example/NAMESPACE
+built/mvtnorm/C_API_Example/DESCRIPTION
+built/mvtnorm/C_API_Example/R/
+built/mvtnorm/C_API_Example/R/test.R
+built/mvtnorm/C_API_Example/src/
+built/mvtnorm/C_API_Example/src/test.c
+built/mvtnorm/C_API_Example/tests/
+built/mvtnorm/C_API_Example/tests/test.R
+built/mvtnorm/html/
+built/mvtnorm/html/00Index.html
+built/mvtnorm/html/R.css
+built/mvtnorm/INDEX
+built/mvtnorm/doc/
+built/mvtnorm/doc/MVT_Rnews.Rnw
+built/mvtnorm/doc/MVT_Rnews.R
+built/mvtnorm/doc/MVT_Rnews.pdf
+built/mvtnorm/doc/index.html
+built/mvtnorm/R/
+built/mvtnorm/R/mvtnorm
+built/mvtnorm/R/mvtnorm.rdx
+built/mvtnorm/R/mvtnorm.rdb
+Dependency rmeta is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''ASSET'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv ASSET_2.16.0_R_x86_64-pc-linux-gnu.tar.gz expm_0.999-6_R_x86_64-pc-linux-gnu.tar.gz msm_1.7_R_x86_64-pc-linux-gnu.tar.gz mvtnorm_1.1-3_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/ASSET
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'ASSET'
+also installing the dependencies ‘mvtnorm’, ‘expm’, ‘msm’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/mvtnorm_1.1-3.tar.gz'
+Content type 'binary/octet-stream' length 263444 bytes (257 KB)
+==================================================
+downloaded 257 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/expm_0.999-6.tar.gz'
+Content type 'binary/octet-stream' length 245276 bytes (239 KB)
+==================================================
+downloaded 239 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/msm_1.7.tar.gz'
+Content type 'binary/octet-stream' length 1451009 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/ASSET_2.16.0.tar.gz'
+Content type 'application/x-gzip' length 325179 bytes (317 KB)
+==================================================
+downloaded 317 KB
+
+* installing *binary* package ‘mvtnorm’ ...
+* ‘mvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *binary* package ‘expm’ ...
+* ‘expm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘expm’ as ‘expm_0.999-6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (expm)
+* installing *binary* package ‘msm’ ...
+* ‘msm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘msm’ as ‘msm_1.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (msm)
+* installing *source* package ‘ASSET’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ASSET’ as ‘ASSET_2.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ASSET)
+
+The downloaded source packages are in
+	‘/tmp/RtmpPIsXFB/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m19.031s
+user	0m10.324s
+sys	0m1.352s

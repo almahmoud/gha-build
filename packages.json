@@ -1493,7 +1493,6 @@
         "RSQLite",
         "XVector"
     ],
-    "ASSET": [],
     "ASSIGN": [
         "AnnotationDbi",
         "BiocParallel",
@@ -30496,9 +30495,7 @@
         "tweenr",
         "viridis"
     ],
-    "REBET": [
-        "ASSET"
-    ],
+    "REBET": [],
     "rebook": [
         "BiocStyle",
         "bookdown",
