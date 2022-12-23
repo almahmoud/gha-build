@@ -2770,7 +2770,6 @@
         "ewceData",
         "ggpubr",
         "ggtree",
-        "gprofiler2",
         "lme4",
         "nloptr",
         "orthogene",
@@ -2843,7 +2842,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "gprofiler2",
         "org.Hs.eg.db",
         "reactome.db",
         "treeio",
@@ -3606,7 +3604,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "gprofiler2",
         "viridis"
     ],
     "h5vc": [
@@ -5468,8 +5465,7 @@
     ],
     "netOmics": [
         "GO.db",
-        "RandomWalkRestartMH",
-        "gprofiler2"
+        "RandomWalkRestartMH"
     ],
     "netresponse": [],
     "NetSAM": [
@@ -5744,7 +5740,6 @@
         "car",
         "ggpubr",
         "ggtree",
-        "gprofiler2",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6459,7 +6454,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
         "genomation",
-        "gprofiler2",
         "rtracklayer"
     ],
     "rcellminer": [],
@@ -9202,7 +9196,6 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "gprofiler2": [],
     "gap": [],
     "fda": [],
     "SPARQL": [],
