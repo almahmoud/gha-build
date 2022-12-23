@@ -4280,7 +4280,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "dStruct": [],
     "Dune": [
         "gganimate",
         "tidyr"
