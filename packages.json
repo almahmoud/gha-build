@@ -40697,7 +40697,6 @@
     "Path2PPI": [
         "igraph"
     ],
-    "pathifier": [],
     "PathoStat": [
         "AnnotationDbi",
         "BiocParallel",
