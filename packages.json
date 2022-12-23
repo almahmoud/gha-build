@@ -90,7 +90,6 @@
         "Mus.musculus",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "chromVAR",
         "motifmatchr",
         "rGREAT"
@@ -724,7 +723,6 @@
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -1468,7 +1466,6 @@
     "musicatk": [
         "FactoMineR",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "VariantAnnotation",
         "car",
         "decompTumor2Sig",
@@ -1503,8 +1500,7 @@
         "mppa"
     ],
     "nearBynding": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "NetActivity": [],
     "netboxr": [
@@ -1645,7 +1641,6 @@
     "preciseTAD": [
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "rCGH"
     ],
     "primirTSS": [
@@ -1660,7 +1655,6 @@
     "profileplyr": [
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "enrichplot",
         "rGREAT"
@@ -1745,8 +1739,7 @@
     "RCAS": [],
     "rCGH": [
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "ReactomePA": [
         "enrichplot"
@@ -1799,8 +1792,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "rGREAT": [
-        "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
+        "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "rgsepd": [
         "geneLenDataBase",
@@ -2011,7 +2003,6 @@
     ],
     "signifinder": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "car",
         "ensembldb",
         "ggpubr",
@@ -2121,9 +2112,7 @@
     ],
     "staRank": [],
     "stJoincount": [],
-    "strandCheckR": [
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
-    ],
+    "strandCheckR": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
@@ -2264,7 +2253,6 @@
         "Homo.sapiens",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb"
@@ -2375,7 +2363,6 @@
     "Mus.musculus": [
         "OrganismDbi"
     ],
-    "TxDb.Hsapiens.UCSC.hg38.knownGene": [],
     "doBy": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi"
