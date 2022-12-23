@@ -11420,7 +11420,6 @@
         "HDF5Array",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "alphahull",
         "dittoSeq",
         "plotly",
         "rhdf5",
@@ -14066,7 +14065,6 @@
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
-    "alphahull": [],
     "miRNAtap.db": [
         "AnnotationDbi",
         "miRNAtap"
