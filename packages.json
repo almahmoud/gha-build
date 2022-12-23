@@ -376,9 +376,7 @@
         "propr"
     ],
     "cleanUpdTSeq": [],
-    "clipper": [
-        "qpgraph"
-    ],
+    "clipper": [],
     "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
@@ -1730,7 +1728,6 @@
         "VIM",
         "car"
     ],
-    "qpgraph": [],
     "qrqc": [
         "VariantAnnotation",
         "biovizBase",
