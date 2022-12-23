@@ -46887,7 +46887,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "ITALICSData",
         "Matrix",
         "MatrixGenerics",
         "RCurl",
@@ -115646,7 +115645,6 @@
         "startupmsg"
     ],
     "startupmsg": [],
-    "ITALICSData": [],
     "pd.mapping50k.xba240": [
         "Biobase",
         "Biostrings",
