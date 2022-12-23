@@ -2738,9 +2738,7 @@
         "plyranges"
     ],
     "KEGGlincs": [],
-    "keggorthology": [
-        "hgu95av2.db"
-    ],
+    "keggorthology": [],
     "kissDE": [
         "BSgenome",
         "DESeq2",
@@ -6324,7 +6322,6 @@
     "pd.mapping50k.xba240": [
         "oligo"
     ],
-    "hgu95av2.db": [],
     "glmmTMB": [],
     "depmap": [],
     "plsgenomics": [
