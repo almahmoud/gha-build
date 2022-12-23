@@ -3174,8 +3174,7 @@
         "stringr",
         "tibble",
         "topGO",
-        "viridis",
-        "xlsx"
+        "viridis"
     ],
     "BioMVCClass": [],
     "biomvRCNS": [
@@ -42011,7 +42010,6 @@
         "purrr",
         "stringr"
     ],
-    "xlsx": [],
     "multcomp": [
         "TH.data"
     ],
