@@ -6490,7 +6490,6 @@
         "blob",
         "httr",
         "openssl",
-        "tm",
         "topGO",
         "topicmodels"
     ],
@@ -12031,7 +12030,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "ttgsea",
         "viridis",
         "visNetwork",
@@ -18345,8 +18343,7 @@
         "sass",
         "stringr",
         "tibble",
-        "tidyselect",
-        "tm"
+        "tidyselect"
     ],
     "GENIE3": [
         "dplyr",
@@ -18868,7 +18865,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "ttgsea",
         "viridis",
         "visNetwork",
@@ -30834,7 +30830,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "topicmodels",
         "uwot",
         "viridis",
@@ -40662,7 +40657,6 @@
         "sass",
         "shiny",
         "tibble",
-        "tm",
         "treemap",
         "umap"
     ],
@@ -44396,8 +44390,7 @@
         "doParallel",
         "httr",
         "openssl",
-        "org.Hs.eg.db",
-        "tm"
+        "org.Hs.eg.db"
     ],
     "sincell": [
         "fields",
@@ -46784,7 +46777,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "topicmodels",
         "tweenr",
         "viridis"
@@ -49879,7 +49871,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "viridis",
         "visNetwork",
         "vroom"
@@ -50401,7 +50392,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "tm",
         "ttgsea",
         "uwot",
         "viridis",
@@ -50944,7 +50934,6 @@
         "tidygraph",
         "tidyr",
         "tidyselect",
-        "tm",
         "tweenr",
         "viridis"
     ],
@@ -54533,10 +54522,7 @@
         "pillar",
         "tibble"
     ],
-    "topicmodels": [
-        "tm"
-    ],
-    "tm": [],
+    "topicmodels": [],
     "ggpmisc": [
         "MatrixModels",
         "dplyr",
