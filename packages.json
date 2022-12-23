@@ -93,9 +93,7 @@
         "MafDb.gnomADex.r2.1.hs37d5",
         "rhdf5"
     ],
-    "ArrayExpress": [
-        "oligo"
-    ],
+    "ArrayExpress": [],
     "ArrayExpressHTS": [
         "Hmisc",
         "viridis"
@@ -480,8 +478,7 @@
     ],
     "ChIPXpress": [
         "affy",
-        "frma",
-        "oligo"
+        "frma"
     ],
     "ChromSCape": [
         "scater",
@@ -528,9 +525,7 @@
     "cmapR": [
         "rhdf5"
     ],
-    "cn.farms": [
-        "oligo"
-    ],
+    "cn.farms": [],
     "CNVfilteR": [
         "CopyNumberPlots",
         "Hmisc",
@@ -682,8 +677,7 @@
         "viridis"
     ],
     "crossmeta": [
-        "affy",
-        "oligo"
+        "affy"
     ],
     "csdR": [
         "Hmisc",
@@ -904,8 +898,7 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "affy",
-        "oligo"
+        "affy"
     ],
     "DSS": [
         "HDF5Array",
@@ -1131,8 +1124,7 @@
         "NHPoisson"
     ],
     "frma": [
-        "affy",
-        "oligo"
+        "affy"
     ],
     "frmaTools": [
         "affy"
@@ -1469,7 +1461,6 @@
     ],
     "ISAnalytics": [],
     "ITALICS": [
-        "oligo",
         "pd.mapping50k.xba240"
     ],
     "ivygapSE": [
@@ -1834,8 +1825,7 @@
     "mimager": [
         "affy",
         "affyPLM",
-        "gcrma",
-        "oligo"
+        "gcrma"
     ],
     "mina": [
         "Hmisc",
@@ -2165,7 +2155,6 @@
         "biovizBase",
         "viridis"
     ],
-    "oligo": [],
     "omicRexposome": [
         "FactoMineR",
         "Hmisc",
@@ -2252,9 +2241,7 @@
         "verification",
         "viridis"
     ],
-    "pdInfoBuilder": [
-        "oligo"
-    ],
+    "pdInfoBuilder": [],
     "peakPantheR": [
         "MSnbase",
         "affy",
@@ -2436,8 +2423,7 @@
         "vsn"
     ],
     "puma": [
-        "affy",
-        "oligo"
+        "affy"
     ],
     "PureCN": [
         "rhdf5"
@@ -2720,8 +2706,7 @@
         "Seurat"
     ],
     "SCAN.UPC": [
-        "affy",
-        "oligo"
+        "affy"
     ],
     "scanMiRApp": [
         "fst"
@@ -3532,9 +3517,7 @@
         "Hmisc",
         "viridis"
     ],
-    "pd.mapping50k.xba240": [
-        "oligo"
-    ],
+    "pd.mapping50k.xba240": [],
     "plsgenomics": [
         "fields",
         "viridis"
