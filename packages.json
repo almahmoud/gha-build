@@ -500,7 +500,6 @@
         "plotROC",
         "plotly",
         "recipes",
-        "rentrez",
         "reshape2",
         "rmarkdown",
         "shiny",
@@ -752,7 +751,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
-        "rentrez",
         "rmarkdown",
         "rsnps",
         "rtracklayer",
@@ -11255,7 +11253,6 @@
         "htmlwidgets",
         "pcaExplorer",
         "plotly",
-        "rentrez",
         "reshape2",
         "rintrojs",
         "rmarkdown",
@@ -16204,7 +16201,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "rentrez",
         "reprex",
         "rmarkdown",
         "rvest",
@@ -17509,7 +17505,6 @@
     "PANR": [],
     "PanViz": [
         "dplyr",
-        "rentrez",
         "tidyr"
     ],
     "pareg": [
@@ -17579,7 +17574,6 @@
         "plotly",
         "profvis",
         "rematch2",
-        "rentrez",
         "reshape2",
         "rmarkdown",
         "roxygen2",
@@ -18895,7 +18889,6 @@
         "qvalue",
         "readr",
         "recount",
-        "rentrez",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -19694,7 +19687,6 @@
         "htmlwidgets",
         "qvalue",
         "readr",
-        "rentrez",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -20584,7 +20576,6 @@
         "qvalue",
         "readr",
         "recount",
-        "rentrez",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -20867,7 +20858,6 @@
         "readr",
         "recount",
         "rematch2",
-        "rentrez",
         "reshape2",
         "rmarkdown",
         "rstatix",
@@ -26994,7 +26984,6 @@
         "reshape2",
         "tidyr"
     ],
-    "rentrez": [],
     "plotROC": [
         "ggplot2",
         "shiny"
