@@ -1,0 +1,33 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   21705a2f..a5b89cf0  main       -> origin/main
+Updating 21705a2f..a5b89cf0
+Fast-forward
+ lists/dqrng                              |  2 +-
+ logs/run_ids/rstudio-binaries/mRMRe      |  2 +
+ logs/run_ids/rstudio-binaries/maigesPack |  2 +
+ packages.json                            | 90 +-------------------------------
+ 4 files changed, 7 insertions(+), 89 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/mRMRe
+ create mode 100644 logs/run_ids/rstudio-binaries/maigesPack
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=kmlShape
++ PKG=kmlShape
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "kmlShape"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ echo 'No dependencies'
+No dependencies
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''kmlShape'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+
+real	0m5.054s
+user	0m3.115s
+sys	0m0.242s
