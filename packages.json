@@ -791,7 +791,6 @@
     ],
     "EWCE": [
         "car",
-        "ewceData",
         "ggpubr",
         "orthogene",
         "rstatix"
@@ -2531,7 +2530,6 @@
     ],
     "easierData": [],
     "EntropyExplorer": [],
-    "ewceData": [],
     "SPARQL": [],
     "NHPoisson": [
         "car"
