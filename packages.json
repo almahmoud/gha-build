@@ -288,7 +288,6 @@
         "bslib",
         "crosstalk",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "fontawesome",
         "fpc",
@@ -865,7 +864,6 @@
         "bslib",
         "cellranger",
         "doRNG",
-        "doSNOW",
         "dplyr",
         "futile.logger",
         "future",
@@ -3498,7 +3496,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "doSNOW",
         "fitdistrplus",
         "futile.logger",
         "survival"
@@ -14892,7 +14889,6 @@
         "BiocParallel",
         "RSpectra",
         "RcppEigen",
-        "doSNOW",
         "dplyr",
         "futile.logger",
         "ggplot2",
@@ -18118,7 +18114,6 @@
         "crosstalk",
         "dbplyr",
         "doParallel",
-        "doSNOW",
         "downloader",
         "dplyr",
         "fontawesome",
@@ -26451,7 +26446,6 @@
         "cowplot",
         "dendextend",
         "doRNG",
-        "doSNOW",
         "dplyr",
         "e1071",
         "expm",
@@ -29369,7 +29363,6 @@
         "RSpectra",
         "RcppEigen",
         "doParallel",
-        "doSNOW",
         "ggplot2",
         "mgcv",
         "openssl",
@@ -36146,7 +36139,6 @@
         "RSQLite",
         "blob",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "ggplot2",
         "memoise",
@@ -43023,7 +43015,6 @@
         "caret",
         "clock",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "e1071",
         "fontawesome",
@@ -44513,7 +44504,6 @@
         "crosstalk",
         "dbplyr",
         "doParallel",
-        "doSNOW",
         "dplyr",
         "fontawesome",
         "genefilter",
@@ -52549,8 +52539,7 @@
     "seqCNA": [
         "GLAD",
         "ade4",
-        "adehabitatLT",
-        "doSNOW"
+        "adehabitatLT"
     ],
     "seqcombo": [
         "ggplot2",
@@ -59570,7 +59559,6 @@
         "biomaRt",
         "blob",
         "dbplyr",
-        "doSNOW",
         "dplyr",
         "ggplot2",
         "hms",
@@ -63183,7 +63171,6 @@
         "vctrs"
     ],
     "fpc": [],
-    "doSNOW": [],
     "smoother": [
         "TTR",
         "xts"
@@ -63407,7 +63394,6 @@
         "RcppZiggurat",
         "Rfast",
         "doRNG",
-        "doSNOW",
         "ggplot2",
         "httr",
         "mgcv",
