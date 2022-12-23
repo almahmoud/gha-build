@@ -2955,7 +2955,6 @@
         "rhdf5"
     ],
     "SCOPE": [],
-    "scoreInvHap": [],
     "scPipe": [
         "scater",
         "viridis"
