@@ -4447,8 +4447,7 @@
     "pareg": [
         "DOSE",
         "GOSemSim",
-        "nloptr",
-        "tfprobability"
+        "nloptr"
     ],
     "PAST": [
         "rtracklayer"
@@ -7168,7 +7167,6 @@
         "nloptr"
     ],
     "biomartr": [],
-    "tfprobability": [],
     "verification": [],
     "genlasso": [],
     "phastCons100way.UCSC.hg38": [
