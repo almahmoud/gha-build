@@ -5526,7 +5526,6 @@
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Modstrings",
         "Rsamtools",
         "Structstrings",
         "SummarizedExperiment",
@@ -10603,7 +10602,6 @@
         "htmlwidgets",
         "viridis"
     ],
-    "Modstrings": [],
     "MOFA2": [
         "cowplot",
         "ggrepel",
@@ -14538,7 +14536,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "Modstrings",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -14559,7 +14556,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "SummarizedExperiment",
@@ -14581,7 +14577,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "SummarizedExperiment",
@@ -14603,7 +14598,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "SummarizedExperiment",
@@ -18042,18 +18036,15 @@
         "tidyr"
     ],
     "tRNA": [
-        "Modstrings",
         "Structstrings"
     ],
     "tRNAdbImport": [
-        "Modstrings",
         "Structstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
         "BSgenome",
         "GenomicAlignments",
-        "Modstrings",
         "Rsamtools",
         "Structstrings",
         "SummarizedExperiment",
