@@ -2496,8 +2496,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "xgboost"
+        "tidyselect"
     ],
     "bamsignals": [
         "GenomeInfoDb",
@@ -2889,8 +2888,7 @@
         "tibble",
         "tidyselect",
         "uwot",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "bayNorm": [
         "BB",
@@ -6083,8 +6081,7 @@
         "blob",
         "doParallel",
         "httr",
-        "openssl",
-        "xgboost"
+        "openssl"
     ],
     "CCPROMISE": [
         "AnnotationDbi",
@@ -16798,8 +16795,7 @@
         "tidyr",
         "tidyselect",
         "uwot",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "flowAI": [
         "bslib",
@@ -19734,8 +19730,7 @@
         "tidyselect",
         "viridis",
         "visNetwork",
-        "vroom",
-        "xgboost"
+        "vroom"
     ],
     "GOexpress": [
         "AnnotationDbi",
@@ -22285,8 +22280,7 @@
         "dqrng",
         "flowCore",
         "raster",
-        "uwot",
-        "xgboost"
+        "uwot"
     ],
     "InPAS": [
         "AnnotationDbi",
@@ -41554,8 +41548,7 @@
         "shiny",
         "stringr",
         "tibble",
-        "tidyselect",
-        "xgboost"
+        "tidyselect"
     ],
     "scater": [
         "BiocNeighbors",
@@ -41931,8 +41924,7 @@
         "scuttle",
         "tibble",
         "uwot",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "scDD": [
         "BiocNeighbors",
@@ -42004,8 +41996,7 @@
         "dplyr",
         "pillar",
         "tibble",
-        "tidyselect",
-        "xgboost"
+        "tidyselect"
     ],
     "SCFA": [
         "BiocParallel",
@@ -44576,7 +44567,6 @@
         "treeio",
         "uwot",
         "viridis",
-        "xgboost",
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
@@ -49526,8 +49516,7 @@
         "survival",
         "tibble",
         "tidyselect",
-        "viridis",
-        "xgboost"
+        "viridis"
     ],
     "Trendy": [
         "BiocParallel",
@@ -53373,7 +53362,6 @@
         "tidyselect",
         "waldo"
     ],
-    "xgboost": [],
     "pRolocdata": [
         "BiocParallel",
         "IRanges",
