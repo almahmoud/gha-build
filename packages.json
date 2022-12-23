@@ -1419,7 +1419,6 @@
         "mixtools",
         "viper"
     ],
-    "COTAN": [],
     "countsimQC": [
         "DESeq2",
         "genefilter",
