@@ -746,9 +746,7 @@
         "ReactomePA",
         "enrichplot"
     ],
-    "EpiMix": [
-        "EpiMix.data"
-    ],
+    "EpiMix": [],
     "epimutacions": [
         "Gviz",
         "Homo.sapiens",
@@ -2556,7 +2554,6 @@
     ],
     "easierData": [],
     "EntropyExplorer": [],
-    "EpiMix.data": [],
     "ewceData": [],
     "SPARQL": [],
     "NHPoisson": [
