@@ -3397,7 +3397,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DeconRNASeq": [],
     "deconvR": [
         "AnnotationDbi",
         "BiocFileCache",
