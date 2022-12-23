@@ -742,7 +742,6 @@
         "bslib",
         "crosstalk",
         "dplyr",
-        "expm",
         "ggplot2",
         "htmltools",
         "htmlwidgets",
@@ -1011,7 +1010,6 @@
         "dqrng",
         "e1071",
         "emmeans",
-        "expm",
         "ggbeeswarm",
         "ggplot2",
         "ggrastr",
@@ -2177,7 +2175,6 @@
         "memoise"
     ],
     "ASSET": [
-        "expm",
         "msm",
         "survival"
     ],
@@ -2193,7 +2190,6 @@
         "annotate",
         "blob",
         "edgeR",
-        "expm",
         "genefilter",
         "ggplot2",
         "httr",
@@ -3530,7 +3526,6 @@
         "e1071",
         "edgeR",
         "emmeans",
-        "expm",
         "fitdistrplus",
         "fontawesome",
         "future",
@@ -8849,7 +8844,6 @@
         "RcppEigen",
         "bslib",
         "dplyr",
-        "expm",
         "ggcorrplot",
         "ggforce",
         "ggplot2",
@@ -13107,7 +13101,6 @@
         "e1071",
         "edgeR",
         "epiNEM",
-        "expm",
         "flexclust",
         "forcats",
         "fpc",
@@ -14697,7 +14690,6 @@
         "cba"
     ],
     "diffuStats": [
-        "expm",
         "ggplot2",
         "igraph",
         "mgcv",
@@ -20069,7 +20061,6 @@
         "SeqArray",
         "XVector",
         "dplyr",
-        "expm",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -20769,7 +20760,6 @@
         "dendextend",
         "doParallel",
         "dplyr",
-        "expm",
         "fontawesome",
         "fresh",
         "geneplotter",
@@ -22777,7 +22767,6 @@
         "DescTools",
         "cellranger",
         "e1071",
-        "expm",
         "gld",
         "hms",
         "httr",
@@ -24300,7 +24289,6 @@
         "clock",
         "dplyr",
         "e1071",
-        "expm",
         "future",
         "future.apply",
         "ggplot2",
@@ -24961,7 +24949,6 @@
         "doRNG",
         "dplyr",
         "e1071",
-        "expm",
         "ggplot2",
         "gld",
         "hms",
@@ -26028,7 +26015,6 @@
         "dqrng",
         "edgeR",
         "enrichplot",
-        "expm",
         "fgsea",
         "fitdistrplus",
         "fontawesome",
@@ -30262,7 +30248,6 @@
         "SummarizedExperiment",
         "XVector",
         "emdbook",
-        "expm",
         "fastseg",
         "ggplot2",
         "methylKit",
@@ -31495,7 +31480,6 @@
         "e1071",
         "edgeR",
         "emmeans",
-        "expm",
         "fontawesome",
         "future",
         "future.apply",
@@ -31860,7 +31844,6 @@
         "RcppEigen",
         "biganalytics",
         "bslib",
-        "expm",
         "ggplot2",
         "htmlTable",
         "htmltools",
@@ -32306,7 +32289,6 @@
         "dtplyr",
         "e1071",
         "enrichplot",
-        "expm",
         "fabia",
         "fgsea",
         "flexclust",
@@ -32464,7 +32446,6 @@
         "dtplyr",
         "e1071",
         "enrichplot",
-        "expm",
         "fgsea",
         "forcats",
         "future",
@@ -43387,7 +43368,6 @@
     ],
     "REBET": [
         "ASSET",
-        "expm",
         "msm",
         "survival"
     ],
@@ -45076,7 +45056,6 @@
         "dbplyr",
         "dplyr",
         "ensembldb",
-        "expm",
         "ggplot2",
         "hms",
         "httr",
@@ -48541,7 +48520,6 @@
         "cellranger",
         "doParallel",
         "e1071",
-        "expm",
         "gld",
         "hms",
         "httr",
@@ -52647,7 +52625,6 @@
         "dplyr",
         "dtplyr",
         "e1071",
-        "expm",
         "forcats",
         "future",
         "future.apply",
@@ -54641,7 +54618,6 @@
         "doParallel",
         "dplyr",
         "edgeR",
-        "expm",
         "genefilter",
         "geneplotter",
         "ggplot2",
@@ -59745,7 +59721,6 @@
     ],
     "segmented": [],
     "optimx": [],
-    "expm": [],
     "igraph": [],
     "readxl": [
         "cellranger",
@@ -59877,7 +59852,6 @@
     "DescTools": [
         "cellranger",
         "e1071",
-        "expm",
         "gld",
         "hms",
         "httr",
@@ -60694,7 +60668,6 @@
         "tidyselect"
     ],
     "msm": [
-        "expm",
         "survival"
     ],
     "msigdbr": [
@@ -64794,9 +64767,7 @@
         "httpuv",
         "promises"
     ],
-    "MCL": [
-        "expm"
-    ],
+    "MCL": [],
     "available": [
         "dplyr",
         "memoise",
