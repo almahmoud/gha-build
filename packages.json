@@ -69211,7 +69211,6 @@
         "Matrix",
         "MatrixGenerics",
         "RCurl",
-        "RGMQLlib",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -105169,7 +105168,6 @@
         "vctrs",
         "yaml"
     ],
-    "RGMQLlib": [],
     "elitism": [],
     "doMC": [
         "foreach"
