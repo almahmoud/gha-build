@@ -601,7 +601,6 @@
         "Homo.sapiens",
         "OrganismDbi"
     ],
-    "ERSSA": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
