@@ -1599,7 +1599,6 @@
     "gmoviz": [
         "GenomicFeatures"
     ],
-    "GNET2": [],
     "goseq": [
         "GenomicFeatures",
         "geneLenDataBase"
