@@ -3670,7 +3670,6 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fedup": [],
     "ffpe": [
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
