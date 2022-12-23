@@ -820,7 +820,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "BPRMeth": [],
     "brainflowprobes": [
         "AnnotationHub",
         "BSgenome",
@@ -4444,9 +4443,7 @@
         "pbkrtest"
     ],
     "megadepth": [],
-    "Melissa": [
-        "BPRMeth"
-    ],
+    "Melissa": [],
     "memes": [],
     "MeSHDbi": [],
     "meshes": [
