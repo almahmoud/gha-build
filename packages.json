@@ -14423,8 +14423,7 @@
         "RSQLite",
         "XVector",
         "annotate",
-        "genefilter",
-        "les"
+        "genefilter"
     ],
     "GSVA": [
         "AnnotationDbi",
@@ -16791,7 +16790,6 @@
         "pillar",
         "tibble"
     ],
-    "les": [],
     "levi": [
         "DT",
         "dplyr",
