@@ -6132,7 +6132,6 @@
         "generics",
         "hms",
         "httr",
-        "insight",
         "lambda.r",
         "lifecycle",
         "matrixStats",
@@ -54562,7 +54561,6 @@
         "ids",
         "igraph",
         "inaparc",
-        "insight",
         "interp",
         "ipred",
         "irlba",
@@ -54779,7 +54777,6 @@
         "httr",
         "ids",
         "igraph",
-        "insight",
         "ipred",
         "jquerylib",
         "knitr",
@@ -88864,7 +88861,6 @@
         "httr",
         "ids",
         "igraph",
-        "insight",
         "ipred",
         "jquerylib",
         "knitr",
@@ -103910,7 +103906,6 @@
         "datawizard",
         "dplyr",
         "generics",
-        "insight",
         "lifecycle",
         "pillar",
         "purrr",
@@ -103920,14 +103915,10 @@
         "vctrs"
     ],
     "rslurm": [],
-    "insight": [],
     "sjlabelled": [
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
-    "datawizard": [
-        "insight"
-    ],
+    "datawizard": [],
     "LIM": [
         "diagram",
         "limSolve",
@@ -112115,7 +112106,6 @@
         "globals",
         "groupdata2",
         "hardhat",
-        "insight",
         "ipred",
         "lava",
         "lifecycle",
@@ -112192,8 +112182,7 @@
     ],
     "parameters": [
         "bayestestR",
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
     "rearrr": [
         "checkmate",
@@ -112208,8 +112197,7 @@
         "vctrs"
     ],
     "bayestestR": [
-        "datawizard",
-        "insight"
+        "datawizard"
     ],
     "ridge": [],
     "echarts4r": [
