@@ -591,9 +591,7 @@
     "cTRAP": [
         "qs"
     ],
-    "CTSV": [
-        "SpatialExperiment"
-    ],
+    "CTSV": [],
     "cummeRbund": [
         "Gviz",
         "VariantAnnotation",
@@ -628,9 +626,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "cytomapper": [
-        "SpatialExperiment"
-    ],
+    "cytomapper": [],
     "dagLogo": [
         "TFBSTools",
         "motifStack"
@@ -938,9 +934,7 @@
         "AnnotationHubData",
         "OrganismDbi"
     ],
-    "ExperimentSubset": [
-        "SpatialExperiment"
-    ],
+    "ExperimentSubset": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -1137,9 +1131,7 @@
         "ensembldb"
     ],
     "ggmsa": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "ggtreeDendro": [],
     "ggtreeExtra": [],
     "Glimma": [],
@@ -1275,7 +1267,6 @@
         "IVAS"
     ],
     "imcRtools": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "ImmuneSpaceR": [],
@@ -1378,7 +1369,6 @@
     ],
     "LinTInd": [],
     "lisaClust": [
-        "SpatialExperiment",
         "lmerTest",
         "spicyR"
     ],
@@ -1847,9 +1837,7 @@
         "quantro",
         "yarn"
     ],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "nondetects": [],
     "NoRCE": [],
     "NormalyzerDE": [
@@ -2475,7 +2463,6 @@
     ],
     "SimBindProfiles": [],
     "simpleSeg": [
-        "SpatialExperiment",
         "cytomapper"
     ],
     "SingleCellSignalR": [],
@@ -2528,20 +2515,13 @@
     ],
     "Spaniel": [],
     "SparseSignatures": [],
-    "spaSim": [
-        "SpatialExperiment"
-    ],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spaSim": [],
+    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools",
         "lmerTest"
     ],
-    "SpatialExperiment": [],
-    "SpatialFeatureExperiment": [
-        "SpatialExperiment"
-    ],
+    "SpatialFeatureExperiment": [],
     "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
@@ -2557,11 +2537,8 @@
         "HiCcompare",
         "QDNAseq"
     ],
-    "SPIAT": [
-        "SpatialExperiment"
-    ],
+    "SPIAT": [],
     "spicyR": [
-        "SpatialExperiment",
         "lmerTest"
     ],
     "spiky": [],
@@ -2582,9 +2559,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "SpotClean": [
-        "SpatialExperiment"
-    ],
+    "SpotClean": [],
     "SPsimSeq": [],
     "srnadiff": [
         "Gviz",
@@ -2603,16 +2578,13 @@
     ],
     "standR": [
         "EDASeq",
-        "RUVSeq",
-        "SpatialExperiment"
+        "RUVSeq"
     ],
     "staRank": [
         "cellHTS2"
     ],
     "StarBioTrek": [],
-    "stJoincount": [
-        "SpatialExperiment"
-    ],
+    "stJoincount": [],
     "strandCheckR": [
         "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
@@ -2830,7 +2802,6 @@
         "msigdb"
     ],
     "Voyager": [
-        "SpatialExperiment",
         "SpatialFeatureExperiment"
     ],
     "vtpnet": [
