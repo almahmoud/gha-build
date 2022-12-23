@@ -104,12 +104,9 @@
     "methylGSA": [],
     "MineICA": [],
     "miRSM": [
-        "SPONGE",
         "miRspongeR"
     ],
-    "miRspongeR": [
-        "SPONGE"
-    ],
+    "miRspongeR": [],
     "MPFE": [],
     "MSstatsLiP": [],
     "multiHiCcompare": [
@@ -154,7 +151,6 @@
         "HiCcompare",
         "QDNAseq"
     ],
-    "SPONGE": [],
     "survtype": [],
     "TADCompare": [
         "CGHcall",
