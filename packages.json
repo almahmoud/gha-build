@@ -1357,7 +1357,6 @@
         "rematch2",
         "scatterpie",
         "shadowtext",
-        "shinyAce",
         "shinyFiles",
         "shinythemes",
         "testthat",
@@ -7335,7 +7334,6 @@
         "patchwork",
         "plotly",
         "rintrojs",
-        "shinyAce",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
@@ -8728,7 +8726,6 @@
         "plotly",
         "rintrojs",
         "rtracklayer",
-        "shinyAce",
         "shinyBS",
         "shinydashboard",
         "threejs",
@@ -9192,7 +9189,6 @@
         "ggrepel",
         "htmlwidgets",
         "rintrojs",
-        "shinyAce",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -9206,7 +9202,6 @@
         "htmlwidgets",
         "iSEE",
         "rintrojs",
-        "shinyAce",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -9227,7 +9222,6 @@
         "iSEE",
         "interactiveDisplayBase",
         "rintrojs",
-        "shinyAce",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -9242,7 +9236,6 @@
         "iSEE",
         "iSEEhex",
         "rintrojs",
-        "shinyAce",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -13639,7 +13632,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "shinyAce",
         "shinyBS",
         "shinydashboard",
         "threejs",
@@ -14497,7 +14489,6 @@
         "highcharter",
         "htmlwidgets",
         "rhandsontable",
-        "shinyAce",
         "shinyBS",
         "shinycssloaders",
         "shinyjqui",
@@ -18893,7 +18884,6 @@
         "drawer",
         "htmlwidgets",
         "plotly",
-        "shinyAce",
         "shinyFiles",
         "shinyWidgets",
         "shinydashboard",
@@ -21114,7 +21104,6 @@
         "readr",
         "readxl",
         "rematch2",
-        "shinyAce",
         "shinyFiles",
         "testthat",
         "tidyr",
@@ -21144,7 +21133,6 @@
         "AnnotationDbi",
         "KEGGREST"
     ],
-    "shinyAce": [],
     "shinyFiles": [],
     "ggraph": [
         "ggforce",
@@ -22792,7 +22780,6 @@
     ],
     "stars": [],
     "spsComps": [
-        "shinyAce",
         "shinytoastr"
     ],
     "drawer": [
