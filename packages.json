@@ -6667,7 +6667,6 @@
     "midasHLA": [
         "HardyWeinberg",
         "MultiAssayExperiment",
-        "formattable",
         "mice"
     ],
     "MIGSA": [
@@ -12172,7 +12171,6 @@
     "XNAString": [
         "BSgenome",
         "GenomicAlignments",
-        "formattable",
         "rtracklayer"
     ],
     "yamss": [],
@@ -13098,7 +13096,6 @@
     ],
     "rebus": [],
     "ggmcmc": [],
-    "formattable": [],
     "HardyWeinberg": [
         "mice"
     ],
