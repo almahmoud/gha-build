@@ -8191,7 +8191,6 @@
         "baySeq",
         "edgeR"
     ],
-    "ClusterSignificance": [],
     "clustifyr": [
         "BiocParallel",
         "DelayedArray",
