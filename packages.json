@@ -1508,7 +1508,6 @@
         "ggplot2",
         "reshape2"
     ],
-    "beadarraySNP": [],
     "BEARscc": [
         "GenomicRanges",
         "SingleCellExperiment",
