@@ -30,8 +30,7 @@
         "annotate",
         "genefilter",
         "snapCGH",
-        "tilingArray",
-        "vsn"
+        "tilingArray"
     ],
     "ADAM": [
         "AnnotationDbi",
@@ -471,8 +470,7 @@
         "genefilter",
         "htmlTable",
         "htmlwidgets",
-        "viridis",
-        "vsn"
+        "viridis"
     ],
     "artMS": [
         "AnnotationDbi",
@@ -749,8 +747,7 @@
         "plotly",
         "recipes",
         "threejs",
-        "viridis",
-        "vsn"
+        "viridis"
     ],
     "banocc": [
         "rstan"
@@ -1356,8 +1353,7 @@
         "genefilter",
         "ggdendro",
         "mnem",
-        "sva",
-        "vsn"
+        "sva"
     ],
     "BOBaFIT": [
         "AnnotationDbi",
@@ -1612,7 +1608,6 @@
         "htmlTable",
         "htmlwidgets",
         "viridis",
-        "vsn",
         "xcms"
     ],
     "canceR": [
@@ -1804,8 +1799,7 @@
         "Category",
         "GSEABase",
         "annotate",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "CelliD": [
         "Seurat",
@@ -2416,7 +2410,6 @@
     "cliqueMS": [
         "MSnbase",
         "MsFeatures",
-        "vsn",
         "xcms"
     ],
     "clst": [],
@@ -2427,8 +2420,7 @@
         "GGally",
         "MSnbase",
         "htmlwidgets",
-        "plotly",
-        "vsn"
+        "plotly"
     ],
     "clusterExperiment": [
         "AnnotationDbi",
@@ -2588,8 +2580,7 @@
         "rtracklayer"
     ],
     "coexnet": [
-        "GEOquery",
-        "vsn"
+        "GEOquery"
     ],
     "CoGAPS": [
         "SingleCellExperiment"
@@ -2929,7 +2920,6 @@
         "MSnbase",
         "MsFeatures",
         "faahKO",
-        "vsn",
         "xcms"
     ],
     "cosmosR": [
@@ -3377,8 +3367,7 @@
         "MSnbase",
         "broom",
         "highcharter",
-        "htmlwidgets",
-        "vsn"
+        "htmlwidgets"
     ],
     "dasper": [
         "AnnotationDbi",
@@ -3634,8 +3623,7 @@
         "MSnbase",
         "ggrepel",
         "htmlwidgets",
-        "shinydashboard",
-        "vsn"
+        "shinydashboard"
     ],
     "DepecheR": [
         "ggrepel",
@@ -3997,8 +3985,7 @@
         "nloptr",
         "pbkrtest",
         "shinydashboard",
-        "testthat",
-        "vsn"
+        "testthat"
     ],
     "DOSE": [
         "AnnotationDbi",
@@ -5062,7 +5049,6 @@
         "htmlTable",
         "htmlwidgets",
         "viridis",
-        "vsn",
         "xcms"
     ],
     "FLAMES": [
@@ -5776,8 +5762,7 @@
         "biomaRt",
         "cellHTS2",
         "dbplyr",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "getDEE2": [],
     "GEWIST": [
@@ -6622,8 +6607,7 @@
         "annotate",
         "cellHTS2",
         "genefilter",
-        "htmlwidgets",
-        "vsn"
+        "htmlwidgets"
     ],
     "IMAS": [
         "AnnotationDbi",
@@ -6861,7 +6845,6 @@
         "htmlTable",
         "htmlwidgets",
         "viridis",
-        "vsn",
         "xcms"
     ],
     "IRISFGM": [
@@ -7263,7 +7246,6 @@
         "htmlTable",
         "htmlwidgets",
         "viridis",
-        "vsn",
         "xcms"
     ],
     "LoomExperiment": [
@@ -7516,7 +7498,6 @@
         "questionr",
         "recipes",
         "viridis",
-        "vsn",
         "xcms"
     ],
     "mAPKL": [
@@ -7566,8 +7547,7 @@
         "proDA",
         "shinydashboard",
         "shinyjs",
-        "viridis",
-        "vsn"
+        "viridis"
     ],
     "MatrixRider": [
         "AnnotationDbi",
@@ -7808,7 +7788,6 @@
     "Metab": [
         "MSnbase",
         "MsFeatures",
-        "vsn",
         "xcms"
     ],
     "metabCombiner": [
@@ -7893,7 +7872,6 @@
         "htmlTable",
         "htmlwidgets",
         "viridis",
-        "vsn",
         "xcms"
     ],
     "MetaNeighbor": [
@@ -7957,8 +7935,7 @@
         "rmdformats",
         "rtracklayer",
         "survcomp",
-        "viridis",
-        "vsn"
+        "viridis"
     ],
     "metavizr": [
         "AnnotationDbi",
@@ -8783,7 +8760,6 @@
     "MobilityTransformR": [
         "MSnbase",
         "MsFeatures",
-        "vsn",
         "xcms"
     ],
     "MODA": [
@@ -8986,17 +8962,13 @@
         "org.Hs.eg.db"
     ],
     "msmsEDA": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "msmsTests": [
         "MSnbase",
-        "msmsEDA",
-        "vsn"
+        "msmsEDA"
     ],
-    "MSnbase": [
-        "vsn"
-    ],
+    "MSnbase": [],
     "MSnID": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -9008,8 +8980,7 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "msmsEDA",
-        "msmsTests",
-        "vsn"
+        "msmsTests"
     ],
     "MSPrep": [
         "AnnotationDbi",
@@ -9090,8 +9061,7 @@
         "htmlwidgets",
         "miniUI",
         "plotly",
-        "shinyjs",
-        "vsn"
+        "shinyjs"
     ],
     "MSstatsQCgui": [
         "MSnbase",
@@ -9101,8 +9071,7 @@
         "htmlwidgets",
         "miniUI",
         "plotly",
-        "shinyjs",
-        "vsn"
+        "shinyjs"
     ],
     "MSstatsSampleSize": [
         "MSstats",
@@ -9478,7 +9447,6 @@
     "ncGTW": [
         "MSnbase",
         "MsFeatures",
-        "vsn",
         "xcms"
     ],
     "NCIgraph": [],
@@ -9682,8 +9650,7 @@
         "nloptr",
         "pbkrtest",
         "testthat",
-        "viridis",
-        "vsn"
+        "viridis"
     ],
     "NormqPCR": [
         "htmlwidgets",
@@ -10310,8 +10277,7 @@
         "DT",
         "MSnbase",
         "htmlwidgets",
-        "shinycssloaders",
-        "vsn"
+        "shinycssloaders"
     ],
     "PECA": [
         "AnnotationDbi",
@@ -10748,8 +10714,7 @@
         "htmlTable",
         "htmlwidgets",
         "tseries",
-        "viridis",
-        "vsn"
+        "viridis"
     ],
     "proActiv": [
         "AnnotationDbi",
@@ -10787,8 +10752,7 @@
         "pvca",
         "sva",
         "testthat",
-        "viridis",
-        "vsn"
+        "viridis"
     ],
     "procoil": [],
     "proDA": [],
@@ -10801,7 +10765,6 @@
         "htmlwidgets",
         "plotly",
         "ropls",
-        "vsn",
         "xcms"
     ],
     "profileplyr": [
@@ -10874,8 +10837,7 @@
         "plotly",
         "recipes",
         "threejs",
-        "viridis",
-        "vsn"
+        "viridis"
     ],
     "pRolocGUI": [
         "AnnotationDbi",
@@ -10903,7 +10865,6 @@
         "shinyjs",
         "threejs",
         "viridis",
-        "vsn",
         "waiter"
     ],
     "PROMISE": [
@@ -10928,8 +10889,7 @@
         "shinyBS",
         "shinycssloaders",
         "shinyjqui",
-        "shinyjs",
-        "vsn"
+        "shinyjs"
     ],
     "proteasy": [
         "AnnotationDbi",
@@ -10991,8 +10951,7 @@
         "rstatix",
         "shinydashboard",
         "testthat",
-        "viridis",
-        "vsn"
+        "viridis"
     ],
     "psichomics": [
         "AnnotationDbi",
@@ -11059,8 +11018,7 @@
         "plotly",
         "rstatix",
         "testthat",
-        "viridis",
-        "vsn"
+        "viridis"
     ],
     "puma": [
         "oligo",
@@ -11080,8 +11038,7 @@
     "pvca": [
         "lme4",
         "nloptr",
-        "testthat",
-        "vsn"
+        "testthat"
     ],
     "Pviz": [
         "AnnotationDbi",
@@ -11161,8 +11118,7 @@
     ],
     "qPLEXanalyzer": [
         "MSnbase",
-        "ggdendro",
-        "vsn"
+        "ggdendro"
     ],
     "qrqc": [
         "AnnotationDbi",
@@ -11613,8 +11569,7 @@
         "Ringo",
         "annotate",
         "genefilter",
-        "rtracklayer",
-        "vsn"
+        "rtracklayer"
     ],
     "ReportingTools": [
         "AnnotationDbi",
@@ -11850,8 +11805,7 @@
     "Ringo": [
         "AnnotationDbi",
         "annotate",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "RIPAT": [
         "AnnotationDbi",
@@ -11875,7 +11829,6 @@
     "Risa": [
         "MSnbase",
         "MsFeatures",
-        "vsn",
         "xcms"
     ],
     "RITAN": [
@@ -11926,7 +11879,6 @@
         "DT",
         "MSnbase",
         "htmlwidgets",
-        "vsn",
         "webchem"
     ],
     "Rmmquant": [
@@ -12000,8 +11952,7 @@
         "annotate",
         "cellHTS2",
         "genefilter",
-        "geneplotter",
-        "vsn"
+        "geneplotter"
     ],
     "RNAmodR": [
         "AnnotationDbi",
@@ -13275,8 +13226,7 @@
         "AnnotationDbi",
         "Ringo",
         "annotate",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "SimBu": [
         "phyloseq"
@@ -13496,8 +13446,7 @@
         "AnnotationDbi",
         "annotate",
         "genefilter",
-        "tilingArray",
-        "vsn"
+        "tilingArray"
     ],
     "snapcount": [],
     "snm": [
@@ -13974,8 +13923,7 @@
         "GSEABase",
         "annotate",
         "cellHTS2",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "StarBioTrek": [
         "AnnotationDbi",
@@ -14137,8 +14085,7 @@
         "htmlwidgets"
     ],
     "synapter": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "synergyfinder": [
         "SpatialExtremes",
@@ -14510,8 +14457,7 @@
     "tilingArray": [
         "AnnotationDbi",
         "annotate",
-        "genefilter",
-        "vsn"
+        "genefilter"
     ],
     "timeOmics": [
         "ggrepel",
@@ -14633,8 +14579,7 @@
         "plotly"
     ],
     "topdownr": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "topGO": [
         "AnnotationDbi",
@@ -15237,7 +15182,6 @@
     "vsclust": [
         "MultiAssayExperiment"
     ],
-    "vsn": [],
     "vtpnet": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -15330,8 +15274,7 @@
     "webbioc": [
         "AnnotationDbi",
         "GO.db",
-        "annaffy",
-        "vsn"
+        "annaffy"
     ],
     "weitrix": [],
     "wiggleplotr": [
@@ -15352,8 +15295,7 @@
     ],
     "xcms": [
         "MSnbase",
-        "MsFeatures",
-        "vsn"
+        "MsFeatures"
     ],
     "xcore": [
         "MultiAssayExperiment"
@@ -15791,8 +15733,7 @@
         "testthat"
     ],
     "pRolocdata": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "dendextend": [
         "viridis"
@@ -16257,7 +16198,6 @@
     "faahKO": [
         "MSnbase",
         "MsFeatures",
-        "vsn",
         "xcms"
     ],
     "dorothea": [
@@ -16325,8 +16265,7 @@
         "rgl"
     ],
     "DAPARdata": [
-        "MSnbase",
-        "vsn"
+        "MSnbase"
     ],
     "cmdfun": [
         "testthat"
