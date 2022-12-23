@@ -1982,8 +1982,7 @@
         "scuttle",
         "shinyWidgets",
         "shinydashboardPlus",
-        "viridis",
-        "waiter"
+        "viridis"
     ],
     "chromstaR": [
         "GenomicAlignments"
@@ -4838,8 +4837,7 @@
         "shinyWidgets",
         "tippy",
         "viridis",
-        "visNetwork",
-        "waiter"
+        "visNetwork"
     ],
     "geneXtendeR": [
         "AnnotationDbi",
@@ -9446,8 +9444,7 @@
         "shinyWidgets",
         "shinydashboardPlus",
         "threejs",
-        "viridis",
-        "waiter"
+        "viridis"
     ],
     "PROMISE": [
         "AnnotationDbi",
@@ -10806,8 +10803,7 @@
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
-        "shinyjqui",
-        "waiter"
+        "shinyjqui"
     ],
     "scAnnotatR": [
         "AnnotationDbi",
@@ -12259,8 +12255,7 @@
         "shinydashboardPlus",
         "shinyjqui",
         "shinytoastr",
-        "spsComps",
-        "waiter"
+        "spsComps"
     ],
     "systemPipeTools": [
         "AnnotationDbi",
@@ -13923,13 +13918,10 @@
         "rtracklayer"
     ],
     "shinyWidgets": [],
-    "shinydashboardPlus": [
-        "waiter"
-    ],
+    "shinydashboardPlus": [],
     "kableExtra": [],
     "gggenes": [],
     "qs": [],
-    "waiter": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
@@ -14181,9 +14173,7 @@
         "broom",
         "mice"
     ],
-    "bs4Dash": [
-        "waiter"
-    ],
+    "bs4Dash": [],
     "tippy": [],
     "shinyHeatmaply": [
         "dendextend",
