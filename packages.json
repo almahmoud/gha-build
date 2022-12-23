@@ -1191,7 +1191,6 @@
         "viridis"
     ],
     "fcScan": [],
-    "FEAST": [],
     "ffpe": [
         "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
