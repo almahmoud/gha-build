@@ -463,7 +463,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "genotypeeval": [],
     "GenProSeq": [
         "DeepPINCS",
         "mlapi",
