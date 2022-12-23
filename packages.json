@@ -25,7 +25,6 @@
     "AneuFinder": [
         "ReorderCluster"
     ],
-    "AnnotationHubData": [],
     "APAlyzer": [],
     "appreci8R": [
         "MafDb.1Kgenomes.phase3.hs37d5"
@@ -441,9 +440,7 @@
         "orthogene",
         "rstatix"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "extraChIPs": [
         "GenomicInteractions",
         "Gviz",
@@ -755,7 +752,6 @@
         "minfi"
     ],
     "methylclock": [
-        "AnnotationHubData",
         "ExperimentHubData",
         "ggpubr",
         "methylclockData",
@@ -1439,7 +1435,6 @@
         "minfi"
     ],
     "methylclockData": [
-        "AnnotationHubData",
         "ExperimentHubData"
     ],
     "mppa": [],
