@@ -52290,7 +52290,6 @@
         "tibble",
         "vctrs"
     ],
-    "spkTools": [],
     "splatter": [
         "BiocNeighbors",
         "BiocParallel",
