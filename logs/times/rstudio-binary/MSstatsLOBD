@@ -1,0 +1,89 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   ef67950d..0e8431a2  main       -> origin/main
+Updating ef67950d..0e8431a2
+Fast-forward
+ lists/IntramiRExploreR                             |   2 +-
+ logs/run_ids/rstudio-binaries/MetBrewer            |   2 +
+ logs/run_ids/rstudio-binaries/iBMQ                 |   2 +
+ logs/run_ids/rstudio-binaries/mirTarRnaSeq         |   2 +
+ logs/run_ids/rstudio-binaries/mrfDepth             |   2 +
+ .../rstudio-binaries/binaries/IntramiRExploreR     |   1 +
+ .../rstudio-binaries/libraries/IntramiRExploreR    |   1 +
+ logs/times/rstudio-binary/IntramiRExploreR         | 103 +++++++++++++++++++++
+ packages.json                                      |   1 -
+ 9 files changed, 114 insertions(+), 2 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/MetBrewer
+ create mode 100644 logs/run_ids/rstudio-binaries/iBMQ
+ create mode 100644 logs/run_ids/rstudio-binaries/mirTarRnaSeq
+ create mode 100644 logs/run_ids/rstudio-binaries/mrfDepth
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/IntramiRExploreR
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/IntramiRExploreR
+ create mode 100644 logs/times/rstudio-binary/IntramiRExploreR
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=MSstatsLOBD
++ PKG=MSstatsLOBD
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "MSstatsLOBD"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency minpack.lm is already found.
+Dependency ggplot2 is already found.
+Dependency Rcpp is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''MSstatsLOBD'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv MSstatsLOBD_1.6.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/MSstatsLOBD
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'MSstatsLOBD'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/MSstatsLOBD_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 295887 bytes (288 KB)
+==================================================
+downloaded 288 KB
+
+* installing *source* package ‘MSstatsLOBD’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MSstatsLOBD’ as ‘MSstatsLOBD_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MSstatsLOBD)
+
+The downloaded source packages are in
+	‘/tmp/RtmpUbKEWW/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m8.287s
+user	0m6.959s
+sys	0m0.820s
