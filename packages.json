@@ -13716,7 +13716,6 @@
         "flowCore",
         "glmnet",
         "pillar",
-        "rpart.plot",
         "survival",
         "tibble",
         "tidyselect",
@@ -70106,7 +70105,6 @@
         "vctrs",
         "viridis"
     ],
-    "rpart.plot": [],
     "shinyFeedback": [
         "bslib",
         "fontawesome",
