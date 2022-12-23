@@ -18428,7 +18428,6 @@
         "oligoClasses",
         "rtracklayer"
     ],
-    "MiPP": [],
     "miQC": [
         "DelayedArray",
         "GenomicRanges",
