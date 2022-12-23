@@ -47,13 +47,11 @@
         "ggplot2",
         "tibble"
     ],
-    "aCGH": [],
     "ADaCGH2": [
         "AnnotationDbi",
         "Biostrings",
         "KEGGREST",
         "RSQLite",
-        "aCGH",
         "affy",
         "annotate",
         "genefilter",
@@ -5874,7 +5872,6 @@
     ],
     "CRImage": [
         "EBImage",
-        "aCGH",
         "htmlwidgets",
         "knitr",
         "rmarkdown"
@@ -20972,7 +20969,6 @@
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "aCGH",
         "affy",
         "biomaRt",
         "caret",
@@ -22250,7 +22246,6 @@
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "aCGH",
         "affy",
         "biomaRt",
         "dbplyr",
@@ -26472,7 +26467,6 @@
         "Biostrings",
         "KEGGREST",
         "RSQLite",
-        "aCGH",
         "affy",
         "annotate",
         "genefilter",
