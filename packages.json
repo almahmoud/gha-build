@@ -1535,7 +1535,6 @@
         "DelayedArray",
         "DirichletMultinomial",
         "GO.db",
-        "GeneOverlap",
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -14144,7 +14143,6 @@
         "sass",
         "stringr"
     ],
-    "GeneOverlap": [],
     "geneplast": [],
     "geneplotter": [
         "AnnotationDbi",
