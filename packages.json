@@ -12,14 +12,12 @@
     "adductomicsR": [],
     "affycoretools": [
         "Glimma",
-        "OrganismDbi",
         "ReportingTools",
         "biovizBase",
         "ggbio"
     ],
     "AgiMicroRna": [
         "Glimma",
-        "OrganismDbi",
         "ReportingTools",
         "affycoretools",
         "biovizBase",
@@ -34,9 +32,7 @@
     "AneuFinder": [
         "ReorderCluster"
     ],
-    "AnnotationHubData": [
-        "OrganismDbi"
-    ],
+    "AnnotationHubData": [],
     "annotatr": [],
     "APAlyzer": [],
     "appreci8R": [
@@ -45,7 +41,6 @@
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
-        "OrganismDbi",
         "PolyPhen.Hsapiens.dbSNP131",
         "SIFT.Hsapiens.dbSNP137"
     ],
@@ -69,7 +64,6 @@
     "ATACCoGAPS": [
         "Homo.sapiens",
         "Mus.musculus",
-        "OrganismDbi",
         "chromVAR",
         "motifmatchr",
         "rGREAT"
@@ -133,7 +127,6 @@
         "CGHcall",
         "Homo.sapiens",
         "Mus.musculus",
-        "OrganismDbi",
         "QDNAseq",
         "annotatr",
         "dmrseq"
@@ -145,7 +138,6 @@
     "BLMA": [],
     "bnem": [],
     "BOBaFIT": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -155,7 +147,6 @@
     "brainflowprobes": [
         "GenomicFiles",
         "GenomicState",
-        "OrganismDbi",
         "biovizBase",
         "derfinder",
         "derfinderPlot",
@@ -167,7 +158,6 @@
     ],
     "BUSpaRse": [],
     "CAFE": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -178,7 +168,6 @@
         "biovizBase"
     ],
     "cageminer": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -447,7 +436,6 @@
     ],
     "derfinderPlot": [
         "GenomicFiles",
-        "OrganismDbi",
         "biovizBase",
         "derfinder",
         "ggbio"
@@ -562,31 +550,24 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "biovizBase",
         "minfi"
     ],
     "epivizr": [
-        "OrganismDbi",
         "epivizrData"
     ],
     "epivizrChart": [
-        "OrganismDbi",
         "epivizrData"
     ],
-    "epivizrData": [
-        "OrganismDbi"
-    ],
+    "epivizrData": [],
     "epivizrStandalone": [
-        "OrganismDbi",
         "epivizr",
         "epivizrData"
     ],
     "erma": [
         "GenomicFiles",
-        "Homo.sapiens",
-        "OrganismDbi"
+        "Homo.sapiens"
     ],
     "esATAC": [
         "ChIPseeker",
@@ -605,8 +586,7 @@
     ],
     "exomePeak2": [],
     "ExperimentHubData": [
-        "AnnotationHubData",
-        "OrganismDbi"
+        "AnnotationHubData"
     ],
     "ExperimentSubset": [],
     "extraChIPs": [
@@ -632,7 +612,6 @@
     ],
     "FindIT2": [],
     "FLAMES": [
-        "OrganismDbi",
         "bambu",
         "biovizBase",
         "ggbio"
@@ -714,7 +693,6 @@
         "biovizBase"
     ],
     "GenomicOZone": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -747,7 +725,6 @@
         "car"
     ],
     "ggbio": [
-        "OrganismDbi",
         "biovizBase"
     ],
     "ggspavis": [],
@@ -772,8 +749,7 @@
     ],
     "GSEABenchmarkeR": [],
     "GSReg": [
-        "Homo.sapiens",
-        "OrganismDbi"
+        "Homo.sapiens"
     ],
     "GUIDEseq": [
         "ChIPpeakAnno"
@@ -844,7 +820,6 @@
         "rstatix"
     ],
     "intansv": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -941,7 +916,6 @@
     "mCSEA": [
         "Gviz",
         "Homo.sapiens",
-        "OrganismDbi",
         "biovizBase"
     ],
     "MEAL": [
@@ -993,7 +967,6 @@
         "DSS"
     ],
     "metavizr": [
-        "OrganismDbi",
         "epivizr",
         "epivizrData",
         "epivizrStandalone"
@@ -1020,7 +993,6 @@
     "methylclock": [
         "AnnotationHubData",
         "ExperimentHubData",
-        "OrganismDbi",
         "car",
         "ggpubr",
         "methylclockData",
@@ -1134,7 +1106,6 @@
         "rstatix"
     ],
     "msgbsR": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -1271,7 +1242,6 @@
     "ORFhunteR": [],
     "ORFik": [],
     "Organism.dplyr": [],
-    "OrganismDbi": [],
     "orthogene": [
         "car",
         "ggpubr",
@@ -1395,7 +1365,6 @@
         "GenomicFiles"
     ],
     "R3CPET": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -1435,7 +1404,6 @@
         "minfi"
     ],
     "ReportingTools": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -1457,7 +1425,6 @@
     ],
     "RiboDiPA": [],
     "RiboProfiling": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -1570,7 +1537,6 @@
         "Rmagic"
     ],
     "scruff": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -1580,7 +1546,6 @@
     ],
     "scTGIF": [],
     "scTreeViz": [
-        "OrganismDbi",
         "epivizr",
         "epivizrData"
     ],
@@ -1655,7 +1620,6 @@
         "sampSurf"
     ],
     "SomaticSignatures": [
-        "OrganismDbi",
         "biovizBase",
         "ggbio"
     ],
@@ -1825,7 +1789,6 @@
         "EnsDb.Hsapiens.v86",
         "Gviz",
         "Homo.sapiens",
-        "OrganismDbi",
         "biovizBase"
     ],
     "Uniquorn": [],
@@ -1872,7 +1835,6 @@
         "PharmacoGx"
     ],
     "YAPSA": [
-        "OrganismDbi",
         "SomaticSignatures",
         "biovizBase",
         "ggbio"
@@ -1893,9 +1855,7 @@
     ],
     "car": [],
     "ReorderCluster": [],
-    "Homo.sapiens": [
-        "OrganismDbi"
-    ],
+    "Homo.sapiens": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
     "MafDb.ExAC.r1.0.hs37d5": [],
     "MafDb.gnomADex.r2.1.hs37d5": [],
@@ -1904,9 +1864,7 @@
     "SIFT.Hsapiens.dbSNP137": [],
     "FDb.InfiniumMethylation.hg19": [],
     "mGSZ": [],
-    "Mus.musculus": [
-        "OrganismDbi"
-    ],
+    "Mus.musculus": [],
     "doBy": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "minfi"
@@ -1977,8 +1935,7 @@
     ],
     "methylclockData": [
         "AnnotationHubData",
-        "ExperimentHubData",
-        "OrganismDbi"
+        "ExperimentHubData"
     ],
     "deconstructSigs": [],
     "mppa": [],
