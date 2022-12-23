@@ -3925,7 +3925,6 @@
         "scuttle",
         "treeio"
     ],
-    "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [
         "DESeq2",
