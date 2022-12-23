@@ -1,6 +1,5 @@
 {
     "a4": [
-        "AnnotationDbi",
         "GO.db",
         "a4Base",
         "annaffy",
@@ -8,7 +7,6 @@
         "genefilter"
     ],
     "a4Base": [
-        "AnnotationDbi",
         "GO.db",
         "annaffy",
         "annotate",
@@ -24,20 +22,17 @@
         "QDNAseq"
     ],
     "ADaCGH2": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "snapCGH",
         "tilingArray"
     ],
     "ADAM": [
-        "AnnotationDbi",
         "DT",
         "GO.db"
     ],
     "ADAMgui": [
         "ADAM",
-        "AnnotationDbi",
         "DT",
         "GO.db",
         "broom",
@@ -50,7 +45,6 @@
         "testthat"
     ],
     "adductomicsR": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -62,14 +56,12 @@
         "SingleCellExperiment"
     ],
     "adSplit": [
-        "AnnotationDbi",
         "GO.db"
     ],
     "AffiXcan": [
         "MultiAssayExperiment"
     ],
     "affycoretools": [
-        "AnnotationDbi",
         "AnnotationForge",
         "BSgenome",
         "BiocFileCache",
@@ -99,11 +91,8 @@
         "rtracklayer",
         "viridis"
     ],
-    "affylmGUI": [
-        "AnnotationDbi"
-    ],
+    "affylmGUI": [],
     "AGDEX": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate"
     ],
@@ -111,7 +100,6 @@
         "SingleCellExperiment"
     ],
     "AgiMicroRna": [
-        "AnnotationDbi",
         "AnnotationForge",
         "BSgenome",
         "BiocFileCache",
@@ -156,7 +144,6 @@
         "GGally"
     ],
     "AllelicImbalance": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -175,7 +162,6 @@
         "plotly"
     ],
     "alpine": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -187,7 +173,6 @@
         "speaq"
     ],
     "AMARETTO": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -202,7 +187,6 @@
         "waffle"
     ],
     "Anaquin": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "geneplotter"
@@ -231,7 +215,6 @@
         "ReorderCluster"
     ],
     "animalcules": [
-        "AnnotationDbi",
         "DESeq2",
         "DT",
         "GUniFrac",
@@ -243,29 +226,20 @@
         "recipes"
     ],
     "annaffy": [
-        "AnnotationDbi",
         "GO.db"
     ],
     "annmap": [
-        "AnnotationDbi",
         "annotate",
         "genefilter"
     ],
-    "annotate": [
-        "AnnotationDbi"
-    ],
-    "AnnotationDbi": [],
-    "AnnotationForge": [
-        "AnnotationDbi"
-    ],
+    "annotate": [],
+    "AnnotationForge": [],
     "AnnotationHub": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DT",
         "interactiveDisplayBase"
     ],
     "AnnotationHubData": [
-        "AnnotationDbi",
         "AnnotationForge",
         "AnnotationHub",
         "BiocFileCache",
@@ -278,7 +252,6 @@
         "rtracklayer"
     ],
     "annotatr": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -292,7 +265,6 @@
     ],
     "anota": [],
     "anota2seq": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "geneplotter"
@@ -309,7 +281,6 @@
         "DT"
     ],
     "APAlyzer": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DESeq2",
@@ -322,12 +293,10 @@
         "rtracklayer"
     ],
     "apComplex": [
-        "AnnotationDbi",
         "org.Sc.sgd.db"
     ],
     "apeglm": [],
     "APL": [
-        "AnnotationDbi",
         "GO.db",
         "Seurat",
         "SingleCellExperiment",
@@ -337,7 +306,6 @@
         "topGO"
     ],
     "appreci8R": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -369,7 +337,6 @@
         "oligoClasses"
     ],
     "ArrayExpressHTS": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "Hmisc",
@@ -379,7 +346,6 @@
         "viridis"
     ],
     "arrayMvout": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -397,7 +363,6 @@
         "rtracklayer"
     ],
     "arrayQualityMetrics": [
-        "AnnotationDbi",
         "Hmisc",
         "annotate",
         "beadarray",
@@ -406,7 +371,6 @@
         "viridis"
     ],
     "artMS": [
-        "AnnotationDbi",
         "MSstats",
         "lme4",
         "nloptr",
@@ -421,7 +385,6 @@
         "ropls"
     ],
     "ASpediaFI": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -444,7 +407,6 @@
         "viridis"
     ],
     "ASpli": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "BiocStyle",
@@ -462,7 +424,6 @@
         "viridis"
     ],
     "ASSIGN": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "sva"
@@ -471,7 +432,6 @@
         "SingleCellExperiment"
     ],
     "ATACCoGAPS": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -510,7 +470,6 @@
         "viridis"
     ],
     "ATACseqQC": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -532,7 +491,6 @@
         "rtracklayer"
     ],
     "ATACseqTFEA": [
-        "AnnotationDbi",
         "BSgenome",
         "CNEr",
         "GO.db",
@@ -543,7 +501,6 @@
         "rtracklayer"
     ],
     "atena": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -551,7 +508,6 @@
         "interactiveDisplayBase"
     ],
     "atSNP": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CNEr",
@@ -564,7 +520,6 @@
         "testthat"
     ],
     "attract": [
-        "AnnotationDbi",
         "AnnotationForge",
         "Category",
         "GO.db",
@@ -576,7 +531,6 @@
         "reactome.db"
     ],
     "AUCell": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate",
         "mixtools",
@@ -597,7 +551,6 @@
         "testthat"
     ],
     "BadRegionFinder": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -607,7 +560,6 @@
         "rtracklayer"
     ],
     "ballgown": [
-        "AnnotationDbi",
         "GenomicAlignments",
         "annotate",
         "genefilter",
@@ -615,7 +567,6 @@
         "sva"
     ],
     "bambu": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -625,7 +576,6 @@
     ],
     "BANDITS": [],
     "bandle": [
-        "AnnotationDbi",
         "BiocFileCache",
         "BiocStyle",
         "MLInterfaces",
@@ -688,7 +638,6 @@
         "scuttle"
     ],
     "BatchQC": [
-        "AnnotationDbi",
         "annotate",
         "dendextend",
         "genefilter",
@@ -710,7 +659,6 @@
         "SingleCellExperiment"
     ],
     "BBCAnalyzer": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -720,9 +668,7 @@
         "rtracklayer"
     ],
     "BDMMAcorrect": [],
-    "beadarray": [
-        "AnnotationDbi"
-    ],
+    "beadarray": [],
     "BEARscc": [
         "SingleCellExperiment"
     ],
@@ -739,7 +685,6 @@
     "benchdamic": [
         "ALDEx2",
         "ANCOMBC",
-        "AnnotationDbi",
         "DESeq2",
         "DescTools",
         "Hmisc",
@@ -769,7 +714,6 @@
         "zinbwave"
     ],
     "BgeeCall": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -777,17 +721,14 @@
         "rtracklayer"
     ],
     "BgeeDB": [
-        "AnnotationDbi",
         "GO.db",
         "topGO"
     ],
     "BicARE": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate"
     ],
     "bigmelon": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -814,7 +755,6 @@
         "viridis"
     ],
     "BindingSiteFinder": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -837,7 +777,6 @@
         "broom"
     ],
     "bioCancer": [
-        "AnnotationDbi",
         "DOSE",
         "DT",
         "DiagrammeR",
@@ -878,12 +817,10 @@
     ],
     "BiocFileCache": [],
     "biocGraph": [
-        "AnnotationDbi",
         "annotate",
         "geneplotter"
     ],
     "BiocOncoTK": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -905,7 +842,6 @@
         "testthat"
     ],
     "BioCor": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate"
     ],
@@ -913,9 +849,7 @@
         "BiocFileCache",
         "DT"
     ],
-    "BiocSet": [
-        "AnnotationDbi"
-    ],
+    "BiocSet": [],
     "BiocSklearn": [],
     "BiocStyle": [],
     "BiocWorkflowTools": [
@@ -971,11 +905,9 @@
         "testthat"
     ],
     "biomaRt": [
-        "AnnotationDbi",
         "BiocFileCache"
     ],
     "BioMM": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "htmlTable",
@@ -984,7 +916,6 @@
         "viridis"
     ],
     "biomvRCNS": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1000,7 +931,6 @@
         "viridis"
     ],
     "BioNAR": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -1016,7 +946,6 @@
         "viridis"
     ],
     "BioNERO": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "WGCNA",
@@ -1029,11 +958,8 @@
         "sva",
         "viridis"
     ],
-    "BioNet": [
-        "AnnotationDbi"
-    ],
+    "BioNet": [],
     "BioNetStat": [
-        "AnnotationDbi",
         "DT",
         "Hmisc",
         "htmlTable",
@@ -1057,7 +983,6 @@
         "superheat"
     ],
     "biovizBase": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1071,7 +996,6 @@
         "viridis"
     ],
     "biscuiteer": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -1101,7 +1025,6 @@
         "rtracklayer"
     ],
     "BiSeq": [
-        "AnnotationDbi",
         "GenomicAlignments",
         "annotate",
         "globaltest",
@@ -1109,7 +1032,6 @@
     ],
     "BitSeq": [],
     "blacksheepr": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "DEXSeq",
@@ -1121,18 +1043,15 @@
         "viridis"
     ],
     "blima": [
-        "AnnotationDbi",
         "beadarray"
     ],
     "BLMA": [
-        "AnnotationDbi",
         "PADOG",
         "hgu133a.db",
         "hgu133plus2.db",
         "org.Hs.eg.db"
     ],
     "BloodGen3Module": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -1141,14 +1060,12 @@
         "testthat"
     ],
     "bnbc": [
-        "AnnotationDbi",
         "EBImage",
         "annotate",
         "genefilter",
         "sva"
     ],
     "bnem": [
-        "AnnotationDbi",
         "Linnorm",
         "annotate",
         "epiNEM",
@@ -1157,7 +1074,6 @@
         "sva"
     ],
     "BOBaFIT": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -1186,7 +1102,6 @@
         "BiocStyle"
     ],
     "brainflowprobes": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -1214,12 +1129,10 @@
         "viridis"
     ],
     "BrainSABER": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
     "branchpointer": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
         "BiocFileCache",
@@ -1236,7 +1149,6 @@
         "BiocFileCache"
     ],
     "BRGenomics": [
-        "AnnotationDbi",
         "DESeq2",
         "GenomicAlignments",
         "annotate",
@@ -1253,7 +1165,6 @@
         "rtracklayer"
     ],
     "BubbleTree": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "BiocStyle",
@@ -1277,7 +1188,6 @@
         "testthat"
     ],
     "bumphunter": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1286,7 +1196,6 @@
     ],
     "BUScorrect": [],
     "BUSpaRse": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1301,7 +1210,6 @@
     ],
     "CAEN": [],
     "CAFE": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -1320,7 +1228,6 @@
         "viridis"
     ],
     "CAGEfightR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1339,7 +1246,6 @@
         "viridis"
     ],
     "cageminer": [
-        "AnnotationDbi",
         "BSgenome",
         "BioNERO",
         "BiocFileCache",
@@ -1381,7 +1287,6 @@
         "xcms"
     ],
     "canceR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "Category",
         "GSEABase",
@@ -1398,7 +1303,6 @@
     "CancerInSilico": [],
     "CancerSubtypes": [],
     "cardelino": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1416,7 +1320,6 @@
     ],
     "CARNIVAL": [],
     "casper": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -1441,13 +1344,11 @@
         "viridis"
     ],
     "Category": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate",
         "genefilter"
     ],
     "categoryCompare": [
-        "AnnotationDbi",
         "AnnotationForge",
         "Category",
         "GO.db",
@@ -1458,7 +1359,6 @@
     ],
     "cbaf": [
         "AnVIL",
-        "AnnotationDbi",
         "BiocFileCache",
         "DT",
         "GenomicAlignments",
@@ -1475,7 +1375,6 @@
         "rtracklayer"
     ],
     "CBEA": [
-        "AnnotationDbi",
         "BiocSet",
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
@@ -1486,7 +1385,6 @@
     ],
     "cBioPortalData": [
         "AnVIL",
-        "AnnotationDbi",
         "BiocFileCache",
         "DT",
         "GenomicAlignments",
@@ -1506,11 +1404,8 @@
     "ccfindR": [
         "SingleCellExperiment"
     ],
-    "ccmap": [
-        "AnnotationDbi"
-    ],
+    "ccmap": [],
     "CCPROMISE": [
-        "AnnotationDbi",
         "GSEABase",
         "PROMISE",
         "annotate"
@@ -1538,7 +1433,6 @@
         "SingleCellExperiment"
     ],
     "cellHTS2": [
-        "AnnotationDbi",
         "Category",
         "GSEABase",
         "annotate",
@@ -1555,7 +1449,6 @@
         "viridis"
     ],
     "cellity": [
-        "AnnotationDbi",
         "GO.db",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -1588,7 +1481,6 @@
         "viridis"
     ],
     "cellTree": [
-        "AnnotationDbi",
         "GO.db",
         "topGO"
     ],
@@ -1596,7 +1488,6 @@
         "DT"
     ],
     "CEMiTool": [
-        "AnnotationDbi",
         "DOSE",
         "DT",
         "GO.db",
@@ -1635,7 +1526,6 @@
         "testthat"
     ],
     "Cepo": [
-        "AnnotationDbi",
         "GSEABase",
         "SingleCellExperiment",
         "annotate"
@@ -1646,7 +1536,6 @@
         "viridis"
     ],
     "CeTF": [
-        "AnnotationDbi",
         "DESeq2",
         "DOSE",
         "GGally",
@@ -1691,7 +1580,6 @@
     ],
     "CGHcall": [],
     "cghMCR": [
-        "AnnotationDbi",
         "CNTools",
         "annotate",
         "genefilter"
@@ -1700,7 +1588,6 @@
         "CGHcall"
     ],
     "ChAMP": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -1767,7 +1654,6 @@
         "viridis"
     ],
     "chimeraviz": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "BiocStyle",
@@ -1799,7 +1685,6 @@
         "rtracklayer"
     ],
     "chipenrich": [
-        "AnnotationDbi",
         "GenomicAlignments",
         "Hmisc",
         "chipenrich.data",
@@ -1814,7 +1699,6 @@
         "viridis"
     ],
     "ChIPexoQual": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1830,7 +1714,6 @@
         "viridis"
     ],
     "ChIPpeakAnno": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1842,7 +1725,6 @@
         "rtracklayer"
     ],
     "ChIPQC": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DESeq2",
@@ -1867,7 +1749,6 @@
         "systemPipeR"
     ],
     "ChIPseeker": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DOSE",
         "GO.db",
@@ -1908,13 +1789,11 @@
         "oligoClasses"
     ],
     "ChromHeatMap": [
-        "AnnotationDbi",
         "GenomicAlignments",
         "annotate",
         "rtracklayer"
     ],
     "chromPlot": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
@@ -1946,7 +1825,6 @@
         "rtracklayer"
     ],
     "chromVAR": [
-        "AnnotationDbi",
         "BSgenome",
         "CNEr",
         "DT",
@@ -1958,12 +1836,10 @@
         "rtracklayer"
     ],
     "CHRONOS": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
     "cicero": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1987,7 +1863,6 @@
         "visNetwork"
     ],
     "circRNAprofiler": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -2005,7 +1880,6 @@
         "rtracklayer"
     ],
     "CircSeqAlignTk": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2028,7 +1902,6 @@
         "viridis"
     ],
     "ClassifyR": [
-        "AnnotationDbi",
         "MultiAssayExperiment",
         "annotate",
         "genefilter"
@@ -2043,7 +1916,6 @@
         "rgl"
     ],
     "clipper": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2069,7 +1941,6 @@
         "plotly"
     ],
     "clusterExperiment": [
-        "AnnotationDbi",
         "RNeXML",
         "SingleCellExperiment",
         "annotate",
@@ -2080,7 +1951,6 @@
         "zinbwave"
     ],
     "clusterProfiler": [
-        "AnnotationDbi",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -2110,7 +1980,6 @@
         "exomeCopy"
     ],
     "CNEr": [
-        "AnnotationDbi",
         "GO.db",
         "GenomicAlignments",
         "annotate",
@@ -2124,12 +1993,10 @@
     ],
     "CNORode": [],
     "CNTools": [
-        "AnnotationDbi",
         "annotate",
         "genefilter"
     ],
     "CNVfilteR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CopyNumberPlots",
@@ -2149,7 +2016,6 @@
         "viridis"
     ],
     "CNViz": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CopyNumberPlots",
@@ -2179,7 +2045,6 @@
         "RaggedExperiment"
     ],
     "CNVrd2": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -2189,7 +2054,6 @@
         "rtracklayer"
     ],
     "CoCiteStats": [
-        "AnnotationDbi",
         "org.Hs.eg.db"
     ],
     "COCOA": [
@@ -2200,7 +2064,6 @@
         "rtracklayer"
     ],
     "codelink": [
-        "AnnotationDbi",
         "annotate"
     ],
     "CODEX": [
@@ -2227,7 +2090,6 @@
         "treeio"
     ],
     "Cogito": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2236,7 +2098,6 @@
         "rtracklayer"
     ],
     "comapr": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -2254,7 +2115,6 @@
     ],
     "combi": [],
     "coMET": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -2270,7 +2130,6 @@
         "viridis"
     ],
     "coMethDMR": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -2295,7 +2154,6 @@
         "BiocStyle"
     ],
     "compEpiTools": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GO.db",
@@ -2323,7 +2181,6 @@
         "rio"
     ],
     "conclus": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DOSE",
         "DT",
@@ -2387,7 +2244,6 @@
         "viridis"
     ],
     "consensusDE": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "EDASeq",
@@ -2408,7 +2264,6 @@
         "viridis"
     ],
     "consensusOV": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GSEABase",
         "GSVA",
@@ -2422,13 +2277,11 @@
         "rtracklayer"
     ],
     "consICA": [
-        "AnnotationDbi",
         "GO.db",
         "org.Hs.eg.db",
         "topGO"
     ],
     "contiBAIT": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -2440,7 +2293,6 @@
         "rtracklayer"
     ],
     "conumee": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -2457,7 +2309,6 @@
         "rtracklayer"
     ],
     "CopyNumberPlots": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -2492,7 +2343,6 @@
         "SingleCellExperiment"
     ],
     "coseq": [
-        "AnnotationDbi",
         "DESeq2",
         "HTSFilter",
         "annotate",
@@ -2505,7 +2355,6 @@
         "xcms"
     ],
     "cosmosR": [
-        "AnnotationDbi",
         "CARNIVAL",
         "GSEABase",
         "annotate",
@@ -2517,7 +2366,6 @@
     ],
     "COTAN": [],
     "countsimQC": [
-        "AnnotationDbi",
         "DESeq2",
         "DT",
         "annotate",
@@ -2529,12 +2377,10 @@
         "rtracklayer"
     ],
     "covRNA": [
-        "AnnotationDbi",
         "annotate",
         "genefilter"
     ],
     "cpvSNP": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GSEABase",
         "GenomicAlignments",
@@ -2557,7 +2403,6 @@
         "rtracklayer"
     ],
     "crisprDesign": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -2574,7 +2419,6 @@
         "rtracklayer"
     ],
     "crisprScore": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -2589,7 +2433,6 @@
         "rtracklayer"
     ],
     "crisprseekplus": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CRISPRseek",
@@ -2608,11 +2451,9 @@
         "rtracklayer"
     ],
     "CrispRVariants": [
-        "AnnotationDbi",
         "GenomicAlignments"
     ],
     "crisprVerse": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -2637,7 +2478,6 @@
         "viridis"
     ],
     "crisprViz": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -2664,7 +2504,6 @@
         "oligoClasses"
     ],
     "crossmeta": [
-        "AnnotationDbi",
         "DT",
         "GEOquery",
         "annotate",
@@ -2678,7 +2517,6 @@
     ],
     "csaw": [],
     "csdR": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "WGCNA",
@@ -2686,7 +2524,6 @@
         "viridis"
     ],
     "CSSQ": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2697,7 +2534,6 @@
         "BiocFileCache"
     ],
     "cTRAP": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -2715,7 +2551,6 @@
         "scuttle"
     ],
     "cummeRbund": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -2731,7 +2566,6 @@
         "viridis"
     ],
     "customCMPdb": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "ChemmineR",
@@ -2739,7 +2573,6 @@
         "interactiveDisplayBase"
     ],
     "customProDB": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -2826,7 +2659,6 @@
         "ShortRead"
     ],
     "dagLogo": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CNEr",
@@ -2840,7 +2672,6 @@
         "rtracklayer"
     ],
     "DAMEfinder": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -2851,7 +2682,6 @@
         "rtracklayer"
     ],
     "DaMiRseq": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "DT",
@@ -2889,7 +2719,6 @@
         "highcharter"
     ],
     "dasper": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -2908,7 +2737,6 @@
         "testthat"
     ],
     "dce": [
-        "AnnotationDbi",
         "Linnorm",
         "broom",
         "epiNEM",
@@ -2941,7 +2769,6 @@
         "DMwR2"
     ],
     "debrowser": [
-        "AnnotationDbi",
         "DESeq2",
         "DOSE",
         "DT",
@@ -2975,18 +2802,15 @@
         "viridis"
     ],
     "deco": [
-        "AnnotationDbi",
         "BiocStyle",
         "made4"
     ],
     "DEComplexDisease": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "geneplotter"
     ],
     "decompTumor2Sig": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
@@ -2999,7 +2823,6 @@
     ],
     "DeconRNASeq": [],
     "deconvR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -3039,7 +2862,6 @@
         "webchem"
     ],
     "deepSNV": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3049,13 +2871,11 @@
         "rtracklayer"
     ],
     "DEFormats": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "geneplotter"
     ],
     "DegNorm": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3070,7 +2890,6 @@
         "NCIgraph"
     ],
     "DEGreport": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "broom",
@@ -3079,14 +2898,12 @@
     "DEGseq": [],
     "DelayedTensor": [],
     "deltaCaptureC": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "geneplotter"
     ],
     "deltaGseg": [],
     "DeMixT": [
-        "AnnotationDbi",
         "BSgenome",
         "DSS",
         "GenomicAlignments",
@@ -3107,7 +2924,6 @@
         "viridis"
     ],
     "derfinder": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3122,7 +2938,6 @@
         "viridis"
     ],
     "derfinderPlot": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -3143,7 +2958,6 @@
         "viridis"
     ],
     "DEScan2": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "ChIPpeakAnno",
@@ -3156,7 +2970,6 @@
         "rtracklayer"
     ],
     "DESeq2": [
-        "AnnotationDbi",
         "annotate",
         "geneplotter"
     ],
@@ -3171,7 +2984,6 @@
         "testthat"
     ],
     "DEsubs": [
-        "AnnotationDbi",
         "DESeq2",
         "EBSeq",
         "NBPSeq",
@@ -3180,20 +2992,17 @@
         "testthat"
     ],
     "DEWSeq": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "geneplotter"
     ],
     "DExMA": [
-        "AnnotationDbi",
         "GEOquery",
         "annotate",
         "genefilter",
         "sva"
     ],
     "DEXSeq": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "annotate",
@@ -3203,7 +3012,6 @@
     ],
     "DIAlignR": [],
     "DiffBind": [
-        "AnnotationDbi",
         "BSgenome",
         "DESeq2",
         "GenomicAlignments",
@@ -3216,7 +3024,6 @@
         "systemPipeR"
     ],
     "diffcoexp": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "WGCNA",
@@ -3247,7 +3054,6 @@
     ],
     "diffuStats": [],
     "diffUTR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "DEXSeq",
@@ -3310,7 +3116,6 @@
         "rtracklayer"
     ],
     "DMRcate": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -3347,7 +3152,6 @@
         "viridis"
     ],
     "DMRforPairs": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3363,7 +3167,6 @@
         "viridis"
     ],
     "dmrseq": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -3387,7 +3190,6 @@
         "viridis"
     ],
     "DominoEffect": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3397,7 +3199,6 @@
         "rtracklayer"
     ],
     "doppelgangR": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "sva"
@@ -3413,7 +3214,6 @@
         "testthat"
     ],
     "DOSE": [
-        "AnnotationDbi",
         "GO.db",
         "GOSemSim",
         "HDO.db",
@@ -3435,7 +3235,6 @@
         "scuttle"
     ],
     "drugTargetInteractions": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3445,7 +3244,6 @@
         "rtracklayer"
     ],
     "DrugVsDisease": [
-        "AnnotationDbi",
         "ArrayExpress",
         "BiocFileCache",
         "GEOquery",
@@ -3466,7 +3264,6 @@
     ],
     "Dune": [],
     "easier": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DESeq2",
@@ -3493,7 +3290,6 @@
         "viper"
     ],
     "EasyCellType": [
-        "AnnotationDbi",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -3514,7 +3310,6 @@
         "viridis"
     ],
     "easyRNASeq": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "ShortRead",
@@ -3522,7 +3317,6 @@
     ],
     "EBImage": [],
     "EBSEA": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "geneplotter"
@@ -3535,7 +3329,6 @@
         "testthat"
     ],
     "EDASeq": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3544,7 +3337,6 @@
         "rtracklayer"
     ],
     "edge": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "lme4",
@@ -3554,7 +3346,6 @@
         "testthat"
     ],
     "eegc": [
-        "AnnotationDbi",
         "DESeq2",
         "DOSE",
         "GO.db",
@@ -3581,7 +3372,6 @@
         "GEOquery"
     ],
     "EGSEA": [
-        "AnnotationDbi",
         "DT",
         "GO.db",
         "GSEABase",
@@ -3608,7 +3398,6 @@
     ],
     "eisaR": [],
     "ELMER": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3636,7 +3425,6 @@
     ],
     "EnhancedVolcano": [],
     "enhancerHomologSearch": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CNEr",
@@ -3648,7 +3436,6 @@
         "rtracklayer"
     ],
     "ENmix": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -3666,7 +3453,6 @@
         "rtracklayer"
     ],
     "EnrichmentBrowser": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "GSEABase",
@@ -3677,7 +3463,6 @@
         "safe"
     ],
     "enrichplot": [
-        "AnnotationDbi",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -3693,7 +3478,6 @@
         "viridis"
     ],
     "enrichTF": [
-        "AnnotationDbi",
         "BSgenome",
         "CNEr",
         "DOSE",
@@ -3729,7 +3513,6 @@
         "visNetwork"
     ],
     "ensembldb": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3737,7 +3520,6 @@
         "rtracklayer"
     ],
     "ensemblVEP": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3747,7 +3529,6 @@
         "rtracklayer"
     ],
     "epialleleR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3757,7 +3538,6 @@
         "rtracklayer"
     ],
     "EpiCompare": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BRGenomics",
         "BSgenome",
@@ -3803,7 +3583,6 @@
         "testthat"
     ],
     "epigenomix": [
-        "AnnotationDbi",
         "beadarray"
     ],
     "epigraHMM": [
@@ -3822,7 +3601,6 @@
         "testthat"
     ],
     "epihet": [
-        "AnnotationDbi",
         "DOSE",
         "EntropyExplorer",
         "GO.db",
@@ -3847,7 +3625,6 @@
         "viridis"
     ],
     "EpiMix": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -3861,7 +3638,6 @@
         "rtracklayer"
     ],
     "epimutacions": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -3908,7 +3684,6 @@
         "viridis"
     ],
     "EpiTxDb": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3918,7 +3693,6 @@
         "tRNAdbImport"
     ],
     "epivizr": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3930,7 +3704,6 @@
         "rtracklayer"
     ],
     "epivizrChart": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3941,7 +3714,6 @@
         "rtracklayer"
     ],
     "epivizrData": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3951,7 +3723,6 @@
         "rtracklayer"
     ],
     "epivizrStandalone": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -3965,7 +3736,6 @@
     ],
     "erccdashboard": [],
     "erma": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GO.db",
@@ -3981,13 +3751,11 @@
         "rtracklayer"
     ],
     "ERSSA": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "geneplotter"
     ],
     "esATAC": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CNEr",
@@ -4022,7 +3790,6 @@
         "visNetwork"
     ],
     "escape": [
-        "AnnotationDbi",
         "GSEABase",
         "GSVA",
         "SingleCellExperiment",
@@ -4032,7 +3799,6 @@
         "msigdbr"
     ],
     "esetVis": [
-        "AnnotationDbi",
         "MLP"
     ],
     "eudysbiome": [],
@@ -4041,7 +3807,6 @@
         "kableExtra"
     ],
     "EventPointer": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -4052,7 +3817,6 @@
         "rtracklayer"
     ],
     "EWCE": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -4083,7 +3847,6 @@
     ],
     "exomeCopy": [],
     "exomePeak2": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DESeq2",
@@ -4095,14 +3858,12 @@
         "rtracklayer"
     ],
     "ExperimentHub": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
         "interactiveDisplayBase"
     ],
     "ExperimentHubData": [
-        "AnnotationDbi",
         "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
@@ -4133,7 +3894,6 @@
         "BiocStyle"
     ],
     "extraChIPs": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "ComplexUpset",
@@ -4154,7 +3914,6 @@
         "viridis"
     ],
     "factR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4168,7 +3927,6 @@
         "plotly"
     ],
     "famat": [
-        "AnnotationDbi",
         "DOSE",
         "DT",
         "GO.db",
@@ -4194,7 +3952,6 @@
         "viridis"
     ],
     "fastLiquidAssociation": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "LiquidAssociation",
@@ -4225,7 +3982,6 @@
         "rgl"
     ],
     "fcoex": [
-        "AnnotationDbi",
         "DOSE",
         "FCBF",
         "GO.db",
@@ -4247,7 +4003,6 @@
         "viridis"
     ],
     "fcScan": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -4264,7 +4019,6 @@
     ],
     "fedup": [],
     "ffpe": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -4287,7 +4041,6 @@
     "fgsea": [],
     "FilterFFPE": [],
     "FindIT2": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4311,7 +4064,6 @@
         "xcms"
     ],
     "FLAMES": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DropletUtils",
@@ -4420,12 +4172,10 @@
         "viridis"
     ],
     "FoldGO": [
-        "AnnotationDbi",
         "GO.db",
         "topGO"
     ],
     "FRASER": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DESeq2",
@@ -4466,7 +4216,6 @@
         "rainbow"
     ],
     "funtooNorm": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -4492,7 +4241,6 @@
         "testthat"
     ],
     "GA4GHclient": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -4502,7 +4250,6 @@
         "rtracklayer"
     ],
     "GA4GHshiny": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DT",
@@ -4514,11 +4261,9 @@
         "rtracklayer"
     ],
     "gage": [
-        "AnnotationDbi",
         "GO.db"
     ],
     "GARS": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "DT",
@@ -4565,7 +4310,6 @@
         "testthat"
     ],
     "GDCRNATools": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "DOSE",
@@ -4609,7 +4353,6 @@
     ],
     "gemma.R": [],
     "genbankr": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -4619,7 +4362,6 @@
         "rtracklayer"
     ],
     "GeneAccord": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt",
         "broom",
@@ -4632,7 +4374,6 @@
         "testthat"
     ],
     "geneAttribution": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -4645,11 +4386,9 @@
         "QDNAseq"
     ],
     "genefilter": [
-        "AnnotationDbi",
         "annotate"
     ],
     "genefu": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
@@ -4664,13 +4403,11 @@
         "testthat"
     ],
     "GeneMeta": [
-        "AnnotationDbi",
         "annotate",
         "genefilter"
     ],
     "GeneNetworkBuilder": [],
     "geneplotter": [
-        "AnnotationDbi",
         "annotate"
     ],
     "GENESIS": [
@@ -4681,7 +4418,6 @@
         "mice"
     ],
     "GeneStructureTools": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Mmusculus.UCSC.mm10",
         "BiocFileCache",
@@ -4698,7 +4434,6 @@
         "viridis"
     ],
     "GeneTonic": [
-        "AnnotationDbi",
         "ComplexUpset",
         "DESeq2",
         "DT",
@@ -4715,7 +4450,6 @@
         "visNetwork"
     ],
     "geneXtendeR": [
-        "AnnotationDbi",
         "BiocStyle",
         "GO.db",
         "GenomicAlignments",
@@ -4736,14 +4470,12 @@
         "broom"
     ],
     "GenomicFeatures": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "biomaRt",
         "rtracklayer"
     ],
     "GenomicFiles": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -4757,7 +4489,6 @@
         "plotly"
     ],
     "GenomicInteractionNodes": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "GenomicAlignments",
@@ -4766,7 +4497,6 @@
         "rtracklayer"
     ],
     "GenomicInteractions": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -4783,7 +4513,6 @@
         "viridis"
     ],
     "GenomicOZone": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -4801,7 +4530,6 @@
         "viridis"
     ],
     "GenomicScores": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -4820,7 +4548,6 @@
         "testthat"
     ],
     "genotypeeval": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -4845,7 +4572,6 @@
         "webchem"
     ],
     "GenVisR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -4901,12 +4627,10 @@
     ],
     "GEOquery": [],
     "gep2pep": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate"
     ],
     "gespeR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "Category",
         "GSEABase",
@@ -4925,7 +4649,6 @@
         "testthat"
     ],
     "ggbio": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -4984,7 +4707,6 @@
         "ShortRead"
     ],
     "GISPA": [
-        "AnnotationDbi",
         "GSEABase",
         "HH",
         "Hmisc",
@@ -4995,7 +4717,6 @@
     ],
     "GladiaTOX": [],
     "Glimma": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "geneplotter"
@@ -5004,7 +4725,6 @@
         "SingleCellExperiment"
     ],
     "glmSparseNet": [
-        "AnnotationDbi",
         "BiocFileCache",
         "MultiAssayExperiment",
         "biomaRt",
@@ -5020,7 +4740,6 @@
         "testthat"
     ],
     "GlobalAncova": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate",
         "dendextend",
@@ -5028,11 +4747,9 @@
         "viridis"
     ],
     "globaltest": [
-        "AnnotationDbi",
         "annotate"
     ],
     "gmapR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -5042,7 +4759,6 @@
         "rtracklayer"
     ],
     "GmicR": [
-        "AnnotationDbi",
         "AnnotationForge",
         "Category",
         "DT",
@@ -5061,7 +4777,6 @@
         "viridis"
     ],
     "gmoviz": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5074,15 +4789,11 @@
         "visNetwork"
     ],
     "GOexpress": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
-    "GOfuncR": [
-        "AnnotationDbi"
-    ],
+    "GOfuncR": [],
     "GOpro": [
-        "AnnotationDbi",
         "GO.db",
         "MultiAssayExperiment",
         "dendextend",
@@ -5090,15 +4801,12 @@
         "viridis"
     ],
     "goProfiles": [
-        "AnnotationDbi",
         "GO.db"
     ],
     "GOSemSim": [
-        "AnnotationDbi",
         "GO.db"
     ],
     "goseq": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "GenomicAlignments",
@@ -5108,14 +4816,12 @@
         "rtracklayer"
     ],
     "GOSim": [
-        "AnnotationDbi",
         "GO.db",
         "annotate",
         "org.Hs.eg.db",
         "topGO"
     ],
     "goSorensen": [
-        "AnnotationDbi",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -5136,13 +4842,11 @@
         "viridis"
     ],
     "goSTAG": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "biomaRt"
     ],
     "GOstats": [
-        "AnnotationDbi",
         "AnnotationForge",
         "Category",
         "GO.db",
@@ -5157,7 +4861,6 @@
         "rtracklayer"
     ],
     "goTools": [
-        "AnnotationDbi",
         "GO.db"
     ],
     "GPA": [
@@ -5168,7 +4871,6 @@
         "DescTools"
     ],
     "GRaNIE": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "GO.db",
@@ -5182,9 +4884,7 @@
         "epiR"
     ],
     "graper": [],
-    "graphite": [
-        "AnnotationDbi"
-    ],
+    "graphite": [],
     "GraphPAC": [],
     "GreyListChIP": [
         "BSgenome",
@@ -5210,11 +4910,9 @@
         "testthat"
     ],
     "GSEABase": [
-        "AnnotationDbi",
         "annotate"
     ],
     "GSEABenchmarkeR": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -5234,14 +4932,12 @@
         "viridis"
     ],
     "gsean": [
-        "AnnotationDbi",
         "BiocFileCache",
         "PPInfer",
         "biomaRt",
         "fgsea"
     ],
     "GSReg": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "GenomicAlignments",
@@ -5254,19 +4950,16 @@
         "rtracklayer"
     ],
     "GSRI": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate",
         "genefilter"
     ],
     "GSVA": [
-        "AnnotationDbi",
         "GSEABase",
         "SingleCellExperiment",
         "annotate"
     ],
     "GUIDEseq": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CRISPRseek",
@@ -5283,7 +4976,6 @@
         "rtracklayer"
     ],
     "Guitar": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5291,7 +4983,6 @@
         "rtracklayer"
     ],
     "Gviz": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -5310,7 +5001,6 @@
         "recipes"
     ],
     "gwascat": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -5328,7 +5018,6 @@
         "mice"
     ],
     "gwasurvivr": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GWASTools",
@@ -5342,7 +5031,6 @@
         "rtracklayer"
     ],
     "GWENA": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "WGCNA",
@@ -5360,7 +5048,6 @@
         "EBImage"
     ],
     "HelloRanges": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -5370,7 +5057,6 @@
         "rtracklayer"
     ],
     "hermes": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "MultiAssayExperiment",
@@ -5397,7 +5083,6 @@
         "QDNAseq"
     ],
     "HiCDCPlus": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -5432,7 +5117,6 @@
         "testthat"
     ],
     "HiContacts": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -5456,7 +5140,6 @@
         "viridis"
     ],
     "HiLDA": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
@@ -5467,7 +5150,6 @@
         "rtracklayer"
     ],
     "hipathia": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -5493,7 +5175,6 @@
         "recipes"
     ],
     "HTSeqGenie": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -5507,7 +5188,6 @@
         "rtracklayer"
     ],
     "HTSFilter": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "geneplotter"
@@ -5536,7 +5216,6 @@
         "viridis"
     ],
     "icetea": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DESeq2",
@@ -5552,7 +5231,6 @@
         "rtracklayer"
     ],
     "iCheck": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -5584,7 +5262,6 @@
         "shinyBS"
     ],
     "ideal": [
-        "AnnotationDbi",
         "AnnotationForge",
         "BiocFileCache",
         "Category",
@@ -5616,14 +5293,12 @@
         "rtracklayer"
     ],
     "idiogram": [
-        "AnnotationDbi",
         "annotate"
     ],
     "IgGeneUsage": [
         "rstan"
     ],
     "igvR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -5639,7 +5314,6 @@
         "viridis"
     ],
     "imageHTS": [
-        "AnnotationDbi",
         "Category",
         "EBImage",
         "GSEABase",
@@ -5648,7 +5322,6 @@
         "genefilter"
     ],
     "IMAS": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5694,7 +5367,6 @@
         "plotly"
     ],
     "InPAS": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Drerio.UCSC.danRer7",
         "BiocFileCache",
@@ -5706,7 +5378,6 @@
         "rtracklayer"
     ],
     "INSPEcT": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "GenomicAlignments",
@@ -5731,7 +5402,6 @@
         "testthat"
     ],
     "intansv": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -5754,7 +5424,6 @@
         "kableExtra"
     ],
     "interactiveDisplay": [
-        "AnnotationDbi",
         "Category",
         "DT",
         "GSEABase",
@@ -5766,7 +5435,6 @@
         "DT"
     ],
     "InterCellar": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DT",
         "FactoMineR",
@@ -5789,7 +5457,6 @@
         "wordcloud2"
     ],
     "IntEREst": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "DEXSeq",
@@ -5820,7 +5487,6 @@
         "testthat"
     ],
     "ipdDb": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -5837,7 +5503,6 @@
     ],
     "IRISFGM": [
         "AdaptGauss",
-        "AnnotationDbi",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -5895,7 +5560,6 @@
         "shinyWidgets"
     ],
     "iSEEhub": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -5916,7 +5580,6 @@
     ],
     "ISLET": [],
     "isobar": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
@@ -5925,7 +5588,6 @@
         "IsoCorrectoR"
     ],
     "IsoformSwitchAnalyzeR": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -5944,7 +5606,6 @@
         "tximeta"
     ],
     "isomiRs": [
-        "AnnotationDbi",
         "DEGreport",
         "DESeq2",
         "GGally",
@@ -5958,7 +5619,6 @@
         "pd.mapping50k.xba240"
     ],
     "IVAS": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5988,7 +5648,6 @@
         "rainbow"
     ],
     "karyoploteR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -6004,7 +5663,6 @@
         "viridis"
     ],
     "katdetectr": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -6018,17 +5676,14 @@
         "rtracklayer"
     ],
     "KEGGlincs": [
-        "AnnotationDbi",
         "hgu133a.db",
         "org.Hs.eg.db"
     ],
     "keggorthology": [
-        "AnnotationDbi",
         "hgu95av2.db",
         "org.Hs.eg.db"
     ],
     "kissDE": [
-        "AnnotationDbi",
         "BSgenome",
         "DESeq2",
         "DSS",
@@ -6052,7 +5707,6 @@
         "viridis"
     ],
     "KnowSeq": [
-        "AnnotationDbi",
         "Hmisc",
         "annotate",
         "caret",
@@ -6063,7 +5717,6 @@
         "viridis"
     ],
     "LACE": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DT",
         "biomaRt",
@@ -6083,7 +5736,6 @@
         "SingleCellExperiment"
     ],
     "lineagespot": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -6122,7 +5774,6 @@
         "ropls"
     ],
     "LiquidAssociation": [
-        "AnnotationDbi",
         "broom",
         "geepack",
         "org.Sc.sgd.db"
@@ -6153,7 +5804,6 @@
     ],
     "LowMACA": [
         "AnVIL",
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CNEr",
@@ -6173,11 +5823,8 @@
         "motifStack",
         "rtracklayer"
     ],
-    "LRBaseDbi": [
-        "AnnotationDbi"
-    ],
+    "LRBaseDbi": [],
     "LRcell": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -6185,7 +5832,6 @@
         "interactiveDisplayBase"
     ],
     "lumi": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -6217,7 +5863,6 @@
         "viridis"
     ],
     "m6Aboost": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -6241,7 +5886,6 @@
         "testthat"
     ],
     "Macarron": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "Maaslin2",
@@ -6258,12 +5902,10 @@
         "viridis"
     ],
     "macat": [
-        "AnnotationDbi",
         "annotate"
     ],
     "MACSQuantifyR": [],
     "MACSr": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -6272,7 +5914,6 @@
     ],
     "made4": [],
     "MADSEQ": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
@@ -6283,7 +5924,6 @@
         "rtracklayer"
     ],
     "MAGAR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -6306,7 +5946,6 @@
         "viridis"
     ],
     "MAGeCKFlute": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DOSE",
@@ -6360,11 +5999,9 @@
         "xcms"
     ],
     "mAPKL": [
-        "AnnotationDbi",
         "reactome.db"
     ],
     "maPredictDSC": [
-        "AnnotationDbi",
         "caret",
         "hgu133plus2.db",
         "org.Hs.eg.db",
@@ -6373,7 +6010,6 @@
     "mapscape": [],
     "marr": [],
     "maser": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DT",
@@ -6401,7 +6037,6 @@
         "viridis"
     ],
     "MatrixRider": [
-        "AnnotationDbi",
         "BSgenome",
         "CNEr",
         "GO.db",
@@ -6412,7 +6047,6 @@
     ],
     "MBASED": [],
     "MBECS": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "lme4",
@@ -6426,7 +6060,6 @@
         "benchmarkme"
     ],
     "mbOmic": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "WGCNA",
@@ -6445,7 +6078,6 @@
         "BiocFileCache"
     ],
     "MCbiclust": [
-        "AnnotationDbi",
         "GGally",
         "GO.db",
         "Hmisc",
@@ -6455,7 +6087,6 @@
         "viridis"
     ],
     "mCSEA": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GO.db",
@@ -6481,7 +6112,6 @@
         "GenomicAlignments"
     ],
     "MEAL": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
@@ -6516,7 +6146,6 @@
         "viridis"
     ],
     "MEAT": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -6537,7 +6166,6 @@
     ],
     "MEB": [],
     "MEDIPS": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -6568,11 +6196,8 @@
         "cmdfun",
         "testthat"
     ],
-    "MeSHDbi": [
-        "AnnotationDbi"
-    ],
+    "MeSHDbi": [],
     "meshes": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DOSE",
@@ -6594,7 +6219,6 @@
         "viridis"
     ],
     "meshr": [
-        "AnnotationDbi",
         "BiocStyle",
         "Category",
         "GSEABase",
@@ -6602,9 +6226,7 @@
         "annotate",
         "genefilter"
     ],
-    "MesKit": [
-        "AnnotationDbi"
-    ],
+    "MesKit": [],
     "Metab": [
         "MSnbase",
         "MsFeatures",
@@ -6628,7 +6250,6 @@
     ],
     "metabomxtr": [],
     "MetaboSignal": [
-        "AnnotationDbi",
         "BiocFileCache",
         "EnsDb.Hsapiens.v75",
         "GenomicAlignments",
@@ -6661,7 +6282,6 @@
         "testthat"
     ],
     "metagene": [
-        "AnnotationDbi",
         "BiocFileCache",
         "EnsDb.Hsapiens.v86",
         "GenomicAlignments",
@@ -6687,7 +6307,6 @@
         "SingleCellExperiment"
     ],
     "MetaPhOR": [
-        "AnnotationDbi",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -6712,7 +6331,6 @@
         "viridis"
     ],
     "metaseqR2": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DESeq2",
@@ -6736,7 +6354,6 @@
         "viridis"
     ],
     "metavizr": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6768,7 +6385,6 @@
         "rtracklayer"
     ],
     "MethReg": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -6791,7 +6407,6 @@
         "rtracklayer"
     ],
     "MethylAid": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -6804,7 +6419,6 @@
         "rtracklayer"
     ],
     "methylCC": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "FlowSorted.Blood.450k",
@@ -6823,7 +6437,6 @@
         "rtracklayer"
     ],
     "methylclock": [
-        "AnnotationDbi",
         "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
@@ -6859,7 +6472,6 @@
         "tidyverse"
     ],
     "methylGSA": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DOSE",
         "FDb.InfiniumMethylation.hg19",
@@ -6907,7 +6519,6 @@
         "rtracklayer"
     ],
     "methylPipe": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -6924,7 +6535,6 @@
     ],
     "methylscaper": [],
     "MethylSeekR": [
-        "AnnotationDbi",
         "BSgenome",
         "GenomicAlignments",
         "annotate",
@@ -6939,7 +6549,6 @@
         "rtracklayer"
     ],
     "methylumi": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -6967,11 +6576,9 @@
         "ggmcmc"
     ],
     "MGFM": [
-        "AnnotationDbi",
         "annotate"
     ],
     "MGFR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "annotate",
         "biomaRt"
@@ -7012,7 +6619,6 @@
     "microbiome": [],
     "microbiomeDASim": [],
     "microbiomeExplorer": [
-        "AnnotationDbi",
         "DESeq2",
         "DT",
         "annotate",
@@ -7032,7 +6638,6 @@
     "microbiomeMarker": [
         "ALDEx2",
         "ANCOMBC",
-        "AnnotationDbi",
         "DESeq2",
         "DescTools",
         "Hmisc",
@@ -7059,7 +6664,6 @@
         "viridis"
     ],
     "MicrobiomeProfiler": [
-        "AnnotationDbi",
         "DOSE",
         "DT",
         "GO.db",
@@ -7096,7 +6700,6 @@
         "mice"
     ],
     "MIGSA": [
-        "AnnotationDbi",
         "AnnotationForge",
         "Category",
         "GO.db",
@@ -7125,7 +6728,6 @@
         "viridis"
     ],
     "MineICA": [
-        "AnnotationDbi",
         "AnnotationForge",
         "BiocFileCache",
         "Category",
@@ -7152,7 +6754,6 @@
         "viridis"
     ],
     "minfi": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -7181,15 +6782,11 @@
         "bsseq",
         "rtracklayer"
     ],
-    "MiRaGE": [
-        "AnnotationDbi"
-    ],
+    "MiRaGE": [],
     "mirIntegrator": [
-        "AnnotationDbi",
         "org.Hs.eg.db"
     ],
     "miRLAB": [
-        "AnnotationDbi",
         "AnnotationForge",
         "BiocFileCache",
         "Category",
@@ -7207,14 +6804,10 @@
     ],
     "miRmine": [],
     "miRNAmeConverter": [
-        "AnnotationDbi",
         "miRBaseVersions.db"
     ],
-    "miRNAtap": [
-        "AnnotationDbi"
-    ],
+    "miRNAtap": [],
     "miRSM": [
-        "AnnotationDbi",
         "BiBitR",
         "BicARE",
         "BiocFileCache",
@@ -7272,7 +6865,6 @@
         "viridis"
     ],
     "miRspongeR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DOSE",
         "GO.db",
@@ -7315,7 +6907,6 @@
         "viridis"
     ],
     "missMethyl": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -7349,7 +6940,6 @@
         "echarts4r"
     ],
     "mitoClone2": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -7361,16 +6951,12 @@
     ],
     "mixOmics": [],
     "MLInterfaces": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "threejs"
     ],
-    "MLP": [
-        "AnnotationDbi"
-    ],
+    "MLP": [],
     "MLSeq": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "caret",
@@ -7379,7 +6965,6 @@
         "testthat"
     ],
     "MMAPPR2": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -7411,7 +6996,6 @@
         "Linnorm"
     ],
     "moanin": [
-        "AnnotationDbi",
         "GO.db",
         "topGO",
         "viridis"
@@ -7422,7 +7006,6 @@
         "xcms"
     ],
     "MODA": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "WGCNA",
@@ -7432,7 +7015,6 @@
     "MOFA2": [],
     "MOGAMUN": [],
     "mogsa": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate",
         "genefilter",
@@ -7442,7 +7024,6 @@
         "MultiAssayExperiment"
     ],
     "monaLisa": [
-        "AnnotationDbi",
         "BSgenome",
         "CNEr",
         "GO.db",
@@ -7455,7 +7036,6 @@
         "viridis"
     ],
     "MoonlightR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DOSE",
         "GEOquery",
@@ -7495,7 +7075,6 @@
         "rtracklayer"
     ],
     "motifbreakR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CNEr",
@@ -7521,7 +7100,6 @@
         "rtracklayer"
     ],
     "motifmatchr": [
-        "AnnotationDbi",
         "BSgenome",
         "CNEr",
         "GO.db",
@@ -7531,7 +7109,6 @@
         "rtracklayer"
     ],
     "motifStack": [
-        "AnnotationDbi",
         "BSgenome",
         "CNEr",
         "GO.db",
@@ -7541,7 +7118,6 @@
         "rtracklayer"
     ],
     "MouseFM": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
@@ -7566,7 +7142,6 @@
     ],
     "MsFeatures": [],
     "msgbsR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -7591,7 +7166,6 @@
         "scuttle"
     ],
     "mslp": [
-        "AnnotationDbi",
         "org.Hs.eg.db"
     ],
     "msmsEDA": [
@@ -7603,7 +7177,6 @@
     ],
     "MSnbase": [],
     "MSnID": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "BiocStyle",
@@ -7614,7 +7187,6 @@
         "msmsTests"
     ],
     "MSPrep": [
-        "AnnotationDbi",
         "VIM",
         "annotate",
         "broom",
@@ -7733,7 +7305,6 @@
         "viridis"
     ],
     "multicrispr": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CRISPRseek",
@@ -7754,7 +7325,6 @@
     ],
     "MultiDataSet": [],
     "multiGSEA": [
-        "AnnotationDbi",
         "fgsea",
         "graphite",
         "metap"
@@ -7765,12 +7335,9 @@
         "InteractionSet",
         "QDNAseq"
     ],
-    "multiMiR": [
-        "AnnotationDbi"
-    ],
+    "multiMiR": [],
     "multiOmicsViz": [],
     "multiSight": [
-        "AnnotationDbi",
         "DESeq2",
         "DOSE",
         "DT",
@@ -7818,7 +7385,6 @@
         "scuttle"
     ],
     "MungeSumstats": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -7828,7 +7394,6 @@
         "rtracklayer"
     ],
     "muscat": [
-        "AnnotationDbi",
         "DESeq2",
         "SingleCellExperiment",
         "annotate",
@@ -7848,7 +7413,6 @@
         "viridis"
     ],
     "musicatk": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -7886,7 +7450,6 @@
         "viridis"
     ],
     "MutationalPatterns": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -7905,7 +7468,6 @@
         "testthat"
     ],
     "mygene": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -7916,7 +7478,6 @@
         "viridis"
     ],
     "myvariant": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -7930,7 +7491,6 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -7961,7 +7521,6 @@
         "viridis"
     ],
     "NanoMethViz": [
-        "AnnotationDbi",
         "BSgenome",
         "GenomicAlignments",
         "bsseq",
@@ -7972,11 +7531,9 @@
         "ggiraph"
     ],
     "NanoStringQCPro": [
-        "AnnotationDbi",
         "org.Hs.eg.db"
     ],
     "nanotatoR": [
-        "AnnotationDbi",
         "broom",
         "haven",
         "modelr",
@@ -7988,7 +7545,6 @@
         "fgsea"
     ],
     "NBAMSeq": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "genefilter",
@@ -8012,7 +7568,6 @@
     "ncRNAtools": [],
     "ndexr": [],
     "nearBynding": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8033,14 +7588,12 @@
         "mnem"
     ],
     "NetActivity": [
-        "AnnotationDbi",
         "DESeq2",
         "airway",
         "annotate",
         "geneplotter"
     ],
     "netboost": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "WGCNA",
@@ -8048,7 +7601,6 @@
         "viridis"
     ],
     "netboxr": [
-        "AnnotationDbi",
         "DOSE",
         "DT",
         "GO.db",
@@ -8072,7 +7624,6 @@
         "MultiAssayExperiment"
     ],
     "netOmics": [
-        "AnnotationDbi",
         "GO.db",
         "RandomWalkRestartMH",
         "dnet",
@@ -8084,7 +7635,6 @@
         "BiocStyle"
     ],
     "NetSAM": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "Hmisc",
@@ -8094,7 +7644,6 @@
         "viridis"
     ],
     "netSmooth": [
-        "AnnotationDbi",
         "RNeXML",
         "SingleCellExperiment",
         "annotate",
@@ -8110,7 +7659,6 @@
         "zinbwave"
     ],
     "netZooR": [
-        "AnnotationDbi",
         "AnnotationForge",
         "BiocFileCache",
         "Category",
@@ -8155,7 +7703,6 @@
         "testthat"
     ],
     "NoRCE": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "GenomicAlignments",
@@ -8190,7 +7737,6 @@
         "broom"
     ],
     "npGSEA": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate"
     ],
@@ -8205,7 +7751,6 @@
         "rtracklayer"
     ],
     "NxtIRFcore": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -8220,7 +7765,6 @@
         "rtracklayer"
     ],
     "octad": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DESeq2",
@@ -8243,7 +7787,6 @@
         "rtracklayer"
     ],
     "ODER": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -8272,7 +7815,6 @@
     ],
     "odseq": [],
     "OGRE": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -8303,7 +7845,6 @@
         "questionr"
     ],
     "OmaDB": [
-        "AnnotationDbi",
         "GO.db",
         "topGO"
     ],
@@ -8315,7 +7856,6 @@
         "DT"
     ],
     "omicRexposome": [
-        "AnnotationDbi",
         "DT",
         "FactoMineR",
         "Hmisc",
@@ -8340,7 +7880,6 @@
     ],
     "OmicsLonDA": [],
     "OMICsPCA": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DT",
@@ -8394,7 +7933,6 @@
     "oncomix": [],
     "oncoscanR": [],
     "OncoScore": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
@@ -8410,7 +7948,6 @@
         "plotly"
     ],
     "ontoProc": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -8445,12 +7982,10 @@
         "viridis"
     ],
     "oposSOM": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
     "oppar": [
-        "AnnotationDbi",
         "GSEABase",
         "GSVA",
         "SingleCellExperiment",
@@ -8472,7 +8007,6 @@
         "rtracklayer"
     ],
     "ORFik": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DESeq2",
@@ -8485,7 +8019,6 @@
         "rtracklayer"
     ],
     "Organism.dplyr": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8493,7 +8026,6 @@
         "rtracklayer"
     ],
     "OrganismDbi": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -8526,7 +8058,6 @@
         "ShortRead"
     ],
     "OUTRIDER": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "GenomicAlignments",
@@ -8542,7 +8073,6 @@
     ],
     "OVESEG": [],
     "PAA": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "sva"
@@ -8559,13 +8089,11 @@
         "testthat"
     ],
     "PADOG": [
-        "AnnotationDbi",
         "hgu133a.db",
         "hgu133plus2.db",
         "org.Hs.eg.db"
     ],
     "pageRank": [
-        "AnnotationDbi",
         "BSgenome",
         "CNEr",
         "GO.db",
@@ -8585,7 +8113,6 @@
         "exomeCopy"
     ],
     "PanomiR": [
-        "AnnotationDbi",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -8609,7 +8136,6 @@
     ],
     "PanViz": [],
     "pareg": [
-        "AnnotationDbi",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -8628,7 +8154,6 @@
         "rtracklayer"
     ],
     "PathoStat": [
-        "AnnotationDbi",
         "BiocStyle",
         "DESeq2",
         "DT",
@@ -8639,16 +8164,12 @@
         "profvis",
         "testthat"
     ],
-    "pathRender": [
-        "AnnotationDbi"
-    ],
+    "pathRender": [],
     "pathview": [
-        "AnnotationDbi",
         "org.Hs.eg.db"
     ],
     "paxtoolsr": [],
     "pcaExplorer": [
-        "AnnotationDbi",
         "AnnotationForge",
         "BiocFileCache",
         "Category",
@@ -8671,7 +8192,6 @@
     ],
     "PCAtools": [],
     "PDATK": [
-        "AnnotationDbi",
         "BiocFileCache",
         "CoreGx",
         "DT",
@@ -8707,7 +8227,6 @@
         "MSnbase"
     ],
     "PECA": [
-        "AnnotationDbi",
         "annotate",
         "genefilter"
     ],
@@ -8730,7 +8249,6 @@
         "rtracklayer"
     ],
     "PFP": [
-        "AnnotationDbi",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -8749,7 +8267,6 @@
         "viridis"
     ],
     "phantasus": [
-        "AnnotationDbi",
         "DESeq2",
         "GEOquery",
         "annotate",
@@ -8776,7 +8293,6 @@
     ],
     "phenopath": [],
     "phenoTest": [
-        "AnnotationDbi",
         "BiocFileCache",
         "Category",
         "GSEABase",
@@ -8823,7 +8339,6 @@
         "viridis"
     ],
     "PhyloProfile": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "BiocStyle",
@@ -8852,7 +8367,6 @@
         "GenomicAlignments"
     ],
     "Pigengene": [
-        "AnnotationDbi",
         "BiocStyle",
         "DOSE",
         "GO.db",
@@ -8878,7 +8392,6 @@
         "viridis"
     ],
     "PING": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -8914,7 +8427,6 @@
         "visNetwork"
     ],
     "PloGO2": [
-        "AnnotationDbi",
         "AnnotationForge",
         "Category",
         "GO.db",
@@ -8961,7 +8473,6 @@
         "rtracklayer"
     ],
     "pogos": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -8969,7 +8480,6 @@
         "ontoProc"
     ],
     "POMA": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "broom",
@@ -8979,7 +8489,6 @@
         "recipes"
     ],
     "PoTRA": [
-        "AnnotationDbi",
         "graphite",
         "org.Hs.eg.db"
     ],
@@ -8995,7 +8504,6 @@
         "tidybayes"
     ],
     "PPInfer": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt",
         "fgsea"
@@ -9010,7 +8518,6 @@
         "RPA"
     ],
     "preciseTAD": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9025,11 +8532,9 @@
         "rtracklayer"
     ],
     "PREDA": [
-        "AnnotationDbi",
         "annotate"
     ],
     "primirTSS": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -9062,7 +8567,6 @@
         "viridis"
     ],
     "proActiv": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "GenomicAlignments",
@@ -9073,7 +8577,6 @@
         "rtracklayer"
     ],
     "proBAMr": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9081,7 +8584,6 @@
         "rtracklayer"
     ],
     "proBatch": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "WGCNA",
@@ -9108,7 +8610,6 @@
         "xcms"
     ],
     "profileplyr": [
-        "AnnotationDbi",
         "BiocFileCache",
         "ChIPseeker",
         "DOSE",
@@ -9152,7 +8653,6 @@
         "viridis"
     ],
     "pRoloc": [
-        "AnnotationDbi",
         "BiocFileCache",
         "MLInterfaces",
         "MSnbase",
@@ -9168,7 +8668,6 @@
         "viridis"
     ],
     "pRolocGUI": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DT",
         "MLInterfaces",
@@ -9189,12 +8688,10 @@
         "viridis"
     ],
     "PROMISE": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate"
     ],
     "PROPS": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "sva"
@@ -9210,7 +8707,6 @@
         "shinyjqui"
     ],
     "proteasy": [
-        "AnnotationDbi",
         "BiocFileCache",
         "EnsDb.Hsapiens.v86",
         "EnsDb.Mmusculus.v79",
@@ -9225,7 +8721,6 @@
         "rtracklayer"
     ],
     "ProteoDisco": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -9235,12 +8730,10 @@
         "rtracklayer"
     ],
     "ProteoMM": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
     "protGear": [
-        "AnnotationDbi",
         "DT",
         "FactoMineR",
         "GGally",
@@ -9262,7 +8755,6 @@
         "viridis"
     ],
     "psichomics": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -9293,7 +8785,6 @@
         "plotly"
     ],
     "psygenet2r": [
-        "AnnotationDbi",
         "BgeeDB",
         "BiocFileCache",
         "GO.db",
@@ -9321,7 +8812,6 @@
         "oligoClasses"
     ],
     "PureCN": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -9336,7 +8826,6 @@
         "testthat"
     ],
     "Pviz": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -9352,7 +8841,6 @@
         "viridis"
     ],
     "pwOmics": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -9360,7 +8848,6 @@
         "interactiveDisplayBase"
     ],
     "pwrEWAS": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -9393,7 +8880,6 @@
         "viridis"
     ],
     "qpgraph": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9405,7 +8891,6 @@
         "MSnbase"
     ],
     "qrqc": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -9426,7 +8911,6 @@
         "rtracklayer"
     ],
     "qsmooth": [
-        "AnnotationDbi",
         "Hmisc",
         "annotate",
         "genefilter",
@@ -9435,14 +8919,12 @@
         "viridis"
     ],
     "qsvaR": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "sva"
     ],
     "quantiseqr": [],
     "quantro": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -9458,7 +8940,6 @@
         "GraphPAC"
     ],
     "QuasR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -9473,7 +8954,6 @@
         "biclust"
     ],
     "R3CPET": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -9495,7 +8975,6 @@
         "rtracklayer"
     ],
     "R453Plus1Toolbox": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -9516,7 +8995,6 @@
     "RaggedExperiment": [],
     "ramr": [],
     "ramwas": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "biomaRt"
@@ -9530,7 +9008,6 @@
         "testthat"
     ],
     "RareVariantVis": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -9557,7 +9034,6 @@
         "rgl"
     ],
     "RCAS": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
@@ -9572,7 +9048,6 @@
     ],
     "rcellminer": [],
     "rCGH": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9585,7 +9060,6 @@
     ],
     "RcisTarget": [
         "AUCell",
-        "AnnotationDbi",
         "GSEABase",
         "annotate",
         "mixtools",
@@ -9593,7 +9067,6 @@
     ],
     "RCM": [],
     "Rcpi": [
-        "AnnotationDbi",
         "GO.db",
         "GOSemSim"
     ],
@@ -9617,7 +9090,6 @@
     ],
     "ReactomeGSA": [],
     "ReactomePA": [
-        "AnnotationDbi",
         "DOSE",
         "GO.db",
         "GOSemSim",
@@ -9642,7 +9114,6 @@
     "receptLoss": [],
     "reconsi": [],
     "recount": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GEOquery",
@@ -9664,7 +9135,6 @@
         "rtracklayer"
     ],
     "recountmethylation": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -9678,7 +9148,6 @@
         "rtracklayer"
     ],
     "recoup": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9686,7 +9155,6 @@
         "rtracklayer"
     ],
     "REDseq": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Celegans.UCSC.ce2",
         "BiocFileCache",
@@ -9701,7 +9169,6 @@
     ],
     "RefPlus": [],
     "RegEnrich": [
-        "AnnotationDbi",
         "BiocSet",
         "DESeq2",
         "DOSE",
@@ -9728,7 +9195,6 @@
         "rtracklayer"
     ],
     "regionReport": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "BiocStyle",
@@ -9750,7 +9216,6 @@
     ],
     "regsplice": [],
     "regutools": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -9769,7 +9234,6 @@
         "viridis"
     ],
     "REMP": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -9789,7 +9253,6 @@
         "rtracklayer"
     ],
     "Repitools": [
-        "AnnotationDbi",
         "BSgenome",
         "GenomicAlignments",
         "Ringo",
@@ -9798,7 +9261,6 @@
         "rtracklayer"
     ],
     "ReportingTools": [
-        "AnnotationDbi",
         "AnnotationForge",
         "BSgenome",
         "BiocFileCache",
@@ -9826,7 +9288,6 @@
         "viridis"
     ],
     "RepViz": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
@@ -9838,7 +9299,6 @@
         "rtracklayer"
     ],
     "restfulSE": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -9868,7 +9328,6 @@
         "rtracklayer"
     ],
     "rGenomeTracks": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -9880,7 +9339,6 @@
         "rtracklayer"
     ],
     "RgnTX": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -9891,7 +9349,6 @@
         "rtracklayer"
     ],
     "rGREAT": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DT",
         "GO.db",
@@ -9904,7 +9361,6 @@
         "rtracklayer"
     ],
     "rgsepd": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "GO.db",
@@ -9919,7 +9375,6 @@
         "rtracklayer"
     ],
     "Rhisat2": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -9928,7 +9383,6 @@
         "rtracklayer"
     ],
     "RiboCrypt": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DESeq2",
@@ -9943,7 +9397,6 @@
         "rtracklayer"
     ],
     "RiboDiPA": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "GenomicAlignments",
@@ -9957,7 +9410,6 @@
         "rtracklayer"
     ],
     "RiboProfiling": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -9977,7 +9429,6 @@
     "ribor": [],
     "riboSeqR": [],
     "ribosomeProfilingQC": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CNEr",
@@ -10004,12 +9455,10 @@
         "testthat"
     ],
     "Ringo": [
-        "AnnotationDbi",
         "annotate",
         "genefilter"
     ],
     "RIPAT": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -10031,7 +9480,6 @@
         "xcms"
     ],
     "RITAN": [
-        "AnnotationDbi",
         "BgeeDB",
         "BiocFileCache",
         "EnsDb.Hsapiens.v86",
@@ -10049,7 +9497,6 @@
         "rtracklayer"
     ],
     "RLSeq": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -10075,7 +9522,6 @@
         "webchem"
     ],
     "Rmmquant": [
-        "AnnotationDbi",
         "BiocFileCache",
         "BiocStyle",
         "DESeq2",
@@ -10097,7 +9543,6 @@
         "rtracklayer"
     ],
     "RNAAgeCalc": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GEOquery",
@@ -10120,7 +9565,6 @@
         "testthat"
     ],
     "rnaEditr": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10132,7 +9576,6 @@
         "rtracklayer"
     ],
     "RNAinteract": [
-        "AnnotationDbi",
         "Category",
         "GSEABase",
         "annotate",
@@ -10141,7 +9584,6 @@
         "geneplotter"
     ],
     "RNAmodR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -10157,7 +9599,6 @@
         "viridis"
     ],
     "RNAmodR.AlkAnilineSeq": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -10174,7 +9615,6 @@
         "viridis"
     ],
     "RNAmodR.ML": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -10191,7 +9631,6 @@
         "viridis"
     ],
     "RNAmodR.RiboMethSeq": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -10211,7 +9650,6 @@
         "NBPSeq"
     ],
     "RNASeqR": [
-        "AnnotationDbi",
         "DESeq2",
         "DOSE",
         "DT",
@@ -10255,7 +9693,6 @@
         "viridis"
     ],
     "RnaSeqSampleSize": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GEOquery",
@@ -10281,7 +9718,6 @@
         "viridis"
     ],
     "RnBeads": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -10322,7 +9758,6 @@
         "BiocFileCache"
     ],
     "Rqc": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "BiocStyle",
@@ -10356,7 +9791,6 @@
         "biclust"
     ],
     "rrvgo": [
-        "AnnotationDbi",
         "GO.db",
         "GOSemSim"
     ],
@@ -10379,7 +9813,6 @@
         "viridis"
     ],
     "RTCGAToolbox": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicDataCommons",
@@ -10435,11 +9868,8 @@
         "htmlTable",
         "viridis"
     ],
-    "rTRM": [
-        "AnnotationDbi"
-    ],
+    "rTRM": [],
     "rTRMui": [
-        "AnnotationDbi",
         "GenomicAlignments",
         "MotifDb",
         "org.Hs.eg.db",
@@ -10452,7 +9882,6 @@
         "testthat"
     ],
     "RUVSeq": [
-        "AnnotationDbi",
         "BiocFileCache",
         "EDASeq",
         "GenomicAlignments",
@@ -10466,12 +9895,9 @@
         "gRain"
     ],
     "rWikiPathways": [],
-    "safe": [
-        "AnnotationDbi"
-    ],
+    "safe": [],
     "SAIGEgds": [],
     "sampleClassifier": [
-        "AnnotationDbi",
         "BiocFileCache",
         "MGFM",
         "MGFR",
@@ -10487,7 +9913,6 @@
     ],
     "satuRn": [],
     "SBGNview": [
-        "AnnotationDbi",
         "SBGNview.data",
         "org.Hs.eg.db",
         "pathview"
@@ -10502,7 +9927,6 @@
         "plotly"
     ],
     "SCAN.UPC": [
-        "AnnotationDbi",
         "GEOquery",
         "annotate",
         "genefilter",
@@ -10512,7 +9936,6 @@
     ],
     "scanMiR": [],
     "scanMiRApp": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -10528,7 +9951,6 @@
         "shinyjqui"
     ],
     "scAnnotatR": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -10547,7 +9969,6 @@
         "SingleCellExperiment"
     ],
     "SCATE": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -10563,7 +9984,6 @@
         "viridis"
     ],
     "scBFA": [
-        "AnnotationDbi",
         "DESeq2",
         "Seurat",
         "SingleCellExperiment",
@@ -10589,7 +10009,6 @@
         "scuttle"
     ],
     "scClassify": [
-        "AnnotationDbi",
         "Cepo",
         "GSEABase",
         "SingleCellExperiment",
@@ -10641,7 +10060,6 @@
         "SingleCellExperiment"
     ],
     "scGPS": [
-        "AnnotationDbi",
         "DESeq2",
         "SingleCellExperiment",
         "annotate",
@@ -10684,7 +10102,6 @@
         "viridis"
     ],
     "scmeth": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -10702,7 +10119,6 @@
         "SingleCellExperiment"
     ],
     "scone": [
-        "AnnotationDbi",
         "BiocFileCache",
         "EDASeq",
         "GenomicAlignments",
@@ -10724,7 +10140,6 @@
         "rtracklayer"
     ],
     "scoreInvHap": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -10741,7 +10156,6 @@
     ],
     "scPCA": [],
     "scPipe": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GGally",
         "GenomicAlignments",
@@ -10777,7 +10191,6 @@
         "viridis"
     ],
     "scruff": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -10800,7 +10213,6 @@
         "SingleCellExperiment"
     ],
     "scTensor": [
-        "AnnotationDbi",
         "AnnotationForge",
         "AnnotationHub",
         "BiocFileCache",
@@ -10844,7 +10256,6 @@
         "visNetwork"
     ],
     "scTGIF": [
-        "AnnotationDbi",
         "BiocStyle",
         "GSEABase",
         "Seurat",
@@ -10858,7 +10269,6 @@
         "viridis"
     ],
     "scTreeViz": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10887,7 +10297,6 @@
     "SDAMS": [],
     "sechm": [],
     "segmenter": [
-        "AnnotationDbi",
         "BiocFileCache",
         "ChIPseeker",
         "DOSE",
@@ -10915,7 +10324,6 @@
         "ShortRead"
     ],
     "selectKSigs": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
@@ -10927,12 +10335,10 @@
         "rtracklayer"
     ],
     "SemDist": [
-        "AnnotationDbi",
         "GO.db",
         "annotate"
     ],
     "seq2pathway": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "Hmisc",
@@ -10943,7 +10349,6 @@
     ],
     "seqArchR": [],
     "seqCAT": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -10954,7 +10359,6 @@
     ],
     "SeqGate": [],
     "SeqGSEA": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "annotate",
@@ -10966,7 +10370,6 @@
         "rtracklayer"
     ],
     "SeqSQC": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -10981,7 +10384,6 @@
         "mice"
     ],
     "sesame": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -10990,7 +10392,6 @@
         "sesameData"
     ],
     "SEtools": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "genefilter",
@@ -11004,7 +10405,6 @@
         "rtracklayer"
     ],
     "SGSeq": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11012,7 +10412,6 @@
         "rtracklayer"
     ],
     "shinyepico": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DT",
         "GEOquery",
@@ -11031,7 +10430,6 @@
         "viridis"
     ],
     "shinyMethyl": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -11055,7 +10453,6 @@
     ],
     "SICtools": [],
     "SigCheck": [
-        "AnnotationDbi",
         "MLInterfaces",
         "annotate",
         "genefilter",
@@ -11065,7 +10462,6 @@
     "SigFuge": [],
     "sights": [],
     "signatureSearch": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DOSE",
@@ -11094,7 +10490,6 @@
         "visNetwork"
     ],
     "signeR": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DT",
@@ -11118,7 +10513,6 @@
         "tidytidbits"
     ],
     "signifinder": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GSEABase",
         "GSVA",
@@ -11148,7 +10542,6 @@
         "viridis"
     ],
     "SigsPack": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -11158,12 +10551,10 @@
         "rtracklayer"
     ],
     "SIM": [
-        "AnnotationDbi",
         "annotate",
         "globaltest"
     ],
     "SimBindProfiles": [
-        "AnnotationDbi",
         "Ringo",
         "annotate",
         "genefilter"
@@ -11182,7 +10573,6 @@
         "viridis"
     ],
     "simplifyEnrichment": [
-        "AnnotationDbi",
         "GO.db",
         "GOSemSim",
         "org.Hs.eg.db"
@@ -11201,7 +10591,6 @@
         "scuttle"
     ],
     "singleCellTK": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DESeq2",
@@ -11262,7 +10651,6 @@
         "zinbwave"
     ],
     "SingleMoleculeFootprinting": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -11276,13 +10664,11 @@
     ],
     "SingleR": [],
     "singscore": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate",
         "plotly"
     ],
     "SISPA": [
-        "AnnotationDbi",
         "GSEABase",
         "GSVA",
         "SingleCellExperiment",
@@ -11290,7 +10676,6 @@
         "genefilter"
     ],
     "sitadela": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11304,7 +10689,6 @@
         "treeio"
     ],
     "skewr": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -11325,7 +10709,6 @@
         "wateRmelon"
     ],
     "slalom": [
-        "AnnotationDbi",
         "GSEABase",
         "SingleCellExperiment",
         "annotate"
@@ -11336,7 +10719,6 @@
     ],
     "SMAD": [],
     "SMITE": [
-        "AnnotationDbi",
         "BioNet",
         "BiocFileCache",
         "GO.db",
@@ -11353,7 +10735,6 @@
         "viridis"
     ],
     "snapCGH": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "tilingArray"
@@ -11365,7 +10746,6 @@
         "testthat"
     ],
     "SNPhood": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DESeq2",
@@ -11390,7 +10770,6 @@
         "sampSurf"
     ],
     "SomaticSignatures": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -11419,7 +10798,6 @@
         "viridis"
     ],
     "sparrow": [
-        "AnnotationDbi",
         "BiocSet",
         "GSEABase",
         "annotate",
@@ -11473,7 +10851,6 @@
         "scuttle"
     ],
     "spatialHeatmap": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "Hmisc",
@@ -11491,7 +10868,6 @@
         "visNetwork"
     ],
     "spatzie": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "CNEr",
@@ -11544,7 +10920,6 @@
         "testthat"
     ],
     "SpidermiR": [
-        "AnnotationDbi",
         "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db"
@@ -11562,7 +10937,6 @@
         "viridis"
     ],
     "SpliceWiz": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -11583,7 +10957,6 @@
     ],
     "SplicingFactory": [],
     "SplicingGraphs": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11591,12 +10964,10 @@
         "rtracklayer"
     ],
     "splineTimeR": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate"
     ],
     "SPLINTER": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Mmusculus.UCSC.mm9",
         "BiocFileCache",
@@ -11613,7 +10984,6 @@
         "viridis"
     ],
     "SPONGE": [
-        "AnnotationDbi",
         "BiocFileCache",
         "MetBrewer",
         "biomaRt",
@@ -11649,7 +11019,6 @@
     ],
     "spqn": [],
     "SPsimSeq": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "SingleCellExperiment",
@@ -11665,7 +11034,6 @@
         "GEOquery"
     ],
     "srnadiff": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "BiocStyle",
@@ -11688,7 +11056,6 @@
         "viridis"
     ],
     "sSNAPPY": [
-        "AnnotationDbi",
         "ggraph",
         "graphite",
         "org.Hs.eg.db",
@@ -11710,7 +11077,6 @@
     "ssviz": [],
     "stageR": [],
     "STAN": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -11726,7 +11092,6 @@
         "viridis"
     ],
     "standR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DropletUtils",
         "EDASeq",
@@ -11742,7 +11107,6 @@
         "scuttle"
     ],
     "staRank": [
-        "AnnotationDbi",
         "Category",
         "GSEABase",
         "annotate",
@@ -11750,7 +11114,6 @@
         "genefilter"
     ],
     "StarBioTrek": [
-        "AnnotationDbi",
         "SpidermiR",
         "graphite",
         "miRNAtap",
@@ -11778,7 +11141,6 @@
         "scuttle"
     ],
     "strandCheckR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -11791,7 +11153,6 @@
         "struct"
     ],
     "StructuralVariantAnnotation": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -11801,7 +11162,6 @@
         "rtracklayer"
     ],
     "SubCellBarCode": [
-        "AnnotationDbi",
         "caret",
         "networkD3",
         "org.Hs.eg.db",
@@ -11820,7 +11180,6 @@
     ],
     "supraHex": [],
     "surfaltr": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt",
         "testthat"
@@ -11838,12 +11197,10 @@
         "testthat"
     ],
     "sva": [
-        "AnnotationDbi",
         "annotate",
         "genefilter"
     ],
     "svaNUMT": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -11854,7 +11211,6 @@
         "rtracklayer"
     ],
     "svaRetro": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -11865,7 +11221,6 @@
         "rtracklayer"
     ],
     "SWATH2stats": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
@@ -11926,7 +11281,6 @@
         "spsComps"
     ],
     "systemPipeTools": [
-        "AnnotationDbi",
         "DESeq2",
         "DT",
         "GGally",
@@ -11959,7 +11313,6 @@
         "treeio"
     ],
     "TAPseq": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -11986,7 +11339,6 @@
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
-        "AnnotationDbi",
         "DESeq2",
         "DT",
         "GSEABase",
@@ -12000,18 +11352,15 @@
         "sva"
     ],
     "TCC": [
-        "AnnotationDbi",
         "DESeq2",
         "annotate",
         "geneplotter"
     ],
     "TCGAbiolinks": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
     "TCGAbiolinksGUI": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -12066,7 +11415,6 @@
         "viridis"
     ],
     "TCGAutils": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicDataCommons",
@@ -12083,7 +11431,6 @@
         "GenKern"
     ],
     "TEKRABber": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "annotate",
@@ -12095,7 +11442,6 @@
         "SingleCellExperiment"
     ],
     "tenXplore": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -12109,7 +11455,6 @@
     "TEQC": [],
     "terraTCGAdata": [
         "AnVIL",
-        "AnnotationDbi",
         "BiocFileCache",
         "DT",
         "GenomicAlignments",
@@ -12126,7 +11471,6 @@
         "viridis"
     ],
     "TFBSTools": [
-        "AnnotationDbi",
         "BSgenome",
         "CNEr",
         "GO.db",
@@ -12135,7 +11479,6 @@
         "rtracklayer"
     ],
     "TFEA.ChIP": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12144,7 +11487,6 @@
         "rtracklayer"
     ],
     "TFHAZ": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DESeq2",
@@ -12158,7 +11500,6 @@
         "rtracklayer"
     ],
     "TFutils": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DT",
         "GSEABase",
@@ -12174,11 +11515,9 @@
         "plotly"
     ],
     "tigre": [
-        "AnnotationDbi",
         "annotate"
     ],
     "tilingArray": [
-        "AnnotationDbi",
         "annotate",
         "genefilter"
     ],
@@ -12188,7 +11527,6 @@
     ],
     "timescape": [],
     "TimiRGeN": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DOSE",
         "FreqProf",
@@ -12213,7 +11551,6 @@
         "viridis"
     ],
     "TIN": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "WGCNA",
@@ -12221,12 +11558,10 @@
         "viridis"
     ],
     "TissueEnrich": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate"
     ],
     "TitanCNA": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -12236,7 +11571,6 @@
         "rtracklayer"
     ],
     "tLOH": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -12251,7 +11585,6 @@
         "visdat"
     ],
     "TNBC.CMS": [
-        "AnnotationDbi",
         "GGally",
         "GSEABase",
         "GSVA",
@@ -12279,7 +11612,6 @@
         "MSnbase"
     ],
     "topGO": [
-        "AnnotationDbi",
         "GO.db"
     ],
     "ToxicoGx": [
@@ -12297,7 +11629,6 @@
     "TPP2D": [],
     "tracktables": [],
     "trackViewer": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -12326,14 +11657,12 @@
         "SingleCellExperiment"
     ],
     "transcriptogramer": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "biomaRt",
         "topGO"
     ],
     "transcriptR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12350,7 +11679,6 @@
     ],
     "transite": [],
     "tRanslatome": [
-        "AnnotationDbi",
         "DESeq2",
         "GO.db",
         "GOSemSim",
@@ -12406,7 +11734,6 @@
     ],
     "TREG": [],
     "trena": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -12428,7 +11755,6 @@
         "DT"
     ],
     "TRESS": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12436,7 +11762,6 @@
         "rtracklayer"
     ],
     "tricycle": [
-        "AnnotationDbi",
         "SingleCellExperiment",
         "ggrastr",
         "scater",
@@ -12444,7 +11769,6 @@
         "viridis"
     ],
     "trigger": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "sva"
@@ -12488,7 +11812,6 @@
         "rgl"
     ],
     "TVTB": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -12506,7 +11829,6 @@
         "viridis"
     ],
     "txcutr": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12514,7 +11836,6 @@
         "rtracklayer"
     ],
     "tximeta": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -12529,7 +11850,6 @@
         "SingleCellExperiment"
     ],
     "Ularcirc": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -12545,7 +11865,6 @@
         "rtracklayer"
     ],
     "UMI4Cats": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "DESeq2",
@@ -12565,7 +11884,6 @@
         "rtracklayer"
     ],
     "uncoverappLib": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -12595,11 +11913,9 @@
         "viridis"
     ],
     "UniProt.ws": [
-        "AnnotationDbi",
         "BiocFileCache"
     ],
     "Uniquorn": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -12653,7 +11969,6 @@
         "testthat"
     ],
     "VariantAnnotation": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -12669,7 +11984,6 @@
         "mice"
     ],
     "VariantFiltering": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -12690,7 +12004,6 @@
         "viridis"
     ],
     "VariantTools": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -12700,7 +12013,6 @@
         "rtracklayer"
     ],
     "VaSP": [
-        "AnnotationDbi",
         "GenomicAlignments",
         "annotate",
         "ballgown",
@@ -12709,7 +12021,6 @@
         "sva"
     ],
     "VCFArray": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -12723,7 +12034,6 @@
         "SingleCellExperiment"
     ],
     "VegaMC": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
@@ -12734,7 +12044,6 @@
     ],
     "VennDetail": [],
     "vidger": [
-        "AnnotationDbi",
         "DESeq2",
         "GGally",
         "annotate",
@@ -12745,7 +12054,6 @@
         "plotly"
     ],
     "ViSEAGO": [
-        "AnnotationDbi",
         "AnnotationForge",
         "BiocFileCache",
         "DT",
@@ -12762,7 +12070,6 @@
         "visNetwork"
     ],
     "vissE": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -12796,7 +12103,6 @@
         "MultiAssayExperiment"
     ],
     "vtpnet": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -12810,7 +12116,6 @@
         "rtracklayer"
     ],
     "vulcan": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "ChIPpeakAnno",
@@ -12845,7 +12150,6 @@
         "testthat"
     ],
     "wateRmelon": [
-        "AnnotationDbi",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
         "GEOquery",
@@ -12864,7 +12168,6 @@
         "rtracklayer"
     ],
     "wavClusteR": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -12875,7 +12178,6 @@
         "viridis"
     ],
     "webbioc": [
-        "AnnotationDbi",
         "GO.db",
         "annaffy"
     ],
@@ -12900,7 +12202,6 @@
         "MultiAssayExperiment"
     ],
     "XDE": [
-        "AnnotationDbi",
         "GeneMeta",
         "annotate",
         "genefilter"
@@ -12925,7 +12226,6 @@
         "EBImage"
     ],
     "YAPSA": [
-        "AnnotationDbi",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
@@ -12946,7 +12246,6 @@
         "viridis"
     ],
     "yarn": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -12963,7 +12262,6 @@
         "SingleCellExperiment"
     ],
     "zenith": [
-        "AnnotationDbi",
         "BiocFileCache",
         "EnrichmentBrowser",
         "GO.db",
@@ -12984,14 +12282,11 @@
     ],
     "zFPKM": [],
     "zinbwave": [
-        "AnnotationDbi",
         "SingleCellExperiment",
         "annotate",
         "genefilter"
     ],
-    "GO.db": [
-        "AnnotationDbi"
-    ],
+    "GO.db": [],
     "flexdashboard": [],
     "plotly": [],
     "DT": [],
@@ -13035,16 +12330,13 @@
         "testthat"
     ],
     "adductData": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "PFAM.db": [
-        "AnnotationDbi"
-    ],
+    "PFAM.db": [],
     "Hmisc": [
         "htmlTable",
         "viridis"
@@ -13055,7 +12347,6 @@
     "ggrastr": [],
     "speaq": [],
     "curatedTCGAData": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -13077,25 +12368,18 @@
     ],
     "GUniFrac": [],
     "recipes": [],
-    "org.Sc.sgd.db": [
-        "AnnotationDbi"
-    ],
+    "org.Sc.sgd.db": [],
     "Seurat": [
         "plotly"
     ],
-    "org.Hs.eg.db": [
-        "AnnotationDbi"
-    ],
-    "org.Mm.eg.db": [
-        "AnnotationDbi"
-    ],
+    "org.Hs.eg.db": [],
+    "org.Mm.eg.db": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "GenomicAlignments",
         "rtracklayer"
     ],
     "TxDb.Hsapiens.UCSC.hg19.knownGene": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13103,7 +12387,6 @@
         "rtracklayer"
     ],
     "Homo.sapiens": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "GenomicAlignments",
@@ -13125,7 +12408,6 @@
         "rtracklayer"
     ],
     "MafDb.1Kgenomes.phase3.hs37d5": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -13136,7 +12418,6 @@
         "rtracklayer"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -13147,7 +12428,6 @@
         "rtracklayer"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -13158,7 +12438,6 @@
         "rtracklayer"
     ],
     "COSMIC.67": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -13168,7 +12447,6 @@
         "rtracklayer"
     ],
     "PolyPhen.Hsapiens.dbSNP131": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -13178,7 +12456,6 @@
         "rtracklayer"
     ],
     "SIFT.Hsapiens.dbSNP137": [
-        "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -13188,7 +12465,6 @@
         "rtracklayer"
     ],
     "FDb.InfiniumMethylation.hg19": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13206,7 +12482,6 @@
         "modelr"
     ],
     "Mus.musculus": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GO.db",
         "GenomicAlignments",
@@ -13223,7 +12498,6 @@
         "rtracklayer"
     ],
     "TxDb.Mmusculus.UCSC.mm10.knownGene": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13232,7 +12506,6 @@
     ],
     "ggalluvial": [],
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13243,9 +12516,7 @@
     "modelr": [
         "broom"
     ],
-    "reactome.db": [
-        "AnnotationDbi"
-    ],
+    "reactome.db": [],
     "mixtools": [
         "plotly"
     ],
@@ -13280,7 +12551,6 @@
     ],
     "corncob": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -13302,18 +12572,14 @@
         "plotly",
         "testthat"
     ],
-    "org.Bt.eg.db": [
-        "AnnotationDbi"
-    ],
+    "org.Bt.eg.db": [],
     "DiagrammeR": [
         "viridis",
         "visNetwork"
     ],
     "visNetwork": [],
     "gson": [],
-    "HDO.db": [
-        "AnnotationDbi"
-    ],
+    "HDO.db": [],
     "ggraph": [
         "tidygraph",
         "viridis"
@@ -13327,7 +12593,6 @@
         "viridis"
     ],
     "synaptome.db": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -13335,14 +12600,12 @@
         "synaptome.data"
     ],
     "WGCNA": [
-        "AnnotationDbi",
         "GO.db",
         "Hmisc",
         "htmlTable",
         "viridis"
     ],
     "synaptome.data": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -13354,7 +12617,6 @@
     "shinyBS": [],
     "superheat": [],
     "biscuiteerData": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -13362,7 +12624,6 @@
         "interactiveDisplayBase"
     ],
     "pasilla": [
-        "AnnotationDbi",
         "BiocFileCache",
         "DESeq2",
         "DEXSeq",
@@ -13372,15 +12633,12 @@
         "geneplotter"
     ],
     "hgu133plus2.db": [
-        "AnnotationDbi",
         "org.Hs.eg.db"
     ],
     "hgu133a.db": [
-        "AnnotationDbi",
         "org.Hs.eg.db"
     ],
     "GenomicState": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -13436,7 +12694,6 @@
     ],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -13449,7 +12706,6 @@
         "rtracklayer"
     ],
     "IlluminaHumanMethylation450kmanifest": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -13462,7 +12718,6 @@
         "rtracklayer"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -13476,7 +12731,6 @@
     ],
     "isva": [],
     "geneLenDataBase": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13494,21 +12748,13 @@
         "rtracklayer"
     ],
     "chipenrich.data": [
-        "AnnotationDbi",
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "org.Dm.eg.db": [
-        "AnnotationDbi"
-    ],
-    "org.Dr.eg.db": [
-        "AnnotationDbi"
-    ],
-    "org.Rn.eg.db": [
-        "AnnotationDbi"
-    ],
+    "org.Dm.eg.db": [],
+    "org.Dr.eg.db": [],
+    "org.Rn.eg.db": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13516,7 +12762,6 @@
         "rtracklayer"
     ],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13524,7 +12769,6 @@
         "rtracklayer"
     ],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13532,7 +12776,6 @@
         "rtracklayer"
     ],
     "TxDb.Celegans.UCSC.ce6.ensGene": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13540,7 +12783,6 @@
         "rtracklayer"
     ],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13599,7 +12841,6 @@
     ],
     "airway": [],
     "EnsDb.Hsapiens.v86": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13608,7 +12849,6 @@
         "rtracklayer"
     ],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -13631,7 +12871,6 @@
         "viper"
     ],
     "crisprScoreData": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -13718,11 +12957,9 @@
     ],
     "NBPSeq": [],
     "hgu133a2.db": [
-        "AnnotationDbi",
         "org.Hs.eg.db"
     ],
     "easierData": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -13731,7 +12968,6 @@
     ],
     "EntropyExplorer": [],
     "EpiMix.data": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -13744,7 +12980,6 @@
         "viridis"
     ],
     "ewceData": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -13820,7 +13055,6 @@
     ],
     "epiR": [],
     "HiContactsData": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -13831,7 +13065,6 @@
     "reactable": [],
     "biclust": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13853,7 +13086,6 @@
         "oligoClasses"
     ],
     "hgu95av2.db": [
-        "AnnotationDbi",
         "org.Hs.eg.db"
     ],
     "sortable": [
@@ -13878,7 +13110,6 @@
     ],
     "bigstatsr": [],
     "depmap": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -13908,14 +13139,12 @@
         "haven"
     ],
     "SmartSVA": [
-        "AnnotationDbi",
         "annotate",
         "genefilter",
         "isva",
         "sva"
     ],
     "EnsDb.Hsapiens.v75": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13925,7 +13154,6 @@
     ],
     "rmdformats": [],
     "sesameData": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -13933,7 +13161,6 @@
         "interactiveDisplayBase"
     ],
     "FlowSorted.Blood.450k": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GEOquery",
         "GenomicAlignments",
@@ -13946,7 +13173,6 @@
         "rtracklayer"
     ],
     "methylclockData": [
-        "AnnotationDbi",
         "AnnotationForge",
         "AnnotationHub",
         "AnnotationHubData",
@@ -13970,7 +13196,6 @@
         "mice"
     ],
     "lumiHumanAll.db": [
-        "AnnotationDbi",
         "org.Hs.eg.db"
     ],
     "BSgenome.Hsapiens.UCSC.hg18": [
@@ -13978,9 +13203,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "miRBaseVersions.db": [
-        "AnnotationDbi"
-    ],
+    "miRBaseVersions.db": [],
     "s4vd": [
         "biclust"
     ],
@@ -14047,7 +13270,6 @@
         "rgl"
     ],
     "NxtIRFdata": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -14057,7 +13279,6 @@
         "rtracklayer"
     ],
     "octad.db": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -14086,7 +13307,6 @@
         "testthat"
     ],
     "biomartr": [
-        "AnnotationDbi",
         "BiocFileCache",
         "biomaRt"
     ],
@@ -14105,7 +13325,6 @@
     "ggdist": [],
     "posterior": [],
     "phastCons100way.UCSC.hg38": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -14118,7 +13337,6 @@
     "forecast": [],
     "rhandsontable": [],
     "EnsDb.Mmusculus.v79": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -14127,7 +13345,6 @@
         "rtracklayer"
     ],
     "EnsDb.Rnorvegicus.v79": [
-        "AnnotationDbi",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -14137,7 +13354,6 @@
     ],
     "pairsD3": [],
     "pwrEWAS.data": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -14145,7 +13361,6 @@
         "interactiveDisplayBase"
     ],
     "phastCons100way.UCSC.hg19": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -14167,7 +13382,6 @@
         "rtracklayer"
     ],
     "rGenomeTracksData": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -14183,7 +13397,6 @@
         "recipes"
     ],
     "RLHub": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -14198,7 +13411,6 @@
         "scanMiR"
     ],
     "SCATEData": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -14238,7 +13450,6 @@
     "tidytidbits": [],
     "openair": [],
     "celldex": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -14246,7 +13457,6 @@
         "interactiveDisplayBase"
     ],
     "GSVAdata": [
-        "AnnotationDbi",
         "GSEABase",
         "annotate",
         "hgu95a.db",
@@ -14257,7 +13467,6 @@
         "plotly"
     ],
     "scRNAseq": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -14271,7 +13480,6 @@
         "rtracklayer"
     ],
     "TENxPBMCData": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -14280,12 +13488,10 @@
         "interactiveDisplayBase"
     ],
     "hgu95a.db": [
-        "AnnotationDbi",
         "org.Hs.eg.db"
     ],
     "sampSurf": [],
     "miRNAtap.db": [
-        "AnnotationDbi",
         "miRNAtap"
     ],
     "MESS": [
@@ -14328,15 +13534,12 @@
         "rtracklayer"
     ],
     "kmlShape": [],
-    "mirbase.db": [
-        "AnnotationDbi"
-    ],
+    "mirbase.db": [],
     "condformat": [
         "htmlTable"
     ],
     "shinyTree": [],
     "msigdb": [
-        "AnnotationDbi",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
