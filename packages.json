@@ -1917,8 +1917,7 @@
         "ggtree"
     ],
     "m6Aboost": [
-        "ExperimentHub",
-        "adabag"
+        "ExperimentHub"
     ],
     "Maaslin2": [
         "car",
@@ -4141,7 +4140,6 @@
     ],
     "datamods": [],
     "pd.mapping50k.xba240": [],
-    "adabag": [],
     "glmmTMB": [],
     "depmap": [
         "ExperimentHub"
