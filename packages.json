@@ -3128,7 +3128,6 @@
         "annotate",
         "genefilter"
     ],
-    "GladiaTOX": [],
     "Glimma": [
         "DESeq2",
         "annotate",
