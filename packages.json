@@ -9836,7 +9836,6 @@
         "car",
         "cowplot",
         "ggforce",
-        "gghalves",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -18531,7 +18530,6 @@
         "htmlwidgets",
         "rgl"
     ],
-    "gghalves": [],
     "anyLib": [
         "devtools",
         "htmlwidgets",
