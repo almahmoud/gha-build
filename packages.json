@@ -1971,7 +1971,6 @@
         "viridis"
     ],
     "ISAnalytics": [],
-    "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "DEXSeq",
         "tximeta"
