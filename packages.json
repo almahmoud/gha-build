@@ -506,7 +506,6 @@
         "epivizr",
         "epivizrStandalone"
     ],
-    "MethCP": [],
     "MethReg": [
         "ggpubr",
         "rstatix"
