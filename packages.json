@@ -11488,7 +11488,6 @@
         "MatrixGenerics",
         "RCurl",
         "ROCR",
-        "RcppRoll",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -21466,7 +21465,6 @@
         "GenomicRanges",
         "IRanges",
         "RCurl",
-        "RcppRoll",
         "S4Vectors",
         "XVector",
         "betareg",
@@ -21681,7 +21679,6 @@
         "GenomicRanges",
         "IRanges",
         "RCurl",
-        "RcppRoll",
         "S4Vectors",
         "XVector"
     ],
@@ -89332,7 +89329,6 @@
         "tzdb",
         "vctrs"
     ],
-    "RcppRoll": [],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
         "Biobase",
