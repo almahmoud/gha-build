@@ -779,7 +779,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "phyloseq",
         "plotly",
         "scater",
         "sctransform",
@@ -2313,9 +2312,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "combi": [
-        "phyloseq"
-    ],
+    "combi": [],
     "coMET": [
         "AnnotationDbi",
         "BSgenome",
@@ -6613,7 +6610,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "phyloseq",
         "sva",
         "testthat"
     ],
@@ -6954,7 +6950,6 @@
         "epivizr",
         "epivizrData",
         "epivizrStandalone",
-        "phyloseq",
         "rtracklayer"
     ],
     "MetaVolcanoR": [
@@ -7224,12 +7219,8 @@
         "treeio",
         "viridis"
     ],
-    "microbiome": [
-        "phyloseq"
-    ],
-    "microbiomeDASim": [
-        "phyloseq"
-    ],
+    "microbiome": [],
+    "microbiomeDASim": [],
     "microbiomeExplorer": [
         "AnnotationDbi",
         "DESeq2",
@@ -7270,7 +7261,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "phyloseq",
         "recipes",
         "scater",
         "scuttle",
@@ -8909,7 +8899,6 @@
         "annotate",
         "devtools",
         "geneplotter",
-        "phyloseq",
         "plotly",
         "profvis",
         "testthat"
@@ -9004,9 +8993,7 @@
         "fields",
         "viridis"
     ],
-    "PERFect": [
-        "phyloseq"
-    ],
+    "PERFect": [],
     "periodicDNA": [
         "BSgenome",
         "GenomicAlignments",
@@ -9123,7 +9110,6 @@
         "shinyBS",
         "topGO"
     ],
-    "phyloseq": [],
     "Pi": [
         "caret",
         "dnet",
@@ -9303,8 +9289,7 @@
     "prebs": [
         "BiocStyle",
         "GenomicAlignments",
-        "RPA",
-        "phyloseq"
+        "RPA"
     ],
     "preciseTAD": [
         "AnnotationDbi",
@@ -9897,9 +9882,7 @@
         "mixtools",
         "plotly"
     ],
-    "RCM": [
-        "phyloseq"
-    ],
+    "RCM": [],
     "Rcpi": [
         "AnnotationDbi",
         "GO.db",
@@ -9950,9 +9933,7 @@
         "BiocStyle"
     ],
     "receptLoss": [],
-    "reconsi": [
-        "phyloseq"
-    ],
+    "reconsi": [],
     "recount": [
         "AnnotationDbi",
         "BSgenome",
@@ -10634,8 +10615,7 @@
         "plotly"
     ],
     "RPA": [
-        "BiocStyle",
-        "phyloseq"
+        "BiocStyle"
     ],
     "rprimer": [
         "DT"
@@ -11417,7 +11397,6 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "phyloseq",
         "testthat"
     ],
     "SICtools": [],
@@ -11540,9 +11519,7 @@
         "annotate",
         "genefilter"
     ],
-    "SimBu": [
-        "phyloseq"
-    ],
+    "SimBu": [],
     "SimFFPE": [],
     "simpleSeg": [
         "BiocFileCache",
@@ -12047,7 +12024,6 @@
         "SingleCellExperiment",
         "WGCNA",
         "htmlTable",
-        "phyloseq",
         "viridis"
     ],
     "SQLDataFrame": [],
@@ -13724,9 +13700,7 @@
         "plotly",
         "viridis"
     ],
-    "corncob": [
-        "phyloseq"
-    ],
+    "corncob": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
