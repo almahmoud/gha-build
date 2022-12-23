@@ -752,7 +752,6 @@
         "rhdf5",
         "viridis"
     ],
-    "ClassifyR": [],
     "cleanUpdTSeq": [
         "BSgenome.Drerio.UCSC.danRer7"
     ],
