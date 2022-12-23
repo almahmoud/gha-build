@@ -50250,7 +50250,6 @@
         "Rsamtools",
         "XVector",
         "futile.logger",
-        "reportr",
         "stringr",
         "tractor.base",
         "vctrs"
@@ -60749,10 +60748,7 @@
         "vroom"
     ],
     "animation": [],
-    "tractor.base": [
-        "reportr"
-    ],
-    "reportr": [],
+    "tractor.base": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
