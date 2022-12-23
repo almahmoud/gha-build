@@ -19142,7 +19142,6 @@
         "GenomicRanges",
         "SummarizedExperiment"
     ],
-    "OLINgui": [],
     "omada": [
         "NMF",
         "bslib",
