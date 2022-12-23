@@ -2822,7 +2822,6 @@
         "DESeq2",
         "geneplotter"
     ],
-    "HumanTranscriptomeCompendium": [],
     "iCARE": [
         "Hmisc",
         "viridis"
