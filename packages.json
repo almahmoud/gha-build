@@ -7266,7 +7266,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "dbplyr",
@@ -10272,7 +10271,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "dbplyr",
@@ -23095,7 +23093,6 @@
         "dplyr",
         "ggplot2"
     ],
-    "SPIA": [],
     "SPIAT": [
         "BiocFileCache",
         "DelayedMatrixStats",
@@ -26107,7 +26104,6 @@
         "GSEABase",
         "GenomicRanges",
         "KEGGREST",
-        "SPIA",
         "SummarizedExperiment",
         "annotate",
         "babelgene",
