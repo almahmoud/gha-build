@@ -15158,7 +15158,6 @@
         "htmlwidgets",
         "knitr",
         "latticeExtra",
-        "mboost",
         "org.Hs.eg.db",
         "pcalg",
         "readr",
@@ -30263,10 +30262,7 @@
         "SummarizedExperiment",
         "rtracklayer"
     ],
-    "InvariantCausalPrediction": [
-        "mboost"
-    ],
-    "mboost": [],
+    "InvariantCausalPrediction": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "Biostrings",
