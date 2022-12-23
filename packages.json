@@ -7231,7 +7231,6 @@
         "rcdk",
         "readr",
         "rmarkdown",
-        "rsparse",
         "rvest",
         "selectr",
         "syuzhet",
@@ -11464,7 +11463,6 @@
         "rcdk",
         "readr",
         "rmarkdown",
-        "rsparse",
         "rvest",
         "selectr",
         "syuzhet",
@@ -30298,7 +30296,6 @@
         "purrr",
         "readr",
         "rmarkdown",
-        "rsparse",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -30617,7 +30614,6 @@
         "rcdk",
         "readr",
         "rmarkdown",
-        "rsparse",
         "rvest",
         "scater",
         "scuttle",
@@ -33701,9 +33697,7 @@
         "selectr",
         "tibble"
     ],
-    "text2vec": [
-        "rsparse"
-    ],
+    "text2vec": [],
     "textstem": [
         "dplyr",
         "lexicon",
@@ -33713,7 +33707,6 @@
         "tibble",
         "tidyr"
     ],
-    "rsparse": [],
     "lexicon": [
         "dplyr",
         "purrr",
