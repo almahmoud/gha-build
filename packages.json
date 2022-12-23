@@ -51850,7 +51850,6 @@
         "dplyr",
         "ellipsis",
         "fontawesome",
-        "getPass",
         "htmltools",
         "httpuv",
         "httr",
@@ -80433,7 +80432,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "getPass": [],
     "CodeDepends": [],
     "redux": [
         "storr"
