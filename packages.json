@@ -4413,7 +4413,6 @@
         "biomaRt",
         "bumphunter",
         "dbplyr",
-        "fastseg",
         "genefilter",
         "lme4",
         "methylKit",
@@ -6197,7 +6196,6 @@
         "htmlwidgets",
         "shinyBS"
     ],
-    "fastseg": [],
     "FCBF": [
         "SummarizedExperiment"
     ],
@@ -10027,7 +10025,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "bsseq",
-        "fastseg",
         "methylKit",
         "qvalue",
         "rtracklayer"
@@ -10037,7 +10034,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "methylKit",
         "qvalue",
         "rtracklayer"
@@ -10239,7 +10235,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "methylKit",
         "qvalue",
         "rtracklayer"
@@ -10248,7 +10243,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "fastseg",
         "qvalue",
         "rtracklayer"
     ],
