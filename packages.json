@@ -3951,7 +3951,6 @@
         "DESeq2",
         "DOSE",
         "ReactomePA",
-        "anyLib",
         "biosigner",
         "clusterProfiler",
         "enrichplot",
@@ -6969,7 +6968,6 @@
         "viridis"
     ],
     "cvms": [],
-    "anyLib": [],
     "blme": [],
     "deconstructSigs": [
         "BSgenome",
