@@ -2595,7 +2595,6 @@
         "rtracklayer"
     ],
     "FEAST": [
-        "SC3",
         "TSCAN",
         "TrajectoryUtils"
     ],
@@ -6349,7 +6348,6 @@
         "org.Hs.eg.db",
         "pathview"
     ],
-    "SC3": [],
     "scAlign": [
         "Seurat"
     ],
