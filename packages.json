@@ -350,7 +350,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot"
     ],
-    "ChIPXpress": [],
     "ChromSCape": [
         "qs"
     ],
