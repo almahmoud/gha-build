@@ -26243,7 +26243,6 @@
         "affy",
         "annotate",
         "aroma.affymetrix",
-        "aroma.core",
         "genefilter"
     ],
     "peco": [
@@ -37285,7 +37284,6 @@
         "WGCNA",
         "XVector",
         "aroma.affymetrix",
-        "aroma.core",
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
@@ -44084,10 +44082,7 @@
         "tibble",
         "viridis"
     ],
-    "aroma.affymetrix": [
-        "aroma.core"
-    ],
-    "aroma.core": [],
+    "aroma.affymetrix": [],
     "opencpu": [
         "knitr",
         "stringr"
