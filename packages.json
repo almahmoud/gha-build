@@ -16423,7 +16423,6 @@
         "permute",
         "pheatmap",
         "pillar",
-        "pinfsc50",
         "pkgconfig",
         "plogr",
         "png",
@@ -71941,7 +71940,6 @@
         "openssl",
         "permute",
         "pillar",
-        "pinfsc50",
         "pkgconfig",
         "plogr",
         "png",
@@ -160638,7 +160636,6 @@
         "nlme",
         "permute",
         "pillar",
-        "pinfsc50",
         "pkgconfig",
         "rlang",
         "stringi",
@@ -160652,7 +160649,6 @@
         "withr"
     ],
     "memuse": [],
-    "pinfsc50": [],
     "biglm": [
         "DBI"
     ],
