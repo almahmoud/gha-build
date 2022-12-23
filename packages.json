@@ -3847,7 +3847,6 @@
         "mixtools",
         "plotly"
     ],
-    "gemma.R": [],
     "genbankr": [
         "AnnotationDbi",
         "BSgenome",
