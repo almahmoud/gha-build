@@ -3527,7 +3527,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "NormqPCR": [],
     "normr": [],
     "npGSEA": [
         "GSEABase"
