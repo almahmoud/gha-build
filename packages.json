@@ -596,7 +596,6 @@
     ],
     "DEFormats": [],
     "DegNorm": [],
-    "DEGreport": [],
     "DeMixT": [
         "DSS"
     ],
@@ -1164,9 +1163,7 @@
         "ensembldb",
         "tximeta"
     ],
-    "isomiRs": [
-        "DEGreport"
-    ],
+    "isomiRs": [],
     "ITALICS": [],
     "IVAS": [],
     "ivygapSE": [
