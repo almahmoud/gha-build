@@ -12888,7 +12888,6 @@
         "broom",
         "geepack",
         "ggformula",
-        "ggstance",
         "haven",
         "labelled",
         "mosaicCore"
@@ -15775,18 +15774,15 @@
         "broom",
         "geepack",
         "ggformula",
-        "ggstance",
         "haven",
         "labelled",
         "mosaicCore"
     ],
     "ggformula": [
-        "ggstance",
         "haven",
         "labelled",
         "mosaicCore"
     ],
-    "ggstance": [],
     "mosaicCore": [],
     "rsample": [],
     "SpatialExtremes": [
