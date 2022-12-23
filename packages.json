@@ -4584,7 +4584,6 @@
         "annotate",
         "genefilter"
     ],
-    "GeneNetworkBuilder": [],
     "geneplotter": [
         "AnnotationDbi",
         "annotate"
