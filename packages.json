@@ -1378,13 +1378,10 @@
     "BiocStyle": [
         "bookdown"
     ],
-    "biocthis": [
-        "usethis"
-    ],
+    "biocthis": [],
     "BiocWorkflowTools": [
         "BiocStyle",
-        "bookdown",
-        "usethis"
+        "bookdown"
     ],
     "biodb": [
         "BiocFileCache",
@@ -1884,7 +1881,6 @@
         "pkgdown",
         "profvis",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "bumphunter": [
@@ -3301,7 +3297,6 @@
         "profvis",
         "testthat",
         "tidyr",
-        "usethis",
         "waldo"
     ],
     "cogeqc": [
@@ -4294,7 +4289,6 @@
         "rtracklayer",
         "testthat",
         "tidyr",
-        "usethis",
         "waldo"
     ],
     "dce": [
@@ -6772,7 +6766,6 @@
         "pkgdown",
         "profvis",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "GDCRNATools": [
@@ -8191,8 +8184,7 @@
     "HubPub": [
         "available",
         "biocthis",
-        "tidytext",
-        "usethis"
+        "tidytext"
     ],
     "HumanTranscriptomeCompendium": [
         "DT",
@@ -8453,7 +8445,6 @@
         "pkgdown",
         "profvis",
         "testthat",
-        "usethis",
         "visNetwork",
         "waldo"
     ],
@@ -8612,7 +8603,6 @@
         "shinyjs",
         "testthat",
         "tidyr",
-        "usethis",
         "viridis",
         "visNetwork",
         "waldo",
@@ -9784,7 +9774,6 @@
         "cmdfun",
         "readr",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "MEIGOR": [
@@ -9805,7 +9794,6 @@
         "testthat",
         "tidyr",
         "universalmotif",
-        "usethis",
         "waldo"
     ],
     "MeSHDbi": [
@@ -10247,7 +10235,6 @@
         "testthat",
         "tidyr",
         "tidyverse",
-        "usethis",
         "waldo"
     ],
     "methylGSA": [
@@ -10400,7 +10387,6 @@
         "pkgdown",
         "profvis",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "MetNet": [
@@ -10595,7 +10581,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "usethis",
         "viridis"
     ],
     "MicrobiotaProcess": [
@@ -11692,7 +11677,6 @@
         "tidyr",
         "tidytree",
         "treeio",
-        "usethis",
         "viridis",
         "waldo"
     ],
@@ -12381,7 +12365,6 @@
         "rtracklayer",
         "testthat",
         "tidyr",
-        "usethis",
         "viridis",
         "waldo"
     ],
@@ -12677,7 +12660,6 @@
         "pkgdown",
         "profvis",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "optimalFlow": [
@@ -12956,7 +12938,6 @@
         "shinyjs",
         "testthat",
         "tidyr",
-        "usethis",
         "waldo"
     ],
     "pathRender": [
@@ -15128,7 +15109,6 @@
         "profvis",
         "rtracklayer",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "rmspc": [
@@ -17617,7 +17597,6 @@
         "profvis",
         "rtracklayer",
         "testthat",
-        "usethis",
         "viridis",
         "waldo"
     ],
@@ -18841,8 +18820,7 @@
         "shinyBS",
         "shinyFiles",
         "shinyjs",
-        "tidyr",
-        "usethis"
+        "tidyr"
     ],
     "tRNA": [
         "Modstrings",
@@ -19466,8 +19444,7 @@
         "htmlwidgets",
         "shinyWidgets",
         "shinycustomloader",
-        "shinydashboard",
-        "usethis"
+        "shinydashboard"
     ],
     "wppi": [
         "OmnipathR",
@@ -20195,7 +20172,6 @@
     ],
     "ggfun": [],
     "ggplotify": [],
-    "usethis": [],
     "rms": [
         "Hmisc",
         "htmlTable",
@@ -20321,7 +20297,6 @@
         "pkgdown",
         "profvis",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "pkgdown": [],
@@ -20749,7 +20724,6 @@
     ],
     "cmdfun": [
         "testthat",
-        "usethis",
         "waldo"
     ],
     "metap": [
@@ -21012,9 +20986,7 @@
         "rtracklayer"
     ],
     "concaveman": [],
-    "golem": [
-        "usethis"
-    ],
+    "golem": [],
     "shinyalert": [],
     "wordcloud2": [
         "htmlwidgets"
@@ -21278,7 +21250,6 @@
         "pkgdown",
         "profvis",
         "testthat",
-        "usethis",
         "waldo"
     ],
     "blme": [
