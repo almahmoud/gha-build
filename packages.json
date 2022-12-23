@@ -1965,7 +1965,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "pareg": [],
     "PathoStat": [],
     "pcaExplorer": [
         "GOstats"
