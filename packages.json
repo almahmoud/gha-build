@@ -324,9 +324,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "frenchFISH": [
-        "NHPoisson"
-    ],
+    "frenchFISH": [],
     "funtooNorm": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest"
@@ -997,7 +995,6 @@
     "VIM": [],
     "EntropyExplorer": [],
     "SPARQL": [],
-    "NHPoisson": [],
     "survminer": [
         "ggpubr",
         "rstatix"
