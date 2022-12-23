@@ -2750,7 +2750,6 @@
     "proteasy": [
         "EnsDb.Hsapiens.v86",
         "EnsDb.Mmusculus.v79",
-        "EnsDb.Rnorvegicus.v79",
         "Rcpi",
         "rcdk"
     ],
@@ -4088,7 +4087,6 @@
         "rhdf5"
     ],
     "EnsDb.Mmusculus.v79": [],
-    "EnsDb.Rnorvegicus.v79": [],
     "phastCons100way.UCSC.hg19": [
         "GenomicScores",
         "HDF5Array",
