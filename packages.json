@@ -6,7 +6,6 @@
         "KEGGREST",
         "a4Base",
         "a4Classif",
-        "a4Core",
         "annaffy",
         "annotate",
         "genefilter"
@@ -16,15 +15,11 @@
         "Biostrings",
         "GO.db",
         "KEGGREST",
-        "a4Core",
         "annaffy",
         "annotate",
         "genefilter"
     ],
-    "a4Classif": [
-        "a4Core"
-    ],
-    "a4Core": [],
+    "a4Classif": [],
     "ABarray": [],
     "abseqR": [
         "BiocStyle",
