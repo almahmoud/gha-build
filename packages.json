@@ -1291,7 +1291,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "timeSeries",
         "umap",
         "vctrs",
         "vegan"
@@ -9272,8 +9271,7 @@
         "fBasics",
         "futile.logger",
         "interp",
-        "latticeExtra",
-        "timeSeries"
+        "latticeExtra"
     ],
     "ChIPsim": [
         "BiocParallel",
@@ -11446,7 +11444,6 @@
         "statip",
         "stringr",
         "tibble",
-        "timeSeries",
         "vctrs",
         "vioplot"
     ],
@@ -15309,7 +15306,6 @@
         "reshape",
         "scales",
         "tibble",
-        "timeSeries",
         "tseries",
         "vctrs",
         "xts"
@@ -25307,7 +25303,6 @@
         "rematch2",
         "testthat",
         "tibble",
-        "timeSeries",
         "vctrs",
         "waldo"
     ],
@@ -34962,7 +34957,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "timeSeries",
         "vctrs",
         "waldo"
     ],
@@ -65862,7 +65856,6 @@
         "stable",
         "statip",
         "tibble",
-        "timeSeries",
         "vctrs",
         "vegan"
     ],
@@ -65890,13 +65883,10 @@
         "clue",
         "fBasics",
         "stable",
-        "statip",
-        "timeSeries"
+        "statip"
     ],
     "reticulate": [],
-    "fBasics": [
-        "timeSeries"
-    ],
+    "fBasics": [],
     "stable": [],
     "statip": [
         "clue"
@@ -65918,7 +65908,6 @@
         "survival"
     ],
     "lubridate": [],
-    "timeSeries": [],
     "prodlim": [
         "future",
         "future.apply",
@@ -71119,8 +71108,7 @@
     "fGarch": [
         "cvar",
         "fBasics",
-        "gbutils",
-        "timeSeries"
+        "gbutils"
     ],
     "cvar": [
         "gbutils"
