@@ -709,7 +709,6 @@
         "methylumi"
     ],
     "Rqc": [],
-    "rqt": [],
     "RTCGA": [
         "ggpubr",
         "survminer"
