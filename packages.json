@@ -22382,7 +22382,6 @@
         "htmlwidgets",
         "knitr",
         "lubridate",
-        "phosphoricons",
         "pillar",
         "progress",
         "purrr",
@@ -55097,7 +55096,6 @@
         "hms",
         "htmlwidgets",
         "knitr",
-        "phosphoricons",
         "pillar",
         "progress",
         "reactable",
@@ -55115,7 +55113,6 @@
         "vctrs",
         "vroom"
     ],
-    "phosphoricons": [],
     "pd.mapping50k.xba240": [
         "Biostrings",
         "DelayedArray",
