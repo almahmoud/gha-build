@@ -39872,7 +39872,6 @@
     ],
     "rebook": [
         "BiocStyle",
-        "CodeDepends",
         "bookdown",
         "bslib",
         "jquerylib",
@@ -61200,7 +61199,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "CodeDepends": [],
     "redux": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
