@@ -764,7 +764,6 @@
         "bumphunter",
         "minfi"
     ],
-    "EnrichmentBrowser": [],
     "enrichplot": [],
     "enrichTF": [
         "TFBSTools",
@@ -1083,9 +1082,7 @@
         "car",
         "drc"
     ],
-    "GSEABenchmarkeR": [
-        "EnrichmentBrowser"
-    ],
+    "GSEABenchmarkeR": [],
     "GSReg": [
         "Homo.sapiens",
         "OrganismDbi",
@@ -2625,7 +2622,6 @@
         "quantro"
     ],
     "zenith": [
-        "EnrichmentBrowser",
         "variancePartition"
     ],
     "ggpubr": [
