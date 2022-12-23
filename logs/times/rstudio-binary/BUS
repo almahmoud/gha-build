@@ -1,0 +1,200 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+Already up to date.
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=BUS
++ PKG=BUS
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "BUS"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  426k  100  426k    0     0   543k      0 --:--:-- --:--:-- --:--:--  543k
+built/
+built/built/
+built/built/infotheo/
+built/built/infotheo/libs/
+built/built/infotheo/libs/infotheo.so
+built/built/infotheo/NAMESPACE
+built/built/infotheo/DESCRIPTION
+built/built/infotheo/help/
+built/built/infotheo/help/paths.rds
+built/built/infotheo/help/infotheo.rdb
+built/built/infotheo/help/infotheo.rdx
+built/built/infotheo/help/aliases.rds
+built/built/infotheo/help/AnIndex
+built/built/infotheo/Meta/
+built/built/infotheo/Meta/package.rds
+built/built/infotheo/Meta/features.rds
+built/built/infotheo/Meta/hsearch.rds
+built/built/infotheo/Meta/links.rds
+built/built/infotheo/Meta/nsInfo.rds
+built/built/infotheo/Meta/Rd.rds
+built/built/infotheo/html/
+built/built/infotheo/html/00Index.html
+built/built/infotheo/html/R.css
+built/built/infotheo/INDEX
+built/built/infotheo/R/
+built/built/infotheo/R/infotheo.rdb
+built/built/infotheo/R/infotheo.rdx
+built/built/infotheo/R/infotheo
+built/infotheo/
+built/infotheo/libs/
+built/infotheo/libs/infotheo.so
+built/infotheo/NAMESPACE
+built/infotheo/DESCRIPTION
+built/infotheo/help/
+built/infotheo/help/paths.rds
+built/infotheo/help/infotheo.rdb
+built/infotheo/help/infotheo.rdx
+built/infotheo/help/aliases.rds
+built/infotheo/help/AnIndex
+built/infotheo/Meta/
+built/infotheo/Meta/package.rds
+built/infotheo/Meta/features.rds
+built/infotheo/Meta/hsearch.rds
+built/infotheo/Meta/links.rds
+built/infotheo/Meta/nsInfo.rds
+built/infotheo/Meta/Rd.rds
+built/infotheo/html/
+built/infotheo/html/00Index.html
+built/infotheo/html/R.css
+built/infotheo/INDEX
+built/infotheo/R/
+built/infotheo/R/infotheo.rdb
+built/infotheo/R/infotheo.rdx
+built/infotheo/R/infotheo
+built/minet/
+built/minet/libs/
+built/minet/libs/minet.so
+built/minet/NAMESPACE
+built/minet/DESCRIPTION
+built/minet/help/
+built/minet/help/paths.rds
+built/minet/help/aliases.rds
+built/minet/help/AnIndex
+built/minet/help/minet.rdb
+built/minet/help/minet.rdx
+built/minet/data/
+built/minet/data/syn.net.rda
+built/minet/data/syn.data.rda
+built/minet/Meta/
+built/minet/Meta/package.rds
+built/minet/Meta/features.rds
+built/minet/Meta/hsearch.rds
+built/minet/Meta/links.rds
+built/minet/Meta/nsInfo.rds
+built/minet/Meta/Rd.rds
+built/minet/Meta/data.rds
+built/minet/CITATION
+built/minet/html/
+built/minet/html/00Index.html
+built/minet/html/R.css
+built/minet/INDEX
+built/minet/R/
+built/minet/R/minet.rdb
+built/minet/R/minet
+built/minet/R/minet.rdx
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''BUS'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv BUS_1.54.0_R_x86_64-pc-linux-gnu.tar.gz infotheo_1.2.0.1_R_x86_64-pc-linux-gnu.tar.gz minet_3.56.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/BUS
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'BUS'
+also installing the dependencies ‘minet’, ‘infotheo’
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/minet_3.56.0.tar.gz'
+Content type 'application/x-gzip' length 51305 bytes (50 KB)
+==================================================
+downloaded 50 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/infotheo_1.2.0.1.tar.gz'
+Content type 'binary/octet-stream' length 147323 bytes (143 KB)
+==================================================
+downloaded 143 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BUS_1.54.0.tar.gz'
+Content type 'application/x-gzip' length 2847149 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+* installing *binary* package ‘infotheo’ ...
+* ‘infotheo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘infotheo’ as ‘infotheo_1.2.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (infotheo)
+* installing *source* package ‘minet’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c aracne.cpp -o aracne.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c clr.cpp -o clr.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c minet.cpp -o minet.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c mrnet.cpp -o mrnet.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c validate.cpp -o validate.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o minet.so aracne.o clr.o minet.o mrnet.o validate.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-minet/00new/minet/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘minet’ as ‘minet_3.56.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (minet)
+* installing *source* package ‘BUS’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c BUS.cpp -o BUS.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BUS.so BUS.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-BUS/00new/BUS/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BUS’ as ‘BUS_1.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BUS)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpuyvghx/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m13.016s
+user	0m10.196s
+sys	0m1.593s
