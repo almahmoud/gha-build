@@ -1972,7 +1972,6 @@
         "Hmisc",
         "MSnbase",
         "affy",
-        "agricolae",
         "fields",
         "plsgenomics",
         "viridis",
@@ -4354,7 +4353,6 @@
         "fields",
         "viridis"
     ],
-    "agricolae": [],
     "SmartSVA": [],
     "EnsDb.Hsapiens.v75": [],
     "FlowSorted.Blood.450k": [
