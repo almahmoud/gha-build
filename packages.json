@@ -16,7 +16,6 @@
     ],
     "abseqR": [
         "BiocStyle",
-        "bookdown",
         "flexdashboard",
         "ggcorrplot",
         "ggdendro",
@@ -640,7 +639,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "bookdown",
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
@@ -878,7 +876,6 @@
         "affy",
         "annotate",
         "biomaRt",
-        "bookdown",
         "caret",
         "dendextend",
         "genefilter",
@@ -1289,13 +1286,10 @@
         "SummarizedExperiment",
         "basilisk"
     ],
-    "BiocStyle": [
-        "bookdown"
-    ],
+    "BiocStyle": [],
     "biocthis": [],
     "BiocWorkflowTools": [
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "biodb": [
         "BiocFileCache",
@@ -1634,7 +1628,6 @@
     ],
     "BPRMeth": [
         "BiocStyle",
-        "bookdown",
         "cowplot"
     ],
     "brainflowprobes": [
@@ -1740,7 +1733,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "bookdown",
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
@@ -2454,7 +2446,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "bookdown",
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
@@ -3173,7 +3164,6 @@
     ],
     "COMPASS": [
         "BiocStyle",
-        "bookdown",
         "tidyr"
     ],
     "compcodeR": [],
@@ -4102,7 +4092,6 @@
         "AnnotationDbi",
         "BiocStyle",
         "SummarizedExperiment",
-        "bookdown",
         "made4"
     ],
     "DEComplexDisease": [
@@ -4528,7 +4517,6 @@
         "DT",
         "SummarizedExperiment",
         "UpSetR",
-        "bookdown",
         "broom",
         "colourpicker",
         "dendextend",
@@ -5713,8 +5701,7 @@
     ],
     "ExpressionAtlas": [
         "BiocStyle",
-        "SummarizedExperiment",
-        "bookdown"
+        "SummarizedExperiment"
     ],
     "extraChIPs": [
         "AnnotationDbi",
@@ -6554,7 +6541,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "bookdown",
         "htmlwidgets",
         "networkD3",
         "org.Rn.eg.db",
@@ -9129,7 +9115,6 @@
     "Melissa": [
         "BPRMeth",
         "BiocStyle",
-        "bookdown",
         "cowplot"
     ],
     "memes": [
@@ -9185,7 +9170,6 @@
         "GSEABase",
         "MeSHDbi",
         "annotate",
-        "bookdown",
         "genefilter"
     ],
     "MesKit": [
@@ -9365,7 +9349,6 @@
         "affy",
         "annotate",
         "biomaRt",
-        "bookdown",
         "bsseq",
         "dendextend",
         "egg",
@@ -10657,7 +10640,6 @@
         "DT",
         "MSnbase",
         "affy",
-        "bookdown",
         "htmlwidgets",
         "interactiveDisplayBase",
         "msmsEDA",
@@ -11317,7 +11299,6 @@
     "netprioR": [],
     "netresponse": [
         "BiocStyle",
-        "bookdown",
         "qvalue"
     ],
     "NetSAM": [
@@ -12100,7 +12081,6 @@
         "SummarizedExperiment",
         "annotate",
         "biomformat",
-        "bookdown",
         "devtools",
         "geneplotter",
         "htmlwidgets",
@@ -12390,7 +12370,6 @@
         "ExperimentHub",
         "GO.db",
         "OmaDB",
-        "bookdown",
         "colourpicker",
         "htmlwidgets",
         "interactiveDisplayBase",
@@ -12435,7 +12414,6 @@
         "ReactomePA",
         "WGCNA",
         "aplot",
-        "bookdown",
         "clusterProfiler",
         "cowplot",
         "enrichplot",
@@ -12654,7 +12632,6 @@
         "SummarizedExperiment",
         "affy",
         "biomformat",
-        "bookdown",
         "phyloseq",
         "rhdf5"
     ],
@@ -13523,8 +13500,7 @@
         "viridis"
     ],
     "rebook": [
-        "BiocStyle",
-        "bookdown"
+        "BiocStyle"
     ],
     "receptLoss": [
         "SummarizedExperiment",
@@ -13669,7 +13645,6 @@
         "VariantAnnotation",
         "annotate",
         "biomaRt",
-        "bookdown",
         "bumphunter",
         "derfinder",
         "geneplotter",
@@ -14129,7 +14104,6 @@
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "annotate",
         "biomaRt",
-        "bookdown",
         "devtools",
         "geneplotter",
         "htmlwidgets",
@@ -14437,7 +14411,6 @@
         "BiocStyle",
         "affy",
         "biomformat",
-        "bookdown",
         "phyloseq",
         "rhdf5"
     ],
@@ -14464,7 +14437,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "bookdown",
         "ensembldb",
         "htmlTable",
         "htmlwidgets",
@@ -14671,7 +14643,6 @@
     "sangeranalyseR": [
         "BiocStyle",
         "DT",
-        "bookdown",
         "excelR",
         "ggdendro",
         "htmlwidgets",
@@ -14686,7 +14657,6 @@
         "AnnotationDbi",
         "SBGNview.data",
         "SummarizedExperiment",
-        "bookdown",
         "org.Hs.eg.db",
         "pathview"
     ],
@@ -15013,7 +14983,6 @@
         "BiocStyle",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "bookdown",
         "cowplot",
         "rstan",
         "viridis"
@@ -15200,7 +15169,6 @@
         "SummarizedExperiment",
         "annotate",
         "aplot",
-        "bookdown",
         "ccTensor",
         "concaveman",
         "cowplot",
@@ -15250,7 +15218,6 @@
         "SummarizedExperiment",
         "annotate",
         "babelgene",
-        "bookdown",
         "concaveman",
         "cowplot",
         "fields",
@@ -16460,7 +16427,6 @@
         "annotate",
         "biomaRt",
         "biovizBase",
-        "bookdown",
         "devtools",
         "ensembldb",
         "geneplotter",
@@ -18320,7 +18286,6 @@
         "htmlwidgets",
         "tidyr"
     ],
-    "bookdown": [],
     "htmlwidgets": [],
     "tidyr": [],
     "DT": [
@@ -19691,9 +19656,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "rmdformats": [
-        "bookdown"
-    ],
+    "rmdformats": [],
     "sesameData": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -20081,9 +20044,7 @@
     "excelR": [
         "htmlwidgets"
     ],
-    "SBGNview.data": [
-        "bookdown"
-    ],
+    "SBGNview.data": [],
     "scanMiRData": [
         "cowplot",
         "ggseqlogo",
