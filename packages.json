@@ -59,7 +59,6 @@
     "artMS": [],
     "ASpediaFI": [
         "Gviz",
-        "IVAS",
         "biovizBase",
         "mGSZ"
     ],
@@ -831,9 +830,7 @@
     ],
     "igvR": [],
     "imageHTS": [],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "cytomapper"
     ],
@@ -879,7 +876,6 @@
     ],
     "isomiRs": [],
     "ITALICS": [],
-    "IVAS": [],
     "ivygapSE": [
         "car",
         "ggpubr",
