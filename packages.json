@@ -5562,8 +5562,7 @@
         "zlibbioc"
     ],
     "BAGS": [
-        "Biobase",
-        "breastCancerVDX"
+        "Biobase"
     ],
     "ballgown": [
         "AnnotationDbi",
@@ -124857,7 +124856,6 @@
         "yaml"
     ],
     "microbenchmark": [],
-    "breastCancerVDX": [],
     "xgboost": [
         "Matrix",
         "data.table"
