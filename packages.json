@@ -3922,7 +3922,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "Oscope": [],
     "OTUbase": [],
     "OUTRIDER": [
         "DESeq2",
@@ -4913,9 +4912,7 @@
         "scran",
         "viridis"
     ],
-    "scDDboost": [
-        "Oscope"
-    ],
+    "scDDboost": [],
     "scGPS": [
         "DESeq2"
     ],
