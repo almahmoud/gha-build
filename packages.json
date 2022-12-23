@@ -1536,7 +1536,6 @@
         "EnsDb.Hsapiens.v86",
         "ensembldb"
     ],
-    "metaMS": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot"
