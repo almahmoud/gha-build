@@ -162,7 +162,6 @@
         "VariantAnnotation",
         "geneplotter"
     ],
-    "apComplex": [],
     "APL": [
         "Seurat",
         "topGO"
