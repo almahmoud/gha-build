@@ -26420,7 +26420,6 @@
     "hmdbQuery": [
         "S4Vectors"
     ],
-    "HMMcopy": [],
     "hopach": [],
     "HPAanalyze": [
         "dplyr",
@@ -46011,7 +46010,6 @@
         "GenomeInfoDb",
         "GenomicAlignments",
         "GenomicRanges",
-        "HMMcopy",
         "IRanges",
         "Rsamtools",
         "S4Vectors",
