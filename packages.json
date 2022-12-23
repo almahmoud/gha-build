@@ -7204,9 +7204,7 @@
     "systemPipeR": [
         "ShortRead"
     ],
-    "systemPipeShiny": [
-        "spsComps"
-    ],
+    "systemPipeShiny": [],
     "systemPipeTools": [
         "DESeq2",
         "annotate",
@@ -8572,7 +8570,6 @@
     "SpatialExtremes": [
         "fields"
     ],
-    "spsComps": [],
     "GenKern": [],
     "gghighlight": [],
     "bestNormalize": [],
