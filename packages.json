@@ -3292,19 +3292,14 @@
         "rhdf5"
     ],
     "strandCheckR": [],
-    "StructuralVariantAnnotation": [],
     "survtype": [
         "car",
         "ggpubr",
         "rstatix",
         "survminer"
     ],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "synapter": [
         "MSnbase",
         "affy",
