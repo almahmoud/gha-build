@@ -5399,7 +5399,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SubCellBarCode": [],
     "survtype": [
         "car",
         "ggpubr",
