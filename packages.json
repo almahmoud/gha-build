@@ -1587,7 +1587,6 @@
         "GenomicFiles",
         "QuasR"
     ],
-    "sitadela": [],
     "skewr": [
         "FDb.InfiniumMethylation.hg19",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
