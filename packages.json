@@ -10932,13 +10932,11 @@
         "DT",
         "excelR",
         "plotly",
-        "sangerseqR",
         "shinyWidgets",
         "shinycssloaders",
         "shinydashboard",
         "shinyjs"
     ],
-    "sangerseqR": [],
     "satuRn": [],
     "savR": [],
     "SBGNview": [
@@ -11138,8 +11136,7 @@
         "ggforce"
     ],
     "scifer": [
-        "kableExtra",
-        "sangerseqR"
+        "kableExtra"
     ],
     "scMAGeCK": [
         "Seurat",
