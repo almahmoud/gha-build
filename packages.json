@@ -45566,7 +45566,6 @@
         "rhdf5",
         "scuttle",
         "sf",
-        "spData",
         "spdep",
         "tibble",
         "tidyselect",
@@ -46877,7 +46876,6 @@
         "scuttle",
         "sf",
         "shiny",
-        "spData",
         "spatstat.explore",
         "spatstat.random",
         "spdep",
@@ -51063,7 +51061,6 @@
         "rhdf5",
         "scuttle",
         "sf",
-        "spData",
         "spdep",
         "tibble",
         "tidyselect",
@@ -59033,10 +59030,8 @@
     "sampSurf": [],
     "spdep": [
         "classInt",
-        "sf",
-        "spData"
+        "sf"
     ],
-    "spData": [],
     "alphahull": [
         "ggplot2",
         "interp",
