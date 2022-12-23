@@ -109,7 +109,6 @@
     "QDNAseq": [
         "CGHcall"
     ],
-    "RNASeqR": [],
     "scRecover": [
         "Rmagic"
     ],
