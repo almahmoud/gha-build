@@ -6532,11 +6532,9 @@
         "Hmisc",
         "viridis"
     ],
-    "rTRM": [],
     "rTRMui": [
         "MotifDb",
         "org.Mm.eg.db",
-        "rTRM",
         "rtracklayer"
     ],
     "runibic": [],
