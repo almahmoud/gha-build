@@ -93,7 +93,6 @@
         "DMRcate",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylationEPICmanifest",
         "lumi",
         "methylumi",
         "missMethyl",
@@ -132,8 +131,7 @@
     "consensusDE": [],
     "conumee": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
-        "IlluminaHumanMethylationEPICmanifest"
+        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "CopyNumberPlots": [
         "karyoploteR"
@@ -183,7 +181,6 @@
     "DMRcate": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
         "missMethyl"
     ],
@@ -213,8 +210,7 @@
     ],
     "epimutacions": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
-        "IlluminaHumanMethylationEPICmanifest"
+        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "epivizrStandalone": [],
     "erma": [],
@@ -365,7 +361,6 @@
     "MEAL": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
         "missMethyl"
     ],
@@ -400,7 +395,6 @@
     "methylGSA": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi",
         "missMethyl"
     ],
@@ -424,7 +418,6 @@
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "IlluminaHumanMethylationEPICmanifest",
         "methylumi"
     ],
     "mitoClone2": [],
@@ -721,7 +714,6 @@
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
     "GenomicState": [],
     "GenomicTools": [],
-    "IlluminaHumanMethylationEPICmanifest": [],
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [],
     "spp": [],
     "qs": [],
