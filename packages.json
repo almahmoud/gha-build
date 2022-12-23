@@ -7341,7 +7341,6 @@
         "dplyr",
         "futile.logger",
         "gamlss",
-        "gamlss.dist",
         "ggplot2",
         "lambda.r",
         "lifecycle",
@@ -19117,7 +19116,6 @@
         "bbmle",
         "futile.logger",
         "gamlss",
-        "gamlss.dist",
         "lambda.r",
         "maxLik",
         "miscTools",
@@ -34837,7 +34835,6 @@
         "future",
         "future.apply",
         "gamlss",
-        "gamlss.dist",
         "ggbeeswarm",
         "ggforce",
         "ggfun",
@@ -65198,7 +65195,6 @@
         "doParallel",
         "futile.logger",
         "gamlss",
-        "gamlss.dist",
         "glmnet",
         "lambda.r",
         "nlme",
@@ -83203,11 +83199,9 @@
         "lmtest"
     ],
     "gamlss": [
-        "gamlss.dist",
         "nlme",
         "survival"
     ],
-    "gamlss.dist": [],
     "earth": [
         "plotmo"
     ],
