@@ -9133,7 +9133,6 @@
         "munsell",
         "nlme",
         "nnet",
-        "nsprcomp",
         "openssl",
         "pillar",
         "precrec",
@@ -122694,7 +122693,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "nsprcomp": [],
     "ranger": [
         "Matrix",
         "Rcpp",
