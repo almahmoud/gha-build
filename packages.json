@@ -6807,7 +6807,6 @@
         "htmlwidgets"
     ],
     "fobitools": [
-        "RecordLinkage",
         "cowplot",
         "fgsea",
         "ggforce",
@@ -10365,7 +10364,6 @@
         "HDO.db",
         "KEGGREST",
         "RCy3",
-        "RecordLinkage",
         "aplot",
         "clusterProfiler",
         "cowplot",
@@ -21663,7 +21661,6 @@
     "ggiraph": [
         "htmlwidgets"
     ],
-    "RecordLinkage": [],
     "NHPoisson": [
         "broom",
         "car",
