@@ -5512,7 +5512,6 @@
         "treeio",
         "viridis"
     ],
-    "netDx": [],
     "netOmics": [
         "GO.db",
         "RandomWalkRestartMH",
