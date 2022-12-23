@@ -5859,9 +5859,7 @@
         "lmerTest",
         "rhdf5"
     ],
-    "SpidermiR": [
-        "miRNAtap.db"
-    ],
+    "SpidermiR": [],
     "spiky": [
         "BSgenome"
     ],
@@ -5972,8 +5970,7 @@
         "vsn"
     ],
     "StarBioTrek": [
-        "SpidermiR",
-        "miRNAtap.db"
+        "SpidermiR"
     ],
     "STATegRa": [
         "affy"
@@ -7090,7 +7087,6 @@
     ],
     "hgu95a.db": [],
     "sampSurf": [],
-    "miRNAtap.db": [],
     "MESS": [
         "ggformula"
     ],
