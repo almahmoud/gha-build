@@ -29737,7 +29737,6 @@
         "tidyr",
         "tidyselect",
         "tseries",
-        "urca",
         "viridis",
         "vsn"
     ],
@@ -48064,10 +48063,8 @@
         "pillar",
         "quantmod",
         "tibble",
-        "tseries",
-        "urca"
+        "tseries"
     ],
-    "urca": [],
     "rhandsontable": [
         "bslib",
         "htmlwidgets",
