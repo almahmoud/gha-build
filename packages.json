@@ -34957,7 +34957,6 @@
         "DelayedArray",
         "ScaledMatrix",
         "dplyr",
-        "origami",
         "pillar",
         "purrr",
         "stringr",
@@ -47788,7 +47787,6 @@
         "tibble",
         "tidyselect"
     ],
-    "origami": [],
     "Rmagic": [],
     "ggvenn": [
         "dplyr",
