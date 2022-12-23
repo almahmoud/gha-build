@@ -1414,7 +1414,6 @@
         "scater",
         "scuttle"
     ],
-    "cellscape": [],
     "CellTrails": [
         "SingleCellExperiment",
         "dendextend"
