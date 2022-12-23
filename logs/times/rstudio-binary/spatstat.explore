@@ -1,0 +1,1538 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   954e861c..3923fbe5  main       -> origin/main
+Updating 954e861c..3923fbe5
+Fast-forward
+ lists/BatchJobs                       |  1 +
+ lists/BiGGR                           |  1 +
+ lists/Biostrings                      |  1 +
+ lists/DGEobj                          |  1 +
+ lists/DRaWR                           |  1 +
+ lists/EpiDISH                         |  1 +
+ lists/GenomicRanges                   |  1 +
+ lists/GraphAT                         |  1 +
+ lists/ICSNP                           |  1 +
+ lists/IRdisplay                       |  1 +
+ lists/InvariantCausalPrediction       |  1 +
+ lists/MLmetrics                       |  1 +
+ lists/MatrixCorrelation               |  1 +
+ lists/RRHO                            |  1 +
+ lists/RefManageR                      |  1 +
+ lists/SwathXtend                      |  1 +
+ lists/TileDBArray                     |  1 +
+ lists/VarfromPDB                      |  1 +
+ lists/a4Classif                       |  1 +
+ lists/arrow                           |  1 +
+ lists/batchtools                      |  1 +
+ lists/beadarraySNP                    |  1 +
+ lists/bluster                         |  1 +
+ lists/ccImpute                        |  1 +
+ lists/coin                            |  1 +
+ lists/configr                         |  1 +
+ lists/cvAUC                           |  1 +
+ lists/dplR                            |  1 +
+ lists/fastreeR                        |  1 +
+ lists/furrr                           |  1 +
+ lists/gridtext                        |  1 +
+ lists/imager                          |  1 +
+ lists/infinityFlow                    |  1 +
+ lists/knitr                           |  1 +
+ lists/latex2exp                       |  1 +
+ lists/mutoss                          |  1 +
+ lists/normalize450K                   |  1 +
+ lists/onlineFDR                       |  1 +
+ lists/pcalg                           |  1 +
+ lists/powerTCR                        |  1 +
+ lists/pryr                            |  1 +
+ lists/randomcoloR                     |  1 +
+ lists/readJDX                         |  1 +
+ lists/reportROC                       |  1 +
+ lists/reshape2                        |  1 +
+ lists/rncl                            |  1 +
+ lists/rols                            |  1 +
+ lists/rsnps                           |  1 +
+ lists/selectr                         |  1 +
+ lists/sevenbridges                    |  1 +
+ lists/sparseDOSSA                     |  1 +
+ lists/spsUtil                         |  1 +
+ lists/sqldf                           |  1 +
+ lists/styler                          |  1 +
+ lists/text2vec                        |  1 +
+ lists/tseries                         |  1 +
+ lists/tweeDEseq                       |  1 +
+ lists/usethis                         |  1 +
+ logs/run_ids/rstudio-binaries/Spectra |  2 ++
+ tobuild.txt                           | 58 +++++++++++++++++++++++++++++++++++
+ 60 files changed, 118 insertions(+)
+ create mode 100644 lists/BatchJobs
+ create mode 100644 lists/BiGGR
+ create mode 100644 lists/Biostrings
+ create mode 100644 lists/DGEobj
+ create mode 100644 lists/DRaWR
+ create mode 100644 lists/EpiDISH
+ create mode 100644 lists/GenomicRanges
+ create mode 100644 lists/GraphAT
+ create mode 100644 lists/ICSNP
+ create mode 100644 lists/IRdisplay
+ create mode 100644 lists/InvariantCausalPrediction
+ create mode 100644 lists/MLmetrics
+ create mode 100644 lists/MatrixCorrelation
+ create mode 100644 lists/RRHO
+ create mode 100644 lists/RefManageR
+ create mode 100644 lists/SwathXtend
+ create mode 100644 lists/TileDBArray
+ create mode 100644 lists/VarfromPDB
+ create mode 100644 lists/a4Classif
+ create mode 100644 lists/arrow
+ create mode 100644 lists/batchtools
+ create mode 100644 lists/beadarraySNP
+ create mode 100644 lists/bluster
+ create mode 100644 lists/ccImpute
+ create mode 100644 lists/coin
+ create mode 100644 lists/configr
+ create mode 100644 lists/cvAUC
+ create mode 100644 lists/dplR
+ create mode 100644 lists/fastreeR
+ create mode 100644 lists/furrr
+ create mode 100644 lists/gridtext
+ create mode 100644 lists/imager
+ create mode 100644 lists/infinityFlow
+ create mode 100644 lists/knitr
+ create mode 100644 lists/latex2exp
+ create mode 100644 lists/mutoss
+ create mode 100644 lists/normalize450K
+ create mode 100644 lists/onlineFDR
+ create mode 100644 lists/pcalg
+ create mode 100644 lists/powerTCR
+ create mode 100644 lists/pryr
+ create mode 100644 lists/randomcoloR
+ create mode 100644 lists/readJDX
+ create mode 100644 lists/reportROC
+ create mode 100644 lists/reshape2
+ create mode 100644 lists/rncl
+ create mode 100644 lists/rols
+ create mode 100644 lists/rsnps
+ create mode 100644 lists/selectr
+ create mode 100644 lists/sevenbridges
+ create mode 100644 lists/sparseDOSSA
+ create mode 100644 lists/spsUtil
+ create mode 100644 lists/sqldf
+ create mode 100644 lists/styler
+ create mode 100644 lists/text2vec
+ create mode 100644 lists/tseries
+ create mode 100644 lists/tweeDEseq
+ create mode 100644 lists/usethis
+ create mode 100644 logs/run_ids/rstudio-binaries/Spectra
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=spatstat.explore
++ PKG=spatstat.explore
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "spatstat.explore"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 20.7M    1  223k    0     0   241k      0  0:01:27 --:--:--  0:01:27  240k  6 20.7M    6 1306k    0     0   674k      0  0:00:31  0:00:01  0:00:30  674k 14 20.7M   14 3091k    0     0  1058k      0  0:00:20  0:00:02  0:00:18 1058k 27 20.7M   27 5801k    0     0  1475k      0  0:00:14  0:00:03  0:00:11 1475k 44 20.7M   44 9355k    0     0  1891k      0  0:00:11  0:00:04  0:00:07 1891k 64 20.7M   64 13.2M    0     0  2293k      0  0:00:09  0:00:05  0:00:04 2673k 88 20.7M   88 18.3M    0     0  2708k      0  0:00:07  0:00:06  0:00:01 3495k100 20.7M  100 20.7M    0     0  2884k      0  0:00:07  0:00:07 --:--:-- 4087k
+built/
+built/built/
+built/built/built/
+built/built/built/lattice/
+built/built/built/lattice/libs/
+built/built/built/lattice/libs/lattice.so
+built/built/built/lattice/NEWS
+built/built/built/lattice/NAMESPACE
+built/built/built/lattice/DESCRIPTION
+built/built/built/lattice/help/
+built/built/built/lattice/help/paths.rds
+built/built/built/lattice/help/lattice.rdx
+built/built/built/lattice/help/lattice.rdb
+built/built/built/lattice/help/aliases.rds
+built/built/built/lattice/help/AnIndex
+built/built/built/lattice/data/
+built/built/built/lattice/data/Rdata.rds
+built/built/built/lattice/data/Rdata.rdb
+built/built/built/lattice/data/Rdata.rdx
+built/built/built/lattice/Meta/
+built/built/built/lattice/Meta/package.rds
+built/built/built/lattice/Meta/demo.rds
+built/built/built/lattice/Meta/features.rds
+built/built/built/lattice/Meta/hsearch.rds
+built/built/built/lattice/Meta/links.rds
+built/built/built/lattice/Meta/nsInfo.rds
+built/built/built/lattice/Meta/Rd.rds
+built/built/built/lattice/Meta/data.rds
+built/built/built/lattice/po/
+built/built/built/lattice/po/it/
+built/built/built/lattice/po/it/LC_MESSAGES/
+built/built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/fr/
+built/built/built/lattice/po/fr/LC_MESSAGES/
+built/built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/ko/
+built/built/built/lattice/po/ko/LC_MESSAGES/
+built/built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/pl/
+built/built/built/lattice/po/pl/LC_MESSAGES/
+built/built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/en@quot/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/de/
+built/built/built/lattice/po/de/LC_MESSAGES/
+built/built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/CITATION
+built/built/built/lattice/html/
+built/built/built/lattice/html/00Index.html
+built/built/built/lattice/html/R.css
+built/built/built/lattice/INDEX
+built/built/built/lattice/R/
+built/built/built/lattice/R/lattice
+built/built/built/lattice/R/lattice.rdx
+built/built/built/lattice/R/lattice.rdb
+built/built/built/lattice/demo/
+built/built/built/lattice/demo/panel.R
+built/built/built/lattice/demo/intervals.R
+built/built/built/lattice/demo/labels.R
+built/built/built/lattice/demo/lattice.R
+built/built/built/Matrix/
+built/built/built/Matrix/Doxyfile
+built/built/built/Matrix/libs/
+built/built/built/Matrix/libs/Matrix.so
+built/built/built/Matrix/NAMESPACE
+built/built/built/Matrix/LICENCE
+built/built/built/Matrix/DESCRIPTION
+built/built/built/Matrix/test-tools-1.R
+built/built/built/Matrix/help/
+built/built/built/Matrix/help/paths.rds
+built/built/built/Matrix/help/aliases.rds
+built/built/built/Matrix/help/AnIndex
+built/built/built/Matrix/help/Matrix.rdx
+built/built/built/Matrix/help/Matrix.rdb
+built/built/built/Matrix/data/
+built/built/built/Matrix/data/USCounties.R
+built/built/built/Matrix/data/datalist
+built/built/built/Matrix/data/CAex.R
+built/built/built/Matrix/data/wrld_1deg.R
+built/built/built/Matrix/data/KNex.R
+built/built/built/Matrix/Meta/
+built/built/built/Matrix/Meta/package.rds
+built/built/built/Matrix/Meta/vignette.rds
+built/built/built/Matrix/Meta/features.rds
+built/built/built/Matrix/Meta/hsearch.rds
+built/built/built/Matrix/Meta/links.rds
+built/built/built/Matrix/Meta/nsInfo.rds
+built/built/built/Matrix/Meta/Rd.rds
+built/built/built/Matrix/Meta/data.rds
+built/built/built/Matrix/NEWS.Rd
+built/built/built/Matrix/include/
+built/built/built/Matrix/include/cholmod.h
+built/built/built/Matrix/include/Matrix_stubs.c
+built/built/built/Matrix/include/Matrix.h
+built/built/built/Matrix/test-tools-Matrix.R
+built/built/built/Matrix/test-tools.R
+built/built/built/Matrix/po/
+built/built/built/Matrix/po/lt/
+built/built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/it/
+built/built/built/Matrix/po/it/LC_MESSAGES/
+built/built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/fr/
+built/built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/ko/
+built/built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/pl/
+built/built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/en@quot/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/po/de/
+built/built/built/Matrix/po/de/LC_MESSAGES/
+built/built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/built/Matrix/Copyrights
+built/built/built/Matrix/html/
+built/built/built/Matrix/html/00Index.html
+built/built/built/Matrix/html/R.css
+built/built/built/Matrix/INDEX
+built/built/built/Matrix/doc/
+built/built/built/Matrix/doc/Design-issues.Rnw
+built/built/built/Matrix/doc/sparseModels.R
+built/built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/built/Matrix/doc/Introduction.R
+built/built/built/Matrix/doc/sparseModels.Rnw
+built/built/built/Matrix/doc/Design-issues.pdf
+built/built/built/Matrix/doc/Design-issues.R
+built/built/built/Matrix/doc/Comparisons.R
+built/built/built/Matrix/doc/Announce.txt
+built/built/built/Matrix/doc/Introduction.Rnw
+built/built/built/Matrix/doc/Intro2Matrix.R
+built/built/built/Matrix/doc/index.html
+built/built/built/Matrix/doc/SuiteSparse/
+built/built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/built/Matrix/doc/Comparisons.pdf
+built/built/built/Matrix/doc/sparseModels.pdf
+built/built/built/Matrix/doc/Comparisons.Rnw
+built/built/built/Matrix/doc/Introduction.pdf
+built/built/built/Matrix/R/
+built/built/built/Matrix/R/Matrix
+built/built/built/Matrix/R/Matrix.rdx
+built/built/built/Matrix/R/Matrix.rdb
+built/built/built/Matrix/external/
+built/built/built/Matrix/external/symW.rda
+built/built/built/Matrix/external/lund_a.rsa
+built/built/built/Matrix/external/wrong.mtx
+built/built/built/Matrix/external/pores_1.mtx
+built/built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/built/Matrix/external/CAex_slots.rda
+built/built/built/Matrix/external/KNex_slots.rda
+built/built/built/Matrix/external/jgl009.mtx
+built/built/built/Matrix/external/utm300.rua
+built/built/built/Matrix/external/test3comp.rda
+built/built/built/Matrix/external/USCounties_slots.rda
+built/built/built/Matrix/external/Z_NA_rnk.rds
+built/built/built/Matrix/external/symA.rda
+built/built/built/Matrix/external/lund_a.mtx
+built/built/built/spatstat.utils/
+built/built/built/spatstat.utils/libs/
+built/built/built/spatstat.utils/libs/spatstat.utils.so
+built/built/built/spatstat.utils/NEWS
+built/built/built/spatstat.utils/NAMESPACE
+built/built/built/spatstat.utils/DESCRIPTION
+built/built/built/spatstat.utils/help/
+built/built/built/spatstat.utils/help/paths.rds
+built/built/built/spatstat.utils/help/spatstat.utils.rdb
+built/built/built/spatstat.utils/help/spatstat.utils.rdx
+built/built/built/spatstat.utils/help/aliases.rds
+built/built/built/spatstat.utils/help/macros/
+built/built/built/spatstat.utils/help/macros/defns.Rd
+built/built/built/spatstat.utils/help/AnIndex
+built/built/built/spatstat.utils/Meta/
+built/built/built/spatstat.utils/Meta/package.rds
+built/built/built/spatstat.utils/Meta/features.rds
+built/built/built/spatstat.utils/Meta/hsearch.rds
+built/built/built/spatstat.utils/Meta/links.rds
+built/built/built/spatstat.utils/Meta/nsInfo.rds
+built/built/built/spatstat.utils/Meta/Rd.rds
+built/built/built/spatstat.utils/html/
+built/built/built/spatstat.utils/html/00Index.html
+built/built/built/spatstat.utils/html/R.css
+built/built/built/spatstat.utils/INDEX
+built/built/built/spatstat.utils/doc/
+built/built/built/spatstat.utils/doc/packagesizes.txt
+built/built/built/spatstat.utils/R/
+built/built/built/spatstat.utils/R/spatstat.utils.rdb
+built/built/built/spatstat.utils/R/spatstat.utils.rdx
+built/built/built/spatstat.utils/R/spatstat.utils
+built/built/deldir/
+built/built/deldir/libs/
+built/built/deldir/libs/deldir.so
+built/built/deldir/NAMESPACE
+built/built/deldir/DESCRIPTION
+built/built/deldir/code.discarded/
+built/built/deldir/code.discarded/xsucc.f
+built/built/deldir/code.discarded/inddup.r
+built/built/deldir/code.discarded/fexitf.r
+built/built/deldir/code.discarded/trigraf.r
+built/built/deldir/code.discarded/fexitc.c
+built/built/deldir/code.discarded/ind.dup.R
+built/built/deldir/code.discarded/trigraf1.r.save
+built/built/deldir/code.discarded/triang.list.R.save
+built/built/deldir/code.discarded/collincheck.r
+built/built/deldir/code.discarded/intri.r.save
+built/built/deldir/code.discarded/collinChk.R
+built/built/deldir/code.discarded/collincheck.f
+built/built/deldir/code.discarded/init.c
+built/built/deldir/code.discarded/trigraf.c
+built/built/deldir/code.discarded/fexitf.f
+built/built/deldir/help/
+built/built/deldir/help/paths.rds
+built/built/deldir/help/aliases.rds
+built/built/deldir/help/macros/
+built/built/deldir/help/macros/defns.Rd
+built/built/deldir/help/deldir.rdx
+built/built/deldir/help/deldir.rdb
+built/built/deldir/help/AnIndex
+built/built/deldir/data/
+built/built/deldir/data/Rdata.rds
+built/built/deldir/data/Rdata.rdb
+built/built/deldir/data/Rdata.rdx
+built/built/deldir/Meta/
+built/built/deldir/Meta/package.rds
+built/built/deldir/Meta/features.rds
+built/built/deldir/Meta/hsearch.rds
+built/built/deldir/Meta/links.rds
+built/built/deldir/Meta/nsInfo.rds
+built/built/deldir/Meta/Rd.rds
+built/built/deldir/Meta/data.rds
+built/built/deldir/SavedRatfor/
+built/built/deldir/SavedRatfor/testeq.r
+built/built/deldir/SavedRatfor/crossutil.r
+built/built/deldir/SavedRatfor/qtest.r
+built/built/deldir/SavedRatfor/insrt1.r
+built/built/deldir/SavedRatfor/swap.r
+built/built/deldir/SavedRatfor/insrt.r
+built/built/deldir/SavedRatfor/intri.r
+built/built/deldir/SavedRatfor/dldins.r
+built/built/deldir/SavedRatfor/locn.r
+built/built/deldir/SavedRatfor/trifnd.r
+built/built/deldir/SavedRatfor/triar.r
+built/built/deldir/SavedRatfor/pred.r
+built/built/deldir/SavedRatfor/circen.r
+built/built/deldir/SavedRatfor/qtest1.r
+built/built/deldir/SavedRatfor/dirout.r
+built/built/deldir/SavedRatfor/adjchk.r
+built/built/deldir/SavedRatfor/delseg.r
+built/built/deldir/SavedRatfor/delout.r
+built/built/deldir/SavedRatfor/acchk.r
+built/built/deldir/SavedRatfor/mnnd.r
+built/built/deldir/SavedRatfor/initad.r
+built/built/deldir/SavedRatfor/master.r
+built/built/deldir/SavedRatfor/dirseg.r
+built/built/deldir/SavedRatfor/addpt.r
+built/built/deldir/SavedRatfor/succ.r
+built/built/deldir/SavedRatfor/collincheck.r
+built/built/deldir/SavedRatfor/binsrt.r
+built/built/deldir/SavedRatfor/delet1.r
+built/built/deldir/SavedRatfor/delet.r
+built/built/deldir/SavedRatfor/stoke.r
+built/built/deldir/SavedRatfor/cross.r
+built/built/deldir/READ_ME
+built/built/deldir/ratfor/
+built/built/deldir/ratfor/testeq.r
+built/built/deldir/ratfor/qtest.r
+built/built/deldir/ratfor/insrt1.r
+built/built/deldir/ratfor/swap.r
+built/built/deldir/ratfor/insrt.r
+built/built/deldir/ratfor/intri.r
+built/built/deldir/ratfor/dldins.r
+built/built/deldir/ratfor/locn.r
+built/built/deldir/ratfor/trifnd.r
+built/built/deldir/ratfor/triar.r
+built/built/deldir/ratfor/pred.r
+built/built/deldir/ratfor/circen.r
+built/built/deldir/ratfor/qtest1.r
+built/built/deldir/ratfor/dirout.r
+built/built/deldir/ratfor/adjchk.r
+built/built/deldir/ratfor/delseg.r
+built/built/deldir/ratfor/delout.r
+built/built/deldir/ratfor/acchk.r
+built/built/deldir/ratfor/mnnd.r
+built/built/deldir/ratfor/initad.r
+built/built/deldir/ratfor/makefor
+built/built/deldir/ratfor/master.r
+built/built/deldir/ratfor/dirseg.r
+built/built/deldir/ratfor/addpt.r
+built/built/deldir/ratfor/succ.r
+built/built/deldir/ratfor/binsrt.r
+built/built/deldir/ratfor/delet1.r
+built/built/deldir/ratfor/delet.r
+built/built/deldir/ratfor/stoke.r
+built/built/deldir/ratfor/cross.r
+built/built/deldir/html/
+built/built/deldir/html/00Index.html
+built/built/deldir/html/R.css
+built/built/deldir/INDEX
+built/built/deldir/R/
+built/built/deldir/R/deldir
+built/built/deldir/R/deldir.rdx
+built/built/deldir/R/deldir.rdb
+built/built/polyclip/
+built/built/polyclip/libs/
+built/built/polyclip/libs/polyclip.so
+built/built/polyclip/NEWS
+built/built/polyclip/NAMESPACE
+built/built/polyclip/DESCRIPTION
+built/built/polyclip/help/
+built/built/polyclip/help/paths.rds
+built/built/polyclip/help/polyclip.rdx
+built/built/polyclip/help/aliases.rds
+built/built/polyclip/help/polyclip.rdb
+built/built/polyclip/help/AnIndex
+built/built/polyclip/Meta/
+built/built/polyclip/Meta/package.rds
+built/built/polyclip/Meta/features.rds
+built/built/polyclip/Meta/hsearch.rds
+built/built/polyclip/Meta/links.rds
+built/built/polyclip/Meta/nsInfo.rds
+built/built/polyclip/Meta/Rd.rds
+built/built/polyclip/html/
+built/built/polyclip/html/00Index.html
+built/built/polyclip/html/R.css
+built/built/polyclip/INDEX
+built/built/polyclip/R/
+built/built/polyclip/R/polyclip
+built/built/polyclip/R/polyclip.rdx
+built/built/polyclip/R/polyclip.rdb
+built/built/spatstat.utils/
+built/built/spatstat.utils/libs/
+built/built/spatstat.utils/libs/spatstat.utils.so
+built/built/spatstat.utils/NEWS
+built/built/spatstat.utils/NAMESPACE
+built/built/spatstat.utils/DESCRIPTION
+built/built/spatstat.utils/help/
+built/built/spatstat.utils/help/paths.rds
+built/built/spatstat.utils/help/spatstat.utils.rdb
+built/built/spatstat.utils/help/spatstat.utils.rdx
+built/built/spatstat.utils/help/aliases.rds
+built/built/spatstat.utils/help/macros/
+built/built/spatstat.utils/help/macros/defns.Rd
+built/built/spatstat.utils/help/AnIndex
+built/built/spatstat.utils/Meta/
+built/built/spatstat.utils/Meta/package.rds
+built/built/spatstat.utils/Meta/features.rds
+built/built/spatstat.utils/Meta/hsearch.rds
+built/built/spatstat.utils/Meta/links.rds
+built/built/spatstat.utils/Meta/nsInfo.rds
+built/built/spatstat.utils/Meta/Rd.rds
+built/built/spatstat.utils/html/
+built/built/spatstat.utils/html/00Index.html
+built/built/spatstat.utils/html/R.css
+built/built/spatstat.utils/INDEX
+built/built/spatstat.utils/doc/
+built/built/spatstat.utils/doc/packagesizes.txt
+built/built/spatstat.utils/R/
+built/built/spatstat.utils/R/spatstat.utils.rdb
+built/built/spatstat.utils/R/spatstat.utils.rdx
+built/built/spatstat.utils/R/spatstat.utils
+built/built/spatstat.data/
+built/built/spatstat.data/NEWS
+built/built/spatstat.data/NAMESPACE
+built/built/spatstat.data/DESCRIPTION
+built/built/spatstat.data/help/
+built/built/spatstat.data/help/paths.rds
+built/built/spatstat.data/help/aliases.rds
+built/built/spatstat.data/help/macros/
+built/built/spatstat.data/help/macros/defns.Rd
+built/built/spatstat.data/help/spatstat.data.rdb
+built/built/spatstat.data/help/spatstat.data.rdx
+built/built/spatstat.data/help/AnIndex
+built/built/spatstat.data/data/
+built/built/spatstat.data/data/Rdata.rds
+built/built/spatstat.data/data/Rdata.rdb
+built/built/spatstat.data/data/Rdata.rdx
+built/built/spatstat.data/Meta/
+built/built/spatstat.data/Meta/package.rds
+built/built/spatstat.data/Meta/features.rds
+built/built/spatstat.data/Meta/hsearch.rds
+built/built/spatstat.data/Meta/links.rds
+built/built/spatstat.data/Meta/nsInfo.rds
+built/built/spatstat.data/Meta/Rd.rds
+built/built/spatstat.data/Meta/data.rds
+built/built/spatstat.data/rawdata/
+built/built/spatstat.data/rawdata/sandholes/
+built/built/spatstat.data/rawdata/sandholes/sandholes.jpg
+built/built/spatstat.data/rawdata/osteo/
+built/built/spatstat.data/rawdata/osteo/osteo36.txt
+built/built/spatstat.data/rawdata/finpines/
+built/built/spatstat.data/rawdata/finpines/finpines.txt
+built/built/spatstat.data/rawdata/gorillas/
+built/built/spatstat.data/rawdata/gorillas/vegetation.asc
+built/built/spatstat.data/rawdata/amacrine/
+built/built/spatstat.data/rawdata/amacrine/amacrine.txt
+built/built/spatstat.data/rawdata/vesicles/
+built/built/spatstat.data/rawdata/vesicles/vesicles.txt
+built/built/spatstat.data/rawdata/vesicles/mitochondria.txt
+built/built/spatstat.data/rawdata/vesicles/vesicleswindow.txt
+built/built/spatstat.data/rawdata/vesicles/vesiclesimage.tif
+built/built/spatstat.data/rawdata/vesicles/vesicles.csv
+built/built/spatstat.data/rawdata/vesicles/vesicleswindow.csv
+built/built/spatstat.data/rawdata/vesicles/presynapse.txt
+built/built/spatstat.data/rawdata/vesicles/activezone.txt
+built/built/spatstat.data/rawdata/vesicles/vesiclesmask.tif
+built/built/spatstat.data/html/
+built/built/spatstat.data/html/00Index.html
+built/built/spatstat.data/html/R.css
+built/built/spatstat.data/INDEX
+built/built/spatstat.data/doc/
+built/built/spatstat.data/doc/packagesizes.txt
+built/built/spatstat.data/R/
+built/built/spatstat.data/R/spatstat.data
+built/built/spatstat.data/R/spatstat.data.rdb
+built/built/spatstat.data/R/spatstat.data.rdx
+built/deldir/
+built/deldir/libs/
+built/deldir/libs/deldir.so
+built/deldir/NAMESPACE
+built/deldir/DESCRIPTION
+built/deldir/code.discarded/
+built/deldir/code.discarded/xsucc.f
+built/deldir/code.discarded/inddup.r
+built/deldir/code.discarded/fexitf.r
+built/deldir/code.discarded/trigraf.r
+built/deldir/code.discarded/fexitc.c
+built/deldir/code.discarded/ind.dup.R
+built/deldir/code.discarded/trigraf1.r.save
+built/deldir/code.discarded/triang.list.R.save
+built/deldir/code.discarded/collincheck.r
+built/deldir/code.discarded/intri.r.save
+built/deldir/code.discarded/collinChk.R
+built/deldir/code.discarded/collincheck.f
+built/deldir/code.discarded/init.c
+built/deldir/code.discarded/trigraf.c
+built/deldir/code.discarded/fexitf.f
+built/deldir/help/
+built/deldir/help/paths.rds
+built/deldir/help/aliases.rds
+built/deldir/help/macros/
+built/deldir/help/macros/defns.Rd
+built/deldir/help/deldir.rdx
+built/deldir/help/deldir.rdb
+built/deldir/help/AnIndex
+built/deldir/data/
+built/deldir/data/Rdata.rds
+built/deldir/data/Rdata.rdb
+built/deldir/data/Rdata.rdx
+built/deldir/Meta/
+built/deldir/Meta/package.rds
+built/deldir/Meta/features.rds
+built/deldir/Meta/hsearch.rds
+built/deldir/Meta/links.rds
+built/deldir/Meta/nsInfo.rds
+built/deldir/Meta/Rd.rds
+built/deldir/Meta/data.rds
+built/deldir/SavedRatfor/
+built/deldir/SavedRatfor/testeq.r
+built/deldir/SavedRatfor/crossutil.r
+built/deldir/SavedRatfor/qtest.r
+built/deldir/SavedRatfor/insrt1.r
+built/deldir/SavedRatfor/swap.r
+built/deldir/SavedRatfor/insrt.r
+built/deldir/SavedRatfor/intri.r
+built/deldir/SavedRatfor/dldins.r
+built/deldir/SavedRatfor/locn.r
+built/deldir/SavedRatfor/trifnd.r
+built/deldir/SavedRatfor/triar.r
+built/deldir/SavedRatfor/pred.r
+built/deldir/SavedRatfor/circen.r
+built/deldir/SavedRatfor/qtest1.r
+built/deldir/SavedRatfor/dirout.r
+built/deldir/SavedRatfor/adjchk.r
+built/deldir/SavedRatfor/delseg.r
+built/deldir/SavedRatfor/delout.r
+built/deldir/SavedRatfor/acchk.r
+built/deldir/SavedRatfor/mnnd.r
+built/deldir/SavedRatfor/initad.r
+built/deldir/SavedRatfor/master.r
+built/deldir/SavedRatfor/dirseg.r
+built/deldir/SavedRatfor/addpt.r
+built/deldir/SavedRatfor/succ.r
+built/deldir/SavedRatfor/collincheck.r
+built/deldir/SavedRatfor/binsrt.r
+built/deldir/SavedRatfor/delet1.r
+built/deldir/SavedRatfor/delet.r
+built/deldir/SavedRatfor/stoke.r
+built/deldir/SavedRatfor/cross.r
+built/deldir/READ_ME
+built/deldir/ratfor/
+built/deldir/ratfor/testeq.r
+built/deldir/ratfor/qtest.r
+built/deldir/ratfor/insrt1.r
+built/deldir/ratfor/swap.r
+built/deldir/ratfor/insrt.r
+built/deldir/ratfor/intri.r
+built/deldir/ratfor/dldins.r
+built/deldir/ratfor/locn.r
+built/deldir/ratfor/trifnd.r
+built/deldir/ratfor/triar.r
+built/deldir/ratfor/pred.r
+built/deldir/ratfor/circen.r
+built/deldir/ratfor/qtest1.r
+built/deldir/ratfor/dirout.r
+built/deldir/ratfor/adjchk.r
+built/deldir/ratfor/delseg.r
+built/deldir/ratfor/delout.r
+built/deldir/ratfor/acchk.r
+built/deldir/ratfor/mnnd.r
+built/deldir/ratfor/initad.r
+built/deldir/ratfor/makefor
+built/deldir/ratfor/master.r
+built/deldir/ratfor/dirseg.r
+built/deldir/ratfor/addpt.r
+built/deldir/ratfor/succ.r
+built/deldir/ratfor/binsrt.r
+built/deldir/ratfor/delet1.r
+built/deldir/ratfor/delet.r
+built/deldir/ratfor/stoke.r
+built/deldir/ratfor/cross.r
+built/deldir/html/
+built/deldir/html/00Index.html
+built/deldir/html/R.css
+built/deldir/INDEX
+built/deldir/R/
+built/deldir/R/deldir
+built/deldir/R/deldir.rdx
+built/deldir/R/deldir.rdb
+built/polyclip/
+built/polyclip/libs/
+built/polyclip/libs/polyclip.so
+built/polyclip/NEWS
+built/polyclip/NAMESPACE
+built/polyclip/DESCRIPTION
+built/polyclip/help/
+built/polyclip/help/paths.rds
+built/polyclip/help/polyclip.rdx
+built/polyclip/help/aliases.rds
+built/polyclip/help/polyclip.rdb
+built/polyclip/help/AnIndex
+built/polyclip/Meta/
+built/polyclip/Meta/package.rds
+built/polyclip/Meta/features.rds
+built/polyclip/Meta/hsearch.rds
+built/polyclip/Meta/links.rds
+built/polyclip/Meta/nsInfo.rds
+built/polyclip/Meta/Rd.rds
+built/polyclip/html/
+built/polyclip/html/00Index.html
+built/polyclip/html/R.css
+built/polyclip/INDEX
+built/polyclip/R/
+built/polyclip/R/polyclip
+built/polyclip/R/polyclip.rdx
+built/polyclip/R/polyclip.rdb
+built/spatstat.random/
+built/spatstat.random/libs/
+built/spatstat.random/libs/spatstat.random.so
+built/spatstat.random/NEWS
+built/spatstat.random/NAMESPACE
+built/spatstat.random/DESCRIPTION
+built/spatstat.random/help/
+built/spatstat.random/help/paths.rds
+built/spatstat.random/help/aliases.rds
+built/spatstat.random/help/macros/
+built/spatstat.random/help/macros/defns.Rd
+built/spatstat.random/help/spatstat.random.rdx
+built/spatstat.random/help/spatstat.random.rdb
+built/spatstat.random/help/AnIndex
+built/spatstat.random/Meta/
+built/spatstat.random/Meta/package.rds
+built/spatstat.random/Meta/features.rds
+built/spatstat.random/Meta/hsearch.rds
+built/spatstat.random/Meta/links.rds
+built/spatstat.random/Meta/nsInfo.rds
+built/spatstat.random/Meta/Rd.rds
+built/spatstat.random/CITATION
+built/spatstat.random/html/
+built/spatstat.random/html/00Index.html
+built/spatstat.random/html/R.css
+built/spatstat.random/INDEX
+built/spatstat.random/doc/
+built/spatstat.random/doc/packagesizes.txt
+built/spatstat.random/R/
+built/spatstat.random/R/spatstat.random
+built/spatstat.random/R/spatstat.random.rdx
+built/spatstat.random/R/spatstat.random.rdb
+built/spatstat.utils/
+built/spatstat.utils/libs/
+built/spatstat.utils/libs/spatstat.utils.so
+built/spatstat.utils/NEWS
+built/spatstat.utils/NAMESPACE
+built/spatstat.utils/DESCRIPTION
+built/spatstat.utils/help/
+built/spatstat.utils/help/paths.rds
+built/spatstat.utils/help/spatstat.utils.rdb
+built/spatstat.utils/help/spatstat.utils.rdx
+built/spatstat.utils/help/aliases.rds
+built/spatstat.utils/help/macros/
+built/spatstat.utils/help/macros/defns.Rd
+built/spatstat.utils/help/AnIndex
+built/spatstat.utils/Meta/
+built/spatstat.utils/Meta/package.rds
+built/spatstat.utils/Meta/features.rds
+built/spatstat.utils/Meta/hsearch.rds
+built/spatstat.utils/Meta/links.rds
+built/spatstat.utils/Meta/nsInfo.rds
+built/spatstat.utils/Meta/Rd.rds
+built/spatstat.utils/html/
+built/spatstat.utils/html/00Index.html
+built/spatstat.utils/html/R.css
+built/spatstat.utils/INDEX
+built/spatstat.utils/doc/
+built/spatstat.utils/doc/packagesizes.txt
+built/spatstat.utils/R/
+built/spatstat.utils/R/spatstat.utils.rdb
+built/spatstat.utils/R/spatstat.utils.rdx
+built/spatstat.utils/R/spatstat.utils
+built/spatstat.data/
+built/spatstat.data/NEWS
+built/spatstat.data/NAMESPACE
+built/spatstat.data/DESCRIPTION
+built/spatstat.data/help/
+built/spatstat.data/help/paths.rds
+built/spatstat.data/help/aliases.rds
+built/spatstat.data/help/macros/
+built/spatstat.data/help/macros/defns.Rd
+built/spatstat.data/help/spatstat.data.rdb
+built/spatstat.data/help/spatstat.data.rdx
+built/spatstat.data/help/AnIndex
+built/spatstat.data/data/
+built/spatstat.data/data/Rdata.rds
+built/spatstat.data/data/Rdata.rdb
+built/spatstat.data/data/Rdata.rdx
+built/spatstat.data/Meta/
+built/spatstat.data/Meta/package.rds
+built/spatstat.data/Meta/features.rds
+built/spatstat.data/Meta/hsearch.rds
+built/spatstat.data/Meta/links.rds
+built/spatstat.data/Meta/nsInfo.rds
+built/spatstat.data/Meta/Rd.rds
+built/spatstat.data/Meta/data.rds
+built/spatstat.data/rawdata/
+built/spatstat.data/rawdata/sandholes/
+built/spatstat.data/rawdata/sandholes/sandholes.jpg
+built/spatstat.data/rawdata/osteo/
+built/spatstat.data/rawdata/osteo/osteo36.txt
+built/spatstat.data/rawdata/finpines/
+built/spatstat.data/rawdata/finpines/finpines.txt
+built/spatstat.data/rawdata/gorillas/
+built/spatstat.data/rawdata/gorillas/vegetation.asc
+built/spatstat.data/rawdata/amacrine/
+built/spatstat.data/rawdata/amacrine/amacrine.txt
+built/spatstat.data/rawdata/vesicles/
+built/spatstat.data/rawdata/vesicles/vesicles.txt
+built/spatstat.data/rawdata/vesicles/mitochondria.txt
+built/spatstat.data/rawdata/vesicles/vesicleswindow.txt
+built/spatstat.data/rawdata/vesicles/vesiclesimage.tif
+built/spatstat.data/rawdata/vesicles/vesicles.csv
+built/spatstat.data/rawdata/vesicles/vesicleswindow.csv
+built/spatstat.data/rawdata/vesicles/presynapse.txt
+built/spatstat.data/rawdata/vesicles/activezone.txt
+built/spatstat.data/rawdata/vesicles/vesiclesmask.tif
+built/spatstat.data/html/
+built/spatstat.data/html/00Index.html
+built/spatstat.data/html/R.css
+built/spatstat.data/INDEX
+built/spatstat.data/doc/
+built/spatstat.data/doc/packagesizes.txt
+built/spatstat.data/R/
+built/spatstat.data/R/spatstat.data
+built/spatstat.data/R/spatstat.data.rdb
+built/spatstat.data/R/spatstat.data.rdx
+built/spatstat.geom/
+built/spatstat.geom/libs/
+built/spatstat.geom/libs/spatstat.geom.so
+built/spatstat.geom/NEWS
+built/spatstat.geom/NAMESPACE
+built/spatstat.geom/DESCRIPTION
+built/spatstat.geom/help/
+built/spatstat.geom/help/paths.rds
+built/spatstat.geom/help/spatstat.geom.rdb
+built/spatstat.geom/help/spatstat.geom.rdx
+built/spatstat.geom/help/aliases.rds
+built/spatstat.geom/help/macros/
+built/spatstat.geom/help/macros/defns.Rd
+built/spatstat.geom/help/AnIndex
+built/spatstat.geom/Meta/
+built/spatstat.geom/Meta/package.rds
+built/spatstat.geom/Meta/features.rds
+built/spatstat.geom/Meta/hsearch.rds
+built/spatstat.geom/Meta/links.rds
+built/spatstat.geom/Meta/nsInfo.rds
+built/spatstat.geom/Meta/Rd.rds
+built/spatstat.geom/CITATION
+built/spatstat.geom/ratfor/
+built/spatstat.geom/ratfor/inxypOld.r
+built/spatstat.geom/ratfor/dppll.r
+built/spatstat.geom/ratfor/Makefile
+built/spatstat.geom/html/
+built/spatstat.geom/html/00Index.html
+built/spatstat.geom/html/R.css
+built/spatstat.geom/INDEX
+built/spatstat.geom/doc/
+built/spatstat.geom/doc/downstream.txt
+built/spatstat.geom/doc/packagesizes.txt
+built/spatstat.geom/R/
+built/spatstat.geom/R/spatstat.geom.rdb
+built/spatstat.geom/R/spatstat.geom.rdx
+built/spatstat.geom/R/spatstat.geom
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 3364k    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 18 3364k   18  637k    0     0   510k      0  0:00:06  0:00:01  0:00:05  510k 62 3364k   62 2087k    0     0   923k      0  0:00:03  0:00:02  0:00:01  923k100 3364k  100 3364k    0     0  1177k      0  0:00:02  0:00:02 --:--:-- 1177k
+built/
+built/lattice/
+built/lattice/libs/
+built/lattice/libs/lattice.so
+built/lattice/NEWS
+built/lattice/NAMESPACE
+built/lattice/DESCRIPTION
+built/lattice/help/
+built/lattice/help/paths.rds
+built/lattice/help/lattice.rdx
+built/lattice/help/lattice.rdb
+built/lattice/help/aliases.rds
+built/lattice/help/AnIndex
+built/lattice/data/
+built/lattice/data/Rdata.rds
+built/lattice/data/Rdata.rdb
+built/lattice/data/Rdata.rdx
+built/lattice/Meta/
+built/lattice/Meta/package.rds
+built/lattice/Meta/demo.rds
+built/lattice/Meta/features.rds
+built/lattice/Meta/hsearch.rds
+built/lattice/Meta/links.rds
+built/lattice/Meta/nsInfo.rds
+built/lattice/Meta/Rd.rds
+built/lattice/Meta/data.rds
+built/lattice/po/
+built/lattice/po/it/
+built/lattice/po/it/LC_MESSAGES/
+built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/lattice/po/fr/
+built/lattice/po/fr/LC_MESSAGES/
+built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/lattice/po/ko/
+built/lattice/po/ko/LC_MESSAGES/
+built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/lattice/po/pl/
+built/lattice/po/pl/LC_MESSAGES/
+built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/lattice/po/en@quot/
+built/lattice/po/en@quot/LC_MESSAGES/
+built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/lattice/po/de/
+built/lattice/po/de/LC_MESSAGES/
+built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/lattice/CITATION
+built/lattice/html/
+built/lattice/html/00Index.html
+built/lattice/html/R.css
+built/lattice/INDEX
+built/lattice/R/
+built/lattice/R/lattice
+built/lattice/R/lattice.rdx
+built/lattice/R/lattice.rdb
+built/lattice/demo/
+built/lattice/demo/panel.R
+built/lattice/demo/intervals.R
+built/lattice/demo/labels.R
+built/lattice/demo/lattice.R
+built/nlme/
+built/nlme/libs/
+built/nlme/libs/nlme.so
+built/nlme/NAMESPACE
+built/nlme/DESCRIPTION
+built/nlme/help/
+built/nlme/help/nlme.rdb
+built/nlme/help/paths.rds
+built/nlme/help/aliases.rds
+built/nlme/help/nlme.rdx
+built/nlme/help/AnIndex
+built/nlme/data/
+built/nlme/data/Rdata.rds
+built/nlme/data/Rdata.rdb
+built/nlme/data/Rdata.rdx
+built/nlme/Meta/
+built/nlme/Meta/package.rds
+built/nlme/Meta/features.rds
+built/nlme/Meta/hsearch.rds
+built/nlme/Meta/links.rds
+built/nlme/Meta/nsInfo.rds
+built/nlme/Meta/Rd.rds
+built/nlme/Meta/data.rds
+built/nlme/scripts/
+built/nlme/scripts/ch08.R
+built/nlme/scripts/runme.R
+built/nlme/scripts/ch02.R
+built/nlme/scripts/ch05.R
+built/nlme/scripts/sims.rda
+built/nlme/scripts/ch03.R
+built/nlme/scripts/ch01.R
+built/nlme/scripts/ch06.R
+built/nlme/scripts/ch04.R
+built/nlme/po/
+built/nlme/po/fr/
+built/nlme/po/fr/LC_MESSAGES/
+built/nlme/po/fr/LC_MESSAGES/nlme.mo
+built/nlme/po/fr/LC_MESSAGES/R-nlme.mo
+built/nlme/po/ko/
+built/nlme/po/ko/LC_MESSAGES/
+built/nlme/po/ko/LC_MESSAGES/nlme.mo
+built/nlme/po/ko/LC_MESSAGES/R-nlme.mo
+built/nlme/po/pl/
+built/nlme/po/pl/LC_MESSAGES/
+built/nlme/po/pl/LC_MESSAGES/nlme.mo
+built/nlme/po/pl/LC_MESSAGES/R-nlme.mo
+built/nlme/po/en@quot/
+built/nlme/po/en@quot/LC_MESSAGES/
+built/nlme/po/en@quot/LC_MESSAGES/nlme.mo
+built/nlme/po/en@quot/LC_MESSAGES/R-nlme.mo
+built/nlme/po/de/
+built/nlme/po/de/LC_MESSAGES/
+built/nlme/po/de/LC_MESSAGES/nlme.mo
+built/nlme/po/de/LC_MESSAGES/R-nlme.mo
+built/nlme/CITATION
+built/nlme/html/
+built/nlme/html/00Index.html
+built/nlme/html/R.css
+built/nlme/INDEX
+built/nlme/R/
+built/nlme/R/nlme.rdb
+built/nlme/R/nlme
+built/nlme/R/nlme.rdx
+built/nlme/mlbook/
+built/nlme/mlbook/README
+built/nlme/mlbook/ch05.R
+built/nlme/mlbook/ch04.R
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 6702k    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 10 6702k   10  685k    0     0   512k      0  0:00:13  0:00:01  0:00:12  512k 25 6702k   25 1705k    0     0   734k      0  0:00:09  0:00:02  0:00:07  734k 48 6702k   48 3267k    0     0   987k      0  0:00:06  0:00:03  0:00:03  986k 76 6702k   76 5147k    0     0  1187k      0  0:00:05  0:00:04  0:00:01 1187k100 6702k  100 6702k    0     0  1296k      0  0:00:05  0:00:05 --:--:-- 1381k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/abind/
+built/built/abind/NAMESPACE
+built/built/abind/DESCRIPTION
+built/built/abind/help/
+built/built/abind/help/paths.rds
+built/built/abind/help/abind.rdb
+built/built/abind/help/aliases.rds
+built/built/abind/help/AnIndex
+built/built/abind/help/abind.rdx
+built/built/abind/Meta/
+built/built/abind/Meta/package.rds
+built/built/abind/Meta/features.rds
+built/built/abind/Meta/hsearch.rds
+built/built/abind/Meta/links.rds
+built/built/abind/Meta/nsInfo.rds
+built/built/abind/Meta/Rd.rds
+built/built/abind/html/
+built/built/abind/html/00Index.html
+built/built/abind/html/R.css
+built/built/abind/svnversion.txt
+built/built/abind/INDEX
+built/built/abind/R/
+built/built/abind/R/abind
+built/built/abind/R/abind.rdb
+built/built/abind/R/abind.rdx
+built/built/abind/sccversion.txt
+built/built/Matrix/
+built/built/Matrix/Doxyfile
+built/built/Matrix/libs/
+built/built/Matrix/libs/Matrix.so
+built/built/Matrix/NAMESPACE
+built/built/Matrix/LICENCE
+built/built/Matrix/DESCRIPTION
+built/built/Matrix/test-tools-1.R
+built/built/Matrix/help/
+built/built/Matrix/help/paths.rds
+built/built/Matrix/help/aliases.rds
+built/built/Matrix/help/AnIndex
+built/built/Matrix/help/Matrix.rdx
+built/built/Matrix/help/Matrix.rdb
+built/built/Matrix/data/
+built/built/Matrix/data/USCounties.R
+built/built/Matrix/data/datalist
+built/built/Matrix/data/CAex.R
+built/built/Matrix/data/wrld_1deg.R
+built/built/Matrix/data/KNex.R
+built/built/Matrix/Meta/
+built/built/Matrix/Meta/package.rds
+built/built/Matrix/Meta/vignette.rds
+built/built/Matrix/Meta/features.rds
+built/built/Matrix/Meta/hsearch.rds
+built/built/Matrix/Meta/links.rds
+built/built/Matrix/Meta/nsInfo.rds
+built/built/Matrix/Meta/Rd.rds
+built/built/Matrix/Meta/data.rds
+built/built/Matrix/NEWS.Rd
+built/built/Matrix/include/
+built/built/Matrix/include/cholmod.h
+built/built/Matrix/include/Matrix_stubs.c
+built/built/Matrix/include/Matrix.h
+built/built/Matrix/test-tools-Matrix.R
+built/built/Matrix/test-tools.R
+built/built/Matrix/po/
+built/built/Matrix/po/lt/
+built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/it/
+built/built/Matrix/po/it/LC_MESSAGES/
+built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/fr/
+built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/ko/
+built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/pl/
+built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/en@quot/
+built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/de/
+built/built/Matrix/po/de/LC_MESSAGES/
+built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/Copyrights
+built/built/Matrix/html/
+built/built/Matrix/html/00Index.html
+built/built/Matrix/html/R.css
+built/built/Matrix/INDEX
+built/built/Matrix/doc/
+built/built/Matrix/doc/Design-issues.Rnw
+built/built/Matrix/doc/sparseModels.R
+built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/Matrix/doc/Introduction.R
+built/built/Matrix/doc/sparseModels.Rnw
+built/built/Matrix/doc/Design-issues.pdf
+built/built/Matrix/doc/Design-issues.R
+built/built/Matrix/doc/Comparisons.R
+built/built/Matrix/doc/Announce.txt
+built/built/Matrix/doc/Introduction.Rnw
+built/built/Matrix/doc/Intro2Matrix.R
+built/built/Matrix/doc/index.html
+built/built/Matrix/doc/SuiteSparse/
+built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/Matrix/doc/Comparisons.pdf
+built/built/Matrix/doc/sparseModels.pdf
+built/built/Matrix/doc/Comparisons.Rnw
+built/built/Matrix/doc/Introduction.pdf
+built/built/Matrix/R/
+built/built/Matrix/R/Matrix
+built/built/Matrix/R/Matrix.rdx
+built/built/Matrix/R/Matrix.rdb
+built/built/Matrix/external/
+built/built/Matrix/external/symW.rda
+built/built/Matrix/external/lund_a.rsa
+built/built/Matrix/external/wrong.mtx
+built/built/Matrix/external/pores_1.mtx
+built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/Matrix/external/CAex_slots.rda
+built/built/Matrix/external/KNex_slots.rda
+built/built/Matrix/external/jgl009.mtx
+built/built/Matrix/external/utm300.rua
+built/built/Matrix/external/test3comp.rda
+built/built/Matrix/external/USCounties_slots.rda
+built/built/Matrix/external/Z_NA_rnk.rds
+built/built/Matrix/external/symA.rda
+built/built/Matrix/external/lund_a.mtx
+built/built/spatstat.utils/
+built/built/spatstat.utils/libs/
+built/built/spatstat.utils/libs/spatstat.utils.so
+built/built/spatstat.utils/NEWS
+built/built/spatstat.utils/NAMESPACE
+built/built/spatstat.utils/DESCRIPTION
+built/built/spatstat.utils/help/
+built/built/spatstat.utils/help/paths.rds
+built/built/spatstat.utils/help/spatstat.utils.rdb
+built/built/spatstat.utils/help/spatstat.utils.rdx
+built/built/spatstat.utils/help/aliases.rds
+built/built/spatstat.utils/help/macros/
+built/built/spatstat.utils/help/macros/defns.Rd
+built/built/spatstat.utils/help/AnIndex
+built/built/spatstat.utils/Meta/
+built/built/spatstat.utils/Meta/package.rds
+built/built/spatstat.utils/Meta/features.rds
+built/built/spatstat.utils/Meta/hsearch.rds
+built/built/spatstat.utils/Meta/links.rds
+built/built/spatstat.utils/Meta/nsInfo.rds
+built/built/spatstat.utils/Meta/Rd.rds
+built/built/spatstat.utils/html/
+built/built/spatstat.utils/html/00Index.html
+built/built/spatstat.utils/html/R.css
+built/built/spatstat.utils/INDEX
+built/built/spatstat.utils/doc/
+built/built/spatstat.utils/doc/packagesizes.txt
+built/built/spatstat.utils/R/
+built/built/spatstat.utils/R/spatstat.utils.rdb
+built/built/spatstat.utils/R/spatstat.utils.rdx
+built/built/spatstat.utils/R/spatstat.utils
+built/built/tensor/
+built/built/tensor/NAMESPACE
+built/built/tensor/DESCRIPTION
+built/built/tensor/help/
+built/built/tensor/help/paths.rds
+built/built/tensor/help/aliases.rds
+built/built/tensor/help/tensor.rdb
+built/built/tensor/help/AnIndex
+built/built/tensor/help/tensor.rdx
+built/built/tensor/Meta/
+built/built/tensor/Meta/package.rds
+built/built/tensor/Meta/features.rds
+built/built/tensor/Meta/hsearch.rds
+built/built/tensor/Meta/links.rds
+built/built/tensor/Meta/nsInfo.rds
+built/built/tensor/Meta/Rd.rds
+built/built/tensor/html/
+built/built/tensor/html/00Index.html
+built/built/tensor/html/R.css
+built/built/tensor/INDEX
+built/built/tensor/R/
+built/built/tensor/R/tensor.rdb
+built/built/tensor/R/tensor
+built/built/tensor/R/tensor.rdx
+built/abind/
+built/abind/NAMESPACE
+built/abind/DESCRIPTION
+built/abind/help/
+built/abind/help/paths.rds
+built/abind/help/abind.rdb
+built/abind/help/aliases.rds
+built/abind/help/AnIndex
+built/abind/help/abind.rdx
+built/abind/Meta/
+built/abind/Meta/package.rds
+built/abind/Meta/features.rds
+built/abind/Meta/hsearch.rds
+built/abind/Meta/links.rds
+built/abind/Meta/nsInfo.rds
+built/abind/Meta/Rd.rds
+built/abind/html/
+built/abind/html/00Index.html
+built/abind/html/R.css
+built/abind/svnversion.txt
+built/abind/INDEX
+built/abind/R/
+built/abind/R/abind
+built/abind/R/abind.rdb
+built/abind/R/abind.rdx
+built/abind/sccversion.txt
+built/spatstat.utils/
+built/spatstat.utils/libs/
+built/spatstat.utils/libs/spatstat.utils.so
+built/spatstat.utils/NEWS
+built/spatstat.utils/NAMESPACE
+built/spatstat.utils/DESCRIPTION
+built/spatstat.utils/help/
+built/spatstat.utils/help/paths.rds
+built/spatstat.utils/help/spatstat.utils.rdb
+built/spatstat.utils/help/spatstat.utils.rdx
+built/spatstat.utils/help/aliases.rds
+built/spatstat.utils/help/macros/
+built/spatstat.utils/help/macros/defns.Rd
+built/spatstat.utils/help/AnIndex
+built/spatstat.utils/Meta/
+built/spatstat.utils/Meta/package.rds
+built/spatstat.utils/Meta/features.rds
+built/spatstat.utils/Meta/hsearch.rds
+built/spatstat.utils/Meta/links.rds
+built/spatstat.utils/Meta/nsInfo.rds
+built/spatstat.utils/Meta/Rd.rds
+built/spatstat.utils/html/
+built/spatstat.utils/html/00Index.html
+built/spatstat.utils/html/R.css
+built/spatstat.utils/INDEX
+built/spatstat.utils/doc/
+built/spatstat.utils/doc/packagesizes.txt
+built/spatstat.utils/R/
+built/spatstat.utils/R/spatstat.utils.rdb
+built/spatstat.utils/R/spatstat.utils.rdx
+built/spatstat.utils/R/spatstat.utils
+built/spatstat.sparse/
+built/spatstat.sparse/libs/
+built/spatstat.sparse/libs/spatstat.sparse.so
+built/spatstat.sparse/NEWS
+built/spatstat.sparse/NAMESPACE
+built/spatstat.sparse/DESCRIPTION
+built/spatstat.sparse/help/
+built/spatstat.sparse/help/spatstat.sparse.rdb
+built/spatstat.sparse/help/paths.rds
+built/spatstat.sparse/help/aliases.rds
+built/spatstat.sparse/help/spatstat.sparse.rdx
+built/spatstat.sparse/help/macros/
+built/spatstat.sparse/help/macros/defns.Rd
+built/spatstat.sparse/help/AnIndex
+built/spatstat.sparse/Meta/
+built/spatstat.sparse/Meta/package.rds
+built/spatstat.sparse/Meta/features.rds
+built/spatstat.sparse/Meta/hsearch.rds
+built/spatstat.sparse/Meta/links.rds
+built/spatstat.sparse/Meta/nsInfo.rds
+built/spatstat.sparse/Meta/Rd.rds
+built/spatstat.sparse/html/
+built/spatstat.sparse/html/00Index.html
+built/spatstat.sparse/html/R.css
+built/spatstat.sparse/INDEX
+built/spatstat.sparse/doc/
+built/spatstat.sparse/doc/packagesizes.txt
+built/spatstat.sparse/R/
+built/spatstat.sparse/R/spatstat.sparse.rdb
+built/spatstat.sparse/R/spatstat.sparse.rdx
+built/spatstat.sparse/R/spatstat.sparse
+built/tensor/
+built/tensor/NAMESPACE
+built/tensor/DESCRIPTION
+built/tensor/help/
+built/tensor/help/paths.rds
+built/tensor/help/aliases.rds
+built/tensor/help/tensor.rdb
+built/tensor/help/AnIndex
+built/tensor/help/tensor.rdx
+built/tensor/Meta/
+built/tensor/Meta/package.rds
+built/tensor/Meta/features.rds
+built/tensor/Meta/hsearch.rds
+built/tensor/Meta/links.rds
+built/tensor/Meta/nsInfo.rds
+built/tensor/Meta/Rd.rds
+built/tensor/html/
+built/tensor/html/00Index.html
+built/tensor/html/R.css
+built/tensor/INDEX
+built/tensor/R/
+built/tensor/R/tensor.rdb
+built/tensor/R/tensor
+built/tensor/R/tensor.rdx
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 63962  100 63962    0     0   221k      0 --:--:-- --:--:-- --:--:--  221k
+built/
+built/goftest/
+built/goftest/libs/
+built/goftest/libs/goftest.so
+built/goftest/NAMESPACE
+built/goftest/DESCRIPTION
+built/goftest/help/
+built/goftest/help/goftest.rdx
+built/goftest/help/paths.rds
+built/goftest/help/aliases.rds
+built/goftest/help/AnIndex
+built/goftest/help/goftest.rdb
+built/goftest/Meta/
+built/goftest/Meta/package.rds
+built/goftest/Meta/features.rds
+built/goftest/Meta/hsearch.rds
+built/goftest/Meta/links.rds
+built/goftest/Meta/nsInfo.rds
+built/goftest/Meta/Rd.rds
+built/goftest/html/
+built/goftest/html/00Index.html
+built/goftest/html/R.css
+built/goftest/INDEX
+built/goftest/R/
+built/goftest/R/goftest.rdx
+built/goftest/R/goftest
+built/goftest/R/goftest.rdb
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''spatstat.explore'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv abind_1.4-5_R_x86_64-pc-linux-gnu.tar.gz deldir_1.0-6_R_x86_64-pc-linux-gnu.tar.gz goftest_1.2-3_R_x86_64-pc-linux-gnu.tar.gz polyclip_1.10-4_R_x86_64-pc-linux-gnu.tar.gz spatstat.data_3.0-0_R_x86_64-pc-linux-gnu.tar.gz spatstat.explore_3.0-5_R_x86_64-pc-linux-gnu.tar.gz spatstat.geom_3.0-3_R_x86_64-pc-linux-gnu.tar.gz spatstat.random_3.0-1_R_x86_64-pc-linux-gnu.tar.gz spatstat.sparse_3.0-0_R_x86_64-pc-linux-gnu.tar.gz spatstat.utils_3.0-1_R_x86_64-pc-linux-gnu.tar.gz tensor_1.5_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/spatstat.explore
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'spatstat.explore'
+also installing the dependencies ‘deldir’, ‘polyclip’, ‘tensor’, ‘spatstat.data’, ‘spatstat.geom’, ‘spatstat.random’, ‘spatstat.utils’, ‘spatstat.sparse’, ‘goftest’, ‘abind’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/deldir_1.0-6.tar.gz'
+Content type 'binary/octet-stream' length 306171 bytes (298 KB)
+==================================================
+downloaded 298 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/polyclip_1.10-4.tar.gz'
+Content type 'binary/octet-stream' length 503874 bytes (492 KB)
+==================================================
+downloaded 492 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/tensor_1.5.tar.gz'
+Content type 'binary/octet-stream' length 13419 bytes (13 KB)
+==================================================
+downloaded 13 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/spatstat.data_3.0-0.tar.gz'
+Content type 'binary/octet-stream' length 4096162 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/spatstat.geom_3.0-3.tar.gz'
+Content type 'binary/octet-stream' length 4084376 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/spatstat.random_3.0-1.tar.gz'
+Content type 'binary/octet-stream' length 957654 bytes (935 KB)
+==================================================
+downloaded 935 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/spatstat.utils_3.0-1.tar.gz'
+Content type 'binary/octet-stream' length 390313 bytes (381 KB)
+==================================================
+downloaded 381 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/spatstat.sparse_3.0-0.tar.gz'
+Content type 'binary/octet-stream' length 220612 bytes (215 KB)
+==================================================
+downloaded 215 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/goftest_1.2-3.tar.gz'
+Content type 'binary/octet-stream' length 64365 bytes (62 KB)
+==================================================
+downloaded 62 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/abind_1.4-5.tar.gz'
+Content type 'binary/octet-stream' length 60719 bytes (59 KB)
+==================================================
+downloaded 59 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/spatstat.explore_3.0-5.tar.gz'
+Content type 'binary/octet-stream' length 3215090 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+* installing *binary* package ‘deldir’ ...
+* ‘deldir’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘deldir’ as ‘deldir_1.0-6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (deldir)
+* installing *binary* package ‘polyclip’ ...
+* ‘polyclip’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘polyclip’ as ‘polyclip_1.10-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (polyclip)
+* installing *binary* package ‘tensor’ ...
+* ‘tensor’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tensor’ as ‘tensor_1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tensor)
+* installing *binary* package ‘spatstat.utils’ ...
+* ‘spatstat.utils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spatstat.utils’ as ‘spatstat.utils_3.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spatstat.utils)
+* installing *binary* package ‘goftest’ ...
+* ‘goftest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘goftest’ as ‘goftest_1.2-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (goftest)
+* installing *binary* package ‘abind’ ...
+* ‘abind’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘abind’ as ‘abind_1.4-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (abind)
+* installing *binary* package ‘spatstat.data’ ...
+* ‘spatstat.data’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spatstat.data’ as ‘spatstat.data_3.0-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spatstat.data)
+* installing *binary* package ‘spatstat.sparse’ ...
+* ‘spatstat.sparse’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spatstat.sparse’ as ‘spatstat.sparse_3.0-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spatstat.sparse)
+* installing *binary* package ‘spatstat.geom’ ...
+* ‘spatstat.geom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spatstat.geom’ as ‘spatstat.geom_3.0-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spatstat.geom)
+* installing *binary* package ‘spatstat.random’ ...
+* ‘spatstat.random’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spatstat.random’ as ‘spatstat.random_3.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spatstat.random)
+* installing *binary* package ‘spatstat.explore’ ...
+* ‘spatstat.explore’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘spatstat.explore’ as ‘spatstat.explore_3.0-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (spatstat.explore)
+
+The downloaded source packages are in
+	‘/tmp/RtmpFj1eKA/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m37.013s
+user	0m10.314s
+sys	0m1.634s

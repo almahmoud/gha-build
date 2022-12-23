@@ -767,7 +767,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "topGO"
@@ -1690,7 +1689,6 @@
         "sctransform",
         "scuttle",
         "shiny",
-        "spatstat.explore",
         "testthat",
         "tibble",
         "tidyr",
@@ -3369,7 +3367,6 @@
         "sctransform",
         "scuttle",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "viridis"
@@ -5135,7 +5132,6 @@
         "scuttle",
         "slingshot",
         "spatstat",
-        "spatstat.explore",
         "spatstat.linnet",
         "spatstat.model",
         "tibble",
@@ -7092,7 +7088,6 @@
         "sctransform",
         "scuttle",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr"
     ],
@@ -12301,7 +12296,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr"
     ],
@@ -12687,7 +12681,6 @@
         "scuttle",
         "shadowtext",
         "shiny",
-        "spatstat.explore",
         "testthat",
         "tibble",
         "tidygraph",
@@ -13324,7 +13317,6 @@
         "rematch2",
         "rhdf5",
         "scuttle",
-        "spatstat.explore",
         "spicyR",
         "testthat",
         "tibble",
@@ -17458,7 +17450,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr"
     ],
@@ -19445,7 +19436,6 @@
         "sctransform",
         "scuttle",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "viridis"
@@ -22928,7 +22918,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tensorflow",
         "tfruns",
         "tibble",
@@ -23031,7 +23020,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr"
     ],
@@ -23115,7 +23103,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "zinbwave"
@@ -23141,7 +23128,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "tidytree",
@@ -23171,7 +23157,6 @@
         "sctransform",
         "scuttle",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr"
     ],
@@ -23239,7 +23224,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr"
     ],
@@ -23353,7 +23337,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr"
     ],
@@ -23396,7 +23379,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr"
     ],
@@ -23762,7 +23744,6 @@
         "sctransform",
         "shadowtext",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -23805,7 +23786,6 @@
         "schex",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "viridis"
@@ -23858,7 +23838,6 @@
         "sctransform",
         "scuttle",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -24702,7 +24681,6 @@
         "shinyalert",
         "shinycssloaders",
         "shinyjs",
-        "spatstat.explore",
         "sva",
         "tibble",
         "tidyr",
@@ -25045,7 +25023,6 @@
         "sctransform",
         "scuttle",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "viridis"
@@ -25314,7 +25291,6 @@
         "rhdf5",
         "rmarkdown",
         "scuttle",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "vroom"
@@ -25338,7 +25314,6 @@
         "rematch2",
         "rhdf5",
         "scuttle",
-        "spatstat.explore",
         "testthat",
         "tibble",
         "tidyr",
@@ -25556,7 +25531,6 @@
         "sctransform",
         "scuttle",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "viridis"
@@ -25856,7 +25830,6 @@
         "rmarkdown",
         "rvest",
         "selectr",
-        "spatstat.explore",
         "tibble",
         "tidyr",
         "tidyverse",
@@ -25904,7 +25877,6 @@
         "sctransform",
         "scuttle",
         "shiny",
-        "spatstat.explore",
         "spdep",
         "tibble",
         "tidyr"
@@ -29014,7 +28986,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr"
     ],
@@ -29046,7 +29017,6 @@
         "reshape2",
         "tibble"
     ],
-    "spatstat.explore": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome",
         "Biostrings",
@@ -30368,22 +30338,17 @@
         "recipes",
         "reshape2",
         "spatstat",
-        "spatstat.explore",
         "spatstat.linnet",
         "spatstat.model",
         "tibble",
         "tidyr"
     ],
     "spatstat": [
-        "spatstat.explore",
         "spatstat.linnet",
         "spatstat.model"
     ],
-    "spatstat.model": [
-        "spatstat.explore"
-    ],
+    "spatstat.model": [],
     "spatstat.linnet": [
-        "spatstat.explore",
         "spatstat.model"
     ],
     "contrast": [
@@ -32151,7 +32116,6 @@
         "scattermore",
         "sctransform",
         "shiny",
-        "spatstat.explore",
         "tibble",
         "tidyr"
     ],
