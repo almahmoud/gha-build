@@ -4064,7 +4064,6 @@
     "singleCellTK": [
         "DropletUtils",
         "GSVA",
-        "GSVAdata",
         "HDF5Array",
         "Hmisc",
         "M3Drop",
@@ -5048,7 +5047,6 @@
         "rstatix",
         "survminer"
     ],
-    "GSVAdata": [],
     "SoupX": [
         "Seurat"
     ],
