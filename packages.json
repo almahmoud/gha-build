@@ -38,9 +38,7 @@
         "GenomicState",
         "derfinderPlot"
     ],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "CancerInSilico": [],
     "CATALYST": [
         "FlowSOM"
@@ -122,9 +120,7 @@
     "EWCE": [
         "orthogene"
     ],
-    "extraChIPs": [
-        "GenomicInteractions"
-    ],
+    "extraChIPs": [],
     "ffpe": [
         "lumi"
     ],
@@ -145,7 +141,6 @@
         "QDNAseq"
     ],
     "GeneStructureTools": [],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenomicSuperSignature": [],
     "GenProSeq": [
@@ -164,18 +159,14 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "HiCDOC": [
         "CGHcall",
         "HiCcompare",
         "QDNAseq",
         "multiHiCcompare"
     ],
-    "HiContacts": [
-        "GenomicInteractions"
-    ],
+    "HiContacts": [],
     "iCheck": [
         "lumi"
     ],
@@ -360,9 +351,7 @@
         "sampSurf"
     ],
     "SomaticSignatures": [],
-    "spatzie": [
-        "GenomicInteractions"
-    ],
+    "spatzie": [],
     "SpectralTAD": [
         "CGHcall",
         "HiCcompare",
