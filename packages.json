@@ -245,7 +245,6 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylationEPICmanifest",
         "biovizBase",
-        "geneLenDataBase",
         "goseq",
         "lumi",
         "methylumi",
@@ -776,9 +775,7 @@
     ],
     "gmapR": [],
     "GmicR": [],
-    "goseq": [
-        "geneLenDataBase"
-    ],
+    "goseq": [],
     "goSorensen": [
         "clusterProfiler",
         "enrichplot"
@@ -845,7 +842,6 @@
         "CODEX"
     ],
     "ideal": [
-        "geneLenDataBase",
         "goseq",
         "pcaExplorer"
     ],
@@ -1485,7 +1481,6 @@
     "RgnTX": [],
     "rGREAT": [],
     "rgsepd": [
-        "geneLenDataBase",
         "goseq"
     ],
     "Rhisat2": [
@@ -1687,7 +1682,6 @@
         "wateRmelon"
     ],
     "SMITE": [
-        "geneLenDataBase",
         "goseq"
     ],
     "SNPhood": [],
@@ -1976,7 +1970,6 @@
     "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
         "minfi"
     ],
-    "geneLenDataBase": [],
     "spp": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
     "TxDb.Celegans.UCSC.ce6.ensGene": [],
