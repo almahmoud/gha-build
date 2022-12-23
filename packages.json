@@ -1043,7 +1043,6 @@
         "rstatix",
         "viridis"
     ],
-    "ensemblVEP": [],
     "EpiCompare": [
         "ChIPseeker",
         "enrichplot",
@@ -2089,7 +2088,6 @@
     "mitoClone2": [],
     "MMAPPR2": [
         "VariantTools",
-        "ensemblVEP",
         "gmapR"
     ],
     "MMUPHin": [
@@ -3585,7 +3583,6 @@
         "Gviz",
         "Hmisc",
         "biovizBase",
-        "ensemblVEP",
         "viridis"
     ],
     "Ularcirc": [],
