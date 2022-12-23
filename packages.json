@@ -2402,7 +2402,6 @@
         "svgPanZoom"
     ],
     "CytoML": [
-        "ggcyto",
         "openCyto"
     ],
     "dada2": [
@@ -4216,7 +4215,6 @@
         "htmlTable",
         "rtracklayer"
     ],
-    "ggcyto": [],
     "ggmanh": [],
     "ggmsa": [
         "aplot",
