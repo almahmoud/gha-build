@@ -16802,7 +16802,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "genArise": [],
     "genbankr": [
         "AnnotationDbi",
         "BSgenome",
