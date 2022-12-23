@@ -36074,7 +36074,6 @@
         "XVector",
         "broom",
         "car",
-        "clustvarsel",
         "cowplot",
         "dplyr",
         "ggplot2",
@@ -44912,7 +44911,6 @@
         "tidyselect"
     ],
     "slider": [],
-    "clustvarsel": [],
     "gstat": [
         "lwgeom",
         "sf",
