@@ -2238,8 +2238,7 @@
         "gwascat",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rtracklayer",
-        "universalmotif"
+        "rtracklayer"
     ],
     "CircSeqAlignTk": [
         "AnnotationDbi",
@@ -7385,8 +7384,7 @@
         "cmdfun",
         "ggseqlogo",
         "patchwork",
-        "testthat",
-        "universalmotif"
+        "testthat"
     ],
     "MeSHDbi": [
         "AnnotationDbi"
@@ -14301,7 +14299,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "universalmotif": [],
     "uSORT": [
         "monocle",
         "viridis"
