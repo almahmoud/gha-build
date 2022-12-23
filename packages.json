@@ -49486,7 +49486,6 @@
         "GenomeInfoDb",
         "IRanges",
         "XVector",
-        "cvTools",
         "fpc",
         "ggplot2",
         "ggseqlogo",
@@ -67199,7 +67198,6 @@
         "tweenr",
         "viridis"
     ],
-    "cvTools": [],
     "adehabitatLT": [
         "ade4"
     ],
