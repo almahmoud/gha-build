@@ -35,7 +35,6 @@
         "interactiveDisplayBase"
     ],
     "adSplit": [],
-    "AffiXcan": [],
     "affycoretools": [
         "AnnotationForge",
         "BSgenome",
