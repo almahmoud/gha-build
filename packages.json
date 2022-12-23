@@ -39900,7 +39900,6 @@
         "lambda.r",
         "latticeExtra",
         "lifecycle",
-        "lsr",
         "matrixStats",
         "memoise",
         "mgcv",
@@ -70129,7 +70128,6 @@
         "lme4",
         "lobstr",
         "locfit",
-        "lsr",
         "made4",
         "matrixStats",
         "memoise",
@@ -83507,7 +83505,6 @@
         "lifecycle",
         "lme4",
         "lobstr",
-        "lsr",
         "memoise",
         "mgcv",
         "mice",
@@ -122926,7 +122923,6 @@
         "vctrs",
         "yaml"
     ],
-    "lsr": [],
     "flextable": [
         "Rcpp",
         "bslib",
