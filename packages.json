@@ -3168,7 +3168,6 @@
         "EBImage",
         "htmlwidgets",
         "knitr",
-        "matter",
         "rmarkdown"
     ],
     "CARNIVAL": [
@@ -14385,7 +14384,6 @@
         "tibble",
         "vroom"
     ],
-    "matter": [],
     "MBASED": [
         "GenomicRanges",
         "SummarizedExperiment"
