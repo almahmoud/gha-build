@@ -36178,8 +36178,7 @@
         "tidyr",
         "tidyselect",
         "vctrs",
-        "vroom",
-        "webutils"
+        "vroom"
     ],
     "PharmacoGx": [
         "BiocParallel",
@@ -61052,10 +61051,8 @@
         "knitr",
         "openssl",
         "stringr",
-        "vctrs",
-        "webutils"
+        "vctrs"
     ],
-    "webutils": [],
     "PMCMRplus": [
         "BWStest"
     ],
