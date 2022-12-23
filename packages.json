@@ -4552,9 +4552,7 @@
         "treeio"
     ],
     "mosaics": [],
-    "mosbi": [
-        "QUBIC"
-    ],
+    "mosbi": [],
     "Motif2Site": [
         "BSgenome",
         "mixtools",
@@ -5747,7 +5745,6 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "QUBIC": [],
     "R3CPET": [
         "BSgenome",
         "GenomicFeatures",
