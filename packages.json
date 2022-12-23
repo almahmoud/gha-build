@@ -35818,7 +35818,6 @@
     "omada": [
         "NMF",
         "R.cache",
-        "RankAggreg",
         "bslib",
         "classInt",
         "diceR",
@@ -63778,7 +63777,6 @@
     "diceR": [
         "NMF",
         "R.cache",
-        "RankAggreg",
         "bslib",
         "classInt",
         "doParallel",
@@ -63813,7 +63811,6 @@
         "vroom",
         "yardstick"
     ],
-    "RankAggreg": [],
     "yardstick": [
         "dplyr",
         "hardhat",
