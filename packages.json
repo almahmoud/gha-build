@@ -18303,7 +18303,6 @@
         "httr",
         "openssl"
     ],
-    "gaggle": [],
     "GAprediction": [
         "glmnet",
         "survival"
