@@ -34962,7 +34962,6 @@
         "TH.data",
         "XVector",
         "ape",
-        "argparse",
         "bslib",
         "cachem",
         "coin",
@@ -38832,7 +38831,6 @@
         "UpSetR",
         "XVector",
         "annotate",
-        "argparse",
         "base64",
         "bigparallelr",
         "bigstatsr",
@@ -89952,7 +89950,6 @@
         "ape",
         "nlme"
     ],
-    "argparse": [],
     "depmixS4": [
         "Rsolnp",
         "nlme"
