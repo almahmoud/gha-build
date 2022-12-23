@@ -5208,7 +5208,6 @@
         "celldex",
         "ensembldb",
         "fields",
-        "hgu95a.db",
         "rhdf5",
         "scDblFinder",
         "scMerge",
@@ -6483,9 +6482,7 @@
         "survminer"
     ],
     "celldex": [],
-    "GSVAdata": [
-        "hgu95a.db"
-    ],
+    "GSVAdata": [],
     "SoupX": [
         "Seurat"
     ],
@@ -6497,7 +6494,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "hgu95a.db": [],
     "sampSurf": [],
     "MESS": [],
     "SpatialExtremes": [
