@@ -1436,9 +1436,7 @@
     "HTqPCR": [
         "affy"
     ],
-    "HTSeqGenie": [
-        "VariantTools"
-    ],
+    "HTSeqGenie": [],
     "iCARE": [
         "Hmisc",
         "viridis"
@@ -2001,9 +1999,7 @@
         "rhdf5"
     ],
     "mitoClone2": [],
-    "MMAPPR2": [
-        "VariantTools"
-    ],
+    "MMAPPR2": [],
     "MMUPHin": [
         "Maaslin2",
         "car"
@@ -3478,7 +3474,6 @@
         "rhdf5",
         "viridis"
     ],
-    "VariantTools": [],
     "VCFArray": [],
     "VDJdive": [
         "basilisk"
