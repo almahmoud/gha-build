@@ -3444,7 +3444,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "rCGH"
     ],
-    "PREDA": [],
     "primirTSS": [
         "AnnotationHub",
         "BSgenome",
