@@ -2854,7 +2854,6 @@
         "WGCNA",
         "gprofiler2"
     ],
-    "hca": [],
     "HelloRanges": [
         "BSgenome",
         "GenomicFeatures",
