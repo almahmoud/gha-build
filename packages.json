@@ -58516,7 +58516,6 @@
         "purrr",
         "rappdirs",
         "survival",
-        "svd",
         "vctrs",
         "zlibbioc"
     ],
@@ -117259,7 +117258,6 @@
         "yaml"
     ],
     "countrycode": [],
-    "svd": [],
     "MKmisc": [
         "Matrix",
         "ggplot2",
