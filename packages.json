@@ -11231,7 +11231,6 @@
         "tidyselect",
         "vroom"
     ],
-    "convert": [],
     "copynumber": [
         "GenomeInfoDb",
         "GenomicRanges",
@@ -28735,9 +28734,7 @@
         "tidyverse",
         "vroom"
     ],
-    "maigesPack": [
-        "convert"
-    ],
+    "maigesPack": [],
     "MAIT": [
         "BiocParallel",
         "CAMERA",
@@ -57830,9 +57827,7 @@
         "sass",
         "stringr"
     ],
-    "TurboNorm": [
-        "convert"
-    ],
+    "TurboNorm": [],
     "TVTB": [
         "AnnotationDbi",
         "AnnotationFilter",
