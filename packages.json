@@ -1237,7 +1237,6 @@
         "bslib",
         "dplyr",
         "ellipsis",
-        "extrafont",
         "futile.logger",
         "ggplot2",
         "ggthemes",
@@ -29092,7 +29091,6 @@
         "crosstalk",
         "dplyr",
         "ellipsis",
-        "extrafont",
         "ggalt",
         "ggforce",
         "ggfun",
@@ -66832,7 +66830,6 @@
         "dplyr",
         "e1071",
         "ellipsis",
-        "extrafont",
         "fontawesome",
         "forcats",
         "futile.logger",
@@ -79708,7 +79705,6 @@
         "vctrs"
     ],
     "waffle": [
-        "extrafont",
         "ggplot2",
         "lifecycle",
         "mgcv",
@@ -79719,7 +79715,6 @@
         "tibble",
         "vctrs"
     ],
-    "extrafont": [],
     "CVXR": [
         "RcppEigen",
         "Rmpfr",
@@ -86209,7 +86204,6 @@
         "crosstalk",
         "dplyr",
         "ellipsis",
-        "extrafont",
         "ggplot2",
         "highr",
         "htmltools",
@@ -89856,7 +89850,6 @@
         "cowplot",
         "dplyr",
         "ellipsis",
-        "extrafont",
         "forcats",
         "ggplot2",
         "ggpubr",
@@ -89900,7 +89893,6 @@
     "tidytidbits": [
         "dplyr",
         "ellipsis",
-        "extrafont",
         "forcats",
         "lifecycle",
         "pillar",
