@@ -34741,7 +34741,6 @@
         "httr",
         "vctrs"
     ],
-    "PROPER": [],
     "PROPS": [
         "AnnotationDbi",
         "BiocParallel",
