@@ -2087,7 +2087,6 @@
         "rtracklayer"
     ],
     "CNORdt": [],
-    "CNORfeeder": [],
     "CNORfuzzy": [
         "nloptr",
         "testthat"
