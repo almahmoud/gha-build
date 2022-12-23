@@ -33788,7 +33788,6 @@
         "vctrs",
         "vroom"
     ],
-    "INPower": [],
     "INSPEcT": [
         "AnnotationDbi",
         "Biobase",
