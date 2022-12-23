@@ -31156,7 +31156,6 @@
     ],
     "tomoseqr": [
         "BiocFileCache",
-        "animation",
         "bslib",
         "dbplyr",
         "dplyr",
@@ -37226,7 +37225,6 @@
         "tidyr",
         "vroom"
     ],
-    "animation": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
