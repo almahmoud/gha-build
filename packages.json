@@ -4967,7 +4967,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "DMRScan": [],
     "dmrseq": [
         "AnnotationDbi",
         "AnnotationHub",
