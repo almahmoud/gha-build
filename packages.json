@@ -7398,7 +7398,6 @@
         "RColorBrewer",
         "Rcpp",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "callr",
         "checkmate",
@@ -7810,7 +7809,6 @@
         "RcppArmadillo",
         "RcppEigen",
         "RcppHNSW",
-        "RcppParallel",
         "Rhdf5lib",
         "S4Vectors",
         "ScaledMatrix",
@@ -21659,7 +21657,6 @@
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
-        "RcppParallel",
         "RcppProgress",
         "RcppTOML",
         "ResidualMatrix",
@@ -30840,7 +30837,6 @@
         "RCurl",
         "RSQLite",
         "Rcpp",
-        "RcppParallel",
         "Rhdf5lib",
         "S4Vectors",
         "TTR",
@@ -32416,7 +32412,6 @@
         "RCurl",
         "Rcpp",
         "RcppEigen",
-        "RcppParallel",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -34675,7 +34670,6 @@
         "RColorBrewer",
         "Rcpp",
         "RcppArmadillo",
-        "RcppParallel",
         "RcppTOML",
         "RhpcBLASctl",
         "SnowballC",
@@ -37577,7 +37571,6 @@
         "RColorBrewer",
         "Rcpp",
         "RcppArmadillo",
-        "RcppParallel",
         "assertthat",
         "checkmate",
         "colorspace",
@@ -51179,7 +51172,6 @@
         "RColorBrewer",
         "RCurl",
         "Rcpp",
-        "RcppParallel",
         "S4Vectors",
         "SeqArray",
         "XVector",
@@ -54500,7 +54492,6 @@
         "RColorBrewer",
         "Rcpp",
         "RcppArmadillo",
-        "RcppParallel",
         "RcppProgress",
         "RcppTOML",
         "RhpcBLASctl",
@@ -60919,9 +60910,7 @@
         "yaml",
         "zlibbioc"
     ],
-    "HIBAG": [
-        "RcppParallel"
-    ],
+    "HIBAG": [],
     "HiCBricks": [
         "BH",
         "BiocGenerics",
@@ -63668,7 +63657,6 @@
         "RCurl",
         "Rcpp",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "StanHeaders",
         "SummarizedExperiment",
@@ -63841,7 +63829,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RcppParallel",
         "RcppTOML",
         "Rtsne",
         "S4Vectors",
@@ -64697,7 +64684,6 @@
         "RcppAnnoy",
         "RcppArmadillo",
         "RcppEigen",
-        "RcppParallel",
         "RcppProgress",
         "RcppTOML",
         "Rtsne",
@@ -70952,7 +70938,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "base64enc",
         "bbmle",
@@ -81303,7 +81288,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RcppParallel",
         "apcluster",
         "base64enc",
         "biganalytics",
@@ -85146,7 +85130,6 @@
         "RColorBrewer",
         "Rcpp",
         "RcppArmadillo",
-        "RcppParallel",
         "additivityTests",
         "akmbiclust",
         "biclust",
@@ -91849,7 +91832,6 @@
         "RSQLite",
         "Rcpp",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "WGCNA",
         "XVector",
@@ -96631,7 +96613,6 @@
         "RCurl",
         "RSQLite",
         "Rcpp",
-        "RcppParallel",
         "S4Vectors",
         "XML",
         "XVector",
@@ -96765,7 +96746,6 @@
         "RColorBrewer",
         "Rcpp",
         "RcppArmadillo",
-        "RcppParallel",
         "askpass",
         "base64enc",
         "brew",
@@ -103370,7 +103350,6 @@
         "RColorBrewer",
         "Rcpp",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "abind",
         "arrayhelpers",
@@ -109641,7 +109620,6 @@
         "RCurl",
         "Rcpp",
         "RcppEigen",
-        "RcppParallel",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -114291,7 +114269,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RcppParallel",
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
@@ -119918,7 +119895,6 @@
         "RCurl",
         "Rcpp",
         "RcppArmadillo",
-        "RcppParallel",
         "S4Vectors",
         "SPAtest",
         "SeqArray",
@@ -121933,7 +121909,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RcppParallel",
         "Rhdf5lib",
         "S4Vectors",
         "SingleCellExperiment",
@@ -122063,7 +122038,6 @@
         "RCurl",
         "Rcpp",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "SeuratObject",
         "SingleCellExperiment",
@@ -122757,7 +122731,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "SQUAREM",
         "SingleCellExperiment",
@@ -123404,7 +123377,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "ScaledMatrix",
         "SingleCellExperiment",
@@ -123532,7 +123504,6 @@
         "RCurl",
         "Rcpp",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "SingleCellExperiment",
         "StanHeaders",
@@ -129037,7 +129008,6 @@
         "RCurl",
         "Rcpp",
         "RcppArmadillo",
-        "RcppParallel",
         "RcppTOML",
         "Rhdf5lib",
         "S4Vectors",
@@ -129344,7 +129314,6 @@
         "RSQLite",
         "Rcpp",
         "RcppArmadillo",
-        "RcppParallel",
         "S4Vectors",
         "XVector",
         "askpass",
@@ -129656,7 +129625,6 @@
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
-        "RcppParallel",
         "RcppProgress",
         "RcppTOML",
         "Rdpack",
@@ -141960,7 +141928,6 @@
         "RCurl",
         "RSQLite",
         "Rcpp",
-        "RcppParallel",
         "Rhtslib",
         "Rsamtools",
         "Rsolnp",
@@ -145185,7 +145152,6 @@
         "RColorBrewer",
         "Rcpp",
         "RcppArmadillo",
-        "RcppParallel",
         "RcppTOML",
         "RhpcBLASctl",
         "SnowballC",
@@ -146610,7 +146576,6 @@
         "RcppEigen",
         "RcppHNSW",
         "RcppML",
-        "RcppParallel",
         "RcppProgress",
         "RcppTOML",
         "RhpcBLASctl",
@@ -148176,7 +148141,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RcppParallel",
         "S4Vectors",
         "SnowballC",
         "XML",
@@ -156945,7 +156909,6 @@
         "RColorBrewer",
         "Rcpp",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "callr",
         "checkmate",
@@ -156985,11 +156948,9 @@
     "StanHeaders": [
         "Matrix",
         "Rcpp",
-        "RcppEigen",
-        "RcppParallel"
+        "RcppEigen"
     ],
     "inline": [],
-    "RcppParallel": [],
     "loo": [
         "checkmate",
         "matrixStats"
@@ -157210,7 +157171,6 @@
     "rstantools": [
         "R6",
         "Rcpp",
-        "RcppParallel",
         "desc",
         "rprojroot"
     ],
@@ -162624,7 +162584,6 @@
     ],
     "qs": [
         "Rcpp",
-        "RcppParallel",
         "stringfish"
     ],
     "rlist": [
@@ -162667,8 +162626,7 @@
         "withr"
     ],
     "stringfish": [
-        "Rcpp",
-        "RcppParallel"
+        "Rcpp"
     ],
     "fresh": [
         "R6",
@@ -165191,7 +165149,6 @@
         "R6",
         "Rcpp",
         "RcppArmadillo",
-        "RcppParallel",
         "SnowballC",
         "data.table",
         "digest",
@@ -165304,7 +165261,6 @@
         "Matrix",
         "Rcpp",
         "RcppArmadillo",
-        "RcppParallel",
         "SnowballC",
         "fastmatch",
         "magrittr",
@@ -168196,8 +168152,7 @@
     "LiblineaR": [],
     "parallelDist": [
         "Rcpp",
-        "RcppArmadillo",
-        "RcppParallel"
+        "RcppArmadillo"
     ],
     "RTriangle": [],
     "concaveman": [
@@ -168866,7 +168821,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "callr",
         "checkmate",
@@ -168915,7 +168869,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppEigen",
-        "RcppParallel",
         "StanHeaders",
         "callr",
         "checkmate",
@@ -174612,8 +174565,7 @@
     "proxyC": [
         "Matrix",
         "Rcpp",
-        "RcppArmadillo",
-        "RcppParallel"
+        "RcppArmadillo"
     ],
     "extRemes": [
         "Lmoments",
@@ -176568,7 +176520,6 @@
         "R6",
         "RColorBrewer",
         "Rcpp",
-        "RcppParallel",
         "SQUAREM",
         "butcher",
         "class",
@@ -176693,7 +176644,6 @@
         "R6",
         "RColorBrewer",
         "Rcpp",
-        "RcppParallel",
         "colorspace",
         "farver",
         "ggplot2",
@@ -176780,8 +176730,7 @@
         "withr"
     ],
     "lamW": [
-        "Rcpp",
-        "RcppParallel"
+        "Rcpp"
     ],
     "animation": [
         "Rcpp",
