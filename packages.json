@@ -10117,9 +10117,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "ROCpAI": [
-        "fission"
-    ],
+    "ROCpAI": [],
     "RolDE": [],
     "ROntoTools": [],
     "ropls": [
@@ -13847,7 +13845,6 @@
         "interactiveDisplayBase"
     ],
     "TBX20BamSubset": [],
-    "fission": [],
     "excelR": [],
     "SBGNview.data": [],
     "scanMiRData": [
