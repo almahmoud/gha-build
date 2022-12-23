@@ -4253,7 +4253,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "NetRep",
         "RSQLite",
         "SummarizedExperiment",
         "WGCNA",
@@ -5528,7 +5527,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "NetRep",
         "OrganismDbi",
         "RSQLite",
         "Rsamtools",
@@ -20959,7 +20957,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "NetRep",
         "RSQLite",
         "SummarizedExperiment",
         "WGCNA",
@@ -54644,7 +54641,6 @@
         "sass",
         "stringr"
     ],
-    "NetRep": [],
     "network": [
         "pillar",
         "tibble"
