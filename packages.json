@@ -25727,7 +25727,6 @@
         "GenomicRanges",
         "Hmisc",
         "KEGGREST",
-        "RnaSeqSampleSizeData",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -36920,7 +36919,6 @@
         "Biostrings",
         "XVector"
     ],
-    "RnaSeqSampleSizeData": [],
     "fission": [
         "DelayedArray",
         "GenomicRanges",
