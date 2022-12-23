@@ -774,9 +774,7 @@
         "scran",
         "scuttle"
     ],
-    "biotmle": [
-        "superheat"
-    ],
+    "biotmle": [],
     "biovizBase": [
         "BSgenome",
         "GenomicFeatures",
@@ -9831,7 +9829,6 @@
         "interactiveDisplayBase"
     ],
     "ggnetwork": [],
-    "superheat": [],
     "biscuiteerData": [
         "AnnotationHub",
         "ExperimentHub",
