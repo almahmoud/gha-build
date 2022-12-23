@@ -1,0 +1,73 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   30540884..ebf92cee  main       -> origin/main
+Updating 30540884..ebf92cee
+Fast-forward
+ logs/run_ids/rstudio-binaries/TMB                  |    2 +
+ logs/run_ids/rstudio-binaries/splancs              |    2 +
+ logs/run_ids/rstudio-binaries/stepNorm             |    2 +
+ logs/run_ids/rstudio-binaries/tractor.base         |    2 +
+ logs/sizes/rstudio-binaries/binaries/RcppNumerical |    1 +
+ .../sizes/rstudio-binaries/libraries/RcppNumerical |    1 +
+ logs/times/rstudio-binary/RcppNumerical            | 1618 ++++++++++++++++++++
+ 7 files changed, 1628 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/tractor.base
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RcppNumerical
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RcppNumerical
+ create mode 100644 logs/times/rstudio-binary/RcppNumerical
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=servr
++ PKG=servr
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "servr"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency mime is already found.
+Dependency httpuv is already found.
+Dependency xfun is already found.
+Dependency jsonlite is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''servr'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv servr_0.25_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/servr
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'servr'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/servr_0.25.tar.gz'
+Content type 'binary/octet-stream' length 89156 bytes (87 KB)
+==================================================
+downloaded 87 KB
+
+* installing *binary* package ‘servr’ ...
+* ‘servr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘servr’ as ‘servr_0.25_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (servr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpOCo75t/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m5.766s
+user	0m3.689s
+sys	0m0.253s

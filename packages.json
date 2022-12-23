@@ -17515,7 +17515,6 @@
         "pillar",
         "purrr",
         "rmarkdown",
-        "servr",
         "shiny",
         "stringr",
         "tibble",
@@ -46062,7 +46061,6 @@
         "tibble",
         "tidyselect"
     ],
-    "servr": [],
     "available": [
         "dplyr",
         "pillar",
