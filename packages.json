@@ -27608,7 +27608,6 @@
         "tibble",
         "tidyr"
     ],
-    "seqCNA": [],
     "seqcombo": [
         "ggplot2",
         "tibble"
