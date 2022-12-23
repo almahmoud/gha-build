@@ -1341,9 +1341,7 @@
         "topGO",
         "viridis"
     ],
-    "ComPrAn": [
-        "rio"
-    ],
+    "ComPrAn": [],
     "conclus": [
         "DOSE",
         "FactoMineR",
@@ -1520,7 +1518,6 @@
         "ensembldb",
         "regioneR",
         "rhdf5",
-        "rio",
         "rtracklayer"
     ],
     "crisprVerse": [
@@ -3038,7 +3035,6 @@
         "ensembldb",
         "regioneR",
         "rhdf5",
-        "rio",
         "rtracklayer"
     ],
     "Guitar": [
@@ -3389,8 +3385,7 @@
         "viridis"
     ],
     "ISAnalytics": [
-        "datamods",
-        "rio"
+        "datamods"
     ],
     "iSEEhex": [],
     "iSEEhub": [
@@ -3500,7 +3495,6 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "rio",
         "rstatix"
     ],
     "LinTInd": [
@@ -7799,7 +7793,6 @@
         "rtracklayer"
     ],
     "benchmarkme": [],
-    "rio": [],
     "factoextra": [
         "FactoMineR",
         "car",
@@ -7928,9 +7921,7 @@
         "GenomicFeatures",
         "rtracklayer"
     ],
-    "datamods": [
-        "rio"
-    ],
+    "datamods": [],
     "pd.mapping50k.xba240": [
         "oligo"
     ],
