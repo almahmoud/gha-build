@@ -5348,7 +5348,6 @@
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
-        "Structstrings",
         "SummarizedExperiment",
         "biomaRt",
         "dbplyr",
@@ -16487,7 +16486,6 @@
     "struct": [
         "SummarizedExperiment"
     ],
-    "Structstrings": [],
     "structToolbox": [
         "SummarizedExperiment",
         "ggthemes",
@@ -17462,17 +17460,13 @@
         "shinyjs",
         "tidyr"
     ],
-    "tRNA": [
-        "Structstrings"
-    ],
+    "tRNA": [],
     "tRNAdbImport": [
-        "Structstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
         "BSgenome",
         "GenomicAlignments",
-        "Structstrings",
         "SummarizedExperiment",
         "rtracklayer",
         "tRNA"
