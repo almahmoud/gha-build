@@ -22172,7 +22172,6 @@
         "klaR",
         "labelled",
         "miniUI",
-        "pdfCluster",
         "progress",
         "purrr",
         "questionr",
@@ -39028,7 +39027,6 @@
         "tibble",
         "tidyselect"
     ],
-    "pdfCluster": [],
     "diceR": [
         "NMF",
         "dplyr",
