@@ -1030,7 +1030,6 @@
         "genefilter",
         "ggnetwork",
         "htmlTable",
-        "networkD3",
         "sva",
         "viridis"
     ],
@@ -1350,7 +1349,6 @@
         "ggbio",
         "ggnetwork",
         "htmlTable",
-        "networkD3",
         "rtracklayer",
         "sva",
         "viridis"
@@ -1946,7 +1944,6 @@
     ],
     "CIMICE": [
         "ggraph",
-        "networkD3",
         "tidygraph",
         "viridis",
         "visNetwork"
@@ -4622,7 +4619,6 @@
         "BiocStyle",
         "GO.db",
         "GenomicAlignments",
-        "networkD3",
         "org.Rn.eg.db",
         "rtracklayer"
     ],
@@ -5937,7 +5933,6 @@
     "LinTInd": [
         "aplot",
         "ggtree",
-        "networkD3",
         "tidytree",
         "treeio"
     ],
@@ -7644,7 +7639,6 @@
         "graphite",
         "gson",
         "mixOmics",
-        "networkD3",
         "plotly",
         "rWikiPathways",
         "reactome.db",
@@ -8208,7 +8202,6 @@
         "fgsea",
         "ggpubr",
         "lme4",
-        "networkD3",
         "nloptr",
         "pbkrtest",
         "plotly",
@@ -11587,7 +11580,6 @@
     "SubCellBarCode": [
         "AnnotationDbi",
         "caret",
-        "networkD3",
         "org.Hs.eg.db",
         "recipes"
     ],
@@ -11682,7 +11674,6 @@
     "syntenet": [
         "GenomicAlignments",
         "ggnetwork",
-        "networkD3",
         "rtracklayer",
         "testthat"
     ],
@@ -13066,7 +13057,6 @@
         "interactiveDisplayBase"
     ],
     "ggnetwork": [],
-    "networkD3": [],
     "superheat": [],
     "biscuiteerData": [
         "AnnotationDbi",
