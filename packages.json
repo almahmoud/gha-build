@@ -8195,7 +8195,6 @@
     ],
     "ppcseq": [
         "benchmarkme",
-        "posterior",
         "tidybayes"
     ],
     "PPInfer": [
@@ -12811,10 +12810,7 @@
         "fields",
         "viridis"
     ],
-    "tidybayes": [
-        "posterior"
-    ],
-    "posterior": [],
+    "tidybayes": [],
     "phastCons100way.UCSC.hg38": [
         "AnnotationDbi",
         "AnnotationHub",
