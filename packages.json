@@ -1957,7 +1957,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "CTDquerier": [],
     "cTRAP": [
         "AnnotationHub",
         "highcharter",
