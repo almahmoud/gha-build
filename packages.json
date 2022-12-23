@@ -4001,7 +4001,6 @@
         "ssrch"
     ],
     "hypeR": [],
-    "iBBiG": [],
     "iCARE": [
         "Hmisc",
         "viridis"
@@ -5274,7 +5273,6 @@
         "ggraph",
         "ggtree",
         "graphite",
-        "iBBiG",
         "lme4",
         "miRspongeR",
         "modelr",
