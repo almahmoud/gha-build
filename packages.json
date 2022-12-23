@@ -76,8 +76,7 @@
         "adductData",
         "dbplyr",
         "htmlwidgets",
-        "interactiveDisplayBase",
-        "rvest"
+        "interactiveDisplayBase"
     ],
     "ADImpute": [
         "SingleCellExperiment",
@@ -243,7 +242,6 @@
         "ggrepel",
         "mixOmics",
         "readxl",
-        "rvest",
         "speaq",
         "tidyr"
     ],
@@ -698,7 +696,6 @@
         "readxl",
         "reprex",
         "rtracklayer",
-        "rvest",
         "tidyr",
         "tidyverse",
         "viridis"
@@ -1284,8 +1281,7 @@
         "DT",
         "dbplyr",
         "htmlwidgets",
-        "readr",
-        "rvest"
+        "readr"
     ],
     "BiocSet": [
         "AnnotationDbi",
@@ -2051,7 +2047,6 @@
         "miniUI",
         "readr",
         "rtracklayer",
-        "rvest",
         "tidyr"
     ],
     "CBEA": [
@@ -2087,7 +2082,6 @@
         "miniUI",
         "readr",
         "rtracklayer",
-        "rvest",
         "tidyr"
     ],
     "cbpManager": [
@@ -2708,7 +2702,6 @@
         "plotly",
         "qs",
         "rtracklayer",
-        "rvest",
         "scater",
         "scran",
         "scuttle",
@@ -4108,7 +4101,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "shadowtext",
         "tidygraph",
         "tidyr",
@@ -4268,7 +4260,6 @@
         "lexicon",
         "mlapi",
         "readr",
-        "rvest",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -4636,7 +4627,6 @@
         "kableExtra",
         "miniUI",
         "plotly",
-        "rvest",
         "shinyBS",
         "shinycssloaders",
         "shinydashboard",
@@ -5126,7 +5116,6 @@
         "readr",
         "rstatix",
         "rtracklayer",
-        "rvest",
         "testthat",
         "tidyr",
         "viridis",
@@ -5698,7 +5687,6 @@
         "SummarizedExperiment",
         "ggdendro",
         "kableExtra",
-        "rvest",
         "tidyr"
     ],
     "EventPointer": [
@@ -6854,7 +6842,6 @@
         "lexicon",
         "mlapi",
         "readr",
-        "rvest",
         "syuzhet",
         "tensorflow",
         "text2vec",
@@ -6928,9 +6915,7 @@
         "viridis",
         "waldo"
     ],
-    "GEOfastq": [
-        "rvest"
-    ],
+    "GEOfastq": [],
     "GEOmetadb": [
         "GEOquery",
         "readr",
@@ -7819,7 +7804,6 @@
         "kableExtra",
         "msigdbr",
         "reactable",
-        "rvest",
         "visNetwork"
     ],
     "iasva": [
@@ -8045,7 +8029,6 @@
     ],
     "immunotation": [
         "readr",
-        "rvest",
         "tidyr"
     ],
     "INDEED": [
@@ -8156,8 +8139,7 @@
         "SummarizedExperiment"
     ],
     "InteractiveComplexHeatmap": [
-        "kableExtra",
-        "rvest"
+        "kableExtra"
     ],
     "interactiveDisplay": [
         "AnnotationDbi",
@@ -8799,7 +8781,6 @@
         "motifStack",
         "readr",
         "rtracklayer",
-        "rvest",
         "tidyr"
     ],
     "LRBaseDbi": [
@@ -8921,8 +8902,7 @@
     "MACSQuantifyR": [
         "ggrepel",
         "prettydoc",
-        "readxl",
-        "rvest"
+        "readxl"
     ],
     "MACSr": [
         "AnnotationDbi",
@@ -9037,7 +9017,6 @@
         "readxl",
         "recipes",
         "reprex",
-        "rvest",
         "tidyr",
         "tidyverse"
     ],
@@ -9768,7 +9747,6 @@
         "reprex",
         "rstatix",
         "rtracklayer",
-        "rvest",
         "testthat",
         "tidyr",
         "tidyverse",
@@ -10131,7 +10109,6 @@
         "htmlwidgets",
         "kableExtra",
         "mice",
-        "rvest",
         "tidyr"
     ],
     "MIGSA": [
@@ -10277,7 +10254,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "readr",
-        "rvest",
         "tidyr",
         "viridis"
     ],
@@ -10362,7 +10338,6 @@
         "reprex",
         "rqubic",
         "rstatix",
-        "rvest",
         "s4vd",
         "scatterpie",
         "shadowtext",
@@ -10428,7 +10403,6 @@
         "recipes",
         "reprex",
         "rstatix",
-        "rvest",
         "scatterpie",
         "shadowtext",
         "testthat",
@@ -10666,7 +10640,6 @@
         "qvalue",
         "readr",
         "rgl",
-        "rvest",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -10940,7 +10913,6 @@
         "readxl",
         "reprex",
         "rstatix",
-        "rvest",
         "testthat",
         "tidyr",
         "tidyverse",
@@ -11252,7 +11224,6 @@
         "readxl",
         "rstatix",
         "rtracklayer",
-        "rvest",
         "shinyBS",
         "shinyalert",
         "shinybusy",
@@ -11403,7 +11374,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "testthat",
         "tidyr",
         "tidyverse",
@@ -11949,7 +11919,6 @@
         "rgl",
         "rstatix",
         "rtracklayer",
-        "rvest",
         "testthat",
         "tidyr",
         "viridis",
@@ -11998,7 +11967,6 @@
     "OmnipathR": [
         "readr",
         "readxl",
-        "rvest",
         "tidyr"
     ],
     "oncomix": [
@@ -13269,7 +13237,6 @@
         "plotly",
         "readr",
         "rstatix",
-        "rvest",
         "shinydashboard",
         "testthat",
         "tidyr",
@@ -14121,9 +14088,7 @@
         "viridis",
         "waldo"
     ],
-    "rfaRm": [
-        "rvest"
-    ],
+    "rfaRm": [],
     "Rfastp": [],
     "rfPred": [
         "Rsamtools"
@@ -14416,7 +14381,6 @@
         "DT",
         "MSnbase",
         "htmlwidgets",
-        "rvest",
         "vsn",
         "webchem"
     ],
@@ -14838,7 +14802,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "rvest",
         "survMisc",
         "survminer",
         "testthat",
@@ -14861,7 +14824,6 @@
         "dbplyr",
         "readr",
         "rtracklayer",
-        "rvest",
         "tidyr"
     ],
     "RTN": [
@@ -15314,7 +15276,6 @@
     ],
     "scifer": [
         "kableExtra",
-        "rvest",
         "sangerseqR"
     ],
     "scMAGeCK": [
@@ -16747,7 +16708,6 @@
         "recipes",
         "reprex",
         "rstatix",
-        "rvest",
         "testthat",
         "tidyr",
         "tidyverse",
@@ -16953,7 +16913,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "tidyr",
         "tidyverse"
     ],
@@ -17165,7 +17124,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "sftime",
         "stars",
         "testthat",
@@ -17353,7 +17311,6 @@
         "biomaRt",
         "dbplyr",
         "readr",
-        "rvest",
         "tidyr"
     ],
     "TCGAbiolinksGUI": [
@@ -17417,7 +17374,6 @@
         "recipes",
         "rstatix",
         "rtracklayer",
-        "rvest",
         "scatterpie",
         "sesame",
         "sesameData",
@@ -17448,7 +17404,6 @@
         "dbplyr",
         "readr",
         "rtracklayer",
-        "rvest",
         "tidyr"
     ],
     "TCseq": [
@@ -17512,7 +17467,6 @@
         "miniUI",
         "readr",
         "rtracklayer",
-        "rvest",
         "tidyr"
     ],
     "TFARM": [
@@ -18234,7 +18188,6 @@
         "lexicon",
         "mlapi",
         "readr",
-        "rvest",
         "scater",
         "scuttle",
         "syuzhet",
@@ -18610,7 +18563,6 @@
         "OmnipathR",
         "readr",
         "readxl",
-        "rvest",
         "tidyr"
     ],
     "xcms": [
@@ -18840,7 +18792,6 @@
         "htmlwidgets",
         "interactiveDisplayBase"
     ],
-    "rvest": [],
     "dbplyr": [],
     "PFAM.db": [
         "AnnotationDbi"
@@ -18863,9 +18814,7 @@
     ],
     "shinydashboard": [],
     "readxl": [],
-    "speaq": [
-        "rvest"
-    ],
+    "speaq": [],
     "curatedTCGAData": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -19095,7 +19044,6 @@
         "readr",
         "readxl",
         "reprex",
-        "rvest",
         "tidyr"
     ],
     "Mus.musculus": [
@@ -19629,9 +19577,7 @@
         "shinydashboard",
         "waiter"
     ],
-    "kableExtra": [
-        "rvest"
-    ],
+    "kableExtra": [],
     "gggenes": [
         "ggfittext"
     ],
@@ -19848,9 +19794,7 @@
     "diffr": [
         "htmlwidgets"
     ],
-    "webchem": [
-        "rvest"
-    ],
+    "webchem": [],
     "text2vec": [
         "mlapi"
     ],
