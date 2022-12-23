@@ -3273,7 +3273,6 @@
         "rhdf5",
         "scDblFinder",
         "scMerge",
-        "scRNAseq",
         "scater",
         "viridis"
     ],
@@ -4025,7 +4024,6 @@
     "SoupX": [
         "Seurat"
     ],
-    "scRNAseq": [],
     "TENxPBMCData": [
         "HDF5Array",
         "rhdf5"
