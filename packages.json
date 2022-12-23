@@ -291,7 +291,6 @@
     "sojourner": [
         "sampSurf"
     ],
-    "SomaticSignatures": [],
     "spatzie": [],
     "SpectralTAD": [
         "CGHcall",
@@ -349,9 +348,7 @@
     "wateRmelon": [
         "lumi"
     ],
-    "YAPSA": [
-        "SomaticSignatures"
-    ],
+    "YAPSA": [],
     "yarn": [],
     "ReorderCluster": [],
     "mGSZ": [],
