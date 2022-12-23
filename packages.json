@@ -454,7 +454,6 @@
         "ANCOMBC",
         "DESeq2",
         "Hmisc",
-        "MAST",
         "Seurat",
         "TreeSummarizedExperiment",
         "annotate",
@@ -911,9 +910,7 @@
         "PROMISE",
         "annotate"
     ],
-    "celaref": [
-        "MAST"
-    ],
+    "celaref": [],
     "celda": [
         "scater",
         "scran",
@@ -3882,7 +3879,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "MAST": [],
     "MatrixQCvis": [
         "Hmisc"
     ],
@@ -5470,9 +5466,7 @@
     "PoTRA": [
         "org.Hs.eg.db"
     ],
-    "POWSC": [
-        "MAST"
-    ],
+    "POWSC": [],
     "ppcseq": [
         "benchmarkme",
         "tidybayes"
@@ -6803,7 +6797,6 @@
         "GenomicFeatures",
         "Hmisc",
         "M3Drop",
-        "MAST",
         "Seurat",
         "SoupX",
         "TENxPBMCData",
