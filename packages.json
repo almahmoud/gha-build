@@ -3069,7 +3069,6 @@
         "GSVA",
         "HDF5Array",
         "RUVSeq",
-        "octad.db",
         "rhdf5"
     ],
     "ODER": [
@@ -5124,7 +5123,6 @@
     ],
     "NxtIRFdata": [],
     "fst": [],
-    "octad.db": [],
     "diceR": [
         "klaR"
     ],
