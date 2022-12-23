@@ -314,9 +314,7 @@
         "rstatix"
     ],
     "condiments": [],
-    "CONFESS": [
-        "contrast"
-    ],
+    "CONFESS": [],
     "consensusDE": [
         "EnsDb.Hsapiens.v86",
         "RUVSeq"
@@ -1834,7 +1832,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "contrast": [],
     "EnsDb.Hsapiens.v86": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi"
