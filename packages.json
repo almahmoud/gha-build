@@ -2637,7 +2637,6 @@
     "PloGO2": [
         "GOstats"
     ],
-    "plotgardener": [],
     "plotGrouper": [
         "Hmisc",
         "car",
@@ -3700,9 +3699,7 @@
         "viridis"
     ],
     "tximeta": [],
-    "Ularcirc": [
-        "plotgardener"
-    ],
+    "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
         "Gviz",
