@@ -5976,7 +5976,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "omicsPrint": [],
     "omicsViewer": [
         "car",
         "ggpubr",
