@@ -60213,7 +60213,6 @@
         "memoise",
         "multtest",
         "openssl",
-        "parmigene",
         "proxy",
         "reactome.db",
         "rlang",
@@ -65872,7 +65871,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "parmigene",
         "pillar",
         "plyr",
         "psych",
@@ -70524,7 +70522,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "parmigene",
         "patchwork",
         "pillar",
         "plyr",
@@ -140054,7 +140051,6 @@
         "proxy",
         "sp"
     ],
-    "parmigene": [],
     "venn": [],
     "PairedData": [
         "MASS",
