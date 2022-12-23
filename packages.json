@@ -2132,7 +2132,6 @@
     ],
     "recoup": [],
     "REDseq": [
-        "BSgenome.Celegans.UCSC.ce2",
         "ChIPpeakAnno",
         "ensembldb"
     ],
@@ -3011,7 +3010,6 @@
     ],
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
-    "BSgenome.Celegans.UCSC.ce2": [],
     "rGenomeTracksData": [],
     "RLHub": [],
     "SCATEData": [],
