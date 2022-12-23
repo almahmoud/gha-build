@@ -6917,7 +6917,6 @@
     "MesKit": [
         "AnnotationDbi"
     ],
-    "messina": [],
     "Metab": [
         "MSnbase",
         "MsFeatures",
