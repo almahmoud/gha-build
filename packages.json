@@ -2726,7 +2726,6 @@
     "POMA": [
         "DESeq2"
     ],
-    "ppcseq": [],
     "prebs": [],
     "preciseTAD": [
         "GenomicFeatures",
