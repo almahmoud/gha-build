@@ -7514,7 +7514,6 @@
         "tibble",
         "tidyselect"
     ],
-    "COHCAP": [],
     "cola": [
         "ComplexHeatmap",
         "httr",
