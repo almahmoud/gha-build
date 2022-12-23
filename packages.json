@@ -99,7 +99,6 @@
         "httr",
         "multtest",
         "snapCGH",
-        "strucchange",
         "tibble",
         "tilingArray",
         "vsn"
@@ -8905,7 +8904,6 @@
         "shinyMatrix",
         "shinyjs",
         "stringr",
-        "strucchange",
         "testthat",
         "tibble",
         "tidyr",
@@ -8950,7 +8948,6 @@
         "rstatix",
         "sass",
         "stringr",
-        "strucchange",
         "testthat",
         "tibble",
         "tidyr",
@@ -36349,7 +36346,6 @@
         "ggplot2",
         "httr",
         "multtest",
-        "strucchange",
         "tibble",
         "tilingArray",
         "vsn"
@@ -39243,7 +39239,6 @@
         "genefilter",
         "ggplot2",
         "httr",
-        "strucchange",
         "tibble",
         "vsn"
     ],
@@ -41963,7 +41958,6 @@
     "purrr": [],
     "tidyselect": [],
     "httpuv": [],
-    "strucchange": [],
     "DT": [
         "bslib",
         "crosstalk",
