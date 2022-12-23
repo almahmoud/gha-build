@@ -2645,7 +2645,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "pryr",
         "rmarkdown",
         "rtracklayer",
         "viridis"
@@ -10155,7 +10154,6 @@
     "gpuMagic": [
         "DescTools",
         "cellranger",
-        "pryr",
         "readxl"
     ],
     "GRaNIE": [
@@ -16579,7 +16577,6 @@
         "nloptr",
         "omicade4",
         "pbkrtest",
-        "pryr",
         "qvalue",
         "rematch2",
         "rexposome",
@@ -16813,7 +16810,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "pryr",
         "rapportools",
         "rematch2",
         "rmarkdown",
@@ -19654,7 +19650,6 @@
         "mice",
         "nloptr",
         "pbkrtest",
-        "pryr",
         "rematch2",
         "rmarkdown",
         "testthat",
@@ -22004,7 +21999,6 @@
         "gistr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "pryr",
         "rbokeh",
         "rmarkdown",
         "shiny",
@@ -25139,7 +25133,6 @@
         "golem",
         "htmlwidgets",
         "plotly",
-        "pryr",
         "rmarkdown",
         "roxygen2",
         "shiny",
@@ -27255,7 +27248,6 @@
         "rmarkdown"
     ],
     "roxygen2": [],
-    "pryr": [],
     "ggtext": [
         "ggplot2"
     ],
@@ -28795,7 +28787,6 @@
     ],
     "summarytools": [
         "dplyr",
-        "pryr",
         "rapportools",
         "tidyr"
     ],
@@ -29137,7 +29128,6 @@
         "dplyr",
         "gistr",
         "htmlwidgets",
-        "pryr",
         "rmarkdown"
     ],
     "gistr": [
