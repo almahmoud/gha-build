@@ -1984,7 +1984,6 @@
         "MSstats",
         "lmerTest"
     ],
-    "Mulcom": [],
     "multicrispr": [
         "CRISPRseek",
         "VariantAnnotation",
