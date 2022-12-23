@@ -5081,7 +5081,6 @@
         "genefilter",
         "org.Hs.eg.db"
     ],
-    "miRmine": [],
     "miRNAmeConverter": [
         "miRBaseVersions.db"
     ],
