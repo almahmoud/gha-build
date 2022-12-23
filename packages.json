@@ -3142,7 +3142,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "diffuStats": [],
     "diffUTR": [
         "AnnotationDbi",
         "DESeq2",
