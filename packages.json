@@ -102,7 +102,6 @@
     "AffyCompatible": [],
     "affycoretools": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationForge",
         "BSgenome",
         "BiocFileCache",
@@ -163,7 +162,6 @@
     ],
     "AgiMicroRna": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationForge",
         "BSgenome",
         "BiocFileCache",
@@ -226,7 +224,6 @@
     ],
     "AllelicImbalance": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -381,7 +378,6 @@
     "AnnotationDbi": [
         "KEGGREST"
     ],
-    "AnnotationFilter": [],
     "AnnotationForge": [
         "AnnotationDbi",
         "KEGGREST"
@@ -634,7 +630,6 @@
     ],
     "ASpediaFI": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -666,7 +661,6 @@
     ],
     "ASpli": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "BiocStyle",
@@ -762,7 +756,6 @@
     ],
     "ATACseqQC": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -1227,7 +1220,6 @@
     ],
     "BindingSiteFinder": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1485,7 +1477,6 @@
     ],
     "biomvRCNS": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1590,7 +1581,6 @@
     ],
     "biovizBase": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1726,7 +1716,6 @@
     ],
     "BOBaFIT": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -1769,7 +1758,6 @@
     "BRAIN": [],
     "brainflowprobes": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -1866,7 +1854,6 @@
     ],
     "BubbleTree": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "BiocStyle",
@@ -1919,7 +1906,6 @@
     ],
     "BUSpaRse": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1943,7 +1929,6 @@
     ],
     "CAFE": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -1969,7 +1954,6 @@
     ],
     "CAGEfightR": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -1994,7 +1978,6 @@
     ],
     "cageminer": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BioNERO",
         "BiocFileCache",
@@ -2548,7 +2531,6 @@
     ],
     "ChAMP": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -2637,7 +2619,6 @@
     ],
     "chimeraviz": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "BiocStyle",
@@ -2700,7 +2681,6 @@
     ],
     "ChIPexoQual": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -2723,7 +2703,6 @@
     ],
     "ChIPpeakAnno": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -2930,7 +2909,6 @@
     ],
     "cicero": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3193,7 +3171,6 @@
     ],
     "CNVfilteR": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "CopyNumberPlots",
@@ -3222,7 +3199,6 @@
     "cnvGSA": [],
     "CNViz": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "CopyNumberPlots",
@@ -3355,7 +3331,6 @@
     ],
     "comapr": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3383,7 +3358,6 @@
     ],
     "coMET": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3442,7 +3416,6 @@
     "compcodeR": [],
     "compEpiTools": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GO.db",
@@ -3466,7 +3439,6 @@
         "viridis"
     ],
     "CompoundDb": [
-        "AnnotationFilter",
         "ChemmineR",
         "DT",
         "dbplyr",
@@ -3576,7 +3548,6 @@
     ],
     "consensusDE": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "DESeq2",
         "EDASeq",
@@ -3671,7 +3642,6 @@
     "copynumber": [],
     "CopyNumberPlots": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -3868,7 +3838,6 @@
     ],
     "crisprseekplus": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "CRISPRseek",
@@ -3906,7 +3875,6 @@
     ],
     "crisprVerse": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -3939,7 +3907,6 @@
     ],
     "crisprViz": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -4057,7 +4024,6 @@
     ],
     "cummeRbund": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -4669,7 +4635,6 @@
     ],
     "derfinderPlot": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -4698,7 +4663,6 @@
     ],
     "DEScan2": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "ChIPpeakAnno",
@@ -4852,7 +4816,6 @@
     ],
     "diffUTR": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "DESeq2",
         "DEXSeq",
@@ -4963,7 +4926,6 @@
     "DMRcaller": [],
     "DMRcate": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -5009,7 +4971,6 @@
     ],
     "DMRforPairs": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -5139,7 +5100,6 @@
     ],
     "drugTargetInteractions": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5396,7 +5356,6 @@
     ],
     "ELMER": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "ELMER.data",
@@ -5580,7 +5539,6 @@
     ],
     "ensembldb": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5783,7 +5741,6 @@
     ],
     "epimutacions": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -5859,7 +5816,6 @@
     ],
     "epivizr": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5876,7 +5832,6 @@
     ],
     "epivizrChart": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5892,7 +5847,6 @@
     ],
     "epivizrData": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -5907,7 +5861,6 @@
     ],
     "epivizrStandalone": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -6180,7 +6133,6 @@
     ],
     "extraChIPs": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "ComplexUpset",
@@ -6456,7 +6408,6 @@
     ],
     "FLAMES": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "BiocSingular",
@@ -7006,7 +6957,6 @@
     ],
     "GeneStructureTools": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BSgenome.Mmusculus.UCSC.mm10",
         "BiocFileCache",
@@ -7145,7 +7095,6 @@
     ],
     "GenomicInteractions": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -7168,7 +7117,6 @@
     ],
     "GenomicOZone": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -7383,7 +7331,6 @@
     ],
     "ggbio": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -7884,7 +7831,6 @@
     "gtrellis": [],
     "GUIDEseq": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "CRISPRseek",
@@ -7923,7 +7869,6 @@
     ],
     "Gviz": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -8077,7 +8022,6 @@
     ],
     "HiCDCPlus": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -8130,7 +8074,6 @@
     ],
     "HiContacts": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -8590,7 +8533,6 @@
     ],
     "intansv": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -8911,7 +8853,6 @@
     ],
     "IsoformSwitchAnalyzeR": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -9007,7 +8948,6 @@
     ],
     "karyoploteR": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -9592,7 +9532,6 @@
     ],
     "maser": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "DT",
@@ -9715,7 +9654,6 @@
     ],
     "mCSEA": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GO.db",
@@ -9750,7 +9688,6 @@
     ],
     "MEAL": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "FDb.InfiniumMethylation.hg19",
@@ -9946,7 +9883,6 @@
         "tidyr"
     ],
     "MetaboAnnotation": [
-        "AnnotationFilter",
         "ChemmineR",
         "CompoundDb",
         "DT",
@@ -9967,7 +9903,6 @@
     "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "EnsDb.Hsapiens.v75",
         "GenomicAlignments",
@@ -10017,7 +9952,6 @@
     ],
     "metagene": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "EnsDb.Hsapiens.v86",
         "GenomicAlignments",
@@ -10130,7 +10064,6 @@
     ],
     "metavizr": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -10395,7 +10328,6 @@
     "MethylMix": [],
     "methylPipe": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -11290,7 +11222,6 @@
     ],
     "motifbreakR": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "CNEr",
@@ -11392,7 +11323,6 @@
         "tidyr"
     ],
     "MsExperiment": [
-        "AnnotationFilter",
         "MultiAssayExperiment",
         "QFeatures",
         "SummarizedExperiment",
@@ -11405,7 +11335,6 @@
     ],
     "msgbsR": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -11495,7 +11424,6 @@
         "dbplyr"
     ],
     "msqrob2": [
-        "AnnotationFilter",
         "MultiAssayExperiment",
         "QFeatures",
         "SummarizedExperiment",
@@ -11654,7 +11582,6 @@
     ],
     "multicrispr": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "CRISPRseek",
@@ -11949,7 +11876,6 @@
     "NADfinder": [
         "ATACseqQC",
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -12468,7 +12394,6 @@
     ],
     "OGRE": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -12794,7 +12719,6 @@
     ],
     "Organism.dplyr": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -13414,7 +13338,6 @@
     ],
     "PING": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -13647,7 +13570,6 @@
     ],
     "primirTSS": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -13912,7 +13834,6 @@
     ],
     "proteasy": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "EnsDb.Hsapiens.v86",
         "EnsDb.Mmusculus.v79",
@@ -14026,7 +13947,6 @@
         "viridis"
     ],
     "PSMatch": [
-        "AnnotationFilter",
         "MultiAssayExperiment",
         "QFeatures",
         "SummarizedExperiment",
@@ -14098,7 +14018,6 @@
     ],
     "Pviz": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -14153,7 +14072,6 @@
         "Rsamtools"
     ],
     "QFeatures": [
-        "AnnotationFilter",
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "htmlwidgets",
@@ -14201,7 +14119,6 @@
     ],
     "qrqc": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -14303,7 +14220,6 @@
     "qvalue": [],
     "R3CPET": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -14635,7 +14551,6 @@
     ],
     "REDseq": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BSgenome.Celegans.UCSC.ce2",
         "BiocFileCache",
@@ -14728,7 +14643,6 @@
     ],
     "regutools": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -14794,7 +14708,6 @@
     ],
     "ReportingTools": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationForge",
         "BSgenome",
         "BiocFileCache",
@@ -15020,7 +14933,6 @@
     ],
     "RiboProfiling": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -15101,7 +15013,6 @@
     ],
     "RIPAT": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -15132,7 +15043,6 @@
     ],
     "RITAN": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BgeeDB",
         "BiocFileCache",
         "EnsDb.Hsapiens.v86",
@@ -15293,7 +15203,6 @@
     ],
     "RNAmodR": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -15316,7 +15225,6 @@
     ],
     "RNAmodR.AlkAnilineSeq": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -15340,7 +15248,6 @@
     ],
     "RNAmodR.ML": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -15364,7 +15271,6 @@
     ],
     "RNAmodR.RiboMethSeq": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -15561,7 +15467,6 @@
     ],
     "Rqc": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "BiocStyle",
@@ -15868,7 +15773,6 @@
     ],
     "scanMiRApp": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -16252,7 +16156,6 @@
         "rtracklayer"
     ],
     "scp": [
-        "AnnotationFilter",
         "MultiAssayExperiment",
         "QFeatures",
         "SingleCellExperiment",
@@ -16318,7 +16221,6 @@
     ],
     "scruff": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -16445,7 +16347,6 @@
     ],
     "scTreeViz": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "BiocSingular",
         "GenomicAlignments",
@@ -16862,7 +16763,6 @@
     ],
     "signifinder": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "BiocSingular",
         "DGEobj.utils",
@@ -16990,7 +16890,6 @@
     ],
     "singleCellTK": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BiocFileCache",
         "BiocSingular",
@@ -17261,7 +17160,6 @@
     ],
     "SomaticSignatures": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -17429,7 +17327,6 @@
     ],
     "spatzie": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "CNEr",
@@ -17580,7 +17477,6 @@
     ],
     "SPLINTER": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BSgenome.Mmusculus.UCSC.mm9",
         "BiocFileCache",
@@ -17696,7 +17592,6 @@
     ],
     "srnadiff": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "BiocStyle",
@@ -17772,7 +17667,6 @@
     ],
     "STAN": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -18273,7 +18167,6 @@
     ],
     "TCGAbiolinksGUI": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -18720,7 +18613,6 @@
     ],
     "trackViewer": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GenomicAlignments",
@@ -19007,7 +18899,6 @@
     ],
     "TVTB": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "GGally",
@@ -19045,7 +18936,6 @@
     ],
     "tximeta": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
@@ -19067,7 +18957,6 @@
     ],
     "Ularcirc": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -19120,7 +19009,6 @@
     ],
     "uncoverappLib": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -19263,7 +19151,6 @@
     ],
     "VariantFiltering": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BSgenome",
         "BiocFileCache",
@@ -19470,7 +19357,6 @@
     ],
     "vulcan": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
         "ChIPpeakAnno",
@@ -19645,7 +19531,6 @@
     ],
     "YAPSA": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "BiocFileCache",
@@ -20751,7 +20636,6 @@
     ],
     "EnsDb.Hsapiens.v86": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -21249,7 +21133,6 @@
     ],
     "EnsDb.Hsapiens.v75": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -21561,7 +21444,6 @@
     ],
     "EnsDb.Mmusculus.v79": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -21575,7 +21457,6 @@
     ],
     "EnsDb.Rnorvegicus.v79": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "BiocFileCache",
         "GenomicAlignments",
         "GenomicFeatures",
@@ -21792,7 +21673,6 @@
     ],
     "scRNAseq": [
         "AnnotationDbi",
-        "AnnotationFilter",
         "AnnotationHub",
         "BiocFileCache",
         "DT",
