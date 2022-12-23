@@ -1548,8 +1548,7 @@
         "NxtIRFdata"
     ],
     "octad": [
-        "RUVSeq",
-        "octad.db"
+        "RUVSeq"
     ],
     "ODER": [
         "GenomicFiles",
@@ -2528,7 +2527,6 @@
         "car"
     ],
     "NxtIRFdata": [],
-    "octad.db": [],
     "diceR": [],
     "AICcmodavg": [],
     "genlasso": [],
