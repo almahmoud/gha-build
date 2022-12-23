@@ -44547,7 +44547,6 @@
     ],
     "TileDBArray": [
         "DelayedArray",
-        "spdl",
         "tiledb"
     ],
     "tilingArray": [
@@ -54133,10 +54132,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "tiledb": [
-        "spdl"
-    ],
-    "spdl": [],
+    "tiledb": [],
     "FreqProf": [
         "bslib",
         "ggplot2",
