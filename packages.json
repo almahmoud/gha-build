@@ -28530,7 +28530,6 @@
         "RISmed",
         "RSQLite",
         "VarfromPDB",
-        "XML2R",
         "XVector",
         "blob",
         "broom",
@@ -52503,12 +52502,10 @@
     ],
     "VarfromPDB": [
         "RISmed",
-        "XML2R",
         "httr",
         "stringr",
         "vctrs"
     ],
-    "XML2R": [],
     "mppa": [],
     "ICSNP": [
         "ICS",
