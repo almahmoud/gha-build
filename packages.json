@@ -9453,7 +9453,6 @@
         "intergraph",
         "network",
         "patchwork",
-        "pathwayPCA",
         "qvalue",
         "reshape2",
         "scatterpie",
@@ -19636,7 +19635,6 @@
         "KEGGREST",
         "org.Hs.eg.db"
     ],
-    "pathwayPCA": [],
     "paxtoolsr": [
         "readr",
         "tibble",
