@@ -8988,7 +8988,6 @@
         "GenomicFeatures",
         "HDF5Array",
         "RnBeads",
-        "RnBeads.hg19",
         "Rsamtools",
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -20159,7 +20158,6 @@
     "bigstatsr": [
         "cowplot"
     ],
-    "RnBeads.hg19": [],
     "depmap": [
         "AnnotationDbi",
         "AnnotationHub",
