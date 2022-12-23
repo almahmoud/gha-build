@@ -37211,8 +37211,7 @@
         "GenomicRanges",
         "Rsamtools",
         "XVector",
-        "stringr",
-        "tractor.base"
+        "stringr"
     ],
     "trackViewer": [
         "AnnotationDbi",
@@ -44542,7 +44541,6 @@
         "vroom"
     ],
     "animation": [],
-    "tractor.base": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
