@@ -2586,7 +2586,6 @@
         "dendextend",
         "viridis"
     ],
-    "goProfiles": [],
     "goseq": [
         "GenomicFeatures",
         "geneLenDataBase"
@@ -2600,7 +2599,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "goProfiles",
         "viridis"
     ],
     "goSTAG": [],
