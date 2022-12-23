@@ -435,7 +435,6 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "DEComplexDisease": [],
     "decompTumor2Sig": [],
     "deconvR": [
         "minfi"
