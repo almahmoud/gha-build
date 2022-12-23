@@ -37919,7 +37919,6 @@
         "httpuv",
         "jquerylib",
         "pillar",
-        "rcellminerData",
         "sass",
         "shiny",
         "stringr",
@@ -58628,7 +58627,6 @@
         "tibble",
         "tidyselect"
     ],
-    "rcellminerData": [],
     "arrow": [
         "purrr",
         "tidyselect"
