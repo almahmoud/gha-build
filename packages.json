@@ -3349,7 +3349,6 @@
         "gprofiler2"
     ],
     "hca": [],
-    "heatmaps": [],
     "HelloRanges": [
         "BSgenome",
         "GenomicFeatures",
