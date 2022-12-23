@@ -7340,7 +7340,6 @@
         "rtracklayer"
     ],
     "ribor": [],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "BSgenome",
         "CNEr",
