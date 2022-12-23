@@ -4303,8 +4303,7 @@
         "viridis"
     ],
     "LACE": [
-        "biomaRt",
-        "sortable"
+        "biomaRt"
     ],
     "LedPred": [],
     "lefser": [
@@ -5649,7 +5648,6 @@
         "pbkrtest",
         "rstatix",
         "rtracklayer",
-        "sortable",
         "viridis"
     ],
     "MutationalPatterns": [
@@ -9805,7 +9803,6 @@
     "hgu95av2.db": [
         "org.Hs.eg.db"
     ],
-    "sortable": [],
     "reldist": [],
     "adabag": [
         "caret"
