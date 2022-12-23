@@ -402,12 +402,9 @@
     ],
     "cosmosR": [],
     "crisprDesign": [
-        "crisprScore",
-        "crisprScoreData"
+        "crisprScore"
     ],
-    "crisprScore": [
-        "crisprScoreData"
-    ],
+    "crisprScore": [],
     "crisprseekplus": [
         "ChIPpeakAnno",
         "GUIDEseq",
@@ -418,7 +415,6 @@
         "biovizBase",
         "crisprDesign",
         "crisprScore",
-        "crisprScoreData",
         "crisprViz",
         "ensembldb"
     ],
@@ -427,7 +423,6 @@
         "biovizBase",
         "crisprDesign",
         "crisprScore",
-        "crisprScoreData",
         "ensembldb"
     ],
     "cTRAP": [
@@ -2134,7 +2129,6 @@
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi"
     ],
-    "crisprScoreData": [],
     "text2vec": [
         "mlapi"
     ],
