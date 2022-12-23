@@ -3515,7 +3515,6 @@
         "annotate",
         "dendextend",
         "geneplotter",
-        "tippy",
         "viridis"
     ],
     "geneXtendeR": [
@@ -10199,7 +10198,6 @@
     "logistf": [
         "mice"
     ],
-    "tippy": [],
     "robust": [],
     "shinyHeatmaply": [
         "dendextend",
