@@ -5713,8 +5713,7 @@
         "rtracklayer"
     ],
     "PrInCE": [
-        "Hmisc",
-        "forecast"
+        "Hmisc"
     ],
     "proActiv": [
         "DESeq2",
@@ -8773,7 +8772,6 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "forecast": [],
     "EnsDb.Mmusculus.v79": [
         "GenomicFeatures",
         "ensembldb",
