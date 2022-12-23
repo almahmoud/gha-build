@@ -44475,7 +44475,6 @@
         "hms",
         "httr",
         "latticeExtra",
-        "mclustcomp",
         "patchwork",
         "pillar",
         "progress",
@@ -56179,7 +56178,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "mclustcomp": [],
     "MLmetrics": [
         "ROCR",
         "gplots"
