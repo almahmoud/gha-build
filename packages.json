@@ -5264,7 +5264,6 @@
     ],
     "GSEAmining": [
         "dendextend",
-        "ggwordcloud",
         "viridis"
     ],
     "gsean": [
@@ -7291,7 +7290,6 @@
         "ggpubr",
         "ggraph",
         "ggtree",
-        "ggwordcloud",
         "graphite",
         "groupdata2",
         "gson",
@@ -12851,7 +12849,6 @@
         "annotate",
         "ggforce",
         "ggraph",
-        "ggwordcloud",
         "interactiveDisplayBase",
         "lexicon",
         "msigdb",
@@ -13905,7 +13902,6 @@
         "broom"
     ],
     "epiR": [],
-    "ggwordcloud": [],
     "HiContactsData": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -14077,9 +14073,7 @@
         "viridis"
     ],
     "subspace": [],
-    "SOMbrero": [
-        "ggwordcloud"
-    ],
+    "SOMbrero": [],
     "cvms": [
         "groupdata2",
         "lme4",
