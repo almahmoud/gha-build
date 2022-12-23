@@ -1611,7 +1611,6 @@
         "KEGGREST",
         "htmlTable",
         "htmlwidgets",
-        "imager",
         "precrec",
         "rmarkdown",
         "rms",
@@ -16034,7 +16033,6 @@
         "KEGGREST",
         "dbplyr",
         "htmlwidgets",
-        "imager",
         "interactiveDisplayBase",
         "rGenomeTracksData",
         "rmarkdown"
@@ -21863,7 +21861,6 @@
         "viridis"
     ],
     "precrec": [],
-    "imager": [],
     "xlsx": [],
     "synaptome.db": [
         "AnnotationDbi",
