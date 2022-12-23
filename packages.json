@@ -3112,7 +3112,6 @@
         "ggraph",
         "viridis"
     ],
-    "netOmics": [],
     "NetSAM": [
         "Hmisc",
         "WGCNA",
