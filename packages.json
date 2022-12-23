@@ -2640,9 +2640,7 @@
         "annotate",
         "rhdf5"
     ],
-    "esetVis": [
-        "MLP"
-    ],
+    "esetVis": [],
     "EventPointer": [
         "BSgenome",
         "GenomicFeatures",
@@ -4751,7 +4749,6 @@
         "annotate",
         "genefilter"
     ],
-    "MLP": [],
     "MLSeq": [
         "DESeq2",
         "annotate",
