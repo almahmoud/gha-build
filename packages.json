@@ -5410,7 +5410,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "EnrichedHeatmap": [],
     "EnrichmentBrowser": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -6104,7 +6103,6 @@
         "BSgenome",
         "BiocFileCache",
         "ComplexUpset",
-        "EnrichedHeatmap",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicInteractions",
@@ -13631,7 +13629,6 @@
         "ChIPseeker",
         "DOSE",
         "DT",
-        "EnrichedHeatmap",
         "GO.db",
         "GOSemSim",
         "GenomicAlignments",
