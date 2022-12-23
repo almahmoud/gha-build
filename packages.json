@@ -634,9 +634,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "FRASER": [
-        "OUTRIDER"
-    ],
+    "FRASER": [],
     "frenchFISH": [
         "NHPoisson",
         "car"
@@ -1239,7 +1237,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "OUTRIDER": [],
     "padma": [
         "FactoMineR",
         "car"
