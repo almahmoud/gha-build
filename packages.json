@@ -1,13 +1,11 @@
 {
     "a4": [
-        "GO.db",
         "a4Base",
         "annaffy",
         "annotate",
         "genefilter"
     ],
     "a4Base": [
-        "GO.db",
         "annaffy",
         "annotate",
         "genefilter"
@@ -23,12 +21,9 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAM": [
-        "GO.db"
-    ],
+    "ADAM": [],
     "ADAMgui": [
         "ADAM",
-        "GO.db",
         "car",
         "ggpubr",
         "lme4",
@@ -43,16 +38,13 @@
         "interactiveDisplayBase"
     ],
     "ADImpute": [],
-    "adSplit": [
-        "GO.db"
-    ],
+    "adSplit": [],
     "AffiXcan": [],
     "affycoretools": [
         "AnnotationForge",
         "BSgenome",
         "Category",
         "DESeq2",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
@@ -81,7 +73,6 @@
         "BSgenome",
         "Category",
         "DESeq2",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
@@ -157,9 +148,7 @@
         "caret",
         "geneplotter"
     ],
-    "annaffy": [
-        "GO.db"
-    ],
+    "annaffy": [],
     "annmap": [
         "annotate",
         "genefilter"
@@ -208,7 +197,6 @@
         "org.Sc.sgd.db"
     ],
     "APL": [
-        "GO.db",
         "Seurat",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -219,7 +207,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "COSMIC.67",
-        "GO.db",
         "GenomicFeatures",
         "GenomicScores",
         "Homo.sapiens",
@@ -309,7 +296,6 @@
         "BSgenome.Mmusculus.UCSC.mm10",
         "CNEr",
         "CoGAPS",
-        "GO.db",
         "GenomicFeatures",
         "Homo.sapiens",
         "Mus.musculus",
@@ -334,7 +320,6 @@
         "BSgenome",
         "CNEr",
         "ChIPpeakAnno",
-        "GO.db",
         "GenomicFeatures",
         "GenomicScores",
         "TFBSTools",
@@ -348,7 +333,6 @@
     "ATACseqTFEA": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "TFBSTools",
         "annotate",
         "motifmatchr",
@@ -361,7 +345,6 @@
     "atSNP": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "TFBSTools",
         "annotate",
         "motifStack",
@@ -370,7 +353,6 @@
     "attract": [
         "AnnotationForge",
         "Category",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "annotate",
@@ -492,7 +474,6 @@
         "rtracklayer"
     ],
     "BgeeDB": [
-        "GO.db",
         "topGO"
     ],
     "BicARE": [
@@ -532,7 +513,6 @@
     "bioCancer": [
         "DOSE",
         "DiagrammeR",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "ReactomePA",
@@ -603,7 +583,6 @@
         "biodb"
     ],
     "BioMM": [
-        "GO.db",
         "Hmisc",
         "rms",
         "topGO"
@@ -620,7 +599,6 @@
     ],
     "BioNAR": [
         "AnnotationHub",
-        "GO.db",
         "Hmisc",
         "WGCNA",
         "interactiveDisplayBase",
@@ -629,7 +607,6 @@
         "synaptome.db"
     ],
     "BioNERO": [
-        "GO.db",
         "Hmisc",
         "WGCNA",
         "annotate",
@@ -664,7 +641,6 @@
         "BSgenome",
         "CGHcall",
         "ExperimentHub",
-        "GO.db",
         "GenomicFeatures",
         "Homo.sapiens",
         "Mus.musculus",
@@ -835,7 +811,6 @@
     "cageminer": [
         "BSgenome",
         "BioNERO",
-        "GO.db",
         "GenomicFeatures",
         "Hmisc",
         "OrganismDbi",
@@ -902,7 +877,6 @@
     "categoryCompare": [
         "AnnotationForge",
         "Category",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "annotate",
@@ -962,7 +936,6 @@
         "scuttle"
     ],
     "cellity": [
-        "GO.db",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "topGO"
@@ -983,12 +956,10 @@
         "dendextend"
     ],
     "cellTree": [
-        "GO.db",
         "topGO"
     ],
     "CEMiTool": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "Hmisc",
@@ -1019,7 +990,6 @@
     "CeTF": [
         "DESeq2",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "GenomicTools",
         "HDO.db",
@@ -1063,7 +1033,6 @@
         "DSS",
         "ExperimentHub",
         "FDb.InfiniumMethylation.hg19",
-        "GO.db",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -1175,7 +1144,6 @@
     ],
     "ChIPseeker": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "GenomicFeatures",
         "HDO.db",
@@ -1219,7 +1187,6 @@
     "chromVAR": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "TFBSTools",
         "annotate",
         "rtracklayer"
@@ -1296,7 +1263,6 @@
     ],
     "clusterProfiler": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "enrichplot",
@@ -1310,7 +1276,6 @@
     ],
     "cn.mops": [],
     "CNEr": [
-        "GO.db",
         "annotate",
         "rtracklayer"
     ],
@@ -1424,7 +1389,6 @@
     "COMPASS": [],
     "compEpiTools": [
         "BSgenome",
-        "GO.db",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -1442,7 +1406,6 @@
     "conclus": [
         "DOSE",
         "FactoMineR",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "car",
@@ -1505,7 +1468,6 @@
         "rtracklayer"
     ],
     "consICA": [
-        "GO.db",
         "org.Hs.eg.db",
         "topGO"
     ],
@@ -1670,7 +1632,6 @@
         "sva"
     ],
     "csdR": [
-        "GO.db",
         "Hmisc",
         "WGCNA"
     ],
@@ -1760,7 +1721,6 @@
     "dagLogo": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "TFBSTools",
         "UniProt.ws",
         "annotate",
@@ -1832,7 +1792,6 @@
     "debrowser": [
         "DESeq2",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "annotate",
@@ -2005,7 +1964,6 @@
         "systemPipeR"
     ],
     "diffcoexp": [
-        "GO.db",
         "Hmisc",
         "WGCNA"
     ],
@@ -2068,7 +2026,6 @@
         "DSS",
         "ExperimentHub",
         "FDb.InfiniumMethylation.hg19",
-        "GO.db",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -2134,7 +2091,6 @@
         "pbkrtest"
     ],
     "DOSE": [
-        "GO.db",
         "GOSemSim",
         "HDO.db"
     ],
@@ -2191,7 +2147,6 @@
     ],
     "EasyCellType": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "clusterProfiler",
@@ -2230,7 +2185,6 @@
     "eegc": [
         "DESeq2",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "annotate",
@@ -2245,7 +2199,6 @@
     ],
     "EGAD": [],
     "EGSEA": [
-        "GO.db",
         "GSEABase",
         "GSVA",
         "PADOG",
@@ -2282,7 +2235,6 @@
     "enhancerHomologSearch": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "TFBSTools",
         "annotate",
         "motifmatchr",
@@ -2301,7 +2253,6 @@
         "rtracklayer"
     ],
     "EnrichmentBrowser": [
-        "GO.db",
         "GSEABase",
         "annotate",
         "org.Hs.eg.db",
@@ -2310,7 +2261,6 @@
     ],
     "enrichplot": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "ggtree",
@@ -2321,7 +2271,6 @@
         "BSgenome",
         "CNEr",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "TFBSTools",
@@ -2364,7 +2313,6 @@
         "ChIPseeker",
         "DESeq2",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "GenomicFeatures",
         "HDO.db",
@@ -2405,7 +2353,6 @@
     "epihet": [
         "DOSE",
         "EntropyExplorer",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "Hmisc",
@@ -2429,7 +2376,6 @@
         "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
-        "GO.db",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -2497,7 +2443,6 @@
     ],
     "erma": [
         "BSgenome",
-        "GO.db",
         "GenomicFeatures",
         "GenomicFiles",
         "Homo.sapiens",
@@ -2517,7 +2462,6 @@
         "CNEr",
         "ChIPseeker",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "GenomicFeatures",
         "HDO.db",
@@ -2621,7 +2565,6 @@
     ],
     "famat": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "clusterProfiler",
@@ -2634,7 +2577,6 @@
         "treeio"
     ],
     "fastLiquidAssociation": [
-        "GO.db",
         "Hmisc",
         "LiquidAssociation",
         "WGCNA",
@@ -2654,7 +2596,6 @@
     "fCI": [],
     "fcoex": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "clusterProfiler",
@@ -2766,7 +2707,6 @@
         "textclean"
     ],
     "FoldGO": [
-        "GO.db",
         "topGO"
     ],
     "FRASER": [
@@ -2829,9 +2769,7 @@
         "VariantAnnotation",
         "rtracklayer"
     ],
-    "gage": [
-        "GO.db"
-    ],
+    "gage": [],
     "GARS": [
         "DESeq2",
         "DaMiRseq",
@@ -2865,7 +2803,6 @@
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "annotate",
@@ -2948,14 +2885,12 @@
     ],
     "GeneTonic": [
         "DESeq2",
-        "GO.db",
         "annotate",
         "bs4Dash",
         "dendextend",
         "geneplotter"
     ],
     "geneXtendeR": [
-        "GO.db",
         "org.Rn.eg.db",
         "rtracklayer"
     ],
@@ -2977,7 +2912,6 @@
         "mixtools"
     ],
     "GenomicInteractionNodes": [
-        "GO.db",
         "GenomicFeatures",
         "rtracklayer"
     ],
@@ -3154,7 +3088,6 @@
     "GmicR": [
         "AnnotationForge",
         "Category",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "Hmisc",
@@ -3175,31 +3108,23 @@
     "GOexpress": [],
     "GOfuncR": [],
     "GOpro": [
-        "GO.db",
         "dendextend",
         "org.Hs.eg.db"
     ],
-    "goProfiles": [
-        "GO.db"
-    ],
-    "GOSemSim": [
-        "GO.db"
-    ],
+    "goProfiles": [],
+    "GOSemSim": [],
     "goseq": [
-        "GO.db",
         "GenomicFeatures",
         "geneLenDataBase",
         "rtracklayer"
     ],
     "GOSim": [
-        "GO.db",
         "annotate",
         "org.Hs.eg.db",
         "topGO"
     ],
     "goSorensen": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "clusterProfiler",
@@ -3210,13 +3135,10 @@
         "scatterpie",
         "treeio"
     ],
-    "goSTAG": [
-        "GO.db"
-    ],
+    "goSTAG": [],
     "GOstats": [
         "AnnotationForge",
         "Category",
-        "GO.db",
         "GSEABase",
         "annotate",
         "genefilter"
@@ -3226,14 +3148,11 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "goTools": [
-        "GO.db"
-    ],
+    "goTools": [],
     "GPA": [],
     "gpuMagic": [],
     "GRaNIE": [
         "DESeq2",
-        "GO.db",
         "annotate",
         "geneplotter",
         "topGO"
@@ -3263,7 +3182,6 @@
         "AnnotationHub",
         "EnrichmentBrowser",
         "ExperimentHub",
-        "GO.db",
         "GSEABase",
         "annotate",
         "interactiveDisplayBase",
@@ -3278,7 +3196,6 @@
         "PPInfer"
     ],
     "GSReg": [
-        "GO.db",
         "GenomicFeatures",
         "Homo.sapiens",
         "OrganismDbi",
@@ -3343,7 +3260,6 @@
         "rtracklayer"
     ],
     "GWENA": [
-        "GO.db",
         "Hmisc",
         "WGCNA",
         "gprofiler2"
@@ -3494,7 +3410,6 @@
         "AnnotationForge",
         "Category",
         "DESeq2",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
@@ -3643,7 +3558,6 @@
     ],
     "IRISFGM": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "Seurat",
@@ -3832,7 +3746,6 @@
         "AnVIL",
         "BSgenome",
         "CNEr",
-        "GO.db",
         "GenomicFeatures",
         "RTCGAToolbox",
         "TCGAutils",
@@ -3886,7 +3799,6 @@
         "pbkrtest"
     ],
     "Macarron": [
-        "GO.db",
         "Hmisc",
         "Maaslin2",
         "WGCNA",
@@ -3931,7 +3843,6 @@
         "AnnotationHub",
         "DOSE",
         "ExperimentHub",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "clusterProfiler",
@@ -3986,7 +3897,6 @@
     "MatrixRider": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "TFBSTools",
         "annotate",
         "rtracklayer"
@@ -4003,7 +3913,6 @@
         "benchmarkme"
     ],
     "mbOmic": [
-        "GO.db",
         "Hmisc",
         "WGCNA"
     ],
@@ -4014,14 +3923,12 @@
     ],
     "MBQN": [],
     "MCbiclust": [
-        "GO.db",
         "Hmisc",
         "WGCNA",
         "org.Hs.eg.db"
     ],
     "mCSEA": [
         "BSgenome",
-        "GO.db",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -4038,7 +3945,6 @@
     "MEAL": [
         "BSgenome",
         "FDb.InfiniumMethylation.hg19",
-        "GO.db",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -4102,7 +4008,6 @@
     "meshes": [
         "AnnotationHub",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "MeSHDbi",
@@ -4170,7 +4075,6 @@
     ],
     "MetaPhOR": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "clusterProfiler",
@@ -4286,7 +4190,6 @@
     "methylGSA": [
         "DOSE",
         "FDb.InfiniumMethylation.hg19",
-        "GO.db",
         "GOSemSim",
         "GenomicFeatures",
         "HDO.db",
@@ -4411,7 +4314,6 @@
     ],
     "MicrobiomeProfiler": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "clusterProfiler",
@@ -4432,7 +4334,6 @@
     "MIGSA": [
         "AnnotationForge",
         "Category",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "annotate",
@@ -4451,7 +4352,6 @@
         "AnnotationForge",
         "Category",
         "FDb.InfiniumMethylation.hg19",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
@@ -4494,7 +4394,6 @@
     "miRLAB": [
         "AnnotationForge",
         "Category",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "Hmisc",
@@ -4511,7 +4410,6 @@
         "BiBitR",
         "BicARE",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "GSEABase",
         "HDO.db",
@@ -4546,7 +4444,6 @@
     ],
     "miRspongeR": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "ReactomePA",
@@ -4571,7 +4468,6 @@
     ],
     "missMethyl": [
         "FDb.InfiniumMethylation.hg19",
-        "GO.db",
         "GenomicFeatures",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -4636,14 +4532,12 @@
     ],
     "mnem": [],
     "moanin": [
-        "GO.db",
         "topGO"
     ],
     "MobilityTransformR": [
         "xcms"
     ],
     "MODA": [
-        "GO.db",
         "Hmisc",
         "WGCNA"
     ],
@@ -4657,7 +4551,6 @@
     "monaLisa": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "TFBSTools",
         "annotate",
         "rtracklayer"
@@ -4665,7 +4558,6 @@
     "monocle": [],
     "MoonlightR": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "HiveR",
@@ -4688,7 +4580,6 @@
     "motifbreakR": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -4707,7 +4598,6 @@
     "motifmatchr": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "TFBSTools",
         "annotate",
         "rtracklayer"
@@ -4715,7 +4605,6 @@
     "motifStack": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "TFBSTools",
         "annotate",
         "rtracklayer"
@@ -4869,7 +4758,6 @@
     "multiSight": [
         "DESeq2",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "MultiDataSet",
@@ -4969,7 +4857,6 @@
         "BSgenome",
         "CNEr",
         "ChIPpeakAnno",
-        "GO.db",
         "GenomicFeatures",
         "GenomicScores",
         "Gviz",
@@ -5036,13 +4923,11 @@
         "geneplotter"
     ],
     "netboost": [
-        "GO.db",
         "Hmisc",
         "WGCNA"
     ],
     "netboxr": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "clusterProfiler",
@@ -5053,14 +4938,12 @@
     ],
     "netDx": [],
     "netOmics": [
-        "GO.db",
         "RandomWalkRestartMH",
         "dnet",
         "gprofiler2"
     ],
     "netresponse": [],
     "NetSAM": [
-        "GO.db",
         "Hmisc",
         "WGCNA"
     ],
@@ -5078,7 +4961,6 @@
     "netZooR": [
         "AnnotationForge",
         "Category",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
@@ -5105,7 +4987,6 @@
         "nloptr"
     ],
     "NoRCE": [
-        "GO.db",
         "GenomicFeatures",
         "reactome.db",
         "rtracklayer"
@@ -5202,7 +5083,6 @@
         "questionr"
     ],
     "OmaDB": [
-        "GO.db",
         "topGO"
     ],
     "omicade4": [],
@@ -5356,7 +5236,6 @@
     "pageRank": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "TFBSTools",
         "annotate",
         "motifmatchr",
@@ -5370,7 +5249,6 @@
     ],
     "PanomiR": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "GSEABase",
         "HDO.db",
@@ -5384,7 +5262,6 @@
     ],
     "pareg": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "nloptr",
@@ -5407,7 +5284,6 @@
         "AnnotationForge",
         "Category",
         "DESeq2",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "annotate",
@@ -5456,7 +5332,6 @@
     ],
     "PFP": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "clusterProfiler",
@@ -5514,7 +5389,6 @@
     "PhyloProfile": [
         "AnnotationHub",
         "ExperimentHub",
-        "GO.db",
         "OmaDB",
         "interactiveDisplayBase",
         "topGO"
@@ -5528,7 +5402,6 @@
     "PICS": [],
     "Pigengene": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "Hmisc",
@@ -5567,7 +5440,6 @@
     "PloGO2": [
         "AnnotationForge",
         "Category",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "annotate",
@@ -5645,7 +5517,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
         "CNEr",
-        "GO.db",
         "GenomicFeatures",
         "GenomicScores",
         "Gviz",
@@ -5674,7 +5545,6 @@
         "rtracklayer"
     ],
     "proBatch": [
-        "GO.db",
         "Hmisc",
         "WGCNA",
         "annotate",
@@ -5692,7 +5562,6 @@
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "GenomicFeatures",
         "HDO.db",
@@ -5753,7 +5622,6 @@
         "EnsDb.Hsapiens.v86",
         "EnsDb.Mmusculus.v79",
         "EnsDb.Rnorvegicus.v79",
-        "GO.db",
         "GOSemSim",
         "GenomicFeatures",
         "Rcpi",
@@ -5798,7 +5666,6 @@
     ],
     "psygenet2r": [
         "BgeeDB",
-        "GO.db",
         "topGO"
     ],
     "ptairMS": [
@@ -5979,7 +5846,6 @@
     ],
     "RCM": [],
     "Rcpi": [
-        "GO.db",
         "GOSemSim"
     ],
     "Rcwl": [
@@ -5993,7 +5859,6 @@
     "ReactomeGraph4R": [],
     "ReactomePA": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "enrichplot",
@@ -6042,7 +5907,6 @@
     "RegEnrich": [
         "DESeq2",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "Hmisc",
@@ -6110,7 +5974,6 @@
         "BSgenome",
         "Category",
         "DESeq2",
-        "GO.db",
         "GOstats",
         "GSEABase",
         "GenomicFeatures",
@@ -6135,7 +5998,6 @@
     "restfulSE": [
         "AnnotationHub",
         "ExperimentHub",
-        "GO.db",
         "interactiveDisplayBase"
     ],
     "rexposome": [
@@ -6167,7 +6029,6 @@
         "rtracklayer"
     ],
     "rGREAT": [
-        "GO.db",
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -6176,7 +6037,6 @@
     ],
     "rgsepd": [
         "DESeq2",
-        "GO.db",
         "GenomicFeatures",
         "annotate",
         "geneLenDataBase",
@@ -6223,7 +6083,6 @@
         "BSgenome",
         "CNEr",
         "EDASeq",
-        "GO.db",
         "GenomicFeatures",
         "RUVSeq",
         "ShortRead",
@@ -6260,7 +6119,6 @@
     "RITAN": [
         "BgeeDB",
         "EnsDb.Hsapiens.v86",
-        "GO.db",
         "GenomicFeatures",
         "ensembldb",
         "rtracklayer",
@@ -6375,7 +6233,6 @@
         "DESeq2",
         "DOSE",
         "FactoMineR",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "ShortRead",
@@ -6464,7 +6321,6 @@
     ],
     "rqubic": [],
     "rrvgo": [
-        "GO.db",
         "GOSemSim"
     ],
     "RSVSim": [
@@ -6717,7 +6573,6 @@
         "AnnotationHub",
         "Category",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "GOstats",
         "GSEABase",
@@ -6767,7 +6622,6 @@
     "segmenter": [
         "ChIPseeker",
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "GenomicFeatures",
         "HDO.db",
@@ -6790,11 +6644,9 @@
         "rtracklayer"
     ],
     "SemDist": [
-        "GO.db",
         "annotate"
     ],
     "seq2pathway": [
-        "GO.db",
         "Hmisc",
         "WGCNA"
     ],
@@ -6875,7 +6727,6 @@
         "AnnotationHub",
         "DOSE",
         "ExperimentHub",
-        "GO.db",
         "GOSemSim",
         "GSEABase",
         "HDO.db",
@@ -6946,7 +6797,6 @@
         "scuttle"
     ],
     "simplifyEnrichment": [
-        "GO.db",
         "GOSemSim",
         "org.Hs.eg.db"
     ],
@@ -7052,7 +6902,6 @@
         "TrajectoryUtils"
     ],
     "SMITE": [
-        "GO.db",
         "GenomicFeatures",
         "Hmisc",
         "geneLenDataBase",
@@ -7142,7 +6991,6 @@
         "scuttle"
     ],
     "spatialHeatmap": [
-        "GO.db",
         "Hmisc",
         "WGCNA",
         "annotate",
@@ -7154,7 +7002,6 @@
     "spatzie": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "GenomicFeatures",
         "GenomicInteractions",
         "Gviz",
@@ -7252,7 +7099,6 @@
     ],
     "SPOTlight": [],
     "SPsimSeq": [
-        "GO.db",
         "Hmisc",
         "WGCNA"
     ],
@@ -7473,7 +7319,6 @@
         "DOSE",
         "ELMER",
         "ExperimentHub",
-        "GO.db",
         "GOSemSim",
         "GenomicFeatures",
         "Gviz",
@@ -7519,7 +7364,6 @@
     "tenXplore": [
         "AnnotationHub",
         "ExperimentHub",
-        "GO.db",
         "interactiveDisplayBase",
         "ontoProc",
         "org.Mm.eg.db",
@@ -7537,7 +7381,6 @@
     "TFBSTools": [
         "BSgenome",
         "CNEr",
-        "GO.db",
         "annotate",
         "rtracklayer"
     ],
@@ -7576,7 +7419,6 @@
     ],
     "TimiRGeN": [
         "DOSE",
-        "GO.db",
         "GOSemSim",
         "HDO.db",
         "clusterProfiler",
@@ -7587,7 +7429,6 @@
         "treeio"
     ],
     "TIN": [
-        "GO.db",
         "Hmisc",
         "WGCNA"
     ],
@@ -7624,9 +7465,7 @@
     "tomoda": [],
     "tomoseqr": [],
     "topdownr": [],
-    "topGO": [
-        "GO.db"
-    ],
+    "topGO": [],
     "ToxicoGx": [
         "CoreGx",
         "piano"
@@ -7651,7 +7490,6 @@
     "TrajectoryGeometry": [],
     "TrajectoryUtils": [],
     "transcriptogramer": [
-        "GO.db",
         "topGO"
     ],
     "transcriptR": [
@@ -7666,7 +7504,6 @@
     ],
     "tRanslatome": [
         "DESeq2",
-        "GO.db",
         "GOSemSim",
         "annotate",
         "geneplotter",
@@ -7707,7 +7544,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Mmusculus.UCSC.mm10",
-        "GO.db",
         "Hmisc",
         "MotifDb",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
@@ -7803,7 +7639,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
-        "GO.db",
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
@@ -7916,7 +7751,6 @@
     "ViSEAGO": [
         "AnnotationForge",
         "DiagrammeR",
-        "GO.db",
         "GOSemSim",
         "dendextend",
         "heatmaply",
@@ -7994,7 +7828,6 @@
         "rtracklayer"
     ],
     "webbioc": [
-        "GO.db",
         "annaffy"
     ],
     "wiggleplotr": [
@@ -8045,7 +7878,6 @@
     "zellkonverter": [],
     "zenith": [
         "EnrichmentBrowser",
-        "GO.db",
         "GSEABase",
         "annotate",
         "lme4",
@@ -8061,7 +7893,6 @@
         "annotate",
         "genefilter"
     ],
-    "GO.db": [],
     "ggpubr": [
         "car",
         "lme4",
@@ -8120,7 +7951,6 @@
         "rtracklayer"
     ],
     "Homo.sapiens": [
-        "GO.db",
         "GenomicFeatures",
         "OrganismDbi",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -8185,7 +8015,6 @@
         "modelr"
     ],
     "Mus.musculus": [
-        "GO.db",
         "GenomicFeatures",
         "OrganismDbi",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
@@ -8249,7 +8078,6 @@
         "synaptome.data"
     ],
     "WGCNA": [
-        "GO.db",
         "Hmisc"
     ],
     "synaptome.data": [
