@@ -3020,7 +3020,6 @@
         "org.Hs.eg.db",
         "rtracklayer"
     ],
-    "GeneBreak": [],
     "genefilter": [
         "annotate"
     ],
