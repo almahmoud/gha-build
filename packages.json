@@ -2377,7 +2377,6 @@
         "EBImage",
         "Hmisc",
         "contrast",
-        "flowMerge",
         "htmlTable",
         "rms",
         "viridis"
@@ -4340,7 +4339,6 @@
         "ggiraph",
         "visNetwork"
     ],
-    "flowMerge": [],
     "flowPloidy": [
         "car",
         "lme4",
