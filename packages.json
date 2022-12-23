@@ -11,13 +11,11 @@
     ],
     "adductomicsR": [],
     "affycoretools": [
-        "Glimma",
         "ReportingTools",
         "biovizBase",
         "ggbio"
     ],
     "AgiMicroRna": [
-        "Glimma",
         "ReportingTools",
         "affycoretools",
         "biovizBase",
@@ -683,7 +681,6 @@
         "biovizBase"
     ],
     "ggspavis": [],
-    "Glimma": [],
     "glmSparseNet": [
         "car",
         "ggpubr",
