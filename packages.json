@@ -4017,9 +4017,7 @@
         "TCGAbiolinks",
         "genefilter"
     ],
-    "miRNAmeConverter": [
-        "miRBaseVersions.db"
-    ],
+    "miRNAmeConverter": [],
     "miRSM": [
         "BiBitR",
         "BicARE",
@@ -7723,7 +7721,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "miRBaseVersions.db": [],
     "BiBitR": [
         "dendextend"
     ],
