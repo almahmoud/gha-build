@@ -2149,7 +2149,6 @@
         "mia",
         "miniUI",
         "nloptr",
-        "optimr",
         "patchwork",
         "phyloseq",
         "pillar",
@@ -37769,7 +37768,6 @@
         "biomformat",
         "dplyr",
         "ggplot2",
-        "optimr",
         "phyloseq",
         "pillar",
         "reshape2",
@@ -37786,7 +37784,6 @@
         "tibble",
         "tidyselect"
     ],
-    "optimr": [],
     "sjmisc": [
         "dplyr",
         "pillar",
