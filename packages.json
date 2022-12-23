@@ -7890,7 +7890,6 @@
     ],
     "epistasisGA": [
         "Hmisc",
-        "batchtools",
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
@@ -11604,7 +11603,6 @@
         "KEGGREST",
         "Rsamtools",
         "SummarizedExperiment",
-        "batchtools",
         "biomaRt",
         "cleanUpdTSeq",
         "dbplyr",
@@ -19754,7 +19752,6 @@
     "Rcwl": [
         "DiagrammeR",
         "basilisk",
-        "batchtools",
         "dplyr",
         "ggplot2",
         "htmlwidgets",
@@ -19771,7 +19768,6 @@
         "DiagrammeR",
         "Rcwl",
         "basilisk",
-        "batchtools",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -28752,7 +28748,6 @@
         "knitr",
         "rmarkdown"
     ],
-    "batchtools": [],
     "qgraph": [
         "Hmisc",
         "ggplot2",
