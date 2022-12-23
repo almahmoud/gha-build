@@ -99,12 +99,9 @@
         "rstatix"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "cellmigRation": [
         "FactoMineR"
     ],
@@ -536,7 +533,6 @@
         "spicyR"
     ],
     "LowMACA": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "lumi": [
@@ -927,7 +923,6 @@
         "rstatix",
         "survminer"
     ],
-    "RTCGAToolbox": [],
     "RTN": [],
     "RTNduals": [
         "RTN"
