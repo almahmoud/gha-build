@@ -4265,7 +4265,6 @@
     "isobar": [
         "biomaRt"
     ],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationHub",
         "BSgenome",
