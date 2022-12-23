@@ -24245,7 +24245,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "DriverNet": [],
     "DropletUtils": [
         "Biobase",
         "BiocParallel",
