@@ -19491,7 +19491,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "GSEAlm": [],
     "GSEAmining": [
         "dendextend",
         "dplyr",
