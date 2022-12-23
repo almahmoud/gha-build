@@ -3888,7 +3888,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "MetaVolcanoR": [],
     "MethCP": [
         "BSgenome",
         "DSS",
