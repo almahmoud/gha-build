@@ -9283,7 +9283,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "compositions",
         "edgeR",
         "geneplotter",
         "ggplot2",
@@ -25823,7 +25822,6 @@
         "IRanges",
         "XVector",
         "biomformat",
-        "compositions",
         "dplyr",
         "ggplot2",
         "multtest",
@@ -30575,7 +30573,6 @@
         "SummarizedExperiment",
         "XVector",
         "bslib",
-        "compositions",
         "crosstalk",
         "fontawesome",
         "htmlwidgets",
@@ -39847,7 +39844,6 @@
         "aroma.light",
         "biomaRt",
         "bslib",
-        "compositions",
         "crosstalk",
         "dbplyr",
         "dplyr",
@@ -52062,7 +52058,6 @@
     "HTSCluster": [
         "edgeR"
     ],
-    "compositions": [],
     "faahKO": [
         "BiocParallel",
         "DelayedArray",
