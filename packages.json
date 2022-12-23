@@ -15058,7 +15058,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "UpSetR",
         "annotate",
-        "bigparallelr",
         "bigstatsr",
         "biomaRt",
         "bumphunter",
@@ -34427,7 +34426,6 @@
         "tibble"
     ],
     "bigstatsr": [
-        "bigparallelr",
         "cowplot",
         "ggplot2",
         "tibble"
@@ -34435,7 +34433,6 @@
     "RnBeads.hg19": [
         "GenomicRanges"
     ],
-    "bigparallelr": [],
     "depmap": [
         "AnnotationDbi",
         "AnnotationHub",
