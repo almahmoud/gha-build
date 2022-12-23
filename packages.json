@@ -5622,7 +5622,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "interacCircos": [],
     "InteractionSet": [],
     "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
