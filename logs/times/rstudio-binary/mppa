@@ -1,13 +1,12 @@
 + git pull origin main
 From https://github.com/almahmoud/gha-build
  * branch              main       -> FETCH_HEAD
-   6c7c2ef8..e062270a  main       -> origin/main
-Updating 6c7c2ef8..e062270a
+   714eb932..7c1ae480  main       -> origin/main
+Updating 714eb932..7c1ae480
 Fast-forward
- lists/bigparallelr                 | 2 +-
- logs/run_ids/rstudio-binaries/mGSZ | 2 ++
- packages.json                      | 3 ---
- 3 files changed, 3 insertions(+), 4 deletions(-)
+ logs/run_ids/rstudio-binaries/CancerInSilico | 2 ++
+ logs/run_ids/rstudio-binaries/edge           | 2 ++
+ 2 files changed, 4 insertions(+)
 + export LIBRARY=/__w/gha-build/gha-build/built/
 + LIBRARY=/__w/gha-build/gha-build/built/
 + export PKG=mppa
@@ -25,6 +24,6 @@ Fast-forward
 No dependencies
 + Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''mppa'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
 
-real	0m4.345s
-user	0m3.225s
-sys	0m0.245s
+real	0m5.162s
+user	0m3.636s
+sys	0m0.268s
