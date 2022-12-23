@@ -85773,7 +85773,6 @@
         "fs",
         "futile.logger",
         "lambda.r",
-        "rawrr",
         "snow"
     ],
     "MsCoreUtils": [
@@ -109071,7 +109070,6 @@
         "yaml",
         "zlibbioc"
     ],
-    "rawrr": [],
     "RbcBook1": [
         "Biobase",
         "BiocGenerics",
