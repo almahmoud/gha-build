@@ -4193,7 +4193,6 @@
         "org.Hs.eg.db",
         "pillar",
         "purrr",
-        "rSpectral",
         "rmarkdown",
         "sass",
         "shiny",
@@ -54100,7 +54099,6 @@
     "clusterCons": [
         "apcluster"
     ],
-    "rSpectral": [],
     "WGCNA": [
         "AnnotationDbi",
         "Biostrings",
