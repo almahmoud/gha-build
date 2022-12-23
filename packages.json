@@ -1555,7 +1555,6 @@
         "nloptr",
         "pbkrtest"
     ],
-    "debCAM": [],
     "debrowser": [
         "DESeq2",
         "DOSE",
