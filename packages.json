@@ -33114,7 +33114,6 @@
         "MatrixCorrelation",
         "MatrixModels",
         "MetBrewer",
-        "MuMIn",
         "NMF",
         "RBGL",
         "RSQLite",
@@ -33281,7 +33280,6 @@
         "MCL",
         "MatrixModels",
         "MetBrewer",
-        "MuMIn",
         "RBGL",
         "RSQLite",
         "ReactomePA",
@@ -54018,7 +54016,6 @@
         "KEGGREST",
         "MatrixModels",
         "MetBrewer",
-        "MuMIn",
         "RBGL",
         "RSQLite",
         "Rgraphviz",
@@ -67503,7 +67500,6 @@
         "vctrs"
     ],
     "cvms": [
-        "MuMIn",
         "bayestestR",
         "clock",
         "dplyr",
@@ -67558,7 +67554,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "MuMIn": [],
     "parameters": [
         "bayestestR"
     ],
