@@ -947,8 +947,7 @@
         "car",
         "factoextra",
         "ggpubr",
-        "rstatix",
-        "shinyHeatmaply"
+        "rstatix"
     ],
     "GeomxTools": [],
     "gespeR": [],
@@ -2489,7 +2488,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "shinyHeatmaply": [],
     "HiContactsData": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
     "SmartSVA": [],
