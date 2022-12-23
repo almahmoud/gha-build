@@ -2197,7 +2197,6 @@
         "bumphunter",
         "minfi"
     ],
-    "Repitools": [],
     "ReportingTools": [
         "GOstats",
         "OrganismDbi",
