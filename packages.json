@@ -14184,7 +14184,6 @@
         "R.utils",
         "RSQLite",
         "RWeka",
-        "RWekajars",
         "RcppEigen",
         "Rsamtools",
         "S4Vectors",
@@ -22000,7 +21999,6 @@
         "R.utils",
         "RSQLite",
         "RWeka",
-        "RWekajars",
         "RcppEigen",
         "Rsamtools",
         "S4Vectors",
@@ -70228,8 +70226,7 @@
         "igraph"
     ],
     "FSelector": [
-        "RWeka",
-        "RWekajars"
+        "RWeka"
     ],
     "arm": [
         "RcppEigen",
@@ -70244,9 +70241,7 @@
         "vctrs",
         "waldo"
     ],
-    "RWeka": [
-        "RWekajars"
-    ],
+    "RWeka": [],
     "MSQC": [
         "bslib",
         "htmltools",
@@ -70260,7 +70255,6 @@
         "stringr",
         "vctrs"
     ],
-    "RWekajars": [],
     "DAPARdata": [
         "BiocParallel",
         "IRanges",
