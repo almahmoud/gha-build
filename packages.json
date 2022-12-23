@@ -1854,7 +1854,6 @@
         "htmlTable",
         "htmlwidgets",
         "imager",
-        "multcomp",
         "precrec",
         "rmarkdown",
         "rms",
@@ -2659,7 +2658,6 @@
         "ggsci",
         "ggsignif",
         "lme4",
-        "multcomp",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -3040,7 +3038,6 @@
         "ggsignif",
         "lme4",
         "mice",
-        "multcomp",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -3337,7 +3334,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "multcomp",
         "org.Dm.eg.db",
         "org.Dr.eg.db",
         "org.Hs.eg.db",
@@ -4445,7 +4441,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "multcomp",
         "rmarkdown",
         "rms",
         "viridis"
@@ -5177,7 +5172,6 @@
         "ipred",
         "lme4",
         "mbest",
-        "multcomp",
         "nloptr",
         "pbkrtest",
         "recipes",
@@ -5433,7 +5427,6 @@
         "metap",
         "mnem",
         "modelr",
-        "multcomp",
         "mutoss",
         "org.Hs.eg.db",
         "readr",
@@ -6034,7 +6027,6 @@
         "ggsci",
         "ggsignif",
         "lme4",
-        "multcomp",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -6204,7 +6196,6 @@
         "GenomicRanges",
         "Rsamtools",
         "SummarizedExperiment",
-        "multcomp",
         "rtracklayer"
     ],
     "DMRcaller": [
@@ -6374,7 +6365,6 @@
         "ggplot2",
         "htmlwidgets",
         "lme4",
-        "multcomp",
         "nloptr",
         "pbkrtest",
         "readxl",
@@ -6525,7 +6515,6 @@
         "interactiveDisplayBase",
         "lme4",
         "mixtools",
-        "multcomp",
         "nloptr",
         "pbkrtest",
         "plotly",
@@ -6720,7 +6709,6 @@
         "hgu133plus2.db",
         "htmlwidgets",
         "metap",
-        "multcomp",
         "mutoss",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -9315,7 +9303,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "multcomp",
         "rmarkdown",
         "shiny",
         "viridis"
@@ -9677,7 +9664,6 @@
         "ggplot2",
         "htmlwidgets",
         "lme4",
-        "multcomp",
         "nloptr",
         "pbkrtest",
         "plotly",
@@ -10189,7 +10175,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "multcomp",
         "rmarkdown",
         "shiny",
         "tidyr"
@@ -10632,7 +10617,6 @@
         "ggridges",
         "htmlwidgets",
         "miniUI",
-        "multcomp",
         "patchwork",
         "plotly",
         "rmarkdown",
@@ -11399,8 +11383,7 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "coin",
-        "ggplot2",
-        "multcomp"
+        "ggplot2"
     ],
     "levi": [
         "DT",
@@ -12292,7 +12275,6 @@
         "dplyr",
         "drc",
         "lme4",
-        "multcomp",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -12684,7 +12666,6 @@
         "ggplot2",
         "htmlwidgets",
         "metap",
-        "multcomp",
         "mutoss",
         "plotly",
         "rmarkdown",
@@ -13269,7 +13250,6 @@
         "lmerTest",
         "metagenomeSeq",
         "mia",
-        "multcomp",
         "nloptr",
         "patchwork",
         "phyloseq",
@@ -13345,7 +13325,6 @@
         "ggstar",
         "ggtree",
         "ggtreeExtra",
-        "multcomp",
         "patchwork",
         "tidyr",
         "tidytree",
@@ -14619,7 +14598,6 @@
         "ggplot2",
         "graphite",
         "metap",
-        "multcomp",
         "mutoss"
     ],
     "multiHiCcompare": [
@@ -14686,7 +14664,6 @@
         "metap",
         "miniUI",
         "mixOmics",
-        "multcomp",
         "mutoss",
         "networkD3",
         "patchwork",
@@ -14961,7 +14938,6 @@
         "interactiveDisplayBase",
         "metap",
         "motifStack",
-        "multcomp",
         "mutoss",
         "readr",
         "regioneR",
@@ -16225,7 +16201,6 @@
         "ggtree",
         "gson",
         "metap",
-        "multcomp",
         "mutoss",
         "org.Hs.eg.db",
         "patchwork",
@@ -19499,7 +19474,6 @@
         "htmlwidgets",
         "lme4",
         "metap",
-        "multcomp",
         "mutoss",
         "nloptr",
         "pbkrtest",
@@ -21348,7 +21322,6 @@
         "metap",
         "miniUI",
         "msigdbr",
-        "multcomp",
         "multipanelfigure",
         "mutoss",
         "org.Hs.eg.db",
@@ -22658,7 +22631,6 @@
         "metR",
         "mice",
         "modelr",
-        "multcomp",
         "nloptr",
         "pbkrtest",
         "plotly",
@@ -23664,7 +23636,6 @@
         "ggtree",
         "htmlwidgets",
         "lme4",
-        "multcomp",
         "nloptr",
         "patchwork",
         "pbkrtest",
@@ -25618,7 +25589,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "multcomp",
         "rmarkdown",
         "viridis"
     ],
@@ -25626,7 +25596,6 @@
         "ggplot2"
     ],
     "imager": [],
-    "multcomp": [],
     "synaptome.db": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -25804,7 +25773,6 @@
         "car",
         "dplyr",
         "lme4",
-        "multcomp",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -26202,7 +26170,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "multcomp",
         "rmarkdown",
         "rms",
         "viridis"
@@ -26372,13 +26339,10 @@
     ],
     "metap": [
         "TFisher",
-        "multcomp",
         "mutoss"
     ],
     "TFisher": [],
-    "mutoss": [
-        "multcomp"
-    ],
+    "mutoss": [],
     "DMwR2": [
         "dplyr",
         "quantmod",
@@ -26478,9 +26442,7 @@
         "rmarkdown",
         "shiny"
     ],
-    "coin": [
-        "multcomp"
-    ],
+    "coin": [],
     "ELMER.data": [
         "GenomicRanges"
     ],
@@ -26681,7 +26643,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "multcomp",
         "rmarkdown",
         "shiny",
         "viridis"
