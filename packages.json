@@ -271,7 +271,6 @@
         "speaq",
         "tidyr"
     ],
-    "altcdfenvs": [],
     "AMARETTO": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -8009,9 +8008,7 @@
     "h5vc": [
         "Rsamtools"
     ],
-    "Harshlight": [
-        "altcdfenvs"
-    ],
+    "Harshlight": [],
     "hca": [
         "BiocFileCache",
         "DT",
