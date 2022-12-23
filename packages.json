@@ -1956,7 +1956,6 @@
         "knitr",
         "latticeExtra",
         "prettydoc",
-        "raster",
         "rmarkdown",
         "stringr",
         "tibble",
@@ -6993,7 +6992,6 @@
         "latticeExtra",
         "multcomp",
         "quantreg",
-        "raster",
         "reshape2",
         "rmarkdown",
         "rms",
@@ -8222,7 +8220,6 @@
         "htmlwidgets",
         "httr",
         "knitr",
-        "raster",
         "rmarkdown",
         "scuttle",
         "shiny",
@@ -16332,7 +16329,6 @@
         "httr",
         "knitr",
         "progress",
-        "raster",
         "readr",
         "rmarkdown",
         "scuttle",
@@ -16457,7 +16453,6 @@
         "uwot"
     ],
     "infinityFlow": [
-        "raster",
         "uwot"
     ],
     "InPAS": [
@@ -23742,7 +23737,6 @@
         "pbkrtest",
         "progress",
         "quantreg",
-        "raster",
         "readr",
         "readxl",
         "rematch2",
@@ -32805,7 +32799,6 @@
         "htmlwidgets",
         "httr",
         "knitr",
-        "raster",
         "rmarkdown",
         "scuttle",
         "shiny",
@@ -33822,7 +33815,6 @@
         "knitr",
         "plotly",
         "progress",
-        "raster",
         "reshape2",
         "rmarkdown",
         "scuttle",
@@ -34614,7 +34606,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "raster",
         "reshape2",
         "rmarkdown",
         "scattermore",
@@ -39428,7 +39419,6 @@
         "rmarkdown",
         "stringr"
     ],
-    "raster": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "Biostrings",
@@ -43205,9 +43195,7 @@
         "spatstat.random",
         "tibble"
     ],
-    "elsa": [
-        "raster"
-    ],
+    "elsa": [],
     "miRNAtap.db": [
         "AnnotationDbi",
         "Biostrings",
