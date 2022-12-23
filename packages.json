@@ -169,9 +169,7 @@
         "MSstats",
         "lme4"
     ],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpediaFI": [
         "BSgenome",
         "GenomicFeatures",
@@ -411,9 +409,7 @@
     "BioNetStat": [
         "pathview"
     ],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "BioTIP": [
         "scran"
     ],
@@ -2604,9 +2600,7 @@
         "ggtree",
         "treeio"
     ],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "lisaClust": [
         "DropletUtils",
         "SpatialExperiment",
@@ -3288,9 +3282,7 @@
         "lmerTest"
     ],
     "Mulcom": [],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multiClust": [],
     "multicrispr": [
         "BSgenome",
@@ -3318,7 +3310,6 @@
         "devtools",
         "enrichplot",
         "ggtree",
-        "ropls",
         "treeio"
     ],
     "mumosa": [
@@ -3716,8 +3707,7 @@
         "CoreGx"
     ],
     "phenomis": [
-        "biodbChebi",
-        "ropls"
+        "biodbChebi"
     ],
     "phenoTest": [
         "Category",
@@ -3848,9 +3838,7 @@
         "pvca",
         "sva"
     ],
-    "proFIA": [
-        "ropls"
-    ],
+    "proFIA": [],
     "profileplyr": [
         "ChIPseeker",
         "DOSE",
@@ -4368,7 +4356,6 @@
         "minfi"
     ],
     "roar": [],
-    "ropls": [],
     "RPA": [],
     "Rqc": [
         "BSgenome",
@@ -4381,8 +4368,7 @@
     "rqt": [
         "car",
         "lme4",
-        "pbkrtest",
-        "ropls"
+        "pbkrtest"
     ],
     "rrvgo": [],
     "RSVSim": [],
