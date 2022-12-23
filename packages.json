@@ -149,7 +149,6 @@
         "viridis"
     ],
     "ATACseqQC": [
-        "ChIPpeakAnno",
         "GenomicScores",
         "HDF5Array",
         "motifStack",
@@ -508,7 +507,6 @@
         "biovizBase",
         "viridis"
     ],
-    "ChIPpeakAnno": [],
     "ChIPQC": [],
     "ChIPseeker": [
         "enrichplot",
@@ -705,7 +703,6 @@
     ],
     "crisprseekplus": [
         "CRISPRseek",
-        "ChIPpeakAnno",
         "GUIDEseq",
         "rhdf5"
     ],
@@ -885,9 +882,7 @@
         "ggbio",
         "viridis"
     ],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DEsingle": [
         "gamlss"
     ],
@@ -1418,7 +1413,6 @@
     ],
     "GUIDEseq": [
         "CRISPRseek",
-        "ChIPpeakAnno",
         "rhdf5"
     ],
     "Gviz": [
@@ -2248,7 +2242,6 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
         "GenomicScores",
         "Gviz",
         "HDF5Array",
@@ -2762,9 +2755,7 @@
         "minfi",
         "rhdf5"
     ],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "RefPlus": [
         "affy",
         "affyPLM",
@@ -3616,9 +3607,7 @@
     "vtpnet": [
         "gwascat"
     ],
-    "vulcan": [
-        "ChIPpeakAnno"
-    ],
+    "vulcan": [],
     "wateRmelon": [
         "HDF5Array",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
