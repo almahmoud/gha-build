@@ -15320,7 +15320,6 @@
         "AnnotationDbi",
         "BiocParallel",
         "Biostrings",
-        "DExMAdata",
         "GEOquery",
         "GenomeInfoDb",
         "IRanges",
@@ -68072,7 +68071,6 @@
         "vctrs"
     ],
     "blockmodeling": [],
-    "DExMAdata": [],
     "swamp": [
         "gplots"
     ],
