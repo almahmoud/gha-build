@@ -22556,7 +22556,6 @@
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
-        "SamSPECTRAL",
         "TH.data",
         "base64enc",
         "bitops",
@@ -27732,7 +27731,6 @@
         "RcppEigen",
         "Rgraphviz",
         "S4Vectors",
-        "SamSPECTRAL",
         "XML",
         "bitops",
         "boot",
@@ -98937,7 +98935,6 @@
         "xtable",
         "zlibbioc"
     ],
-    "SamSPECTRAL": [],
     "sangeranalyseR": [
         "BH",
         "BiocStyle",
