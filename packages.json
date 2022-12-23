@@ -3826,7 +3826,6 @@
         "regioneR",
         "valr"
     ],
-    "RMassBank": [],
     "Rmmquant": [
         "DESeq2",
         "GenomicFeatures",
