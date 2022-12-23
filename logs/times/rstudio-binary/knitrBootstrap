@@ -1,0 +1,236 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   031eb33e..24a1aa1b  main       -> origin/main
+Updating 031eb33e..24a1aa1b
+Fast-forward
+ lists/GOsummaries                                 |    2 +-
+ lists/flowTime                                    |    2 +-
+ lists/intergraph                                  |    2 +-
+ logs/run_ids/rstudio-binaries/M3C                 |    2 +
+ logs/run_ids/rstudio-binaries/kableExtra          |    2 +
+ logs/sizes/rstudio-binaries/binaries/GOsummaries  |    1 +
+ logs/sizes/rstudio-binaries/binaries/flowTime     |    1 +
+ logs/sizes/rstudio-binaries/binaries/intergraph   |    1 +
+ logs/sizes/rstudio-binaries/libraries/GOsummaries |    1 +
+ logs/sizes/rstudio-binaries/libraries/flowTime    |    1 +
+ logs/sizes/rstudio-binaries/libraries/intergraph  |    1 +
+ logs/times/rstudio-binary/GOsummaries             | 1232 +++++++++++++++++++++
+ logs/times/rstudio-binary/flowTime                |  910 +++++++++++++++
+ logs/times/rstudio-binary/intergraph              |  429 +++++++
+ packages.json                                     |    8 -
+ 15 files changed, 2584 insertions(+), 11 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/M3C
+ create mode 100644 logs/run_ids/rstudio-binaries/kableExtra
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/GOsummaries
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/flowTime
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/intergraph
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/GOsummaries
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/flowTime
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/intergraph
+ create mode 100644 logs/times/rstudio-binary/GOsummaries
+ create mode 100644 logs/times/rstudio-binary/flowTime
+ create mode 100644 logs/times/rstudio-binary/intergraph
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=knitrBootstrap
++ PKG=knitrBootstrap
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "knitrBootstrap"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency rmarkdown is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1  999k    1 16320    0     0  32021      0  0:00:31 --:--:--  0:00:31 32000 29  999k   29  298k    0     0   199k      0  0:00:05  0:00:01  0:00:04  198k 80  999k   80  808k    0     0   323k      0  0:00:03  0:00:02  0:00:01  323k100  999k  100  999k    0     0   359k      0  0:00:02  0:00:02 --:--:--  359k
+built/
+built/mime/
+built/mime/libs/
+built/mime/libs/mime.so
+built/mime/NAMESPACE
+built/mime/DESCRIPTION
+built/mime/help/
+built/mime/help/paths.rds
+built/mime/help/aliases.rds
+built/mime/help/mime.rdx
+built/mime/help/mime.rdb
+built/mime/help/AnIndex
+built/mime/Meta/
+built/mime/Meta/package.rds
+built/mime/Meta/features.rds
+built/mime/Meta/hsearch.rds
+built/mime/Meta/links.rds
+built/mime/Meta/nsInfo.rds
+built/mime/Meta/Rd.rds
+built/mime/NEWS.Rd
+built/mime/html/
+built/mime/html/00Index.html
+built/mime/html/R.css
+built/mime/INDEX
+built/mime/R/
+built/mime/R/mime
+built/mime/R/mime.rdx
+built/mime/R/mime.rdb
+built/xfun/
+built/xfun/libs/
+built/xfun/libs/xfun.so
+built/xfun/NAMESPACE
+built/xfun/DESCRIPTION
+built/xfun/help/
+built/xfun/help/paths.rds
+built/xfun/help/aliases.rds
+built/xfun/help/xfun.rdx
+built/xfun/help/AnIndex
+built/xfun/help/xfun.rdb
+built/xfun/Meta/
+built/xfun/Meta/package.rds
+built/xfun/Meta/vignette.rds
+built/xfun/Meta/features.rds
+built/xfun/Meta/hsearch.rds
+built/xfun/Meta/links.rds
+built/xfun/Meta/nsInfo.rds
+built/xfun/Meta/Rd.rds
+built/xfun/scripts/
+built/xfun/scripts/call-fun.R
+built/xfun/scripts/child-pids.sh
+built/xfun/LICENSE
+built/xfun/html/
+built/xfun/html/00Index.html
+built/xfun/html/R.css
+built/xfun/INDEX
+built/xfun/doc/
+built/xfun/doc/xfun.Rmd
+built/xfun/doc/xfun.R
+built/xfun/doc/index.html
+built/xfun/doc/xfun.html
+built/xfun/R/
+built/xfun/R/xfun
+built/xfun/R/xfun.rdx
+built/xfun/R/xfun.rdb
+built/xfun/NEWS.md
+built/commonmark/
+built/commonmark/libs/
+built/commonmark/libs/commonmark.so
+built/commonmark/NEWS
+built/commonmark/NAMESPACE
+built/commonmark/DESCRIPTION
+built/commonmark/help/
+built/commonmark/help/commonmark.rdx
+built/commonmark/help/paths.rds
+built/commonmark/help/commonmark.rdb
+built/commonmark/help/aliases.rds
+built/commonmark/help/AnIndex
+built/commonmark/Meta/
+built/commonmark/Meta/package.rds
+built/commonmark/Meta/features.rds
+built/commonmark/Meta/hsearch.rds
+built/commonmark/Meta/links.rds
+built/commonmark/Meta/nsInfo.rds
+built/commonmark/Meta/Rd.rds
+built/commonmark/LICENSE
+built/commonmark/html/
+built/commonmark/html/00Index.html
+built/commonmark/html/R.css
+built/commonmark/INDEX
+built/commonmark/R/
+built/commonmark/R/commonmark.rdx
+built/commonmark/R/commonmark
+built/commonmark/R/commonmark.rdb
+built/markdown/
+built/markdown/resources/
+built/markdown/resources/mathjax.html
+built/markdown/resources/markdown.css
+built/markdown/resources/highlight.html
+built/markdown/resources/markdown.html
+built/markdown/resources/markdown.latex
+built/markdown/examples/
+built/markdown/examples/render-options.R
+built/markdown/COPYING
+built/markdown/NAMESPACE
+built/markdown/DESCRIPTION
+built/markdown/help/
+built/markdown/help/paths.rds
+built/markdown/help/aliases.rds
+built/markdown/help/markdown.rdb
+built/markdown/help/AnIndex
+built/markdown/help/markdown.rdx
+built/markdown/Meta/
+built/markdown/Meta/package.rds
+built/markdown/Meta/vignette.rds
+built/markdown/Meta/features.rds
+built/markdown/Meta/hsearch.rds
+built/markdown/Meta/links.rds
+built/markdown/Meta/nsInfo.rds
+built/markdown/Meta/Rd.rds
+built/markdown/html/
+built/markdown/html/00Index.html
+built/markdown/html/R.css
+built/markdown/INDEX
+built/markdown/doc/
+built/markdown/doc/markdown-output.Rmd
+built/markdown/doc/markdown-examples.Rmd
+built/markdown/doc/markdown-examples.html
+built/markdown/doc/markdown-output.html
+built/markdown/doc/index.html
+built/markdown/doc/markdown-output.R
+built/markdown/doc/markdown-examples.R
+built/markdown/R/
+built/markdown/R/markdown
+built/markdown/R/markdown.rdb
+built/markdown/R/markdown.rdx
+built/markdown/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''knitrBootstrap'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv knitrBootstrap_1.0.2_R_x86_64-pc-linux-gnu.tar.gz markdown_1.4_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/knitrBootstrap
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'knitrBootstrap'
+also installing the dependency ‘markdown’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/markdown_1.4.tar.gz'
+Content type 'binary/octet-stream' length 114058 bytes (111 KB)
+==================================================
+downloaded 111 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/knitrBootstrap_1.0.2.tar.gz'
+Content type 'binary/octet-stream' length 1512011 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+* installing *binary* package ‘markdown’ ...
+* ‘markdown’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘markdown’ as ‘markdown_1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (markdown)
+* installing *binary* package ‘knitrBootstrap’ ...
+* ‘knitrBootstrap’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘knitrBootstrap’ as ‘knitrBootstrap_1.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (knitrBootstrap)
+
+The downloaded source packages are in
+	‘/tmp/RtmpCVbjBA/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m12.931s
+user	0m4.894s
+sys	0m0.624s

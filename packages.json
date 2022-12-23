@@ -10255,7 +10255,6 @@
         "derfinder",
         "geneplotter",
         "htmlTable",
-        "knitrBootstrap",
         "rtracklayer",
         "viridis"
     ],
@@ -14901,7 +14900,6 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "knitrBootstrap": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "GenomicAlignments",
