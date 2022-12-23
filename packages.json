@@ -5864,7 +5864,6 @@
         "cowplot",
         "doParallel",
         "e1071",
-        "earth",
         "ggplot2",
         "jquerylib",
         "knitr",
@@ -31130,7 +31129,6 @@
         "cowplot",
         "doParallel",
         "e1071",
-        "earth",
         "ggplot2",
         "gplots",
         "jquerylib",
@@ -66015,7 +66013,6 @@
     "gamlss": [
         "survival"
     ],
-    "earth": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
