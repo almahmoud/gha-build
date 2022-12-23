@@ -31525,7 +31525,6 @@
         "vctrs"
     ],
     "ndexr": [
-        "RCX",
         "dplyr",
         "httr",
         "pillar",
@@ -38075,7 +38074,6 @@
         "visNetwork",
         "vroom"
     ],
-    "RCX": [],
     "RCy3": [
         "IRdisplay",
         "IRkernel",
