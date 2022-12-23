@@ -619,7 +619,6 @@
         "GSVA",
         "HDF5Array",
         "genefu",
-        "iC10",
         "rhdf5"
     ],
     "conumee": [
@@ -1173,9 +1172,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "genefu": [
-        "iC10"
-    ],
+    "genefu": [],
     "GeneGeneInteR": [
         "FactoMineR"
     ],
@@ -2250,7 +2247,6 @@
         "fields",
         "genefu",
         "ggpubr",
-        "iC10",
         "rstatix",
         "survminer",
         "verification",
@@ -2894,7 +2890,6 @@
         "consensusOV",
         "genefu",
         "ggpubr",
-        "iC10",
         "rhdf5",
         "rstatix",
         "survminer",
@@ -3480,7 +3475,6 @@
         "rms",
         "viridis"
     ],
-    "iC10": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "HDF5Array",
         "minfi",
