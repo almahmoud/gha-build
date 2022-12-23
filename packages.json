@@ -384,9 +384,7 @@
         "pasilla",
         "viridis"
     ],
-    "BLMA": [
-        "PADOG"
-    ],
+    "BLMA": [],
     "bnbc": [
         "rhdf5"
     ],
@@ -1248,7 +1246,6 @@
     "EGSEA": [
         "GSVA",
         "HDF5Array",
-        "PADOG",
         "rhdf5"
     ],
     "ELMER": [
@@ -2970,7 +2967,6 @@
         "FactoMineR",
         "car"
     ],
-    "PADOG": [],
     "pageRank": [
         "TFBSTools",
         "motifmatchr"
