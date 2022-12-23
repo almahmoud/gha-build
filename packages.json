@@ -16942,7 +16942,6 @@
         "genefilter"
     ],
     "GOsummaries": [
-        "gProfileR",
         "ggplot2",
         "pillar",
         "reshape2",
@@ -47561,7 +47560,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "gProfileR": [],
     "epiR": [
         "bslib",
         "flextable",
