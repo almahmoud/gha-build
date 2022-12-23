@@ -15267,8 +15267,7 @@
         "SingleCellExperiment",
         "htmlwidgets",
         "plotly",
-        "tidyr",
-        "ttservice"
+        "tidyr"
     ],
     "tidySummarizedExperiment": [
         "htmlwidgets",
@@ -18078,7 +18077,6 @@
         "bsplus"
     ],
     "GenKern": [],
-    "ttservice": [],
     "FreqProf": [],
     "gghighlight": [
         "ggrepel"
