@@ -12882,7 +12882,6 @@
         "dbplyr",
         "fgsea"
     ],
-    "pqsfinder": [],
     "pram": [
         "GenomicAlignments",
         "Rsamtools",
