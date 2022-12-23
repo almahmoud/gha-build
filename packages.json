@@ -341,7 +341,6 @@
         "ensembldb"
     ],
     "ChIPQC": [
-        "DiffBind",
         "TxDb.Celegans.UCSC.ce6.ensGene",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
@@ -606,7 +605,6 @@
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [],
-    "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
         "car",
@@ -2380,7 +2378,6 @@
     ],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ensembldb"
     ],
