@@ -3721,7 +3721,6 @@
         "nloptr",
         "pbkrtest",
         "reactome.db",
-        "rqubic",
         "rstatix",
         "tidyverse",
         "treeio"
@@ -5294,7 +5293,6 @@
         "pbkrtest",
         "ropls"
     ],
-    "rqubic": [],
     "rrvgo": [
         "GOSemSim"
     ],
