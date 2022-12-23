@@ -7297,7 +7297,6 @@
         "annotate",
         "geneplotter"
     ],
-    "TENxIO": [],
     "tenXplore": [
         "AnnotationHub",
         "ExperimentHub",
