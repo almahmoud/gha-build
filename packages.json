@@ -899,7 +899,6 @@
         "viridis"
     ],
     "ChIC": [
-        "ChIC.data",
         "spp"
     ],
     "Chicago": [
@@ -6886,7 +6885,6 @@
         "GenomicFeatures"
     ],
     "spp": [],
-    "ChIC.data": [],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome"
     ],
