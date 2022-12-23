@@ -160,7 +160,6 @@
     "ASpediaFI": [
         "Gviz",
         "Hmisc",
-        "IVAS",
         "VariantAnnotation",
         "biovizBase",
         "mGSZ",
@@ -1885,9 +1884,7 @@
         "cellHTS2",
         "vsn"
     ],
-    "IMAS": [
-        "IVAS"
-    ],
+    "IMAS": [],
     "imcRtools": [
         "DropletUtils",
         "HDF5Array",
@@ -1982,7 +1979,6 @@
         "oligo",
         "pd.mapping50k.xba240"
     ],
-    "IVAS": [],
     "ivygapSE": [
         "car",
         "ggpubr",
