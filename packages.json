@@ -11055,7 +11055,6 @@
         "htmlwidgets",
         "httr",
         "ipred",
-        "kknn",
         "knitr",
         "latticeExtra",
         "lava",
@@ -17129,7 +17128,6 @@
         "htmlwidgets",
         "httr",
         "ipred",
-        "kknn",
         "knitr",
         "latticeExtra",
         "lava",
@@ -42844,7 +42842,6 @@
         "htmlwidgets",
         "httr",
         "inaparc",
-        "kknn",
         "km.ci",
         "knitr",
         "lme4",
@@ -54186,7 +54183,6 @@
         "stringr",
         "vctrs"
     ],
-    "kknn": [],
     "FSelector": [
         "RWeka"
     ],
