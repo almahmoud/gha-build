@@ -63730,7 +63730,6 @@
         "viridis",
         "viridisLite"
     ],
-    "pgca": [],
     "phantasus": [
         "AnnotationDbi",
         "Biobase",
