@@ -179,7 +179,6 @@
     "autonomics": [
         "assertive"
     ],
-    "BaalChIP": [],
     "BadRegionFinder": [],
     "bandle": [
         "MSnbase",
