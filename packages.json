@@ -120,7 +120,6 @@
         "tidyr",
         "viridis"
     ],
-    "affyILM": [],
     "affylmGUI": [
         "AnnotationDbi",
         "affyPLM"
