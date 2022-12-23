@@ -402,8 +402,7 @@
         "pasilla"
     ],
     "BLMA": [
-        "PADOG",
-        "hgu133a.db"
+        "PADOG"
     ],
     "BloodGen3Module": [
         "AnnotationHub",
@@ -511,7 +510,6 @@
     "CAMERA": [],
     "canceR": [
         "Category",
-        "hgu133a.db",
         "phenoTest"
     ],
     "CancerInSilico": [],
@@ -1337,8 +1335,7 @@
         "ensembldb"
     ],
     "DrugVsDisease": [
-        "ArrayExpress",
-        "hgu133a.db"
+        "ArrayExpress"
     ],
     "DSS": [
         "BSgenome",
@@ -1387,7 +1384,6 @@
     "EGSEA": [
         "GSVA",
         "PADOG",
-        "hgu133a.db",
         "pathview"
     ],
     "ELMER": [
@@ -2329,9 +2325,7 @@
         "VariantAnnotation",
         "plyranges"
     ],
-    "KEGGlincs": [
-        "hgu133a.db"
-    ],
+    "KEGGlincs": [],
     "keggorthology": [],
     "kissDE": [
         "BSgenome",
@@ -3307,9 +3301,7 @@
         "lme4",
         "pbkrtest"
     ],
-    "PADOG": [
-        "hgu133a.db"
-    ],
+    "PADOG": [],
     "pageRank": [
         "BSgenome",
         "CNEr",
@@ -3374,8 +3366,7 @@
         "biodbChebi"
     ],
     "phenoTest": [
-        "Category",
-        "hgu133a.db"
+        "Category"
     ],
     "PhenStat": [
         "car",
@@ -5122,7 +5113,6 @@
         "DESeq2",
         "DEXSeq"
     ],
-    "hgu133a.db": [],
     "GenomicState": [
         "AnnotationHub",
         "BSgenome",
