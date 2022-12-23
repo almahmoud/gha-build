@@ -12,15 +12,12 @@
         "ReorderCluster"
     ],
     "ArrayExpressHTS": [],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ASpediaFI": [
         "mGSZ"
     ],
     "ATACCoGAPS": [],
     "bigmelon": [
-        "lumi",
         "wateRmelon"
     ],
     "BiocOncoTK": [],
@@ -48,7 +45,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "lumi",
         "missMethyl",
         "wateRmelon"
     ],
@@ -107,9 +103,7 @@
         "orthogene"
     ],
     "extraChIPs": [],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "flowCL": [
         "SPARQL"
     ],
@@ -149,9 +143,7 @@
         "multiHiCcompare"
     ],
     "HiContacts": [],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "InTAD": [],
     "InterCellar": [
         "factoextra"
@@ -168,7 +160,6 @@
         "factoextra"
     ],
     "LinkHD": [],
-    "lumi": [],
     "MAGAR": [
         "RnBeads"
     ],
@@ -176,7 +167,6 @@
         "missMethyl"
     ],
     "MEAT": [
-        "lumi",
         "wateRmelon"
     ],
     "MetaCyto": [
@@ -189,9 +179,7 @@
     "methylGSA": [
         "missMethyl"
     ],
-    "MineICA": [
-        "lumi"
-    ],
+    "MineICA": [],
     "MinimumDistance": [],
     "miRSM": [
         "SPONGE",
@@ -272,7 +260,6 @@
     ],
     "SingleMoleculeFootprinting": [],
     "skewr": [
-        "lumi",
         "wateRmelon"
     ],
     "sojourner": [
@@ -328,9 +315,7 @@
         "text2vec",
         "ttgsea"
     ],
-    "wateRmelon": [
-        "lumi"
-    ],
+    "wateRmelon": [],
     "YAPSA": [],
     "ReorderCluster": [],
     "mGSZ": [],
