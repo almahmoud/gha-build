@@ -18797,7 +18797,6 @@
         "MatrixModels",
         "R.cache",
         "R.utils",
-        "RNOmni",
         "RSQLite",
         "RcppEigen",
         "SingleCellExperiment",
@@ -67555,7 +67554,6 @@
         "viridis"
     ],
     "lavaan": [],
-    "RNOmni": [],
     "ewceData": [
         "AnnotationDbi",
         "AnnotationHub",
