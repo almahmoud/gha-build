@@ -3602,7 +3602,6 @@
         "testthat",
         "viridis"
     ],
-    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "AnnotationDbi",
         "BSgenome",
