@@ -22781,7 +22781,6 @@
         "blob",
         "cleanUpdTSeq",
         "dbplyr",
-        "depmixS4",
         "dplyr",
         "futile.logger",
         "future.apply",
@@ -49768,7 +49767,6 @@
         "butcher",
         "clock",
         "dbplyr",
-        "depmixS4",
         "doRNG",
         "dplyr",
         "forcats",
@@ -57841,7 +57839,6 @@
         "httr"
     ],
     "phyclust": [],
-    "depmixS4": [],
     "golem": [
         "bslib",
         "credentials",
