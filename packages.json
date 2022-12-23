@@ -7731,8 +7731,7 @@
     "MetaVolcanoR": [
         "htmlwidgets",
         "metap",
-        "plotly",
-        "topconfects"
+        "plotly"
     ],
     "MethCP": [
         "BSgenome",
@@ -14142,7 +14141,6 @@
         "htmlwidgets",
         "plotly"
     ],
-    "topconfects": [],
     "topdownr": [
         "MSnbase",
         "affy",
@@ -14812,9 +14810,7 @@
         "gcrma",
         "vsn"
     ],
-    "weitrix": [
-        "topconfects"
-    ],
+    "weitrix": [],
     "wiggleplotr": [
         "GenomicAlignments",
         "rtracklayer"
