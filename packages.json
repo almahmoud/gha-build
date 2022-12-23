@@ -250,7 +250,6 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "TxDb.Celegans.UCSC.ce6.ensGene",
-        "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene"
     ],
     "ChIPseeker": [
@@ -323,8 +322,7 @@
     ],
     "consensusDE": [
         "EnsDb.Hsapiens.v86",
-        "RUVSeq",
-        "TxDb.Dmelanogaster.UCSC.dm3.ensGene"
+        "RUVSeq"
     ],
     "contiBAIT": [
         "GenomicFiles"
@@ -1849,7 +1847,6 @@
     "spp": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
     "TxDb.Celegans.UCSC.ce6.ensGene": [],
-    "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
     "qs": [],
     "propr": [],
     "factoextra": [
