@@ -1271,7 +1271,6 @@
     "bugsigdbr": [],
     "BUMHMM": [
         "devtools",
-        "profvis",
         "testthat"
     ],
     "bumphunter": [
@@ -2190,7 +2189,6 @@
     ],
     "cogena": [
         "devtools",
-        "profvis",
         "testthat"
     ],
     "cogeqc": [
@@ -4483,7 +4481,6 @@
     ],
     "GCSscore": [
         "devtools",
-        "profvis",
         "testthat"
     ],
     "GDCRNATools": [
@@ -5554,7 +5551,6 @@
     "immunotation": [],
     "INDEED": [
         "devtools",
-        "profvis",
         "testthat",
         "visNetwork"
     ],
@@ -6695,7 +6691,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "profvis",
         "rhdf5",
         "rstatix",
         "rtracklayer",
@@ -6806,7 +6801,6 @@
         "ChemmineR",
         "DT",
         "devtools",
-        "profvis",
         "testthat"
     ],
     "MetNet": [],
@@ -7652,7 +7646,6 @@
         "mixOmics",
         "networkD3",
         "plotly",
-        "profvis",
         "rWikiPathways",
         "reactome.db",
         "recipes",
@@ -8291,7 +8284,6 @@
     ],
     "oppti": [
         "devtools",
-        "profvis",
         "testthat"
     ],
     "optimalFlow": [
@@ -8467,7 +8459,6 @@
         "geneplotter",
         "phyloseq",
         "plotly",
-        "profvis",
         "rhdf5",
         "testthat"
     ],
@@ -9907,7 +9898,6 @@
         "devtools",
         "geneplotter",
         "org.Mm.eg.db",
-        "profvis",
         "rtracklayer",
         "testthat"
     ],
@@ -11476,7 +11466,6 @@
         "ensembldb",
         "geneplotter",
         "htmlTable",
-        "profvis",
         "rtracklayer",
         "testthat",
         "viridis"
@@ -13131,10 +13120,8 @@
         "rtracklayer"
     ],
     "devtools": [
-        "profvis",
         "testthat"
     ],
-    "profvis": [],
     "drc": [
         "car",
         "lme4",
@@ -13675,7 +13662,6 @@
     ],
     "anyLib": [
         "devtools",
-        "profvis",
         "testthat"
     ],
     "blme": [
