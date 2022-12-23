@@ -2380,7 +2380,6 @@
     ],
     "scGPS": [],
     "schex": [],
-    "scMerge": [],
     "scmeth": [
         "annotatr",
         "bsseq"
@@ -2494,7 +2493,6 @@
         "celldex",
         "ensembldb",
         "scDblFinder",
-        "scMerge",
         "scRNAseq"
     ],
     "SingleMoleculeFootprinting": [
