@@ -1931,7 +1931,6 @@
         "VariantAnnotation",
         "phastCons100way.UCSC.hg19"
     ],
-    "Rbec": [],
     "RCAS": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
