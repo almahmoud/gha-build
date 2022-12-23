@@ -1179,7 +1179,6 @@
         "GenomicRanges",
         "HybridMTest",
         "KEGGREST",
-        "R.cache",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -3313,7 +3312,6 @@
         "stringr"
     ],
     "biocthis": [
-        "R.cache",
         "credentials",
         "gert",
         "gh",
@@ -13850,7 +13848,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "KEGGREST",
-        "R.cache",
         "RSQLite",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -18865,7 +18862,6 @@
         "tibble"
     ],
     "HubPub": [
-        "R.cache",
         "available",
         "aws.s3",
         "biocthis",
@@ -21859,7 +21855,6 @@
         "MSnbase",
         "MsCoreUtils",
         "MsFeatures",
-        "R.cache",
         "SummarizedExperiment",
         "XVector",
         "agricolae",
@@ -26224,7 +26219,6 @@
         "KEGGREST",
         "MSnbase",
         "MsCoreUtils",
-        "R.cache",
         "RSQLite",
         "XVector",
         "bookdown",
@@ -28548,7 +28542,6 @@
     ],
     "omada": [
         "NMF",
-        "R.cache",
         "bslib",
         "classInt",
         "diceR",
@@ -29322,7 +29315,6 @@
     ],
     "orthogene": [
         "DelayedArray",
-        "R.cache",
         "aplot",
         "babelgene",
         "broom",
@@ -30046,7 +30038,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "PSCBS",
-        "R.cache",
         "R.devices",
         "R.filesets",
         "R.rsp",
@@ -31885,7 +31876,6 @@
         "GGally",
         "GenomeInfoDb",
         "KEGGREST",
-        "R.cache",
         "RSQLite",
         "XVector",
         "annotate",
@@ -39901,7 +39891,6 @@
         "GenomeInfoDb",
         "GeomxTools",
         "NanoStringNCTools",
-        "R.cache",
         "SeuratObject",
         "XVector",
         "bslib",
@@ -41762,7 +41751,6 @@
     ],
     "systemPipeShiny": [
         "DT",
-        "R.cache",
         "RSQLite",
         "bslib",
         "bsplus",
@@ -42783,7 +42771,6 @@
         "Hmisc",
         "KEGGREST",
         "PSCBS",
-        "R.cache",
         "R.devices",
         "R.filesets",
         "R.rsp",
@@ -46141,10 +46128,8 @@
         "httr"
     ],
     "repmis": [
-        "R.cache",
         "httr"
     ],
-    "R.cache": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
         "Biostrings",
@@ -47313,7 +47298,6 @@
         "tibble"
     ],
     "styler": [
-        "R.cache",
         "purrr"
     ],
     "usethis": [
@@ -49850,7 +49834,6 @@
         "viridis"
     ],
     "agricolae": [
-        "R.cache",
         "bslib",
         "classInt",
         "dplyr",
@@ -49876,7 +49859,6 @@
         "vroom"
     ],
     "klaR": [
-        "R.cache",
         "bslib",
         "classInt",
         "dplyr",
@@ -49901,7 +49883,6 @@
         "vroom"
     ],
     "questionr": [
-        "R.cache",
         "bslib",
         "classInt",
         "dplyr",
@@ -50576,7 +50557,6 @@
     ],
     "diceR": [
         "NMF",
-        "R.cache",
         "bslib",
         "classInt",
         "dplyr",
@@ -50703,7 +50683,6 @@
     ],
     "aroma.affymetrix": [
         "PSCBS",
-        "R.cache",
         "R.devices",
         "R.filesets",
         "R.rsp",
@@ -50713,22 +50692,16 @@
     ],
     "aroma.core": [
         "PSCBS",
-        "R.cache",
         "R.devices",
         "R.filesets",
         "R.rsp",
         "aroma.light"
     ],
     "R.devices": [],
-    "R.filesets": [
-        "R.cache"
-    ],
+    "R.filesets": [],
     "aroma.apd": [],
-    "R.rsp": [
-        "R.cache"
-    ],
+    "R.rsp": [],
     "PSCBS": [
-        "R.cache",
         "aroma.light"
     ],
     "genlasso": [],
