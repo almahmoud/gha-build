@@ -3862,7 +3862,6 @@
         "Rgraphviz",
         "hyperdraw",
         "hypergraph",
-        "rsbml",
         "stringr",
         "vctrs"
     ],
@@ -48154,7 +48153,6 @@
         "XVector",
         "futile.logger"
     ],
-    "rsbml": [],
     "rScudo": [
         "DelayedArray",
         "GenomeInfoDb",
