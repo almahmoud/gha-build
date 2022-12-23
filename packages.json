@@ -2479,7 +2479,6 @@
         "scuttle",
         "slingshot",
         "spatstat",
-        "spatstat.linnet",
         "viridis"
     ],
     "CONFESS": [
@@ -14137,13 +14136,9 @@
     "Ecume": [
         "caret",
         "recipes",
-        "spatstat",
-        "spatstat.linnet"
+        "spatstat"
     ],
-    "spatstat": [
-        "spatstat.linnet"
-    ],
-    "spatstat.linnet": [],
+    "spatstat": [],
     "contrast": [
         "Hmisc",
         "htmlTable",
