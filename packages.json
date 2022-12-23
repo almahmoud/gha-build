@@ -9316,9 +9316,7 @@
         "baySeq",
         "futile.logger"
     ],
-    "ClusterSignificance": [
-        "princurve"
-    ],
+    "ClusterSignificance": [],
     "clustifyr": [
         "BiocParallel",
         "DelayedArray",
@@ -10588,7 +10586,6 @@
         "pROC",
         "pheatmap",
         "pillar",
-        "princurve",
         "prodlim",
         "purrr",
         "ragg",
@@ -19553,7 +19550,6 @@
         "pbkrtest",
         "pheatmap",
         "pillar",
-        "princurve",
         "psych",
         "purrr",
         "quantreg",
@@ -38003,9 +37999,7 @@
         "vctrs"
     ],
     "Path2PPI": [],
-    "pathifier": [
-        "princurve"
-    ],
+    "pathifier": [],
     "PathoStat": [
         "AnnotationDbi",
         "BiocParallel",
@@ -50413,8 +50407,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TrajectoryUtils",
-        "XVector",
-        "princurve"
+        "XVector"
     ],
     "SMAD": [
         "dplyr",
@@ -55225,7 +55218,6 @@
         "ggplot2",
         "mgcv",
         "pillar",
-        "princurve",
         "slingshot",
         "tibble",
         "vctrs",
@@ -55504,7 +55496,6 @@
         "knitr",
         "mgcv",
         "pillar",
-        "princurve",
         "rgl",
         "rmarkdown",
         "sass",
@@ -62131,7 +62122,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "princurve": [],
     "skmeans": [],
     "cobs": [
         "MatrixModels",
@@ -63298,7 +63288,6 @@
     ],
     "analogue": [
         "mgcv",
-        "princurve",
         "vegan"
     ],
     "DataVisualizations": [
