@@ -1344,7 +1344,6 @@
         "ggpubr",
         "lme4",
         "pbkrtest",
-        "progeny",
         "rstatix",
         "viper"
     ],
@@ -3475,7 +3474,6 @@
         "rGREAT",
         "soGGi"
     ],
-    "progeny": [],
     "pRoloc": [
         "MLInterfaces"
     ],
