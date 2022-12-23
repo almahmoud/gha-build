@@ -4467,7 +4467,6 @@
         "vctrs",
         "viridis"
     ],
-    "BiRewire": [],
     "biscuiteer": [
         "AnnotationDbi",
         "AnnotationHub",
