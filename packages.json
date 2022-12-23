@@ -52977,7 +52977,6 @@
         "segmented",
         "seqinr"
     ],
-    "ssize": [],
     "sSNAPPY": [
         "AnnotationDbi",
         "BiocParallel",
