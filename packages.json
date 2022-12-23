@@ -37900,8 +37900,7 @@
         "httr"
     ],
     "TileDBArray": [
-        "DelayedArray",
-        "tiledb"
+        "DelayedArray"
     ],
     "tilingArray": [
         "AnnotationDbi",
@@ -45922,7 +45921,6 @@
         "dplyr",
         "tibble"
     ],
-    "tiledb": [],
     "FreqProf": [
         "bslib",
         "ggplot2",
