@@ -21685,7 +21685,6 @@
         "Matrix",
         "MatrixGenerics",
         "R6",
-        "RApiSerialize",
         "RColorBrewer",
         "RCurl",
         "RSpectra",
@@ -30882,7 +30881,6 @@
         "R.oo",
         "R.utils",
         "R6",
-        "RApiSerialize",
         "RColorBrewer",
         "RCurl",
         "RSQLite",
@@ -162859,7 +162857,6 @@
         "withr"
     ],
     "qs": [
-        "RApiSerialize",
         "Rcpp",
         "RcppParallel",
         "stringfish"
@@ -162903,7 +162900,6 @@
         "viridisLite",
         "withr"
     ],
-    "RApiSerialize": [],
     "stringfish": [
         "Rcpp",
         "RcppParallel"
