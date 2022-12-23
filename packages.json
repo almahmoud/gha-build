@@ -257,7 +257,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "anota": [],
     "anota2seq": [
         "DESeq2",
         "annotate",
@@ -11276,7 +11275,6 @@
         "GO.db",
         "GOSemSim",
         "annotate",
-        "anota",
         "geneplotter",
         "org.Hs.eg.db",
         "topGO"
