@@ -4,11 +4,8 @@
         "QDNAseq"
     ],
     "ADAMgui": [],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "ReportingTools",
         "affycoretools"
     ],
     "AneuFinder": [
@@ -262,7 +259,6 @@
     ],
     "recountmethylation": [],
     "regutools": [],
-    "ReportingTools": [],
     "RNAAgeCalc": [],
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
