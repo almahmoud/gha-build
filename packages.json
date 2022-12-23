@@ -707,7 +707,6 @@
         "regioneR"
     ],
     "CopywriteR": [],
-    "CoreGx": [],
     "coseq": [
         "HTSFilter"
     ],
@@ -2461,7 +2460,6 @@
         "GOstats"
     ],
     "PDATK": [
-        "CoreGx",
         "car",
         "ggpubr",
         "pbkrtest",
@@ -2479,9 +2477,7 @@
         "enrichplot"
     ],
     "phantasus": [],
-    "PharmacoGx": [
-        "CoreGx"
-    ],
+    "PharmacoGx": [],
     "phenomis": [],
     "phenoTest": [],
     "PhenStat": [
@@ -2683,9 +2679,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "RadioGx": [
-        "CoreGx"
-    ],
+    "RadioGx": [],
     "RandomWalkRestartMH": [],
     "RareVariantVis": [
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -3451,9 +3445,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "ToxicoGx": [
-        "CoreGx"
-    ],
+    "ToxicoGx": [],
     "trackViewer": [
         "GenomicFeatures",
         "Gviz",
@@ -3638,7 +3630,6 @@
     "wiggleplotr": [],
     "XDE": [],
     "Xeva": [
-        "CoreGx",
         "PharmacoGx"
     ],
     "XNAString": [],
