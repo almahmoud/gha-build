@@ -13501,7 +13501,6 @@
         "HDO.db",
         "Hmisc",
         "KEGGREST",
-        "MatrixCorrelation",
         "MetBrewer",
         "NMF",
         "ReactomePA",
@@ -26908,7 +26907,6 @@
         "metR",
         "shiny"
     ],
-    "MatrixCorrelation": [],
     "metR": [
         "ggplot2"
     ],
