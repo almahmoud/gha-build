@@ -884,7 +884,6 @@
     ],
     "cosmosR": [],
     "countsimQC": [],
-    "cpvSNP": [],
     "crisprDesign": [
         "VariantAnnotation",
         "basilisk",
