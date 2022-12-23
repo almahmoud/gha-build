@@ -1,0 +1,331 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   80a843aa..8bfbbb4c  main       -> origin/main
+Updating 80a843aa..8bfbbb4c
+Fast-forward
+ lists/pathVar                                    |  2 +-
+ lists/shinypanel                                 |  2 +-
+ logs/run_ids/rstudio-binaries/RIVER              |  2 +
+ logs/run_ids/rstudio-binaries/Rfastp             |  2 +
+ logs/run_ids/rstudio-binaries/SIMAT              |  2 +
+ logs/sizes/rstudio-binaries/binaries/shinypanel  |  1 +
+ logs/sizes/rstudio-binaries/libraries/shinypanel |  1 +
+ logs/times/rstudio-binary/shinypanel             | 73 ++++++++++++++++++++++++
+ packages.json                                    |  3 -
+ 9 files changed, 83 insertions(+), 5 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/RIVER
+ create mode 100644 logs/run_ids/rstudio-binaries/Rfastp
+ create mode 100644 logs/run_ids/rstudio-binaries/SIMAT
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/shinypanel
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/shinypanel
+ create mode 100644 logs/times/rstudio-binary/shinypanel
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=sjmisc
++ PKG=sjmisc
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "sjmisc"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency dplyr is already found.
+Dependency purrr is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 6622k    1 98904    0     0  98358      0  0:01:08  0:00:01  0:01:07 98314  7 6622k    7  479k    0     0   237k      0  0:00:27  0:00:02  0:00:25  237k 13 6622k   13  909k    0     0   302k      0  0:00:21  0:00:03  0:00:18  302k 22 6622k   22 1515k    0     0   376k      0  0:00:17  0:00:04  0:00:13  376k 35 6622k   35 2343k    0     0   467k      0  0:00:14  0:00:05  0:00:09  468k 51 6622k   51 3379k    0     0   561k      0  0:00:11  0:00:06  0:00:05  654k 70 6622k   70 4654k    0     0   663k      0  0:00:09  0:00:07  0:00:02  835k 92 6622k   92 6120k    0     0   761k      0  0:00:08  0:00:08 --:--:-- 1035k100 6622k  100 6622k    0     0   795k      0  0:00:08  0:00:08 --:--:-- 1187k
+built/
+built/built/
+built/built/datawizard/
+built/built/datawizard/NAMESPACE
+built/built/datawizard/DESCRIPTION
+built/built/datawizard/help/
+built/built/datawizard/help/paths.rds
+built/built/datawizard/help/datawizard.rdb
+built/built/datawizard/help/aliases.rds
+built/built/datawizard/help/figures/
+built/built/datawizard/help/figures/logo.png
+built/built/datawizard/help/datawizard.rdx
+built/built/datawizard/help/AnIndex
+built/built/datawizard/data/
+built/built/datawizard/data/efc.RData
+built/built/datawizard/data/nhanes_sample.RData
+built/built/datawizard/Meta/
+built/built/datawizard/Meta/package.rds
+built/built/datawizard/Meta/vignette.rds
+built/built/datawizard/Meta/features.rds
+built/built/datawizard/Meta/hsearch.rds
+built/built/datawizard/Meta/links.rds
+built/built/datawizard/Meta/nsInfo.rds
+built/built/datawizard/Meta/Rd.rds
+built/built/datawizard/Meta/data.rds
+built/built/datawizard/WORDLIST
+built/built/datawizard/CITATION
+built/built/datawizard/html/
+built/built/datawizard/html/00Index.html
+built/built/datawizard/html/R.css
+built/built/datawizard/INDEX
+built/built/datawizard/doc/
+built/built/datawizard/doc/standardize_data.R
+built/built/datawizard/doc/tidyverse_translation.html
+built/built/datawizard/doc/tidyverse_translation.Rmd
+built/built/datawizard/doc/tidyverse_translation.R
+built/built/datawizard/doc/standardize_data.html
+built/built/datawizard/doc/index.html
+built/built/datawizard/doc/standardize_data.Rmd
+built/built/datawizard/doc/selection_syntax.html
+built/built/datawizard/doc/selection_syntax.R
+built/built/datawizard/doc/selection_syntax.Rmd
+built/built/datawizard/R/
+built/built/datawizard/R/datawizard.rdb
+built/built/datawizard/R/datawizard
+built/built/datawizard/R/datawizard.rdx
+built/built/datawizard/NEWS.md
+built/built/insight/
+built/built/insight/NAMESPACE
+built/built/insight/DESCRIPTION
+built/built/insight/help/
+built/built/insight/help/paths.rds
+built/built/insight/help/insight.rdx
+built/built/insight/help/insight.rdb
+built/built/insight/help/aliases.rds
+built/built/insight/help/figures/
+built/built/insight/help/figures/logo.png
+built/built/insight/help/AnIndex
+built/built/insight/data/
+built/built/insight/data/fish.RData
+built/built/insight/Meta/
+built/built/insight/Meta/package.rds
+built/built/insight/Meta/vignette.rds
+built/built/insight/Meta/features.rds
+built/built/insight/Meta/hsearch.rds
+built/built/insight/Meta/links.rds
+built/built/insight/Meta/nsInfo.rds
+built/built/insight/Meta/Rd.rds
+built/built/insight/Meta/data.rds
+built/built/insight/CITATION
+built/built/insight/html/
+built/built/insight/html/00Index.html
+built/built/insight/html/R.css
+built/built/insight/INDEX
+built/built/insight/doc/
+built/built/insight/doc/display.R
+built/built/insight/doc/export.Rmd
+built/built/insight/doc/display.Rmd
+built/built/insight/doc/insight.Rmd
+built/built/insight/doc/insight.html
+built/built/insight/doc/display.html
+built/built/insight/doc/insight.R
+built/built/insight/doc/index.html
+built/built/insight/doc/export.R
+built/built/insight/doc/export.html
+built/built/insight/R/
+built/built/insight/R/insight.rdx
+built/built/insight/R/insight.rdb
+built/built/insight/R/insight
+built/built/insight/NEWS.md
+built/sjlabelled/
+built/sjlabelled/NAMESPACE
+built/sjlabelled/DESCRIPTION
+built/sjlabelled/help/
+built/sjlabelled/help/paths.rds
+built/sjlabelled/help/aliases.rds
+built/sjlabelled/help/figures/
+built/sjlabelled/help/figures/logo.png
+built/sjlabelled/help/sjlabelled.rdb
+built/sjlabelled/help/AnIndex
+built/sjlabelled/help/sjlabelled.rdx
+built/sjlabelled/data/
+built/sjlabelled/data/efc.RData
+built/sjlabelled/Meta/
+built/sjlabelled/Meta/package.rds
+built/sjlabelled/Meta/vignette.rds
+built/sjlabelled/Meta/features.rds
+built/sjlabelled/Meta/hsearch.rds
+built/sjlabelled/Meta/links.rds
+built/sjlabelled/Meta/nsInfo.rds
+built/sjlabelled/Meta/Rd.rds
+built/sjlabelled/Meta/data.rds
+built/sjlabelled/CITATION
+built/sjlabelled/html/
+built/sjlabelled/html/00Index.html
+built/sjlabelled/html/R.css
+built/sjlabelled/INDEX
+built/sjlabelled/doc/
+built/sjlabelled/doc/labelleddata.Rmd
+built/sjlabelled/doc/intro_sjlabelled.Rmd
+built/sjlabelled/doc/labelleddata.R
+built/sjlabelled/doc/intro_sjlabelled.R
+built/sjlabelled/doc/quasiquotation.Rmd
+built/sjlabelled/doc/index.html
+built/sjlabelled/doc/labelleddata.html
+built/sjlabelled/doc/intro_sjlabelled.html
+built/sjlabelled/doc/quasiquotation.R
+built/sjlabelled/doc/quasiquotation.html
+built/sjlabelled/R/
+built/sjlabelled/R/sjlabelled
+built/sjlabelled/R/sjlabelled.rdb
+built/sjlabelled/R/sjlabelled.rdx
+built/sjlabelled/NEWS.md
+built/datawizard/
+built/datawizard/NAMESPACE
+built/datawizard/DESCRIPTION
+built/datawizard/help/
+built/datawizard/help/paths.rds
+built/datawizard/help/datawizard.rdb
+built/datawizard/help/aliases.rds
+built/datawizard/help/figures/
+built/datawizard/help/figures/logo.png
+built/datawizard/help/datawizard.rdx
+built/datawizard/help/AnIndex
+built/datawizard/data/
+built/datawizard/data/efc.RData
+built/datawizard/data/nhanes_sample.RData
+built/datawizard/Meta/
+built/datawizard/Meta/package.rds
+built/datawizard/Meta/vignette.rds
+built/datawizard/Meta/features.rds
+built/datawizard/Meta/hsearch.rds
+built/datawizard/Meta/links.rds
+built/datawizard/Meta/nsInfo.rds
+built/datawizard/Meta/Rd.rds
+built/datawizard/Meta/data.rds
+built/datawizard/WORDLIST
+built/datawizard/CITATION
+built/datawizard/html/
+built/datawizard/html/00Index.html
+built/datawizard/html/R.css
+built/datawizard/INDEX
+built/datawizard/doc/
+built/datawizard/doc/standardize_data.R
+built/datawizard/doc/tidyverse_translation.html
+built/datawizard/doc/tidyverse_translation.Rmd
+built/datawizard/doc/tidyverse_translation.R
+built/datawizard/doc/standardize_data.html
+built/datawizard/doc/index.html
+built/datawizard/doc/standardize_data.Rmd
+built/datawizard/doc/selection_syntax.html
+built/datawizard/doc/selection_syntax.R
+built/datawizard/doc/selection_syntax.Rmd
+built/datawizard/R/
+built/datawizard/R/datawizard.rdb
+built/datawizard/R/datawizard
+built/datawizard/R/datawizard.rdx
+built/datawizard/NEWS.md
+built/insight/
+built/insight/NAMESPACE
+built/insight/DESCRIPTION
+built/insight/help/
+built/insight/help/paths.rds
+built/insight/help/insight.rdx
+built/insight/help/insight.rdb
+built/insight/help/aliases.rds
+built/insight/help/figures/
+built/insight/help/figures/logo.png
+built/insight/help/AnIndex
+built/insight/data/
+built/insight/data/fish.RData
+built/insight/Meta/
+built/insight/Meta/package.rds
+built/insight/Meta/vignette.rds
+built/insight/Meta/features.rds
+built/insight/Meta/hsearch.rds
+built/insight/Meta/links.rds
+built/insight/Meta/nsInfo.rds
+built/insight/Meta/Rd.rds
+built/insight/Meta/data.rds
+built/insight/CITATION
+built/insight/html/
+built/insight/html/00Index.html
+built/insight/html/R.css
+built/insight/INDEX
+built/insight/doc/
+built/insight/doc/display.R
+built/insight/doc/export.Rmd
+built/insight/doc/display.Rmd
+built/insight/doc/insight.Rmd
+built/insight/doc/insight.html
+built/insight/doc/display.html
+built/insight/doc/insight.R
+built/insight/doc/index.html
+built/insight/doc/export.R
+built/insight/doc/export.html
+built/insight/R/
+built/insight/R/insight.rdx
+built/insight/R/insight.rdb
+built/insight/R/insight
+built/insight/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''sjmisc'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv datawizard_0.6.5_R_x86_64-pc-linux-gnu.tar.gz insight_0.18.8_R_x86_64-pc-linux-gnu.tar.gz sjlabelled_1.2.0_R_x86_64-pc-linux-gnu.tar.gz sjmisc_2.8.9_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/sjmisc
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'sjmisc'
+also installing the dependencies ‘datawizard’, ‘insight’, ‘sjlabelled’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/datawizard_0.6.5.tar.gz'
+Content type 'binary/octet-stream' length 1222158 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/insight_0.18.8.tar.gz'
+Content type 'binary/octet-stream' length 2009431 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/sjlabelled_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 318279 bytes (310 KB)
+==================================================
+downloaded 310 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/sjmisc_2.8.9.tar.gz'
+Content type 'binary/octet-stream' length 527542 bytes (515 KB)
+==================================================
+downloaded 515 KB
+
+* installing *binary* package ‘insight’ ...
+* ‘insight’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘insight’ as ‘insight_0.18.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (insight)
+* installing *binary* package ‘datawizard’ ...
+* ‘datawizard’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘datawizard’ as ‘datawizard_0.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (datawizard)
+* installing *binary* package ‘sjlabelled’ ...
+* ‘sjlabelled’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sjlabelled’ as ‘sjlabelled_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sjlabelled)
+* installing *binary* package ‘sjmisc’ ...
+* ‘sjmisc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sjmisc’ as ‘sjmisc_2.8.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sjmisc)
+
+The downloaded source packages are in
+	‘/tmp/RtmppgwO4D/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m24.646s
+user	0m7.769s
+sys	0m1.034s
