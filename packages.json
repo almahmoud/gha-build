@@ -378,7 +378,6 @@
         "haven",
         "modelr",
         "motifmatchr",
-        "msigdbr",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "plotly",
@@ -1440,7 +1439,6 @@
         "gggenes",
         "ggrastr",
         "kableExtra",
-        "msigdbr",
         "plotly",
         "qs",
         "rtracklayer",
@@ -3024,8 +3022,7 @@
         "GSVA",
         "SingleCellExperiment",
         "UCell",
-        "annotate",
-        "msigdbr"
+        "annotate"
     ],
     "esetVis": [
         "MLP"
@@ -4126,7 +4123,6 @@
     ],
     "hypeR": [
         "kableExtra",
-        "msigdbr",
         "reactable",
         "visNetwork"
     ],
@@ -4718,7 +4714,6 @@
         "ggtree",
         "gson",
         "interactiveDisplayBase",
-        "msigdbr",
         "org.Hs.eg.db",
         "pathview",
         "scatterpie",
@@ -8154,7 +8149,6 @@
         "SingleCellExperiment",
         "annotate",
         "fields",
-        "msigdbr",
         "nnTensor",
         "plotly",
         "schex"
@@ -8443,7 +8437,6 @@
         "hgu95a.db",
         "interactiveDisplayBase",
         "metap",
-        "msigdbr",
         "org.Hs.eg.db",
         "plotly",
         "reldist",
@@ -9751,7 +9744,6 @@
         "graphite",
         "lme4",
         "lmerTest",
-        "msigdbr",
         "nloptr",
         "org.Hs.eg.db",
         "pathview",
@@ -9912,7 +9904,6 @@
     ],
     "mGSZ": [],
     "ggfortify": [],
-    "msigdbr": [],
     "tidyverse": [
         "haven",
         "modelr"
