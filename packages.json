@@ -817,7 +817,6 @@
     "PING": [
         "Gviz"
     ],
-    "PloGO2": [],
     "plotGrouper": [
         "ggpubr",
         "rstatix"
