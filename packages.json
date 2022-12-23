@@ -11812,7 +11812,6 @@
     ],
     "HubPub": [
         "available",
-        "aws.s3",
         "biocthis",
         "dplyr",
         "gert",
@@ -21851,7 +21850,6 @@
         "RLHub",
         "Rsamtools",
         "SummarizedExperiment",
-        "aws.s3",
         "biomaRt",
         "broom",
         "bslib",
@@ -30836,7 +30834,6 @@
         "dplyr",
         "tidytext"
     ],
-    "aws.s3": [],
     "reactable": [
         "bslib",
         "htmlwidgets",
