@@ -4172,8 +4172,7 @@
         "plotly",
         "rstatix",
         "testthat",
-        "visNetwork",
-        "wordcloud2"
+        "visNetwork"
     ],
     "IntEREst": [
         "DESeq2",
@@ -9934,7 +9933,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "wordcloud2": [],
     "datamods": [
         "haven",
         "rio",
