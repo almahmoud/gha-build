@@ -53883,7 +53883,6 @@
         "spatstat.sparse",
         "stringr",
         "survival",
-        "tagcloud",
         "tibble",
         "tidygraph",
         "tidyr",
@@ -53980,7 +53979,6 @@
         "spatstat.sparse",
         "stringr",
         "survival",
-        "tagcloud",
         "tibble",
         "tidyr",
         "tidyselect",
@@ -73930,7 +73928,6 @@
         "pillar",
         "plot3D",
         "scales",
-        "tagcloud",
         "tibble",
         "vctrs",
         "viridis"
@@ -73946,7 +73943,6 @@
         "vctrs",
         "viridis"
     ],
-    "tagcloud": [],
     "clustree": [
         "RcppEigen",
         "dplyr",
