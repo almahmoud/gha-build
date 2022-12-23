@@ -352,9 +352,7 @@
         "ggpubr"
     ],
     "OGRE": [],
-    "omicRexposome": [
-        "rexposome"
-    ],
+    "omicRexposome": [],
     "OMICsPCA": [
         "factoextra",
         "ggpubr"
@@ -406,7 +404,6 @@
     "regionReport": [],
     "regutools": [],
     "ReportingTools": [],
-    "rexposome": [],
     "RiboProfiling": [],
     "ribosomeProfilingQC": [],
     "RIPAT": [],
