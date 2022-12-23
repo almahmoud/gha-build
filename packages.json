@@ -1148,7 +1148,6 @@
         "plsVarSel",
         "sva"
     ],
-    "DAPAR": [],
     "dasper": [
         "GenomicFeatures",
         "car",
@@ -3657,9 +3656,7 @@
         "genefilter",
         "sva"
     ],
-    "Prostar": [
-        "DAPAR"
-    ],
+    "Prostar": [],
     "proteasy": [
         "EnsDb.Hsapiens.v86",
         "EnsDb.Mmusculus.v79",
