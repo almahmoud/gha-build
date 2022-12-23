@@ -60664,7 +60664,6 @@
         "lifecycle",
         "limma",
         "locfit",
-        "lpsymphony",
         "magrittr",
         "matrixStats",
         "memoise",
@@ -61050,7 +61049,6 @@
         "zlibbioc"
     ],
     "IHW": [
-        "lpsymphony",
         "slam"
     ],
     "illuminaio": [
@@ -67462,7 +67460,6 @@
     "lpNet": [
         "lpSolve"
     ],
-    "lpsymphony": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "Biobase",
@@ -68175,7 +68172,6 @@
         "lme4",
         "lmerTest",
         "locfit",
-        "lpsymphony",
         "magrittr",
         "matrixStats",
         "metagenomeSeq",
@@ -68337,7 +68333,6 @@
         "lme4",
         "lmerTest",
         "locfit",
-        "lpsymphony",
         "magrittr",
         "matrixStats",
         "memoise",
@@ -80401,7 +80396,6 @@
         "lme4",
         "lmerTest",
         "locfit",
-        "lpsymphony",
         "magrittr",
         "mathjaxr",
         "matrixStats",
