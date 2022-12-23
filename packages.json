@@ -35,7 +35,6 @@
         "ADAM",
         "DT",
         "GO.db",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -441,7 +440,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "annotate",
         "biomaRt",
-        "broom",
         "chromVAR",
         "fgsea",
         "ggalluvial",
@@ -531,7 +529,6 @@
     "awst": [],
     "BaalChIP": [
         "GenomicAlignments",
-        "broom",
         "doBy",
         "lme4",
         "nloptr",
@@ -748,9 +745,7 @@
         "ChemmineR",
         "DT"
     ],
-    "biobroom": [
-        "broom"
-    ],
+    "biobroom": [],
     "bioCancer": [
         "DOSE",
         "DT",
@@ -760,7 +755,6 @@
         "HDO.db",
         "ReactomePA",
         "aplot",
-        "broom",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -803,7 +797,6 @@
         "GenomicFeatures",
         "MultiAssayExperiment",
         "biomaRt",
-        "broom",
         "car",
         "curatedTCGAData",
         "ggpubr",
@@ -1284,7 +1277,6 @@
     "CATALYST": [
         "FlowSOM",
         "SingleCellExperiment",
-        "broom",
         "car",
         "drc",
         "ggpubr",
@@ -1409,7 +1401,6 @@
         "DT",
         "FactoMineR",
         "Hmisc",
-        "broom",
         "car",
         "htmlTable",
         "lme4",
@@ -1459,7 +1450,6 @@
     ],
     "censcyt": [
         "FlowSOM",
-        "broom",
         "broom.mixed",
         "car",
         "diffcyt",
@@ -1490,7 +1480,6 @@
         "HDO.db",
         "annotate",
         "aplot",
-        "broom",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -1646,7 +1635,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "broom",
         "ensembldb",
         "htmlTable",
         "rtracklayer"
@@ -2118,7 +2106,6 @@
         "SingleCellExperiment",
         "aplot",
         "biomaRt",
-        "broom",
         "car",
         "clusterProfiler",
         "dendextend",
@@ -2453,7 +2440,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "broom",
         "fgsea",
         "highcharter",
         "interactiveDisplayBase",
@@ -2500,7 +2486,6 @@
         "GEOmap",
         "GGally",
         "RFOC",
-        "broom",
         "car",
         "cytometree",
         "fields",
@@ -2518,7 +2503,6 @@
         "DT",
         "FactoMineR",
         "FlowSOM",
-        "broom",
         "car",
         "caret",
         "dendextend",
@@ -2536,7 +2520,6 @@
     "CytoGLMM": [
         "DT",
         "FactoMineR",
-        "broom",
         "car",
         "caret",
         "dendextend",
@@ -2605,7 +2588,6 @@
         "annotate",
         "arm",
         "biomaRt",
-        "broom",
         "car",
         "caret",
         "genefilter",
@@ -2624,7 +2606,6 @@
     "DAPAR": [
         "DAPARdata",
         "MSnbase",
-        "broom",
         "highcharter"
     ],
     "dasper": [
@@ -2632,7 +2613,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "broom",
         "car",
         "cmdfun",
         "ggpubr",
@@ -2647,7 +2627,6 @@
     ],
     "dce": [
         "Linnorm",
-        "broom",
         "epiNEM",
         "ggraph",
         "graphite",
@@ -2662,7 +2641,6 @@
     "ddPCRclust": [
         "GEOmap",
         "RFOC",
-        "broom",
         "car",
         "fields",
         "flowDensity",
@@ -2743,9 +2721,7 @@
         "rtracklayer",
         "testthat"
     ],
-    "decoupleR": [
-        "broom"
-    ],
+    "decoupleR": [],
     "DeepBlueR": [
         "GenomicAlignments",
         "diffr",
@@ -2794,7 +2770,6 @@
     "DEGreport": [
         "DESeq2",
         "annotate",
-        "broom",
         "geneplotter"
     ],
     "DEGseq": [],
@@ -2874,7 +2849,6 @@
     "destiny": [
         "SingleCellExperiment",
         "VIM",
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -2929,7 +2903,6 @@
     ],
     "diffcyt": [
         "FlowSOM",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -2978,7 +2951,6 @@
     "DiscoRhythm": [
         "BiocStyle",
         "DT",
-        "broom",
         "colourpicker",
         "dendextend",
         "ggExtra",
@@ -3096,7 +3068,6 @@
     ],
     "Doscheda": [
         "DT",
-        "broom",
         "car",
         "drc",
         "lme4",
@@ -3161,7 +3132,6 @@
         "DT",
         "ExperimentHub",
         "annotate",
-        "broom",
         "car",
         "decoupleR",
         "dorothea",
@@ -3298,7 +3268,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "broom",
         "car",
         "ensembldb",
         "ggpubr",
@@ -3375,7 +3344,6 @@
         "TFBSTools",
         "annotate",
         "aplot",
-        "broom",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -3457,7 +3425,6 @@
     ],
     "epidecodeR": [
         "GenomicAlignments",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -3474,7 +3441,6 @@
         "BSgenome",
         "GenomicAlignments",
         "GreyListChIP",
-        "broom",
         "car",
         "csaw",
         "ggpubr",
@@ -3676,7 +3642,6 @@
         "SingleCellExperiment",
         "UCell",
         "annotate",
-        "broom",
         "msigdbr"
     ],
     "esetVis": [
@@ -3704,7 +3669,6 @@
         "ExperimentHub",
         "SingleCellExperiment",
         "aplot",
-        "broom",
         "car",
         "ewceData",
         "ggpubr",
@@ -3787,7 +3751,6 @@
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
-        "broom",
         "csaw",
         "ensembldb",
         "htmlTable",
@@ -3834,7 +3797,6 @@
         "Hmisc",
         "LiquidAssociation",
         "WGCNA",
-        "broom",
         "geepack",
         "htmlTable",
         "org.Sc.sgd.db"
@@ -3974,7 +3936,6 @@
     "flowCut": [
         "GEOmap",
         "RFOC",
-        "broom",
         "car",
         "fields",
         "flowDensity",
@@ -3986,7 +3947,6 @@
     "flowDensity": [
         "GEOmap",
         "RFOC",
-        "broom",
         "car",
         "fields",
         "lme4",
@@ -3999,7 +3959,6 @@
         "visNetwork"
     ],
     "flowPloidy": [
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -4007,7 +3966,6 @@
         "testthat"
     ],
     "FlowSOM": [
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -4060,7 +4018,6 @@
     ],
     "frenchFISH": [
         "NHPoisson",
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -4098,7 +4055,6 @@
     ],
     "FuseSOM": [
         "FCPS",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -4146,7 +4102,6 @@
         "annotate",
         "arm",
         "biomaRt",
-        "broom",
         "car",
         "caret",
         "genefilter",
@@ -4187,7 +4142,6 @@
         "annotate",
         "aplot",
         "biomaRt",
-        "broom",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -4228,7 +4182,6 @@
     "GeneAccord": [
         "BiocFileCache",
         "biomaRt",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -4259,7 +4212,6 @@
     "GeneGeneInteR": [
         "DT",
         "FactoMineR",
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -4277,7 +4229,6 @@
     "GENESIS": [
         "GWASTools",
         "SeqVarTools",
-        "broom",
         "logistf",
         "mice"
     ],
@@ -4326,9 +4277,7 @@
     "genomes": [],
     "GenomicAlignments": [],
     "GenomicDataCommons": [],
-    "GenomicDistributions": [
-        "broom"
-    ],
+    "GenomicDistributions": [],
     "GenomicFeatures": [
         "BiocFileCache",
         "GenomicAlignments",
@@ -4395,7 +4344,6 @@
     ],
     "GenomicSuperSignature": [
         "BiocFileCache",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -4451,7 +4399,6 @@
         "DT",
         "FactoMineR",
         "GEOquery",
-        "broom",
         "car",
         "dendextend",
         "factoextra",
@@ -4495,7 +4442,6 @@
     ],
     "getDEE2": [],
     "GEWIST": [
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -4579,7 +4525,6 @@
         "BiocFileCache",
         "MultiAssayExperiment",
         "biomaRt",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -4617,7 +4562,6 @@
         "Hmisc",
         "WGCNA",
         "annotate",
-        "broom",
         "gRain",
         "genefilter",
         "htmlTable",
@@ -4734,7 +4678,6 @@
         "rtracklayer"
     ],
     "GRmetrics": [
-        "broom",
         "car",
         "drc",
         "lme4",
@@ -4853,7 +4796,6 @@
         "rtracklayer"
     ],
     "GWASTools": [
-        "broom",
         "logistf",
         "mice"
     ],
@@ -4865,7 +4807,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "broom",
         "logistf",
         "mice",
         "rtracklayer"
@@ -4939,7 +4880,6 @@
         "HiCcompare",
         "InteractionSet",
         "QDNAseq",
-        "broom",
         "car",
         "colourpicker",
         "ggExtra",
@@ -5215,7 +5155,6 @@
     "InTAD": [
         "GenomicAlignments",
         "MultiAssayExperiment",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -5262,7 +5201,6 @@
         "DT",
         "FactoMineR",
         "biomaRt",
-        "broom",
         "car",
         "colourpicker",
         "dendextend",
@@ -5295,7 +5233,6 @@
         "ShortRead"
     ],
     "iPath": [
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -5328,7 +5265,6 @@
         "Seurat",
         "SingleCellExperiment",
         "aplot",
-        "broom",
         "car",
         "clusterProfiler",
         "enrichplot",
@@ -5422,7 +5358,6 @@
         "DESeq2",
         "GGally",
         "annotate",
-        "broom",
         "geneplotter"
     ],
     "ITALICS": [
@@ -5442,7 +5377,6 @@
         "testthat"
     ],
     "ivygapSE": [
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -5500,7 +5434,6 @@
         "FactoMineR",
         "GenomicAlignments",
         "annotate",
-        "broom",
         "bsseq",
         "car",
         "dendextend",
@@ -5552,7 +5485,6 @@
     ],
     "LinkHD": [
         "MultiAssayExperiment",
-        "broom",
         "car",
         "ggpubr",
         "haven",
@@ -5580,7 +5512,6 @@
         "ropls"
     ],
     "LiquidAssociation": [
-        "broom",
         "geepack",
         "org.Sc.sgd.db"
     ],
@@ -5678,7 +5609,6 @@
         "rtracklayer"
     ],
     "Maaslin2": [
-        "broom",
         "car",
         "glmmTMB",
         "lme4",
@@ -5692,7 +5622,6 @@
         "Hmisc",
         "Maaslin2",
         "WGCNA",
-        "broom",
         "car",
         "glmmTMB",
         "htmlTable",
@@ -5772,7 +5701,6 @@
         "treeio"
     ],
     "MAI": [
-        "broom",
         "caret",
         "haven",
         "modelr",
@@ -5863,7 +5791,6 @@
     ],
     "mBPCR": [
         "GWASTools",
-        "broom",
         "logistf",
         "mice",
         "oligoClasses"
@@ -5963,7 +5890,6 @@
         "rtracklayer"
     ],
     "MEDME": [
-        "broom",
         "car",
         "drc",
         "lme4",
@@ -6045,7 +5971,6 @@
         "Hmisc",
         "MWASTools",
         "biomaRt",
-        "broom",
         "car",
         "ensembldb",
         "htmlTable",
@@ -6059,7 +5984,6 @@
     ],
     "MetaCyto": [
         "FlowSOM",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -6171,7 +6095,6 @@
         "BiocFileCache",
         "DT",
         "ExperimentHub",
-        "broom",
         "car",
         "ggpubr",
         "interactiveDisplayBase",
@@ -6232,7 +6155,6 @@
         "OrganismDbi",
         "annotate",
         "biomaRt",
-        "broom",
         "bumphunter",
         "car",
         "devtools",
@@ -6400,7 +6322,6 @@
         "DESeq2",
         "DT",
         "annotate",
-        "broom",
         "car",
         "dendextend",
         "geneplotter",
@@ -6466,7 +6387,6 @@
     "midasHLA": [
         "HardyWeinberg",
         "MultiAssayExperiment",
-        "broom",
         "formattable",
         "kableExtra",
         "mice"
@@ -6593,7 +6513,6 @@
         "aplot",
         "biclust",
         "biomaRt",
-        "broom",
         "car",
         "caret",
         "clusterProfiler",
@@ -6639,7 +6558,6 @@
         "SPONGE",
         "aplot",
         "biomaRt",
-        "broom",
         "car",
         "caret",
         "clusterProfiler",
@@ -6698,7 +6616,6 @@
     ],
     "mitch": [
         "GGally",
-        "broom",
         "echarts4r"
     ],
     "mitoClone2": [
@@ -6745,7 +6662,6 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "broom",
         "car",
         "glmmTMB",
         "lme4",
@@ -6881,7 +6797,6 @@
     "mpra": [],
     "MPRAnalyze": [],
     "MQmetrics": [
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -6944,7 +6859,6 @@
     "MSPrep": [
         "VIM",
         "annotate",
-        "broom",
         "car",
         "genefilter",
         "lme4",
@@ -6973,7 +6887,6 @@
         "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
-        "broom",
         "car",
         "dendextend",
         "factoextra",
@@ -7145,7 +7058,6 @@
         "SingleCellExperiment",
         "annotate",
         "blme",
-        "broom",
         "geneplotter",
         "ggrastr",
         "glmmTMB",
@@ -7174,7 +7086,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "VariantAnnotation",
         "biomaRt",
-        "broom",
         "car",
         "decompTumor2Sig",
         "deconstructSigs",
@@ -7204,7 +7115,6 @@
         "rtracklayer"
     ],
     "MWASTools": [
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -7275,7 +7185,6 @@
         "org.Hs.eg.db"
     ],
     "nanotatoR": [
-        "broom",
         "haven",
         "modelr",
         "org.Hs.eg.db",
@@ -7292,7 +7201,6 @@
         "geneplotter"
     ],
     "NBSplice": [
-        "broom",
         "car",
         "lme4",
         "mppa",
@@ -7451,7 +7359,6 @@
     "NormalyzerDE": [
         "Hmisc",
         "RcmdrMisc",
-        "broom",
         "car",
         "haven",
         "htmlTable",
@@ -7468,9 +7375,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "NPARC": [
-        "broom"
-    ],
+    "NPARC": [],
     "npGSEA": [
         "GSEABase",
         "annotate"
@@ -7530,7 +7435,6 @@
         "Hmisc",
         "VariantAnnotation",
         "biomaRt",
-        "broom",
         "bumphunter",
         "car",
         "cmdfun",
@@ -7594,7 +7498,6 @@
         "MultiDataSet",
         "SmartSVA",
         "annotate",
-        "broom",
         "car",
         "genefilter",
         "htmlTable",
@@ -7622,7 +7525,6 @@
         "OMICsPCAdata",
         "VariantAnnotation",
         "biomaRt",
-        "broom",
         "car",
         "dendextend",
         "factoextra",
@@ -7642,7 +7544,6 @@
     ],
     "omicsViewer": [
         "DT",
-        "broom",
         "car",
         "fgsea",
         "ggpubr",
@@ -7665,7 +7566,6 @@
         "biomaRt"
     ],
     "OncoSimulR": [
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -7695,7 +7595,6 @@
     "OpenStats": [
         "AICcmodavg",
         "Hmisc",
-        "broom",
         "car",
         "htmlTable",
         "lme4",
@@ -7758,7 +7657,6 @@
     ],
     "orthogene": [
         "aplot",
-        "broom",
         "car",
         "ggpubr",
         "ggtree",
@@ -7804,7 +7702,6 @@
         "DT",
         "FactoMineR",
         "MultiAssayExperiment",
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -7916,7 +7813,6 @@
         "DT",
         "MultiAssayExperiment",
         "biomaRt",
-        "broom",
         "car",
         "caret",
         "fgsea",
@@ -8019,7 +7915,6 @@
         "org.Hs.eg.db"
     ],
     "PhenStat": [
-        "broom",
         "car",
         "lme4",
         "logistf",
@@ -8039,7 +7934,6 @@
     ],
     "PhosR": [
         "GGally",
-        "broom",
         "car",
         "dendextend",
         "ggpubr",
@@ -8149,7 +8043,6 @@
     ],
     "plotGrouper": [
         "Hmisc",
-        "broom",
         "car",
         "colourpicker",
         "ggpubr",
@@ -8188,7 +8081,6 @@
     "POMA": [
         "DESeq2",
         "annotate",
-        "broom",
         "caret",
         "geneplotter",
         "mixOmics",
@@ -8344,7 +8236,6 @@
         "treeio"
     ],
     "progeny": [
-        "broom",
         "decoupleR"
     ],
     "projectR": [
@@ -8397,7 +8288,6 @@
         "DAPAR",
         "DAPARdata",
         "MSnbase",
-        "broom",
         "highcharter",
         "rhandsontable",
         "shinyjqui"
@@ -8434,7 +8324,6 @@
         "FactoMineR",
         "GGally",
         "annotate",
-        "broom",
         "car",
         "dendextend",
         "factoextra",
@@ -8461,7 +8350,6 @@
         "Hmisc",
         "VariantAnnotation",
         "biomaRt",
-        "broom",
         "bumphunter",
         "colourpicker",
         "derfinder",
@@ -8488,7 +8376,6 @@
         "DT",
         "Hmisc",
         "MSnbase",
-        "broom",
         "car",
         "ggpubr",
         "htmlTable",
@@ -8557,7 +8444,6 @@
     ],
     "qmtools": [
         "VIM",
-        "broom",
         "car",
         "dendextend",
         "heatmaply",
@@ -8984,7 +8870,6 @@
         "DT",
         "FactoMineR",
         "Hmisc",
-        "broom",
         "car",
         "htmlTable",
         "lme4",
@@ -9117,7 +9002,6 @@
     ],
     "rifi": [
         "GenomicAlignments",
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -9176,7 +9060,6 @@
         "GenomicFeatures",
         "RLHub",
         "biomaRt",
-        "broom",
         "caret",
         "caretEnsemble",
         "interactiveDisplayBase",
@@ -9238,7 +9121,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "biomaRt",
-        "broom",
         "bumphunter",
         "logistf",
         "mice",
@@ -9327,7 +9209,6 @@
         "annotate",
         "aplot",
         "ballgown",
-        "broom",
         "car",
         "clusterProfiler",
         "dendextend",
@@ -9366,7 +9247,6 @@
         "Hmisc",
         "VariantAnnotation",
         "biomaRt",
-        "broom",
         "bumphunter",
         "car",
         "derfinder",
@@ -9438,7 +9318,6 @@
     "rqt": [
         "MultiAssayExperiment",
         "MultiDataSet",
-        "broom",
         "car",
         "lme4",
         "metap",
@@ -9461,7 +9340,6 @@
         "ShortRead"
     ],
     "RTCGA": [
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -9483,7 +9361,6 @@
         "rtracklayer"
     ],
     "RTN": [
-        "broom",
         "car",
         "lme4",
         "mixtools",
@@ -9495,7 +9372,6 @@
     ],
     "RTNduals": [
         "RTN",
-        "broom",
         "car",
         "lme4",
         "mixtools",
@@ -9508,7 +9384,6 @@
     "RTNsurvival": [
         "RTN",
         "RTNduals",
-        "broom",
         "car",
         "lme4",
         "mixtools",
@@ -9549,7 +9424,6 @@
         "rtracklayer"
     ],
     "RVS": [
-        "broom",
         "gRain"
     ],
     "rWikiPathways": [],
@@ -10016,7 +9890,6 @@
         "rbokeh"
     ],
     "SeqVarTools": [
-        "broom",
         "logistf",
         "mice"
     ],
@@ -10131,7 +10004,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -10155,7 +10027,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "annotate",
         "biomaRt",
-        "broom",
         "car",
         "consensusOV",
         "ensembldb",
@@ -10600,7 +10471,6 @@
     "SPONGE": [
         "BiocFileCache",
         "biomaRt",
-        "broom",
         "car",
         "caret",
         "cvms",
@@ -10672,7 +10542,6 @@
     ],
     "ssPATHS": [
         "MESS",
-        "broom",
         "geepack",
         "ggformula",
         "haven",
@@ -10729,7 +10598,6 @@
     ],
     "Statial": [
         "SingleCellExperiment",
-        "broom",
         "haven",
         "modelr",
         "tidyverse"
@@ -10791,7 +10659,6 @@
         "testthat"
     ],
     "survtype": [
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -10840,7 +10707,6 @@
     ],
     "synergyfinder": [
         "SpatialExtremes",
-        "broom",
         "car",
         "drc",
         "fields",
@@ -10856,7 +10722,6 @@
         "tidyverse"
     ],
     "synlet": [
-        "broom",
         "doBy",
         "lme4",
         "nloptr",
@@ -10899,7 +10764,6 @@
         "HiCcompare",
         "InteractionSet",
         "QDNAseq",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -10924,7 +10788,6 @@
     ],
     "target": [],
     "TargetDecoy": [
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -10982,7 +10845,6 @@
         "aplot",
         "biomaRt",
         "biovizBase",
-        "broom",
         "car",
         "caret",
         "clusterProfiler",
@@ -11184,7 +11046,6 @@
         "GSVA",
         "SingleCellExperiment",
         "annotate",
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -11217,8 +11078,7 @@
         "visNetwork"
     ],
     "TPP": [
-        "biobroom",
-        "broom"
+        "biobroom"
     ],
     "TPP2D": [],
     "tracktables": [],
@@ -11303,7 +11163,6 @@
         "FlowSOM",
         "SingleCellExperiment",
         "aplot",
-        "broom",
         "car",
         "diffcyt",
         "ggiraph",
@@ -11540,7 +11399,6 @@
         "rtracklayer"
     ],
     "variancePartition": [
-        "broom",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -11558,7 +11416,6 @@
     "VariantExperiment": [
         "GDSArray",
         "SeqVarTools",
-        "broom",
         "logistf",
         "mice"
     ],
@@ -11839,7 +11696,6 @@
         "GO.db",
         "GSEABase",
         "annotate",
-        "broom",
         "graphite",
         "lme4",
         "lmerTest",
@@ -11863,7 +11719,6 @@
     "plotly": [],
     "DT": [],
     "ggpubr": [
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -11873,23 +11728,19 @@
     ],
     "testthat": [],
     "rstatix": [
-        "broom",
         "car",
         "lme4",
         "nloptr",
         "pbkrtest",
         "testthat"
     ],
-    "broom": [],
     "car": [
-        "broom",
         "lme4",
         "nloptr",
         "pbkrtest",
         "testthat"
     ],
     "pbkrtest": [
-        "broom",
         "lme4",
         "nloptr",
         "testthat"
@@ -12046,7 +11897,6 @@
     "ggfortify": [],
     "msigdbr": [],
     "tidyverse": [
-        "broom",
         "haven",
         "modelr"
     ],
@@ -12082,15 +11932,12 @@
         "rtracklayer"
     ],
     "haven": [],
-    "modelr": [
-        "broom"
-    ],
+    "modelr": [],
     "reactome.db": [],
     "mixtools": [
         "plotly"
     ],
     "doBy": [
-        "broom",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -12129,7 +11976,6 @@
     ],
     "radiant.data": [
         "DT",
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -12226,7 +12072,6 @@
     ],
     "profvis": [],
     "drc": [
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -12235,7 +12080,6 @@
     ],
     "FactoMineR": [
         "DT",
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -12243,12 +12087,8 @@
         "testthat"
     ],
     "ggpmisc": [],
-    "broom.mixed": [
-        "broom"
-    ],
-    "mice": [
-        "broom"
-    ],
+    "broom.mixed": [],
+    "mice": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "BiocFileCache",
@@ -12368,7 +12208,6 @@
     "factoextra": [
         "DT",
         "FactoMineR",
-        "broom",
         "car",
         "dendextend",
         "ggpubr",
@@ -12433,9 +12272,7 @@
     ],
     "keras": [],
     "shinypanel": [],
-    "highcharter": [
-        "broom"
-    ],
+    "highcharter": [],
     "cytometree": [],
     "RFOC": [
         "GEOmap",
@@ -12496,7 +12333,6 @@
     ],
     "syuzhet": [],
     "VIM": [
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -12541,9 +12377,7 @@
     "gap": [
         "plotly"
     ],
-    "geepack": [
-        "broom"
-    ],
+    "geepack": [],
     "fda": [
         "fds",
         "rainbow"
@@ -12555,7 +12389,6 @@
     "SPARQL": [],
     "ggiraph": [],
     "NHPoisson": [
-        "broom",
         "car",
         "lme4",
         "nloptr",
@@ -12564,7 +12397,6 @@
     ],
     "FCPS": [],
     "survminer": [
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -12574,7 +12406,6 @@
         "testthat"
     ],
     "logistf": [
-        "broom",
         "mice"
     ],
     "bs4Dash": [],
@@ -12592,9 +12423,7 @@
         "Hmisc",
         "htmlTable"
     ],
-    "gRain": [
-        "broom"
-    ],
+    "gRain": [],
     "epiR": [],
     "HiContactsData": [
         "AnnotationHub",
@@ -12728,7 +12557,6 @@
     ],
     "formattable": [],
     "HardyWeinberg": [
-        "broom",
         "mice"
     ],
     "lumiHumanAll.db": [
@@ -12757,9 +12585,7 @@
         "testthat"
     ],
     "groupdata2": [],
-    "echarts4r": [
-        "broom"
-    ],
+    "echarts4r": [],
     "HiveR": [
         "rgl"
     ],
@@ -12786,7 +12612,6 @@
     ],
     "RcmdrMisc": [
         "Hmisc",
-        "broom",
         "car",
         "haven",
         "htmlTable",
@@ -12917,7 +12742,6 @@
     ],
     "valr": [
         "GenomicAlignments",
-        "broom",
         "rtracklayer"
     ],
     "caretEnsemble": [
@@ -12959,7 +12783,6 @@
     ],
     "rbokeh": [],
     "survivalAnalysis": [
-        "broom",
         "car",
         "ggpubr",
         "lme4",
@@ -13018,7 +12841,6 @@
         "miRNAtap"
     ],
     "MESS": [
-        "broom",
         "geepack",
         "ggformula",
         "haven",
