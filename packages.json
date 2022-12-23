@@ -30441,7 +30441,6 @@
         "openssl",
         "pillar",
         "purrr",
-        "qdapTools",
         "rmarkdown",
         "rvest",
         "sass",
@@ -62916,7 +62915,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "qdapTools": [],
     "ismev": [
         "mgcv"
     ],
