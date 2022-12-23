@@ -652,7 +652,6 @@
         "biovizBase",
         "viridis"
     ],
-    "coMethDMR": [],
     "compartmap": [
         "HDF5Array",
         "rhdf5"
