@@ -6184,7 +6184,6 @@
         "affy",
         "htmlTable",
         "plotly",
-        "proDA",
         "viridis",
         "vsn"
     ],
@@ -8854,7 +8853,6 @@
         "viridis",
         "vsn"
     ],
-    "proDA": [],
     "proFIA": [
         "MSnbase",
         "MsFeatures",
