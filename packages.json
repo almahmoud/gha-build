@@ -8817,7 +8817,6 @@
     "sangeranalyseR": [
         "plotly"
     ],
-    "satuRn": [],
     "SBGNview": [
         "AnnotationDbi",
         "org.Hs.eg.db",
