@@ -911,7 +911,6 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "deltaCaptureC": [],
     "DeMixT": [
         "DSS",
         "HDF5Array",
