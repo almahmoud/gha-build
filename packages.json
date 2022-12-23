@@ -5506,7 +5506,6 @@
         "tidygraph",
         "viridis"
     ],
-    "IMMAN": [],
     "ImmuneSpaceR": [
         "dendextend",
         "heatmaply",
