@@ -3299,7 +3299,6 @@
         "affy",
         "bumphunter",
         "lumi",
-        "lumiHumanAll.db",
         "methylumi",
         "minfi",
         "rhdf5",
@@ -6365,7 +6364,6 @@
         "OrganismDbi"
     ],
     "rebus": [],
-    "lumiHumanAll.db": [],
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome"
     ],
