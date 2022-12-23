@@ -240,7 +240,6 @@
     "amplican": [
         "GenomicAlignments",
         "ShortRead",
-        "ggthemes",
         "waffle"
     ],
     "Anaquin": [
@@ -1786,7 +1785,6 @@
         "fgsea",
         "ggpmisc",
         "ggraph",
-        "ggthemes",
         "ggtree",
         "gson",
         "htmlTable",
@@ -2733,8 +2731,7 @@
     ],
     "corral": [
         "MultiAssayExperiment",
-        "SingleCellExperiment",
-        "ggthemes"
+        "SingleCellExperiment"
     ],
     "coseq": [
         "AnnotationDbi",
@@ -3471,7 +3468,6 @@
         "VIM",
         "broom",
         "car",
-        "ggthemes",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -4643,9 +4639,7 @@
         "TSCAN",
         "TrajectoryUtils"
     ],
-    "fedup": [
-        "ggthemes"
-    ],
+    "fedup": [],
     "FELLA": [],
     "ffpe": [
         "AnnotationDbi",
@@ -5307,7 +5301,6 @@
         "GeomxTools",
         "NanoStringNCTools",
         "ggiraph",
-        "ggthemes",
         "htmlwidgets",
         "lme4",
         "lmerTest",
@@ -5344,7 +5337,6 @@
         "GGally",
         "NanoStringNCTools",
         "ggiraph",
-        "ggthemes",
         "htmlwidgets",
         "lme4",
         "lmerTest",
@@ -8742,7 +8734,6 @@
     ],
     "NanoStringNCTools": [
         "ggiraph",
-        "ggthemes",
         "htmlwidgets"
     ],
     "NanoStringQCPro": [
@@ -11384,7 +11375,6 @@
         "ggpubr",
         "ggsignif",
         "ggtext",
-        "ggthemes",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11856,7 +11846,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "ggthemes",
         "htmlTable",
         "htmlwidgets",
         "rtracklayer",
@@ -12598,7 +12587,6 @@
         "GeomxTools",
         "NanoStringNCTools",
         "ggiraph",
-        "ggthemes",
         "htmlwidgets",
         "lme4",
         "lmerTest",
@@ -12984,7 +12972,6 @@
     ],
     "struct": [],
     "structToolbox": [
-        "ggthemes",
         "struct"
     ],
     "StructuralVariantAnnotation": [
@@ -14371,7 +14358,6 @@
         "interactiveDisplayBase",
         "rhdf5"
     ],
-    "ggthemes": [],
     "waffle": [],
     "DescTools": [],
     "lmerTest": [
