@@ -4245,7 +4245,6 @@
         "SoupX",
         "TENxPBMCData",
         "celda",
-        "celldex",
         "ensembldb",
         "fields",
         "rhdf5",
@@ -5255,7 +5254,6 @@
         "rstatix",
         "survminer"
     ],
-    "celldex": [],
     "GSVAdata": [],
     "SoupX": [
         "Seurat"
