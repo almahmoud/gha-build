@@ -27122,7 +27122,6 @@
         "askpass",
         "assertthat",
         "base64enc",
-        "binr",
         "bit",
         "bit64",
         "bitops",
@@ -143729,7 +143728,6 @@
     ],
     "SMVar": [],
     "NCmisc": [],
-    "binr": [],
     "highcharter": [
         "Matrix",
         "R6",
