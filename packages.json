@@ -1498,7 +1498,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "flowVS": [],
     "fobitools": [
         "ggraph",
         "viridis"
