@@ -1,1796 +1,1688 @@
 # Summary
 
-2034 built packages
+2142 built packages
 
-15 failed packages
+16 failed packages
 
-1759 unclaimed packages
+1650 unclaimed packages
 
 
 
-## Failed (15)
+## Failed (16)
 | Package                                                                                          | Status   | BBS Status                                                                     | Log                                                                                        | Known Error   |
 |--------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------|
-| [CancerInSilico](https://github.com/almahmoud/gha-build/actions/runs/3767173530)                 | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/CancerInSilico) | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/CancerInSilico)  | Error unknown |
-| [Travel](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404535459)         | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/Travel)         | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/Travel)          | Error unknown |
-| [ReorderCluster](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404266040) | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/ReorderCluster)  | Error unknown |
-| [mGSZ](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/mGSZ)            | Error unknown |
-| [GenomicTools](https://github.com/almahmoud/gha-build/actions/runs/3766999283)                   | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/GenomicTools)    | Error unknown |
-| [spp](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404271674)            | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/spp)             | Error unknown |
-| [propr](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404105863)          | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/propr)           | Error unknown |
-| [EntropyExplorer](https://github.com/almahmoud/gha-build/actions/runs/3766999283)                | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/EntropyExplorer) | Error unknown |
-| [SPARQL](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404101863)         | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/SPARQL)          | Error unknown |
-| [mppa](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/mppa)            | Error unknown |
-| [Rmagic](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404286632)         | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/Rmagic)          | Error unknown |
-| [sampSurf](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404286103)       | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/sampSurf)        | Error unknown |
-| [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3766967064)                        | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/GenKern)         | Error unknown |
-| [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404287819)           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/vbsr)            | Error unknown |
-| [kmlShape](https://github.com/almahmoud/gha-build/actions/runs/3767069794)                       | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/bf0a9fa6/lists/failed/kmlShape)        | Error unknown |
+| [BitSeq](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                         | Failed   | [ERROR](https://bioconductor.org/checkResults/release/bioc-LATEST/BitSeq)      | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/BitSeq)          | Error unknown |
+| [CancerInSilico](https://github.com/almahmoud/gha-build/actions/runs/3767173530)                 | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/CancerInSilico) | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/CancerInSilico)  | Error unknown |
+| [Travel](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404535459)         | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/Travel)         | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/Travel)          | Error unknown |
+| [ReorderCluster](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404266040) | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/ReorderCluster)  | Error unknown |
+| [mGSZ](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/mGSZ)            | Error unknown |
+| [GenomicTools](https://github.com/almahmoud/gha-build/actions/runs/3766999283)                   | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/GenomicTools)    | Error unknown |
+| [spp](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404271674)            | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/spp)             | Error unknown |
+| [propr](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404105863)          | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/propr)           | Error unknown |
+| [EntropyExplorer](https://github.com/almahmoud/gha-build/actions/runs/3766999283)                | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/EntropyExplorer) | Error unknown |
+| [SPARQL](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404101863)         | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/SPARQL)          | Error unknown |
+| [mppa](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/mppa)            | Error unknown |
+| [Rmagic](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404286632)         | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/Rmagic)          | Error unknown |
+| [sampSurf](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404286103)       | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/sampSurf)        | Error unknown |
+| [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3766967064)                        | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/GenKern)         | Error unknown |
+| [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404287819)           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/vbsr)            | Error unknown |
+| [kmlShape](https://github.com/almahmoud/gha-build/actions/runs/3767069794)                       | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/62b7813f/lists/failed/kmlShape)        | Error unknown |
 
-## Unclaimed (1759)
-| Package                                                                            | Status    | Tarball   |
-|------------------------------------------------------------------------------------|-----------|-----------|
-| a4                                                                                 | Unclaimed |           |
-| a4Base                                                                             | Unclaimed |           |
-| abseqR                                                                             | Unclaimed |           |
-| ACE                                                                                | Unclaimed |           |
-| ADaCGH2                                                                            | Unclaimed |           |
-| ADAM                                                                               | Unclaimed |           |
-| ADAMgui                                                                            | Unclaimed |           |
-| adductomicsR                                                                       | Unclaimed |           |
-| ADImpute                                                                           | Unclaimed |           |
-| adSplit                                                                            | Unclaimed |           |
-| AffiXcan                                                                           | Unclaimed |           |
-| affycoretools                                                                      | Unclaimed |           |
-| affylmGUI                                                                          | Unclaimed |           |
-| AGDEX                                                                              | Unclaimed |           |
-| aggregateBioVar                                                                    | Unclaimed |           |
-| AgiMicroRna                                                                        | Unclaimed |           |
-| airpart                                                                            | Unclaimed |           |
-| ALDEx2                                                                             | Unclaimed |           |
-| alevinQC                                                                           | Unclaimed |           |
-| AllelicImbalance                                                                   | Unclaimed |           |
-| AlphaBeta                                                                          | Unclaimed |           |
-| alpine                                                                             | Unclaimed |           |
-| AlpsNMR                                                                            | Unclaimed |           |
-| AMARETTO                                                                           | Unclaimed |           |
-| amplican                                                                           | Unclaimed |           |
-| Anaquin                                                                            | Unclaimed |           |
-| ANCOMBC                                                                            | Unclaimed |           |
-| AneuFinder                                                                         | Unclaimed |           |
-| animalcules                                                                        | Unclaimed |           |
-| annaffy                                                                            | Unclaimed |           |
-| annmap                                                                             | Unclaimed |           |
-| annotate                                                                           | Unclaimed |           |
-| AnnotationForge                                                                    | Unclaimed |           |
-| AnnotationHub                                                                      | Unclaimed |           |
-| AnnotationHubData                                                                  | Unclaimed |           |
-| annotatr                                                                           | Unclaimed |           |
-| anota2seq                                                                          | Unclaimed |           |
-| AnVIL                                                                              | Unclaimed |           |
-| AnVILBilling                                                                       | Unclaimed |           |
-| AnVILPublish                                                                       | Unclaimed |           |
-| APAlyzer                                                                           | Unclaimed |           |
-| apComplex                                                                          | Unclaimed |           |
-| APL                                                                                | Unclaimed |           |
-| appreci8R                                                                          | Unclaimed |           |
-| ArrayExpress                                                                       | Unclaimed |           |
-| ArrayExpressHTS                                                                    | Unclaimed |           |
-| arrayMvout                                                                         | Unclaimed |           |
-| arrayQualityMetrics                                                                | Unclaimed |           |
-| artMS                                                                              | Unclaimed |           |
-| ASICS                                                                              | Unclaimed |           |
-| ASpediaFI                                                                          | Unclaimed |           |
-| ASpli                                                                              | Unclaimed |           |
-| ASSIGN                                                                             | Unclaimed |           |
-| ASURAT                                                                             | Unclaimed |           |
-| ATACCoGAPS                                                                         | Unclaimed |           |
-| ATACseqQC                                                                          | Unclaimed |           |
-| ATACseqTFEA                                                                        | Unclaimed |           |
-| atena                                                                              | Unclaimed |           |
-| atSNP                                                                              | Unclaimed |           |
-| attract                                                                            | Unclaimed |           |
-| AUCell                                                                             | Unclaimed |           |
-| autonomics                                                                         | Unclaimed |           |
-| awst                                                                               | Unclaimed |           |
-| BaalChIP                                                                           | Unclaimed |           |
-| BadRegionFinder                                                                    | Unclaimed |           |
-| ballgown                                                                           | Unclaimed |           |
-| bambu                                                                              | Unclaimed |           |
-| BANDITS                                                                            | Unclaimed |           |
-| bandle                                                                             | Unclaimed |           |
-| banocc                                                                             | Unclaimed |           |
-| barcodetrackR                                                                      | Unclaimed |           |
-| basecallQC                                                                         | Unclaimed |           |
-| Basic4Cseq                                                                         | Unclaimed |           |
-| BASiCS                                                                             | Unclaimed |           |
-| BASiCStan                                                                          | Unclaimed |           |
-| BasicSTARRseq                                                                      | Unclaimed |           |
-| batchelor                                                                          | Unclaimed |           |
-| BatchQC                                                                            | Unclaimed |           |
-| BayesSpace                                                                         | Unclaimed |           |
-| bayNorm                                                                            | Unclaimed |           |
-| BBCAnalyzer                                                                        | Unclaimed |           |
-| BDMMAcorrect                                                                       | Unclaimed |           |
-| beadarray                                                                          | Unclaimed |           |
-| BEARscc                                                                            | Unclaimed |           |
-| BEAT                                                                               | Unclaimed |           |
-| beer                                                                               | Unclaimed |           |
-| benchdamic                                                                         | Unclaimed |           |
-| BgeeCall                                                                           | Unclaimed |           |
-| BgeeDB                                                                             | Unclaimed |           |
-| BicARE                                                                             | Unclaimed |           |
-| bigmelon                                                                           | Unclaimed |           |
-| bigPint                                                                            | Unclaimed |           |
-| BindingSiteFinder                                                                  | Unclaimed |           |
-| bioassayR                                                                          | Unclaimed |           |
-| biobroom                                                                           | Unclaimed |           |
-| bioCancer                                                                          | Unclaimed |           |
-| BiocDockerManager                                                                  | Unclaimed |           |
-| BiocFHIR                                                                           | Unclaimed |           |
-| biocGraph                                                                          | Unclaimed |           |
-| BiocOncoTK                                                                         | Unclaimed |           |
-| BioCor                                                                             | Unclaimed |           |
-| BiocPkgTools                                                                       | Unclaimed |           |
-| BiocSet                                                                            | Unclaimed |           |
-| BiocSklearn                                                                        | Unclaimed |           |
-| BiocStyle                                                                          | Unclaimed |           |
-| BiocWorkflowTools                                                                  | Unclaimed |           |
-| biodb                                                                              | Unclaimed |           |
-| biodbChebi                                                                         | Unclaimed |           |
-| biodbExpasy                                                                        | Unclaimed |           |
-| biodbHmdb                                                                          | Unclaimed |           |
-| biodbKegg                                                                          | Unclaimed |           |
-| biodbLipidmaps                                                                     | Unclaimed |           |
-| biodbMirbase                                                                       | Unclaimed |           |
-| biodbNcbi                                                                          | Unclaimed |           |
-| biodbNci                                                                           | Unclaimed |           |
-| biodbUniprot                                                                       | Unclaimed |           |
-| biomaRt                                                                            | Unclaimed |           |
-| BioMM                                                                              | Unclaimed |           |
-| biomvRCNS                                                                          | Unclaimed |           |
-| BioNAR                                                                             | Unclaimed |           |
-| BioNERO                                                                            | Unclaimed |           |
-| BioNet                                                                             | Unclaimed |           |
-| BioNetStat                                                                         | Unclaimed |           |
-| biosigner                                                                          | Unclaimed |           |
-| BioTIP                                                                             | Unclaimed |           |
-| biotmle                                                                            | Unclaimed |           |
-| biovizBase                                                                         | Unclaimed |           |
-| biscuiteer                                                                         | Unclaimed |           |
-| BiSeq                                                                              | Unclaimed |           |
-| BitSeq                                                                             | Unclaimed |           |
-| blacksheepr                                                                        | Unclaimed |           |
-| blima                                                                              | Unclaimed |           |
-| BLMA                                                                               | Unclaimed |           |
-| BloodGen3Module                                                                    | Unclaimed |           |
-| bnbc                                                                               | Unclaimed |           |
-| bnem                                                                               | Unclaimed |           |
-| BOBaFIT                                                                            | Unclaimed |           |
-| borealis                                                                           | Unclaimed |           |
-| BPRMeth                                                                            | Unclaimed |           |
-| brainflowprobes                                                                    | Unclaimed |           |
-| BrainSABER                                                                         | Unclaimed |           |
-| branchpointer                                                                      | Unclaimed |           |
-| breakpointR                                                                        | Unclaimed |           |
-| brendaDb                                                                           | Unclaimed |           |
-| BRGenomics                                                                         | Unclaimed |           |
-| BSgenome                                                                           | Unclaimed |           |
-| bsseq                                                                              | Unclaimed |           |
-| BubbleTree                                                                         | Unclaimed |           |
-| bugsigdbr                                                                          | Unclaimed |           |
-| BUMHMM                                                                             | Unclaimed |           |
-| bumphunter                                                                         | Unclaimed |           |
-| BUScorrect                                                                         | Unclaimed |           |
-| BUSpaRse                                                                           | Unclaimed |           |
-| BUSseq                                                                             | Unclaimed |           |
-| CAEN                                                                               | Unclaimed |           |
-| CAFE                                                                               | Unclaimed |           |
-| CAGEfightR                                                                         | Unclaimed |           |
-| cageminer                                                                          | Unclaimed |           |
-| CAGEr                                                                              | Unclaimed |           |
-| CAMERA                                                                             | Unclaimed |           |
-| canceR                                                                             | Unclaimed |           |
-| CancerSubtypes                                                                     | Unclaimed |           |
-| cardelino                                                                          | Unclaimed |           |
-| Cardinal                                                                           | Unclaimed |           |
-| CARNIVAL                                                                           | Unclaimed |           |
-| casper                                                                             | Unclaimed |           |
-| CATALYST                                                                           | Unclaimed |           |
-| Category                                                                           | Unclaimed |           |
-| categoryCompare                                                                    | Unclaimed |           |
-| cbaf                                                                               | Unclaimed |           |
-| CBEA                                                                               | Unclaimed |           |
-| cBioPortalData                                                                     | Unclaimed |           |
-| cbpManager                                                                         | Unclaimed |           |
-| ccfindR                                                                            | Unclaimed |           |
-| ccmap                                                                              | Unclaimed |           |
-| CCPROMISE                                                                          | Unclaimed |           |
-| celaref                                                                            | Unclaimed |           |
-| celda                                                                              | Unclaimed |           |
-| CellaRepertorium                                                                   | Unclaimed |           |
-| CellBarcode                                                                        | Unclaimed |           |
-| CellBench                                                                          | Unclaimed |           |
-| cellHTS2                                                                           | Unclaimed |           |
-| CelliD                                                                             | Unclaimed |           |
-| cellity                                                                            | Unclaimed |           |
-| cellmigRation                                                                      | Unclaimed |           |
-| CellMixS                                                                           | Unclaimed |           |
-| CellTrails                                                                         | Unclaimed |           |
-| cellTree                                                                           | Unclaimed |           |
-| cellxgenedp                                                                        | Unclaimed |           |
-| CEMiTool                                                                           | Unclaimed |           |
-| censcyt                                                                            | Unclaimed |           |
-| Cepo                                                                               | Unclaimed |           |
-| ceRNAnetsim                                                                        | Unclaimed |           |
-| CeTF                                                                               | Unclaimed |           |
-| CexoR                                                                              | Unclaimed |           |
-| cfDNAPro                                                                           | Unclaimed |           |
-| CGHcall                                                                            | Unclaimed |           |
-| cghMCR                                                                             | Unclaimed |           |
-| CGHnormaliter                                                                      | Unclaimed |           |
-| ChAMP                                                                              | Unclaimed |           |
-| ChemmineR                                                                          | Unclaimed |           |
-| CHETAH                                                                             | Unclaimed |           |
-| ChIC                                                                               | Unclaimed |           |
-| Chicago                                                                            | Unclaimed |           |
-| chimeraviz                                                                         | Unclaimed |           |
-| ChIPanalyser                                                                       | Unclaimed |           |
-| ChIPComp                                                                           | Unclaimed |           |
-| chipenrich                                                                         | Unclaimed |           |
-| ChIPexoQual                                                                        | Unclaimed |           |
-| ChIPpeakAnno                                                                       | Unclaimed |           |
-| ChIPQC                                                                             | Unclaimed |           |
-| ChIPseeker                                                                         | Unclaimed |           |
-| chipseq                                                                            | Unclaimed |           |
-| ChIPseqR                                                                           | Unclaimed |           |
-| ChIPsim                                                                            | Unclaimed |           |
-| ChIPXpress                                                                         | Unclaimed |           |
-| ChromHeatMap                                                                       | Unclaimed |           |
-| chromPlot                                                                          | Unclaimed |           |
-| ChromSCape                                                                         | Unclaimed |           |
-| chromstaR                                                                          | Unclaimed |           |
-| chromswitch                                                                        | Unclaimed |           |
-| chromVAR                                                                           | Unclaimed |           |
-| CHRONOS                                                                            | Unclaimed |           |
-| cicero                                                                             | Unclaimed |           |
-| CIMICE                                                                             | Unclaimed |           |
-| circRNAprofiler                                                                    | Unclaimed |           |
-| CircSeqAlignTk                                                                     | Unclaimed |           |
-| CiteFuse                                                                           | Unclaimed |           |
-| ClassifyR                                                                          | Unclaimed |           |
-| cleanUpdTSeq                                                                       | Unclaimed |           |
-| clippda                                                                            | Unclaimed |           |
-| clipper                                                                            | Unclaimed |           |
-| cliProfiler                                                                        | Unclaimed |           |
-| cliqueMS                                                                           | Unclaimed |           |
-| CluMSID                                                                            | Unclaimed |           |
-| clusterExperiment                                                                  | Unclaimed |           |
-| clusterProfiler                                                                    | Unclaimed |           |
-| clustifyr                                                                          | Unclaimed |           |
-| cmapR                                                                              | Unclaimed |           |
-| cn.farms                                                                           | Unclaimed |           |
-| cn.mops                                                                            | Unclaimed |           |
-| CNEr                                                                               | Unclaimed |           |
-| CNORfuzzy                                                                          | Unclaimed |           |
-| CNTools                                                                            | Unclaimed |           |
-| CNVfilteR                                                                          | Unclaimed |           |
-| CNViz                                                                              | Unclaimed |           |
-| CNVPanelizer                                                                       | Unclaimed |           |
-| CNVRanger                                                                          | Unclaimed |           |
-| CNVrd2                                                                             | Unclaimed |           |
-| CoCiteStats                                                                        | Unclaimed |           |
-| COCOA                                                                              | Unclaimed |           |
-| codelink                                                                           | Unclaimed |           |
-| CODEX                                                                              | Unclaimed |           |
-| coexnet                                                                            | Unclaimed |           |
-| CoGAPS                                                                             | Unclaimed |           |
-| cogena                                                                             | Unclaimed |           |
-| cogeqc                                                                             | Unclaimed |           |
-| Cogito                                                                             | Unclaimed |           |
-| comapr                                                                             | Unclaimed |           |
-| combi                                                                              | Unclaimed |           |
-| coMET                                                                              | Unclaimed |           |
-| coMethDMR                                                                          | Unclaimed |           |
-| compartmap                                                                         | Unclaimed |           |
-| COMPASS                                                                            | Unclaimed |           |
-| compEpiTools                                                                       | Unclaimed |           |
-| CompoundDb                                                                         | Unclaimed |           |
-| ComPrAn                                                                            | Unclaimed |           |
-| conclus                                                                            | Unclaimed |           |
-| condiments                                                                         | Unclaimed |           |
-| CONFESS                                                                            | Unclaimed |           |
-| consensusDE                                                                        | Unclaimed |           |
-| consensusOV                                                                        | Unclaimed |           |
-| consensusSeekeR                                                                    | Unclaimed |           |
-| consICA                                                                            | Unclaimed |           |
-| contiBAIT                                                                          | Unclaimed |           |
-| conumee                                                                            | Unclaimed |           |
-| CopyNumberPlots                                                                    | Unclaimed |           |
-| CopywriteR                                                                         | Unclaimed |           |
-| CoreGx                                                                             | Unclaimed |           |
-| corral                                                                             | Unclaimed |           |
-| coseq                                                                              | Unclaimed |           |
-| cosmiq                                                                             | Unclaimed |           |
-| cosmosR                                                                            | Unclaimed |           |
-| COTAN                                                                              | Unclaimed |           |
-| countsimQC                                                                         | Unclaimed |           |
-| CoverageView                                                                       | Unclaimed |           |
-| covRNA                                                                             | Unclaimed |           |
-| cpvSNP                                                                             | Unclaimed |           |
-| CRImage                                                                            | Unclaimed |           |
-| crisprBowtie                                                                       | Unclaimed |           |
-| crisprBwa                                                                          | Unclaimed |           |
-| crisprDesign                                                                       | Unclaimed |           |
-| crisprScore                                                                        | Unclaimed |           |
-| CRISPRseek                                                                         | Unclaimed |           |
-| crisprseekplus                                                                     | Unclaimed |           |
-| CrispRVariants                                                                     | Unclaimed |           |
-| crisprVerse                                                                        | Unclaimed |           |
-| crisprViz                                                                          | Unclaimed |           |
-| crlmm                                                                              | Unclaimed |           |
-| crossmeta                                                                          | Unclaimed |           |
-| csaw                                                                               | Unclaimed |           |
-| csdR                                                                               | Unclaimed |           |
-| CSSQ                                                                               | Unclaimed |           |
-| CTDquerier                                                                         | Unclaimed |           |
-| cTRAP                                                                              | Unclaimed |           |
-| CTSV                                                                               | Unclaimed |           |
-| cummeRbund                                                                         | Unclaimed |           |
-| customCMPdb                                                                        | Unclaimed |           |
-| customProDB                                                                        | Unclaimed |           |
-| cyanoFilter                                                                        | Unclaimed |           |
-| cydar                                                                              | Unclaimed |           |
-| CyTOFpower                                                                         | Unclaimed |           |
-| CytoGLMM                                                                           | Unclaimed |           |
-| cytoKernel                                                                         | Unclaimed |           |
-| cytomapper                                                                         | Unclaimed |           |
-| CytoML                                                                             | Unclaimed |           |
-| dada2                                                                              | Unclaimed |           |
-| dagLogo                                                                            | Unclaimed |           |
-| DAMEfinder                                                                         | Unclaimed |           |
-| DaMiRseq                                                                           | Unclaimed |           |
-| DAPAR                                                                              | Unclaimed |           |
-| dasper                                                                             | Unclaimed |           |
-| dce                                                                                | Unclaimed |           |
-| ddPCRclust                                                                         | Unclaimed |           |
-| dearseq                                                                            | Unclaimed |           |
-| debCAM                                                                             | Unclaimed |           |
-| debrowser                                                                          | Unclaimed |           |
-| deco                                                                               | Unclaimed |           |
-| DEComplexDisease                                                                   | Unclaimed |           |
-| decompTumor2Sig                                                                    | Unclaimed |           |
-| deconvR                                                                            | Unclaimed |           |
-| decoupleR                                                                          | Unclaimed |           |
-| DeepBlueR                                                                          | Unclaimed |           |
-| DeepPINCS                                                                          | Unclaimed |           |
-| deepSNV                                                                            | Unclaimed |           |
-| DEFormats                                                                          | Unclaimed |           |
-| DegNorm                                                                            | Unclaimed |           |
-| DEGraph                                                                            | Unclaimed |           |
-| DEGreport                                                                          | Unclaimed |           |
-| DEGseq                                                                             | Unclaimed |           |
-| [DelayedTensor](https://github.com/almahmoud/gha-build/actions/runs/3767779750)    | Unclaimed |           |
-| deltaCaptureC                                                                      | Unclaimed |           |
-| deltaGseg                                                                          | Unclaimed |           |
-| DeMixT                                                                             | Unclaimed |           |
-| DEP                                                                                | Unclaimed |           |
-| DepecheR                                                                           | Unclaimed |           |
-| derfinder                                                                          | Unclaimed |           |
-| derfinderPlot                                                                      | Unclaimed |           |
-| DEScan2                                                                            | Unclaimed |           |
-| DESeq2                                                                             | Unclaimed |           |
-| destiny                                                                            | Unclaimed |           |
-| DEsubs                                                                             | Unclaimed |           |
-| DEWSeq                                                                             | Unclaimed |           |
-| DExMA                                                                              | Unclaimed |           |
-| DEXSeq                                                                             | Unclaimed |           |
-| DIAlignR                                                                           | Unclaimed |           |
-| DiffBind                                                                           | Unclaimed |           |
-| diffcoexp                                                                          | Unclaimed |           |
-| diffcyt                                                                            | Unclaimed |           |
-| DifferentialRegulation                                                             | Unclaimed |           |
-| diffHic                                                                            | Unclaimed |           |
-| diffuStats                                                                         | Unclaimed |           |
-| diffUTR                                                                            | Unclaimed |           |
-| diggit                                                                             | Unclaimed |           |
-| Dino                                                                               | Unclaimed |           |
-| DiscoRhythm                                                                        | Unclaimed |           |
-| distinct                                                                           | Unclaimed |           |
-| dittoSeq                                                                           | Unclaimed |           |
-| DMCFB                                                                              | Unclaimed |           |
-| DMCHMM                                                                             | Unclaimed |           |
-| DMRcate                                                                            | Unclaimed |           |
-| DMRforPairs                                                                        | Unclaimed |           |
-| dmrseq                                                                             | Unclaimed |           |
-| DNABarcodeCompatibility                                                            | Unclaimed |           |
-| DNAfusion                                                                          | Unclaimed |           |
-| DNAshapeR                                                                          | Unclaimed |           |
-| DominoEffect                                                                       | Unclaimed |           |
-| doppelgangR                                                                        | Unclaimed |           |
-| Doscheda                                                                           | Unclaimed |           |
-| DOSE                                                                               | Unclaimed |           |
-| doseR                                                                              | Unclaimed |           |
-| dpeak                                                                              | Unclaimed |           |
-| drawProteins                                                                       | Unclaimed |           |
-| DropletUtils                                                                       | Unclaimed |           |
-| drugTargetInteractions                                                             | Unclaimed |           |
-| DrugVsDisease                                                                      | Unclaimed |           |
-| DSS                                                                                | Unclaimed |           |
-| easier                                                                             | Unclaimed |           |
-| EasyCellType                                                                       | Unclaimed |           |
-| easyRNASeq                                                                         | Unclaimed |           |
-| EBSEA                                                                              | Unclaimed |           |
-| EBSeq                                                                              | Unclaimed |           |
-| EBSeqHMM                                                                           | Unclaimed |           |
-| EDASeq                                                                             | Unclaimed |           |
-| edge                                                                               | Unclaimed |           |
-| eegc                                                                               | Unclaimed |           |
-| EGAD                                                                               | Unclaimed |           |
-| EGSEA                                                                              | Unclaimed |           |
-| eiR                                                                                | Unclaimed |           |
-| ELMER                                                                              | Unclaimed |           |
-| EnhancedVolcano                                                                    | Unclaimed |           |
-| enhancerHomologSearch                                                              | Unclaimed |           |
-| ENmix                                                                              | Unclaimed |           |
-| EnrichmentBrowser                                                                  | Unclaimed |           |
-| enrichplot                                                                         | Unclaimed |           |
-| enrichTF                                                                           | Unclaimed |           |
-| ensembldb                                                                          | Unclaimed |           |
-| ensemblVEP                                                                         | Unclaimed |           |
-| epialleleR                                                                         | Unclaimed |           |
-| EpiCompare                                                                         | Unclaimed |           |
-| epidecodeR                                                                         | Unclaimed |           |
-| epigenomix                                                                         | Unclaimed |           |
-| epigraHMM                                                                          | Unclaimed |           |
-| epihet                                                                             | Unclaimed |           |
-| EpiMix                                                                             | Unclaimed |           |
-| epimutacions                                                                       | Unclaimed |           |
-| epiNEM                                                                             | Unclaimed |           |
-| epistack                                                                           | Unclaimed |           |
-| epistasisGA                                                                        | Unclaimed |           |
-| EpiTxDb                                                                            | Unclaimed |           |
-| epivizr                                                                            | Unclaimed |           |
-| epivizrChart                                                                       | Unclaimed |           |
-| epivizrData                                                                        | Unclaimed |           |
-| epivizrStandalone                                                                  | Unclaimed |           |
-| erma                                                                               | Unclaimed |           |
-| ERSSA                                                                              | Unclaimed |           |
-| esATAC                                                                             | Unclaimed |           |
-| escape                                                                             | Unclaimed |           |
-| esetVis                                                                            | Unclaimed |           |
-| evaluomeR                                                                          | Unclaimed |           |
-| EventPointer                                                                       | Unclaimed |           |
-| EWCE                                                                               | Unclaimed |           |
-| ExCluster                                                                          | Unclaimed |           |
-| exomeCopy                                                                          | Unclaimed |           |
-| exomePeak2                                                                         | Unclaimed |           |
-| ExperimentHub                                                                      | Unclaimed |           |
-| ExperimentHubData                                                                  | Unclaimed |           |
-| ExperimentSubset                                                                   | Unclaimed |           |
-| ExploreModelMatrix                                                                 | Unclaimed |           |
-| ExpressionAtlas                                                                    | Unclaimed |           |
-| extraChIPs                                                                         | Unclaimed |           |
-| factR                                                                              | Unclaimed |           |
-| FamAgg                                                                             | Unclaimed |           |
-| famat                                                                              | Unclaimed |           |
-| fastLiquidAssociation                                                              | Unclaimed |           |
-| FastqCleaner                                                                       | Unclaimed |           |
-| FCBF                                                                               | Unclaimed |           |
-| fCCAC                                                                              | Unclaimed |           |
-| fCI                                                                                | Unclaimed |           |
-| fcoex                                                                              | Unclaimed |           |
-| fcScan                                                                             | Unclaimed |           |
-| FEAST                                                                              | Unclaimed |           |
-| ffpe                                                                               | Unclaimed |           |
-| fgga                                                                               | Unclaimed |           |
-| fgsea                                                                              | Unclaimed |           |
-| FilterFFPE                                                                         | Unclaimed |           |
-| FindIT2                                                                            | Unclaimed |           |
-| FISHalyseR                                                                         | Unclaimed |           |
-| fishpond                                                                           | Unclaimed |           |
-| flagme                                                                             | Unclaimed |           |
-| FLAMES                                                                             | Unclaimed |           |
-| flowBin                                                                            | Unclaimed |           |
-| flowcatchR                                                                         | Unclaimed |           |
-| flowCHIC                                                                           | Unclaimed |           |
-| flowCL                                                                             | Unclaimed |           |
-| flowCut                                                                            | Unclaimed |           |
-| flowDensity                                                                        | Unclaimed |           |
-| flowGraph                                                                          | Unclaimed |           |
-| flowPloidy                                                                         | Unclaimed |           |
-| FlowSOM                                                                            | Unclaimed |           |
-| flowStats                                                                          | Unclaimed |           |
-| flowVS                                                                             | Unclaimed |           |
-| fmcsR                                                                              | Unclaimed |           |
-| fobitools                                                                          | Unclaimed |           |
-| FoldGO                                                                             | Unclaimed |           |
-| FRASER                                                                             | Unclaimed |           |
-| frenchFISH                                                                         | Unclaimed |           |
-| FRGEpistasis                                                                       | Unclaimed |           |
-| frma                                                                               | Unclaimed |           |
-| FunChIP                                                                            | Unclaimed |           |
-| funtooNorm                                                                         | Unclaimed |           |
-| FuseSOM                                                                            | Unclaimed |           |
-| GA4GHclient                                                                        | Unclaimed |           |
-| GA4GHshiny                                                                         | Unclaimed |           |
-| gage                                                                               | Unclaimed |           |
-| GARS                                                                               | Unclaimed |           |
-| GBScleanR                                                                          | Unclaimed |           |
-| gcapc                                                                              | Unclaimed |           |
-| gCrisprTools                                                                       | Unclaimed |           |
-| GCSscore                                                                           | Unclaimed |           |
-| GDCRNATools                                                                        | Unclaimed |           |
-| GDSArray                                                                           | Unclaimed |           |
-| gemini                                                                             | Unclaimed |           |
-| gemma.R                                                                            | Unclaimed |           |
-| genbankr                                                                           | Unclaimed |           |
-| GeneAccord                                                                         | Unclaimed |           |
-| geneAttribution                                                                    | Unclaimed |           |
-| GeneBreak                                                                          | Unclaimed |           |
-| genefilter                                                                         | Unclaimed |           |
-| genefu                                                                             | Unclaimed |           |
-| GeneGeneInteR                                                                      | Unclaimed |           |
-| GeneMeta                                                                           | Unclaimed |           |
-| geneplotter                                                                        | Unclaimed |           |
-| GENESIS                                                                            | Unclaimed |           |
-| GeneStructureTools                                                                 | Unclaimed |           |
-| GeneTonic                                                                          | Unclaimed |           |
-| geneXtendeR                                                                        | Unclaimed |           |
-| genomation                                                                         | Unclaimed |           |
-| GenomicAlignments                                                                  | Unclaimed |           |
-| GenomicDataCommons                                                                 | Unclaimed |           |
-| GenomicDistributions                                                               | Unclaimed |           |
-| GenomicFeatures                                                                    | Unclaimed |           |
-| GenomicFiles                                                                       | Unclaimed |           |
-| genomicInstability                                                                 | Unclaimed |           |
-| GenomicInteractionNodes                                                            | Unclaimed |           |
-| GenomicInteractions                                                                | Unclaimed |           |
-| GenomicOZone                                                                       | Unclaimed |           |
-| GenomicScores                                                                      | Unclaimed |           |
-| GenomicSuperSignature                                                              | Unclaimed |           |
-| genotypeeval                                                                       | Unclaimed |           |
-| GenProSeq                                                                          | Unclaimed |           |
-| GenVisR                                                                            | Unclaimed |           |
-| GeoDiff                                                                            | Unclaimed |           |
-| GEOexplorer                                                                        | Unclaimed |           |
-| GEOfastq                                                                           | Unclaimed |           |
-| GEOmetadb                                                                          | Unclaimed |           |
-| GeomxTools                                                                         | Unclaimed |           |
-| GEOquery                                                                           | Unclaimed |           |
-| gep2pep                                                                            | Unclaimed |           |
-| gespeR                                                                             | Unclaimed |           |
-| getDEE2                                                                            | Unclaimed |           |
-| GEWIST                                                                             | Unclaimed |           |
-| ggbio                                                                              | Unclaimed |           |
-| ggmanh                                                                             | Unclaimed |           |
-| ggmsa                                                                              | Unclaimed |           |
-| GGPA                                                                               | Unclaimed |           |
-| ggspavis                                                                           | Unclaimed |           |
-| ggtree                                                                             | Unclaimed |           |
-| ggtreeDendro                                                                       | Unclaimed |           |
-| ggtreeExtra                                                                        | Unclaimed |           |
-| girafe                                                                             | Unclaimed |           |
-| GISPA                                                                              | Unclaimed |           |
-| GladiaTOX                                                                          | Unclaimed |           |
-| Glimma                                                                             | Unclaimed |           |
-| glmGamPoi                                                                          | Unclaimed |           |
-| glmSparseNet                                                                       | Unclaimed |           |
-| GlobalAncova                                                                       | Unclaimed |           |
-| globaltest                                                                         | Unclaimed |           |
-| gmapR                                                                              | Unclaimed |           |
-| GmicR                                                                              | Unclaimed |           |
-| gmoviz                                                                             | Unclaimed |           |
-| GNET2                                                                              | Unclaimed |           |
-| GOexpress                                                                          | Unclaimed |           |
-| GOfuncR                                                                            | Unclaimed |           |
-| GOpro                                                                              | Unclaimed |           |
-| goProfiles                                                                         | Unclaimed |           |
-| GOSemSim                                                                           | Unclaimed |           |
-| goseq                                                                              | Unclaimed |           |
-| GOSim                                                                              | Unclaimed |           |
-| goSorensen                                                                         | Unclaimed |           |
-| goSTAG                                                                             | Unclaimed |           |
-| GOstats                                                                            | Unclaimed |           |
-| GOTHiC                                                                             | Unclaimed |           |
-| goTools                                                                            | Unclaimed |           |
-| GPA                                                                                | Unclaimed |           |
-| gpuMagic                                                                           | Unclaimed |           |
-| GRaNIE                                                                             | Unclaimed |           |
-| granulator                                                                         | Unclaimed |           |
-| graper                                                                             | Unclaimed |           |
-| graphite                                                                           | Unclaimed |           |
-| GreyListChIP                                                                       | Unclaimed |           |
-| GRmetrics                                                                          | Unclaimed |           |
-| groHMM                                                                             | Unclaimed |           |
-| gscreend                                                                           | Unclaimed |           |
-| GSEABase                                                                           | Unclaimed |           |
-| GSEABenchmarkeR                                                                    | Unclaimed |           |
-| GSEAmining                                                                         | Unclaimed |           |
-| gsean                                                                              | Unclaimed |           |
-| GSReg                                                                              | Unclaimed |           |
-| GSRI                                                                               | Unclaimed |           |
-| GSVA                                                                               | Unclaimed |           |
-| GUIDEseq                                                                           | Unclaimed |           |
-| Guitar                                                                             | Unclaimed |           |
-| Gviz                                                                               | Unclaimed |           |
-| GWAS.BAYES                                                                         | Unclaimed |           |
-| gwascat                                                                            | Unclaimed |           |
-| GWASTools                                                                          | Unclaimed |           |
-| gwasurvivr                                                                         | Unclaimed |           |
-| GWENA                                                                              | Unclaimed |           |
-| hca                                                                                | Unclaimed |           |
-| heatmaps                                                                           | Unclaimed |           |
-| HelloRanges                                                                        | Unclaimed |           |
-| hermes                                                                             | Unclaimed |           |
-| HGC                                                                                | Unclaimed |           |
-| hiAnnotator                                                                        | Unclaimed |           |
-| HiCBricks                                                                          | Unclaimed |           |
-| HiCcompare                                                                         | Unclaimed |           |
-| HiCDCPlus                                                                          | Unclaimed |           |
-| HiCDOC                                                                             | Unclaimed |           |
-| HiContacts                                                                         | Unclaimed |           |
-| HiLDA                                                                              | Unclaimed |           |
-| hipathia                                                                           | Unclaimed |           |
-| HIPPO                                                                              | Unclaimed |           |
-| hiReadsProcessor                                                                   | Unclaimed |           |
-| HiTC                                                                               | Unclaimed |           |
-| HPAStainR                                                                          | Unclaimed |           |
-| HPiP                                                                               | Unclaimed |           |
-| HTSeqGenie                                                                         | Unclaimed |           |
-| HTSFilter                                                                          | Unclaimed |           |
-| HubPub                                                                             | Unclaimed |           |
-| HumanTranscriptomeCompendium                                                       | Unclaimed |           |
-| hypeR                                                                              | Unclaimed |           |
-| iasva                                                                              | Unclaimed |           |
-| iBBiG                                                                              | Unclaimed |           |
-| iCARE                                                                              | Unclaimed |           |
-| icetea                                                                             | Unclaimed |           |
-| iCheck                                                                             | Unclaimed |           |
-| iCNV                                                                               | Unclaimed |           |
-| iCOBRA                                                                             | Unclaimed |           |
-| ideal                                                                              | Unclaimed |           |
-| IdeoViz                                                                            | Unclaimed |           |
-| idiogram                                                                           | Unclaimed |           |
-| IgGeneUsage                                                                        | Unclaimed |           |
-| igvR                                                                               | Unclaimed |           |
-| ILoReg                                                                             | Unclaimed |           |
-| imageHTS                                                                           | Unclaimed |           |
-| IMAS                                                                               | Unclaimed |           |
-| imcRtools                                                                          | Unclaimed |           |
-| ImmuneSpaceR                                                                       | Unclaimed |           |
-| immunotation                                                                       | Unclaimed |           |
-| INDEED                                                                             | Unclaimed |           |
-| infercnv                                                                           | Unclaimed |           |
-| InPAS                                                                              | Unclaimed |           |
-| INSPEcT                                                                            | Unclaimed |           |
-| InTAD                                                                              | Unclaimed |           |
-| intansv                                                                            | Unclaimed |           |
-| InteractionSet                                                                     | Unclaimed |           |
-| InteractiveComplexHeatmap                                                          | Unclaimed |           |
-| interactiveDisplay                                                                 | Unclaimed |           |
-| interactiveDisplayBase                                                             | Unclaimed |           |
-| InterCellar                                                                        | Unclaimed |           |
-| IntEREst                                                                           | Unclaimed |           |
-| InterMineR                                                                         | Unclaimed |           |
-| IONiseR                                                                            | Unclaimed |           |
-| iPath                                                                              | Unclaimed |           |
-| ipdDb                                                                              | Unclaimed |           |
-| IPO                                                                                | Unclaimed |           |
-| IRISFGM                                                                            | Unclaimed |           |
-| ISAnalytics                                                                        | Unclaimed |           |
-| iSEE                                                                               | Unclaimed |           |
-| iSEEhex                                                                            | Unclaimed |           |
-| iSEEhub                                                                            | Unclaimed |           |
-| iSEEu                                                                              | Unclaimed |           |
-| isobar                                                                             | Unclaimed |           |
-| IsoCorrectoRGUI                                                                    | Unclaimed |           |
-| IsoformSwitchAnalyzeR                                                              | Unclaimed |           |
-| isomiRs                                                                            | Unclaimed |           |
-| ITALICS                                                                            | Unclaimed |           |
-| IVAS                                                                               | Unclaimed |           |
-| ivygapSE                                                                           | Unclaimed |           |
-| IWTomics                                                                           | Unclaimed |           |
-| karyoploteR                                                                        | Unclaimed |           |
-| katdetectr                                                                         | Unclaimed |           |
-| KEGGlincs                                                                          | Unclaimed |           |
-| keggorthology                                                                      | Unclaimed |           |
-| kissDE                                                                             | Unclaimed |           |
-| KnowSeq                                                                            | Unclaimed |           |
-| LACE                                                                               | Unclaimed |           |
-| LedPred                                                                            | Unclaimed |           |
-| lefser                                                                             | Unclaimed |           |
-| levi                                                                               | Unclaimed |           |
-| LineagePulse                                                                       | Unclaimed |           |
-| lineagespot                                                                        | Unclaimed |           |
-| LinkHD                                                                             | Unclaimed |           |
-| [Linnorm](https://github.com/almahmoud/gha-build/actions/runs/3767779750)          | Unclaimed |           |
-| LinTInd                                                                            | Unclaimed |           |
-| lipidr                                                                             | Unclaimed |           |
-| LiquidAssociation                                                                  | Unclaimed |           |
-| lisaClust                                                                          | Unclaimed |           |
-| LOBSTAHS                                                                           | Unclaimed |           |
-| LoomExperiment                                                                     | Unclaimed |           |
-| LowMACA                                                                            | Unclaimed |           |
-| LRBaseDbi                                                                          | Unclaimed |           |
-| LRcell                                                                             | Unclaimed |           |
-| lumi                                                                               | Unclaimed |           |
-| LymphoSeq                                                                          | Unclaimed |           |
-| M3Drop                                                                             | Unclaimed |           |
-| m6Aboost                                                                           | Unclaimed |           |
-| Maaslin2                                                                           | Unclaimed |           |
-| Macarron                                                                           | Unclaimed |           |
-| macat                                                                              | Unclaimed |           |
-| MACSQuantifyR                                                                      | Unclaimed |           |
-| MACSr                                                                              | Unclaimed |           |
-| made4                                                                              | Unclaimed |           |
-| MADSEQ                                                                             | Unclaimed |           |
-| MAGAR                                                                              | Unclaimed |           |
-| MAGeCKFlute                                                                        | Unclaimed |           |
-| MAI                                                                                | Unclaimed |           |
-| MAIT                                                                               | Unclaimed |           |
-| mAPKL                                                                              | Unclaimed |           |
-| maPredictDSC                                                                       | Unclaimed |           |
-| mapscape                                                                           | Unclaimed |           |
-| marr                                                                               | Unclaimed |           |
-| maser                                                                              | Unclaimed |           |
-| MAST                                                                               | Unclaimed |           |
-| MatrixQCvis                                                                        | Unclaimed |           |
-| MatrixRider                                                                        | Unclaimed |           |
-| MBASED                                                                             | Unclaimed |           |
-| MBECS                                                                              | Unclaimed |           |
-| mbkmeans                                                                           | Unclaimed |           |
-| mbOmic                                                                             | Unclaimed |           |
-| mBPCR                                                                              | Unclaimed |           |
-| MBQN                                                                               | Unclaimed |           |
-| MCbiclust                                                                          | Unclaimed |           |
-| mCSEA                                                                              | Unclaimed |           |
-| MDTS                                                                               | Unclaimed |           |
-| MEAL                                                                               | Unclaimed |           |
-| MEAT                                                                               | Unclaimed |           |
-| MEB                                                                                | Unclaimed |           |
-| MEDIPS                                                                             | Unclaimed |           |
-| MEDME                                                                              | Unclaimed |           |
-| megadepth                                                                          | Unclaimed |           |
-| MEIGOR                                                                             | Unclaimed |           |
-| Melissa                                                                            | Unclaimed |           |
-| memes                                                                              | Unclaimed |           |
-| MeSHDbi                                                                            | Unclaimed |           |
-| meshes                                                                             | Unclaimed |           |
-| meshr                                                                              | Unclaimed |           |
-| MesKit                                                                             | Unclaimed |           |
-| Metab                                                                              | Unclaimed |           |
-| metabCombiner                                                                      | Unclaimed |           |
-| MetaboAnnotation                                                                   | Unclaimed |           |
-| metabolomicsWorkbenchR                                                             | Unclaimed |           |
-| MetaboSignal                                                                       | Unclaimed |           |
-| MetaCyto                                                                           | Unclaimed |           |
-| metagene                                                                           | Unclaimed |           |
-| metagene2                                                                          | Unclaimed |           |
-| metaMS                                                                             | Unclaimed |           |
-| MetaNeighbor                                                                       | Unclaimed |           |
-| MetaPhOR                                                                           | Unclaimed |           |
-| metapone                                                                           | Unclaimed |           |
-| metaseqR2                                                                          | Unclaimed |           |
-| metavizr                                                                           | Unclaimed |           |
-| MetaVolcanoR                                                                       | Unclaimed |           |
-| MethCP                                                                             | Unclaimed |           |
-| methInheritSim                                                                     | Unclaimed |           |
-| MethReg                                                                            | Unclaimed |           |
-| methrix                                                                            | Unclaimed |           |
-| MethylAid                                                                          | Unclaimed |           |
-| methylCC                                                                           | Unclaimed |           |
-| methylclock                                                                        | Unclaimed |           |
-| methylGSA                                                                          | Unclaimed |           |
-| methylInheritance                                                                  | Unclaimed |           |
-| methylKit                                                                          | Unclaimed |           |
-| methylPipe                                                                         | Unclaimed |           |
-| methylscaper                                                                       | Unclaimed |           |
-| MethylSeekR                                                                        | Unclaimed |           |
-| methylSig                                                                          | Unclaimed |           |
-| methylumi                                                                          | Unclaimed |           |
-| MetID                                                                              | Unclaimed |           |
-| MetNet                                                                             | Unclaimed |           |
-| mfa                                                                                | Unclaimed |           |
-| MGFM                                                                               | Unclaimed |           |
-| MGFR                                                                               | Unclaimed |           |
-| mia                                                                                | Unclaimed |           |
-| miaSim                                                                             | Unclaimed |           |
-| miaViz                                                                             | Unclaimed |           |
-| microbiome                                                                         | Unclaimed |           |
-| microbiomeDASim                                                                    | Unclaimed |           |
-| microbiomeExplorer                                                                 | Unclaimed |           |
-| microbiomeMarker                                                                   | Unclaimed |           |
-| MicrobiomeProfiler                                                                 | Unclaimed |           |
-| MicrobiotaProcess                                                                  | Unclaimed |           |
-| midasHLA                                                                           | Unclaimed |           |
-| MIGSA                                                                              | Unclaimed |           |
-| miloR                                                                              | Unclaimed |           |
-| mimager                                                                            | Unclaimed |           |
-| MIMOSA                                                                             | Unclaimed |           |
-| mina                                                                               | Unclaimed |           |
-| MineICA                                                                            | Unclaimed |           |
-| minfi                                                                              | Unclaimed |           |
-| MinimumDistance                                                                    | Unclaimed |           |
-| miQC                                                                               | Unclaimed |           |
-| MIRA                                                                               | Unclaimed |           |
-| MiRaGE                                                                             | Unclaimed |           |
-| mirIntegrator                                                                      | Unclaimed |           |
-| miRLAB                                                                             | Unclaimed |           |
-| miRmine                                                                            | Unclaimed |           |
-| miRNAmeConverter                                                                   | Unclaimed |           |
-| miRNAtap                                                                           | Unclaimed |           |
-| miRSM                                                                              | Unclaimed |           |
-| miRspongeR                                                                         | Unclaimed |           |
-| missMethyl                                                                         | Unclaimed |           |
-| missRows                                                                           | Unclaimed |           |
-| mistyR                                                                             | Unclaimed |           |
-| mitch                                                                              | Unclaimed |           |
-| mitoClone2                                                                         | Unclaimed |           |
-| mixOmics                                                                           | Unclaimed |           |
-| MLInterfaces                                                                       | Unclaimed |           |
-| MLP                                                                                | Unclaimed |           |
-| MLSeq                                                                              | Unclaimed |           |
-| MMAPPR2                                                                            | Unclaimed |           |
-| MMDiff2                                                                            | Unclaimed |           |
-| MMUPHin                                                                            | Unclaimed |           |
-| mnem                                                                               | Unclaimed |           |
-| moanin                                                                             | Unclaimed |           |
-| MobilityTransformR                                                                 | Unclaimed |           |
-| MODA                                                                               | Unclaimed |           |
-| MOFA2                                                                              | Unclaimed |           |
-| MOGAMUN                                                                            | Unclaimed |           |
-| mogsa                                                                              | Unclaimed |           |
-| MOMA                                                                               | Unclaimed |           |
-| monaLisa                                                                           | Unclaimed |           |
-| monocle                                                                            | Unclaimed |           |
-| MoonlightR                                                                         | Unclaimed |           |
-| mosaics                                                                            | Unclaimed |           |
-| mosbi                                                                              | Unclaimed |           |
-| MOSim                                                                              | Unclaimed |           |
-| Motif2Site                                                                         | Unclaimed |           |
-| motifbreakR                                                                        | Unclaimed |           |
-| MotifDb                                                                            | Unclaimed |           |
-| motifmatchr                                                                        | Unclaimed |           |
-| motifStack                                                                         | Unclaimed |           |
-| MouseFM                                                                            | Unclaimed |           |
-| MPFE                                                                               | Unclaimed |           |
-| mpra                                                                               | Unclaimed |           |
-| MPRAnalyze                                                                         | Unclaimed |           |
-| MQmetrics                                                                          | Unclaimed |           |
-| MSA2dist                                                                           | Unclaimed |           |
-| MsExperiment                                                                       | Unclaimed |           |
-| MsFeatures                                                                         | Unclaimed |           |
-| msgbsR                                                                             | Unclaimed |           |
-| msImpute                                                                           | Unclaimed |           |
-| mslp                                                                               | Unclaimed |           |
-| msmsEDA                                                                            | Unclaimed |           |
-| msmsTests                                                                          | Unclaimed |           |
-| [MSnbase](https://github.com/almahmoud/gha-build/actions/runs/3767779750)          | Unclaimed |           |
-| MSnID                                                                              | Unclaimed |           |
-| MSPrep                                                                             | Unclaimed |           |
-| [msPurity](https://github.com/almahmoud/gha-build/actions/runs/3767779750)         | Unclaimed |           |
-| msqrob2                                                                            | Unclaimed |           |
-| MSstats                                                                            | Unclaimed |           |
-| MSstatsLiP                                                                         | Unclaimed |           |
-| MSstatsPTM                                                                         | Unclaimed |           |
-| MSstatsQC                                                                          | Unclaimed |           |
-| MSstatsQCgui                                                                       | Unclaimed |           |
-| MSstatsSampleSize                                                                  | Unclaimed |           |
-| MSstatsShiny                                                                       | Unclaimed |           |
-| MSstatsTMT                                                                         | Unclaimed |           |
-| MuData                                                                             | Unclaimed |           |
-| Mulcom                                                                             | Unclaimed |           |
-| MultiAssayExperiment                                                               | Unclaimed |           |
-| MultiBaC                                                                           | Unclaimed |           |
-| multiClust                                                                         | Unclaimed |           |
-| multicrispr                                                                        | Unclaimed |           |
-| MultiDataSet                                                                       | Unclaimed |           |
-| multiGSEA                                                                          | Unclaimed |           |
-| multiHiCcompare                                                                    | Unclaimed |           |
-| multiMiR                                                                           | Unclaimed |           |
-| multiOmicsViz                                                                      | Unclaimed |           |
-| multiSight                                                                         | Unclaimed |           |
-| mumosa                                                                             | Unclaimed |           |
-| MungeSumstats                                                                      | Unclaimed |           |
-| muscat                                                                             | Unclaimed |           |
-| musicatk                                                                           | Unclaimed |           |
-| MutationalPatterns                                                                 | Unclaimed |           |
-| MWASTools                                                                          | Unclaimed |           |
-| mygene                                                                             | Unclaimed |           |
-| myvariant                                                                          | Unclaimed |           |
-| NADfinder                                                                          | Unclaimed |           |
-| NanoMethViz                                                                        | Unclaimed |           |
-| NanoStringNCTools                                                                  | Unclaimed |           |
-| NanoStringQCPro                                                                    | Unclaimed |           |
-| nanotatoR                                                                          | Unclaimed |           |
-| NanoTube                                                                           | Unclaimed |           |
-| NBAMSeq                                                                            | Unclaimed |           |
-| NBSplice                                                                           | Unclaimed |           |
-| ncGTW                                                                              | Unclaimed |           |
-| nearBynding                                                                        | Unclaimed |           |
-| Nebulosa                                                                           | Unclaimed |           |
-| nempi                                                                              | Unclaimed |           |
-| NetActivity                                                                        | Unclaimed |           |
-| netboost                                                                           | Unclaimed |           |
-| netboxr                                                                            | Unclaimed |           |
-| netDx                                                                              | Unclaimed |           |
-| netOmics                                                                           | Unclaimed |           |
-| netresponse                                                                        | Unclaimed |           |
-| NetSAM                                                                             | Unclaimed |           |
-| netSmooth                                                                          | Unclaimed |           |
-| netZooR                                                                            | Unclaimed |           |
-| NeuCA                                                                              | Unclaimed |           |
-| NewWave                                                                            | Unclaimed |           |
-| ngsReports                                                                         | Unclaimed |           |
-| nnSVG                                                                              | Unclaimed |           |
-| nondetects                                                                         | Unclaimed |           |
-| NoRCE                                                                              | Unclaimed |           |
-| NormalyzerDE                                                                       | Unclaimed |           |
-| NormqPCR                                                                           | Unclaimed |           |
-| normr                                                                              | Unclaimed |           |
-| NPARC                                                                              | Unclaimed |           |
-| npGSEA                                                                             | Unclaimed |           |
-| nucleR                                                                             | Unclaimed |           |
-| nullranges                                                                         | Unclaimed |           |
-| NxtIRFcore                                                                         | Unclaimed |           |
-| octad                                                                              | Unclaimed |           |
-| ODER                                                                               | Unclaimed |           |
-| odseq                                                                              | Unclaimed |           |
-| OGRE                                                                               | Unclaimed |           |
-| oligo                                                                              | Unclaimed |           |
-| oligoClasses                                                                       | Unclaimed |           |
-| omada                                                                              | Unclaimed |           |
-| OmaDB                                                                              | Unclaimed |           |
-| omicade4                                                                           | Unclaimed |           |
-| omicplotR                                                                          | Unclaimed |           |
-| omicRexposome                                                                      | Unclaimed |           |
-| [OmicsLonDA](https://github.com/almahmoud/gha-build/actions/runs/3767779750)       | Unclaimed |           |
-| OMICsPCA                                                                           | Unclaimed |           |
-| omicsPrint                                                                         | Unclaimed |           |
-| omicsViewer                                                                        | Unclaimed |           |
-| Omixer                                                                             | Unclaimed |           |
-| OmnipathR                                                                          | Unclaimed |           |
-| oncomix                                                                            | Unclaimed |           |
-| [oncoscanR](https://github.com/almahmoud/gha-build/actions/runs/3767779750)        | Unclaimed |           |
-| OncoScore                                                                          | Unclaimed |           |
-| OncoSimulR                                                                         | Unclaimed |           |
-| oneSENSE                                                                           | Unclaimed |           |
-| ontoProc                                                                           | Unclaimed |           |
-| openCyto                                                                           | Unclaimed |           |
-| openPrimeR                                                                         | Unclaimed |           |
-| openPrimeRui                                                                       | Unclaimed |           |
-| OpenStats                                                                          | Unclaimed |           |
-| oposSOM                                                                            | Unclaimed |           |
-| oppar                                                                              | Unclaimed |           |
-| oppti                                                                              | Unclaimed |           |
-| optimalFlow                                                                        | Unclaimed |           |
-| OPWeight                                                                           | Unclaimed |           |
-| ORFhunteR                                                                          | Unclaimed |           |
-| ORFik                                                                              | Unclaimed |           |
-| Organism.dplyr                                                                     | Unclaimed |           |
-| OrganismDbi                                                                        | Unclaimed |           |
-| orthogene                                                                          | Unclaimed |           |
-| Oscope                                                                             | Unclaimed |           |
-| OTUbase                                                                            | Unclaimed |           |
-| OUTRIDER                                                                           | Unclaimed |           |
-| [OVESEG](https://github.com/almahmoud/gha-build/actions/runs/3767779750)           | Unclaimed |           |
-| PAA                                                                                | Unclaimed |           |
-| padma                                                                              | Unclaimed |           |
-| PADOG                                                                              | Unclaimed |           |
-| pageRank                                                                           | Unclaimed |           |
-| PAIRADISE                                                                          | Unclaimed |           |
-| [pairkat](https://github.com/almahmoud/gha-build/actions/runs/3767779750)          | Unclaimed |           |
-| panelcn.mops                                                                       | Unclaimed |           |
-| PanomiR                                                                            | Unclaimed |           |
-| PanViz                                                                             | Unclaimed |           |
-| pareg                                                                              | Unclaimed |           |
-| PAST                                                                               | Unclaimed |           |
-| PathoStat                                                                          | Unclaimed |           |
-| pathRender                                                                         | Unclaimed |           |
-| pathview                                                                           | Unclaimed |           |
-| paxtoolsr                                                                          | Unclaimed |           |
-| pcaExplorer                                                                        | Unclaimed |           |
-| PCAtools                                                                           | Unclaimed |           |
-| PDATK                                                                              | Unclaimed |           |
-| pdInfoBuilder                                                                      | Unclaimed |           |
-| PeacoQC                                                                            | Unclaimed |           |
-| peakPantheR                                                                        | Unclaimed |           |
-| PECA                                                                               | Unclaimed |           |
-| peco                                                                               | Unclaimed |           |
-| pepStat                                                                            | Unclaimed |           |
-| PERFect                                                                            | Unclaimed |           |
-| periodicDNA                                                                        | Unclaimed |           |
-| PFP                                                                                | Unclaimed |           |
-| phantasus                                                                          | Unclaimed |           |
-| PharmacoGx                                                                         | Unclaimed |           |
-| phenomis                                                                           | Unclaimed |           |
-| [phenopath](https://github.com/almahmoud/gha-build/actions/runs/3767779750)        | Unclaimed |           |
-| phenoTest                                                                          | Unclaimed |           |
-| PhenStat                                                                           | Unclaimed |           |
-| philr                                                                              | Unclaimed |           |
-| PhIPData                                                                           | Unclaimed |           |
-| PhosR                                                                              | Unclaimed |           |
-| PhyloProfile                                                                       | Unclaimed |           |
-| Pi                                                                                 | Unclaimed |           |
-| piano                                                                              | Unclaimed |           |
-| PICS                                                                               | Unclaimed |           |
-| Pigengene                                                                          | Unclaimed |           |
-| PING                                                                               | Unclaimed |           |
-| pipeComp                                                                           | Unclaimed |           |
-| pipeFrame                                                                          | Unclaimed |           |
-| PloGO2                                                                             | Unclaimed |           |
-| plotgardener                                                                       | Unclaimed |           |
-| plotGrouper                                                                        | Unclaimed |           |
-| plyranges                                                                          | Unclaimed |           |
-| pmm                                                                                | Unclaimed |           |
-| pmp                                                                                | Unclaimed |           |
-| PoDCall                                                                            | Unclaimed |           |
-| podkat                                                                             | Unclaimed |           |
-| pogos                                                                              | Unclaimed |           |
-| POMA                                                                               | Unclaimed |           |
-| PoTRA                                                                              | Unclaimed |           |
-| POWSC                                                                              | Unclaimed |           |
-| ppcseq                                                                             | Unclaimed |           |
-| PPInfer                                                                            | Unclaimed |           |
-| pram                                                                               | Unclaimed |           |
-| prebs                                                                              | Unclaimed |           |
-| preciseTAD                                                                         | Unclaimed |           |
-| PREDA                                                                              | Unclaimed |           |
-| primirTSS                                                                          | Unclaimed |           |
-| PrInCE                                                                             | Unclaimed |           |
-| proActiv                                                                           | Unclaimed |           |
-| proBAMr                                                                            | Unclaimed |           |
-| proBatch                                                                           | Unclaimed |           |
-| procoil                                                                            | Unclaimed |           |
-| [proDA](https://github.com/almahmoud/gha-build/actions/runs/3767779750)            | Unclaimed |           |
-| proFIA                                                                             | Unclaimed |           |
-| profileplyr                                                                        | Unclaimed |           |
-| progeny                                                                            | Unclaimed |           |
-| projectR                                                                           | Unclaimed |           |
-| pRoloc                                                                             | Unclaimed |           |
-| pRolocGUI                                                                          | Unclaimed |           |
-| PROMISE                                                                            | Unclaimed |           |
-| PROPS                                                                              | Unclaimed |           |
-| Prostar                                                                            | Unclaimed |           |
-| proteasy                                                                           | Unclaimed |           |
-| ProteoDisco                                                                        | Unclaimed |           |
-| ProteoMM                                                                           | Unclaimed |           |
-| protGear                                                                           | Unclaimed |           |
-| psichomics                                                                         | Unclaimed |           |
-| PSMatch                                                                            | Unclaimed |           |
-| psygenet2r                                                                         | Unclaimed |           |
-| ptairMS                                                                            | Unclaimed |           |
-| puma                                                                               | Unclaimed |           |
-| PureCN                                                                             | Unclaimed |           |
-| pvca                                                                               | Unclaimed |           |
-| Pviz                                                                               | Unclaimed |           |
-| pwOmics                                                                            | Unclaimed |           |
-| pwrEWAS                                                                            | Unclaimed |           |
-| QDNAseq                                                                            | Unclaimed |           |
-| QFeatures                                                                          | Unclaimed |           |
-| qmtools                                                                            | Unclaimed |           |
-| qpgraph                                                                            | Unclaimed |           |
-| qPLEXanalyzer                                                                      | Unclaimed |           |
-| qrqc                                                                               | Unclaimed |           |
-| qsea                                                                               | Unclaimed |           |
-| qsmooth                                                                            | Unclaimed |           |
-| qsvaR                                                                              | Unclaimed |           |
-| quantiseqr                                                                         | Unclaimed |           |
-| quantro                                                                            | Unclaimed |           |
-| QuartPAC                                                                           | Unclaimed |           |
-| QuasR                                                                              | Unclaimed |           |
-| QUBIC                                                                              | Unclaimed |           |
-| R3CPET                                                                             | Unclaimed |           |
-| r3Cseq                                                                             | Unclaimed |           |
-| R453Plus1Toolbox                                                                   | Unclaimed |           |
-| RadioGx                                                                            | Unclaimed |           |
-| [RaggedExperiment](https://github.com/almahmoud/gha-build/actions/runs/3767779750) | Unclaimed |           |
-| ramr                                                                               | Unclaimed |           |
-| ramwas                                                                             | Unclaimed |           |
-| RandomWalkRestartMH                                                                | Unclaimed |           |
-| RAREsim                                                                            | Unclaimed |           |
-| RareVariantVis                                                                     | Unclaimed |           |
-| Rbec                                                                               | Unclaimed |           |
-| Rbowtie2                                                                           | Unclaimed |           |
-| Rcade                                                                              | Unclaimed |           |
-| RCAS                                                                               | Unclaimed |           |
-| rCGH                                                                               | Unclaimed |           |
-| RcisTarget                                                                         | Unclaimed |           |
-| RCM                                                                                | Unclaimed |           |
-| Rcpi                                                                               | Unclaimed |           |
-| Rcwl                                                                               | Unclaimed |           |
-| RcwlPipelines                                                                      | Unclaimed |           |
-| RDRToolbox                                                                         | Unclaimed |           |
-| ReactomeGraph4R                                                                    | Unclaimed |           |
-| ReactomeGSA                                                                        | Unclaimed |           |
-| ReactomePA                                                                         | Unclaimed |           |
-| rebook                                                                             | Unclaimed |           |
-| [receptLoss](https://github.com/almahmoud/gha-build/actions/runs/3767779750)       | Unclaimed |           |
-| reconsi                                                                            | Unclaimed |           |
-| recount                                                                            | Unclaimed |           |
-| recount3                                                                           | Unclaimed |           |
-| recountmethylation                                                                 | Unclaimed |           |
-| recoup                                                                             | Unclaimed |           |
-| REDseq                                                                             | Unclaimed |           |
-| RefPlus                                                                            | Unclaimed |           |
-| RegEnrich                                                                          | Unclaimed |           |
-| regioneR                                                                           | Unclaimed |           |
-| regioneReloaded                                                                    | Unclaimed |           |
-| regionReport                                                                       | Unclaimed |           |
-| [regsplice](https://github.com/almahmoud/gha-build/actions/runs/3767779750)        | Unclaimed |           |
-| regutools                                                                          | Unclaimed |           |
-| REMP                                                                               | Unclaimed |           |
-| Repitools                                                                          | Unclaimed |           |
-| ReportingTools                                                                     | Unclaimed |           |
-| RepViz                                                                             | Unclaimed |           |
-| ReQON                                                                              | Unclaimed |           |
-| RESOLVE                                                                            | Unclaimed |           |
-| restfulSE                                                                          | Unclaimed |           |
-| rexposome                                                                          | Unclaimed |           |
-| rfaRm                                                                              | Unclaimed |           |
-| [rfPred](https://github.com/almahmoud/gha-build/actions/runs/3767779750)           | Unclaimed |           |
-| rGADEM                                                                             | Unclaimed |           |
-| rGenomeTracks                                                                      | Unclaimed |           |
-| RGMQL                                                                              | Unclaimed |           |
-| RgnTX                                                                              | Unclaimed |           |
-| rGREAT                                                                             | Unclaimed |           |
-| rgsepd                                                                             | Unclaimed |           |
-| Rhisat2                                                                            | Unclaimed |           |
-| RiboCrypt                                                                          | Unclaimed |           |
-| RiboDiPA                                                                           | Unclaimed |           |
-| RiboProfiling                                                                      | Unclaimed |           |
-| ribor                                                                              | Unclaimed |           |
-| riboSeqR                                                                           | Unclaimed |           |
-| ribosomeProfilingQC                                                                | Unclaimed |           |
-| rifi                                                                               | Unclaimed |           |
-| Ringo                                                                              | Unclaimed |           |
-| RIPAT                                                                              | Unclaimed |           |
-| Risa                                                                               | Unclaimed |           |
-| RITAN                                                                              | Unclaimed |           |
-| RJMCMCNucleosomes                                                                  | Unclaimed |           |
-| RLSeq                                                                              | Unclaimed |           |
-| RMassBank                                                                          | Unclaimed |           |
-| Rmmquant                                                                           | Unclaimed |           |
-| rmspc                                                                              | Unclaimed |           |
-| RNAAgeCalc                                                                         | Unclaimed |           |
-| RNAdecay                                                                           | Unclaimed |           |
-| rnaEditr                                                                           | Unclaimed |           |
-| RNAinteract                                                                        | Unclaimed |           |
-| RNAmodR                                                                            | Unclaimed |           |
-| RNAmodR.AlkAnilineSeq                                                              | Unclaimed |           |
-| RNAmodR.ML                                                                         | Unclaimed |           |
-| RNAmodR.RiboMethSeq                                                                | Unclaimed |           |
-| RNAsense                                                                           | Unclaimed |           |
-| RNASeqR                                                                            | Unclaimed |           |
-| RnaSeqSampleSize                                                                   | Unclaimed |           |
-| RnBeads                                                                            | Unclaimed |           |
-| roar                                                                               | Unclaimed |           |
-| ROCpAI                                                                             | Unclaimed |           |
-| RolDE                                                                              | Unclaimed |           |
-| ropls                                                                              | Unclaimed |           |
-| RPA                                                                                | Unclaimed |           |
-| rprimer                                                                            | Unclaimed |           |
-| rpx                                                                                | Unclaimed |           |
-| Rqc                                                                                | Unclaimed |           |
-| rqt                                                                                | Unclaimed |           |
-| rqubic                                                                             | Unclaimed |           |
-| rrvgo                                                                              | Unclaimed |           |
-| rScudo                                                                             | Unclaimed |           |
-| RSVSim                                                                             | Unclaimed |           |
-| RTCGA                                                                              | Unclaimed |           |
-| RTCGAToolbox                                                                       | Unclaimed |           |
-| RTN                                                                                | Unclaimed |           |
-| RTNduals                                                                           | Unclaimed |           |
-| RTNsurvival                                                                        | Unclaimed |           |
-| Rtpca                                                                              | Unclaimed |           |
-| rtracklayer                                                                        | Unclaimed |           |
-| Rtreemix                                                                           | Unclaimed |           |
-| rTRM                                                                               | Unclaimed |           |
-| rTRMui                                                                             | Unclaimed |           |
-| runibic                                                                            | Unclaimed |           |
-| RUVSeq                                                                             | Unclaimed |           |
-| RVS                                                                                | Unclaimed |           |
-| rWikiPathways                                                                      | Unclaimed |           |
-| safe                                                                               | Unclaimed |           |
-| [SAIGEgds](https://github.com/almahmoud/gha-build/actions/runs/3767779750)         | Unclaimed |           |
-| sampleClassifier                                                                   | Unclaimed |           |
-| sangeranalyseR                                                                     | Unclaimed |           |
-| satuRn                                                                             | Unclaimed |           |
-| SBGNview                                                                           | Unclaimed |           |
-| SC3                                                                                | Unclaimed |           |
-| [Scale4C](https://github.com/almahmoud/gha-build/actions/runs/3767779750)          | Unclaimed |           |
-| scAlign                                                                            | Unclaimed |           |
-| SCAN.UPC                                                                           | Unclaimed |           |
-| scanMiR                                                                            | Unclaimed |           |
-| scanMiRApp                                                                         | Unclaimed |           |
-| scAnnotatR                                                                         | Unclaimed |           |
-| SCANVIS                                                                            | Unclaimed |           |
-| SCArray                                                                            | Unclaimed |           |
-| SCATE                                                                              | Unclaimed |           |
-| scater                                                                             | Unclaimed |           |
-| scBFA                                                                              | Unclaimed |           |
-| scBubbletree                                                                       | Unclaimed |           |
-| scCB2                                                                              | Unclaimed |           |
-| scClassify                                                                         | Unclaimed |           |
-| sccomp                                                                             | Unclaimed |           |
-| scDataviz                                                                          | Unclaimed |           |
-| scDblFinder                                                                        | Unclaimed |           |
-| scDD                                                                               | Unclaimed |           |
-| scDDboost                                                                          | Unclaimed |           |
-| scds                                                                               | Unclaimed |           |
-| scGPS                                                                              | Unclaimed |           |
-| schex                                                                              | Unclaimed |           |
-| scHOT                                                                              | Unclaimed |           |
-| scifer                                                                             | Unclaimed |           |
-| scMAGeCK                                                                           | Unclaimed |           |
-| scmap                                                                              | Unclaimed |           |
-| scMerge                                                                            | Unclaimed |           |
-| scMET                                                                              | Unclaimed |           |
-| scmeth                                                                             | Unclaimed |           |
-| SCnorm                                                                             | Unclaimed |           |
-| scone                                                                              | Unclaimed |           |
-| Sconify                                                                            | Unclaimed |           |
-| SCOPE                                                                              | Unclaimed |           |
-| scoreInvHap                                                                        | Unclaimed |           |
-| scp                                                                                | Unclaimed |           |
-| scPipe                                                                             | Unclaimed |           |
-| scran                                                                              | Unclaimed |           |
-| scReClassify                                                                       | Unclaimed |           |
-| scRecover                                                                          | Unclaimed |           |
-| ScreenR                                                                            | Unclaimed |           |
-| scRepertoire                                                                       | Unclaimed |           |
-| scruff                                                                             | Unclaimed |           |
-| scry                                                                               | Unclaimed |           |
-| scTensor                                                                           | Unclaimed |           |
-| scTGIF                                                                             | Unclaimed |           |
-| scTreeViz                                                                          | Unclaimed |           |
-| scuttle                                                                            | Unclaimed |           |
-| [SDAMS](https://github.com/almahmoud/gha-build/actions/runs/3767779750)            | Unclaimed |           |
-| sechm                                                                              | Unclaimed |           |
-| segmenter                                                                          | Unclaimed |           |
-| segmentSeq                                                                         | Unclaimed |           |
-| selectKSigs                                                                        | Unclaimed |           |
-| SemDist                                                                            | Unclaimed |           |
-| seq2pathway                                                                        | Unclaimed |           |
-| seqArchR                                                                           | Unclaimed |           |
-| seqCAT                                                                             | Unclaimed |           |
-| SeqGate                                                                            | Unclaimed |           |
-| SeqGSEA                                                                            | Unclaimed |           |
-| seqsetvis                                                                          | Unclaimed |           |
-| SeqSQC                                                                             | Unclaimed |           |
-| SeqVarTools                                                                        | Unclaimed |           |
-| sesame                                                                             | Unclaimed |           |
-| SEtools                                                                            | Unclaimed |           |
-| sevenC                                                                             | Unclaimed |           |
-| SGSeq                                                                              | Unclaimed |           |
-| shinyepico                                                                         | Unclaimed |           |
-| shinyMethyl                                                                        | Unclaimed |           |
-| ShortRead                                                                          | Unclaimed |           |
-| SIAMCAT                                                                            | Unclaimed |           |
-| SICtools                                                                           | Unclaimed |           |
-| SigCheck                                                                           | Unclaimed |           |
-| [sigFeature](https://github.com/almahmoud/gha-build/actions/runs/3767779750)       | Unclaimed |           |
-| sights                                                                             | Unclaimed |           |
-| signatureSearch                                                                    | Unclaimed |           |
-| signeR                                                                             | Unclaimed |           |
-| signifinder                                                                        | Unclaimed |           |
-| SigsPack                                                                           | Unclaimed |           |
-| SIM                                                                                | Unclaimed |           |
-| SimBindProfiles                                                                    | Unclaimed |           |
-| SimBu                                                                              | Unclaimed |           |
-| SimFFPE                                                                            | Unclaimed |           |
-| simpleSeg                                                                          | Unclaimed |           |
-| simplifyEnrichment                                                                 | Unclaimed |           |
-| sincell                                                                            | Unclaimed |           |
-| single                                                                             | Unclaimed |           |
-| SingleCellExperiment                                                               | Unclaimed |           |
-| SingleCellSignalR                                                                  | Unclaimed |           |
-| singleCellTK                                                                       | Unclaimed |           |
-| SingleMoleculeFootprinting                                                         | Unclaimed |           |
-| SingleR                                                                            | Unclaimed |           |
-| singscore                                                                          | Unclaimed |           |
-| SISPA                                                                              | Unclaimed |           |
-| sitadela                                                                           | Unclaimed |           |
-| sitePath                                                                           | Unclaimed |           |
-| skewr                                                                              | Unclaimed |           |
-| slalom                                                                             | Unclaimed |           |
-| slingshot                                                                          | Unclaimed |           |
-| SMAD                                                                               | Unclaimed |           |
-| SMITE                                                                              | Unclaimed |           |
-| snapCGH                                                                            | Unclaimed |           |
-| snapcount                                                                          | Unclaimed |           |
-| snm                                                                                | Unclaimed |           |
-| SNPhood                                                                            | Unclaimed |           |
-| soGGi                                                                              | Unclaimed |           |
-| sojourner                                                                          | Unclaimed |           |
-| SomaticSignatures                                                                  | Unclaimed |           |
-| Spaniel                                                                            | Unclaimed |           |
-| sparrow                                                                            | Unclaimed |           |
-| SparseSignatures                                                                   | Unclaimed |           |
-| spaSim                                                                             | Unclaimed |           |
-| SpatialCPie                                                                        | Unclaimed |           |
-| spatialDE                                                                          | Unclaimed |           |
-| SpatialDecon                                                                       | Unclaimed |           |
-| SpatialExperiment                                                                  | Unclaimed |           |
-| SpatialFeatureExperiment                                                           | Unclaimed |           |
-| spatialHeatmap                                                                     | Unclaimed |           |
-| spatzie                                                                            | Unclaimed |           |
-| SpeCond                                                                            | Unclaimed |           |
-| SpectralTAD                                                                        | Unclaimed |           |
-| SPIAT                                                                              | Unclaimed |           |
-| spicyR                                                                             | Unclaimed |           |
-| SpidermiR                                                                          | Unclaimed |           |
-| spiky                                                                              | Unclaimed |           |
-| splatter                                                                           | Unclaimed |           |
-| SpliceWiz                                                                          | Unclaimed |           |
-| SplicingFactory                                                                    | Unclaimed |           |
-| SplicingGraphs                                                                     | Unclaimed |           |
-| splineTimeR                                                                        | Unclaimed |           |
-| SPLINTER                                                                           | Unclaimed |           |
-| SPONGE                                                                             | Unclaimed |           |
-| SpotClean                                                                          | Unclaimed |           |
-| SPOTlight                                                                          | Unclaimed |           |
-| spqn                                                                               | Unclaimed |           |
-| SPsimSeq                                                                           | Unclaimed |           |
-| SQLDataFrame                                                                       | Unclaimed |           |
-| sRACIPE                                                                            | Unclaimed |           |
-| SRAdb                                                                              | Unclaimed |           |
-| srnadiff                                                                           | Unclaimed |           |
-| sSNAPPY                                                                            | Unclaimed |           |
-| ssPATHS                                                                            | Unclaimed |           |
-| ssrch                                                                              | Unclaimed |           |
-| ssviz                                                                              | Unclaimed |           |
-| stageR                                                                             | Unclaimed |           |
-| STAN                                                                               | Unclaimed |           |
-| standR                                                                             | Unclaimed |           |
-| staRank                                                                            | Unclaimed |           |
-| StarBioTrek                                                                        | Unclaimed |           |
-| Statial                                                                            | Unclaimed |           |
-| STdeconvolve                                                                       | Unclaimed |           |
-| stJoincount                                                                        | Unclaimed |           |
-| strandCheckR                                                                       | Unclaimed |           |
-| struct                                                                             | Unclaimed |           |
-| structToolbox                                                                      | Unclaimed |           |
-| StructuralVariantAnnotation                                                        | Unclaimed |           |
-| SubCellBarCode                                                                     | Unclaimed |           |
-| subSeq                                                                             | Unclaimed |           |
-| SummarizedBenchmark                                                                | Unclaimed |           |
-| Summix                                                                             | Unclaimed |           |
-| supersigs                                                                          | Unclaimed |           |
-| supraHex                                                                           | Unclaimed |           |
-| surfaltr                                                                           | Unclaimed |           |
-| survtype                                                                           | Unclaimed |           |
-| sva                                                                                | Unclaimed |           |
-| svaNUMT                                                                            | Unclaimed |           |
-| svaRetro                                                                           | Unclaimed |           |
-| SWATH2stats                                                                        | Unclaimed |           |
-| switchde                                                                           | Unclaimed |           |
-| synapsis                                                                           | Unclaimed |           |
-| synapter                                                                           | Unclaimed |           |
-| synergyfinder                                                                      | Unclaimed |           |
-| synlet                                                                             | Unclaimed |           |
-| syntenet                                                                           | Unclaimed |           |
-| systemPipeR                                                                        | Unclaimed |           |
-| systemPipeShiny                                                                    | Unclaimed |           |
-| systemPipeTools                                                                    | Unclaimed |           |
-| TADCompare                                                                         | Unclaimed |           |
-| tanggle                                                                            | Unclaimed |           |
-| TAPseq                                                                             | Unclaimed |           |
-| TargetDecoy                                                                        | Unclaimed |           |
-| TarSeqQC                                                                           | Unclaimed |           |
-| TBSignatureProfiler                                                                | Unclaimed |           |
-| TCC                                                                                | Unclaimed |           |
-| TCGAbiolinks                                                                       | Unclaimed |           |
-| TCGAbiolinksGUI                                                                    | Unclaimed |           |
-| TCGAutils                                                                          | Unclaimed |           |
-| TCseq                                                                              | Unclaimed |           |
-| TDARACNE                                                                           | Unclaimed |           |
-| TEKRABber                                                                          | Unclaimed |           |
-| TENxIO                                                                             | Unclaimed |           |
-| tenXplore                                                                          | Unclaimed |           |
-| TEQC                                                                               | Unclaimed |           |
-| terraTCGAdata                                                                      | Unclaimed |           |
-| TFARM                                                                              | Unclaimed |           |
-| TFBSTools                                                                          | Unclaimed |           |
-| TFEA.ChIP                                                                          | Unclaimed |           |
-| TFHAZ                                                                              | Unclaimed |           |
-| TFutils                                                                            | Unclaimed |           |
-| tidybulk                                                                           | Unclaimed |           |
-| tidySingleCellExperiment                                                           | Unclaimed |           |
-| tidySummarizedExperiment                                                           | Unclaimed |           |
-| tigre                                                                              | Unclaimed |           |
-| tilingArray                                                                        | Unclaimed |           |
-| timeOmics                                                                          | Unclaimed |           |
-| timescape                                                                          | Unclaimed |           |
-| TimiRGeN                                                                           | Unclaimed |           |
-| TIN                                                                                | Unclaimed |           |
-| TissueEnrich                                                                       | Unclaimed |           |
-| TitanCNA                                                                           | Unclaimed |           |
-| tLOH                                                                               | Unclaimed |           |
-| TNBC.CMS                                                                           | Unclaimed |           |
-| TnT                                                                                | Unclaimed |           |
-| TOAST                                                                              | Unclaimed |           |
-| tomoda                                                                             | Unclaimed |           |
-| tomoseqr                                                                           | Unclaimed |           |
-| topdownr                                                                           | Unclaimed |           |
-| topGO                                                                              | Unclaimed |           |
-| ToxicoGx                                                                           | Unclaimed |           |
-| TPP                                                                                | Unclaimed |           |
-| TPP2D                                                                              | Unclaimed |           |
-| tracktables                                                                        | Unclaimed |           |
-| trackViewer                                                                        | Unclaimed |           |
-| tradeSeq                                                                           | Unclaimed |           |
-| TrajectoryGeometry                                                                 | Unclaimed |           |
-| TrajectoryUtils                                                                    | Unclaimed |           |
-| transcriptogramer                                                                  | Unclaimed |           |
-| transcriptR                                                                        | Unclaimed |           |
-| transformGamPoi                                                                    | Unclaimed |           |
-| transite                                                                           | Unclaimed |           |
-| tRanslatome                                                                        | Unclaimed |           |
-| transomics2cytoscape                                                               | Unclaimed |           |
-| TraRe                                                                              | Unclaimed |           |
-| traseR                                                                             | Unclaimed |           |
-| traviz                                                                             | Unclaimed |           |
-| treeio                                                                             | Unclaimed |           |
-| treekoR                                                                            | Unclaimed |           |
-| TreeSummarizedExperiment                                                           | Unclaimed |           |
-| TREG                                                                               | Unclaimed |           |
-| trena                                                                              | Unclaimed |           |
-| Trendy                                                                             | Unclaimed |           |
-| TRESS                                                                              | Unclaimed |           |
-| tricycle                                                                           | Unclaimed |           |
-| trigger                                                                            | Unclaimed |           |
-| tripr                                                                              | Unclaimed |           |
-| tRNA                                                                               | Unclaimed |           |
-| tRNAdbImport                                                                       | Unclaimed |           |
-| tRNAscanImport                                                                     | Unclaimed |           |
-| TSCAN                                                                              | Unclaimed |           |
-| tscR                                                                               | Unclaimed |           |
-| ttgsea                                                                             | Unclaimed |           |
-| TTMap                                                                              | Unclaimed |           |
-| TVTB                                                                               | Unclaimed |           |
-| txcutr                                                                             | Unclaimed |           |
-| tximeta                                                                            | Unclaimed |           |
-| UCell                                                                              | Unclaimed |           |
-| Ularcirc                                                                           | Unclaimed |           |
-| UMI4Cats                                                                           | Unclaimed |           |
-| uncoverappLib                                                                      | Unclaimed |           |
-| UniProt.ws                                                                         | Unclaimed |           |
-| Uniquorn                                                                           | Unclaimed |           |
-| uSORT                                                                              | Unclaimed |           |
-| VAExprs                                                                            | Unclaimed |           |
-| VanillaICE                                                                         | Unclaimed |           |
-| VarCon                                                                             | Unclaimed |           |
-| variancePartition                                                                  | Unclaimed |           |
-| VariantAnnotation                                                                  | Unclaimed |           |
-| VariantExperiment                                                                  | Unclaimed |           |
-| VariantFiltering                                                                   | Unclaimed |           |
-| VariantTools                                                                       | Unclaimed |           |
-| VaSP                                                                               | Unclaimed |           |
-| VCFArray                                                                           | Unclaimed |           |
-| VDJdive                                                                            | Unclaimed |           |
-| VegaMC                                                                             | Unclaimed |           |
-| velociraptor                                                                       | Unclaimed |           |
-| VennDetail                                                                         | Unclaimed |           |
-| vidger                                                                             | Unclaimed |           |
-| viper                                                                              | Unclaimed |           |
-| ViSEAGO                                                                            | Unclaimed |           |
-| vissE                                                                              | Unclaimed |           |
-| Voyager                                                                            | Unclaimed |           |
-| VplotR                                                                             | Unclaimed |           |
-| vsclust                                                                            | Unclaimed |           |
-| vtpnet                                                                             | Unclaimed |           |
-| vulcan                                                                             | Unclaimed |           |
-| waddR                                                                              | Unclaimed |           |
-| wateRmelon                                                                         | Unclaimed |           |
-| wavClusteR                                                                         | Unclaimed |           |
-| webbioc                                                                            | Unclaimed |           |
-| weitrix                                                                            | Unclaimed |           |
-| wiggleplotr                                                                        | Unclaimed |           |
-| wpm                                                                                | Unclaimed |           |
-| wppi                                                                               | Unclaimed |           |
-| xcms                                                                               | Unclaimed |           |
-| xcore                                                                              | Unclaimed |           |
-| XDE                                                                                | Unclaimed |           |
-| Xeva                                                                               | Unclaimed |           |
-| XINA                                                                               | Unclaimed |           |
-| XNAString                                                                          | Unclaimed |           |
-| yamss                                                                              | Unclaimed |           |
-| YAPSA                                                                              | Unclaimed |           |
-| yarn                                                                               | Unclaimed |           |
-| zellkonverter                                                                      | Unclaimed |           |
-| zenith                                                                             | Unclaimed |           |
-| zFPKM                                                                              | Unclaimed |           |
-| zinbwave                                                                           | Unclaimed |           |
-| GO.db                                                                              | Unclaimed |           |
-| flexdashboard                                                                      | Unclaimed |           |
-| plotly                                                                             | Unclaimed |           |
-| DT                                                                                 | Unclaimed |           |
-| ggpubr                                                                             | Unclaimed |           |
-| testthat                                                                           | Unclaimed |           |
-| rstatix                                                                            | Unclaimed |           |
-| car                                                                                | Unclaimed |           |
-| pbkrtest                                                                           | Unclaimed |           |
-| lme4                                                                               | Unclaimed |           |
-| nloptr                                                                             | Unclaimed |           |
-| adductData                                                                         | Unclaimed |           |
-| PFAM.db                                                                            | Unclaimed |           |
-| Hmisc                                                                              | Unclaimed |           |
-| htmlTable                                                                          | Unclaimed |           |
-| ggrastr                                                                            | Unclaimed |           |
-| speaq                                                                              | Unclaimed |           |
-| curatedTCGAData                                                                    | Unclaimed |           |
-| DescTools                                                                          | Unclaimed |           |
-| lmerTest                                                                           | Unclaimed |           |
-| tidytree                                                                           | Unclaimed |           |
-| caret                                                                              | Unclaimed |           |
-| GUniFrac                                                                           | Unclaimed |           |
-| recipes                                                                            | Unclaimed |           |
-| org.Sc.sgd.db                                                                      | Unclaimed |           |
-| Seurat                                                                             | Unclaimed |           |
-| org.Hs.eg.db                                                                       | Unclaimed |           |
-| org.Mm.eg.db                                                                       | Unclaimed |           |
-| BSgenome.Hsapiens.UCSC.hg19                                                        | Unclaimed |           |
-| TxDb.Hsapiens.UCSC.hg19.knownGene                                                  | Unclaimed |           |
-| Homo.sapiens                                                                       | Unclaimed |           |
-| SNPlocs.Hsapiens.dbSNP144.GRCh37                                                   | Unclaimed |           |
-| XtraSNPlocs.Hsapiens.dbSNP144.GRCh37                                               | Unclaimed |           |
-| MafDb.1Kgenomes.phase3.hs37d5                                                      | Unclaimed |           |
-| MafDb.ExAC.r1.0.hs37d5                                                             | Unclaimed |           |
-| MafDb.gnomADex.r2.1.hs37d5                                                         | Unclaimed |           |
-| COSMIC.67                                                                          | Unclaimed |           |
-| PolyPhen.Hsapiens.dbSNP131                                                         | Unclaimed |           |
-| SIFT.Hsapiens.dbSNP137                                                             | Unclaimed |           |
-| FDb.InfiniumMethylation.hg19                                                       | Unclaimed |           |
-| ggfortify                                                                          | Unclaimed |           |
-| msigdbr                                                                            | Unclaimed |           |
-| tidyverse                                                                          | Unclaimed |           |
-| Mus.musculus                                                                       | Unclaimed |           |
-| BSgenome.Mmusculus.UCSC.mm10                                                       | Unclaimed |           |
-| TxDb.Mmusculus.UCSC.mm10.knownGene                                                 | Unclaimed |           |
-| TxDb.Hsapiens.UCSC.hg38.knownGene                                                  | Unclaimed |           |
-| haven                                                                              | Unclaimed |           |
-| modelr                                                                             | Unclaimed |           |
-| reactome.db                                                                        | Unclaimed |           |
-| mixtools                                                                           | Unclaimed |           |
-| doBy                                                                               | Unclaimed |           |
-| pRolocdata                                                                         | Unclaimed |           |
-| dendextend                                                                         | Unclaimed |           |
-| threejs                                                                            | Unclaimed |           |
-| BSgenome.Ecoli.NCBI.20080805                                                       | Unclaimed |           |
-| ggExtra                                                                            | Unclaimed |           |
-| colourpicker                                                                       | Unclaimed |           |
-| heatmaply                                                                          | Unclaimed |           |
-| corncob                                                                            | Unclaimed |           |
-| IlluminaHumanMethylation450kanno.ilmn12.hg19                                       | Unclaimed |           |
-| radiant.data                                                                       | Unclaimed |           |
-| org.Bt.eg.db                                                                       | Unclaimed |           |
-| DiagrammeR                                                                         | Unclaimed |           |
-| visNetwork                                                                         | Unclaimed |           |
-| gson                                                                               | Unclaimed |           |
-| HDO.db                                                                             | Unclaimed |           |
-| ggraph                                                                             | Unclaimed |           |
-| aplot                                                                              | Unclaimed |           |
-| scatterpie                                                                         | Unclaimed |           |
-| tidygraph                                                                          | Unclaimed |           |
-| rms                                                                                | Unclaimed |           |
-| synaptome.db                                                                       | Unclaimed |           |
-| WGCNA                                                                              | Unclaimed |           |
-| synaptome.data                                                                     | Unclaimed |           |
-| ggnetwork                                                                          | Unclaimed |           |
-| superheat                                                                          | Unclaimed |           |
-| biscuiteerData                                                                     | Unclaimed |           |
-| pasilla                                                                            | Unclaimed |           |
-| hgu133plus2.db                                                                     | Unclaimed |           |
-| hgu133a.db                                                                         | Unclaimed |           |
-| GenomicState                                                                       | Unclaimed |           |
-| BSgenome.Hsapiens.UCSC.hg38                                                        | Unclaimed |           |
-| devtools                                                                           | Unclaimed |           |
-| drc                                                                                | Unclaimed |           |
-| FactoMineR                                                                         | Unclaimed |           |
-| ggpmisc                                                                            | Unclaimed |           |
-| broom.mixed                                                                        | Unclaimed |           |
-| mice                                                                               | Unclaimed |           |
-| IlluminaHumanMethylationEPICmanifest                                               | Unclaimed |           |
-| IlluminaHumanMethylation450kmanifest                                               | Unclaimed |           |
-| IlluminaHumanMethylationEPICanno.ilm10b4.hg19                                      | Unclaimed |           |
-| isva                                                                               | Unclaimed |           |
-| geneLenDataBase                                                                    | Unclaimed |           |
-| ChIC.data                                                                          | Unclaimed |           |
-| BSgenome.Mmusculus.UCSC.mm9                                                        | Unclaimed |           |
-| chipenrich.data                                                                    | Unclaimed |           |
-| org.Dm.eg.db                                                                       | Unclaimed |           |
-| org.Dr.eg.db                                                                       | Unclaimed |           |
-| org.Rn.eg.db                                                                       | Unclaimed |           |
-| TxDb.Hsapiens.UCSC.hg18.knownGene                                                  | Unclaimed |           |
-| TxDb.Mmusculus.UCSC.mm9.knownGene                                                  | Unclaimed |           |
-| TxDb.Rnorvegicus.UCSC.rn4.ensGene                                                  | Unclaimed |           |
-| TxDb.Celegans.UCSC.ce6.ensGene                                                     | Unclaimed |           |
-| TxDb.Dmelanogaster.UCSC.dm3.ensGene                                                | Unclaimed |           |
-| shinydashboardPlus                                                                 | Unclaimed |           |
-| kableExtra                                                                         | Unclaimed |           |
-| gggenes                                                                            | Unclaimed |           |
-| [qs](https://github.com/almahmoud/gha-build/actions/runs/3767347055)               | Unclaimed |           |
-| BSgenome.Drerio.UCSC.danRer7                                                       | Unclaimed |           |
-| rgl                                                                                | Unclaimed |           |
-| phylobase                                                                          | Unclaimed |           |
-| benchmarkme                                                                        | Unclaimed |           |
-| [RNeXML](https://github.com/almahmoud/gha-build/actions/runs/3767779750)           | Unclaimed |           |
-| rio                                                                                | Unclaimed |           |
-| factoextra                                                                         | Unclaimed |           |
-| Ecume                                                                              | Unclaimed |           |
-| spatstat                                                                           | Unclaimed |           |
-| spatstat.linnet                                                                    | Unclaimed |           |
-| contrast                                                                           | Unclaimed |           |
-| airway                                                                             | Unclaimed |           |
-| EnsDb.Hsapiens.v86                                                                 | Unclaimed |           |
-| IlluminaHumanMethylationEPICanno.ilm10b2.hg19                                      | Unclaimed |           |
-| faahKO                                                                             | Unclaimed |           |
-| dorothea                                                                           | Unclaimed |           |
-| crisprScoreData                                                                    | Unclaimed |           |
-| keras                                                                              | Unclaimed |           |
-| shinypanel                                                                         | Unclaimed |           |
-| highcharter                                                                        | Unclaimed |           |
-| cytometree                                                                         | Unclaimed |           |
-| RFOC                                                                               | Unclaimed |           |
-| GEOmap                                                                             | Unclaimed |           |
-| fields                                                                             | Unclaimed |           |
-| mbest                                                                              | Unclaimed |           |
-| svgPanZoom                                                                         | Unclaimed |           |
-| plsVarSel                                                                          | Unclaimed |           |
-| arm                                                                                | Unclaimed |           |
-| MSQC                                                                               | Unclaimed |           |
-| DAPARdata                                                                          | Unclaimed |           |
-| cmdfun                                                                             | Unclaimed |           |
-| metap                                                                              | Unclaimed |           |
-| rsq                                                                                | Unclaimed |           |
-| diffr                                                                              | Unclaimed |           |
-| webchem                                                                            | Unclaimed |           |
-| text2vec                                                                           | Unclaimed |           |
-| textstem                                                                           | Unclaimed |           |
-| mlapi                                                                              | Unclaimed |           |
-| lexicon                                                                            | Unclaimed |           |
-| textclean                                                                          | Unclaimed |           |
-| syuzhet                                                                            | Unclaimed |           |
-| VIM                                                                                | Unclaimed |           |
-| NBPSeq                                                                             | Unclaimed |           |
-| hgu133a2.db                                                                        | Unclaimed |           |
-| easierData                                                                         | Unclaimed |           |
-| EpiMix.data                                                                        | Unclaimed |           |
-| qgraph                                                                             | Unclaimed |           |
-| ewceData                                                                           | Unclaimed |           |
-| homologene                                                                         | Unclaimed |           |
-| gprofiler2                                                                         | Unclaimed |           |
-| gap                                                                                | Unclaimed |           |
-| geepack                                                                            | Unclaimed |           |
-| fda                                                                                | Unclaimed |           |
-| fds                                                                                | Unclaimed |           |
-| [rainbow](https://github.com/almahmoud/gha-build/actions/runs/3767779750)          | Unclaimed |           |
-| ggiraph                                                                            | Unclaimed |           |
-| NHPoisson                                                                          | Unclaimed |           |
-| FCPS                                                                               | Unclaimed |           |
-| survminer                                                                          | Unclaimed |           |
-| logistf                                                                            | Unclaimed |           |
-| bs4Dash                                                                            | Unclaimed |           |
-| tippy                                                                              | Unclaimed |           |
-| shinyHeatmaply                                                                     | Unclaimed |           |
-| shinybusy                                                                          | Unclaimed |           |
-| ggalt                                                                              | Unclaimed |           |
-| HH                                                                                 | Unclaimed |           |
-| gRain                                                                              | Unclaimed |           |
-| epiR                                                                               | Unclaimed |           |
-| HiContactsData                                                                     | Unclaimed |           |
-| available                                                                          | Unclaimed |           |
-| reactable                                                                          | Unclaimed |           |
-| biclust                                                                            | Unclaimed |           |
-| TxDb.Dmelanogaster.UCSC.dm6.ensGene                                                | Unclaimed |           |
-| wordcloud2                                                                         | Unclaimed |           |
-| datamods                                                                           | Unclaimed |           |
-| pd.mapping50k.xba240                                                               | Unclaimed |           |
-| hgu95av2.db                                                                        | Unclaimed |           |
-| sortable                                                                           | Unclaimed |           |
-| reldist                                                                            | Unclaimed |           |
-| densEstBayes                                                                       | Unclaimed |           |
-| adabag                                                                             | Unclaimed |           |
-| glmmTMB                                                                            | Unclaimed |           |
-| depmap                                                                             | Unclaimed |           |
-| plsgenomics                                                                        | Unclaimed |           |
-| agricolae                                                                          | Unclaimed |           |
-| klaR                                                                               | Unclaimed |           |
-| questionr                                                                          | Unclaimed |           |
-| labelled                                                                           | Unclaimed |           |
-| SmartSVA                                                                           | Unclaimed |           |
-| EnsDb.Hsapiens.v75                                                                 | Unclaimed |           |
-| [rmdformats](https://github.com/almahmoud/gha-build/actions/runs/3767779750)       | Unclaimed |           |
-| sesameData                                                                         | Unclaimed |           |
-| FlowSorted.Blood.450k                                                              | Unclaimed |           |
-| methylclockData                                                                    | Unclaimed |           |
-| ggmcmc                                                                             | Unclaimed |           |
-| formattable                                                                        | Unclaimed |           |
-| HardyWeinberg                                                                      | Unclaimed |           |
-| lumiHumanAll.db                                                                    | Unclaimed |           |
-| BSgenome.Hsapiens.UCSC.hg18                                                        | Unclaimed |           |
-| miRBaseVersions.db                                                                 | Unclaimed |           |
-| s4vd                                                                               | Unclaimed |           |
-| BiBitR                                                                             | Unclaimed |           |
-| subspace                                                                           | Unclaimed |           |
-| SOMbrero                                                                           | Unclaimed |           |
-| cvms                                                                               | Unclaimed |           |
-| groupdata2                                                                         | Unclaimed |           |
-| echarts4r                                                                          | Unclaimed |           |
-| HiveR                                                                              | Unclaimed |           |
-| anyLib                                                                             | Unclaimed |           |
-| blme                                                                               | Unclaimed |           |
-| deconstructSigs                                                                    | Unclaimed |           |
-| shinyjqui                                                                          | Unclaimed |           |
-| dnet                                                                               | Unclaimed |           |
-| RcmdrMisc                                                                          | Unclaimed |           |
-| qpcR                                                                               | Unclaimed |           |
-| NxtIRFdata                                                                         | Unclaimed |           |
-| octad.db                                                                           | Unclaimed |           |
-| diceR                                                                              | Unclaimed |           |
-| OMICsPCAdata                                                                       | Unclaimed |           |
-| AICcmodavg                                                                         | Unclaimed |           |
-| summarytools                                                                       | Unclaimed |           |
-| unmarked                                                                           | Unclaimed |           |
-| biomartr                                                                           | Unclaimed |           |
-| tfprobability                                                                      | Unclaimed |           |
-| verification                                                                       | Unclaimed |           |
-| genlasso                                                                           | Unclaimed |           |
-| tidybayes                                                                          | Unclaimed |           |
-| ggdist                                                                             | Unclaimed |           |
-| [posterior](https://github.com/almahmoud/gha-build/actions/runs/3767779750)        | Unclaimed |           |
-| phastCons100way.UCSC.hg38                                                          | Unclaimed |           |
-| forecast                                                                           | Unclaimed |           |
-| rhandsontable                                                                      | Unclaimed |           |
-| EnsDb.Mmusculus.v79                                                                | Unclaimed |           |
-| EnsDb.Rnorvegicus.v79                                                              | Unclaimed |           |
-| pairsD3                                                                            | Unclaimed |           |
-| pwrEWAS.data                                                                       | Unclaimed |           |
-| phastCons100way.UCSC.hg19                                                          | Unclaimed |           |
-| BSgenome.Celegans.UCSC.ce2                                                         | Unclaimed |           |
-| BSgenome.Hsapiens.1000genomes.hs37d5                                               | Unclaimed |           |
-| rGenomeTracksData                                                                  | Unclaimed |           |
-| valr                                                                               | Unclaimed |           |
-| caretEnsemble                                                                      | Unclaimed |           |
-| RLHub                                                                              | Unclaimed |           |
-| TBX20BamSubset                                                                     | Unclaimed |           |
-| excelR                                                                             | Unclaimed |           |
-| SBGNview.data                                                                      | Unclaimed |           |
-| scanMiRData                                                                        | Unclaimed |           |
-| SCATEData                                                                          | Unclaimed |           |
-| nnTensor                                                                           | Unclaimed |           |
-| ccTensor                                                                           | Unclaimed |           |
-| clustree                                                                           | Unclaimed |           |
-| [rbokeh](https://github.com/almahmoud/gha-build/actions/runs/3767779750)           | Unclaimed |           |
-| survivalAnalysis                                                                   | Unclaimed |           |
-| tidytidbits                                                                        | Unclaimed |           |
-| [openair](https://github.com/almahmoud/gha-build/actions/runs/3767779750)          | Unclaimed |           |
-| celldex                                                                            | Unclaimed |           |
-| GSVAdata                                                                           | Unclaimed |           |
-| SoupX                                                                              | Unclaimed |           |
-| scRNAseq                                                                           | Unclaimed |           |
-| TENxPBMCData                                                                       | Unclaimed |           |
-| hgu95a.db                                                                          | Unclaimed |           |
-| miRNAtap.db                                                                        | Unclaimed |           |
-| MESS                                                                               | Unclaimed |           |
-| ggformula                                                                          | Unclaimed |           |
-| rsample                                                                            | Unclaimed |           |
-| SpatialExtremes                                                                    | Unclaimed |           |
-| spsComps                                                                           | Unclaimed |           |
-| drawer                                                                             | Unclaimed |           |
-| gghighlight                                                                        | Unclaimed |           |
-| bestNormalize                                                                      | Unclaimed |           |
-| naniar                                                                             | Unclaimed |           |
-| visdat                                                                             | Unclaimed |           |
-| SNPlocs.Hsapiens.dbSNP150.GRCh38                                                   | Unclaimed |           |
-| mirbase.db                                                                         | Unclaimed |           |
-| condformat                                                                         | Unclaimed |           |
-| shinyTree                                                                          | Unclaimed |           |
-| msigdb                                                                             | Unclaimed |           |
+## Unclaimed (1650)
+| Package                                                                                | Status    | Tarball   |
+|----------------------------------------------------------------------------------------|-----------|-----------|
+| a4                                                                                     | Unclaimed |           |
+| a4Base                                                                                 | Unclaimed |           |
+| abseqR                                                                                 | Unclaimed |           |
+| ACE                                                                                    | Unclaimed |           |
+| ADaCGH2                                                                                | Unclaimed |           |
+| ADAM                                                                                   | Unclaimed |           |
+| ADAMgui                                                                                | Unclaimed |           |
+| adductomicsR                                                                           | Unclaimed |           |
+| ADImpute                                                                               | Unclaimed |           |
+| adSplit                                                                                | Unclaimed |           |
+| AffiXcan                                                                               | Unclaimed |           |
+| affycoretools                                                                          | Unclaimed |           |
+| affylmGUI                                                                              | Unclaimed |           |
+| AGDEX                                                                                  | Unclaimed |           |
+| aggregateBioVar                                                                        | Unclaimed |           |
+| AgiMicroRna                                                                            | Unclaimed |           |
+| airpart                                                                                | Unclaimed |           |
+| alevinQC                                                                               | Unclaimed |           |
+| AllelicImbalance                                                                       | Unclaimed |           |
+| AlphaBeta                                                                              | Unclaimed |           |
+| alpine                                                                                 | Unclaimed |           |
+| AlpsNMR                                                                                | Unclaimed |           |
+| AMARETTO                                                                               | Unclaimed |           |
+| amplican                                                                               | Unclaimed |           |
+| Anaquin                                                                                | Unclaimed |           |
+| ANCOMBC                                                                                | Unclaimed |           |
+| AneuFinder                                                                             | Unclaimed |           |
+| animalcules                                                                            | Unclaimed |           |
+| annaffy                                                                                | Unclaimed |           |
+| annmap                                                                                 | Unclaimed |           |
+| annotate                                                                               | Unclaimed |           |
+| AnnotationForge                                                                        | Unclaimed |           |
+| AnnotationHub                                                                          | Unclaimed |           |
+| AnnotationHubData                                                                      | Unclaimed |           |
+| annotatr                                                                               | Unclaimed |           |
+| anota2seq                                                                              | Unclaimed |           |
+| AnVIL                                                                                  | Unclaimed |           |
+| AnVILBilling                                                                           | Unclaimed |           |
+| AnVILPublish                                                                           | Unclaimed |           |
+| APAlyzer                                                                               | Unclaimed |           |
+| apComplex                                                                              | Unclaimed |           |
+| APL                                                                                    | Unclaimed |           |
+| appreci8R                                                                              | Unclaimed |           |
+| ArrayExpress                                                                           | Unclaimed |           |
+| ArrayExpressHTS                                                                        | Unclaimed |           |
+| arrayMvout                                                                             | Unclaimed |           |
+| arrayQualityMetrics                                                                    | Unclaimed |           |
+| artMS                                                                                  | Unclaimed |           |
+| ASICS                                                                                  | Unclaimed |           |
+| ASpediaFI                                                                              | Unclaimed |           |
+| ASpli                                                                                  | Unclaimed |           |
+| ASSIGN                                                                                 | Unclaimed |           |
+| ASURAT                                                                                 | Unclaimed |           |
+| ATACCoGAPS                                                                             | Unclaimed |           |
+| ATACseqQC                                                                              | Unclaimed |           |
+| ATACseqTFEA                                                                            | Unclaimed |           |
+| atena                                                                                  | Unclaimed |           |
+| atSNP                                                                                  | Unclaimed |           |
+| attract                                                                                | Unclaimed |           |
+| AUCell                                                                                 | Unclaimed |           |
+| autonomics                                                                             | Unclaimed |           |
+| BaalChIP                                                                               | Unclaimed |           |
+| BadRegionFinder                                                                        | Unclaimed |           |
+| ballgown                                                                               | Unclaimed |           |
+| bambu                                                                                  | Unclaimed |           |
+| bandle                                                                                 | Unclaimed |           |
+| banocc                                                                                 | Unclaimed |           |
+| barcodetrackR                                                                          | Unclaimed |           |
+| basecallQC                                                                             | Unclaimed |           |
+| Basic4Cseq                                                                             | Unclaimed |           |
+| BASiCS                                                                                 | Unclaimed |           |
+| BASiCStan                                                                              | Unclaimed |           |
+| BasicSTARRseq                                                                          | Unclaimed |           |
+| batchelor                                                                              | Unclaimed |           |
+| BatchQC                                                                                | Unclaimed |           |
+| BayesSpace                                                                             | Unclaimed |           |
+| bayNorm                                                                                | Unclaimed |           |
+| BBCAnalyzer                                                                            | Unclaimed |           |
+| beadarray                                                                              | Unclaimed |           |
+| BEARscc                                                                                | Unclaimed |           |
+| BEAT                                                                                   | Unclaimed |           |
+| beer                                                                                   | Unclaimed |           |
+| benchdamic                                                                             | Unclaimed |           |
+| BgeeCall                                                                               | Unclaimed |           |
+| BgeeDB                                                                                 | Unclaimed |           |
+| BicARE                                                                                 | Unclaimed |           |
+| bigmelon                                                                               | Unclaimed |           |
+| bigPint                                                                                | Unclaimed |           |
+| BindingSiteFinder                                                                      | Unclaimed |           |
+| bioassayR                                                                              | Unclaimed |           |
+| biobroom                                                                               | Unclaimed |           |
+| bioCancer                                                                              | Unclaimed |           |
+| BiocDockerManager                                                                      | Unclaimed |           |
+| BiocFHIR                                                                               | Unclaimed |           |
+| biocGraph                                                                              | Unclaimed |           |
+| BiocOncoTK                                                                             | Unclaimed |           |
+| BioCor                                                                                 | Unclaimed |           |
+| BiocPkgTools                                                                           | Unclaimed |           |
+| BiocSet                                                                                | Unclaimed |           |
+| BiocStyle                                                                              | Unclaimed |           |
+| BiocWorkflowTools                                                                      | Unclaimed |           |
+| biodb                                                                                  | Unclaimed |           |
+| biodbChebi                                                                             | Unclaimed |           |
+| biodbExpasy                                                                            | Unclaimed |           |
+| biodbHmdb                                                                              | Unclaimed |           |
+| biodbKegg                                                                              | Unclaimed |           |
+| biodbLipidmaps                                                                         | Unclaimed |           |
+| biodbMirbase                                                                           | Unclaimed |           |
+| biodbNcbi                                                                              | Unclaimed |           |
+| biodbNci                                                                               | Unclaimed |           |
+| biodbUniprot                                                                           | Unclaimed |           |
+| biomaRt                                                                                | Unclaimed |           |
+| BioMM                                                                                  | Unclaimed |           |
+| biomvRCNS                                                                              | Unclaimed |           |
+| BioNAR                                                                                 | Unclaimed |           |
+| BioNERO                                                                                | Unclaimed |           |
+| BioNet                                                                                 | Unclaimed |           |
+| BioNetStat                                                                             | Unclaimed |           |
+| biosigner                                                                              | Unclaimed |           |
+| BioTIP                                                                                 | Unclaimed |           |
+| biotmle                                                                                | Unclaimed |           |
+| biovizBase                                                                             | Unclaimed |           |
+| biscuiteer                                                                             | Unclaimed |           |
+| BiSeq                                                                                  | Unclaimed |           |
+| blacksheepr                                                                            | Unclaimed |           |
+| blima                                                                                  | Unclaimed |           |
+| BLMA                                                                                   | Unclaimed |           |
+| BloodGen3Module                                                                        | Unclaimed |           |
+| bnbc                                                                                   | Unclaimed |           |
+| bnem                                                                                   | Unclaimed |           |
+| BOBaFIT                                                                                | Unclaimed |           |
+| borealis                                                                               | Unclaimed |           |
+| BPRMeth                                                                                | Unclaimed |           |
+| brainflowprobes                                                                        | Unclaimed |           |
+| BrainSABER                                                                             | Unclaimed |           |
+| branchpointer                                                                          | Unclaimed |           |
+| breakpointR                                                                            | Unclaimed |           |
+| brendaDb                                                                               | Unclaimed |           |
+| BRGenomics                                                                             | Unclaimed |           |
+| BSgenome                                                                               | Unclaimed |           |
+| bsseq                                                                                  | Unclaimed |           |
+| BubbleTree                                                                             | Unclaimed |           |
+| bugsigdbr                                                                              | Unclaimed |           |
+| BUMHMM                                                                                 | Unclaimed |           |
+| bumphunter                                                                             | Unclaimed |           |
+| BUSpaRse                                                                               | Unclaimed |           |
+| BUSseq                                                                                 | Unclaimed |           |
+| CAEN                                                                                   | Unclaimed |           |
+| CAFE                                                                                   | Unclaimed |           |
+| CAGEfightR                                                                             | Unclaimed |           |
+| cageminer                                                                              | Unclaimed |           |
+| CAGEr                                                                                  | Unclaimed |           |
+| CAMERA                                                                                 | Unclaimed |           |
+| canceR                                                                                 | Unclaimed |           |
+| cardelino                                                                              | Unclaimed |           |
+| Cardinal                                                                               | Unclaimed |           |
+| casper                                                                                 | Unclaimed |           |
+| CATALYST                                                                               | Unclaimed |           |
+| Category                                                                               | Unclaimed |           |
+| categoryCompare                                                                        | Unclaimed |           |
+| cbaf                                                                                   | Unclaimed |           |
+| CBEA                                                                                   | Unclaimed |           |
+| cBioPortalData                                                                         | Unclaimed |           |
+| cbpManager                                                                             | Unclaimed |           |
+| ccfindR                                                                                | Unclaimed |           |
+| ccmap                                                                                  | Unclaimed |           |
+| CCPROMISE                                                                              | Unclaimed |           |
+| celaref                                                                                | Unclaimed |           |
+| celda                                                                                  | Unclaimed |           |
+| CellaRepertorium                                                                       | Unclaimed |           |
+| CellBarcode                                                                            | Unclaimed |           |
+| CellBench                                                                              | Unclaimed |           |
+| cellHTS2                                                                               | Unclaimed |           |
+| CelliD                                                                                 | Unclaimed |           |
+| cellity                                                                                | Unclaimed |           |
+| cellmigRation                                                                          | Unclaimed |           |
+| CellMixS                                                                               | Unclaimed |           |
+| CellTrails                                                                             | Unclaimed |           |
+| cellTree                                                                               | Unclaimed |           |
+| cellxgenedp                                                                            | Unclaimed |           |
+| CEMiTool                                                                               | Unclaimed |           |
+| censcyt                                                                                | Unclaimed |           |
+| Cepo                                                                                   | Unclaimed |           |
+| ceRNAnetsim                                                                            | Unclaimed |           |
+| CeTF                                                                                   | Unclaimed |           |
+| CexoR                                                                                  | Unclaimed |           |
+| cfDNAPro                                                                               | Unclaimed |           |
+| CGHcall                                                                                | Unclaimed |           |
+| cghMCR                                                                                 | Unclaimed |           |
+| CGHnormaliter                                                                          | Unclaimed |           |
+| ChAMP                                                                                  | Unclaimed |           |
+| ChemmineR                                                                              | Unclaimed |           |
+| CHETAH                                                                                 | Unclaimed |           |
+| ChIC                                                                                   | Unclaimed |           |
+| Chicago                                                                                | Unclaimed |           |
+| chimeraviz                                                                             | Unclaimed |           |
+| ChIPanalyser                                                                           | Unclaimed |           |
+| ChIPComp                                                                               | Unclaimed |           |
+| chipenrich                                                                             | Unclaimed |           |
+| ChIPexoQual                                                                            | Unclaimed |           |
+| ChIPpeakAnno                                                                           | Unclaimed |           |
+| ChIPQC                                                                                 | Unclaimed |           |
+| ChIPseeker                                                                             | Unclaimed |           |
+| chipseq                                                                                | Unclaimed |           |
+| ChIPseqR                                                                               | Unclaimed |           |
+| ChIPsim                                                                                | Unclaimed |           |
+| ChIPXpress                                                                             | Unclaimed |           |
+| ChromHeatMap                                                                           | Unclaimed |           |
+| chromPlot                                                                              | Unclaimed |           |
+| ChromSCape                                                                             | Unclaimed |           |
+| chromstaR                                                                              | Unclaimed |           |
+| chromswitch                                                                            | Unclaimed |           |
+| chromVAR                                                                               | Unclaimed |           |
+| CHRONOS                                                                                | Unclaimed |           |
+| cicero                                                                                 | Unclaimed |           |
+| CIMICE                                                                                 | Unclaimed |           |
+| circRNAprofiler                                                                        | Unclaimed |           |
+| CircSeqAlignTk                                                                         | Unclaimed |           |
+| CiteFuse                                                                               | Unclaimed |           |
+| ClassifyR                                                                              | Unclaimed |           |
+| cleanUpdTSeq                                                                           | Unclaimed |           |
+| clippda                                                                                | Unclaimed |           |
+| clipper                                                                                | Unclaimed |           |
+| cliProfiler                                                                            | Unclaimed |           |
+| cliqueMS                                                                               | Unclaimed |           |
+| CluMSID                                                                                | Unclaimed |           |
+| clusterExperiment                                                                      | Unclaimed |           |
+| clusterProfiler                                                                        | Unclaimed |           |
+| clustifyr                                                                              | Unclaimed |           |
+| cn.farms                                                                               | Unclaimed |           |
+| cn.mops                                                                                | Unclaimed |           |
+| CNEr                                                                                   | Unclaimed |           |
+| CNORfuzzy                                                                              | Unclaimed |           |
+| CNTools                                                                                | Unclaimed |           |
+| CNVfilteR                                                                              | Unclaimed |           |
+| CNViz                                                                                  | Unclaimed |           |
+| CNVPanelizer                                                                           | Unclaimed |           |
+| CNVRanger                                                                              | Unclaimed |           |
+| CNVrd2                                                                                 | Unclaimed |           |
+| CoCiteStats                                                                            | Unclaimed |           |
+| COCOA                                                                                  | Unclaimed |           |
+| codelink                                                                               | Unclaimed |           |
+| CODEX                                                                                  | Unclaimed |           |
+| coexnet                                                                                | Unclaimed |           |
+| CoGAPS                                                                                 | Unclaimed |           |
+| cogena                                                                                 | Unclaimed |           |
+| cogeqc                                                                                 | Unclaimed |           |
+| Cogito                                                                                 | Unclaimed |           |
+| comapr                                                                                 | Unclaimed |           |
+| combi                                                                                  | Unclaimed |           |
+| coMET                                                                                  | Unclaimed |           |
+| coMethDMR                                                                              | Unclaimed |           |
+| compartmap                                                                             | Unclaimed |           |
+| COMPASS                                                                                | Unclaimed |           |
+| compEpiTools                                                                           | Unclaimed |           |
+| CompoundDb                                                                             | Unclaimed |           |
+| ComPrAn                                                                                | Unclaimed |           |
+| conclus                                                                                | Unclaimed |           |
+| condiments                                                                             | Unclaimed |           |
+| CONFESS                                                                                | Unclaimed |           |
+| consensusDE                                                                            | Unclaimed |           |
+| consensusOV                                                                            | Unclaimed |           |
+| consensusSeekeR                                                                        | Unclaimed |           |
+| consICA                                                                                | Unclaimed |           |
+| contiBAIT                                                                              | Unclaimed |           |
+| conumee                                                                                | Unclaimed |           |
+| CopyNumberPlots                                                                        | Unclaimed |           |
+| CopywriteR                                                                             | Unclaimed |           |
+| CoreGx                                                                                 | Unclaimed |           |
+| corral                                                                                 | Unclaimed |           |
+| coseq                                                                                  | Unclaimed |           |
+| cosmiq                                                                                 | Unclaimed |           |
+| cosmosR                                                                                | Unclaimed |           |
+| COTAN                                                                                  | Unclaimed |           |
+| countsimQC                                                                             | Unclaimed |           |
+| CoverageView                                                                           | Unclaimed |           |
+| covRNA                                                                                 | Unclaimed |           |
+| cpvSNP                                                                                 | Unclaimed |           |
+| CRImage                                                                                | Unclaimed |           |
+| crisprBowtie                                                                           | Unclaimed |           |
+| crisprBwa                                                                              | Unclaimed |           |
+| crisprDesign                                                                           | Unclaimed |           |
+| crisprScore                                                                            | Unclaimed |           |
+| CRISPRseek                                                                             | Unclaimed |           |
+| crisprseekplus                                                                         | Unclaimed |           |
+| CrispRVariants                                                                         | Unclaimed |           |
+| crisprVerse                                                                            | Unclaimed |           |
+| crisprViz                                                                              | Unclaimed |           |
+| crlmm                                                                                  | Unclaimed |           |
+| crossmeta                                                                              | Unclaimed |           |
+| csdR                                                                                   | Unclaimed |           |
+| CSSQ                                                                                   | Unclaimed |           |
+| CTDquerier                                                                             | Unclaimed |           |
+| cTRAP                                                                                  | Unclaimed |           |
+| CTSV                                                                                   | Unclaimed |           |
+| cummeRbund                                                                             | Unclaimed |           |
+| customCMPdb                                                                            | Unclaimed |           |
+| customProDB                                                                            | Unclaimed |           |
+| cyanoFilter                                                                            | Unclaimed |           |
+| cydar                                                                                  | Unclaimed |           |
+| CyTOFpower                                                                             | Unclaimed |           |
+| CytoGLMM                                                                               | Unclaimed |           |
+| cytomapper                                                                             | Unclaimed |           |
+| CytoML                                                                                 | Unclaimed |           |
+| dada2                                                                                  | Unclaimed |           |
+| dagLogo                                                                                | Unclaimed |           |
+| DAMEfinder                                                                             | Unclaimed |           |
+| DaMiRseq                                                                               | Unclaimed |           |
+| DAPAR                                                                                  | Unclaimed |           |
+| dasper                                                                                 | Unclaimed |           |
+| dce                                                                                    | Unclaimed |           |
+| ddPCRclust                                                                             | Unclaimed |           |
+| dearseq                                                                                | Unclaimed |           |
+| debCAM                                                                                 | Unclaimed |           |
+| debrowser                                                                              | Unclaimed |           |
+| deco                                                                                   | Unclaimed |           |
+| DEComplexDisease                                                                       | Unclaimed |           |
+| decompTumor2Sig                                                                        | Unclaimed |           |
+| deconvR                                                                                | Unclaimed |           |
+| decoupleR                                                                              | Unclaimed |           |
+| DeepBlueR                                                                              | Unclaimed |           |
+| DeepPINCS                                                                              | Unclaimed |           |
+| deepSNV                                                                                | Unclaimed |           |
+| DEFormats                                                                              | Unclaimed |           |
+| DegNorm                                                                                | Unclaimed |           |
+| DEGraph                                                                                | Unclaimed |           |
+| DEGreport                                                                              | Unclaimed |           |
+| DEGseq                                                                                 | Unclaimed |           |
+| deltaCaptureC                                                                          | Unclaimed |           |
+| deltaGseg                                                                              | Unclaimed |           |
+| DeMixT                                                                                 | Unclaimed |           |
+| DEP                                                                                    | Unclaimed |           |
+| DepecheR                                                                               | Unclaimed |           |
+| derfinder                                                                              | Unclaimed |           |
+| derfinderPlot                                                                          | Unclaimed |           |
+| DEScan2                                                                                | Unclaimed |           |
+| DESeq2                                                                                 | Unclaimed |           |
+| destiny                                                                                | Unclaimed |           |
+| DEsubs                                                                                 | Unclaimed |           |
+| DEWSeq                                                                                 | Unclaimed |           |
+| DExMA                                                                                  | Unclaimed |           |
+| DEXSeq                                                                                 | Unclaimed |           |
+| DiffBind                                                                               | Unclaimed |           |
+| diffcoexp                                                                              | Unclaimed |           |
+| diffcyt                                                                                | Unclaimed |           |
+| DifferentialRegulation                                                                 | Unclaimed |           |
+| diffHic                                                                                | Unclaimed |           |
+| diffuStats                                                                             | Unclaimed |           |
+| diffUTR                                                                                | Unclaimed |           |
+| diggit                                                                                 | Unclaimed |           |
+| Dino                                                                                   | Unclaimed |           |
+| DiscoRhythm                                                                            | Unclaimed |           |
+| distinct                                                                               | Unclaimed |           |
+| dittoSeq                                                                               | Unclaimed |           |
+| DMCFB                                                                                  | Unclaimed |           |
+| DMCHMM                                                                                 | Unclaimed |           |
+| DMRcate                                                                                | Unclaimed |           |
+| DMRforPairs                                                                            | Unclaimed |           |
+| dmrseq                                                                                 | Unclaimed |           |
+| DNABarcodeCompatibility                                                                | Unclaimed |           |
+| DNAfusion                                                                              | Unclaimed |           |
+| DNAshapeR                                                                              | Unclaimed |           |
+| DominoEffect                                                                           | Unclaimed |           |
+| doppelgangR                                                                            | Unclaimed |           |
+| Doscheda                                                                               | Unclaimed |           |
+| DOSE                                                                                   | Unclaimed |           |
+| doseR                                                                                  | Unclaimed |           |
+| dpeak                                                                                  | Unclaimed |           |
+| drawProteins                                                                           | Unclaimed |           |
+| DropletUtils                                                                           | Unclaimed |           |
+| drugTargetInteractions                                                                 | Unclaimed |           |
+| DrugVsDisease                                                                          | Unclaimed |           |
+| DSS                                                                                    | Unclaimed |           |
+| easier                                                                                 | Unclaimed |           |
+| EasyCellType                                                                           | Unclaimed |           |
+| easyRNASeq                                                                             | Unclaimed |           |
+| EBSEA                                                                                  | Unclaimed |           |
+| EBSeq                                                                                  | Unclaimed |           |
+| EBSeqHMM                                                                               | Unclaimed |           |
+| EDASeq                                                                                 | Unclaimed |           |
+| edge                                                                                   | Unclaimed |           |
+| eegc                                                                                   | Unclaimed |           |
+| EGAD                                                                                   | Unclaimed |           |
+| EGSEA                                                                                  | Unclaimed |           |
+| eiR                                                                                    | Unclaimed |           |
+| ELMER                                                                                  | Unclaimed |           |
+| EnhancedVolcano                                                                        | Unclaimed |           |
+| enhancerHomologSearch                                                                  | Unclaimed |           |
+| ENmix                                                                                  | Unclaimed |           |
+| EnrichmentBrowser                                                                      | Unclaimed |           |
+| enrichplot                                                                             | Unclaimed |           |
+| enrichTF                                                                               | Unclaimed |           |
+| ensembldb                                                                              | Unclaimed |           |
+| ensemblVEP                                                                             | Unclaimed |           |
+| epialleleR                                                                             | Unclaimed |           |
+| EpiCompare                                                                             | Unclaimed |           |
+| epidecodeR                                                                             | Unclaimed |           |
+| epigenomix                                                                             | Unclaimed |           |
+| epigraHMM                                                                              | Unclaimed |           |
+| epihet                                                                                 | Unclaimed |           |
+| EpiMix                                                                                 | Unclaimed |           |
+| epimutacions                                                                           | Unclaimed |           |
+| epiNEM                                                                                 | Unclaimed |           |
+| epistasisGA                                                                            | Unclaimed |           |
+| EpiTxDb                                                                                | Unclaimed |           |
+| epivizr                                                                                | Unclaimed |           |
+| epivizrChart                                                                           | Unclaimed |           |
+| epivizrData                                                                            | Unclaimed |           |
+| epivizrStandalone                                                                      | Unclaimed |           |
+| erma                                                                                   | Unclaimed |           |
+| ERSSA                                                                                  | Unclaimed |           |
+| esATAC                                                                                 | Unclaimed |           |
+| escape                                                                                 | Unclaimed |           |
+| esetVis                                                                                | Unclaimed |           |
+| evaluomeR                                                                              | Unclaimed |           |
+| EventPointer                                                                           | Unclaimed |           |
+| EWCE                                                                                   | Unclaimed |           |
+| ExCluster                                                                              | Unclaimed |           |
+| exomeCopy                                                                              | Unclaimed |           |
+| exomePeak2                                                                             | Unclaimed |           |
+| ExperimentHub                                                                          | Unclaimed |           |
+| ExperimentHubData                                                                      | Unclaimed |           |
+| ExperimentSubset                                                                       | Unclaimed |           |
+| ExploreModelMatrix                                                                     | Unclaimed |           |
+| ExpressionAtlas                                                                        | Unclaimed |           |
+| extraChIPs                                                                             | Unclaimed |           |
+| factR                                                                                  | Unclaimed |           |
+| FamAgg                                                                                 | Unclaimed |           |
+| famat                                                                                  | Unclaimed |           |
+| fastLiquidAssociation                                                                  | Unclaimed |           |
+| FastqCleaner                                                                           | Unclaimed |           |
+| FCBF                                                                                   | Unclaimed |           |
+| fCCAC                                                                                  | Unclaimed |           |
+| fCI                                                                                    | Unclaimed |           |
+| fcoex                                                                                  | Unclaimed |           |
+| fcScan                                                                                 | Unclaimed |           |
+| FEAST                                                                                  | Unclaimed |           |
+| ffpe                                                                                   | Unclaimed |           |
+| fgga                                                                                   | Unclaimed |           |
+| FilterFFPE                                                                             | Unclaimed |           |
+| FindIT2                                                                                | Unclaimed |           |
+| FISHalyseR                                                                             | Unclaimed |           |
+| fishpond                                                                               | Unclaimed |           |
+| flagme                                                                                 | Unclaimed |           |
+| FLAMES                                                                                 | Unclaimed |           |
+| flowcatchR                                                                             | Unclaimed |           |
+| flowCHIC                                                                               | Unclaimed |           |
+| flowCL                                                                                 | Unclaimed |           |
+| flowCut                                                                                | Unclaimed |           |
+| flowDensity                                                                            | Unclaimed |           |
+| flowGraph                                                                              | Unclaimed |           |
+| flowPloidy                                                                             | Unclaimed |           |
+| FlowSOM                                                                                | Unclaimed |           |
+| flowStats                                                                              | Unclaimed |           |
+| flowVS                                                                                 | Unclaimed |           |
+| fmcsR                                                                                  | Unclaimed |           |
+| fobitools                                                                              | Unclaimed |           |
+| FoldGO                                                                                 | Unclaimed |           |
+| FRASER                                                                                 | Unclaimed |           |
+| frenchFISH                                                                             | Unclaimed |           |
+| FRGEpistasis                                                                           | Unclaimed |           |
+| frma                                                                                   | Unclaimed |           |
+| FunChIP                                                                                | Unclaimed |           |
+| funtooNorm                                                                             | Unclaimed |           |
+| FuseSOM                                                                                | Unclaimed |           |
+| GA4GHclient                                                                            | Unclaimed |           |
+| GA4GHshiny                                                                             | Unclaimed |           |
+| gage                                                                                   | Unclaimed |           |
+| GARS                                                                                   | Unclaimed |           |
+| GBScleanR                                                                              | Unclaimed |           |
+| gcapc                                                                                  | Unclaimed |           |
+| GCSscore                                                                               | Unclaimed |           |
+| GDCRNATools                                                                            | Unclaimed |           |
+| gemini                                                                                 | Unclaimed |           |
+| gemma.R                                                                                | Unclaimed |           |
+| genbankr                                                                               | Unclaimed |           |
+| GeneAccord                                                                             | Unclaimed |           |
+| geneAttribution                                                                        | Unclaimed |           |
+| GeneBreak                                                                              | Unclaimed |           |
+| genefilter                                                                             | Unclaimed |           |
+| genefu                                                                                 | Unclaimed |           |
+| GeneGeneInteR                                                                          | Unclaimed |           |
+| GeneMeta                                                                               | Unclaimed |           |
+| geneplotter                                                                            | Unclaimed |           |
+| GENESIS                                                                                | Unclaimed |           |
+| GeneStructureTools                                                                     | Unclaimed |           |
+| GeneTonic                                                                              | Unclaimed |           |
+| geneXtendeR                                                                            | Unclaimed |           |
+| genomation                                                                             | Unclaimed |           |
+| GenomicDistributions                                                                   | Unclaimed |           |
+| GenomicFeatures                                                                        | Unclaimed |           |
+| GenomicFiles                                                                           | Unclaimed |           |
+| genomicInstability                                                                     | Unclaimed |           |
+| GenomicInteractionNodes                                                                | Unclaimed |           |
+| GenomicInteractions                                                                    | Unclaimed |           |
+| GenomicOZone                                                                           | Unclaimed |           |
+| GenomicScores                                                                          | Unclaimed |           |
+| GenomicSuperSignature                                                                  | Unclaimed |           |
+| genotypeeval                                                                           | Unclaimed |           |
+| GenProSeq                                                                              | Unclaimed |           |
+| GenVisR                                                                                | Unclaimed |           |
+| GeoDiff                                                                                | Unclaimed |           |
+| GEOexplorer                                                                            | Unclaimed |           |
+| GEOmetadb                                                                              | Unclaimed |           |
+| GeomxTools                                                                             | Unclaimed |           |
+| gep2pep                                                                                | Unclaimed |           |
+| gespeR                                                                                 | Unclaimed |           |
+| getDEE2                                                                                | Unclaimed |           |
+| GEWIST                                                                                 | Unclaimed |           |
+| ggbio                                                                                  | Unclaimed |           |
+| ggmanh                                                                                 | Unclaimed |           |
+| ggmsa                                                                                  | Unclaimed |           |
+| GGPA                                                                                   | Unclaimed |           |
+| ggspavis                                                                               | Unclaimed |           |
+| ggtree                                                                                 | Unclaimed |           |
+| ggtreeDendro                                                                           | Unclaimed |           |
+| ggtreeExtra                                                                            | Unclaimed |           |
+| girafe                                                                                 | Unclaimed |           |
+| GISPA                                                                                  | Unclaimed |           |
+| GladiaTOX                                                                              | Unclaimed |           |
+| Glimma                                                                                 | Unclaimed |           |
+| glmGamPoi                                                                              | Unclaimed |           |
+| glmSparseNet                                                                           | Unclaimed |           |
+| GlobalAncova                                                                           | Unclaimed |           |
+| globaltest                                                                             | Unclaimed |           |
+| gmapR                                                                                  | Unclaimed |           |
+| GmicR                                                                                  | Unclaimed |           |
+| gmoviz                                                                                 | Unclaimed |           |
+| GNET2                                                                                  | Unclaimed |           |
+| GOexpress                                                                              | Unclaimed |           |
+| GOfuncR                                                                                | Unclaimed |           |
+| GOpro                                                                                  | Unclaimed |           |
+| goProfiles                                                                             | Unclaimed |           |
+| GOSemSim                                                                               | Unclaimed |           |
+| goseq                                                                                  | Unclaimed |           |
+| GOSim                                                                                  | Unclaimed |           |
+| goSorensen                                                                             | Unclaimed |           |
+| goSTAG                                                                                 | Unclaimed |           |
+| GOstats                                                                                | Unclaimed |           |
+| GOTHiC                                                                                 | Unclaimed |           |
+| goTools                                                                                | Unclaimed |           |
+| GPA                                                                                    | Unclaimed |           |
+| gpuMagic                                                                               | Unclaimed |           |
+| GRaNIE                                                                                 | Unclaimed |           |
+| granulator                                                                             | Unclaimed |           |
+| graper                                                                                 | Unclaimed |           |
+| graphite                                                                               | Unclaimed |           |
+| GreyListChIP                                                                           | Unclaimed |           |
+| GRmetrics                                                                              | Unclaimed |           |
+| groHMM                                                                                 | Unclaimed |           |
+| gscreend                                                                               | Unclaimed |           |
+| GSEABase                                                                               | Unclaimed |           |
+| GSEABenchmarkeR                                                                        | Unclaimed |           |
+| GSEAmining                                                                             | Unclaimed |           |
+| gsean                                                                                  | Unclaimed |           |
+| GSReg                                                                                  | Unclaimed |           |
+| GSRI                                                                                   | Unclaimed |           |
+| GSVA                                                                                   | Unclaimed |           |
+| GUIDEseq                                                                               | Unclaimed |           |
+| Guitar                                                                                 | Unclaimed |           |
+| Gviz                                                                                   | Unclaimed |           |
+| GWAS.BAYES                                                                             | Unclaimed |           |
+| gwascat                                                                                | Unclaimed |           |
+| GWASTools                                                                              | Unclaimed |           |
+| gwasurvivr                                                                             | Unclaimed |           |
+| GWENA                                                                                  | Unclaimed |           |
+| hca                                                                                    | Unclaimed |           |
+| heatmaps                                                                               | Unclaimed |           |
+| HelloRanges                                                                            | Unclaimed |           |
+| hermes                                                                                 | Unclaimed |           |
+| HGC                                                                                    | Unclaimed |           |
+| hiAnnotator                                                                            | Unclaimed |           |
+| HiCBricks                                                                              | Unclaimed |           |
+| HiCcompare                                                                             | Unclaimed |           |
+| HiCDCPlus                                                                              | Unclaimed |           |
+| HiCDOC                                                                                 | Unclaimed |           |
+| HiContacts                                                                             | Unclaimed |           |
+| HiLDA                                                                                  | Unclaimed |           |
+| hipathia                                                                               | Unclaimed |           |
+| HIPPO                                                                                  | Unclaimed |           |
+| hiReadsProcessor                                                                       | Unclaimed |           |
+| HiTC                                                                                   | Unclaimed |           |
+| HPiP                                                                                   | Unclaimed |           |
+| HTSeqGenie                                                                             | Unclaimed |           |
+| HTSFilter                                                                              | Unclaimed |           |
+| HubPub                                                                                 | Unclaimed |           |
+| HumanTranscriptomeCompendium                                                           | Unclaimed |           |
+| hypeR                                                                                  | Unclaimed |           |
+| iBBiG                                                                                  | Unclaimed |           |
+| iCARE                                                                                  | Unclaimed |           |
+| icetea                                                                                 | Unclaimed |           |
+| iCheck                                                                                 | Unclaimed |           |
+| iCNV                                                                                   | Unclaimed |           |
+| iCOBRA                                                                                 | Unclaimed |           |
+| ideal                                                                                  | Unclaimed |           |
+| IdeoViz                                                                                | Unclaimed |           |
+| idiogram                                                                               | Unclaimed |           |
+| IgGeneUsage                                                                            | Unclaimed |           |
+| igvR                                                                                   | Unclaimed |           |
+| ILoReg                                                                                 | Unclaimed |           |
+| imageHTS                                                                               | Unclaimed |           |
+| IMAS                                                                                   | Unclaimed |           |
+| imcRtools                                                                              | Unclaimed |           |
+| ImmuneSpaceR                                                                           | Unclaimed |           |
+| immunotation                                                                           | Unclaimed |           |
+| INDEED                                                                                 | Unclaimed |           |
+| infercnv                                                                               | Unclaimed |           |
+| InPAS                                                                                  | Unclaimed |           |
+| INSPEcT                                                                                | Unclaimed |           |
+| InTAD                                                                                  | Unclaimed |           |
+| intansv                                                                                | Unclaimed |           |
+| InteractiveComplexHeatmap                                                              | Unclaimed |           |
+| interactiveDisplay                                                                     | Unclaimed |           |
+| interactiveDisplayBase                                                                 | Unclaimed |           |
+| InterCellar                                                                            | Unclaimed |           |
+| IntEREst                                                                               | Unclaimed |           |
+| IONiseR                                                                                | Unclaimed |           |
+| iPath                                                                                  | Unclaimed |           |
+| ipdDb                                                                                  | Unclaimed |           |
+| IPO                                                                                    | Unclaimed |           |
+| IRISFGM                                                                                | Unclaimed |           |
+| ISAnalytics                                                                            | Unclaimed |           |
+| iSEE                                                                                   | Unclaimed |           |
+| iSEEhex                                                                                | Unclaimed |           |
+| iSEEhub                                                                                | Unclaimed |           |
+| iSEEu                                                                                  | Unclaimed |           |
+| isobar                                                                                 | Unclaimed |           |
+| IsoCorrectoRGUI                                                                        | Unclaimed |           |
+| IsoformSwitchAnalyzeR                                                                  | Unclaimed |           |
+| isomiRs                                                                                | Unclaimed |           |
+| ITALICS                                                                                | Unclaimed |           |
+| IVAS                                                                                   | Unclaimed |           |
+| ivygapSE                                                                               | Unclaimed |           |
+| IWTomics                                                                               | Unclaimed |           |
+| karyoploteR                                                                            | Unclaimed |           |
+| katdetectr                                                                             | Unclaimed |           |
+| KEGGlincs                                                                              | Unclaimed |           |
+| keggorthology                                                                          | Unclaimed |           |
+| kissDE                                                                                 | Unclaimed |           |
+| KnowSeq                                                                                | Unclaimed |           |
+| LACE                                                                                   | Unclaimed |           |
+| LedPred                                                                                | Unclaimed |           |
+| levi                                                                                   | Unclaimed |           |
+| LineagePulse                                                                           | Unclaimed |           |
+| lineagespot                                                                            | Unclaimed |           |
+| LinkHD                                                                                 | Unclaimed |           |
+| LinTInd                                                                                | Unclaimed |           |
+| lipidr                                                                                 | Unclaimed |           |
+| LiquidAssociation                                                                      | Unclaimed |           |
+| lisaClust                                                                              | Unclaimed |           |
+| LOBSTAHS                                                                               | Unclaimed |           |
+| LoomExperiment                                                                         | Unclaimed |           |
+| LowMACA                                                                                | Unclaimed |           |
+| LRBaseDbi                                                                              | Unclaimed |           |
+| LRcell                                                                                 | Unclaimed |           |
+| lumi                                                                                   | Unclaimed |           |
+| LymphoSeq                                                                              | Unclaimed |           |
+| M3Drop                                                                                 | Unclaimed |           |
+| m6Aboost                                                                               | Unclaimed |           |
+| Maaslin2                                                                               | Unclaimed |           |
+| Macarron                                                                               | Unclaimed |           |
+| macat                                                                                  | Unclaimed |           |
+| MACSQuantifyR                                                                          | Unclaimed |           |
+| MACSr                                                                                  | Unclaimed |           |
+| made4                                                                                  | Unclaimed |           |
+| MADSEQ                                                                                 | Unclaimed |           |
+| MAGAR                                                                                  | Unclaimed |           |
+| MAGeCKFlute                                                                            | Unclaimed |           |
+| MAI                                                                                    | Unclaimed |           |
+| MAIT                                                                                   | Unclaimed |           |
+| mAPKL                                                                                  | Unclaimed |           |
+| maPredictDSC                                                                           | Unclaimed |           |
+| maser                                                                                  | Unclaimed |           |
+| MAST                                                                                   | Unclaimed |           |
+| MatrixQCvis                                                                            | Unclaimed |           |
+| MatrixRider                                                                            | Unclaimed |           |
+| MBECS                                                                                  | Unclaimed |           |
+| mbkmeans                                                                               | Unclaimed |           |
+| mbOmic                                                                                 | Unclaimed |           |
+| mBPCR                                                                                  | Unclaimed |           |
+| MBQN                                                                                   | Unclaimed |           |
+| MCbiclust                                                                              | Unclaimed |           |
+| mCSEA                                                                                  | Unclaimed |           |
+| MDTS                                                                                   | Unclaimed |           |
+| MEAL                                                                                   | Unclaimed |           |
+| MEAT                                                                                   | Unclaimed |           |
+| MEDIPS                                                                                 | Unclaimed |           |
+| MEDME                                                                                  | Unclaimed |           |
+| megadepth                                                                              | Unclaimed |           |
+| MEIGOR                                                                                 | Unclaimed |           |
+| Melissa                                                                                | Unclaimed |           |
+| memes                                                                                  | Unclaimed |           |
+| MeSHDbi                                                                                | Unclaimed |           |
+| meshes                                                                                 | Unclaimed |           |
+| meshr                                                                                  | Unclaimed |           |
+| MesKit                                                                                 | Unclaimed |           |
+| Metab                                                                                  | Unclaimed |           |
+| metabCombiner                                                                          | Unclaimed |           |
+| MetaboAnnotation                                                                       | Unclaimed |           |
+| metabolomicsWorkbenchR                                                                 | Unclaimed |           |
+| MetaboSignal                                                                           | Unclaimed |           |
+| MetaCyto                                                                               | Unclaimed |           |
+| metagene                                                                               | Unclaimed |           |
+| metagene2                                                                              | Unclaimed |           |
+| metaMS                                                                                 | Unclaimed |           |
+| MetaNeighbor                                                                           | Unclaimed |           |
+| MetaPhOR                                                                               | Unclaimed |           |
+| metapone                                                                               | Unclaimed |           |
+| metaseqR2                                                                              | Unclaimed |           |
+| metavizr                                                                               | Unclaimed |           |
+| MetaVolcanoR                                                                           | Unclaimed |           |
+| MethCP                                                                                 | Unclaimed |           |
+| methInheritSim                                                                         | Unclaimed |           |
+| MethReg                                                                                | Unclaimed |           |
+| methrix                                                                                | Unclaimed |           |
+| MethylAid                                                                              | Unclaimed |           |
+| methylCC                                                                               | Unclaimed |           |
+| methylclock                                                                            | Unclaimed |           |
+| methylGSA                                                                              | Unclaimed |           |
+| methylInheritance                                                                      | Unclaimed |           |
+| methylKit                                                                              | Unclaimed |           |
+| methylPipe                                                                             | Unclaimed |           |
+| methylscaper                                                                           | Unclaimed |           |
+| MethylSeekR                                                                            | Unclaimed |           |
+| methylSig                                                                              | Unclaimed |           |
+| methylumi                                                                              | Unclaimed |           |
+| MetID                                                                                  | Unclaimed |           |
+| MetNet                                                                                 | Unclaimed |           |
+| mfa                                                                                    | Unclaimed |           |
+| MGFM                                                                                   | Unclaimed |           |
+| MGFR                                                                                   | Unclaimed |           |
+| mia                                                                                    | Unclaimed |           |
+| miaSim                                                                                 | Unclaimed |           |
+| miaViz                                                                                 | Unclaimed |           |
+| microbiome                                                                             | Unclaimed |           |
+| microbiomeDASim                                                                        | Unclaimed |           |
+| microbiomeExplorer                                                                     | Unclaimed |           |
+| microbiomeMarker                                                                       | Unclaimed |           |
+| MicrobiomeProfiler                                                                     | Unclaimed |           |
+| MicrobiotaProcess                                                                      | Unclaimed |           |
+| midasHLA                                                                               | Unclaimed |           |
+| MIGSA                                                                                  | Unclaimed |           |
+| miloR                                                                                  | Unclaimed |           |
+| mimager                                                                                | Unclaimed |           |
+| MIMOSA                                                                                 | Unclaimed |           |
+| mina                                                                                   | Unclaimed |           |
+| MineICA                                                                                | Unclaimed |           |
+| minfi                                                                                  | Unclaimed |           |
+| MinimumDistance                                                                        | Unclaimed |           |
+| miQC                                                                                   | Unclaimed |           |
+| MIRA                                                                                   | Unclaimed |           |
+| MiRaGE                                                                                 | Unclaimed |           |
+| mirIntegrator                                                                          | Unclaimed |           |
+| miRLAB                                                                                 | Unclaimed |           |
+| miRmine                                                                                | Unclaimed |           |
+| miRNAmeConverter                                                                       | Unclaimed |           |
+| miRNAtap                                                                               | Unclaimed |           |
+| miRSM                                                                                  | Unclaimed |           |
+| miRspongeR                                                                             | Unclaimed |           |
+| missMethyl                                                                             | Unclaimed |           |
+| missRows                                                                               | Unclaimed |           |
+| mistyR                                                                                 | Unclaimed |           |
+| mitch                                                                                  | Unclaimed |           |
+| mitoClone2                                                                             | Unclaimed |           |
+| mixOmics                                                                               | Unclaimed |           |
+| MLInterfaces                                                                           | Unclaimed |           |
+| MLP                                                                                    | Unclaimed |           |
+| MLSeq                                                                                  | Unclaimed |           |
+| MMAPPR2                                                                                | Unclaimed |           |
+| MMDiff2                                                                                | Unclaimed |           |
+| MMUPHin                                                                                | Unclaimed |           |
+| mnem                                                                                   | Unclaimed |           |
+| moanin                                                                                 | Unclaimed |           |
+| MobilityTransformR                                                                     | Unclaimed |           |
+| MODA                                                                                   | Unclaimed |           |
+| MOFA2                                                                                  | Unclaimed |           |
+| mogsa                                                                                  | Unclaimed |           |
+| MOMA                                                                                   | Unclaimed |           |
+| monaLisa                                                                               | Unclaimed |           |
+| monocle                                                                                | Unclaimed |           |
+| MoonlightR                                                                             | Unclaimed |           |
+| mosaics                                                                                | Unclaimed |           |
+| mosbi                                                                                  | Unclaimed |           |
+| Motif2Site                                                                             | Unclaimed |           |
+| motifbreakR                                                                            | Unclaimed |           |
+| MotifDb                                                                                | Unclaimed |           |
+| motifmatchr                                                                            | Unclaimed |           |
+| motifStack                                                                             | Unclaimed |           |
+| MouseFM                                                                                | Unclaimed |           |
+| MPFE                                                                                   | Unclaimed |           |
+| mpra                                                                                   | Unclaimed |           |
+| MPRAnalyze                                                                             | Unclaimed |           |
+| MQmetrics                                                                              | Unclaimed |           |
+| MsExperiment                                                                           | Unclaimed |           |
+| msgbsR                                                                                 | Unclaimed |           |
+| msImpute                                                                               | Unclaimed |           |
+| mslp                                                                                   | Unclaimed |           |
+| msmsEDA                                                                                | Unclaimed |           |
+| msmsTests                                                                              | Unclaimed |           |
+| MSnID                                                                                  | Unclaimed |           |
+| MSPrep                                                                                 | Unclaimed |           |
+| msqrob2                                                                                | Unclaimed |           |
+| MSstats                                                                                | Unclaimed |           |
+| MSstatsLiP                                                                             | Unclaimed |           |
+| MSstatsPTM                                                                             | Unclaimed |           |
+| MSstatsQC                                                                              | Unclaimed |           |
+| MSstatsQCgui                                                                           | Unclaimed |           |
+| MSstatsSampleSize                                                                      | Unclaimed |           |
+| MSstatsShiny                                                                           | Unclaimed |           |
+| MSstatsTMT                                                                             | Unclaimed |           |
+| MuData                                                                                 | Unclaimed |           |
+| Mulcom                                                                                 | Unclaimed |           |
+| MultiBaC                                                                               | Unclaimed |           |
+| multiClust                                                                             | Unclaimed |           |
+| multicrispr                                                                            | Unclaimed |           |
+| MultiDataSet                                                                           | Unclaimed |           |
+| multiGSEA                                                                              | Unclaimed |           |
+| multiHiCcompare                                                                        | Unclaimed |           |
+| multiMiR                                                                               | Unclaimed |           |
+| multiSight                                                                             | Unclaimed |           |
+| mumosa                                                                                 | Unclaimed |           |
+| MungeSumstats                                                                          | Unclaimed |           |
+| muscat                                                                                 | Unclaimed |           |
+| musicatk                                                                               | Unclaimed |           |
+| MutationalPatterns                                                                     | Unclaimed |           |
+| MWASTools                                                                              | Unclaimed |           |
+| mygene                                                                                 | Unclaimed |           |
+| myvariant                                                                              | Unclaimed |           |
+| NADfinder                                                                              | Unclaimed |           |
+| NanoMethViz                                                                            | Unclaimed |           |
+| NanoStringNCTools                                                                      | Unclaimed |           |
+| NanoStringQCPro                                                                        | Unclaimed |           |
+| nanotatoR                                                                              | Unclaimed |           |
+| NanoTube                                                                               | Unclaimed |           |
+| NBAMSeq                                                                                | Unclaimed |           |
+| NBSplice                                                                               | Unclaimed |           |
+| ncGTW                                                                                  | Unclaimed |           |
+| nearBynding                                                                            | Unclaimed |           |
+| Nebulosa                                                                               | Unclaimed |           |
+| nempi                                                                                  | Unclaimed |           |
+| NetActivity                                                                            | Unclaimed |           |
+| netboost                                                                               | Unclaimed |           |
+| netboxr                                                                                | Unclaimed |           |
+| netDx                                                                                  | Unclaimed |           |
+| netOmics                                                                               | Unclaimed |           |
+| netresponse                                                                            | Unclaimed |           |
+| NetSAM                                                                                 | Unclaimed |           |
+| netSmooth                                                                              | Unclaimed |           |
+| netZooR                                                                                | Unclaimed |           |
+| NeuCA                                                                                  | Unclaimed |           |
+| NewWave                                                                                | Unclaimed |           |
+| ngsReports                                                                             | Unclaimed |           |
+| nnSVG                                                                                  | Unclaimed |           |
+| nondetects                                                                             | Unclaimed |           |
+| NoRCE                                                                                  | Unclaimed |           |
+| NormalyzerDE                                                                           | Unclaimed |           |
+| NormqPCR                                                                               | Unclaimed |           |
+| normr                                                                                  | Unclaimed |           |
+| NPARC                                                                                  | Unclaimed |           |
+| npGSEA                                                                                 | Unclaimed |           |
+| nucleR                                                                                 | Unclaimed |           |
+| nullranges                                                                             | Unclaimed |           |
+| NxtIRFcore                                                                             | Unclaimed |           |
+| octad                                                                                  | Unclaimed |           |
+| ODER                                                                                   | Unclaimed |           |
+| OGRE                                                                                   | Unclaimed |           |
+| oligo                                                                                  | Unclaimed |           |
+| oligoClasses                                                                           | Unclaimed |           |
+| omada                                                                                  | Unclaimed |           |
+| OmaDB                                                                                  | Unclaimed |           |
+| omicade4                                                                               | Unclaimed |           |
+| omicplotR                                                                              | Unclaimed |           |
+| omicRexposome                                                                          | Unclaimed |           |
+| OMICsPCA                                                                               | Unclaimed |           |
+| omicsPrint                                                                             | Unclaimed |           |
+| omicsViewer                                                                            | Unclaimed |           |
+| Omixer                                                                                 | Unclaimed |           |
+| oncomix                                                                                | Unclaimed |           |
+| OncoScore                                                                              | Unclaimed |           |
+| OncoSimulR                                                                             | Unclaimed |           |
+| oneSENSE                                                                               | Unclaimed |           |
+| ontoProc                                                                               | Unclaimed |           |
+| [openCyto](https://github.com/almahmoud/gha-build/actions/runs/3767816208)             | Unclaimed |           |
+| openPrimeR                                                                             | Unclaimed |           |
+| openPrimeRui                                                                           | Unclaimed |           |
+| OpenStats                                                                              | Unclaimed |           |
+| oposSOM                                                                                | Unclaimed |           |
+| oppar                                                                                  | Unclaimed |           |
+| oppti                                                                                  | Unclaimed |           |
+| optimalFlow                                                                            | Unclaimed |           |
+| ORFhunteR                                                                              | Unclaimed |           |
+| ORFik                                                                                  | Unclaimed |           |
+| Organism.dplyr                                                                         | Unclaimed |           |
+| OrganismDbi                                                                            | Unclaimed |           |
+| orthogene                                                                              | Unclaimed |           |
+| Oscope                                                                                 | Unclaimed |           |
+| OTUbase                                                                                | Unclaimed |           |
+| OUTRIDER                                                                               | Unclaimed |           |
+| PAA                                                                                    | Unclaimed |           |
+| padma                                                                                  | Unclaimed |           |
+| PADOG                                                                                  | Unclaimed |           |
+| pageRank                                                                               | Unclaimed |           |
+| PAIRADISE                                                                              | Unclaimed |           |
+| panelcn.mops                                                                           | Unclaimed |           |
+| PanomiR                                                                                | Unclaimed |           |
+| pareg                                                                                  | Unclaimed |           |
+| PAST                                                                                   | Unclaimed |           |
+| PathoStat                                                                              | Unclaimed |           |
+| pathRender                                                                             | Unclaimed |           |
+| pathview                                                                               | Unclaimed |           |
+| paxtoolsr                                                                              | Unclaimed |           |
+| pcaExplorer                                                                            | Unclaimed |           |
+| PCAtools                                                                               | Unclaimed |           |
+| PDATK                                                                                  | Unclaimed |           |
+| pdInfoBuilder                                                                          | Unclaimed |           |
+| [PeacoQC](https://github.com/almahmoud/gha-build/actions/runs/3767816208)              | Unclaimed |           |
+| peakPantheR                                                                            | Unclaimed |           |
+| PECA                                                                                   | Unclaimed |           |
+| peco                                                                                   | Unclaimed |           |
+| pepStat                                                                                | Unclaimed |           |
+| PERFect                                                                                | Unclaimed |           |
+| periodicDNA                                                                            | Unclaimed |           |
+| PFP                                                                                    | Unclaimed |           |
+| phantasus                                                                              | Unclaimed |           |
+| PharmacoGx                                                                             | Unclaimed |           |
+| phenomis                                                                               | Unclaimed |           |
+| phenoTest                                                                              | Unclaimed |           |
+| PhenStat                                                                               | Unclaimed |           |
+| philr                                                                                  | Unclaimed |           |
+| PhIPData                                                                               | Unclaimed |           |
+| PhosR                                                                                  | Unclaimed |           |
+| PhyloProfile                                                                           | Unclaimed |           |
+| Pi                                                                                     | Unclaimed |           |
+| piano                                                                                  | Unclaimed |           |
+| PICS                                                                                   | Unclaimed |           |
+| Pigengene                                                                              | Unclaimed |           |
+| PING                                                                                   | Unclaimed |           |
+| pipeComp                                                                               | Unclaimed |           |
+| pipeFrame                                                                              | Unclaimed |           |
+| PloGO2                                                                                 | Unclaimed |           |
+| plotgardener                                                                           | Unclaimed |           |
+| plotGrouper                                                                            | Unclaimed |           |
+| plyranges                                                                              | Unclaimed |           |
+| pmm                                                                                    | Unclaimed |           |
+| pmp                                                                                    | Unclaimed |           |
+| PoDCall                                                                                | Unclaimed |           |
+| podkat                                                                                 | Unclaimed |           |
+| pogos                                                                                  | Unclaimed |           |
+| POMA                                                                                   | Unclaimed |           |
+| PoTRA                                                                                  | Unclaimed |           |
+| POWSC                                                                                  | Unclaimed |           |
+| ppcseq                                                                                 | Unclaimed |           |
+| PPInfer                                                                                | Unclaimed |           |
+| pram                                                                                   | Unclaimed |           |
+| prebs                                                                                  | Unclaimed |           |
+| preciseTAD                                                                             | Unclaimed |           |
+| PREDA                                                                                  | Unclaimed |           |
+| primirTSS                                                                              | Unclaimed |           |
+| PrInCE                                                                                 | Unclaimed |           |
+| proActiv                                                                               | Unclaimed |           |
+| proBAMr                                                                                | Unclaimed |           |
+| proBatch                                                                               | Unclaimed |           |
+| proFIA                                                                                 | Unclaimed |           |
+| profileplyr                                                                            | Unclaimed |           |
+| progeny                                                                                | Unclaimed |           |
+| projectR                                                                               | Unclaimed |           |
+| pRoloc                                                                                 | Unclaimed |           |
+| pRolocGUI                                                                              | Unclaimed |           |
+| PROMISE                                                                                | Unclaimed |           |
+| PROPS                                                                                  | Unclaimed |           |
+| Prostar                                                                                | Unclaimed |           |
+| proteasy                                                                               | Unclaimed |           |
+| ProteoDisco                                                                            | Unclaimed |           |
+| ProteoMM                                                                               | Unclaimed |           |
+| protGear                                                                               | Unclaimed |           |
+| psichomics                                                                             | Unclaimed |           |
+| PSMatch                                                                                | Unclaimed |           |
+| psygenet2r                                                                             | Unclaimed |           |
+| ptairMS                                                                                | Unclaimed |           |
+| puma                                                                                   | Unclaimed |           |
+| PureCN                                                                                 | Unclaimed |           |
+| pvca                                                                                   | Unclaimed |           |
+| Pviz                                                                                   | Unclaimed |           |
+| pwOmics                                                                                | Unclaimed |           |
+| pwrEWAS                                                                                | Unclaimed |           |
+| QDNAseq                                                                                | Unclaimed |           |
+| QFeatures                                                                              | Unclaimed |           |
+| qmtools                                                                                | Unclaimed |           |
+| qpgraph                                                                                | Unclaimed |           |
+| qPLEXanalyzer                                                                          | Unclaimed |           |
+| qrqc                                                                                   | Unclaimed |           |
+| qsea                                                                                   | Unclaimed |           |
+| qsmooth                                                                                | Unclaimed |           |
+| qsvaR                                                                                  | Unclaimed |           |
+| [quantiseqr](https://github.com/almahmoud/gha-build/actions/runs/3767816208)           | Unclaimed |           |
+| quantro                                                                                | Unclaimed |           |
+| QuartPAC                                                                               | Unclaimed |           |
+| QuasR                                                                                  | Unclaimed |           |
+| QUBIC                                                                                  | Unclaimed |           |
+| R3CPET                                                                                 | Unclaimed |           |
+| r3Cseq                                                                                 | Unclaimed |           |
+| R453Plus1Toolbox                                                                       | Unclaimed |           |
+| RadioGx                                                                                | Unclaimed |           |
+| ramr                                                                                   | Unclaimed |           |
+| ramwas                                                                                 | Unclaimed |           |
+| RandomWalkRestartMH                                                                    | Unclaimed |           |
+| RAREsim                                                                                | Unclaimed |           |
+| RareVariantVis                                                                         | Unclaimed |           |
+| Rbec                                                                                   | Unclaimed |           |
+| [Rbowtie2](https://github.com/almahmoud/gha-build/actions/runs/3767816208)             | Unclaimed |           |
+| Rcade                                                                                  | Unclaimed |           |
+| RCAS                                                                                   | Unclaimed |           |
+| rCGH                                                                                   | Unclaimed |           |
+| RcisTarget                                                                             | Unclaimed |           |
+| RCM                                                                                    | Unclaimed |           |
+| Rcpi                                                                                   | Unclaimed |           |
+| Rcwl                                                                                   | Unclaimed |           |
+| RcwlPipelines                                                                          | Unclaimed |           |
+| RDRToolbox                                                                             | Unclaimed |           |
+| ReactomeGraph4R                                                                        | Unclaimed |           |
+| ReactomePA                                                                             | Unclaimed |           |
+| rebook                                                                                 | Unclaimed |           |
+| reconsi                                                                                | Unclaimed |           |
+| recount                                                                                | Unclaimed |           |
+| recount3                                                                               | Unclaimed |           |
+| recountmethylation                                                                     | Unclaimed |           |
+| recoup                                                                                 | Unclaimed |           |
+| REDseq                                                                                 | Unclaimed |           |
+| [RefPlus](https://github.com/almahmoud/gha-build/actions/runs/3767816208)              | Unclaimed |           |
+| RegEnrich                                                                              | Unclaimed |           |
+| regioneR                                                                               | Unclaimed |           |
+| regioneReloaded                                                                        | Unclaimed |           |
+| regionReport                                                                           | Unclaimed |           |
+| regutools                                                                              | Unclaimed |           |
+| REMP                                                                                   | Unclaimed |           |
+| Repitools                                                                              | Unclaimed |           |
+| ReportingTools                                                                         | Unclaimed |           |
+| RepViz                                                                                 | Unclaimed |           |
+| [ReQON](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                | Unclaimed |           |
+| RESOLVE                                                                                | Unclaimed |           |
+| restfulSE                                                                              | Unclaimed |           |
+| rexposome                                                                              | Unclaimed |           |
+| [rfaRm](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                | Unclaimed |           |
+| rGADEM                                                                                 | Unclaimed |           |
+| rGenomeTracks                                                                          | Unclaimed |           |
+| RGMQL                                                                                  | Unclaimed |           |
+| RgnTX                                                                                  | Unclaimed |           |
+| rGREAT                                                                                 | Unclaimed |           |
+| rgsepd                                                                                 | Unclaimed |           |
+| Rhisat2                                                                                | Unclaimed |           |
+| RiboCrypt                                                                              | Unclaimed |           |
+| RiboDiPA                                                                               | Unclaimed |           |
+| RiboProfiling                                                                          | Unclaimed |           |
+| [ribor](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                | Unclaimed |           |
+| [riboSeqR](https://github.com/almahmoud/gha-build/actions/runs/3767816208)             | Unclaimed |           |
+| ribosomeProfilingQC                                                                    | Unclaimed |           |
+| rifi                                                                                   | Unclaimed |           |
+| Ringo                                                                                  | Unclaimed |           |
+| RIPAT                                                                                  | Unclaimed |           |
+| Risa                                                                                   | Unclaimed |           |
+| RITAN                                                                                  | Unclaimed |           |
+| RJMCMCNucleosomes                                                                      | Unclaimed |           |
+| RLSeq                                                                                  | Unclaimed |           |
+| RMassBank                                                                              | Unclaimed |           |
+| Rmmquant                                                                               | Unclaimed |           |
+| rmspc                                                                                  | Unclaimed |           |
+| RNAAgeCalc                                                                             | Unclaimed |           |
+| RNAdecay                                                                               | Unclaimed |           |
+| rnaEditr                                                                               | Unclaimed |           |
+| RNAinteract                                                                            | Unclaimed |           |
+| RNAmodR                                                                                | Unclaimed |           |
+| RNAmodR.AlkAnilineSeq                                                                  | Unclaimed |           |
+| RNAmodR.ML                                                                             | Unclaimed |           |
+| RNAmodR.RiboMethSeq                                                                    | Unclaimed |           |
+| RNAsense                                                                               | Unclaimed |           |
+| RNASeqR                                                                                | Unclaimed |           |
+| RnaSeqSampleSize                                                                       | Unclaimed |           |
+| RnBeads                                                                                | Unclaimed |           |
+| roar                                                                                   | Unclaimed |           |
+| ROCpAI                                                                                 | Unclaimed |           |
+| RolDE                                                                                  | Unclaimed |           |
+| ropls                                                                                  | Unclaimed |           |
+| RPA                                                                                    | Unclaimed |           |
+| rprimer                                                                                | Unclaimed |           |
+| rpx                                                                                    | Unclaimed |           |
+| Rqc                                                                                    | Unclaimed |           |
+| rqt                                                                                    | Unclaimed |           |
+| rqubic                                                                                 | Unclaimed |           |
+| rrvgo                                                                                  | Unclaimed |           |
+| [rScudo](https://github.com/almahmoud/gha-build/actions/runs/3767816208)               | Unclaimed |           |
+| RSVSim                                                                                 | Unclaimed |           |
+| RTCGA                                                                                  | Unclaimed |           |
+| RTCGAToolbox                                                                           | Unclaimed |           |
+| RTN                                                                                    | Unclaimed |           |
+| RTNduals                                                                               | Unclaimed |           |
+| RTNsurvival                                                                            | Unclaimed |           |
+| [Rtpca](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                | Unclaimed |           |
+| rtracklayer                                                                            | Unclaimed |           |
+| Rtreemix                                                                               | Unclaimed |           |
+| rTRM                                                                                   | Unclaimed |           |
+| rTRMui                                                                                 | Unclaimed |           |
+| runibic                                                                                | Unclaimed |           |
+| RUVSeq                                                                                 | Unclaimed |           |
+| RVS                                                                                    | Unclaimed |           |
+| [rWikiPathways](https://github.com/almahmoud/gha-build/actions/runs/3767816208)        | Unclaimed |           |
+| safe                                                                                   | Unclaimed |           |
+| sampleClassifier                                                                       | Unclaimed |           |
+| sangeranalyseR                                                                         | Unclaimed |           |
+| [satuRn](https://github.com/almahmoud/gha-build/actions/runs/3767816208)               | Unclaimed |           |
+| SBGNview                                                                               | Unclaimed |           |
+| SC3                                                                                    | Unclaimed |           |
+| scAlign                                                                                | Unclaimed |           |
+| SCAN.UPC                                                                               | Unclaimed |           |
+| scanMiRApp                                                                             | Unclaimed |           |
+| scAnnotatR                                                                             | Unclaimed |           |
+| SCANVIS                                                                                | Unclaimed |           |
+| SCArray                                                                                | Unclaimed |           |
+| SCATE                                                                                  | Unclaimed |           |
+| scater                                                                                 | Unclaimed |           |
+| scBFA                                                                                  | Unclaimed |           |
+| scBubbletree                                                                           | Unclaimed |           |
+| scCB2                                                                                  | Unclaimed |           |
+| scClassify                                                                             | Unclaimed |           |
+| sccomp                                                                                 | Unclaimed |           |
+| scDataviz                                                                              | Unclaimed |           |
+| scDblFinder                                                                            | Unclaimed |           |
+| scDD                                                                                   | Unclaimed |           |
+| scDDboost                                                                              | Unclaimed |           |
+| scds                                                                                   | Unclaimed |           |
+| scGPS                                                                                  | Unclaimed |           |
+| schex                                                                                  | Unclaimed |           |
+| scHOT                                                                                  | Unclaimed |           |
+| scifer                                                                                 | Unclaimed |           |
+| scMAGeCK                                                                               | Unclaimed |           |
+| scmap                                                                                  | Unclaimed |           |
+| scMerge                                                                                | Unclaimed |           |
+| scMET                                                                                  | Unclaimed |           |
+| scmeth                                                                                 | Unclaimed |           |
+| SCnorm                                                                                 | Unclaimed |           |
+| scone                                                                                  | Unclaimed |           |
+| SCOPE                                                                                  | Unclaimed |           |
+| scoreInvHap                                                                            | Unclaimed |           |
+| scp                                                                                    | Unclaimed |           |
+| scPipe                                                                                 | Unclaimed |           |
+| scran                                                                                  | Unclaimed |           |
+| scReClassify                                                                           | Unclaimed |           |
+| scRecover                                                                              | Unclaimed |           |
+| ScreenR                                                                                | Unclaimed |           |
+| scRepertoire                                                                           | Unclaimed |           |
+| scruff                                                                                 | Unclaimed |           |
+| scry                                                                                   | Unclaimed |           |
+| scTensor                                                                               | Unclaimed |           |
+| scTGIF                                                                                 | Unclaimed |           |
+| scTreeViz                                                                              | Unclaimed |           |
+| scuttle                                                                                | Unclaimed |           |
+| segmenter                                                                              | Unclaimed |           |
+| segmentSeq                                                                             | Unclaimed |           |
+| selectKSigs                                                                            | Unclaimed |           |
+| SemDist                                                                                | Unclaimed |           |
+| seq2pathway                                                                            | Unclaimed |           |
+| seqArchR                                                                               | Unclaimed |           |
+| seqCAT                                                                                 | Unclaimed |           |
+| SeqGate                                                                                | Unclaimed |           |
+| SeqGSEA                                                                                | Unclaimed |           |
+| seqsetvis                                                                              | Unclaimed |           |
+| SeqSQC                                                                                 | Unclaimed |           |
+| SeqVarTools                                                                            | Unclaimed |           |
+| sesame                                                                                 | Unclaimed |           |
+| SEtools                                                                                | Unclaimed |           |
+| sevenC                                                                                 | Unclaimed |           |
+| SGSeq                                                                                  | Unclaimed |           |
+| shinyepico                                                                             | Unclaimed |           |
+| shinyMethyl                                                                            | Unclaimed |           |
+| ShortRead                                                                              | Unclaimed |           |
+| SIAMCAT                                                                                | Unclaimed |           |
+| SICtools                                                                               | Unclaimed |           |
+| SigCheck                                                                               | Unclaimed |           |
+| [sights](https://github.com/almahmoud/gha-build/actions/runs/3767816208)               | Unclaimed |           |
+| signatureSearch                                                                        | Unclaimed |           |
+| signeR                                                                                 | Unclaimed |           |
+| signifinder                                                                            | Unclaimed |           |
+| SigsPack                                                                               | Unclaimed |           |
+| SIM                                                                                    | Unclaimed |           |
+| SimBindProfiles                                                                        | Unclaimed |           |
+| SimBu                                                                                  | Unclaimed |           |
+| SimFFPE                                                                                | Unclaimed |           |
+| simpleSeg                                                                              | Unclaimed |           |
+| simplifyEnrichment                                                                     | Unclaimed |           |
+| sincell                                                                                | Unclaimed |           |
+| single                                                                                 | Unclaimed |           |
+| [SingleCellExperiment](https://github.com/almahmoud/gha-build/actions/runs/3767816208) | Unclaimed |           |
+| SingleCellSignalR                                                                      | Unclaimed |           |
+| singleCellTK                                                                           | Unclaimed |           |
+| SingleMoleculeFootprinting                                                             | Unclaimed |           |
+| singscore                                                                              | Unclaimed |           |
+| SISPA                                                                                  | Unclaimed |           |
+| sitadela                                                                               | Unclaimed |           |
+| sitePath                                                                               | Unclaimed |           |
+| skewr                                                                                  | Unclaimed |           |
+| slalom                                                                                 | Unclaimed |           |
+| slingshot                                                                              | Unclaimed |           |
+| SMITE                                                                                  | Unclaimed |           |
+| snapCGH                                                                                | Unclaimed |           |
+| [snapcount](https://github.com/almahmoud/gha-build/actions/runs/3767816208)            | Unclaimed |           |
+| snm                                                                                    | Unclaimed |           |
+| SNPhood                                                                                | Unclaimed |           |
+| soGGi                                                                                  | Unclaimed |           |
+| sojourner                                                                              | Unclaimed |           |
+| SomaticSignatures                                                                      | Unclaimed |           |
+| Spaniel                                                                                | Unclaimed |           |
+| sparrow                                                                                | Unclaimed |           |
+| SparseSignatures                                                                       | Unclaimed |           |
+| spaSim                                                                                 | Unclaimed |           |
+| SpatialCPie                                                                            | Unclaimed |           |
+| spatialDE                                                                              | Unclaimed |           |
+| SpatialDecon                                                                           | Unclaimed |           |
+| SpatialExperiment                                                                      | Unclaimed |           |
+| SpatialFeatureExperiment                                                               | Unclaimed |           |
+| spatialHeatmap                                                                         | Unclaimed |           |
+| spatzie                                                                                | Unclaimed |           |
+| SpeCond                                                                                | Unclaimed |           |
+| SpectralTAD                                                                            | Unclaimed |           |
+| SPIAT                                                                                  | Unclaimed |           |
+| spicyR                                                                                 | Unclaimed |           |
+| SpidermiR                                                                              | Unclaimed |           |
+| spiky                                                                                  | Unclaimed |           |
+| splatter                                                                               | Unclaimed |           |
+| SpliceWiz                                                                              | Unclaimed |           |
+| SplicingFactory                                                                        | Unclaimed |           |
+| SplicingGraphs                                                                         | Unclaimed |           |
+| splineTimeR                                                                            | Unclaimed |           |
+| SPLINTER                                                                               | Unclaimed |           |
+| SPONGE                                                                                 | Unclaimed |           |
+| SpotClean                                                                              | Unclaimed |           |
+| SPOTlight                                                                              | Unclaimed |           |
+| spqn                                                                                   | Unclaimed |           |
+| SPsimSeq                                                                               | Unclaimed |           |
+| sRACIPE                                                                                | Unclaimed |           |
+| SRAdb                                                                                  | Unclaimed |           |
+| srnadiff                                                                               | Unclaimed |           |
+| sSNAPPY                                                                                | Unclaimed |           |
+| ssPATHS                                                                                | Unclaimed |           |
+| ssrch                                                                                  | Unclaimed |           |
+| ssviz                                                                                  | Unclaimed |           |
+| STAN                                                                                   | Unclaimed |           |
+| standR                                                                                 | Unclaimed |           |
+| staRank                                                                                | Unclaimed |           |
+| StarBioTrek                                                                            | Unclaimed |           |
+| Statial                                                                                | Unclaimed |           |
+| STdeconvolve                                                                           | Unclaimed |           |
+| stJoincount                                                                            | Unclaimed |           |
+| strandCheckR                                                                           | Unclaimed |           |
+| [struct](https://github.com/almahmoud/gha-build/actions/runs/3767816208)               | Unclaimed |           |
+| structToolbox                                                                          | Unclaimed |           |
+| StructuralVariantAnnotation                                                            | Unclaimed |           |
+| SubCellBarCode                                                                         | Unclaimed |           |
+| subSeq                                                                                 | Unclaimed |           |
+| SummarizedBenchmark                                                                    | Unclaimed |           |
+| Summix                                                                                 | Unclaimed |           |
+| supersigs                                                                              | Unclaimed |           |
+| surfaltr                                                                               | Unclaimed |           |
+| survtype                                                                               | Unclaimed |           |
+| sva                                                                                    | Unclaimed |           |
+| svaNUMT                                                                                | Unclaimed |           |
+| svaRetro                                                                               | Unclaimed |           |
+| SWATH2stats                                                                            | Unclaimed |           |
+| switchde                                                                               | Unclaimed |           |
+| synapsis                                                                               | Unclaimed |           |
+| synapter                                                                               | Unclaimed |           |
+| synergyfinder                                                                          | Unclaimed |           |
+| synlet                                                                                 | Unclaimed |           |
+| syntenet                                                                               | Unclaimed |           |
+| systemPipeR                                                                            | Unclaimed |           |
+| systemPipeShiny                                                                        | Unclaimed |           |
+| systemPipeTools                                                                        | Unclaimed |           |
+| TADCompare                                                                             | Unclaimed |           |
+| tanggle                                                                                | Unclaimed |           |
+| TAPseq                                                                                 | Unclaimed |           |
+| TargetDecoy                                                                            | Unclaimed |           |
+| TarSeqQC                                                                               | Unclaimed |           |
+| TBSignatureProfiler                                                                    | Unclaimed |           |
+| TCC                                                                                    | Unclaimed |           |
+| TCGAbiolinks                                                                           | Unclaimed |           |
+| TCGAbiolinksGUI                                                                        | Unclaimed |           |
+| TCGAutils                                                                              | Unclaimed |           |
+| TCseq                                                                                  | Unclaimed |           |
+| TDARACNE                                                                               | Unclaimed |           |
+| TEKRABber                                                                              | Unclaimed |           |
+| TENxIO                                                                                 | Unclaimed |           |
+| tenXplore                                                                              | Unclaimed |           |
+| terraTCGAdata                                                                          | Unclaimed |           |
+| TFARM                                                                                  | Unclaimed |           |
+| TFBSTools                                                                              | Unclaimed |           |
+| TFEA.ChIP                                                                              | Unclaimed |           |
+| TFHAZ                                                                                  | Unclaimed |           |
+| TFutils                                                                                | Unclaimed |           |
+| tidySingleCellExperiment                                                               | Unclaimed |           |
+| tidySummarizedExperiment                                                               | Unclaimed |           |
+| tigre                                                                                  | Unclaimed |           |
+| tilingArray                                                                            | Unclaimed |           |
+| timeOmics                                                                              | Unclaimed |           |
+| TimiRGeN                                                                               | Unclaimed |           |
+| TIN                                                                                    | Unclaimed |           |
+| TissueEnrich                                                                           | Unclaimed |           |
+| TitanCNA                                                                               | Unclaimed |           |
+| tLOH                                                                                   | Unclaimed |           |
+| TNBC.CMS                                                                               | Unclaimed |           |
+| TnT                                                                                    | Unclaimed |           |
+| TOAST                                                                                  | Unclaimed |           |
+| tomoda                                                                                 | Unclaimed |           |
+| tomoseqr                                                                               | Unclaimed |           |
+| topdownr                                                                               | Unclaimed |           |
+| topGO                                                                                  | Unclaimed |           |
+| ToxicoGx                                                                               | Unclaimed |           |
+| TPP                                                                                    | Unclaimed |           |
+| tracktables                                                                            | Unclaimed |           |
+| trackViewer                                                                            | Unclaimed |           |
+| tradeSeq                                                                               | Unclaimed |           |
+| TrajectoryGeometry                                                                     | Unclaimed |           |
+| TrajectoryUtils                                                                        | Unclaimed |           |
+| transcriptogramer                                                                      | Unclaimed |           |
+| transcriptR                                                                            | Unclaimed |           |
+| transformGamPoi                                                                        | Unclaimed |           |
+| tRanslatome                                                                            | Unclaimed |           |
+| transomics2cytoscape                                                                   | Unclaimed |           |
+| TraRe                                                                                  | Unclaimed |           |
+| traseR                                                                                 | Unclaimed |           |
+| traviz                                                                                 | Unclaimed |           |
+| treeio                                                                                 | Unclaimed |           |
+| treekoR                                                                                | Unclaimed |           |
+| TreeSummarizedExperiment                                                               | Unclaimed |           |
+| TREG                                                                                   | Unclaimed |           |
+| trena                                                                                  | Unclaimed |           |
+| Trendy                                                                                 | Unclaimed |           |
+| TRESS                                                                                  | Unclaimed |           |
+| tricycle                                                                               | Unclaimed |           |
+| trigger                                                                                | Unclaimed |           |
+| tripr                                                                                  | Unclaimed |           |
+| tRNAdbImport                                                                           | Unclaimed |           |
+| tRNAscanImport                                                                         | Unclaimed |           |
+| TSCAN                                                                                  | Unclaimed |           |
+| tscR                                                                                   | Unclaimed |           |
+| ttgsea                                                                                 | Unclaimed |           |
+| TTMap                                                                                  | Unclaimed |           |
+| TVTB                                                                                   | Unclaimed |           |
+| txcutr                                                                                 | Unclaimed |           |
+| tximeta                                                                                | Unclaimed |           |
+| UCell                                                                                  | Unclaimed |           |
+| Ularcirc                                                                               | Unclaimed |           |
+| UMI4Cats                                                                               | Unclaimed |           |
+| uncoverappLib                                                                          | Unclaimed |           |
+| UniProt.ws                                                                             | Unclaimed |           |
+| Uniquorn                                                                               | Unclaimed |           |
+| uSORT                                                                                  | Unclaimed |           |
+| VAExprs                                                                                | Unclaimed |           |
+| VanillaICE                                                                             | Unclaimed |           |
+| VarCon                                                                                 | Unclaimed |           |
+| variancePartition                                                                      | Unclaimed |           |
+| VariantAnnotation                                                                      | Unclaimed |           |
+| VariantExperiment                                                                      | Unclaimed |           |
+| VariantFiltering                                                                       | Unclaimed |           |
+| VariantTools                                                                           | Unclaimed |           |
+| VaSP                                                                                   | Unclaimed |           |
+| VCFArray                                                                               | Unclaimed |           |
+| VDJdive                                                                                | Unclaimed |           |
+| VegaMC                                                                                 | Unclaimed |           |
+| velociraptor                                                                           | Unclaimed |           |
+| VennDetail                                                                             | Unclaimed |           |
+| vidger                                                                                 | Unclaimed |           |
+| viper                                                                                  | Unclaimed |           |
+| ViSEAGO                                                                                | Unclaimed |           |
+| vissE                                                                                  | Unclaimed |           |
+| Voyager                                                                                | Unclaimed |           |
+| VplotR                                                                                 | Unclaimed |           |
+| vsclust                                                                                | Unclaimed |           |
+| vtpnet                                                                                 | Unclaimed |           |
+| vulcan                                                                                 | Unclaimed |           |
+| waddR                                                                                  | Unclaimed |           |
+| wateRmelon                                                                             | Unclaimed |           |
+| wavClusteR                                                                             | Unclaimed |           |
+| webbioc                                                                                | Unclaimed |           |
+| weitrix                                                                                | Unclaimed |           |
+| wiggleplotr                                                                            | Unclaimed |           |
+| wpm                                                                                    | Unclaimed |           |
+| wppi                                                                                   | Unclaimed |           |
+| xcms                                                                                   | Unclaimed |           |
+| xcore                                                                                  | Unclaimed |           |
+| XDE                                                                                    | Unclaimed |           |
+| Xeva                                                                                   | Unclaimed |           |
+| XINA                                                                                   | Unclaimed |           |
+| XNAString                                                                              | Unclaimed |           |
+| yamss                                                                                  | Unclaimed |           |
+| YAPSA                                                                                  | Unclaimed |           |
+| yarn                                                                                   | Unclaimed |           |
+| zellkonverter                                                                          | Unclaimed |           |
+| zenith                                                                                 | Unclaimed |           |
+| zFPKM                                                                                  | Unclaimed |           |
+| zinbwave                                                                               | Unclaimed |           |
+| GO.db                                                                                  | Unclaimed |           |
+| plotly                                                                                 | Unclaimed |           |
+| ggpubr                                                                                 | Unclaimed |           |
+| testthat                                                                               | Unclaimed |           |
+| rstatix                                                                                | Unclaimed |           |
+| car                                                                                    | Unclaimed |           |
+| pbkrtest                                                                               | Unclaimed |           |
+| lme4                                                                                   | Unclaimed |           |
+| nloptr                                                                                 | Unclaimed |           |
+| adductData                                                                             | Unclaimed |           |
+| PFAM.db                                                                                | Unclaimed |           |
+| Hmisc                                                                                  | Unclaimed |           |
+| ggrastr                                                                                | Unclaimed |           |
+| speaq                                                                                  | Unclaimed |           |
+| curatedTCGAData                                                                        | Unclaimed |           |
+| lmerTest                                                                               | Unclaimed |           |
+| tidytree                                                                               | Unclaimed |           |
+| caret                                                                                  | Unclaimed |           |
+| GUniFrac                                                                               | Unclaimed |           |
+| recipes                                                                                | Unclaimed |           |
+| org.Sc.sgd.db                                                                          | Unclaimed |           |
+| Seurat                                                                                 | Unclaimed |           |
+| org.Hs.eg.db                                                                           | Unclaimed |           |
+| org.Mm.eg.db                                                                           | Unclaimed |           |
+| BSgenome.Hsapiens.UCSC.hg19                                                            | Unclaimed |           |
+| TxDb.Hsapiens.UCSC.hg19.knownGene                                                      | Unclaimed |           |
+| Homo.sapiens                                                                           | Unclaimed |           |
+| SNPlocs.Hsapiens.dbSNP144.GRCh37                                                       | Unclaimed |           |
+| XtraSNPlocs.Hsapiens.dbSNP144.GRCh37                                                   | Unclaimed |           |
+| MafDb.1Kgenomes.phase3.hs37d5                                                          | Unclaimed |           |
+| MafDb.ExAC.r1.0.hs37d5                                                                 | Unclaimed |           |
+| MafDb.gnomADex.r2.1.hs37d5                                                             | Unclaimed |           |
+| COSMIC.67                                                                              | Unclaimed |           |
+| PolyPhen.Hsapiens.dbSNP131                                                             | Unclaimed |           |
+| SIFT.Hsapiens.dbSNP137                                                                 | Unclaimed |           |
+| FDb.InfiniumMethylation.hg19                                                           | Unclaimed |           |
+| ggfortify                                                                              | Unclaimed |           |
+| tidyverse                                                                              | Unclaimed |           |
+| Mus.musculus                                                                           | Unclaimed |           |
+| BSgenome.Mmusculus.UCSC.mm10                                                           | Unclaimed |           |
+| TxDb.Mmusculus.UCSC.mm10.knownGene                                                     | Unclaimed |           |
+| TxDb.Hsapiens.UCSC.hg38.knownGene                                                      | Unclaimed |           |
+| haven                                                                                  | Unclaimed |           |
+| modelr                                                                                 | Unclaimed |           |
+| reactome.db                                                                            | Unclaimed |           |
+| mixtools                                                                               | Unclaimed |           |
+| doBy                                                                                   | Unclaimed |           |
+| pRolocdata                                                                             | Unclaimed |           |
+| dendextend                                                                             | Unclaimed |           |
+| BSgenome.Ecoli.NCBI.20080805                                                           | Unclaimed |           |
+| ggExtra                                                                                | Unclaimed |           |
+| colourpicker                                                                           | Unclaimed |           |
+| heatmaply                                                                              | Unclaimed |           |
+| corncob                                                                                | Unclaimed |           |
+| IlluminaHumanMethylation450kanno.ilmn12.hg19                                           | Unclaimed |           |
+| radiant.data                                                                           | Unclaimed |           |
+| org.Bt.eg.db                                                                           | Unclaimed |           |
+| DiagrammeR                                                                             | Unclaimed |           |
+| visNetwork                                                                             | Unclaimed |           |
+| gson                                                                                   | Unclaimed |           |
+| HDO.db                                                                                 | Unclaimed |           |
+| ggraph                                                                                 | Unclaimed |           |
+| scatterpie                                                                             | Unclaimed |           |
+| rms                                                                                    | Unclaimed |           |
+| synaptome.db                                                                           | Unclaimed |           |
+| WGCNA                                                                                  | Unclaimed |           |
+| synaptome.data                                                                         | Unclaimed |           |
+| ggnetwork                                                                              | Unclaimed |           |
+| [superheat](https://github.com/almahmoud/gha-build/actions/runs/3767816208)            | Unclaimed |           |
+| biscuiteerData                                                                         | Unclaimed |           |
+| pasilla                                                                                | Unclaimed |           |
+| hgu133plus2.db                                                                         | Unclaimed |           |
+| hgu133a.db                                                                             | Unclaimed |           |
+| GenomicState                                                                           | Unclaimed |           |
+| BSgenome.Hsapiens.UCSC.hg38                                                            | Unclaimed |           |
+| devtools                                                                               | Unclaimed |           |
+| drc                                                                                    | Unclaimed |           |
+| FactoMineR                                                                             | Unclaimed |           |
+| ggpmisc                                                                                | Unclaimed |           |
+| broom.mixed                                                                            | Unclaimed |           |
+| mice                                                                                   | Unclaimed |           |
+| IlluminaHumanMethylationEPICmanifest                                                   | Unclaimed |           |
+| IlluminaHumanMethylation450kmanifest                                                   | Unclaimed |           |
+| IlluminaHumanMethylationEPICanno.ilm10b4.hg19                                          | Unclaimed |           |
+| isva                                                                                   | Unclaimed |           |
+| geneLenDataBase                                                                        | Unclaimed |           |
+| ChIC.data                                                                              | Unclaimed |           |
+| BSgenome.Mmusculus.UCSC.mm9                                                            | Unclaimed |           |
+| chipenrich.data                                                                        | Unclaimed |           |
+| org.Dm.eg.db                                                                           | Unclaimed |           |
+| org.Dr.eg.db                                                                           | Unclaimed |           |
+| org.Rn.eg.db                                                                           | Unclaimed |           |
+| TxDb.Hsapiens.UCSC.hg18.knownGene                                                      | Unclaimed |           |
+| TxDb.Mmusculus.UCSC.mm9.knownGene                                                      | Unclaimed |           |
+| TxDb.Rnorvegicus.UCSC.rn4.ensGene                                                      | Unclaimed |           |
+| TxDb.Celegans.UCSC.ce6.ensGene                                                         | Unclaimed |           |
+| TxDb.Dmelanogaster.UCSC.dm3.ensGene                                                    | Unclaimed |           |
+| shinydashboardPlus                                                                     | Unclaimed |           |
+| kableExtra                                                                             | Unclaimed |           |
+| [qs](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                   | Unclaimed |           |
+| BSgenome.Drerio.UCSC.danRer7                                                           | Unclaimed |           |
+| [rgl](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                  | Unclaimed |           |
+| phylobase                                                                              | Unclaimed |           |
+| benchmarkme                                                                            | Unclaimed |           |
+| rio                                                                                    | Unclaimed |           |
+| factoextra                                                                             | Unclaimed |           |
+| Ecume                                                                                  | Unclaimed |           |
+| spatstat                                                                               | Unclaimed |           |
+| spatstat.linnet                                                                        | Unclaimed |           |
+| contrast                                                                               | Unclaimed |           |
+| EnsDb.Hsapiens.v86                                                                     | Unclaimed |           |
+| IlluminaHumanMethylationEPICanno.ilm10b2.hg19                                          | Unclaimed |           |
+| faahKO                                                                                 | Unclaimed |           |
+| dorothea                                                                               | Unclaimed |           |
+| crisprScoreData                                                                        | Unclaimed |           |
+| shinypanel                                                                             | Unclaimed |           |
+| highcharter                                                                            | Unclaimed |           |
+| cytometree                                                                             | Unclaimed |           |
+| RFOC                                                                                   | Unclaimed |           |
+| GEOmap                                                                                 | Unclaimed |           |
+| fields                                                                                 | Unclaimed |           |
+| mbest                                                                                  | Unclaimed |           |
+| svgPanZoom                                                                             | Unclaimed |           |
+| plsVarSel                                                                              | Unclaimed |           |
+| arm                                                                                    | Unclaimed |           |
+| MSQC                                                                                   | Unclaimed |           |
+| DAPARdata                                                                              | Unclaimed |           |
+| cmdfun                                                                                 | Unclaimed |           |
+| metap                                                                                  | Unclaimed |           |
+| rsq                                                                                    | Unclaimed |           |
+| text2vec                                                                               | Unclaimed |           |
+| textstem                                                                               | Unclaimed |           |
+| mlapi                                                                                  | Unclaimed |           |
+| lexicon                                                                                | Unclaimed |           |
+| textclean                                                                              | Unclaimed |           |
+| VIM                                                                                    | Unclaimed |           |
+| hgu133a2.db                                                                            | Unclaimed |           |
+| easierData                                                                             | Unclaimed |           |
+| EpiMix.data                                                                            | Unclaimed |           |
+| qgraph                                                                                 | Unclaimed |           |
+| ewceData                                                                               | Unclaimed |           |
+| gprofiler2                                                                             | Unclaimed |           |
+| gap                                                                                    | Unclaimed |           |
+| geepack                                                                                | Unclaimed |           |
+| fda                                                                                    | Unclaimed |           |
+| fds                                                                                    | Unclaimed |           |
+| NHPoisson                                                                              | Unclaimed |           |
+| survminer                                                                              | Unclaimed |           |
+| logistf                                                                                | Unclaimed |           |
+| bs4Dash                                                                                | Unclaimed |           |
+| tippy                                                                                  | Unclaimed |           |
+| shinyHeatmaply                                                                         | Unclaimed |           |
+| shinybusy                                                                              | Unclaimed |           |
+| ggalt                                                                                  | Unclaimed |           |
+| HH                                                                                     | Unclaimed |           |
+| gRain                                                                                  | Unclaimed |           |
+| epiR                                                                                   | Unclaimed |           |
+| HiContactsData                                                                         | Unclaimed |           |
+| available                                                                              | Unclaimed |           |
+| TxDb.Dmelanogaster.UCSC.dm6.ensGene                                                    | Unclaimed |           |
+| wordcloud2                                                                             | Unclaimed |           |
+| datamods                                                                               | Unclaimed |           |
+| pd.mapping50k.xba240                                                                   | Unclaimed |           |
+| hgu95av2.db                                                                            | Unclaimed |           |
+| sortable                                                                               | Unclaimed |           |
+| reldist                                                                                | Unclaimed |           |
+| densEstBayes                                                                           | Unclaimed |           |
+| adabag                                                                                 | Unclaimed |           |
+| glmmTMB                                                                                | Unclaimed |           |
+| depmap                                                                                 | Unclaimed |           |
+| plsgenomics                                                                            | Unclaimed |           |
+| agricolae                                                                              | Unclaimed |           |
+| klaR                                                                                   | Unclaimed |           |
+| questionr                                                                              | Unclaimed |           |
+| labelled                                                                               | Unclaimed |           |
+| SmartSVA                                                                               | Unclaimed |           |
+| EnsDb.Hsapiens.v75                                                                     | Unclaimed |           |
+| sesameData                                                                             | Unclaimed |           |
+| FlowSorted.Blood.450k                                                                  | Unclaimed |           |
+| methylclockData                                                                        | Unclaimed |           |
+| ggmcmc                                                                                 | Unclaimed |           |
+| HardyWeinberg                                                                          | Unclaimed |           |
+| lumiHumanAll.db                                                                        | Unclaimed |           |
+| BSgenome.Hsapiens.UCSC.hg18                                                            | Unclaimed |           |
+| miRBaseVersions.db                                                                     | Unclaimed |           |
+| s4vd                                                                                   | Unclaimed |           |
+| BiBitR                                                                                 | Unclaimed |           |
+| subspace                                                                               | Unclaimed |           |
+| SOMbrero                                                                               | Unclaimed |           |
+| cvms                                                                                   | Unclaimed |           |
+| groupdata2                                                                             | Unclaimed |           |
+| echarts4r                                                                              | Unclaimed |           |
+| HiveR                                                                                  | Unclaimed |           |
+| anyLib                                                                                 | Unclaimed |           |
+| blme                                                                                   | Unclaimed |           |
+| deconstructSigs                                                                        | Unclaimed |           |
+| dnet                                                                                   | Unclaimed |           |
+| RcmdrMisc                                                                              | Unclaimed |           |
+| qpcR                                                                                   | Unclaimed |           |
+| NxtIRFdata                                                                             | Unclaimed |           |
+| octad.db                                                                               | Unclaimed |           |
+| diceR                                                                                  | Unclaimed |           |
+| OMICsPCAdata                                                                           | Unclaimed |           |
+| AICcmodavg                                                                             | Unclaimed |           |
+| unmarked                                                                               | Unclaimed |           |
+| biomartr                                                                               | Unclaimed |           |
+| tfprobability                                                                          | Unclaimed |           |
+| verification                                                                           | Unclaimed |           |
+| genlasso                                                                               | Unclaimed |           |
+| tidybayes                                                                              | Unclaimed |           |
+| phastCons100way.UCSC.hg38                                                              | Unclaimed |           |
+| forecast                                                                               | Unclaimed |           |
+| rhandsontable                                                                          | Unclaimed |           |
+| EnsDb.Mmusculus.v79                                                                    | Unclaimed |           |
+| EnsDb.Rnorvegicus.v79                                                                  | Unclaimed |           |
+| pairsD3                                                                                | Unclaimed |           |
+| pwrEWAS.data                                                                           | Unclaimed |           |
+| phastCons100way.UCSC.hg19                                                              | Unclaimed |           |
+| BSgenome.Celegans.UCSC.ce2                                                             | Unclaimed |           |
+| BSgenome.Hsapiens.1000genomes.hs37d5                                                   | Unclaimed |           |
+| rGenomeTracksData                                                                      | Unclaimed |           |
+| valr                                                                                   | Unclaimed |           |
+| caretEnsemble                                                                          | Unclaimed |           |
+| RLHub                                                                                  | Unclaimed |           |
+| scanMiRData                                                                            | Unclaimed |           |
+| SCATEData                                                                              | Unclaimed |           |
+| nnTensor                                                                               | Unclaimed |           |
+| ccTensor                                                                               | Unclaimed |           |
+| clustree                                                                               | Unclaimed |           |
+| survivalAnalysis                                                                       | Unclaimed |           |
+| tidytidbits                                                                            | Unclaimed |           |
+| celldex                                                                                | Unclaimed |           |
+| GSVAdata                                                                               | Unclaimed |           |
+| SoupX                                                                                  | Unclaimed |           |
+| scRNAseq                                                                               | Unclaimed |           |
+| TENxPBMCData                                                                           | Unclaimed |           |
+| hgu95a.db                                                                              | Unclaimed |           |
+| miRNAtap.db                                                                            | Unclaimed |           |
+| MESS                                                                                   | Unclaimed |           |
+| ggformula                                                                              | Unclaimed |           |
+| SpatialExtremes                                                                        | Unclaimed |           |
+| spsComps                                                                               | Unclaimed |           |
+| drawer                                                                                 | Unclaimed |           |
+| gghighlight                                                                            | Unclaimed |           |
+| bestNormalize                                                                          | Unclaimed |           |
+| naniar                                                                                 | Unclaimed |           |
+| visdat                                                                                 | Unclaimed |           |
+| SNPlocs.Hsapiens.dbSNP150.GRCh38                                                       | Unclaimed |           |
+| mirbase.db                                                                             | Unclaimed |           |
+| condformat                                                                             | Unclaimed |           |
+| shinyTree                                                                              | Unclaimed |           |
+| msigdb                                                                                 | Unclaimed |           |
 
-## Succeeded (2034)
+## Succeeded (2142)
 | Package                                                                                                | Status    | Tarball                                                                                                                                                                                                                |
 |--------------------------------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4Classif](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                            | Succeeded | [a4Classif_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/a4Classif_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
@@ -1813,6 +1705,7 @@
 | [AffyRNADegradation](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405051361)   | Succeeded | [AffyRNADegradation_1.44.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/AffyRNADegradation_1.44.0_R_x86_64-pc-linux-gnu.tar.gz)                              |
 | [agilp](https://github.com/almahmoud/gha-build/actions/runs/3767091704/jobs/6404353626)                | Succeeded | [agilp_3.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/agilp_3.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [AIMS](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                                 | Succeeded | [AIMS_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/AIMS_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
+| [ALDEx2](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                               | Succeeded | [ALDEx2_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ALDEx2_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [altcdfenvs](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                           | Succeeded | [altcdfenvs_2.60.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/altcdfenvs_2.60.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [AMOUNTAIN](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404102068)            | Succeeded | [AMOUNTAIN_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/AMOUNTAIN_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [ANF](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                                  | Succeeded | [260.6 kB ANF_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ANF_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
@@ -1831,11 +1724,13 @@
 | [AssessORF](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                            | Succeeded | [5.0 MB AssessORF_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/AssessORF_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [ASSET](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                                | Succeeded | [ASSET_2.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ASSET_2.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [AWFisher](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                             | Succeeded | [1.5 MB AWFisher_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/AWFisher_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
+| [awst](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                 | Succeeded | [awst_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/awst_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
 | [BAC](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404025353)                  | Succeeded | [BAC_1.58.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BAC_1.58.0_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
 | [bacon](https://github.com/almahmoud/gha-build/actions/runs/3767732923/jobs/6405641638)                | Succeeded | [2.0 MB bacon_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/bacon_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [BADER](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                                | Succeeded | [245.6 kB BADER_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BADER_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [BAGS](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                                 | Succeeded | [BAGS_2.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BAGS_2.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [bamsignals](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                           | Succeeded | [bamsignals_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/bamsignals_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
+| [BANDITS](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                              | Succeeded | [BANDITS_1.14.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BANDITS_1.14.1_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [BaseSpaceR](https://github.com/almahmoud/gha-build/actions/runs/3767381179)                           | Succeeded | [BaseSpaceR_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BaseSpaceR_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [basilisk](https://github.com/almahmoud/gha-build/actions/runs/3767391380)                             | Succeeded | [317.6 kB basilisk_1.10.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/basilisk_1.10.2_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [basilisk.utils](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                       | Succeeded | [basilisk.utils_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/basilisk.utils_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                      |
@@ -1843,6 +1738,7 @@
 | [baySeq](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                               | Succeeded | [1.6 MB baySeq_2.31.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/baySeq_2.31.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [BCRANK](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                               | Succeeded | [2.4 MB BCRANK_1.60.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BCRANK_1.60.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [bcSeq](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                                | Succeeded | [1.7 MB bcSeq_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/bcSeq_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
+| [BDMMAcorrect](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                         | Succeeded | [BDMMAcorrect_1.16.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BDMMAcorrect_1.16.1_R_x86_64-pc-linux-gnu.tar.gz)                                          |
 | [beachmat](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                             | Succeeded | [beachmat_2.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/beachmat_2.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [beadarraySNP](https://github.com/almahmoud/gha-build/actions/runs/3767621459)                         | Succeeded | [972.8 kB beadarraySNP_1.64.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/beadarraySNP_1.64.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [BeadDataPackR](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404029385)        | Succeeded | [296.5 kB BeadDataPackR_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BeadDataPackR_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                               |
@@ -1862,6 +1758,7 @@
 | [BiocNeighbors](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                        | Succeeded | [BiocNeighbors_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BiocNeighbors_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                        |
 | [BiocParallel](https://github.com/almahmoud/gha-build/actions/runs/3767466645)                         | Succeeded | [2.1 MB BiocParallel_1.32.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BiocParallel_1.32.4_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | [BiocSingular](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                         | Succeeded | [BiocSingular_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BiocSingular_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                          |
+| [BiocSklearn](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                          | Succeeded | [34.3 MB BiocSklearn_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BiocSklearn_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                    |
 | [biocthis](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                             | Succeeded | [biocthis_1.8.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/biocthis_1.8.1_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [BiocVersion](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                          | Succeeded | [BiocVersion_3.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BiocVersion_3.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [biocViews](https://github.com/almahmoud/gha-build/actions/runs/3767391380)                            | Succeeded | [902.4 kB biocViews_1.66.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/biocViews_1.66.2_R_x86_64-pc-linux-gnu.tar.gz)                                       |
@@ -1880,8 +1777,11 @@
 | [BufferedMatrixMethods](https://github.com/almahmoud/gha-build/actions/runs/3767233205)                | Succeeded | [BufferedMatrixMethods_1.62.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BufferedMatrixMethods_1.62.0_R_x86_64-pc-linux-gnu.tar.gz)                        |
 | [BumpyMatrix](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                          | Succeeded | [BumpyMatrix_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BumpyMatrix_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [BUS](https://github.com/almahmoud/gha-build/actions/runs/3767391380)                                  | Succeeded | [BUS_1.54.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BUS_1.54.0_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
+| [BUScorrect](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                           | Succeeded | [3.8 MB BUScorrect_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BUScorrect_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | [calm](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405047653)                 | Succeeded | [calm_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/calm_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [cancerclass](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                          | Succeeded | [cancerclass_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/cancerclass_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
+| [CancerSubtypes](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                       | Succeeded | [1.9 MB CancerSubtypes_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CancerSubtypes_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                               |
+| [CARNIVAL](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                             | Succeeded | [425.5 kB CARNIVAL_2.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CARNIVAL_2.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [CausalR](https://github.com/almahmoud/gha-build/actions/runs/3767391380)                              | Succeeded | [CausalR_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CausalR_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [ccImpute](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                             | Succeeded | [1.8 MB ccImpute_1.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ccImpute_1.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [ccrepe](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404641416)               | Succeeded | [ccrepe_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ccrepe_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
@@ -1910,6 +1810,7 @@
 | [ClusterSignificance](https://github.com/almahmoud/gha-build/actions/runs/3767381179)                  | Succeeded | [2.1 MB ClusterSignificance_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ClusterSignificance_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                     |
 | [clusterStab](https://github.com/almahmoud/gha-build/actions/runs/3767355315)                          | Succeeded | [clusterStab_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/clusterStab_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [CMA](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                                  | Succeeded | [CMA_1.56.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CMA_1.56.0_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
+| [cmapR](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                | Succeeded | [4.2 MB cmapR_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/cmapR_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [CNAnorm](https://github.com/almahmoud/gha-build/actions/runs/3767213834)                              | Succeeded | [CNAnorm_1.44.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CNAnorm_1.44.2_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [CNORdt](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                               | Succeeded | [CNORdt_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CNORdt_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [CNORfeeder](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                           | Succeeded | [2.0 MB CNORfeeder_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CNORfeeder_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
@@ -1937,11 +1838,13 @@
 | [cqn](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                                  | Succeeded | [cqn_1.44.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/cqn_1.44.0_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
 | [crisprBase](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                           | Succeeded | [crisprBase_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/crisprBase_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [CSAR](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                                 | Succeeded | [CSAR_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CSAR_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
+| [csaw](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                 | Succeeded | [4.9 MB csaw_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/csaw_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [CSSP](https://github.com/almahmoud/gha-build/actions/runs/3766959387)                                 | Succeeded | [CSSP_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CSSP_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [ctc](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404638664)                  | Succeeded | [137.9 kB ctc_1.72.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ctc_1.72.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [ctsGE](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405553594)                | Succeeded | [ctsGE_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ctsGE_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [cycle](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                                | Succeeded | [cycle_1.52.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/cycle_1.52.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [CytoDx](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405557806)               | Succeeded | [CytoDx_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CytoDx_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
+| [cytoKernel](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                           | Succeeded | [cytoKernel_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/cytoKernel_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [cytolib](https://github.com/almahmoud/gha-build/actions/runs/3767213834)                              | Succeeded | [cytolib_2.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/cytolib_2.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [cytoMEM](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                              | Succeeded | [cytoMEM_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/cytoMEM_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [daMA](https://github.com/almahmoud/gha-build/actions/runs/3767233205)                                 | Succeeded | [daMA_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/daMA_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
@@ -1956,6 +1859,7 @@
 | [DelayedDataFrame](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                     | Succeeded | [DelayedDataFrame_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DelayedDataFrame_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                  |
 | [DelayedMatrixStats](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                   | Succeeded | [678.8 kB DelayedMatrixStats_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DelayedMatrixStats_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                     |
 | [DelayedRandomArray](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                   | Succeeded | [DelayedRandomArray_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DelayedRandomArray_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                |
+| [DelayedTensor](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                        | Succeeded | [DelayedTensor_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DelayedTensor_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                          |
 | [DeMAND](https://github.com/almahmoud/gha-build/actions/runs/3767173530)                               | Succeeded | [202.3 kB DeMAND_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DeMAND_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [demuxmix](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                             | Succeeded | [demuxmix_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/demuxmix_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [densvis](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                              | Succeeded | [densvis_1.8.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/densvis_1.8.1_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
@@ -1964,6 +1868,7 @@
 | [derfinderHelper](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                      | Succeeded | [derfinderHelper_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/derfinderHelper_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                    |
 | [DEsingle](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                             | Succeeded | [391.4 kB DEsingle_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DEsingle_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [DFP](https://github.com/almahmoud/gha-build/actions/runs/3767381179)                                  | Succeeded | [DFP_1.56.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DFP_1.56.0_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
+| [DIAlignR](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                             | Succeeded | [DIAlignR_2.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DIAlignR_2.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [diffGeneAnalysis](https://github.com/almahmoud/gha-build/actions/runs/3767173530)                     | Succeeded | [195.7 kB diffGeneAnalysis_1.80.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/diffGeneAnalysis_1.80.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [DiffLogo](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405043957)             | Succeeded | [991.4 kB DiffLogo_2.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DiffLogo_2.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [dir.expiry](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404568471)           | Succeeded | [311.0 kB dir.expiry_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/dir.expiry_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
@@ -1996,6 +1901,7 @@
 | [EmpiricalBrownsMethod](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                | Succeeded | [EmpiricalBrownsMethod_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/EmpiricalBrownsMethod_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                        |
 | [EnrichedHeatmap](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                      | Succeeded | [6.8 MB EnrichedHeatmap_1.27.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/EnrichedHeatmap_1.27.2_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | [EpiDISH](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                              | Succeeded | [EpiDISH_2.14.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/EpiDISH_2.14.1_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
+| [epistack](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                             | Succeeded | [2.0 MB epistack_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/epistack_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [epivizrServer](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                        | Succeeded | [460.5 kB epivizrServer_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/epivizrServer_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | [erccdashboard](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                        | Succeeded | [erccdashboard_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/erccdashboard_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                        |
 | [eudysbiome](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                           | Succeeded | [4.5 MB eudysbiome_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/eudysbiome_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
@@ -2009,9 +1915,11 @@
 | [fedup](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                                | Succeeded | [4.3 MB fedup_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/fedup_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [FELLA](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                                | Succeeded | [3.8 MB FELLA_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/FELLA_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [FGNet](https://github.com/almahmoud/gha-build/actions/runs/3767621459)                                | Succeeded | [FGNet_3.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/FGNet_3.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
+| [fgsea](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                | Succeeded | [fgsea_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/fgsea_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [FitHiC](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404534585)               | Succeeded | [FitHiC_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/FitHiC_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [flowAI](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                               | Succeeded | [flowAI_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/flowAI_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [flowBeads](https://github.com/almahmoud/gha-build/actions/runs/3767621459)                            | Succeeded | [flowBeads_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/flowBeads_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
+| [flowBin](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                              | Succeeded | [750.2 kB flowBin_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/flowBin_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [flowClean](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                            | Succeeded | [4.9 MB flowClean_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/flowClean_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [flowClust](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                            | Succeeded | [flowClust_3.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/flowClust_3.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [flowCore](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405045026)             | Succeeded | [11.3 MB flowCore_2.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/flowCore_2.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                          |
@@ -2037,7 +1945,9 @@
 | [garfield](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404285569)             | Succeeded | [garfield_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/garfield_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [GateFinder](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                           | Succeeded | [GateFinder_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GateFinder_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [gcatest](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                              | Succeeded | [gcatest_1.28.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/gcatest_1.28.1_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
+| [gCrisprTools](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                         | Succeeded | [gCrisprTools_2.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/gCrisprTools_2.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [gcrma](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                                | Succeeded | [gcrma_2.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/gcrma_2.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
+| [GDSArray](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                             | Succeeded | [GDSArray_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GDSArray_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [gdsfmt](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                               | Succeeded | [11.1 MB gdsfmt_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/gdsfmt_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [GEM](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                                  | Succeeded | [GEM_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GEM_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
 | [genArise](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405033498)             | Succeeded | [1.1 MB genArise_1.74.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/genArise_1.74.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
@@ -2059,8 +1969,12 @@
 | [GenomeInfoDb](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                         | Succeeded | [4.0 MB GenomeInfoDb_1.34.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GenomeInfoDb_1.34.4_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | [genomeIntervals](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                      | Succeeded | [genomeIntervals_1.54.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/genomeIntervals_1.54.0_R_x86_64-pc-linux-gnu.tar.gz)                                    |
 | [genomes](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [46.7 kB genomes_3.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/genomes_3.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
+| [GenomicAlignments](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                    | Succeeded | [2.4 MB GenomicAlignments_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GenomicAlignments_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
+| [GenomicDataCommons](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                   | Succeeded | [2.0 MB GenomicDataCommons_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GenomicDataCommons_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                       |
 | [GenomicRanges](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                        | Succeeded | [2.2 MB GenomicRanges_1.50.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GenomicRanges_1.50.2_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [GenomicTuples](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                        | Succeeded | [GenomicTuples_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GenomicTuples_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                        |
+| [GEOfastq](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                             | Succeeded | [GEOfastq_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GEOfastq_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
+| [GEOquery](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                             | Succeeded | [13.9 MB GEOquery_2.66.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GEOquery_2.66.0_R_x86_64-pc-linux-gnu.tar.gz)                                          |
 | [GEOsubmission](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405029996)        | Succeeded | [GEOsubmission_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GEOsubmission_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                        |
 | [geva](https://github.com/almahmoud/gha-build/actions/runs/3767381179)                                 | Succeeded | [2.8 MB geva_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/geva_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
 | [ggcyto](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                               | Succeeded | [3.3 MB ggcyto_1.26.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggcyto_1.26.4_R_x86_64-pc-linux-gnu.tar.gz)                                               |
@@ -2104,12 +2018,14 @@
 | [hopach](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                               | Succeeded | [hopach_2.58.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/hopach_2.58.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [HPAanalyze](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                           | Succeeded | [HPAanalyze_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/HPAanalyze_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [hpar](https://github.com/almahmoud/gha-build/actions/runs/3766967064)                                 | Succeeded | [hpar_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/hpar_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
+| [HPAStainR](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                            | Succeeded | [HPAStainR_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/HPAStainR_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [HTqPCR](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405049746)               | Succeeded | [2.4 MB HTqPCR_1.52.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/HTqPCR_1.52.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [hummingbird](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                          | Succeeded | [722.7 kB hummingbird_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/hummingbird_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [HybridMTest](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                          | Succeeded | [HybridMTest_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/HybridMTest_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [hyperdraw](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                            | Succeeded | [269.3 kB hyperdraw_1.50.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/hyperdraw_1.50.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | [hypergraph](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                           | Succeeded | [156.7 kB hypergraph_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/hypergraph_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [iASeq](https://github.com/almahmoud/gha-build/actions/runs/3766999283)                                | Succeeded | [161.3 kB iASeq_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/iASeq_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
+| [iasva](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                | Succeeded | [iasva_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/iasva_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [ibh](https://github.com/almahmoud/gha-build/actions/runs/3767173530)                                  | Succeeded | [151.9 kB ibh_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ibh_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [iBMQ](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405558058)                 | Succeeded | [2.3 MB iBMQ_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/iBMQ_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [Icens](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                                | Succeeded | [110.1 kB Icens_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Icens_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
@@ -2128,6 +2044,8 @@
 | [Informeasure](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404530687)         | Succeeded | [Informeasure_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Informeasure_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [INPower](https://github.com/almahmoud/gha-build/actions/runs/3767213834)                              | Succeeded | [83.1 kB INPower_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/INPower_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [interacCircos](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                        | Succeeded | [856.9 kB interacCircos_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/interacCircos_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
+| [InteractionSet](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                       | Succeeded | [InteractionSet_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/InteractionSet_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                      |
+| [InterMineR](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                           | Succeeded | [767.0 kB InterMineR_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/InterMineR_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [IntramiRExploreR](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                     | Succeeded | [IntramiRExploreR_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/IntramiRExploreR_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                  |
 | [iPAC](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                                 | Succeeded | [391.7 kB iPAC_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/iPAC_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [IRanges](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405029216)              | Succeeded | [2.4 MB IRanges_2.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/IRanges_2.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
@@ -2148,10 +2066,12 @@
 | [LBE](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                                  | Succeeded | [822.9 kB LBE_1.66.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/LBE_1.66.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [ldblock](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                              | Succeeded | [42.2 MB ldblock_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ldblock_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [LEA](https://github.com/almahmoud/gha-build/actions/runs/3767125340/jobs/6404454260)                  | Succeeded | [1.0 MB LEA_3.10.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/LEA_3.10.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
+| [lefser](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                               | Succeeded | [701.5 kB lefser_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/lefser_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [les](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405032895)                  | Succeeded | [les_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/les_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
 | [lfa](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404571744)                  | Succeeded | [454.9 kB lfa_1.28.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/lfa_1.28.1_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [limma](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                                | Succeeded | [2.9 MB limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [limmaGUI](https://github.com/almahmoud/gha-build/actions/runs/3767213834)                             | Succeeded | [limmaGUI_1.74.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/limmaGUI_1.74.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
+| [Linnorm](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [Linnorm_2.22.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Linnorm_2.22.1_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [lionessR](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                             | Succeeded | [lionessR_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/lionessR_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [lmdme](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404531088)                | Succeeded | [725.0 kB lmdme_1.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/lmdme_1.40.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [loci2path](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                            | Succeeded | [802.5 kB loci2path_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/loci2path_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
@@ -2171,6 +2091,8 @@
 | [makecdfenv](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405028868)           | Succeeded | [makecdfenv_1.74.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/makecdfenv_1.74.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [MANOR](https://github.com/almahmoud/gha-build/actions/runs/3767466645)                                | Succeeded | [1.7 MB MANOR_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MANOR_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [MantelCorr](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404283483)           | Succeeded | [589.8 kB MantelCorr_1.68.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MantelCorr_1.68.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
+| [mapscape](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                             | Succeeded | [4.3 MB mapscape_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/mapscape_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
+| [marr](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                 | Succeeded | [1.2 MB marr_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/marr_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
 | [marray](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404642876)               | Succeeded | [marray_1.76.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/marray_1.76.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [martini](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                              | Succeeded | [1.4 MB martini_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/martini_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [maSigPro](https://github.com/almahmoud/gha-build/actions/runs/3767474929/jobs/6405113274)             | Succeeded | [maSigPro_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/maSigPro_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
@@ -2182,11 +2104,13 @@
 | [MatrixGenerics](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404641234)       | Succeeded | [MatrixGenerics_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MatrixGenerics_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                      |
 | [matter](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                               | Succeeded | [2.3 MB matter_2.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/matter_2.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [MBAmethyl](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404276431)            | Succeeded | [108.6 kB MBAmethyl_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MBAmethyl_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
+| [MBASED](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                               | Succeeded | [477.3 kB MBASED_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MBASED_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [MBCB](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404570862)                 | Succeeded | [MBCB_1.52.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MBCB_1.52.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [MBttest](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405032829)              | Succeeded | [MBttest_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MBttest_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [mdp](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                                  | Succeeded | [4.4 MB mdp_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/mdp_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
 | [mdqc](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                                 | Succeeded | [181.4 kB mdqc_1.60.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/mdqc_1.60.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [MeasurementError.cor](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404099444) | Succeeded | [69.9 kB MeasurementError.cor_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MeasurementError.cor_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                  |
+| [MEB](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                  | Succeeded | [MEB_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MEB_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
 | [Mergeomics](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404027096)           | Succeeded | [Mergeomics_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Mergeomics_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [messina](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405558363)              | Succeeded | [1.2 MB messina_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/messina_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [metabinR](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404568275)             | Succeeded | [metabinR_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/metabinR_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
@@ -2215,16 +2139,24 @@
 | [mirTarRnaSeq](https://github.com/almahmoud/gha-build/actions/runs/3767729336)                         | Succeeded | [4.8 MB mirTarRnaSeq_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/mirTarRnaSeq_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [ModCon](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404569045)               | Succeeded | [2.0 MB ModCon_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ModCon_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [Modstrings](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                           | Succeeded | [Modstrings_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Modstrings_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
+| [MOGAMUN](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                              | Succeeded | [MOGAMUN_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MOGAMUN_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
+| [MOSim](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                | Succeeded | [5.0 MB MOSim_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MOSim_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [motifcounter](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                         | Succeeded | [753.0 kB motifcounter_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/motifcounter_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [msa](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                                  | Succeeded | [msa_1.30.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/msa_1.30.1_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
+| [MSA2dist](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                             | Succeeded | [4.4 MB MSA2dist_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MSA2dist_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [MsBackendMassbank](https://github.com/almahmoud/gha-build/actions/runs/3767621459)                    | Succeeded | [591.3 kB MsBackendMassbank_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MsBackendMassbank_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [MsBackendMgf](https://github.com/almahmoud/gha-build/actions/runs/3767621459)                         | Succeeded | [356.3 kB MsBackendMgf_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MsBackendMgf_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | [MsBackendMsp](https://github.com/almahmoud/gha-build/actions/runs/3767621459)                         | Succeeded | [MsBackendMsp_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MsBackendMsp_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [MsBackendRawFileReader](https://github.com/almahmoud/gha-build/actions/runs/3767621459)               | Succeeded | [MsBackendRawFileReader_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MsBackendRawFileReader_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                        |
 | [MsCoreUtils](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405048681)          | Succeeded | [MsCoreUtils_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MsCoreUtils_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
+| [MsFeatures](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                           | Succeeded | [1.2 MB MsFeatures_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MsFeatures_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
+| [MSnbase](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [8.7 MB MSnbase_2.24.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MSnbase_2.24.2_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| [msPurity](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                             | Succeeded | [11.8 MB msPurity_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/msPurity_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                          |
 | [MSstatsConvert](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                       | Succeeded | [800.3 kB MSstatsConvert_1.8.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MSstatsConvert_1.8.2_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | [MSstatsLOBD](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405554479)          | Succeeded | [MSstatsLOBD_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MSstatsLOBD_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
+| [MultiAssayExperiment](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                 | Succeeded | [MultiAssayExperiment_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MultiAssayExperiment_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                          |
 | [MultiMed](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404102282)             | Succeeded | [MultiMed_2.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MultiMed_2.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
+| [multiOmicsViz](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                        | Succeeded | [multiOmicsViz_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/multiOmicsViz_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                        |
 | [multiscan](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                            | Succeeded | [multiscan_1.58.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/multiscan_1.58.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [multtest](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                             | Succeeded | [904.9 kB multtest_2.54.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/multtest_2.54.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [muscle](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                               | Succeeded | [muscle_3.40.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/muscle_3.40.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
@@ -2250,18 +2182,26 @@
 | [NuPoP](https://github.com/almahmoud/gha-build/actions/runs/3766964070)                                | Succeeded | [NuPoP_2.6.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/NuPoP_2.6.2_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [occugene](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404102755)             | Succeeded | [153.8 kB occugene_1.58.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/occugene_1.58.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [OCplus](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                               | Succeeded | [10.2 MB OCplus_1.72.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/OCplus_1.72.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
+| [odseq](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                | Succeeded | [250.1 kB odseq_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/odseq_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [OLIN](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405046143)                 | Succeeded | [OLIN_1.76.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/OLIN_1.76.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [OLINgui](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                              | Succeeded | [OLINgui_1.72.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/OLINgui_1.72.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [OmicCircos](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                           | Succeeded | [OmicCircos_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/OmicCircos_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
+| [OmicsLonDA](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                           | Succeeded | [OmicsLonDA_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/OmicsLonDA_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
+| [OmnipathR](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                            | Succeeded | [OmnipathR_3.5.25_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/OmnipathR_3.5.25_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [ompBAM](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404641354)               | Succeeded | [3.3 MB ompBAM_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ompBAM_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
+| [oncoscanR](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                            | Succeeded | [oncoscanR_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/oncoscanR_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [onlineFDR](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                            | Succeeded | [onlineFDR_2.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/onlineFDR_2.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
+| [OPWeight](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                             | Succeeded | [OPWeight_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/OPWeight_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [OrderedList](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405049263)          | Succeeded | [OrderedList_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/OrderedList_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [OSAT](https://github.com/almahmoud/gha-build/actions/runs/3767091704/jobs/6404354595)                 | Succeeded | [637.9 kB OSAT_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/OSAT_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
+| [OVESEG](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                               | Succeeded | [OVESEG_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/OVESEG_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [packFinder](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                           | Succeeded | [packFinder_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/packFinder_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [paircompviz](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                          | Succeeded | [332.9 kB paircompviz_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/paircompviz_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
+| [pairkat](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [852.5 kB pairkat_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/pairkat_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [pandaR](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                               | Succeeded | [pandaR_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/pandaR_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [panp](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405046269)                 | Succeeded | [536.4 kB panp_1.68.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/panp_1.68.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [PANR](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                                 | Succeeded | [PANR_1.44.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/PANR_1.44.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
+| [PanViz](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                               | Succeeded | [PanViz_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/PanViz_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [parglms](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                              | Succeeded | [293.5 kB parglms_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/parglms_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [parody](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404287891)               | Succeeded | [parody_1.56.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/parody_1.56.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [Path2PPI](https://github.com/almahmoud/gha-build/actions/runs/3767466645)                             | Succeeded | [Path2PPI_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Path2PPI_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
@@ -2277,6 +2217,7 @@
 | [pepXMLTab](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404530622)            | Succeeded | [200.9 kB pepXMLTab_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/pepXMLTab_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | [pgca](https://github.com/almahmoud/gha-build/actions/runs/3767091704/jobs/6404353189)                 | Succeeded | [pgca_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/pgca_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [PhenoGeneRanker](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                      | Succeeded | [82.1 kB PhenoGeneRanker_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/PhenoGeneRanker_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                              |
+| [phenopath](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                            | Succeeded | [1.5 MB phenopath_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/phenopath_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [phosphonormalizer](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                    | Succeeded | [2.7 MB phosphonormalizer_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/phosphonormalizer_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [phyloseq](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405554144)             | Succeeded | [phyloseq_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/phyloseq_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [pickgene](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404640133)             | Succeeded | [pickgene_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/pickgene_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
@@ -2291,6 +2232,8 @@
 | [pqsfinder](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                            | Succeeded | [pqsfinder_2.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/pqsfinder_2.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [preprocessCore](https://github.com/almahmoud/gha-build/actions/runs/3766967064)                       | Succeeded | [preprocessCore_1.60.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/preprocessCore_1.60.1_R_x86_64-pc-linux-gnu.tar.gz)                                      |
 | [PROcess](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                              | Succeeded | [2.1 MB PROcess_1.74.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/PROcess_1.74.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| [procoil](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                              | Succeeded | [procoil_2.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/procoil_2.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
+| [proDA](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                                | Succeeded | [1.2 MB proDA_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/proDA_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [profileScoreDist](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404571887)     | Succeeded | [643.3 kB profileScoreDist_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/profileScoreDist_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [PROPER](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                               | Succeeded | [1.6 MB PROPER_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/PROPER_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [proteinProfiles](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404273708)      | Succeeded | [265.0 kB proteinProfiles_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/proteinProfiles_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                           |
@@ -2308,6 +2251,7 @@
 | [qusage](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405028318)               | Succeeded | [qusage_2.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/qusage_2.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [qvalue](https://github.com/almahmoud/gha-build/actions/runs/3767669406/jobs/6405546756)               | Succeeded | [qvalue_2.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/qvalue_2.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [R4RNA](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                                | Succeeded | [R4RNA_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/R4RNA_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
+| [RaggedExperiment](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                     | Succeeded | [945.0 kB RaggedExperiment_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RaggedExperiment_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                         |
 | [rain](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                                 | Succeeded | [rain_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rain_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [rama](https://github.com/almahmoud/gha-build/actions/runs/3767125340/jobs/6404455475)                 | Succeeded | [rama_1.72.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rama_1.72.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [randPack](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                             | Succeeded | [randPack_1.44.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/randPack_1.44.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
@@ -2331,12 +2275,16 @@
 | [rDGIdb](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                               | Succeeded | [226.8 kB rDGIdb_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rDGIdb_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [Rdisop](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404572392)               | Succeeded | [Rdisop_1.58.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Rdisop_1.58.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [ReactomeContentService4R](https://github.com/almahmoud/gha-build/actions/runs/3767558890)             | Succeeded | [1.2 MB ReactomeContentService4R_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ReactomeContentService4R_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)             |
+| [ReactomeGSA](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                          | Succeeded | [529.6 kB ReactomeGSA_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ReactomeGSA_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | [ReadqPCR](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                             | Succeeded | [470.0 kB ReadqPCR_1.44.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ReadqPCR_1.44.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [REBET](https://github.com/almahmoud/gha-build/actions/runs/3767621459)                                | Succeeded | [234.4 kB REBET_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/REBET_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
+| [receptLoss](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                           | Succeeded | [383.7 kB receptLoss_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/receptLoss_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [RedeR](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405047912)                | Succeeded | [7.5 MB RedeR_2.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RedeR_2.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [RedisParam](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                           | Succeeded | [RedisParam_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RedisParam_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
+| [regsplice](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                            | Succeeded | [462.5 kB regsplice_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/regsplice_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | [ResidualMatrix](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                       | Succeeded | [609.0 kB ResidualMatrix_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ResidualMatrix_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | [Rfastp](https://github.com/almahmoud/gha-build/actions/runs/3767669406/jobs/6405549708)               | Succeeded | [Rfastp_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Rfastp_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
+| [rfPred](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                               | Succeeded | [rfPred_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rfPred_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [rgoslin](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405556967)              | Succeeded | [rgoslin_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rgoslin_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [RGraph2js](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                            | Succeeded | [RGraph2js_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RGraph2js_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [Rgraphviz](https://github.com/almahmoud/gha-build/actions/runs/3767355315)                            | Succeeded | [Rgraphviz_2.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Rgraphviz_2.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
@@ -2374,21 +2322,27 @@
 | [RUVnormalize](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405033704)         | Succeeded | [RUVnormalize_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RUVnormalize_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                          |
 | [S4Vectors](https://github.com/almahmoud/gha-build/actions/runs/3767252386)                            | Succeeded | [S4Vectors_0.36.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/S4Vectors_0.36.1_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [sagenhaft](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404530292)            | Succeeded | [sagenhaft_1.68.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sagenhaft_1.68.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
+| [SAIGEgds](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                             | Succeeded | [4.1 MB SAIGEgds_1.12.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SAIGEgds_1.12.2_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [SamSPECTRAL](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404104531)          | Succeeded | [SamSPECTRAL_1.52.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SamSPECTRAL_1.52.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [sangerseqR](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405556399)           | Succeeded | [1.9 MB sangerseqR_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sangerseqR_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | [SANTA](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405047477)                | Succeeded | [4.3 MB SANTA_2.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SANTA_2.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [sarks](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                                | Succeeded | [sarks_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sarks_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [savR](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405554679)                 | Succeeded | [711.3 kB savR_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/savR_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [SBMLR](https://github.com/almahmoud/gha-build/actions/runs/3767233205)                                | Succeeded | [220.6 kB SBMLR_1.94.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SBMLR_1.94.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
+| [Scale4C](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [Scale4C_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Scale4C_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [ScaledMatrix](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                         | Succeeded | [ScaledMatrix_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ScaledMatrix_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
+| [scanMiR](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [scanMiR_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/scanMiR_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [scatterHatch](https://github.com/almahmoud/gha-build/actions/runs/3767669406/jobs/6405551725)         | Succeeded | [scatterHatch_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/scatterHatch_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [SCBN](https://github.com/almahmoud/gha-build/actions/runs/3767125340/jobs/6404452734)                 | Succeeded | [SCBN_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SCBN_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [scde](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                                 | Succeeded | [4.0 MB scde_2.26.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/scde_2.26.1_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [SCFA](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                                 | Succeeded | [1.5 MB SCFA_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SCFA_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
 | [scFeatureFilter](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405558251)      | Succeeded | [5.8 MB scFeatureFilter_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/scFeatureFilter_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                             |
+| [Sconify](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [Sconify_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Sconify_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [scPCA](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                                | Succeeded | [1.9 MB scPCA_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/scPCA_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [scShapes](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                             | Succeeded | [72.4 kB scShapes_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/scShapes_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [scTHI](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                                | Succeeded | [703.7 kB scTHI_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/scTHI_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
+| [SDAMS](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                                | Succeeded | [896.6 kB SDAMS_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SDAMS_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
+| [sechm](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                                | Succeeded | [sechm_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sechm_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [SELEX](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                                | Succeeded | [SELEX_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SELEX_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [semisup](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404534665)              | Succeeded | [semisup_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/semisup_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [SEPIRA](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404532959)               | Succeeded | [SEPIRA_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SEPIRA_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
@@ -2401,6 +2355,7 @@
 | [seqTools](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404640775)             | Succeeded | [seqTools_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/seqTools_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [sevenbridges](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                         | Succeeded | [6.0 MB sevenbridges_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sevenbridges_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | [SharedObject](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404530418)         | Succeeded | [SharedObject_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SharedObject_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                          |
+| [sigFeature](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                           | Succeeded | [sigFeature_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sigFeature_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [SigFuge](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                              | Succeeded | [SigFuge_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SigFuge_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [siggenes](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                             | Succeeded | [1.0 MB siggenes_1.72.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/siggenes_1.72.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [sigPathway](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404026261)           | Succeeded | [705.4 kB sigPathway_1.66.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sigPathway_1.66.1_R_x86_64-pc-linux-gnu.tar.gz)                                     |
@@ -2409,8 +2364,10 @@
 | [SIMD](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                                 | Succeeded | [SIMD_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SIMD_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [similaRpeak](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404638466)          | Succeeded | [similaRpeak_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/similaRpeak_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [SIMLR](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                                | Succeeded | [4.5 MB SIMLR_1.24.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SIMLR_1.24.1_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
+| [SingleR](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [6.8 MB SingleR_2.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SingleR_2.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [sizepower](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404099582)            | Succeeded | [sizepower_1.68.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sizepower_1.68.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [SLqPCR](https://github.com/almahmoud/gha-build/actions/runs/3767091704/jobs/6404355390)               | Succeeded | [SLqPCR_1.64.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SLqPCR_1.64.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
+| [SMAD](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                                 | Succeeded | [880.8 kB SMAD_1.14.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SMAD_1.14.1_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [SMAP](https://github.com/almahmoud/gha-build/actions/runs/3767091704/jobs/6404353727)                 | Succeeded | [4.7 MB SMAP_1.62.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SMAP_1.62.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [SNAGEE](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404642243)               | Succeeded | [89.5 kB SNAGEE_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SNAGEE_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [snifter](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                              | Succeeded | [snifter_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/snifter_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
@@ -2429,11 +2386,13 @@
 | [spikeLI](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404288503)              | Succeeded | [312.4 kB spikeLI_2.58.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/spikeLI_2.58.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [spkTools](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                             | Succeeded | [spkTools_1.54.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/spkTools_1.54.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [splots](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404536215)               | Succeeded | [splots_1.64.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/splots_1.64.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
+| [SQLDataFrame](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                         | Succeeded | [912.4 kB SQLDataFrame_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SQLDataFrame_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [SQUADD](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404534293)               | Succeeded | [737.1 kB SQUADD_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SQUADD_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [sscore](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405034160)               | Succeeded | [sscore_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sscore_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [sscu](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                                 | Succeeded | [1.4 MB sscu_2.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sscu_2.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [sSeq](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                                 | Succeeded | [sSeq_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sSeq_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [ssize](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                                | Succeeded | [ssize_1.72.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ssize_1.72.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
+| [stageR](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                               | Succeeded | [stageR_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/stageR_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [STATegRa](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405554838)             | Succeeded | [4.7 MB STATegRa_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/STATegRa_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [statTarget](https://github.com/almahmoud/gha-build/actions/runs/3767669406/jobs/6405546059)           | Succeeded | [1.0 MB statTarget_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/statTarget_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | [stepNorm](https://github.com/almahmoud/gha-build/actions/runs/3767355315)                             | Succeeded | [559.8 kB stepNorm_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/stepNorm_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
@@ -2443,6 +2402,7 @@
 | [Structstrings](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                        | Succeeded | [852.3 kB Structstrings_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Structstrings_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                               |
 | [SUITOR](https://github.com/almahmoud/gha-build/actions/runs/3767669406/jobs/6405546120)               | Succeeded | [327.0 kB SUITOR_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SUITOR_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [SummarizedExperiment](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                 | Succeeded | [2.9 MB SummarizedExperiment_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SummarizedExperiment_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                   |
+| [supraHex](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                             | Succeeded | [3.6 MB supraHex_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/supraHex_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [survcomp](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405556329)             | Succeeded | [survcomp_1.48.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/survcomp_1.48.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [SwathXtend](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                           | Succeeded | [SwathXtend_2.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SwathXtend_2.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [swfdr](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404027483)                | Succeeded | [swfdr_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/swfdr_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
@@ -2452,16 +2412,22 @@
 | [target](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                               | Succeeded | [target_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/target_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [TargetScore](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                          | Succeeded | [TargetScore_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/TargetScore_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [TargetSearch](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404639144)         | Succeeded | [1.2 MB TargetSearch_2.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/TargetSearch_2.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
+| [TEQC](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                                 | Succeeded | [669.9 kB TEQC_4.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/TEQC_4.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [ternarynet](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                           | Succeeded | [ternarynet_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ternarynet_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
+| [tidybulk](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                             | Succeeded | [tidybulk_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/tidybulk_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [TileDBArray](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                          | Succeeded | [TileDBArray_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/TileDBArray_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [timecourse](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                           | Succeeded | [timecourse_1.70.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/timecourse_1.70.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
+| [timescape](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                            | Succeeded | [488.3 kB timescape_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/timescape_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | [tkWidgets](https://github.com/almahmoud/gha-build/actions/runs/3767233205)                            | Succeeded | [tkWidgets_1.76.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/tkWidgets_1.76.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [TMixClust](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                            | Succeeded | [745.8 kB TMixClust_1.20.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/TMixClust_1.20.0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | [topconfects](https://github.com/almahmoud/gha-build/actions/runs/3767669406/jobs/6405545935)          | Succeeded | [topconfects_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/topconfects_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
+| [TPP2D](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                                | Succeeded | [1.9 MB TPP2D_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/TPP2D_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
+| [transite](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                             | Succeeded | [transite_1.16.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/transite_1.16.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [TransView](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                            | Succeeded | [TransView_1.42.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/TransView_1.42.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [TreeAndLeaf](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                          | Succeeded | [TreeAndLeaf_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/TreeAndLeaf_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [trio](https://github.com/almahmoud/gha-build/actions/runs/3767669406/jobs/6405549890)                 | Succeeded | [trio_3.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/trio_3.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [triplex](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                              | Succeeded | [triplex_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/triplex_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
+| [tRNA](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                                 | Succeeded | [1.4 MB tRNA_1.16.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/tRNA_1.16.1_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [TRONCO](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                               | Succeeded | [1.4 MB TRONCO_2.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/TRONCO_2.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [TurboNorm](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405047382)            | Succeeded | [TurboNorm_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/TurboNorm_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [tweeDEseq](https://github.com/almahmoud/gha-build/actions/runs/3767621459)                            | Succeeded | [tweeDEseq_1.44.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/tweeDEseq_1.44.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
@@ -2541,6 +2507,7 @@
 | [reshape2](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                             | Succeeded | [reshape2_1.4.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/reshape2_1.4.4_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [VennDiagram](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405049031)          | Succeeded | [VennDiagram_1.7.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/VennDiagram_1.7.3_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [plyr](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404571372)                 | Succeeded | [plyr_1.8.8_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/plyr_1.8.8_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
+| [flexdashboard](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                        | Succeeded | [358.2 kB flexdashboard_0.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/flexdashboard_0.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [gridExtra](https://github.com/almahmoud/gha-build/actions/runs/3767213834)                            | Succeeded | [gridExtra_2.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/gridExtra_2.3_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [rmarkdown](https://github.com/almahmoud/gha-build/actions/runs/3767621459)                            | Succeeded | [3.7 MB rmarkdown_2.19_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rmarkdown_2.19_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [knitr](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                                | Succeeded | [knitr_1.41_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/knitr_1.41_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
@@ -2627,6 +2594,7 @@
 | [zoo](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404532562)                  | Succeeded | [zoo_1.8-11_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/zoo_1.8-11_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
 | [sandwich](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                             | Succeeded | [sandwich_3.0-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sandwich_3.0-2_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [pbapply](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                              | Succeeded | [79.1 kB pbapply_1.6-0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/pbapply_1.6-0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
+| [DT](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                   | Succeeded | [1.6 MB DT_0.26_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DT_0.26_R_x86_64-pc-linux-gnu.tar.gz)                                                           |
 | [varhandle](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404285977)            | Succeeded | [67.1 kB varhandle_2.0.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/varhandle_2.0.5_R_x86_64-pc-linux-gnu.tar.gz)                                          |
 | [ggrepel](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                              | Succeeded | [ggrepel_0.9.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggrepel_0.9.2_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [ggsignif](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405557475)             | Succeeded | [609.4 kB ggsignif_0.6.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggsignif_0.6.4_R_x86_64-pc-linux-gnu.tar.gz)                                           |
@@ -2702,6 +2670,7 @@
 | [latticeExtra](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                         | Succeeded | [latticeExtra_0.6-30_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/latticeExtra_0.6-30_R_x86_64-pc-linux-gnu.tar.gz)                                          |
 | [rpart](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404100879)                | Succeeded | [rpart_4.1.19_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rpart_4.1.19_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [foreign](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404269226)              | Succeeded | [foreign_0.8-84_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/foreign_0.8-84_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
+| [htmlTable](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                            | Succeeded | [htmlTable_2.4.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/htmlTable_2.4.1_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [viridis](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                              | Succeeded | [3.0 MB viridis_0.6.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/viridis_0.6.2_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [restfulr](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405047996)             | Succeeded | [349.2 kB restfulr_0.0.15_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/restfulr_0.0.15_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [rstudioapi](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404282916)           | Succeeded | [rstudioapi_0.14_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rstudioapi_0.14_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
@@ -2786,6 +2755,7 @@
 | [extrafontdb](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404029230)          | Succeeded | [extrafontdb_1.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/extrafontdb_1.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [Rttf2pt1](https://github.com/almahmoud/gha-build/actions/runs/3766964070/jobs/6404032636)             | Succeeded | [Rttf2pt1_1.3.11_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Rttf2pt1_1.3.11_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [CVXR](https://github.com/almahmoud/gha-build/actions/runs/3767391380)                                 | Succeeded | [CVXR_1.0-11_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CVXR_1.0-11_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
+| [DescTools](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                            | Succeeded | [DescTools_0.99.47_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DescTools_0.99.47_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [Rdpack](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404638998)               | Succeeded | [956.9 kB Rdpack_2.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Rdpack_2.4_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [emmeans](https://github.com/almahmoud/gha-build/actions/runs/3767355315)                              | Succeeded | [2.1 MB emmeans_1.8.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/emmeans_1.8.3_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [energy](https://github.com/almahmoud/gha-build/actions/runs/3767252386)                               | Succeeded | [energy_1.7-10_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/energy_1.7-10_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
@@ -2906,6 +2876,7 @@
 | [Rlab](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404025193)                 | Succeeded | [Rlab_4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Rlab_4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                                |
 | [plot3D](https://github.com/almahmoud/gha-build/actions/runs/3767252386)                               | Succeeded | [2.8 MB plot3D_1.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/plot3D_1.4_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
 | [misc3d](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404104457)               | Succeeded | [236.7 kB misc3d_0.9-1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/misc3d_0.9-1_R_x86_64-pc-linux-gnu.tar.gz)                                               |
+| [msigdbr](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                              | Succeeded | [6.1 MB msigdbr_7.5.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/msigdbr_7.5.1_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [JASPAR2016](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                           | Succeeded | [JASPAR2016_1.26.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/JASPAR2016_1.26.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [nabor](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405033581)                | Succeeded | [168.5 kB nabor_0.5.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/nabor_0.5.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [babelgene](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405557225)            | Succeeded | [babelgene_22.9_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/babelgene_22.9_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
@@ -2949,6 +2920,7 @@
 | [sfsmisc](https://github.com/almahmoud/gha-build/actions/runs/3767125340/jobs/6404454106)              | Succeeded | [651.3 kB sfsmisc_1.1-14_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sfsmisc_1.1-14_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [ggvis](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405554993)                | Succeeded | [1.1 MB ggvis_0.4.7_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggvis_0.4.7_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [gbm](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                                  | Succeeded | [1.2 MB gbm_2.1.8.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/gbm_2.1.8.1_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
+| [threejs](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [942.7 kB threejs_0.3.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/threejs_0.3.3_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [mlbench](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404027767)              | Succeeded | [mlbench_2.1-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/mlbench_2.1-3_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [rstan](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                                | Succeeded | [12.3 MB rstan_2.21.7_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rstan_2.21.7_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [StanHeaders](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405045507)          | Succeeded | [StanHeaders_2.21.0-7_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/StanHeaders_2.21.0-7_R_x86_64-pc-linux-gnu.tar.gz)                                        |
@@ -3023,8 +2995,10 @@
 | [writexl](https://github.com/almahmoud/gha-build/actions/runs/3766964070/jobs/6404033252)              | Succeeded | [writexl_1.4.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/writexl_1.4.1_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [shinyFiles](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405552902)           | Succeeded | [shinyFiles_0.9.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/shinyFiles_0.9.3_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [randomizr](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404029464)            | Succeeded | [randomizr_0.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/randomizr_0.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
+| [aplot](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                | Succeeded | [aplot_0.1.9_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/aplot_0.1.9_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [ggnewscale](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                           | Succeeded | [ggnewscale_0.4.8_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggnewscale_0.4.8_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [shadowtext](https://github.com/almahmoud/gha-build/actions/runs/3767669406/jobs/6405547793)           | Succeeded | [shadowtext_0.1.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/shadowtext_0.1.2_R_x86_64-pc-linux-gnu.tar.gz)                                                |
+| [tidygraph](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                            | Succeeded | [627.7 kB tidygraph_1.2.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/tidygraph_1.2.2_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [graphlayouts](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405044652)         | Succeeded | [2.6 MB graphlayouts_0.8.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/graphlayouts_0.8.4_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [infotheo](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                             | Succeeded | [infotheo_1.2.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/infotheo_1.2.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [mnormt](https://github.com/almahmoud/gha-build/actions/runs/3766964070/jobs/6404035162)               | Succeeded | [mnormt_2.1.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/mnormt_2.1.1_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
@@ -3220,6 +3194,7 @@
 | [bigmemory.sri](https://github.com/almahmoud/gha-build/actions/runs/3767125340/jobs/6404453302)        | Succeeded | [bigmemory.sri_0.1.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/bigmemory.sri_0.1.6_R_x86_64-pc-linux-gnu.tar.gz)                                          |
 | [shinyhelper](https://github.com/almahmoud/gha-build/actions/runs/3767669406/jobs/6405550370)          | Succeeded | [shinyhelper_0.3.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/shinyhelper_0.3.2_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [shinyWidgets](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                         | Succeeded | [shinyWidgets_0.7.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/shinyWidgets_0.7.5_R_x86_64-pc-linux-gnu.tar.gz)                                            |
+| [gggenes](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                              | Succeeded | [gggenes_0.4.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/gggenes_0.4.1_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [rlist](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                                | Succeeded | [rlist_0.4.6.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rlist_0.4.6.2_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [coop](https://github.com/almahmoud/gha-build/actions/runs/3766999283)                                 | Succeeded | [coop_0.6-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/coop_0.6-3_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
 | [matrixTests](https://github.com/almahmoud/gha-build/actions/runs/3767213834)                          | Succeeded | [matrixTests_0.1.9.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/matrixTests_0.1.9.1_R_x86_64-pc-linux-gnu.tar.gz)                                          |
@@ -3245,6 +3220,7 @@
 | [locfdr](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                               | Succeeded | [306.1 kB locfdr_1.1-8_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/locfdr_1.1-8_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [ClusterR](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                             | Succeeded | [ClusterR_1.2.9_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ClusterR_1.2.9_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [rncl](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                                 | Succeeded | [11.0 MB rncl_0.8.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rncl_0.8.6_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
+| [RNeXML](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                               | Succeeded | [803.8 kB RNeXML_2.4.9_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RNeXML_2.4.9_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [benchmarkmeData](https://github.com/almahmoud/gha-build/actions/runs/3767732923/jobs/6405640858)      | Succeeded | [284.5 kB benchmarkmeData_1.0.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/benchmarkmeData_1.0.4_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | [princurve](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404643038)            | Succeeded | [544.0 kB princurve_2.1.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/princurve_2.1.6_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [entropy](https://github.com/almahmoud/gha-build/actions/runs/3767069794)                              | Succeeded | [entropy_1.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/entropy_1.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
@@ -3274,6 +3250,7 @@
 | [feature](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                              | Succeeded | [273.7 kB feature_1.2.15_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/feature_1.2.15_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [ks](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405031672)                   | Succeeded | [1.9 MB ks_1.14.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ks_1.14.0_R_x86_64-pc-linux-gnu.tar.gz)                                                       |
 | [multicool](https://github.com/almahmoud/gha-build/actions/runs/3767233205)                            | Succeeded | [multicool_0.1-12_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/multicool_0.1-12_R_x86_64-pc-linux-gnu.tar.gz)                                                |
+| [airway](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                               | Succeeded | [airway_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/airway_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [iC10](https://github.com/almahmoud/gha-build/actions/runs/3767598658)                                 | Succeeded | [76.5 kB iC10_1.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/iC10_1.5_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [iC10TrainingData](https://github.com/almahmoud/gha-build/actions/runs/3766964070/jobs/6404034587)     | Succeeded | [6.3 MB iC10TrainingData_1.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/iC10TrainingData_1.3.1_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | [survivalROC](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404268779)          | Succeeded | [survivalROC_1.0.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/survivalROC_1.0.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                          |
@@ -3294,6 +3271,7 @@
 | [bayesm](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                               | Succeeded | [3.2 MB bayesm_3.1-5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/bayesm_3.1-5_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [bcellViper](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                           | Succeeded | [bcellViper_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/bcellViper_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [randtests](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404026869)            | Succeeded | [randtests_1.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/randtests_1.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
+| [keras](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                | Succeeded | [keras_2.11.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/keras_2.11.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [mltools](https://github.com/almahmoud/gha-build/actions/runs/3767381179)                              | Succeeded | [mltools_0.3.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/mltools_0.3.5_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [tensorflow](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                           | Succeeded | [201.9 kB tensorflow_2.11.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/tensorflow_2.11.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [tfruns](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                               | Succeeded | [tfruns_1.5.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/tfruns_1.5.1_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
@@ -3343,11 +3321,13 @@
 | [sn](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                                   | Succeeded | [1.8 MB sn_2.1.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sn_2.1.0_R_x86_64-pc-linux-gnu.tar.gz)                                                         |
 | [DMwR2](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                                | Succeeded | [3.2 MB DMwR2_0.0.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DMwR2_0.0.2_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [ggseqlogo](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405552983)            | Succeeded | [778.4 kB ggseqlogo_0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggseqlogo_0.1_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| [diffr](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                | Succeeded | [diffr_0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/diffr_0.1_R_x86_64-pc-linux-gnu.tar.gz)                                                              |
 | [settings](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404103273)             | Succeeded | [60.6 kB settings_0.2.7_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/settings_0.2.7_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [filehash](https://github.com/almahmoud/gha-build/actions/runs/3766999283)                             | Succeeded | [filehash_2.4-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/filehash_2.4-3_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [CatEncoders](https://github.com/almahmoud/gha-build/actions/runs/3767355315)                          | Succeeded | [CatEncoders_0.1.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/CatEncoders_0.1.1_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [matlab](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404101238)               | Succeeded | [170.5 kB matlab_1.0.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/matlab_1.0.4_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [rcdk](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                                 | Succeeded | [518.2 kB rcdk_3.7.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rcdk_3.7.0_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
+| [webchem](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [361.1 kB webchem_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/webchem_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [PRROC](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404099928)                | Succeeded | [380.6 kB PRROC_1.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/PRROC_1.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [rcdklibs](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404572127)             | Succeeded | [23.3 MB rcdklibs_2.8_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rcdklibs_2.8_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [fingerprint](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404272938)          | Succeeded | [fingerprint_3.5.7_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/fingerprint_3.5.7_R_x86_64-pc-linux-gnu.tar.gz)                                              |
@@ -3362,6 +3342,7 @@
 | [textshape](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404639740)            | Succeeded | [532.2 kB textshape_1.7.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/textshape_1.7.3_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [sylly](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404272738)                | Succeeded | [262.2 kB sylly_0.1-6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sylly_0.1-6_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [sylly.en](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404530870)             | Succeeded | [274.0 kB sylly.en_0.1-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/sylly.en_0.1-3_R_x86_64-pc-linux-gnu.tar.gz)                                           |
+| [syuzhet](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [syuzhet_1.0.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/syuzhet_1.0.6_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [MatrixExtra](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                          | Succeeded | [MatrixExtra_0.1.13_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MatrixExtra_0.1.13_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [float](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404104025)                | Succeeded | [float_0.3-0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/float_0.3-0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [english](https://github.com/almahmoud/gha-build/actions/runs/3767069794)                              | Succeeded | [english_1.2-6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/english_1.2-6_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
@@ -3381,6 +3362,7 @@
 | [ggplot.multistats](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                    | Succeeded | [ggplot.multistats_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggplot.multistats_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                  |
 | [knn.covertree](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405034328)        | Succeeded | [knn.covertree_1.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/knn.covertree_1.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [laeken](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404530530)               | Succeeded | [3.1 MB laeken_0.5.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/laeken_0.5.2_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
+| [NBPSeq](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                               | Succeeded | [NBPSeq_0.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/NBPSeq_0.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [blockmodeling](https://github.com/almahmoud/gha-build/actions/runs/3767355315)                        | Succeeded | [427.9 kB blockmodeling_1.1.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/blockmodeling_1.1.4_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [DExMAdata](https://github.com/almahmoud/gha-build/actions/runs/3767355315)                            | Succeeded | [DExMAdata_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DExMAdata_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [swamp](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405044722)                | Succeeded | [124.4 kB swamp_1.5.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/swamp_1.5.1_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
@@ -3419,22 +3401,26 @@
 | [pbivnorm](https://github.com/almahmoud/gha-build/actions/runs/3766964070/jobs/6404034326)             | Succeeded | [26.1 kB pbivnorm_0.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/pbivnorm_0.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [RNOmni](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                               | Succeeded | [213.8 kB RNOmni_1.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RNOmni_1.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [HGNChelper](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404029592)           | Succeeded | [HGNChelper_0.8.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/HGNChelper_0.8.1_R_x86_64-pc-linux-gnu.tar.gz)                                                |
+| [homologene](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                           | Succeeded | [3.8 MB homologene_1.4.68.19.3.27_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/homologene_1.4.68.19.3.27_R_x86_64-pc-linux-gnu.tar.gz)                       |
 | [grr](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                                  | Succeeded | [grr_0.9.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/grr_0.9.5_R_x86_64-pc-linux-gnu.tar.gz)                                                              |
 | [ComplexUpset](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                         | Succeeded | [ComplexUpset_1.3.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ComplexUpset_1.3.3_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [ggside](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                               | Succeeded | [2.9 MB ggside_0.2.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggside_0.2.2_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [kinship2](https://github.com/almahmoud/gha-build/actions/runs/3767621459)                             | Succeeded | [525.2 kB kinship2_1.9.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/kinship2_1.9.6_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [gap.datasets](https://github.com/almahmoud/gha-build/actions/runs/3766964070/jobs/6404035098)         | Succeeded | [3.6 MB gap.datasets_0.0.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/gap.datasets_0.0.5_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [yeastCC](https://github.com/almahmoud/gha-build/actions/runs/3767381179)                              | Succeeded | [4.3 MB yeastCC_1.38.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/yeastCC_1.38.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| [rainbow](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [rainbow_3.7_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rainbow_3.7_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [hdrcde](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                               | Succeeded | [218.7 kB hdrcde_3.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/hdrcde_3.4_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [ash](https://github.com/almahmoud/gha-build/actions/runs/3766964070)                                  | Succeeded | [ash_1.0-15_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ash_1.0-15_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
 | [lars](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                                 | Succeeded | [lars_1.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/lars_1.3_R_x86_64-pc-linux-gnu.tar.gz)                                                                |
 | [gcspikelite](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404027981)          | Succeeded | [gcspikelite_1.36.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/gcspikelite_1.36.0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [effsize](https://github.com/almahmoud/gha-build/actions/runs/3766959387)                              | Succeeded | [62.1 kB effsize_0.8.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/effsize_0.8.1_R_x86_64-pc-linux-gnu.tar.gz)                                              |
+| [ggiraph](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                              | Succeeded | [1.3 MB ggiraph_0.8.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggiraph_0.8.5_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [clisymbols](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404024684)           | Succeeded | [clisymbols_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/clisymbols_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [RecordLinkage](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                        | Succeeded | [1.0 MB RecordLinkage_0.4-12.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RecordLinkage_0.4-12.4_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | [ada](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404567288)                  | Succeeded | [ada_2.0-5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ada_2.0-5_R_x86_64-pc-linux-gnu.tar.gz)                                                              |
 | [BBmisc](https://github.com/almahmoud/gha-build/actions/runs/3767381179)                               | Succeeded | [304.1 kB BBmisc_1.13_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/BBmisc_1.13_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [extraDistr](https://github.com/almahmoud/gha-build/actions/runs/3767173530)                           | Succeeded | [9.1 MB extraDistr_1.9.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/extraDistr_1.9.1_R_x86_64-pc-linux-gnu.tar.gz)                                         |
+| [FCPS](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                                 | Succeeded | [4.2 MB FCPS_1.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/FCPS_1.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                                     |
 | [analogue](https://github.com/almahmoud/gha-build/actions/runs/3767550506)                             | Succeeded | [analogue_0.17-6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/analogue_0.17-6_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [DataVisualizations](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405556000)   | Succeeded | [DataVisualizations_1.2.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DataVisualizations_1.2.3_R_x86_64-pc-linux-gnu.tar.gz)                                |
 | [RobustRankAggreg](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404104814)     | Succeeded | [RobustRankAggreg_1.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RobustRankAggreg_1.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                    |
@@ -3496,7 +3482,9 @@
 | [aws.s3](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                               | Succeeded | [191.5 kB aws.s3_0.3.21_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/aws.s3_0.3.21_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [yesno](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404029841)                | Succeeded | [yesno_0.1.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/yesno_0.1.2_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [aws.signature](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                        | Succeeded | [aws.signature_0.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/aws.signature_0.6.0_R_x86_64-pc-linux-gnu.tar.gz)                                          |
+| [reactable](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                            | Succeeded | [reactable_0.4.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/reactable_0.4.1_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [reactR](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405032458)               | Succeeded | [reactR_0.4.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/reactR_0.4.4_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
+| [biclust](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                              | Succeeded | [1.3 MB biclust_2.0.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/biclust_2.0.3_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [additivityTests](https://github.com/almahmoud/gha-build/actions/runs/3767125340/jobs/6404453004)      | Succeeded | [additivityTests_1.1-4.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/additivityTests_1.1-4.1_R_x86_64-pc-linux-gnu.tar.gz)                                  |
 | [simpIntLists](https://github.com/almahmoud/gha-build/actions/runs/3766964070/jobs/6404032452)         | Succeeded | [simpIntLists_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/simpIntLists_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                          |
 | [LiblineaR](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404268225)            | Succeeded | [LiblineaR_2.10-22_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/LiblineaR_2.10-22_R_x86_64-pc-linux-gnu.tar.gz)                                              |
@@ -3562,6 +3550,7 @@
 | [mCSEAdata](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404024844)            | Succeeded | [mCSEAdata_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/mCSEAdata_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [svDialogs](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404641730)            | Succeeded | [svDialogs_1.1.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/svDialogs_1.1.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [svGUI](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404284399)                | Succeeded | [svGUI_1.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/svGUI_1.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
+| [rmdformats](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                           | Succeeded | [rmdformats_1.0.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rmdformats_1.0.4_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [wheatmap](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404568147)             | Succeeded | [wheatmap_0.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/wheatmap_0.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [PerformanceAnalytics](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                 | Succeeded | [PerformanceAnalytics_2.0.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/PerformanceAnalytics_2.0.4_R_x86_64-pc-linux-gnu.tar.gz)                            |
 | [rebus](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405048780)                | Succeeded | [115.5 kB rebus_0.1-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rebus_0.1-3_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
@@ -3576,6 +3565,7 @@
 | [MCMCglmm](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405030668)             | Succeeded | [MCMCglmm_2.34_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MCMCglmm_2.34_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [shinycustomloader](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405558722)    | Succeeded | [shinycustomloader_0.9.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/shinycustomloader_0.9.0_R_x86_64-pc-linux-gnu.tar.gz)                                  |
 | [ggstar](https://github.com/almahmoud/gha-build/actions/runs/3767729336)                               | Succeeded | [ggstar_1.0.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggstar_1.0.4_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
+| [formattable](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                          | Succeeded | [167.6 kB formattable_0.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/formattable_0.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [qdapTools](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                            | Succeeded | [qdapTools_1.3.5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/qdapTools_1.3.5_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [ismev](https://github.com/almahmoud/gha-build/actions/runs/3767391380)                                | Succeeded | [260.1 kB ismev_1.42_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ismev_1.42_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [miRcompData](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404099297)          | Succeeded | [9.1 MB miRcompData_1.28.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/miRcompData_1.28.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
@@ -3612,6 +3602,7 @@
 | [googleAuthR](https://github.com/almahmoud/gha-build/actions/runs/3767621459)                          | Succeeded | [387.9 kB googleAuthR_2.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/googleAuthR_2.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [aod](https://github.com/almahmoud/gha-build/actions/runs/3767091704/jobs/6404357329)                  | Succeeded | [aod_1.3.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/aod_1.3.2_R_x86_64-pc-linux-gnu.tar.gz)                                                              |
 | [philentropy](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404536474)          | Succeeded | [327.5 kB philentropy_0.7.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/philentropy_0.7.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
+| [shinyjqui](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                            | Succeeded | [644.9 kB shinyjqui_0.4.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/shinyjqui_0.4.1_R_x86_64-pc-linux-gnu.tar.gz)                                         |
 | [poorman](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404268279)              | Succeeded | [372.2 kB poorman_0.2.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/poorman_0.2.6_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [grImport](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404532148)             | Succeeded | [grImport_0.9-5_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/grImport_0.9-5_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [scico](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405045787)                | Succeeded | [scico_1.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/scico_1.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
@@ -3639,6 +3630,7 @@
 | [paintmap](https://github.com/almahmoud/gha-build/actions/runs/3766964070/jobs/6404033702)             | Succeeded | [paintmap_1.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/paintmap_1.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [distrEx](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405031369)              | Succeeded | [3.0 MB distrEx_2.9.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/distrEx_2.9.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [uniqtag](https://github.com/almahmoud/gha-build/actions/runs/3767091704/jobs/6404354497)              | Succeeded | [uniqtag_1.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/uniqtag_1.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
+| [summarytools](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                         | Succeeded | [summarytools_1.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/summarytools_1.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                            |
 | [optimalFlowData](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404283749)      | Succeeded | [optimalFlowData_1.10.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/optimalFlowData_1.10.0_R_x86_64-pc-linux-gnu.tar.gz)                                    |
 | [Peptides](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404571213)             | Succeeded | [Peptides_2.4.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Peptides_2.4.4_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [mRMRe](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                                | Succeeded | [mRMRe_2.1.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/mRMRe_2.1.2_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
@@ -3684,7 +3676,9 @@
 | [strawr](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404642850)               | Succeeded | [strawr_0.0.9_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/strawr_0.0.9_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [logspline](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404024285)            | Succeeded | [logspline_2.1.19_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/logspline_2.1.19_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [evmix](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404642049)                | Succeeded | [evmix_2.12_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/evmix_2.12_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
+| [ggdist](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                               | Succeeded | [ggdist_3.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggdist_3.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [arrayhelpers](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404569420)         | Succeeded | [arrayhelpers_1.1-0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/arrayhelpers_1.1-0_R_x86_64-pc-linux-gnu.tar.gz)                                            |
+| [posterior](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                            | Succeeded | [posterior_1.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/posterior_1.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [svUnit](https://github.com/almahmoud/gha-build/actions/runs/3766964070/jobs/6404036476)               | Succeeded | [svUnit_1.0.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/svUnit_1.0.6_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [HDInterval](https://github.com/almahmoud/gha-build/actions/runs/3766964070)                           | Succeeded | [HDInterval_0.2.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/HDInterval_0.2.4_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [distributional](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405555053)       | Succeeded | [distributional_0.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/distributional_0.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                        |
@@ -3719,6 +3713,7 @@
 | [RITANdata](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404105788)            | Succeeded | [RITANdata_1.22.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RITANdata_1.22.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [ggprism](https://github.com/almahmoud/gha-build/actions/runs/3767732923)                              | Succeeded | [2.9 MB ggprism_1.0.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ggprism_1.0.4_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [readJDX](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                              | Succeeded | [979.7 kB readJDX_0.6.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/readJDX_0.6.1_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| [TBX20BamSubset](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                       | Succeeded | [TBX20BamSubset_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/TBX20BamSubset_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                      |
 | [rafalib](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404639416)              | Succeeded | [54.5 kB rafalib_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rafalib_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                              |
 | [systemPipeRdata](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                      | Succeeded | [271.0 MB systemPipeRdata_2.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/systemPipeRdata_2.2.0_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | [RnaSeqSampleSizeData](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                 | Succeeded | [RnaSeqSampleSizeData_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RnaSeqSampleSizeData_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                          |
@@ -3730,6 +3725,8 @@
 | [RUVnormalizeData](https://github.com/almahmoud/gha-build/actions/runs/3767347055)                     | Succeeded | [RUVnormalizeData_1.18.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RUVnormalizeData_1.18.0_R_x86_64-pc-linux-gnu.tar.gz)                                  |
 | [GENLIB](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                               | Succeeded | [1.1 MB GENLIB_1.1.8_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/GENLIB_1.1.8_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [SPAtest](https://github.com/almahmoud/gha-build/actions/runs/3767125340/jobs/6404455004)              | Succeeded | [118.0 kB SPAtest_3.1.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SPAtest_3.1.2_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| [excelR](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                               | Succeeded | [526.8 kB excelR_0.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/excelR_0.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
+| [SBGNview.data](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                        | Succeeded | [69.1 MB SBGNview.data_1.12.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/SBGNview.data_1.12.0_R_x86_64-pc-linux-gnu.tar.gz)                                |
 | [smoothie](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404023542)             | Succeeded | [smoothie_1.0-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/smoothie_1.0-3_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [splines2](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                             | Succeeded | [splines2_0.4.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/splines2_0.4.6_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [copula](https://github.com/almahmoud/gha-build/actions/runs/3767355315)                               | Succeeded | [6.0 MB copula_1.1-1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/copula_1.1-1_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
@@ -3755,6 +3752,7 @@
 | [adehabitatLT](https://github.com/almahmoud/gha-build/actions/runs/3767466645)                         | Succeeded | [2.4 MB adehabitatLT_0.3.26_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/adehabitatLT_0.3.26_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | [seqCNA.annot](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404287950)         | Succeeded | [seqCNA.annot_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/seqCNA.annot_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                          |
 | [adehabitatMA](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                         | Succeeded | [adehabitatMA_0.3.15_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/adehabitatMA_0.3.15_R_x86_64-pc-linux-gnu.tar.gz)                                          |
+| [rbokeh](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                               | Succeeded | [1.3 MB rbokeh_0.5.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rbokeh_0.5.2_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [gistr](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                                | Succeeded | [gistr_0.9.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/gistr_0.9.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [objectProperties](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404566398)     | Succeeded | [286.0 kB objectProperties_0.6.8_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/objectProperties_0.6.8_R_x86_64-pc-linux-gnu.tar.gz)                           |
 | [objectSignals](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404104681)        | Succeeded | [objectSignals_0.10.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/objectSignals_0.10.3_R_x86_64-pc-linux-gnu.tar.gz)                                        |
@@ -3767,6 +3765,7 @@
 | [palmerpenguins](https://github.com/almahmoud/gha-build/actions/runs/3767125340/jobs/6404454022)       | Succeeded | [3.0 MB palmerpenguins_0.1.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/palmerpenguins_0.1.1_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [bbotk](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                                | Succeeded | [831.6 kB bbotk_0.7.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/bbotk_0.7.2_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [DGEobj.utils](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                         | Succeeded | [191.7 kB DGEobj.utils_1.0.6_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DGEobj.utils_1.0.6_R_x86_64-pc-linux-gnu.tar.gz)                                   |
+| [openair](https://github.com/almahmoud/gha-build/actions/runs/3767779750)                              | Succeeded | [openair_2.12_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/openair_2.12_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [DGEobj](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                               | Succeeded | [DGEobj_1.1.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/DGEobj_1.1.2_R_x86_64-pc-linux-gnu.tar.gz)                                                        |
 | [VAM](https://github.com/almahmoud/gha-build/actions/runs/3767355315)                                  | Succeeded | [VAM_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/VAM_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                              |
 | [mixsmsn](https://github.com/almahmoud/gha-build/actions/runs/3767233205/jobs/6404641112)              | Succeeded | [mixsmsn_1.1-10_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/mixsmsn_1.1-10_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
@@ -3793,6 +3792,7 @@
 | [mclustcomp](https://github.com/almahmoud/gha-build/actions/runs/3767309222)                           | Succeeded | [mclustcomp_0.3.3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/mclustcomp_0.3.3_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [MLmetrics](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                            | Succeeded | [MLmetrics_1.1.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MLmetrics_1.1.1_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [liger](https://github.com/almahmoud/gha-build/actions/runs/3767355315)                                | Succeeded | [5.2 MB liger_2.0.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/liger_2.0.1_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
+| [rsample](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                              | Succeeded | [501.3 kB rsample_1.1.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rsample_1.1.1_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [slider](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405029355)               | Succeeded | [296.8 kB slider_0.3.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/slider_0.3.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [warp](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404029741)                 | Succeeded | [warp_0.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/warp_0.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                            |
 | [clustvarsel](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                          | Succeeded | [506.7 kB clustvarsel_2.3.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/clustvarsel_2.3.4_R_x86_64-pc-linux-gnu.tar.gz)                                     |
