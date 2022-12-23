@@ -5037,7 +5037,6 @@
         "ssrch"
     ],
     "hypeR": [
-        "reactable",
         "visNetwork"
     ],
     "iasva": [],
@@ -5348,7 +5347,6 @@
     "ISAnalytics": [
         "datamods",
         "haven",
-        "reactable",
         "rio",
         "shinybusy"
     ],
@@ -12610,7 +12608,6 @@
         "interactiveDisplayBase"
     ],
     "available": [],
-    "reactable": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -12621,7 +12618,6 @@
     "wordcloud2": [],
     "datamods": [
         "haven",
-        "reactable",
         "rio",
         "shinybusy"
     ],
