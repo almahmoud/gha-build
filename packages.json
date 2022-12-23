@@ -3388,7 +3388,6 @@
         "openssl",
         "pillar",
         "purrr",
-        "rjags",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -9593,7 +9592,6 @@
         "progress",
         "purrr",
         "restfulr",
-        "rjags",
         "rtracklayer",
         "stringr",
         "tibble",
@@ -23393,7 +23391,6 @@
         "progress",
         "purrr",
         "restfulr",
-        "rjags",
         "rtracklayer",
         "stringr",
         "tibble",
@@ -24535,7 +24532,6 @@
         "purrr",
         "reshape2",
         "reticulate",
-        "rjags",
         "rmarkdown",
         "sass",
         "scattermore",
@@ -27152,7 +27148,6 @@
         "progress",
         "purrr",
         "restfulr",
-        "rjags",
         "rtracklayer",
         "stringr",
         "tibble",
@@ -47641,7 +47636,6 @@
         "progress",
         "purrr",
         "restfulr",
-        "rjags",
         "rtracklayer",
         "stringr",
         "tibble",
@@ -59091,7 +59085,6 @@
     ],
     "RcppDist": [],
     "maxLik": [],
-    "rjags": [],
     "corncob": [
         "Biostrings",
         "GenomeInfoDb",
@@ -62367,9 +62360,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "R2jags": [
-        "rjags"
-    ],
+    "R2jags": [],
     "servr": [
         "httpuv"
     ],
