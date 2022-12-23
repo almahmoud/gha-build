@@ -2712,7 +2712,6 @@
     ],
     "coexnet": [
         "GEOquery",
-        "STRINGdb",
         "tidyr",
         "vsn"
     ],
@@ -6461,7 +6460,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "PPInfer",
-        "STRINGdb",
         "biomaRt",
         "cowplot",
         "dbplyr",
@@ -6989,9 +6987,7 @@
         "tidyr",
         "viridis"
     ],
-    "IMMAN": [
-        "STRINGdb"
-    ],
+    "IMMAN": [],
     "ImmuneSpaceR": [
         "dendextend",
         "heatmaply",
@@ -10125,7 +10121,6 @@
         "GSEABase",
         "GenomicAlignments",
         "GenomicFeatures",
-        "STRINGdb",
         "annotate",
         "biomaRt",
         "bumphunter",
@@ -11257,7 +11252,6 @@
     "PPInfer": [
         "AnnotationDbi",
         "BiocFileCache",
-        "STRINGdb",
         "biomaRt",
         "cowplot",
         "dbplyr",
@@ -11707,7 +11701,6 @@
         "AnnotationHub",
         "BiocFileCache",
         "DT",
-        "STRINGdb",
         "biomaRt",
         "dbplyr",
         "htmlwidgets",
@@ -12525,7 +12518,6 @@
         "GO.db",
         "GenomicAlignments",
         "GenomicFeatures",
-        "STRINGdb",
         "biomaRt",
         "dbplyr",
         "ensembldb",
@@ -14782,7 +14774,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "STRINGdb": [],
     "struct": [],
     "structToolbox": [
         "ggthemes",
@@ -16208,9 +16199,7 @@
         "tidyr",
         "visNetwork"
     ],
-    "XINA": [
-        "STRINGdb"
-    ],
+    "XINA": [],
     "XNAString": [
         "BSgenome",
         "GenomicAlignments",
