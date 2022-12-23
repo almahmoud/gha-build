@@ -603,7 +603,6 @@
     ],
     "bnem": [
         "affy",
-        "epiNEM",
         "genefilter",
         "sva",
         "vsn"
@@ -1563,7 +1562,6 @@
         "rstatix"
     ],
     "dce": [
-        "epiNEM",
         "ggraph",
         "viridis"
     ],
@@ -2101,7 +2099,6 @@
         "rhdf5",
         "viridis"
     ],
-    "epiNEM": [],
     "epistasisGA": [
         "Hmisc",
         "qgraph",
@@ -4293,9 +4290,7 @@
     "Nebulosa": [
         "Seurat"
     ],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "NetActivity": [
         "DESeq2",
         "geneplotter"
