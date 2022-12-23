@@ -3847,11 +3847,9 @@
         "ggtree",
         "heatmaply",
         "meshr",
-        "nnTensor",
         "schex"
     ],
     "scTGIF": [
-        "nnTensor",
         "schex"
     ],
     "scTreeViz": [
@@ -4999,7 +4997,6 @@
         "ExperimentHub"
     ],
     "Rmagic": [],
-    "nnTensor": [],
     "survivalAnalysis": [
         "car",
         "ggpubr",
