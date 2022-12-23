@@ -165,7 +165,6 @@
         "CoGAPS",
         "Homo.sapiens",
         "Mus.musculus",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "chromVAR",
         "motifmatchr",
         "projectR",
@@ -1229,7 +1228,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "VariantAnnotation",
         "biovizBase",
         "minfi",
@@ -2528,7 +2526,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "FactoMineR",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "VariantAnnotation",
         "car",
         "decompTumor2Sig",
@@ -2584,9 +2581,7 @@
         "vsn",
         "xcms"
     ],
-    "nearBynding": [
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
-    ],
+    "nearBynding": [],
     "Nebulosa": [
         "Seurat"
     ],
@@ -2885,7 +2880,6 @@
         "rhdf5"
     ],
     "preciseTAD": [
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "affy",
         "rCGH"
     ],
@@ -2925,7 +2919,6 @@
     ],
     "profileplyr": [
         "ChIPseeker",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "enrichplot",
         "ggraph",
         "rGREAT",
@@ -3082,7 +3075,6 @@
     ],
     "rcellminer": [],
     "rCGH": [
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "affy"
     ],
     "RcisTarget": [],
@@ -3184,9 +3176,7 @@
     ],
     "RGMQL": [],
     "RgnTX": [],
-    "rGREAT": [
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
-    ],
+    "rGREAT": [],
     "rgsepd": [
         "goseq"
     ],
@@ -3559,7 +3549,6 @@
     "signifinder": [
         "GSVA",
         "HDF5Array",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "car",
         "consensusOV",
         "genefu",
@@ -3825,9 +3814,7 @@
         "SpatialExperiment",
         "rhdf5"
     ],
-    "strandCheckR": [
-        "TxDb.Hsapiens.UCSC.hg38.knownGene"
-    ],
+    "strandCheckR": [],
     "StructuralVariantAnnotation": [
         "VariantAnnotation"
     ],
@@ -4028,7 +4015,6 @@
         "Gviz",
         "Hmisc",
         "Homo.sapiens",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "VariantAnnotation",
         "biovizBase",
         "viridis"
@@ -4210,7 +4196,6 @@
     "FDb.InfiniumMethylation.hg19": [],
     "mGSZ": [],
     "Mus.musculus": [],
-    "TxDb.Hsapiens.UCSC.hg38.knownGene": [],
     "assertive": [],
     "pRolocdata": [
         "MSnbase",
