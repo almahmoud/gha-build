@@ -283,8 +283,7 @@
     ],
     "ALDEx2": [
         "GenomicRanges",
-        "SummarizedExperiment",
-        "zCompositions"
+        "SummarizedExperiment"
     ],
     "alevinQC": [
         "DT",
@@ -1549,7 +1548,6 @@
         "treeio",
         "viridis",
         "waldo",
-        "zCompositions",
         "zinbwave"
     ],
     "BgeeCall": [
@@ -13977,8 +13975,7 @@
         "tidytree",
         "treeio",
         "viridis",
-        "waldo",
-        "zCompositions"
+        "waldo"
     ],
     "MicrobiomeProfiler": [
         "AnnotationDbi",
@@ -16478,8 +16475,7 @@
         "SummarizedExperiment",
         "htmlwidgets",
         "rmarkdown",
-        "shiny",
-        "zCompositions"
+        "shiny"
     ],
     "omicRexposome": [
         "AnnotationDbi",
@@ -26231,7 +26227,6 @@
         "ggbeeswarm",
         "ggplot2"
     ],
-    "zCompositions": [],
     "shinydashboard": [
         "shiny"
     ],
