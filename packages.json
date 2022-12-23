@@ -8777,7 +8777,6 @@
         "rgl"
     ],
     "ReactomeGraph4R": [],
-    "ReactomeGSA": [],
     "ReactomePA": [
         "AnnotationDbi",
         "DOSE",
