@@ -64,7 +64,6 @@
         "DESeq2"
     ],
     "ANCOMBC": [
-        "TreeSummarizedExperiment",
         "lmerTest",
         "mia",
         "scater"
@@ -225,7 +224,6 @@
     "benchdamic": [
         "ANCOMBC",
         "DESeq2",
-        "TreeSummarizedExperiment",
         "lmerTest",
         "mia",
         "scater",
@@ -441,9 +439,7 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CBEA": [
-        "TreeSummarizedExperiment"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "GenomicFeatures",
         "RTCGAToolbox",
@@ -1300,8 +1296,7 @@
         "OrganismDbi"
     ],
     "ExperimentSubset": [
-        "SpatialExperiment",
-        "TreeSummarizedExperiment"
+        "SpatialExperiment"
     ],
     "extraChIPs": [
         "GenomicFeatures",
@@ -2158,14 +2153,10 @@
     ],
     "MetID": [],
     "mia": [
-        "TreeSummarizedExperiment",
         "scater"
     ],
-    "miaSim": [
-        "TreeSummarizedExperiment"
-    ],
+    "miaSim": [],
     "miaViz": [
-        "TreeSummarizedExperiment",
         "ggtree",
         "mia",
         "scater"
@@ -2179,7 +2170,6 @@
     "microbiomeMarker": [
         "ANCOMBC",
         "DESeq2",
-        "TreeSummarizedExperiment",
         "ggtree",
         "lmerTest",
         "mia",
@@ -3733,7 +3723,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "TreeSummarizedExperiment": [],
     "trena": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
