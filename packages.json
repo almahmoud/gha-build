@@ -1961,9 +1961,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "trena": [
-        "SNPlocs.Hsapiens.dbSNP150.GRCh38"
-    ],
+    "trena": [],
     "TRESS": [],
     "trigger": [],
     "tscR": [
@@ -2188,7 +2186,6 @@
     "sampSurf": [],
     "GenKern": [],
     "vbsr": [],
-    "SNPlocs.Hsapiens.dbSNP150.GRCh38": [],
     "kmlShape": [],
     "msigdb": []
 }
