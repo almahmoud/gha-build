@@ -24960,7 +24960,6 @@
         "IRkernel",
         "repr"
     ],
-    "RCyjs": [],
     "RDRToolbox": [
         "htmlwidgets",
         "knitr",
