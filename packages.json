@@ -256,10 +256,7 @@
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "IlluminaHumanMethylationEPICmanifest"
     ],
-    "epivizr": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erma": [],
     "esATAC": [],
     "EWCE": [
@@ -443,7 +440,6 @@
     ],
     "MetaPhOR": [],
     "metavizr": [
-        "epivizr",
         "epivizrStandalone"
     ],
     "MethReg": [
@@ -688,9 +684,7 @@
         "ggbio"
     ],
     "scTensor": [],
-    "scTreeViz": [
-        "epivizr"
-    ],
+    "scTreeViz": [],
     "segmenter": [],
     "selectKSigs": [],
     "shinyepico": [],
