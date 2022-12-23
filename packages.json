@@ -5192,7 +5192,6 @@
         "tidytree",
         "treeio"
     ],
-    "lionessR": [],
     "lipidr": [
         "MultiAssayExperiment",
         "MultiDataSet",
