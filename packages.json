@@ -4351,9 +4351,7 @@
         "topGO",
         "viridis"
     ],
-    "granulator": [
-        "epiR"
-    ],
+    "granulator": [],
     "graper": [],
     "graphite": [
         "AnnotationDbi"
@@ -11598,7 +11596,6 @@
         "viridis"
     ],
     "gRain": [],
-    "epiR": [],
     "HiContactsData": [
         "AnnotationDbi",
         "AnnotationHub",
