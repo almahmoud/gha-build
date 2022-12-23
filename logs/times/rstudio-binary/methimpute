@@ -1,0 +1,120 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   be22d8ee..c003ddf2  main       -> origin/main
+Updating be22d8ee..c003ddf2
+Fast-forward
+ lists/IntramiRExploreR                             |   2 +-
+ lists/ggsignif                                     |   2 +-
+ lists/keras                                        |   2 +-
+ logs/run_ids/rstudio-binaries/MKmisc               |   2 +
+ logs/run_ids/rstudio-binaries/MSstatsLOBD          |   2 +
+ logs/run_ids/rstudio-binaries/MetBrewer            |   2 +
+ logs/run_ids/rstudio-binaries/iBMQ                 |   2 +
+ logs/run_ids/rstudio-binaries/mdp                  |   2 +
+ logs/run_ids/rstudio-binaries/metap                |   2 +
+ logs/run_ids/rstudio-binaries/mirTarRnaSeq         |   2 +
+ logs/run_ids/rstudio-binaries/mrfDepth             |   2 +
+ logs/run_ids/rstudio-binaries/pkgdown              |   2 +
+ .../rstudio-binaries/binaries/IntramiRExploreR     |   1 +
+ logs/sizes/rstudio-binaries/binaries/keras         |   1 +
+ .../rstudio-binaries/libraries/IntramiRExploreR    |   1 +
+ logs/sizes/rstudio-binaries/libraries/keras        |   1 +
+ logs/times/rstudio-binary/IntramiRExploreR         | 103 +++++++++++++++++++++
+ logs/times/rstudio-binary/keras                    |  85 +++++++++++++++++
+ packages.json                                      |  85 +----------------
+ 19 files changed, 215 insertions(+), 86 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/MKmisc
+ create mode 100644 logs/run_ids/rstudio-binaries/MSstatsLOBD
+ create mode 100644 logs/run_ids/rstudio-binaries/MetBrewer
+ create mode 100644 logs/run_ids/rstudio-binaries/iBMQ
+ create mode 100644 logs/run_ids/rstudio-binaries/mdp
+ create mode 100644 logs/run_ids/rstudio-binaries/metap
+ create mode 100644 logs/run_ids/rstudio-binaries/mirTarRnaSeq
+ create mode 100644 logs/run_ids/rstudio-binaries/mrfDepth
+ create mode 100644 logs/run_ids/rstudio-binaries/pkgdown
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/IntramiRExploreR
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/keras
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/IntramiRExploreR
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/keras
+ create mode 100644 logs/times/rstudio-binary/IntramiRExploreR
+ create mode 100644 logs/times/rstudio-binary/keras
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=methimpute
++ PKG=methimpute
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "methimpute"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency GenomicRanges is already found.
+Dependency ggplot2 is already found.
+Dependency Biostrings is already found.
+Dependency reshape2 is already found.
+Dependency minpack.lm is already found.
+Dependency data.table is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''methimpute'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv methimpute_1.20.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/methimpute
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'methimpute'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/methimpute_1.20.0.tar.gz'
+Content type 'application/x-gzip' length 1318826 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+* installing *source* package ‘methimpute’ ...
+** using staged installation
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c densities.cpp -o densities.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fitHMM.cpp -o fitHMM.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fitHMM_context.cpp -o fitHMM_context.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hmm_context.cpp -o hmm_context.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c methimpute_init.c -o methimpute_init.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include  -fopenmp -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c scalehmm.cpp -o scalehmm.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o methimpute.so RcppExports.o densities.o fitHMM.o fitHMM_context.o hmm_context.o methimpute_init.o scalehmm.o -fopenmp -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-methimpute/00new/methimpute/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘methimpute’ as ‘methimpute_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (methimpute)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpn3kQcE/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m47.825s
+user	0m43.723s
+sys	0m2.335s

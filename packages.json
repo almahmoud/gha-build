@@ -7073,7 +7073,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "methimpute": [],
     "methInheritSim": [
         "GenomicAlignments",
         "methylKit",
