@@ -9169,7 +9169,6 @@
         "htmlwidgets",
         "learnr",
         "readr",
-        "shinyvalidate",
         "sortable",
         "tidyr"
     ],
@@ -21253,7 +21252,6 @@
         "learnr"
     ],
     "bsplus": [],
-    "shinyvalidate": [],
     "learnr": [
         "htmlwidgets"
     ],
