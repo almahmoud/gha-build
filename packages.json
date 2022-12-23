@@ -2475,7 +2475,6 @@
         "MAST",
         "MultiAssayExperiment",
         "NADA",
-        "ROI.plugin.lpsolve",
         "RSQLite",
         "ScaledMatrix",
         "Seurat",
@@ -43276,7 +43275,6 @@
     "corncob": [
         "Biostrings",
         "GenomeInfoDb",
-        "ROI.plugin.lpsolve",
         "XVector",
         "biomformat",
         "detectseparation",
@@ -43298,11 +43296,8 @@
         "tidyselect"
     ],
     "optimr": [],
-    "detectseparation": [
-        "ROI.plugin.lpsolve"
-    ],
+    "detectseparation": [],
     "survey": [],
-    "ROI.plugin.lpsolve": [],
     "sjmisc": [
         "dplyr",
         "purrr",
