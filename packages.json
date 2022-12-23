@@ -626,8 +626,7 @@
     ],
     "deconvR": [
         "bumphunter",
-        "minfi",
-        "rsq"
+        "minfi"
     ],
     "DeepPINCS": [
         "mlapi",
@@ -2733,7 +2732,6 @@
     ],
     "dorothea": [],
     "crisprScoreData": [],
-    "rsq": [],
     "text2vec": [
         "mlapi"
     ],
