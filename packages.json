@@ -3194,9 +3194,7 @@
         "ggtreeExtra",
         "treeio"
     ],
-    "midasHLA": [
-        "HardyWeinberg"
-    ],
+    "midasHLA": [],
     "MIGSA": [
         "Category",
         "GOstats",
@@ -6218,7 +6216,6 @@
         "GenomicFeatures",
         "OrganismDbi"
     ],
-    "HardyWeinberg": [],
     "lumiHumanAll.db": [],
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome"
