@@ -1,0 +1,467 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   44a84fb8..f1c72af3  main       -> origin/main
+Updating 44a84fb8..f1c72af3
+Fast-forward
+ lists/ABarray                               |  2 +-
+ lists/BEclear                               |  2 +-
+ lists/BiocNeighbors                         |  2 +-
+ lists/DelayedDataFrame                      |  2 +-
+ lists/DelayedMatrixStats                    |  2 +-
+ lists/DelayedRandomArray                    |  2 +-
+ lists/DepInfeR                              |  2 +-
+ lists/DiffCorr                              |  2 +-
+ lists/GAprediction                          |  2 +-
+ lists/GRridge                               |  2 +-
+ lists/ICS                                   |  2 +-
+ lists/MCMCpack                              |  2 +-
+ lists/MetaboCoreUtils                       |  2 +-
+ lists/OCplus                                |  2 +-
+ lists/PCAN                                  |  2 +-
+ lists/REBET                                 |  2 +-
+ lists/RLassoCox                             |  2 +-
+ lists/RSQLite                               |  2 +-
+ lists/RTopper                               |  2 +-
+ lists/RedisParam                            |  2 +-
+ lists/ResidualMatrix                        |  2 +-
+ lists/SAVER                                 |  2 +-
+ lists/SCFA                                  |  2 +-
+ lists/STROMA4                               |  2 +-
+ lists/ScaledMatrix                          |  2 +-
+ lists/Spectra                               |  2 +-
+ lists/TMixClust                             |  2 +-
+ lists/a4Core                                |  2 +-
+ lists/aCGH                                  |  2 +-
+ lists/aroma.affymetrix                      |  2 +-
+ lists/assertive.data                        |  2 +-
+ lists/assertive.data.uk                     |  2 +-
+ lists/assertive.data.us                     |  2 +-
+ lists/bbotk                                 |  2 +-
+ lists/beachmat                              |  2 +-
+ lists/cobs                                  |  2 +-
+ lists/cqn                                   |  2 +-
+ lists/cytoMEM                               |  2 +-
+ lists/dcGSA                                 |  2 +-
+ lists/elsa                                  |  2 +-
+ lists/fGarch                                |  2 +-
+ lists/flowClean                             |  2 +-
+ lists/flowClust                             |  2 +-
+ lists/flowMatch                             |  2 +-
+ lists/flowMeans                             |  2 +-
+ lists/flowViz                               |  2 +-
+ lists/googleAuthR                           |  2 +-
+ lists/hierGWAS                              |  2 +-
+ lists/hierinf                               |  2 +-
+ lists/immunoClust                           |  2 +-
+ lists/imputeLCMD                            |  2 +-
+ lists/magrene                               |  2 +-
+ lists/matter                                |  2 +-
+ lists/metagenomeSeq                         |  2 +-
+ lists/mlr3                                  |  2 +-
+ lists/modeest                               |  2 +-
+ lists/ncdfFlow                              |  2 +-
+ lists/np                                    |  2 +-
+ lists/pdftools                              |  2 +-
+ lists/pengls                                |  2 +-
+ lists/progress                              |  2 +-
+ lists/quantmod                              |  2 +-
+ lists/quantsmooth                           |  2 +-
+ lists/rain                                  |  2 +-
+ lists/repr                                  |  2 +-
+ lists/rhdf5client                           |  2 +-
+ lists/scShapes                              |  2 +-
+ lists/scTHI                                 |  2 +-
+ lists/scde                                  |  2 +-
+ lists/seqCNA                                |  2 +-
+ lists/seqinr                                |  2 +-
+ lists/shiny                                 |  2 +-
+ lists/siggenes                              |  2 +-
+ lists/smoother                              |  2 +-
+ lists/smurf                                 |  2 +-
+ lists/sn                                    |  2 +-
+ lists/sparsenetgls                          |  2 +-
+ lists/spatstat.explore                      |  2 +-
+ lists/ternarynet                            |  2 +-
+ lists/tibble                                |  2 +-
+ lists/zCompositions                         |  2 +-
+ logs/dispatchlists/2022-12-23_02-59_pkglist | 81 +++++++++++++++++++++++++++++
+ logs/run_ids/rstudio-binaries/ROCR          |  2 +
+ logs/run_ids/rstudio-binaries/SPIA          |  2 +
+ tobuild.txt                                 | 81 -----------------------------
+ 85 files changed, 166 insertions(+), 162 deletions(-)
+ create mode 100644 logs/dispatchlists/2022-12-23_02-59_pkglist
+ create mode 100644 logs/run_ids/rstudio-binaries/ROCR
+ create mode 100644 logs/run_ids/rstudio-binaries/SPIA
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=tidyselect
++ PKG=tidyselect
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ sed -n '/^    "tidyselect"/,/^    "/p' directdeps.json
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  8 4581k    8  378k    0     0   296k      0  0:00:15  0:00:01  0:00:14  296k 26 4581k   26 1191k    0     0   521k      0  0:00:08  0:00:02  0:00:06  521k 52 4581k   52 2402k    0     0   737k      0  0:00:06  0:00:03  0:00:03  737k 89 4581k   89 4107k    0     0   962k      0  0:00:04  0:00:04 --:--:--  962k100 4581k  100 4581k    0     0  1024k      0  0:00:04  0:00:04 --:--:-- 1088k
+built/
+built/built/
+built/built/cli/
+built/built/cli/examples/
+built/built/cli/examples/apps/
+built/built/cli/examples/apps/news.R
+built/built/cli/examples/apps/outdated.R
+built/built/cli/examples/apps/up.R
+built/built/cli/examples/apps/search.R
+built/built/cli/libs/
+built/built/cli/libs/cli.so
+built/built/cli/NAMESPACE
+built/built/cli/DESCRIPTION
+built/built/cli/help/
+built/built/cli/help/paths.rds
+built/built/cli/help/cli.rdx
+built/built/cli/help/aliases.rds
+built/built/cli/help/figures/
+built/built/cli/help/figures/progress-after.svg
+built/built/cli/help/figures/demo-spinners.svg
+built/built/cli/help/figures/progress-along-3.svg
+built/built/cli/help/figures/progress-along-2.svg
+built/built/cli/help/figures/progress-step-msg.svg
+built/built/cli/help/figures/progress-clear.svg
+built/built/cli/help/figures/get-spinner.svg
+built/built/cli/help/figures/progress-1.svg
+built/built/cli/help/figures/progress-natotal.svg
+built/built/cli/help/figures/progress-tasks.svg
+built/built/cli/help/figures/progress-step-dynamic.svg
+built/built/cli/help/figures/make-spinner-custom.svg
+built/built/cli/help/figures/make-spinner-template.svg
+built/built/cli/help/figures/progress-output2.svg
+built/built/cli/help/figures/progress-output.svg
+built/built/cli/help/figures/progress-current.svg
+built/built/cli/help/figures/progress-step.svg
+built/built/cli/help/figures/progress-format.svg
+built/built/cli/help/figures/progress-along-1.svg
+built/built/cli/help/figures/progress-step-spin.svg
+built/built/cli/help/figures/make-spinner-default.svg
+built/built/cli/help/figures/progress-message.svg
+built/built/cli/help/cli.rdb
+built/built/cli/help/AnIndex
+built/built/cli/shiny/
+built/built/cli/shiny/nested/
+built/built/cli/shiny/nested/app.R
+built/built/cli/shiny/format/
+built/built/cli/shiny/format/app.R
+built/built/cli/shiny/along/
+built/built/cli/shiny/along/app.R
+built/built/cli/shiny/simple/
+built/built/cli/shiny/simple/app.R
+built/built/cli/shiny/output/
+built/built/cli/shiny/output/app.R
+built/built/cli/Meta/
+built/built/cli/Meta/package.rds
+built/built/cli/Meta/features.rds
+built/built/cli/Meta/hsearch.rds
+built/built/cli/Meta/links.rds
+built/built/cli/Meta/nsInfo.rds
+built/built/cli/Meta/Rd.rds
+built/built/cli/include/
+built/built/cli/include/cli/
+built/built/cli/include/cli/progress.h
+built/built/cli/logo.txt
+built/built/cli/scripts/
+built/built/cli/scripts/news.R
+built/built/cli/scripts/outdated.R
+built/built/cli/scripts/up.R
+built/built/cli/scripts/search.R
+built/built/cli/LICENSE
+built/built/cli/html/
+built/built/cli/html/00Index.html
+built/built/cli/html/R.css
+built/built/cli/INDEX
+built/built/cli/R/
+built/built/cli/R/cli
+built/built/cli/R/cli.rdx
+built/built/cli/R/sysdata.rdb
+built/built/cli/R/sysdata.rdx
+built/built/cli/R/cli.rdb
+built/built/cli/NEWS.md
+built/built/glue/
+built/built/glue/libs/
+built/built/glue/libs/glue.so
+built/built/glue/NAMESPACE
+built/built/glue/DESCRIPTION
+built/built/glue/help/
+built/built/glue/help/paths.rds
+built/built/glue/help/glue.rdx
+built/built/glue/help/glue.rdb
+built/built/glue/help/aliases.rds
+built/built/glue/help/figures/
+built/built/glue/help/figures/logo.png
+built/built/glue/help/AnIndex
+built/built/glue/Meta/
+built/built/glue/Meta/package.rds
+built/built/glue/Meta/vignette.rds
+built/built/glue/Meta/features.rds
+built/built/glue/Meta/hsearch.rds
+built/built/glue/Meta/links.rds
+built/built/glue/Meta/nsInfo.rds
+built/built/glue/Meta/Rd.rds
+built/built/glue/LICENSE
+built/built/glue/html/
+built/built/glue/html/00Index.html
+built/built/glue/html/R.css
+built/built/glue/INDEX
+built/built/glue/doc/
+built/built/glue/doc/transformers.R
+built/built/glue/doc/engines.html
+built/built/glue/doc/speed.html
+built/built/glue/doc/transformers.Rmd
+built/built/glue/doc/speed.Rmd
+built/built/glue/doc/transformers.html
+built/built/glue/doc/engines.R
+built/built/glue/doc/index.html
+built/built/glue/doc/engines.Rmd
+built/built/glue/doc/speed.R
+built/built/glue/R/
+built/built/glue/R/glue.rdx
+built/built/glue/R/glue.rdb
+built/built/glue/R/glue
+built/built/glue/NEWS.md
+built/built/rlang/
+built/built/rlang/libs/
+built/built/rlang/libs/rlang.so
+built/built/rlang/NAMESPACE
+built/built/rlang/DESCRIPTION
+built/built/rlang/help/
+built/built/rlang/help/rlang.rdb
+built/built/rlang/help/paths.rds
+built/built/rlang/help/rlang.rdx
+built/built/rlang/help/aliases.rds
+built/built/rlang/help/figures/
+built/built/rlang/help/figures/lifecycle-soft-deprecated.svg
+built/built/rlang/help/figures/lifecycle-experimental.svg
+built/built/rlang/help/figures/lifecycle-deprecated.svg
+built/built/rlang/help/figures/lifecycle-maturing.svg
+built/built/rlang/help/figures/lifecycle-superseded.svg
+built/built/rlang/help/figures/logo.png
+built/built/rlang/help/figures/lifecycle-questioning.svg
+built/built/rlang/help/figures/lifecycle-defunct.svg
+built/built/rlang/help/figures/lifecycle-archived.svg
+built/built/rlang/help/figures/lifecycle-retired.svg
+built/built/rlang/help/figures/lifecycle-stable.svg
+built/built/rlang/help/AnIndex
+built/built/rlang/Meta/
+built/built/rlang/Meta/package.rds
+built/built/rlang/Meta/features.rds
+built/built/rlang/Meta/hsearch.rds
+built/built/rlang/Meta/links.rds
+built/built/rlang/Meta/nsInfo.rds
+built/built/rlang/Meta/Rd.rds
+built/built/rlang/LICENSE
+built/built/rlang/html/
+built/built/rlang/html/00Index.html
+built/built/rlang/html/R.css
+built/built/rlang/INDEX
+built/built/rlang/R/
+built/built/rlang/R/rlang.rdb
+built/built/rlang/R/rlang.rdx
+built/built/rlang/R/rlang
+built/built/rlang/backtrace-ver
+built/built/rlang/NEWS.md
+built/built/lifecycle/
+built/built/lifecycle/NAMESPACE
+built/built/lifecycle/DESCRIPTION
+built/built/lifecycle/help/
+built/built/lifecycle/help/paths.rds
+built/built/lifecycle/help/aliases.rds
+built/built/lifecycle/help/figures/
+built/built/lifecycle/help/figures/lifecycle-soft-deprecated.svg
+built/built/lifecycle/help/figures/lifecycle-experimental.svg
+built/built/lifecycle/help/figures/lifecycle-deprecated.svg
+built/built/lifecycle/help/figures/lifecycle-maturing.svg
+built/built/lifecycle/help/figures/lifecycle-superseded.svg
+built/built/lifecycle/help/figures/lifecycle-questioning.svg
+built/built/lifecycle/help/figures/lifecycle-defunct.svg
+built/built/lifecycle/help/figures/lifecycle-archived.svg
+built/built/lifecycle/help/figures/lifecycle-retired.svg
+built/built/lifecycle/help/figures/lifecycle-stable.svg
+built/built/lifecycle/help/lifecycle.rdb
+built/built/lifecycle/help/macros/
+built/built/lifecycle/help/macros/lifecycle.Rd
+built/built/lifecycle/help/lifecycle.rdx
+built/built/lifecycle/help/AnIndex
+built/built/lifecycle/Meta/
+built/built/lifecycle/Meta/package.rds
+built/built/lifecycle/Meta/vignette.rds
+built/built/lifecycle/Meta/features.rds
+built/built/lifecycle/Meta/hsearch.rds
+built/built/lifecycle/Meta/links.rds
+built/built/lifecycle/Meta/nsInfo.rds
+built/built/lifecycle/Meta/Rd.rds
+built/built/lifecycle/LICENSE
+built/built/lifecycle/html/
+built/built/lifecycle/html/00Index.html
+built/built/lifecycle/html/R.css
+built/built/lifecycle/INDEX
+built/built/lifecycle/doc/
+built/built/lifecycle/doc/stages.R
+built/built/lifecycle/doc/communicate.html
+built/built/lifecycle/doc/manage.R
+built/built/lifecycle/doc/stages.html
+built/built/lifecycle/doc/manage.Rmd
+built/built/lifecycle/doc/stages.Rmd
+built/built/lifecycle/doc/manage.html
+built/built/lifecycle/doc/communicate.Rmd
+built/built/lifecycle/doc/index.html
+built/built/lifecycle/doc/communicate.R
+built/built/lifecycle/R/
+built/built/lifecycle/R/lifecycle.rdb
+built/built/lifecycle/R/lifecycle
+built/built/lifecycle/R/lifecycle.rdx
+built/built/lifecycle/NEWS.md
+built/vctrs/
+built/vctrs/libs/
+built/vctrs/libs/vctrs.so
+built/vctrs/NAMESPACE
+built/vctrs/DESCRIPTION
+built/vctrs/help/
+built/vctrs/help/paths.rds
+built/vctrs/help/vctrs.rdb
+built/vctrs/help/aliases.rds
+built/vctrs/help/vctrs.rdx
+built/vctrs/help/figures/
+built/vctrs/help/figures/lifecycle-soft-deprecated.svg
+built/vctrs/help/figures/lifecycle-experimental.svg
+built/vctrs/help/figures/cast.png
+built/vctrs/help/figures/lifecycle-deprecated.svg
+built/vctrs/help/figures/lifecycle-maturing.svg
+built/vctrs/help/figures/lifecycle-superseded.svg
+built/vctrs/help/figures/coerce.png
+built/vctrs/help/figures/sizes-recycling.png
+built/vctrs/help/figures/logo.png
+built/vctrs/help/figures/lifecycle-questioning.svg
+built/vctrs/help/figures/lifecycle-defunct.svg
+built/vctrs/help/figures/vec-count-deps.png
+built/vctrs/help/figures/lifecycle-archived.svg
+built/vctrs/help/figures/vec-count-deps.svg
+built/vctrs/help/figures/combined.png
+built/vctrs/help/figures/lifecycle-stable.svg
+built/vctrs/help/AnIndex
+built/vctrs/Meta/
+built/vctrs/Meta/package.rds
+built/vctrs/Meta/vignette.rds
+built/vctrs/Meta/features.rds
+built/vctrs/Meta/hsearch.rds
+built/vctrs/Meta/links.rds
+built/vctrs/Meta/nsInfo.rds
+built/vctrs/Meta/Rd.rds
+built/vctrs/include/
+built/vctrs/include/vctrs.c
+built/vctrs/include/vctrs.h
+built/vctrs/WORDLIST
+built/vctrs/LICENSE
+built/vctrs/html/
+built/vctrs/html/00Index.html
+built/vctrs/html/R.css
+built/vctrs/INDEX
+built/vctrs/doc/
+built/vctrs/doc/pillar.html
+built/vctrs/doc/type-size.Rmd
+built/vctrs/doc/s3-vector.html
+built/vctrs/doc/stability.html
+built/vctrs/doc/pillar.R
+built/vctrs/doc/index.html
+built/vctrs/doc/s3-vector.Rmd
+built/vctrs/doc/stability.R
+built/vctrs/doc/pillar.Rmd
+built/vctrs/doc/type-size.html
+built/vctrs/doc/type-size.R
+built/vctrs/doc/s3-vector.R
+built/vctrs/doc/stability.Rmd
+built/vctrs/R/
+built/vctrs/R/vctrs
+built/vctrs/R/vctrs.rdb
+built/vctrs/R/vctrs.rdx
+built/vctrs/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 66  218k   66  144k    0     0   204k      0  0:00:01 --:--:--  0:00:01  204k100  218k  100  218k    0     0   254k      0 --:--:-- --:--:-- --:--:--  254k
+built/
+built/withr/
+built/withr/NAMESPACE
+built/withr/DESCRIPTION
+built/withr/help/
+built/withr/help/paths.rds
+built/withr/help/withr.rdx
+built/withr/help/aliases.rds
+built/withr/help/figures/
+built/withr/help/figures/README-unnamed-chunk-3-1.png
+built/withr/help/figures/logo.png
+built/withr/help/withr.rdb
+built/withr/help/AnIndex
+built/withr/Meta/
+built/withr/Meta/package.rds
+built/withr/Meta/vignette.rds
+built/withr/Meta/features.rds
+built/withr/Meta/hsearch.rds
+built/withr/Meta/links.rds
+built/withr/Meta/nsInfo.rds
+built/withr/Meta/Rd.rds
+built/withr/LICENSE
+built/withr/html/
+built/withr/html/00Index.html
+built/withr/html/R.css
+built/withr/INDEX
+built/withr/doc/
+built/withr/doc/changing-and-restoring-state.R
+built/withr/doc/changing-and-restoring-state.html
+built/withr/doc/index.html
+built/withr/doc/changing-and-restoring-state.Rmd
+built/withr/R/
+built/withr/R/withr
+built/withr/R/withr.rdx
+built/withr/R/withr.rdb
+built/withr/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''tidyselect'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv tidyselect_1.2.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/tidyselect
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'tidyselect'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/tidyselect_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 219415 bytes (214 KB)
+==================================================
+downloaded 214 KB
+
+* installing *binary* package ‘tidyselect’ ...
+* ‘tidyselect’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyselect’ as ‘tidyselect_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyselect)
+
+The downloaded source packages are in
+	‘/tmp/RtmpmJBBCM/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m12.297s
+user	0m3.880s
+sys	0m0.353s
