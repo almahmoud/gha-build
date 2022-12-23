@@ -156,8 +156,7 @@
     "ALDEx2": [],
     "alevinQC": [
         "DT",
-        "GGally",
-        "shinydashboard"
+        "GGally"
     ],
     "AllelicImbalance": [
         "AnnotationDbi",
@@ -840,7 +839,6 @@
         "htmlTable",
         "plotly",
         "shinycssloaders",
-        "shinydashboard",
         "viridis"
     ],
     "BindingSiteFinder": [
@@ -1547,8 +1545,7 @@
     "cbpManager": [
         "DT",
         "shinyBS",
-        "shinycssloaders",
-        "shinydashboard"
+        "shinycssloaders"
     ],
     "ccfindR": [
         "SingleCellExperiment"
@@ -2003,7 +2000,6 @@
         "shinyFiles",
         "shinyWidgets",
         "shinycssloaders",
-        "shinydashboard",
         "shinydashboardPlus",
         "shinyjs",
         "viridis",
@@ -2403,7 +2399,6 @@
         "DT",
         "haven",
         "rio",
-        "shinydashboard",
         "shinyjs"
     ],
     "conclus": [
@@ -2574,7 +2569,6 @@
         "MultiAssayExperiment",
         "fgsea",
         "piano",
-        "shinydashboard",
         "shinyjs",
         "visNetwork"
     ],
@@ -2916,7 +2910,6 @@
         "SingleCellExperiment",
         "SpatialExperiment",
         "scuttle",
-        "shinydashboard",
         "svgPanZoom",
         "viridis"
     ],
@@ -3077,7 +3070,6 @@
         "plotly",
         "scatterpie",
         "shinyBS",
-        "shinydashboard",
         "shinyjs",
         "sva",
         "tidygraph",
@@ -3215,8 +3207,7 @@
     "DEP": [
         "DT",
         "MSnbase",
-        "ggrepel",
-        "shinydashboard"
+        "ggrepel"
     ],
     "DepecheR": [
         "ggrepel",
@@ -3412,7 +3403,6 @@
         "plotly",
         "shinyBS",
         "shinycssloaders",
-        "shinydashboard",
         "shinyjs",
         "viridis"
     ],
@@ -3545,7 +3535,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "shinydashboard",
         "testthat"
     ],
     "DOSE": [
@@ -4286,7 +4275,6 @@
     ],
     "ExploreModelMatrix": [
         "DT",
-        "shinydashboard",
         "shinyjs"
     ],
     "ExpressionAtlas": [
@@ -4352,7 +4340,6 @@
         "reactome.db",
         "scatterpie",
         "shinyBS",
-        "shinydashboard",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -5787,8 +5774,7 @@
     "iCOBRA": [
         "DT",
         "UpSetR",
-        "shinyBS",
-        "shinydashboard"
+        "shinyBS"
     ],
     "ideal": [
         "AnnotationDbi",
@@ -5816,7 +5802,6 @@
         "plotly",
         "rtracklayer",
         "shinyBS",
-        "shinydashboard",
         "threejs",
         "topGO",
         "viridis"
@@ -5882,7 +5867,6 @@
         "ggraph",
         "ggrepel",
         "scuttle",
-        "shinydashboard",
         "svgPanZoom",
         "tidygraph",
         "viridis"
@@ -6003,7 +5987,6 @@
         "shinyFeedback",
         "shinyFiles",
         "shinycssloaders",
-        "shinydashboard",
         "shinyjs",
         "testthat",
         "viridis",
@@ -6114,7 +6097,6 @@
         "colourpicker",
         "ggrepel",
         "shinyWidgets",
-        "shinydashboard",
         "shinyjs"
     ],
     "iSEEhex": [
@@ -6124,7 +6106,6 @@
         "ggrepel",
         "iSEE",
         "shinyWidgets",
-        "shinydashboard",
         "shinyjs"
     ],
     "iSEEhub": [
@@ -6139,7 +6120,6 @@
         "iSEE",
         "interactiveDisplayBase",
         "shinyWidgets",
-        "shinydashboard",
         "shinyjs"
     ],
     "iSEEu": [
@@ -6150,7 +6130,6 @@
         "iSEE",
         "iSEEhex",
         "shinyWidgets",
-        "shinydashboard",
         "shinyjs"
     ],
     "ISLET": [],
@@ -6314,7 +6293,6 @@
         "learnr",
         "shinyBS",
         "shinyFiles",
-        "shinydashboard",
         "shinyjs",
         "shinyvalidate",
         "sortable"
@@ -6325,7 +6303,6 @@
     "lefser": [],
     "levi": [
         "DT",
-        "shinydashboard",
         "shinyjs",
         "testthat"
     ],
@@ -6662,7 +6639,6 @@
         "htmlTable",
         "plotly",
         "proDA",
-        "shinydashboard",
         "shinyjs",
         "viridis"
     ],
@@ -7323,7 +7299,6 @@
         "plotly",
         "shinyWidgets",
         "shinycssloaders",
-        "shinydashboard",
         "shinyjs",
         "testthat",
         "viridis"
@@ -8142,7 +8117,6 @@
         "recipes",
         "ropls",
         "scatterpie",
-        "shinydashboard",
         "testthat",
         "tidygraph",
         "tidytree",
@@ -8221,7 +8195,6 @@
         "rtracklayer",
         "shinyBS",
         "shinybusy",
-        "shinydashboard",
         "shinyjqui",
         "shinyjs",
         "sortable",
@@ -8641,7 +8614,6 @@
         "rtracklayer",
         "shinyBS",
         "shinyFiles",
-        "shinydashboard",
         "viridis"
     ],
     "oligo": [
@@ -9037,7 +9009,6 @@
         "heatmaply",
         "plotly",
         "shinyBS",
-        "shinydashboard",
         "threejs",
         "topGO",
         "viridis"
@@ -9067,7 +9038,6 @@
         "piano",
         "recipes",
         "rstatix",
-        "shinydashboard",
         "shinyjs",
         "survcomp",
         "survminer",
@@ -9147,7 +9117,6 @@
         "MultiAssayExperiment",
         "fgsea",
         "piano",
-        "shinydashboard",
         "shinyjs",
         "visNetwork"
     ],
@@ -9240,7 +9209,6 @@
     "piano": [
         "DT",
         "fgsea",
-        "shinydashboard",
         "shinyjs",
         "visNetwork"
     ],
@@ -9595,7 +9563,6 @@
         "plotly",
         "recipes",
         "shinyWidgets",
-        "shinydashboard",
         "shinydashboardPlus",
         "shinyjs",
         "threejs",
@@ -9676,7 +9643,6 @@
         "pbkrtest",
         "plotly",
         "rstatix",
-        "shinydashboard",
         "testthat",
         "viridis"
     ],
@@ -9933,7 +9899,6 @@
         "MultiAssayExperiment",
         "fgsea",
         "piano",
-        "shinydashboard",
         "shinyjs",
         "visNetwork"
     ],
@@ -10934,7 +10899,6 @@
         "plotly",
         "shinyWidgets",
         "shinycssloaders",
-        "shinydashboard",
         "shinyjs"
     ],
     "satuRn": [],
@@ -10981,7 +10945,6 @@
         "scanMiR",
         "scanMiRData",
         "shinycssloaders",
-        "shinydashboard",
         "shinyjqui",
         "waiter"
     ],
@@ -11616,7 +11579,6 @@
         "rtracklayer",
         "shinyWidgets",
         "shinycssloaders",
-        "shinydashboard",
         "survivalAnalysis",
         "survminer",
         "testthat",
@@ -11687,7 +11649,6 @@
         "SpatialExperiment",
         "cytomapper",
         "scuttle",
-        "shinydashboard",
         "svgPanZoom",
         "viridis"
     ],
@@ -12014,7 +11975,6 @@
         "scater",
         "scran",
         "scuttle",
-        "shinydashboard",
         "viridis",
         "visNetwork"
     ],
@@ -12112,7 +12072,6 @@
         "rtracklayer",
         "shinyFiles",
         "shinyWidgets",
-        "shinydashboard",
         "viridis"
     ],
     "SplicingFactory": [],
@@ -12476,7 +12435,6 @@
         "plotly",
         "shinyFiles",
         "shinyWidgets",
-        "shinydashboard",
         "shinydashboardPlus",
         "shinyjqui",
         "shinyjs",
@@ -12625,7 +12583,6 @@
         "sesameData",
         "shinyBS",
         "shinyFiles",
-        "shinydashboard",
         "shinyjs",
         "testthat",
         "tidygraph",
@@ -12863,7 +12820,6 @@
         "MultiAssayExperiment",
         "fgsea",
         "piano",
-        "shinydashboard",
         "shinyjs",
         "visNetwork"
     ],
@@ -13129,7 +13085,6 @@
         "plyranges",
         "rtracklayer",
         "shinyFiles",
-        "shinydashboard",
         "shinyjs"
     ],
     "UMI4Cats": [
@@ -13490,8 +13445,7 @@
         "DT",
         "golem",
         "shinyWidgets",
-        "shinycustomloader",
-        "shinydashboard"
+        "shinycustomloader"
     ],
     "wppi": [
         "OmnipathR"
@@ -13516,7 +13470,6 @@
         "PharmacoGx",
         "fgsea",
         "piano",
-        "shinydashboard",
         "shinyjs",
         "visNetwork"
     ],
@@ -13662,7 +13615,6 @@
     "htmlTable": [],
     "viridis": [],
     "ggrastr": [],
-    "shinydashboard": [],
     "speaq": [],
     "curatedTCGAData": [
         "AnnotationDbi",
@@ -14185,7 +14137,6 @@
     ],
     "shinyWidgets": [],
     "shinydashboardPlus": [
-        "shinydashboard",
         "waiter"
     ],
     "kableExtra": [],
