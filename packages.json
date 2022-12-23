@@ -43814,7 +43814,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "ParallelLogger",
         "RSQLite",
         "Rsamtools",
         "SummarizedExperiment",
@@ -70679,7 +70678,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ParallelLogger": [],
     "pairsD3": [
         "bslib",
         "fontawesome",
