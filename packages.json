@@ -3480,7 +3480,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "setRNG",
         "stringr",
         "survival",
         "svglite",
@@ -6503,7 +6502,6 @@
         "scattermore",
         "sctransform",
         "scuttle",
-        "setRNG",
         "shiny",
         "sitmo",
         "softImpute",
@@ -110421,7 +110419,6 @@
         "openssl"
     ],
     "hexbin": [],
-    "setRNG": [],
     "svglite": [
         "systemfonts"
     ],
@@ -111636,7 +111633,6 @@
         "rhdf5",
         "rhdf5filters",
         "scales",
-        "setRNG",
         "sp",
         "stringr",
         "survival",
@@ -111669,8 +111665,7 @@
         "Rcgmin",
         "Rvmmin",
         "numDeriv",
-        "optextras",
-        "setRNG"
+        "optextras"
     ],
     "trust": [],
     "detectseparation": [
