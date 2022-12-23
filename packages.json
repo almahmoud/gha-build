@@ -2214,7 +2214,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "ccImpute": [],
     "ccmap": [
         "AnnotationDbi",
         "KEGGREST"
