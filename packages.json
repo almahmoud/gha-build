@@ -60868,7 +60868,6 @@
         "S4Vectors",
         "XVector",
         "futile.logger",
-        "reportr",
         "stringr",
         "tractor.base",
         "vctrs"
@@ -73861,10 +73860,7 @@
     "animation": [
         "magick"
     ],
-    "tractor.base": [
-        "reportr"
-    ],
-    "reportr": [],
+    "tractor.base": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome",
