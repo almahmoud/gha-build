@@ -3840,7 +3840,6 @@
     "MODA": [
         "WGCNA"
     ],
-    "MOFA2": [],
     "mogsa": [
         "GSEABase",
         "genefilter"
