@@ -262,24 +262,19 @@
     "protGear": [
         "factoextra"
     ],
-    "psichomics": [
-        "recount"
-    ],
+    "psichomics": [],
     "ptairMS": [],
     "QDNAseq": [
         "CGHcall"
     ],
     "R3CPET": [],
-    "recount": [],
     "recountmethylation": [],
     "regionReport": [],
     "regutools": [],
     "ReportingTools": [],
     "RiboProfiling": [],
     "RIPAT": [],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR"
@@ -293,9 +288,7 @@
     "RNASeqR": [
         "factoextra"
     ],
-    "RnaSeqSampleSize": [
-        "recount"
-    ],
+    "RnaSeqSampleSize": [],
     "RnBeads": [],
     "RTCGA": [
         "survminer"
