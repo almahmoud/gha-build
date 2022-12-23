@@ -305,7 +305,6 @@
         "geneplotter",
         "ggrepel",
         "htmlwidgets",
-        "plotROC",
         "plotly",
         "recipes",
         "rhdf5",
@@ -8540,7 +8539,6 @@
         "mia",
         "nloptr",
         "phyloseq",
-        "plotROC",
         "recipes",
         "rhdf5",
         "scater",
@@ -15931,7 +15929,6 @@
         "recipes",
         "tidyr"
     ],
-    "plotROC": [],
     "GUniFrac": [
         "ggrepel"
     ],
