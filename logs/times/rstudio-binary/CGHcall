@@ -1,0 +1,1095 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   ae695cd8..d36a2017  main       -> origin/main
+Updating ae695cd8..d36a2017
+Fast-forward
+ logs/run_ids/rstudio-binaries/km.ci | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/km.ci
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=CGHcall
++ PKG=CGHcall
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "CGHcall"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 26  650k   26  175k    0     0   220k      0  0:00:02 --:--:--  0:00:02  220k100  650k  100  650k    0     0   421k      0  0:00:01  0:00:01 --:--:--  421k
+built/
+built/impute/
+built/impute/libs/
+built/impute/libs/impute.so
+built/impute/NAMESPACE
+built/impute/DESCRIPTION
+built/impute/help/
+built/impute/help/paths.rds
+built/impute/help/impute.rdx
+built/impute/help/impute.rdb
+built/impute/help/aliases.rds
+built/impute/help/AnIndex
+built/impute/data/
+built/impute/data/khanmiss.rda
+built/impute/Meta/
+built/impute/Meta/package.rds
+built/impute/Meta/features.rds
+built/impute/Meta/hsearch.rds
+built/impute/Meta/links.rds
+built/impute/Meta/nsInfo.rds
+built/impute/Meta/Rd.rds
+built/impute/Meta/data.rds
+built/impute/html/
+built/impute/html/00Index.html
+built/impute/html/R.css
+built/impute/INDEX
+built/impute/R/
+built/impute/R/impute.rdx
+built/impute/R/impute.rdb
+built/impute/R/impute
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 93  422k   93  394k    0     0   321k      0  0:00:01  0:00:01 --:--:--  321k100  422k  100  422k    0     0   329k      0  0:00:01  0:00:01 --:--:--  329k
+built/
+built/DNAcopy/
+built/DNAcopy/libs/
+built/DNAcopy/libs/DNAcopy.so
+built/DNAcopy/NAMESPACE
+built/DNAcopy/DESCRIPTION
+built/DNAcopy/help/
+built/DNAcopy/help/paths.rds
+built/DNAcopy/help/DNAcopy.rdx
+built/DNAcopy/help/DNAcopy.rdb
+built/DNAcopy/help/aliases.rds
+built/DNAcopy/help/AnIndex
+built/DNAcopy/data/
+built/DNAcopy/data/Rdata.rds
+built/DNAcopy/data/Rdata.rdb
+built/DNAcopy/data/Rdata.rdx
+built/DNAcopy/Meta/
+built/DNAcopy/Meta/package.rds
+built/DNAcopy/Meta/vignette.rds
+built/DNAcopy/Meta/demo.rds
+built/DNAcopy/Meta/features.rds
+built/DNAcopy/Meta/hsearch.rds
+built/DNAcopy/Meta/links.rds
+built/DNAcopy/Meta/nsInfo.rds
+built/DNAcopy/Meta/Rd.rds
+built/DNAcopy/Meta/data.rds
+built/DNAcopy/benchmark/
+built/DNAcopy/benchmark/benchmark,20090610,segment.R
+built/DNAcopy/html/
+built/DNAcopy/html/00Index.html
+built/DNAcopy/html/R.css
+built/DNAcopy/INDEX
+built/DNAcopy/doc/
+built/DNAcopy/doc/DNAcopy.Rnw
+built/DNAcopy/doc/DNAcopy.pdf
+built/DNAcopy/doc/DNAcopy.R
+built/DNAcopy/doc/index.html
+built/DNAcopy/R/
+built/DNAcopy/R/DNAcopy.rdx
+built/DNAcopy/R/DNAcopy.rdb
+built/DNAcopy/R/DNAcopy
+built/DNAcopy/demo/
+built/DNAcopy/demo/DNAcopy.R
+built/DNAcopy/CHANGES
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 25.5M    0  229k    0     0   247k      0  0:01:45 --:--:--  0:01:45  246k  3 25.5M    3 1026k    0     0   536k      0  0:00:48  0:00:01  0:00:47  536k  8 25.5M    8 2349k    0     0   799k      0  0:00:32  0:00:02  0:00:30  799k 16 25.5M   16 4198k    0     0  1070k      0  0:00:24  0:00:03  0:00:21 1070k 25 25.5M   25 6652k    0     0  1346k      0  0:00:19  0:00:04  0:00:15 1346k 36 25.5M   36 9569k    0     0  1615k      0  0:00:16  0:00:05  0:00:11 1870k 50 25.5M   50 12.8M    0     0  1895k      0  0:00:13  0:00:06  0:00:07 2413k 65 25.5M   65 16.7M    0     0  2163k      0  0:00:12  0:00:07  0:00:05 2967k 83 25.5M   83 21.3M    0     0  2441k      0  0:00:10  0:00:08  0:00:02 3513k100 25.5M  100 25.5M    0     0  2691k      0  0:00:09  0:00:09 --:--:-- 4086k
+built/
+built/built/
+built/built/built/
+built/built/built/limma/
+built/built/built/limma/libs/
+built/built/built/limma/libs/limma.so
+built/built/built/limma/NAMESPACE
+built/built/built/limma/DESCRIPTION
+built/built/built/limma/help/
+built/built/built/limma/help/paths.rds
+built/built/built/limma/help/limma.rdx
+built/built/built/limma/help/limma.rdb
+built/built/built/limma/help/aliases.rds
+built/built/built/limma/help/AnIndex
+built/built/built/limma/Meta/
+built/built/built/limma/Meta/package.rds
+built/built/built/limma/Meta/vignette.rds
+built/built/built/limma/Meta/features.rds
+built/built/built/limma/Meta/hsearch.rds
+built/built/built/limma/Meta/links.rds
+built/built/built/limma/Meta/nsInfo.rds
+built/built/built/limma/Meta/Rd.rds
+built/built/built/limma/NEWS.Rd
+built/built/built/limma/CITATION
+built/built/built/limma/html/
+built/built/built/limma/html/00Index.html
+built/built/built/limma/html/R.css
+built/built/built/limma/INDEX
+built/built/built/limma/doc/
+built/built/built/limma/doc/intro.pdf
+built/built/built/limma/doc/changelog.txt
+built/built/built/limma/doc/index.html
+built/built/built/limma/doc/usersguide.pdf
+built/built/built/limma/doc/intro.Rnw
+built/built/built/limma/R/
+built/built/built/limma/R/limma.rdx
+built/built/built/limma/R/limma.rdb
+built/built/built/limma/R/limma
+built/built/BiocGenerics/
+built/built/BiocGenerics/NAMESPACE
+built/built/BiocGenerics/DESCRIPTION
+built/built/BiocGenerics/help/
+built/built/BiocGenerics/help/paths.rds
+built/built/BiocGenerics/help/BiocGenerics.rdb
+built/built/BiocGenerics/help/aliases.rds
+built/built/BiocGenerics/help/AnIndex
+built/built/BiocGenerics/help/BiocGenerics.rdx
+built/built/BiocGenerics/Meta/
+built/built/BiocGenerics/Meta/package.rds
+built/built/BiocGenerics/Meta/features.rds
+built/built/BiocGenerics/Meta/hsearch.rds
+built/built/BiocGenerics/Meta/links.rds
+built/built/BiocGenerics/Meta/nsInfo.rds
+built/built/BiocGenerics/Meta/Rd.rds
+built/built/BiocGenerics/unitTests/
+built/built/BiocGenerics/unitTests/test_combine.R
+built/built/BiocGenerics/unitTests/test_mapply.R
+built/built/BiocGenerics/unitTests/test_Extremes.R
+built/built/BiocGenerics/unitTests/test_order.R
+built/built/BiocGenerics/unitTests/test_updateObject.R
+built/built/BiocGenerics/unitTests/test_format.R
+built/built/BiocGenerics/unitTests/test_paste.R
+built/built/BiocGenerics/CITATION
+built/built/BiocGenerics/html/
+built/built/BiocGenerics/html/00Index.html
+built/built/BiocGenerics/html/R.css
+built/built/BiocGenerics/INDEX
+built/built/BiocGenerics/R/
+built/built/BiocGenerics/R/BiocGenerics
+built/built/BiocGenerics/R/BiocGenerics.rdb
+built/built/BiocGenerics/R/BiocGenerics.rdx
+built/built/Biobase/
+built/built/Biobase/ExpressionSet/
+built/built/Biobase/ExpressionSet/DESCRIPTION
+built/built/Biobase/ExpressionSet/man/
+built/built/Biobase/ExpressionSet/man/@PKGNAME@.Rd
+built/built/Biobase/libs/
+built/built/Biobase/libs/Biobase.so
+built/built/Biobase/NEWS
+built/built/Biobase/extdata/
+built/built/Biobase/extdata/pData.txt
+built/built/Biobase/extdata/exprsData.txt
+built/built/Biobase/NAMESPACE
+built/built/Biobase/testClass.R
+built/built/Biobase/DESCRIPTION
+built/built/Biobase/help/
+built/built/Biobase/help/Biobase.rdx
+built/built/Biobase/help/paths.rds
+built/built/Biobase/help/Biobase.rdb
+built/built/Biobase/help/aliases.rds
+built/built/Biobase/help/AnIndex
+built/built/Biobase/data/
+built/built/Biobase/data/geneCovariate.rda
+built/built/Biobase/data/sample.ExpressionSet.rda
+built/built/Biobase/data/seD.rda
+built/built/Biobase/data/reporter.rda
+built/built/Biobase/data/geneCov.R
+built/built/Biobase/data/aaMap.R
+built/built/Biobase/data/SW.rda
+built/built/Biobase/data/geneData.R
+built/built/Biobase/data/sample.MultiSet.rda
+built/built/Biobase/Meta/
+built/built/Biobase/Meta/package.rds
+built/built/Biobase/Meta/vignette.rds
+built/built/Biobase/Meta/features.rds
+built/built/Biobase/Meta/hsearch.rds
+built/built/Biobase/Meta/links.rds
+built/built/Biobase/Meta/nsInfo.rds
+built/built/Biobase/Meta/Rd.rds
+built/built/Biobase/Meta/data.rds
+built/built/Biobase/Code/
+built/built/Biobase/Code/DESCRIPTION
+built/built/Biobase/Code/R/
+built/built/Biobase/Code/R/get@PKGNAME@.R
+built/built/Biobase/Code/man/
+built/built/Biobase/Code/man/get@PKGNAME@.Rd
+built/built/Biobase/Code/man/@PKGNAME@.Rd
+built/built/Biobase/scripts/
+built/built/Biobase/scripts/esetTesting.R
+built/built/Biobase/scripts/getBioCHelp
+built/built/Biobase/scripts/query.packages.R
+built/built/Biobase/scripts/getBioC.R
+built/built/Biobase/scripts/getBioCPkgNames.R
+built/built/Biobase/scripts/makeExpressionSetPackage.R
+built/built/Biobase/unitTests/
+built/built/Biobase/unitTests/test_copyEnv.R
+built/built/Biobase/unitTests/test_combine.R
+built/built/Biobase/unitTests/test_AnnotatedDataFrame.R
+built/built/Biobase/unitTests/test_EsetSubclasses.R
+built/built/Biobase/unitTests/test_unsaveSetSlot.R
+built/built/Biobase/unitTests/VersionedClass_data/
+built/built/Biobase/unitTests/VersionedClass_data/devel/
+built/built/Biobase/unitTests/VersionedClass_data/devel/SnpSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/VersionedBiobase.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/swrep.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/sample.eSet.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/exprSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/ExpressionSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/container.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/golubMergeSub.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/bbsym.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/MIAME.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/aggregator.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/Versioned.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/eset.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/ScalarInteger.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/VersionsNull.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/ScalarLogical.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.1.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/NChannelSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/AnnotatedDataFrame.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/Versions.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/MultiSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/ScalarCharacter.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/ScalarNumeric.Rda
+built/built/Biobase/unitTests/VersionedClass_data/devel/SWPD.rda
+built/built/Biobase/unitTests/VersionedClass_data/1.8/
+built/built/Biobase/unitTests/VersionedClass_data/1.8/phenoData.Rda
+built/built/Biobase/unitTests/VersionedClass_data/1.8/exprSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/1.8/ExpressionSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/1.8/MIAME.Rda
+built/built/Biobase/unitTests/VersionedClass_data/1.8/AnnotatedDataFrame.Rda
+built/built/Biobase/unitTests/VersionedClass_data/raw/
+built/built/Biobase/unitTests/VersionedClass_data/raw/pData.tab
+built/built/Biobase/unitTests/VersionedClass_data/raw/exprs.tab
+built/built/Biobase/unitTests/VersionedClass_data/raw/varMetadata.tab
+built/built/Biobase/unitTests/VersionedClass_data/2.0/
+built/built/Biobase/unitTests/VersionedClass_data/2.0/SnpSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/phenoData.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/VersionedBiobase.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/exprSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/ExpressionSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/container.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/MIAME.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/aggregator.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/Versioned.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/VersionsNull.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/AnnotatedDataFrame.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/Versions.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/MultiSet.Rda
+built/built/Biobase/unitTests/VersionedClass_data/2.0/ScalarCharacter.Rda
+built/built/Biobase/unitTests/test_VersionedClass.R
+built/built/Biobase/unitTests/utilities.R
+built/built/Biobase/unitTests/test_NChannelSet.R
+built/built/Biobase/unitTests/test_AssayData.R
+built/built/Biobase/unitTests/test_checkClass.R
+built/built/Biobase/unitTests/test_UpdateObject.R
+built/built/Biobase/unitTests/test_SnpSet.R
+built/built/Biobase/unitTests/test_DataClasses.R
+built/built/Biobase/unitTests/test_ExpressionSet.R
+built/built/Biobase/unitTests/test_subListExtract.R
+built/built/Biobase/unitTests/test_esApply.R
+built/built/Biobase/unitTests/test_cache.R
+built/built/Biobase/CITATION
+built/built/Biobase/html/
+built/built/Biobase/html/00Index.html
+built/built/Biobase/html/R.css
+built/built/Biobase/INDEX
+built/built/Biobase/doc/
+built/built/Biobase/doc/esApply.Rmd
+built/built/Biobase/doc/ExpressionSetIntroduction.R
+built/built/Biobase/doc/esApply.html
+built/built/Biobase/doc/ExpressionSetIntroduction.Rnw
+built/built/Biobase/doc/index.html
+built/built/Biobase/doc/BiobaseDevelopment.html
+built/built/Biobase/doc/ExpressionSetIntroduction.pdf
+built/built/Biobase/doc/BiobaseDevelopment.R
+built/built/Biobase/doc/esApply.R
+built/built/Biobase/doc/BiobaseDevelopment.Rmd
+built/built/Biobase/R/
+built/built/Biobase/R/Biobase.rdx
+built/built/Biobase/R/Biobase.rdb
+built/built/Biobase/R/Biobase
+built/built/limma/
+built/built/limma/libs/
+built/built/limma/libs/limma.so
+built/built/limma/NAMESPACE
+built/built/limma/DESCRIPTION
+built/built/limma/help/
+built/built/limma/help/paths.rds
+built/built/limma/help/limma.rdx
+built/built/limma/help/limma.rdb
+built/built/limma/help/aliases.rds
+built/built/limma/help/AnIndex
+built/built/limma/Meta/
+built/built/limma/Meta/package.rds
+built/built/limma/Meta/vignette.rds
+built/built/limma/Meta/features.rds
+built/built/limma/Meta/hsearch.rds
+built/built/limma/Meta/links.rds
+built/built/limma/Meta/nsInfo.rds
+built/built/limma/Meta/Rd.rds
+built/built/limma/NEWS.Rd
+built/built/limma/CITATION
+built/built/limma/html/
+built/built/limma/html/00Index.html
+built/built/limma/html/R.css
+built/built/limma/INDEX
+built/built/limma/doc/
+built/built/limma/doc/intro.pdf
+built/built/limma/doc/changelog.txt
+built/built/limma/doc/index.html
+built/built/limma/doc/usersguide.pdf
+built/built/limma/doc/intro.Rnw
+built/built/limma/R/
+built/built/limma/R/limma.rdx
+built/built/limma/R/limma.rdb
+built/built/limma/R/limma
+built/built/marray/
+built/built/marray/NAMESPACE
+built/built/marray/DESCRIPTION
+built/built/marray/help/
+built/built/marray/help/paths.rds
+built/built/marray/help/marray.rdb
+built/built/marray/help/aliases.rds
+built/built/marray/help/marray.rdx
+built/built/marray/help/AnIndex
+built/built/marray/data/
+built/built/marray/data/swirl.RData
+built/built/marray/Meta/
+built/built/marray/Meta/package.rds
+built/built/marray/Meta/vignette.rds
+built/built/marray/Meta/features.rds
+built/built/marray/Meta/hsearch.rds
+built/built/marray/Meta/links.rds
+built/built/marray/Meta/nsInfo.rds
+built/built/marray/Meta/Rd.rds
+built/built/marray/Meta/data.rds
+built/built/marray/swirldata/
+built/built/marray/swirldata/swirl.2.spot
+built/built/marray/swirldata/swirl.3.spot
+built/built/marray/swirldata/swirl.1.spot
+built/built/marray/swirldata/SwirlSample.txt
+built/built/marray/swirldata/swirl.4.spot
+built/built/marray/swirldata/fish.gal
+built/built/marray/LICENSE
+built/built/marray/html/
+built/built/marray/html/00Index.html
+built/built/marray/html/R.css
+built/built/marray/INDEX
+built/built/marray/doc/
+built/built/marray/doc/marrayPlots.R
+built/built/marray/doc/marrayClassesShort.R
+built/built/marray/doc/marrayNorm.pdf
+built/built/marray/doc/marrayClassesShort.Rnw
+built/built/marray/doc/marrayNorm.Rnw
+built/built/marray/doc/marrayNorm.R
+built/built/marray/doc/marrayInput.R
+built/built/marray/doc/marrayPlots.Rnw
+built/built/marray/doc/marrayPlots.pdf
+built/built/marray/doc/marrayClasses.Rnw
+built/built/marray/doc/marrayClasses.pdf
+built/built/marray/doc/marrayInput.pdf
+built/built/marray/doc/marray.R
+built/built/marray/doc/index.html
+built/built/marray/doc/marrayClasses.R
+built/built/marray/doc/marrayInput.Rnw
+built/built/marray/doc/marray.Rnw
+built/built/marray/doc/marray.pdf
+built/built/marray/doc/marrayClassesShort.pdf
+built/built/marray/R/
+built/built/marray/R/marray.rdb
+built/built/marray/R/marray.rdx
+built/built/marray/R/marray
+built/CGHbase/
+built/CGHbase/NAMESPACE
+built/CGHbase/DESCRIPTION
+built/CGHbase/help/
+built/CGHbase/help/CGHbase.rdx
+built/CGHbase/help/paths.rds
+built/CGHbase/help/aliases.rds
+built/CGHbase/help/CGHbase.rdb
+built/CGHbase/help/AnIndex
+built/CGHbase/data/
+built/CGHbase/data/WiltingRaw.rda
+built/CGHbase/data/WiltingSeg.rda
+built/CGHbase/data/WiltingRegions.rda
+built/CGHbase/data/WiltingCalled.rda
+built/CGHbase/data/datalist
+built/CGHbase/data/Wilting.txt
+built/CGHbase/data/WiltingNorm.rda
+built/CGHbase/Meta/
+built/CGHbase/Meta/package.rds
+built/CGHbase/Meta/features.rds
+built/CGHbase/Meta/hsearch.rds
+built/CGHbase/Meta/links.rds
+built/CGHbase/Meta/nsInfo.rds
+built/CGHbase/Meta/Rd.rds
+built/CGHbase/Meta/data.rds
+built/CGHbase/html/
+built/CGHbase/html/00Index.html
+built/CGHbase/html/R.css
+built/CGHbase/INDEX
+built/CGHbase/R/
+built/CGHbase/R/CGHbase.rdx
+built/CGHbase/R/CGHbase
+built/CGHbase/R/CGHbase.rdb
+built/BiocGenerics/
+built/BiocGenerics/NAMESPACE
+built/BiocGenerics/DESCRIPTION
+built/BiocGenerics/help/
+built/BiocGenerics/help/paths.rds
+built/BiocGenerics/help/BiocGenerics.rdb
+built/BiocGenerics/help/aliases.rds
+built/BiocGenerics/help/AnIndex
+built/BiocGenerics/help/BiocGenerics.rdx
+built/BiocGenerics/Meta/
+built/BiocGenerics/Meta/package.rds
+built/BiocGenerics/Meta/features.rds
+built/BiocGenerics/Meta/hsearch.rds
+built/BiocGenerics/Meta/links.rds
+built/BiocGenerics/Meta/nsInfo.rds
+built/BiocGenerics/Meta/Rd.rds
+built/BiocGenerics/unitTests/
+built/BiocGenerics/unitTests/test_combine.R
+built/BiocGenerics/unitTests/test_mapply.R
+built/BiocGenerics/unitTests/test_Extremes.R
+built/BiocGenerics/unitTests/test_order.R
+built/BiocGenerics/unitTests/test_updateObject.R
+built/BiocGenerics/unitTests/test_format.R
+built/BiocGenerics/unitTests/test_paste.R
+built/BiocGenerics/CITATION
+built/BiocGenerics/html/
+built/BiocGenerics/html/00Index.html
+built/BiocGenerics/html/R.css
+built/BiocGenerics/INDEX
+built/BiocGenerics/R/
+built/BiocGenerics/R/BiocGenerics
+built/BiocGenerics/R/BiocGenerics.rdb
+built/BiocGenerics/R/BiocGenerics.rdx
+built/Biobase/
+built/Biobase/ExpressionSet/
+built/Biobase/ExpressionSet/DESCRIPTION
+built/Biobase/ExpressionSet/man/
+built/Biobase/ExpressionSet/man/@PKGNAME@.Rd
+built/Biobase/libs/
+built/Biobase/libs/Biobase.so
+built/Biobase/NEWS
+built/Biobase/extdata/
+built/Biobase/extdata/pData.txt
+built/Biobase/extdata/exprsData.txt
+built/Biobase/NAMESPACE
+built/Biobase/testClass.R
+built/Biobase/DESCRIPTION
+built/Biobase/help/
+built/Biobase/help/Biobase.rdx
+built/Biobase/help/paths.rds
+built/Biobase/help/Biobase.rdb
+built/Biobase/help/aliases.rds
+built/Biobase/help/AnIndex
+built/Biobase/data/
+built/Biobase/data/geneCovariate.rda
+built/Biobase/data/sample.ExpressionSet.rda
+built/Biobase/data/seD.rda
+built/Biobase/data/reporter.rda
+built/Biobase/data/geneCov.R
+built/Biobase/data/aaMap.R
+built/Biobase/data/SW.rda
+built/Biobase/data/geneData.R
+built/Biobase/data/sample.MultiSet.rda
+built/Biobase/Meta/
+built/Biobase/Meta/package.rds
+built/Biobase/Meta/vignette.rds
+built/Biobase/Meta/features.rds
+built/Biobase/Meta/hsearch.rds
+built/Biobase/Meta/links.rds
+built/Biobase/Meta/nsInfo.rds
+built/Biobase/Meta/Rd.rds
+built/Biobase/Meta/data.rds
+built/Biobase/Code/
+built/Biobase/Code/DESCRIPTION
+built/Biobase/Code/R/
+built/Biobase/Code/R/get@PKGNAME@.R
+built/Biobase/Code/man/
+built/Biobase/Code/man/get@PKGNAME@.Rd
+built/Biobase/Code/man/@PKGNAME@.Rd
+built/Biobase/scripts/
+built/Biobase/scripts/esetTesting.R
+built/Biobase/scripts/getBioCHelp
+built/Biobase/scripts/query.packages.R
+built/Biobase/scripts/getBioC.R
+built/Biobase/scripts/getBioCPkgNames.R
+built/Biobase/scripts/makeExpressionSetPackage.R
+built/Biobase/unitTests/
+built/Biobase/unitTests/test_copyEnv.R
+built/Biobase/unitTests/test_combine.R
+built/Biobase/unitTests/test_AnnotatedDataFrame.R
+built/Biobase/unitTests/test_EsetSubclasses.R
+built/Biobase/unitTests/test_unsaveSetSlot.R
+built/Biobase/unitTests/VersionedClass_data/
+built/Biobase/unitTests/VersionedClass_data/devel/
+built/Biobase/unitTests/VersionedClass_data/devel/SnpSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/VersionedBiobase.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/swrep.rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.eSet.rda
+built/Biobase/unitTests/VersionedClass_data/devel/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/container.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/golubMergeSub.rda
+built/Biobase/unitTests/VersionedClass_data/devel/bbsym.rda
+built/Biobase/unitTests/VersionedClass_data/devel/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/aggregator.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/Versioned.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/eset.rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarInteger.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/VersionsNull.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarLogical.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.1.rda
+built/Biobase/unitTests/VersionedClass_data/devel/NChannelSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/Versions.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/MultiSet.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/sample.exprSet.rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarCharacter.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/ScalarNumeric.Rda
+built/Biobase/unitTests/VersionedClass_data/devel/SWPD.rda
+built/Biobase/unitTests/VersionedClass_data/1.8/
+built/Biobase/unitTests/VersionedClass_data/1.8/phenoData.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/1.8/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/raw/
+built/Biobase/unitTests/VersionedClass_data/raw/pData.tab
+built/Biobase/unitTests/VersionedClass_data/raw/exprs.tab
+built/Biobase/unitTests/VersionedClass_data/raw/varMetadata.tab
+built/Biobase/unitTests/VersionedClass_data/2.0/
+built/Biobase/unitTests/VersionedClass_data/2.0/SnpSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/phenoData.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/VersionedBiobase.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/exprSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/ExpressionSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/container.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/MIAME.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/aggregator.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/Versioned.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/VersionsNull.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/AnnotatedDataFrame.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/Versions.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/MultiSet.Rda
+built/Biobase/unitTests/VersionedClass_data/2.0/ScalarCharacter.Rda
+built/Biobase/unitTests/test_VersionedClass.R
+built/Biobase/unitTests/utilities.R
+built/Biobase/unitTests/test_NChannelSet.R
+built/Biobase/unitTests/test_AssayData.R
+built/Biobase/unitTests/test_checkClass.R
+built/Biobase/unitTests/test_UpdateObject.R
+built/Biobase/unitTests/test_SnpSet.R
+built/Biobase/unitTests/test_DataClasses.R
+built/Biobase/unitTests/test_ExpressionSet.R
+built/Biobase/unitTests/test_subListExtract.R
+built/Biobase/unitTests/test_esApply.R
+built/Biobase/unitTests/test_cache.R
+built/Biobase/CITATION
+built/Biobase/html/
+built/Biobase/html/00Index.html
+built/Biobase/html/R.css
+built/Biobase/INDEX
+built/Biobase/doc/
+built/Biobase/doc/esApply.Rmd
+built/Biobase/doc/ExpressionSetIntroduction.R
+built/Biobase/doc/esApply.html
+built/Biobase/doc/ExpressionSetIntroduction.Rnw
+built/Biobase/doc/index.html
+built/Biobase/doc/BiobaseDevelopment.html
+built/Biobase/doc/ExpressionSetIntroduction.pdf
+built/Biobase/doc/BiobaseDevelopment.R
+built/Biobase/doc/esApply.R
+built/Biobase/doc/BiobaseDevelopment.Rmd
+built/Biobase/R/
+built/Biobase/R/Biobase.rdx
+built/Biobase/R/Biobase.rdb
+built/Biobase/R/Biobase
+built/limma/
+built/limma/libs/
+built/limma/libs/limma.so
+built/limma/NAMESPACE
+built/limma/DESCRIPTION
+built/limma/help/
+built/limma/help/paths.rds
+built/limma/help/limma.rdx
+built/limma/help/limma.rdb
+built/limma/help/aliases.rds
+built/limma/help/AnIndex
+built/limma/Meta/
+built/limma/Meta/package.rds
+built/limma/Meta/vignette.rds
+built/limma/Meta/features.rds
+built/limma/Meta/hsearch.rds
+built/limma/Meta/links.rds
+built/limma/Meta/nsInfo.rds
+built/limma/Meta/Rd.rds
+built/limma/NEWS.Rd
+built/limma/CITATION
+built/limma/html/
+built/limma/html/00Index.html
+built/limma/html/R.css
+built/limma/INDEX
+built/limma/doc/
+built/limma/doc/intro.pdf
+built/limma/doc/changelog.txt
+built/limma/doc/index.html
+built/limma/doc/usersguide.pdf
+built/limma/doc/intro.Rnw
+built/limma/R/
+built/limma/R/limma.rdx
+built/limma/R/limma.rdb
+built/limma/R/limma
+built/marray/
+built/marray/NAMESPACE
+built/marray/DESCRIPTION
+built/marray/help/
+built/marray/help/paths.rds
+built/marray/help/marray.rdb
+built/marray/help/aliases.rds
+built/marray/help/marray.rdx
+built/marray/help/AnIndex
+built/marray/data/
+built/marray/data/swirl.RData
+built/marray/Meta/
+built/marray/Meta/package.rds
+built/marray/Meta/vignette.rds
+built/marray/Meta/features.rds
+built/marray/Meta/hsearch.rds
+built/marray/Meta/links.rds
+built/marray/Meta/nsInfo.rds
+built/marray/Meta/Rd.rds
+built/marray/Meta/data.rds
+built/marray/swirldata/
+built/marray/swirldata/swirl.2.spot
+built/marray/swirldata/swirl.3.spot
+built/marray/swirldata/swirl.1.spot
+built/marray/swirldata/SwirlSample.txt
+built/marray/swirldata/swirl.4.spot
+built/marray/swirldata/fish.gal
+built/marray/LICENSE
+built/marray/html/
+built/marray/html/00Index.html
+built/marray/html/R.css
+built/marray/INDEX
+built/marray/doc/
+built/marray/doc/marrayPlots.R
+built/marray/doc/marrayClassesShort.R
+built/marray/doc/marrayNorm.pdf
+built/marray/doc/marrayClassesShort.Rnw
+built/marray/doc/marrayNorm.Rnw
+built/marray/doc/marrayNorm.R
+built/marray/doc/marrayInput.R
+built/marray/doc/marrayPlots.Rnw
+built/marray/doc/marrayPlots.pdf
+built/marray/doc/marrayClasses.Rnw
+built/marray/doc/marrayClasses.pdf
+built/marray/doc/marrayInput.pdf
+built/marray/doc/marray.R
+built/marray/doc/index.html
+built/marray/doc/marrayClasses.R
+built/marray/doc/marrayInput.Rnw
+built/marray/doc/marray.Rnw
+built/marray/doc/marray.pdf
+built/marray/doc/marrayClassesShort.pdf
+built/marray/R/
+built/marray/R/marray.rdb
+built/marray/R/marray.rdx
+built/marray/R/marray
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  332k  100  332k    0     0   846k      0 --:--:-- --:--:-- --:--:--  847k
+built/
+built/snowfall/
+built/snowfall/NEWS
+built/snowfall/NAMESPACE
+built/snowfall/DESCRIPTION
+built/snowfall/help/
+built/snowfall/help/snowfall.rdb
+built/snowfall/help/paths.rds
+built/snowfall/help/snowfall.rdx
+built/snowfall/help/aliases.rds
+built/snowfall/help/AnIndex
+built/snowfall/data/
+built/snowfall/data/config.txt.gz
+built/snowfall/data/test.rda
+built/snowfall/Meta/
+built/snowfall/Meta/package.rds
+built/snowfall/Meta/vignette.rds
+built/snowfall/Meta/features.rds
+built/snowfall/Meta/hsearch.rds
+built/snowfall/Meta/links.rds
+built/snowfall/Meta/nsInfo.rds
+built/snowfall/Meta/Rd.rds
+built/snowfall/Meta/data.rds
+built/snowfall/html/
+built/snowfall/html/00Index.html
+built/snowfall/html/R.css
+built/snowfall/INDEX
+built/snowfall/doc/
+built/snowfall/doc/snowfall.Snw
+built/snowfall/doc/index.html
+built/snowfall/doc/snowfall.pdf
+built/snowfall/R/
+built/snowfall/R/snowfall.rdb
+built/snowfall/R/snowfall
+built/snowfall/R/snowfall.rdx
+built/snowfall/R/sysdata.rdb
+built/snowfall/R/sysdata.rdx
+built/snow/
+built/snow/RunSnowNode
+built/snow/RMPISNOW
+built/snow/RMPInode.R
+built/snow/NAMESPACE
+built/snow/RunSnowWorker
+built/snow/RSOCKnode.R
+built/snow/DESCRIPTION
+built/snow/help/
+built/snow/help/paths.rds
+built/snow/help/snow.rdb
+built/snow/help/aliases.rds
+built/snow/help/snow.rdx
+built/snow/help/AnIndex
+built/snow/Meta/
+built/snow/Meta/package.rds
+built/snow/Meta/features.rds
+built/snow/Meta/hsearch.rds
+built/snow/Meta/links.rds
+built/snow/Meta/nsInfo.rds
+built/snow/Meta/Rd.rds
+built/snow/RSOCKnode.sh
+built/snow/RMPInode.sh
+built/snow/html/
+built/snow/html/00Index.html
+built/snow/html/R.css
+built/snow/INDEX
+built/snow/R/
+built/snow/R/snow.rdb
+built/snow/R/snow
+built/snow/R/snow.rdx
+built/snow/RMPISNOWprofile
+built/snow/RunSnowWorker.bat
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''CGHcall'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv Biobase_2.58.0_R_x86_64-pc-linux-gnu.tar.gz BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz CGHbase_1.58.0_R_x86_64-pc-linux-gnu.tar.gz CGHcall_2.60.0_R_x86_64-pc-linux-gnu.tar.gz DNAcopy_1.72.2_R_x86_64-pc-linux-gnu.tar.gz impute_1.72.2_R_x86_64-pc-linux-gnu.tar.gz limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz marray_1.76.0_R_x86_64-pc-linux-gnu.tar.gz snow_0.4-4_R_x86_64-pc-linux-gnu.tar.gz snowfall_1.84-6.2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/CGHcall
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'CGHcall'
+also installing the dependencies ‘limma’, ‘BiocGenerics’, ‘marray’, ‘snow’, ‘impute’, ‘DNAcopy’, ‘Biobase’, ‘CGHbase’, ‘snowfall’
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/limma_3.54.0.tar.gz'
+Content type 'application/x-gzip' length 1516770 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/BiocGenerics_0.44.0.tar.gz'
+Content type 'application/x-gzip' length 47711 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/marray_1.76.0.tar.gz'
+Content type 'application/x-gzip' length 5045364 bytes (4.8 MB)
+==================================================
+downloaded 4.8 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/snow_0.4-4.tar.gz'
+Content type 'binary/octet-stream' length 95103 bytes (92 KB)
+==================================================
+downloaded 92 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/impute_1.72.2.tar.gz'
+Content type 'application/x-gzip' length 641575 bytes (626 KB)
+==================================================
+downloaded 626 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/DNAcopy_1.72.2.tar.gz'
+Content type 'application/x-gzip' length 297973 bytes (290 KB)
+==================================================
+downloaded 290 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/Biobase_2.58.0.tar.gz'
+Content type 'application/x-gzip' length 1792896 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/CGHbase_1.58.0.tar.gz'
+Content type 'application/x-gzip' length 868347 bytes (847 KB)
+==================================================
+downloaded 847 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/snowfall_1.84-6.2.tar.gz'
+Content type 'binary/octet-stream' length 246716 bytes (240 KB)
+==================================================
+downloaded 240 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/CGHcall_2.60.0.tar.gz'
+Content type 'application/x-gzip' length 345669 bytes (337 KB)
+==================================================
+downloaded 337 KB
+
+* installing *source* package ‘limma’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c normexp.c -o normexp.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c weighted_lowess.c -o weighted_lowess.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o limma.so init.o normexp.o weighted_lowess.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-limma/00new/limma/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘limma’ as ‘limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (limma)
+* installing *source* package ‘BiocGenerics’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘union’ in package ‘BiocGenerics’
+Creating a new generic function for ‘intersect’ in package ‘BiocGenerics’
+Creating a new generic function for ‘setdiff’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sort’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *binary* package ‘snow’ ...
+* ‘snow’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘snow’ as ‘snow_0.4-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (snow)
+* installing *source* package ‘impute’ ...
+** using staged installation
+** libs
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c knnimpute.f -o knnimpute.o
+knnimpute.f:99:72:
+
+   99 | 20                        pos(k1+1) = pos(k1)
+      |                                                                             1
+Warning: Fortran 2018 deleted feature: DO termination statement which is not END DO or CONTINUE with label 20 at (1)
+knnimpute.f:113:72:
+
+  113 | 35                        pos(k1+1) = pos(k1)
+      |                                                                             1
+Warning: Fortran 2018 deleted feature: DO termination statement which is not END DO or CONTINUE with label 35 at (1)
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o impute.so knnimpute.o -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-impute/00new/impute/libs
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘impute’ as ‘impute_1.72.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (impute)
+* installing *source* package ‘DNAcopy’ ...
+** using staged installation
+** libs
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c cbsWtstats.f -o cbsWtstats.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c cbststats.f -o cbststats.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c changepoints-wtd.f -o changepoints-wtd.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c changepoints.f -o changepoints.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c esegment.f -o esegment.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c flchoose.c -o flchoose.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fphyper.c -o fphyper.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fpnorm.c -o fpnorm.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c getbdry.f -o getbdry.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c prune.f -o prune.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rshared.c -o rshared.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c segmentp.f -o segmentp.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c smoothCNA.f -o smoothCNA.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c tailprobs.f -o tailprobs.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o DNAcopy.so cbsWtstats.o cbststats.o changepoints-wtd.o changepoints.o esegment.o flchoose.o fphyper.o fpnorm.o getbdry.o prune.o rshared.o segmentp.o smoothCNA.o tailprobs.o -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-DNAcopy/00new/DNAcopy/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DNAcopy’ as ‘DNAcopy_1.72.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DNAcopy)
+* installing *source* package ‘marray’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘marray’ as ‘marray_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (marray)
+* installing *source* package ‘Biobase’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rinit.c -o Rinit.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c anyMissing.c -o anyMissing.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c envir.c -o envir.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c matchpt.c -o matchpt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowMedians.c -o rowMedians.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sublist_extract.c -o sublist_extract.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Biobase.so Rinit.o anyMissing.o envir.o matchpt.o rowMedians.o sublist_extract.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-Biobase/00new/Biobase/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Biobase’ as ‘Biobase_2.58.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Biobase)
+* installing *binary* package ‘snowfall’ ...
+* ‘snowfall’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘snowfall’ as ‘snowfall_1.84-6.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (snowfall)
+* installing *source* package ‘CGHbase’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CGHbase’ as ‘CGHbase_1.58.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CGHbase)
+* installing *source* package ‘CGHcall’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CGHcall’ as ‘CGHcall_2.60.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CGHcall)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp6VfSs7/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	1m4.005s
+user	0m45.220s
+sys	0m5.141s

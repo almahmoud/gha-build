@@ -87,7 +87,6 @@
     "ACE": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -4198,7 +4197,6 @@
         "BiocIO",
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DT",
         "DelayedArray",
         "DelayedMatrixStats",
@@ -6468,7 +6466,6 @@
         "vctrs"
     ],
     "CGEN": [],
-    "CGHcall": [],
     "cghMCR": [
         "AnnotationDbi",
         "Biostrings",
@@ -6484,9 +6481,7 @@
         "httr",
         "vctrs"
     ],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "CGHregions": [],
     "ChAMP": [
         "AnnotationDbi",
@@ -17191,7 +17186,6 @@
     "GeneBreak": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -20100,7 +20094,6 @@
     "HiCcompare": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -20174,7 +20167,6 @@
     "HiCDOC": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -29074,7 +29066,6 @@
     "multiHiCcompare": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -35106,7 +35097,6 @@
     "QDNAseq": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -43545,7 +43535,6 @@
     "SpectralTAD": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
@@ -45424,7 +45413,6 @@
     "TADCompare": [
         "BiocParallel",
         "Biostrings",
-        "CGHcall",
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
