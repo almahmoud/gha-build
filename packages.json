@@ -650,8 +650,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
-        "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
-        "systemPipeR"
+        "TxDb.Rnorvegicus.UCSC.rn4.ensGene"
     ],
     "ChIPseeker": [
         "DOSE",
@@ -1146,8 +1145,7 @@
     "DiffBind": [
         "BSgenome",
         "DESeq2",
-        "GreyListChIP",
-        "systemPipeR"
+        "GreyListChIP"
     ],
     "diffcoexp": [
         "WGCNA"
@@ -3626,8 +3624,7 @@
         "ggtree",
         "pbkrtest",
         "rstatix",
-        "sva",
-        "systemPipeR"
+        "sva"
     ],
     "RnaSeqSampleSize": [
         "BSgenome",
@@ -4172,7 +4169,6 @@
         "pbkrtest"
     ],
     "syntenet": [],
-    "systemPipeR": [],
     "systemPipeTools": [
         "DESeq2",
         "ggtree"
@@ -4501,7 +4497,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "ensembldb",
         "regioneR",
-        "systemPipeR",
         "viper"
     ],
     "waddR": [
