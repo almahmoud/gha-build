@@ -81054,7 +81054,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "SMAP": [],
     "SMITE": [
         "AnnotationDbi",
         "BioNet",
