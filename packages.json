@@ -319,7 +319,6 @@
         "text2vec",
         "ttgsea"
     ],
-    "deepSNV": [],
     "DeMixT": [],
     "derfinder": [
         "GenomicFiles"
@@ -812,9 +811,7 @@
         "methylumi",
         "minfi"
     ],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MMAPPR2": [
         "VariantTools",
         "gmapR"
