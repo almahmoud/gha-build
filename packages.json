@@ -48128,7 +48128,6 @@
         "formatR",
         "fs",
         "futile.logger",
-        "gcspikelite",
         "ggplot2",
         "glue",
         "gplots",
@@ -166873,7 +166872,6 @@
     ],
     "ash": [],
     "lars": [],
-    "gcspikelite": [],
     "SPARQL": [],
     "ggiraph": [
         "MASS",
