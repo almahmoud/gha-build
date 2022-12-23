@@ -4478,7 +4478,6 @@
         "bookdown",
         "bslib",
         "cowplot",
-        "earth",
         "ggplot2",
         "jquerylib",
         "knitr",
@@ -24000,7 +23999,6 @@
         "bookdown",
         "bslib",
         "cowplot",
-        "earth",
         "ggplot2",
         "jquerylib",
         "knitr",
@@ -50578,7 +50576,6 @@
     "ggm": [],
     "vcd": [],
     "gamlss": [],
-    "earth": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
