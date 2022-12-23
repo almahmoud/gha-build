@@ -3347,7 +3347,6 @@
         "evaluate",
         "futile.logger",
         "generics",
-        "getopt",
         "ggdendro",
         "ggplot2",
         "ggrepel",
@@ -48021,7 +48020,6 @@
         "evaluate",
         "foreach",
         "generics",
-        "getopt",
         "ggplot2",
         "glmmTMB",
         "glmnet",
@@ -48133,7 +48131,6 @@
         "foreach",
         "futile.logger",
         "generics",
-        "getopt",
         "ggplot2",
         "glmmTMB",
         "glmnet",
@@ -56705,7 +56702,6 @@
         "foreach",
         "fpc",
         "generics",
-        "getopt",
         "ggplot2",
         "glmmTMB",
         "glmnet",
@@ -89019,7 +89015,6 @@
         "Matrix",
         "MatrixModels",
         "coda",
-        "getopt",
         "gmm",
         "optparse",
         "quantreg",
@@ -104820,7 +104815,6 @@
     "svglite": [
         "systemfonts"
     ],
-    "getopt": [],
     "UpSetR": [
         "Matrix",
         "ggplot2",
@@ -113204,9 +113198,7 @@
         "proxy",
         "robustbase"
     ],
-    "optparse": [
-        "getopt"
-    ],
+    "optparse": [],
     "glmmTMB": [
         "Matrix",
         "RcppEigen",
