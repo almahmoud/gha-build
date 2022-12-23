@@ -2690,7 +2690,6 @@
         "SpatialExperiment",
         "cytomapper"
     ],
-    "simplifyEnrichment": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "ExperimentHub",
