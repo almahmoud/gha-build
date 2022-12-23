@@ -245,8 +245,7 @@
         "Category",
         "GOstats",
         "GSEABase",
-        "genefilter",
-        "reactome.db"
+        "genefilter"
     ],
     "AUCell": [
         "GSEABase"
@@ -358,7 +357,6 @@
         "lme4",
         "pbkrtest",
         "radiant.data",
-        "reactome.db",
         "treeio"
     ],
     "BiocFHIR": [],
@@ -1647,7 +1645,6 @@
         "WGCNA",
         "enrichplot",
         "ggtree",
-        "reactome.db",
         "treeio"
     ],
     "EpiMix": [
@@ -1803,7 +1800,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "reactome.db",
         "treeio"
     ],
     "fastLiquidAssociation": [
@@ -2715,9 +2711,7 @@
         "plsgenomics",
         "questionr"
     ],
-    "mAPKL": [
-        "reactome.db"
-    ],
+    "mAPKL": [],
     "maPredictDSC": [
         "hgu133plus2.db"
     ],
@@ -2953,7 +2947,6 @@
         "methylumi",
         "minfi",
         "missMethyl",
-        "reactome.db",
         "treeio"
     ],
     "methylInheritance": [
@@ -3098,7 +3091,6 @@
         "lme4",
         "miRspongeR",
         "pbkrtest",
-        "reactome.db",
         "rstatix",
         "tidyverse",
         "treeio"
@@ -3115,7 +3107,6 @@
         "ggtree",
         "lme4",
         "pbkrtest",
-        "reactome.db",
         "rstatix",
         "tidyverse",
         "treeio"
@@ -3329,7 +3320,6 @@
         "devtools",
         "enrichplot",
         "ggtree",
-        "reactome.db",
         "ropls",
         "treeio"
     ],
@@ -3484,8 +3474,7 @@
         "lme4"
     ],
     "NoRCE": [
-        "GenomicFeatures",
-        "reactome.db"
+        "GenomicFeatures"
     ],
     "NormalyzerDE": [
         "RcmdrMisc",
@@ -3772,7 +3761,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "reactome.db",
         "treeio"
     ],
     "PING": [
@@ -4083,7 +4071,6 @@
         "DOSE",
         "enrichplot",
         "ggtree",
-        "reactome.db",
         "treeio"
     ],
     "recount": [
@@ -4584,7 +4571,6 @@
         "heatmaply",
         "meshr",
         "nnTensor",
-        "reactome.db",
         "schex",
         "treeio"
     ],
@@ -4684,7 +4670,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "reactome.db",
         "treeio"
     ],
     "signeR": [
@@ -4807,8 +4792,7 @@
     "SMITE": [
         "GenomicFeatures",
         "geneLenDataBase",
-        "goseq",
-        "reactome.db"
+        "goseq"
     ],
     "snapCGH": [
         "genefilter",
@@ -5602,7 +5586,6 @@
     "TxDb.Hsapiens.UCSC.hg38.knownGene": [
         "GenomicFeatures"
     ],
-    "reactome.db": [],
     "doBy": [
         "lme4",
         "pbkrtest"
