@@ -688,7 +688,6 @@
         "viridis"
     ],
     "consensusDE": [
-        "EnsDb.Hsapiens.v86",
         "RUVSeq",
         "dendextend",
         "viridis"
@@ -1913,9 +1912,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "metagene": [
-        "EnsDb.Hsapiens.v86"
-    ],
+    "metagene": [],
     "metaMS": [
         "CAMERA",
         "Hmisc",
@@ -2745,7 +2742,6 @@
         "vsn"
     ],
     "proteasy": [
-        "EnsDb.Hsapiens.v86",
         "Rcpi",
         "rcdk"
     ],
@@ -2989,9 +2985,7 @@
         "vsn",
         "xcms"
     ],
-    "RITAN": [
-        "EnsDb.Hsapiens.v86"
-    ],
+    "RITAN": [],
     "RLSeq": [],
     "RMassBank": [
         "MSnbase",
@@ -3729,7 +3723,6 @@
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
-        "EnsDb.Hsapiens.v86",
         "Gviz",
         "Hmisc",
         "Homo.sapiens",
@@ -3977,7 +3970,6 @@
         "rms",
         "viridis"
     ],
-    "EnsDb.Hsapiens.v86": [],
     "iC10": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "HDF5Array",
