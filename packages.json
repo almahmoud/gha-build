@@ -24348,7 +24348,6 @@
         "purrr",
         "readr",
         "rtracklayer",
-        "scico",
         "stringr",
         "tibble",
         "tidyr",
@@ -39748,7 +39747,6 @@
         "reshape2",
         "rmarkdown",
         "sass",
-        "scico",
         "shiny",
         "stringr",
         "syuzhet",
@@ -39785,7 +39783,6 @@
         "httr",
         "patchwork",
         "purrr",
-        "scico",
         "scuttle",
         "sf",
         "spdep",
@@ -44751,7 +44748,6 @@
         "shiny",
         "stringr"
     ],
-    "scico": [],
     "VarfromPDB": [
         "RISmed",
         "httr",
