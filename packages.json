@@ -1721,9 +1721,7 @@
     "scanMiRApp": [
         "ensembldb"
     ],
-    "SCATE": [
-        "SCATEData"
-    ],
+    "SCATE": [],
     "scDblFinder": [],
     "scDD": [],
     "scGPS": [],
@@ -2202,7 +2200,6 @@
         "ensembldb"
     ],
     "phastCons100way.UCSC.hg19": [],
-    "SCATEData": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "car",
