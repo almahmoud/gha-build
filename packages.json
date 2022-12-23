@@ -1690,7 +1690,6 @@
         "FactoMineR",
         "GenomicFeatures",
         "Hmisc",
-        "MSQC",
         "RWeka",
         "ShortRead",
         "arm",
@@ -2673,7 +2672,6 @@
         "GenomicFeatures",
         "Hmisc",
         "MLSeq",
-        "MSQC",
         "RWeka",
         "ShortRead",
         "arm",
@@ -7929,9 +7927,7 @@
     "mbest": [
         "lme4"
     ],
-    "plsVarSel": [
-        "MSQC"
-    ],
+    "plsVarSel": [],
     "FSelector": [
         "RWeka"
     ],
@@ -7939,7 +7935,6 @@
         "lme4"
     ],
     "RWeka": [],
-    "MSQC": [],
     "DAPARdata": [
         "MSnbase",
         "affy",
