@@ -11793,7 +11793,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "HDO.db",
-        "Harman",
         "IRanges",
         "KEGGREST",
         "KEGGgraph",
@@ -20983,7 +20982,6 @@
         "tibble",
         "vctrs"
     ],
-    "Harman": [],
     "Harshlight": [
         "Biostrings",
         "GenomeInfoDb",
