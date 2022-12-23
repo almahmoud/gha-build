@@ -98,9 +98,7 @@
         "cBioPortalData"
     ],
     "cBioPortalData": [],
-    "cellmigRation": [
-        "FactoMineR"
-    ],
+    "cellmigRation": [],
     "CEMiTool": [
         "clusterProfiler"
     ],
@@ -175,7 +173,6 @@
         "methylPipe"
     ],
     "conclus": [
-        "FactoMineR",
         "clusterProfiler",
         "factoextra",
         "ggpubr",
@@ -214,7 +211,6 @@
     ],
     "CyTOFpower": [
         "CytoGLMM",
-        "FactoMineR",
         "FlowSOM",
         "diffcyt",
         "factoextra",
@@ -222,15 +218,12 @@
         "rstatix"
     ],
     "CytoGLMM": [
-        "FactoMineR",
         "factoextra",
         "ggpubr",
         "rstatix"
     ],
     "dagLogo": [],
-    "DaMiRseq": [
-        "FactoMineR"
-    ],
+    "DaMiRseq": [],
     "dasper": [
         "ggpubr",
         "rstatix"
@@ -379,8 +372,7 @@
     ],
     "GA4GHshiny": [],
     "GARS": [
-        "DaMiRseq",
-        "FactoMineR"
+        "DaMiRseq"
     ],
     "GDCRNATools": [
         "clusterProfiler",
@@ -396,9 +388,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "GeneGeneInteR": [
-        "FactoMineR"
-    ],
+    "GeneGeneInteR": [],
     "GeneStructureTools": [
         "Gviz"
     ],
@@ -420,7 +410,6 @@
     ],
     "GeoDiff": [],
     "GEOexplorer": [
-        "FactoMineR",
         "factoextra",
         "ggpubr",
         "rstatix"
@@ -475,7 +464,6 @@
         "ggbio"
     ],
     "InterCellar": [
-        "FactoMineR",
         "factoextra",
         "ggpubr",
         "rstatix"
@@ -499,7 +487,6 @@
     ],
     "karyoploteR": [],
     "kissDE": [
-        "FactoMineR",
         "factoextra",
         "ggpubr",
         "rstatix"
@@ -654,7 +641,6 @@
         "VIM"
     ],
     "MSstatsLiP": [
-        "FactoMineR",
         "MSstatsPTM",
         "factoextra",
         "ggpubr",
@@ -678,7 +664,6 @@
     ],
     "muscat": [],
     "musicatk": [
-        "FactoMineR",
         "factoextra",
         "ggpubr",
         "rstatix"
@@ -713,11 +698,9 @@
         "Gviz"
     ],
     "omicRexposome": [
-        "FactoMineR",
         "rexposome"
     ],
     "OMICsPCA": [
-        "FactoMineR",
         "factoextra",
         "ggpubr",
         "rstatix"
@@ -733,9 +716,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "padma": [
-        "FactoMineR"
-    ],
+    "padma": [],
     "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
@@ -778,7 +759,6 @@
     ],
     "proteasy": [],
     "protGear": [
-        "FactoMineR",
         "factoextra",
         "ggpubr",
         "rstatix"
@@ -827,9 +807,7 @@
     "ReportingTools": [
         "ggbio"
     ],
-    "rexposome": [
-        "FactoMineR"
-    ],
+    "rexposome": [],
     "rgsepd": [],
     "Rhisat2": [],
     "RiboCrypt": [],
@@ -862,7 +840,6 @@
         "RNAmodR"
     ],
     "RNASeqR": [
-        "FactoMineR",
         "clusterProfiler",
         "factoextra",
         "ggpubr",
@@ -1080,7 +1057,6 @@
     "GenomicState": [
         "derfinder"
     ],
-    "FactoMineR": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [],
     "IlluminaHumanMethylation450kmanifest": [],
@@ -1089,7 +1065,6 @@
     "qs": [],
     "propr": [],
     "factoextra": [
-        "FactoMineR",
         "ggpubr",
         "rstatix"
     ],
