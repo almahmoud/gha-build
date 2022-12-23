@@ -1858,7 +1858,6 @@
         "GSVA",
         "HDF5Array",
         "PADOG",
-        "gage",
         "globaltest",
         "hgu133a.db",
         "hgu133plus2.db",
@@ -2313,7 +2312,6 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "gage": [],
     "GARS": [
         "DESeq2",
         "DaMiRseq",
