@@ -424,7 +424,6 @@
         "ggtree",
         "lme4",
         "nloptr",
-        "org.Bt.eg.db",
         "pbkrtest",
         "radiant.data",
         "reactome.db",
@@ -6824,7 +6823,6 @@
         "nloptr",
         "pbkrtest"
     ],
-    "org.Bt.eg.db": [],
     "DiagrammeR": [],
     "scatterpie": [],
     "rms": [],
