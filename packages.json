@@ -2144,7 +2144,6 @@
         "rhdf5"
     ],
     "MinimumDistance": [
-        "BSgenome.Hsapiens.UCSC.hg18",
         "VanillaICE"
     ],
     "MIRA": [
@@ -3790,9 +3789,7 @@
         "ttgsea",
         "viridis"
     ],
-    "VanillaICE": [
-        "BSgenome.Hsapiens.UCSC.hg18"
-    ],
+    "VanillaICE": [],
     "VariantFiltering": [
         "GenomicScores",
         "Gviz",
@@ -4101,7 +4098,6 @@
         "ExperimentHubData"
     ],
     "rebus": [],
-    "BSgenome.Hsapiens.UCSC.hg18": [],
     "BiBitR": [
         "dendextend",
         "viridis"
