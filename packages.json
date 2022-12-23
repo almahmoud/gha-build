@@ -3013,7 +3013,6 @@
         "topGO",
         "viridis"
     ],
-    "granulator": [],
     "GreyListChIP": [
         "BSgenome",
         "rtracklayer"
