@@ -4627,7 +4627,6 @@
         "futile.logger",
         "genefilter",
         "ggdendro",
-        "ggm",
         "ggplot2",
         "httr",
         "jquerylib",
@@ -11360,7 +11359,6 @@
         "gargle",
         "ggdendro",
         "ggforce",
-        "ggm",
         "ggplot2",
         "ggraph",
         "ggrepel",
@@ -14935,7 +14933,6 @@
         "apcluster",
         "flexclust",
         "ggdendro",
-        "ggm",
         "ggplot2",
         "latex2exp",
         "latticeExtra",
@@ -27801,7 +27798,6 @@
         "dbplyr",
         "dplyr",
         "genefilter",
-        "ggm",
         "ggplot2",
         "glmnet",
         "gplots",
@@ -31003,7 +30999,6 @@
         "epiNEM",
         "flexclust",
         "ggdendro",
-        "ggm",
         "ggplot2",
         "latex2exp",
         "latticeExtra",
@@ -31156,7 +31151,6 @@
     "nethet": [
         "ICS",
         "ICSNP",
-        "ggm",
         "ggplot2",
         "glmnet",
         "multtest",
@@ -53434,11 +53428,9 @@
     "BoolNet": [],
     "pcalg": [
         "RBGL",
-        "ggm",
         "lmtest",
         "vcd"
     ],
-    "ggm": [],
     "vcd": [
         "lmtest"
     ],
