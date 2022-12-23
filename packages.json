@@ -129,7 +129,6 @@
     ],
     "ADImpute": [
         "GenomicRanges",
-        "SAVER",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -23689,7 +23688,6 @@
     ],
     "scRecover": [
         "Rmagic",
-        "SAVER",
         "gamlss"
     ],
     "ScreenR": [
@@ -28918,7 +28916,6 @@
         "dplyr",
         "tibble"
     ],
-    "SAVER": [],
     "affydata": [
         "affy"
     ],
