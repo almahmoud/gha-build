@@ -540,7 +540,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "graphite",
         "lme4",
         "nloptr",
         "org.Bt.eg.db",
@@ -1817,7 +1816,6 @@
     ],
     "dce": [
         "epiNEM",
-        "graphite",
         "mnem",
         "modelr",
         "org.Hs.eg.db",
@@ -2310,7 +2308,6 @@
         "GO.db",
         "GSEABase",
         "annotate",
-        "graphite",
         "org.Hs.eg.db",
         "pathview",
         "safe"
@@ -2420,7 +2417,6 @@
         "WGCNA",
         "enrichplot",
         "ggtree",
-        "graphite",
         "reactome.db",
         "scatterpie",
         "treeio"
@@ -3253,7 +3249,6 @@
         "topGO"
     ],
     "granulator": [],
-    "graphite": [],
     "GreyListChIP": [
         "BSgenome",
         "rtracklayer"
@@ -3281,7 +3276,6 @@
         "GO.db",
         "GSEABase",
         "annotate",
-        "graphite",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "pathview",
@@ -4550,7 +4544,6 @@
         "enrichplot",
         "ggpubr",
         "ggtree",
-        "graphite",
         "iBBiG",
         "lme4",
         "miRspongeR",
@@ -4580,7 +4573,6 @@
         "enrichplot",
         "ggpubr",
         "ggtree",
-        "graphite",
         "lme4",
         "modelr",
         "nloptr",
@@ -4674,8 +4666,7 @@
     "mogsa": [
         "GSEABase",
         "annotate",
-        "genefilter",
-        "graphite"
+        "genefilter"
     ],
     "MOMA": [],
     "monaLisa": [
@@ -4883,9 +4874,7 @@
         "rtracklayer"
     ],
     "MultiDataSet": [],
-    "multiGSEA": [
-        "graphite"
-    ],
+    "multiGSEA": [],
     "multiHiCcompare": [
         "CGHcall",
         "HiCcompare",
@@ -4909,7 +4898,6 @@
         "enrichplot",
         "geneplotter",
         "ggtree",
-        "graphite",
         "mixOmics",
         "reactome.db",
         "ropls",
@@ -5565,7 +5553,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "graphite",
         "reactome.db",
         "scatterpie",
         "treeio"
@@ -5640,7 +5627,6 @@
         "mixOmics"
     ],
     "PoTRA": [
-        "graphite",
         "org.Hs.eg.db"
     ],
     "POWSC": [
@@ -6030,7 +6016,6 @@
         "HDO.db",
         "enrichplot",
         "ggtree",
-        "graphite",
         "reactome.db",
         "scatterpie",
         "treeio"
@@ -6765,7 +6750,6 @@
         "fields",
         "genefilter",
         "ggtree",
-        "graphite",
         "heatmaply",
         "interactiveDisplayBase",
         "meshr",
@@ -7307,7 +7291,6 @@
         "rtracklayer"
     ],
     "sSNAPPY": [
-        "graphite",
         "org.Hs.eg.db"
     ],
     "ssPATHS": [
@@ -7346,7 +7329,6 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "graphite",
         "miRNAtap",
         "miRNAtap.db",
         "org.Hs.eg.db"
@@ -8087,7 +8069,6 @@
         "GO.db",
         "GSEABase",
         "annotate",
-        "graphite",
         "lme4",
         "lmerTest",
         "nloptr",
