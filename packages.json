@@ -969,7 +969,6 @@
         "rstatix",
         "viridis"
     ],
-    "enhancerHomologSearch": [],
     "ENmix": [
         "HDF5Array",
         "minfi",
