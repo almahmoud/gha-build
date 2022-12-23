@@ -13969,7 +13969,6 @@
         "annotate",
         "globaltest"
     ],
-    "SIMAT": [],
     "SimBindProfiles": [
         "AnnotationDbi",
         "Ringo",
