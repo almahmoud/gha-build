@@ -105,7 +105,6 @@
         "smoother"
     ],
     "ADImpute": [
-        "SAVER",
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
@@ -19341,8 +19340,7 @@
         "SummarizedExperiment"
     ],
     "scRecover": [
-        "Rmagic",
-        "SAVER"
+        "Rmagic"
     ],
     "ScreenR": [
         "dplyr",
@@ -23560,7 +23558,6 @@
     "dbplyr": [
         "dplyr"
     ],
-    "SAVER": [],
     "PFAM.db": [
         "AnnotationDbi",
         "KEGGREST"
