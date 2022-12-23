@@ -1577,9 +1577,7 @@
         "XVector",
         "blob"
     ],
-    "ASSET": [
-        "msm"
-    ],
+    "ASSET": [],
     "ASSIGN": [
         "AnnotationDbi",
         "BiocParallel",
@@ -1592,7 +1590,6 @@
         "blob",
         "genefilter",
         "ggplot2",
-        "msm",
         "pillar",
         "sva",
         "tibble"
@@ -22308,7 +22305,6 @@
         "fastseg",
         "ggplot2",
         "methylKit",
-        "msm",
         "pillar",
         "qvalue",
         "reshape2",
@@ -31891,8 +31887,7 @@
         "viridis"
     ],
     "REBET": [
-        "ASSET",
-        "msm"
+        "ASSET"
     ],
     "rebook": [
         "BiocStyle",
@@ -40124,7 +40119,6 @@
         "ggrepel",
         "htmlwidgets",
         "knitr",
-        "msm",
         "pillar",
         "plotly",
         "purrr",
@@ -44508,7 +44502,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "msm": [],
     "msigdbr": [
         "babelgene",
         "dplyr",
