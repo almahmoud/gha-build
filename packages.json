@@ -4560,7 +4560,6 @@
         "DOSE",
         "GOSemSim",
         "HDO.db",
-        "HiveR",
         "TCGAbiolinks",
         "clusterProfiler",
         "enrichplot",
@@ -8419,7 +8418,6 @@
     "cvms": [
         "lme4"
     ],
-    "HiveR": [],
     "anyLib": [],
     "blme": [
         "lme4"
