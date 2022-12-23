@@ -94,7 +94,6 @@
     "CancerInSilico": [],
     "CATALYST": [
         "FlowSOM",
-        "drc",
         "ggpubr",
         "rstatix"
     ],
@@ -282,9 +281,7 @@
         "Gviz"
     ],
     "dmrseq": [],
-    "Doscheda": [
-        "drc"
-    ],
+    "Doscheda": [],
     "easier": [
         "ggpubr",
         "rstatix"
@@ -445,9 +442,7 @@
     "goSorensen": [
         "clusterProfiler"
     ],
-    "GRmetrics": [
-        "drc"
-    ],
+    "GRmetrics": [],
     "GSReg": [],
     "GUIDEseq": [],
     "Gviz": [],
@@ -561,9 +556,7 @@
         "methylumi",
         "wateRmelon"
     ],
-    "MEDME": [
-        "drc"
-    ],
+    "MEDME": [],
     "meshes": [],
     "MetaboSignal": [
         "MWASTools"
@@ -998,9 +991,7 @@
     ],
     "svaNUMT": [],
     "svaRetro": [],
-    "synergyfinder": [
-        "drc"
-    ],
+    "synergyfinder": [],
     "synlet": [],
     "TADCompare": [
         "CGHcall",
@@ -1102,7 +1093,6 @@
     "GenomicState": [
         "derfinder"
     ],
-    "drc": [],
     "FactoMineR": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [],
