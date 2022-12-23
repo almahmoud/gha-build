@@ -3270,7 +3270,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "puma": [],
     "PureCN": [
         "BSgenome",
         "GenomicFeatures",
