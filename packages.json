@@ -943,7 +943,6 @@
     "shinyMethyl": [
         "IlluminaHumanMethylation450kmanifest"
     ],
-    "SIAMCAT": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
