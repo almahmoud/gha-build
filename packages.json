@@ -10072,7 +10072,6 @@
         "dbplyr",
         "tidyr"
     ],
-    "nethet": [],
     "netOmics": [
         "AnnotationDbi",
         "GO.db",
