@@ -721,7 +721,6 @@
         "ReactomePA",
         "clusterProfiler"
     ],
-    "MungeSumstats": [],
     "muscat": [],
     "musicatk": [
         "FactoMineR",
