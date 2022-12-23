@@ -849,7 +849,6 @@
         "lumi",
         "methylumi"
     ],
-    "Xeva": [],
     "YAPSA": [
         "SomaticSignatures",
         "ggbio"
