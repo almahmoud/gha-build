@@ -172,8 +172,7 @@
     "benchdamic": [
         "ANCOMBC",
         "lmerTest",
-        "mia",
-        "zinbwave"
+        "mia"
     ],
     "BgeeCall": [],
     "bigmelon": [
@@ -481,9 +480,7 @@
         "qpgraph"
     ],
     "cliProfiler": [],
-    "clusterExperiment": [
-        "zinbwave"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
     ],
@@ -1994,8 +1991,7 @@
     "netOmics": [],
     "NetSAM": [],
     "netSmooth": [
-        "clusterExperiment",
-        "zinbwave"
+        "clusterExperiment"
     ],
     "netZooR": [
         "GOstats",
@@ -2561,9 +2557,7 @@
         "ExperimentHub",
         "SCATEData"
     ],
-    "scBFA": [
-        "zinbwave"
-    ],
+    "scBFA": [],
     "scBubbletree": [],
     "scCB2": [],
     "scClassify": [],
@@ -2700,8 +2694,7 @@
         "ensembldb",
         "scDblFinder",
         "scMerge",
-        "scRNAseq",
-        "zinbwave"
+        "scRNAseq"
     ],
     "SingleMoleculeFootprinting": [
         "GenomicFiles",
@@ -3110,7 +3103,6 @@
         "pbkrtest",
         "variancePartition"
     ],
-    "zinbwave": [],
     "ggpubr": [
         "car",
         "pbkrtest",
