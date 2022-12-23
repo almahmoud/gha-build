@@ -7767,7 +7767,6 @@
         "derfinder",
         "highcharter",
         "interactiveDisplayBase",
-        "pairsD3",
         "recount",
         "rtracklayer",
         "viridis"
@@ -11744,7 +11743,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "pairsD3": [],
     "pwrEWAS.data": [
         "AnnotationDbi",
         "AnnotationHub",
