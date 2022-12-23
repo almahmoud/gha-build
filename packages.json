@@ -17130,8 +17130,7 @@
         "rtracklayer"
     ],
     "GRridge": [
-        "glmnet",
-        "penalized"
+        "glmnet"
     ],
     "GSCA": [
         "bslib",
@@ -26906,7 +26905,6 @@
         "multtest",
         "org.Hs.eg.db",
         "pandaR",
-        "penalized",
         "pillar",
         "progress",
         "purrr",
@@ -36001,8 +35999,7 @@
         "Rmagic",
         "SAVER",
         "gamlss",
-        "glmnet",
-        "penalized"
+        "glmnet"
     ],
     "ScreenR": [
         "dplyr",
@@ -47466,7 +47463,6 @@
         "stringr"
     ],
     "sf": [],
-    "penalized": [],
     "fGarch": [
         "cvar",
         "fBasics"
