@@ -3530,7 +3530,6 @@
         "mixOmics",
         "viridis"
     ],
-    "DEqMS": [],
     "derfinder": [
         "AnnotationDbi",
         "BSgenome",
