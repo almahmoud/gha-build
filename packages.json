@@ -3011,7 +3011,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "HiCBricks": [],
     "HiCcompare": [
         "CGHcall",
         "QDNAseq"
