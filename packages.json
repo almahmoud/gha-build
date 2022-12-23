@@ -13487,7 +13487,6 @@
         "sqldf"
     ],
     "ImmuneSpaceR": [
-        "Rlabkey",
         "dendextend",
         "dplyr",
         "egg",
@@ -34167,7 +34166,6 @@
         "dplyr",
         "tibble"
     ],
-    "Rlabkey": [],
     "golem": [
         "knitr",
         "purrr",
