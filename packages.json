@@ -2018,7 +2018,6 @@
         "viridis"
     ],
     "CytoML": [
-        "ggcyto",
         "openCyto"
     ],
     "dada2": [
@@ -3528,7 +3527,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "ggcyto": [],
     "ggmsa": [
         "ggalt",
         "ggtree",
