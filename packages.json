@@ -848,7 +848,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene",
-        "chipseq",
         "systemPipeR"
     ],
     "ChIPseeker": [
@@ -859,7 +858,6 @@
         "ggraph",
         "viridis"
     ],
-    "chipseq": [],
     "ChIPseqR": [],
     "ChIPsim": [],
     "ChIPXpress": [
@@ -1134,9 +1132,7 @@
         "rhdf5",
         "viridis"
     ],
-    "CopywriteR": [
-        "chipseq"
-    ],
+    "CopywriteR": [],
     "Cormotif": [
         "affy"
     ],
@@ -2492,7 +2488,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "VariantTools",
-        "chipseq",
         "gmapR"
     ],
     "HTSFilter": [
@@ -4121,7 +4116,6 @@
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
-        "chipseq",
         "enrichplot",
         "ggraph",
         "rGREAT",
@@ -5165,9 +5159,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "soGGi": [
-        "chipseq"
-    ],
+    "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
@@ -5591,8 +5583,7 @@
     ],
     "transcriptogramer": [],
     "transcriptR": [
-        "GenomicFeatures",
-        "chipseq"
+        "GenomicFeatures"
     ],
     "transformGamPoi": [
         "HDF5Array",
