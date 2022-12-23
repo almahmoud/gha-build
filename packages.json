@@ -1815,7 +1815,6 @@
         "nloptr",
         "testthat"
     ],
-    "CNORode": [],
     "CNTools": [
         "annotate",
         "genefilter"
@@ -5613,9 +5612,7 @@
         "cmdfun",
         "testthat"
     ],
-    "MEIGOR": [
-        "CNORode"
-    ],
+    "MEIGOR": [],
     "Melissa": [
         "BPRMeth",
         "BiocStyle"
