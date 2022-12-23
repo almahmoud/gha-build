@@ -9633,7 +9633,6 @@
         "interactiveDisplayBase",
         "rhdf5",
         "rtracklayer",
-        "shinyTree",
         "viridis"
     ],
     "VariantTools": [
@@ -10782,7 +10781,6 @@
     "kmlShape": [],
     "mirbase.db": [],
     "condformat": [],
-    "shinyTree": [],
     "msigdb": [
         "AnnotationHub",
         "ExperimentHub",
