@@ -132,9 +132,7 @@
         "Gviz"
     ],
     "circRNAprofiler": [],
-    "CircSeqAlignTk": [
-        "Rhisat2"
-    ],
+    "CircSeqAlignTk": [],
     "CiteFuse": [
         "propr"
     ],
@@ -655,7 +653,6 @@
         "ggbio"
     ],
     "rexposome": [],
-    "Rhisat2": [],
     "RiboProfiling": [
         "ggbio"
     ],
