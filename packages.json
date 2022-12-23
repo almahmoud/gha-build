@@ -15927,7 +15927,6 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "dks": [],
     "DMCFB": [
         "BiocIO",
         "BiocParallel",
