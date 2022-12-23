@@ -4551,7 +4551,6 @@
     ],
     "vissE": [
         "ggraph",
-        "msigdb",
         "viridis"
     ],
     "Voyager": [
@@ -4988,6 +4987,5 @@
     ],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [],
-    "kmlShape": [],
-    "msigdb": []
+    "kmlShape": []
 }
