@@ -674,7 +674,6 @@
         "GenomicRanges",
         "IRanges",
         "NADA",
-        "RcppZiggurat",
         "Rfast",
         "S4Vectors",
         "SummarizedExperiment",
@@ -849,7 +848,6 @@
         "BiocParallel",
         "RSpectra",
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "baseline",
         "bslib",
@@ -3653,7 +3651,6 @@
         "RSQLite",
         "RcppEigen",
         "RcppML",
-        "RcppZiggurat",
         "Rfast",
         "Rmpfr",
         "Rvmmin",
@@ -11144,7 +11141,6 @@
         "IRanges",
         "RcppEigen",
         "RcppML",
-        "RcppZiggurat",
         "Rfast",
         "S4Vectors",
         "ScaledMatrix",
@@ -11839,7 +11835,6 @@
     "COTAN": [
         "ComplexHeatmap",
         "IRanges",
-        "RcppZiggurat",
         "Rfast",
         "S4Vectors",
         "doParallel",
@@ -15582,7 +15577,6 @@
         "IRanges",
         "RcppEigen",
         "RcppML",
-        "RcppZiggurat",
         "Rfast",
         "S4Vectors",
         "ScaledMatrix",
@@ -28109,7 +28103,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "RcppZiggurat",
         "Rfast",
         "S4Vectors",
         "SummarizedExperiment",
@@ -32151,7 +32144,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
-        "RcppZiggurat",
         "Rfast",
         "S4Vectors",
         "SummarizedExperiment",
@@ -32756,7 +32748,6 @@
         "RSQLite",
         "RcppEigen",
         "RcppML",
-        "RcppZiggurat",
         "Rfast",
         "Rmpfr",
         "S4Vectors",
@@ -38318,7 +38309,6 @@
         "RSQLite",
         "RUVSeq",
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "Rsamtools",
         "S4Vectors",
@@ -38676,7 +38666,6 @@
         "GenomicRanges",
         "IRanges",
         "NADA",
-        "RcppZiggurat",
         "Rfast",
         "S4Vectors",
         "SummarizedExperiment",
@@ -39452,7 +39441,6 @@
     ],
     "optimalFlow": [
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "S4Vectors",
         "bslib",
@@ -41098,7 +41086,6 @@
     "PhenStat": [
         "MatrixModels",
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "SmoothWin",
         "broom",
@@ -43277,7 +43264,6 @@
         "KEGGREST",
         "RSQLite",
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "Rsamtools",
         "S4Vectors",
@@ -60384,7 +60370,6 @@
         "vctrs"
     ],
     "VERSO": [
-        "RcppZiggurat",
         "Rfast",
         "ape"
     ],
@@ -61513,7 +61498,6 @@
         "KEGGgraph",
         "RSQLite",
         "RcppEigen",
-        "RcppZiggurat",
         "Rfast",
         "Rgraphviz",
         "S4Vectors",
@@ -62242,10 +62226,7 @@
         "NADA",
         "survival"
     ],
-    "Rfast": [
-        "RcppZiggurat"
-    ],
-    "RcppZiggurat": [],
+    "Rfast": [],
     "NADA": [
         "survival"
     ],
@@ -62275,7 +62256,6 @@
         "vctrs"
     ],
     "speaq": [
-        "RcppZiggurat",
         "Rfast",
         "doRNG",
         "doSNOW",
@@ -69201,7 +69181,6 @@
     ],
     "BWStest": [],
     "SmoothWin": [
-        "RcppZiggurat",
         "Rfast"
     ],
     "pingr": [],
