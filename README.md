@@ -1,34 +1,34 @@
 # Summary
 
-2613 built packages
+2617 built packages
 
 16 failed packages
 
-1179 unclaimed packages
+1175 unclaimed packages
 
 
 
 ## Failed (16)
 | Package                                                                                          | Status   | BBS Status                                                                     | Log                                                                                        | Known Error   |
 |--------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------|
-| [BitSeq](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                         | Failed   | [ERROR](https://bioconductor.org/checkResults/release/bioc-LATEST/BitSeq)      | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/BitSeq)          | Error unknown |
-| [CancerInSilico](https://github.com/almahmoud/gha-build/actions/runs/3767173530)                 | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/CancerInSilico) | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/CancerInSilico)  | Error unknown |
-| [Travel](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404535459)         | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/Travel)         | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/Travel)          | Error unknown |
-| [ReorderCluster](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404266040) | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/ReorderCluster)  | Error unknown |
-| [mGSZ](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/mGSZ)            | Error unknown |
-| [GenomicTools](https://github.com/almahmoud/gha-build/actions/runs/3766999283)                   | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/GenomicTools)    | Error unknown |
-| [spp](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404271674)            | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/spp)             | Error unknown |
-| [propr](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404105863)          | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/propr)           | Error unknown |
-| [EntropyExplorer](https://github.com/almahmoud/gha-build/actions/runs/3766999283)                | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/EntropyExplorer) | Error unknown |
-| [SPARQL](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404101863)         | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/SPARQL)          | Error unknown |
-| [mppa](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/mppa)            | Error unknown |
-| [Rmagic](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404286632)         | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/Rmagic)          | Error unknown |
-| [sampSurf](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404286103)       | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/sampSurf)        | Error unknown |
-| [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3766967064)                        | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/GenKern)         | Error unknown |
-| [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404287819)           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/vbsr)            | Error unknown |
-| [kmlShape](https://github.com/almahmoud/gha-build/actions/runs/3767069794)                       | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/c60070f5/lists/failed/kmlShape)        | Error unknown |
+| [BitSeq](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                         | Failed   | [ERROR](https://bioconductor.org/checkResults/release/bioc-LATEST/BitSeq)      | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/BitSeq)          | Error unknown |
+| [CancerInSilico](https://github.com/almahmoud/gha-build/actions/runs/3767173530)                 | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/CancerInSilico) | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/CancerInSilico)  | Error unknown |
+| [Travel](https://github.com/almahmoud/gha-build/actions/runs/3767173530/jobs/6404535459)         | Failed   | [OK](https://bioconductor.org/checkResults/release/bioc-LATEST/Travel)         | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/Travel)          | Error unknown |
+| [ReorderCluster](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404266040) | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/ReorderCluster)  | Error unknown |
+| [mGSZ](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/mGSZ)            | Error unknown |
+| [GenomicTools](https://github.com/almahmoud/gha-build/actions/runs/3766999283)                   | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/GenomicTools)    | Error unknown |
+| [spp](https://github.com/almahmoud/gha-build/actions/runs/3766999283/jobs/6404271674)            | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/spp)             | Error unknown |
+| [propr](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404105863)          | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/propr)           | Error unknown |
+| [EntropyExplorer](https://github.com/almahmoud/gha-build/actions/runs/3766999283)                | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/EntropyExplorer) | Error unknown |
+| [SPARQL](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404101863)         | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/SPARQL)          | Error unknown |
+| [mppa](https://github.com/almahmoud/gha-build/actions/runs/3767091704)                           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/mppa)            | Error unknown |
+| [Rmagic](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404286632)         | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/Rmagic)          | Error unknown |
+| [sampSurf](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404286103)       | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/sampSurf)        | Error unknown |
+| [GenKern](https://github.com/almahmoud/gha-build/actions/runs/3766967064)                        | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/GenKern)         | Error unknown |
+| [vbsr](https://github.com/almahmoud/gha-build/actions/runs/3767069794/jobs/6404287819)           | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/vbsr)            | Error unknown |
+| [kmlShape](https://github.com/almahmoud/gha-build/actions/runs/3767069794)                       | Failed   | Failed retrieving                                                              | [Build Log](https://github.com/almahmoud/gha-build/blob/23ec6dc0/lists/failed/kmlShape)        | Error unknown |
 
-## Unclaimed (1179)
+## Unclaimed (1175)
 | Package                                                                          | Status    | Tarball   |
 |----------------------------------------------------------------------------------|-----------|-----------|
 | a4                                                                               | Unclaimed |           |
@@ -549,7 +549,6 @@
 | memes                                                                            | Unclaimed |           |
 | meshes                                                                           | Unclaimed |           |
 | meshr                                                                            | Unclaimed |           |
-| [Metab](https://github.com/almahmoud/gha-build/actions/runs/3768026236)          | Unclaimed |           |
 | metabCombiner                                                                    | Unclaimed |           |
 | MetaboAnnotation                                                                 | Unclaimed |           |
 | MetaboSignal                                                                     | Unclaimed |           |
@@ -657,7 +656,6 @@
 | netboost                                                                         | Unclaimed |           |
 | netboxr                                                                          | Unclaimed |           |
 | netOmics                                                                         | Unclaimed |           |
-| [netresponse](https://github.com/almahmoud/gha-build/actions/runs/3768026236)    | Unclaimed |           |
 | NetSAM                                                                           | Unclaimed |           |
 | netSmooth                                                                        | Unclaimed |           |
 | netZooR                                                                          | Unclaimed |           |
@@ -735,7 +733,7 @@
 | podkat                                                                           | Unclaimed |           |
 | pogos                                                                            | Unclaimed |           |
 | POMA                                                                             | Unclaimed |           |
-| PoTRA                                                                            | Unclaimed |           |
+| [PoTRA](https://github.com/almahmoud/gha-build/actions/runs/3768026236)          | Unclaimed |           |
 | [POWSC](https://github.com/almahmoud/gha-build/actions/runs/3768026236)          | Unclaimed |           |
 | ppcseq                                                                           | Unclaimed |           |
 | [PPInfer](https://github.com/almahmoud/gha-build/actions/runs/3768026236)        | Unclaimed |           |
@@ -894,7 +892,7 @@
 | segmenter                                                                        | Unclaimed |           |
 | segmentSeq                                                                       | Unclaimed |           |
 | selectKSigs                                                                      | Unclaimed |           |
-| SemDist                                                                          | Unclaimed |           |
+| [SemDist](https://github.com/almahmoud/gha-build/actions/runs/3768026236)        | Unclaimed |           |
 | seq2pathway                                                                      | Unclaimed |           |
 | seqCAT                                                                           | Unclaimed |           |
 | SeqGSEA                                                                          | Unclaimed |           |
@@ -959,7 +957,7 @@
 | SPONGE                                                                           | Unclaimed |           |
 | SpotClean                                                                        | Unclaimed |           |
 | SPsimSeq                                                                         | Unclaimed |           |
-| sRACIPE                                                                          | Unclaimed |           |
+| [sRACIPE](https://github.com/almahmoud/gha-build/actions/runs/3768026236)        | Unclaimed |           |
 | srnadiff                                                                         | Unclaimed |           |
 | ssPATHS                                                                          | Unclaimed |           |
 | STAN                                                                             | Unclaimed |           |
@@ -974,12 +972,12 @@
 | SubCellBarCode                                                                   | Unclaimed |           |
 | Summix                                                                           | Unclaimed |           |
 | supersigs                                                                        | Unclaimed |           |
-| surfaltr                                                                         | Unclaimed |           |
+| [surfaltr](https://github.com/almahmoud/gha-build/actions/runs/3768026236)       | Unclaimed |           |
 | survtype                                                                         | Unclaimed |           |
 | sva                                                                              | Unclaimed |           |
 | svaNUMT                                                                          | Unclaimed |           |
 | svaRetro                                                                         | Unclaimed |           |
-| SWATH2stats                                                                      | Unclaimed |           |
+| [SWATH2stats](https://github.com/almahmoud/gha-build/actions/runs/3768026236)    | Unclaimed |           |
 | synergyfinder                                                                    | Unclaimed |           |
 | synlet                                                                           | Unclaimed |           |
 | syntenet                                                                         | Unclaimed |           |
@@ -1082,7 +1080,7 @@
 | adductData                                                                       | Unclaimed |           |
 | curatedTCGAData                                                                  | Unclaimed |           |
 | lmerTest                                                                         | Unclaimed |           |
-| Seurat                                                                           | Unclaimed |           |
+| [Seurat](https://github.com/almahmoud/gha-build/actions/runs/3768026236)         | Unclaimed |           |
 | BSgenome.Hsapiens.UCSC.hg19                                                      | Unclaimed |           |
 | TxDb.Hsapiens.UCSC.hg19.knownGene                                                | Unclaimed |           |
 | Homo.sapiens                                                                     | Unclaimed |           |
@@ -1128,7 +1126,6 @@
 | TxDb.Dmelanogaster.UCSC.dm3.ensGene                                              | Unclaimed |           |
 | [qs](https://github.com/almahmoud/gha-build/actions/runs/3767347055)             | Unclaimed |           |
 | BSgenome.Drerio.UCSC.danRer7                                                     | Unclaimed |           |
-| [rio](https://github.com/almahmoud/gha-build/actions/runs/3768026236)            | Unclaimed |           |
 | factoextra                                                                       | Unclaimed |           |
 | Ecume                                                                            | Unclaimed |           |
 | spatstat                                                                         | Unclaimed |           |
@@ -1140,7 +1137,6 @@
 | RFOC                                                                             | Unclaimed |           |
 | GEOmap                                                                           | Unclaimed |           |
 | mbest                                                                            | Unclaimed |           |
-| [plsVarSel](https://github.com/almahmoud/gha-build/actions/runs/3768026236)      | Unclaimed |           |
 | arm                                                                              | Unclaimed |           |
 | rsq                                                                              | Unclaimed |           |
 | text2vec                                                                         | Unclaimed |           |
@@ -1211,7 +1207,7 @@
 | SNPlocs.Hsapiens.dbSNP150.GRCh38                                                 | Unclaimed |           |
 | msigdb                                                                           | Unclaimed |           |
 
-## Succeeded (2613)
+## Succeeded (2617)
 | Package                                                                                                  | Status    | Tarball                                                                                                                                                                                                                |
 |----------------------------------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [a4Classif](https://github.com/almahmoud/gha-build/actions/runs/3767651769)                              | Succeeded | [a4Classif_1.46.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/a4Classif_1.46.0_R_x86_64-pc-linux-gnu.tar.gz)                                                |
@@ -1820,6 +1816,7 @@
 | [MeSHDbi](https://github.com/almahmoud/gha-build/actions/runs/3767911582/jobs/6406022722)                | Succeeded | [451.7 kB MeSHDbi_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MeSHDbi_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                           |
 | [MesKit](https://github.com/almahmoud/gha-build/actions/runs/3767881161)                                 | Succeeded | [3.5 MB MesKit_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MesKit_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [messina](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405558363)                | Succeeded | [1.2 MB messina_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/messina_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
+| [Metab](https://github.com/almahmoud/gha-build/actions/runs/3768026236)                                  | Succeeded | [3.4 MB Metab_1.32.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/Metab_1.32.0_R_x86_64-pc-linux-gnu.tar.gz)                                                 |
 | [metabinR](https://github.com/almahmoud/gha-build/actions/runs/3767213834/jobs/6404568275)               | Succeeded | [metabinR_1.0.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/metabinR_1.0.0_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [MetaboCoreUtils](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                        | Succeeded | [497.8 kB MetaboCoreUtils_1.6.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/MetaboCoreUtils_1.6.0_R_x86_64-pc-linux-gnu.tar.gz)                             |
 | [metabolomicsWorkbenchR](https://github.com/almahmoud/gha-build/actions/runs/3767910028)                 | Succeeded | [2.2 MB metabolomicsWorkbenchR_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/metabolomicsWorkbenchR_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                 |
@@ -1921,6 +1918,7 @@
 | [nethet](https://github.com/almahmoud/gha-build/actions/runs/3767669406)                                 | Succeeded | [1.0 MB nethet_1.30.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/nethet_1.30.0_R_x86_64-pc-linux-gnu.tar.gz)                                               |
 | [NetPathMiner](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405031882)           | Succeeded | [3.7 MB NetPathMiner_1.34.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/NetPathMiner_1.34.0_R_x86_64-pc-linux-gnu.tar.gz)                                   |
 | [netprioR](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405556153)               | Succeeded | [707.1 kB netprioR_1.24.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/netprioR_1.24.0_R_x86_64-pc-linux-gnu.tar.gz)                                         |
+| [netresponse](https://github.com/almahmoud/gha-build/actions/runs/3768026236)                            | Succeeded | [1.5 MB netresponse_1.58.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/netresponse_1.58.0_R_x86_64-pc-linux-gnu.tar.gz)                                     |
 | [NeuCA](https://github.com/almahmoud/gha-build/actions/runs/3767910028)                                  | Succeeded | [NeuCA_1.4.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/NeuCA_1.4.0_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [NewWave](https://github.com/almahmoud/gha-build/actions/runs/3767881161)                                | Succeeded | [395.4 kB NewWave_1.8.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/NewWave_1.8.0_R_x86_64-pc-linux-gnu.tar.gz)                                             |
 | [ngsReports](https://github.com/almahmoud/gha-build/actions/runs/3767975500)                             | Succeeded | [3.2 MB ngsReports_2.0.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ngsReports_2.0.2_R_x86_64-pc-linux-gnu.tar.gz)                                         |
@@ -3177,6 +3175,7 @@
 | [RMTstat](https://github.com/almahmoud/gha-build/actions/runs/3767125340/jobs/6404454398)                | Succeeded | [RMTstat_0.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/RMTstat_0.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
 | [pdist](https://github.com/almahmoud/gha-build/actions/runs/3766967064/jobs/6404100659)                  | Succeeded | [pdist_1.2.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/pdist_1.2.1_R_x86_64-pc-linux-gnu.tar.gz)                                                          |
 | [phylolm](https://github.com/almahmoud/gha-build/actions/runs/3767484891)                                | Succeeded | [phylolm_2.6.2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/phylolm_2.6.2_R_x86_64-pc-linux-gnu.tar.gz)                                                      |
+| [rio](https://github.com/almahmoud/gha-build/actions/runs/3768026236)                                    | Succeeded | [538.6 kB rio_0.5.29_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/rio_0.5.29_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [transport](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405029293)              | Succeeded | [656.1 kB transport_0.13-0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/transport_0.13-0_R_x86_64-pc-linux-gnu.tar.gz)                                       |
 | [spatstat.model](https://github.com/almahmoud/gha-build/actions/runs/3767729336/jobs/6405554932)         | Succeeded | [3.2 MB spatstat.model_3.0-2_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/spatstat.model_3.0-2_R_x86_64-pc-linux-gnu.tar.gz)                                 |
 | [spatstat.linnet](https://github.com/almahmoud/gha-build/actions/runs/3767911582/jobs/6406022944)        | Succeeded | [1.4 MB spatstat.linnet_3.0-3_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/spatstat.linnet_3.0-3_R_x86_64-pc-linux-gnu.tar.gz)                               |
@@ -3244,6 +3243,7 @@
 | [logging](https://github.com/almahmoud/gha-build/actions/runs/3766964070/jobs/6404030451)                | Succeeded | [logging_0.10-108_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/logging_0.10-108_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [svgPanZoom](https://github.com/almahmoud/gha-build/actions/runs/3767816208)                             | Succeeded | [svgPanZoom_0.3.4_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/svgPanZoom_0.3.4_R_x86_64-pc-linux-gnu.tar.gz)                                                |
 | [httpcache](https://github.com/almahmoud/gha-build/actions/runs/3767558890)                              | Succeeded | [httpcache_1.2.0_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/httpcache_1.2.0_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
+| [plsVarSel](https://github.com/almahmoud/gha-build/actions/runs/3768026236)                              | Succeeded | [plsVarSel_0.9.9_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/plsVarSel_0.9.9_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
 | [kknn](https://github.com/almahmoud/gha-build/actions/runs/3767466645/jobs/6405050806)                   | Succeeded | [319.4 kB kknn_1.3.1_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/kknn_1.3.1_R_x86_64-pc-linux-gnu.tar.gz)                                                   |
 | [FSelector](https://github.com/almahmoud/gha-build/actions/runs/3767391380/jobs/6405031303)              | Succeeded | [FSelector_0.33_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/FSelector_0.33_R_x86_64-pc-linux-gnu.tar.gz)                                                    |
 | [ineq](https://github.com/almahmoud/gha-build/actions/runs/3766959387/jobs/6404027255)                   | Succeeded | [85.2 kB ineq_0.2-13_R_x86_64-pc-linux-gnu.tar.gz](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/2022-12-23-11-26/ineq_0.2-13_R_x86_64-pc-linux-gnu.tar.gz)                                                  |
