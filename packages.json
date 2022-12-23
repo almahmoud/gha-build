@@ -5768,7 +5768,6 @@
         "rvest",
         "selectr",
         "shadowtext",
-        "sn",
         "tidygraph",
         "tidyr",
         "tidyverse",
@@ -7127,7 +7126,6 @@
         "plotly",
         "rmarkdown",
         "safe",
-        "sn",
         "tidyr",
         "topGO"
     ],
@@ -13377,7 +13375,6 @@
         "mutoss",
         "plotly",
         "rmarkdown",
-        "sn",
         "tidyr",
         "topconfects"
     ],
@@ -15422,8 +15419,7 @@
         "graphite",
         "metap",
         "multcomp",
-        "mutoss",
-        "sn"
+        "mutoss"
     ],
     "multiHiCcompare": [
         "Biostrings",
@@ -15511,7 +15507,6 @@
         "shadowtext",
         "shiny",
         "shinydashboard",
-        "sn",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -15790,7 +15785,6 @@
         "rmarkdown",
         "rtracklayer",
         "shiny",
-        "sn",
         "trackViewer",
         "viridis",
         "vroom"
@@ -17122,7 +17116,6 @@
         "qvalue",
         "scatterpie",
         "shadowtext",
-        "sn",
         "tidygraph",
         "tidyr",
         "tidytree",
@@ -17386,8 +17379,7 @@
     "PERFect": [
         "Biostrings",
         "ggplot2",
-        "phyloseq",
-        "sn"
+        "phyloseq"
     ],
     "periodicDNA": [
         "BSgenome",
@@ -20565,7 +20557,6 @@
         "rematch2",
         "rmarkdown",
         "ropls",
-        "sn",
         "testthat",
         "tidyr",
         "waldo"
@@ -22550,7 +22541,6 @@
         "shinyalert",
         "shinycssloaders",
         "shinyjs",
-        "sn",
         "spatstat.explore",
         "sva",
         "tidyr",
@@ -27826,16 +27816,12 @@
     "metap": [
         "TFisher",
         "multcomp",
-        "mutoss",
-        "sn"
+        "mutoss"
     ],
-    "TFisher": [
-        "sn"
-    ],
+    "TFisher": [],
     "mutoss": [
         "multcomp"
     ],
-    "sn": [],
     "DMwR2": [
         "dplyr",
         "quantmod",
