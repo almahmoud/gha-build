@@ -638,7 +638,6 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "MIGSA": [],
     "MineICA": [
         "lumi",
         "methylumi"
