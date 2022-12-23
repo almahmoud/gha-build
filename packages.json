@@ -16,8 +16,7 @@
         "blob",
         "genefilter",
         "glmnet",
-        "multtest",
-        "pamr"
+        "multtest"
     ],
     "a4Base": [
         "AnnotationDbi",
@@ -38,8 +37,7 @@
     "a4Classif": [
         "ROCR",
         "a4Core",
-        "glmnet",
-        "pamr"
+        "glmnet"
     ],
     "a4Core": [
         "glmnet"
@@ -8052,7 +8050,6 @@
         "hms",
         "iC10",
         "ipred",
-        "pamr",
         "pillar",
         "prodlim",
         "progress",
@@ -14886,7 +14883,6 @@
         "latticeExtra",
         "lme4",
         "nloptr",
-        "pamr",
         "pbkrtest",
         "pillar",
         "plsVarSel",
@@ -15258,7 +15254,6 @@
         "hms",
         "iC10",
         "ipred",
-        "pamr",
         "pillar",
         "prodlim",
         "progress",
@@ -24366,7 +24361,6 @@
         "ggplot2",
         "hardhat",
         "ipred",
-        "pamr",
         "pillar",
         "prodlim",
         "purrr",
@@ -28823,7 +28817,6 @@
         "knitr",
         "lme4",
         "nloptr",
-        "pamr",
         "pbkrtest",
         "piano",
         "pillar",
@@ -33494,9 +33487,7 @@
         "valr",
         "vroom"
     ],
-    "Rmagpie": [
-        "pamr"
-    ],
+    "Rmagpie": [],
     "RMassBank": [
         "BiocParallel",
         "ChemmineR",
@@ -37255,7 +37246,6 @@
         "nloptr",
         "openair",
         "org.Hs.eg.db",
-        "pamr",
         "patchwork",
         "pbkrtest",
         "pillar",
@@ -43721,7 +43711,6 @@
     ],
     "glmnet": [],
     "ROCR": [],
-    "pamr": [],
     "GO.db": [
         "AnnotationDbi",
         "Biostrings",
@@ -46620,9 +46609,7 @@
         "tibble",
         "tidyselect"
     ],
-    "iC10": [
-        "pamr"
-    ],
+    "iC10": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "AnnotationDbi",
         "BiocFileCache",
