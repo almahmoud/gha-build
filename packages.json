@@ -13153,7 +13153,6 @@
         "biganalytics",
         "biglm",
         "bigmemory",
-        "bigmemory.sri",
         "bit64",
         "blob",
         "cachem",
@@ -19418,7 +19417,6 @@
         "TH.data",
         "XVector",
         "bigmemory",
-        "bigmemory.sri",
         "broom",
         "bslib",
         "cachem",
@@ -19540,7 +19538,6 @@
         "ModelMetrics",
         "RcppEigen",
         "bigmemory",
-        "bigmemory.sri",
         "broom",
         "bslib",
         "cachem",
@@ -49557,7 +49554,6 @@
         "biganalytics",
         "biglm",
         "bigmemory",
-        "bigmemory.sri",
         "bslib",
         "cachem",
         "checkmate",
@@ -56124,7 +56120,6 @@
         "XVector",
         "askpass",
         "bigmemory",
-        "bigmemory.sri",
         "bit64",
         "blob",
         "caTools",
@@ -98621,19 +98616,14 @@
         "irlba"
     ],
     "ChIPXpressData": [
-        "bigmemory",
-        "bigmemory.sri"
+        "bigmemory"
     ],
-    "bigmemory": [
-        "bigmemory.sri"
-    ],
+    "bigmemory": [],
     "biganalytics": [
         "biglm",
         "bigmemory",
-        "bigmemory.sri",
         "foreach"
     ],
-    "bigmemory.sri": [],
     "shinyhelper": [
         "bslib",
         "cachem",
@@ -99832,7 +99822,6 @@
         "Matrix",
         "RcppEigen",
         "bigmemory",
-        "bigmemory.sri",
         "callr",
         "desc",
         "diffobj",
