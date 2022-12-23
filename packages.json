@@ -1419,7 +1419,6 @@
     "HTqPCR": [
         "affy"
     ],
-    "HTSeqGenie": [],
     "iCARE": [
         "Hmisc",
         "viridis"
