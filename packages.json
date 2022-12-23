@@ -104,7 +104,6 @@
         "scater",
         "scuttle"
     ],
-    "alevinQC": [],
     "AllelicImbalance": [
         "BSgenome",
         "GenomicFeatures",
