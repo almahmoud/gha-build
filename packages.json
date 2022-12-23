@@ -2542,7 +2542,6 @@
     "decoupleR": [],
     "DeepBlueR": [
         "GenomicAlignments",
-        "diffr",
         "rtracklayer"
     ],
     "DeepPINCS": [
@@ -11446,7 +11445,6 @@
         "nloptr",
         "testthat"
     ],
-    "diffr": [],
     "text2vec": [
         "mlapi"
     ],
