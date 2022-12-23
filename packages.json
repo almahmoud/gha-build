@@ -27204,8 +27204,7 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "XVector",
-        "kmer",
-        "phylogram"
+        "kmer"
     ],
     "padma": [
         "DT",
@@ -46773,10 +46772,7 @@
         "vroom"
     ],
     "mRMRe": [],
-    "kmer": [
-        "phylogram"
-    ],
-    "phylogram": [],
+    "kmer": [],
     "tfprobability": [
         "keras",
         "tensorflow",
