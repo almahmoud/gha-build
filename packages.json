@@ -2192,7 +2192,6 @@
         "ggraph",
         "viridis"
     ],
-    "MungeSumstats": [],
     "muscat": [
         "scater",
         "viridis"
