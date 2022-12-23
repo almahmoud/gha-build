@@ -383,7 +383,6 @@
         "annotate",
         "mixtools"
     ],
-    "autonomics": [],
     "BaalChIP": [
         "doBy",
         "lme4",
