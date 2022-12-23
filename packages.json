@@ -469,12 +469,10 @@
     ],
     "cbaf": [
         "RTCGAToolbox",
-        "TCGAutils",
         "cBioPortalData"
     ],
     "cBioPortalData": [
-        "RTCGAToolbox",
-        "TCGAutils"
+        "RTCGAToolbox"
     ],
     "cbpManager": [
         "basilisk"
@@ -1971,7 +1969,6 @@
     ],
     "LowMACA": [
         "RTCGAToolbox",
-        "TCGAutils",
         "TFBSTools",
         "cBioPortalData",
         "motifStack"
@@ -3432,9 +3429,7 @@
         "survminer",
         "viridis"
     ],
-    "RTCGAToolbox": [
-        "TCGAutils"
-    ],
+    "RTCGAToolbox": [],
     "RTN": [
         "car"
     ],
@@ -3993,15 +3988,12 @@
         "sesame",
         "viridis"
     ],
-    "TCGAutils": [],
     "TDARACNE": [
         "GenKern"
     ],
     "TEKRABber": [],
     "tenXplore": [],
-    "terraTCGAdata": [
-        "TCGAutils"
-    ],
+    "terraTCGAdata": [],
     "TFARM": [
         "fields",
         "viridis"
