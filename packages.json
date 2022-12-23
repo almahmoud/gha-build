@@ -891,7 +891,6 @@
         "diffcyt",
         "ggpubr",
         "lme4",
-        "mice",
         "nloptr",
         "pbkrtest",
         "rstatix"
@@ -2642,8 +2641,7 @@
     "GENESIS": [
         "GWASTools",
         "SeqVarTools",
-        "logistf",
-        "mice"
+        "logistf"
     ],
     "GeneStructureTools": [
         "BSgenome",
@@ -2994,8 +2992,7 @@
         "rtracklayer"
     ],
     "GWASTools": [
-        "logistf",
-        "mice"
+        "logistf"
     ],
     "gwasurvivr": [
         "BSgenome",
@@ -3003,7 +3000,6 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "logistf",
-        "mice",
         "rtracklayer"
     ],
     "GWENA": [
@@ -3621,8 +3617,7 @@
     ],
     "mBPCR": [
         "GWASTools",
-        "logistf",
-        "mice"
+        "logistf"
     ],
     "MBQN": [],
     "MCbiclust": [
@@ -4001,8 +3996,7 @@
         "treeio"
     ],
     "midasHLA": [
-        "HardyWeinberg",
-        "mice"
+        "HardyWeinberg"
     ],
     "MIGSA": [
         "AnnotationForge",
@@ -4712,7 +4706,6 @@
         "car",
         "genefilter",
         "lme4",
-        "mice",
         "nloptr",
         "omicade4",
         "pbkrtest",
@@ -4962,7 +4955,6 @@
         "car",
         "lme4",
         "logistf",
-        "mice",
         "nloptr",
         "pbkrtest"
     ],
@@ -5550,7 +5542,6 @@
         "Hmisc",
         "car",
         "lme4",
-        "mice",
         "nloptr",
         "pbkrtest"
     ],
@@ -5710,7 +5701,6 @@
         "GenomicFeatures",
         "bumphunter",
         "logistf",
-        "mice",
         "rtracklayer"
     ],
     "RNAinteract": [
@@ -6176,8 +6166,7 @@
         "interactiveDisplayBase"
     ],
     "SeqVarTools": [
-        "logistf",
-        "mice"
+        "logistf"
     ],
     "sesame": [
         "AnnotationHub",
@@ -6701,7 +6690,6 @@
         "drc",
         "fields",
         "lme4",
-        "mice",
         "modelr",
         "nloptr",
         "pbkrtest",
@@ -7125,8 +7113,7 @@
     ],
     "VariantExperiment": [
         "SeqVarTools",
-        "logistf",
-        "mice"
+        "logistf"
     ],
     "VariantFiltering": [
         "AnnotationHub",
@@ -7534,7 +7521,6 @@
         "pbkrtest"
     ],
     "broom.mixed": [],
-    "mice": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "GenomicFeatures",
@@ -7725,9 +7711,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "logistf": [
-        "mice"
-    ],
+    "logistf": [],
     "shinyHeatmaply": [
         "dendextend",
         "heatmaply"
@@ -7814,9 +7798,7 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "HardyWeinberg": [
-        "mice"
-    ],
+    "HardyWeinberg": [],
     "lumiHumanAll.db": [],
     "BSgenome.Hsapiens.UCSC.hg18": [
         "BSgenome",
