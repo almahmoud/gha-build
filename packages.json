@@ -3527,7 +3527,6 @@
         "shinyHeatmaply",
         "viridis"
     ],
-    "GEOmetadb": [],
     "GeomxTools": [
         "NanoStringNCTools",
         "lme4",
