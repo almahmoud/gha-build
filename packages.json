@@ -35701,9 +35701,7 @@
         "tidyr",
         "tidyselect"
     ],
-    "seqCNA": [
-        "adehabitatLT"
-    ],
+    "seqCNA": [],
     "seqcombo": [
         "ggplot2",
         "pillar",
@@ -47933,7 +47931,6 @@
         "tweenr",
         "viridis"
     ],
-    "adehabitatLT": [],
     "rbokeh": [
         "bslib",
         "dplyr",
