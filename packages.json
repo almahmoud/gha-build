@@ -1765,7 +1765,6 @@
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
-        "imager",
         "precrec",
         "rmarkdown",
         "rms",
@@ -17744,7 +17743,6 @@
         "dbplyr",
         "dplyr",
         "htmlwidgets",
-        "imager",
         "interactiveDisplayBase",
         "rGenomeTracksData",
         "rmarkdown",
@@ -24359,7 +24357,6 @@
     "precrec": [
         "ggplot2"
     ],
-    "imager": [],
     "synaptome.db": [
         "AnnotationDbi",
         "AnnotationHub",
