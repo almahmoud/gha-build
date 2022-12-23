@@ -5778,7 +5778,6 @@
         "GenomicAlignments",
         "GenomicFeatures",
         "KEGGREST",
-        "Modstrings",
         "Rsamtools",
         "Structstrings",
         "SummarizedExperiment",
@@ -11074,7 +11073,6 @@
         "htmlwidgets",
         "viridis"
     ],
-    "Modstrings": [],
     "MOFA2": [
         "HDF5Array",
         "basilisk",
@@ -15143,7 +15141,6 @@
         "Gviz",
         "Hmisc",
         "KEGGREST",
-        "Modstrings",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -15165,7 +15162,6 @@
         "Gviz",
         "Hmisc",
         "KEGGREST",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "SummarizedExperiment",
@@ -15188,7 +15184,6 @@
         "Gviz",
         "Hmisc",
         "KEGGREST",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "SummarizedExperiment",
@@ -15211,7 +15206,6 @@
         "Gviz",
         "Hmisc",
         "KEGGREST",
-        "Modstrings",
         "RNAmodR",
         "Rsamtools",
         "SummarizedExperiment",
@@ -18749,18 +18743,15 @@
         "tidyr"
     ],
     "tRNA": [
-        "Modstrings",
         "Structstrings"
     ],
     "tRNAdbImport": [
-        "Modstrings",
         "Structstrings",
         "tRNA"
     ],
     "tRNAscanImport": [
         "BSgenome",
         "GenomicAlignments",
-        "Modstrings",
         "Rsamtools",
         "Structstrings",
         "SummarizedExperiment",
