@@ -11854,8 +11854,7 @@
         "survival",
         "tibble",
         "vctrs",
-        "viridis",
-        "wavethresh"
+        "viridis"
     ],
     "consensus": [
         "gplots"
@@ -15314,7 +15313,6 @@
         "timeSeries",
         "tseries",
         "vctrs",
-        "wavethresh",
         "xts"
     ],
     "DeMixT": [
@@ -69616,7 +69614,6 @@
         "vctrs",
         "viridis"
     ],
-    "wavethresh": [],
     "feature": [
         "ks",
         "mgcv",
