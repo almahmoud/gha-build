@@ -1372,9 +1372,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "omada": [
-        "diceR"
-    ],
+    "omada": [],
     "omicRexposome": [
         "FactoMineR",
         "car",
@@ -2173,7 +2171,6 @@
     "RcmdrMisc": [
         "car"
     ],
-    "diceR": [],
     "AICcmodavg": [],
     "genlasso": [],
     "phastCons100way.UCSC.hg38": [],
