@@ -1213,7 +1213,6 @@
         "intergraph",
         "networkD3",
         "patchwork",
-        "sna",
         "sva",
         "viridis"
     ],
@@ -1597,7 +1596,6 @@
         "networkD3",
         "patchwork",
         "rtracklayer",
-        "sna",
         "sva",
         "viridis"
     ],
@@ -1906,7 +1904,6 @@
         "intergraph",
         "patchwork",
         "scatterpie",
-        "sna",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -1980,7 +1977,6 @@
         "pbkrtest",
         "rstatix",
         "scatterpie",
-        "sna",
         "testthat",
         "tidygraph",
         "tidytree",
@@ -2432,7 +2428,6 @@
         "MSnbase",
         "htmlwidgets",
         "plotly",
-        "sna",
         "vsn"
     ],
     "clusterExperiment": [
@@ -4194,7 +4189,6 @@
         "org.Mm.eg.db",
         "patchwork",
         "scatterpie",
-        "sna",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -4989,7 +4983,6 @@
         "intergraph",
         "patchwork",
         "scatterpie",
-        "sna",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -5833,8 +5826,7 @@
         "treeio"
     ],
     "GGPA": [
-        "GGally",
-        "sna"
+        "GGally"
     ],
     "ggspavis": [
         "BiocFileCache",
@@ -10493,7 +10485,6 @@
         "ggnetwork",
         "ggrepel",
         "recipes",
-        "sna",
         "supraHex"
     ],
     "piano": [
@@ -14191,7 +14182,6 @@
         "intergraph",
         "networkD3",
         "rtracklayer",
-        "sna",
         "testthat"
     ],
     "systemPipeR": [
@@ -15938,14 +15928,12 @@
         "interactiveDisplayBase"
     ],
     "ggnetwork": [
-        "ggrepel",
-        "sna"
+        "ggrepel"
     ],
     "intergraph": [],
     "networkD3": [
         "htmlwidgets"
     ],
-    "sna": [],
     "shinyBS": [],
     "superheat": [
         "ggdendro"
