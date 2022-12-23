@@ -1995,9 +1995,7 @@
         "exomeCopy",
         "testthat"
     ],
-    "CNVRanger": [
-        "GDSArray"
-    ],
+    "CNVRanger": [],
     "CNVrd2": [
         "AnnotationDbi",
         "BSgenome",
@@ -4196,7 +4194,6 @@
         "treeio",
         "viridis"
     ],
-    "GDSArray": [],
     "gemini": [
         "mixtools",
         "plotly"
@@ -11535,7 +11532,6 @@
         "rtracklayer"
     ],
     "VariantExperiment": [
-        "GDSArray",
         "SeqVarTools",
         "logistf",
         "mice"
