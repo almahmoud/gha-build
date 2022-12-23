@@ -20792,7 +20792,6 @@
         "KEGGREST",
         "SummarizedExperiment",
         "annotate",
-        "arrow",
         "bslib",
         "dplyr",
         "ggplot2",
@@ -31590,7 +31589,6 @@
         "rtracklayer",
         "shiny"
     ],
-    "arrow": [],
     "neo4r": [
         "bslib",
         "dplyr",
