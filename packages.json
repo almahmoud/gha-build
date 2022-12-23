@@ -89,7 +89,6 @@
     "appreci8R": [
         "GenomicScores",
         "HDF5Array",
-        "Homo.sapiens",
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
@@ -140,7 +139,6 @@
     ],
     "ATACCoGAPS": [
         "CoGAPS",
-        "Homo.sapiens",
         "Mus.musculus",
         "motifmatchr",
         "projectR",
@@ -291,7 +289,6 @@
     ],
     "biscuiteer": [
         "HDF5Array",
-        "Homo.sapiens",
         "Mus.musculus",
         "bsseq",
         "dmrseq",
@@ -1053,7 +1050,6 @@
         "Gviz",
         "HDF5Array",
         "Hmisc",
-        "Homo.sapiens",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
@@ -1073,9 +1069,7 @@
     "epivizrStandalone": [
         "epivizr"
     ],
-    "erma": [
-        "Homo.sapiens"
-    ],
+    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
@@ -1397,9 +1391,7 @@
         "dendextend",
         "viridis"
     ],
-    "GSReg": [
-        "Homo.sapiens"
-    ],
+    "GSReg": [],
     "GSVA": [
         "HDF5Array",
         "rhdf5"
@@ -1749,7 +1741,6 @@
     "mCSEA": [
         "Gviz",
         "Hmisc",
-        "Homo.sapiens",
         "biovizBase",
         "viridis"
     ],
@@ -3529,7 +3520,6 @@
     "uncoverappLib": [
         "Gviz",
         "Hmisc",
-        "Homo.sapiens",
         "biovizBase",
         "viridis"
     ],
@@ -3654,7 +3644,6 @@
     ],
     "ReorderCluster": [],
     "Seurat": [],
-    "Homo.sapiens": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
         "HDF5Array",
