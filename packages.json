@@ -1669,9 +1669,7 @@
         "reshape2",
         "tibble"
     ],
-    "beadarraySNP": [
-        "quantsmooth"
-    ],
+    "beadarraySNP": [],
     "BEARscc": [
         "GenomicRanges",
         "SingleCellExperiment",
@@ -10373,7 +10371,6 @@
         "dplyr",
         "logistf",
         "mice",
-        "quantsmooth",
         "reshape2",
         "tibble",
         "tidyr"
@@ -11831,7 +11828,6 @@
         "dplyr",
         "logistf",
         "mice",
-        "quantsmooth",
         "tibble",
         "tidyr"
     ],
@@ -11855,7 +11851,6 @@
         "dplyr",
         "logistf",
         "mice",
-        "quantsmooth",
         "rtracklayer",
         "tibble",
         "tidyr"
@@ -14449,7 +14444,6 @@
         "logistf",
         "mice",
         "oligoClasses",
-        "quantsmooth",
         "tibble",
         "tidyr"
     ],
@@ -21289,7 +21283,6 @@
         "tidyr",
         "vroom"
     ],
-    "quantsmooth": [],
     "QuartPAC": [
         "Biostrings",
         "GraphPAC",
@@ -25265,8 +25258,7 @@
         "KEGGREST",
         "RSQLite",
         "annotate",
-        "globaltest",
-        "quantsmooth"
+        "globaltest"
     ],
     "SIMAT": [
         "ggplot2",
