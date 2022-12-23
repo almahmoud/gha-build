@@ -38541,7 +38541,6 @@
         "patchwork",
         "pillar",
         "plotly",
-        "proxyC",
         "purrr",
         "reshape2",
         "rhdf5",
@@ -40782,7 +40781,6 @@
         "multtest",
         "phyloseq",
         "pillar",
-        "proxyC",
         "purrr",
         "reshape2",
         "reticulate",
@@ -40865,7 +40863,6 @@
         "blob",
         "httr",
         "org.Hs.eg.db",
-        "proxyC",
         "vctrs"
     ],
     "sincell": [
@@ -53826,7 +53823,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "proxyC": [],
     "sparsepca": [],
     "origami": [],
     "Rmagic": [],
