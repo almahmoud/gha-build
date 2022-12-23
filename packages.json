@@ -8999,7 +8999,6 @@
         "org.Hs.eg.db"
     ],
     "KEGGREST": [],
-    "KinSwingR": [],
     "kissDE": [
         "AnnotationDbi",
         "BSgenome",
