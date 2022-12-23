@@ -18760,7 +18760,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "HDF5Array",
-        "HTMLUtils",
         "IRanges",
         "KEGGREST",
         "KEGGdzPathwaysGEO",
@@ -74727,7 +74726,6 @@
         "sandwich",
         "survival"
     ],
-    "HTMLUtils": [],
     "ELMER.data": [
         "GenomeInfoDb",
         "GenomicRanges",
