@@ -3331,7 +3331,6 @@
         "DESeq2",
         "sva"
     ],
-    "sevenC": [],
     "SGSeq": [
         "GenomicFeatures"
     ],
