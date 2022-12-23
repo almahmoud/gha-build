@@ -47180,7 +47180,6 @@
         "interp",
         "latticeExtra"
     ],
-    "RTCA": [],
     "RTCGA": [
         "MatrixModels",
         "RcppEigen",
