@@ -331,8 +331,7 @@
         "caret",
         "genefilter",
         "mixtools",
-        "pRoloc",
-        "pRolocdata"
+        "pRoloc"
     ],
     "basecallQC": [],
     "Basic4Cseq": [
@@ -7012,7 +7011,6 @@
         "nloptr",
         "pbkrtest"
     ],
-    "pRolocdata": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "rtracklayer"
