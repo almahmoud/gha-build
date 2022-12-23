@@ -21299,7 +21299,6 @@
         "rtracklayer",
         "visNetwork"
     ],
-    "pkgDepTools": [],
     "planet": [
         "dplyr",
         "tibble"
