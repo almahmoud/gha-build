@@ -3575,7 +3575,6 @@
     ],
     "extraChIPs": [
         "BSgenome",
-        "ComplexUpset",
         "GenomicAlignments",
         "GenomicFeatures",
         "GenomicInteractions",
@@ -4064,7 +4063,6 @@
         "rtracklayer"
     ],
     "GeneTonic": [
-        "ComplexUpset",
         "DESeq2",
         "DT",
         "GO.db",
@@ -11852,7 +11850,6 @@
     "gprofiler2": [
         "plotly"
     ],
-    "ComplexUpset": [],
     "gap": [
         "plotly"
     ],
