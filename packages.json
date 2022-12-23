@@ -42981,7 +42981,6 @@
         "GenomicRanges",
         "MultiAssayExperiment",
         "PharmacoGx",
-        "Rmisc",
         "SummarizedExperiment",
         "XVector",
         "bench",
@@ -49164,6 +49163,5 @@
         "ggplot2",
         "pillar",
         "tibble"
-    ],
-    "Rmisc": []
+    ]
 }
