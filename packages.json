@@ -1187,7 +1187,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "pcaPP",
         "pillar",
         "plyr",
         "progress",
@@ -9070,7 +9069,6 @@
         "nlme",
         "openssl",
         "org.Hs.eg.db",
-        "pcaPP",
         "phenoTest",
         "pillar",
         "plyr",
@@ -15302,7 +15300,6 @@
         "multicool",
         "munsell",
         "nlme",
-        "pcaPP",
         "pillar",
         "plot3D",
         "plyr",
@@ -17323,7 +17320,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "pcaPP",
         "pillar",
         "plyr",
         "promises",
@@ -18842,7 +18838,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "pcaPP",
         "pillar",
         "plyr",
         "progress",
@@ -19630,7 +19625,6 @@
         "httr",
         "lifecycle",
         "openssl",
-        "pcaPP",
         "pillar",
         "repr",
         "robustbase",
@@ -26304,7 +26298,6 @@
         "multicool",
         "munsell",
         "nlme",
-        "pcaPP",
         "pillar",
         "plot3D",
         "plyr",
@@ -26527,7 +26520,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "plyr",
@@ -27094,7 +27086,6 @@
         "highr",
         "knitr",
         "lifecycle",
-        "pcaPP",
         "robustbase",
         "rrcov",
         "stringr",
@@ -27422,7 +27413,6 @@
         "mgcv",
         "multicool",
         "nlme",
-        "pcaPP",
         "plot3D",
         "robustbase",
         "rrcov"
@@ -27441,7 +27431,6 @@
         "mgcv",
         "multicool",
         "nlme",
-        "pcaPP",
         "plot3D",
         "robustbase",
         "rrcov"
@@ -27603,7 +27592,6 @@
         "munsell",
         "ncdfFlow",
         "nlme",
-        "pcaPP",
         "pillar",
         "plot3D",
         "rainbow",
@@ -27682,7 +27670,6 @@
         "munsell",
         "ncdfFlow",
         "nlme",
-        "pcaPP",
         "pillar",
         "plot3D",
         "rainbow",
@@ -27996,7 +27983,6 @@
         "multicool",
         "munsell",
         "nlme",
-        "pcaPP",
         "pillar",
         "plot3D",
         "rainbow",
@@ -28072,7 +28058,6 @@
         "multicool",
         "munsell",
         "nlme",
-        "pcaPP",
         "pillar",
         "plot3D",
         "promises",
@@ -30578,7 +30563,6 @@
         "munsell",
         "nlme",
         "nloptr",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "pkgload",
@@ -37746,14 +37730,12 @@
     "iterativeBMA": [
         "BMA",
         "Biobase",
-        "pcaPP",
         "robustbase",
         "rrcov",
         "survival"
     ],
     "iterativeBMAsurv": [
         "BMA",
-        "pcaPP",
         "robustbase",
         "rrcov",
         "survival"
@@ -37926,7 +37908,6 @@
         "multicool",
         "munsell",
         "nlme",
-        "pcaPP",
         "pillar",
         "plot3D",
         "rainbow",
@@ -39616,7 +39597,6 @@
         "nloptr",
         "optparse",
         "pbkrtest",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "pkgload",
@@ -39712,7 +39692,6 @@
         "openssl",
         "optparse",
         "pbkrtest",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "pkgload",
@@ -46800,7 +46779,6 @@
         "nloptr",
         "optparse",
         "pbkrtest",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "pkgload",
@@ -53871,7 +53849,6 @@
         "mgcv",
         "multicool",
         "nlme",
-        "pcaPP",
         "pillar",
         "plot3D",
         "rgl",
@@ -55836,7 +55813,6 @@
         "nlme",
         "opencpu",
         "openssl",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "progress",
@@ -56094,7 +56070,6 @@
         "nlme",
         "openssl",
         "org.Hs.eg.db",
-        "pcaPP",
         "pillar",
         "progress",
         "purrr",
@@ -56705,7 +56680,6 @@
         "munsell",
         "nlme",
         "openssl",
-        "pcaPP",
         "pillar",
         "plot3D",
         "progress",
@@ -66877,7 +66851,6 @@
         "mgcv",
         "munsell",
         "nlme",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "promises",
@@ -67521,7 +67494,6 @@
         "nlme",
         "openssl",
         "patchwork",
-        "pcaPP",
         "pillar",
         "plotly",
         "plyr",
@@ -75849,7 +75821,6 @@
         "highr",
         "knitr",
         "lifecycle",
-        "pcaPP",
         "plyr",
         "robustbase",
         "rrcov",
@@ -76571,7 +76542,6 @@
         "nlme",
         "nloptr",
         "pbkrtest",
-        "pcaPP",
         "pheatmap",
         "pillar",
         "pkgload",
@@ -81359,7 +81329,6 @@
         "nlme",
         "openssl",
         "org.Hs.eg.db",
-        "pcaPP",
         "pillar",
         "plot3D",
         "plyr",
@@ -85064,7 +85033,6 @@
         "tibble",
         "vctrs"
     ],
-    "pcaPP": [],
     "baseline": [
         "limSolve"
     ],
@@ -88696,13 +88664,11 @@
     ],
     "formula.tools": [],
     "BMA": [
-        "pcaPP",
         "robustbase",
         "rrcov",
         "survival"
     ],
     "rrcov": [
-        "pcaPP",
         "robustbase"
     ],
     "ALL": [
@@ -90691,7 +90657,6 @@
     ],
     "ccaPP": [
         "RcppArmadillo",
-        "pcaPP",
         "robustbase"
     ],
     "pscl": [],
@@ -91740,7 +91705,6 @@
         "multicool",
         "munsell",
         "nlme",
-        "pcaPP",
         "pillar",
         "plot3D",
         "rainbow",
@@ -91759,7 +91723,6 @@
         "multicool",
         "munsell",
         "nlme",
-        "pcaPP",
         "pillar",
         "plot3D",
         "rainbow",
@@ -91777,7 +91740,6 @@
         "multicool",
         "munsell",
         "nlme",
-        "pcaPP",
         "pillar",
         "plot3D",
         "scales",
@@ -92092,7 +92054,6 @@
     "word2vec": [],
     "robust": [
         "fit.models",
-        "pcaPP",
         "robustbase",
         "rrcov"
     ],
@@ -92980,7 +92941,6 @@
     "chemometrics": [
         "class",
         "e1071",
-        "pcaPP",
         "robustbase"
     ],
     "optparse": [],
@@ -95879,9 +95839,7 @@
         "tinytex",
         "vctrs"
     ],
-    "copula": [
-        "pcaPP"
-    ],
+    "copula": [],
     "proxyC": [
         "RcppArmadillo"
     ],
@@ -96733,7 +96691,6 @@
     "clustvarsel": [
         "BMA",
         "foreach",
-        "pcaPP",
         "robustbase",
         "rrcov",
         "survival"
