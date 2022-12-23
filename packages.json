@@ -83877,7 +83877,6 @@
         "viridisLite"
     ],
     "scBFA": [
-        "ADGofTest",
         "AnnotationDbi",
         "Biobase",
         "BiocParallel",
@@ -119521,12 +119520,10 @@
         "zlibbioc"
     ],
     "copula": [
-        "ADGofTest",
         "Matrix",
         "numDeriv",
         "pcaPP"
     ],
-    "ADGofTest": [],
     "proxyC": [
         "Matrix",
         "RcppArmadillo"
