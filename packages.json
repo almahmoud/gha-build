@@ -14215,7 +14215,6 @@
         "htmlwidgets",
         "httr",
         "interp",
-        "invgamma",
         "irlba",
         "jpeg",
         "jquerylib",
@@ -21647,7 +21646,6 @@
         "foreach",
         "futile.logger",
         "generics",
-        "invgamma",
         "irlba",
         "lambda.r",
         "lifecycle",
@@ -22835,7 +22833,6 @@
         "httpuv",
         "httr",
         "igraph",
-        "invgamma",
         "irlba",
         "jquerylib",
         "knitr",
@@ -24972,7 +24969,6 @@
         "htmlwidgets",
         "httr",
         "interp",
-        "invgamma",
         "irlba",
         "jpeg",
         "jquerylib",
@@ -100002,7 +99998,6 @@
         "htmlwidgets",
         "httr",
         "interp",
-        "invgamma",
         "irlba",
         "jpeg",
         "jquerylib",
@@ -108560,7 +108555,6 @@
     "ashr": [
         "Matrix",
         "RcppArmadillo",
-        "invgamma",
         "irlba",
         "mixsqp",
         "truncnorm"
@@ -108570,7 +108564,6 @@
         "RcppArmadillo",
         "irlba"
     ],
-    "invgamma": [],
     "timsac": [],
     "ChIPXpressData": [
         "bigmemory",
