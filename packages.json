@@ -301,7 +301,6 @@
         "ggrepel",
         "scater",
         "scuttle",
-        "smurf",
         "tibble",
         "viridis"
     ],
@@ -28940,7 +28939,6 @@
         "ggplot2",
         "tibble"
     ],
-    "smurf": [],
     "ggbeeswarm": [
         "ggplot2",
         "tibble"
