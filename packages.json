@@ -1804,7 +1804,6 @@
         "ggbio"
     ],
     "RESOLVE": [],
-    "restfulSE": [],
     "rexposome": [
         "FactoMineR",
         "car"
@@ -2207,9 +2206,7 @@
         "GenKern"
     ],
     "TEKRABber": [],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [
         "TCGAutils"
     ],
