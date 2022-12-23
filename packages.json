@@ -4246,7 +4246,6 @@
         "survival",
         "tibble",
         "topGO",
-        "vioplot",
         "viridis",
         "xlsx"
     ],
@@ -6667,7 +6666,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vioplot",
         "viridis",
         "waldo"
     ],
@@ -9598,8 +9596,7 @@
         "stable",
         "statip",
         "stringr",
-        "tibble",
-        "vioplot"
+        "tibble"
     ],
     "compEpiTools": [
         "AnnotationDbi",
@@ -20720,8 +20717,7 @@
         "XVector",
         "blob",
         "httr",
-        "openssl",
-        "vioplot"
+        "openssl"
     ],
     "GOpro": [
         "AnnotationDbi",
@@ -30618,7 +30614,6 @@
         "survival",
         "tibble",
         "tidyselect",
-        "vioplot",
         "vroom"
     ],
     "monocle": [
@@ -38039,7 +38034,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vioplot",
         "vsn",
         "webshot",
         "xts"
@@ -56726,7 +56720,6 @@
         "tibble"
     ],
     "ranger": [],
-    "vioplot": [],
     "imager": [
         "downloader",
         "igraph",
