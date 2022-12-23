@@ -11976,7 +11976,6 @@
         "SummarizedExperiment",
         "XVector",
         "annotate",
-        "bayesm",
         "blob",
         "compositions",
         "e1071",
@@ -33264,7 +33263,6 @@
         "XVector",
         "ade4",
         "ape",
-        "bayesm",
         "biomformat",
         "compositions",
         "dplyr",
@@ -39495,7 +39493,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "bayesm",
         "bslib",
         "compositions",
         "crosstalk",
@@ -51542,7 +51539,6 @@
         "SummarizedExperiment",
         "XVector",
         "aroma.light",
-        "bayesm",
         "biomaRt",
         "blob",
         "bslib",
@@ -67538,10 +67534,7 @@
     "HTSCluster": [
         "edgeR"
     ],
-    "compositions": [
-        "bayesm"
-    ],
-    "bayesm": [],
+    "compositions": [],
     "faahKO": [
         "BiocParallel",
         "DelayedArray",
