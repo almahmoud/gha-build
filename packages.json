@@ -14275,7 +14275,6 @@
     "nanotatoR": [
         "AnnotationDbi",
         "KEGGREST",
-        "VarfromPDB",
         "broom",
         "cellranger",
         "dbplyr",
@@ -25684,7 +25683,6 @@
         "htmlwidgets",
         "rmarkdown"
     ],
-    "VarfromPDB": [],
     "mppa": [],
     "dnet": [
         "dplyr",
