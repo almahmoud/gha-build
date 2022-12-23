@@ -383,7 +383,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ChIPanalyser": [],
     "ChIPComp": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
