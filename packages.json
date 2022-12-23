@@ -1046,7 +1046,6 @@
         "viridis"
     ],
     "ensemblVEP": [],
-    "epialleleR": [],
     "EpiCompare": [
         "ChIPseeker",
         "enrichplot",
