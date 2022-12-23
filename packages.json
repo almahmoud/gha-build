@@ -2797,7 +2797,6 @@
         "cytomapper"
     ],
     "simplifyEnrichment": [],
-    "sincell": [],
     "SingleCellSignalR": [],
     "singleCellTK": [
         "ExperimentHub",
