@@ -59,7 +59,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "GDCRNATools": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
