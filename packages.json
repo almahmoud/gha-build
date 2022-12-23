@@ -109,7 +109,6 @@
     ],
     "ANCOMBC": [
         "Hmisc",
-        "TreeSummarizedExperiment",
         "lmerTest",
         "mia",
         "scater",
@@ -349,7 +348,6 @@
         "DESeq2",
         "Hmisc",
         "Seurat",
-        "TreeSummarizedExperiment",
         "biomformat",
         "corncob",
         "lmerTest",
@@ -663,9 +661,7 @@
         "TCGAutils",
         "cBioPortalData"
     ],
-    "CBEA": [
-        "TreeSummarizedExperiment"
-    ],
+    "CBEA": [],
     "cBioPortalData": [
         "GenomicFeatures",
         "RTCGAToolbox",
@@ -1901,7 +1897,6 @@
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
-        "TreeSummarizedExperiment",
         "rhdf5"
     ],
     "extraChIPs": [
@@ -3178,15 +3173,11 @@
         "rhdf5"
     ],
     "mia": [
-        "TreeSummarizedExperiment",
         "scater",
         "viridis"
     ],
-    "miaSim": [
-        "TreeSummarizedExperiment"
-    ],
+    "miaSim": [],
     "miaViz": [
-        "TreeSummarizedExperiment",
         "ggraph",
         "mia",
         "scater",
@@ -3216,7 +3207,6 @@
         "ANCOMBC",
         "DESeq2",
         "Hmisc",
-        "TreeSummarizedExperiment",
         "biomformat",
         "coin",
         "lmerTest",
@@ -5642,7 +5632,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "TreeSummarizedExperiment": [],
     "trena": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
