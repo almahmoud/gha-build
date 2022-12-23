@@ -6121,7 +6121,6 @@
         "ShortRead",
         "rtracklayer"
     ],
-    "RVS": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR"
