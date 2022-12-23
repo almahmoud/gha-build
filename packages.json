@@ -38503,7 +38503,6 @@
         "Biostrings",
         "DBI",
         "DelayedArray",
-        "DrugVsDiseasedata",
         "GEOquery",
         "GenomeInfoDb",
         "GenomeInfoDbData",
@@ -159958,7 +159957,6 @@
         "vctrs"
     ],
     "numbers": [],
-    "DrugVsDiseasedata": [],
     "cMap2data": [],
     "hgu133a2.db": [
         "AnnotationDbi",
