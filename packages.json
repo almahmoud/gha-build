@@ -2472,8 +2472,7 @@
         "SingleCellExperiment",
         "annotate",
         "biomaRt",
-        "genefu",
-        "survcomp"
+        "genefu"
     ],
     "consensusSeekeR": [
         "GenomicAlignments",
@@ -4775,8 +4774,7 @@
     "genefu": [
         "AnnotationDbi",
         "BiocFileCache",
-        "biomaRt",
-        "survcomp"
+        "biomaRt"
     ],
     "GeneGeneInteR": [
         "DT",
@@ -6916,7 +6914,6 @@
         "plotly",
         "rmdformats",
         "rtracklayer",
-        "survcomp",
         "viridis"
     ],
     "metavizr": [
@@ -8938,7 +8935,6 @@
         "piano",
         "recipes",
         "rstatix",
-        "survcomp",
         "survminer",
         "testthat",
         "verification",
@@ -11458,7 +11454,6 @@
         "pbkrtest",
         "rstatix",
         "rtracklayer",
-        "survcomp",
         "survminer",
         "testthat",
         "viridis"
@@ -12161,7 +12156,6 @@
         "biomaRt",
         "testthat"
     ],
-    "survcomp": [],
     "survtype": [
         "broom",
         "car",
