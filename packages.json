@@ -222,7 +222,6 @@
         "GenomeInfoDb",
         "XVector"
     ],
-    "affyContam": [],
     "affycoretools": [
         "AnnotationDbi",
         "AnnotationFilter",
@@ -1148,7 +1147,6 @@
         "SummarizedExperiment",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "XVector",
-        "affyContam",
         "annotate",
         "base64",
         "biomaRt",
