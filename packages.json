@@ -8189,7 +8189,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "summarytools",
         "testthat",
         "unmarked",
         "viridis"
@@ -13599,7 +13598,6 @@
         "testthat",
         "unmarked"
     ],
-    "summarytools": [],
     "unmarked": [
         "lme4",
         "nloptr",
