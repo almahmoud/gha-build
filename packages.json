@@ -1107,7 +1107,6 @@
         "genefilter",
         "ggnetwork",
         "htmlTable",
-        "intergraph",
         "networkD3",
         "sva",
         "viridis"
@@ -1454,7 +1453,6 @@
         "ggnetwork",
         "ggtext",
         "htmlTable",
-        "intergraph",
         "networkD3",
         "rtracklayer",
         "sva",
@@ -1715,7 +1713,6 @@
         "ggtree",
         "gson",
         "htmlTable",
-        "intergraph",
         "scatterpie",
         "tidygraph",
         "tidytree",
@@ -4454,7 +4451,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "intergraph",
         "scatterpie",
         "tidygraph",
         "tidytree",
@@ -12641,7 +12637,6 @@
     "syntenet": [
         "GenomicAlignments",
         "ggnetwork",
-        "intergraph",
         "networkD3",
         "rtracklayer",
         "testthat"
@@ -14152,7 +14147,6 @@
         "interactiveDisplayBase"
     ],
     "ggnetwork": [],
-    "intergraph": [],
     "networkD3": [],
     "superheat": [],
     "biscuiteerData": [
