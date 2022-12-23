@@ -196,9 +196,7 @@
     "cummeRbund": [
         "Gviz"
     ],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "CytoGLMM",
         "FlowSOM",
@@ -218,9 +216,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "debrowser": [],
     "deconvR": [],
     "DeepPINCS": [
@@ -322,10 +318,7 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "flowPloidy": [],
     "FlowSOM": [
         "ggpubr",
