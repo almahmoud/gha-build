@@ -1667,7 +1667,6 @@
         "dendextend",
         "viridis"
     ],
-    "hiAnnotator": [],
     "HiCBricks": [
         "rhdf5",
         "viridis"
@@ -1706,9 +1705,7 @@
     "hipathia": [
         "coin"
     ],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HTqPCR": [
         "affy"
     ],
