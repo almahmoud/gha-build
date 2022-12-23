@@ -27444,7 +27444,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "RSQLite",
-        "RankProd",
         "XVector",
         "blob",
         "httr",
@@ -32516,7 +32515,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "RankProd",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -34516,7 +34514,6 @@
         "vroom"
     ],
     "randPack": [],
-    "RankProd": [],
     "RAREsim": [
         "nloptr",
         "pillar",
@@ -43664,7 +43661,6 @@
         "vctrs"
     ],
     "synlet": [
-        "RankProd",
         "broom",
         "doBy",
         "dplyr",
@@ -45393,7 +45389,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "RankProd",
         "SummarizedExperiment",
         "XVector",
         "annotate",
