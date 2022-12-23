@@ -9,7 +9,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "adductomicsR": [],
     "affycoretools": [
         "ReportingTools",
         "biovizBase",
