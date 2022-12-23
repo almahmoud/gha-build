@@ -20714,9 +20714,7 @@
         "EBarrays",
         "e1071"
     ],
-    "GeneticsPed": [
-        "genetics"
-    ],
+    "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
         "BiocParallel",
@@ -64451,7 +64449,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "genetics": [],
     "backbone": [
         "igraph"
     ],
