@@ -1,0 +1,177 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   dc7906c7..27817598  main       -> origin/main
+Updating dc7906c7..27817598
+Fast-forward
+ logs/run_ids/rstudio-binaries/GenomicTools | 2 ++
+ logs/run_ids/rstudio-binaries/Icens        | 2 ++
+ logs/run_ids/rstudio-binaries/kmer         | 2 ++
+ 3 files changed, 6 insertions(+)
+ create mode 100644 logs/run_ids/rstudio-binaries/Icens
+ create mode 100644 logs/run_ids/rstudio-binaries/kmer
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=httr
++ PKG=httr
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "httr"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency curl is already found.
+Dependency jsonlite is already found.
+Dependency mime is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 30 1340k   30  414k    0     0   351k      0  0:00:03  0:00:01  0:00:02  351k100 1340k  100 1340k    0     0   628k      0  0:00:02  0:00:02 --:--:--  628k
+built/
+built/built/
+built/built/sys/
+built/built/sys/libs/
+built/built/sys/libs/sys.so
+built/built/sys/NEWS
+built/built/sys/NAMESPACE
+built/built/sys/utf8.txt
+built/built/sys/DESCRIPTION
+built/built/sys/help/
+built/built/sys/help/sys.rdb
+built/built/sys/help/paths.rds
+built/built/sys/help/sys.rdx
+built/built/sys/help/aliases.rds
+built/built/sys/help/AnIndex
+built/built/sys/Meta/
+built/built/sys/Meta/package.rds
+built/built/sys/Meta/features.rds
+built/built/sys/Meta/hsearch.rds
+built/built/sys/Meta/links.rds
+built/built/sys/Meta/nsInfo.rds
+built/built/sys/Meta/Rd.rds
+built/built/sys/WORDLIST
+built/built/sys/LICENSE
+built/built/sys/html/
+built/built/sys/html/00Index.html
+built/built/sys/html/R.css
+built/built/sys/INDEX
+built/built/sys/R/
+built/built/sys/R/sys.rdb
+built/built/sys/R/sys
+built/built/sys/R/sys.rdx
+built/built/askpass/
+built/built/askpass/libs/
+built/built/askpass/libs/askpass.so
+built/built/askpass/NEWS
+built/built/askpass/NAMESPACE
+built/built/askpass/mac-simplepass
+built/built/askpass/DESCRIPTION
+built/built/askpass/help/
+built/built/askpass/help/askpass.rdx
+built/built/askpass/help/paths.rds
+built/built/askpass/help/askpass.rdb
+built/built/askpass/help/aliases.rds
+built/built/askpass/help/AnIndex
+built/built/askpass/Meta/
+built/built/askpass/Meta/package.rds
+built/built/askpass/Meta/features.rds
+built/built/askpass/Meta/hsearch.rds
+built/built/askpass/Meta/links.rds
+built/built/askpass/Meta/nsInfo.rds
+built/built/askpass/Meta/Rd.rds
+built/built/askpass/mac-askpass
+built/built/askpass/WORDLIST
+built/built/askpass/LICENSE
+built/built/askpass/html/
+built/built/askpass/html/00Index.html
+built/built/askpass/html/R.css
+built/built/askpass/INDEX
+built/built/askpass/R/
+built/built/askpass/R/askpass.rdx
+built/built/askpass/R/askpass
+built/built/askpass/R/askpass.rdb
+built/openssl/
+built/openssl/libs/
+built/openssl/libs/openssl.so
+built/openssl/NEWS
+built/openssl/NAMESPACE
+built/openssl/DESCRIPTION
+built/openssl/help/
+built/openssl/help/paths.rds
+built/openssl/help/aliases.rds
+built/openssl/help/openssl.rdb
+built/openssl/help/AnIndex
+built/openssl/help/openssl.rdx
+built/openssl/Meta/
+built/openssl/Meta/package.rds
+built/openssl/Meta/vignette.rds
+built/openssl/Meta/features.rds
+built/openssl/Meta/hsearch.rds
+built/openssl/Meta/links.rds
+built/openssl/Meta/nsInfo.rds
+built/openssl/Meta/Rd.rds
+built/openssl/LICENSE
+built/openssl/html/
+built/openssl/html/00Index.html
+built/openssl/html/R.css
+built/openssl/cacert.pem
+built/openssl/INDEX
+built/openssl/doc/
+built/openssl/doc/secure_rng.html
+built/openssl/doc/crypto_hashing.Rmd
+built/openssl/doc/keys.html
+built/openssl/doc/bignum.html
+built/openssl/doc/crypto_hashing.html
+built/openssl/doc/bignum.R
+built/openssl/doc/secure_rng.Rmd
+built/openssl/doc/crypto_hashing.R
+built/openssl/doc/bignum.Rmd
+built/openssl/doc/index.html
+built/openssl/doc/secure_rng.R
+built/openssl/doc/keys.Rmd
+built/openssl/doc/keys.R
+built/openssl/R/
+built/openssl/R/openssl.rdb
+built/openssl/R/openssl
+built/openssl/R/openssl.rdx
+Dependency R6 is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''httr'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv httr_1.4.4_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/httr
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'httr'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/httr_1.4.4.tar.gz'
+Content type 'binary/octet-stream' length 498764 bytes (487 KB)
+==================================================
+downloaded 487 KB
+
+* installing *binary* package ‘httr’ ...
+* ‘httr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘httr’ as ‘httr_1.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (httr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpjBnWW2/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m8.800s
+user	0m3.737s
+sys	0m0.373s
