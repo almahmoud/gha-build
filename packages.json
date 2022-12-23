@@ -619,7 +619,6 @@
         "VariantAnnotation"
     ],
     "cyanoFilter": [
-        "RFOC",
         "car",
         "flowDensity",
         "pbkrtest"
@@ -668,7 +667,6 @@
         "rstatix"
     ],
     "ddPCRclust": [
-        "RFOC",
         "car",
         "flowDensity",
         "pbkrtest"
@@ -1009,13 +1007,11 @@
         "SPARQL"
     ],
     "flowCut": [
-        "RFOC",
         "car",
         "flowDensity",
         "pbkrtest"
     ],
     "flowDensity": [
-        "RFOC",
         "car",
         "pbkrtest"
     ],
@@ -3081,7 +3077,6 @@
     ],
     "dorothea": [],
     "crisprScoreData": [],
-    "RFOC": [],
     "arm": [],
     "rsq": [],
     "text2vec": [
