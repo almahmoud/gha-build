@@ -10215,7 +10215,6 @@
         "annotate",
         "org.Hs.eg.db"
     ],
-    "tidybulk": [],
     "tidySingleCellExperiment": [
         "SingleCellExperiment",
         "plotly"
