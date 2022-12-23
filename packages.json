@@ -17916,7 +17916,6 @@
     "SIAMCAT": [
         "lme4",
         "lmerTest",
-        "mlr3learners",
         "mlr3tuning",
         "nloptr",
         "phyloseq",
@@ -23396,7 +23395,6 @@
     "gistr": [
         "rmarkdown"
     ],
-    "mlr3learners": [],
     "mlr3tuning": [],
     "survivalAnalysis": [
         "broom",
