@@ -3921,7 +3921,6 @@
         "tibble",
         "tidyselect"
     ],
-    "BumpyMatrix": [],
     "BUScorrect": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -7413,7 +7412,6 @@
         "shiny"
     ],
     "CoreGx": [
-        "BumpyMatrix",
         "DT",
         "DelayedArray",
         "GenomeInfoDb",
@@ -25963,7 +25961,6 @@
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
-        "BumpyMatrix",
         "CoreGx",
         "DT",
         "DelayedArray",
@@ -26228,7 +26225,6 @@
         "vroom"
     ],
     "PharmacoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "DT",
         "DelayedArray",
@@ -28470,7 +28466,6 @@
         "XVector"
     ],
     "RadioGx": [
-        "BumpyMatrix",
         "CoreGx",
         "DT",
         "DelayedArray",
@@ -37320,7 +37315,6 @@
         "XVector"
     ],
     "ToxicoGx": [
-        "BumpyMatrix",
         "CoreGx",
         "DT",
         "DelayedArray",
@@ -39219,7 +39213,6 @@
         "siggenes"
     ],
     "Xeva": [
-        "BumpyMatrix",
         "CoreGx",
         "DT",
         "DelayedArray",
