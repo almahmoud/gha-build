@@ -4655,7 +4655,6 @@
     "netOmics": [
         "RandomWalkRestartMH"
     ],
-    "netresponse": [],
     "NetSAM": [
         "Hmisc",
         "WGCNA",
