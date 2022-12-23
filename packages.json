@@ -1842,7 +1842,6 @@
     ],
     "Nebulosa": [],
     "NetActivity": [],
-    "netboost": [],
     "netboxr": [
         "clusterProfiler",
         "enrichplot"
