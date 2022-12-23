@@ -3967,7 +3967,6 @@
         "sva",
         "viridis"
     ],
-    "demuxmix": [],
     "DEP": [
         "DT",
         "MSnbase",
