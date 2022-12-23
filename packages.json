@@ -9353,7 +9353,6 @@
         "testthat",
         "variancePartition"
     ],
-    "zFPKM": [],
     "zinbwave": [
         "annotate",
         "genefilter"
