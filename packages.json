@@ -303,7 +303,6 @@
         "viridis"
     ],
     "airpart": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -486,7 +485,6 @@
         "tibble"
     ],
     "ANCOMBC": [
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
@@ -1535,7 +1533,6 @@
         "rtracklayer"
     ],
     "BASiCS": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -1560,7 +1557,6 @@
     ],
     "BASiCStan": [
         "BASiCS",
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "HDF5Array",
@@ -1596,7 +1592,6 @@
     ],
     "basilisk": [],
     "batchelor": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ResidualMatrix",
@@ -1631,7 +1626,6 @@
     ],
     "BayesSpace": [
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "RSQLite",
@@ -1736,7 +1730,6 @@
         "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
@@ -2064,7 +2057,6 @@
         "annotate",
         "geneplotter"
     ],
-    "BiocNeighbors": [],
     "BiocOncoTK": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -2459,7 +2451,6 @@
     ],
     "Biostrings": [],
     "BioTIP": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -2649,9 +2640,7 @@
         "tibble",
         "waldo"
     ],
-    "bluster": [
-        "BiocNeighbors"
-    ],
+    "bluster": [],
     "bnbc": [
         "AnnotationDbi",
         "Biostrings",
@@ -3276,7 +3265,6 @@
         "tibble"
     ],
     "CATALYST": [
-        "BiocNeighbors",
         "BiocSingular",
         "FlowSOM",
         "GenomicRanges",
@@ -3487,7 +3475,6 @@
         "vroom"
     ],
     "celda": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -3562,7 +3549,6 @@
         "vsn"
     ],
     "CelliD": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -3631,7 +3617,6 @@
         "waldo"
     ],
     "CellMixS": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -4337,7 +4322,6 @@
         "tibble"
     ],
     "ChromSCape": [
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DT",
@@ -4575,7 +4559,6 @@
         "tidyr"
     ],
     "CiteFuse": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -5345,7 +5328,6 @@
     "conclus": [
         "AnnotationDbi",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DOSE",
@@ -5419,7 +5401,6 @@
         "waldo"
     ],
     "condiments": [
-        "BiocNeighbors",
         "BiocSingular",
         "Ecume",
         "GenomicRanges",
@@ -6317,7 +6298,6 @@
         "waldo"
     ],
     "cydar": [
-        "BiocNeighbors",
         "GenomicRanges",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -7484,7 +7464,6 @@
         "viper"
     ],
     "Dino": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -7551,7 +7530,6 @@
         "viridis"
     ],
     "distinct": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -9079,7 +9057,6 @@
     ],
     "escape": [
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GSEABase",
@@ -9756,7 +9733,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DropletUtils",
@@ -12882,7 +12858,6 @@
     ],
     "imcRtools": [
         "BiocFileCache",
-        "BiocNeighbors",
         "DT",
         "DropletUtils",
         "EBImage",
@@ -13329,7 +13304,6 @@
     "IRISFGM": [
         "AdaptGauss",
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DEsingle",
@@ -15979,7 +15953,6 @@
         "tibble"
     ],
     "mia": [
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
@@ -16018,7 +15991,6 @@
         "treeio"
     ],
     "miaViz": [
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
@@ -16124,7 +16096,6 @@
         "ALDEx2",
         "ANCOMBC",
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DECIPHER",
@@ -16297,7 +16268,6 @@
         "tibble"
     ],
     "miloR": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -17396,7 +17366,6 @@
         "viridis"
     ],
     "msImpute": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -17907,7 +17876,6 @@
         "waldo"
     ],
     "mumosa": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ResidualMatrix",
@@ -17941,7 +17909,6 @@
     ],
     "muscat": [
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DESeq2",
@@ -18567,7 +18534,6 @@
     ],
     "netSmooth": [
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "ClusterR",
@@ -20029,7 +19995,6 @@
         "genefilter"
     ],
     "peco": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -20464,7 +20429,6 @@
         "viridis"
     ],
     "pipeComp": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -24313,7 +24277,6 @@
         "tibble"
     ],
     "scater": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -24490,7 +24453,6 @@
         "tidyr"
     ],
     "scDblFinder": [
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GenomicAlignments",
@@ -24512,7 +24474,6 @@
         "viridis"
     ],
     "scDD": [
-        "BiocNeighbors",
         "BiocSingular",
         "EBSeq",
         "GenomicRanges",
@@ -24834,7 +24795,6 @@
     "scPipe": [
         "AnnotationDbi",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GGally",
@@ -24868,7 +24828,6 @@
         "waldo"
     ],
     "scran": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -25082,7 +25041,6 @@
         "AnnotationDbi",
         "AnnotationFilter",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GenomicAlignments",
@@ -25909,7 +25867,6 @@
         "SummarizedExperiment"
     ],
     "SingleCellSignalR": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -25924,7 +25881,6 @@
         "AnnotationFilter",
         "AnnotationHub",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "DESeq2",
@@ -26051,7 +26007,6 @@
         "tibble"
     ],
     "SingleR": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -26350,7 +26305,6 @@
         "iPAC"
     ],
     "Spaniel": [
-        "BiocNeighbors",
         "BiocSingular",
         "DropletUtils",
         "GenomicRanges",
@@ -26536,7 +26490,6 @@
     "spatialHeatmap": [
         "AnnotationDbi",
         "BiocFileCache",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GO.db",
@@ -26719,7 +26672,6 @@
         "tibble"
     ],
     "splatter": [
-        "BiocNeighbors",
         "BiocSingular",
         "GenomicRanges",
         "ScaledMatrix",
@@ -28922,7 +28874,6 @@
     ],
     "tricycle": [
         "AnnotationDbi",
-        "BiocNeighbors",
         "BiocSingular",
         "Biostrings",
         "GenomicRanges",
@@ -29156,7 +29107,6 @@
         "tibble"
     ],
     "UCell": [
-        "BiocNeighbors",
         "GenomicRanges",
         "SingleCellExperiment",
         "SummarizedExperiment"
@@ -29329,7 +29279,6 @@
         "viridis"
     ],
     "VAExprs": [
-        "BiocNeighbors",
         "BiocSingular",
         "DeepPINCS",
         "DiagrammeR",
@@ -29684,7 +29633,6 @@
     ],
     "Voyager": [
         "BiocFileCache",
-        "BiocNeighbors",
         "DropletUtils",
         "GenomicRanges",
         "HDF5Array",
