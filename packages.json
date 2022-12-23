@@ -13155,7 +13155,6 @@
         "MatrixModels",
         "RBGL",
         "RFOC",
-        "RSEIS",
         "RcppEigen",
         "Rgraphviz",
         "broom",
@@ -14010,7 +14009,6 @@
         "R.utils",
         "RBGL",
         "RFOC",
-        "RSEIS",
         "RcppEigen",
         "Rgraphviz",
         "broom",
@@ -20366,7 +20364,6 @@
         "MatrixModels",
         "RBGL",
         "RFOC",
-        "RSEIS",
         "RcppEigen",
         "Rgraphviz",
         "broom",
@@ -20419,7 +20416,6 @@
         "MatrixModels",
         "RBGL",
         "RFOC",
-        "RSEIS",
         "RcppEigen",
         "Rgraphviz",
         "broom",
@@ -67734,7 +67730,6 @@
     "rgeos": [],
     "RFOC": [
         "GEOmap",
-        "RSEIS",
         "fields",
         "ggplot2",
         "mgcv",
@@ -67757,7 +67752,6 @@
         "vctrs",
         "viridis"
     ],
-    "RSEIS": [],
     "splancs": [],
     "fields": [
         "ggplot2",
