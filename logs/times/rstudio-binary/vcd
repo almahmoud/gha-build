@@ -1,0 +1,582 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   32ded23e..c896ef58  main       -> origin/main
+Updating 32ded23e..c896ef58
+Fast-forward
+ lists/rDGIdb                           | 2 +-
+ logs/run_ids/rstudio-binaries/multcomp | 2 ++
+ packages.json                          | 1 -
+ 3 files changed, 3 insertions(+), 2 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/multcomp
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=vcd
++ PKG=vcd
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "vcd"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 15 1124k   15  176k    0     0   184k      0  0:00:06 --:--:--  0:00:06  184k 78 1124k   78  877k    0     0   449k      0  0:00:02  0:00:01  0:00:01  449k100 1124k  100 1124k    0     0   515k      0  0:00:02  0:00:02 --:--:--  515k
+built/
+built/MASS/
+built/MASS/libs/
+built/MASS/libs/MASS.so
+built/MASS/NEWS
+built/MASS/NAMESPACE
+built/MASS/DESCRIPTION
+built/MASS/help/
+built/MASS/help/paths.rds
+built/MASS/help/MASS.rdx
+built/MASS/help/MASS.rdb
+built/MASS/help/aliases.rds
+built/MASS/help/AnIndex
+built/MASS/data/
+built/MASS/data/Rdata.rds
+built/MASS/data/Rdata.rdb
+built/MASS/data/Rdata.rdx
+built/MASS/Meta/
+built/MASS/Meta/package.rds
+built/MASS/Meta/features.rds
+built/MASS/Meta/hsearch.rds
+built/MASS/Meta/links.rds
+built/MASS/Meta/nsInfo.rds
+built/MASS/Meta/Rd.rds
+built/MASS/Meta/data.rds
+built/MASS/scripts/
+built/MASS/scripts/ch08.R
+built/MASS/scripts/ch13.R
+built/MASS/scripts/ch14.R
+built/MASS/scripts/ch11.R
+built/MASS/scripts/ch02.R
+built/MASS/scripts/ch10.R
+built/MASS/scripts/ch15.R
+built/MASS/scripts/ch05.R
+built/MASS/scripts/ch16.R
+built/MASS/scripts/ch12.R
+built/MASS/scripts/ch03.R
+built/MASS/scripts/ch01.R
+built/MASS/scripts/ch09.R
+built/MASS/scripts/ch06.R
+built/MASS/scripts/ch04.R
+built/MASS/scripts/ch07.R
+built/MASS/po/
+built/MASS/po/it/
+built/MASS/po/it/LC_MESSAGES/
+built/MASS/po/it/LC_MESSAGES/R-MASS.mo
+built/MASS/po/fr/
+built/MASS/po/fr/LC_MESSAGES/
+built/MASS/po/fr/LC_MESSAGES/R-MASS.mo
+built/MASS/po/ko/
+built/MASS/po/ko/LC_MESSAGES/
+built/MASS/po/ko/LC_MESSAGES/R-MASS.mo
+built/MASS/po/pl/
+built/MASS/po/pl/LC_MESSAGES/
+built/MASS/po/pl/LC_MESSAGES/R-MASS.mo
+built/MASS/po/en@quot/
+built/MASS/po/en@quot/LC_MESSAGES/
+built/MASS/po/en@quot/LC_MESSAGES/R-MASS.mo
+built/MASS/po/de/
+built/MASS/po/de/LC_MESSAGES/
+built/MASS/po/de/LC_MESSAGES/R-MASS.mo
+built/MASS/CITATION
+built/MASS/html/
+built/MASS/html/00Index.html
+built/MASS/html/R.css
+built/MASS/INDEX
+built/MASS/R/
+built/MASS/R/MASS.rdx
+built/MASS/R/MASS.rdb
+built/MASS/R/MASS
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  4 2570k    4  111k    0     0   158k      0  0:00:16 --:--:--  0:00:16  158k 28 2570k   28  733k    0     0   421k      0  0:00:06  0:00:01  0:00:05  421k 68 2570k   68 1769k    0     0   646k      0  0:00:03  0:00:02  0:00:01  646k100 2570k  100 2570k    0     0   780k      0  0:00:03  0:00:03 --:--:--  780k
+built/
+built/colorspace/
+built/colorspace/libs/
+built/colorspace/libs/colorspace.so
+built/colorspace/NAMESPACE
+built/colorspace/hclwizard/
+built/colorspace/hclwizard/server.R
+built/colorspace/hclwizard/www/
+built/colorspace/hclwizard/www/images/
+built/colorspace/hclwizard/www/images/pal_light_grays.png
+built/colorspace/hclwizard/www/images/pal_reds_2.png
+built/colorspace/hclwizard/www/images/pal_terrain.png
+built/colorspace/hclwizard/www/images/pal_red-yellow.png
+built/colorspace/hclwizard/www/images/pal_ylgnbu.png
+built/colorspace/hclwizard/www/images/pal_purple-blue.png
+built/colorspace/hclwizard/www/images/pal_terrain_2.png
+built/colorspace/hclwizard/www/images/pal_dark_mint.png
+built/colorspace/hclwizard/www/images/pal_burgyl.png
+built/colorspace/hclwizard/www/images/pal_oryel.png
+built/colorspace/hclwizard/www/images/pal_redor.png
+built/colorspace/hclwizard/www/images/pal_blues_3.png
+built/colorspace/hclwizard/www/images/pal_blue-red_3.png
+built/colorspace/hclwizard/www/images/pal_sunsetdark.png
+built/colorspace/hclwizard/www/images/pal_grays.png
+built/colorspace/hclwizard/www/images/pal_cold.png
+built/colorspace/hclwizard/www/images/pal_mint.png
+built/colorspace/hclwizard/www/images/pal_emrld.png
+built/colorspace/hclwizard/www/images/pal_heat.png
+built/colorspace/hclwizard/www/images/pal_purple-yellow.png
+built/colorspace/hclwizard/www/images/pal_cm.colors.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow_2.png
+built/colorspace/hclwizard/www/images/pal_inferno.png
+built/colorspace/hclwizard/www/images/pal_bugn.png
+built/colorspace/hclwizard/www/images/pal_teal.png
+built/colorspace/hclwizard/www/images/pal_heat_2.png
+built/colorspace/hclwizard/www/images/pal_reds_3.png
+built/colorspace/hclwizard/www/images/pal_ylorrd.png
+built/colorspace/hclwizard/www/images/pal_set_3.png
+built/colorspace/hclwizard/www/images/pal_burg.png
+built/colorspace/hclwizard/www/images/pal_red-blue.png
+built/colorspace/hclwizard/www/images/pal_purple-brown.png
+built/colorspace/hclwizard/www/images/pal_purples_3.png
+built/colorspace/hclwizard/www/images/pal_ag_sunset.png
+built/colorspace/hclwizard/www/images/pal_red-green.png
+built/colorspace/hclwizard/www/images/pal_cyan-magenta.png
+built/colorspace/hclwizard/www/images/pal_bpy.png
+built/colorspace/hclwizard/www/images/pal_greens_2.png
+built/colorspace/hclwizard/www/images/pal_pubu.png
+built/colorspace/hclwizard/www/images/pal_tealgrn.png
+built/colorspace/hclwizard/www/images/pal_ylorbr.png
+built/colorspace/hclwizard/www/images/pal_pinkyl.png
+built/colorspace/hclwizard/www/images/pal_greens.png
+built/colorspace/hclwizard/www/images/pal_ylgn.png
+built/colorspace/hclwizard/www/images/pal_lisbon.png
+built/colorspace/hclwizard/www/images/pal_green-yellow.png
+built/colorspace/hclwizard/www/images/pal_blues.png
+built/colorspace/hclwizard/www/images/pal_purples.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow.png
+built/colorspace/hclwizard/www/images/pal_batlow.png
+built/colorspace/hclwizard/www/images/pal_red-purple.png
+built/colorspace/hclwizard/www/images/pal_set_2.png
+built/colorspace/hclwizard/www/images/pal_ag_grnyl.png
+built/colorspace/hclwizard/www/images/pal_purple-green.png
+built/colorspace/hclwizard/www/images/pal_oranges.png
+built/colorspace/hclwizard/www/images/pal_purp.png
+built/colorspace/hclwizard/www/images/pal_green-brown.png
+built/colorspace/hclwizard/www/images/pal_oslo.png
+built/colorspace/hclwizard/www/images/pal_turku.png
+built/colorspace/hclwizard/www/images/pal_greens_3.png
+built/colorspace/hclwizard/www/images/pal_pastel_1.png
+built/colorspace/hclwizard/www/images/pal_cork.png
+built/colorspace/hclwizard/www/images/pal_dark_3.png
+built/colorspace/hclwizard/www/images/pal_rdpu.png
+built/colorspace/hclwizard/www/images/pal_brwnyl.png
+built/colorspace/hclwizard/www/images/pal_bupu.png
+built/colorspace/hclwizard/www/images/pal_purd.png
+built/colorspace/hclwizard/www/images/pal_plasma.png
+built/colorspace/hclwizard/www/images/pal_purple-orange.png
+built/colorspace/hclwizard/www/images/pal_purples_2.png
+built/colorspace/hclwizard/www/images/pal_tofino.png
+built/colorspace/hclwizard/www/images/pal_blue-red.png
+built/colorspace/hclwizard/www/images/pal_terrain.colors.png
+built/colorspace/hclwizard/www/images/pal_dynamic.png
+built/colorspace/hclwizard/www/images/pal_gnbu.png
+built/colorspace/hclwizard/www/images/pal_warm.png
+built/colorspace/hclwizard/www/images/pal_berlin.png
+built/colorspace/hclwizard/www/images/pal_pubugn.png
+built/colorspace/hclwizard/www/images/pal_lajolla.png
+built/colorspace/hclwizard/www/images/pal_heat.colors.png
+built/colorspace/hclwizard/www/images/pal_dark_2.png
+built/colorspace/hclwizard/www/images/pal_viridis.png
+built/colorspace/hclwizard/www/images/pal_magenta.png
+built/colorspace/hclwizard/www/images/pal_reds.png
+built/colorspace/hclwizard/www/images/pal_blue-red_2.png
+built/colorspace/hclwizard/www/images/pal_blue-yellow_3.png
+built/colorspace/hclwizard/www/images/pal_hawaii.png
+built/colorspace/hclwizard/www/images/pal_tropic.png
+built/colorspace/hclwizard/www/images/pal_peach.png
+built/colorspace/hclwizard/www/images/pal_topo.colors.png
+built/colorspace/hclwizard/www/images/pal_harmonic.png
+built/colorspace/hclwizard/www/images/pal_blues_2.png
+built/colorspace/hclwizard/www/images/pal_rainbow.png
+built/colorspace/hclwizard/www/images/pal_bluyl.png
+built/colorspace/hclwizard/www/images/pal_sunset.png
+built/colorspace/hclwizard/www/images/pal_blugrn.png
+built/colorspace/hclwizard/www/images/pal_green-orange.png
+built/colorspace/hclwizard/www/images/pal_orrd.png
+built/colorspace/hclwizard/www/images/pal_purpor.png
+built/colorspace/hclwizard/www/hclwizard.css
+built/colorspace/hclwizard/www/hclwizard_darkmode.css
+built/colorspace/hclwizard/prepareStaticContent.R
+built/colorspace/hclwizard/ui.R
+built/colorspace/hclwizard/html/
+built/colorspace/hclwizard/html/python-example.html
+built/colorspace/hclwizard/html/colorplane.html
+built/colorspace/hclwizard/html/Register.html
+built/colorspace/hclwizard/html/info.html
+built/colorspace/hclwizard/html/python.html
+built/colorspace/hclwizard/html/R.html
+built/colorspace/hclwizard/html/RegisterRcode.html
+built/colorspace/hclwizard/html/GrADS.html
+built/colorspace/hclwizard/html/RReg.html
+built/colorspace/hclwizard/html/matlab.html
+built/colorspace/DESCRIPTION
+built/colorspace/help/
+built/colorspace/help/paths.rds
+built/colorspace/help/colorspace.rdb
+built/colorspace/help/aliases.rds
+built/colorspace/help/colorspace.rdx
+built/colorspace/help/AnIndex
+built/colorspace/data/
+built/colorspace/data/Rdata.rds
+built/colorspace/data/Rdata.rdb
+built/colorspace/data/Rdata.rdx
+built/colorspace/Meta/
+built/colorspace/Meta/package.rds
+built/colorspace/Meta/vignette.rds
+built/colorspace/Meta/demo.rds
+built/colorspace/Meta/features.rds
+built/colorspace/Meta/hsearch.rds
+built/colorspace/Meta/links.rds
+built/colorspace/Meta/nsInfo.rds
+built/colorspace/Meta/Rd.rds
+built/colorspace/Meta/data.rds
+built/colorspace/hclcolorpicker/
+built/colorspace/hclcolorpicker/server.R
+built/colorspace/hclcolorpicker/www/
+built/colorspace/hclcolorpicker/www/hclcolorpicker.css
+built/colorspace/hclcolorpicker/www/hclcolorpicker_darkmode.css
+built/colorspace/hclcolorpicker/prepareStaticContent.R
+built/colorspace/hclcolorpicker/ui.R
+built/colorspace/hclcolorpicker/html/
+built/colorspace/hclcolorpicker/html/info.html
+built/colorspace/LICENSE
+built/colorspace/CITATION
+built/colorspace/cvdemulator/
+built/colorspace/cvdemulator/server.R
+built/colorspace/cvdemulator/www/
+built/colorspace/cvdemulator/www/images/
+built/colorspace/cvdemulator/www/images/rainbow_tritan.png
+built/colorspace/cvdemulator/www/images/descimage.png
+built/colorspace/cvdemulator/www/images/rainbow_deutan.png
+built/colorspace/cvdemulator/www/images/rainbow_desaturate.png
+built/colorspace/cvdemulator/www/images/rainbow_orig.png
+built/colorspace/cvdemulator/www/images/rainbow_protan.png
+built/colorspace/cvdemulator/www/cvdemulator_darkmode.css
+built/colorspace/cvdemulator/www/cvdemulator.css
+built/colorspace/cvdemulator/prepareStaticContent.R
+built/colorspace/cvdemulator/ui.R
+built/colorspace/cvdemulator/html/
+built/colorspace/cvdemulator/html/appInfo.html
+built/colorspace/cvdemulator/html/info.html
+built/colorspace/html/
+built/colorspace/html/00Index.html
+built/colorspace/html/R.css
+built/colorspace/INDEX
+built/colorspace/doc/
+built/colorspace/doc/hcl-colors.Rnw
+built/colorspace/doc/colorspace.R
+built/colorspace/doc/hcl-colors.pdf
+built/colorspace/doc/index.html
+built/colorspace/doc/colorspace.html
+built/colorspace/doc/hcl-colors.R
+built/colorspace/doc/colorspace.Rmd
+built/colorspace/R/
+built/colorspace/R/colorspace.rdb
+built/colorspace/R/colorspace
+built/colorspace/R/colorspace.rdx
+built/colorspace/demo/
+built/colorspace/demo/scico.R
+built/colorspace/demo/brewer.R
+built/colorspace/demo/viridis.R
+built/colorspace/demo/carto.R
+built/colorspace/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 3525k    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 13 3525k   13  478k    0     0   358k      0  0:00:09  0:00:01  0:00:08  358k 41 3525k   41 1450k    0     0   620k      0  0:00:05  0:00:02  0:00:03  620k 84 3525k   84 2964k    0     0   887k      0  0:00:03  0:00:03 --:--:--  887k100 3525k  100 3525k    0     0   968k      0  0:00:03  0:00:03 --:--:--  968k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/zoo/
+built/built/zoo/WISHLIST
+built/built/zoo/libs/
+built/built/zoo/libs/zoo.so
+built/built/zoo/NEWS
+built/built/zoo/NAMESPACE
+built/built/zoo/DESCRIPTION
+built/built/zoo/help/
+built/built/zoo/help/paths.rds
+built/built/zoo/help/zoo.rdb
+built/built/zoo/help/zoo.rdx
+built/built/zoo/help/aliases.rds
+built/built/zoo/help/AnIndex
+built/built/zoo/Meta/
+built/built/zoo/Meta/package.rds
+built/built/zoo/Meta/vignette.rds
+built/built/zoo/Meta/demo.rds
+built/built/zoo/Meta/features.rds
+built/built/zoo/Meta/hsearch.rds
+built/built/zoo/Meta/links.rds
+built/built/zoo/Meta/nsInfo.rds
+built/built/zoo/Meta/Rd.rds
+built/built/zoo/include/
+built/built/zoo/include/zoo.h
+built/built/zoo/THANKS
+built/built/zoo/CITATION
+built/built/zoo/html/
+built/built/zoo/html/00Index.html
+built/built/zoo/html/R.css
+built/built/zoo/TODO
+built/built/zoo/INDEX
+built/built/zoo/doc/
+built/built/zoo/doc/zoo-read.pdf
+built/built/zoo/doc/zoo-faq.R
+built/built/zoo/doc/MSFT.rda
+built/built/zoo/doc/zoo-design.R
+built/built/zoo/doc/zoo-read.R
+built/built/zoo/doc/demo1.txt
+built/built/zoo/doc/zoo-design.Rnw
+built/built/zoo/doc/zoo.R
+built/built/zoo/doc/demo2.txt
+built/built/zoo/doc/zoo-quickref.R
+built/built/zoo/doc/zoo-read.Rnw
+built/built/zoo/doc/zoo-faq.pdf
+built/built/zoo/doc/zoo-quickref.Rnw
+built/built/zoo/doc/zoo-design.pdf
+built/built/zoo/doc/zoo-quickref.pdf
+built/built/zoo/doc/index.html
+built/built/zoo/doc/sunw.rda
+built/built/zoo/doc/zoo.Rnw
+built/built/zoo/doc/zoo-faq.Rnw
+built/built/zoo/doc/zoo.pdf
+built/built/zoo/R/
+built/built/zoo/R/zoo
+built/built/zoo/R/zoo.rdb
+built/built/zoo/R/zoo.rdx
+built/built/zoo/demo/
+built/built/zoo/demo/zoo-overplot.R
+built/zoo/
+built/zoo/WISHLIST
+built/zoo/libs/
+built/zoo/libs/zoo.so
+built/zoo/NEWS
+built/zoo/NAMESPACE
+built/zoo/DESCRIPTION
+built/zoo/help/
+built/zoo/help/paths.rds
+built/zoo/help/zoo.rdb
+built/zoo/help/zoo.rdx
+built/zoo/help/aliases.rds
+built/zoo/help/AnIndex
+built/zoo/Meta/
+built/zoo/Meta/package.rds
+built/zoo/Meta/vignette.rds
+built/zoo/Meta/demo.rds
+built/zoo/Meta/features.rds
+built/zoo/Meta/hsearch.rds
+built/zoo/Meta/links.rds
+built/zoo/Meta/nsInfo.rds
+built/zoo/Meta/Rd.rds
+built/zoo/include/
+built/zoo/include/zoo.h
+built/zoo/THANKS
+built/zoo/CITATION
+built/zoo/html/
+built/zoo/html/00Index.html
+built/zoo/html/R.css
+built/zoo/TODO
+built/zoo/INDEX
+built/zoo/doc/
+built/zoo/doc/zoo-read.pdf
+built/zoo/doc/zoo-faq.R
+built/zoo/doc/MSFT.rda
+built/zoo/doc/zoo-design.R
+built/zoo/doc/zoo-read.R
+built/zoo/doc/demo1.txt
+built/zoo/doc/zoo-design.Rnw
+built/zoo/doc/zoo.R
+built/zoo/doc/demo2.txt
+built/zoo/doc/zoo-quickref.R
+built/zoo/doc/zoo-read.Rnw
+built/zoo/doc/zoo-faq.pdf
+built/zoo/doc/zoo-quickref.Rnw
+built/zoo/doc/zoo-design.pdf
+built/zoo/doc/zoo-quickref.pdf
+built/zoo/doc/index.html
+built/zoo/doc/sunw.rda
+built/zoo/doc/zoo.Rnw
+built/zoo/doc/zoo-faq.Rnw
+built/zoo/doc/zoo.pdf
+built/zoo/R/
+built/zoo/R/zoo
+built/zoo/R/zoo.rdb
+built/zoo/R/zoo.rdx
+built/zoo/demo/
+built/zoo/demo/zoo-overplot.R
+built/lmtest/
+built/lmtest/libs/
+built/lmtest/libs/lmtest.so
+built/lmtest/NEWS
+built/lmtest/NAMESPACE
+built/lmtest/DESCRIPTION
+built/lmtest/help/
+built/lmtest/help/paths.rds
+built/lmtest/help/aliases.rds
+built/lmtest/help/lmtest.rdb
+built/lmtest/help/lmtest.rdx
+built/lmtest/help/AnIndex
+built/lmtest/data/
+built/lmtest/data/Rdata.rds
+built/lmtest/data/Rdata.rdb
+built/lmtest/data/Rdata.rdx
+built/lmtest/Meta/
+built/lmtest/Meta/package.rds
+built/lmtest/Meta/vignette.rds
+built/lmtest/Meta/features.rds
+built/lmtest/Meta/hsearch.rds
+built/lmtest/Meta/links.rds
+built/lmtest/Meta/nsInfo.rds
+built/lmtest/Meta/Rd.rds
+built/lmtest/Meta/data.rds
+built/lmtest/CITATION
+built/lmtest/html/
+built/lmtest/html/00Index.html
+built/lmtest/html/R.css
+built/lmtest/INDEX
+built/lmtest/doc/
+built/lmtest/doc/lmtest-intro.R
+built/lmtest/doc/lmtest-intro.Rnw
+built/lmtest/doc/index.html
+built/lmtest/doc/lmtest-intro.pdf
+built/lmtest/R/
+built/lmtest/R/lmtest
+built/lmtest/R/lmtest.rdb
+built/lmtest/R/lmtest.rdx
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''vcd'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv colorspace_2.0-3_R_x86_64-pc-linux-gnu.tar.gz lmtest_0.9-40_R_x86_64-pc-linux-gnu.tar.gz vcd_1.4-10_R_x86_64-pc-linux-gnu.tar.gz zoo_1.8-11_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/vcd
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'vcd'
+also installing the dependencies ‘zoo’, ‘colorspace’, ‘lmtest’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/zoo_1.8-11.tar.gz'
+Content type 'binary/octet-stream' length 1024169 bytes (1000 KB)
+==================================================
+downloaded 1000 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/colorspace_2.0-3.tar.gz'
+Content type 'binary/octet-stream' length 2629793 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/lmtest_0.9-40.tar.gz'
+Content type 'binary/octet-stream' length 402726 bytes (393 KB)
+==================================================
+downloaded 393 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/vcd_1.4-10.tar.gz'
+Content type 'binary/octet-stream' length 1280559 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+* installing *binary* package ‘zoo’ ...
+* ‘zoo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘zoo’ as ‘zoo_1.8-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zoo)
+* installing *binary* package ‘colorspace’ ...
+* ‘colorspace’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘colorspace’ as ‘colorspace_2.0-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (colorspace)
+* installing *binary* package ‘lmtest’ ...
+* ‘lmtest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lmtest’ as ‘lmtest_0.9-40_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lmtest)
+* installing *binary* package ‘vcd’ ...
+* ‘vcd’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vcd’ as ‘vcd_1.4-10_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vcd)
+
+The downloaded source packages are in
+	‘/tmp/RtmpO5fwHA/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m22.945s
+user	0m7.693s
+sys	0m1.119s

@@ -3044,7 +3044,6 @@
         "stringr",
         "sva",
         "tibble",
-        "vcd",
         "vsn"
     ],
     "BOBaFIT": [
@@ -7537,7 +7536,6 @@
         "tidyr",
         "tidyverse",
         "tweenr",
-        "vcd",
         "viridis",
         "vroom"
     ],
@@ -8192,7 +8190,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "vcd",
         "waldo"
     ],
     "DEsubs": [
@@ -9951,8 +9948,7 @@
         "mnem",
         "pcalg",
         "stringr",
-        "tibble",
-        "vcd"
+        "tibble"
     ],
     "epistack": [
         "GenomicRanges",
@@ -12793,7 +12789,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "vcd",
         "viridis"
     ],
     "GladiaTOX": [
@@ -18594,7 +18589,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "vcd",
         "viridis",
         "vroom"
     ],
@@ -19689,7 +19683,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "vcd",
         "waldo"
     ],
     "msPurity": [
@@ -20726,8 +20719,7 @@
         "mnem",
         "pcalg",
         "stringr",
-        "tibble",
-        "vcd"
+        "tibble"
     ],
     "NetActivity": [
         "AnnotationDbi",
@@ -22481,7 +22473,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "vcd",
         "verification",
         "viridis",
         "visNetwork",
@@ -24279,7 +24270,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "vcd",
         "viridis",
         "waldo"
     ],
@@ -35441,10 +35431,7 @@
     "randomcoloR": [
         "stringr"
     ],
-    "pcalg": [
-        "vcd"
-    ],
-    "vcd": [],
+    "pcalg": [],
     "gamlss": [],
     "GenomicState": [
         "AnnotationDbi",
@@ -36465,7 +36452,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "vcd",
         "waldo"
     ],
     "NBPSeq": [
@@ -36822,7 +36808,6 @@
         "shiny",
         "stringr",
         "tibble",
-        "vcd",
         "viridis"
     ],
     "gRain": [
@@ -37689,9 +37674,7 @@
         "tensorflow",
         "tfruns"
     ],
-    "reportROC": [
-        "vcd"
-    ],
+    "reportROC": [],
     "verification": [
         "fields",
         "ggplot2",
