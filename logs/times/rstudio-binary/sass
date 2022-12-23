@@ -1,0 +1,860 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   a4452ca5..4acb24ad  main       -> origin/main
+Updating a4452ca5..4acb24ad
+Fast-forward
+ lists/ABSSeq                                |   1 +
+ lists/ACME                                  |   1 +
+ lists/AIMS                                  |   1 +
+ lists/ANF                                   |   1 +
+ lists/BAGS                                  |   1 +
+ lists/BMA                                   |   1 +
+ lists/BRISC                                 |   1 +
+ lists/BayesKnockdown                        |   1 +
+ lists/BioMVCClass                           |   1 +
+ lists/BiocIO                                |   1 +
+ lists/BoolNet                               |   1 +
+ lists/BrowserViz                            |   1 +
+ lists/CGEN                                  |   1 +
+ lists/CGHcall                               |   1 +
+ lists/CGHregions                            |   1 +
+ lists/CORREP                                |   1 +
+ lists/CVXR                                  |   1 +
+ lists/CancerInSilico                        |   1 +
+ lists/CellMapper                            |   1 +
+ lists/ChIPXpressData                        |   1 +
+ lists/DNABarcodes                           |   1 +
+ lists/DrImpute                              |   1 +
+ lists/EntropyExplorer                       |   1 +
+ lists/ExtDist                               |   1 +
+ lists/GA                                    |   1 +
+ lists/GSEAlm                                |   1 +
+ lists/GenKern                               |   1 +
+ lists/GeneSelectMMD                         |   1 +
+ lists/GenomicTools                          |   1 +
+ lists/HELP                                  |   1 +
+ lists/HybridMTest                           |   1 +
+ lists/IRanges                               |   1 +
+ lists/Icens                                 |   1 +
+ lists/JADE                                  |   1 +
+ lists/KEGGgraph                             |   1 +
+ lists/LogicReg                              |   1 +
+ lists/MANOR                                 |   1 +
+ lists/MCL                                   |   1 +
+ lists/MSstatsConvert                        |   1 +
+ lists/MatrixExtra                           |   1 +
+ lists/Mfuzz                                 |   1 +
+ lists/MiChip                                |   1 +
+ lists/MiPP                                  |   1 +
+ lists/MsCoreUtils                           |   1 +
+ lists/NADA                                  |   1 +
+ lists/NanoStringDiff                        |   1 +
+ lists/OLINgui                               |   1 +
+ lists/PMCMRplus                             |   1 +
+ lists/PROPER                                |   1 +
+ lists/PSCBS                                 |   1 +
+ lists/PerformanceAnalytics                  |   1 +
+ lists/R.filesets                            |   1 +
+ lists/R.rsp                                 |   1 +
+ lists/RBGL                                  |   1 +
+ lists/RNOmni                                |   1 +
+ lists/ROSeq                                 |   1 +
+ lists/RSpectra                              |   1 +
+ lists/RTCA                                  |   1 +
+ lists/RUVnormalize                          |   1 +
+ lists/RWeka                                 |   1 +
+ lists/RankProd                              |   1 +
+ lists/RcppDE                                |   1 +
+ lists/RcppDist                              |   1 +
+ lists/RcppML                                |   1 +
+ lists/RcppNumerical                         |   1 +
+ lists/ReadqPCR                              |   1 +
+ lists/RedeR                                 |   1 +
+ lists/ReorderCluster                        |   1 +
+ lists/Rmagic                                |   1 +
+ lists/Rmisc                                 |   1 +
+ lists/Rsubread                              |   1 +
+ lists/Rvmmin                                |   1 +
+ lists/SIMD                                  |   1 +
+ lists/SNAGEE                                |   1 +
+ lists/SNPediaR                              |   1 +
+ lists/SPARQL                                |   1 +
+ lists/SeuratObject                          |   1 +
+ lists/SmoothWin                             |   1 +
+ lists/SpatialTools                          |   1 +
+ lists/TH.data                               |   1 +
+ lists/TMB                                   |   1 +
+ lists/TRONCO                                |   1 +
+ lists/TTR                                   |   1 +
+ lists/TargetScore                           |   1 +
+ lists/Travel                                |   1 +
+ lists/VERSO                                 |   1 +
+ lists/Wrench                                |   1 +
+ lists/XML2R                                 |   1 +
+ lists/adehabitatLT                          |   1 +
+ lists/affy                                  |   1 +
+ lists/akima                                 |   1 +
+ lists/analogue                              |   1 +
+ lists/animation                             |   1 +
+ lists/annotationTools                       |   1 +
+ lists/antiProfiles                          |   1 +
+ lists/apcluster                             |   1 +
+ lists/aroma.apd                             |   1 +
+ lists/arules                                |   1 +
+ lists/ashr                                  |   1 +
+ lists/assertive.types                       |   1 +
+ lists/bamlss                                |   1 +
+ lists/base64                                |   1 +
+ lists/baseline                              |   1 +
+ lists/biganalytics                          |   1 +
+ lists/bigparallelr                          |   1 +
+ lists/bioDist                               |   1 +
+ lists/cancerclass                           |   1 +
+ lists/ccaPP                                 |   1 +
+ lists/chemometrics                          |   1 +
+ lists/chk                                   |   1 +
+ lists/chopsticks                            |   1 +
+ lists/classInt                              |   1 +
+ lists/clusterSim                            |   1 +
+ lists/copa                                  |   1 +
+ lists/credentials                           |   1 +
+ lists/crul                                  |   1 +
+ lists/distrEx                               |   1 +
+ lists/dks                                   |   1 +
+ lists/doSNOW                                |   1 +
+ lists/dqrng                                 |   1 +
+ lists/eds                                   |   1 +
+ lists/epivizrServer                         |   1 +
+ lists/fBasics                               |   1 +
+ lists/fitdistrplus                          |   1 +
+ lists/flexclust                             |   1 +
+ lists/flowCore                              |   1 +
+ lists/fmrs                                  |   1 +
+ lists/fst                                   |   1 +
+ lists/futile.logger                         |   1 +
+ lists/gProfileR                             |   1 +
+ lists/gamlss                                |   1 +
+ lists/gbm                                   |   1 +
+ lists/gbutils                               |   1 +
+ lists/gcatest                               |   1 +
+ lists/gdtools                               |   1 +
+ lists/geNetClassifier                       |   1 +
+ lists/geeM                                  |   1 +
+ lists/geneClassifiers                       |   1 +
+ lists/geometry                              |   1 +
+ lists/gld                                   |   1 +
+ lists/glmnet                                |   1 +
+ lists/gplots                                |   1 +
+ lists/hmdbQuery                             |   1 +
+ lists/httr                                  |   1 +
+ lists/hypergraph                            |   1 +
+ lists/iGC                                   |   1 +
+ lists/ids                                   |   1 +
+ lists/inaparc                               |   1 +
+ lists/km.ci                                 |   1 +
+ lists/kmer                                  |   1 +
+ lists/kmlShape                              |   1 +
+ lists/ks                                    |   1 +
+ lists/lapmix                                |   1 +
+ lists/latticeExtra                          |   1 +
+ lists/lava                                  |   1 +
+ lists/lmtest                                |   1 +
+ lists/lubridate                             |   1 +
+ lists/mGSZ                                  |   1 +
+ lists/mRMRe                                 |   1 +
+ lists/maSigPro                              |   1 +
+ lists/maanova                               |   1 +
+ lists/maftools                              |   1 +
+ lists/maigesPack                            |   1 +
+ lists/matchingR                             |   1 +
+ lists/maxLik                                |   1 +
+ lists/mclustcomp                            |   1 +
+ lists/metaSeq                               |   1 +
+ lists/miRcomp                               |   1 +
+ lists/missForest                            |   1 +
+ lists/mppa                                  |   1 +
+ lists/msm                                   |   1 +
+ lists/multiscan                             |   1 +
+ lists/multtest                              |   1 +
+ lists/mzID                                  |   1 +
+ lists/mzR                                   |   1 +
+ lists/ontologyPlot                          |   1 +
+ lists/origami                               |   1 +
+ lists/pROC                                  |   1 +
+ lists/paircompviz                           |   1 +
+ lists/pamr                                  |   1 +
+ lists/paradox                               |   1 +
+ lists/parameters                            |   1 +
+ lists/partykit                              |   1 +
+ lists/pathwayPCA                            |   1 +
+ lists/pcxn                                  |   1 +
+ lists/penalized                             |   1 +
+ lists/phosphoricons                         |   1 +
+ lists/phylolm                               |   1 +
+ lists/pkgbuild                              |   1 +
+ lists/propr                                 |   1 +
+ lists/proxyC                                |   1 +
+ lists/qlcMatrix                             |   1 +
+ lists/qpdf                                  |   1 +
+ lists/quanteda                              |   1 +
+ lists/quantreg                              |   1 +
+ lists/qusage                                |   1 +
+ lists/randPack                              |   1 +
+ lists/raster                                |   1 +
+ lists/rbsurv                                |   1 +
+ lists/rcdk                                  |   1 +
+ lists/rebus                                 |   1 +
+ lists/restfulr                              |   1 +
+ lists/reticulate                            |   1 +
+ lists/rhdf5                                 |   1 +
+ lists/robust                                |   1 +
+ lists/sampSurf                              |   1 +
+ lists/sass                                  |   1 +
+ lists/segmented                             |   1 +
+ lists/seriation                             |   1 +
+ lists/servr                                 |   1 +
+ lists/sigsquared                            |   1 +
+ lists/skmeans                               |   1 +
+ lists/snpStats                              |   1 +
+ lists/softImpute                            |   1 +
+ lists/spacetime                             |   1 +
+ lists/sparseMVN                             |   1 +
+ lists/sparsepca                             |   1 +
+ lists/spatstat.random                       |   1 +
+ lists/spdl                                  |   1 +
+ lists/speedglm                              |   1 +
+ lists/splancs                               |   1 +
+ lists/splines2                              |   1 +
+ lists/spp                                   |   1 +
+ lists/stepNorm                              |   1 +
+ lists/survey                                |   1 +
+ lists/textshaping                           |   1 +
+ lists/tmvtnorm                              |   1 +
+ lists/tnet                                  |   1 +
+ lists/topicmodels                           |   1 +
+ lists/tractor.base                          |   1 +
+ lists/twilight                              |   1 +
+ lists/updateObject                          |   1 +
+ lists/urca                                  |   1 +
+ lists/vbsr                                  |   1 +
+ lists/vctrs                                 |   1 +
+ lists/vioplot                               |   1 +
+ lists/xlsx                                  |   1 +
+ lists/yeastExpData                          |   1 +
+ logs/dispatchlists/2022-12-23_02-31_pkglist |  90 +++++++++++++++++
+ logs/run_ids/rstudio-binaries/seriation     |   2 +
+ tobuild.txt                                 | 148 ++++++++++++++++++++++++++++
+ 241 files changed, 478 insertions(+)
+ create mode 100644 lists/ABSSeq
+ create mode 100644 lists/ACME
+ create mode 100644 lists/AIMS
+ create mode 100644 lists/ANF
+ create mode 100644 lists/BAGS
+ create mode 100644 lists/BMA
+ create mode 100644 lists/BRISC
+ create mode 100644 lists/BayesKnockdown
+ create mode 100644 lists/BioMVCClass
+ create mode 100644 lists/BiocIO
+ create mode 100644 lists/BoolNet
+ create mode 100644 lists/BrowserViz
+ create mode 100644 lists/CGEN
+ create mode 100644 lists/CGHcall
+ create mode 100644 lists/CGHregions
+ create mode 100644 lists/CORREP
+ create mode 100644 lists/CVXR
+ create mode 100644 lists/CancerInSilico
+ create mode 100644 lists/CellMapper
+ create mode 100644 lists/ChIPXpressData
+ create mode 100644 lists/DNABarcodes
+ create mode 100644 lists/DrImpute
+ create mode 100644 lists/EntropyExplorer
+ create mode 100644 lists/ExtDist
+ create mode 100644 lists/GA
+ create mode 100644 lists/GSEAlm
+ create mode 100644 lists/GenKern
+ create mode 100644 lists/GeneSelectMMD
+ create mode 100644 lists/GenomicTools
+ create mode 100644 lists/HELP
+ create mode 100644 lists/HybridMTest
+ create mode 100644 lists/IRanges
+ create mode 100644 lists/Icens
+ create mode 100644 lists/JADE
+ create mode 100644 lists/KEGGgraph
+ create mode 100644 lists/LogicReg
+ create mode 100644 lists/MANOR
+ create mode 100644 lists/MCL
+ create mode 100644 lists/MSstatsConvert
+ create mode 100644 lists/MatrixExtra
+ create mode 100644 lists/Mfuzz
+ create mode 100644 lists/MiChip
+ create mode 100644 lists/MiPP
+ create mode 100644 lists/MsCoreUtils
+ create mode 100644 lists/NADA
+ create mode 100644 lists/NanoStringDiff
+ create mode 100644 lists/OLINgui
+ create mode 100644 lists/PMCMRplus
+ create mode 100644 lists/PROPER
+ create mode 100644 lists/PSCBS
+ create mode 100644 lists/PerformanceAnalytics
+ create mode 100644 lists/R.filesets
+ create mode 100644 lists/R.rsp
+ create mode 100644 lists/RBGL
+ create mode 100644 lists/RNOmni
+ create mode 100644 lists/ROSeq
+ create mode 100644 lists/RSpectra
+ create mode 100644 lists/RTCA
+ create mode 100644 lists/RUVnormalize
+ create mode 100644 lists/RWeka
+ create mode 100644 lists/RankProd
+ create mode 100644 lists/RcppDE
+ create mode 100644 lists/RcppDist
+ create mode 100644 lists/RcppML
+ create mode 100644 lists/RcppNumerical
+ create mode 100644 lists/ReadqPCR
+ create mode 100644 lists/RedeR
+ create mode 100644 lists/ReorderCluster
+ create mode 100644 lists/Rmagic
+ create mode 100644 lists/Rmisc
+ create mode 100644 lists/Rsubread
+ create mode 100644 lists/Rvmmin
+ create mode 100644 lists/SIMD
+ create mode 100644 lists/SNAGEE
+ create mode 100644 lists/SNPediaR
+ create mode 100644 lists/SPARQL
+ create mode 100644 lists/SeuratObject
+ create mode 100644 lists/SmoothWin
+ create mode 100644 lists/SpatialTools
+ create mode 100644 lists/TH.data
+ create mode 100644 lists/TMB
+ create mode 100644 lists/TRONCO
+ create mode 100644 lists/TTR
+ create mode 100644 lists/TargetScore
+ create mode 100644 lists/Travel
+ create mode 100644 lists/VERSO
+ create mode 100644 lists/Wrench
+ create mode 100644 lists/XML2R
+ create mode 100644 lists/adehabitatLT
+ create mode 100644 lists/affy
+ create mode 100644 lists/akima
+ create mode 100644 lists/analogue
+ create mode 100644 lists/animation
+ create mode 100644 lists/annotationTools
+ create mode 100644 lists/antiProfiles
+ create mode 100644 lists/apcluster
+ create mode 100644 lists/aroma.apd
+ create mode 100644 lists/arules
+ create mode 100644 lists/ashr
+ create mode 100644 lists/assertive.types
+ create mode 100644 lists/bamlss
+ create mode 100644 lists/base64
+ create mode 100644 lists/baseline
+ create mode 100644 lists/biganalytics
+ create mode 100644 lists/bigparallelr
+ create mode 100644 lists/bioDist
+ create mode 100644 lists/cancerclass
+ create mode 100644 lists/ccaPP
+ create mode 100644 lists/chemometrics
+ create mode 100644 lists/chk
+ create mode 100644 lists/chopsticks
+ create mode 100644 lists/classInt
+ create mode 100644 lists/clusterSim
+ create mode 100644 lists/copa
+ create mode 100644 lists/credentials
+ create mode 100644 lists/crul
+ create mode 100644 lists/distrEx
+ create mode 100644 lists/dks
+ create mode 100644 lists/doSNOW
+ create mode 100644 lists/dqrng
+ create mode 100644 lists/eds
+ create mode 100644 lists/epivizrServer
+ create mode 100644 lists/fBasics
+ create mode 100644 lists/fitdistrplus
+ create mode 100644 lists/flexclust
+ create mode 100644 lists/flowCore
+ create mode 100644 lists/fmrs
+ create mode 100644 lists/fst
+ create mode 100644 lists/futile.logger
+ create mode 100644 lists/gProfileR
+ create mode 100644 lists/gamlss
+ create mode 100644 lists/gbm
+ create mode 100644 lists/gbutils
+ create mode 100644 lists/gcatest
+ create mode 100644 lists/gdtools
+ create mode 100644 lists/geNetClassifier
+ create mode 100644 lists/geeM
+ create mode 100644 lists/geneClassifiers
+ create mode 100644 lists/geometry
+ create mode 100644 lists/gld
+ create mode 100644 lists/glmnet
+ create mode 100644 lists/gplots
+ create mode 100644 lists/hmdbQuery
+ create mode 100644 lists/httr
+ create mode 100644 lists/hypergraph
+ create mode 100644 lists/iGC
+ create mode 100644 lists/ids
+ create mode 100644 lists/inaparc
+ create mode 100644 lists/km.ci
+ create mode 100644 lists/kmer
+ create mode 100644 lists/kmlShape
+ create mode 100644 lists/ks
+ create mode 100644 lists/lapmix
+ create mode 100644 lists/latticeExtra
+ create mode 100644 lists/lava
+ create mode 100644 lists/lmtest
+ create mode 100644 lists/lubridate
+ create mode 100644 lists/mGSZ
+ create mode 100644 lists/mRMRe
+ create mode 100644 lists/maSigPro
+ create mode 100644 lists/maanova
+ create mode 100644 lists/maftools
+ create mode 100644 lists/maigesPack
+ create mode 100644 lists/matchingR
+ create mode 100644 lists/maxLik
+ create mode 100644 lists/mclustcomp
+ create mode 100644 lists/metaSeq
+ create mode 100644 lists/miRcomp
+ create mode 100644 lists/missForest
+ create mode 100644 lists/mppa
+ create mode 100644 lists/msm
+ create mode 100644 lists/multiscan
+ create mode 100644 lists/multtest
+ create mode 100644 lists/mzID
+ create mode 100644 lists/mzR
+ create mode 100644 lists/ontologyPlot
+ create mode 100644 lists/origami
+ create mode 100644 lists/pROC
+ create mode 100644 lists/paircompviz
+ create mode 100644 lists/pamr
+ create mode 100644 lists/paradox
+ create mode 100644 lists/parameters
+ create mode 100644 lists/partykit
+ create mode 100644 lists/pathwayPCA
+ create mode 100644 lists/pcxn
+ create mode 100644 lists/penalized
+ create mode 100644 lists/phosphoricons
+ create mode 100644 lists/phylolm
+ create mode 100644 lists/pkgbuild
+ create mode 100644 lists/propr
+ create mode 100644 lists/proxyC
+ create mode 100644 lists/qlcMatrix
+ create mode 100644 lists/qpdf
+ create mode 100644 lists/quanteda
+ create mode 100644 lists/quantreg
+ create mode 100644 lists/qusage
+ create mode 100644 lists/randPack
+ create mode 100644 lists/raster
+ create mode 100644 lists/rbsurv
+ create mode 100644 lists/rcdk
+ create mode 100644 lists/rebus
+ create mode 100644 lists/restfulr
+ create mode 100644 lists/reticulate
+ create mode 100644 lists/rhdf5
+ create mode 100644 lists/robust
+ create mode 100644 lists/sampSurf
+ create mode 100644 lists/sass
+ create mode 100644 lists/segmented
+ create mode 100644 lists/seriation
+ create mode 100644 lists/servr
+ create mode 100644 lists/sigsquared
+ create mode 100644 lists/skmeans
+ create mode 100644 lists/snpStats
+ create mode 100644 lists/softImpute
+ create mode 100644 lists/spacetime
+ create mode 100644 lists/sparseMVN
+ create mode 100644 lists/sparsepca
+ create mode 100644 lists/spatstat.random
+ create mode 100644 lists/spdl
+ create mode 100644 lists/speedglm
+ create mode 100644 lists/splancs
+ create mode 100644 lists/splines2
+ create mode 100644 lists/spp
+ create mode 100644 lists/stepNorm
+ create mode 100644 lists/survey
+ create mode 100644 lists/textshaping
+ create mode 100644 lists/tmvtnorm
+ create mode 100644 lists/tnet
+ create mode 100644 lists/topicmodels
+ create mode 100644 lists/tractor.base
+ create mode 100644 lists/twilight
+ create mode 100644 lists/updateObject
+ create mode 100644 lists/urca
+ create mode 100644 lists/vbsr
+ create mode 100644 lists/vctrs
+ create mode 100644 lists/vioplot
+ create mode 100644 lists/xlsx
+ create mode 100644 lists/yeastExpData
+ create mode 100644 logs/dispatchlists/2022-12-23_02-31_pkglist
+ create mode 100644 logs/run_ids/rstudio-binaries/seriation
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=sass
++ PKG=sass
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "sass"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 15  715k   15  107k    0     0   177k      0  0:00:04 --:--:--  0:00:04  177k100  715k  100  715k    0     0   548k      0  0:00:01  0:00:01 --:--:--  548k
+built/
+built/fs/
+built/fs/libs/
+built/fs/libs/fs.so
+built/fs/NAMESPACE
+built/fs/DESCRIPTION
+built/fs/help/
+built/fs/help/paths.rds
+built/fs/help/aliases.rds
+built/fs/help/fs.rdb
+built/fs/help/fs.rdx
+built/fs/help/AnIndex
+built/fs/Meta/
+built/fs/Meta/package.rds
+built/fs/Meta/vignette.rds
+built/fs/Meta/features.rds
+built/fs/Meta/hsearch.rds
+built/fs/Meta/links.rds
+built/fs/Meta/nsInfo.rds
+built/fs/Meta/Rd.rds
+built/fs/WORDLIST
+built/fs/LICENSE
+built/fs/html/
+built/fs/html/00Index.html
+built/fs/html/R.css
+built/fs/INDEX
+built/fs/doc/
+built/fs/doc/function-comparisons.html
+built/fs/doc/function-comparisons.Rmd
+built/fs/doc/function-comparisons.R
+built/fs/doc/index.html
+built/fs/R/
+built/fs/R/fs
+built/fs/R/fs.rdb
+built/fs/R/fs.rdx
+built/fs/COPYRIGHTS
+built/fs/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 2700k    0 16320    0     0  62098      0  0:00:44 --:--:--  0:00:44 62053 32 2700k   32  883k    0     0   690k      0  0:00:03  0:00:01  0:00:02  689k 99 2700k   99 2684k    0     0  1181k      0  0:00:02  0:00:02 --:--:-- 1181k100 2700k  100 2700k    0     0  1188k      0  0:00:02  0:00:02 --:--:-- 1188k
+built/
+built/built/
+built/built/fastmap/
+built/built/fastmap/libs/
+built/built/fastmap/libs/fastmap.so
+built/built/fastmap/NAMESPACE
+built/built/fastmap/DESCRIPTION
+built/built/fastmap/help/
+built/built/fastmap/help/paths.rds
+built/built/fastmap/help/fastmap.rdb
+built/built/fastmap/help/fastmap.rdx
+built/built/fastmap/help/aliases.rds
+built/built/fastmap/help/AnIndex
+built/built/fastmap/Meta/
+built/built/fastmap/Meta/package.rds
+built/built/fastmap/Meta/features.rds
+built/built/fastmap/Meta/hsearch.rds
+built/built/fastmap/Meta/links.rds
+built/built/fastmap/Meta/nsInfo.rds
+built/built/fastmap/Meta/Rd.rds
+built/built/fastmap/LICENSE
+built/built/fastmap/html/
+built/built/fastmap/html/00Index.html
+built/built/fastmap/html/R.css
+built/built/fastmap/INDEX
+built/built/fastmap/R/
+built/built/fastmap/R/fastmap
+built/built/fastmap/R/fastmap.rdb
+built/built/fastmap/R/fastmap.rdx
+built/built/fastmap/NEWS.md
+built/built/base64enc/
+built/built/base64enc/libs/
+built/built/base64enc/libs/base64enc.so
+built/built/base64enc/NEWS
+built/built/base64enc/NAMESPACE
+built/built/base64enc/DESCRIPTION
+built/built/base64enc/help/
+built/built/base64enc/help/paths.rds
+built/built/base64enc/help/base64enc.rdx
+built/built/base64enc/help/base64enc.rdb
+built/built/base64enc/help/aliases.rds
+built/built/base64enc/help/AnIndex
+built/built/base64enc/Meta/
+built/built/base64enc/Meta/package.rds
+built/built/base64enc/Meta/features.rds
+built/built/base64enc/Meta/hsearch.rds
+built/built/base64enc/Meta/links.rds
+built/built/base64enc/Meta/nsInfo.rds
+built/built/base64enc/Meta/Rd.rds
+built/built/base64enc/html/
+built/built/base64enc/html/00Index.html
+built/built/base64enc/html/R.css
+built/built/base64enc/INDEX
+built/built/base64enc/R/
+built/built/base64enc/R/base64enc.rdx
+built/built/base64enc/R/base64enc.rdb
+built/built/base64enc/R/base64enc
+built/built/rlang/
+built/built/rlang/libs/
+built/built/rlang/libs/rlang.so
+built/built/rlang/NAMESPACE
+built/built/rlang/DESCRIPTION
+built/built/rlang/help/
+built/built/rlang/help/rlang.rdb
+built/built/rlang/help/paths.rds
+built/built/rlang/help/rlang.rdx
+built/built/rlang/help/aliases.rds
+built/built/rlang/help/figures/
+built/built/rlang/help/figures/lifecycle-soft-deprecated.svg
+built/built/rlang/help/figures/lifecycle-experimental.svg
+built/built/rlang/help/figures/lifecycle-deprecated.svg
+built/built/rlang/help/figures/lifecycle-maturing.svg
+built/built/rlang/help/figures/lifecycle-superseded.svg
+built/built/rlang/help/figures/logo.png
+built/built/rlang/help/figures/lifecycle-questioning.svg
+built/built/rlang/help/figures/lifecycle-defunct.svg
+built/built/rlang/help/figures/lifecycle-archived.svg
+built/built/rlang/help/figures/lifecycle-retired.svg
+built/built/rlang/help/figures/lifecycle-stable.svg
+built/built/rlang/help/AnIndex
+built/built/rlang/Meta/
+built/built/rlang/Meta/package.rds
+built/built/rlang/Meta/features.rds
+built/built/rlang/Meta/hsearch.rds
+built/built/rlang/Meta/links.rds
+built/built/rlang/Meta/nsInfo.rds
+built/built/rlang/Meta/Rd.rds
+built/built/rlang/LICENSE
+built/built/rlang/html/
+built/built/rlang/html/00Index.html
+built/built/rlang/html/R.css
+built/built/rlang/INDEX
+built/built/rlang/R/
+built/built/rlang/R/rlang.rdb
+built/built/rlang/R/rlang.rdx
+built/built/rlang/R/rlang
+built/built/rlang/backtrace-ver
+built/built/rlang/NEWS.md
+built/built/ellipsis/
+built/built/ellipsis/libs/
+built/built/ellipsis/libs/ellipsis.so
+built/built/ellipsis/NAMESPACE
+built/built/ellipsis/DESCRIPTION
+built/built/ellipsis/help/
+built/built/ellipsis/help/paths.rds
+built/built/ellipsis/help/aliases.rds
+built/built/ellipsis/help/ellipsis.rdb
+built/built/ellipsis/help/ellipsis.rdx
+built/built/ellipsis/help/AnIndex
+built/built/ellipsis/Meta/
+built/built/ellipsis/Meta/package.rds
+built/built/ellipsis/Meta/features.rds
+built/built/ellipsis/Meta/hsearch.rds
+built/built/ellipsis/Meta/links.rds
+built/built/ellipsis/Meta/nsInfo.rds
+built/built/ellipsis/Meta/Rd.rds
+built/built/ellipsis/LICENSE
+built/built/ellipsis/html/
+built/built/ellipsis/html/00Index.html
+built/built/ellipsis/html/R.css
+built/built/ellipsis/INDEX
+built/built/ellipsis/R/
+built/built/ellipsis/R/ellipsis.rdb
+built/built/ellipsis/R/ellipsis.rdx
+built/built/ellipsis/R/ellipsis
+built/built/ellipsis/NEWS.md
+built/built/digest/
+built/built/digest/libs/
+built/built/digest/libs/digest.so
+built/built/digest/NAMESPACE
+built/built/digest/tinytest/
+built/built/digest/tinytest/test_new_matrix_behaviour.R
+built/built/digest/tinytest/test_crc32.R
+built/built/digest/tinytest/test_misc.R
+built/built/digest/tinytest/test_digest2int.R
+built/built/digest/tinytest/test_hmac.R
+built/built/digest/tinytest/test_blake3.R
+built/built/digest/tinytest/test_raw.R
+built/built/digest/tinytest/test_aes.R
+built/built/digest/tinytest/test_digest.R
+built/built/digest/tinytest/test_sha1.R
+built/built/digest/tinytest/test_encoding.R
+built/built/digest/tinytest/test_num2hex.R
+built/built/digest/DESCRIPTION
+built/built/digest/help/
+built/built/digest/help/paths.rds
+built/built/digest/help/aliases.rds
+built/built/digest/help/digest.rdx
+built/built/digest/help/digest.rdb
+built/built/digest/help/AnIndex
+built/built/digest/Meta/
+built/built/digest/Meta/package.rds
+built/built/digest/Meta/vignette.rds
+built/built/digest/Meta/demo.rds
+built/built/digest/Meta/features.rds
+built/built/digest/Meta/hsearch.rds
+built/built/digest/Meta/links.rds
+built/built/digest/Meta/nsInfo.rds
+built/built/digest/Meta/Rd.rds
+built/built/digest/include/
+built/built/digest/include/pmurhashAPI.h
+built/built/digest/GPL-2
+built/built/digest/html/
+built/built/digest/html/00Index.html
+built/built/digest/html/R.css
+built/built/digest/INDEX
+built/built/digest/doc/
+built/built/digest/doc/sha1.html
+built/built/digest/doc/sha1.md
+built/built/digest/doc/sha1.R
+built/built/digest/doc/index.html
+built/built/digest/R/
+built/built/digest/R/digest.rdx
+built/built/digest/R/digest.rdb
+built/built/digest/R/digest
+built/built/digest/demo/
+built/built/digest/demo/vectorised.R
+built/htmltools/
+built/htmltools/libs/
+built/htmltools/libs/htmltools.so
+built/htmltools/NAMESPACE
+built/htmltools/DESCRIPTION
+built/htmltools/help/
+built/htmltools/help/paths.rds
+built/htmltools/help/aliases.rds
+built/htmltools/help/figures/
+built/htmltools/help/figures/lifecycle-experimental.svg
+built/htmltools/help/figures/lifecycle-deprecated.svg
+built/htmltools/help/figures/lifecycle-superseded.svg
+built/htmltools/help/figures/logo.png
+built/htmltools/help/figures/lifecycle-questioning.svg
+built/htmltools/help/figures/plotly-taglist.png
+built/htmltools/help/htmltools.rdx
+built/htmltools/help/AnIndex
+built/htmltools/help/htmltools.rdb
+built/htmltools/Meta/
+built/htmltools/Meta/package.rds
+built/htmltools/Meta/features.rds
+built/htmltools/Meta/hsearch.rds
+built/htmltools/Meta/links.rds
+built/htmltools/Meta/nsInfo.rds
+built/htmltools/Meta/Rd.rds
+built/htmltools/fill/
+built/htmltools/fill/fill.css
+built/htmltools/html/
+built/htmltools/html/00Index.html
+built/htmltools/html/R.css
+built/htmltools/INDEX
+built/htmltools/R/
+built/htmltools/R/htmltools
+built/htmltools/R/htmltools.rdx
+built/htmltools/R/htmltools.rdb
+built/htmltools/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 82665  100 82665    0     0   200k      0 --:--:-- --:--:-- --:--:--  200k
+built/
+built/R6/
+built/R6/NAMESPACE
+built/R6/DESCRIPTION
+built/R6/help/
+built/R6/help/paths.rds
+built/R6/help/R6.rdx
+built/R6/help/R6.rdb
+built/R6/help/aliases.rds
+built/R6/help/figures/
+built/R6/help/figures/logo.svg
+built/R6/help/figures/logo.png
+built/R6/help/AnIndex
+built/R6/Meta/
+built/R6/Meta/package.rds
+built/R6/Meta/features.rds
+built/R6/Meta/hsearch.rds
+built/R6/Meta/links.rds
+built/R6/Meta/nsInfo.rds
+built/R6/Meta/Rd.rds
+built/R6/LICENSE
+built/R6/html/
+built/R6/html/00Index.html
+built/R6/html/R.css
+built/R6/INDEX
+built/R6/R/
+built/R6/R/R6.rdx
+built/R6/R/R6.rdb
+built/R6/R/R6
+built/R6/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 45725  100 45725    0     0   119k      0 --:--:-- --:--:-- --:--:--  119k
+built/
+built/rappdirs/
+built/rappdirs/libs/
+built/rappdirs/libs/rappdirs.so
+built/rappdirs/NAMESPACE
+built/rappdirs/DESCRIPTION
+built/rappdirs/help/
+built/rappdirs/help/paths.rds
+built/rappdirs/help/aliases.rds
+built/rappdirs/help/rappdirs.rdx
+built/rappdirs/help/AnIndex
+built/rappdirs/help/rappdirs.rdb
+built/rappdirs/Meta/
+built/rappdirs/Meta/package.rds
+built/rappdirs/Meta/features.rds
+built/rappdirs/Meta/hsearch.rds
+built/rappdirs/Meta/links.rds
+built/rappdirs/Meta/nsInfo.rds
+built/rappdirs/Meta/Rd.rds
+built/rappdirs/LICENSE
+built/rappdirs/html/
+built/rappdirs/html/00Index.html
+built/rappdirs/html/R.css
+built/rappdirs/INDEX
+built/rappdirs/R/
+built/rappdirs/R/rappdirs
+built/rappdirs/R/rappdirs.rdx
+built/rappdirs/R/rappdirs.rdb
+built/rappdirs/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''sass'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv sass_0.4.4_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/sass
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'sass'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/sass_0.4.4.tar.gz'
+Content type 'binary/octet-stream' length 2413533 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+* installing *binary* package ‘sass’ ...
+* ‘sass’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sass’ as ‘sass_0.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sass)
+
+The downloaded source packages are in
+	‘/tmp/RtmpXfwCaR/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m11.892s
+user	0m4.942s
+sys	0m0.448s
