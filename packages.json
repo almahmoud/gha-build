@@ -122510,7 +122510,6 @@
         "RSQLite",
         "Rcpp",
         "STRINGdb",
-        "alluvial",
         "bit",
         "bit64",
         "bitops",
@@ -143956,6 +143955,5 @@
     "Rmisc": [
         "Rcpp",
         "plyr"
-    ],
-    "alluvial": []
+    ]
 }
