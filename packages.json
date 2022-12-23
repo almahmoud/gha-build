@@ -51907,7 +51907,6 @@
         "cpp11",
         "data.table",
         "digest",
-        "effsize",
         "ellipsis",
         "evaluate",
         "fansi",
@@ -176984,7 +176983,6 @@
     "lars": [],
     "gcspikelite": [],
     "SPARQL": [],
-    "effsize": [],
     "ggiraph": [
         "MASS",
         "Matrix",
