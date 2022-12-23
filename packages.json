@@ -69,9 +69,7 @@
         "dmrseq"
     ],
     "BitSeq": [],
-    "blacksheepr": [
-        "pasilla"
-    ],
+    "blacksheepr": [],
     "BOBaFIT": [
         "ggbio"
     ],
@@ -1161,7 +1159,6 @@
     "mGSZ": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
     "radiant.data": [],
-    "pasilla": [],
     "GenomicState": [
         "derfinder"
     ],
