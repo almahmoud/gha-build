@@ -3306,7 +3306,6 @@
         "bsseq",
         "rhdf5"
     ],
-    "mirIntegrator": [],
     "miRLAB": [
         "Category",
         "GOstats",
