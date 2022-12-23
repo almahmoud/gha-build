@@ -8326,7 +8326,6 @@
         "BSgenome",
         "GenomicFeatures",
         "VariantAnnotation",
-        "bestNormalize",
         "naniar",
         "rtracklayer",
         "viridis"
@@ -9591,7 +9590,6 @@
         "viridis"
     ],
     "GenKern": [],
-    "bestNormalize": [],
     "naniar": [
         "viridis"
     ],
