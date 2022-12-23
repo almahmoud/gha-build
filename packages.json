@@ -3216,7 +3216,6 @@
         "sva",
         "testthat"
     ],
-    "GBScleanR": [],
     "gcapc": [
         "BSgenome",
         "rtracklayer"
