@@ -4917,7 +4917,6 @@
         "scatterpie",
         "treeio"
     ],
-    "netDx": [],
     "netOmics": [
         "RandomWalkRestartMH",
         "dnet",
