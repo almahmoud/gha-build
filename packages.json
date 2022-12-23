@@ -5348,9 +5348,7 @@
         "viridis"
     ],
     "mosaics": [],
-    "mosbi": [
-        "QUBIC"
-    ],
+    "mosbi": [],
     "Motif2Site": [
         "BSgenome",
         "mixtools",
@@ -6764,7 +6762,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "QUBIC": [],
     "R3CPET": [
         "BSgenome",
         "GenomicFeatures",
