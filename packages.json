@@ -714,7 +714,6 @@
         "apeglm",
         "bbmle",
         "beachmat",
-        "catdata",
         "clue",
         "doParallel",
         "dplyr",
@@ -71597,7 +71596,6 @@
     "e1071": [],
     "smurf": [
         "RcppEigen",
-        "catdata",
         "glmnet",
         "mgcv",
         "speedglm",
@@ -71649,7 +71647,6 @@
         "tibble",
         "vctrs"
     ],
-    "catdata": [],
     "speedglm": [],
     "irlba": [],
     "ragg": [
