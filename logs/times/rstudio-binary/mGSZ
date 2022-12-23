@@ -1,0 +1,42 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   e062270a..5a0c53b3  main       -> origin/main
+Updating e062270a..5a0c53b3
+Fast-forward
+ lists/BRISC                                      |    2 +-
+ lists/CGHregions                                 |    2 +-
+ logs/sizes/rstudio-binaries/binaries/BRISC       |    1 +
+ logs/sizes/rstudio-binaries/binaries/CGHregions  |    1 +
+ logs/sizes/rstudio-binaries/libraries/BRISC      |    1 +
+ logs/sizes/rstudio-binaries/libraries/CGHregions |    1 +
+ logs/times/rstudio-binary/BRISC                  | 2323 ++++++++++++++++++++++
+ logs/times/rstudio-binary/CGHregions             |   80 +
+ packages.json                                    |    3 -
+ 9 files changed, 2409 insertions(+), 5 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/BRISC
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/CGHregions
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/BRISC
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/CGHregions
+ create mode 100644 logs/times/rstudio-binary/BRISC
+ create mode 100644 logs/times/rstudio-binary/CGHregions
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=mGSZ
++ PKG=mGSZ
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "mGSZ"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ echo 'No dependencies'
+No dependencies
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''mGSZ'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+
+real	0m4.737s
+user	0m3.311s
+sys	0m0.208s
