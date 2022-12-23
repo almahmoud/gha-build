@@ -3905,7 +3905,6 @@
     "macat": [
         "annotate"
     ],
-    "MACSQuantifyR": [],
     "MACSr": [
         "AnnotationHub",
         "ExperimentHub",
