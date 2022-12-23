@@ -4514,9 +4514,7 @@
     "rGADEM": [
         "BSgenome"
     ],
-    "rGenomeTracks": [
-        "rGenomeTracksData"
-    ],
+    "rGenomeTracks": [],
     "RGMQL": [],
     "RgnTX": [
         "BSgenome",
@@ -6348,7 +6346,6 @@
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome"
     ],
-    "rGenomeTracksData": [],
     "valr": [],
     "RLHub": [],
     "SCATEData": [],
