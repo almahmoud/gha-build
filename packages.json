@@ -45755,8 +45755,7 @@
     "RedisParam": [
         "BiocParallel",
         "futile.logger",
-        "redux",
-        "storr"
+        "redux"
     ],
     "REDseq": [
         "AnnotationDbi",
@@ -70185,10 +70184,7 @@
         "vctrs"
     ],
     "CodeDepends": [],
-    "redux": [
-        "storr"
-    ],
-    "storr": [],
+    "redux": [],
     "BSgenome.Celegans.UCSC.ce2": [
         "BSgenome",
         "BiocIO",
