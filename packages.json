@@ -4329,8 +4329,7 @@
         "vctrs",
         "vioplot",
         "viridis",
-        "xlsx",
-        "xlsxjars"
+        "xlsx"
     ],
     "BioMVCClass": [],
     "biomvRCNS": [
@@ -57085,13 +57084,10 @@
         "stringr",
         "vctrs"
     ],
-    "xlsx": [
-        "xlsxjars"
-    ],
+    "xlsx": [],
     "multcomp": [
         "TH.data"
     ],
-    "xlsxjars": [],
     "TH.data": [],
     "latex2exp": [
         "stringr",
