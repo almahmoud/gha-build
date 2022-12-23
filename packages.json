@@ -1810,7 +1810,6 @@
         "scater",
         "scran",
         "scuttle",
-        "shinyWidgets",
         "shinydashboardPlus",
         "viridis"
     ],
@@ -2508,7 +2507,6 @@
         "oligo",
         "oligoClasses",
         "shinyBS",
-        "shinyWidgets",
         "shinypanel",
         "sva"
     ],
@@ -4438,7 +4436,6 @@
         "dendextend",
         "geneplotter",
         "plotly",
-        "shinyWidgets",
         "tippy",
         "viridis",
         "visNetwork"
@@ -5536,21 +5533,18 @@
         "haven",
         "reactable",
         "rio",
-        "shinyWidgets",
         "shinybusy"
     ],
     "iSEE": [
         "DT",
         "SingleCellExperiment",
-        "colourpicker",
-        "shinyWidgets"
+        "colourpicker"
     ],
     "iSEEhex": [
         "DT",
         "SingleCellExperiment",
         "colourpicker",
-        "iSEE",
-        "shinyWidgets"
+        "iSEE"
     ],
     "iSEEhub": [
         "AnnotationHub",
@@ -5560,16 +5554,14 @@
         "SingleCellExperiment",
         "colourpicker",
         "iSEE",
-        "interactiveDisplayBase",
-        "shinyWidgets"
+        "interactiveDisplayBase"
     ],
     "iSEEu": [
         "DT",
         "SingleCellExperiment",
         "colourpicker",
         "iSEE",
-        "iSEEhex",
-        "shinyWidgets"
+        "iSEEhex"
     ],
     "ISLET": [],
     "isobar": [
@@ -6620,7 +6612,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "shinyWidgets",
         "testthat",
         "viridis"
     ],
@@ -6667,7 +6658,6 @@
         "golem",
         "gson",
         "scatterpie",
-        "shinyWidgets",
         "tidygraph",
         "tidytree",
         "treeio",
@@ -7907,7 +7897,6 @@
         "pbkrtest",
         "plotly",
         "rstatix",
-        "shinyWidgets",
         "shinybusy",
         "survminer",
         "testthat"
@@ -8666,7 +8655,6 @@
         "pRoloc",
         "plotly",
         "recipes",
-        "shinyWidgets",
         "shinydashboardPlus",
         "threejs",
         "viridis"
@@ -8840,8 +8828,7 @@
         "genefilter",
         "interactiveDisplayBase",
         "pwrEWAS.data",
-        "shinyBS",
-        "shinyWidgets"
+        "shinyBS"
     ],
     "QDNAseq": [
         "CGHcall"
@@ -9891,8 +9878,7 @@
         "BiocStyle",
         "DT",
         "excelR",
-        "plotly",
-        "shinyWidgets"
+        "plotly"
     ],
     "satuRn": [],
     "SBGNview": [
@@ -10407,7 +10393,6 @@
         "minfi",
         "plotly",
         "rtracklayer",
-        "shinyWidgets",
         "viridis"
     ],
     "shinyMethyl": [
@@ -10487,7 +10472,6 @@
         "pbkrtest",
         "rstatix",
         "rtracklayer",
-        "shinyWidgets",
         "survivalAnalysis",
         "survminer",
         "testthat",
@@ -10798,8 +10782,7 @@
         "scuttle"
     ],
     "SpatialCPie": [
-        "ggiraph",
-        "shinyWidgets"
+        "ggiraph"
     ],
     "spatialDE": [
         "BiocFileCache",
@@ -10933,7 +10916,6 @@
         "plotly",
         "rhandsontable",
         "rtracklayer",
-        "shinyWidgets",
         "viridis"
     ],
     "SplicingFactory": [],
@@ -11253,7 +11235,6 @@
         "DT",
         "drawer",
         "plotly",
-        "shinyWidgets",
         "shinydashboardPlus",
         "shinyjqui",
         "spsComps"
@@ -11887,7 +11868,6 @@
         "org.Hs.eg.db",
         "rtracklayer",
         "shinyBS",
-        "shinyWidgets",
         "viridis"
     ],
     "UniProt.ws": [
@@ -12166,8 +12146,7 @@
     ],
     "wpm": [
         "DT",
-        "golem",
-        "shinyWidgets"
+        "golem"
     ],
     "wppi": [
         "OmnipathR"
@@ -12766,7 +12745,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "shinyWidgets": [],
     "shinydashboardPlus": [],
     "kableExtra": [],
     "gggenes": [],
@@ -13054,7 +13032,6 @@
         "haven",
         "reactable",
         "rio",
-        "shinyWidgets",
         "shinybusy"
     ],
     "pd.mapping50k.xba240": [
