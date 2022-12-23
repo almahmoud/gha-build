@@ -17704,7 +17704,6 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rhdf5client",
         "rmarkdown",
         "shiny"
     ],
@@ -17830,7 +17829,6 @@
         "org.Hs.eg.db",
         "rtracklayer"
     ],
-    "rhdf5client": [],
     "Rhisat2": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -21949,7 +21947,6 @@
         "ontoProc",
         "org.Mm.eg.db",
         "restfulSE",
-        "rhdf5client",
         "rmarkdown",
         "shiny"
     ],
