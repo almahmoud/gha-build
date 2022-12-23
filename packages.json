@@ -1564,9 +1564,7 @@
         "BSgenome.Drerio.UCSC.danRer7",
         "rtracklayer"
     ],
-    "clippda": [
-        "rgl"
-    ],
+    "clippda": [],
     "clipper": [
         "GenomicFeatures",
         "annotate",
@@ -2226,7 +2224,6 @@
         "pbkrtest",
         "plsVarSel",
         "recipes",
-        "rgl",
         "rtracklayer",
         "sva",
         "testthat",
@@ -3269,9 +3266,7 @@
         "genomation",
         "rtracklayer"
     ],
-    "fCI": [
-        "rgl"
-    ],
+    "fCI": [],
     "fcoex": [
         "DOSE",
         "GO.db",
@@ -3528,7 +3523,6 @@
         "pbkrtest",
         "plsVarSel",
         "recipes",
-        "rgl",
         "rtracklayer",
         "sva",
         "testthat",
@@ -4303,7 +4297,6 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "rgl",
         "rhdf5",
         "rtracklayer"
     ],
@@ -5810,7 +5803,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "rgl",
         "scatterpie",
         "tidytree",
         "treeio",
@@ -6370,8 +6362,7 @@
         "vsn"
     ],
     "NormqPCR": [
-        "qpcR",
-        "rgl"
+        "qpcR"
     ],
     "normr": [
         "rtracklayer"
@@ -6511,7 +6502,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rgl",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -6583,9 +6573,7 @@
         "devtools",
         "testthat"
     ],
-    "optimalFlow": [
-        "rgl"
-    ],
+    "optimalFlow": [],
     "ORFhunteR": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -7446,9 +7434,7 @@
         "ShortRead",
         "dada2"
     ],
-    "Rcade": [
-        "rgl"
-    ],
+    "Rcade": [],
     "RCAS": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
@@ -7498,9 +7484,7 @@
         "basilisk",
         "viridis"
     ],
-    "RDRToolbox": [
-        "rgl"
-    ],
+    "RDRToolbox": [],
     "ReactomeGraph4R": [],
     "ReactomePA": [
         "DOSE",
@@ -9585,9 +9569,7 @@
         "slingshot",
         "viridis"
     ],
-    "TrajectoryGeometry": [
-        "rgl"
-    ],
+    "TrajectoryGeometry": [],
     "TrajectoryUtils": [],
     "transcriptogramer": [
         "GO.db",
@@ -9629,7 +9611,6 @@
     "Travel": [],
     "traviz": [
         "TrajectoryUtils",
-        "rgl",
         "slingshot",
         "viridis"
     ],
@@ -9706,9 +9687,7 @@
         "textstem",
         "viridis"
     ],
-    "TTMap": [
-        "rgl"
-    ],
+    "TTMap": [],
     "TurboNorm": [
         "affy"
     ],
@@ -10497,7 +10476,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "rgl": [],
     "phylobase": [],
     "benchmarkme": [],
     "rio": [],
@@ -10577,8 +10555,7 @@
         "testthat"
     ],
     "plsVarSel": [
-        "MSQC",
-        "rgl"
+        "MSQC"
     ],
     "FSelector": [
         "RWeka"
@@ -10589,9 +10566,7 @@
         "testthat"
     ],
     "RWeka": [],
-    "MSQC": [
-        "rgl"
-    ],
+    "MSQC": [],
     "DAPARdata": [
         "MSnbase",
         "affy",
@@ -10816,9 +10791,7 @@
         "testthat"
     ],
     "echarts4r": [],
-    "HiveR": [
-        "rgl"
-    ],
+    "HiveR": [],
     "anyLib": [
         "devtools",
         "testthat"
@@ -10844,9 +10817,7 @@
         "testthat",
         "viridis"
     ],
-    "qpcR": [
-        "rgl"
-    ],
+    "qpcR": [],
     "NxtIRFdata": [
         "AnnotationHub",
         "ExperimentHub",
