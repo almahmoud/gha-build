@@ -51476,7 +51476,6 @@
         "fontawesome",
         "futile.logger",
         "ggplot2",
-        "grImport",
         "graph",
         "gridExtra",
         "highr",
@@ -75648,7 +75647,6 @@
         "ggrastr",
         "ggrepel",
         "gplots",
-        "grImport",
         "gridExtra",
         "highr",
         "htmlTable",
@@ -81588,7 +81586,6 @@
         "ensembldb",
         "futile.logger",
         "ggplot2",
-        "grImport",
         "graph",
         "gridExtra",
         "highr",
@@ -96728,7 +96725,6 @@
         "tinytex",
         "vctrs"
     ],
-    "grImport": [],
     "scico": [
         "lifecycle",
         "munsell",
