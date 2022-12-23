@@ -501,7 +501,6 @@
         "rtracklayer"
     ],
     "bioassayR": [],
-    "biobroom": [],
     "bioCancer": [
         "DOSE",
         "DiagrammeR",
@@ -7385,9 +7384,7 @@
         "CoreGx",
         "piano"
     ],
-    "TPP": [
-        "biobroom"
-    ],
+    "TPP": [],
     "trackViewer": [
         "BSgenome",
         "GenomicFeatures",
