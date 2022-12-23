@@ -80,7 +80,6 @@
     ],
     "borealis": [],
     "brainflowprobes": [
-        "GenomicFiles",
         "GenomicState",
         "derfinder",
         "derfinderPlot",
@@ -91,7 +90,6 @@
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "GenomicInteractions",
         "Gviz"
     ],
@@ -204,9 +202,7 @@
     "consensusDE": [
         "RUVSeq"
     ],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -277,11 +273,8 @@
         "ttgsea"
     ],
     "DeMixT": [],
-    "derfinder": [
-        "GenomicFiles"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
-        "GenomicFiles",
         "derfinder",
         "ggbio"
     ],
@@ -370,9 +363,7 @@
         "epivizr",
         "epivizrData"
     ],
-    "erma": [
-        "GenomicFiles"
-    ],
+    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler"
@@ -452,7 +443,6 @@
     "GeneStructureTools": [
         "Gviz"
     ],
-    "GenomicFiles": [],
     "GenomicInteractions": [
         "Gviz"
     ],
@@ -816,7 +806,6 @@
         "RUVSeq"
     ],
     "ODER": [
-        "GenomicFiles",
         "dasper",
         "derfinder",
         "ggpubr",
@@ -901,7 +890,6 @@
         "rstatix"
     ],
     "psichomics": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -924,9 +912,7 @@
     "quantro": [
         "minfi"
     ],
-    "QuasR": [
-        "GenomicFiles"
-    ],
+    "QuasR": [],
     "R3CPET": [
         "ggbio"
     ],
@@ -936,7 +922,6 @@
     "rCGH": [],
     "ReactomePA": [],
     "recount": [
-        "GenomicFiles",
         "derfinder"
     ],
     "recountmethylation": [
@@ -945,7 +930,6 @@
     ],
     "REDseq": [],
     "regionReport": [
-        "GenomicFiles",
         "derfinder"
     ],
     "regutools": [
@@ -977,7 +961,6 @@
     "RITAN": [],
     "Rmmquant": [],
     "RNAAgeCalc": [
-        "GenomicFiles",
         "derfinder",
         "recount"
     ],
@@ -1006,7 +989,6 @@
         "rstatix"
     ],
     "RnaSeqSampleSize": [
-        "GenomicFiles",
         "derfinder",
         "ggpubr",
         "recount",
@@ -1016,9 +998,7 @@
         "methylumi",
         "minfi"
     ],
-    "Rqc": [
-        "GenomicFiles"
-    ],
+    "Rqc": [],
     "rqt": [],
     "RTCGA": [
         "ggpubr",
@@ -1087,7 +1067,6 @@
     "simpleSeg": [],
     "singleCellTK": [],
     "SingleMoleculeFootprinting": [
-        "GenomicFiles",
         "QuasR"
     ],
     "skewr": [
@@ -1224,9 +1203,7 @@
         "Gviz"
     ],
     "VariantTools": [],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
+    "VCFArray": [],
     "vissE": [],
     "Voyager": [],
     "vtpnet": [],
@@ -1259,7 +1236,6 @@
     "radiant.data": [],
     "pasilla": [],
     "GenomicState": [
-        "GenomicFiles",
         "derfinder"
     ],
     "drc": [],
