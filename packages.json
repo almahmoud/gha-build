@@ -1250,7 +1250,6 @@
         "labeling",
         "lambda.r",
         "lifecycle",
-        "lpSolve",
         "matrixStats",
         "mgcv",
         "munsell",
@@ -1672,7 +1671,6 @@
         "lambda.r",
         "lifecycle",
         "limSolve",
-        "lpSolve",
         "matrixStats",
         "memoise",
         "mgcv",
@@ -3603,7 +3601,6 @@
         "lifecycle",
         "limma",
         "locfit",
-        "lpSolve",
         "matrixStats",
         "memoise",
         "mgcv",
@@ -5792,7 +5789,6 @@
         "lbfgs",
         "lifecycle",
         "limma",
-        "lpSolve",
         "lubridate",
         "matrixStats",
         "memoise",
@@ -7403,7 +7399,6 @@
         "hypergraph",
         "lifecycle",
         "limSolve",
-        "lpSolve",
         "quadprog",
         "rlang",
         "rsbml",
@@ -13014,7 +13009,6 @@
         "jquerylib",
         "knitr",
         "lifecycle",
-        "lpSolve",
         "memoise",
         "pillar",
         "prettyunits",
@@ -22647,7 +22641,6 @@
         "labeling",
         "later",
         "lifecycle",
-        "lpSolve",
         "memoise",
         "mgcv",
         "mixtools",
@@ -24834,7 +24827,6 @@
         "lifecycle",
         "linprog",
         "lme4",
-        "lpSolve",
         "magic",
         "maps",
         "matrixStats",
@@ -26570,7 +26562,6 @@
         "lambda.r",
         "lifecycle",
         "linprog",
-        "lpSolve",
         "magic",
         "matrixStats",
         "mgcv",
@@ -27047,7 +27038,6 @@
         "labeling",
         "lifecycle",
         "limSolve",
-        "lpSolve",
         "mgcv",
         "munsell",
         "nlme",
@@ -31712,7 +31702,6 @@
         "limSolve",
         "lme4",
         "locfit",
-        "lpSolve",
         "matrixStats",
         "memoise",
         "mgcv",
@@ -35719,7 +35708,6 @@
         "lava",
         "lifecycle",
         "limma",
-        "lpSolve",
         "matrixStats",
         "memoise",
         "mgcv",
@@ -45898,7 +45886,6 @@
         "labeling",
         "lifecycle",
         "limSolve",
-        "lpSolve",
         "lubridate",
         "memoise",
         "mgcv",
@@ -54400,7 +54387,6 @@
         "irr",
         "labeling",
         "lifecycle",
-        "lpSolve",
         "mgcv",
         "munsell",
         "nlme",
@@ -55451,9 +55437,7 @@
         "zlibbioc"
     ],
     "LPEadj": [],
-    "lpNet": [
-        "lpSolve"
-    ],
+    "lpNet": [],
     "LRBaseDbi": [
         "AnnotationDbi",
         "Biobase",
@@ -71101,7 +71085,6 @@
         "limSolve",
         "limma",
         "locfit",
-        "lpSolve",
         "mathjaxr",
         "matrixStats",
         "memoise",
@@ -74491,7 +74474,6 @@
         "later",
         "lifecycle",
         "linprog",
-        "lpSolve",
         "magic",
         "memoise",
         "mgcv",
@@ -82706,7 +82688,6 @@
         "lava",
         "lifecycle",
         "limma",
-        "lpSolve",
         "lubridate",
         "matrixStats",
         "memoise",
@@ -82874,7 +82855,6 @@
         "lava",
         "lifecycle",
         "limma",
-        "lpSolve",
         "lubridate",
         "markdown",
         "matrixStats",
@@ -85169,7 +85149,6 @@
         "labeling",
         "lifecycle",
         "limSolve",
-        "lpSolve",
         "matrixStats",
         "mgcv",
         "munsell",
@@ -103911,7 +103890,6 @@
         "labeling",
         "later",
         "lifecycle",
-        "lpSolve",
         "matrixStats",
         "memoise",
         "mgcv",
@@ -118254,7 +118232,6 @@
         "latticeExtra",
         "lifecycle",
         "limSolve",
-        "lpSolve",
         "matrixStats",
         "memoise",
         "mgcv",
@@ -120144,7 +120121,6 @@
     "forestplot": [
         "checkmate"
     ],
-    "lpSolve": [],
     "RcppNumerical": [
         "Matrix",
         "Rcpp",
@@ -120406,12 +120382,10 @@
     "baseline": [
         "MASS",
         "limSolve",
-        "lpSolve",
         "quadprog"
     ],
     "limSolve": [
         "MASS",
-        "lpSolve",
         "quadprog"
     ],
     "corpcor": [],
@@ -122272,8 +122246,7 @@
         "Rcpp"
     ],
     "sampling": [
-        "MASS",
-        "lpSolve"
+        "MASS"
     ],
     "sendmailR": [],
     "FDb.InfiniumMethylation.hg19": [
@@ -123851,7 +123824,6 @@
         "MASS",
         "diagram",
         "limSolve",
-        "lpSolve",
         "quadprog"
     ],
     "diagram": [],
@@ -129013,7 +128985,6 @@
         "labeling",
         "lifecycle",
         "linprog",
-        "lpSolve",
         "magic",
         "matrixStats",
         "mgcv",
@@ -129069,13 +129040,10 @@
     "geometry": [
         "Rcpp",
         "linprog",
-        "lpSolve",
         "magic"
     ],
     "IDPmisc": [],
-    "linprog": [
-        "lpSolve"
-    ],
+    "linprog": [],
     "RPMG": [],
     "GEOmap": [
         "MASS",
@@ -132412,9 +132380,7 @@
     "akima": [
         "sp"
     ],
-    "irr": [
-        "lpSolve"
-    ],
+    "irr": [],
     "scam": [
         "Matrix",
         "mgcv",
@@ -134869,7 +134835,6 @@
         "Rcpp",
         "geometry",
         "linprog",
-        "lpSolve",
         "magic"
     ],
     "diceR": [
