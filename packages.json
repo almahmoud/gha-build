@@ -8567,7 +8567,6 @@
         "tidyr"
     ],
     "KCsmart": [],
-    "kebabs": [],
     "KEGGlincs": [
         "AnnotationDbi",
         "hgu133a.db",
@@ -11821,7 +11820,6 @@
         "waldo"
     ],
     "odseq": [
-        "kebabs",
         "msa"
     ],
     "OGRE": [
@@ -13043,9 +13041,7 @@
         "vsn",
         "waldo"
     ],
-    "procoil": [
-        "kebabs"
-    ],
+    "procoil": [],
     "proDA": [
         "SummarizedExperiment"
     ],
