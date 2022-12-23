@@ -118,7 +118,6 @@
     "anota2seq": [
         "DESeq2"
     ],
-    "AnVILPublish": [],
     "APAlyzer": [
         "BSgenome",
         "DESeq2",
