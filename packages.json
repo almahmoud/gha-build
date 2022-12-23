@@ -6229,7 +6229,6 @@
         "rhdf5",
         "viridis"
     ],
-    "sRACIPE": [],
     "srnadiff": [
         "BSgenome",
         "DESeq2",
