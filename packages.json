@@ -979,7 +979,6 @@
     "ggmsa": [],
     "ggspavis": [],
     "ggtreeDendro": [],
-    "ggtreeExtra": [],
     "Glimma": [],
     "glmSparseNet": [
         "car",
@@ -1371,9 +1370,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "MicrobiotaProcess": [
-        "ggtreeExtra"
-    ],
+    "MicrobiotaProcess": [],
     "MIGSA": [],
     "MineICA": [
         "FDb.InfiniumMethylation.hg19",
