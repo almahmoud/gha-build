@@ -5030,10 +5030,7 @@
     "isobar": [
         "biomaRt"
     ],
-    "IsoCorrectoR": [],
-    "IsoCorrectoRGUI": [
-        "IsoCorrectoR"
-    ],
+    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "AnnotationHub",
         "BSgenome",
