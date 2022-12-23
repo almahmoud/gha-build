@@ -100,7 +100,6 @@
         "curatedTCGAData",
         "rhdf5"
     ],
-    "amplican": [],
     "Anaquin": [
         "DESeq2"
     ],
