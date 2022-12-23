@@ -2194,7 +2194,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "DEGraph": [],
     "DEGreport": [
         "DESeq2",
         "annotate",
