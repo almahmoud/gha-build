@@ -163,8 +163,7 @@
         "GUniFrac",
         "annotate",
         "caret",
-        "geneplotter",
-        "recipes"
+        "geneplotter"
     ],
     "annaffy": [
         "GO.db"
@@ -438,8 +437,7 @@
         "genefilter",
         "mixtools",
         "pRoloc",
-        "pRolocdata",
-        "recipes"
+        "pRolocdata"
     ],
     "banocc": [],
     "barcodetrackR": [],
@@ -823,7 +821,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "biomaRt",
         "caret",
-        "recipes",
         "rtracklayer"
     ],
     "breakpointR": [],
@@ -1180,7 +1177,6 @@
     "ChIC": [
         "ChIC.data",
         "caret",
-        "recipes",
         "spp"
     ],
     "Chicago": [
@@ -1590,7 +1586,6 @@
         "TrajectoryUtils",
         "caret",
         "distinct",
-        "recipes",
         "scater",
         "scuttle",
         "slingshot",
@@ -1876,7 +1871,6 @@
         "mbest",
         "nloptr",
         "pbkrtest",
-        "recipes",
         "rstatix"
     ],
     "CytoGLMM": [
@@ -1890,7 +1884,6 @@
         "mbest",
         "nloptr",
         "pbkrtest",
-        "recipes",
         "rstatix"
     ],
     "cytomapper": [
@@ -1940,7 +1933,6 @@
         "nloptr",
         "pbkrtest",
         "plsVarSel",
-        "recipes",
         "rtracklayer",
         "sva"
     ],
@@ -3092,7 +3084,6 @@
         "nloptr",
         "pbkrtest",
         "plsVarSel",
-        "recipes",
         "rtracklayer",
         "sva"
     ],
@@ -3604,8 +3595,7 @@
         "rtracklayer"
     ],
     "GWAS.BAYES": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "gwascat": [
         "AnnotationHub",
@@ -3727,8 +3717,7 @@
         "rtracklayer"
     ],
     "HPiP": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "HTSeqGenie": [
         "BSgenome",
@@ -4101,7 +4090,6 @@
         "annotate",
         "caret",
         "genefilter",
-        "recipes",
         "sva"
     ],
     "LACE": [
@@ -4206,7 +4194,6 @@
         "adabag",
         "caret",
         "interactiveDisplayBase",
-        "recipes",
         "rtracklayer"
     ],
     "Maaslin2": [
@@ -4285,7 +4272,6 @@
     "MAI": [
         "caret",
         "modelr",
-        "recipes",
         "tidyverse"
     ],
     "MAIT": [
@@ -4298,7 +4284,6 @@
         "labelled",
         "plsgenomics",
         "questionr",
-        "recipes",
         "xcms"
     ],
     "mAPKL": [
@@ -4307,8 +4292,7 @@
     "maPredictDSC": [
         "caret",
         "hgu133plus2.db",
-        "org.Hs.eg.db",
-        "recipes"
+        "org.Hs.eg.db"
     ],
     "maser": [
         "BSgenome",
@@ -4473,8 +4457,7 @@
         "xcms"
     ],
     "metabCombiner": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "MetaboAnnotation": [
         "ChemmineR",
@@ -4780,7 +4763,6 @@
         "lmerTest",
         "mia",
         "nloptr",
-        "recipes",
         "scater",
         "scuttle",
         "tidytree",
@@ -4928,7 +4910,6 @@
         "org.Hs.eg.db",
         "pbkrtest",
         "reactome.db",
-        "recipes",
         "rqubic",
         "rstatix",
         "s4vd",
@@ -4962,7 +4943,6 @@
         "org.Hs.eg.db",
         "pbkrtest",
         "reactome.db",
-        "recipes",
         "rstatix",
         "scatterpie",
         "tidytree",
@@ -4989,8 +4969,7 @@
     ],
     "missRows": [],
     "mistyR": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "mitch": [
         "echarts4r"
@@ -5013,8 +4992,7 @@
         "DESeq2",
         "annotate",
         "caret",
-        "geneplotter",
-        "recipes"
+        "geneplotter"
     ],
     "MMAPPR2": [
         "BSgenome",
@@ -5232,8 +5210,7 @@
         "MSstats",
         "caret",
         "lme4",
-        "nloptr",
-        "recipes"
+        "nloptr"
     ],
     "MSstatsShiny": [
         "Hmisc",
@@ -5306,7 +5283,6 @@
         "graphite",
         "mixOmics",
         "reactome.db",
-        "recipes",
         "ropls",
         "scatterpie",
         "tidytree",
@@ -5886,7 +5862,6 @@
         "nloptr",
         "pbkrtest",
         "piano",
-        "recipes",
         "rstatix",
         "survminer",
         "verification"
@@ -5986,8 +5961,7 @@
     "Pi": [
         "caret",
         "dnet",
-        "ggnetwork",
-        "recipes"
+        "ggnetwork"
     ],
     "piano": [],
     "PICS": [],
@@ -6078,8 +6052,7 @@
         "annotate",
         "caret",
         "geneplotter",
-        "mixOmics",
-        "recipes"
+        "mixOmics"
     ],
     "PoTRA": [
         "graphite",
@@ -6110,7 +6083,6 @@
         "caret",
         "org.Hs.eg.db",
         "rCGH",
-        "recipes",
         "rtracklayer"
     ],
     "PREDA": [
@@ -6208,8 +6180,7 @@
         "caret",
         "dendextend",
         "genefilter",
-        "mixtools",
-        "recipes"
+        "mixtools"
     ],
     "pRolocGUI": [
         "MLInterfaces",
@@ -6221,7 +6192,6 @@
         "genefilter",
         "mixtools",
         "pRoloc",
-        "recipes",
         "shinydashboardPlus"
     ],
     "PROMISE": [
@@ -6620,7 +6590,6 @@
         "interactiveDisplayBase",
         "minfi",
         "org.Hs.eg.db",
-        "recipes",
         "rtracklayer"
     ],
     "Repitools": [
@@ -6819,7 +6788,6 @@
         "caret",
         "caretEnsemble",
         "interactiveDisplayBase",
-        "recipes",
         "regioneR",
         "rtracklayer",
         "valr"
@@ -7127,8 +7095,7 @@
         "AnnotationHub",
         "Seurat",
         "caret",
-        "interactiveDisplayBase",
-        "recipes"
+        "interactiveDisplayBase"
     ],
     "SCANVIS": [
         "rtracklayer"
@@ -7197,8 +7164,7 @@
         "DESeq2",
         "annotate",
         "caret",
-        "geneplotter",
-        "recipes"
+        "geneplotter"
     ],
     "schex": [
         "Seurat"
@@ -7856,7 +7822,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "recipes",
         "rstatix",
         "tidyverse"
     ],
@@ -7968,8 +7933,7 @@
     ],
     "SubCellBarCode": [
         "caret",
-        "org.Hs.eg.db",
-        "recipes"
+        "org.Hs.eg.db"
     ],
     "subSeq": [],
     "SummarizedBenchmark": [],
@@ -7977,8 +7941,7 @@
         "nloptr"
     ],
     "supersigs": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "surfaltr": [
         "biomaRt"
@@ -8138,7 +8101,6 @@
         "org.Hs.eg.db",
         "pathview",
         "pbkrtest",
-        "recipes",
         "rstatix",
         "rtracklayer",
         "scatterpie",
@@ -8262,7 +8224,6 @@
         "bestNormalize",
         "biomaRt",
         "naniar",
-        "recipes",
         "rtracklayer",
         "visdat"
     ],
@@ -8321,7 +8282,6 @@
         "biomaRt",
         "caret",
         "chipseq",
-        "recipes",
         "rtracklayer"
     ],
     "transformGamPoi": [
@@ -8802,11 +8762,8 @@
     ],
     "tidytree": [],
     "ReorderCluster": [],
-    "caret": [
-        "recipes"
-    ],
+    "caret": [],
     "GUniFrac": [],
-    "recipes": [],
     "org.Sc.sgd.db": [],
     "Seurat": [],
     "org.Hs.eg.db": [],
@@ -9059,8 +9016,7 @@
     ],
     "spp": [],
     "ChIC.data": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome",
@@ -9119,7 +9075,6 @@
     ],
     "Ecume": [
         "caret",
-        "recipes",
         "spatstat",
         "spatstat.linnet"
     ],
@@ -9288,8 +9243,7 @@
     ],
     "densEstBayes": [],
     "adabag": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "glmmTMB": [
         "lme4",
@@ -9374,8 +9328,7 @@
     "cvms": [
         "groupdata2",
         "lme4",
-        "nloptr",
-        "recipes"
+        "nloptr"
     ],
     "groupdata2": [],
     "echarts4r": [],
@@ -9485,8 +9438,7 @@
         "rtracklayer"
     ],
     "caretEnsemble": [
-        "caret",
-        "recipes"
+        "caret"
     ],
     "RLHub": [
         "AnnotationHub",
@@ -9567,9 +9519,7 @@
     "spsComps": [],
     "GenKern": [],
     "gghighlight": [],
-    "bestNormalize": [
-        "recipes"
-    ],
+    "bestNormalize": [],
     "naniar": [
         "visdat"
     ],
