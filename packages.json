@@ -9220,7 +9220,6 @@
     ],
     "GCSscore": [
         "devtools",
-        "dplR",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -28811,7 +28810,6 @@
         "ggplot2",
         "reshape2"
     ],
-    "dplR": [],
     "survminer": [
         "broom",
         "car",
