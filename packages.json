@@ -6355,7 +6355,6 @@
         "interp",
         "knitr",
         "latticeExtra",
-        "leidenbase",
         "monocle",
         "progress",
         "purrr",
@@ -23858,7 +23857,6 @@
     "monocle": [
         "dplyr",
         "ggplot2",
-        "leidenbase",
         "qlcMatrix",
         "reshape2",
         "stringr",
@@ -41157,7 +41155,6 @@
         "RSpectra",
         "dplyr",
         "ggplot2",
-        "leidenbase",
         "monocle",
         "qlcMatrix",
         "reshape2",
@@ -44981,7 +44978,6 @@
         "sass",
         "shiny"
     ],
-    "leidenbase": [],
     "qlcMatrix": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
