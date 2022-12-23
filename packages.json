@@ -408,7 +408,6 @@
         "geneplotter",
         "ggplot2",
         "ggrepel",
-        "hardhat",
         "htmlwidgets",
         "plotROC",
         "plotly",
@@ -1076,7 +1075,6 @@
         "ggplot2",
         "ggrepel",
         "ggvis",
-        "hardhat",
         "htmlwidgets",
         "mixtools",
         "pRoloc",
@@ -2065,7 +2063,6 @@
         "cowplot",
         "dbplyr",
         "ggplot2",
-        "hardhat",
         "recipes",
         "rtracklayer",
         "tidyr"
@@ -2950,7 +2947,6 @@
         "caret",
         "genomeIntervals",
         "ggplot2",
-        "hardhat",
         "recipes",
         "spp",
         "tidyr"
@@ -3995,7 +3991,6 @@
         "ggplot2",
         "ggrastr",
         "ggrepel",
-        "hardhat",
         "recipes",
         "scater",
         "scuttle",
@@ -4668,7 +4663,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "hardhat",
         "htmlwidgets",
         "lme4",
         "mbest",
@@ -4700,7 +4694,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "hardhat",
         "htmlwidgets",
         "lme4",
         "mbest",
@@ -4823,7 +4816,6 @@
         "geneplotter",
         "ggplot2",
         "ggrepel",
-        "hardhat",
         "htmlTable",
         "htmlwidgets",
         "lme4",
@@ -7664,7 +7656,6 @@
         "geneplotter",
         "ggplot2",
         "ggrepel",
-        "hardhat",
         "htmlTable",
         "htmlwidgets",
         "lme4",
@@ -8960,7 +8951,6 @@
     "GWAS.BAYES": [
         "caret",
         "ggplot2",
-        "hardhat",
         "recipes",
         "tidyr"
     ],
@@ -9274,7 +9264,6 @@
     "HPiP": [
         "caret",
         "ggplot2",
-        "hardhat",
         "readr",
         "recipes",
         "tidyr",
@@ -10278,7 +10267,6 @@
         "caret",
         "genefilter",
         "ggplot2",
-        "hardhat",
         "htmlTable",
         "htmlwidgets",
         "recipes",
@@ -10591,7 +10579,6 @@
         "caret",
         "dbplyr",
         "ggplot2",
-        "hardhat",
         "htmlwidgets",
         "interactiveDisplayBase",
         "recipes",
@@ -10774,7 +10761,6 @@
         "ggplot2",
         "googledrive",
         "googlesheets4",
-        "hardhat",
         "haven",
         "modelr",
         "readr",
@@ -10799,7 +10785,6 @@
         "caret",
         "fields",
         "ggplot2",
-        "hardhat",
         "haven",
         "htmlTable",
         "htmlwidgets",
@@ -10833,7 +10818,6 @@
         "caret",
         "gcrma",
         "ggplot2",
-        "hardhat",
         "hgu133plus2.db",
         "org.Hs.eg.db",
         "recipes",
@@ -11252,7 +11236,6 @@
     "metabCombiner": [
         "caret",
         "ggplot2",
-        "hardhat",
         "recipes",
         "tidyr"
     ],
@@ -12018,7 +12001,6 @@
         "ggrepel",
         "ggsignif",
         "ggtree",
-        "hardhat",
         "htmlTable",
         "htmlwidgets",
         "lme4",
@@ -12357,7 +12339,6 @@
         "graphite",
         "groupdata2",
         "gson",
-        "hardhat",
         "haven",
         "htmlTable",
         "htmlwidgets",
@@ -12436,7 +12417,6 @@
         "graphite",
         "groupdata2",
         "gson",
-        "hardhat",
         "haven",
         "lme4",
         "modelr",
@@ -12512,7 +12492,6 @@
     "mistyR": [
         "caret",
         "ggplot2",
-        "hardhat",
         "readr",
         "recipes",
         "tidyr",
@@ -12572,7 +12551,6 @@
         "caret",
         "geneplotter",
         "ggplot2",
-        "hardhat",
         "recipes",
         "rematch2",
         "testthat",
@@ -13136,7 +13114,6 @@
         "caret",
         "ggplot2",
         "ggrepel",
-        "hardhat",
         "lme4",
         "nloptr",
         "recipes",
@@ -13310,7 +13287,6 @@
         "golem",
         "graphite",
         "gson",
-        "hardhat",
         "htmlwidgets",
         "metap",
         "miniUI",
@@ -14174,7 +14150,6 @@
         "NMF",
         "diceR",
         "ggplot2",
-        "hardhat",
         "haven",
         "klaR",
         "labelled",
@@ -14859,7 +14834,6 @@
         "ggsci",
         "ggsignif",
         "ggtext",
-        "hardhat",
         "htmlwidgets",
         "iC10",
         "lme4",
@@ -15142,7 +15116,6 @@
         "ggnetwork",
         "ggplot2",
         "ggrepel",
-        "hardhat",
         "network",
         "osfr",
         "readr",
@@ -15391,7 +15364,6 @@
         "geneplotter",
         "ggplot2",
         "ggrepel",
-        "hardhat",
         "mixOmics",
         "recipes",
         "rmarkdown",
@@ -15468,7 +15440,6 @@
         "caret",
         "dbplyr",
         "ggplot2",
-        "hardhat",
         "org.Hs.eg.db",
         "rCGH",
         "recipes",
@@ -15694,7 +15665,6 @@
         "genefilter",
         "ggplot2",
         "ggvis",
-        "hardhat",
         "htmlwidgets",
         "mixtools",
         "plotly",
@@ -15723,7 +15693,6 @@
         "genefilter",
         "ggplot2",
         "ggvis",
-        "hardhat",
         "htmlwidgets",
         "miniUI",
         "mixtools",
@@ -16759,7 +16728,6 @@
         "dbplyr",
         "genefilter",
         "ggplot2",
-        "hardhat",
         "htmlwidgets",
         "interactiveDisplayBase",
         "minfi",
@@ -17212,7 +17180,6 @@
         "ggplot2",
         "ggplotify",
         "ggprism",
-        "hardhat",
         "htmlwidgets",
         "interactiveDisplayBase",
         "readr",
@@ -18033,7 +18000,6 @@
         "ggplot2",
         "ggrepel",
         "ggridges",
-        "hardhat",
         "htmlwidgets",
         "interactiveDisplayBase",
         "miniUI",
@@ -18262,7 +18228,6 @@
         "caret",
         "geneplotter",
         "ggplot2",
-        "hardhat",
         "recipes",
         "tidyr"
     ],
@@ -19962,7 +19927,6 @@
         "googledrive",
         "googlesheets4",
         "groupdata2",
-        "hardhat",
         "haven",
         "lme4",
         "modelr",
@@ -20321,7 +20285,6 @@
         "caret",
         "ggplot2",
         "ggrepel",
-        "hardhat",
         "htmlwidgets",
         "networkD3",
         "org.Hs.eg.db",
@@ -20354,7 +20317,6 @@
         "SummarizedExperiment",
         "caret",
         "ggplot2",
-        "hardhat",
         "recipes",
         "rsample",
         "tidyr"
@@ -20770,7 +20732,6 @@
         "ggsignif",
         "ggtree",
         "gson",
-        "hardhat",
         "htmlTable",
         "htmlwidgets",
         "interactiveDisplayBase",
@@ -21114,7 +21075,6 @@
         "biomaRt",
         "dbplyr",
         "ggplot2",
-        "hardhat",
         "naniar",
         "readr",
         "recipes",
@@ -21292,7 +21252,6 @@
         "chipseq",
         "dbplyr",
         "ggplot2",
-        "hardhat",
         "recipes",
         "rtracklayer",
         "tidyr"
@@ -22576,7 +22535,6 @@
     "ReorderCluster": [],
     "caret": [
         "ggplot2",
-        "hardhat",
         "recipes",
         "tidyr"
     ],
@@ -22588,10 +22546,8 @@
         "ggrepel"
     ],
     "recipes": [
-        "hardhat",
         "tidyr"
     ],
-    "hardhat": [],
     "miniUI": [],
     "shinytoastr": [],
     "org.Sc.sgd.db": [
@@ -23410,7 +23366,6 @@
         "caret",
         "genomeIntervals",
         "ggplot2",
-        "hardhat",
         "recipes",
         "tidyr"
     ],
@@ -23580,7 +23535,6 @@
     "Ecume": [
         "caret",
         "ggplot2",
-        "hardhat",
         "recipes",
         "spatstat",
         "spatstat.linnet",
@@ -24124,7 +24078,6 @@
     "adabag": [
         "caret",
         "ggplot2",
-        "hardhat",
         "recipes",
         "tidyr"
     ],
@@ -24344,7 +24297,6 @@
     "cvms": [
         "ggplot2",
         "groupdata2",
-        "hardhat",
         "lme4",
         "nloptr",
         "rearrr",
@@ -24475,7 +24427,6 @@
     "diceR": [
         "NMF",
         "ggplot2",
-        "hardhat",
         "haven",
         "klaR",
         "labelled",
@@ -24486,9 +24437,7 @@
         "vroom",
         "yardstick"
     ],
-    "yardstick": [
-        "hardhat"
-    ],
+    "yardstick": [],
     "OMICsPCAdata": [
         "MultiAssayExperiment",
         "SummarizedExperiment",
@@ -24690,7 +24639,6 @@
     "caretEnsemble": [
         "caret",
         "ggplot2",
-        "hardhat",
         "recipes",
         "tidyr"
     ],
@@ -24974,7 +24922,6 @@
     "bestNormalize": [
         "LambertW",
         "ggplot2",
-        "hardhat",
         "recipes",
         "tidyr"
     ],
