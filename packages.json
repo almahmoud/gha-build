@@ -388,7 +388,6 @@
         "GO.db",
         "GenomicFeatures",
         "GenomicScores",
-        "InteractionSet",
         "TFBSTools",
         "annotate",
         "biomaRt",
@@ -977,7 +976,6 @@
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -1353,7 +1351,6 @@
     "ChIPpeakAnno": [
         "BSgenome",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "regioneR",
@@ -1920,7 +1917,6 @@
         "ChIPpeakAnno",
         "GUIDEseq",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "haven",
@@ -2319,7 +2315,6 @@
         "BSgenome",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "regioneR",
@@ -2392,7 +2387,6 @@
     ],
     "diffHic": [
         "BSgenome",
-        "InteractionSet",
         "rtracklayer"
     ],
     "diffuStats": [],
@@ -3080,7 +3074,6 @@
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3540,7 +3533,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -3906,7 +3898,6 @@
         "CRISPRseek",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "haven",
@@ -3989,7 +3980,6 @@
     "HiCBricks": [],
     "HiCcompare": [
         "CGHcall",
-        "InteractionSet",
         "QDNAseq"
     ],
     "HiCDCPlus": [
@@ -3998,7 +3988,6 @@
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4008,7 +3997,6 @@
     "HiCDOC": [
         "CGHcall",
         "HiCcompare",
-        "InteractionSet",
         "QDNAseq",
         "car",
         "colourpicker",
@@ -4030,7 +4018,6 @@
         "Gviz",
         "HiContactsData",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -4252,7 +4239,6 @@
         "ggbio",
         "rtracklayer"
     ],
-    "InteractionSet": [],
     "InteractiveComplexHeatmap": [
         "kableExtra"
     ],
@@ -5764,7 +5750,6 @@
     "multiHiCcompare": [
         "CGHcall",
         "HiCcompare",
-        "InteractionSet",
         "QDNAseq"
     ],
     "multiMiR": [],
@@ -5898,7 +5883,6 @@
         "GenomicScores",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
@@ -6090,7 +6074,6 @@
         "ShortRead"
     ],
     "nullranges": [
-        "InteractionSet",
         "plyranges",
         "rtracklayer"
     ],
@@ -7180,7 +7163,6 @@
         "BSgenome.Celegans.UCSC.ce2",
         "ChIPpeakAnno",
         "GenomicFeatures",
-        "InteractionSet",
         "biomaRt",
         "ensembldb",
         "regioneR",
@@ -8160,7 +8142,6 @@
         "sva"
     ],
     "sevenC": [
-        "InteractionSet",
         "rtracklayer"
     ],
     "SGSeq": [
@@ -8545,7 +8526,6 @@
         "GenomicInteractions",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "TFBSTools",
         "VariantAnnotation",
         "annotate",
@@ -8561,7 +8541,6 @@
     "SpectralTAD": [
         "CGHcall",
         "HiCcompare",
-        "InteractionSet",
         "QDNAseq"
     ],
     "SPIAT": [
@@ -8880,7 +8859,6 @@
     "TADCompare": [
         "CGHcall",
         "HiCcompare",
-        "InteractionSet",
         "QDNAseq",
         "car",
         "ggpubr",
@@ -9142,7 +9120,6 @@
         "GenomicFeatures",
         "Gviz",
         "Hmisc",
-        "InteractionSet",
         "VariantAnnotation",
         "biomaRt",
         "biovizBase",
@@ -9528,7 +9505,6 @@
         "DiffBind",
         "GenomicFeatures",
         "GreyListChIP",
-        "InteractionSet",
         "ShortRead",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "annotate",
