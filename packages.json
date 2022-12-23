@@ -1488,7 +1488,6 @@
         "bamsignals",
         "cowplot",
         "doParallel",
-        "ecp",
         "foreach",
         "futile.logger",
         "ggdendro",
@@ -14682,7 +14681,6 @@
         "changepoint",
         "contrast",
         "cytolib",
-        "ecp",
         "ellipsis",
         "feature",
         "flexmix",
@@ -82008,7 +82006,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ecp": [],
     "ReorderCluster": [],
     "caret": [
         "ModelMetrics",
