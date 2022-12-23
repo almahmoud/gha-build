@@ -3062,7 +3062,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "fgga": [],
     "FindIT2": [
         "GenomicFeatures",
         "biomaRt",
