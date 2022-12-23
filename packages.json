@@ -6347,12 +6347,10 @@
     "Rtreemix": [
         "Hmisc"
     ],
-    "rTRM": [],
     "rTRMui": [
         "MotifDb",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "rTRM",
         "rtracklayer"
     ],
     "runibic": [],
