@@ -4089,7 +4089,6 @@
     "HiTC": [
         "rtracklayer"
     ],
-    "HPAStainR": [],
     "HPiP": [
         "caret",
         "recipes"
