@@ -551,7 +551,6 @@
         "plotly",
         "projectR",
         "rGREAT",
-        "reprex",
         "rhdf5",
         "rtracklayer",
         "tidyverse",
@@ -3053,7 +3052,6 @@
         "mnem",
         "modelr",
         "org.Hs.eg.db",
-        "reprex",
         "tidygraph",
         "tidyverse",
         "viridis"
@@ -6599,7 +6597,6 @@
         "haven",
         "modelr",
         "recipes",
-        "reprex",
         "tidyverse"
     ],
     "MAIT": [
@@ -7151,7 +7148,6 @@
         "nloptr",
         "pbkrtest",
         "profvis",
-        "reprex",
         "rhdf5",
         "rstatix",
         "rtracklayer",
@@ -7587,7 +7583,6 @@
         "pbkrtest",
         "reactome.db",
         "recipes",
-        "reprex",
         "rqubic",
         "rstatix",
         "s4vd",
@@ -7632,7 +7627,6 @@
         "pbkrtest",
         "reactome.db",
         "recipes",
-        "reprex",
         "rstatix",
         "scatterpie",
         "testthat",
@@ -8001,7 +7995,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "reprex",
         "rstatix",
         "testthat",
         "tidyverse",
@@ -8331,7 +8324,6 @@
         "haven",
         "modelr",
         "org.Hs.eg.db",
-        "reprex",
         "testthat",
         "tidyverse"
     ],
@@ -12172,7 +12164,6 @@
         "nloptr",
         "pbkrtest",
         "recipes",
-        "reprex",
         "rstatix",
         "testthat",
         "tidyverse"
@@ -12321,7 +12312,6 @@
         "broom",
         "haven",
         "modelr",
-        "reprex",
         "tidyverse"
     ],
     "STdeconvolve": [
@@ -12458,7 +12448,6 @@
         "nloptr",
         "pbkrtest",
         "plotly",
-        "reprex",
         "testthat",
         "tidyverse",
         "viridis"
@@ -13810,8 +13799,7 @@
     "tidyverse": [
         "broom",
         "haven",
-        "modelr",
-        "reprex"
+        "modelr"
     ],
     "Mus.musculus": [
         "AnnotationDbi",
@@ -13851,7 +13839,6 @@
     "modelr": [
         "broom"
     ],
-    "reprex": [],
     "reactome.db": [
         "AnnotationDbi"
     ],
