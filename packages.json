@@ -6765,7 +6765,6 @@
         "basilisk",
         "rhdf5"
     ],
-    "MOGAMUN": [],
     "mogsa": [
         "AnnotationDbi",
         "GSEABase",
