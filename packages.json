@@ -639,7 +639,6 @@
         "ggbio",
         "viridis"
     ],
-    "BrainSABER": [],
     "branchpointer": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38"
