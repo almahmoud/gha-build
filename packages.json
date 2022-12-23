@@ -8951,7 +8951,6 @@
         "vctrs"
     ],
     "CoRegNet": [
-        "arules",
         "bslib",
         "shiny"
     ],
@@ -44038,7 +44037,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "XVector",
-        "arules",
         "fields",
         "ggplot2",
         "pillar",
@@ -50575,7 +50573,6 @@
         "vctrs",
         "vroom"
     ],
-    "arules": [],
     "bench": [
         "pillar",
         "tibble",
