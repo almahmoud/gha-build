@@ -3334,7 +3334,6 @@
         "car",
         "viridis"
     ],
-    "rGenomeTracks": [],
     "RGMQL": [],
     "RgnTX": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
