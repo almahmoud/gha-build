@@ -1860,7 +1860,6 @@
         "treeio"
     ],
     "fastLiquidAssociation": [
-        "LiquidAssociation",
         "WGCNA"
     ],
     "FastqCleaner": [],
@@ -2713,7 +2712,6 @@
     "lipidr": [
         "ropls"
     ],
-    "LiquidAssociation": [],
     "lisaClust": [
         "DropletUtils",
         "SpatialExperiment",
