@@ -1904,7 +1904,6 @@
     "LinTInd": [
         "ggtree"
     ],
-    "lipidr": [],
     "lisaClust": [
         "SpatialExperiment",
         "lmerTest",
