@@ -15114,7 +15114,6 @@
         "tidyr"
     ],
     "nethet": [
-        "ICS",
         "ICSNP",
         "ggplot2",
         "network"
@@ -19022,7 +19021,6 @@
         "AnnotationDbi",
         "Category",
         "GSEABase",
-        "ICS",
         "ICSNP",
         "KEGGREST",
         "annotate",
@@ -26991,10 +26989,7 @@
     ],
     "VarfromPDB": [],
     "mppa": [],
-    "ICSNP": [
-        "ICS"
-    ],
-    "ICS": [],
+    "ICSNP": [],
     "dnet": [
         "dplyr",
         "readr",
