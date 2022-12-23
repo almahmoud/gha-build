@@ -6743,7 +6743,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "cba",
         "dendextend",
         "dtw",
         "ggplot2",
@@ -13531,9 +13530,7 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "DiffLogo": [
-        "cba"
-    ],
+    "DiffLogo": [],
     "diffuStats": [
         "ggplot2",
         "igraph",
@@ -57302,7 +57299,6 @@
         "tidyselect",
         "waldo"
     ],
-    "cba": [],
     "dtw": [],
     "EnvStats": [
         "ggplot2",
