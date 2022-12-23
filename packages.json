@@ -3958,7 +3958,6 @@
     ],
     "M3Drop": [
         "Hmisc",
-        "reldist",
         "viridis"
     ],
     "m6Aboost": [
@@ -6384,7 +6383,6 @@
         "GenomicFeatures",
         "annotate",
         "geneplotter",
-        "reldist",
         "rtracklayer"
     ],
     "RiboProfiling": [
@@ -6833,7 +6831,6 @@
     "scMerge": [
         "Hmisc",
         "M3Drop",
-        "reldist",
         "viridis"
     ],
     "scMET": [
@@ -7204,7 +7201,6 @@
         "ggtree",
         "hgu95a.db",
         "org.Hs.eg.db",
-        "reldist",
         "rhdf5",
         "rtracklayer",
         "scDblFinder",
@@ -8786,7 +8782,6 @@
     "hgu95av2.db": [
         "org.Hs.eg.db"
     ],
-    "reldist": [],
     "adabag": [],
     "glmmTMB": [
         "lme4"
