@@ -1739,7 +1739,6 @@
         "rsq",
         "rtracklayer"
     ],
-    "decoupleR": [],
     "DeepBlueR": [
         "rtracklayer"
     ],
@@ -2018,7 +2017,6 @@
         "DESeq2",
         "ExperimentHub",
         "car",
-        "decoupleR",
         "dorothea",
         "easierData",
         "geneplotter",
@@ -5306,9 +5304,7 @@
         "soGGi",
         "treeio"
     ],
-    "progeny": [
-        "decoupleR"
-    ],
+    "progeny": [],
     "projectR": [
         "CoGAPS"
     ],
