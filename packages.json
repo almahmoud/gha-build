@@ -3197,7 +3197,6 @@
         "minfi",
         "rhdf5"
     ],
-    "MetID": [],
     "mia": [
         "TreeSummarizedExperiment",
         "scater",
