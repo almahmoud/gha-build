@@ -1801,7 +1801,6 @@
         "miniUI",
         "multtest",
         "nloptr",
-        "optimr",
         "patchwork",
         "phyloseq",
         "plotly",
@@ -31547,7 +31546,6 @@
         "dplyr",
         "ggplot2",
         "multtest",
-        "optimr",
         "phyloseq",
         "reshape2",
         "tibble"
@@ -31556,7 +31554,6 @@
         "dplyr",
         "tibble"
     ],
-    "optimr": [],
     "sjmisc": [
         "dplyr",
         "tibble"
