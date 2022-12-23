@@ -373,12 +373,9 @@
         "viridis"
     ],
     "cbaf": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
-    "cBioPortalData": [
-        "RTCGAToolbox"
-    ],
+    "cBioPortalData": [],
     "cbpManager": [
         "basilisk"
     ],
@@ -1614,7 +1611,6 @@
         "rhdf5"
     ],
     "LowMACA": [
-        "RTCGAToolbox",
         "cBioPortalData"
     ],
     "lumi": [
@@ -2865,7 +2861,6 @@
         "survminer",
         "viridis"
     ],
-    "RTCGAToolbox": [],
     "RTN": [
         "car"
     ],
