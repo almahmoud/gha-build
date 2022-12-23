@@ -19893,7 +19893,6 @@
         "tibble",
         "tidyselect"
     ],
-    "HIREewas": [],
     "HiTC": [
         "BiocIO",
         "BiocParallel",
