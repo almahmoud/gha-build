@@ -12365,7 +12365,6 @@
         "SummarizedExperiment",
         "biomaRt",
         "bsplus",
-        "configr",
         "dbplyr",
         "dplyr",
         "htmlwidgets",
@@ -29031,7 +29030,6 @@
         "learnr",
         "rmarkdown"
     ],
-    "configr": [],
     "bsplus": [
         "knitr",
         "rmarkdown"
