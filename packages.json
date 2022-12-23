@@ -1035,7 +1035,6 @@
         "iC10",
         "rhdf5"
     ],
-    "consensusSeekeR": [],
     "consICA": [],
     "contiBAIT": [
         "GenomicFeatures",
@@ -4316,9 +4315,7 @@
         "GenomicFeatures",
         "ensembldb"
     ],
-    "RJMCMCNucleosomes": [
-        "consensusSeekeR"
-    ],
+    "RJMCMCNucleosomes": [],
     "RLSeq": [
         "GenomicFeatures",
         "RLHub",
