@@ -15813,7 +15813,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "lavaan",
         "mgcv",
         "pillar",
         "progress",
@@ -58509,7 +58508,6 @@
         "jquerylib",
         "knitr",
         "latticeExtra",
-        "lavaan",
         "mgcv",
         "pillar",
         "psych",
@@ -58521,7 +58519,6 @@
         "tibble",
         "viridis"
     ],
-    "lavaan": [],
     "ewceData": [
         "AnnotationDbi",
         "AnnotationHub",
