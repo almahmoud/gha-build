@@ -772,7 +772,6 @@
         "stringr",
         "tibble"
     ],
-    "ANF": [],
     "animalcules": [
         "AnnotationDbi",
         "BiocParallel",
