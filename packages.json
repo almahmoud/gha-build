@@ -3,9 +3,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "ADAMgui": [
-        "ggpubr"
-    ],
+    "ADAMgui": [],
     "affycoretools": [
         "ReportingTools"
     ],
@@ -30,9 +28,7 @@
         "wateRmelon"
     ],
     "bioCancer": [],
-    "BiocOncoTK": [
-        "ggpubr"
-    ],
+    "BiocOncoTK": [],
     "biscuiteer": [
         "CGHcall",
         "QDNAseq"
@@ -47,18 +43,15 @@
     ],
     "CancerInSilico": [],
     "CATALYST": [
-        "FlowSOM",
-        "ggpubr"
+        "FlowSOM"
     ],
     "cbaf": [],
     "censcyt": [
         "FlowSOM",
-        "diffcyt",
-        "ggpubr"
+        "diffcyt"
     ],
     "CeTF": [
-        "GenomicTools",
-        "ggpubr"
+        "GenomicTools"
     ],
     "CGHcall": [],
     "CGHnormaliter": [
@@ -87,8 +80,7 @@
         "methylPipe"
     ],
     "conclus": [
-        "factoextra",
-        "ggpubr"
+        "factoextra"
     ],
     "conumee": [],
     "crisprseekplus": [],
@@ -103,16 +95,12 @@
         "CytoGLMM",
         "FlowSOM",
         "diffcyt",
-        "factoextra",
-        "ggpubr"
+        "factoextra"
     ],
     "CytoGLMM": [
-        "factoextra",
-        "ggpubr"
+        "factoextra"
     ],
-    "dasper": [
-        "ggpubr"
-    ],
+    "dasper": [],
     "DeepPINCS": [
         "mlapi",
         "text2vec",
@@ -120,35 +108,23 @@
     ],
     "derfinderPlot": [],
     "diffcyt": [
-        "FlowSOM",
-        "ggpubr"
+        "FlowSOM"
     ],
     "DMRcate": [
         "missMethyl"
     ],
     "DMRforPairs": [],
-    "easier": [
-        "ggpubr"
-    ],
-    "ELMER": [
-        "ggpubr"
-    ],
-    "enrichTF": [
-        "ggpubr"
-    ],
-    "epidecodeR": [
-        "ggpubr"
-    ],
-    "epigraHMM": [
-        "ggpubr"
-    ],
+    "easier": [],
+    "ELMER": [],
+    "enrichTF": [],
+    "epidecodeR": [],
+    "epigraHMM": [],
     "epihet": [
         "EntropyExplorer"
     ],
     "epimutacions": [],
     "epivizrStandalone": [],
     "EWCE": [
-        "ggpubr",
         "orthogene"
     ],
     "extraChIPs": [
@@ -161,21 +137,14 @@
     "flowCL": [
         "SPARQL"
     ],
-    "FlowSOM": [
-        "ggpubr"
-    ],
+    "FlowSOM": [],
     "funtooNorm": [],
-    "FuseSOM": [
-        "ggpubr"
-    ],
+    "FuseSOM": [],
     "GARS": [],
     "GDCRNATools": [
-        "ggpubr",
         "survminer"
     ],
-    "GeneAccord": [
-        "ggpubr"
-    ],
+    "GeneAccord": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
@@ -183,9 +152,7 @@
     "GeneStructureTools": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
-    "GenomicSuperSignature": [
-        "ggpubr"
-    ],
+    "GenomicSuperSignature": [],
     "GenProSeq": [
         "DeepPINCS",
         "mlapi",
@@ -193,11 +160,9 @@
         "ttgsea"
     ],
     "GEOexplorer": [
-        "factoextra",
-        "ggpubr"
+        "factoextra"
     ],
     "glmSparseNet": [
-        "ggpubr",
         "survminer"
     ],
     "HiCcompare": [
@@ -211,7 +176,6 @@
         "CGHcall",
         "HiCcompare",
         "QDNAseq",
-        "ggpubr",
         "multiHiCcompare"
     ],
     "HiContacts": [
@@ -220,33 +184,23 @@
     "iCheck": [
         "lumi"
     ],
-    "InTAD": [
-        "ggpubr"
-    ],
+    "InTAD": [],
     "intansv": [],
     "InterCellar": [
-        "factoextra",
-        "ggpubr"
+        "factoextra"
     ],
     "iPath": [
-        "ggpubr",
         "survminer"
     ],
-    "IRISFGM": [
-        "ggpubr"
-    ],
+    "IRISFGM": [],
     "ISAnalytics": [],
     "ivygapSE": [
-        "ggpubr",
         "survminer"
     ],
     "kissDE": [
-        "factoextra",
-        "ggpubr"
+        "factoextra"
     ],
-    "LinkHD": [
-        "ggpubr"
-    ],
+    "LinkHD": [],
     "LowMACA": [],
     "lumi": [],
     "MAGAR": [
@@ -262,18 +216,14 @@
         "wateRmelon"
     ],
     "MetaCyto": [
-        "FlowSOM",
-        "ggpubr"
+        "FlowSOM"
     ],
     "metavizr": [
         "epivizrStandalone"
     ],
-    "MethReg": [
-        "ggpubr"
-    ],
+    "MethReg": [],
     "methylCC": [],
     "methylclock": [
-        "ggpubr",
         "methylclockData"
     ],
     "methylGSA": [
@@ -286,24 +236,19 @@
     "MinimumDistance": [],
     "miRSM": [
         "SPONGE",
-        "ggpubr",
         "miRspongeR"
     ],
     "miRspongeR": [
-        "SPONGE",
-        "ggpubr"
+        "SPONGE"
     ],
     "missMethyl": [],
     "motifbreakR": [],
     "MPFE": [],
-    "MQmetrics": [
-        "ggpubr"
-    ],
+    "MQmetrics": [],
     "msgbsR": [],
     "MSPrep": [],
     "MSstatsLiP": [
-        "factoextra",
-        "ggpubr"
+        "factoextra"
     ],
     "multicrispr": [],
     "multiHiCcompare": [
@@ -313,8 +258,7 @@
     ],
     "multiSight": [],
     "musicatk": [
-        "factoextra",
-        "ggpubr"
+        "factoextra"
     ],
     "NADfinder": [
         "trackViewer"
@@ -326,50 +270,37 @@
         "yarn"
     ],
     "ODER": [
-        "dasper",
-        "ggpubr"
+        "dasper"
     ],
     "OGRE": [],
     "omicRexposome": [],
     "OMICsPCA": [
-        "factoextra",
-        "ggpubr"
+        "factoextra"
     ],
     "omicsViewer": [
-        "ggpubr",
         "survminer"
     ],
-    "orthogene": [
-        "ggpubr"
-    ],
+    "orthogene": [],
     "PDATK": [
-        "ggpubr",
         "survminer"
     ],
     "peco": [
         "genlasso"
     ],
-    "PhosR": [
-        "ggpubr"
-    ],
+    "PhosR": [],
     "Pigengene": [],
     "PING": [],
-    "plotGrouper": [
-        "ggpubr"
-    ],
+    "plotGrouper": [],
     "preciseTAD": [],
     "primirTSS": [],
     "profileplyr": [],
     "protGear": [
-        "factoextra",
-        "ggpubr"
+        "factoextra"
     ],
     "psichomics": [
         "recount"
     ],
-    "ptairMS": [
-        "ggpubr"
-    ],
+    "ptairMS": [],
     "Pviz": [],
     "QDNAseq": [
         "CGHcall"
@@ -397,16 +328,13 @@
         "RNAmodR"
     ],
     "RNASeqR": [
-        "factoextra",
-        "ggpubr"
+        "factoextra"
     ],
     "RnaSeqSampleSize": [
-        "ggpubr",
         "recount"
     ],
     "RnBeads": [],
     "RTCGA": [
-        "ggpubr",
         "survminer"
     ],
     "RTNduals": [],
@@ -424,12 +352,10 @@
     "shinyMethyl": [],
     "signatureSearch": [],
     "signeR": [
-        "ggpubr",
         "survivalAnalysis",
         "survminer"
     ],
     "signifinder": [
-        "ggpubr",
         "survminer"
     ],
     "SingleMoleculeFootprinting": [],
@@ -450,28 +376,21 @@
         "QDNAseq"
     ],
     "SPLINTER": [],
-    "SPONGE": [
-        "ggpubr"
-    ],
+    "SPONGE": [],
     "srnadiff": [],
     "STAN": [],
     "standR": [],
     "survtype": [
-        "ggpubr",
         "survminer"
     ],
     "TADCompare": [
         "CGHcall",
         "HiCcompare",
-        "QDNAseq",
-        "ggpubr"
+        "QDNAseq"
     ],
-    "TargetDecoy": [
-        "ggpubr"
-    ],
+    "TargetDecoy": [],
     "TCGAbiolinksGUI": [
-        "ELMER",
-        "ggpubr"
+        "ELMER"
     ],
     "TDARACNE": [
         "GenKern"
@@ -479,9 +398,7 @@
     "timeOmics": [
         "propr"
     ],
-    "TNBC.CMS": [
-        "ggpubr"
-    ],
+    "TNBC.CMS": [],
     "trackViewer": [],
     "TraRe": [
         "vbsr"
@@ -489,8 +406,7 @@
     "Travel": [],
     "treekoR": [
         "FlowSOM",
-        "diffcyt",
-        "ggpubr"
+        "diffcyt"
     ],
     "tscR": [
         "kmlShape"
@@ -515,7 +431,6 @@
         "SomaticSignatures"
     ],
     "yarn": [],
-    "ggpubr": [],
     "ReorderCluster": [],
     "mGSZ": [],
     "GenomicState": [],
@@ -523,24 +438,19 @@
     "spp": [],
     "qs": [],
     "propr": [],
-    "factoextra": [
-        "ggpubr"
-    ],
+    "factoextra": [],
     "text2vec": [
         "mlapi"
     ],
     "mlapi": [],
     "EntropyExplorer": [],
     "SPARQL": [],
-    "survminer": [
-        "ggpubr"
-    ],
+    "survminer": [],
     "methylclockData": [],
     "mppa": [],
     "genlasso": [],
     "Rmagic": [],
     "survivalAnalysis": [
-        "ggpubr",
         "survminer"
     ],
     "sampSurf": [],
