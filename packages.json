@@ -19148,7 +19148,6 @@
         "jquerylib",
         "knitr",
         "lme4",
-        "maptools",
         "nloptr",
         "pbkrtest",
         "pheatmap",
@@ -56908,7 +56907,6 @@
     ],
     "gdtools": [],
     "robust": [],
-    "maptools": [],
     "shinyHeatmaply": [
         "bslib",
         "cellranger",
