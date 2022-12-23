@@ -361,7 +361,6 @@
         "ggplot2",
         "ggrepel",
         "mixOmics",
-        "rARPACK",
         "readxl",
         "reshape2",
         "rmarkdown",
@@ -6288,7 +6287,6 @@
         "ggplot2",
         "ggrepel",
         "mixOmics",
-        "rARPACK",
         "reshape2",
         "tidyr",
         "viridis"
@@ -14931,7 +14929,6 @@
         "dplyr",
         "ggplot2",
         "ggrepel",
-        "rARPACK",
         "reshape2",
         "tidyr"
     ],
@@ -15851,7 +15848,6 @@
         "plotly",
         "profvis",
         "qvalue",
-        "rARPACK",
         "rWikiPathways",
         "rcmdcheck",
         "reactome.db",
@@ -18336,7 +18332,6 @@
         "hardhat",
         "ipred",
         "mixOmics",
-        "rARPACK",
         "recipes",
         "reshape2",
         "rmarkdown",
@@ -21948,7 +21943,6 @@
         "htmlwidgets",
         "mixtools",
         "plotly",
-        "rARPACK",
         "rmarkdown",
         "rtracklayer",
         "tidyr"
@@ -24048,7 +24042,6 @@
         "labelled",
         "lfda",
         "mosaicCore",
-        "rARPACK",
         "readr",
         "tidyr",
         "vroom"
@@ -25129,7 +25122,6 @@
         "ggrepel",
         "mixOmics",
         "propr",
-        "rARPACK",
         "reshape2",
         "tidyr"
     ],
@@ -26967,7 +26959,6 @@
         "rvest",
         "selectr"
     ],
-    "rARPACK": [],
     "cellranger": [],
     "curatedTCGAData": [
         "AnnotationDbi",
@@ -29937,8 +29928,7 @@
         "sqldf"
     ],
     "dml": [
-        "lfda",
-        "rARPACK"
+        "lfda"
     ],
     "MESS": [
         "broom",
@@ -29958,9 +29948,7 @@
         "tidyr",
         "vroom"
     ],
-    "lfda": [
-        "rARPACK"
-    ],
+    "lfda": [],
     "ggformula": [
         "dplyr",
         "forcats",
