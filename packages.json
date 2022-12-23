@@ -99,7 +99,6 @@
         "tidyr"
     ],
     "affy": [],
-    "AffyCompatible": [],
     "affyContam": [
         "affy",
         "affydata"
