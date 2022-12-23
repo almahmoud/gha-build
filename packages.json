@@ -520,9 +520,7 @@
         "regioneR",
         "rhdf5"
     ],
-    "BiSeq": [
-        "globaltest"
-    ],
+    "BiSeq": [],
     "BitSeq": [],
     "blacksheepr": [
         "DESeq2",
@@ -834,7 +832,6 @@
         "ensembldb",
         "geneLenDataBase",
         "genefilter",
-        "globaltest",
         "goseq",
         "lumi",
         "methylumi",
@@ -1765,7 +1762,6 @@
         "GSVA",
         "HDF5Array",
         "PADOG",
-        "globaltest",
         "hgu133a.db",
         "hgu133plus2.db",
         "pathview",
@@ -2418,10 +2414,8 @@
     "GlobalAncova": [
         "GSEABase",
         "dendextend",
-        "globaltest",
         "viridis"
     ],
-    "globaltest": [],
     "gmapR": [
         "BSgenome",
         "GenomicFeatures",
@@ -5360,9 +5354,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SIM": [
-        "globaltest"
-    ],
+    "SIM": [],
     "SimBindProfiles": [
         "Ringo",
         "affy",
