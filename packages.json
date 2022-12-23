@@ -4621,7 +4621,6 @@
         "fields",
         "flowClust",
         "flowDensity",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "lme4",
@@ -4731,7 +4730,6 @@
     ],
     "CytoML": [
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ggcyto",
         "ggplot2",
@@ -4920,7 +4918,6 @@
         "car",
         "fields",
         "flowDensity",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "lme4",
@@ -7296,8 +7293,7 @@
     ],
     "flowBeads": [],
     "flowBin": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "flowcatchR": [
         "EBImage",
@@ -7324,7 +7320,6 @@
         "car",
         "fields",
         "flowDensity",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "lme4",
@@ -7343,7 +7338,6 @@
         "broom",
         "car",
         "fields",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "lme4",
@@ -7356,9 +7350,7 @@
         "viridis",
         "waldo"
     ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowFP": [],
     "flowGraph": [
         "ggiraph",
         "ggplot2",
@@ -7410,7 +7402,6 @@
     "flowStats": [
         "fda",
         "fds",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "hdrcde",
@@ -7419,15 +7410,12 @@
     ],
     "flowTime": [],
     "flowTrans": [
-        "flowClust",
-        "flowViz"
+        "flowClust"
     ],
-    "flowViz": [],
     "flowVS": [
         "fda",
         "fds",
         "flowStats",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "hdrcde",
@@ -7671,8 +7659,7 @@
         "waldo"
     ],
     "GateFinder": [
-        "flowFP",
-        "flowViz"
+        "flowFP"
     ],
     "GBScleanR": [
         "SeqArray",
@@ -14357,7 +14344,6 @@
     ],
     "openCyto": [
         "flowClust",
-        "flowViz",
         "flowWorkspace",
         "ggplot2",
         "ncdfFlow"
