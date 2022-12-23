@@ -4255,7 +4255,6 @@
         "pbkrtest",
         "recipes",
         "rstatix",
-        "shinyFeedback",
         "shinyjs",
         "testthat",
         "tidyr",
@@ -8883,7 +8882,6 @@
         "plotly",
         "readxl",
         "rstatix",
-        "shinyFeedback",
         "shinyalert",
         "shinyjs",
         "testthat",
@@ -15930,8 +15928,7 @@
     "rprimer": [
         "DT",
         "htmlwidgets",
-        "patchwork",
-        "shinyFeedback"
+        "patchwork"
     ],
     "rpx": [
         "BiocFileCache",
@@ -21320,7 +21317,6 @@
     "fields": [
         "viridis"
     ],
-    "shinyFeedback": [],
     "mbest": [
         "lme4",
         "nloptr",
