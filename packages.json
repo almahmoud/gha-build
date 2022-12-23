@@ -335,9 +335,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "condiments": [
-        "distinct"
-    ],
+    "condiments": [],
     "CONFESS": [
         "contrast"
     ],
@@ -478,7 +476,6 @@
     ],
     "diffUTR": [],
     "Dino": [],
-    "distinct": [],
     "DMCFB": [],
     "DMRcate": [
         "DSS",
