@@ -2520,9 +2520,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "ssPATHS": [
-        "MESS"
-    ],
+    "ssPATHS": [],
     "STAN": [
         "Gviz",
         "VariantAnnotation",
@@ -2998,7 +2996,6 @@
     ],
     "TENxPBMCData": [],
     "sampSurf": [],
-    "MESS": [],
     "GenKern": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [],
