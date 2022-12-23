@@ -4209,7 +4209,6 @@
         "annotate",
         "genefilter"
     ],
-    "MesKit": [],
     "Metab": [
         "MSnbase",
         "affy",
