@@ -9278,7 +9278,6 @@
         "lmom",
         "lmtest",
         "locfit",
-        "lpSolveAPI",
         "magrittr",
         "matrixStats",
         "memoise",
@@ -99411,7 +99410,6 @@
         "lattice",
         "latticeExtra",
         "lifecycle",
-        "lpSolveAPI",
         "magrittr",
         "memoise",
         "mgcv",
@@ -99535,7 +99533,6 @@
         "latticeExtra",
         "lazyeval",
         "lifecycle",
-        "lpSolveAPI",
         "magrittr",
         "memoise",
         "mgcv",
@@ -162563,7 +162560,6 @@
         "labeling",
         "lattice",
         "lifecycle",
-        "lpSolveAPI",
         "magrittr",
         "mgcv",
         "multtest",
@@ -162645,7 +162641,6 @@
         "desc",
         "fs",
         "glue",
-        "lpSolveAPI",
         "pkgload",
         "registry",
         "rlang",
@@ -162680,11 +162675,9 @@
     ],
     "ROI.plugin.lpsolve": [
         "ROI",
-        "lpSolveAPI",
         "registry",
         "slam"
     ],
-    "lpSolveAPI": [],
     "optextras": [
         "numDeriv"
     ],
