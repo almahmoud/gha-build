@@ -3583,7 +3583,6 @@
     ],
     "muscat": [
         "DESeq2",
-        "blme",
         "glmmTMB",
         "lmerTest",
         "pbkrtest",
@@ -6288,7 +6287,6 @@
         "viridis"
     ],
     "cvms": [],
-    "blme": [],
     "deconstructSigs": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19"
