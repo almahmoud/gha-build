@@ -11240,7 +11240,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "motifcounter": [],
     "MotifDb": [
         "GenomicAlignments",
         "Rsamtools",
