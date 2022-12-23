@@ -1,0 +1,671 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   839858dc..5849459b  main       -> origin/main
+Updating 839858dc..5849459b
+Fast-forward
+ lists/BAGS                                   |   2 +-
+ lists/MiChip                                 |   2 +-
+ lists/gcatest                                |   2 +-
+ lists/matchingR                              |   2 +-
+ logs/run_ids/rstudio-binaries/RBGL           |   2 +
+ logs/sizes/rstudio-binaries/binaries/MiChip  |   1 +
+ logs/sizes/rstudio-binaries/libraries/MiChip |   1 +
+ logs/times/rstudio-binary/MiChip             | 351 +++++++++++++++++++++++++++
+ packages.json                                |   8 +-
+ 9 files changed, 360 insertions(+), 11 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/MiChip
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/MiChip
+ create mode 100644 logs/times/rstudio-binary/MiChip
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=partykit
++ PKG=partykit
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "partykit"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 11.7M    0 48960    0     0  68581      0  0:02:59 --:--:--  0:02:59 68571  3 11.7M    3  366k    0     0   213k      0  0:00:56  0:00:01  0:00:55  213k  7 11.7M    7  908k    0     0   335k      0  0:00:35  0:00:02  0:00:33  335k 13 11.7M   13 1657k    0     0   446k      0  0:00:26  0:00:03  0:00:23  445k 21 11.7M   21 2629k    0     0   557k      0  0:00:21  0:00:04  0:00:17  557k 31 11.7M   31 3840k    0     0   671k      0  0:00:17  0:00:05  0:00:12  758k 43 11.7M   43 5243k    0     0   779k      0  0:00:15  0:00:06  0:00:09  973k 57 11.7M   57 6900k    0     0   894k      0  0:00:13  0:00:07  0:00:06 1196k 75 11.7M   75 9068k    0     0  1037k      0  0:00:11  0:00:08  0:00:03 1475k100 11.7M  100 11.7M    0     0  1252k      0  0:00:09  0:00:09 --:--:-- 1921k
+built/
+built/built/
+built/built/lattice/
+built/built/lattice/libs/
+built/built/lattice/libs/lattice.so
+built/built/lattice/NEWS
+built/built/lattice/NAMESPACE
+built/built/lattice/DESCRIPTION
+built/built/lattice/help/
+built/built/lattice/help/paths.rds
+built/built/lattice/help/lattice.rdx
+built/built/lattice/help/lattice.rdb
+built/built/lattice/help/aliases.rds
+built/built/lattice/help/AnIndex
+built/built/lattice/data/
+built/built/lattice/data/Rdata.rds
+built/built/lattice/data/Rdata.rdb
+built/built/lattice/data/Rdata.rdx
+built/built/lattice/Meta/
+built/built/lattice/Meta/package.rds
+built/built/lattice/Meta/demo.rds
+built/built/lattice/Meta/features.rds
+built/built/lattice/Meta/hsearch.rds
+built/built/lattice/Meta/links.rds
+built/built/lattice/Meta/nsInfo.rds
+built/built/lattice/Meta/Rd.rds
+built/built/lattice/Meta/data.rds
+built/built/lattice/po/
+built/built/lattice/po/it/
+built/built/lattice/po/it/LC_MESSAGES/
+built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/fr/
+built/built/lattice/po/fr/LC_MESSAGES/
+built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/ko/
+built/built/lattice/po/ko/LC_MESSAGES/
+built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/pl/
+built/built/lattice/po/pl/LC_MESSAGES/
+built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/en@quot/
+built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/lattice/po/de/
+built/built/lattice/po/de/LC_MESSAGES/
+built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/lattice/CITATION
+built/built/lattice/html/
+built/built/lattice/html/00Index.html
+built/built/lattice/html/R.css
+built/built/lattice/INDEX
+built/built/lattice/R/
+built/built/lattice/R/lattice
+built/built/lattice/R/lattice.rdx
+built/built/lattice/R/lattice.rdb
+built/built/lattice/demo/
+built/built/lattice/demo/panel.R
+built/built/lattice/demo/intervals.R
+built/built/lattice/demo/labels.R
+built/built/lattice/demo/lattice.R
+built/built/Matrix/
+built/built/Matrix/Doxyfile
+built/built/Matrix/libs/
+built/built/Matrix/libs/Matrix.so
+built/built/Matrix/NAMESPACE
+built/built/Matrix/LICENCE
+built/built/Matrix/DESCRIPTION
+built/built/Matrix/test-tools-1.R
+built/built/Matrix/help/
+built/built/Matrix/help/paths.rds
+built/built/Matrix/help/aliases.rds
+built/built/Matrix/help/AnIndex
+built/built/Matrix/help/Matrix.rdx
+built/built/Matrix/help/Matrix.rdb
+built/built/Matrix/data/
+built/built/Matrix/data/USCounties.R
+built/built/Matrix/data/datalist
+built/built/Matrix/data/CAex.R
+built/built/Matrix/data/wrld_1deg.R
+built/built/Matrix/data/KNex.R
+built/built/Matrix/Meta/
+built/built/Matrix/Meta/package.rds
+built/built/Matrix/Meta/vignette.rds
+built/built/Matrix/Meta/features.rds
+built/built/Matrix/Meta/hsearch.rds
+built/built/Matrix/Meta/links.rds
+built/built/Matrix/Meta/nsInfo.rds
+built/built/Matrix/Meta/Rd.rds
+built/built/Matrix/Meta/data.rds
+built/built/Matrix/NEWS.Rd
+built/built/Matrix/include/
+built/built/Matrix/include/cholmod.h
+built/built/Matrix/include/Matrix_stubs.c
+built/built/Matrix/include/Matrix.h
+built/built/Matrix/test-tools-Matrix.R
+built/built/Matrix/test-tools.R
+built/built/Matrix/po/
+built/built/Matrix/po/lt/
+built/built/Matrix/po/lt/LC_MESSAGES/
+built/built/Matrix/po/lt/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/it/
+built/built/Matrix/po/it/LC_MESSAGES/
+built/built/Matrix/po/it/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/fr/
+built/built/Matrix/po/fr/LC_MESSAGES/
+built/built/Matrix/po/fr/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/ko/
+built/built/Matrix/po/ko/LC_MESSAGES/
+built/built/Matrix/po/ko/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/pl/
+built/built/Matrix/po/pl/LC_MESSAGES/
+built/built/Matrix/po/pl/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/en@quot/
+built/built/Matrix/po/en@quot/LC_MESSAGES/
+built/built/Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/po/de/
+built/built/Matrix/po/de/LC_MESSAGES/
+built/built/Matrix/po/de/LC_MESSAGES/Matrix.mo
+built/built/Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+built/built/Matrix/Copyrights
+built/built/Matrix/html/
+built/built/Matrix/html/00Index.html
+built/built/Matrix/html/R.css
+built/built/Matrix/INDEX
+built/built/Matrix/doc/
+built/built/Matrix/doc/Design-issues.Rnw
+built/built/Matrix/doc/sparseModels.R
+built/built/Matrix/doc/Intro2Matrix.pdf
+built/built/Matrix/doc/Intro2Matrix.Rnw
+built/built/Matrix/doc/Introduction.R
+built/built/Matrix/doc/sparseModels.Rnw
+built/built/Matrix/doc/Design-issues.pdf
+built/built/Matrix/doc/Design-issues.R
+built/built/Matrix/doc/Comparisons.R
+built/built/Matrix/doc/Announce.txt
+built/built/Matrix/doc/Introduction.Rnw
+built/built/Matrix/doc/Intro2Matrix.R
+built/built/Matrix/doc/index.html
+built/built/Matrix/doc/SuiteSparse/
+built/built/Matrix/doc/SuiteSparse/CHOLMOD.txt
+built/built/Matrix/doc/SuiteSparse/COLAMD.txt
+built/built/Matrix/doc/SuiteSparse/AMD.txt
+built/built/Matrix/doc/SuiteSparse/SPQR.txt
+built/built/Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+built/built/Matrix/doc/SuiteSparse/UserGuides.txt
+built/built/Matrix/doc/Comparisons.pdf
+built/built/Matrix/doc/sparseModels.pdf
+built/built/Matrix/doc/Comparisons.Rnw
+built/built/Matrix/doc/Introduction.pdf
+built/built/Matrix/R/
+built/built/Matrix/R/Matrix
+built/built/Matrix/R/Matrix.rdx
+built/built/Matrix/R/Matrix.rdb
+built/built/Matrix/external/
+built/built/Matrix/external/symW.rda
+built/built/Matrix/external/lund_a.rsa
+built/built/Matrix/external/wrong.mtx
+built/built/Matrix/external/pores_1.mtx
+built/built/Matrix/external/wrld_1deg_slots.rda
+built/built/Matrix/external/CAex_slots.rda
+built/built/Matrix/external/KNex_slots.rda
+built/built/Matrix/external/jgl009.mtx
+built/built/Matrix/external/utm300.rua
+built/built/Matrix/external/test3comp.rda
+built/built/Matrix/external/USCounties_slots.rda
+built/built/Matrix/external/Z_NA_rnk.rds
+built/built/Matrix/external/symA.rda
+built/built/Matrix/external/lund_a.mtx
+built/survival/
+built/survival/libs/
+built/survival/libs/survival.so
+built/survival/NAMESPACE
+built/survival/DESCRIPTION
+built/survival/help/
+built/survival/help/paths.rds
+built/survival/help/survival.rdb
+built/survival/help/aliases.rds
+built/survival/help/figures/
+built/survival/help/figures/logo.png
+built/survival/help/survival.rdx
+built/survival/help/AnIndex
+built/survival/data/
+built/survival/data/Rdata.rds
+built/survival/data/Rdata.rdb
+built/survival/data/Rdata.rdx
+built/survival/Meta/
+built/survival/Meta/package.rds
+built/survival/Meta/vignette.rds
+built/survival/Meta/features.rds
+built/survival/Meta/hsearch.rds
+built/survival/Meta/links.rds
+built/survival/Meta/nsInfo.rds
+built/survival/Meta/Rd.rds
+built/survival/Meta/data.rds
+built/survival/NEWS.Rd
+built/survival/CITATION
+built/survival/html/
+built/survival/html/00Index.html
+built/survival/html/R.css
+built/survival/INDEX
+built/survival/doc/
+built/survival/doc/population.pdf
+built/survival/doc/concordance.Rnw
+built/survival/doc/validate.Rnw
+built/survival/doc/survival.pdf
+built/survival/doc/splines.pdf
+built/survival/doc/timedep.R
+built/survival/doc/discrim.Rnw
+built/survival/doc/tiedtimes.pdf
+built/survival/doc/splines.Rnw
+built/survival/doc/multi.pdf
+built/survival/doc/validate.R
+built/survival/doc/compete.pdf
+built/survival/doc/concordance.pdf
+built/survival/doc/concordance.R
+built/survival/doc/adjcurve.pdf
+built/survival/doc/other.pdf
+built/survival/doc/approximate.Rnw
+built/survival/doc/validate.pdf
+built/survival/doc/discrim.pdf
+built/survival/doc/splines.R
+built/survival/doc/survival.R
+built/survival/doc/adjcurve.R
+built/survival/doc/approximate.pdf
+built/survival/doc/timedep.pdf
+built/survival/doc/other.Rnw
+built/survival/doc/population.R
+built/survival/doc/adjcurve.Rnw
+built/survival/doc/timedep.Rnw
+built/survival/doc/discrim.R
+built/survival/doc/tiedtimes.R
+built/survival/doc/index.html
+built/survival/doc/compete.Rnw
+built/survival/doc/population.Rnw
+built/survival/doc/tiedtimes.Rnw
+built/survival/doc/approximate.R
+built/survival/doc/compete.R
+built/survival/doc/multi.Rnw
+built/survival/doc/survival.Rnw
+built/survival/R/
+built/survival/R/survival.rdb
+built/survival/R/survival.rdx
+built/survival/R/survival
+built/survival/COPYRIGHTS
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 55  170k   55 97920    0     0   105k      0  0:00:01 --:--:--  0:00:01  105k100  170k  100  170k    0     0   141k      0  0:00:01  0:00:01 --:--:--  141k
+built/
+built/Formula/
+built/Formula/NAMESPACE
+built/Formula/DESCRIPTION
+built/Formula/help/
+built/Formula/help/paths.rds
+built/Formula/help/Formula.rdx
+built/Formula/help/aliases.rds
+built/Formula/help/Formula.rdb
+built/Formula/help/AnIndex
+built/Formula/Meta/
+built/Formula/Meta/package.rds
+built/Formula/Meta/vignette.rds
+built/Formula/Meta/features.rds
+built/Formula/Meta/hsearch.rds
+built/Formula/Meta/links.rds
+built/Formula/Meta/nsInfo.rds
+built/Formula/Meta/Rd.rds
+built/Formula/CITATION
+built/Formula/html/
+built/Formula/html/00Index.html
+built/Formula/html/R.css
+built/Formula/INDEX
+built/Formula/doc/
+built/Formula/doc/Formula.R
+built/Formula/doc/Formula.Rnw
+built/Formula/doc/index.html
+built/Formula/doc/Formula.pdf
+built/Formula/R/
+built/Formula/R/Formula.rdx
+built/Formula/R/Formula
+built/Formula/R/Formula.rdb
+built/Formula/NEWS.md
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 2624k    2 65280    0     0  97878      0  0:00:27 --:--:--  0:00:27 97871 14 2624k   14  382k    0     0   229k      0  0:00:11  0:00:01  0:00:10  229k 36 2624k   36  956k    0     0   358k      0  0:00:07  0:00:02  0:00:05  358k 66 2624k   66 1753k    0     0   477k      0  0:00:05  0:00:03  0:00:02  477k100 2624k  100 2624k    0     0   580k      0  0:00:04  0:00:04 --:--:--  580k
+built/
+built/built/
+built/built/libcoin/
+built/built/libcoin/libs/
+built/built/libcoin/libs/libcoin.so
+built/built/libcoin/NAMESPACE
+built/built/libcoin/DESCRIPTION
+built/built/libcoin/help/
+built/built/libcoin/help/paths.rds
+built/built/libcoin/help/libcoin.rdx
+built/built/libcoin/help/aliases.rds
+built/built/libcoin/help/libcoin.rdb
+built/built/libcoin/help/AnIndex
+built/built/libcoin/Meta/
+built/built/libcoin/Meta/package.rds
+built/built/libcoin/Meta/vignette.rds
+built/built/libcoin/Meta/features.rds
+built/built/libcoin/Meta/hsearch.rds
+built/built/libcoin/Meta/links.rds
+built/built/libcoin/Meta/nsInfo.rds
+built/built/libcoin/Meta/Rd.rds
+built/built/libcoin/NEWS.Rd
+built/built/libcoin/include/
+built/built/libcoin/include/libcoinAPI.h
+built/built/libcoin/include/libcoin.h
+built/built/libcoin/include/libcoin_internal.h
+built/built/libcoin/libcoin.bib
+built/built/libcoin/html/
+built/built/libcoin/html/00Index.html
+built/built/libcoin/html/R.css
+built/built/libcoin/INDEX
+built/built/libcoin/doc/
+built/built/libcoin/doc/libcoin.pdf
+built/built/libcoin/doc/libcoin.R
+built/built/libcoin/doc/index.html
+built/built/libcoin/doc/libcoin.Rnw
+built/built/libcoin/R/
+built/built/libcoin/R/libcoin.rdx
+built/built/libcoin/R/libcoin
+built/built/libcoin/R/libcoin.rdb
+built/built/mvtnorm/
+built/built/mvtnorm/libs/
+built/built/mvtnorm/libs/mvtnorm.so
+built/built/mvtnorm/NEWS
+built/built/mvtnorm/NAMESPACE
+built/built/mvtnorm/DESCRIPTION
+built/built/mvtnorm/help/
+built/built/mvtnorm/help/paths.rds
+built/built/mvtnorm/help/aliases.rds
+built/built/mvtnorm/help/mvtnorm.rdx
+built/built/mvtnorm/help/mvtnorm.rdb
+built/built/mvtnorm/help/AnIndex
+built/built/mvtnorm/Meta/
+built/built/mvtnorm/Meta/package.rds
+built/built/mvtnorm/Meta/vignette.rds
+built/built/mvtnorm/Meta/features.rds
+built/built/mvtnorm/Meta/hsearch.rds
+built/built/mvtnorm/Meta/links.rds
+built/built/mvtnorm/Meta/nsInfo.rds
+built/built/mvtnorm/Meta/Rd.rds
+built/built/mvtnorm/include/
+built/built/mvtnorm/include/mvtnormAPI.h
+built/built/mvtnorm/include/mvtnorm.h
+built/built/mvtnorm/CITATION
+built/built/mvtnorm/C_API_Example/
+built/built/mvtnorm/C_API_Example/NAMESPACE
+built/built/mvtnorm/C_API_Example/DESCRIPTION
+built/built/mvtnorm/C_API_Example/R/
+built/built/mvtnorm/C_API_Example/R/test.R
+built/built/mvtnorm/C_API_Example/src/
+built/built/mvtnorm/C_API_Example/src/test.c
+built/built/mvtnorm/C_API_Example/tests/
+built/built/mvtnorm/C_API_Example/tests/test.R
+built/built/mvtnorm/html/
+built/built/mvtnorm/html/00Index.html
+built/built/mvtnorm/html/R.css
+built/built/mvtnorm/INDEX
+built/built/mvtnorm/doc/
+built/built/mvtnorm/doc/MVT_Rnews.Rnw
+built/built/mvtnorm/doc/MVT_Rnews.R
+built/built/mvtnorm/doc/MVT_Rnews.pdf
+built/built/mvtnorm/doc/index.html
+built/built/mvtnorm/R/
+built/built/mvtnorm/R/mvtnorm
+built/built/mvtnorm/R/mvtnorm.rdx
+built/built/mvtnorm/R/mvtnorm.rdb
+built/libcoin/
+built/libcoin/libs/
+built/libcoin/libs/libcoin.so
+built/libcoin/NAMESPACE
+built/libcoin/DESCRIPTION
+built/libcoin/help/
+built/libcoin/help/paths.rds
+built/libcoin/help/libcoin.rdx
+built/libcoin/help/aliases.rds
+built/libcoin/help/libcoin.rdb
+built/libcoin/help/AnIndex
+built/libcoin/Meta/
+built/libcoin/Meta/package.rds
+built/libcoin/Meta/vignette.rds
+built/libcoin/Meta/features.rds
+built/libcoin/Meta/hsearch.rds
+built/libcoin/Meta/links.rds
+built/libcoin/Meta/nsInfo.rds
+built/libcoin/Meta/Rd.rds
+built/libcoin/NEWS.Rd
+built/libcoin/include/
+built/libcoin/include/libcoinAPI.h
+built/libcoin/include/libcoin.h
+built/libcoin/include/libcoin_internal.h
+built/libcoin/libcoin.bib
+built/libcoin/html/
+built/libcoin/html/00Index.html
+built/libcoin/html/R.css
+built/libcoin/INDEX
+built/libcoin/doc/
+built/libcoin/doc/libcoin.pdf
+built/libcoin/doc/libcoin.R
+built/libcoin/doc/index.html
+built/libcoin/doc/libcoin.Rnw
+built/libcoin/R/
+built/libcoin/R/libcoin.rdx
+built/libcoin/R/libcoin
+built/libcoin/R/libcoin.rdb
+built/mvtnorm/
+built/mvtnorm/libs/
+built/mvtnorm/libs/mvtnorm.so
+built/mvtnorm/NEWS
+built/mvtnorm/NAMESPACE
+built/mvtnorm/DESCRIPTION
+built/mvtnorm/help/
+built/mvtnorm/help/paths.rds
+built/mvtnorm/help/aliases.rds
+built/mvtnorm/help/mvtnorm.rdx
+built/mvtnorm/help/mvtnorm.rdb
+built/mvtnorm/help/AnIndex
+built/mvtnorm/Meta/
+built/mvtnorm/Meta/package.rds
+built/mvtnorm/Meta/vignette.rds
+built/mvtnorm/Meta/features.rds
+built/mvtnorm/Meta/hsearch.rds
+built/mvtnorm/Meta/links.rds
+built/mvtnorm/Meta/nsInfo.rds
+built/mvtnorm/Meta/Rd.rds
+built/mvtnorm/include/
+built/mvtnorm/include/mvtnormAPI.h
+built/mvtnorm/include/mvtnorm.h
+built/mvtnorm/CITATION
+built/mvtnorm/C_API_Example/
+built/mvtnorm/C_API_Example/NAMESPACE
+built/mvtnorm/C_API_Example/DESCRIPTION
+built/mvtnorm/C_API_Example/R/
+built/mvtnorm/C_API_Example/R/test.R
+built/mvtnorm/C_API_Example/src/
+built/mvtnorm/C_API_Example/src/test.c
+built/mvtnorm/C_API_Example/tests/
+built/mvtnorm/C_API_Example/tests/test.R
+built/mvtnorm/html/
+built/mvtnorm/html/00Index.html
+built/mvtnorm/html/R.css
+built/mvtnorm/INDEX
+built/mvtnorm/doc/
+built/mvtnorm/doc/MVT_Rnews.Rnw
+built/mvtnorm/doc/MVT_Rnews.R
+built/mvtnorm/doc/MVT_Rnews.pdf
+built/mvtnorm/doc/index.html
+built/mvtnorm/R/
+built/mvtnorm/R/mvtnorm
+built/mvtnorm/R/mvtnorm.rdx
+built/mvtnorm/R/mvtnorm.rdb
+built/inum/
+built/inum/NAMESPACE
+built/inum/DESCRIPTION
+built/inum/help/
+built/inum/help/inum.rdb
+built/inum/help/paths.rds
+built/inum/help/inum.rdx
+built/inum/help/aliases.rds
+built/inum/help/AnIndex
+built/inum/Meta/
+built/inum/Meta/package.rds
+built/inum/Meta/features.rds
+built/inum/Meta/hsearch.rds
+built/inum/Meta/links.rds
+built/inum/Meta/nsInfo.rds
+built/inum/Meta/Rd.rds
+built/inum/NEWS.Rd
+built/inum/html/
+built/inum/html/00Index.html
+built/inum/html/R.css
+built/inum/INDEX
+built/inum/R/
+built/inum/R/inum.rdb
+built/inum/R/inum.rdx
+built/inum/R/inum
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  969k  100  969k    0     0  1629k      0 --:--:-- --:--:-- --:--:-- 1629k
+built/
+built/rpart/
+built/rpart/libs/
+built/rpart/libs/rpart.so
+built/rpart/NAMESPACE
+built/rpart/DESCRIPTION
+built/rpart/help/
+built/rpart/help/rpart.rdb
+built/rpart/help/paths.rds
+built/rpart/help/rpart.rdx
+built/rpart/help/aliases.rds
+built/rpart/help/figures/
+built/rpart/help/figures/rpart.png
+built/rpart/help/AnIndex
+built/rpart/data/
+built/rpart/data/Rdata.rds
+built/rpart/data/Rdata.rdb
+built/rpart/data/Rdata.rdx
+built/rpart/Meta/
+built/rpart/Meta/package.rds
+built/rpart/Meta/vignette.rds
+built/rpart/Meta/features.rds
+built/rpart/Meta/hsearch.rds
+built/rpart/Meta/links.rds
+built/rpart/Meta/nsInfo.rds
+built/rpart/Meta/Rd.rds
+built/rpart/Meta/data.rds
+built/rpart/NEWS.Rd
+built/rpart/po/
+built/rpart/po/fr/
+built/rpart/po/fr/LC_MESSAGES/
+built/rpart/po/fr/LC_MESSAGES/R-rpart.mo
+built/rpart/po/fr/LC_MESSAGES/rpart.mo
+built/rpart/po/ko/
+built/rpart/po/ko/LC_MESSAGES/
+built/rpart/po/ko/LC_MESSAGES/R-rpart.mo
+built/rpart/po/ko/LC_MESSAGES/rpart.mo
+built/rpart/po/pl/
+built/rpart/po/pl/LC_MESSAGES/
+built/rpart/po/pl/LC_MESSAGES/R-rpart.mo
+built/rpart/po/pl/LC_MESSAGES/rpart.mo
+built/rpart/po/en@quot/
+built/rpart/po/en@quot/LC_MESSAGES/
+built/rpart/po/en@quot/LC_MESSAGES/R-rpart.mo
+built/rpart/po/en@quot/LC_MESSAGES/rpart.mo
+built/rpart/po/de/
+built/rpart/po/de/LC_MESSAGES/
+built/rpart/po/de/LC_MESSAGES/R-rpart.mo
+built/rpart/po/de/LC_MESSAGES/rpart.mo
+built/rpart/po/ru/
+built/rpart/po/ru/LC_MESSAGES/
+built/rpart/po/ru/LC_MESSAGES/R-rpart.mo
+built/rpart/po/ru/LC_MESSAGES/rpart.mo
+built/rpart/html/
+built/rpart/html/00Index.html
+built/rpart/html/R.css
+built/rpart/INDEX
+built/rpart/doc/
+built/rpart/doc/usercode.R
+built/rpart/doc/longintro.R
+built/rpart/doc/longintro.pdf
+built/rpart/doc/longintro.Rnw
+built/rpart/doc/usercode.pdf
+built/rpart/doc/usercode.Rnw
+built/rpart/doc/index.html
+built/rpart/R/
+built/rpart/R/rpart.rdb
+built/rpart/R/rpart.rdx
+built/rpart/R/rpart
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''partykit'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv Formula_1.2-4_R_x86_64-pc-linux-gnu.tar.gz inum_1.0-4_R_x86_64-pc-linux-gnu.tar.gz libcoin_1.0-9_R_x86_64-pc-linux-gnu.tar.gz mvtnorm_1.1-3_R_x86_64-pc-linux-gnu.tar.gz partykit_1.2-16_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/partykit
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'partykit'
+also installing the dependencies ‘libcoin’, ‘mvtnorm’, ‘Formula’, ‘inum’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/libcoin_1.0-9.tar.gz'
+Content type 'binary/octet-stream' length 1063184 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/mvtnorm_1.1-3.tar.gz'
+Content type 'binary/octet-stream' length 263444 bytes (257 KB)
+==================================================
+downloaded 257 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/Formula_1.2-4.tar.gz'
+Content type 'binary/octet-stream' length 175324 bytes (171 KB)
+==================================================
+downloaded 171 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/inum_1.0-4.tar.gz'
+Content type 'binary/octet-stream' length 36868 bytes (36 KB)
+==================================================
+downloaded 36 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/partykit_1.2-16.tar.gz'
+Content type 'binary/octet-stream' length 2423350 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+* installing *binary* package ‘mvtnorm’ ...
+* ‘mvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *binary* package ‘Formula’ ...
+* ‘Formula’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Formula’ as ‘Formula_1.2-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Formula)
+* installing *binary* package ‘libcoin’ ...
+* ‘libcoin’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘libcoin’ as ‘libcoin_1.0-9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (libcoin)
+* installing *binary* package ‘inum’ ...
+* ‘inum’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘inum’ as ‘inum_1.0-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (inum)
+* installing *binary* package ‘partykit’ ...
+* ‘partykit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘partykit’ as ‘partykit_1.2-16_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (partykit)
+
+The downloaded source packages are in
+	‘/tmp/RtmpWGjRLn/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m32.767s
+user	0m7.972s
+sys	0m1.229s
