@@ -14142,7 +14142,6 @@
         "cowplot",
         "fgsea",
         "geneplotter",
-        "opencpu",
         "readr",
         "tidyr",
         "vroom"
@@ -23140,7 +23139,6 @@
     ],
     "aroma.core": [],
     "genlasso": [],
-    "opencpu": [],
     "C50": [],
     "tidybayes": [
         "distributional",
