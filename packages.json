@@ -4085,7 +4085,6 @@
         "genefilter",
         "vsn"
     ],
-    "getDEE2": [],
     "GEWIST": [
         "car",
         "lme4",
