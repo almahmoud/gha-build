@@ -362,7 +362,6 @@
     "orthogene": [
         "ggpubr"
     ],
-    "PanomiR": [],
     "PDATK": [
         "ggpubr",
         "survminer"
