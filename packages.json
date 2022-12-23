@@ -13321,8 +13321,7 @@
         "rtracklayer"
     ],
     "GRridge": [
-        "glmnet",
-        "penalized"
+        "glmnet"
     ],
     "GSCA": [
         "bslib",
@@ -20991,7 +20990,6 @@
         "multtest",
         "org.Hs.eg.db",
         "pandaR",
-        "penalized",
         "progress",
         "quantro",
         "readr",
@@ -28066,8 +28064,7 @@
     "scRecover": [
         "Rmagic",
         "SAVER",
-        "glmnet",
-        "penalized"
+        "glmnet"
     ],
     "ScreenR": [
         "dplyr",
@@ -36878,7 +36875,6 @@
         "sf"
     ],
     "sf": [],
-    "penalized": [],
     "ggwordcloud": [
         "ggplot2",
         "tibble"
