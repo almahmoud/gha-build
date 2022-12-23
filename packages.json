@@ -2655,9 +2655,7 @@
         "ggtree",
         "treeio"
     ],
-    "M3Drop": [
-        "reldist"
-    ],
+    "M3Drop": [],
     "m6Aboost": [
         "AnnotationHub",
         "BSgenome",
@@ -4243,8 +4241,7 @@
     ],
     "RiboDiPA": [
         "DESeq2",
-        "GenomicFeatures",
-        "reldist"
+        "GenomicFeatures"
     ],
     "RiboProfiling": [
         "BSgenome",
@@ -4547,8 +4544,7 @@
         "Seurat"
     ],
     "scMerge": [
-        "M3Drop",
-        "reldist"
+        "M3Drop"
     ],
     "scMET": [],
     "scmeth": [
@@ -4780,7 +4776,6 @@
         "ensembldb",
         "genefilter",
         "ggtree",
-        "reldist",
         "scDblFinder",
         "scMerge",
         "scRNAseq",
@@ -5846,7 +5841,6 @@
         "rio"
     ],
     "pd.mapping50k.xba240": [],
-    "reldist": [],
     "adabag": [],
     "glmmTMB": [
         "lme4"
