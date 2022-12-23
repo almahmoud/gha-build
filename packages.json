@@ -136030,7 +136030,6 @@
         "lambda.r",
         "lifecycle",
         "magrittr",
-        "ore",
         "reportr",
         "rlang",
         "shades",
@@ -168366,14 +168365,10 @@
     "tractor.base": [
         "RNifti",
         "Rcpp",
-        "ore",
         "reportr",
         "shades"
     ],
-    "ore": [],
-    "reportr": [
-        "ore"
-    ],
+    "reportr": [],
     "RNifti": [
         "Rcpp"
     ],
