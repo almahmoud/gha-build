@@ -1964,7 +1964,6 @@
         "htmlwidgets",
         "pkgdown",
         "profvis",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
@@ -3413,7 +3412,6 @@
         "htmlwidgets",
         "pkgdown",
         "profvis",
-        "roxygen2",
         "testthat",
         "tidyr",
         "waldo"
@@ -7035,7 +7033,6 @@
         "htmlwidgets",
         "pkgdown",
         "profvis",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
@@ -8767,7 +8764,6 @@
         "htmlwidgets",
         "pkgdown",
         "profvis",
-        "roxygen2",
         "testthat",
         "visNetwork",
         "waldo"
@@ -8919,7 +8915,6 @@
         "pbkrtest",
         "plotly",
         "readxl",
-        "roxygen2",
         "rstatix",
         "shinyFeedback",
         "shinyFiles",
@@ -10617,7 +10612,6 @@
         "readxl",
         "reprex",
         "rhdf5",
-        "roxygen2",
         "rstatix",
         "rtracklayer",
         "rvest",
@@ -10785,7 +10779,6 @@
         "htmlwidgets",
         "pkgdown",
         "profvis",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
@@ -10982,7 +10975,6 @@
         "htmlwidgets",
         "patchwork",
         "qvalue",
-        "roxygen2",
         "scatterpie",
         "shadowtext",
         "shinyWidgets",
@@ -12117,7 +12109,6 @@
         "reactome.db",
         "recipes",
         "ropls",
-        "roxygen2",
         "scatterpie",
         "shadowtext",
         "shinydashboard",
@@ -13139,7 +13130,6 @@
         "htmlwidgets",
         "pkgdown",
         "profvis",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
@@ -13422,7 +13412,6 @@
         "plotly",
         "profvis",
         "rhdf5",
-        "roxygen2",
         "shinyjs",
         "testthat",
         "tidyr",
@@ -15678,7 +15667,6 @@
         "org.Mm.eg.db",
         "pkgdown",
         "profvis",
-        "roxygen2",
         "rtracklayer",
         "testthat",
         "waldo"
@@ -18256,7 +18244,6 @@
         "htmlwidgets",
         "pkgdown",
         "profvis",
-        "roxygen2",
         "rtracklayer",
         "testthat",
         "viridis",
@@ -19508,7 +19495,6 @@
         "golem",
         "htmlwidgets",
         "plotly",
-        "roxygen2",
         "shinyFiles",
         "shinyjs",
         "tidyr"
@@ -20158,7 +20144,6 @@
         "SummarizedExperiment",
         "golem",
         "htmlwidgets",
-        "roxygen2",
         "shinyWidgets",
         "shinycustomloader",
         "shinydashboard"
@@ -21043,7 +21028,6 @@
         "htmlwidgets",
         "pkgdown",
         "profvis",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
@@ -21051,7 +21035,6 @@
     "profvis": [
         "htmlwidgets"
     ],
-    "roxygen2": [],
     "ggtext": [],
     "vcfR": [],
     "drc": [
@@ -21745,9 +21728,7 @@
         "rtracklayer"
     ],
     "concaveman": [],
-    "golem": [
-        "roxygen2"
-    ],
+    "golem": [],
     "shinyalert": [],
     "wordcloud2": [
         "htmlwidgets"
@@ -22018,7 +21999,6 @@
         "htmlwidgets",
         "pkgdown",
         "profvis",
-        "roxygen2",
         "testthat",
         "waldo"
     ],
