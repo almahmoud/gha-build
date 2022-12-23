@@ -4157,7 +4157,6 @@
         "DT"
     ],
     "fobitools": [
-        "RecordLinkage",
         "fgsea",
         "ggraph",
         "lexicon",
@@ -6302,7 +6301,6 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "RecordLinkage",
         "aplot",
         "clusterProfiler",
         "enrichplot",
@@ -12986,7 +12984,6 @@
     "rainbow": [],
     "SPARQL": [],
     "ggiraph": [],
-    "RecordLinkage": [],
     "NHPoisson": [
         "broom",
         "car",
