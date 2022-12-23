@@ -1,0 +1,198 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   bdc8c84e..9b753540  main       -> origin/main
+Updating bdc8c84e..9b753540
+Fast-forward
+ lists/CellNOptR                                 |    2 +-
+ lists/GRENITS                                   |    2 +-
+ lists/MethylMix                                 |    2 +-
+ lists/patchwork                                 |    2 +-
+ logs/run_ids/rstudio-binaries/RCy3              |    2 +
+ logs/run_ids/rstudio-binaries/plotROC           |    2 +
+ logs/run_ids/rstudio-binaries/qckitfastq        |    2 +
+ logs/run_ids/rstudio-binaries/qvalue            |    2 +
+ logs/run_ids/rstudio-binaries/readxl            |    2 +
+ logs/run_ids/rstudio-binaries/rfaRm             |    2 +
+ logs/sizes/rstudio-binaries/binaries/MethylMix  |    1 +
+ logs/sizes/rstudio-binaries/binaries/patchwork  |    1 +
+ logs/sizes/rstudio-binaries/libraries/MethylMix |    1 +
+ logs/sizes/rstudio-binaries/libraries/patchwork |    1 +
+ logs/times/rstudio-binary/MethylMix             | 3813 +++++++++++++++++++++++
+ logs/times/rstudio-binary/patchwork             |   69 +
+ packages.json                                   |  136 +-
+ 17 files changed, 3909 insertions(+), 133 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/RCy3
+ create mode 100644 logs/run_ids/rstudio-binaries/plotROC
+ create mode 100644 logs/run_ids/rstudio-binaries/qckitfastq
+ create mode 100644 logs/run_ids/rstudio-binaries/qvalue
+ create mode 100644 logs/run_ids/rstudio-binaries/readxl
+ create mode 100644 logs/run_ids/rstudio-binaries/rfaRm
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/MethylMix
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/patchwork
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/MethylMix
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/patchwork
+ create mode 100644 logs/times/rstudio-binary/MethylMix
+ create mode 100644 logs/times/rstudio-binary/patchwork
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=PepsNMR
++ PKG=PepsNMR
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "PepsNMR"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency ptw is already found.
+Dependency ggplot2 is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  6 1232k    6 81600    0     0  87312      0  0:00:14 --:--:--  0:00:14 87272 36 1232k   36  446k    0     0   230k      0  0:00:05  0:00:01  0:00:04  230k 82 1232k   82 1020k    0     0   347k      0  0:00:03  0:00:02  0:00:01  347k100 1232k  100 1232k    0     0   383k      0  0:00:03  0:00:03 --:--:--  383k
+built/
+built/gtable/
+built/gtable/NAMESPACE
+built/gtable/DESCRIPTION
+built/gtable/help/
+built/gtable/help/paths.rds
+built/gtable/help/gtable.rdb
+built/gtable/help/gtable.rdx
+built/gtable/help/aliases.rds
+built/gtable/help/figures/
+built/gtable/help/figures/README-unnamed-chunk-3-1.png
+built/gtable/help/figures/README-unnamed-chunk-2-1.png
+built/gtable/help/figures/logo.png
+built/gtable/help/AnIndex
+built/gtable/Meta/
+built/gtable/Meta/package.rds
+built/gtable/Meta/vignette.rds
+built/gtable/Meta/features.rds
+built/gtable/Meta/hsearch.rds
+built/gtable/Meta/links.rds
+built/gtable/Meta/nsInfo.rds
+built/gtable/Meta/Rd.rds
+built/gtable/LICENSE
+built/gtable/html/
+built/gtable/html/00Index.html
+built/gtable/html/R.css
+built/gtable/INDEX
+built/gtable/doc/
+built/gtable/doc/profiling.html
+built/gtable/doc/profiling.Rmd
+built/gtable/doc/profiling.R
+built/gtable/doc/index.html
+built/gtable/R/
+built/gtable/R/gtable
+built/gtable/R/gtable.rdb
+built/gtable/R/gtable.rdx
+built/gtable/NEWS.md
+built/gridExtra/
+built/gridExtra/NAMESPACE
+built/gridExtra/DESCRIPTION
+built/gridExtra/help/
+built/gridExtra/help/paths.rds
+built/gridExtra/help/gridExtra.rdb
+built/gridExtra/help/aliases.rds
+built/gridExtra/help/gridExtra.rdx
+built/gridExtra/help/AnIndex
+built/gridExtra/Meta/
+built/gridExtra/Meta/package.rds
+built/gridExtra/Meta/vignette.rds
+built/gridExtra/Meta/features.rds
+built/gridExtra/Meta/hsearch.rds
+built/gridExtra/Meta/links.rds
+built/gridExtra/Meta/nsInfo.rds
+built/gridExtra/Meta/Rd.rds
+built/gridExtra/html/
+built/gridExtra/html/00Index.html
+built/gridExtra/html/R.css
+built/gridExtra/INDEX
+built/gridExtra/doc/
+built/gridExtra/doc/arrangeGrob.R
+built/gridExtra/doc/arrangeGrob.rmd
+built/gridExtra/doc/arrangeGrob.html
+built/gridExtra/doc/tableGrob.R
+built/gridExtra/doc/gtable.Rmd
+built/gridExtra/doc/tableGrob.html
+built/gridExtra/doc/gtable.R
+built/gridExtra/doc/tableGrob.Rmd
+built/gridExtra/doc/ngonGrob.R
+built/gridExtra/doc/gtable.html
+built/gridExtra/doc/ngonGrob.html
+built/gridExtra/doc/index.html
+built/gridExtra/doc/ngonGrob.Rmd
+built/gridExtra/R/
+built/gridExtra/R/gridExtra.rdb
+built/gridExtra/R/gridExtra
+built/gridExtra/R/gridExtra.rdx
+built/gridExtra/tests/
+built/gridExtra/tests/testthat.r
+built/gridExtra/tests/testthat/
+built/gridExtra/tests/testthat/test-arrangeGrob.R
+built/gridExtra/tests/testthat/test-tableGrob.R
+built/gridExtra/NEWS.md
+Dependency matrixStats is already found.
+Dependency reshape2 is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''PepsNMR'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv gridExtra_2.3_R_x86_64-pc-linux-gnu.tar.gz PepsNMR_1.16.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/PepsNMR
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'PepsNMR'
+also installing the dependency ‘gridExtra’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gridExtra_2.3.tar.gz'
+Content type 'binary/octet-stream' length 1106730 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/PepsNMR_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 1182094 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+* installing *binary* package ‘gridExtra’ ...
+* ‘gridExtra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gridExtra’ as ‘gridExtra_2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gridExtra)
+* installing *source* package ‘PepsNMR’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘PepsNMR’ as ‘PepsNMR_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (PepsNMR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpCy6Jg9/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m22.978s
+user	0m15.109s
+sys	0m1.371s
