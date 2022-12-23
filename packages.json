@@ -6518,7 +6518,6 @@
         "GO.db",
         "SummarizedExperiment",
         "annotate",
-        "bs4Dash",
         "colourpicker",
         "dendextend",
         "geneplotter",
@@ -19466,7 +19465,6 @@
         "mice",
         "tidyr"
     ],
-    "bs4Dash": [],
     "tippy": [
         "htmlwidgets"
     ],
