@@ -614,9 +614,7 @@
         "quantro",
         "yarn"
     ],
-    "NormalyzerDE": [
-        "RcmdrMisc"
-    ],
+    "NormalyzerDE": [],
     "octad": [],
     "ODER": [
         "dasper",
@@ -994,7 +992,6 @@
         "ExperimentHubData"
     ],
     "mppa": [],
-    "RcmdrMisc": [],
     "genlasso": [],
     "Rmagic": [],
     "survivalAnalysis": [
