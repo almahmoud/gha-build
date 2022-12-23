@@ -1406,7 +1406,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "assertive",
-        "assertive.data.uk",
         "cellranger",
         "dbplyr",
         "dplyr",
@@ -18569,7 +18568,6 @@
         "SummarizedExperiment",
         "VariantAnnotation",
         "assertive",
-        "assertive.data.uk",
         "bamsignals",
         "biomaRt",
         "biovizBase",
@@ -32503,10 +32501,8 @@
         "tidyr"
     ],
     "assertive": [
-        "assertive.data.uk",
         "knitr"
     ],
-    "assertive.data.uk": [],
     "doBy": [
         "broom",
         "dplyr",
