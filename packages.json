@@ -1503,7 +1503,6 @@
         "vsn"
     ],
     "DOSE": [],
-    "doseR": [],
     "dpeak": [],
     "DropletUtils": [
         "HDF5Array",
