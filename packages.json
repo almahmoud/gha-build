@@ -820,13 +820,10 @@
         "testthat",
         "tidytree",
         "treeio",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "BiocDockerManager": [],
-    "BiocFHIR": [
-        "visNetwork"
-    ],
+    "BiocFHIR": [],
     "biocGraph": [
         "AnnotationDbi",
         "annotate",
@@ -1800,8 +1797,7 @@
     ],
     "CIMICE": [
         "ggraph",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "circRNAprofiler": [
         "AnnotationDbi",
@@ -2268,8 +2264,7 @@
         "chipseq"
     ],
     "CoreGx": [
-        "piano",
-        "visNetwork"
+        "piano"
     ],
     "Cormotif": [
         "affy"
@@ -2299,8 +2294,7 @@
         "dorothea",
         "mixtools",
         "plotly",
-        "viper",
-        "visNetwork"
+        "viper"
     ],
     "countsimQC": [
         "AnnotationDbi",
@@ -2756,8 +2750,7 @@
         "textclean",
         "textstem",
         "ttgsea",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "deepSNV": [
         "AnnotationDbi",
@@ -3392,8 +3385,7 @@
         "testthat",
         "tidytree",
         "treeio",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "ensembldb": [
         "AnnotationDbi",
@@ -3651,8 +3643,7 @@
         "scatterpie",
         "tidytree",
         "treeio",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "escape": [
         "AnnotationDbi",
@@ -3960,9 +3951,7 @@
         "testthat",
         "viridis"
     ],
-    "flowGraph": [
-        "visNetwork"
-    ],
+    "flowGraph": [],
     "flowPloidy": [
         "car",
         "lme4",
@@ -4259,8 +4248,7 @@
         "geneplotter",
         "plotly",
         "tippy",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "geneXtendeR": [
         "AnnotationDbi",
@@ -4367,8 +4355,7 @@
         "textclean",
         "textstem",
         "ttgsea",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "GenVisR": [
         "AnnotationDbi",
@@ -4570,8 +4557,7 @@
     ],
     "GNET2": [
         "DiagrammeR",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "GOexpress": [
         "AnnotationDbi",
@@ -4983,9 +4969,7 @@
     "HumanTranscriptomeCompendium": [
         "ssrch"
     ],
-    "hypeR": [
-        "visNetwork"
-    ],
+    "hypeR": [],
     "iBBiG": [],
     "iCARE": [
         "Hmisc",
@@ -5124,8 +5108,7 @@
     "immunotation": [],
     "INDEED": [
         "devtools",
-        "testthat",
-        "visNetwork"
+        "testthat"
     ],
     "infercnv": [
         "Seurat",
@@ -5205,7 +5188,6 @@
         "rstatix",
         "testthat",
         "viridis",
-        "visNetwork",
         "wordcloud2"
     ],
     "IntEREst": [
@@ -5784,8 +5766,7 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "mBPCR": [
         "GWASTools",
@@ -7836,8 +7817,7 @@
         "survminer",
         "testthat",
         "verification",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "pdInfoBuilder": [
         "oligo",
@@ -7901,8 +7881,7 @@
     ],
     "PharmacoGx": [
         "CoreGx",
-        "piano",
-        "visNetwork"
+        "piano"
     ],
     "phenomis": [
         "MultiDataSet",
@@ -7969,9 +7948,7 @@
         "dnet",
         "recipes"
     ],
-    "piano": [
-        "visNetwork"
-    ],
+    "piano": [],
     "PICS": [
         "GenomicAlignments"
     ],
@@ -8027,8 +8004,7 @@
     "pipeFrame": [
         "BSgenome",
         "GenomicAlignments",
-        "rtracklayer",
-        "visNetwork"
+        "rtracklayer"
     ],
     "plier": [
         "affy"
@@ -8575,8 +8551,7 @@
     ],
     "RadioGx": [
         "CoreGx",
-        "piano",
-        "visNetwork"
+        "piano"
     ],
     "ramr": [],
     "ramwas": [
@@ -8665,15 +8640,13 @@
     "Rcwl": [
         "DiagrammeR",
         "basilisk",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "RcwlPipelines": [
         "DiagrammeR",
         "Rcwl",
         "basilisk",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "RDRToolbox": [
         "rgl"
@@ -9790,8 +9763,7 @@
         "schex",
         "tidytree",
         "treeio",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "scTGIF": [
         "AnnotationDbi",
@@ -10015,8 +9987,7 @@
         "scatterpie",
         "tidytree",
         "treeio",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "signeR": [
         "AnnotationDbi",
@@ -10400,8 +10371,7 @@
         "scater",
         "scran",
         "scuttle",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "spatzie": [
         "AnnotationDbi",
@@ -10563,9 +10533,7 @@
         "rhdf5",
         "viridis"
     ],
-    "sRACIPE": [
-        "visNetwork"
-    ],
+    "sRACIPE": [],
     "SRAdb": [],
     "srnadiff": [
         "AnnotationDbi",
@@ -11112,8 +11080,7 @@
     ],
     "ToxicoGx": [
         "CoreGx",
-        "piano",
-        "visNetwork"
+        "piano"
     ],
     "TPP": [
         "biobroom"
@@ -11281,8 +11248,7 @@
         "lexicon",
         "textclean",
         "textstem",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "TTMap": [
         "rgl"
@@ -11414,8 +11380,7 @@
         "textclean",
         "textstem",
         "ttgsea",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "VanillaICE": [
         "BSgenome",
@@ -11534,8 +11499,7 @@
         "heatmaply",
         "plotly",
         "topGO",
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
     "vissE": [
         "AnnotationDbi",
@@ -11670,8 +11634,7 @@
     "Xeva": [
         "CoreGx",
         "PharmacoGx",
-        "piano",
-        "visNetwork"
+        "piano"
     ],
     "XINA": [],
     "XNAString": [
@@ -12029,10 +11992,8 @@
         "AnnotationDbi"
     ],
     "DiagrammeR": [
-        "viridis",
-        "visNetwork"
+        "viridis"
     ],
-    "visNetwork": [],
     "gson": [],
     "HDO.db": [
         "AnnotationDbi"
