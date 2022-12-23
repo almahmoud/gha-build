@@ -14011,8 +14011,7 @@
     "tidySingleCellExperiment": [
         "SingleCellExperiment",
         "htmlwidgets",
-        "plotly",
-        "ttservice"
+        "plotly"
     ],
     "tidySummarizedExperiment": [
         "htmlwidgets",
@@ -16510,7 +16509,6 @@
     ],
     "drawer": [],
     "GenKern": [],
-    "ttservice": [],
     "FreqProf": [],
     "gghighlight": [
         "ggrepel"
