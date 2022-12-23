@@ -583,9 +583,7 @@
     "crisprScore": [
         "crisprScoreData"
     ],
-    "CRISPRseek": [],
     "crisprseekplus": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "GUIDEseq",
         "ensembldb",
@@ -1232,7 +1230,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
     "GUIDEseq": [
-        "CRISPRseek",
         "ChIPpeakAnno",
         "ensembldb",
         "regioneR"
@@ -1835,7 +1832,6 @@
         "lmerTest"
     ],
     "multicrispr": [
-        "CRISPRseek",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
