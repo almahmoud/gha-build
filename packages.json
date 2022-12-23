@@ -5072,7 +5072,6 @@
         "blob",
         "globaltest",
         "httr",
-        "lokern",
         "memoise",
         "openssl",
         "restfulr",
@@ -40153,7 +40152,6 @@
         "annotate",
         "blob",
         "httr",
-        "lokern",
         "memoise",
         "multtest",
         "openssl",
@@ -61256,7 +61254,6 @@
     "betareg": [
         "sandwich"
     ],
-    "lokern": [],
     "pasilla": [
         "AnnotationDbi",
         "BiocFileCache",
