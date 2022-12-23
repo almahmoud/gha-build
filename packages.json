@@ -2285,7 +2285,6 @@
         "org.Mm.eg.db",
         "pathview",
         "rhdf5",
-        "safe",
         "topGO"
     ],
     "eiR": [],
@@ -2330,8 +2329,7 @@
     "EnrichmentBrowser": [
         "GSEABase",
         "annotate",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "enrichplot": [
         "DOSE",
@@ -3246,8 +3244,7 @@
         "ExperimentHub",
         "GSEABase",
         "annotate",
-        "pathview",
-        "safe"
+        "pathview"
     ],
     "GSEAmining": [
         "dendextend",
@@ -6507,7 +6504,6 @@
         "rtracklayer"
     ],
     "RVS": [],
-    "safe": [],
     "sampleClassifier": [
         "MGFM",
         "MGFR",
@@ -8046,7 +8042,6 @@
         "lmerTest",
         "pathview",
         "pbkrtest",
-        "safe",
         "variancePartition"
     ],
     "zinbwave": [
