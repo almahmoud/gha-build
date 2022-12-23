@@ -1170,7 +1170,6 @@
         "VariantAnnotation"
     ],
     "hermes": [],
-    "hiAnnotator": [],
     "HiCcompare": [
         "CGHcall",
         "QDNAseq"
@@ -1204,9 +1203,7 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "TxDb.Hsapiens.UCSC.hg19.knownGene"
     ],
-    "hiReadsProcessor": [
-        "hiAnnotator"
-    ],
+    "hiReadsProcessor": [],
     "HTSeqGenie": [
         "VariantAnnotation",
         "VariantTools",
