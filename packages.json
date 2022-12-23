@@ -27403,7 +27403,6 @@
         "survival",
         "tibble"
     ],
-    "MethPed": [],
     "MethReg": [
         "AnnotationDbi",
         "AnnotationHub",
