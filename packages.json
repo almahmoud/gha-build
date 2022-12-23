@@ -10773,7 +10773,6 @@
         "IRanges",
         "S4Vectors",
         "doParallel",
-        "eulerr",
         "httr",
         "irlba",
         "knitr",
@@ -52756,7 +52755,6 @@
         "UpSetR",
         "XVector",
         "cowplot",
-        "eulerr",
         "futile.logger",
         "ggplot2",
         "ggplotify",
@@ -67204,7 +67202,6 @@
     "princurve": [],
     "biwt": [],
     "skmeans": [],
-    "eulerr": [],
     "cobs": [
         "MatrixModels",
         "quantreg",
