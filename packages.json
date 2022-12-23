@@ -8766,8 +8766,7 @@
     ],
     "supersigs": [
         "caret",
-        "recipes",
-        "rsample"
+        "recipes"
     ],
     "surfaltr": [
         "biomaRt",
@@ -10527,7 +10526,6 @@
         "haven",
         "labelled"
     ],
-    "rsample": [],
     "SpatialExtremes": [
         "fields"
     ],
