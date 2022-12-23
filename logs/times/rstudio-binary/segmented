@@ -1,0 +1,404 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   79a8424d..59a27fe6  main       -> origin/main
+Updating 79a8424d..59a27fe6
+Fast-forward
+ README.md                      | 186 ++++++++++++++++++++---------------------
+ lists/ASSET                    |   1 +
+ lists/BiocParallel             |   1 +
+ lists/BumpyMatrix              |   1 +
+ lists/CGHnormaliter            |   1 +
+ lists/COHCAP                   |   1 +
+ lists/CellScore                |   1 +
+ lists/ClusterJudge             |   1 +
+ lists/ComplexHeatmap           |   1 +
+ lists/DelayedArray             |   1 +
+ lists/DirichletMultinomial     |   1 +
+ lists/DirichletReg             |   1 +
+ lists/GSgalgoR                 |   1 +
+ lists/GeneOverlap              |   1 +
+ lists/GenomeInfoDb             |   1 +
+ lists/GenomicTools.fileHandler |   1 +
+ lists/HIREewas                 |   1 +
+ lists/Herper                   |   1 +
+ lists/MBttest                  |   1 +
+ lists/OrderedList              |   1 +
+ lists/PANR                     |   1 +
+ lists/PROcess                  |   1 +
+ lists/RCyjs                    |   1 +
+ lists/RISmed                   |   1 +
+ lists/ROCR                     |   1 +
+ lists/ReactomeContentService4R |   1 +
+ lists/Rlabkey                  |   1 +
+ lists/Rmagpie                  |   1 +
+ lists/SIMLR                    |   1 +
+ lists/SPIA                     |   1 +
+ lists/Streamer                 |   1 +
+ lists/TreeAndLeaf              |   1 +
+ lists/VennDiagram              |   1 +
+ lists/XVector                  |   1 +
+ lists/aroma.core               |   1 +
+ lists/assertive.code           |   1 +
+ lists/assertive.datetimes      |   1 +
+ lists/assertive.strings        |   1 +
+ lists/aws.s3                   |   1 +
+ lists/basilisk                 |   1 +
+ lists/betareg                  |   1 +
+ lists/biobtreeR                |   1 +
+ lists/biocViews                |   1 +
+ lists/blob                     |   1 +
+ lists/bslib                    |   1 +
+ lists/clock                    |   1 +
+ lists/clusterCons              |   1 +
+ lists/clustvarsel              |   1 +
+ lists/consensus                |   1 +
+ lists/covr                     |   1 +
+ lists/cvar                     |   1 +
+ lists/cycle                    |   1 +
+ lists/derfinderHelper          |   1 +
+ lists/downlit                  |   1 +
+ lists/dupRadar                 |   1 +
+ lists/feature                  |   1 +
+ lists/flatxml                  |   1 +
+ lists/flowCyBar                |   1 +
+ lists/gRbase                   |   1 +
+ lists/gargle                   |   1 +
+ lists/gert                     |   1 +
+ lists/gh                       |   1 +
+ lists/hms                      |   1 +
+ lists/httpcache                |   1 +
+ lists/hyperdraw                |   1 +
+ lists/iC10                     |   1 +
+ lists/illuminaio               |   1 +
+ lists/iterativeBMA             |   1 +
+ lists/iterativeBMAsurv         |   1 +
+ lists/ldblock                  |   1 +
+ lists/leiden                   |   1 +
+ lists/les                      |   1 +
+ lists/logicFS                  |   1 +
+ lists/martini                  |   1 +
+ lists/massiR                   |   1 +
+ lists/mboost                   |   1 +
+ lists/mgsa                     |   1 +
+ lists/multcomp                 |   1 +
+ lists/nucleoSim                |   1 +
+ lists/optimr                   |   1 +
+ lists/pdfCluster               |   1 +
+ lists/pillar                   |   1 +
+ lists/pkgDepTools              |   1 +
+ lists/ppclust                  |   1 +
+ lists/prodlim                  |   1 +
+ lists/ptw                      |   1 +
+ lists/purrr                    |   1 +
+ lists/rARPACK                  |   1 +
+ lists/rDGIdb                   |   1 +
+ lists/ragg                     |   1 +
+ lists/rapiclient               |   1 +
+ lists/rcmdcheck                |   1 +
+ lists/rentrez                  |   1 +
+ lists/repmis                   |   1 +
+ lists/rsparse                  |   1 +
+ lists/sf                       |   1 +
+ lists/slider                   |   1 +
+ lists/stringr                  |   1 +
+ lists/swamp                    |   1 +
+ lists/switchBox                |   1 +
+ lists/tfautograph              |   1 +
+ lists/tidyselect               |   1 +
+ lists/tiledb                   |   1 +
+ lists/tweenr                   |   1 +
+ lists/umap                     |   1 +
+ lists/uwot                     |   1 +
+ lists/vcd                      |   1 +
+ lists/veloviz                  |   1 +
+ tobuild.txt                    | 107 ++++++++++++++++++++++++
+ 109 files changed, 307 insertions(+), 93 deletions(-)
+ create mode 100644 lists/ASSET
+ create mode 100644 lists/BiocParallel
+ create mode 100644 lists/BumpyMatrix
+ create mode 100644 lists/CGHnormaliter
+ create mode 100644 lists/COHCAP
+ create mode 100644 lists/CellScore
+ create mode 100644 lists/ClusterJudge
+ create mode 100644 lists/ComplexHeatmap
+ create mode 100644 lists/DelayedArray
+ create mode 100644 lists/DirichletMultinomial
+ create mode 100644 lists/DirichletReg
+ create mode 100644 lists/GSgalgoR
+ create mode 100644 lists/GeneOverlap
+ create mode 100644 lists/GenomeInfoDb
+ create mode 100644 lists/GenomicTools.fileHandler
+ create mode 100644 lists/HIREewas
+ create mode 100644 lists/Herper
+ create mode 100644 lists/MBttest
+ create mode 100644 lists/OrderedList
+ create mode 100644 lists/PANR
+ create mode 100644 lists/PROcess
+ create mode 100644 lists/RCyjs
+ create mode 100644 lists/RISmed
+ create mode 100644 lists/ROCR
+ create mode 100644 lists/ReactomeContentService4R
+ create mode 100644 lists/Rlabkey
+ create mode 100644 lists/Rmagpie
+ create mode 100644 lists/SIMLR
+ create mode 100644 lists/SPIA
+ create mode 100644 lists/Streamer
+ create mode 100644 lists/TreeAndLeaf
+ create mode 100644 lists/VennDiagram
+ create mode 100644 lists/XVector
+ create mode 100644 lists/aroma.core
+ create mode 100644 lists/assertive.code
+ create mode 100644 lists/assertive.datetimes
+ create mode 100644 lists/assertive.strings
+ create mode 100644 lists/aws.s3
+ create mode 100644 lists/basilisk
+ create mode 100644 lists/betareg
+ create mode 100644 lists/biobtreeR
+ create mode 100644 lists/biocViews
+ create mode 100644 lists/blob
+ create mode 100644 lists/bslib
+ create mode 100644 lists/clock
+ create mode 100644 lists/clusterCons
+ create mode 100644 lists/clustvarsel
+ create mode 100644 lists/consensus
+ create mode 100644 lists/covr
+ create mode 100644 lists/cvar
+ create mode 100644 lists/cycle
+ create mode 100644 lists/derfinderHelper
+ create mode 100644 lists/downlit
+ create mode 100644 lists/dupRadar
+ create mode 100644 lists/feature
+ create mode 100644 lists/flatxml
+ create mode 100644 lists/flowCyBar
+ create mode 100644 lists/gRbase
+ create mode 100644 lists/gargle
+ create mode 100644 lists/gert
+ create mode 100644 lists/gh
+ create mode 100644 lists/hms
+ create mode 100644 lists/httpcache
+ create mode 100644 lists/hyperdraw
+ create mode 100644 lists/iC10
+ create mode 100644 lists/illuminaio
+ create mode 100644 lists/iterativeBMA
+ create mode 100644 lists/iterativeBMAsurv
+ create mode 100644 lists/ldblock
+ create mode 100644 lists/leiden
+ create mode 100644 lists/les
+ create mode 100644 lists/logicFS
+ create mode 100644 lists/martini
+ create mode 100644 lists/massiR
+ create mode 100644 lists/mboost
+ create mode 100644 lists/mgsa
+ create mode 100644 lists/multcomp
+ create mode 100644 lists/nucleoSim
+ create mode 100644 lists/optimr
+ create mode 100644 lists/pdfCluster
+ create mode 100644 lists/pillar
+ create mode 100644 lists/pkgDepTools
+ create mode 100644 lists/ppclust
+ create mode 100644 lists/prodlim
+ create mode 100644 lists/ptw
+ create mode 100644 lists/purrr
+ create mode 100644 lists/rARPACK
+ create mode 100644 lists/rDGIdb
+ create mode 100644 lists/ragg
+ create mode 100644 lists/rapiclient
+ create mode 100644 lists/rcmdcheck
+ create mode 100644 lists/rentrez
+ create mode 100644 lists/repmis
+ create mode 100644 lists/rsparse
+ create mode 100644 lists/sf
+ create mode 100644 lists/slider
+ create mode 100644 lists/stringr
+ create mode 100644 lists/swamp
+ create mode 100644 lists/switchBox
+ create mode 100644 lists/tfautograph
+ create mode 100644 lists/tidyselect
+ create mode 100644 lists/tiledb
+ create mode 100644 lists/tweenr
+ create mode 100644 lists/umap
+ create mode 100644 lists/uwot
+ create mode 100644 lists/vcd
+ create mode 100644 lists/veloviz
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=segmented
++ PKG=segmented
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "segmented"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency MASS is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 3364k    2 82584    0     0   151k      0  0:00:22 --:--:--  0:00:22  151k 34 3364k   34 1148k    0     0   749k      0  0:00:04  0:00:01  0:00:03  749k 97 3364k   97 3268k    0     0  1292k      0  0:00:02  0:00:02 --:--:-- 1292k100 3364k  100 3364k    0     0  1317k      0  0:00:02  0:00:02 --:--:-- 1316k
+built/
+built/lattice/
+built/lattice/libs/
+built/lattice/libs/lattice.so
+built/lattice/NEWS
+built/lattice/NAMESPACE
+built/lattice/DESCRIPTION
+built/lattice/help/
+built/lattice/help/paths.rds
+built/lattice/help/lattice.rdx
+built/lattice/help/lattice.rdb
+built/lattice/help/aliases.rds
+built/lattice/help/AnIndex
+built/lattice/data/
+built/lattice/data/Rdata.rds
+built/lattice/data/Rdata.rdb
+built/lattice/data/Rdata.rdx
+built/lattice/Meta/
+built/lattice/Meta/package.rds
+built/lattice/Meta/demo.rds
+built/lattice/Meta/features.rds
+built/lattice/Meta/hsearch.rds
+built/lattice/Meta/links.rds
+built/lattice/Meta/nsInfo.rds
+built/lattice/Meta/Rd.rds
+built/lattice/Meta/data.rds
+built/lattice/po/
+built/lattice/po/it/
+built/lattice/po/it/LC_MESSAGES/
+built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/lattice/po/fr/
+built/lattice/po/fr/LC_MESSAGES/
+built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/lattice/po/ko/
+built/lattice/po/ko/LC_MESSAGES/
+built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/lattice/po/pl/
+built/lattice/po/pl/LC_MESSAGES/
+built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/lattice/po/en@quot/
+built/lattice/po/en@quot/LC_MESSAGES/
+built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/lattice/po/de/
+built/lattice/po/de/LC_MESSAGES/
+built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/lattice/CITATION
+built/lattice/html/
+built/lattice/html/00Index.html
+built/lattice/html/R.css
+built/lattice/INDEX
+built/lattice/R/
+built/lattice/R/lattice
+built/lattice/R/lattice.rdx
+built/lattice/R/lattice.rdb
+built/lattice/demo/
+built/lattice/demo/panel.R
+built/lattice/demo/intervals.R
+built/lattice/demo/labels.R
+built/lattice/demo/lattice.R
+built/nlme/
+built/nlme/libs/
+built/nlme/libs/nlme.so
+built/nlme/NAMESPACE
+built/nlme/DESCRIPTION
+built/nlme/help/
+built/nlme/help/nlme.rdb
+built/nlme/help/paths.rds
+built/nlme/help/aliases.rds
+built/nlme/help/nlme.rdx
+built/nlme/help/AnIndex
+built/nlme/data/
+built/nlme/data/Rdata.rds
+built/nlme/data/Rdata.rdb
+built/nlme/data/Rdata.rdx
+built/nlme/Meta/
+built/nlme/Meta/package.rds
+built/nlme/Meta/features.rds
+built/nlme/Meta/hsearch.rds
+built/nlme/Meta/links.rds
+built/nlme/Meta/nsInfo.rds
+built/nlme/Meta/Rd.rds
+built/nlme/Meta/data.rds
+built/nlme/scripts/
+built/nlme/scripts/ch08.R
+built/nlme/scripts/runme.R
+built/nlme/scripts/ch02.R
+built/nlme/scripts/ch05.R
+built/nlme/scripts/sims.rda
+built/nlme/scripts/ch03.R
+built/nlme/scripts/ch01.R
+built/nlme/scripts/ch06.R
+built/nlme/scripts/ch04.R
+built/nlme/po/
+built/nlme/po/fr/
+built/nlme/po/fr/LC_MESSAGES/
+built/nlme/po/fr/LC_MESSAGES/nlme.mo
+built/nlme/po/fr/LC_MESSAGES/R-nlme.mo
+built/nlme/po/ko/
+built/nlme/po/ko/LC_MESSAGES/
+built/nlme/po/ko/LC_MESSAGES/nlme.mo
+built/nlme/po/ko/LC_MESSAGES/R-nlme.mo
+built/nlme/po/pl/
+built/nlme/po/pl/LC_MESSAGES/
+built/nlme/po/pl/LC_MESSAGES/nlme.mo
+built/nlme/po/pl/LC_MESSAGES/R-nlme.mo
+built/nlme/po/en@quot/
+built/nlme/po/en@quot/LC_MESSAGES/
+built/nlme/po/en@quot/LC_MESSAGES/nlme.mo
+built/nlme/po/en@quot/LC_MESSAGES/R-nlme.mo
+built/nlme/po/de/
+built/nlme/po/de/LC_MESSAGES/
+built/nlme/po/de/LC_MESSAGES/nlme.mo
+built/nlme/po/de/LC_MESSAGES/R-nlme.mo
+built/nlme/CITATION
+built/nlme/html/
+built/nlme/html/00Index.html
+built/nlme/html/R.css
+built/nlme/INDEX
+built/nlme/R/
+built/nlme/R/nlme.rdb
+built/nlme/R/nlme
+built/nlme/R/nlme.rdx
+built/nlme/mlbook/
+built/nlme/mlbook/README
+built/nlme/mlbook/ch05.R
+built/nlme/mlbook/ch04.R
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''segmented'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv segmented_1.6-2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/segmented
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'segmented'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/segmented_1.6-2.tar.gz'
+Content type 'binary/octet-stream' length 759281 bytes (741 KB)
+==================================================
+downloaded 741 KB
+
+* installing *binary* package ‘segmented’ ...
+* ‘segmented’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘segmented’ as ‘segmented_1.6-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (segmented)
+
+The downloaded source packages are in
+	‘/tmp/RtmpHSJHTN/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m8.255s
+user	0m3.900s
+sys	0m0.445s
