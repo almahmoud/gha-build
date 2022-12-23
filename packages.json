@@ -13836,7 +13836,6 @@
         "sqldf",
         "tibble"
     ],
-    "GSgalgoR": [],
     "GSReg": [
         "AnnotationDbi",
         "BiocFileCache",
