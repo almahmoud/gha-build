@@ -1716,7 +1716,6 @@
     "gcapc": [
         "BSgenome"
     ],
-    "GCSscore": [],
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
