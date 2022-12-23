@@ -9044,7 +9044,6 @@
         "visNetwork",
         "vroom",
         "waldo",
-        "writexl",
         "xfun",
         "xtable",
         "yaml",
@@ -59648,7 +59647,6 @@
         "vctrs",
         "viridisLite",
         "vroom",
-        "writexl",
         "xfun",
         "xtable",
         "yaml",
@@ -140574,7 +140572,6 @@
         "viridisLite",
         "vroom",
         "waldo",
-        "writexl",
         "xfun",
         "xtable",
         "yaml"
@@ -140823,7 +140820,6 @@
     "psych": [
         "nlme"
     ],
-    "writexl": [],
     "shinyFiles": [
         "R6",
         "Rcpp",
@@ -149828,7 +149824,6 @@
         "utf8",
         "vctrs",
         "vroom",
-        "writexl",
         "xfun",
         "xtable",
         "yaml",
