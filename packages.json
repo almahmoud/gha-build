@@ -11292,7 +11292,6 @@
         "RSQLite",
         "XVector",
         "annotate",
-        "bcellViper",
         "blob",
         "bslib",
         "crosstalk",
@@ -15709,7 +15708,6 @@
         "TH.data",
         "XVector",
         "annotate",
-        "bcellViper",
         "blob",
         "broom",
         "bslib",
@@ -63460,7 +63458,6 @@
         "xcms"
     ],
     "dorothea": [
-        "bcellViper",
         "bslib",
         "crosstalk",
         "dplyr",
@@ -63490,7 +63487,6 @@
         "tidyselect",
         "viper"
     ],
-    "bcellViper": [],
     "crisprScoreData": [
         "AnnotationDbi",
         "AnnotationHub",
