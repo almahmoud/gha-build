@@ -2854,7 +2854,6 @@
     "GeneTonic": [
         "DESeq2",
         "annotate",
-        "bs4Dash",
         "dendextend",
         "geneplotter"
     ],
@@ -8240,7 +8239,6 @@
     "logistf": [
         "mice"
     ],
-    "bs4Dash": [],
     "shinyHeatmaply": [
         "dendextend",
         "heatmaply"
