@@ -5480,7 +5480,6 @@
         "RCy3",
         "ggthemes"
     ],
-    "FELLA": [],
     "ffpe": [
         "AnnotationDbi",
         "BiocFileCache",
