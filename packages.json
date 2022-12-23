@@ -27369,7 +27369,6 @@
         "pillar",
         "progress",
         "purrr",
-        "qpdf",
         "rematch2",
         "reshape2",
         "restfulr",
@@ -48021,10 +48020,7 @@
         "tidyr",
         "tidyselect"
     ],
-    "pdftools": [
-        "qpdf"
-    ],
-    "qpdf": [],
+    "pdftools": [],
     "flatxml": [],
     "ontologyPlot": [],
     "AICcmodavg": [
