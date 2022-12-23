@@ -641,7 +641,6 @@
         "GSEABase",
         "annotate"
     ],
-    "BiocSet": [],
     "BiocSklearn": [
         "basilisk"
     ],
@@ -1014,7 +1013,6 @@
         "rtracklayer"
     ],
     "CBEA": [
-        "BiocSet",
         "TreeSummarizedExperiment",
         "mixtools",
         "treeio"
@@ -6637,7 +6635,6 @@
         "gcrma"
     ],
     "RegEnrich": [
-        "BiocSet",
         "DESeq2",
         "DOSE",
         "GO.db",
@@ -7806,7 +7803,6 @@
         "viridis"
     ],
     "sparrow": [
-        "BiocSet",
         "GSEABase",
         "annotate",
         "viridis"
