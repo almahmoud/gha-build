@@ -114196,7 +114196,6 @@
         "knitr",
         "labeling",
         "lifecycle",
-        "logitnorm",
         "loo",
         "matrixStats",
         "memoise",
@@ -161229,7 +161228,6 @@
     "coro": [
         "rlang"
     ],
-    "logitnorm": [],
     "elasticnet": [
         "lars"
     ],
