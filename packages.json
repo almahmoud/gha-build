@@ -2441,7 +2441,6 @@
         "rhdf5",
         "scuttle"
     ],
-    "ExpressionAtlas": [],
     "extraChIPs": [
         "BSgenome",
         "GenomicFeatures",
