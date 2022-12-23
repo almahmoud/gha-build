@@ -1148,7 +1148,6 @@
     ],
     "bnem": [
         "AnnotationDbi",
-        "Linnorm",
         "affy",
         "annotate",
         "epiNEM",
@@ -2859,7 +2858,6 @@
     ],
     "dce": [
         "AnnotationDbi",
-        "Linnorm",
         "epiNEM",
         "ggraph",
         "graphite",
@@ -3821,7 +3819,6 @@
         "viridis"
     ],
     "epiNEM": [
-        "Linnorm",
         "mnem"
     ],
     "epistack": [],
@@ -5921,7 +5918,6 @@
         "rstatix",
         "testthat"
     ],
-    "Linnorm": [],
     "LinTInd": [
         "aplot",
         "ggtree",
@@ -7235,9 +7231,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "mnem": [
-        "Linnorm"
-    ],
+    "mnem": [],
     "moanin": [
         "AnnotationDbi",
         "GO.db",
@@ -7846,7 +7840,6 @@
         "plotly"
     ],
     "nempi": [
-        "Linnorm",
         "epiNEM",
         "mnem"
     ],
