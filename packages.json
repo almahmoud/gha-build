@@ -46368,7 +46368,6 @@
         "XVector",
         "ade4",
         "annotate",
-        "aods3",
         "askpass",
         "beachmat",
         "bit64",
@@ -113118,7 +113117,6 @@
         "org.Hs.eg.db",
         "vctrs"
     ],
-    "aods3": [],
     "sortable": [
         "bslib",
         "cachem",
