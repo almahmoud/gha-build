@@ -1,0 +1,85 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   144a40fe..7db78977  main       -> origin/main
+Updating 144a40fe..7db78977
+Fast-forward
+ lists/compcodeR                                |   2 +-
+ lists/ggstance                                 |   2 +-
+ lists/ggstar                                   |   2 +-
+ lists/ggthemes                                 |   2 +-
+ lists/ggvis                                    |   2 +-
+ logs/sizes/rstudio-binaries/binaries/ggstance  |   1 +
+ logs/sizes/rstudio-binaries/binaries/ggstar    |   1 +
+ logs/sizes/rstudio-binaries/binaries/ggthemes  |   1 +
+ logs/sizes/rstudio-binaries/libraries/ggstance |   1 +
+ logs/sizes/rstudio-binaries/libraries/ggstar   |   1 +
+ logs/sizes/rstudio-binaries/libraries/ggthemes |   1 +
+ logs/times/rstudio-binary/ggstance             | 879 +++++++++++++++++++++++++
+ logs/times/rstudio-binary/ggstar               | 182 +++++
+ logs/times/rstudio-binary/ggthemes             |  79 +++
+ packages.json                                  |  37 +-
+ 15 files changed, 1154 insertions(+), 39 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ggstance
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ggstar
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ggthemes
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ggstance
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ggstar
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ggthemes
+ create mode 100644 logs/times/rstudio-binary/ggstance
+ create mode 100644 logs/times/rstudio-binary/ggstar
+ create mode 100644 logs/times/rstudio-binary/ggthemes
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=keras
++ PKG=keras
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "keras"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency generics is already found.
+Dependency tensorflow is already found.
+Dependency zeallot is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''keras'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv keras_2.11.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/keras
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'keras'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/keras_2.11.0.tar.gz'
+Content type 'binary/octet-stream' length 3156791 bytes (3.0 MB)
+==================================================
+downloaded 3.0 MB
+
+* installing *binary* package ‘keras’ ...
+* ‘keras’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘keras’ as ‘keras_2.11.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (keras)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp0HoXfd/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m6.254s
+user	0m4.104s
+sys	0m0.412s
