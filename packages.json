@@ -14089,7 +14089,6 @@
         "genefilter",
         "sva"
     ],
-    "Qtlizer": [],
     "quantiseqr": [
         "SummarizedExperiment",
         "tidyr"
