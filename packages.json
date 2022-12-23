@@ -4004,7 +4004,6 @@
         "viridis"
     ],
     "flowGraph": [
-        "ggiraph",
         "visNetwork"
     ],
     "flowPloidy": [
@@ -4430,7 +4429,6 @@
     "GeoDiff": [
         "GeomxTools",
         "NanoStringNCTools",
-        "ggiraph",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -4457,7 +4455,6 @@
     "GEOmetadb": [],
     "GeomxTools": [
         "NanoStringNCTools",
-        "ggiraph",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -7297,9 +7294,7 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "NanoStringNCTools": [
-        "ggiraph"
-    ],
+    "NanoStringNCTools": [],
     "NanoStringQCPro": [
         "AnnotationDbi",
         "org.Hs.eg.db"
@@ -10491,9 +10486,7 @@
         "rhdf5",
         "scuttle"
     ],
-    "SpatialCPie": [
-        "ggiraph"
-    ],
+    "SpatialCPie": [],
     "spatialDE": [
         "DropletUtils",
         "HDF5Array",
@@ -10506,7 +10499,6 @@
     "SpatialDecon": [
         "GeomxTools",
         "NanoStringNCTools",
-        "ggiraph",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -11357,7 +11349,6 @@
         "SingleCellExperiment",
         "car",
         "diffcyt",
-        "ggiraph",
         "ggpubr",
         "ggtree",
         "lme4",
@@ -12582,7 +12573,6 @@
     ],
     "fds": [],
     "SPARQL": [],
-    "ggiraph": [],
     "NHPoisson": [
         "car",
         "lme4",
