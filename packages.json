@@ -2602,7 +2602,6 @@
         "minfi",
         "rhdf5"
     ],
-    "QuasR": [],
     "R3CPET": [
         "Hmisc",
         "biovizBase",
@@ -3072,9 +3071,7 @@
         "scater",
         "viridis"
     ],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "SISPA": [
         "GSVA",
         "HDF5Array",
