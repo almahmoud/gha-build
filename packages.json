@@ -11899,7 +11899,6 @@
         "htmlwidgets",
         "miniUI",
         "plotly",
-        "qcmetrics",
         "shiny",
         "shinyjs",
         "tidyr",
@@ -11913,7 +11912,6 @@
         "htmlwidgets",
         "miniUI",
         "plotly",
-        "qcmetrics",
         "shiny",
         "shinyjs",
         "tidyr",
@@ -14555,7 +14553,6 @@
         "shinyWidgets"
     ],
     "qckitfastq": [],
-    "qcmetrics": [],
     "QDNAseq": [
         "CGHcall",
         "Rsamtools"
