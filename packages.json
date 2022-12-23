@@ -2803,7 +2803,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.strings",
-        "assertive.types",
         "blob",
         "cellranger",
         "dbplyr",
@@ -7375,7 +7374,6 @@
         "SummarizedExperiment",
         "XVector",
         "assertive.files",
-        "assertive.types",
         "beachmat",
         "bluster",
         "clue",
@@ -36752,7 +36750,6 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.strings",
-        "assertive.types",
         "bamsignals",
         "biomaRt",
         "biovizBase",
@@ -53969,7 +53966,6 @@
         "ape",
         "aplot",
         "assertive.files",
-        "assertive.types",
         "babelgene",
         "batchelor",
         "bbmle",
@@ -64836,34 +64832,23 @@
         "assertive.datetimes",
         "assertive.files",
         "assertive.strings",
-        "assertive.types",
         "knitr",
         "stringr",
         "vctrs"
     ],
-    "assertive.types": [],
-    "assertive.strings": [
-        "assertive.types"
-    ],
-    "assertive.datetimes": [
-        "assertive.types"
-    ],
+    "assertive.strings": [],
+    "assertive.datetimes": [],
     "assertive.files": [],
     "assertive.data": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
     "assertive.data.uk": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
     "assertive.data.us": [
-        "assertive.strings",
-        "assertive.types"
+        "assertive.strings"
     ],
-    "assertive.code": [
-        "assertive.types"
-    ],
+    "assertive.code": [],
     "doBy": [
         "RcppEigen",
         "broom",
@@ -66319,7 +66304,6 @@
     ],
     "multipanelfigure": [
         "assertive.files",
-        "assertive.types",
         "ggplot2",
         "magick",
         "mgcv",
