@@ -134,8 +134,7 @@
         "rtracklayer"
     ],
     "AlpsNMR": [
-        "mixOmics",
-        "speaq"
+        "mixOmics"
     ],
     "AMARETTO": [
         "AnnotationHub",
@@ -9404,7 +9403,6 @@
     "PFAM.db": [],
     "Hmisc": [],
     "ggrastr": [],
-    "speaq": [],
     "curatedTCGAData": [
         "AnnotationHub",
         "ExperimentHub",
