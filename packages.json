@@ -2072,9 +2072,7 @@
         "scuttle",
         "svgPanZoom"
     ],
-    "CytoML": [
-        "openCyto"
-    ],
+    "CytoML": [],
     "dada2": [
         "ShortRead"
     ],
@@ -6218,7 +6216,6 @@
         "AnnotationHub",
         "interactiveDisplayBase"
     ],
-    "openCyto": [],
     "openPrimeR": [
         "Hmisc"
     ],
