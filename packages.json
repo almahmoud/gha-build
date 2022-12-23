@@ -4952,8 +4952,7 @@
         "plotly",
         "rstatix",
         "testthat",
-        "viridis",
-        "wordcloud2"
+        "viridis"
     ],
     "IntEREst": [
         "AnnotationDbi",
@@ -11880,7 +11879,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "wordcloud2": [],
     "datamods": [
         "haven",
         "rio",
