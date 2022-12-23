@@ -216,7 +216,6 @@
     "animalcules": [
         "AnnotationDbi",
         "DESeq2",
-        "GUniFrac",
         "annotate",
         "biomformat",
         "caret",
@@ -10904,7 +10903,6 @@
     "caret": [
         "recipes"
     ],
-    "GUniFrac": [],
     "recipes": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi"
