@@ -3,9 +3,7 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "ADAMgui": [
         "car",
         "ggpubr",
@@ -2071,7 +2069,6 @@
         "geneLenDataBase",
         "goseq"
     ],
-    "snapCGH": [],
     "SNPhood": [
         "VariantAnnotation"
     ],
