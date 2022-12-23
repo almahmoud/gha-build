@@ -11082,7 +11082,6 @@
         "lambda.r",
         "lifecycle",
         "locfit",
-        "matrixTests",
         "memoise",
         "mgcv",
         "miniUI",
@@ -19315,7 +19314,6 @@
         "lambda.r",
         "lifecycle",
         "magick",
-        "matrixTests",
         "memoise",
         "mgcv",
         "miniUI",
@@ -45356,7 +45354,6 @@
         "lifecycle",
         "lme4",
         "maftools",
-        "matrixTests",
         "memoise",
         "mgcv",
         "munsell",
@@ -81651,7 +81648,6 @@
         "stringfish"
     ],
     "rlist": [],
-    "matrixTests": [],
     "ggfittext": [
         "ggplot2",
         "lifecycle",
