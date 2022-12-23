@@ -568,9 +568,7 @@
         "rstatix",
         "viridis"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfDNAPro": [],
     "cghMCR": [],
     "ChAMP": [
@@ -1293,7 +1291,6 @@
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "enrichplot",
-        "genomation",
         "ggraph",
         "viridis"
     ],
@@ -1436,9 +1433,7 @@
         "WGCNA",
         "viridis"
     ],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fcoex": [
         "clusterProfiler",
         "enrichplot",
@@ -1605,7 +1600,6 @@
         "dendextend",
         "viridis"
     ],
-    "genomation": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -3307,8 +3301,7 @@
     ],
     "Rbec": [],
     "RCAS": [
-        "BSgenome.Hsapiens.UCSC.hg19",
-        "genomation"
+        "BSgenome.Hsapiens.UCSC.hg19"
     ],
     "rcellminer": [],
     "rCGH": [
