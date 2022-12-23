@@ -97,7 +97,6 @@
     "GDCRNATools": [
         "survminer"
     ],
-    "GeneAccord": [],
     "GeneBreak": [
         "CGHcall",
         "QDNAseq"
