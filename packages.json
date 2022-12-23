@@ -9309,8 +9309,7 @@
         "AnnotationHub",
         "DT",
         "ExperimentHub",
-        "interactiveDisplayBase",
-        "rbokeh"
+        "interactiveDisplayBase"
     ],
     "SeqVarTools": [
         "logistf",
@@ -11995,7 +11994,6 @@
         "ggraph",
         "tidygraph"
     ],
-    "rbokeh": [],
     "survivalAnalysis": [
         "car",
         "ggpubr",
