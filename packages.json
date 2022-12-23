@@ -10473,7 +10473,6 @@
         "latticeExtra",
         "lifecycle",
         "lme4",
-        "magic",
         "memoise",
         "mgcv",
         "minqa",
@@ -17939,7 +17938,6 @@
         "latticeExtra",
         "lifecycle",
         "lme4",
-        "magic",
         "mgcv",
         "minqa",
         "mrfDepth",
@@ -19179,7 +19177,6 @@
         "hms",
         "lambda.r",
         "lifecycle",
-        "magic",
         "mgcv",
         "munsell",
         "nlme",
@@ -53680,7 +53677,6 @@
         "klaR",
         "labelled",
         "lifecycle",
-        "magic",
         "memoise",
         "mgcv",
         "miniUI",
@@ -90646,7 +90642,6 @@
     "SpatialTools": [
         "Matrix",
         "RcppArmadillo",
-        "magic",
         "sp",
         "spBayes"
     ],
@@ -90702,10 +90697,8 @@
     ],
     "spBayes": [
         "Matrix",
-        "magic",
         "sp"
     ],
-    "magic": [],
     "kSamples": [],
     "cba": [],
     "dtw": [],
@@ -92563,7 +92556,6 @@
         "geometry",
         "ggplot2",
         "lifecycle",
-        "magic",
         "mgcv",
         "munsell",
         "nlme",
@@ -92599,9 +92591,7 @@
         "vctrs",
         "viridis"
     ],
-    "geometry": [
-        "magic"
-    ],
+    "geometry": [],
     "GEOmap": [
         "MBA",
         "Matrix",
@@ -96510,8 +96500,7 @@
         "vctrs"
     ],
     "pdfCluster": [
-        "geometry",
-        "magic"
+        "geometry"
     ],
     "diceR": [
         "Biobase",
