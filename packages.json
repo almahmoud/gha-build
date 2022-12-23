@@ -8782,7 +8782,6 @@
         "vsn",
         "xcms"
     ],
-    "LOLA": [],
     "LoomExperiment": [
         "SingleCellExperiment",
         "SummarizedExperiment"
