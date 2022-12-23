@@ -8010,7 +8010,6 @@
         "phyloseq",
         "rhdf5"
     ],
-    "SICtools": [],
     "SigCheck": [
         "MLInterfaces",
         "annotate",
