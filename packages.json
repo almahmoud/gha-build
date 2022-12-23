@@ -89,7 +89,6 @@
         "CGHcall",
         "QDNAseq"
     ],
-    "GenomicSuperSignature": [],
     "GenProSeq": [
         "DeepPINCS",
         "mlapi",
