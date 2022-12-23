@@ -206,7 +206,6 @@
         "TxDb.Mmusculus.UCSC.mm10.knownGene",
         "chromVAR",
         "motifmatchr",
-        "projectR",
         "rGREAT"
     ],
     "ATACseqQC": [
@@ -3784,7 +3783,6 @@
         "soGGi"
     ],
     "progeny": [],
-    "projectR": [],
     "pRoloc": [
         "MLInterfaces",
         "genefilter"
