@@ -20208,7 +20208,6 @@
         "RSQLite",
         "affy",
         "annotate",
-        "aroma.affymetrix",
         "genefilter"
     ],
     "peco": [
@@ -28657,7 +28656,6 @@
         "KEGGREST",
         "RSQLite",
         "WGCNA",
-        "aroma.affymetrix",
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
@@ -33687,7 +33685,6 @@
         "tibble",
         "viridis"
     ],
-    "aroma.affymetrix": [],
     "opencpu": [
         "knitr"
     ],
