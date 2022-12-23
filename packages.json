@@ -1800,7 +1800,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "flowGraph": [],
     "flowPloidy": [
         "car",
         "lme4",
