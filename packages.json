@@ -1018,7 +1018,6 @@
     "CoGAPS": [
         "rhdf5"
     ],
-    "cogena": [],
     "cogeqc": [],
     "Cogito": [
         "GenomicFeatures",
