@@ -160,7 +160,6 @@
         "mia",
         "scater",
         "scuttle",
-        "treeio",
         "viridis"
     ],
     "AneuFinder": [
@@ -501,7 +500,6 @@
         "rhdf5",
         "scater",
         "scuttle",
-        "treeio",
         "viridis",
         "zinbwave"
     ],
@@ -572,7 +570,6 @@
         "pbkrtest",
         "radiant.data",
         "reactome.db",
-        "treeio",
         "viridis"
     ],
     "BiocFHIR": [],
@@ -914,8 +911,7 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "ggtree",
-        "rtracklayer",
-        "treeio"
+        "rtracklayer"
     ],
     "casper": [
         "GenomicFeatures",
@@ -956,8 +952,7 @@
         "rtracklayer"
     ],
     "CBEA": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "cBioPortalData": [
         "GenomicFeatures",
@@ -1035,7 +1030,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "treeio",
         "viridis"
     ],
     "censcyt": [
@@ -1074,7 +1068,6 @@
         "lme4",
         "pbkrtest",
         "rstatix",
-        "treeio",
         "viridis"
     ],
     "CexoR": [
@@ -1223,7 +1216,6 @@
         "ggraph",
         "ggtree",
         "rtracklayer",
-        "treeio",
         "viridis"
     ],
     "chipseq": [
@@ -1353,7 +1345,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "treeio",
         "viridis"
     ],
     "clustifyr": [],
@@ -1439,8 +1430,7 @@
         "devtools"
     ],
     "cogeqc": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "Cogito": [
         "GenomicFeatures",
@@ -1526,7 +1516,6 @@
         "scater",
         "scran",
         "scuttle",
-        "treeio",
         "viridis"
     ],
     "condiments": [
@@ -1928,7 +1917,6 @@
         "org.Mm.eg.db",
         "pathview",
         "sva",
-        "treeio",
         "viridis"
     ],
     "deco": [],
@@ -2300,7 +2288,6 @@
         "ggtree",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "treeio",
         "viridis"
     ],
     "easyRNASeq": [
@@ -2340,7 +2327,6 @@
         "ggtree",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "treeio",
         "viridis"
     ],
     "EGSEA": [
@@ -2413,7 +2399,6 @@
         "HDO.db",
         "ggraph",
         "ggtree",
-        "treeio",
         "viridis"
     ],
     "enrichTF": [
@@ -2436,7 +2421,6 @@
         "pipeFrame",
         "rstatix",
         "rtracklayer",
-        "treeio",
         "viridis"
     ],
     "ensembldb": [
@@ -2473,7 +2457,6 @@
         "ggraph",
         "ggtree",
         "rtracklayer",
-        "treeio",
         "viridis"
     ],
     "epidecodeR": [
@@ -2508,7 +2491,6 @@
         "ggraph",
         "ggtree",
         "reactome.db",
-        "treeio",
         "viridis"
     ],
     "EpiMix": [
@@ -2622,7 +2604,6 @@
         "motifmatchr",
         "pipeFrame",
         "rtracklayer",
-        "treeio",
         "viridis"
     ],
     "escape": [
@@ -2651,8 +2632,7 @@
         "lme4",
         "orthogene",
         "pbkrtest",
-        "rstatix",
-        "treeio"
+        "rstatix"
     ],
     "ExCluster": [
         "rtracklayer"
@@ -2686,8 +2666,7 @@
         "SpatialExperiment",
         "TreeSummarizedExperiment",
         "rhdf5",
-        "scuttle",
-        "treeio"
+        "scuttle"
     ],
     "ExpressionAtlas": [],
     "extraChIPs": [
@@ -2720,7 +2699,6 @@
         "ggtree",
         "org.Hs.eg.db",
         "reactome.db",
-        "treeio",
         "viridis"
     ],
     "farms": [
@@ -2750,7 +2728,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "treeio",
         "viridis"
     ],
     "fcScan": [
@@ -2982,7 +2959,6 @@
         "pbkrtest",
         "rstatix",
         "survminer",
-        "treeio",
         "viridis"
     ],
     "gemini": [],
@@ -3182,8 +3158,7 @@
     ],
     "ggmsa": [
         "ggalt",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ggspavis": [
         "DropletUtils",
@@ -3192,16 +3167,12 @@
         "rhdf5",
         "scuttle"
     ],
-    "ggtree": [
-        "treeio"
-    ],
+    "ggtree": [],
     "ggtreeDendro": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "ggtreeExtra": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "girafe": [
         "ShortRead"
@@ -3296,7 +3267,6 @@
         "ggtree",
         "goProfiles",
         "org.Hs.eg.db",
-        "treeio",
         "viridis"
     ],
     "goSTAG": [],
@@ -3755,7 +3725,6 @@
         "scater",
         "scran",
         "scuttle",
-        "treeio",
         "viridis"
     ],
     "ISAnalytics": [
@@ -3884,8 +3853,7 @@
         "rstatix"
     ],
     "LinTInd": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "lipidr": [
         "ropls"
@@ -3949,8 +3917,7 @@
         "rtracklayer"
     ],
     "LymphoSeq": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "M3Drop": [
         "Hmisc",
@@ -4027,7 +3994,6 @@
         "ggtree",
         "org.Hs.eg.db",
         "pathview",
-        "treeio",
         "viridis"
     ],
     "MAI": [
@@ -4199,7 +4165,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "treeio",
         "viridis"
     ],
     "meshr": [
@@ -4267,7 +4232,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "treeio",
         "viridis"
     ],
     "metapone": [
@@ -4414,7 +4378,6 @@
         "reactome.db",
         "rhdf5",
         "rtracklayer",
-        "treeio",
         "viridis"
     ],
     "methylInheritance": [
@@ -4477,12 +4440,10 @@
         "TreeSummarizedExperiment",
         "scater",
         "scuttle",
-        "treeio",
         "viridis"
     ],
     "miaSim": [
-        "TreeSummarizedExperiment",
-        "treeio"
+        "TreeSummarizedExperiment"
     ],
     "miaViz": [
         "TreeSummarizedExperiment",
@@ -4491,7 +4452,6 @@
         "mia",
         "scater",
         "scuttle",
-        "treeio",
         "viridis"
     ],
     "microbiome": [
@@ -4534,7 +4494,6 @@
         "rhdf5",
         "scater",
         "scuttle",
-        "treeio",
         "viridis"
     ],
     "MicrobiomeProfiler": [
@@ -4545,14 +4504,12 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "treeio",
         "viridis"
     ],
     "MicrobiotaProcess": [
         "coin",
         "ggtree",
-        "ggtreeExtra",
-        "treeio"
+        "ggtreeExtra"
     ],
     "midasHLA": [],
     "MIGSA": [
@@ -4669,7 +4626,6 @@
         "reactome.db",
         "rstatix",
         "tidyverse",
-        "treeio",
         "viridis"
     ],
     "miRspongeR": [
@@ -4691,7 +4647,6 @@
         "reactome.db",
         "rstatix",
         "tidyverse",
-        "treeio",
         "viridis"
     ],
     "missMethyl": [
@@ -4796,7 +4751,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "treeio",
         "viridis"
     ],
     "mosaics": [],
@@ -5013,7 +4967,6 @@
         "ggtree",
         "reactome.db",
         "ropls",
-        "treeio",
         "viridis"
     ],
     "mumosa": [
@@ -5176,7 +5129,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "treeio",
         "viridis"
     ],
     "netOmics": [
@@ -5440,8 +5392,7 @@
         "ggtree",
         "lme4",
         "pbkrtest",
-        "rstatix",
-        "treeio"
+        "rstatix"
     ],
     "Oscope": [
         "EBSeq"
@@ -5498,7 +5449,6 @@
         "ggraph",
         "ggtree",
         "org.Hs.eg.db",
-        "treeio",
         "viridis"
     ],
     "panp": [
@@ -5594,7 +5544,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "treeio",
         "viridis"
     ],
     "phantasus": [
@@ -5627,8 +5576,7 @@
         "pbkrtest"
     ],
     "philr": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "PhosR": [
         "car",
@@ -5663,7 +5611,6 @@
         "ggraph",
         "ggtree",
         "reactome.db",
-        "treeio",
         "viridis"
     ],
     "PING": [
@@ -5841,7 +5788,6 @@
         "rGREAT",
         "rtracklayer",
         "soGGi",
-        "treeio",
         "viridis"
     ],
     "progeny": [],
@@ -6156,7 +6102,6 @@
         "ggraph",
         "ggtree",
         "reactome.db",
-        "treeio",
         "viridis"
     ],
     "reconsi": [
@@ -6576,7 +6521,6 @@
         "rtracklayer",
         "sva",
         "systemPipeR",
-        "treeio",
         "viridis"
     ],
     "RnaSeqSampleSize": [
@@ -6760,8 +6704,7 @@
     ],
     "scBubbletree": [
         "Seurat",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "scCB2": [
         "DropletUtils",
@@ -6921,7 +6864,6 @@
         "nnTensor",
         "reactome.db",
         "schex",
-        "treeio",
         "viridis"
     ],
     "scTGIF": [
@@ -6961,7 +6903,6 @@
         "ggraph",
         "ggtree",
         "rtracklayer",
-        "treeio",
         "viridis"
     ],
     "segmentSeq": [
@@ -7078,7 +7019,6 @@
         "org.Hs.eg.db",
         "reactome.db",
         "rhdf5",
-        "treeio",
         "viridis"
     ],
     "signeR": [
@@ -7200,7 +7140,6 @@
         "scran",
         "scuttle",
         "sva",
-        "treeio",
         "viridis",
         "zinbwave"
     ],
@@ -7230,8 +7169,7 @@
         "rtracklayer"
     ],
     "sitePath": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "skewr": [
         "FDb.InfiniumMethylation.hg19",
@@ -7648,8 +7586,7 @@
         "DESeq2",
         "annotate",
         "geneplotter",
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TADCompare": [
         "HiCcompare",
@@ -7661,8 +7598,7 @@
         "rstatix"
     ],
     "tanggle": [
-        "ggtree",
-        "treeio"
+        "ggtree"
     ],
     "TAPseq": [
         "BSgenome",
@@ -7728,7 +7664,6 @@
         "rtracklayer",
         "sesame",
         "sesameData",
-        "treeio",
         "viridis"
     ],
     "TCGAutils": [
@@ -7810,7 +7745,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "treeio",
         "viridis"
     ],
     "TIN": [
@@ -7913,7 +7847,6 @@
         "slingshot",
         "viridis"
     ],
-    "treeio": [],
     "treekoR": [
         "FlowSOM",
         "car",
@@ -7922,12 +7855,9 @@
         "ggtree",
         "lme4",
         "pbkrtest",
-        "rstatix",
-        "treeio"
+        "rstatix"
     ],
-    "TreeSummarizedExperiment": [
-        "treeio"
-    ],
+    "TreeSummarizedExperiment": [],
     "trena": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
