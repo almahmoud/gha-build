@@ -54090,7 +54090,6 @@
     "ppcseq": [
         "RcppEigen",
         "StanHeaders",
-        "arrayhelpers",
         "benchmarkme",
         "benchmarkmeData",
         "callr",
@@ -89308,7 +89307,6 @@
     "strawr": [],
     "evmix": [],
     "tidybayes": [
-        "arrayhelpers",
         "distributional",
         "dplyr",
         "ellipsis",
@@ -89341,7 +89339,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "arrayhelpers": [],
     "posterior": [
         "distributional",
         "ggplot2",
