@@ -2094,7 +2094,6 @@
     "hiReadsProcessor": [
         "hiAnnotator"
     ],
-    "HiTC": [],
     "HTqPCR": [
         "affy"
     ],
