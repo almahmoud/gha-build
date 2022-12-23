@@ -637,7 +637,6 @@
     ],
     "ChIPQC": [
         "DiffBind",
-        "GreyListChIP",
         "TxDb.Celegans.UCSC.ce6.ensGene",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
@@ -1118,9 +1117,7 @@
     "DEWSeq": [],
     "DExMA": [],
     "DEXSeq": [],
-    "DiffBind": [
-        "GreyListChIP"
-    ],
+    "DiffBind": [],
     "diffcoexp": [
         "Hmisc",
         "WGCNA",
@@ -1300,7 +1297,6 @@
         "rstatix"
     ],
     "epigraHMM": [
-        "GreyListChIP",
         "car",
         "ggpubr",
         "rhdf5",
@@ -1734,7 +1730,6 @@
     "GRaNIE": [
         "viridis"
     ],
-    "GreyListChIP": [],
     "GRmetrics": [
         "car",
         "drc"
@@ -4419,7 +4414,6 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "GreyListChIP",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "regioneR"
     ],
