@@ -7661,7 +7661,6 @@
         "testthat"
     ],
     "Omixer": [],
-    "OmnipathR": [],
     "oncoscanR": [],
     "OncoScore": [
         "AnnotationDbi",
@@ -11781,9 +11780,7 @@
         "rtracklayer"
     ],
     "wpm": [],
-    "wppi": [
-        "OmnipathR"
-    ],
+    "wppi": [],
     "xcms": [
         "MSnbase",
         "MsFeatures",
