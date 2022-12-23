@@ -656,8 +656,7 @@
         "shinyjs",
         "stringr",
         "tibble",
-        "tidyr",
-        "umap"
+        "tidyr"
     ],
     "annaffy": [
         "AnnotationDbi",
@@ -4081,7 +4080,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "umap",
         "uwot",
         "viridis"
     ],
@@ -4964,7 +4962,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "umap",
         "uwot",
         "viridis",
         "waiter"
@@ -12525,7 +12522,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "umap",
         "viridis",
         "vroom",
         "waldo"
@@ -14072,8 +14068,7 @@
         "ggrepel",
         "reshape2",
         "stringr",
-        "tibble",
-        "umap"
+        "tibble"
     ],
     "hiReadsProcessor": [
         "BSgenome",
@@ -14500,7 +14495,6 @@
         "reshape2",
         "stringr",
         "tibble",
-        "umap",
         "viridis"
     ],
     "imageHTS": [
@@ -14924,7 +14918,6 @@
         "testthat",
         "tibble",
         "tidyr",
-        "umap",
         "usethis",
         "viridis",
         "visNetwork",
@@ -16075,8 +16068,7 @@
     ],
     "M3C": [
         "ggplot2",
-        "tibble",
-        "umap"
+        "tibble"
     ],
     "M3Drop": [
         "Hmisc",
@@ -16570,7 +16562,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "umap",
         "viridis",
         "vsn"
     ],
@@ -24941,8 +24932,7 @@
     ],
     "RCSL": [
         "ggplot2",
-        "tibble",
-        "umap"
+        "tibble"
     ],
     "Rcwl": [
         "DiagrammeR",
@@ -25297,8 +25287,7 @@
         "reshape2",
         "rtracklayer",
         "stringr",
-        "tibble",
-        "umap"
+        "tibble"
     ],
     "regionReport": [
         "AnnotationDbi",
@@ -26834,8 +26823,7 @@
         "ggrepel",
         "shiny",
         "tibble",
-        "treemap",
-        "umap"
+        "treemap"
     ],
     "Rsamtools": [
         "Biostrings",
@@ -27628,7 +27616,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "umap",
         "uwot"
     ],
     "scDblFinder": [
@@ -30121,7 +30108,6 @@
         "stringr",
         "tibble",
         "tidyr",
-        "umap",
         "vroom"
     ],
     "spicyR": [
@@ -30476,7 +30462,6 @@
         "rmarkdown",
         "stringr",
         "tibble",
-        "umap",
         "visNetwork"
     ],
     "SRAdb": [
@@ -32242,8 +32227,7 @@
         "ggrepel",
         "reshape2",
         "stringr",
-        "tibble",
-        "umap"
+        "tibble"
     ],
     "tomoseqr": [
         "BiocFileCache",
@@ -34503,7 +34487,6 @@
         "shiny",
         "tibble"
     ],
-    "umap": [],
     "GUniFrac": [
         "ggplot2",
         "ggrepel",
