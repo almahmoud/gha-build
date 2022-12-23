@@ -7621,7 +7621,6 @@
         "org.Hs.eg.db",
         "pbkrtest",
         "reactome.db",
-        "rearrr",
         "recipes",
         "reprex",
         "rqubic",
@@ -7668,7 +7667,6 @@
         "org.Hs.eg.db",
         "pbkrtest",
         "reactome.db",
-        "rearrr",
         "recipes",
         "reprex",
         "rstatix",
@@ -12243,7 +12241,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "rearrr",
         "recipes",
         "reprex",
         "rstatix",
@@ -14710,15 +14707,11 @@
         "groupdata2",
         "lme4",
         "nloptr",
-        "rearrr",
         "recipes",
         "testthat"
     ],
     "MetBrewer": [],
-    "groupdata2": [
-        "rearrr"
-    ],
-    "rearrr": [],
+    "groupdata2": [],
     "echarts4r": [
         "broom"
     ],
