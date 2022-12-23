@@ -24,9 +24,7 @@
     "brainflowprobes": [],
     "CancerInSilico": [],
     "CATALYST": [],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "GenomicTools"
     ],
@@ -51,15 +49,12 @@
     "cTRAP": [
         "qs"
     ],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "DeepPINCS": [
         "mlapi",
         "text2vec",
         "ttgsea"
     ],
-    "diffcyt": [],
     "DMRcate": [],
     "epihet": [
         "EntropyExplorer"
@@ -178,9 +173,7 @@
         "vbsr"
     ],
     "Travel": [],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "tscR": [
         "kmlShape"
     ],
