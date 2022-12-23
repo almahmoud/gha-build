@@ -20370,7 +20370,6 @@
         "lme4",
         "mgcv",
         "nloptr",
-        "officer",
         "openssl",
         "pbkrtest",
         "pillar",
@@ -21845,7 +21844,6 @@
         "jquerylib",
         "knitr",
         "mgcv",
-        "officer",
         "pheatmap",
         "pillar",
         "purrr",
@@ -61668,12 +61666,10 @@
         "bslib",
         "jquerylib",
         "knitr",
-        "officer",
         "rmarkdown",
         "sass",
         "stringr"
     ],
-    "officer": [],
     "robust": [
         "rrcov"
     ],
@@ -61815,7 +61811,6 @@
         "flextable",
         "jquerylib",
         "knitr",
-        "officer",
         "rmarkdown",
         "sass",
         "sf",
