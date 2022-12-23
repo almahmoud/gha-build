@@ -31138,7 +31138,6 @@
         "openssl",
         "pillar",
         "purrr",
-        "rdist",
         "rhdf5",
         "scuttle",
         "tibble",
@@ -56083,10 +56082,7 @@
         "tidyselect",
         "vroom"
     ],
-    "BRISC": [
-        "rdist"
-    ],
-    "rdist": [],
+    "BRISC": [],
     "RcmdrMisc": [
         "Hmisc",
         "broom",
