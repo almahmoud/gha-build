@@ -1004,7 +1004,6 @@
     "BLMA": [
         "AnnotationDbi",
         "PADOG",
-        "ROntoTools",
         "hgu133a.db",
         "hgu133plus2.db",
         "org.Hs.eg.db"
@@ -6187,7 +6186,6 @@
     ],
     "mirIntegrator": [
         "AnnotationDbi",
-        "ROntoTools",
         "org.Hs.eg.db"
     ],
     "miRLAB": [
@@ -8869,7 +8867,6 @@
     ],
     "ROCpAI": [],
     "RolDE": [],
-    "ROntoTools": [],
     "ropls": [
         "plotly"
     ],
