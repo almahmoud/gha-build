@@ -860,7 +860,6 @@
         "ensembldb",
         "minfi"
     ],
-    "epistasisGA": [],
     "EpiTxDb": [],
     "epivizr": [
         "OrganismDbi",
