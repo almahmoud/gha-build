@@ -8312,7 +8312,6 @@
     "graper": [
         "cowplot"
     ],
-    "GraphAT": [],
     "graphite": [
         "AnnotationDbi",
         "KEGGREST"
