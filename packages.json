@@ -457,10 +457,7 @@
     "lumi": [
         "methylumi"
     ],
-    "Maaslin2": [],
-    "Macarron": [
-        "Maaslin2"
-    ],
+    "Macarron": [],
     "MAGAR": [
         "RnBeads",
         "methylumi"
@@ -559,9 +556,7 @@
     ],
     "mitoClone2": [],
     "MMAPPR2": [],
-    "MMUPHin": [
-        "Maaslin2"
-    ],
+    "MMUPHin": [],
     "MoonlightR": [],
     "motifbreakR": [
         "Gviz"
