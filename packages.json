@@ -23390,7 +23390,6 @@
         "viridis"
     ],
     "GWAS.BAYES": [
-        "GA",
         "RcppEigen",
         "caret",
         "clock",
@@ -64676,7 +64675,6 @@
         "scales",
         "tibble"
     ],
-    "GA": [],
     "BatchJobs": [
         "BBmisc",
         "RSQLite",
