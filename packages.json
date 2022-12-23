@@ -52571,7 +52571,6 @@
         "GLAD",
         "ade4",
         "adehabitatLT",
-        "adehabitatMA",
         "doSNOW"
     ],
     "seqcombo": [
@@ -71462,10 +71461,8 @@
     ],
     "cvTools": [],
     "adehabitatLT": [
-        "ade4",
-        "adehabitatMA"
+        "ade4"
     ],
-    "adehabitatMA": [],
     "rbokeh": [
         "bslib",
         "crul",
