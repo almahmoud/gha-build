@@ -47534,7 +47534,6 @@
     ],
     "RUVcorr": [
         "BiocParallel",
-        "bladderbatch",
         "futile.logger",
         "psych",
         "reshape2",
@@ -68017,7 +68016,6 @@
         "shiny",
         "tibble"
     ],
-    "bladderbatch": [],
     "RUVnormalizeData": [],
     "GENLIB": [
         "doParallel",
