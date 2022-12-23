@@ -26424,10 +26424,7 @@
         "SummarizedExperiment",
         "XVector"
     ],
-    "OLIN": [],
-    "OLINgui": [
-        "OLIN"
-    ],
+    "OLINgui": [],
     "omada": [
         "NMF",
         "bslib",
