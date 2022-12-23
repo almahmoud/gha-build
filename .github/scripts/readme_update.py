@@ -94,7 +94,7 @@ def update_failed_tartext(each):
 
 def get_failed_log(pkg):
     """Gets the log text for a failed package"""
-    with open(f"lists/failed/{pkg}", "w") as lf:
+    with open(f"lists/failed/{pkg}", "r") as lf:
         logtext = lf.read()
     return logtext
 
