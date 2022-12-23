@@ -13048,7 +13048,6 @@
         "biomaRt",
         "bslib",
         "bsplus",
-        "configr",
         "dbplyr",
         "dplyr",
         "htmlwidgets",
@@ -30838,7 +30837,6 @@
         "rmarkdown",
         "shiny"
     ],
-    "configr": [],
     "bsplus": [
         "bslib",
         "knitr",
