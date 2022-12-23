@@ -926,7 +926,6 @@
     "condiments": [
         "distinct",
         "scater",
-        "slingshot",
         "viridis"
     ],
     "CONFESS": [
@@ -4397,7 +4396,6 @@
         "wateRmelon"
     ],
     "slalom": [],
-    "slingshot": [],
     "SMITE": [
         "Hmisc",
         "geneLenDataBase",
@@ -4775,7 +4773,6 @@
         "viridis"
     ],
     "tradeSeq": [
-        "slingshot",
         "viridis"
     ],
     "transcriptogramer": [],
@@ -4796,7 +4793,6 @@
     ],
     "Travel": [],
     "traviz": [
-        "slingshot",
         "viridis"
     ],
     "treekoR": [
