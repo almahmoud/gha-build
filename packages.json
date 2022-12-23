@@ -46806,7 +46806,6 @@
         "SummarizedExperiment",
         "XVector",
         "beachmat",
-        "circular",
         "doParallel",
         "dqrng",
         "futile.logger",
@@ -67907,7 +67906,6 @@
         "XVector",
         "beachmat",
         "blob",
-        "circular",
         "dplyr",
         "dqrng",
         "futile.logger",
@@ -79972,7 +79970,6 @@
     "R.huge": [
         "R.utils"
     ],
-    "circular": [],
     "genlasso": [
         "igraph"
     ],
