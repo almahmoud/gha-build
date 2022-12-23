@@ -2033,7 +2033,6 @@
         "epiNEM",
         "ggraph",
         "graphite",
-        "metap",
         "mnem",
         "modelr",
         "org.Hs.eg.db",
@@ -2524,7 +2523,6 @@
         "globaltest",
         "hgu133a.db",
         "hgu133plus2.db",
-        "metap",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "org.Rn.eg.db",
@@ -4734,7 +4732,6 @@
         "rtracklayer"
     ],
     "MetaVolcanoR": [
-        "metap",
         "plotly"
     ],
     "MethCP": [
@@ -5478,8 +5475,7 @@
     ],
     "MultiDataSet": [],
     "multiGSEA": [
-        "graphite",
-        "metap"
+        "graphite"
     ],
     "multiHiCcompare": [
         "CGHcall",
@@ -5506,7 +5502,6 @@
         "ggraph",
         "ggtree",
         "graphite",
-        "metap",
         "mixOmics",
         "plotly",
         "reactome.db",
@@ -5619,7 +5614,6 @@
         "biovizBase",
         "ensembldb",
         "interactiveDisplayBase",
-        "metap",
         "motifStack",
         "regioneR",
         "rtracklayer",
@@ -6070,7 +6064,6 @@
         "enrichplot",
         "ggraph",
         "ggtree",
-        "metap",
         "org.Hs.eg.db",
         "scatterpie",
         "tidytree",
@@ -7296,7 +7289,6 @@
         "MultiDataSet",
         "car",
         "lme4",
-        "metap",
         "nloptr",
         "pbkrtest",
         "plotly",
@@ -7906,7 +7898,6 @@
         "ggtree",
         "hgu95a.db",
         "interactiveDisplayBase",
-        "metap",
         "org.Hs.eg.db",
         "plotly",
         "reldist",
@@ -9579,7 +9570,6 @@
     "cmdfun": [
         "testthat"
     ],
-    "metap": [],
     "rsq": [
         "lme4",
         "nloptr",
