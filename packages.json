@@ -699,7 +699,6 @@
         "genefilter",
         "ggalluvial",
         "ggrepel",
-        "ggvis",
         "htmlwidgets",
         "mixtools",
         "pRoloc",
@@ -765,7 +764,6 @@
         "annotate",
         "dendextend",
         "genefilter",
-        "ggvis",
         "heatmaply",
         "htmlwidgets",
         "plotly",
@@ -8040,7 +8038,6 @@
         "ggsci",
         "ggsignif",
         "ggtree",
-        "ggvis",
         "ggwordcloud",
         "graphite",
         "groupdata2",
@@ -8176,7 +8173,6 @@
         "AnnotationDbi",
         "annotate",
         "genefilter",
-        "ggvis",
         "htmlwidgets",
         "threejs"
     ],
@@ -10193,7 +10189,6 @@
         "caret",
         "dendextend",
         "genefilter",
-        "ggvis",
         "htmlwidgets",
         "mixtools",
         "plotly",
@@ -10213,7 +10208,6 @@
         "colourpicker",
         "dendextend",
         "genefilter",
-        "ggvis",
         "htmlwidgets",
         "miniUI",
         "mixtools",
@@ -12322,7 +12316,6 @@
         "MLInterfaces",
         "annotate",
         "genefilter",
-        "ggvis",
         "htmlwidgets",
         "threejs"
     ],
@@ -14801,7 +14794,6 @@
     "dendextend": [
         "viridis"
     ],
-    "ggvis": [],
     "threejs": [
         "htmlwidgets"
     ],
@@ -15656,9 +15648,7 @@
         "dendextend",
         "viridis"
     ],
-    "subspace": [
-        "ggvis"
-    ],
+    "subspace": [],
     "SOMbrero": [
         "ggwordcloud"
     ],
