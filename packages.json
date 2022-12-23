@@ -6873,7 +6873,6 @@
         "Seurat",
         "SeuratObject",
         "SingleCellExperiment",
-        "SnowballC",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
         "Wrench",
@@ -11026,7 +11025,6 @@
         "RSQLite",
         "Rcpp",
         "S4Vectors",
-        "SnowballC",
         "SummarizedExperiment",
         "XVector",
         "askpass",
@@ -13483,7 +13481,6 @@
         "RSQLite",
         "Rcpp",
         "S4Vectors",
-        "SnowballC",
         "XVector",
         "askpass",
         "bit",
@@ -14370,7 +14367,6 @@
     "CellScore": [
         "Biobase",
         "KernSmooth",
-        "SnowballC",
         "caTools",
         "gplots",
         "gtools",
@@ -21831,7 +21827,6 @@
         "RCurl",
         "Rcpp",
         "S4Vectors",
-        "SnowballC",
         "SummarizedExperiment",
         "XVector",
         "bench",
@@ -26707,7 +26702,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppTOML",
-        "SnowballC",
         "askpass",
         "bit",
         "bit64",
@@ -40871,7 +40865,6 @@
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
-        "SnowballC",
         "SummarizedExperiment",
         "XVector",
         "askpass",
@@ -41950,7 +41943,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppTOML",
-        "SnowballC",
         "askpass",
         "bit",
         "bit64",
@@ -45392,7 +45384,6 @@
         "MASS",
         "Matrix",
         "Rcpp",
-        "SnowballC",
         "colorspace",
         "dendextend",
         "dplyr",
@@ -47964,7 +47955,6 @@
         "R.oo",
         "R.utils",
         "Rcpp",
-        "SnowballC",
         "askpass",
         "available",
         "aws.s3",
@@ -76368,7 +76358,6 @@
         "Rcpp",
         "RcppEigen",
         "S4Vectors",
-        "SnowballC",
         "SummarizedExperiment",
         "SuppDists",
         "XVector",
@@ -77210,7 +77199,6 @@
         "RCurl",
         "Rcpp",
         "S4Vectors",
-        "SnowballC",
         "SummarizedExperiment",
         "XVector",
         "bench",
@@ -83816,7 +83804,6 @@
         "RCurl",
         "Rcpp",
         "S4Vectors",
-        "SnowballC",
         "SummarizedExperiment",
         "XVector",
         "assertthat",
@@ -86833,7 +86820,6 @@
         "Rhtslib",
         "Rsamtools",
         "S4Vectors",
-        "SnowballC",
         "SummarizedExperiment",
         "XVector",
         "cluster",
@@ -109732,7 +109718,6 @@
         "RCurl",
         "Rcpp",
         "S4Vectors",
-        "SnowballC",
         "SummarizedExperiment",
         "XVector",
         "assertthat",
@@ -111622,7 +111607,6 @@
         "Rcpp",
         "RcppArmadillo",
         "RcppTOML",
-        "SnowballC",
         "bit",
         "bit64",
         "bslib",
@@ -112726,7 +112710,6 @@
         "S4Vectors",
         "ScaledMatrix",
         "SingleCellExperiment",
-        "SnowballC",
         "SummarizedExperiment",
         "XVector",
         "askpass",
@@ -113934,7 +113917,6 @@
         "RcppArmadillo",
         "RcppEigen",
         "S4Vectors",
-        "SnowballC",
         "XVector",
         "annotate",
         "askpass",
@@ -115268,7 +115250,6 @@
         "Rcpp",
         "Rmisc",
         "S4Vectors",
-        "SnowballC",
         "SummarizedExperiment",
         "XVector",
         "bench",
@@ -120906,7 +120887,6 @@
     "tidytext": [
         "Matrix",
         "Rcpp",
-        "SnowballC",
         "dplyr",
         "generics",
         "janeaustenr",
@@ -120948,8 +120928,7 @@
     ],
     "janeaustenr": [],
     "tokenizers": [
-        "Rcpp",
-        "SnowballC"
+        "Rcpp"
     ],
     "softImpute": [
         "Matrix"
@@ -120975,7 +120954,6 @@
     "mitools": [
         "DBI"
     ],
-    "SnowballC": [],
     "sjmisc": [
         "datawizard",
         "dplyr",
@@ -122756,9 +122734,7 @@
         "yaml",
         "zlibbioc"
     ],
-    "lsa": [
-        "SnowballC"
-    ],
+    "lsa": [],
     "BSgenome.Hsapiens.UCSC.hg38": [
         "BSgenome",
         "Biobase",
@@ -126615,7 +126591,6 @@
         "NLP",
         "Rcpp",
         "RcppArmadillo",
-        "SnowballC",
         "digest",
         "dplyr",
         "ellipsis",
@@ -126691,7 +126666,6 @@
         "Matrix",
         "Rcpp",
         "RcppArmadillo",
-        "SnowballC",
         "stopwords",
         "xml2",
         "yaml"
@@ -128642,7 +128616,6 @@
     "available": [
         "Matrix",
         "Rcpp",
-        "SnowballC",
         "cachem",
         "desc",
         "dplyr",
