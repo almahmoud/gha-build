@@ -20842,7 +20842,6 @@
         "vctrs"
     ],
     "HPiP": [
-        "MCL",
         "caret",
         "clock",
         "dplyr",
@@ -22275,7 +22274,6 @@
         "HDO.db",
         "IRanges",
         "KEGGREST",
-        "MCL",
         "ROCR",
         "RSQLite",
         "RcppML",
@@ -27190,7 +27188,6 @@
     ],
     "mina": [
         "Hmisc",
-        "MCL",
         "RSpectra",
         "apcluster",
         "biganalytics",
@@ -27543,7 +27540,6 @@
         "Hmisc",
         "IRanges",
         "KEGGREST",
-        "MCL",
         "MatrixCorrelation",
         "MetBrewer",
         "NMF",
@@ -27682,7 +27678,6 @@
         "HDO.db",
         "IRanges",
         "KEGGREST",
-        "MCL",
         "MetBrewer",
         "RBGL",
         "RSQLite",
@@ -38412,7 +38407,6 @@
         "GenomicRanges",
         "IRanges",
         "KEGGREST",
-        "MCL",
         "RSQLite",
         "Rsamtools",
         "STRINGdb",
@@ -54955,7 +54949,6 @@
         "vctrs"
     ],
     "servr": [],
-    "MCL": [],
     "available": [
         "dplyr",
         "pillar",
