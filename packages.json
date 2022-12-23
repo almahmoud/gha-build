@@ -2386,7 +2386,6 @@
         "shinycssloaders",
         "shinydashboard",
         "shinydashboardPlus",
-        "shinyhelper",
         "shinyjs",
         "tidyr",
         "viridis",
@@ -7988,7 +7987,6 @@
         "plotly",
         "proDA",
         "shinydashboard",
-        "shinyhelper",
         "shinyjs",
         "tidyr",
         "viridis",
@@ -11547,7 +11545,6 @@
         "shinyWidgets",
         "shinydashboard",
         "shinydashboardPlus",
-        "shinyhelper",
         "shinyjs",
         "threejs",
         "tidyr",
@@ -17145,7 +17142,6 @@
         "dbplyr",
         "rtracklayer"
     ],
-    "shinyhelper": [],
     "shinyWidgets": [],
     "shinydashboardPlus": [
         "shinydashboard",
