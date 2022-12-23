@@ -55953,9 +55953,7 @@
         "viridisLite",
         "xtable"
     ],
-    "ibh": [
-        "simpIntLists"
-    ],
+    "ibh": [],
     "iBMQ": [
         "Biobase",
         "MASS",
@@ -149430,7 +149428,6 @@
         "viridisLite"
     ],
     "additivityTests": [],
-    "simpIntLists": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "AnnotationDbi",
         "BH",
