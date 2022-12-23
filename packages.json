@@ -1415,7 +1415,6 @@
     ],
     "EDASeq": [],
     "edge": [
-        "snm",
         "sva"
     ],
     "eegc": [
@@ -4420,7 +4419,6 @@
     "snifter": [
         "basilisk"
     ],
-    "snm": [],
     "SNPhood": [
         "DESeq2",
         "VariantAnnotation"
