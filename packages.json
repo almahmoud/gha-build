@@ -17136,7 +17136,6 @@
         "treeio",
         "viridis"
     ],
-    "PANR": [],
     "PanViz": [
         "dplyr",
         "tidyr"
