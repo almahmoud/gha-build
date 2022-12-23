@@ -1467,7 +1467,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "CNVPanelizer": [],
     "CNVrd2": [
         "BSgenome",
         "GenomicFeatures",
