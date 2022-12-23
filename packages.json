@@ -4682,7 +4682,6 @@
         "GenomicFeatures",
         "chipseq"
     ],
-    "transformGamPoi": [],
     "tRanslatome": [
         "DESeq2"
     ],
