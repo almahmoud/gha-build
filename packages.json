@@ -21503,7 +21503,6 @@
         "interactiveDisplayBase",
         "knitr",
         "reshape2",
-        "rhdf5client",
         "rmarkdown",
         "shiny",
         "tibble"
@@ -21661,7 +21660,6 @@
         "tibble"
     ],
     "rhdf5": [],
-    "rhdf5client": [],
     "Rhisat2": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -26692,7 +26690,6 @@
         "org.Mm.eg.db",
         "reshape2",
         "restfulSE",
-        "rhdf5client",
         "rmarkdown",
         "shiny",
         "tibble"
