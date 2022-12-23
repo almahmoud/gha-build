@@ -1263,7 +1263,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "SpotClean": [],
     "srnadiff": [
         "Gviz",
         "biovizBase"
