@@ -2334,7 +2334,6 @@
         "pbkrtest",
         "rstatix"
     ],
-    "MsExperiment": [],
     "msgbsR": [
         "GenomicFeatures",
         "OrganismDbi",
