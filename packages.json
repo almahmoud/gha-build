@@ -1964,7 +1964,6 @@
         "GEOmap",
         "RFOC",
         "car",
-        "cytometree",
         "fields",
         "flowDensity",
         "lme4",
@@ -9752,7 +9751,6 @@
     ],
     "shinypanel": [],
     "highcharter": [],
-    "cytometree": [],
     "RFOC": [
         "GEOmap",
         "fields"
