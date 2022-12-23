@@ -322,7 +322,6 @@
         "viridis"
     ],
     "basilisk": [],
-    "batchelor": [],
     "BatchQC": [
         "dendextend",
         "heatmaply",
@@ -870,7 +869,6 @@
     ],
     "ChromHeatMap": [],
     "ChromSCape": [
-        "batchelor",
         "scater",
         "scran",
         "viridis"
@@ -3559,7 +3557,6 @@
         "viridis"
     ],
     "mumosa": [
-        "batchelor",
         "scran"
     ],
     "MungeSumstats": [
@@ -5102,7 +5099,6 @@
         "SoupX",
         "TENxPBMCData",
         "TSCAN",
-        "batchelor",
         "celda",
         "celldex",
         "ensembldb",
