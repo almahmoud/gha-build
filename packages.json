@@ -415,7 +415,6 @@
         "sva"
     ],
     "CAGEr": [],
-    "CAMERA": [],
     "canceR": [
         "phenoTest"
     ],
@@ -1370,9 +1369,7 @@
     "FindIT2": [
         "GenomicFeatures"
     ],
-    "flagme": [
-        "CAMERA"
-    ],
+    "flagme": [],
     "FLAMES": [
         "GenomicFeatures",
         "OrganismDbi",
@@ -1838,9 +1835,7 @@
         "survminer"
     ],
     "ipdDb": [],
-    "IPO": [
-        "CAMERA"
-    ],
+    "IPO": [],
     "IRISFGM": [
         "car",
         "clusterProfiler",
@@ -1931,9 +1926,7 @@
         "lmerTest",
         "spicyR"
     ],
-    "LOBSTAHS": [
-        "CAMERA"
-    ],
+    "LOBSTAHS": [],
     "LowMACA": [
         "CNEr",
         "GenomicFeatures",
@@ -2000,7 +1993,6 @@
         "ggtree"
     ],
     "MAIT": [
-        "CAMERA",
         "agricolae",
         "klaR",
         "plsgenomics"
@@ -2103,9 +2095,7 @@
         "ensembldb"
     ],
     "metagene2": [],
-    "metaMS": [
-        "CAMERA"
-    ],
+    "metaMS": [],
     "MetaPhOR": [
         "clusterProfiler",
         "enrichplot",
