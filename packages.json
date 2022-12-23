@@ -681,7 +681,6 @@
     ],
     "BASiCS": [
         "SingleCellExperiment",
-        "colourpicker",
         "ggExtra",
         "scran",
         "scuttle",
@@ -691,7 +690,6 @@
         "BASiCS",
         "HDF5Array",
         "SingleCellExperiment",
-        "colourpicker",
         "ggExtra",
         "glmGamPoi",
         "rhdf5",
@@ -1909,7 +1907,6 @@
         "GenomicAlignments",
         "SingleCellExperiment",
         "batchelor",
-        "colourpicker",
         "gggenes",
         "ggrastr",
         "msigdbr",
@@ -2924,7 +2921,6 @@
         "apeglm",
         "aplot",
         "clusterProfiler",
-        "colourpicker",
         "dendextend",
         "enrichplot",
         "fgsea",
@@ -3243,7 +3239,6 @@
     "DiscoRhythm": [
         "BiocStyle",
         "DT",
-        "colourpicker",
         "dendextend",
         "ggExtra",
         "heatmaply",
@@ -4639,7 +4634,6 @@
         "DT",
         "GO.db",
         "annotate",
-        "colourpicker",
         "dendextend",
         "geneplotter",
         "plotly",
@@ -5331,7 +5325,6 @@
         "InteractionSet",
         "QDNAseq",
         "car",
-        "colourpicker",
         "ggExtra",
         "ggpubr",
         "lme4",
@@ -5673,7 +5666,6 @@
         "FactoMineR",
         "biomaRt",
         "car",
-        "colourpicker",
         "dendextend",
         "factoextra",
         "ggpubr",
@@ -5779,13 +5771,11 @@
     ],
     "iSEE": [
         "DT",
-        "SingleCellExperiment",
-        "colourpicker"
+        "SingleCellExperiment"
     ],
     "iSEEhex": [
         "DT",
         "SingleCellExperiment",
-        "colourpicker",
         "iSEE"
     ],
     "iSEEhub": [
@@ -5794,14 +5784,12 @@
         "DT",
         "ExperimentHub",
         "SingleCellExperiment",
-        "colourpicker",
         "iSEE",
         "interactiveDisplayBase"
     ],
     "iSEEu": [
         "DT",
         "SingleCellExperiment",
-        "colourpicker",
         "iSEE",
         "iSEEhex"
     ],
@@ -7583,7 +7571,6 @@
     "MSstatsQC": [
         "MSnbase",
         "affy",
-        "colourpicker",
         "ggExtra",
         "plotly",
         "vsn"
@@ -7592,7 +7579,6 @@
         "MSnbase",
         "MSstatsQC",
         "affy",
-        "colourpicker",
         "ggExtra",
         "plotly",
         "vsn"
@@ -8723,7 +8709,6 @@
         "ExperimentHub",
         "GO.db",
         "OmaDB",
-        "colourpicker",
         "interactiveDisplayBase",
         "topGO"
     ],
@@ -8828,7 +8813,6 @@
     "plotGrouper": [
         "Hmisc",
         "car",
-        "colourpicker",
         "ggpubr",
         "htmlTable",
         "lme4",
@@ -9075,7 +9059,6 @@
         "annotate",
         "biomaRt",
         "caret",
-        "colourpicker",
         "dendextend",
         "genefilter",
         "mixtools",
@@ -9170,7 +9153,6 @@
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
-        "colourpicker",
         "derfinder",
         "highcharter",
         "htmlTable",
@@ -11102,7 +11084,6 @@
         "biomaRt",
         "celda",
         "celldex",
-        "colourpicker",
         "densEstBayes",
         "ensembldb",
         "fields",
@@ -11902,7 +11883,6 @@
         "car",
         "caret",
         "clusterProfiler",
-        "colourpicker",
         "enrichplot",
         "ensembldb",
         "fgsea",
@@ -13097,10 +13077,7 @@
         "GenomicAlignments",
         "rtracklayer"
     ],
-    "ggExtra": [
-        "colourpicker"
-    ],
-    "colourpicker": [],
+    "ggExtra": [],
     "heatmaply": [
         "dendextend",
         "plotly",
