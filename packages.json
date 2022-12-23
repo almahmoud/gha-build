@@ -14351,7 +14351,6 @@
         "dnet",
         "ggnetwork",
         "ggrepel",
-        "osfr",
         "readr",
         "recipes",
         "sna",
@@ -23157,7 +23156,6 @@
         "viridis"
     ],
     "opencpu": [],
-    "osfr": [],
     "C50": [
         "Cubist"
     ],
