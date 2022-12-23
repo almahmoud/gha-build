@@ -445,7 +445,6 @@
         "rstatix",
         "survminer"
     ],
-    "genbankr": [],
     "GeneAccord": [
         "ggpubr",
         "rstatix"
