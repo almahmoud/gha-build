@@ -22060,7 +22060,6 @@
         "RSQLite",
         "XVector",
         "blob",
-        "clusterSim",
         "httr",
         "multtest",
         "reactome.db"
@@ -22348,7 +22347,6 @@
         "XVector",
         "blob",
         "bslib",
-        "clusterSim",
         "ggplot2",
         "htmlTable",
         "htmlwidgets",
@@ -50089,7 +50087,6 @@
         "tidyselect",
         "vroom"
     ],
-    "clusterSim": [],
     "PairedData": [
         "ggplot2",
         "gld",
