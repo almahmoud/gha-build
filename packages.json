@@ -3331,9 +3331,7 @@
         "ggbio",
         "viridis"
     ],
-    "RESOLVE": [
-        "BSgenome.Hsapiens.1000genomes.hs37d5"
-    ],
+    "RESOLVE": [],
     "rexposome": [
         "FactoMineR",
         "Hmisc",
@@ -4660,7 +4658,6 @@
         "rhdf5"
     ],
     "BSgenome.Celegans.UCSC.ce2": [],
-    "BSgenome.Hsapiens.1000genomes.hs37d5": [],
     "Rmagic": [],
     "nnTensor": [
         "fields",
