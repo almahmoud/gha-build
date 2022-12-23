@@ -1014,7 +1014,6 @@
         "methylPipe",
         "topGO"
     ],
-    "CompoundDb": [],
     "ComPrAn": [
         "rio"
     ],
@@ -3030,7 +3029,6 @@
     "Metab": [],
     "metabCombiner": [],
     "MetaboAnnotation": [
-        "CompoundDb",
         "QFeatures"
     ],
     "MetaboSignal": [
