@@ -6546,7 +6546,6 @@
         "MultiAssayExperiment",
         "struct"
     ],
-    "metabomxtr": [],
     "MetaboSignal": [
         "AnnotationDbi",
         "EnsDb.Hsapiens.v75",
