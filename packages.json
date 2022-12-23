@@ -14303,7 +14303,6 @@
         "GenomicRanges",
         "SummarizedExperiment",
         "XVector",
-        "fGarch",
         "nloptr",
         "rematch2",
         "testthat",
@@ -39540,7 +39539,6 @@
     ],
     "sf": [],
     "penalized": [],
-    "fGarch": [],
     "ggwordcloud": [
         "ggplot2",
         "tibble"
