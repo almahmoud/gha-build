@@ -17591,7 +17591,6 @@
         "codetools",
         "colorspace",
         "colourpicker",
-        "coop",
         "crosstalk",
         "curl",
         "data.table",
@@ -40903,7 +40902,6 @@
         "class",
         "cluster",
         "colorspace",
-        "coop",
         "cowplot",
         "desc",
         "diffobj",
@@ -81246,7 +81244,6 @@
         "cluster",
         "codetools",
         "colorspace",
-        "coop",
         "cowplot",
         "crosstalk",
         "data.table",
@@ -100505,7 +100502,6 @@
         "assertthat",
         "cluster",
         "codetools",
-        "coop",
         "data.table",
         "digest",
         "dplyr",
@@ -121241,7 +121237,6 @@
         "cluster",
         "codetools",
         "colorspace",
-        "coop",
         "cowplot",
         "crosstalk",
         "data.table",
@@ -131219,7 +131214,6 @@
         "data.table",
         "yaml"
     ],
-    "coop": [],
     "matrixTests": [
         "matrixStats"
     ],
