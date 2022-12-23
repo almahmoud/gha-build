@@ -6111,7 +6111,6 @@
         "tidyselect",
         "vroom"
     ],
-    "chopsticks": [],
     "chromDraw": [
         "GenomeInfoDb",
         "GenomicRanges",
