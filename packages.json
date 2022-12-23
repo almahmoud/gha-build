@@ -403,8 +403,7 @@
     ],
     "BLMA": [
         "PADOG",
-        "hgu133a.db",
-        "hgu133plus2.db"
+        "hgu133a.db"
     ],
     "BloodGen3Module": [
         "AnnotationHub",
@@ -1339,8 +1338,7 @@
     ],
     "DrugVsDisease": [
         "ArrayExpress",
-        "hgu133a.db",
-        "hgu133plus2.db"
+        "hgu133a.db"
     ],
     "DSS": [
         "BSgenome",
@@ -1390,7 +1388,6 @@
         "GSVA",
         "PADOG",
         "hgu133a.db",
-        "hgu133plus2.db",
         "pathview"
     ],
     "ELMER": [
@@ -2466,9 +2463,7 @@
         "questionr"
     ],
     "mAPKL": [],
-    "maPredictDSC": [
-        "hgu133plus2.db"
-    ],
+    "maPredictDSC": [],
     "maser": [
         "BSgenome",
         "GenomicFeatures",
@@ -3315,8 +3310,7 @@
         "pbkrtest"
     ],
     "PADOG": [
-        "hgu133a.db",
-        "hgu133plus2.db"
+        "hgu133a.db"
     ],
     "pageRank": [
         "BSgenome",
@@ -5132,7 +5126,6 @@
         "DESeq2",
         "DEXSeq"
     ],
-    "hgu133plus2.db": [],
     "hgu133a.db": [],
     "GenomicState": [
         "AnnotationHub",
