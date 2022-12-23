@@ -6825,7 +6825,6 @@
         "textclean",
         "textstem"
     ],
-    "TTMap": [],
     "TVTB": [
         "BSgenome",
         "GenomicFeatures",
