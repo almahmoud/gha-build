@@ -10,7 +10,7 @@ mkdir -p /tmp/tars/
 # Get direct dependency list to pull their libraries from their build run
 sed -n "/^    \"$PKG\"/,/^    \"/p" directdeps.json | grep '^        "' | awk -F'"' '{print $2}' > /tmp/deps
 
-check_dep_present() {
+function check_dep_present() {
   if [ -d $LIBRARY/$1 ]; then
     echo "Dependency $1 is already found."
     return 0
@@ -19,11 +19,11 @@ check_dep_present() {
   fi
 }
 
-download_and_extract_dep() {
+function download_and_extract_dep() {
   bash -c "curl -o $LIBRARY/$1.tar.gz https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/$runstart/$1.tar.gz && ( cd $LIBRARY && tar -xvf $1.tar.gz && rm $1.tar.gz )"
 }
 
-process_dep() {
+function process_dep() {
   if check_dep_present "$1"; then
     return
   else
@@ -31,7 +31,7 @@ process_dep() {
   fi
 }
 
-process_deps() {
+function process_deps() {
   cat /tmp/deps | xargs -i process_dep {}
 }
 
