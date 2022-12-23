@@ -38173,7 +38173,6 @@
     ],
     "iBBiG": [
         "Matrix",
-        "additivityTests",
         "ade4",
         "biclust",
         "class",
@@ -50212,7 +50211,6 @@
         "V8",
         "WGCNA",
         "XVector",
-        "additivityTests",
         "ade4",
         "annotate",
         "ape",
@@ -51910,7 +51908,6 @@
         "Matrix",
         "QUBIC",
         "RcppArmadillo",
-        "additivityTests",
         "biclust",
         "class",
         "dplyr",
@@ -66238,7 +66235,6 @@
     "QUBIC": [
         "Matrix",
         "RcppArmadillo",
-        "additivityTests",
         "biclust",
         "class",
         "dplyr",
@@ -72166,7 +72162,6 @@
     "rqubic": [
         "Biobase",
         "Matrix",
-        "additivityTests",
         "biclust",
         "class",
         "dplyr",
@@ -72888,7 +72883,6 @@
         "S4Vectors",
         "SummarizedExperiment",
         "XVector",
-        "additivityTests",
         "biclust",
         "callr",
         "class",
@@ -101795,7 +101789,6 @@
     ],
     "biclust": [
         "Matrix",
-        "additivityTests",
         "class",
         "dplyr",
         "ellipsis",
@@ -101814,7 +101807,6 @@
         "vctrs",
         "viridisLite"
     ],
-    "additivityTests": [],
     "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [
         "AnnotationDbi",
         "Biobase",
@@ -103249,7 +103241,6 @@
     "isa2": [],
     "s4vd": [
         "Matrix",
-        "additivityTests",
         "biclust",
         "class",
         "dplyr",
@@ -103275,7 +103266,6 @@
         "Matrix",
         "Rtsne",
         "V8",
-        "additivityTests",
         "biclust",
         "class",
         "cluster",
