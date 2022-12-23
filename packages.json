@@ -58625,7 +58625,6 @@
         "VariantAnnotation",
         "XVector",
         "annotate",
-        "bibtex",
         "biomaRt",
         "blob",
         "bookdown",
@@ -89787,7 +89786,6 @@
         "vctrs"
     ],
     "RefManageR": [
-        "bibtex",
         "httr",
         "lifecycle",
         "lubridate",
@@ -89797,7 +89795,6 @@
         "timechange",
         "vctrs"
     ],
-    "bibtex": [],
     "BSgenome.Hsapiens.1000genomes.hs37d5": [
         "BSgenome",
         "Biobase",
