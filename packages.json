@@ -199,7 +199,6 @@
         "annotate",
         "geneplotter"
     ],
-    "AnVILPublish": [],
     "APAlyzer": [
         "BSgenome",
         "DESeq2",
