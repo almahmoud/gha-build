@@ -70853,7 +70853,6 @@
         "assertthat",
         "base64",
         "beanplot",
-        "bigassertr",
         "bigparallelr",
         "bigstatsr",
         "biomaRt",
@@ -166512,7 +166511,6 @@
         "RcppArmadillo",
         "RcppEigen",
         "RhpcBLASctl",
-        "bigassertr",
         "bigparallelr",
         "bit",
         "codetools",
@@ -166559,11 +166557,9 @@
         "bitops",
         "zlibbioc"
     ],
-    "bigassertr": [],
     "bigparallelr": [
         "Rcpp",
         "RhpcBLASctl",
-        "bigassertr",
         "codetools",
         "doParallel",
         "flock",
@@ -166572,7 +166568,6 @@
         "parallelly"
     ],
     "rmio": [
-        "bigassertr",
         "bit",
         "ff"
     ],
