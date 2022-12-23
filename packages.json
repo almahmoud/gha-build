@@ -45,9 +45,7 @@
     "BindingSiteFinder": [
         "Gviz"
     ],
-    "bioCancer": [
-        "ReactomePA"
-    ],
+    "bioCancer": [],
     "BiocOncoTK": [
         "ggpubr"
     ],
@@ -254,8 +252,7 @@
         "ggpubr"
     ],
     "epihet": [
-        "EntropyExplorer",
-        "ReactomePA"
+        "EntropyExplorer"
     ],
     "epimutacions": [
         "Gviz",
@@ -488,13 +485,11 @@
     ],
     "MinimumDistance": [],
     "miRSM": [
-        "ReactomePA",
         "SPONGE",
         "ggpubr",
         "miRspongeR"
     ],
     "miRspongeR": [
-        "ReactomePA",
         "SPONGE",
         "ggpubr"
     ],
@@ -533,9 +528,7 @@
         "HiCcompare",
         "QDNAseq"
     ],
-    "multiSight": [
-        "ReactomePA"
-    ],
+    "multiSight": [],
     "muscat": [],
     "musicatk": [
         "factoextra",
@@ -591,9 +584,7 @@
     "PhosR": [
         "ggpubr"
     ],
-    "Pigengene": [
-        "ReactomePA"
-    ],
+    "Pigengene": [],
     "PING": [
         "Gviz"
     ],
@@ -630,7 +621,6 @@
     "R3CPET": [
         "ggbio"
     ],
-    "ReactomePA": [],
     "recount": [
         "derfinder"
     ],
@@ -703,9 +693,7 @@
     "scruff": [
         "ggbio"
     ],
-    "scTensor": [
-        "ReactomePA"
-    ],
+    "scTensor": [],
     "scTreeViz": [
         "epivizr"
     ],
