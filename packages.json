@@ -2606,7 +2606,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "BaseSpaceR": [],
     "Basic4Cseq": [
         "BSgenome",
         "BSgenome.Ecoli.NCBI.20080805",
