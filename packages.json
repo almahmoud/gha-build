@@ -267,7 +267,6 @@
     "condiments": [],
     "CONFESS": [],
     "consensusDE": [
-        "EnsDb.Hsapiens.v86",
         "RUVSeq"
     ],
     "contiBAIT": [
@@ -788,9 +787,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "metagene": [
-        "EnsDb.Hsapiens.v86"
-    ],
+    "metagene": [],
     "MetaPhOR": [
         "clusterProfiler"
     ],
@@ -1079,7 +1076,6 @@
     ],
     "pRolocGUI": [],
     "proteasy": [
-        "EnsDb.Hsapiens.v86",
         "EnsDb.Rnorvegicus.v79"
     ],
     "ProteoDisco": [],
@@ -1179,9 +1175,7 @@
         "biovizBase",
         "karyoploteR"
     ],
-    "RITAN": [
-        "EnsDb.Hsapiens.v86"
-    ],
+    "RITAN": [],
     "RLSeq": [],
     "Rmmquant": [],
     "RNAAgeCalc": [
@@ -1463,7 +1457,6 @@
     "UMI4Cats": [],
     "uncoverappLib": [
         "EnsDb.Hsapiens.v75",
-        "EnsDb.Hsapiens.v86",
         "Gviz",
         "Homo.sapiens",
         "biovizBase"
@@ -1557,7 +1550,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "EnsDb.Hsapiens.v86": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
         "minfi"
     ],
