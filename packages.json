@@ -9318,7 +9318,6 @@
     "rebook": [
         "BiocStyle"
     ],
-    "receptLoss": [],
     "reconsi": [
         "biomformat",
         "phyloseq",
