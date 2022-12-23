@@ -4253,7 +4253,6 @@
         "knitr",
         "latticeExtra",
         "monocle",
-        "qlcMatrix",
         "reshape2",
         "rmarkdown",
         "rtracklayer",
@@ -4436,7 +4435,6 @@
         "MsFeatures",
         "SummarizedExperiment",
         "ggplot2",
-        "qlcMatrix",
         "vsn",
         "xcms"
     ],
@@ -16134,7 +16132,6 @@
     "monocle": [
         "dplyr",
         "ggplot2",
-        "qlcMatrix",
         "reshape2",
         "viridis"
     ],
@@ -27740,7 +27737,6 @@
         "dplyr",
         "ggplot2",
         "monocle",
-        "qlcMatrix",
         "reshape2",
         "viridis"
     ],
@@ -30124,7 +30120,6 @@
         "bslib",
         "shiny"
     ],
-    "qlcMatrix": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
