@@ -2575,7 +2575,6 @@
         "testthat",
         "viridis"
     ],
-    "cytoKernel": [],
     "cytomapper": [
         "DropletUtils",
         "HDF5Array",
