@@ -2079,7 +2079,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "metapone": [],
     "metaseqR2": [
         "DESeq2",
         "DSS",
