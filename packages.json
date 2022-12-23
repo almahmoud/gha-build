@@ -125,7 +125,6 @@
         "rvest",
         "selectr",
         "shiny",
-        "smoother",
         "tibble"
     ],
     "ADImpute": [
@@ -6878,7 +6877,6 @@
         "nloptr",
         "pbkrtest",
         "rematch2",
-        "smoother",
         "testthat",
         "tibble",
         "tidyr",
@@ -28915,7 +28913,6 @@
         "selectr",
         "tibble"
     ],
-    "smoother": [],
     "selectr": [],
     "dbplyr": [
         "dplyr",
