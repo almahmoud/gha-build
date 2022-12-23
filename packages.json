@@ -11509,8 +11509,7 @@
         "geepack",
         "ggformula",
         "haven",
-        "labelled",
-        "mosaicCore"
+        "labelled"
     ],
     "ssrch": [
         "DT"
@@ -13962,15 +13961,12 @@
         "geepack",
         "ggformula",
         "haven",
-        "labelled",
-        "mosaicCore"
+        "labelled"
     ],
     "ggformula": [
         "haven",
-        "labelled",
-        "mosaicCore"
+        "labelled"
     ],
-    "mosaicCore": [],
     "rsample": [],
     "SpatialExtremes": [
         "fields",
