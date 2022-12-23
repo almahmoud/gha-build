@@ -29719,7 +29719,6 @@
         "XVector",
         "annotate",
         "aplot",
-        "bayestestR",
         "biclust",
         "biomaRt",
         "blob",
@@ -29869,7 +29868,6 @@
         "SPONGE",
         "XVector",
         "aplot",
-        "bayestestR",
         "biomaRt",
         "blob",
         "broom",
@@ -48441,7 +48439,6 @@
         "RSQLite",
         "Rgraphviz",
         "XVector",
-        "bayestestR",
         "biomaRt",
         "blob",
         "broom",
@@ -60366,7 +60363,6 @@
         "tibble"
     ],
     "cvms": [
-        "bayestestR",
         "clock",
         "dplyr",
         "future",
@@ -60414,9 +60410,7 @@
         "tidyr",
         "tidyselect"
     ],
-    "parameters": [
-        "bayestestR"
-    ],
+    "parameters": [],
     "rearrr": [
         "dplyr",
         "pillar",
@@ -60424,7 +60418,6 @@
         "tibble",
         "tidyselect"
     ],
-    "bayestestR": [],
     "echarts4r": [
         "broom",
         "bslib",
