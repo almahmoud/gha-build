@@ -1392,7 +1392,6 @@
         "treeio"
     ],
     "Cardinal": [],
-    "CARNIVAL": [],
     "casper": [
         "AnnotationDbi",
         "GenomicAlignments",
@@ -2447,7 +2446,6 @@
     ],
     "cosmosR": [
         "AnnotationDbi",
-        "CARNIVAL",
         "GSEABase",
         "annotate",
         "dorothea",
