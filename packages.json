@@ -1226,7 +1226,6 @@
     "GSEABenchmarkeR": [
         "EnrichmentBrowser"
     ],
-    "gsean": [],
     "GSReg": [
         "Homo.sapiens",
         "OrganismDbi",
