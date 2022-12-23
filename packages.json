@@ -3314,9 +3314,7 @@
         "vsn",
         "yaml"
     ],
-    "ARRmNormalization": [
-        "ARRmData"
-    ],
+    "ARRmNormalization": [],
     "artMS": [
         "AnnotationDbi",
         "Biobase",
@@ -104960,7 +104958,6 @@
     "svglite": [
         "systemfonts"
     ],
-    "ARRmData": [],
     "getopt": [],
     "UpSetR": [
         "Matrix",
