@@ -2442,7 +2442,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "drawProteins": [],
     "DropletUtils": [
         "scuttle"
     ],
@@ -2981,7 +2980,6 @@
     "factR": [
         "GenomicFeatures",
         "biomaRt",
-        "drawProteins",
         "rtracklayer",
         "wiggleplotr"
     ],
