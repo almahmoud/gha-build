@@ -454,7 +454,6 @@
     ],
     "qmtools": [],
     "quantro": [],
-    "QuasR": [],
     "R3CPET": [],
     "recount": [],
     "recountmethylation": [],
@@ -520,9 +519,7 @@
     ],
     "simpleSeg": [],
     "singleCellTK": [],
-    "SingleMoleculeFootprinting": [
-        "QuasR"
-    ],
+    "SingleMoleculeFootprinting": [],
     "skewr": [
         "lumi",
         "wateRmelon"
