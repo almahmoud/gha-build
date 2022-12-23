@@ -40821,7 +40821,6 @@
         "lambda.r",
         "lifecycle",
         "memoise",
-        "mhsmm",
         "openssl",
         "restfulr",
         "rtracklayer",
@@ -87006,7 +87005,6 @@
     ],
     "rebus.datetimes": [],
     "rebus.numbers": [],
-    "mhsmm": [],
     "GeneNet": [],
     "ggmcmc": [
         "GGally",
