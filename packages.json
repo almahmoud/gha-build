@@ -12622,7 +12622,6 @@
         "tidyr",
         "topGO"
     ],
-    "RIVER": [],
     "RJMCMCNucleosomes": [
         "GenomicAlignments",
         "consensusSeekeR",
