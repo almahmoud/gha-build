@@ -14504,7 +14504,6 @@
         "httr",
         "jquerylib",
         "knitr",
-        "kohonen",
         "lifecycle",
         "memoise",
         "mgcv",
@@ -91894,7 +91893,6 @@
     "princurve": [],
     "brglm": [],
     "splitstackshape": [],
-    "kohonen": [],
     "biwt": [
         "robustbase"
     ],
