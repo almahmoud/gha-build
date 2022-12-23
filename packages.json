@@ -35728,7 +35728,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "RankProd",
         "XVector",
         "blob",
         "doRNG",
@@ -42485,7 +42484,6 @@
         "KEGGREST",
         "RSQLite",
         "RSpectra",
-        "RankProd",
         "RcppEigen",
         "SummarizedExperiment",
         "XVector",
@@ -45087,7 +45085,6 @@
     ],
     "randPack": [],
     "randRotation": [],
-    "RankProd": [],
     "RAREsim": [
         "callr",
         "nloptr",
@@ -57092,7 +57089,6 @@
         "vctrs"
     ],
     "synlet": [
-        "RankProd",
         "RcppEigen",
         "broom",
         "callr",
@@ -59310,7 +59306,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "RankProd",
         "SummarizedExperiment",
         "XVector",
         "annotate",
