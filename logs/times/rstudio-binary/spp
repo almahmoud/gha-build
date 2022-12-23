@@ -1,0 +1,38 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   5ff6c260..cfab79ae  main       -> origin/main
+Updating 5ff6c260..cfab79ae
+Fast-forward
+ lists/segmented                                 |   2 +-
+ logs/run_ids/rstudio-binaries/sparseMVN         |   2 +
+ logs/run_ids/rstudio-binaries/spatstat.random   |   2 +
+ logs/sizes/rstudio-binaries/binaries/segmented  |   1 +
+ logs/sizes/rstudio-binaries/libraries/segmented |   1 +
+ logs/times/rstudio-binary/segmented             | 404 ++++++++++++++++++++++++
+ packages.json                                   |  56 +---
+ 7 files changed, 412 insertions(+), 56 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/spatstat.random
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/segmented
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/segmented
+ create mode 100644 logs/times/rstudio-binary/segmented
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=spp
++ PKG=spp
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "spp"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ echo 'No dependencies'
+No dependencies
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''spp'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+
+real	0m4.456s
+user	0m3.135s
+sys	0m0.279s
