@@ -14,9 +14,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "adductomicsR": [
-        "adductData"
-    ],
+    "adductomicsR": [],
     "affy": [],
     "affyContam": [
         "affy",
@@ -4988,7 +4986,6 @@
         "car"
     ],
     "car": [],
-    "adductData": [],
     "affydata": [
         "affy"
     ],
