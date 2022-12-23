@@ -11466,7 +11466,6 @@
     "PECA": [
         "AnnotationDbi",
         "annotate",
-        "aroma.affymetrix",
         "genefilter"
     ],
     "peco": [
@@ -16183,7 +16182,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "aroma.affymetrix",
         "htmlTable",
         "htmlwidgets",
         "viridis"
@@ -18757,7 +18755,6 @@
         "fields",
         "viridis"
     ],
-    "aroma.affymetrix": [],
     "genlasso": [],
     "C50": [],
     "tidybayes": [
