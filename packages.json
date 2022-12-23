@@ -523,7 +523,6 @@
         "dplyr",
         "dqrng",
         "emdbook",
-        "forestplot",
         "ggbeeswarm",
         "ggplot2",
         "ggrastr",
@@ -47947,7 +47946,6 @@
         "dplyr",
         "e1071",
         "forcats",
-        "forestplot",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -51256,7 +51254,6 @@
         "glmnet"
     ],
     "emdbook": [],
-    "forestplot": [],
     "RcppNumerical": [],
     "ggbeeswarm": [
         "ggplot2",
