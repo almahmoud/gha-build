@@ -587,8 +587,7 @@
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
-        "DiffBind",
-        "TxDb.Hsapiens.UCSC.hg18.knownGene"
+        "DiffBind"
     ],
     "ChIPseeker": [
         "enrichplot",
@@ -1230,7 +1229,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "IlluminaHumanMethylationEPICmanifest",
-        "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "VariantAnnotation",
         "biovizBase",
@@ -2887,7 +2885,6 @@
         "rhdf5"
     ],
     "preciseTAD": [
-        "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "affy",
         "rCGH"
@@ -3085,7 +3082,6 @@
     ],
     "rcellminer": [],
     "rCGH": [
-        "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
         "affy"
     ],
@@ -4291,7 +4287,6 @@
         "rhdf5"
     ],
     "spp": [],
-    "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
     "propr": [],
     "benchmarkme": [],
     "factoextra": [
