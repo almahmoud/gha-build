@@ -3041,7 +3041,6 @@
         "rstatix"
     ],
     "Oscope": [],
-    "OTUbase": [],
     "OUTRIDER": [
         "DESeq2",
         "GenomicFeatures",
