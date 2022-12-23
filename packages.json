@@ -28345,7 +28345,6 @@
         "annotate",
         "blob",
         "genefilter",
-        "mRMRe",
         "sva"
     ],
     "packFinder": [
@@ -48577,7 +48576,6 @@
         "tidyselect",
         "vroom"
     ],
-    "mRMRe": [],
     "tfprobability": [
         "keras",
         "tensorflow",
