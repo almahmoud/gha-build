@@ -32401,7 +32401,6 @@
         "tidyselect"
     ],
     "phenomis": [
-        "BWStest",
         "BiocFileCache",
         "DelayedArray",
         "GenomeInfoDb",
@@ -41400,7 +41399,6 @@
     "signeR": [
         "AnnotationDbi",
         "BSgenome",
-        "BWStest",
         "BiocFileCache",
         "BiocIO",
         "BiocParallel",
@@ -48531,7 +48529,6 @@
         "AnnotationFilter",
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
-        "BWStest",
         "BiocFileCache",
         "BiocIO",
         "BiocParallel",
@@ -54438,10 +54435,7 @@
         "stringr"
     ],
     "magicaxis": [],
-    "PMCMRplus": [
-        "BWStest"
-    ],
-    "BWStest": [],
+    "PMCMRplus": [],
     "SmoothWin": [
         "Rfast"
     ],
