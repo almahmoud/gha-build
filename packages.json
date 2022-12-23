@@ -713,8 +713,7 @@
         "Ecume",
         "distinct",
         "scater",
-        "slingshot",
-        "spatstat"
+        "slingshot"
     ],
     "CONFESS": [
         "contrast",
@@ -4126,10 +4125,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "Ecume": [
-        "spatstat"
-    ],
-    "spatstat": [],
+    "Ecume": [],
     "contrast": [
         "rms"
     ],
