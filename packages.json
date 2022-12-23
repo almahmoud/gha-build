@@ -30779,7 +30779,6 @@
         "stringr",
         "visNetwork"
     ],
-    "pkgDepTools": [],
     "planet": [
         "dplyr",
         "tibble",
