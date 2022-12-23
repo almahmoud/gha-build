@@ -35876,7 +35876,6 @@
     ],
     "ramr": [
         "EnvStats",
-        "ExtDist",
         "GenomeInfoDb",
         "GenomicRanges",
         "IRanges",
@@ -55631,7 +55630,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ExtDist": [],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
         "AnnotationHub",
