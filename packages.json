@@ -8159,7 +8159,6 @@
         "rhdf5",
         "scuttle"
     ],
-    "SpatialCPie": [],
     "spatialDE": [
         "DropletUtils",
         "HDF5Array",
