@@ -4376,7 +4376,6 @@
     "VarCon": [],
     "variancePartition": [],
     "VariantAnnotation": [],
-    "VariantExperiment": [],
     "VariantFiltering": [
         "GenomicScores",
         "Gviz",
