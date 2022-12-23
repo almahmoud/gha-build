@@ -13231,7 +13231,6 @@
         "XVector",
         "annotate",
         "blob",
-        "blockmodeling",
         "edgeR",
         "geneplotter",
         "ggplot2",
@@ -14695,7 +14694,6 @@
         "tibble"
     ],
     "EBSeq": [
-        "blockmodeling",
         "pillar",
         "rematch2",
         "testthat",
@@ -14704,7 +14702,6 @@
     ],
     "EBSeqHMM": [
         "EBSeq",
-        "blockmodeling",
         "pillar",
         "rematch2",
         "testthat",
@@ -35100,7 +35097,6 @@
     "Oscope": [
         "BiocParallel",
         "EBSeq",
-        "blockmodeling",
         "pillar",
         "rematch2",
         "testthat",
@@ -44103,7 +44099,6 @@
         "XVector",
         "arm",
         "beachmat",
-        "blockmodeling",
         "bluster",
         "dqrng",
         "edgeR",
@@ -44136,7 +44131,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "XVector",
-        "blockmodeling",
         "ggplot2",
         "mgcv",
         "pillar",
@@ -58799,7 +58793,6 @@
         "stringr",
         "tibble"
     ],
-    "blockmodeling": [],
     "DExMAdata": [],
     "swamp": [],
     "bnstruct": [
