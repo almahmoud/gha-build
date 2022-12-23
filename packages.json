@@ -997,7 +997,6 @@
         "VariantAnnotation"
     ],
     "cyanoFilter": [
-        "GEOmap",
         "RFOC",
         "car",
         "flowDensity",
@@ -1067,7 +1066,6 @@
     ],
     "dce": [],
     "ddPCRclust": [
-        "GEOmap",
         "RFOC",
         "car",
         "flowDensity",
@@ -1631,7 +1629,6 @@
         "SPARQL"
     ],
     "flowCut": [
-        "GEOmap",
         "RFOC",
         "car",
         "flowDensity",
@@ -1639,7 +1636,6 @@
         "pbkrtest"
     ],
     "flowDensity": [
-        "GEOmap",
         "RFOC",
         "car",
         "lme4",
@@ -5044,10 +5040,7 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "RFOC": [
-        "GEOmap"
-    ],
-    "GEOmap": [],
+    "RFOC": [],
     "mbest": [
         "lme4"
     ],
