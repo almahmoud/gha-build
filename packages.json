@@ -1270,7 +1270,6 @@
         "biovizBase",
         "ggbio"
     ],
-    "interactiveDisplay": [],
     "InterCellar": [
         "FactoMineR",
         "dendextend",
