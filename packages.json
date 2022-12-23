@@ -6059,7 +6059,6 @@
         "ggplot2",
         "qvalue"
     ],
-    "DelayedDataFrame": [],
     "DelayedMatrixStats": [],
     "DelayedRandomArray": [],
     "DelayedTensor": [
@@ -25403,7 +25402,6 @@
     ],
     "VariantExperiment": [
         "Biostrings",
-        "DelayedDataFrame",
         "GDSArray",
         "GenomicRanges",
         "SeqArray",
