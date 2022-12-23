@@ -1967,8 +1967,7 @@
     ],
     "MAIT": [
         "agricolae",
-        "klaR",
-        "plsgenomics"
+        "klaR"
     ],
     "mAPKL": [],
     "maPredictDSC": [],
@@ -4210,7 +4209,6 @@
     "depmap": [
         "ExperimentHub"
     ],
-    "plsgenomics": [],
     "agricolae": [
         "klaR"
     ],
