@@ -21861,7 +21861,6 @@
         "KEGGREST",
         "RSQLite",
         "Rsamtools",
-        "Rsolnp",
         "SummarizedExperiment",
         "XVector",
         "batchtools",
@@ -25197,7 +25196,6 @@
     "MEIGOR": [
         "CNORode",
         "CellNOptR",
-        "Rsolnp",
         "bslib",
         "ggplot2",
         "jquerylib",
@@ -27262,7 +27260,6 @@
         "HardyWeinberg",
         "IRanges",
         "MultiAssayExperiment",
-        "Rsolnp",
         "SummarizedExperiment",
         "XVector",
         "broom",
@@ -37740,7 +37737,6 @@
         "RSQLite",
         "Ringo",
         "Rsamtools",
-        "Rsolnp",
         "SummarizedExperiment",
         "XVector",
         "annotate",
@@ -44698,9 +44694,7 @@
         "tibble",
         "tidyselect"
     ],
-    "SPEM": [
-        "Rsolnp"
-    ],
+    "SPEM": [],
     "SPIA": [
         "KEGGgraph"
     ],
@@ -45534,7 +45528,6 @@
         "KEGGREST",
         "RSQLite",
         "Rsamtools",
-        "Rsolnp",
         "SummarizedExperiment",
         "VariantAnnotation",
         "XVector",
@@ -47737,7 +47730,6 @@
         "LambertW",
         "RSQLite",
         "Rsamtools",
-        "Rsolnp",
         "SummarizedExperiment",
         "UpSetR",
         "VariantAnnotation",
@@ -47780,7 +47772,6 @@
     ],
     "TMixClust": [
         "BiocParallel",
-        "Rsolnp",
         "SPEM"
     ],
     "TNBC.CMS": [
@@ -55366,10 +55357,7 @@
         "openssl"
     ],
     "phyclust": [],
-    "depmixS4": [
-        "Rsolnp"
-    ],
-    "Rsolnp": [],
+    "depmixS4": [],
     "golem": [
         "bslib",
         "credentials",
@@ -55993,7 +55981,6 @@
         "stringr"
     ],
     "HardyWeinberg": [
-        "Rsolnp",
         "broom",
         "dplyr",
         "mice",
