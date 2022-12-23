@@ -795,7 +795,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "CIMICE": [],
     "circRNAprofiler": [
         "AnnotationHub",
         "BSgenome",
