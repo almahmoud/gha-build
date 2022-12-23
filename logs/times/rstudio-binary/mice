@@ -1,0 +1,72 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   db6506bb..5732280f  main       -> origin/main
+Updating db6506bb..5732280f
+Fast-forward
+ lists/GPA                                     |  2 +-
+ lists/lexicon                                 |  2 +-
+ logs/run_ids/rstudio-binaries/mnem            |  2 +
+ logs/sizes/rstudio-binaries/binaries/lexicon  |  1 +
+ logs/sizes/rstudio-binaries/libraries/lexicon |  1 +
+ logs/times/rstudio-binary/lexicon             | 70 +++++++++++++++++++++++++++
+ packages.json                                 | 13 +----
+ 7 files changed, 77 insertions(+), 14 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/mnem
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/lexicon
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/lexicon
+ create mode 100644 logs/times/rstudio-binary/lexicon
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=mice
++ PKG=mice
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "mice"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+Dependency broom is already found.
+Dependency lattice is already found.
+Dependency Rcpp is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''mice'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv mice_3.15.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/mice
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'mice'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/mice_3.15.0.tar.gz'
+Content type 'binary/octet-stream' length 1451564 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+* installing *binary* package ‘mice’ ...
+* ‘mice’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mice’ as ‘mice_3.15.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mice)
+
+The downloaded source packages are in
+	‘/tmp/RtmprEqYfD/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m5.544s
+user	0m3.767s
+sys	0m0.338s
