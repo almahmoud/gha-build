@@ -9042,7 +9042,6 @@
         "plotly",
         "rtracklayer"
     ],
-    "rcellminer": [],
     "rCGH": [
         "BiocFileCache",
         "GenomicAlignments",
