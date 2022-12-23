@@ -8185,7 +8185,6 @@
         "ComplexHeatmap",
         "httr",
         "knitr",
-        "skmeans",
         "stringr",
         "vctrs"
     ],
@@ -50644,7 +50643,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "skmeans": [],
     "cobs": [
         "quantreg"
     ],
