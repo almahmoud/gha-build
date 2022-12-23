@@ -38798,7 +38798,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ROSeq": [],
     "RPA": [
         "BiocStyle",
         "Biostrings",
