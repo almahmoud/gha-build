@@ -1345,7 +1345,6 @@
         "readxl",
         "scatterpie",
         "shadowtext",
-        "shinythemes",
         "testthat",
         "tidygraph",
         "tidyr",
@@ -2664,7 +2663,6 @@
         "rhdf5",
         "rtracklayer",
         "ruv",
-        "shinythemes",
         "sva",
         "tidyr",
         "viridis",
@@ -6933,7 +6931,6 @@
         "htmlwidgets",
         "rtracklayer",
         "shinyjs",
-        "shinythemes",
         "tidyr"
     ],
     "gage": [
@@ -9339,7 +9336,6 @@
         "learnr",
         "readr",
         "shinyjs",
-        "shinythemes",
         "shinyvalidate",
         "sortable",
         "tidyr",
@@ -12957,7 +12953,6 @@
         "shinyWidgets",
         "shinybusy",
         "shinyjs",
-        "shinythemes",
         "survMisc",
         "survminer",
         "testthat",
@@ -13845,7 +13840,6 @@
         "readxl",
         "rstatix",
         "shinyjs",
-        "shinythemes",
         "testthat",
         "tidyr",
         "viridis",
@@ -14248,7 +14242,6 @@
         "rhandsontable",
         "shinyjqui",
         "shinyjs",
-        "shinythemes",
         "tidyr",
         "vsn"
     ],
@@ -17115,7 +17108,6 @@
         "rtracklayer",
         "shinyWidgets",
         "shinyjs",
-        "shinythemes",
         "tidyr",
         "viridis",
         "vroom"
@@ -19751,7 +19743,6 @@
         "rtracklayer",
         "shinyTree",
         "shinyjs",
-        "shinythemes",
         "viridis"
     ],
     "VariantTools": [
@@ -20759,7 +20750,6 @@
         "vroom",
         "waldo"
     ],
-    "shinythemes": [],
     "org.Bt.eg.db": [
         "AnnotationDbi",
         "KEGGREST"
