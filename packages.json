@@ -3106,7 +3106,6 @@
         "WGCNA",
         "car",
         "clusterProfiler",
-        "cvms",
         "dendextend",
         "enrichplot",
         "ggpubr",
@@ -3122,7 +3121,6 @@
         "SPONGE",
         "car",
         "clusterProfiler",
-        "cvms",
         "enrichplot",
         "ggpubr",
         "ggraph",
@@ -5017,7 +5015,6 @@
     ],
     "SPONGE": [
         "car",
-        "cvms",
         "ggpubr",
         "pbkrtest",
         "rstatix"
@@ -5908,7 +5905,6 @@
         "dendextend",
         "viridis"
     ],
-    "cvms": [],
     "deconstructSigs": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
