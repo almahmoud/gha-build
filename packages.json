@@ -308,7 +308,6 @@
     "BgeeCall": [
         "rhdf5"
     ],
-    "BgeeDB": [],
     "bgx": [
         "affy",
         "gcrma"
@@ -3529,9 +3528,7 @@
         "recount",
         "viridis"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "ptairMS": [
         "Hmisc",
         "MSnbase",
@@ -3834,7 +3831,6 @@
         "xcms"
     ],
     "RITAN": [
-        "BgeeDB",
         "EnsDb.Hsapiens.v86",
         "ensembldb"
     ],
