@@ -6384,7 +6384,6 @@
         "rstatix",
         "testthat"
     ],
-    "MSA2dist": [],
     "MsExperiment": [
         "QFeatures",
         "plotly"
