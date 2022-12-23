@@ -1,0 +1,208 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   2c08feec..4d6c5f0d  main       -> origin/main
+Updating 2c08feec..4d6c5f0d
+Fast-forward
+ lists/pingr                                      |   2 +-
+ logs/run_ids/rstudio-binaries/ROI.plugin.lpsolve |   2 +
+ logs/run_ids/rstudio-binaries/Rmpfr              |   2 +
+ logs/sizes/rstudio-binaries/binaries/pingr       |   1 +
+ logs/sizes/rstudio-binaries/libraries/pingr      |   1 +
+ logs/times/rstudio-binary/pingr                  | 197 +++++++++++++++++++++++
+ packages.json                                    |   2 -
+ 7 files changed, 204 insertions(+), 3 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/pingr
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/pingr
+ create mode 100644 logs/times/rstudio-binary/pingr
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=rmio
++ PKG=rmio
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "rmio"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 28032  100 28032    0     0  63797      0 --:--:-- --:--:-- --:--:-- 63709
+built/
+built/bigassertr/
+built/bigassertr/NAMESPACE
+built/bigassertr/DESCRIPTION
+built/bigassertr/help/
+built/bigassertr/help/bigassertr.rdb
+built/bigassertr/help/paths.rds
+built/bigassertr/help/bigassertr.rdx
+built/bigassertr/help/aliases.rds
+built/bigassertr/help/AnIndex
+built/bigassertr/Meta/
+built/bigassertr/Meta/package.rds
+built/bigassertr/Meta/features.rds
+built/bigassertr/Meta/hsearch.rds
+built/bigassertr/Meta/links.rds
+built/bigassertr/Meta/nsInfo.rds
+built/bigassertr/Meta/Rd.rds
+built/bigassertr/html/
+built/bigassertr/html/00Index.html
+built/bigassertr/html/R.css
+built/bigassertr/INDEX
+built/bigassertr/R/
+built/bigassertr/R/bigassertr.rdb
+built/bigassertr/R/bigassertr
+built/bigassertr/R/bigassertr.rdx
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2 2643k    2 65280    0     0   108k      0  0:00:24 --:--:--  0:00:24  108k 33 2643k   33  877k    0     0   545k      0  0:00:04  0:00:01  0:00:03  545k 94 2643k   94 2487k    0     0   956k      0  0:00:02  0:00:02 --:--:--  956k100 2643k  100 2643k    0     0   993k      0  0:00:02  0:00:02 --:--:--  993k
+built/
+built/ff/
+built/ff/libs/
+built/ff/libs/ff.so
+built/ff/NEWS
+built/ff/NAMESPACE
+built/ff/exec/
+built/ff/exec/make_rd.pl
+built/ff/exec/prebuild.sh
+built/ff/DESCRIPTION
+built/ff/help/
+built/ff/help/paths.rds
+built/ff/help/ff.rdb
+built/ff/help/aliases.rds
+built/ff/help/ff.rdx
+built/ff/help/AnIndex
+built/ff/Meta/
+built/ff/Meta/package.rds
+built/ff/Meta/features.rds
+built/ff/Meta/hsearch.rds
+built/ff/Meta/links.rds
+built/ff/Meta/nsInfo.rds
+built/ff/Meta/Rd.rds
+built/ff/LICENSE
+built/ff/html/
+built/ff/html/00Index.html
+built/ff/html/R.css
+built/ff/INDEX
+built/ff/doc/
+built/ff/doc/ANNOUNCEMENT-2.2.txt
+built/ff/doc/README_devel.txt
+built/ff/doc/ANNOUNCEMENT-2.0.txt
+built/ff/doc/ANNOUNCEMENT-2.1.txt
+built/ff/doc/ANNOUNCEMENT-2.1.2.txt
+built/ff/R/
+built/ff/R/ff.rdb
+built/ff/R/ff
+built/ff/R/ff.rdx
+built/bit/
+built/bit/libs/
+built/bit/libs/bit.so
+built/bit/NEWS
+built/bit/NAMESPACE
+built/bit/DESCRIPTION
+built/bit/help/
+built/bit/help/bit.rdx
+built/bit/help/paths.rds
+built/bit/help/aliases.rds
+built/bit/help/bit.rdb
+built/bit/help/AnIndex
+built/bit/Meta/
+built/bit/Meta/package.rds
+built/bit/Meta/vignette.rds
+built/bit/Meta/features.rds
+built/bit/Meta/hsearch.rds
+built/bit/Meta/links.rds
+built/bit/Meta/nsInfo.rds
+built/bit/Meta/Rd.rds
+built/bit/html/
+built/bit/html/00Index.html
+built/bit/html/R.css
+built/bit/INDEX
+built/bit/doc/
+built/bit/doc/bit-demo.pdf
+built/bit/doc/bit-demo.R
+built/bit/doc/bit-usage.R
+built/bit/doc/bit-performance.pdf
+built/bit/doc/bit-demo.Rmd
+built/bit/doc/bit-usage.pdf
+built/bit/doc/bit-usage.Rmd
+built/bit/doc/bit-performance.R
+built/bit/doc/bit-performance.Rmd
+built/bit/doc/index.html
+built/bit/R/
+built/bit/R/bit.rdx
+built/bit/R/bit.rdb
+built/bit/R/bit
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''rmio'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv bigassertr_0.1.5_R_x86_64-pc-linux-gnu.tar.gz bit_4.0.5_R_x86_64-pc-linux-gnu.tar.gz ff_4.0.7_R_x86_64-pc-linux-gnu.tar.gz rmio_0.4.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/rmio
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'rmio'
+also installing the dependencies ‘bit’, ‘bigassertr’, ‘ff’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/bit_4.0.5.tar.gz'
+Content type 'binary/octet-stream' length 1121918 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/bigassertr_0.1.5.tar.gz'
+Content type 'binary/octet-stream' length 27850 bytes (27 KB)
+==================================================
+downloaded 27 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/ff_4.0.7.tar.gz'
+Content type 'binary/octet-stream' length 1588054 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/rmio_0.4.0.tar.gz'
+Content type 'binary/octet-stream' length 22164 bytes (21 KB)
+==================================================
+downloaded 21 KB
+
+* installing *binary* package ‘bit’ ...
+* ‘bit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bit’ as ‘bit_4.0.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit)
+* installing *binary* package ‘bigassertr’ ...
+* ‘bigassertr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bigassertr’ as ‘bigassertr_0.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bigassertr)
+* installing *binary* package ‘ff’ ...
+* ‘ff’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ff’ as ‘ff_4.0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ff)
+* installing *binary* package ‘rmio’ ...
+* ‘rmio’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rmio’ as ‘rmio_0.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rmio)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp31QXzk/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m12.540s
+user	0m5.749s
+sys	0m0.695s
