@@ -191,7 +191,6 @@
     ],
     "BitSeq": [],
     "blacksheepr": [
-        "DEXSeq",
         "pasilla"
     ],
     "BLMA": [],
@@ -617,7 +616,6 @@
     "DEsubs": [],
     "DEWSeq": [],
     "DExMA": [],
-    "DEXSeq": [],
     "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
@@ -626,7 +624,6 @@
         "rstatix"
     ],
     "diffUTR": [
-        "DEXSeq",
         "ensembldb"
     ],
     "diggit": [],
@@ -1132,9 +1129,7 @@
         "ggpubr",
         "rstatix"
     ],
-    "IntEREst": [
-        "DEXSeq"
-    ],
+    "IntEREst": [],
     "iPath": [
         "car",
         "ggpubr",
@@ -1151,7 +1146,6 @@
     "ISAnalytics": [],
     "iSEEhub": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "ensembldb",
         "tximeta"
     ],
@@ -2493,9 +2487,7 @@
     ],
     "synaptome.db": [],
     "biscuiteerData": [],
-    "pasilla": [
-        "DEXSeq"
-    ],
+    "pasilla": [],
     "GenomicState": [
         "GenomicFiles",
         "VariantAnnotation",
