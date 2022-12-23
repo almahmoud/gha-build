@@ -1533,9 +1533,7 @@
     ],
     "R453Plus1Toolbox": [],
     "RadioGx": [],
-    "RareVariantVis": [
-        "phastCons100way.UCSC.hg19"
-    ],
+    "RareVariantVis": [],
     "RCAS": [],
     "rCGH": [
         "TxDb.Hsapiens.UCSC.hg18.knownGene"
@@ -2170,7 +2168,6 @@
     "EnsDb.Rnorvegicus.v79": [
         "ensembldb"
     ],
-    "phastCons100way.UCSC.hg19": [],
     "Rmagic": [],
     "survivalAnalysis": [
         "car",
