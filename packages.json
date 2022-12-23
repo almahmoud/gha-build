@@ -1793,7 +1793,6 @@
         "enrichplot",
         "fgsea",
         "ggpmisc",
-        "ggpp",
         "ggraph",
         "ggthemes",
         "ggtree",
@@ -7545,7 +7544,6 @@
         "devtools",
         "genefilter",
         "ggpmisc",
-        "ggpp",
         "ggpubr",
         "ggsci",
         "ggsignif",
@@ -14872,10 +14870,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "ggpmisc": [
-        "ggpp"
-    ],
-    "ggpp": [],
+    "ggpmisc": [],
     "broom.mixed": [
         "broom"
     ],
