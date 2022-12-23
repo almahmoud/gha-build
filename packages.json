@@ -105,7 +105,6 @@
     ],
     "animalcules": [
         "DESeq2",
-        "caret",
         "geneplotter"
     ],
     "annmap": [
@@ -286,7 +285,6 @@
     ],
     "bandle": [
         "MLInterfaces",
-        "caret",
         "genefilter",
         "mixtools",
         "pRoloc"
@@ -554,8 +552,7 @@
     "BrainSABER": [],
     "branchpointer": [
         "BSgenome",
-        "BSgenome.Hsapiens.UCSC.hg38",
-        "caret"
+        "BSgenome.Hsapiens.UCSC.hg38"
     ],
     "BRGenomics": [
         "DESeq2",
@@ -800,7 +797,6 @@
     "CHETAH": [],
     "ChIC": [
         "ChIC.data",
-        "caret",
         "spp"
     ],
     "Chicago": [],
@@ -1064,7 +1060,6 @@
     ],
     "condiments": [
         "Ecume",
-        "caret",
         "distinct",
         "scater",
         "slingshot",
@@ -1265,7 +1260,6 @@
         "FactoMineR",
         "FlowSOM",
         "car",
-        "caret",
         "diffcyt",
         "factoextra",
         "ggpubr",
@@ -1278,7 +1272,6 @@
     "CytoGLMM": [
         "FactoMineR",
         "car",
-        "caret",
         "factoextra",
         "ggpubr",
         "lme4",
@@ -1311,7 +1304,6 @@
         "GenomicFeatures",
         "arm",
         "car",
-        "caret",
         "genefilter",
         "geneplotter",
         "lme4",
@@ -2124,7 +2116,6 @@
         "MLSeq",
         "arm",
         "car",
-        "caret",
         "genefilter",
         "geneplotter",
         "lme4",
@@ -2476,9 +2467,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "GWAS.BAYES": [
-        "caret"
-    ],
+    "GWAS.BAYES": [],
     "gwascat": [
         "AnnotationHub",
         "BSgenome",
@@ -2564,9 +2553,7 @@
         "hiAnnotator"
     ],
     "HiTC": [],
-    "HPiP": [
-        "caret"
-    ],
+    "HPiP": [],
     "HTSeqGenie": [
         "BSgenome",
         "GenomicFeatures",
@@ -2834,7 +2821,6 @@
         "rstatix"
     ],
     "KnowSeq": [
-        "caret",
         "genefilter",
         "sva"
     ],
@@ -2908,8 +2894,7 @@
         "AnnotationHub",
         "BSgenome",
         "ExperimentHub",
-        "adabag",
-        "caret"
+        "adabag"
     ],
     "Maaslin2": [
         "car",
@@ -2964,13 +2949,11 @@
         "treeio"
     ],
     "MAI": [
-        "caret",
         "tidyverse"
     ],
     "MAIT": [
         "CAMERA",
         "agricolae",
-        "caret",
         "klaR",
         "labelled",
         "plsgenomics",
@@ -2980,7 +2963,6 @@
         "reactome.db"
     ],
     "maPredictDSC": [
-        "caret",
         "hgu133plus2.db"
     ],
     "maser": [
@@ -3090,9 +3072,7 @@
         "genefilter"
     ],
     "Metab": [],
-    "metabCombiner": [
-        "caret"
-    ],
+    "metabCombiner": [],
     "MetaboAnnotation": [
         "CompoundDb",
         "QFeatures"
@@ -3303,7 +3283,6 @@
         "ANCOMBC",
         "DESeq2",
         "TreeSummarizedExperiment",
-        "caret",
         "geneplotter",
         "ggtree",
         "lme4",
@@ -3389,7 +3368,6 @@
         "SPONGE",
         "WGCNA",
         "car",
-        "caret",
         "clusterProfiler",
         "cvms",
         "enrichplot",
@@ -3410,7 +3388,6 @@
         "ReactomePA",
         "SPONGE",
         "car",
-        "caret",
         "clusterProfiler",
         "cvms",
         "enrichplot",
@@ -3437,9 +3414,7 @@
         "methylumi",
         "minfi"
     ],
-    "mistyR": [
-        "caret"
-    ],
+    "mistyR": [],
     "mitch": [],
     "mitoClone2": [
         "BSgenome",
@@ -3452,7 +3427,6 @@
     ],
     "MLSeq": [
         "DESeq2",
-        "caret",
         "geneplotter"
     ],
     "MMAPPR2": [
@@ -3609,7 +3583,6 @@
     ],
     "MSstatsSampleSize": [
         "MSstats",
-        "caret",
         "lme4",
         "nloptr"
     ],
@@ -3656,7 +3629,6 @@
         "ReactomePA",
         "anyLib",
         "biosigner",
-        "caret",
         "clusterProfiler",
         "devtools",
         "enrichplot",
@@ -4070,7 +4042,6 @@
     "PDATK": [
         "CoreGx",
         "car",
-        "caret",
         "genefu",
         "ggpubr",
         "lme4",
@@ -4147,9 +4118,7 @@
         "OmaDB",
         "topGO"
     ],
-    "Pi": [
-        "caret"
-    ],
+    "Pi": [],
     "piano": [],
     "Pigengene": [
         "DOSE",
@@ -4210,7 +4179,6 @@
     ],
     "POMA": [
         "DESeq2",
-        "caret",
         "geneplotter"
     ],
     "PoTRA": [],
@@ -4226,7 +4194,6 @@
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "caret",
         "rCGH"
     ],
     "PREDA": [],
@@ -4284,13 +4251,11 @@
     "projectR": [],
     "pRoloc": [
         "MLInterfaces",
-        "caret",
         "genefilter",
         "mixtools"
     ],
     "pRolocGUI": [
         "MLInterfaces",
-        "caret",
         "genefilter",
         "mixtools",
         "pRoloc"
@@ -4570,7 +4535,6 @@
         "BSgenome",
         "GenomicFeatures",
         "bumphunter",
-        "caret",
         "genefilter",
         "minfi"
     ],
@@ -4706,7 +4670,6 @@
         "ExperimentHub",
         "GenomicFeatures",
         "RLHub",
-        "caret",
         "caretEnsemble",
         "regioneR",
         "valr"
@@ -4921,8 +4884,7 @@
     ],
     "scAnnotatR": [
         "AnnotationHub",
-        "Seurat",
-        "caret"
+        "Seurat"
     ],
     "SCANVIS": [],
     "SCATE": [
@@ -4972,7 +4934,6 @@
     ],
     "scGPS": [
         "DESeq2",
-        "caret",
         "geneplotter"
     ],
     "schex": [
@@ -5420,7 +5381,6 @@
     ],
     "SPONGE": [
         "car",
-        "caret",
         "cvms",
         "ggpubr",
         "lme4",
@@ -5498,15 +5458,11 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "SubCellBarCode": [
-        "caret"
-    ],
+    "SubCellBarCode": [],
     "Summix": [
         "nloptr"
     ],
-    "supersigs": [
-        "caret"
-    ],
+    "supersigs": [],
     "surfaltr": [],
     "survtype": [
         "car",
@@ -5613,7 +5569,6 @@
         "VariantAnnotation",
         "biovizBase",
         "car",
-        "caret",
         "clusterProfiler",
         "enrichplot",
         "ensembldb",
@@ -5734,7 +5689,6 @@
     ],
     "transcriptR": [
         "GenomicFeatures",
-        "caret",
         "chipseq"
     ],
     "transformGamPoi": [],
@@ -6072,7 +6026,6 @@
         "nloptr"
     ],
     "ReorderCluster": [],
-    "caret": [],
     "Seurat": [],
     "BSgenome.Hsapiens.UCSC.hg19": [
         "BSgenome"
@@ -6235,9 +6188,7 @@
         "GenomicFeatures"
     ],
     "spp": [],
-    "ChIC.data": [
-        "caret"
-    ],
+    "ChIC.data": [],
     "BSgenome.Mmusculus.UCSC.mm9": [
         "BSgenome"
     ],
@@ -6273,7 +6224,6 @@
         "rstatix"
     ],
     "Ecume": [
-        "caret",
         "spatstat"
     ],
     "spatstat": [],
@@ -6385,9 +6335,7 @@
     ],
     "hgu95av2.db": [],
     "reldist": [],
-    "adabag": [
-        "caret"
-    ],
+    "adabag": [],
     "glmmTMB": [
         "lme4",
         "nloptr"
@@ -6520,9 +6468,7 @@
         "AnnotationHub"
     ],
     "valr": [],
-    "caretEnsemble": [
-        "caret"
-    ],
+    "caretEnsemble": [],
     "RLHub": [
         "AnnotationHub",
         "ExperimentHub"
