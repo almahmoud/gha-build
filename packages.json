@@ -5164,7 +5164,6 @@
         "metap",
         "mnem",
         "modelr",
-        "mutoss",
         "org.Hs.eg.db",
         "pcalg",
         "readr",
@@ -6385,7 +6384,6 @@
         "hgu133plus2.db",
         "htmlwidgets",
         "metap",
-        "mutoss",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "org.Rn.eg.db",
@@ -12103,7 +12101,6 @@
         "ggplot2",
         "htmlwidgets",
         "metap",
-        "mutoss",
         "plotly",
         "rmarkdown",
         "tidyr",
@@ -13962,8 +13959,7 @@
         "fgsea",
         "ggplot2",
         "graphite",
-        "metap",
-        "mutoss"
+        "metap"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -14025,7 +14021,6 @@
         "metap",
         "miniUI",
         "mixOmics",
-        "mutoss",
         "networkD3",
         "patchwork",
         "pkgdown",
@@ -14284,7 +14279,6 @@
         "interactiveDisplayBase",
         "metap",
         "motifStack",
-        "mutoss",
         "readr",
         "regioneR",
         "rhdf5",
@@ -15488,7 +15482,6 @@
         "ggtree",
         "gson",
         "metap",
-        "mutoss",
         "org.Hs.eg.db",
         "patchwork",
         "qvalue",
@@ -18620,7 +18613,6 @@
         "htmlwidgets",
         "lme4",
         "metap",
-        "mutoss",
         "nloptr",
         "pbkrtest",
         "plotly",
@@ -20336,7 +20328,6 @@
         "miniUI",
         "msigdbr",
         "multipanelfigure",
-        "mutoss",
         "org.Hs.eg.db",
         "patchwork",
         "plotly",
@@ -25080,11 +25071,9 @@
         "waldo"
     ],
     "metap": [
-        "TFisher",
-        "mutoss"
+        "TFisher"
     ],
     "TFisher": [],
-    "mutoss": [],
     "DMwR2": [
         "dplyr",
         "readr",
