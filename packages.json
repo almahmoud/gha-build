@@ -10062,7 +10062,6 @@
     "sangeranalyseR": [
         "BiocStyle",
         "DT",
-        "excelR",
         "plotly"
     ],
     "satuRn": [],
@@ -13539,7 +13538,6 @@
         "interactiveDisplayBase"
     ],
     "TBX20BamSubset": [],
-    "excelR": [],
     "scanMiRData": [
         "scanMiR"
     ],
