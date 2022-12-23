@@ -1,25 +1,12 @@
 + git pull origin main
 From https://github.com/almahmoud/gha-build
  * branch              main       -> FETCH_HEAD
-   e062270a..5a0c53b3  main       -> origin/main
-Updating e062270a..5a0c53b3
+   fdc5ca96..08874104  main       -> origin/main
+Updating fdc5ca96..08874104
 Fast-forward
- lists/BRISC                                      |    2 +-
- lists/CGHregions                                 |    2 +-
- logs/sizes/rstudio-binaries/binaries/BRISC       |    1 +
- logs/sizes/rstudio-binaries/binaries/CGHregions  |    1 +
- logs/sizes/rstudio-binaries/libraries/BRISC      |    1 +
- logs/sizes/rstudio-binaries/libraries/CGHregions |    1 +
- logs/times/rstudio-binary/BRISC                  | 2323 ++++++++++++++++++++++
- logs/times/rstudio-binary/CGHregions             |   80 +
- packages.json                                    |    3 -
- 9 files changed, 2409 insertions(+), 5 deletions(-)
- create mode 100644 logs/sizes/rstudio-binaries/binaries/BRISC
- create mode 100644 logs/sizes/rstudio-binaries/binaries/CGHregions
- create mode 100644 logs/sizes/rstudio-binaries/libraries/BRISC
- create mode 100644 logs/sizes/rstudio-binaries/libraries/CGHregions
- create mode 100644 logs/times/rstudio-binary/BRISC
- create mode 100644 logs/times/rstudio-binary/CGHregions
+ logs/run_ids/rstudio-binaries/gap     | 2 ++
+ logs/run_ids/rstudio-binaries/pwrEWAS | 2 ++
+ 2 files changed, 4 insertions(+)
 + export LIBRARY=/__w/gha-build/gha-build/built/
 + LIBRARY=/__w/gha-build/gha-build/built/
 + export PKG=mGSZ
@@ -37,6 +24,6 @@ Fast-forward
 No dependencies
 + Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''mGSZ'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
 
-real	0m4.737s
-user	0m3.311s
-sys	0m0.208s
+real	0m6.556s
+user	0m3.713s
+sys	0m0.298s
