@@ -15028,7 +15028,6 @@
         "ggforce",
         "ggrepel",
         "googlesheets4",
-        "gstat",
         "haven",
         "htmlwidgets",
         "lme4",
@@ -18170,7 +18169,6 @@
     "rsample": [
         "tidyr"
     ],
-    "gstat": [],
     "SpatialExtremes": [
         "fields",
         "viridis"
