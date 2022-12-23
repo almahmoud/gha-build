@@ -73849,7 +73849,6 @@
         "dplyr",
         "ellipsis",
         "filelock",
-        "filematrix",
         "foreach",
         "futile.logger",
         "generics",
@@ -116237,7 +116236,6 @@
         "numDeriv",
         "optimx"
     ],
-    "filematrix": [],
     "googleVis": [],
     "phastCons100way.UCSC.hg19": [
         "AnnotationDbi",
