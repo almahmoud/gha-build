@@ -503,9 +503,7 @@
         "biovizBase",
         "ensembldb"
     ],
-    "BUMHMM": [
-        "devtools"
-    ],
+    "BUMHMM": [],
     "bumphunter": [
         "GenomicFeatures"
     ],
@@ -883,9 +881,7 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
-    "cogena": [
-        "devtools"
-    ],
+    "cogena": [],
     "cogeqc": [
         "ggtree"
     ],
@@ -1892,9 +1888,7 @@
     "gcapc": [
         "BSgenome"
     ],
-    "GCSscore": [
-        "devtools"
-    ],
+    "GCSscore": [],
     "GDCRNATools": [
         "DESeq2",
         "DOSE",
@@ -2347,9 +2341,7 @@
     "ImmuneSpaceR": [
         "heatmaply"
     ],
-    "INDEED": [
-        "devtools"
-    ],
+    "INDEED": [],
     "infercnv": [
         "Seurat"
     ],
@@ -2831,7 +2823,6 @@
         "OrganismDbi",
         "bumphunter",
         "car",
-        "devtools",
         "genefilter",
         "ggpubr",
         "lme4",
@@ -2886,9 +2877,7 @@
         "genefilter",
         "minfi"
     ],
-    "MetID": [
-        "devtools"
-    ],
+    "MetID": [],
     "mfa": [],
     "MGFR": [],
     "mia": [
@@ -3207,7 +3196,6 @@
         "anyLib",
         "biosigner",
         "clusterProfiler",
-        "devtools",
         "enrichplot",
         "ggtree"
     ],
@@ -3478,9 +3466,7 @@
         "GSEABase",
         "GSVA"
     ],
-    "oppti": [
-        "devtools"
-    ],
+    "oppti": [],
     "ORFhunteR": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38"
@@ -3545,8 +3531,7 @@
     ],
     "PAST": [],
     "PathoStat": [
-        "DESeq2",
-        "devtools"
+        "DESeq2"
     ],
     "pathview": [],
     "pcaExplorer": [
@@ -4128,8 +4113,7 @@
     "Rmmquant": [
         "DESeq2",
         "GenomicFeatures",
-        "TxDb.Mmusculus.UCSC.mm9.knownGene",
-        "devtools"
+        "TxDb.Mmusculus.UCSC.mm9.knownGene"
     ],
     "rmspc": [],
     "RNAAgeCalc": [
@@ -4784,7 +4768,6 @@
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
-        "devtools",
         "ensembldb"
     ],
     "ssPATHS": [
@@ -5454,7 +5437,6 @@
     "BSgenome.Hsapiens.UCSC.hg38": [
         "BSgenome"
     ],
-    "devtools": [],
     "drc": [
         "car",
         "lme4",
@@ -5664,9 +5646,7 @@
     "cvms": [
         "lme4"
     ],
-    "anyLib": [
-        "devtools"
-    ],
+    "anyLib": [],
     "blme": [
         "lme4"
     ],
