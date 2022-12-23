@@ -112,9 +112,7 @@
         "ggpubr"
     ],
     "consensusDE": [],
-    "conumee": [
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
-    ],
+    "conumee": [],
     "CopyNumberPlots": [],
     "crisprseekplus": [],
     "crisprVerse": [
@@ -181,9 +179,7 @@
     "epihet": [
         "EntropyExplorer"
     ],
-    "epimutacions": [
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
-    ],
+    "epimutacions": [],
     "epivizrStandalone": [],
     "esATAC": [],
     "EWCE": [
@@ -627,7 +623,6 @@
     "factoextra": [
         "ggpubr"
     ],
-    "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "text2vec": [
         "mlapi"
     ],
