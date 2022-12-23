@@ -27387,7 +27387,6 @@
         "GenomeInfoDb",
         "KEGGREST",
         "PSCBS",
-        "R.devices",
         "R.filesets",
         "R.rsp",
         "RSQLite",
@@ -38938,7 +38937,6 @@
         "Hmisc",
         "KEGGREST",
         "PSCBS",
-        "R.devices",
         "R.filesets",
         "R.rsp",
         "RSQLite",
@@ -46142,7 +46140,6 @@
     ],
     "aroma.affymetrix": [
         "PSCBS",
-        "R.devices",
         "R.filesets",
         "R.rsp",
         "aroma.apd",
@@ -46151,12 +46148,10 @@
     ],
     "aroma.core": [
         "PSCBS",
-        "R.devices",
         "R.filesets",
         "R.rsp",
         "aroma.light"
     ],
-    "R.devices": [],
     "R.filesets": [],
     "aroma.apd": [],
     "R.rsp": [],
