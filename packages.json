@@ -7717,7 +7717,6 @@
         "rtracklayer",
         "tidyr"
     ],
-    "KCsmart": [],
     "KEGGlincs": [
         "AnnotationDbi",
         "hgu133a.db",
