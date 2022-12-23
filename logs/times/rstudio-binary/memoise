@@ -1,0 +1,169 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   e28e66ee..311e4f20  main       -> origin/main
+Updating e28e66ee..311e4f20
+Fast-forward
+ lists/basilisk.utils                               |   2 +-
+ lists/bcellViper                                   |   2 +-
+ logs/run_ids/rstudio-binaries/changepoint          |   2 +
+ .../sizes/rstudio-binaries/binaries/basilisk.utils |   1 +
+ .../rstudio-binaries/libraries/basilisk.utils      |   1 +
+ logs/times/rstudio-binary/basilisk.utils           | 167 +++++++++++++++++++++
+ packages.json                                      |  26 ----
+ 7 files changed, 173 insertions(+), 28 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/basilisk.utils
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/basilisk.utils
+ create mode 100644 logs/times/rstudio-binary/basilisk.utils
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=memoise
++ PKG=memoise
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "memoise"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 16 2166k   16  362k    0     0   331k      0  0:00:06  0:00:01  0:00:05  331k 68 2166k   68 1478k    0     0   708k      0  0:00:03  0:00:02  0:00:01  708k100 2166k  100 2166k    0     0   838k      0  0:00:02  0:00:02 --:--:--  838k
+built/
+built/fastmap/
+built/fastmap/libs/
+built/fastmap/libs/fastmap.so
+built/fastmap/NAMESPACE
+built/fastmap/DESCRIPTION
+built/fastmap/help/
+built/fastmap/help/paths.rds
+built/fastmap/help/fastmap.rdb
+built/fastmap/help/fastmap.rdx
+built/fastmap/help/aliases.rds
+built/fastmap/help/AnIndex
+built/fastmap/Meta/
+built/fastmap/Meta/package.rds
+built/fastmap/Meta/features.rds
+built/fastmap/Meta/hsearch.rds
+built/fastmap/Meta/links.rds
+built/fastmap/Meta/nsInfo.rds
+built/fastmap/Meta/Rd.rds
+built/fastmap/LICENSE
+built/fastmap/html/
+built/fastmap/html/00Index.html
+built/fastmap/html/R.css
+built/fastmap/INDEX
+built/fastmap/R/
+built/fastmap/R/fastmap
+built/fastmap/R/fastmap.rdb
+built/fastmap/R/fastmap.rdx
+built/fastmap/NEWS.md
+built/cachem/
+built/cachem/libs/
+built/cachem/libs/cachem.so
+built/cachem/NAMESPACE
+built/cachem/DESCRIPTION
+built/cachem/help/
+built/cachem/help/cachem.rdb
+built/cachem/help/paths.rds
+built/cachem/help/aliases.rds
+built/cachem/help/cachem.rdx
+built/cachem/help/AnIndex
+built/cachem/Meta/
+built/cachem/Meta/package.rds
+built/cachem/Meta/features.rds
+built/cachem/Meta/hsearch.rds
+built/cachem/Meta/links.rds
+built/cachem/Meta/nsInfo.rds
+built/cachem/Meta/Rd.rds
+built/cachem/LICENSE
+built/cachem/html/
+built/cachem/html/00Index.html
+built/cachem/html/R.css
+built/cachem/INDEX
+built/cachem/R/
+built/cachem/R/cachem.rdb
+built/cachem/R/cachem
+built/cachem/R/cachem.rdx
+built/cachem/NEWS.md
+built/rlang/
+built/rlang/libs/
+built/rlang/libs/rlang.so
+built/rlang/NAMESPACE
+built/rlang/DESCRIPTION
+built/rlang/help/
+built/rlang/help/rlang.rdb
+built/rlang/help/paths.rds
+built/rlang/help/rlang.rdx
+built/rlang/help/aliases.rds
+built/rlang/help/figures/
+built/rlang/help/figures/lifecycle-soft-deprecated.svg
+built/rlang/help/figures/lifecycle-experimental.svg
+built/rlang/help/figures/lifecycle-deprecated.svg
+built/rlang/help/figures/lifecycle-maturing.svg
+built/rlang/help/figures/lifecycle-superseded.svg
+built/rlang/help/figures/logo.png
+built/rlang/help/figures/lifecycle-questioning.svg
+built/rlang/help/figures/lifecycle-defunct.svg
+built/rlang/help/figures/lifecycle-archived.svg
+built/rlang/help/figures/lifecycle-retired.svg
+built/rlang/help/figures/lifecycle-stable.svg
+built/rlang/help/AnIndex
+built/rlang/Meta/
+built/rlang/Meta/package.rds
+built/rlang/Meta/features.rds
+built/rlang/Meta/hsearch.rds
+built/rlang/Meta/links.rds
+built/rlang/Meta/nsInfo.rds
+built/rlang/Meta/Rd.rds
+built/rlang/LICENSE
+built/rlang/html/
+built/rlang/html/00Index.html
+built/rlang/html/R.css
+built/rlang/INDEX
+built/rlang/R/
+built/rlang/R/rlang.rdb
+built/rlang/R/rlang.rdx
+built/rlang/R/rlang
+built/rlang/backtrace-ver
+built/rlang/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''memoise'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv memoise_2.0.1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/memoise
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'memoise'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/memoise_2.0.1.tar.gz'
+Content type 'binary/octet-stream' length 47536 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+* installing *binary* package ‘memoise’ ...
+* ‘memoise’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘memoise’ as ‘memoise_2.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (memoise)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp83w7HZ/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m9.072s
+user	0m3.748s
+sys	0m0.305s
