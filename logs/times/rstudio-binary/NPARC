@@ -1,0 +1,86 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   f862edf1..fea3386b  main       -> origin/main
+Updating f862edf1..fea3386b
+Fast-forward
+ lists/GGPA                                   |    2 +-
+ lists/gpuMagic                               |    2 +-
+ lists/heatmaps                               |    2 +-
+ lists/iCOBRA                                 |    2 +-
+ logs/run_ids/rstudio-binaries/OMICsPCAdata   |    2 +
+ logs/sizes/rstudio-binaries/binaries/iCOBRA  |    1 +
+ logs/sizes/rstudio-binaries/libraries/iCOBRA |    1 +
+ logs/times/rstudio-binary/iCOBRA             | 4735 ++++++++++++++++++++++++++
+ packages.json                                |    4 -
+ 9 files changed, 4743 insertions(+), 8 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/OMICsPCAdata
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/iCOBRA
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/iCOBRA
+ create mode 100644 logs/times/rstudio-binary/iCOBRA
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=NPARC
++ PKG=NPARC
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "NPARC"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency BiocParallel is already found.
+Dependency broom is already found.
+Dependency MASS is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''NPARC'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv NPARC_1.10.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/NPARC
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'NPARC'
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/NPARC_1.10.0.tar.gz'
+Content type 'application/x-gzip' length 2312534 bytes (2.2 MB)
+==================================================
+downloaded 2.2 MB
+
+* installing *source* package ‘NPARC’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘NPARC’ as ‘NPARC_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (NPARC)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpph1Ehj/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m11.358s
+user	0m7.585s
+sys	0m0.795s
