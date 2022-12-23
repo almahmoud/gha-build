@@ -481,7 +481,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "NADA",
-        "Rfast",
         "SummarizedExperiment",
         "XVector",
         "multtest",
@@ -611,7 +610,6 @@
     "AlpsNMR": [
         "BiocParallel",
         "RSpectra",
-        "Rfast",
         "bslib",
         "cellranger",
         "doRNG",
@@ -2690,7 +2688,6 @@
         "ROI.plugin.lpsolve",
         "RSQLite",
         "RcppML",
-        "Rfast",
         "ScaledMatrix",
         "Seurat",
         "SeuratObject",
@@ -8261,7 +8258,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "RcppML",
-        "Rfast",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -8760,7 +8756,6 @@
     ],
     "COTAN": [
         "ComplexHeatmap",
-        "Rfast",
         "dplyr",
         "ggplot2",
         "ggrepel",
@@ -11499,7 +11494,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "RcppML",
-        "Rfast",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -20849,7 +20843,6 @@
         "GenomicRanges",
         "KEGGREST",
         "RSQLite",
-        "Rfast",
         "SummarizedExperiment",
         "XVector",
         "biomaRt",
@@ -23829,7 +23822,6 @@
         "DelayedArray",
         "GenomeInfoDb",
         "GenomicRanges",
-        "Rfast",
         "SummarizedExperiment",
         "XVector",
         "bslib",
@@ -24270,7 +24262,6 @@
         "NADA",
         "RSQLite",
         "RcppML",
-        "Rfast",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
@@ -28324,7 +28315,6 @@
         "KEGGREST",
         "RSQLite",
         "RUVSeq",
-        "Rfast",
         "Rsamtools",
         "ScaledMatrix",
         "ShortRead",
@@ -28595,7 +28585,6 @@
         "GenomeInfoDb",
         "GenomicRanges",
         "NADA",
-        "Rfast",
         "SummarizedExperiment",
         "XVector",
         "bslib",
@@ -29164,7 +29153,6 @@
         "waldo"
     ],
     "optimalFlow": [
-        "Rfast",
         "bslib",
         "dplyr",
         "feature",
@@ -30335,7 +30323,6 @@
         "viridis"
     ],
     "PhenStat": [
-        "Rfast",
         "SmoothWin",
         "broom",
         "car",
@@ -31938,7 +31925,6 @@
         "Hmisc",
         "KEGGREST",
         "RSQLite",
-        "Rfast",
         "Rsamtools",
         "SummarizedExperiment",
         "TTR",
@@ -44579,9 +44565,7 @@
         "tibble",
         "tidyselect"
     ],
-    "VERSO": [
-        "Rfast"
-    ],
+    "VERSO": [],
     "vidger": [
         "AnnotationDbi",
         "BiocParallel",
@@ -45423,7 +45407,6 @@
         "KEGGREST",
         "KEGGgraph",
         "RSQLite",
-        "Rfast",
         "SPIA",
         "SummarizedExperiment",
         "XVector",
@@ -45880,7 +45863,6 @@
     "zCompositions": [
         "NADA"
     ],
-    "Rfast": [],
     "NADA": [],
     "shinydashboard": [
         "bslib",
@@ -45897,7 +45879,6 @@
         "tibble"
     ],
     "speaq": [
-        "Rfast",
         "doRNG",
         "ggplot2",
         "httr",
@@ -50688,9 +50669,7 @@
     ],
     "magicaxis": [],
     "PMCMRplus": [],
-    "SmoothWin": [
-        "Rfast"
-    ],
+    "SmoothWin": [],
     "osfr": [
         "httr",
         "purrr",
