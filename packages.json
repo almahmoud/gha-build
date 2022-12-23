@@ -624,7 +624,6 @@
         "tidytree",
         "treeio"
     ],
-    "BiocDockerManager": [],
     "BiocFHIR": [],
     "biocGraph": [
         "annotate",
