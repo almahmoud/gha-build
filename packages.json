@@ -4354,7 +4354,6 @@
         "tidyr",
         "waldo"
     ],
-    "dcanr": [],
     "dce": [
         "AnnotationDbi",
         "KEGGREST",
