@@ -9193,7 +9193,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "transport",
         "uwot",
         "vctrs",
         "viridis"
@@ -9615,7 +9614,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "transport",
         "vctrs"
     ],
     "CORREP": [],
@@ -30590,7 +30588,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "transport",
         "vctrs"
     ],
     "Nebulosa": [
@@ -32350,7 +32347,6 @@
         "stringr",
         "tibble",
         "tidyselect",
-        "transport",
         "vctrs"
     ],
     "OPWeight": [
@@ -53836,7 +53832,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "transport",
         "vctrs"
     ],
     "spatstat": [
@@ -53845,7 +53840,6 @@
         "spatstat.model",
         "spatstat.random"
     ],
-    "transport": [],
     "spatstat.model": [
         "spatstat.explore",
         "spatstat.random"
