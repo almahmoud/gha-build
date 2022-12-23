@@ -1819,9 +1819,7 @@
         "ggtree"
     ],
     "girafe": [],
-    "GISPA": [
-        "HH"
-    ],
+    "GISPA": [],
     "Glimma": [
         "DESeq2"
     ],
@@ -4877,7 +4875,6 @@
     "shinyHeatmaply": [
         "heatmaply"
     ],
-    "HH": [],
     "HiContactsData": [
         "AnnotationHub",
         "ExperimentHub"
