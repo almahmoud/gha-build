@@ -3937,7 +3937,6 @@
         "SpatialExperiment",
         "rhdf5"
     ],
-    "SpidermiR": [],
     "spiky": [],
     "splatter": [
         "scater",
@@ -4015,9 +4014,7 @@
         "cellHTS2",
         "vsn"
     ],
-    "StarBioTrek": [
-        "SpidermiR"
-    ],
+    "StarBioTrek": [],
     "STATegRa": [
         "affy"
     ],
