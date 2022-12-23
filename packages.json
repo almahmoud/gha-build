@@ -839,7 +839,6 @@
         "ggpubr",
         "motifmatchr",
         "pbkrtest",
-        "pipeFrame",
         "rstatix"
     ],
     "ensembldb": [],
@@ -930,8 +929,7 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "clusterProfiler",
         "enrichplot",
-        "motifmatchr",
-        "pipeFrame"
+        "motifmatchr"
     ],
     "escape": [],
     "EventPointer": [
@@ -2014,7 +2012,6 @@
         "ensembldb"
     ],
     "pipeComp": [],
-    "pipeFrame": [],
     "PloGO2": [
         "GOstats"
     ],
