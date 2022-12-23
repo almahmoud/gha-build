@@ -5882,7 +5882,6 @@
     "netOmics": [
         "GO.db",
         "RandomWalkRestartMH",
-        "dnet",
         "gprofiler2"
     ],
     "netresponse": [],
@@ -6424,8 +6423,7 @@
         "rhdf5"
     ],
     "Pi": [
-        "caret",
-        "dnet"
+        "caret"
     ],
     "piano": [],
     "PICS": [],
@@ -6927,9 +6925,7 @@
     "ramwas": [
         "biomaRt"
     ],
-    "RandomWalkRestartMH": [
-        "dnet"
-    ],
+    "RandomWalkRestartMH": [],
     "RAREsim": [
         "nloptr"
     ],
@@ -10109,7 +10105,6 @@
         "rtracklayer"
     ],
     "mppa": [],
-    "dnet": [],
     "RcmdrMisc": [
         "Hmisc",
         "car",
