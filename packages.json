@@ -210,9 +210,7 @@
         "geneplotter",
         "rtracklayer"
     ],
-    "apComplex": [
-        "org.Sc.sgd.db"
-    ],
+    "apComplex": [],
     "APL": [
         "Seurat",
         "org.Hs.eg.db",
@@ -2736,7 +2734,6 @@
         "Hmisc",
         "LiquidAssociation",
         "WGCNA",
-        "org.Sc.sgd.db",
         "viridis"
     ],
     "FastqCleaner": [
@@ -3905,9 +3902,7 @@
     "lipidr": [
         "ropls"
     ],
-    "LiquidAssociation": [
-        "org.Sc.sgd.db"
-    ],
+    "LiquidAssociation": [],
     "lisaClust": [
         "DropletUtils",
         "HDF5Array",
@@ -6597,7 +6592,6 @@
         "ggtree",
         "lme4",
         "org.Hs.eg.db",
-        "org.Sc.sgd.db",
         "pathview",
         "pbkrtest",
         "rstatix",
@@ -8373,7 +8367,6 @@
         "lme4"
     ],
     "ReorderCluster": [],
-    "org.Sc.sgd.db": [],
     "Seurat": [],
     "org.Hs.eg.db": [],
     "org.Mm.eg.db": [],
