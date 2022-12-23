@@ -57804,7 +57804,6 @@
         "tibble",
         "vctrs"
     ],
-    "rnaseqcomp": [],
     "RNASeqR": [
         "AnnotationDbi",
         "Biobase",
