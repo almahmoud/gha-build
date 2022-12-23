@@ -2569,7 +2569,6 @@
         "biocViews",
         "dbplyr",
         "dplyr",
-        "gh",
         "htmlwidgets",
         "knitr",
         "pillar",
@@ -2615,7 +2614,6 @@
         "stringr"
     ],
     "biocthis": [
-        "gh",
         "purrr",
         "styler",
         "usethis"
@@ -2624,7 +2622,6 @@
     "BiocWorkflowTools": [
         "BiocStyle",
         "bookdown",
-        "gh",
         "knitr",
         "purrr",
         "rmarkdown",
@@ -3583,7 +3580,6 @@
         "XVector",
         "devtools",
         "downlit",
-        "gh",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -6149,7 +6145,6 @@
         "downlit",
         "dplyr",
         "ggplot2",
-        "gh",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -8008,7 +8003,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "gh",
         "knitr",
         "lme4",
         "megadepth",
@@ -12473,7 +12467,6 @@
         "devtools",
         "downlit",
         "dplR",
-        "gh",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -15190,7 +15183,6 @@
         "available",
         "biocthis",
         "dplyr",
-        "gh",
         "pillar",
         "purrr",
         "stringr",
@@ -15693,7 +15685,6 @@
     "INDEED": [
         "devtools",
         "downlit",
-        "gh",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -15965,7 +15956,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "gh",
         "golem",
         "htmlwidgets",
         "knitr",
@@ -18153,7 +18143,6 @@
         "XVector",
         "cmdfun",
         "dplyr",
-        "gh",
         "pillar",
         "progress",
         "purrr",
@@ -18200,7 +18189,6 @@
         "dplyr",
         "ggplot2",
         "ggseqlogo",
-        "gh",
         "patchwork",
         "pillar",
         "progress",
@@ -18976,7 +18964,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "gh",
         "googledrive",
         "googlesheets4",
         "haven",
@@ -19263,7 +19250,6 @@
         "devtools",
         "downlit",
         "ggplot2",
-        "gh",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -19621,7 +19607,6 @@
         "ggraph",
         "ggrepel",
         "ggtree",
-        "gh",
         "golem",
         "gson",
         "htmlwidgets",
@@ -21620,7 +21605,6 @@
         "ggraph",
         "ggrepel",
         "ggtree",
-        "gh",
         "golem",
         "graphite",
         "gson",
@@ -22920,7 +22904,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "gh",
         "htmlTable",
         "htmlwidgets",
         "knitr",
@@ -23506,7 +23489,6 @@
         "devtools",
         "downlit",
         "ggplot2",
-        "gh",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -24001,7 +23983,6 @@
         "dplyr",
         "geneplotter",
         "ggplot2",
-        "gh",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -28079,7 +28060,6 @@
         "dplyr",
         "geneplotter",
         "ggplot2",
-        "gh",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -32730,7 +32710,6 @@
         "ensembldb",
         "geneplotter",
         "ggplot2",
-        "gh",
         "htmlTable",
         "htmlwidgets",
         "knitr",
@@ -35131,7 +35110,6 @@
         "DT",
         "dplyr",
         "ggplot2",
-        "gh",
         "golem",
         "htmlwidgets",
         "knitr",
@@ -36312,7 +36290,6 @@
         "XVector",
         "dplyr",
         "ggplot2",
-        "gh",
         "golem",
         "htmlwidgets",
         "knitr",
@@ -38034,7 +38011,6 @@
         "pillar",
         "tibble"
     ],
-    "gh": [],
     "rorcid": [
         "pillar",
         "tibble"
@@ -38043,7 +38019,6 @@
         "purrr"
     ],
     "usethis": [
-        "gh",
         "purrr"
     ],
     "rms": [
@@ -38316,7 +38291,6 @@
     ],
     "devtools": [
         "downlit",
-        "gh",
         "htmlwidgets",
         "knitr",
         "miniUI",
@@ -39278,7 +39252,6 @@
         "vsn"
     ],
     "cmdfun": [
-        "gh",
         "pillar",
         "purrr",
         "rematch2",
@@ -39917,7 +39890,6 @@
     ],
     "Rlabkey": [],
     "golem": [
-        "gh",
         "knitr",
         "purrr",
         "roxygen2",
@@ -40519,7 +40491,6 @@
     "anyLib": [
         "devtools",
         "downlit",
-        "gh",
         "htmlwidgets",
         "knitr",
         "miniUI",
