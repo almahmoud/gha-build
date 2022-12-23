@@ -454,7 +454,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "plyranges",
         "viridis"
     ],
     "borealis": [
@@ -498,8 +497,7 @@
     ],
     "bumphunter": [],
     "BUSpaRse": [
-        "ensembldb",
-        "plyranges"
+        "ensembldb"
     ],
     "CAFE": [
         "Hmisc",
@@ -651,9 +649,7 @@
     "CexoR": [
         "genomation"
     ],
-    "cfDNAPro": [
-        "plyranges"
-    ],
+    "cfDNAPro": [],
     "cghMCR": [
         "CNTools"
     ],
@@ -1149,7 +1145,6 @@
         "basilisk",
         "car",
         "ggpubr",
-        "plyranges",
         "rstatix"
     ],
     "dce": [
@@ -2177,8 +2172,7 @@
     ],
     "InPAS": [
         "BSgenome.Drerio.UCSC.danRer7",
-        "cleanUpdTSeq",
-        "plyranges"
+        "cleanUpdTSeq"
     ],
     "INSPEcT": [
         "DESeq2",
@@ -2281,8 +2275,7 @@
     "katdetectr": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "VariantAnnotation",
-        "plyranges"
+        "VariantAnnotation"
     ],
     "KEGGlincs": [],
     "keggorthology": [],
@@ -2623,7 +2616,6 @@
         "bsseq",
         "bumphunter",
         "minfi",
-        "plyranges",
         "rhdf5"
     ],
     "methylclock": [
@@ -3005,7 +2997,6 @@
         "biovizBase",
         "ensembldb",
         "karyoploteR",
-        "plyranges",
         "regioneR",
         "rhdf5",
         "viridis"
@@ -3104,8 +3095,7 @@
     ],
     "nearBynding": [
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Hsapiens.UCSC.hg38.knownGene",
-        "plyranges"
+        "TxDb.Hsapiens.UCSC.hg38.knownGene"
     ],
     "Nebulosa": [
         "Seurat"
@@ -3171,9 +3161,7 @@
     ],
     "normr": [],
     "npGSEA": [],
-    "nullranges": [
-        "plyranges"
-    ],
+    "nullranges": [],
     "NxtIRFcore": [
         "HDF5Array",
         "NxtIRFdata",
@@ -3199,7 +3187,6 @@
         "dasper",
         "derfinder",
         "ggpubr",
-        "plyranges",
         "rstatix",
         "viridis"
     ],
@@ -3430,9 +3417,7 @@
         "Category",
         "GOstats"
     ],
-    "plotgardener": [
-        "plyranges"
-    ],
+    "plotgardener": [],
     "plotGrouper": [
         "Hmisc",
         "car",
@@ -3440,7 +3425,6 @@
         "rstatix",
         "viridis"
     ],
-    "plyranges": [],
     "podkat": [],
     "pogos": [],
     "POMA": [
@@ -4838,8 +4822,7 @@
     ],
     "Ularcirc": [
         "Organism.dplyr",
-        "plotgardener",
-        "plyranges"
+        "plotgardener"
     ],
     "UMI4Cats": [
         "DESeq2",
