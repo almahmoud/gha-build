@@ -760,8 +760,7 @@
         "rtracklayer"
     ],
     "CAMERA": [
-        "Hmisc",
-        "xcms"
+        "Hmisc"
     ],
     "canceR": [
         "Category",
@@ -1145,9 +1144,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
+    "cliqueMS": [],
     "CluMSID": [],
     "clusterExperiment": [
         "genefilter",
@@ -1391,8 +1388,7 @@
         "geneplotter"
     ],
     "cosmiq": [
-        "faahKO",
-        "xcms"
+        "faahKO"
     ],
     "cosmosR": [
         "GSEABase",
@@ -2424,8 +2420,7 @@
     "fishpond": [],
     "flagme": [
         "CAMERA",
-        "Hmisc",
-        "xcms"
+        "Hmisc"
     ],
     "FLAMES": [
         "BSgenome",
@@ -3282,8 +3277,7 @@
     ],
     "IPO": [
         "CAMERA",
-        "Hmisc",
-        "xcms"
+        "Hmisc"
     ],
     "IRISFGM": [
         "DOSE",
@@ -3452,8 +3446,7 @@
     ],
     "LOBSTAHS": [
         "CAMERA",
-        "Hmisc",
-        "xcms"
+        "Hmisc"
     ],
     "LoomExperiment": [],
     "LowMACA": [
@@ -3573,8 +3566,7 @@
         "klaR",
         "labelled",
         "plsgenomics",
-        "questionr",
-        "xcms"
+        "questionr"
     ],
     "mAPKL": [
         "reactome.db"
@@ -3712,9 +3704,7 @@
         "MeSHDbi",
         "genefilter"
     ],
-    "Metab": [
-        "xcms"
-    ],
+    "Metab": [],
     "metabCombiner": [
         "caret"
     ],
@@ -3756,8 +3746,7 @@
     ],
     "metaMS": [
         "CAMERA",
-        "Hmisc",
-        "xcms"
+        "Hmisc"
     ],
     "MetaPhOR": [
         "DOSE",
@@ -4178,9 +4167,7 @@
     "moanin": [
         "topGO"
     ],
-    "MobilityTransformR": [
-        "xcms"
-    ],
+    "MobilityTransformR": [],
     "MODA": [
         "Hmisc",
         "WGCNA"
@@ -4524,9 +4511,7 @@
         "nloptr",
         "pbkrtest"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
+    "ncGTW": [],
     "nearBynding": [
         "GenomicFeatures",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
@@ -5124,8 +5109,7 @@
     ],
     "proFIA": [
         "MultiDataSet",
-        "ropls",
-        "xcms"
+        "ropls"
     ],
     "profileplyr": [
         "ChIPseeker",
@@ -5641,9 +5625,7 @@
         "regioneR",
         "rtracklayer"
     ],
-    "Risa": [
-        "xcms"
-    ],
+    "Risa": [],
     "RITAN": [
         "BgeeDB",
         "EnsDb.Hsapiens.v86",
@@ -7238,7 +7220,6 @@
         "rtracklayer"
     ],
     "wpm": [],
-    "xcms": [],
     "xcore": [],
     "XDE": [
         "GeneMeta",
@@ -7621,9 +7602,7 @@
         "minfi",
         "rtracklayer"
     ],
-    "faahKO": [
-        "xcms"
-    ],
+    "faahKO": [],
     "dorothea": [
         "mixtools",
         "viper"
