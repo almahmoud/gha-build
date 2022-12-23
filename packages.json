@@ -16113,7 +16113,6 @@
         "tidyr",
         "waldo"
     ],
-    "SynMut": [],
     "syntenet": [
         "GenomicAlignments",
         "SummarizedExperiment",
