@@ -5573,7 +5573,6 @@
     "MouseFM": [
         "biomaRt"
     ],
-    "MPRAnalyze": [],
     "MQmetrics": [
         "car",
         "ggpubr",
