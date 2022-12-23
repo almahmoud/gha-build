@@ -231,9 +231,7 @@
     "barcodetrackR": [
         "viridis"
     ],
-    "Basic4Cseq": [
-        "BSgenome.Ecoli.NCBI.20080805"
-    ],
+    "Basic4Cseq": [],
     "BASiCS": [
         "viridis"
     ],
@@ -4470,7 +4468,6 @@
     "dendextend": [
         "viridis"
     ],
-    "BSgenome.Ecoli.NCBI.20080805": [],
     "heatmaply": [
         "dendextend",
         "viridis"
