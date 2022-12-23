@@ -78,7 +78,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "ABSSeq": [],
     "ACE": [
         "BiocParallel",
         "Biostrings",
@@ -24072,7 +24071,6 @@
         "viridis"
     ],
     "metaseqR2": [
-        "ABSSeq",
         "AnnotationDbi",
         "BSgenome",
         "BiocFileCache",

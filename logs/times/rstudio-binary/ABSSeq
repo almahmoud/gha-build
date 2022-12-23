@@ -1,0 +1,274 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   04e129a2..5f8672d4  main       -> origin/main
+Updating 04e129a2..5f8672d4
+Fast-forward
+ lists/RBGL                                 |     2 +-
+ lists/skmeans                              |     2 +-
+ logs/run_ids/rstudio-binaries/textshaping  |     2 +
+ logs/sizes/rstudio-binaries/binaries/RBGL  |     1 +
+ logs/sizes/rstudio-binaries/libraries/RBGL |     1 +
+ logs/times/rstudio-binary/RBGL             | 76040 +++++++++++++++++++++++++++
+ packages.json                              |   144 +-
+ 7 files changed, 76050 insertions(+), 142 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RBGL
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RBGL
+ create mode 100644 logs/times/rstudio-binary/RBGL
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=ABSSeq
++ PKG=ABSSeq
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "ABSSeq"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  9 1897k    9  175k    0     0   281k      0  0:00:06 --:--:--  0:00:06  280k 73 1897k   73 1386k    0     0   859k      0  0:00:02  0:00:01  0:00:01  859k100 1897k  100 1897k    0     0  1015k      0  0:00:01  0:00:01 --:--:-- 1015k
+built/
+built/lattice/
+built/lattice/libs/
+built/lattice/libs/lattice.so
+built/lattice/NEWS
+built/lattice/NAMESPACE
+built/lattice/DESCRIPTION
+built/lattice/help/
+built/lattice/help/paths.rds
+built/lattice/help/lattice.rdx
+built/lattice/help/lattice.rdb
+built/lattice/help/aliases.rds
+built/lattice/help/AnIndex
+built/lattice/data/
+built/lattice/data/Rdata.rds
+built/lattice/data/Rdata.rdb
+built/lattice/data/Rdata.rdx
+built/lattice/Meta/
+built/lattice/Meta/package.rds
+built/lattice/Meta/demo.rds
+built/lattice/Meta/features.rds
+built/lattice/Meta/hsearch.rds
+built/lattice/Meta/links.rds
+built/lattice/Meta/nsInfo.rds
+built/lattice/Meta/Rd.rds
+built/lattice/Meta/data.rds
+built/lattice/po/
+built/lattice/po/it/
+built/lattice/po/it/LC_MESSAGES/
+built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/lattice/po/fr/
+built/lattice/po/fr/LC_MESSAGES/
+built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/lattice/po/ko/
+built/lattice/po/ko/LC_MESSAGES/
+built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/lattice/po/pl/
+built/lattice/po/pl/LC_MESSAGES/
+built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/lattice/po/en@quot/
+built/lattice/po/en@quot/LC_MESSAGES/
+built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/lattice/po/de/
+built/lattice/po/de/LC_MESSAGES/
+built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/lattice/CITATION
+built/lattice/html/
+built/lattice/html/00Index.html
+built/lattice/html/R.css
+built/lattice/INDEX
+built/lattice/R/
+built/lattice/R/lattice
+built/lattice/R/lattice.rdx
+built/lattice/R/lattice.rdb
+built/lattice/demo/
+built/lattice/demo/panel.R
+built/lattice/demo/intervals.R
+built/lattice/demo/labels.R
+built/lattice/demo/lattice.R
+built/locfit/
+built/locfit/libs/
+built/locfit/libs/locfit.so
+built/locfit/NEWS
+built/locfit/NAMESPACE
+built/locfit/DESCRIPTION
+built/locfit/help/
+built/locfit/help/locfit.rdb
+built/locfit/help/paths.rds
+built/locfit/help/aliases.rds
+built/locfit/help/locfit.rdx
+built/locfit/help/AnIndex
+built/locfit/data/
+built/locfit/data/kangaroo.rda
+built/locfit/data/geyser.round.tab.gz
+built/locfit/data/spencer.rda
+built/locfit/data/morths.rda
+built/locfit/data/geyser.rda
+built/locfit/data/trimod.tab.gz
+built/locfit/data/mcyc.tab.gz
+built/locfit/data/stamp.rda
+built/locfit/data/ais.rda
+built/locfit/data/co2.rda
+built/locfit/data/border.rda
+built/locfit/data/cldem.tab.gz
+built/locfit/data/livmet.rda
+built/locfit/data/mine.rda
+built/locfit/data/ethanol.rda
+built/locfit/data/heart.rda
+built/locfit/data/penny.tab.gz
+built/locfit/data/iris.rda
+built/locfit/data/mmsamp.tab.gz
+built/locfit/data/claw54.rda
+built/locfit/data/insect.tab.gz
+built/locfit/data/chemdiab.tab.gz
+built/locfit/data/bad.rda
+built/locfit/data/cltest.rda
+built/locfit/data/cltrain.rda
+built/locfit/data/diab.tab.gz
+built/locfit/Meta/
+built/locfit/Meta/package.rds
+built/locfit/Meta/features.rds
+built/locfit/Meta/hsearch.rds
+built/locfit/Meta/links.rds
+built/locfit/Meta/nsInfo.rds
+built/locfit/Meta/Rd.rds
+built/locfit/Meta/data.rds
+built/locfit/html/
+built/locfit/html/00Index.html
+built/locfit/html/R.css
+built/locfit/INDEX
+built/locfit/R/
+built/locfit/R/locfit.rdb
+built/locfit/R/locfit.rdx
+built/locfit/R/locfit
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  7 2787k    7  203k    0     0   291k      0  0:00:09 --:--:--  0:00:09  291k 50 2787k   50 1398k    0     0   827k      0  0:00:03  0:00:01  0:00:02  827k100 2787k  100 2787k    0     0  1180k      0  0:00:02  0:00:02 --:--:-- 1180k
+built/
+built/limma/
+built/limma/libs/
+built/limma/libs/limma.so
+built/limma/NAMESPACE
+built/limma/DESCRIPTION
+built/limma/help/
+built/limma/help/paths.rds
+built/limma/help/limma.rdx
+built/limma/help/limma.rdb
+built/limma/help/aliases.rds
+built/limma/help/AnIndex
+built/limma/Meta/
+built/limma/Meta/package.rds
+built/limma/Meta/vignette.rds
+built/limma/Meta/features.rds
+built/limma/Meta/hsearch.rds
+built/limma/Meta/links.rds
+built/limma/Meta/nsInfo.rds
+built/limma/Meta/Rd.rds
+built/limma/NEWS.Rd
+built/limma/CITATION
+built/limma/html/
+built/limma/html/00Index.html
+built/limma/html/R.css
+built/limma/INDEX
+built/limma/doc/
+built/limma/doc/intro.pdf
+built/limma/doc/changelog.txt
+built/limma/doc/index.html
+built/limma/doc/usersguide.pdf
+built/limma/doc/intro.Rnw
+built/limma/R/
+built/limma/R/limma.rdx
+built/limma/R/limma.rdb
+built/limma/R/limma
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''ABSSeq'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv ABSSeq_1.52.0_R_x86_64-pc-linux-gnu.tar.gz limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz locfit_1.5-9.6_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/ABSSeq
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'ABSSeq'
+also installing the dependencies ‘locfit’, ‘limma’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/locfit_1.5-9.6.tar.gz'
+Content type 'binary/octet-stream' length 784963 bytes (766 KB)
+==================================================
+downloaded 766 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/limma_3.54.0.tar.gz'
+Content type 'application/x-gzip' length 1516770 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/ABSSeq_1.52.0.tar.gz'
+Content type 'application/x-gzip' length 1017632 bytes (993 KB)
+==================================================
+downloaded 993 KB
+
+* installing *binary* package ‘locfit’ ...
+* ‘locfit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘locfit’ as ‘locfit_1.5-9.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (locfit)
+* installing *source* package ‘limma’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c normexp.c -o normexp.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c weighted_lowess.c -o weighted_lowess.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o limma.so init.o normexp.o weighted_lowess.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-limma/00new/limma/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘limma’ as ‘limma_3.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (limma)
+* installing *source* package ‘ABSSeq’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ABSSeq’ as ‘ABSSeq_1.52.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ABSSeq)
+
+The downloaded source packages are in
+	‘/tmp/RtmpIl7See/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m25.677s
+user	0m19.009s
+sys	0m1.377s
