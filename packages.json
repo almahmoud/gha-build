@@ -580,7 +580,6 @@
         "reshape2",
         "tibble"
     ],
-    "ANF": [],
     "animalcules": [
         "AnnotationDbi",
         "Biostrings",
