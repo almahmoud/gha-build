@@ -78,7 +78,6 @@
         "genefilter",
         "geneplotter",
         "ggbio",
-        "htmlTable",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -114,7 +113,6 @@
         "genefilter",
         "geneplotter",
         "ggbio",
-        "htmlTable",
         "oligoClasses",
         "rtracklayer"
     ],
@@ -135,7 +133,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "AlphaBeta": [
@@ -173,7 +170,6 @@
         "SingleCellExperiment",
         "TreeSummarizedExperiment",
         "ggrastr",
-        "htmlTable",
         "lme4",
         "lmerTest",
         "mia",
@@ -298,8 +294,7 @@
         "GenomicAlignments",
         "Hmisc",
         "ShortRead",
-        "biomaRt",
-        "htmlTable"
+        "biomaRt"
     ],
     "arrayMvout": [
         "FDb.InfiniumMethylation.hg19",
@@ -320,8 +315,7 @@
         "Hmisc",
         "annotate",
         "beadarray",
-        "genefilter",
-        "htmlTable"
+        "genefilter"
     ],
     "artMS": [
         "MSstats",
@@ -350,7 +344,6 @@
         "ensembldb",
         "fgsea",
         "ggfortify",
-        "htmlTable",
         "lme4",
         "mGSZ",
         "nloptr",
@@ -368,7 +361,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "ASSIGN": [
@@ -610,7 +602,6 @@
         "genefilter",
         "geneplotter",
         "ggrastr",
-        "htmlTable",
         "lme4",
         "lmerTest",
         "mia",
@@ -656,7 +647,6 @@
     ],
     "bigPint": [
         "Hmisc",
-        "htmlTable",
         "plotly"
     ],
     "BindingSiteFinder": [
@@ -669,7 +659,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "bioassayR": [
@@ -784,7 +773,6 @@
     "BioMM": [
         "GO.db",
         "Hmisc",
-        "htmlTable",
         "rms",
         "topGO"
     ],
@@ -798,7 +786,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "BioNAR": [
@@ -807,7 +794,6 @@
         "Hmisc",
         "WGCNA",
         "fgsea",
-        "htmlTable",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "synaptome.data",
@@ -820,13 +806,11 @@
         "annotate",
         "genefilter",
         "ggnetwork",
-        "htmlTable",
         "sva"
     ],
     "BioNet": [],
     "BioNetStat": [
         "Hmisc",
-        "htmlTable",
         "org.Hs.eg.db",
         "pathview"
     ],
@@ -852,7 +836,6 @@
         "VariantAnnotation",
         "biomaRt",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "biscuiteer": [
@@ -936,7 +919,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "plyranges",
         "rtracklayer"
     ],
@@ -968,7 +950,6 @@
         "derfinderPlot",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "rtracklayer"
@@ -1015,7 +996,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "bugsigdbr": [],
@@ -1054,7 +1034,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer"
     ],
     "CAGEfightR": [
@@ -1070,7 +1049,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "cageminer": [
@@ -1090,7 +1068,6 @@
         "genefilter",
         "ggbio",
         "ggnetwork",
-        "htmlTable",
         "rtracklayer",
         "sva"
     ],
@@ -1103,7 +1080,6 @@
     "CAMERA": [
         "Hmisc",
         "MsFeatures",
-        "htmlTable",
         "xcms"
     ],
     "canceR": [
@@ -1114,7 +1090,6 @@
         "biomaRt",
         "genefilter",
         "hgu133a.db",
-        "htmlTable",
         "org.Hs.eg.db",
         "phenoTest"
     ],
@@ -1252,7 +1227,6 @@
         "FactoMineR",
         "Hmisc",
         "car",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -1287,7 +1261,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "htmlTable",
         "scatterpie",
         "tidytree",
         "treeio"
@@ -1389,7 +1362,6 @@
         "genefilter",
         "globaltest",
         "goseq",
-        "htmlTable",
         "interactiveDisplayBase",
         "isva",
         "lumi",
@@ -1415,8 +1387,7 @@
         "spp"
     ],
     "Chicago": [
-        "Hmisc",
-        "htmlTable"
+        "Hmisc"
     ],
     "chimeraviz": [
         "BSgenome",
@@ -1429,7 +1400,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "rtracklayer"
@@ -1450,7 +1420,6 @@
         "GenomicAlignments",
         "Hmisc",
         "chipenrich.data",
-        "htmlTable",
         "org.Dm.eg.db",
         "org.Dr.eg.db",
         "org.Hs.eg.db",
@@ -1468,7 +1437,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "ChIPpeakAnno": [
@@ -1593,7 +1561,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "monocle",
         "rtracklayer"
     ],
@@ -1730,7 +1697,6 @@
         "cn.mops",
         "ensembldb",
         "exomeCopy",
-        "htmlTable",
         "karyoploteR",
         "regioneR",
         "rtracklayer"
@@ -1747,7 +1713,6 @@
         "cn.mops",
         "ensembldb",
         "exomeCopy",
-        "htmlTable",
         "karyoploteR",
         "plotly",
         "regioneR",
@@ -1815,7 +1780,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "plotly",
         "rtracklayer"
     ],
@@ -1830,7 +1794,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "coMethDMR": [
@@ -1865,7 +1828,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "methylPipe",
         "rtracklayer",
         "topGO"
@@ -1927,7 +1889,6 @@
     "CONFESS": [
         "Hmisc",
         "contrast",
-        "htmlTable",
         "rms"
     ],
     "consensusDE": [
@@ -1999,7 +1960,6 @@
         "cn.mops",
         "ensembldb",
         "exomeCopy",
-        "htmlTable",
         "karyoploteR",
         "regioneR",
         "rtracklayer"
@@ -2135,7 +2095,6 @@
         "crisprScoreData",
         "crisprViz",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -2155,7 +2114,6 @@
         "crisprScore",
         "crisprScoreData",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -2173,8 +2131,7 @@
     "csdR": [
         "GO.db",
         "Hmisc",
-        "WGCNA",
-        "htmlTable"
+        "WGCNA"
     ],
     "CSSQ": [
         "GenomicAlignments",
@@ -2206,7 +2163,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "customCMPdb": [
@@ -2321,7 +2277,6 @@
         "caret",
         "genefilter",
         "geneplotter",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -2512,7 +2467,6 @@
         "VariantAnnotation",
         "biomaRt",
         "bumphunter",
-        "htmlTable",
         "rtracklayer"
     ],
     "derfinderPlot": [
@@ -2529,7 +2483,6 @@
         "derfinder",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer"
     ],
     "DEScan2": [
@@ -2596,8 +2549,7 @@
     "diffcoexp": [
         "GO.db",
         "Hmisc",
-        "WGCNA",
-        "htmlTable"
+        "WGCNA"
     ],
     "diffcyt": [
         "FlowSOM",
@@ -2698,7 +2650,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "htmlTable",
         "interactiveDisplayBase",
         "methylumi",
         "minfi",
@@ -2716,7 +2667,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "dmrseq": [
@@ -2937,7 +2887,6 @@
         "car",
         "ensembldb",
         "ggpubr",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -3115,7 +3064,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "htmlTable",
         "reactome.db",
         "scatterpie",
         "tidytree",
@@ -3156,7 +3104,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "htmlTable",
         "interactiveDisplayBase",
         "minfi",
         "org.Hs.eg.db",
@@ -3167,7 +3114,6 @@
     ],
     "epistasisGA": [
         "Hmisc",
-        "htmlTable",
         "qgraph"
     ],
     "EpiTxDb": [
@@ -3365,7 +3311,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "factR": [
@@ -3406,7 +3351,6 @@
         "LiquidAssociation",
         "WGCNA",
         "geepack",
-        "htmlTable",
         "org.Sc.sgd.db"
     ],
     "FastqCleaner": [
@@ -3489,7 +3433,6 @@
         "CAMERA",
         "Hmisc",
         "MsFeatures",
-        "htmlTable",
         "xcms"
     ],
     "FLAMES": [
@@ -3508,7 +3451,6 @@
         "ensembldb",
         "ggbio",
         "ggrastr",
-        "htmlTable",
         "rtracklayer",
         "scater",
         "scran",
@@ -3678,7 +3620,6 @@
         "caret",
         "genefilter",
         "geneplotter",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -3801,7 +3742,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "GeneTonic": [
@@ -3865,7 +3805,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "GenomicOZone": [
@@ -3879,7 +3818,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer"
     ],
     "GenomicScores": [
@@ -3988,7 +3926,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "ggmanh": [],
@@ -4029,8 +3966,7 @@
         "HH",
         "Hmisc",
         "annotate",
-        "genefilter",
-        "htmlTable"
+        "genefilter"
     ],
     "GladiaTOX": [],
     "Glimma": [
@@ -4081,7 +4017,6 @@
         "annotate",
         "gRain",
         "genefilter",
-        "htmlTable",
         "org.Hs.eg.db",
         "org.Mm.eg.db"
     ],
@@ -4275,7 +4210,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "GWAS.BAYES": [
@@ -4312,7 +4246,6 @@
         "Hmisc",
         "WGCNA",
         "gprofiler2",
-        "htmlTable",
         "plotly"
     ],
     "hca": [],
@@ -4359,7 +4292,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "HiCDOC": [
@@ -4394,7 +4326,6 @@
         "biovizBase",
         "ensembldb",
         "ggrastr",
-        "htmlTable",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -4462,8 +4393,7 @@
     "iasva": [],
     "iBBiG": [],
     "iCARE": [
-        "Hmisc",
-        "htmlTable"
+        "Hmisc"
     ],
     "icetea": [
         "BSgenome",
@@ -4631,7 +4561,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer"
     ],
     "InteractionSet": [],
@@ -4697,7 +4626,6 @@
         "CAMERA",
         "Hmisc",
         "MsFeatures",
-        "htmlTable",
         "xcms"
     ],
     "IRISFGM": [
@@ -4827,7 +4755,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "regioneR",
         "rtracklayer"
     ],
@@ -4875,7 +4802,6 @@
         "annotate",
         "caret",
         "genefilter",
-        "htmlTable",
         "recipes",
         "sva"
     ],
@@ -4944,7 +4870,6 @@
         "CAMERA",
         "Hmisc",
         "MsFeatures",
-        "htmlTable",
         "xcms"
     ],
     "LoomExperiment": [
@@ -4995,7 +4920,6 @@
     "M3Drop": [
         "Hmisc",
         "densEstBayes",
-        "htmlTable",
         "reldist"
     ],
     "m6Aboost": [
@@ -5025,7 +4949,6 @@
         "WGCNA",
         "car",
         "glmmTMB",
-        "htmlTable",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -5106,7 +5029,6 @@
         "caret",
         "fields",
         "haven",
-        "htmlTable",
         "klaR",
         "labelled",
         "plsgenomics",
@@ -5135,7 +5057,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "MAST": [
@@ -5143,7 +5064,6 @@
     ],
     "MatrixQCvis": [
         "Hmisc",
-        "htmlTable",
         "plotly"
     ],
     "MatrixRider": [
@@ -5173,7 +5093,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "htmlTable",
         "visNetwork"
     ],
     "mBPCR": [
@@ -5187,7 +5106,6 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "htmlTable",
         "org.Hs.eg.db"
     ],
     "mCSEA": [
@@ -5205,7 +5123,6 @@
         "biovizBase",
         "ensembldb",
         "fgsea",
-        "htmlTable",
         "org.Hs.eg.db",
         "rtracklayer"
     ],
@@ -5234,7 +5151,6 @@
         "bumphunter",
         "ensembldb",
         "genefilter",
-        "htmlTable",
         "isva",
         "methylumi",
         "minfi",
@@ -5342,7 +5258,6 @@
         "biomaRt",
         "car",
         "ensembldb",
-        "htmlTable",
         "lme4",
         "mygene",
         "nloptr",
@@ -5377,7 +5292,6 @@
         "CAMERA",
         "Hmisc",
         "MsFeatures",
-        "htmlTable",
         "xcms"
     ],
     "MetaNeighbor": [
@@ -5577,7 +5491,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "methylscaper": [],
@@ -5680,7 +5593,6 @@
         "geneplotter",
         "ggrastr",
         "ggtree",
-        "htmlTable",
         "lme4",
         "lmerTest",
         "mia",
@@ -5741,8 +5653,7 @@
         "testthat"
     ],
     "mina": [
-        "Hmisc",
-        "htmlTable"
+        "Hmisc"
     ],
     "MineICA": [
         "AnnotationForge",
@@ -5759,7 +5670,6 @@
         "biomaRt",
         "bumphunter",
         "genefilter",
-        "htmlTable",
         "lumi",
         "lumiHumanAll.db",
         "methylumi",
@@ -5809,7 +5719,6 @@
         "annotate",
         "biomaRt",
         "genefilter",
-        "htmlTable",
         "org.Hs.eg.db"
     ],
     "miRmine": [],
@@ -5846,7 +5755,6 @@
         "groupdata2",
         "gson",
         "haven",
-        "htmlTable",
         "iBBiG",
         "lme4",
         "miRspongeR",
@@ -5991,8 +5899,7 @@
     "MODA": [
         "GO.db",
         "Hmisc",
-        "WGCNA",
-        "htmlTable"
+        "WGCNA"
     ],
     "MOFA2": [],
     "MOGAMUN": [],
@@ -6063,7 +5970,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "motifStack",
         "rtracklayer"
     ],
@@ -6124,7 +6030,6 @@
         "easyRNASeq",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer"
     ],
     "msImpute": [
@@ -6221,7 +6126,6 @@
         "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
-        "htmlTable",
         "lme4",
         "lmerTest",
         "nloptr",
@@ -6262,7 +6166,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "karyoploteR",
         "keras",
         "plyranges",
@@ -6398,7 +6301,6 @@
         "GenomicFeatures",
         "Hmisc",
         "biomaRt",
-        "htmlTable",
         "rtracklayer"
     ],
     "myvariant": [
@@ -6408,7 +6310,6 @@
         "Hmisc",
         "VariantAnnotation",
         "biomaRt",
-        "htmlTable",
         "rtracklayer"
     ],
     "NADfinder": [
@@ -6430,7 +6331,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "metap",
         "motifStack",
@@ -6505,8 +6405,7 @@
     "netboost": [
         "GO.db",
         "Hmisc",
-        "WGCNA",
-        "htmlTable"
+        "WGCNA"
     ],
     "netboxr": [
         "DOSE",
@@ -6540,8 +6439,7 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "biomaRt",
-        "htmlTable"
+        "biomaRt"
     ],
     "netSmooth": [
         "SingleCellExperiment",
@@ -6610,7 +6508,6 @@
         "RcmdrMisc",
         "car",
         "haven",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -6685,7 +6582,6 @@
         "dasper",
         "derfinder",
         "ggpubr",
-        "htmlTable",
         "lme4",
         "megadepth",
         "nloptr",
@@ -6707,7 +6603,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -6738,7 +6633,6 @@
         "annotate",
         "car",
         "genefilter",
-        "htmlTable",
         "isva",
         "lme4",
         "made4",
@@ -6811,19 +6705,16 @@
     ],
     "openCyto": [],
     "openPrimeR": [
-        "Hmisc",
-        "htmlTable"
+        "Hmisc"
     ],
     "openPrimeRui": [
         "Hmisc",
-        "htmlTable",
         "openPrimeR"
     ],
     "OpenStats": [
         "AICcmodavg",
         "Hmisc",
         "car",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7107,7 +6998,6 @@
         "biomaRt",
         "genefilter",
         "hgu133a.db",
-        "htmlTable",
         "org.Hs.eg.db"
     ],
     "PhenStat": [
@@ -7174,7 +7064,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "htmlTable",
         "reactome.db",
         "scatterpie",
         "tidytree",
@@ -7193,7 +7082,6 @@
         "ensembldb",
         "fda",
         "fds",
-        "htmlTable",
         "rtracklayer"
     ],
     "pipeComp": [
@@ -7230,7 +7118,6 @@
         "car",
         "colourpicker",
         "ggpubr",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7324,15 +7211,13 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "phastCons100way.UCSC.hg38",
         "rtracklayer"
     ],
     "PrInCE": [
         "Hmisc",
-        "forecast",
-        "htmlTable"
+        "forecast"
     ],
     "proActiv": [
         "DESeq2",
@@ -7356,7 +7241,6 @@
         "annotate",
         "genefilter",
         "ggfortify",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pvca",
@@ -7500,7 +7384,6 @@
         "colourpicker",
         "derfinder",
         "highcharter",
-        "htmlTable",
         "interactiveDisplayBase",
         "pairsD3",
         "recount",
@@ -7521,7 +7404,6 @@
         "Hmisc",
         "car",
         "ggpubr",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -7556,7 +7438,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "pwOmics": [
@@ -7607,7 +7488,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer",
         "testthat"
     ],
@@ -7620,7 +7500,6 @@
         "Hmisc",
         "annotate",
         "genefilter",
-        "htmlTable",
         "sva"
     ],
     "qsvaR": [
@@ -7662,7 +7541,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer"
     ],
     "r3Cseq": [
@@ -7798,7 +7676,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "htmlTable",
         "rtracklayer"
     ],
     "recount3": [
@@ -7846,8 +7723,7 @@
         "WGCNA",
         "annotate",
         "fgsea",
-        "geneplotter",
-        "htmlTable"
+        "geneplotter"
     ],
     "regioneR": [
         "BSgenome",
@@ -7875,7 +7751,6 @@
         "bumphunter",
         "derfinder",
         "geneplotter",
-        "htmlTable",
         "rtracklayer"
     ],
     "regutools": [
@@ -7889,7 +7764,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "rtracklayer"
     ],
@@ -7938,7 +7812,6 @@
         "genefilter",
         "geneplotter",
         "ggbio",
-        "htmlTable",
         "rtracklayer"
     ],
     "RepViz": [
@@ -7961,7 +7834,6 @@
         "FactoMineR",
         "Hmisc",
         "car",
-        "htmlTable",
         "lme4",
         "mice",
         "nloptr",
@@ -8057,7 +7929,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer"
     ],
     "ribor": [],
@@ -8099,7 +7970,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "karyoploteR",
         "regioneR",
         "rtracklayer"
@@ -8171,7 +8041,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "htmlTable",
         "org.Hs.eg.db",
         "recount",
         "rtracklayer"
@@ -8207,7 +8076,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "RNAmodR.AlkAnilineSeq": [
@@ -8221,7 +8089,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "RNAmodR.ML": [
@@ -8235,7 +8102,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "RNAmodR.RiboMethSeq": [
@@ -8249,7 +8115,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "RNAsense": [
@@ -8305,7 +8170,6 @@
         "car",
         "derfinder",
         "ggpubr",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -8357,7 +8221,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "rqt": [
@@ -8438,8 +8301,7 @@
         "GenomicAlignments"
     ],
     "Rtreemix": [
-        "Hmisc",
-        "htmlTable"
+        "Hmisc"
     ],
     "rTRM": [],
     "rTRMui": [
@@ -8636,7 +8498,6 @@
         "M3Drop",
         "SingleCellExperiment",
         "densEstBayes",
-        "htmlTable",
         "reldist"
     ],
     "scMET": [
@@ -8730,7 +8591,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer"
     ],
     "scry": [
@@ -8850,8 +8710,7 @@
         "GO.db",
         "Hmisc",
         "WGCNA",
-        "biomaRt",
-        "htmlTable"
+        "biomaRt"
     ],
     "seqArchR": [],
     "seqCAT": [
@@ -9089,7 +8948,6 @@
         "ggrastr",
         "ggtree",
         "hgu95a.db",
-        "htmlTable",
         "interactiveDisplayBase",
         "metap",
         "msigdbr",
@@ -9179,7 +9037,6 @@
         "biomaRt",
         "geneLenDataBase",
         "goseq",
-        "htmlTable",
         "org.Hs.eg.db",
         "reactome.db",
         "rtracklayer"
@@ -9228,7 +9085,6 @@
         "biovizBase",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer"
     ],
     "Spaniel": [
@@ -9295,7 +9151,6 @@
         "annotate",
         "genefilter",
         "ggrastr",
-        "htmlTable",
         "plotly",
         "scater",
         "scran",
@@ -9318,7 +9173,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "motifmatchr",
         "rtracklayer"
     ],
@@ -9402,7 +9256,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "SPONGE": [
@@ -9438,8 +9291,7 @@
         "GO.db",
         "Hmisc",
         "SingleCellExperiment",
-        "WGCNA",
-        "htmlTable"
+        "WGCNA"
     ],
     "sRACIPE": [
         "visNetwork"
@@ -9460,7 +9312,6 @@
         "devtools",
         "ensembldb",
         "geneplotter",
-        "htmlTable",
         "rtracklayer",
         "testthat"
     ],
@@ -9488,7 +9339,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "standR": [
@@ -9697,8 +9547,7 @@
     ],
     "TarSeqQC": [
         "GenomicAlignments",
-        "Hmisc",
-        "htmlTable"
+        "Hmisc"
     ],
     "TBSignatureProfiler": [
         "ASSIGN",
@@ -9750,7 +9599,6 @@
         "ggraph",
         "ggtree",
         "gson",
-        "htmlTable",
         "interactiveDisplayBase",
         "lme4",
         "nloptr",
@@ -9883,8 +9731,7 @@
     "TIN": [
         "GO.db",
         "Hmisc",
-        "WGCNA",
-        "htmlTable"
+        "WGCNA"
     ],
     "TissueEnrich": [
         "GSEABase",
@@ -9955,7 +9802,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "tradeSeq": [
@@ -10051,7 +9897,6 @@
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "WGCNA",
         "biomaRt",
-        "htmlTable",
         "org.Hs.eg.db",
         "rtracklayer"
     ],
@@ -10113,7 +9958,6 @@
         "biovizBase",
         "ensemblVEP",
         "ensembldb",
-        "htmlTable",
         "rtracklayer"
     ],
     "txcutr": [
@@ -10184,7 +10028,6 @@
         "biovizBase",
         "condformat",
         "ensembldb",
-        "htmlTable",
         "org.Hs.eg.db",
         "rtracklayer"
     ],
@@ -10260,7 +10103,6 @@
         "biomaRt",
         "biovizBase",
         "ensembldb",
-        "htmlTable",
         "interactiveDisplayBase",
         "rtracklayer",
         "shinyTree"
@@ -10412,7 +10254,6 @@
         "GenomicFeatures",
         "Hmisc",
         "biomaRt",
-        "htmlTable",
         "rtracklayer"
     ],
     "webbioc": [
@@ -10468,7 +10309,6 @@
         "dendextend",
         "ensembldb",
         "ggbio",
-        "htmlTable",
         "rtracklayer"
     ],
     "yarn": [
@@ -10550,10 +10390,7 @@
         "interactiveDisplayBase"
     ],
     "PFAM.db": [],
-    "Hmisc": [
-        "htmlTable"
-    ],
-    "htmlTable": [],
+    "Hmisc": [],
     "ggrastr": [],
     "speaq": [],
     "curatedTCGAData": [
@@ -10757,8 +10594,7 @@
     "ggraph": [],
     "scatterpie": [],
     "rms": [
-        "Hmisc",
-        "htmlTable"
+        "Hmisc"
     ],
     "synaptome.db": [
         "AnnotationHub",
@@ -10767,8 +10603,7 @@
     ],
     "WGCNA": [
         "GO.db",
-        "Hmisc",
-        "htmlTable"
+        "Hmisc"
     ],
     "synaptome.data": [
         "AnnotationHub",
@@ -10806,7 +10641,6 @@
         "biomaRt",
         "bumphunter",
         "derfinder",
-        "htmlTable",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
         "rtracklayer"
@@ -10960,7 +10794,6 @@
     "spatstat.linnet": [],
     "contrast": [
         "Hmisc",
-        "htmlTable",
         "rms"
     ],
     "EnsDb.Hsapiens.v86": [
@@ -11069,8 +10902,7 @@
         "interactiveDisplayBase"
     ],
     "qgraph": [
-        "Hmisc",
-        "htmlTable"
+        "Hmisc"
     ],
     "ewceData": [
         "AnnotationHub",
@@ -11122,8 +10954,7 @@
         "plotly"
     ],
     "HH": [
-        "Hmisc",
-        "htmlTable"
+        "Hmisc"
     ],
     "gRain": [],
     "epiR": [],
@@ -11287,7 +11118,6 @@
         "Hmisc",
         "car",
         "haven",
-        "htmlTable",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -11505,9 +11335,7 @@
     ],
     "kmlShape": [],
     "mirbase.db": [],
-    "condformat": [
-        "htmlTable"
-    ],
+    "condformat": [],
     "shinyTree": [],
     "msigdb": [
         "AnnotationHub",
