@@ -4080,7 +4080,6 @@
         "phylobase",
         "reshape2",
         "rhdf5",
-        "rncl",
         "tidyr",
         "zinbwave"
     ],
@@ -16166,7 +16165,6 @@
         "phylobase",
         "reshape2",
         "rhdf5",
-        "rncl",
         "scater",
         "scuttle",
         "tidyr",
@@ -27574,7 +27572,6 @@
         "RNeXML",
         "dplyr",
         "reshape2",
-        "rncl",
         "tidyr"
     ],
     "ClusterR": [
@@ -27584,7 +27581,6 @@
         "benchmarkmeData",
         "dplyr"
     ],
-    "rncl": [],
     "RNeXML": [
         "dplyr",
         "reshape2",
