@@ -1,0 +1,234 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   9e576d5d..3c1eb9dd  main       -> origin/main
+Updating 9e576d5d..3c1eb9dd
+Fast-forward
+ lists/ROCR                                |   2 +-
+ lists/vcd                                 |   2 +-
+ logs/run_ids/rstudio-binaries/purrr       |   2 +
+ logs/sizes/rstudio-binaries/binaries/vcd  |   1 +
+ logs/sizes/rstudio-binaries/libraries/vcd |   1 +
+ logs/times/rstudio-binary/vcd             | 582 ++++++++++++++++++++++++++++++
+ packages.json                             |  92 +----
+ 7 files changed, 595 insertions(+), 87 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/purrr
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/vcd
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/vcd
+ create mode 100644 logs/times/rstudio-binary/vcd
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=illuminaio
++ PKG=illuminaio
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ sed -n '/^    "illuminaio"/,/^    "/p' directdeps.json
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  3 1396k    3 48960    0     0  64711      0  0:00:22 --:--:--  0:00:22 64676 25 1396k   25  350k    0     0   197k      0  0:00:07  0:00:01  0:00:06  197k 61 1396k   61  860k    0     0   314k      0  0:00:04  0:00:02  0:00:02  313k100 1396k  100 1396k    0     0   400k      0  0:00:03  0:00:03 --:--:--  400k
+built/
+built/built/
+built/built/built/
+built/built/built/sys/
+built/built/built/sys/libs/
+built/built/built/sys/libs/sys.so
+built/built/built/sys/NEWS
+built/built/built/sys/NAMESPACE
+built/built/built/sys/utf8.txt
+built/built/built/sys/DESCRIPTION
+built/built/built/sys/help/
+built/built/built/sys/help/sys.rdb
+built/built/built/sys/help/paths.rds
+built/built/built/sys/help/sys.rdx
+built/built/built/sys/help/aliases.rds
+built/built/built/sys/help/AnIndex
+built/built/built/sys/Meta/
+built/built/built/sys/Meta/package.rds
+built/built/built/sys/Meta/features.rds
+built/built/built/sys/Meta/hsearch.rds
+built/built/built/sys/Meta/links.rds
+built/built/built/sys/Meta/nsInfo.rds
+built/built/built/sys/Meta/Rd.rds
+built/built/built/sys/WORDLIST
+built/built/built/sys/LICENSE
+built/built/built/sys/html/
+built/built/built/sys/html/00Index.html
+built/built/built/sys/html/R.css
+built/built/built/sys/INDEX
+built/built/built/sys/R/
+built/built/built/sys/R/sys.rdb
+built/built/built/sys/R/sys
+built/built/built/sys/R/sys.rdx
+built/built/built/askpass/
+built/built/built/askpass/libs/
+built/built/built/askpass/libs/askpass.so
+built/built/built/askpass/NEWS
+built/built/built/askpass/NAMESPACE
+built/built/built/askpass/mac-simplepass
+built/built/built/askpass/DESCRIPTION
+built/built/built/askpass/help/
+built/built/built/askpass/help/askpass.rdx
+built/built/built/askpass/help/paths.rds
+built/built/built/askpass/help/askpass.rdb
+built/built/built/askpass/help/aliases.rds
+built/built/built/askpass/help/AnIndex
+built/built/built/askpass/Meta/
+built/built/built/askpass/Meta/package.rds
+built/built/built/askpass/Meta/features.rds
+built/built/built/askpass/Meta/hsearch.rds
+built/built/built/askpass/Meta/links.rds
+built/built/built/askpass/Meta/nsInfo.rds
+built/built/built/askpass/Meta/Rd.rds
+built/built/built/askpass/mac-askpass
+built/built/built/askpass/WORDLIST
+built/built/built/askpass/LICENSE
+built/built/built/askpass/html/
+built/built/built/askpass/html/00Index.html
+built/built/built/askpass/html/R.css
+built/built/built/askpass/INDEX
+built/built/built/askpass/R/
+built/built/built/askpass/R/askpass.rdx
+built/built/built/askpass/R/askpass
+built/built/built/askpass/R/askpass.rdb
+built/built/openssl/
+built/built/openssl/libs/
+built/built/openssl/libs/openssl.so
+built/built/openssl/NEWS
+built/built/openssl/NAMESPACE
+built/built/openssl/DESCRIPTION
+built/built/openssl/help/
+built/built/openssl/help/paths.rds
+built/built/openssl/help/aliases.rds
+built/built/openssl/help/openssl.rdb
+built/built/openssl/help/AnIndex
+built/built/openssl/help/openssl.rdx
+built/built/openssl/Meta/
+built/built/openssl/Meta/package.rds
+built/built/openssl/Meta/vignette.rds
+built/built/openssl/Meta/features.rds
+built/built/openssl/Meta/hsearch.rds
+built/built/openssl/Meta/links.rds
+built/built/openssl/Meta/nsInfo.rds
+built/built/openssl/Meta/Rd.rds
+built/built/openssl/LICENSE
+built/built/openssl/html/
+built/built/openssl/html/00Index.html
+built/built/openssl/html/R.css
+built/built/openssl/cacert.pem
+built/built/openssl/INDEX
+built/built/openssl/doc/
+built/built/openssl/doc/secure_rng.html
+built/built/openssl/doc/crypto_hashing.Rmd
+built/built/openssl/doc/keys.html
+built/built/openssl/doc/bignum.html
+built/built/openssl/doc/crypto_hashing.html
+built/built/openssl/doc/bignum.R
+built/built/openssl/doc/secure_rng.Rmd
+built/built/openssl/doc/crypto_hashing.R
+built/built/openssl/doc/bignum.Rmd
+built/built/openssl/doc/index.html
+built/built/openssl/doc/secure_rng.R
+built/built/openssl/doc/keys.Rmd
+built/built/openssl/doc/keys.R
+built/built/openssl/R/
+built/built/openssl/R/openssl.rdb
+built/built/openssl/R/openssl
+built/built/openssl/R/openssl.rdx
+built/base64/
+built/base64/NAMESPACE
+built/base64/DESCRIPTION
+built/base64/help/
+built/base64/help/base64.rdx
+built/base64/help/base64.rdb
+built/base64/help/paths.rds
+built/base64/help/aliases.rds
+built/base64/help/AnIndex
+built/base64/Meta/
+built/base64/Meta/package.rds
+built/base64/Meta/features.rds
+built/base64/Meta/hsearch.rds
+built/base64/Meta/links.rds
+built/base64/Meta/nsInfo.rds
+built/base64/Meta/Rd.rds
+built/base64/LICENSE
+built/base64/html/
+built/base64/html/00Index.html
+built/base64/html/R.css
+built/base64/INDEX
+built/base64/R/
+built/base64/R/base64.rdx
+built/base64/R/base64.rdb
+built/base64/R/base64
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''illuminaio'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv base64_2.0.1_R_x86_64-pc-linux-gnu.tar.gz illuminaio_0.40.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/illuminaio
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'illuminaio'
+also installing the dependency ‘base64’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/base64_2.0.1.tar.gz'
+Content type 'binary/octet-stream' length 57935 bytes (56 KB)
+==================================================
+downloaded 56 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/illuminaio_0.40.0.tar.gz'
+Content type 'application/x-gzip' length 287574 bytes (280 KB)
+==================================================
+downloaded 280 KB
+
+* installing *binary* package ‘base64’ ...
+* ‘base64’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘base64’ as ‘base64_2.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (base64)
+* installing *source* package ‘illuminaio’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c 000.init.c -o 000.init.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c des.c -o des.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c local_des.c -o local_des.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o illuminaio.so 000.init.o des.o local_des.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-illuminaio/00new/illuminaio/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘illuminaio’ as ‘illuminaio_0.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (illuminaio)
+
+The downloaded source packages are in
+	‘/tmp/RtmpumwoVk/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m15.324s
+user	0m6.933s
+sys	0m1.115s
