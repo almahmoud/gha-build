@@ -29491,7 +29491,6 @@
         "waldo"
     ],
     "NormqPCR": [
-        "ReadqPCR",
         "bslib",
         "htmlwidgets",
         "knitr",
@@ -34892,7 +34891,6 @@
         "vctrs",
         "viridis"
     ],
-    "ReadqPCR": [],
     "REBET": [
         "ASSET",
         "msm"
