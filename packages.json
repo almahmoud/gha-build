@@ -2197,7 +2197,6 @@
     ],
     "DeepPINCS": [
         "DiagrammeR",
-        "lexicon",
         "rcdk",
         "textclean",
         "textstem",
@@ -3200,7 +3199,6 @@
     "fmcsR": [],
     "fobitools": [
         "ggraph",
-        "lexicon",
         "textclean",
         "viridis"
     ],
@@ -3497,7 +3495,6 @@
     "GenProSeq": [
         "DeepPINCS",
         "DiagrammeR",
-        "lexicon",
         "rcdk",
         "textclean",
         "textstem",
@@ -9052,7 +9049,6 @@
     ],
     "ttgsea": [
         "DiagrammeR",
-        "lexicon",
         "textclean",
         "textstem",
         "viridis"
@@ -9155,7 +9151,6 @@
     "VAExprs": [
         "DeepPINCS",
         "DiagrammeR",
-        "lexicon",
         "rcdk",
         "scater",
         "scuttle",
@@ -9268,7 +9263,6 @@
         "annotate",
         "ggraph",
         "interactiveDisplayBase",
-        "lexicon",
         "msigdb",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -9904,13 +9898,9 @@
     ],
     "rcdk": [],
     "textstem": [
-        "lexicon",
         "textclean"
     ],
-    "lexicon": [],
-    "textclean": [
-        "lexicon"
-    ],
+    "textclean": [],
     "VIM": [
         "car",
         "lme4",
