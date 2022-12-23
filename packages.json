@@ -8037,7 +8037,6 @@
         "ggplot2",
         "tibble"
     ],
-    "densvis": [],
     "DEP": [
         "ComplexHeatmap",
         "DT",
