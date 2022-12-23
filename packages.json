@@ -589,7 +589,6 @@
     "BiocSklearn": [
         "basilisk"
     ],
-    "BiocWorkflowTools": [],
     "biodb": [],
     "biodbChebi": [
         "biodb"
