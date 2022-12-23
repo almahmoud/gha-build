@@ -2375,9 +2375,7 @@
         "genefilter"
     ],
     "geneplotter": [],
-    "GENESIS": [
-        "SeqVarTools"
-    ],
+    "GENESIS": [],
     "GeneStructureTools": [
         "BSgenome",
         "BSgenome.Mmusculus.UCSC.mm10",
@@ -5535,7 +5533,6 @@
     "SeqSQC": [
         "ExperimentHub"
     ],
-    "SeqVarTools": [],
     "sesame": [
         "ExperimentHub",
         "sesameData"
@@ -6398,9 +6395,7 @@
         "BSgenome",
         "GenomicFeatures"
     ],
-    "VariantExperiment": [
-        "SeqVarTools"
-    ],
+    "VariantExperiment": [],
     "VariantFiltering": [
         "BSgenome",
         "GenomicFeatures",
