@@ -47858,7 +47858,6 @@
         "rhdf5",
         "scuttle",
         "sf",
-        "spData",
         "sparseMatrixStats",
         "spdep",
         "tibble",
@@ -49256,7 +49255,6 @@
         "scuttle",
         "sf",
         "shiny",
-        "spData",
         "sparseMatrixStats",
         "spatstat.explore",
         "spatstat.geom",
@@ -53574,7 +53572,6 @@
         "scico",
         "scuttle",
         "sf",
-        "spData",
         "sparseMatrixStats",
         "spdep",
         "tibble",
@@ -61972,10 +61969,8 @@
     "spdep": [
         "classInt",
         "e1071",
-        "sf",
-        "spData"
+        "sf"
     ],
-    "spData": [],
     "PRIMME": [],
     "alphahull": [
         "ggplot2",
