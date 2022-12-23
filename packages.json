@@ -130,7 +130,6 @@
     "dasper": [
         "ggpubr"
     ],
-    "ddPCRclust": [],
     "DeepPINCS": [
         "mlapi",
         "text2vec",
