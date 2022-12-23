@@ -151,7 +151,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "AlpsNMR": [],
     "altcdfenvs": [
         "affy",
         "makecdfenv"
