@@ -1771,7 +1771,6 @@
         "fgsea",
         "ggforce",
         "ggpmisc",
-        "ggpp",
         "ggraph",
         "ggrepel",
         "ggthemes",
@@ -7586,7 +7585,6 @@
         "devtools",
         "genefilter",
         "ggpmisc",
-        "ggpp",
         "ggpubr",
         "ggrepel",
         "ggsci",
@@ -15030,10 +15028,7 @@
         "pbkrtest",
         "testthat"
     ],
-    "ggpmisc": [
-        "ggpp"
-    ],
-    "ggpp": [],
+    "ggpmisc": [],
     "broom.mixed": [
         "broom"
     ],
