@@ -4410,7 +4410,6 @@
         "rmarkdown",
         "sass",
         "sna",
-        "statnet.common",
         "stringr",
         "survival",
         "sva",
@@ -5747,7 +5746,6 @@
         "rtracklayer",
         "sass",
         "sna",
-        "statnet.common",
         "stringr",
         "survival",
         "sva",
@@ -6858,7 +6856,6 @@
         "scatterpie",
         "shadowtext",
         "sna",
-        "statnet.common",
         "stringr",
         "survival",
         "tibble",
@@ -7060,7 +7057,6 @@
         "shadowtext",
         "sna",
         "snpStats",
-        "statnet.common",
         "stringr",
         "survival",
         "testthat",
@@ -8558,7 +8554,6 @@
         "rmarkdown",
         "sass",
         "sna",
-        "statnet.common",
         "stringr",
         "tibble",
         "tidyr",
@@ -14821,7 +14816,6 @@
         "scatterpie",
         "shadowtext",
         "sna",
-        "statnet.common",
         "stringr",
         "tibble",
         "tidygraph",
@@ -17184,7 +17178,6 @@
         "scatterpie",
         "shadowtext",
         "sna",
-        "statnet.common",
         "stringr",
         "survival",
         "tibble",
@@ -20202,7 +20195,6 @@
         "progress",
         "purrr",
         "sna",
-        "statnet.common",
         "tibble",
         "tidyr",
         "tidyselect"
@@ -33183,7 +33175,6 @@
         "multtest",
         "network",
         "pillar",
-        "statnet.common",
         "survey",
         "survival",
         "tibble"
@@ -36398,7 +36389,6 @@
         "reshape2",
         "rstatix",
         "ruv",
-        "statnet.common",
         "stringr",
         "survival",
         "testthat",
@@ -36511,7 +36501,6 @@
         "recipes",
         "reshape2",
         "sna",
-        "statnet.common",
         "stringr",
         "supraHex",
         "survival",
@@ -49919,7 +49908,6 @@
         "rtracklayer",
         "sass",
         "sna",
-        "statnet.common",
         "stringr",
         "testthat",
         "tibble",
@@ -56823,14 +56811,12 @@
         "network",
         "pillar",
         "sna",
-        "statnet.common",
         "tibble"
     ],
     "intergraph": [
         "igraph",
         "network",
         "pillar",
-        "statnet.common",
         "tibble"
     ],
     "networkD3": [
@@ -56846,16 +56832,13 @@
     "NetRep": [],
     "network": [
         "pillar",
-        "statnet.common",
         "tibble"
     ],
     "sna": [
         "network",
         "pillar",
-        "statnet.common",
         "tibble"
     ],
-    "statnet.common": [],
     "shinyBS": [
         "bslib",
         "fontawesome",
