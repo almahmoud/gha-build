@@ -582,7 +582,6 @@
         "chromVAR",
         "fgsea",
         "ggalluvial",
-        "googlesheets4",
         "haven",
         "htmlwidgets",
         "modelr",
@@ -3271,7 +3270,6 @@
         "epiNEM",
         "ggraph",
         "ggrepel",
-        "googlesheets4",
         "graphite",
         "haven",
         "metap",
@@ -7127,7 +7125,6 @@
     "MAI": [
         "broom",
         "caret",
-        "googlesheets4",
         "haven",
         "modelr",
         "recipes",
@@ -7714,7 +7711,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "googlesheets4",
         "haven",
         "htmlwidgets",
         "interactiveDisplayBase",
@@ -8183,7 +8179,6 @@
         "ggtree",
         "ggvis",
         "ggwordcloud",
-        "googlesheets4",
         "graphite",
         "groupdata2",
         "gson",
@@ -8239,7 +8234,6 @@
         "ggsci",
         "ggsignif",
         "ggtree",
-        "googlesheets4",
         "graphite",
         "groupdata2",
         "gson",
@@ -8642,7 +8636,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "googlesheets4",
         "haven",
         "htmlwidgets",
         "lme4",
@@ -9009,7 +9002,6 @@
     "nanotatoR": [
         "AnnotationDbi",
         "broom",
-        "googlesheets4",
         "haven",
         "modelr",
         "org.Hs.eg.db",
@@ -13157,7 +13149,6 @@
         "ggrepel",
         "ggsci",
         "ggsignif",
-        "googlesheets4",
         "groupdata2",
         "haven",
         "lme4",
@@ -13325,7 +13316,6 @@
     "Statial": [
         "SingleCellExperiment",
         "broom",
-        "googlesheets4",
         "haven",
         "modelr",
         "reprex",
@@ -13469,7 +13459,6 @@
         "drc",
         "fields",
         "ggrepel",
-        "googlesheets4",
         "haven",
         "htmlwidgets",
         "lme4",
@@ -14944,7 +14933,6 @@
     "msigdbr": [],
     "tidyverse": [
         "broom",
-        "googlesheets4",
         "haven",
         "modelr",
         "reprex"
@@ -14983,7 +14971,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "googlesheets4": [],
     "haven": [],
     "modelr": [
         "broom"
