@@ -4365,7 +4365,6 @@
         "XVector",
         "biomaRt",
         "blob",
-        "datawizard",
         "dbplyr",
         "dplyr",
         "ellipsis",
@@ -38735,7 +38734,6 @@
         "clusterProfiler",
         "cowplot",
         "cvms",
-        "datawizard",
         "dbplyr",
         "dbscan",
         "dendextend",
@@ -38916,7 +38914,6 @@
         "clusterProfiler",
         "cowplot",
         "cvms",
-        "datawizard",
         "dbplyr",
         "doParallel",
         "doRNG",
@@ -63184,7 +63181,6 @@
         "clue",
         "cowplot",
         "cvms",
-        "datawizard",
         "dbplyr",
         "doParallel",
         "doRNG",
@@ -73822,7 +73818,6 @@
     ],
     "mitools": [],
     "sjmisc": [
-        "datawizard",
         "dplyr",
         "lifecycle",
         "pillar",
@@ -73832,10 +73827,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "sjlabelled": [
-        "datawizard"
-    ],
-    "datawizard": [],
+    "sjlabelled": [],
     "LIM": [
         "diagram",
         "limSolve"
@@ -79405,7 +79397,6 @@
         "bayestestR",
         "callr",
         "clock",
-        "datawizard",
         "dplyr",
         "ellipsis",
         "future",
@@ -79471,8 +79462,7 @@
     ],
     "MuMIn": [],
     "parameters": [
-        "bayestestR",
-        "datawizard"
+        "bayestestR"
     ],
     "rearrr": [
         "dplyr",
@@ -79483,9 +79473,7 @@
         "tidyselect",
         "vctrs"
     ],
-    "bayestestR": [
-        "datawizard"
-    ],
+    "bayestestR": [],
     "echarts4r": [
         "broom",
         "bslib",
