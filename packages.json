@@ -6675,7 +6675,6 @@
         "DESeq2",
         "DelayedArray",
         "GenomicRanges",
-        "HTSCluster",
         "HTSFilter",
         "KEGGREST",
         "RSQLite",
@@ -37438,7 +37437,6 @@
     "bench": [
         "tibble"
     ],
-    "HTSCluster": [],
     "faahKO": [
         "DelayedArray",
         "GenomicRanges",
