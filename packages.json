@@ -10295,7 +10295,6 @@
         "regioneR",
         "rtracklayer"
     ],
-    "rgoslin": [],
     "rGREAT": [
         "AnnotationDbi",
         "BiocFileCache",
