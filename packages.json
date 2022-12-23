@@ -100,7 +100,6 @@
     ],
     "airpart": [
         "scater",
-        "scuttle",
         "viridis"
     ],
     "AllelicImbalance": [
@@ -142,7 +141,6 @@
         "lmerTest",
         "mia",
         "scater",
-        "scuttle",
         "viridis"
     ],
     "AneuFinder": [
@@ -383,7 +381,6 @@
     ],
     "BASiCS": [
         "scran",
-        "scuttle",
         "viridis"
     ],
     "BASiCStan": [
@@ -392,13 +389,10 @@
         "glmGamPoi",
         "rhdf5",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "basilisk": [],
-    "batchelor": [
-        "scuttle"
-    ],
+    "batchelor": [],
     "BatchQC": [
         "dendextend",
         "genefilter",
@@ -410,7 +404,6 @@
         "rhdf5",
         "scater",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "BBCAnalyzer": [
@@ -441,7 +434,6 @@
         "phyloseq",
         "rhdf5",
         "scater",
-        "scuttle",
         "viridis",
         "zinbwave"
     ],
@@ -580,8 +572,7 @@
     ],
     "biosigner": [],
     "BioTIP": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "biovizBase": [
         "BSgenome",
@@ -812,7 +803,6 @@
         "pbkrtest",
         "rstatix",
         "scater",
-        "scuttle",
         "viridis"
     ],
     "Category": [
@@ -854,7 +844,6 @@
     "celda": [
         "scater",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "CellBarcode": [
@@ -870,7 +859,6 @@
     "CelliD": [
         "Seurat",
         "scater",
-        "scuttle",
         "viridis"
     ],
     "cellity": [
@@ -886,7 +874,6 @@
     ],
     "CellMixS": [
         "scater",
-        "scuttle",
         "viridis"
     ],
     "CellTrails": [
@@ -1101,7 +1088,6 @@
         "rtracklayer",
         "scater",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "chromswitch": [
@@ -1152,7 +1138,6 @@
         "propr",
         "rhdf5",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "ClassifyR": [
@@ -1348,7 +1333,6 @@
         "rstatix",
         "scater",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "condiments": [
@@ -1356,7 +1340,6 @@
         "TrajectoryUtils",
         "distinct",
         "scater",
-        "scuttle",
         "slingshot",
         "viridis"
     ],
@@ -1565,8 +1548,7 @@
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "cummeRbund": [
         "BSgenome",
@@ -1631,7 +1613,6 @@
         "HDF5Array",
         "SpatialExperiment",
         "rhdf5",
-        "scuttle",
         "viridis"
     ],
     "CytoML": [],
@@ -1910,8 +1891,7 @@
     ],
     "Dino": [
         "Seurat",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "DiscoRhythm": [
         "dendextend",
@@ -1920,7 +1900,6 @@
     ],
     "distinct": [
         "scater",
-        "scuttle",
         "viridis"
     ],
     "DMCFB": [
@@ -2015,8 +1994,7 @@
     ],
     "DropletUtils": [
         "HDF5Array",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "drugTargetInteractions": [
         "GenomicFeatures",
@@ -2392,8 +2370,7 @@
         "HDF5Array",
         "SpatialExperiment",
         "TreeSummarizedExperiment",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "extraChIPs": [
         "BSgenome",
@@ -2505,7 +2482,6 @@
         "rtracklayer",
         "scater",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "flowCL": [
@@ -2852,8 +2828,7 @@
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "ggtree": [],
     "ggtreeDendro": [
@@ -3250,7 +3225,6 @@
         "cytomapper",
         "ggraph",
         "rhdf5",
-        "scuttle",
         "viridis"
     ],
     "ImmuneSpaceR": [
@@ -3361,7 +3335,6 @@
         "rstatix",
         "scater",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "ISAnalytics": [
@@ -3489,7 +3462,6 @@
         "lme4",
         "lmerTest",
         "rhdf5",
-        "scuttle",
         "spicyR"
     ],
     "LOBSTAHS": [
@@ -4002,7 +3974,6 @@
     "mia": [
         "TreeSummarizedExperiment",
         "scater",
-        "scuttle",
         "viridis"
     ],
     "miaSim": [
@@ -4014,7 +3985,6 @@
         "ggtree",
         "mia",
         "scater",
-        "scuttle",
         "viridis"
     ],
     "microbiome": [
@@ -4054,7 +4024,6 @@
         "phyloseq",
         "rhdf5",
         "scater",
-        "scuttle",
         "viridis"
     ],
     "MicrobiomeProfiler": [
@@ -4342,8 +4311,7 @@
         "viridis"
     ],
     "msImpute": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "mslp": [],
     "msmsEDA": [
@@ -4482,8 +4450,7 @@
     ],
     "mumosa": [
         "batchelor",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "MungeSumstats": [
         "BSgenome",
@@ -4500,7 +4467,6 @@
         "lmerTest",
         "pbkrtest",
         "scater",
-        "scuttle",
         "variancePartition",
         "viridis"
     ],
@@ -4645,7 +4611,6 @@
         "mbkmeans",
         "rhdf5",
         "scater",
-        "scuttle",
         "viridis",
         "zinbwave"
     ],
@@ -4667,8 +4632,7 @@
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "nondetects": [
         "HTqPCR",
@@ -4978,7 +4942,6 @@
     ],
     "peco": [
         "scater",
-        "scuttle",
         "viridis"
     ],
     "pepStat": [
@@ -5077,7 +5040,6 @@
         "Seurat",
         "scater",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "pipeFrame": [
@@ -6049,7 +6011,6 @@
         "SCATEData"
     ],
     "scater": [
-        "scuttle",
         "viridis"
     ],
     "scBFA": [
@@ -6067,8 +6028,7 @@
         "DropletUtils",
         "HDF5Array",
         "Seurat",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "scClassify": [
         "Cepo",
@@ -6086,7 +6046,6 @@
         "rtracklayer",
         "scater",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "scDD": [
@@ -6094,7 +6053,6 @@
         "fields",
         "lme4",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "scDDboost": [
@@ -6151,12 +6109,9 @@
     "scPipe": [
         "rtracklayer",
         "scater",
-        "scuttle",
         "viridis"
     ],
-    "scran": [
-        "scuttle"
-    ],
+    "scran": [],
     "scRecover": [
         "Rmagic",
         "gamlss"
@@ -6225,10 +6180,8 @@
         "rtracklayer",
         "scater",
         "scran",
-        "scuttle",
         "viridis"
     ],
-    "scuttle": [],
     "segmenter": [
         "ChIPseeker",
         "DOSE",
@@ -6405,7 +6358,6 @@
         "SpatialExperiment",
         "cytomapper",
         "rhdf5",
-        "scuttle",
         "viridis"
     ],
     "simplifyEnrichment": [
@@ -6416,8 +6368,7 @@
         "viridis"
     ],
     "SingleCellSignalR": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "singleCellTK": [
         "DESeq2",
@@ -6451,7 +6402,6 @@
         "scRNAseq",
         "scater",
         "scran",
-        "scuttle",
         "sva",
         "viridis",
         "zinbwave"
@@ -6561,7 +6511,6 @@
         "rhdf5",
         "scater",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "sparrow": [
@@ -6576,16 +6525,14 @@
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "spatialDE": [
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
         "basilisk",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "SpatialDecon": [
         "GeomxTools",
@@ -6595,15 +6542,13 @@
     "SpatialExperiment": [
         "DropletUtils",
         "HDF5Array",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "SpatialFeatureExperiment": [
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "spatialHeatmap": [
         "Hmisc",
@@ -6611,7 +6556,6 @@
         "genefilter",
         "scater",
         "scran",
-        "scuttle",
         "viridis"
     ],
     "spatzie": [
@@ -6641,8 +6585,7 @@
         "DropletUtils",
         "HDF5Array",
         "SpatialExperiment",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "spicyR": [
         "DropletUtils",
@@ -6650,8 +6593,7 @@
         "SpatialExperiment",
         "lme4",
         "lmerTest",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "SpidermiR": [
         "miRNAtap.db"
@@ -6662,7 +6604,6 @@
     ],
     "splatter": [
         "scater",
-        "scuttle",
         "viridis"
     ],
     "SpliceWiz": [
@@ -6711,7 +6652,6 @@
         "Seurat",
         "SpatialExperiment",
         "rhdf5",
-        "scuttle",
         "viridis"
     ],
     "SPsimSeq": [
@@ -6767,8 +6707,7 @@
         "ShortRead",
         "SpatialExperiment",
         "rhdf5",
-        "rtracklayer",
-        "scuttle"
+        "rtracklayer"
     ],
     "staRank": [
         "Category",
@@ -6794,8 +6733,7 @@
         "HDF5Array",
         "Seurat",
         "SpatialExperiment",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "strandCheckR": [
         "GenomicFeatures",
@@ -7132,7 +7070,6 @@
     ],
     "tricycle": [
         "scater",
-        "scuttle",
         "viridis"
     ],
     "trigger": [
@@ -7235,7 +7172,6 @@
         "DiagrammeR",
         "rcdk",
         "scater",
-        "scuttle",
         "textstem",
         "ttgsea",
         "viridis"
@@ -7301,7 +7237,6 @@
     "VegaMC": [],
     "velociraptor": [
         "basilisk",
-        "scuttle",
         "zellkonverter"
     ],
     "vidger": [
@@ -7330,8 +7265,7 @@
         "HDF5Array",
         "SpatialExperiment",
         "SpatialFeatureExperiment",
-        "rhdf5",
-        "scuttle"
+        "rhdf5"
     ],
     "vsn": [
         "affy"
