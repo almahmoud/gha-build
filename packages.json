@@ -3080,7 +3080,6 @@
         "GenomicFeatures",
         "TxDb.Mmusculus.UCSC.mm9.knownGene"
     ],
-    "rmspc": [],
     "RNAAgeCalc": [
         "GenomicFeatures",
         "GenomicFiles",
