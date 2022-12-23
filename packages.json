@@ -531,9 +531,7 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "bioassayR": [
-        "ChemmineR"
-    ],
+    "bioassayR": [],
     "biobroom": [],
     "bioCancer": [
         "DOSE",
@@ -1108,7 +1106,6 @@
         "sva",
         "wateRmelon"
     ],
-    "ChemmineR": [],
     "CHETAH": [
         "dendextend"
     ],
@@ -1458,9 +1455,7 @@
         "rtracklayer",
         "topGO"
     ],
-    "CompoundDb": [
-        "ChemmineR"
-    ],
+    "CompoundDb": [],
     "ComPrAn": [
         "rio"
     ],
@@ -1729,7 +1724,6 @@
     ],
     "customCMPdb": [
         "AnnotationHub",
-        "ChemmineR",
         "interactiveDisplayBase"
     ],
     "customProDB": [
@@ -2303,9 +2297,7 @@
         "safe",
         "topGO"
     ],
-    "eiR": [
-        "ChemmineR"
-    ],
+    "eiR": [],
     "ELMER": [
         "BSgenome",
         "GenomicFeatures",
@@ -2817,9 +2809,7 @@
         "fds",
         "flowStats"
     ],
-    "fmcsR": [
-        "ChemmineR"
-    ],
+    "fmcsR": [],
     "fobitools": [
         "ggraph",
         "lexicon",
@@ -4209,7 +4199,6 @@
         "caret"
     ],
     "MetaboAnnotation": [
-        "ChemmineR",
         "CompoundDb",
         "QFeatures"
     ],
@@ -4438,7 +4427,6 @@
         "rtracklayer"
     ],
     "MetID": [
-        "ChemmineR",
         "devtools"
     ],
     "mfa": [
@@ -6409,9 +6397,7 @@
         "rtracklayer",
         "valr"
     ],
-    "RMassBank": [
-        "ChemmineR"
-    ],
+    "RMassBank": [],
     "Rmmquant": [
         "DESeq2",
         "GenomicFeatures",
