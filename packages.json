@@ -3248,7 +3248,6 @@
         "fields",
         "viridis"
     ],
-    "SingleCellSignalR": [],
     "singleCellTK": [
         "DropletUtils",
         "GSVA",
