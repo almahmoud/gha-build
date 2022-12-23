@@ -26914,7 +26914,6 @@
         "dbplyr",
         "dittoSeq",
         "dplyr",
-        "elsa",
         "ggplot2",
         "ggrepel",
         "ggridges",
@@ -34242,7 +34241,6 @@
         "ggplot2",
         "tibble"
     ],
-    "elsa": [],
     "miRNAtap.db": [
         "AnnotationDbi",
         "Biostrings",
