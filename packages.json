@@ -489,9 +489,7 @@
     ],
     "MEDME": [],
     "meshes": [],
-    "MetaboSignal": [
-        "MWASTools"
-    ],
+    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
         "ggpubr",
@@ -603,7 +601,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "MWASTools": [],
     "NADfinder": [
         "ATACseqQC",
         "Gviz",
