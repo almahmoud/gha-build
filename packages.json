@@ -1351,7 +1351,6 @@
         "htmlwidgets",
         "lme4",
         "lmerTest",
-        "metagenomeSeq",
         "mia",
         "miniUI",
         "nloptr",
@@ -11139,7 +11138,6 @@
         "glmmTMB",
         "lme4",
         "lmerTest",
-        "metagenomeSeq",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -11165,7 +11163,6 @@
         "htmlwidgets",
         "lme4",
         "lmerTest",
-        "metagenomeSeq",
         "nloptr",
         "pbkrtest",
         "rematch2",
@@ -11927,7 +11924,6 @@
         "ggplot2",
         "rtracklayer"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "CAMERA",
         "Hmisc",
@@ -12052,7 +12048,6 @@
         "epivizrData",
         "epivizrStandalone",
         "ggplot2",
-        "metagenomeSeq",
         "phyloseq",
         "rtracklayer"
     ],
@@ -12539,7 +12534,6 @@
     ],
     "microbiomeDASim": [
         "ggplot2",
-        "metagenomeSeq",
         "phyloseq"
     ],
     "microbiomeExplorer": [
@@ -12560,7 +12554,6 @@
         "heatmaply",
         "htmlwidgets",
         "lme4",
-        "metagenomeSeq",
         "nloptr",
         "pbkrtest",
         "plotly",
@@ -12615,7 +12608,6 @@
         "ipred",
         "lme4",
         "lmerTest",
-        "metagenomeSeq",
         "mia",
         "nloptr",
         "patchwork",
@@ -13239,7 +13231,6 @@
         "glmmTMB",
         "lme4",
         "lmerTest",
-        "metagenomeSeq",
         "nloptr",
         "pbkrtest",
         "rematch2",
