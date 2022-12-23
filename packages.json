@@ -2850,7 +2850,6 @@
         "enrichplot",
         "ggtree"
     ],
-    "mosbi": [],
     "Motif2Site": [
         "BSgenome"
     ],
