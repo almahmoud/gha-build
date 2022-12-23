@@ -77,7 +77,6 @@
         "genefilter",
         "geneplotter",
         "ggbio",
-        "oligoClasses",
         "rtracklayer",
         "viridis"
     ],
@@ -127,7 +126,6 @@
         "genefilter",
         "geneplotter",
         "ggbio",
-        "oligoClasses",
         "rtracklayer",
         "viridis"
     ],
@@ -286,8 +284,7 @@
         "rtracklayer"
     ],
     "ArrayExpress": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "ArrayExpressHTS": [
         "Hmisc",
@@ -1406,8 +1403,7 @@
     "ChIPXpress": [
         "affy",
         "frma",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "ChromHeatMap": [
         "annotate",
@@ -1545,8 +1541,7 @@
         "rhdf5"
     ],
     "cn.farms": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "cn.mops": [],
     "CNEr": [
@@ -1967,15 +1962,12 @@
         "rtracklayer",
         "viridis"
     ],
-    "crlmm": [
-        "oligoClasses"
-    ],
+    "crlmm": [],
     "crossmeta": [
         "affy",
         "annotate",
         "genefilter",
         "oligo",
-        "oligoClasses",
         "sva"
     ],
     "csdR": [
@@ -2564,7 +2556,6 @@
         "hgu133a2.db",
         "hgu133plus2.db",
         "oligo",
-        "oligoClasses",
         "org.Hs.eg.db"
     ],
     "DSS": [
@@ -3286,8 +3277,7 @@
     ],
     "frma": [
         "affy",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "frmaTools": [
         "affy"
@@ -4356,7 +4346,6 @@
     ],
     "ITALICS": [
         "oligo",
-        "oligoClasses",
         "pd.mapping50k.xba240"
     ],
     "IVAS": [
@@ -4610,7 +4599,6 @@
         "genefilter",
         "methylumi",
         "minfi",
-        "oligoClasses",
         "org.Hs.eg.db",
         "rhdf5",
         "rtracklayer",
@@ -4722,8 +4710,7 @@
     "mBPCR": [
         "GWASTools",
         "logistf",
-        "mice",
-        "oligoClasses"
+        "mice"
     ],
     "MBQN": [],
     "MCbiclust": [
@@ -5245,8 +5232,7 @@
         "affy",
         "affyPLM",
         "gcrma",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "MIMOSA": [],
     "mina": [
@@ -5293,7 +5279,6 @@
         "BSgenome.Hsapiens.UCSC.hg18",
         "VanillaICE",
         "crlmm",
-        "oligoClasses",
         "rtracklayer"
     ],
     "miQC": [],
@@ -6120,10 +6105,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "oligo": [
-        "oligoClasses"
-    ],
-    "oligoClasses": [],
+    "oligo": [],
     "omada": [
         "diceR",
         "klaR",
@@ -6394,8 +6376,7 @@
         "viridis"
     ],
     "pdInfoBuilder": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "PeacoQC": [],
     "peakPantheR": [
@@ -6858,8 +6839,7 @@
     ],
     "puma": [
         "affy",
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "PureCN": [
         "BSgenome",
@@ -7742,7 +7722,6 @@
         "annotate",
         "genefilter",
         "oligo",
-        "oligoClasses",
         "sva"
     ],
     "scanMiRApp": [
@@ -9272,7 +9251,6 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg18",
         "crlmm",
-        "oligoClasses",
         "rtracklayer"
     ],
     "VarCon": [
@@ -10099,8 +10077,7 @@
         "rio"
     ],
     "pd.mapping50k.xba240": [
-        "oligo",
-        "oligoClasses"
+        "oligo"
     ],
     "hgu95av2.db": [
         "org.Hs.eg.db"
