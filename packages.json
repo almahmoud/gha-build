@@ -22594,7 +22594,6 @@
         "doParallel",
         "dplyr",
         "flextable",
-        "gdtools",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -24228,7 +24227,6 @@
         "e1071",
         "epiR",
         "flextable",
-        "gdtools",
         "ggplot2",
         "ggplotify",
         "htmltools",
@@ -68622,7 +68620,6 @@
     ],
     "flextable": [
         "bslib",
-        "gdtools",
         "htmltools",
         "jquerylib",
         "knitr",
@@ -68634,7 +68631,6 @@
         "vctrs"
     ],
     "officer": [],
-    "gdtools": [],
     "robust": [
         "rrcov"
     ],
@@ -68796,7 +68792,6 @@
         "classInt",
         "e1071",
         "flextable",
-        "gdtools",
         "htmltools",
         "jquerylib",
         "knitr",
