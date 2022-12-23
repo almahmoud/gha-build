@@ -7823,7 +7823,6 @@
         "graphite"
     ],
     "MOMA": [
-        "MKmisc",
         "MultiAssayExperiment"
     ],
     "monaLisa": [
@@ -14799,7 +14798,6 @@
     "echarts4r": [
         "broom"
     ],
-    "MKmisc": [],
     "HiveR": [
         "rgl"
     ],
