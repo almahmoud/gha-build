@@ -17697,7 +17697,6 @@
         "affy",
         "gcrma"
     ],
-    "massiR": [],
     "MAST": [
         "GenomicRanges",
         "SingleCellExperiment",
