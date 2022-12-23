@@ -1843,7 +1843,6 @@
     "cbpManager": [
         "DT",
         "htmlwidgets",
-        "rintrojs",
         "shinyBS",
         "shinycssloaders",
         "shinydashboard"
@@ -5086,7 +5085,6 @@
         "DT",
         "cowplot",
         "htmlwidgets",
-        "rintrojs",
         "shinydashboard",
         "shinyjs",
         "tidyr"
@@ -5829,7 +5827,6 @@
         "miniUI",
         "patchwork",
         "plotly",
-        "rintrojs",
         "shinyWidgets",
         "shinycssloaders",
         "shinyjs",
@@ -6933,7 +6930,6 @@
         "htmlwidgets",
         "pcaExplorer",
         "plotly",
-        "rintrojs",
         "rtracklayer",
         "shinyBS",
         "shinydashboard",
@@ -7313,7 +7309,6 @@
         "ggrepel",
         "htmlwidgets",
         "miniUI",
-        "rintrojs",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -7326,7 +7321,6 @@
         "htmlwidgets",
         "iSEE",
         "miniUI",
-        "rintrojs",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -7345,7 +7339,6 @@
         "iSEE",
         "interactiveDisplayBase",
         "miniUI",
-        "rintrojs",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -7359,7 +7352,6 @@
         "iSEE",
         "iSEEhex",
         "miniUI",
-        "rintrojs",
         "shinyWidgets",
         "shinydashboard",
         "shinyjs"
@@ -13195,7 +13187,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "plotly",
-        "rintrojs",
         "rtracklayer",
         "scanMiR",
         "scanMiRData",
@@ -16987,7 +16978,6 @@
         "tidyr",
         "waldo"
     ],
-    "rintrojs": [],
     "enrichR": [],
     "FactoMineR": [
         "DT",
