@@ -7143,7 +7143,6 @@
         "ggraph",
         "ggtree",
         "graphite",
-        "groupdata2",
         "gson",
         "haven",
         "htmlTable",
@@ -7188,7 +7187,6 @@
         "ggraph",
         "ggtree",
         "graphite",
-        "groupdata2",
         "gson",
         "haven",
         "lme4",
@@ -11477,7 +11475,6 @@
         "caret",
         "cvms",
         "ggpubr",
-        "groupdata2",
         "haven",
         "lme4",
         "modelr",
@@ -13743,13 +13740,11 @@
     "subspace": [],
     "SOMbrero": [],
     "cvms": [
-        "groupdata2",
         "lme4",
         "nloptr",
         "recipes",
         "testthat"
     ],
-    "groupdata2": [],
     "echarts4r": [],
     "HiveR": [
         "rgl"
