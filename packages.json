@@ -52858,7 +52858,6 @@
         "httpuv",
         "httr",
         "igraph",
-        "intrinsicDimension",
         "irlba",
         "jquerylib",
         "knitr",
@@ -88337,7 +88336,6 @@
         "stringr",
         "vctrs"
     ],
-    "intrinsicDimension": [],
     "strawr": [],
     "evmix": [],
     "tidybayes": [
