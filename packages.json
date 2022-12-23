@@ -3541,7 +3541,6 @@
         "fields",
         "viridis"
     ],
-    "MultiBaC": [],
     "multiClust": [
         "dendextend",
         "viridis"
