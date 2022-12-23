@@ -3097,7 +3097,6 @@
         "diceR",
         "klaR"
     ],
-    "OmaDB": [],
     "omicRexposome": [
         "FactoMineR",
         "Hmisc",
@@ -3269,9 +3268,7 @@
         "rstatix",
         "viridis"
     ],
-    "PhyloProfile": [
-        "OmaDB"
-    ],
+    "PhyloProfile": [],
     "phyloseq": [
         "biomformat",
         "rhdf5"
