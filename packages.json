@@ -8525,7 +8525,6 @@
         "plotly",
         "supraHex"
     ],
-    "netprioR": [],
     "netresponse": [
         "BiocStyle"
     ],
