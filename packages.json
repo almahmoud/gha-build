@@ -3427,7 +3427,6 @@
     "ppcseq": [
         "benchmarkme"
     ],
-    "pram": [],
     "prebs": [
         "RPA",
         "affy",
