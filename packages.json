@@ -55598,7 +55598,6 @@
         "pillar",
         "progress",
         "promises",
-        "protolite",
         "purrr",
         "readr",
         "rhdf5",
@@ -94451,7 +94450,6 @@
     "genlasso": [
         "igraph"
     ],
-    "protolite": [],
     "Rook": [],
     "opencpu": [
         "askpass",
@@ -94461,7 +94459,6 @@
         "lifecycle",
         "openssl",
         "promises",
-        "protolite",
         "stringr",
         "vctrs",
         "webutils"
