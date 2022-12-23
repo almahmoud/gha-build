@@ -5913,7 +5913,6 @@
         "survminer",
         "testthat"
     ],
-    "Omixer": [],
     "oncomix": [],
     "OncoScore": [
         "biomaRt"
