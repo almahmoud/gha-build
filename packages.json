@@ -902,19 +902,14 @@
     "MSstatsLiP": [
         "FactoMineR",
         "MSstatsPTM",
-        "MSstatsTMT",
         "factoextra",
         "ggpubr",
         "rstatix"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsShiny": [
-        "MSstatsPTM",
-        "MSstatsTMT"
+        "MSstatsPTM"
     ],
-    "MSstatsTMT": [],
     "multicrispr": [
         "biovizBase",
         "karyoploteR"
