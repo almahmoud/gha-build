@@ -52260,7 +52260,6 @@
         "robustbase",
         "scales",
         "svDialogs",
-        "svGUI",
         "tibble",
         "vctrs",
         "viridisLite",
@@ -116399,10 +116398,7 @@
         "viridisLite",
         "zlibbioc"
     ],
-    "svDialogs": [
-        "svGUI"
-    ],
-    "svGUI": [],
+    "svDialogs": [],
     "EnsDb.Hsapiens.v75": [
         "AnnotationDbi",
         "AnnotationFilter",
