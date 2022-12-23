@@ -4321,7 +4321,6 @@
         "heatmaply",
         "viridis"
     ],
-    "immunotation": [],
     "INDEED": [
         "devtools",
         "testthat"
