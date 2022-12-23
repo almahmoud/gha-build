@@ -3518,8 +3518,7 @@
         "GenomicAlignments",
         "SummarizedExperiment",
         "keras",
-        "rtracklayer",
-        "tensorflow"
+        "rtracklayer"
     ],
     "crisprseekplus": [
         "AnnotationDbi",
@@ -3546,7 +3545,6 @@
         "rio",
         "rtracklayer",
         "shinyjs",
-        "tensorflow",
         "tidyr"
     ],
     "CrispRVariants": [
@@ -4131,7 +4129,6 @@
         "mlapi",
         "readr",
         "syuzhet",
-        "tensorflow",
         "text2vec",
         "textclean",
         "textstem",
@@ -6631,7 +6628,6 @@
         "mlapi",
         "readr",
         "syuzhet",
-        "tensorflow",
         "text2vec",
         "textclean",
         "textstem",
@@ -7235,7 +7231,6 @@
         "regioneR",
         "rio",
         "rtracklayer",
-        "tensorflow",
         "tidyr"
     ],
     "Guitar": [
@@ -10736,7 +10731,6 @@
         "plyranges",
         "regioneR",
         "rtracklayer",
-        "tensorflow",
         "tidyr",
         "viridis"
     ],
@@ -11277,8 +11271,7 @@
     "NeuCA": [
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "keras",
-        "tensorflow"
+        "keras"
     ],
     "NewWave": [
         "BiocSingular",
@@ -11963,7 +11956,6 @@
         "nloptr",
         "qvalue",
         "shadowtext",
-        "tensorflow",
         "testthat",
         "tfprobability",
         "tidygraph",
@@ -14569,7 +14561,6 @@
         "plotly",
         "scattermore",
         "sctransform",
-        "tensorflow",
         "tidyr"
     ],
     "SCAN.UPC": [
@@ -17486,7 +17477,6 @@
         "mlapi",
         "readr",
         "syuzhet",
-        "tensorflow",
         "text2vec",
         "textclean",
         "textstem",
@@ -17673,7 +17663,6 @@
         "scater",
         "scuttle",
         "syuzhet",
-        "tensorflow",
         "text2vec",
         "textclean",
         "textstem",
@@ -19145,10 +19134,7 @@
         "htmlwidgets",
         "interactiveDisplayBase"
     ],
-    "keras": [
-        "tensorflow"
-    ],
-    "tensorflow": [],
+    "keras": [],
     "shinypanel": [
         "shinyBS",
         "shinyjs"
@@ -19813,8 +19799,7 @@
         "readr"
     ],
     "tfprobability": [
-        "keras",
-        "tensorflow"
+        "keras"
     ],
     "verification": [
         "fields",
