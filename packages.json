@@ -9186,7 +9186,6 @@
         "rhdf5"
     ],
     "cogena": [
-        "biwt",
         "bslib",
         "credentials",
         "devtools",
@@ -13644,7 +13643,6 @@
         "IRanges"
     ],
     "discordant": [
-        "biwt",
         "dplyr",
         "pillar",
         "tibble",
@@ -57861,7 +57859,6 @@
         "tibble",
         "tidyselect"
     ],
-    "biwt": [],
     "skmeans": [],
     "eulerr": [],
     "cobs": [
