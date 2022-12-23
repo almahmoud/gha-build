@@ -15890,8 +15890,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "viridis",
-        "yeastCC"
+        "viridis"
     ],
     "FastqCleaner": [
         "BiocParallel",
@@ -23467,8 +23466,7 @@
         "stringr",
         "tibble",
         "tidyr",
-        "tidyselect",
-        "yeastCC"
+        "tidyselect"
     ],
     "lisaClust": [
         "BiocFileCache",
@@ -54677,7 +54675,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "yeastCC": [],
     "fda": [
         "fds",
         "ggplot2",
