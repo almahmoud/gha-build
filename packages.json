@@ -263,8 +263,7 @@
         "AnnotationDbi",
         "DESeq2",
         "annotate",
-        "geneplotter",
-        "qvalue"
+        "geneplotter"
     ],
     "ANCOMBC": [
         "DescTools",
@@ -365,15 +364,12 @@
         "regioneR",
         "rtracklayer"
     ],
-    "anota": [
-        "qvalue"
-    ],
+    "anota": [],
     "anota2seq": [
         "AnnotationDbi",
         "DESeq2",
         "annotate",
-        "geneplotter",
-        "qvalue"
+        "geneplotter"
     ],
     "AnVIL": [
         "DT",
@@ -1070,7 +1066,6 @@
         "org.Hs.eg.db",
         "pbkrtest",
         "plotly",
-        "qvalue",
         "radiant.data",
         "reactome.db",
         "readr",
@@ -1489,7 +1484,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
-        "qvalue",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -1975,7 +1969,6 @@
         "htmlTable",
         "htmlwidgets",
         "intergraph",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "sna",
@@ -2053,7 +2046,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "qvalue",
         "rstatix",
         "scatterpie",
         "shadowtext",
@@ -2130,7 +2122,6 @@
         "org.Hs.eg.db",
         "plotly",
         "prettydoc",
-        "qvalue",
         "readr",
         "rhdf5",
         "rtracklayer",
@@ -2292,7 +2283,6 @@
         "ggraph",
         "ggrepel",
         "ggtree",
-        "qvalue",
         "rtracklayer",
         "scatterpie",
         "shadowtext",
@@ -2548,7 +2538,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -2866,7 +2855,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "pbkrtest",
-        "qvalue",
         "readr",
         "rstatix",
         "scater",
@@ -3287,7 +3275,6 @@
         "HDF5Array",
         "SingleCellExperiment",
         "SpatialExperiment",
-        "qvalue",
         "rhdf5",
         "scuttle"
     ],
@@ -3607,7 +3594,6 @@
         "org.Mm.eg.db",
         "pathview",
         "plotly",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "sva",
@@ -3656,7 +3642,6 @@
         "methylKit",
         "minfi",
         "nloptr",
-        "qvalue",
         "readr",
         "rhdf5",
         "rsq",
@@ -3735,9 +3720,7 @@
         "ggrepel",
         "tidyr"
     ],
-    "DEGseq": [
-        "qvalue"
-    ],
+    "DEGseq": [],
     "DelayedTensor": [
         "HDF5Array",
         "rhdf5"
@@ -3796,7 +3779,6 @@
         "bumphunter",
         "htmlTable",
         "htmlwidgets",
-        "qvalue",
         "rtracklayer",
         "viridis"
     ],
@@ -3819,7 +3801,6 @@
         "ggbio",
         "htmlTable",
         "htmlwidgets",
-        "qvalue",
         "rtracklayer",
         "tidyr",
         "viridis"
@@ -3866,7 +3847,6 @@
         "NBPSeq",
         "annotate",
         "geneplotter",
-        "qvalue",
         "testthat",
         "waldo"
     ],
@@ -4157,8 +4137,7 @@
         "GO.db",
         "GOSemSim",
         "HDO.db",
-        "fgsea",
-        "qvalue"
+        "fgsea"
     ],
     "doseR": [
         "lme4",
@@ -4206,7 +4185,6 @@
         "oligo",
         "oligoClasses",
         "org.Hs.eg.db",
-        "qvalue",
         "readr",
         "tidyr"
     ],
@@ -4275,7 +4253,6 @@
         "gson",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -4325,7 +4302,6 @@
         "genefilter",
         "lme4",
         "nloptr",
-        "qvalue",
         "snm",
         "sva",
         "testthat",
@@ -4353,7 +4329,6 @@
         "gson",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "sna",
@@ -4498,7 +4473,6 @@
         "ggraph",
         "ggrepel",
         "ggtree",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -4540,7 +4514,6 @@
         "nloptr",
         "pbkrtest",
         "pipeFrame",
-        "qvalue",
         "readr",
         "rstatix",
         "rtracklayer",
@@ -4615,7 +4588,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "plotly",
-        "qvalue",
         "readr",
         "rtracklayer",
         "scatterpie",
@@ -4691,7 +4663,6 @@
         "gson",
         "htmlTable",
         "htmlwidgets",
-        "qvalue",
         "reactome.db",
         "scatterpie",
         "shadowtext",
@@ -4829,9 +4800,7 @@
         "epivizrData",
         "rtracklayer"
     ],
-    "erccdashboard": [
-        "qvalue"
-    ],
+    "erccdashboard": [],
     "erma": [
         "AnnotationDbi",
         "BSgenome",
@@ -4886,7 +4855,6 @@
         "htmlwidgets",
         "motifmatchr",
         "pipeFrame",
-        "qvalue",
         "readr",
         "rtracklayer",
         "scatterpie",
@@ -4932,7 +4900,6 @@
         "SGSeq",
         "biomaRt",
         "fgsea",
-        "qvalue",
         "rhdf5",
         "rtracklayer"
     ],
@@ -5102,7 +5069,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "plotly",
-        "qvalue",
         "rWikiPathways",
         "reactome.db",
         "scatterpie",
@@ -5171,7 +5137,6 @@
         "ggtree",
         "gson",
         "intergraph",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "sna",
@@ -5238,7 +5203,6 @@
         "MultiAssayExperiment",
         "biomaRt",
         "ggrepel",
-        "qvalue",
         "rtracklayer",
         "tidyr"
     ],
@@ -5247,8 +5211,7 @@
         "htmlwidgets"
     ],
     "fishpond": [
-        "SingleCellExperiment",
-        "qvalue"
+        "SingleCellExperiment"
     ],
     "flagme": [
         "CAMERA",
@@ -5632,7 +5595,6 @@
         "org.Hs.eg.db",
         "pathview",
         "pbkrtest",
-        "qvalue",
         "readr",
         "rstatix",
         "scatterpie",
@@ -6293,7 +6255,6 @@
         "goProfiles",
         "gson",
         "org.Hs.eg.db",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -7016,7 +6977,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "qvalue",
         "rstatix",
         "rtracklayer",
         "testthat",
@@ -7189,7 +7149,6 @@
         "org.Mm.eg.db",
         "pbkrtest",
         "plotly",
-        "qvalue",
         "rstatix",
         "scater",
         "scattermore",
@@ -7777,7 +7736,6 @@
         "msigdbr",
         "org.Hs.eg.db",
         "pathview",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -8008,7 +7966,6 @@
         "minfi",
         "missMethyl",
         "org.Hs.eg.db",
-        "qvalue",
         "readr",
         "rhdf5",
         "rtracklayer",
@@ -8107,7 +8064,6 @@
         "ggtree",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -8178,7 +8134,6 @@
         "nloptr",
         "org.Hs.eg.db",
         "pbkrtest",
-        "qvalue",
         "rtracklayer",
         "testthat",
         "tidyr",
@@ -8250,7 +8205,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -8288,7 +8242,6 @@
         "heatmaply",
         "htmlwidgets",
         "plotly",
-        "qvalue",
         "rhdf5",
         "rmdformats",
         "rtracklayer",
@@ -8328,7 +8281,6 @@
         "HDF5Array",
         "bsseq",
         "methylKit",
-        "qvalue",
         "rhdf5",
         "rtracklayer"
     ],
@@ -8336,7 +8288,6 @@
     "methInheritSim": [
         "GenomicAlignments",
         "methylKit",
-        "qvalue",
         "rtracklayer"
     ],
     "MethReg": [
@@ -8498,7 +8449,6 @@
         "minfi",
         "missMethyl",
         "org.Hs.eg.db",
-        "qvalue",
         "reactome.db",
         "readr",
         "rhdf5",
@@ -8515,13 +8465,11 @@
     "methylInheritance": [
         "GenomicAlignments",
         "methylKit",
-        "qvalue",
         "rebus",
         "rtracklayer"
     ],
     "methylKit": [
         "GenomicAlignments",
-        "qvalue",
         "rtracklayer"
     ],
     "methylPipe": [
@@ -8744,7 +8692,6 @@
         "golem",
         "gson",
         "htmlwidgets",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -8976,7 +8923,6 @@
         "nloptr",
         "org.Hs.eg.db",
         "pbkrtest",
-        "qvalue",
         "reactome.db",
         "readr",
         "rearrr",
@@ -9036,7 +8982,6 @@
         "nloptr",
         "org.Hs.eg.db",
         "pbkrtest",
-        "qvalue",
         "reactome.db",
         "readr",
         "rearrr",
@@ -9215,7 +9160,6 @@
     "MOMA": [
         "MKmisc",
         "MultiAssayExperiment",
-        "qvalue",
         "readr",
         "tidyr"
     ],
@@ -9256,7 +9200,6 @@
         "ggtree",
         "gson",
         "htmlwidgets",
-        "qvalue",
         "readr",
         "rgl",
         "scatterpie",
@@ -9415,7 +9358,6 @@
         "MSnbase",
         "affy",
         "msmsEDA",
-        "qvalue",
         "vsn"
     ],
     "MSnbase": [
@@ -9434,7 +9376,6 @@
         "interactiveDisplayBase",
         "msmsEDA",
         "msmsTests",
-        "qvalue",
         "vsn"
     ],
     "MSPrep": [
@@ -9679,7 +9620,6 @@
         "pkgdown",
         "plotly",
         "profvis",
-        "qvalue",
         "rWikiPathways",
         "reactome.db",
         "recipes",
@@ -9797,7 +9737,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "qvalue",
         "testthat",
         "tidyr",
         "waldo"
@@ -9997,7 +9936,6 @@
         "ggtree",
         "gson",
         "htmlwidgets",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -10026,8 +9964,7 @@
     ],
     "netprioR": [],
     "netresponse": [
-        "BiocStyle",
-        "qvalue"
+        "BiocStyle"
     ],
     "NetSAM": [
         "AnnotationDbi",
@@ -10161,7 +10098,6 @@
     ],
     "normr": [
         "GenomicAlignments",
-        "qvalue",
         "rtracklayer"
     ],
     "NPARC": [
@@ -10258,7 +10194,6 @@
         "nloptr",
         "pbkrtest",
         "plyranges",
-        "qvalue",
         "readr",
         "rstatix",
         "rtracklayer",
@@ -10337,7 +10272,6 @@
         "nloptr",
         "omicade4",
         "pbkrtest",
-        "qvalue",
         "rexposome",
         "sva",
         "testthat",
@@ -10511,9 +10445,7 @@
         "htmlwidgets",
         "rgl"
     ],
-    "OPWeight": [
-        "qvalue"
-    ],
+    "OPWeight": [],
     "ORFhunteR": [
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg38",
@@ -10675,7 +10607,6 @@
         "gson",
         "metap",
         "org.Hs.eg.db",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -10702,7 +10633,6 @@
         "ggrepel",
         "keras",
         "nloptr",
-        "qvalue",
         "shadowtext",
         "testthat",
         "tfprobability",
@@ -10713,7 +10643,6 @@
     ],
     "PAST": [
         "GenomicAlignments",
-        "qvalue",
         "rtracklayer"
     ],
     "PathoStat": [
@@ -10870,7 +10799,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "qvalue",
         "scatterpie",
         "shadowtext",
         "tidygraph",
@@ -11039,7 +10967,6 @@
         "gson",
         "htmlTable",
         "htmlwidgets",
-        "qvalue",
         "reactome.db",
         "scatterpie",
         "shadowtext",
@@ -11362,7 +11289,6 @@
         "htmlwidgets",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
-        "qvalue",
         "rGREAT",
         "rtracklayer",
         "scatterpie",
@@ -11545,7 +11471,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "pairsD3",
-        "qvalue",
         "readr",
         "recount",
         "rtracklayer",
@@ -11781,7 +11706,6 @@
         "biclust",
         "tidyr"
     ],
-    "qvalue": [],
     "R3CPET": [
         "AnnotationDbi",
         "BSgenome",
@@ -11804,7 +11728,6 @@
     ],
     "r3Cseq": [
         "GenomicAlignments",
-        "qvalue",
         "rtracklayer"
     ],
     "R453Plus1Toolbox": [
@@ -11981,7 +11904,6 @@
         "ggtree",
         "graphite",
         "gson",
-        "qvalue",
         "reactome.db",
         "scatterpie",
         "shadowtext",
@@ -12017,7 +11939,6 @@
         "derfinder",
         "htmlTable",
         "htmlwidgets",
-        "qvalue",
         "readr",
         "rtracklayer",
         "tidyr",
@@ -12088,7 +12009,6 @@
         "geneplotter",
         "htmlTable",
         "htmlwidgets",
-        "qvalue",
         "tidyr",
         "viridis"
     ],
@@ -12124,7 +12044,6 @@
         "htmlTable",
         "htmlwidgets",
         "knitrBootstrap",
-        "qvalue",
         "rtracklayer",
         "viridis"
     ],
@@ -12357,7 +12276,6 @@
         "biomaRt",
         "densEstBayes",
         "geneplotter",
-        "qvalue",
         "reldist",
         "rstan",
         "rtracklayer"
@@ -12548,7 +12466,6 @@
         "htmlTable",
         "htmlwidgets",
         "org.Hs.eg.db",
-        "qvalue",
         "readr",
         "recount",
         "rtracklayer",
@@ -12656,8 +12573,7 @@
         "viridis"
     ],
     "RNAsense": [
-        "NBPSeq",
-        "qvalue"
+        "NBPSeq"
     ],
     "RNASeqR": [
         "AnnotationDbi",
@@ -12699,7 +12615,6 @@
         "org.Sc.sgd.db",
         "pathview",
         "pbkrtest",
-        "qvalue",
         "rstatix",
         "rtracklayer",
         "scatterpie",
@@ -12738,7 +12653,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "qvalue",
         "readr",
         "recount",
         "rstatix",
@@ -12778,9 +12692,7 @@
     "ROCpAI": [
         "fission"
     ],
-    "RolDE": [
-        "qvalue"
-    ],
+    "RolDE": [],
     "ROntoTools": [],
     "ropls": [
         "MultiAssayExperiment",
@@ -13458,7 +13370,6 @@
         "meshr",
         "nnTensor",
         "plotly",
-        "qvalue",
         "reactome.db",
         "scattermore",
         "scatterpie",
@@ -13527,9 +13438,7 @@
     "scuttle": [
         "SingleCellExperiment"
     ],
-    "SDAMS": [
-        "qvalue"
-    ],
+    "SDAMS": [],
     "sechm": [],
     "segmenter": [
         "AnnotationDbi",
@@ -13552,7 +13461,6 @@
         "ggraph",
         "ggrepel",
         "ggtree",
-        "qvalue",
         "rtracklayer",
         "scatterpie",
         "shadowtext",
@@ -13745,9 +13653,7 @@
     ],
     "sigFeature": [],
     "SigFuge": [],
-    "sights": [
-        "qvalue"
-    ],
+    "sights": [],
     "signatureSearch": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -13775,7 +13681,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
-        "qvalue",
         "reactome.db",
         "readr",
         "rhdf5",
@@ -13977,7 +13882,6 @@
         "msigdbr",
         "org.Hs.eg.db",
         "plotly",
-        "qvalue",
         "reldist",
         "rhdf5",
         "rstan",
@@ -14697,7 +14601,6 @@
         "tidyr"
     ],
     "subSeq": [
-        "qvalue",
         "tidyr"
     ],
     "SUITOR": [],
@@ -14788,7 +14691,6 @@
     "synapter": [
         "MSnbase",
         "affy",
-        "qvalue",
         "readr",
         "vsn"
     ],
@@ -15016,7 +14918,6 @@
         "pathview",
         "pbkrtest",
         "plotly",
-        "qvalue",
         "readr",
         "recipes",
         "rstatix",
@@ -15204,7 +15105,6 @@
         "ggrepel",
         "ggtree",
         "gson",
-        "qvalue",
         "rWikiPathways",
         "scatterpie",
         "shadowtext",
@@ -15396,7 +15296,6 @@
         "anota",
         "geneplotter",
         "org.Hs.eg.db",
-        "qvalue",
         "topGO"
     ],
     "transomics2cytoscape": [
@@ -15504,7 +15403,6 @@
         "AnnotationDbi",
         "annotate",
         "genefilter",
-        "qvalue",
         "sva"
     ],
     "tripr": [
@@ -15898,7 +15796,6 @@
     ],
     "vsclust": [
         "MultiAssayExperiment",
-        "qvalue",
         "tidyr"
     ],
     "vsn": [
@@ -16001,7 +15898,6 @@
         "affy",
         "annaffy",
         "gcrma",
-        "qvalue",
         "vsn"
     ],
     "weitrix": [
@@ -16704,7 +16600,6 @@
         "htmlwidgets",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
-        "qvalue",
         "rtracklayer",
         "viridis"
     ],
@@ -16814,9 +16709,7 @@
         "rtracklayer",
         "tidyr"
     ],
-    "isva": [
-        "qvalue"
-    ],
+    "isva": [],
     "geneLenDataBase": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -17110,9 +17003,7 @@
         "tidyr",
         "waldo"
     ],
-    "NBPSeq": [
-        "qvalue"
-    ],
+    "NBPSeq": [],
     "hgu133a2.db": [
         "AnnotationDbi",
         "org.Hs.eg.db"
@@ -17375,7 +17266,6 @@
         "annotate",
         "genefilter",
         "isva",
-        "qvalue",
         "sva"
     ],
     "EnsDb.Hsapiens.v75": [
