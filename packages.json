@@ -816,7 +816,6 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "MicrobiotaProcess": [],
     "MIGSA": [],
     "MineICA": [
         "lumi",
