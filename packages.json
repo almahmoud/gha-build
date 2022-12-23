@@ -5684,7 +5684,6 @@
         "dbplyr",
         "dplyr",
         "ellipsis",
-        "fauxpas",
         "gh",
         "graph",
         "highr",
@@ -83271,7 +83270,6 @@
     ],
     "rorcid": [
         "crul",
-        "fauxpas",
         "httr",
         "lifecycle",
         "openssl",
@@ -83281,7 +83279,6 @@
         "urltools",
         "vctrs"
     ],
-    "fauxpas": [],
     "styler": [
         "R.cache",
         "R.oo",
