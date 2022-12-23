@@ -15575,7 +15575,6 @@
         "scran",
         "scuttle",
         "selectr",
-        "shades",
         "shiny",
         "shinyFiles",
         "shinyWidgets",
@@ -81480,7 +81479,6 @@
         "rtracklayer",
         "sass",
         "scales",
-        "shades",
         "sp",
         "stringr",
         "tibble",
@@ -101618,7 +101616,6 @@
         "lambda.r",
         "lifecycle",
         "reportr",
-        "shades",
         "stringr",
         "tractor.base",
         "vctrs",
@@ -115146,7 +115143,6 @@
         "nlme",
         "pillar",
         "scales",
-        "shades",
         "tibble",
         "utf8",
         "vctrs",
@@ -115172,7 +115168,6 @@
         "nlme",
         "pillar",
         "scales",
-        "shades",
         "tibble",
         "utf8",
         "vctrs",
@@ -115222,7 +115217,6 @@
     "anytime": [
         "Rcpp"
     ],
-    "shades": [],
     "chromstaRData": [],
     "DDRTree": [
         "Matrix",
@@ -124763,8 +124757,7 @@
     "tractor.base": [
         "RNifti",
         "Rcpp",
-        "reportr",
-        "shades"
+        "reportr"
     ],
     "reportr": [],
     "RNifti": [
