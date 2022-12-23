@@ -41369,7 +41369,6 @@
         "recipes",
         "reshape2",
         "rsample",
-        "slider",
         "stringr",
         "tibble",
         "tidyr",
@@ -51697,12 +51696,10 @@
         "dplyr",
         "furrr",
         "purrr",
-        "slider",
         "tibble",
         "tidyr",
         "tidyselect"
     ],
-    "slider": [],
     "clustvarsel": [
         "BMA"
     ],
