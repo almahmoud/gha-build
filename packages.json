@@ -2439,8 +2439,7 @@
         "car",
         "ggpubr",
         "rstatix",
-        "sesame",
-        "sesameData"
+        "sesame"
     ],
     "methrix": [
         "HDF5Array",
@@ -3968,9 +3967,7 @@
     "seqCNA": [],
     "SeqGSEA": [],
     "SeqSQC": [],
-    "sesame": [
-        "sesameData"
-    ],
+    "sesame": [],
     "SEtools": [
         "sva"
     ],
@@ -4390,7 +4387,6 @@
         "ggraph",
         "rstatix",
         "sesame",
-        "sesameData",
         "viridis"
     ],
     "TCGAutils": [],
@@ -4962,7 +4958,6 @@
     "EnsDb.Hsapiens.v75": [
         "ensembldb"
     ],
-    "sesameData": [],
     "FlowSorted.Blood.450k": [
         "HDF5Array",
         "bumphunter",
