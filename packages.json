@@ -2197,7 +2197,6 @@
         "annotate",
         "geneplotter"
     ],
-    "DEGseq": [],
     "deltaCaptureC": [
         "DESeq2",
         "annotate",
