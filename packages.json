@@ -4484,7 +4484,6 @@
         "HiCcompare",
         "rhdf5"
     ],
-    "multiMiR": [],
     "multiSight": [
         "DESeq2",
         "DOSE",
