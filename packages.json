@@ -17992,7 +17992,6 @@
         "DelayedArray",
         "GEOmap",
         "GGally",
-        "GoFKernel",
         "IDPmisc",
         "IRanges",
         "MBA",
@@ -93019,7 +93018,6 @@
     ],
     "pscl": [],
     "cytometree": [
-        "GoFKernel",
         "Matrix",
         "RcppArmadillo",
         "cowplot",
@@ -93054,7 +93052,6 @@
         "tibble",
         "vctrs"
     ],
-    "GoFKernel": [],
     "rgeos": [
         "sp"
     ],
