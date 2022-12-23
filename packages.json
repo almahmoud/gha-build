@@ -315,7 +315,6 @@
     ],
     "BitSeq": [],
     "blacksheepr": [
-        "DEXSeq",
         "pasilla",
         "viridis"
     ],
@@ -944,7 +943,6 @@
     ],
     "DEsubs": [],
     "DExMA": [],
-    "DEXSeq": [],
     "DiffBind": [],
     "diffcoexp": [
         "Hmisc",
@@ -960,9 +958,7 @@
     "diffHic": [
         "rhdf5"
     ],
-    "diffUTR": [
-        "DEXSeq"
-    ],
+    "diffUTR": [],
     "Dino": [
         "Seurat"
     ],
@@ -1656,9 +1652,7 @@
         "rstatix",
         "viridis"
     ],
-    "IntEREst": [
-        "DEXSeq"
-    ],
+    "IntEREst": [],
     "IONiseR": [
         "rhdf5"
     ],
@@ -1692,7 +1686,6 @@
     ],
     "ISAnalytics": [],
     "IsoformSwitchAnalyzeR": [
-        "DEXSeq",
         "tximeta"
     ],
     "isomiRs": [],
@@ -3948,9 +3941,7 @@
         "Hmisc",
         "viridis"
     ],
-    "pasilla": [
-        "DEXSeq"
-    ],
+    "pasilla": [],
     "gamlss": [],
     "GenomicState": [
         "GenomicFiles",
