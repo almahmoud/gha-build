@@ -1618,7 +1618,6 @@
     ],
     "biotmle": [
         "SummarizedExperiment",
-        "SuperLearner",
         "drtmle",
         "ggdendro",
         "ggsci",
@@ -20694,10 +20693,7 @@
     "superheat": [
         "ggdendro"
     ],
-    "drtmle": [
-        "SuperLearner"
-    ],
-    "SuperLearner": [],
+    "drtmle": [],
     "biscuiteerData": [
         "AnnotationDbi",
         "AnnotationHub",
