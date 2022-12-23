@@ -539,7 +539,6 @@
         "ggplot2",
         "ggrastr",
         "ggrepel",
-        "gld",
         "htmlTable",
         "htmlwidgets",
         "knitr",
@@ -1864,7 +1863,6 @@
         "ggrastr",
         "ggrepel",
         "ggridges",
-        "gld",
         "glmnet",
         "htmlTable",
         "htmlwidgets",
@@ -12242,7 +12240,6 @@
     "gpuMagic": [
         "DescTools",
         "cellranger",
-        "gld",
         "progress",
         "pryr",
         "readxl",
@@ -13398,7 +13395,6 @@
         "dendextend",
         "dplyr",
         "ggplot2",
-        "gld",
         "progress",
         "readxl",
         "reshape2",
@@ -15452,7 +15448,6 @@
         "dbplyr",
         "dplyr",
         "ggplot2",
-        "gld",
         "knitr",
         "rmarkdown",
         "tibble"
@@ -16902,7 +16897,6 @@
         "ggrepel",
         "ggsignif",
         "ggtree",
-        "gld",
         "glmnet",
         "hardhat",
         "htmlTable",
@@ -25967,7 +25961,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "cellranger",
-        "gld",
         "progress",
         "readxl",
         "rtracklayer",
@@ -31972,7 +31965,6 @@
     ],
     "DescTools": [
         "cellranger",
-        "gld",
         "progress",
         "readxl",
         "tibble"
@@ -31986,7 +31978,6 @@
         "tibble",
         "waldo"
     ],
-    "gld": [],
     "tidytree": [
         "dplyr",
         "tibble",
@@ -34539,7 +34530,6 @@
     ],
     "PairedData": [
         "ggplot2",
-        "gld",
         "tibble"
     ],
     "SmartSVA": [
