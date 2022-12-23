@@ -1,0 +1,321 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   3014f4c2..f7241c23  main       -> origin/main
+Updating 3014f4c2..f7241c23
+Fast-forward
+ lists/RImmPort                                 |    2 +-
+ lists/idpr                                     |    2 +-
+ lists/plotROC                                  |    2 +-
+ lists/scatterHatch                             |    2 +-
+ lists/sjmisc                                   |    2 +-
+ logs/run_ids/rstudio-binaries/SUITOR           |    2 +
+ logs/run_ids/rstudio-binaries/tidyr            |    2 +
+ logs/run_ids/rstudio-binaries/tidytext         |    2 +
+ logs/sizes/rstudio-binaries/binaries/RImmPort  |    1 +
+ logs/sizes/rstudio-binaries/binaries/plotROC   |    1 +
+ logs/sizes/rstudio-binaries/binaries/sjmisc    |    1 +
+ logs/sizes/rstudio-binaries/libraries/RImmPort |    1 +
+ logs/sizes/rstudio-binaries/libraries/plotROC  |    1 +
+ logs/sizes/rstudio-binaries/libraries/sjmisc   |    1 +
+ logs/times/rstudio-binary/RImmPort             |  100 ++
+ logs/times/rstudio-binary/plotROC              | 1243 ++++++++++++++++++++++++
+ logs/times/rstudio-binary/sjmisc               |  331 +++++++
+ packages.json                                  |   10 +-
+ 18 files changed, 1692 insertions(+), 14 deletions(-)
+ create mode 100644 logs/run_ids/rstudio-binaries/SUITOR
+ create mode 100644 logs/run_ids/rstudio-binaries/tidyr
+ create mode 100644 logs/run_ids/rstudio-binaries/tidytext
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/RImmPort
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/plotROC
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/sjmisc
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/RImmPort
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/plotROC
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/sjmisc
+ create mode 100644 logs/times/rstudio-binary/RImmPort
+ create mode 100644 logs/times/rstudio-binary/plotROC
+ create mode 100644 logs/times/rstudio-binary/sjmisc
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=survMisc
++ PKG=survMisc
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "survMisc"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ xargs -i bash -c 'process_dep {}'
++ cat /tmp/deps
+Dependency knitr is already found.
+Dependency KMsurv is already found.
+Dependency ggplot2 is already found.
+Dependency data.table is already found.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 31 2133k   31  669k    0     0   584k      0  0:00:03  0:00:01  0:00:02  584k100 2133k  100 2133k    0     0  1076k      0  0:00:01  0:00:01 --:--:-- 1075k
+built/
+built/lattice/
+built/lattice/libs/
+built/lattice/libs/lattice.so
+built/lattice/NEWS
+built/lattice/NAMESPACE
+built/lattice/DESCRIPTION
+built/lattice/help/
+built/lattice/help/paths.rds
+built/lattice/help/lattice.rdx
+built/lattice/help/lattice.rdb
+built/lattice/help/aliases.rds
+built/lattice/help/AnIndex
+built/lattice/data/
+built/lattice/data/Rdata.rds
+built/lattice/data/Rdata.rdb
+built/lattice/data/Rdata.rdx
+built/lattice/Meta/
+built/lattice/Meta/package.rds
+built/lattice/Meta/demo.rds
+built/lattice/Meta/features.rds
+built/lattice/Meta/hsearch.rds
+built/lattice/Meta/links.rds
+built/lattice/Meta/nsInfo.rds
+built/lattice/Meta/Rd.rds
+built/lattice/Meta/data.rds
+built/lattice/po/
+built/lattice/po/it/
+built/lattice/po/it/LC_MESSAGES/
+built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/lattice/po/fr/
+built/lattice/po/fr/LC_MESSAGES/
+built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/lattice/po/ko/
+built/lattice/po/ko/LC_MESSAGES/
+built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/lattice/po/pl/
+built/lattice/po/pl/LC_MESSAGES/
+built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/lattice/po/en@quot/
+built/lattice/po/en@quot/LC_MESSAGES/
+built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/lattice/po/de/
+built/lattice/po/de/LC_MESSAGES/
+built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/lattice/CITATION
+built/lattice/html/
+built/lattice/html/00Index.html
+built/lattice/html/R.css
+built/lattice/INDEX
+built/lattice/R/
+built/lattice/R/lattice
+built/lattice/R/lattice.rdx
+built/lattice/R/lattice.rdb
+built/lattice/demo/
+built/lattice/demo/panel.R
+built/lattice/demo/intervals.R
+built/lattice/demo/labels.R
+built/lattice/demo/lattice.R
+built/zoo/
+built/zoo/WISHLIST
+built/zoo/libs/
+built/zoo/libs/zoo.so
+built/zoo/NEWS
+built/zoo/NAMESPACE
+built/zoo/DESCRIPTION
+built/zoo/help/
+built/zoo/help/paths.rds
+built/zoo/help/zoo.rdb
+built/zoo/help/zoo.rdx
+built/zoo/help/aliases.rds
+built/zoo/help/AnIndex
+built/zoo/Meta/
+built/zoo/Meta/package.rds
+built/zoo/Meta/vignette.rds
+built/zoo/Meta/demo.rds
+built/zoo/Meta/features.rds
+built/zoo/Meta/hsearch.rds
+built/zoo/Meta/links.rds
+built/zoo/Meta/nsInfo.rds
+built/zoo/Meta/Rd.rds
+built/zoo/include/
+built/zoo/include/zoo.h
+built/zoo/THANKS
+built/zoo/CITATION
+built/zoo/html/
+built/zoo/html/00Index.html
+built/zoo/html/R.css
+built/zoo/TODO
+built/zoo/INDEX
+built/zoo/doc/
+built/zoo/doc/zoo-read.pdf
+built/zoo/doc/zoo-faq.R
+built/zoo/doc/MSFT.rda
+built/zoo/doc/zoo-design.R
+built/zoo/doc/zoo-read.R
+built/zoo/doc/demo1.txt
+built/zoo/doc/zoo-design.Rnw
+built/zoo/doc/zoo.R
+built/zoo/doc/demo2.txt
+built/zoo/doc/zoo-quickref.R
+built/zoo/doc/zoo-read.Rnw
+built/zoo/doc/zoo-faq.pdf
+built/zoo/doc/zoo-quickref.Rnw
+built/zoo/doc/zoo-design.pdf
+built/zoo/doc/zoo-quickref.pdf
+built/zoo/doc/index.html
+built/zoo/doc/sunw.rda
+built/zoo/doc/zoo.Rnw
+built/zoo/doc/zoo-faq.Rnw
+built/zoo/doc/zoo.pdf
+built/zoo/R/
+built/zoo/R/zoo
+built/zoo/R/zoo.rdb
+built/zoo/R/zoo.rdx
+built/zoo/demo/
+built/zoo/demo/zoo-overplot.R
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 44 1232k   44  553k    0     0   492k      0  0:00:02  0:00:01  0:00:01  492k100 1232k  100 1232k    0     0   727k      0  0:00:01  0:00:01 --:--:--  727k
+built/
+built/gtable/
+built/gtable/NAMESPACE
+built/gtable/DESCRIPTION
+built/gtable/help/
+built/gtable/help/paths.rds
+built/gtable/help/gtable.rdb
+built/gtable/help/gtable.rdx
+built/gtable/help/aliases.rds
+built/gtable/help/figures/
+built/gtable/help/figures/README-unnamed-chunk-3-1.png
+built/gtable/help/figures/README-unnamed-chunk-2-1.png
+built/gtable/help/figures/logo.png
+built/gtable/help/AnIndex
+built/gtable/Meta/
+built/gtable/Meta/package.rds
+built/gtable/Meta/vignette.rds
+built/gtable/Meta/features.rds
+built/gtable/Meta/hsearch.rds
+built/gtable/Meta/links.rds
+built/gtable/Meta/nsInfo.rds
+built/gtable/Meta/Rd.rds
+built/gtable/LICENSE
+built/gtable/html/
+built/gtable/html/00Index.html
+built/gtable/html/R.css
+built/gtable/INDEX
+built/gtable/doc/
+built/gtable/doc/profiling.html
+built/gtable/doc/profiling.Rmd
+built/gtable/doc/profiling.R
+built/gtable/doc/index.html
+built/gtable/R/
+built/gtable/R/gtable
+built/gtable/R/gtable.rdb
+built/gtable/R/gtable.rdx
+built/gtable/NEWS.md
+built/gridExtra/
+built/gridExtra/NAMESPACE
+built/gridExtra/DESCRIPTION
+built/gridExtra/help/
+built/gridExtra/help/paths.rds
+built/gridExtra/help/gridExtra.rdb
+built/gridExtra/help/aliases.rds
+built/gridExtra/help/gridExtra.rdx
+built/gridExtra/help/AnIndex
+built/gridExtra/Meta/
+built/gridExtra/Meta/package.rds
+built/gridExtra/Meta/vignette.rds
+built/gridExtra/Meta/features.rds
+built/gridExtra/Meta/hsearch.rds
+built/gridExtra/Meta/links.rds
+built/gridExtra/Meta/nsInfo.rds
+built/gridExtra/Meta/Rd.rds
+built/gridExtra/html/
+built/gridExtra/html/00Index.html
+built/gridExtra/html/R.css
+built/gridExtra/INDEX
+built/gridExtra/doc/
+built/gridExtra/doc/arrangeGrob.R
+built/gridExtra/doc/arrangeGrob.rmd
+built/gridExtra/doc/arrangeGrob.html
+built/gridExtra/doc/tableGrob.R
+built/gridExtra/doc/gtable.Rmd
+built/gridExtra/doc/tableGrob.html
+built/gridExtra/doc/gtable.R
+built/gridExtra/doc/tableGrob.Rmd
+built/gridExtra/doc/ngonGrob.R
+built/gridExtra/doc/gtable.html
+built/gridExtra/doc/ngonGrob.html
+built/gridExtra/doc/index.html
+built/gridExtra/doc/ngonGrob.Rmd
+built/gridExtra/R/
+built/gridExtra/R/gridExtra.rdb
+built/gridExtra/R/gridExtra
+built/gridExtra/R/gridExtra.rdx
+built/gridExtra/tests/
+built/gridExtra/tests/testthat.r
+built/gridExtra/tests/testthat/
+built/gridExtra/tests/testthat/test-arrangeGrob.R
+built/gridExtra/tests/testthat/test-tableGrob.R
+built/gridExtra/NEWS.md
+Dependency km.ci is already found.
+Dependency xtable is already found.
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''survMisc'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv gridExtra_2.3_R_x86_64-pc-linux-gnu.tar.gz survMisc_0.5.6_R_x86_64-pc-linux-gnu.tar.gz zoo_1.8-11_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/survMisc
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'survMisc'
+also installing the dependencies ‘zoo’, ‘gridExtra’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/zoo_1.8-11.tar.gz'
+Content type 'binary/octet-stream' length 1024169 bytes (1000 KB)
+==================================================
+downloaded 1000 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/gridExtra_2.3.tar.gz'
+Content type 'binary/octet-stream' length 1106730 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/survMisc_0.5.6.tar.gz'
+Content type 'binary/octet-stream' length 335511 bytes (327 KB)
+==================================================
+downloaded 327 KB
+
+* installing *binary* package ‘zoo’ ...
+* ‘zoo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘zoo’ as ‘zoo_1.8-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zoo)
+* installing *binary* package ‘gridExtra’ ...
+* ‘gridExtra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gridExtra’ as ‘gridExtra_2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gridExtra)
+* installing *binary* package ‘survMisc’ ...
+* ‘survMisc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘survMisc’ as ‘survMisc_0.5.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (survMisc)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp7kwIaT/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m11.785s
+user	0m5.052s
+sys	0m0.565s

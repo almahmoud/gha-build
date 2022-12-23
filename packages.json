@@ -5316,7 +5316,6 @@
         "pbkrtest",
         "rstatix",
         "scatterpie",
-        "survMisc",
         "survminer",
         "testthat",
         "tidygraph",
@@ -5808,7 +5807,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survMisc",
         "survminer",
         "testthat",
         "waldo"
@@ -6715,7 +6713,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survMisc",
         "survminer",
         "testthat",
         "waldo"
@@ -6912,7 +6909,6 @@
         "pbkrtest",
         "plotly",
         "rstatix",
-        "survMisc",
         "survminer",
         "testthat",
         "waldo"
@@ -9764,7 +9760,6 @@
         "plotly",
         "rstatix",
         "shinybusy",
-        "survMisc",
         "survminer",
         "testthat",
         "waldo"
@@ -10129,7 +10124,6 @@
         "piano",
         "recipes",
         "rstatix",
-        "survMisc",
         "survminer",
         "testthat",
         "verification",
@@ -12071,7 +12065,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survMisc",
         "survminer",
         "testthat",
         "viridis",
@@ -12947,7 +12940,6 @@
         "pbkrtest",
         "rstatix",
         "rtracklayer",
-        "survMisc",
         "survivalAnalysis",
         "survminer",
         "testthat",
@@ -12986,7 +12978,6 @@
         "rhdf5",
         "rstatix",
         "rtracklayer",
-        "survMisc",
         "survminer",
         "testthat",
         "viridis",
@@ -13827,7 +13818,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survMisc",
         "survminer",
         "testthat",
         "waldo"
@@ -16117,11 +16107,9 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survMisc",
         "testthat",
         "waldo"
     ],
-    "survMisc": [],
     "logistf": [
         "broom",
         "mice"
@@ -16654,7 +16642,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survMisc",
         "survminer",
         "testthat",
         "tidytidbits",
