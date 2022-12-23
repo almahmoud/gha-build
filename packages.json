@@ -591,8 +591,7 @@
     "ChIPQC": [
         "DiffBind",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
-        "TxDb.Mmusculus.UCSC.mm9.knownGene",
-        "TxDb.Rnorvegicus.UCSC.rn4.ensGene"
+        "TxDb.Mmusculus.UCSC.mm9.knownGene"
     ],
     "ChIPseeker": [
         "enrichplot",
@@ -4308,7 +4307,6 @@
     "spp": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
-    "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
     "propr": [],
     "benchmarkme": [],
     "factoextra": [
