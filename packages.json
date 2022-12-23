@@ -671,9 +671,7 @@
         "viridis"
     ],
     "cleanUpdTSeq": [],
-    "clipper": [
-        "qpgraph"
-    ],
+    "clipper": [],
     "cliProfiler": [],
     "cliqueMS": [
         "MSnbase",
@@ -3150,7 +3148,6 @@
     "qpcrNorm": [
         "affy"
     ],
-    "qpgraph": [],
     "qPLEXanalyzer": [
         "MSnbase",
         "affy",
