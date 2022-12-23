@@ -353,7 +353,6 @@
         "annotate",
         "biomaRt",
         "chromVAR",
-        "haven",
         "modelr",
         "motifmatchr",
         "org.Hs.eg.db",
@@ -1616,7 +1615,6 @@
         "ChemmineR"
     ],
     "ComPrAn": [
-        "haven",
         "rio"
     ],
     "conclus": [
@@ -1817,7 +1815,6 @@
         "GenomicFeatures",
         "biomaRt",
         "ensembldb",
-        "haven",
         "regioneR",
         "rio",
         "rtracklayer"
@@ -2036,7 +2033,6 @@
         "epiNEM",
         "ggraph",
         "graphite",
-        "haven",
         "metap",
         "mnem",
         "modelr",
@@ -3719,7 +3715,6 @@
         "GenomicFeatures",
         "biomaRt",
         "ensembldb",
-        "haven",
         "regioneR",
         "rio",
         "rtracklayer"
@@ -4128,7 +4123,6 @@
     ],
     "ISAnalytics": [
         "datamods",
-        "haven",
         "rio",
         "shinybusy"
     ],
@@ -4281,7 +4275,6 @@
     "LinkHD": [
         "car",
         "ggpubr",
-        "haven",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -4450,7 +4443,6 @@
     ],
     "MAI": [
         "caret",
-        "haven",
         "modelr",
         "recipes",
         "tidyverse"
@@ -4461,7 +4453,6 @@
         "agricolae",
         "caret",
         "fields",
-        "haven",
         "klaR",
         "labelled",
         "plsgenomics",
@@ -4814,7 +4805,6 @@
         "devtools",
         "genefilter",
         "ggpubr",
-        "haven",
         "interactiveDisplayBase",
         "lme4",
         "methylclockData",
@@ -5109,7 +5099,6 @@
         "ggtree",
         "graphite",
         "groupdata2",
-        "haven",
         "iBBiG",
         "lme4",
         "miRspongeR",
@@ -5147,7 +5136,6 @@
         "ggtree",
         "graphite",
         "groupdata2",
-        "haven",
         "lme4",
         "modelr",
         "nloptr",
@@ -5408,7 +5396,6 @@
         "dendextend",
         "factoextra",
         "ggpubr",
-        "haven",
         "lme4",
         "lmerTest",
         "modelr",
@@ -5648,7 +5635,6 @@
         "org.Hs.eg.db"
     ],
     "nanotatoR": [
-        "haven",
         "modelr",
         "org.Hs.eg.db",
         "testthat",
@@ -5781,7 +5767,6 @@
         "Hmisc",
         "RcmdrMisc",
         "car",
-        "haven",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -5875,7 +5860,6 @@
     "oligoClasses": [],
     "omada": [
         "diceR",
-        "haven",
         "klaR",
         "labelled",
         "questionr"
@@ -8202,7 +8186,6 @@
         "cvms",
         "ggpubr",
         "groupdata2",
-        "haven",
         "lme4",
         "modelr",
         "nloptr",
@@ -8253,7 +8236,6 @@
         "MESS",
         "geepack",
         "ggformula",
-        "haven",
         "labelled"
     ],
     "ssrch": [],
@@ -8295,7 +8277,6 @@
         "org.Hs.eg.db"
     ],
     "Statial": [
-        "haven",
         "modelr",
         "tidyverse"
     ],
@@ -8383,7 +8364,6 @@
         "car",
         "drc",
         "fields",
-        "haven",
         "lme4",
         "mice",
         "modelr",
@@ -9289,7 +9269,6 @@
     ],
     "mGSZ": [],
     "tidyverse": [
-        "haven",
         "modelr"
     ],
     "Mus.musculus": [
@@ -9315,7 +9294,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "haven": [],
     "modelr": [],
     "reactome.db": [],
     "mixtools": [
@@ -9519,9 +9497,7 @@
     ],
     "phylobase": [],
     "benchmarkme": [],
-    "rio": [
-        "haven"
-    ],
+    "rio": [],
     "factoextra": [
         "FactoMineR",
         "car",
@@ -9708,7 +9684,6 @@
         "rtracklayer"
     ],
     "datamods": [
-        "haven",
         "rio",
         "shinybusy"
     ],
@@ -9742,23 +9717,18 @@
         "fields"
     ],
     "agricolae": [
-        "haven",
         "klaR",
         "labelled",
         "questionr"
     ],
     "klaR": [
-        "haven",
         "labelled",
         "questionr"
     ],
     "questionr": [
-        "haven",
         "labelled"
     ],
-    "labelled": [
-        "haven"
-    ],
+    "labelled": [],
     "SmartSVA": [
         "annotate",
         "genefilter",
@@ -9843,7 +9813,6 @@
     "RcmdrMisc": [
         "Hmisc",
         "car",
-        "haven",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -9862,7 +9831,6 @@
         "interactiveDisplayBase"
     ],
     "diceR": [
-        "haven",
         "klaR",
         "labelled",
         "questionr"
@@ -10013,11 +9981,9 @@
     "MESS": [
         "geepack",
         "ggformula",
-        "haven",
         "labelled"
     ],
     "ggformula": [
-        "haven",
         "labelled"
     ],
     "SpatialExtremes": [
