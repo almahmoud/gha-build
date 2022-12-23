@@ -18599,7 +18599,6 @@
         "latticeExtra",
         "mboost",
         "org.Hs.eg.db",
-        "partykit",
         "pcalg",
         "progress",
         "readr",
@@ -22992,7 +22991,6 @@
         "htmlwidgets",
         "knitr",
         "latticeExtra",
-        "partykit",
         "patchwork",
         "qvalue",
         "reactome.db",
@@ -37361,13 +37359,9 @@
     ],
     "InvariantCausalPrediction": [
         "glmnet",
-        "mboost",
-        "partykit"
+        "mboost"
     ],
-    "mboost": [
-        "partykit"
-    ],
-    "partykit": [],
+    "mboost": [],
     "miRBaseVersions.db": [
         "AnnotationDbi",
         "Biostrings",
@@ -37745,7 +37739,6 @@
     ],
     "C50": [
         "Cubist",
-        "partykit",
         "reshape2"
     ],
     "Cubist": [
