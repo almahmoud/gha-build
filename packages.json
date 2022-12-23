@@ -1162,7 +1162,6 @@
         "phenoTest"
     ],
     "CancerInSilico": [],
-    "CancerSubtypes": [],
     "cardelino": [
         "BSgenome",
         "GenomicAlignments",
