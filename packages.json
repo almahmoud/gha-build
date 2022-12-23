@@ -17897,7 +17897,6 @@
         "httr",
         "openssl"
     ],
-    "geneRecommender": [],
     "GeneRegionScan": [
         "Biostrings",
         "GenomeInfoDb",
