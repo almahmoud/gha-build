@@ -9946,7 +9946,6 @@
         "dplyr",
         "ggplot2",
         "ggthemes",
-        "pals",
         "pillar",
         "purrr",
         "reshape2",
@@ -55736,7 +55735,6 @@
         "pillar",
         "tibble"
     ],
-    "pals": [],
     "Rmixmod": [],
     "HTSCluster": [
         "edgeR"
