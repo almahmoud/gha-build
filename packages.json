@@ -5116,8 +5116,7 @@
         "KEGGREST",
         "RSQLite",
         "XVector",
-        "topGO",
-        "topicmodels"
+        "topGO"
     ],
     "cellxgenedp": [
         "DT",
@@ -24796,7 +24795,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "topicmodels",
         "uwot",
         "viridis",
         "vroom",
@@ -37493,7 +37491,6 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "topicmodels",
         "tweenr",
         "viridis"
     ],
@@ -43646,7 +43643,6 @@
         "pillar",
         "tibble"
     ],
-    "topicmodels": [],
     "ggpmisc": [
         "dplyr",
         "ggplot2",
