@@ -2512,8 +2512,7 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "rtracklayer",
-        "sqldf"
+        "rtracklayer"
     ],
     "CATALYST": [
         "BiocSingular",
@@ -3905,7 +3904,6 @@
         "ggplot2",
         "readr",
         "rmarkdown",
-        "sqldf",
         "tidyr",
         "vroom",
         "vsn"
@@ -9318,8 +9316,7 @@
         "dbplyr",
         "dplyr",
         "fgsea",
-        "ggplot2",
-        "sqldf"
+        "ggplot2"
     ],
     "GSReg": [
         "AnnotationDbi",
@@ -10100,8 +10097,7 @@
         "vroom"
     ],
     "IMMAN": [
-        "STRINGdb",
-        "sqldf"
+        "STRINGdb"
     ],
     "ImmuneSpaceR": [
         "dendextend",
@@ -10351,8 +10347,7 @@
         "rtracklayer"
     ],
     "InterMineR": [
-        "SummarizedExperiment",
-        "sqldf"
+        "SummarizedExperiment"
     ],
     "IntramiRExploreR": [
         "FGNet"
@@ -10780,9 +10775,7 @@
         "org.Hs.eg.db"
     ],
     "KEGGREST": [],
-    "KinSwingR": [
-        "sqldf"
-    ],
+    "KinSwingR": [],
     "kissDE": [
         "AnnotationDbi",
         "BSgenome",
@@ -11920,7 +11913,6 @@
         "rematch2",
         "rmarkdown",
         "rtracklayer",
-        "sqldf",
         "testthat",
         "tidyr",
         "viridis",
@@ -12959,8 +12951,7 @@
     ],
     "miRNAtap": [
         "AnnotationDbi",
-        "KEGGREST",
-        "sqldf"
+        "KEGGREST"
     ],
     "miRSM": [
         "AnnotationDbi",
@@ -14233,7 +14224,6 @@
         "htmlwidgets",
         "rmarkdown",
         "rtracklayer",
-        "sqldf",
         "viridis"
     ],
     "myvariant": [
@@ -14639,7 +14629,6 @@
         "readr",
         "rhdf5",
         "rtracklayer",
-        "sqldf",
         "tidyr",
         "vroom",
         "yarn"
@@ -16269,8 +16258,7 @@
         "dbplyr",
         "dplyr",
         "fgsea",
-        "ggplot2",
-        "sqldf"
+        "ggplot2"
     ],
     "pqsfinder": [],
     "pram": [
@@ -16893,8 +16881,7 @@
         "dplyr",
         "htmlwidgets",
         "interactiveDisplayBase",
-        "rmarkdown",
-        "sqldf"
+        "rmarkdown"
     ],
     "pwrEWAS": [
         "AnnotationDbi",
@@ -17143,8 +17130,7 @@
         "SummarizedExperiment",
         "ggplot2",
         "qvalue",
-        "rtracklayer",
-        "sqldf"
+        "rtracklayer"
     ],
     "R453Plus1Toolbox": [
         "AnnotationDbi",
@@ -17987,7 +17973,6 @@
         "htmlwidgets",
         "rmarkdown",
         "rtracklayer",
-        "sqldf",
         "tidyr",
         "viridis"
     ],
@@ -18050,8 +18035,7 @@
         "waldo"
     ],
     "RImmPort": [
-        "dplyr",
-        "sqldf"
+        "dplyr"
     ],
     "Ringo": [
         "AnnotationDbi",
@@ -18117,7 +18101,6 @@
         "ensembldb",
         "ggplot2",
         "rtracklayer",
-        "sqldf",
         "tidyr",
         "topGO"
     ],
@@ -20908,8 +20891,7 @@
         "KEGGREST",
         "miRNAtap",
         "miRNAtap.db",
-        "org.Hs.eg.db",
-        "sqldf"
+        "org.Hs.eg.db"
     ],
     "spiky": [
         "BSgenome",
@@ -21300,8 +21282,7 @@
         "graphite",
         "miRNAtap",
         "miRNAtap.db",
-        "org.Hs.eg.db",
-        "sqldf"
+        "org.Hs.eg.db"
     ],
     "STATegRa": [
         "affy",
@@ -21386,9 +21367,7 @@
         "rmarkdown",
         "rtracklayer"
     ],
-    "STRINGdb": [
-        "sqldf"
-    ],
+    "STRINGdb": [],
     "struct": [
         "SummarizedExperiment"
     ],
@@ -23463,8 +23442,7 @@
     ],
     "XINA": [
         "STRINGdb",
-        "ggplot2",
-        "sqldf"
+        "ggplot2"
     ],
     "XNAString": [
         "BSgenome",
@@ -24573,7 +24551,6 @@
     "vcfR": [
         "dplyr"
     ],
-    "sqldf": [],
     "drc": [
         "broom",
         "car",
@@ -26359,8 +26336,7 @@
     "miRNAtap.db": [
         "AnnotationDbi",
         "KEGGREST",
-        "miRNAtap",
-        "sqldf"
+        "miRNAtap"
     ],
     "dml": [],
     "MESS": [
