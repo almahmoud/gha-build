@@ -3451,7 +3451,6 @@
         "ggraph",
         "viridis"
     ],
-    "ssPATHS": [],
     "STAN": [
         "Gviz",
         "Hmisc",
