@@ -464,7 +464,6 @@
         "BSgenome.Mmusculus.UCSC.mm9"
     ],
     "chipenrich": [
-        "chipenrich.data",
         "rms"
     ],
     "ChIPexoQual": [
@@ -3377,7 +3376,6 @@
     "geneLenDataBase": [],
     "spp": [],
     "BSgenome.Mmusculus.UCSC.mm9": [],
-    "chipenrich.data": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
