@@ -2023,7 +2023,6 @@
         "scatterpie",
         "treeio"
     ],
-    "EGAD": [],
     "EGSEA": [
         "GSEABase",
         "GSVA",
