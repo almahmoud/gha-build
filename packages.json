@@ -2384,7 +2384,6 @@
     ],
     "geneplotter": [],
     "GENESIS": [
-        "GWASTools",
         "SeqVarTools"
     ],
     "GeneStructureTools": [
@@ -2688,10 +2687,8 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "GWASTools": [],
     "gwasurvivr": [
         "BSgenome",
-        "GWASTools",
         "GenomicFeatures",
         "VariantAnnotation"
     ],
@@ -3263,9 +3260,7 @@
         "WGCNA",
         "viridis"
     ],
-    "mBPCR": [
-        "GWASTools"
-    ],
+    "mBPCR": [],
     "MCbiclust": [
         "Hmisc",
         "WGCNA",
