@@ -9425,7 +9425,6 @@
         "testthat",
         "viper"
     ],
-    "Rtpca": [],
     "rtracklayer": [
         "GenomicAlignments"
     ],
