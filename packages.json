@@ -1022,7 +1022,6 @@
         "sass",
         "shiny",
         "shinyjs",
-        "stable",
         "statip",
         "stringr",
         "survival",
@@ -9229,7 +9228,6 @@
         "modeest",
         "phylolm",
         "pillar",
-        "stable",
         "statip",
         "stringr",
         "tibble"
@@ -28107,7 +28105,6 @@
         "purrr",
         "quantreg",
         "rematch2",
-        "stable",
         "statip",
         "survival",
         "testthat",
@@ -52732,7 +52729,6 @@
         "ggrepel",
         "modeest",
         "pillar",
-        "stable",
         "statip",
         "tibble",
         "vegan"
@@ -52754,11 +52750,9 @@
     ],
     "modeest": [
         "fBasics",
-        "stable",
         "statip"
     ],
     "fBasics": [],
-    "stable": [],
     "statip": [],
     "clock": [],
     "hardhat": [
