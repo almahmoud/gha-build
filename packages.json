@@ -10874,8 +10874,7 @@
         "rtracklayer"
     ],
     "QuartPAC": [
-        "GraphPAC",
-        "SpacePAC"
+        "GraphPAC"
     ],
     "QuasR": [
         "AnnotationDbi",
@@ -13113,7 +13112,6 @@
         "rtracklayer",
         "viridis"
     ],
-    "SpacePAC": [],
     "Spaniel": [
         "DropletUtils",
         "HDF5Array",
