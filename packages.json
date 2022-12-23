@@ -5363,7 +5363,6 @@
         "IRanges",
         "KEGGREST",
         "KernSmooth",
-        "LaplacesDemon",
         "MASS",
         "MLInterfaces",
         "MSnbase",
@@ -21416,7 +21415,6 @@
     ],
     "covEB": [
         "Biobase",
-        "LaplacesDemon",
         "Matrix",
         "igraph",
         "rlang"
@@ -75755,7 +75753,6 @@
     ],
     "PoDCall": [
         "DT",
-        "LaplacesDemon",
         "MASS",
         "Matrix",
         "Rcpp",
@@ -77447,7 +77444,6 @@
         "IRanges",
         "KEGGREST",
         "KernSmooth",
-        "LaplacesDemon",
         "MASS",
         "MLInterfaces",
         "MSnbase",
@@ -77600,7 +77596,6 @@
         "IRanges",
         "KEGGREST",
         "KernSmooth",
-        "LaplacesDemon",
         "MASS",
         "MLInterfaces",
         "MSnbase",
@@ -115502,7 +115497,6 @@
         "viridis",
         "viridisLite"
     ],
-    "LaplacesDemon": [],
     "gdata": [
         "gtools"
     ],
