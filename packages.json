@@ -1923,7 +1923,6 @@
     "MicrobiotaProcess": [
         "coin"
     ],
-    "MIGSA": [],
     "miloR": [
         "ggraph",
         "viridis"
