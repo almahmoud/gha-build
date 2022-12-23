@@ -339,7 +339,6 @@
     "debrowser": [
         "clusterProfiler"
     ],
-    "decompTumor2Sig": [],
     "deconvR": [
         "minfi"
     ],
@@ -929,7 +928,6 @@
     ],
     "musicatk": [
         "FactoMineR",
-        "decompTumor2Sig",
         "deconstructSigs",
         "factoextra",
         "ggpubr",
