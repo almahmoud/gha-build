@@ -184,7 +184,6 @@
         "nlme",
         "pillar",
         "scales",
-        "snowfall",
         "tibble",
         "vctrs"
     ],
@@ -7269,7 +7268,6 @@
         "sass",
         "scales",
         "shiny",
-        "snowfall",
         "sparseMatrixStats",
         "stringr",
         "tibble",
@@ -7675,7 +7673,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "snowfall",
         "stringr",
         "survival",
         "sva",
@@ -10996,8 +10993,7 @@
     "CGHcall": [
         "Biobase",
         "CGHbase",
-        "marray",
-        "snowfall"
+        "marray"
     ],
     "cghMCR": [
         "AnnotationDbi",
@@ -11028,8 +11024,7 @@
         "Biobase",
         "CGHbase",
         "CGHcall",
-        "marray",
-        "snowfall"
+        "marray"
     ],
     "CGHregions": [
         "Biobase",
@@ -18630,7 +18625,6 @@
         "selectr",
         "shadowtext",
         "sn",
-        "snowfall",
         "stringr",
         "survival",
         "systemfonts",
@@ -23019,7 +23013,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "snowfall",
         "stringr",
         "tibble",
         "tinytex",
@@ -24400,7 +24393,6 @@
         "pcalg",
         "pillar",
         "scales",
-        "snowfall",
         "stringr",
         "tibble",
         "vcd",
@@ -28995,8 +28987,7 @@
         "future.apply",
         "globals",
         "lambda.r",
-        "marray",
-        "snowfall"
+        "marray"
     ],
     "geneClassifiers": [
         "Biobase"
@@ -33838,7 +33829,6 @@
         "rhdf5",
         "rhdf5filters",
         "scales",
-        "snowfall",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -34009,7 +33999,6 @@
         "scales",
         "shiny",
         "shinyjs",
-        "snowfall",
         "stringr",
         "survival",
         "testthat",
@@ -41468,7 +41457,6 @@
         "rmarkdown",
         "sass",
         "scales",
-        "snowfall",
         "stringr",
         "tibble",
         "tinytex",
@@ -46648,7 +46636,6 @@
         "nlme",
         "pillar",
         "scales",
-        "snowfall",
         "tibble",
         "vctrs",
         "vegan",
@@ -49140,7 +49127,6 @@
         "rhdf5",
         "rhdf5filters",
         "scales",
-        "snowfall",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -50761,7 +50747,6 @@
         "pcalg",
         "pillar",
         "scales",
-        "snowfall",
         "stringr",
         "tibble",
         "vcd",
@@ -59447,8 +59432,7 @@
         "future.apply",
         "globals",
         "lambda.r",
-        "marray",
-        "snowfall"
+        "marray"
     ],
     "QFeatures": [
         "AnnotationFilter",
@@ -66182,7 +66166,6 @@
         "plyr",
         "psych",
         "reshape2",
-        "snowfall",
         "stringr",
         "vctrs"
     ],
@@ -73778,7 +73761,6 @@
         "rhdf5",
         "rhdf5filters",
         "scales",
-        "snowfall",
         "tibble",
         "tidyselect",
         "vctrs"
@@ -77023,7 +77005,6 @@
         "rhdf5filters",
         "rstatix",
         "scales",
-        "snowfall",
         "stringr",
         "survival",
         "testthat",
@@ -83974,7 +83955,6 @@
         "future",
         "globals"
     ],
-    "snowfall": [],
     "future": [
         "globals"
     ],
