@@ -1480,7 +1480,6 @@
         "benchmarkme",
         "genefilter",
         "mbkmeans",
-        "phylobase",
         "rhdf5",
         "zinbwave"
     ],
@@ -5809,7 +5808,6 @@
         "clusterExperiment",
         "genefilter",
         "mbkmeans",
-        "phylobase",
         "rhdf5",
         "scater",
         "scuttle",
@@ -9649,7 +9647,6 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "phylobase": [],
     "benchmarkme": [],
     "rio": [],
     "factoextra": [
