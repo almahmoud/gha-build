@@ -1510,7 +1510,6 @@
         "rstatix",
         "viridis"
     ],
-    "IntEREst": [],
     "IONiseR": [
         "rhdf5"
     ],
