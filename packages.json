@@ -6187,7 +6187,6 @@
     "pdInfoBuilder": [
         "oligo"
     ],
-    "PeacoQC": [],
     "peakPantheR": [
         "MSnbase",
         "affy",
