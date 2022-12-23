@@ -14678,7 +14678,6 @@
         "SummarizedExperiment",
         "XVector",
         "bamsignals",
-        "chromstaRData",
         "doParallel",
         "foreach",
         "futile.logger",
@@ -108239,7 +108238,6 @@
         "sourcetools"
     ],
     "anytime": [],
-    "chromstaRData": [],
     "DDRTree": [
         "Matrix",
         "RcppEigen",
