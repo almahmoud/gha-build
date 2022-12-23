@@ -7066,7 +7066,6 @@
         "rhdf5",
         "rstatix"
     ],
-    "tomoseqr": [],
     "topdownr": [
         "MSnbase",
         "affy",
