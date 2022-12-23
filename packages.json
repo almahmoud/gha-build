@@ -403,8 +403,7 @@
     ],
     "ChIPanalyser": [],
     "ChIPComp": [
-        "BSgenome.Hsapiens.UCSC.hg19",
-        "BSgenome.Mmusculus.UCSC.mm9"
+        "BSgenome.Hsapiens.UCSC.hg19"
     ],
     "chipenrich": [],
     "ChIPexoQual": [
@@ -1837,7 +1836,6 @@
     "musicatk": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
-        "BSgenome.Mmusculus.UCSC.mm9",
         "FactoMineR",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "TxDb.Hsapiens.UCSC.hg38.knownGene",
@@ -2663,7 +2661,6 @@
     ],
     "SplicingGraphs": [],
     "SPLINTER": [
-        "BSgenome.Mmusculus.UCSC.mm9",
         "Gviz",
         "VariantAnnotation",
         "biovizBase",
@@ -3074,7 +3071,6 @@
     ],
     "geneLenDataBase": [],
     "spp": [],
-    "BSgenome.Mmusculus.UCSC.mm9": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
