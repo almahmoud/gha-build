@@ -2397,7 +2397,6 @@
         "viper",
         "visNetwork"
     ],
-    "COTAN": [],
     "countsimQC": [
         "AnnotationDbi",
         "DESeq2",
