@@ -22343,7 +22343,6 @@
         "reshape2",
         "rmarkdown",
         "robust",
-        "roptim",
         "rrcov",
         "sass",
         "scales",
@@ -67023,7 +67022,6 @@
     "robust": [
         "rrcov"
     ],
-    "roptim": [],
     "maptools": [],
     "shinyHeatmaply": [
         "TSP",
