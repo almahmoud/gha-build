@@ -348,7 +348,6 @@
         "vctrs"
     ],
     "affy": [],
-    "affycomp": [],
     "AffyCompatible": [
         "Biostrings",
         "GenomeInfoDb",
