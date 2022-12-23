@@ -16,9 +16,7 @@
         "snapCGH",
         "tilingArray"
     ],
-    "ADAM": [],
     "ADAMgui": [
-        "ADAM",
         "car",
         "ggpubr",
         "lme4",
