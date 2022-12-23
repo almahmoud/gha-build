@@ -3595,7 +3595,6 @@
         "rmarkdown",
         "rtracklayer"
     ],
-    "cola": [],
     "comapr": [
         "AnnotationDbi",
         "AnnotationFilter",
