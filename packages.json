@@ -4690,8 +4690,7 @@
     "tLOH": [
         "BSgenome",
         "GenomicFeatures",
-        "VariantAnnotation",
-        "naniar"
+        "VariantAnnotation"
     ],
     "TNBC.CMS": [
         "GSVA",
@@ -5436,7 +5435,6 @@
     "ggformula": [],
     "SpatialExtremes": [],
     "GenKern": [],
-    "naniar": [],
     "vbsr": [],
     "SNPlocs.Hsapiens.dbSNP150.GRCh38": [
         "BSgenome"
