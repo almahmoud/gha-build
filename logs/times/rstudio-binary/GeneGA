@@ -1,0 +1,1265 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+Already up to date.
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=GeneGA
++ PKG=GeneGA
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "GeneGA"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1 27.9M    1  446k    0     0   427k      0  0:01:06  0:00:01  0:01:05  427k  5 27.9M    5 1705k    0     0   844k      0  0:00:33  0:00:02  0:00:31  844k 13 27.9M   13 3888k    0     0  1281k      0  0:00:22  0:00:03  0:00:19 1281k 24 27.9M   24 6948k    0     0  1718k      0  0:00:16  0:00:04  0:00:12 1718k 37 27.9M   37 10.5M    0     0  2142k      0  0:00:13  0:00:05  0:00:08 2151k 54 27.9M   54 15.2M    0     0  2583k      0  0:00:11  0:00:06  0:00:05 3035k 74 27.9M   74 20.7M    0     0  3027k      0  0:00:09  0:00:07  0:00:02 3906k 97 27.9M   97 27.2M    0     0  3465k      0  0:00:08  0:00:08 --:--:-- 4788k100 27.9M  100 27.9M    0     0  3517k      0  0:00:08  0:00:08 --:--:-- 5296k
+built/
+built/built/
+built/built/built/
+built/built/built/lattice/
+built/built/built/lattice/libs/
+built/built/built/lattice/libs/lattice.so
+built/built/built/lattice/NEWS
+built/built/built/lattice/NAMESPACE
+built/built/built/lattice/DESCRIPTION
+built/built/built/lattice/help/
+built/built/built/lattice/help/paths.rds
+built/built/built/lattice/help/lattice.rdx
+built/built/built/lattice/help/lattice.rdb
+built/built/built/lattice/help/aliases.rds
+built/built/built/lattice/help/AnIndex
+built/built/built/lattice/data/
+built/built/built/lattice/data/Rdata.rds
+built/built/built/lattice/data/Rdata.rdb
+built/built/built/lattice/data/Rdata.rdx
+built/built/built/lattice/Meta/
+built/built/built/lattice/Meta/package.rds
+built/built/built/lattice/Meta/demo.rds
+built/built/built/lattice/Meta/features.rds
+built/built/built/lattice/Meta/hsearch.rds
+built/built/built/lattice/Meta/links.rds
+built/built/built/lattice/Meta/nsInfo.rds
+built/built/built/lattice/Meta/Rd.rds
+built/built/built/lattice/Meta/data.rds
+built/built/built/lattice/po/
+built/built/built/lattice/po/it/
+built/built/built/lattice/po/it/LC_MESSAGES/
+built/built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/fr/
+built/built/built/lattice/po/fr/LC_MESSAGES/
+built/built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/ko/
+built/built/built/lattice/po/ko/LC_MESSAGES/
+built/built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/pl/
+built/built/built/lattice/po/pl/LC_MESSAGES/
+built/built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/en@quot/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/po/de/
+built/built/built/lattice/po/de/LC_MESSAGES/
+built/built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/built/lattice/CITATION
+built/built/built/lattice/html/
+built/built/built/lattice/html/00Index.html
+built/built/built/lattice/html/R.css
+built/built/built/lattice/INDEX
+built/built/built/lattice/R/
+built/built/built/lattice/R/lattice
+built/built/built/lattice/R/lattice.rdx
+built/built/built/lattice/R/lattice.rdb
+built/built/built/lattice/demo/
+built/built/built/lattice/demo/panel.R
+built/built/built/lattice/demo/intervals.R
+built/built/built/lattice/demo/labels.R
+built/built/built/lattice/demo/lattice.R
+built/built/built/built/
+built/built/built/built/lattice/
+built/built/built/built/lattice/libs/
+built/built/built/built/lattice/libs/lattice.so
+built/built/built/built/lattice/NEWS
+built/built/built/built/lattice/NAMESPACE
+built/built/built/built/lattice/DESCRIPTION
+built/built/built/built/lattice/help/
+built/built/built/built/lattice/help/paths.rds
+built/built/built/built/lattice/help/lattice.rdx
+built/built/built/built/lattice/help/lattice.rdb
+built/built/built/built/lattice/help/aliases.rds
+built/built/built/built/lattice/help/AnIndex
+built/built/built/built/lattice/data/
+built/built/built/built/lattice/data/Rdata.rds
+built/built/built/built/lattice/data/Rdata.rdb
+built/built/built/built/lattice/data/Rdata.rdx
+built/built/built/built/lattice/Meta/
+built/built/built/built/lattice/Meta/package.rds
+built/built/built/built/lattice/Meta/demo.rds
+built/built/built/built/lattice/Meta/features.rds
+built/built/built/built/lattice/Meta/hsearch.rds
+built/built/built/built/lattice/Meta/links.rds
+built/built/built/built/lattice/Meta/nsInfo.rds
+built/built/built/built/lattice/Meta/Rd.rds
+built/built/built/built/lattice/Meta/data.rds
+built/built/built/built/lattice/po/
+built/built/built/built/lattice/po/it/
+built/built/built/built/lattice/po/it/LC_MESSAGES/
+built/built/built/built/lattice/po/it/LC_MESSAGES/R-lattice.mo
+built/built/built/built/lattice/po/fr/
+built/built/built/built/lattice/po/fr/LC_MESSAGES/
+built/built/built/built/lattice/po/fr/LC_MESSAGES/R-lattice.mo
+built/built/built/built/lattice/po/ko/
+built/built/built/built/lattice/po/ko/LC_MESSAGES/
+built/built/built/built/lattice/po/ko/LC_MESSAGES/R-lattice.mo
+built/built/built/built/lattice/po/pl/
+built/built/built/built/lattice/po/pl/LC_MESSAGES/
+built/built/built/built/lattice/po/pl/LC_MESSAGES/R-lattice.mo
+built/built/built/built/lattice/po/en@quot/
+built/built/built/built/lattice/po/en@quot/LC_MESSAGES/
+built/built/built/built/lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+built/built/built/built/lattice/po/de/
+built/built/built/built/lattice/po/de/LC_MESSAGES/
+built/built/built/built/lattice/po/de/LC_MESSAGES/R-lattice.mo
+built/built/built/built/lattice/CITATION
+built/built/built/built/lattice/html/
+built/built/built/built/lattice/html/00Index.html
+built/built/built/built/lattice/html/R.css
+built/built/built/built/lattice/INDEX
+built/built/built/built/lattice/R/
+built/built/built/built/lattice/R/lattice
+built/built/built/built/lattice/R/lattice.rdx
+built/built/built/built/lattice/R/lattice.rdb
+built/built/built/built/lattice/demo/
+built/built/built/built/lattice/demo/panel.R
+built/built/built/built/lattice/demo/intervals.R
+built/built/built/built/lattice/demo/labels.R
+built/built/built/built/lattice/demo/lattice.R
+built/built/built/pixmap/
+built/built/built/pixmap/NEWS
+built/built/built/pixmap/NAMESPACE
+built/built/built/pixmap/pictures/
+built/built/built/pixmap/pictures/logo.pgm
+built/built/built/pixmap/pictures/logo.pbm
+built/built/built/pixmap/pictures/logo.ppm
+built/built/built/pixmap/DESCRIPTION
+built/built/built/pixmap/help/
+built/built/built/pixmap/help/paths.rds
+built/built/built/pixmap/help/pixmap.rdb
+built/built/built/pixmap/help/aliases.rds
+built/built/built/pixmap/help/pixmap.rdx
+built/built/built/pixmap/help/AnIndex
+built/built/built/pixmap/Meta/
+built/built/built/pixmap/Meta/package.rds
+built/built/built/pixmap/Meta/features.rds
+built/built/built/pixmap/Meta/hsearch.rds
+built/built/built/pixmap/Meta/links.rds
+built/built/built/pixmap/Meta/nsInfo.rds
+built/built/built/pixmap/Meta/Rd.rds
+built/built/built/pixmap/html/
+built/built/built/pixmap/html/00Index.html
+built/built/built/pixmap/html/R.css
+built/built/built/pixmap/INDEX
+built/built/built/pixmap/R/
+built/built/built/pixmap/R/pixmap
+built/built/built/pixmap/R/pixmap.rdb
+built/built/built/pixmap/R/pixmap.rdx
+built/built/built/nlme/
+built/built/built/nlme/libs/
+built/built/built/nlme/libs/nlme.so
+built/built/built/nlme/NAMESPACE
+built/built/built/nlme/DESCRIPTION
+built/built/built/nlme/help/
+built/built/built/nlme/help/nlme.rdb
+built/built/built/nlme/help/paths.rds
+built/built/built/nlme/help/aliases.rds
+built/built/built/nlme/help/nlme.rdx
+built/built/built/nlme/help/AnIndex
+built/built/built/nlme/data/
+built/built/built/nlme/data/Rdata.rds
+built/built/built/nlme/data/Rdata.rdb
+built/built/built/nlme/data/Rdata.rdx
+built/built/built/nlme/Meta/
+built/built/built/nlme/Meta/package.rds
+built/built/built/nlme/Meta/features.rds
+built/built/built/nlme/Meta/hsearch.rds
+built/built/built/nlme/Meta/links.rds
+built/built/built/nlme/Meta/nsInfo.rds
+built/built/built/nlme/Meta/Rd.rds
+built/built/built/nlme/Meta/data.rds
+built/built/built/nlme/scripts/
+built/built/built/nlme/scripts/ch08.R
+built/built/built/nlme/scripts/runme.R
+built/built/built/nlme/scripts/ch02.R
+built/built/built/nlme/scripts/ch05.R
+built/built/built/nlme/scripts/sims.rda
+built/built/built/nlme/scripts/ch03.R
+built/built/built/nlme/scripts/ch01.R
+built/built/built/nlme/scripts/ch06.R
+built/built/built/nlme/scripts/ch04.R
+built/built/built/nlme/po/
+built/built/built/nlme/po/fr/
+built/built/built/nlme/po/fr/LC_MESSAGES/
+built/built/built/nlme/po/fr/LC_MESSAGES/nlme.mo
+built/built/built/nlme/po/fr/LC_MESSAGES/R-nlme.mo
+built/built/built/nlme/po/ko/
+built/built/built/nlme/po/ko/LC_MESSAGES/
+built/built/built/nlme/po/ko/LC_MESSAGES/nlme.mo
+built/built/built/nlme/po/ko/LC_MESSAGES/R-nlme.mo
+built/built/built/nlme/po/pl/
+built/built/built/nlme/po/pl/LC_MESSAGES/
+built/built/built/nlme/po/pl/LC_MESSAGES/nlme.mo
+built/built/built/nlme/po/pl/LC_MESSAGES/R-nlme.mo
+built/built/built/nlme/po/en@quot/
+built/built/built/nlme/po/en@quot/LC_MESSAGES/
+built/built/built/nlme/po/en@quot/LC_MESSAGES/nlme.mo
+built/built/built/nlme/po/en@quot/LC_MESSAGES/R-nlme.mo
+built/built/built/nlme/po/de/
+built/built/built/nlme/po/de/LC_MESSAGES/
+built/built/built/nlme/po/de/LC_MESSAGES/nlme.mo
+built/built/built/nlme/po/de/LC_MESSAGES/R-nlme.mo
+built/built/built/nlme/CITATION
+built/built/built/nlme/html/
+built/built/built/nlme/html/00Index.html
+built/built/built/nlme/html/R.css
+built/built/built/nlme/INDEX
+built/built/built/nlme/R/
+built/built/built/nlme/R/nlme.rdb
+built/built/built/nlme/R/nlme
+built/built/built/nlme/R/nlme.rdx
+built/built/built/nlme/mlbook/
+built/built/built/nlme/mlbook/README
+built/built/built/nlme/mlbook/ch05.R
+built/built/built/nlme/mlbook/ch04.R
+built/built/built/sp/
+built/built/built/sp/libs/
+built/built/built/sp/libs/sp.so
+built/built/built/sp/NAMESPACE
+built/built/built/sp/DESCRIPTION
+built/built/built/sp/help/
+built/built/built/sp/help/paths.rds
+built/built/built/sp/help/sp.rdb
+built/built/built/sp/help/sp.rdx
+built/built/built/sp/help/aliases.rds
+built/built/built/sp/help/AnIndex
+built/built/built/sp/data/
+built/built/built/sp/data/Rlogo.rda
+built/built/built/sp/data/meuse.riv.rda
+built/built/built/sp/data/meuse.grid_ll.rda
+built/built/built/sp/data/meuse.grid.rda
+built/built/built/sp/data/meuse.rda
+built/built/built/sp/data/meuse.area.rda
+built/built/built/sp/Meta/
+built/built/built/sp/Meta/package.rds
+built/built/built/sp/Meta/vignette.rds
+built/built/built/sp/Meta/demo.rds
+built/built/built/sp/Meta/features.rds
+built/built/built/sp/Meta/hsearch.rds
+built/built/built/sp/Meta/links.rds
+built/built/built/sp/Meta/nsInfo.rds
+built/built/built/sp/Meta/Rd.rds
+built/built/built/sp/Meta/data.rds
+built/built/built/sp/NEWS.Rd
+built/built/built/sp/include/
+built/built/built/sp/include/sp.h
+built/built/built/sp/include/sp_xports.c
+built/built/built/sp/CITATION
+built/built/built/sp/html/
+built/built/built/sp/html/00Index.html
+built/built/built/sp/html/R.css
+built/built/built/sp/INDEX
+built/built/built/sp/doc/
+built/built/built/sp/doc/intro_sp.pdf
+built/built/built/sp/doc/CRS_warnings.Rmd
+built/built/built/sp/doc/csdacm.R
+built/built/built/sp/doc/csdacm.Rnw
+built/built/built/sp/doc/csdacm.pdf
+built/built/built/sp/doc/CRS_warnings.html
+built/built/built/sp/doc/intro_sp.Rnw
+built/built/built/sp/doc/over.R
+built/built/built/sp/doc/over.Rnw
+built/built/built/sp/doc/CRS_warnings.R
+built/built/built/sp/doc/index.html
+built/built/built/sp/doc/intro_sp.R
+built/built/built/sp/doc/over.pdf
+built/built/built/sp/R/
+built/built/built/sp/R/sp.rdb
+built/built/built/sp/R/sp.rdx
+built/built/built/sp/R/sp
+built/built/built/sp/demo/
+built/built/built/sp/demo/depend.R
+built/built/built/sp/demo/meuse.R
+built/built/built/sp/demo/webmap.R
+built/built/built/sp/demo/mp.R
+built/built/built/sp/demo/gallery.R
+built/built/built/sp/demo/fib.R
+built/built/built/sp/demo/polar.R
+built/built/built/sp/external/
+built/built/built/sp/external/test.ag
+built/built/built/sp/external/seamap105_mod.csv
+built/built/built/sp/external/simple.ag
+built/built/built/MASS/
+built/built/built/MASS/libs/
+built/built/built/MASS/libs/MASS.so
+built/built/built/MASS/NEWS
+built/built/built/MASS/NAMESPACE
+built/built/built/MASS/DESCRIPTION
+built/built/built/MASS/help/
+built/built/built/MASS/help/paths.rds
+built/built/built/MASS/help/MASS.rdx
+built/built/built/MASS/help/MASS.rdb
+built/built/built/MASS/help/aliases.rds
+built/built/built/MASS/help/AnIndex
+built/built/built/MASS/data/
+built/built/built/MASS/data/Rdata.rds
+built/built/built/MASS/data/Rdata.rdb
+built/built/built/MASS/data/Rdata.rdx
+built/built/built/MASS/Meta/
+built/built/built/MASS/Meta/package.rds
+built/built/built/MASS/Meta/features.rds
+built/built/built/MASS/Meta/hsearch.rds
+built/built/built/MASS/Meta/links.rds
+built/built/built/MASS/Meta/nsInfo.rds
+built/built/built/MASS/Meta/Rd.rds
+built/built/built/MASS/Meta/data.rds
+built/built/built/MASS/scripts/
+built/built/built/MASS/scripts/ch08.R
+built/built/built/MASS/scripts/ch13.R
+built/built/built/MASS/scripts/ch14.R
+built/built/built/MASS/scripts/ch11.R
+built/built/built/MASS/scripts/ch02.R
+built/built/built/MASS/scripts/ch10.R
+built/built/built/MASS/scripts/ch15.R
+built/built/built/MASS/scripts/ch05.R
+built/built/built/MASS/scripts/ch16.R
+built/built/built/MASS/scripts/ch12.R
+built/built/built/MASS/scripts/ch03.R
+built/built/built/MASS/scripts/ch01.R
+built/built/built/MASS/scripts/ch09.R
+built/built/built/MASS/scripts/ch06.R
+built/built/built/MASS/scripts/ch04.R
+built/built/built/MASS/scripts/ch07.R
+built/built/built/MASS/po/
+built/built/built/MASS/po/it/
+built/built/built/MASS/po/it/LC_MESSAGES/
+built/built/built/MASS/po/it/LC_MESSAGES/R-MASS.mo
+built/built/built/MASS/po/fr/
+built/built/built/MASS/po/fr/LC_MESSAGES/
+built/built/built/MASS/po/fr/LC_MESSAGES/R-MASS.mo
+built/built/built/MASS/po/ko/
+built/built/built/MASS/po/ko/LC_MESSAGES/
+built/built/built/MASS/po/ko/LC_MESSAGES/R-MASS.mo
+built/built/built/MASS/po/pl/
+built/built/built/MASS/po/pl/LC_MESSAGES/
+built/built/built/MASS/po/pl/LC_MESSAGES/R-MASS.mo
+built/built/built/MASS/po/en@quot/
+built/built/built/MASS/po/en@quot/LC_MESSAGES/
+built/built/built/MASS/po/en@quot/LC_MESSAGES/R-MASS.mo
+built/built/built/MASS/po/de/
+built/built/built/MASS/po/de/LC_MESSAGES/
+built/built/built/MASS/po/de/LC_MESSAGES/R-MASS.mo
+built/built/built/MASS/CITATION
+built/built/built/MASS/html/
+built/built/built/MASS/html/00Index.html
+built/built/built/MASS/html/R.css
+built/built/built/MASS/INDEX
+built/built/built/MASS/R/
+built/built/built/MASS/R/MASS.rdx
+built/built/built/MASS/R/MASS.rdb
+built/built/built/MASS/R/MASS
+built/built/pixmap/
+built/built/pixmap/NEWS
+built/built/pixmap/NAMESPACE
+built/built/pixmap/pictures/
+built/built/pixmap/pictures/logo.pgm
+built/built/pixmap/pictures/logo.pbm
+built/built/pixmap/pictures/logo.ppm
+built/built/pixmap/DESCRIPTION
+built/built/pixmap/help/
+built/built/pixmap/help/paths.rds
+built/built/pixmap/help/pixmap.rdb
+built/built/pixmap/help/aliases.rds
+built/built/pixmap/help/pixmap.rdx
+built/built/pixmap/help/AnIndex
+built/built/pixmap/Meta/
+built/built/pixmap/Meta/package.rds
+built/built/pixmap/Meta/features.rds
+built/built/pixmap/Meta/hsearch.rds
+built/built/pixmap/Meta/links.rds
+built/built/pixmap/Meta/nsInfo.rds
+built/built/pixmap/Meta/Rd.rds
+built/built/pixmap/html/
+built/built/pixmap/html/00Index.html
+built/built/pixmap/html/R.css
+built/built/pixmap/INDEX
+built/built/pixmap/R/
+built/built/pixmap/R/pixmap
+built/built/pixmap/R/pixmap.rdb
+built/built/pixmap/R/pixmap.rdx
+built/built/segmented/
+built/built/segmented/NEWS
+built/built/segmented/NAMESPACE
+built/built/segmented/DESCRIPTION
+built/built/segmented/help/
+built/built/segmented/help/paths.rds
+built/built/segmented/help/aliases.rds
+built/built/segmented/help/segmented.rdb
+built/built/segmented/help/segmented.rdx
+built/built/segmented/help/AnIndex
+built/built/segmented/data/
+built/built/segmented/data/stagnant.rda
+built/built/segmented/data/plant.rda
+built/built/segmented/data/down.rda
+built/built/segmented/Meta/
+built/built/segmented/Meta/package.rds
+built/built/segmented/Meta/features.rds
+built/built/segmented/Meta/hsearch.rds
+built/built/segmented/Meta/links.rds
+built/built/segmented/Meta/nsInfo.rds
+built/built/segmented/Meta/Rd.rds
+built/built/segmented/Meta/data.rds
+built/built/segmented/CITATION
+built/built/segmented/html/
+built/built/segmented/html/00Index.html
+built/built/segmented/html/R.css
+built/built/segmented/INDEX
+built/built/segmented/R/
+built/built/segmented/R/segmented
+built/built/segmented/R/segmented.rdb
+built/built/segmented/R/segmented.rdx
+built/built/sp/
+built/built/sp/libs/
+built/built/sp/libs/sp.so
+built/built/sp/NAMESPACE
+built/built/sp/DESCRIPTION
+built/built/sp/help/
+built/built/sp/help/paths.rds
+built/built/sp/help/sp.rdb
+built/built/sp/help/sp.rdx
+built/built/sp/help/aliases.rds
+built/built/sp/help/AnIndex
+built/built/sp/data/
+built/built/sp/data/Rlogo.rda
+built/built/sp/data/meuse.riv.rda
+built/built/sp/data/meuse.grid_ll.rda
+built/built/sp/data/meuse.grid.rda
+built/built/sp/data/meuse.rda
+built/built/sp/data/meuse.area.rda
+built/built/sp/Meta/
+built/built/sp/Meta/package.rds
+built/built/sp/Meta/vignette.rds
+built/built/sp/Meta/demo.rds
+built/built/sp/Meta/features.rds
+built/built/sp/Meta/hsearch.rds
+built/built/sp/Meta/links.rds
+built/built/sp/Meta/nsInfo.rds
+built/built/sp/Meta/Rd.rds
+built/built/sp/Meta/data.rds
+built/built/sp/NEWS.Rd
+built/built/sp/include/
+built/built/sp/include/sp.h
+built/built/sp/include/sp_xports.c
+built/built/sp/CITATION
+built/built/sp/html/
+built/built/sp/html/00Index.html
+built/built/sp/html/R.css
+built/built/sp/INDEX
+built/built/sp/doc/
+built/built/sp/doc/intro_sp.pdf
+built/built/sp/doc/CRS_warnings.Rmd
+built/built/sp/doc/csdacm.R
+built/built/sp/doc/csdacm.Rnw
+built/built/sp/doc/csdacm.pdf
+built/built/sp/doc/CRS_warnings.html
+built/built/sp/doc/intro_sp.Rnw
+built/built/sp/doc/over.R
+built/built/sp/doc/over.Rnw
+built/built/sp/doc/CRS_warnings.R
+built/built/sp/doc/index.html
+built/built/sp/doc/intro_sp.R
+built/built/sp/doc/over.pdf
+built/built/sp/R/
+built/built/sp/R/sp.rdb
+built/built/sp/R/sp.rdx
+built/built/sp/R/sp
+built/built/sp/demo/
+built/built/sp/demo/depend.R
+built/built/sp/demo/meuse.R
+built/built/sp/demo/webmap.R
+built/built/sp/demo/mp.R
+built/built/sp/demo/gallery.R
+built/built/sp/demo/fib.R
+built/built/sp/demo/polar.R
+built/built/sp/external/
+built/built/sp/external/test.ag
+built/built/sp/external/seamap105_mod.csv
+built/built/sp/external/simple.ag
+built/built/MASS/
+built/built/MASS/libs/
+built/built/MASS/libs/MASS.so
+built/built/MASS/NEWS
+built/built/MASS/NAMESPACE
+built/built/MASS/DESCRIPTION
+built/built/MASS/help/
+built/built/MASS/help/paths.rds
+built/built/MASS/help/MASS.rdx
+built/built/MASS/help/MASS.rdb
+built/built/MASS/help/aliases.rds
+built/built/MASS/help/AnIndex
+built/built/MASS/data/
+built/built/MASS/data/Rdata.rds
+built/built/MASS/data/Rdata.rdb
+built/built/MASS/data/Rdata.rdx
+built/built/MASS/Meta/
+built/built/MASS/Meta/package.rds
+built/built/MASS/Meta/features.rds
+built/built/MASS/Meta/hsearch.rds
+built/built/MASS/Meta/links.rds
+built/built/MASS/Meta/nsInfo.rds
+built/built/MASS/Meta/Rd.rds
+built/built/MASS/Meta/data.rds
+built/built/MASS/scripts/
+built/built/MASS/scripts/ch08.R
+built/built/MASS/scripts/ch13.R
+built/built/MASS/scripts/ch14.R
+built/built/MASS/scripts/ch11.R
+built/built/MASS/scripts/ch02.R
+built/built/MASS/scripts/ch10.R
+built/built/MASS/scripts/ch15.R
+built/built/MASS/scripts/ch05.R
+built/built/MASS/scripts/ch16.R
+built/built/MASS/scripts/ch12.R
+built/built/MASS/scripts/ch03.R
+built/built/MASS/scripts/ch01.R
+built/built/MASS/scripts/ch09.R
+built/built/MASS/scripts/ch06.R
+built/built/MASS/scripts/ch04.R
+built/built/MASS/scripts/ch07.R
+built/built/MASS/po/
+built/built/MASS/po/it/
+built/built/MASS/po/it/LC_MESSAGES/
+built/built/MASS/po/it/LC_MESSAGES/R-MASS.mo
+built/built/MASS/po/fr/
+built/built/MASS/po/fr/LC_MESSAGES/
+built/built/MASS/po/fr/LC_MESSAGES/R-MASS.mo
+built/built/MASS/po/ko/
+built/built/MASS/po/ko/LC_MESSAGES/
+built/built/MASS/po/ko/LC_MESSAGES/R-MASS.mo
+built/built/MASS/po/pl/
+built/built/MASS/po/pl/LC_MESSAGES/
+built/built/MASS/po/pl/LC_MESSAGES/R-MASS.mo
+built/built/MASS/po/en@quot/
+built/built/MASS/po/en@quot/LC_MESSAGES/
+built/built/MASS/po/en@quot/LC_MESSAGES/R-MASS.mo
+built/built/MASS/po/de/
+built/built/MASS/po/de/LC_MESSAGES/
+built/built/MASS/po/de/LC_MESSAGES/R-MASS.mo
+built/built/MASS/CITATION
+built/built/MASS/html/
+built/built/MASS/html/00Index.html
+built/built/MASS/html/R.css
+built/built/MASS/INDEX
+built/built/MASS/R/
+built/built/MASS/R/MASS.rdx
+built/built/MASS/R/MASS.rdb
+built/built/MASS/R/MASS
+built/built/ade4/
+built/built/ade4/libs/
+built/built/ade4/libs/ade4.so
+built/built/ade4/NAMESPACE
+built/built/ade4/pictures/
+built/built/ade4/pictures/avijonsveg.pnm
+built/built/ade4/pictures/sarcelles.pnm
+built/built/ade4/pictures/butterfly.pnm
+built/built/ade4/pictures/atyadigi.pnm
+built/built/ade4/pictures/fatala.pnm
+built/built/ade4/pictures/paris.pnm
+built/built/ade4/pictures/capitales.pnm
+built/built/ade4/pictures/avijonsrou.pnm
+built/built/ade4/pictures/tintoodiel.pnm
+built/built/ade4/pictures/atyacarto.pnm
+built/built/ade4/pictures/avijonseau.pnm
+built/built/ade4/pictures/avijonsvil.pnm
+built/built/ade4/pictures/ireland.pnm
+built/built/ade4/pictures/france_sm00.pnm
+built/built/ade4/DESCRIPTION
+built/built/ade4/help/
+built/built/ade4/help/ade4.rdx
+built/built/ade4/help/paths.rds
+built/built/ade4/help/ade4.rdb
+built/built/ade4/help/aliases.rds
+built/built/ade4/help/AnIndex
+built/built/ade4/data/
+built/built/ade4/data/acacia.rda
+built/built/ade4/data/oribatid.rda
+built/built/ade4/data/irishdata.rda
+built/built/ade4/data/julliot.rda
+built/built/ade4/data/avijons.rda
+built/built/ade4/data/aviurba.rda
+built/built/ade4/data/friday87.rda
+built/built/ade4/data/avimedi.rda
+built/built/ade4/data/granulo.rda
+built/built/ade4/data/newick.eg.rda
+built/built/ade4/data/bsetal97.rda
+built/built/ade4/data/atya.rda
+built/built/ade4/data/lascaux.rda
+built/built/ade4/data/olympic.rda
+built/built/ade4/data/lizards.rda
+built/built/ade4/data/baran95.rda
+built/built/ade4/data/mariages.rda
+built/built/ade4/data/njplot.rda
+built/built/ade4/data/fruits.rda
+built/built/ade4/data/corvus.rda
+built/built/ade4/data/tithonia.rda
+built/built/ade4/data/mafragh.rda
+built/built/ade4/data/coleo.rda
+built/built/ade4/data/westafrica.rda
+built/built/ade4/data/rhizobium.rda
+built/built/ade4/data/chickenk.rda
+built/built/ade4/data/butterfly.rda
+built/built/ade4/data/ichtyo.rda
+built/built/ade4/data/clementines.rda
+built/built/ade4/data/vegtf.rda
+built/built/ade4/data/deug.rda
+built/built/ade4/data/palm.rda
+built/built/ade4/data/datalist
+built/built/ade4/data/carniherbi49.rda
+built/built/ade4/data/euro123.rda
+built/built/ade4/data/bf88.rda
+built/built/ade4/data/aravo.rda
+built/built/ade4/data/mjrochet.rda
+built/built/ade4/data/toxicity.rda
+built/built/ade4/data/houmousr.rda
+built/built/ade4/data/tarentaise.rda
+built/built/ade4/data/mollusc.rda
+built/built/ade4/data/steppe.rda
+built/built/ade4/data/pcw.rda
+built/built/ade4/data/hdpg.rda
+built/built/ade4/data/escopage.rda
+built/built/ade4/data/skulls.rda
+built/built/ade4/data/casitas.rda
+built/built/ade4/data/chats.rda
+built/built/ade4/data/ggtortoises.rda
+built/built/ade4/data/dunedata.rda
+built/built/ade4/data/cnc2003.rda
+built/built/ade4/data/aminoacyl.rda
+built/built/ade4/data/atlas.rda
+built/built/ade4/data/meau.rda
+built/built/ade4/data/macaca.rda
+built/built/ade4/data/abouheif.eg.rda
+built/built/ade4/data/worksurv.rda
+built/built/ade4/data/banque.rda
+built/built/ade4/data/taxo.eg.rda
+built/built/ade4/data/bordeaux.rda
+built/built/ade4/data/piosphere.rda
+built/built/ade4/data/elec88.rda
+built/built/ade4/data/santacatalina.rda
+built/built/ade4/data/fission.rda
+built/built/ade4/data/capitales.rda
+built/built/ade4/data/macon.rda
+built/built/ade4/data/zealand.rda
+built/built/ade4/data/procella.rda
+built/built/ade4/data/chazeb.rda
+built/built/ade4/data/carni19.rda
+built/built/ade4/data/t3012.rda
+built/built/ade4/data/rpjdl.rda
+built/built/ade4/data/kcponds.rda
+built/built/ade4/data/syndicats.rda
+built/built/ade4/data/sarcelles.rda
+built/built/ade4/data/macroloire.rda
+built/built/ade4/data/perthi02.rda
+built/built/ade4/data/buech.rda
+built/built/ade4/data/humDNAm.rda
+built/built/ade4/data/pap.rda
+built/built/ade4/data/veuvage.rda
+built/built/ade4/data/jv73.rda
+built/built/ade4/data/rankrock.rda
+built/built/ade4/data/seconde.rda
+built/built/ade4/data/ours.rda
+built/built/ade4/data/maples.rda
+built/built/ade4/data/tintoodiel.rda
+built/built/ade4/data/monde84.rda
+built/built/ade4/data/meaudret.rda
+built/built/ade4/data/ungulates.rda
+built/built/ade4/data/carni70.rda
+built/built/ade4/data/arrival.rda
+built/built/ade4/data/yanomama.rda
+built/built/ade4/data/ecg.rda
+built/built/ade4/data/microsatt.rda
+built/built/ade4/data/doubs.rda
+built/built/ade4/data/tortues.rda
+built/built/ade4/data/morphosport.rda
+built/built/ade4/data/ecomor.rda
+built/built/ade4/data/chevaine.rda
+built/built/ade4/data/rhone.rda
+built/built/ade4/data/bacteria.rda
+built/built/ade4/data/ardeche.rda
+built/built/ade4/data/chatcat.rda
+built/built/ade4/data/presid2002.rda
+built/built/ade4/data/woangers.rda
+built/built/ade4/data/trichometeo.rda
+built/built/ade4/data/housetasks.rda
+built/built/ade4/data/apis108.rda
+built/built/ade4/Meta/
+built/built/ade4/Meta/package.rds
+built/built/ade4/Meta/features.rds
+built/built/ade4/Meta/hsearch.rds
+built/built/ade4/Meta/links.rds
+built/built/ade4/Meta/nsInfo.rds
+built/built/ade4/Meta/Rd.rds
+built/built/ade4/Meta/data.rds
+built/built/ade4/CITATION
+built/built/ade4/html/
+built/built/ade4/html/00Index.html
+built/built/ade4/html/R.css
+built/built/ade4/INDEX
+built/built/ade4/R/
+built/built/ade4/R/ade4.rdx
+built/built/ade4/R/ade4.rdb
+built/built/ade4/R/ade4
+built/pixmap/
+built/pixmap/NEWS
+built/pixmap/NAMESPACE
+built/pixmap/pictures/
+built/pixmap/pictures/logo.pgm
+built/pixmap/pictures/logo.pbm
+built/pixmap/pictures/logo.ppm
+built/pixmap/DESCRIPTION
+built/pixmap/help/
+built/pixmap/help/paths.rds
+built/pixmap/help/pixmap.rdb
+built/pixmap/help/aliases.rds
+built/pixmap/help/pixmap.rdx
+built/pixmap/help/AnIndex
+built/pixmap/Meta/
+built/pixmap/Meta/package.rds
+built/pixmap/Meta/features.rds
+built/pixmap/Meta/hsearch.rds
+built/pixmap/Meta/links.rds
+built/pixmap/Meta/nsInfo.rds
+built/pixmap/Meta/Rd.rds
+built/pixmap/html/
+built/pixmap/html/00Index.html
+built/pixmap/html/R.css
+built/pixmap/INDEX
+built/pixmap/R/
+built/pixmap/R/pixmap
+built/pixmap/R/pixmap.rdb
+built/pixmap/R/pixmap.rdx
+built/segmented/
+built/segmented/NEWS
+built/segmented/NAMESPACE
+built/segmented/DESCRIPTION
+built/segmented/help/
+built/segmented/help/paths.rds
+built/segmented/help/aliases.rds
+built/segmented/help/segmented.rdb
+built/segmented/help/segmented.rdx
+built/segmented/help/AnIndex
+built/segmented/data/
+built/segmented/data/stagnant.rda
+built/segmented/data/plant.rda
+built/segmented/data/down.rda
+built/segmented/Meta/
+built/segmented/Meta/package.rds
+built/segmented/Meta/features.rds
+built/segmented/Meta/hsearch.rds
+built/segmented/Meta/links.rds
+built/segmented/Meta/nsInfo.rds
+built/segmented/Meta/Rd.rds
+built/segmented/Meta/data.rds
+built/segmented/CITATION
+built/segmented/html/
+built/segmented/html/00Index.html
+built/segmented/html/R.css
+built/segmented/INDEX
+built/segmented/R/
+built/segmented/R/segmented
+built/segmented/R/segmented.rdb
+built/segmented/R/segmented.rdx
+built/seqinr/
+built/seqinr/libs/
+built/seqinr/libs/seqinr.so
+built/seqinr/NEWS
+built/seqinr/NAMESPACE
+built/seqinr/DESCRIPTION
+built/seqinr/help/
+built/seqinr/help/paths.rds
+built/seqinr/help/seqinr.rdx
+built/seqinr/help/seqinr.rdb
+built/seqinr/help/aliases.rds
+built/seqinr/help/figures/
+built/seqinr/help/figures/introduction-dbg.pdf
+built/seqinr/help/figures/aka.pdf
+built/seqinr/help/figures/waterabs.jpg
+built/seqinr/help/figures/gcskewmbe96.pdf
+built/seqinr/help/figures/chargaff.png
+built/seqinr/help/figures/lncs2004.pdf
+built/seqinr/help/AnIndex
+built/seqinr/abif/
+built/seqinr/abif/samplefsa2ps.fsa
+built/seqinr/abif/Promega_Bins_v1.txt
+built/seqinr/abif/Prototype_PowerPlex_EP01_Pa.txt
+built/seqinr/abif/Promega_Panels_v1.txt
+built/seqinr/abif/AmpFLSTR_Panels_v1.txt
+built/seqinr/abif/Prototype_PowerPlex_EP01_Bins.txt
+built/seqinr/abif/1_FAC321_0000205983_B02_004.fsa
+built/seqinr/abif/1_0000206138_C01_005.fsa
+built/seqinr/abif/2_FAC321_0000205983_B02_004.fsa
+built/seqinr/abif/AmpFLSTR_Bins_v1.txt
+built/seqinr/abif/NGM_Pa.txt
+built/seqinr/abif/2_0000206138_C01_005.fsa
+built/seqinr/abif/NGM_Bins.txt
+built/seqinr/data/
+built/seqinr/data/revaligntest.RData
+built/seqinr/data/ec999.RData
+built/seqinr/data/sysdata.rda
+built/seqinr/data/gs500liz.RData
+built/seqinr/data/identifiler.RData
+built/seqinr/data/m16j.RData
+built/seqinr/data/mase.RData
+built/seqinr/data/aacost.RData
+built/seqinr/data/prochlo.RData
+built/seqinr/data/EXP.RData
+built/seqinr/data/datalist
+built/seqinr/data/aaindex.RData
+built/seqinr/data/toycodon.RData
+built/seqinr/data/msf.RData
+built/seqinr/data/dinucl.RData
+built/seqinr/data/JLO.RData
+built/seqinr/data/ECH.RData
+built/seqinr/data/fasta.RData
+built/seqinr/data/clustal.RData
+built/seqinr/data/SEQINR.UTIL.RData
+built/seqinr/data/toyaa.RData
+built/seqinr/data/chargaff.RData
+built/seqinr/data/phylip.RData
+built/seqinr/data/kaksTorture.RData
+built/seqinr/data/caitab.RData
+built/seqinr/data/AnoukResult.RData
+built/seqinr/data/pK.RData
+built/seqinr/data/waterabs.RData
+built/seqinr/data/gcT.rda
+built/seqinr/data/gcO2.rda
+built/seqinr/Meta/
+built/seqinr/Meta/package.rds
+built/seqinr/Meta/features.rds
+built/seqinr/Meta/hsearch.rds
+built/seqinr/Meta/links.rds
+built/seqinr/Meta/nsInfo.rds
+built/seqinr/Meta/Rd.rds
+built/seqinr/Meta/data.rds
+built/seqinr/CITATION
+built/seqinr/html/
+built/seqinr/html/00Index.html
+built/seqinr/html/R.css
+built/seqinr/INDEX
+built/seqinr/R/
+built/seqinr/R/seqinr.rdx
+built/seqinr/R/seqinr.rdb
+built/seqinr/R/seqinr
+built/seqinr/sequences/
+built/seqinr/sequences/seqAA.fasta
+built/seqinr/sequences/ct.gbk.gz
+built/seqinr/sequences/bordetella.pep.aln
+built/seqinr/sequences/humanMito.fasta
+built/seqinr/sequences/hannah.txt
+built/seqinr/sequences/ct.predict
+built/seqinr/sequences/kaks-torture.fasta
+built/seqinr/sequences/Anouk.fasta
+built/seqinr/sequences/ecolicgpe5.fasta
+built/seqinr/sequences/malM.fasta
+built/seqinr/sequences/ECOUNC.fsa
+built/seqinr/sequences/smallAA.fasta.gz
+built/seqinr/sequences/bordetella.fasta
+built/seqinr/sequences/bb.mne
+built/seqinr/sequences/smallAA.fasta
+built/seqinr/sequences/UBIQUITIN.mase
+built/seqinr/sequences/louse.fasta
+built/seqinr/sequences/input.out
+built/seqinr/sequences/louse.names
+built/seqinr/sequences/ortho.fasta
+built/seqinr/sequences/bb.acc
+built/seqinr/sequences/DarrenObbard.fasta
+built/seqinr/sequences/test.msf
+built/seqinr/sequences/bb.sp
+built/seqinr/sequences/LTPs128_SSU_aligned_First_Two.fasta
+built/seqinr/sequences/someORF.fsa
+built/seqinr/sequences/legacy.fasta
+built/seqinr/sequences/test.phylip
+built/seqinr/sequences/gopher.names
+built/seqinr/sequences/ame1.gbk
+built/seqinr/sequences/gopher.fasta
+built/seqinr/sequences/ct.bfa
+built/seqinr/sequences/bb.kwd
+built/seqinr/sequences/test.mase
+built/seqinr/sequences/input.dat
+built/seqinr/sequences/scuco.txt
+built/seqinr/sequences/ct.fasta.gz
+built/seqinr/sequences/test.aln
+built/sp/
+built/sp/libs/
+built/sp/libs/sp.so
+built/sp/NAMESPACE
+built/sp/DESCRIPTION
+built/sp/help/
+built/sp/help/paths.rds
+built/sp/help/sp.rdb
+built/sp/help/sp.rdx
+built/sp/help/aliases.rds
+built/sp/help/AnIndex
+built/sp/data/
+built/sp/data/Rlogo.rda
+built/sp/data/meuse.riv.rda
+built/sp/data/meuse.grid_ll.rda
+built/sp/data/meuse.grid.rda
+built/sp/data/meuse.rda
+built/sp/data/meuse.area.rda
+built/sp/Meta/
+built/sp/Meta/package.rds
+built/sp/Meta/vignette.rds
+built/sp/Meta/demo.rds
+built/sp/Meta/features.rds
+built/sp/Meta/hsearch.rds
+built/sp/Meta/links.rds
+built/sp/Meta/nsInfo.rds
+built/sp/Meta/Rd.rds
+built/sp/Meta/data.rds
+built/sp/NEWS.Rd
+built/sp/include/
+built/sp/include/sp.h
+built/sp/include/sp_xports.c
+built/sp/CITATION
+built/sp/html/
+built/sp/html/00Index.html
+built/sp/html/R.css
+built/sp/INDEX
+built/sp/doc/
+built/sp/doc/intro_sp.pdf
+built/sp/doc/CRS_warnings.Rmd
+built/sp/doc/csdacm.R
+built/sp/doc/csdacm.Rnw
+built/sp/doc/csdacm.pdf
+built/sp/doc/CRS_warnings.html
+built/sp/doc/intro_sp.Rnw
+built/sp/doc/over.R
+built/sp/doc/over.Rnw
+built/sp/doc/CRS_warnings.R
+built/sp/doc/index.html
+built/sp/doc/intro_sp.R
+built/sp/doc/over.pdf
+built/sp/R/
+built/sp/R/sp.rdb
+built/sp/R/sp.rdx
+built/sp/R/sp
+built/sp/demo/
+built/sp/demo/depend.R
+built/sp/demo/meuse.R
+built/sp/demo/webmap.R
+built/sp/demo/mp.R
+built/sp/demo/gallery.R
+built/sp/demo/fib.R
+built/sp/demo/polar.R
+built/sp/external/
+built/sp/external/test.ag
+built/sp/external/seamap105_mod.csv
+built/sp/external/simple.ag
+built/ade4/
+built/ade4/libs/
+built/ade4/libs/ade4.so
+built/ade4/NAMESPACE
+built/ade4/pictures/
+built/ade4/pictures/avijonsveg.pnm
+built/ade4/pictures/sarcelles.pnm
+built/ade4/pictures/butterfly.pnm
+built/ade4/pictures/atyadigi.pnm
+built/ade4/pictures/fatala.pnm
+built/ade4/pictures/paris.pnm
+built/ade4/pictures/capitales.pnm
+built/ade4/pictures/avijonsrou.pnm
+built/ade4/pictures/tintoodiel.pnm
+built/ade4/pictures/atyacarto.pnm
+built/ade4/pictures/avijonseau.pnm
+built/ade4/pictures/avijonsvil.pnm
+built/ade4/pictures/ireland.pnm
+built/ade4/pictures/france_sm00.pnm
+built/ade4/DESCRIPTION
+built/ade4/help/
+built/ade4/help/ade4.rdx
+built/ade4/help/paths.rds
+built/ade4/help/ade4.rdb
+built/ade4/help/aliases.rds
+built/ade4/help/AnIndex
+built/ade4/data/
+built/ade4/data/acacia.rda
+built/ade4/data/oribatid.rda
+built/ade4/data/irishdata.rda
+built/ade4/data/julliot.rda
+built/ade4/data/avijons.rda
+built/ade4/data/aviurba.rda
+built/ade4/data/friday87.rda
+built/ade4/data/avimedi.rda
+built/ade4/data/granulo.rda
+built/ade4/data/newick.eg.rda
+built/ade4/data/bsetal97.rda
+built/ade4/data/atya.rda
+built/ade4/data/lascaux.rda
+built/ade4/data/olympic.rda
+built/ade4/data/lizards.rda
+built/ade4/data/baran95.rda
+built/ade4/data/mariages.rda
+built/ade4/data/njplot.rda
+built/ade4/data/fruits.rda
+built/ade4/data/corvus.rda
+built/ade4/data/tithonia.rda
+built/ade4/data/mafragh.rda
+built/ade4/data/coleo.rda
+built/ade4/data/westafrica.rda
+built/ade4/data/rhizobium.rda
+built/ade4/data/chickenk.rda
+built/ade4/data/butterfly.rda
+built/ade4/data/ichtyo.rda
+built/ade4/data/clementines.rda
+built/ade4/data/vegtf.rda
+built/ade4/data/deug.rda
+built/ade4/data/palm.rda
+built/ade4/data/datalist
+built/ade4/data/carniherbi49.rda
+built/ade4/data/euro123.rda
+built/ade4/data/bf88.rda
+built/ade4/data/aravo.rda
+built/ade4/data/mjrochet.rda
+built/ade4/data/toxicity.rda
+built/ade4/data/houmousr.rda
+built/ade4/data/tarentaise.rda
+built/ade4/data/mollusc.rda
+built/ade4/data/steppe.rda
+built/ade4/data/pcw.rda
+built/ade4/data/hdpg.rda
+built/ade4/data/escopage.rda
+built/ade4/data/skulls.rda
+built/ade4/data/casitas.rda
+built/ade4/data/chats.rda
+built/ade4/data/ggtortoises.rda
+built/ade4/data/dunedata.rda
+built/ade4/data/cnc2003.rda
+built/ade4/data/aminoacyl.rda
+built/ade4/data/atlas.rda
+built/ade4/data/meau.rda
+built/ade4/data/macaca.rda
+built/ade4/data/abouheif.eg.rda
+built/ade4/data/worksurv.rda
+built/ade4/data/banque.rda
+built/ade4/data/taxo.eg.rda
+built/ade4/data/bordeaux.rda
+built/ade4/data/piosphere.rda
+built/ade4/data/elec88.rda
+built/ade4/data/santacatalina.rda
+built/ade4/data/fission.rda
+built/ade4/data/capitales.rda
+built/ade4/data/macon.rda
+built/ade4/data/zealand.rda
+built/ade4/data/procella.rda
+built/ade4/data/chazeb.rda
+built/ade4/data/carni19.rda
+built/ade4/data/t3012.rda
+built/ade4/data/rpjdl.rda
+built/ade4/data/kcponds.rda
+built/ade4/data/syndicats.rda
+built/ade4/data/sarcelles.rda
+built/ade4/data/macroloire.rda
+built/ade4/data/perthi02.rda
+built/ade4/data/buech.rda
+built/ade4/data/humDNAm.rda
+built/ade4/data/pap.rda
+built/ade4/data/veuvage.rda
+built/ade4/data/jv73.rda
+built/ade4/data/rankrock.rda
+built/ade4/data/seconde.rda
+built/ade4/data/ours.rda
+built/ade4/data/maples.rda
+built/ade4/data/tintoodiel.rda
+built/ade4/data/monde84.rda
+built/ade4/data/meaudret.rda
+built/ade4/data/ungulates.rda
+built/ade4/data/carni70.rda
+built/ade4/data/arrival.rda
+built/ade4/data/yanomama.rda
+built/ade4/data/ecg.rda
+built/ade4/data/microsatt.rda
+built/ade4/data/doubs.rda
+built/ade4/data/tortues.rda
+built/ade4/data/morphosport.rda
+built/ade4/data/ecomor.rda
+built/ade4/data/chevaine.rda
+built/ade4/data/rhone.rda
+built/ade4/data/bacteria.rda
+built/ade4/data/ardeche.rda
+built/ade4/data/chatcat.rda
+built/ade4/data/presid2002.rda
+built/ade4/data/woangers.rda
+built/ade4/data/trichometeo.rda
+built/ade4/data/housetasks.rda
+built/ade4/data/apis108.rda
+built/ade4/Meta/
+built/ade4/Meta/package.rds
+built/ade4/Meta/features.rds
+built/ade4/Meta/hsearch.rds
+built/ade4/Meta/links.rds
+built/ade4/Meta/nsInfo.rds
+built/ade4/Meta/Rd.rds
+built/ade4/Meta/data.rds
+built/ade4/CITATION
+built/ade4/html/
+built/ade4/html/00Index.html
+built/ade4/html/R.css
+built/ade4/INDEX
+built/ade4/R/
+built/ade4/R/ade4.rdx
+built/ade4/R/ade4.rdb
+built/ade4/R/ade4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  9  175k    9 16320    0     0  32176      0  0:00:05 --:--:--  0:00:05 32125100  175k  100  175k    0     0   218k      0 --:--:-- --:--:-- --:--:--  218k
+built/
+built/hash/
+built/hash/NAMESPACE
+built/hash/DESCRIPTION
+built/hash/help/
+built/hash/help/paths.rds
+built/hash/help/hash.rdx
+built/hash/help/aliases.rds
+built/hash/help/hash.rdb
+built/hash/help/AnIndex
+built/hash/Meta/
+built/hash/Meta/package.rds
+built/hash/Meta/demo.rds
+built/hash/Meta/features.rds
+built/hash/Meta/hsearch.rds
+built/hash/Meta/links.rds
+built/hash/Meta/nsInfo.rds
+built/hash/Meta/Rd.rds
+built/hash/html/
+built/hash/html/00Index.html
+built/hash/html/R.css
+built/hash/INDEX
+built/hash/R/
+built/hash/R/hash
+built/hash/R/hash.rdx
+built/hash/R/hash.rdb
+built/hash/demo/
+built/hash/demo/hash-benchmarks.R
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''GeneGA'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv ade4_1.7-20_R_x86_64-pc-linux-gnu.tar.gz GeneGA_1.48.0_R_x86_64-pc-linux-gnu.tar.gz hash_2.2.6.2_R_x86_64-pc-linux-gnu.tar.gz pixmap_0.4-12_R_x86_64-pc-linux-gnu.tar.gz segmented_1.6-2_R_x86_64-pc-linux-gnu.tar.gz seqinr_4.2-23_R_x86_64-pc-linux-gnu.tar.gz sp_1.5-1_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/GeneGA
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'GeneGA'
+also installing the dependencies ‘pixmap’, ‘sp’, ‘ade4’, ‘segmented’, ‘seqinr’, ‘hash’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/pixmap_0.4-12.tar.gz'
+Content type 'binary/octet-stream' length 201628 bytes (196 KB)
+==================================================
+downloaded 196 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/sp_1.5-1.tar.gz'
+Content type 'binary/octet-stream' length 1812592 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/ade4_1.7-20.tar.gz'
+Content type 'binary/octet-stream' length 5340673 bytes (5.1 MB)
+==================================================
+downloaded 5.1 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/segmented_1.6-2.tar.gz'
+Content type 'binary/octet-stream' length 759281 bytes (741 KB)
+==================================================
+downloaded 741 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/seqinr_4.2-23.tar.gz'
+Content type 'binary/octet-stream' length 4132221 bytes (3.9 MB)
+==================================================
+downloaded 3.9 MB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/hash_2.2.6.2.tar.gz'
+Content type 'binary/octet-stream' length 180213 bytes (175 KB)
+==================================================
+downloaded 175 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/GeneGA_1.48.0.tar.gz'
+Content type 'application/x-gzip' length 228654 bytes (223 KB)
+==================================================
+downloaded 223 KB
+
+* installing *binary* package ‘pixmap’ ...
+* ‘pixmap’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pixmap’ as ‘pixmap_0.4-12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pixmap)
+* installing *binary* package ‘sp’ ...
+* ‘sp’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sp’ as ‘sp_1.5-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sp)
+* installing *binary* package ‘segmented’ ...
+* ‘segmented’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘segmented’ as ‘segmented_1.6-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (segmented)
+* installing *binary* package ‘hash’ ...
+* ‘hash’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hash’ as ‘hash_2.2.6.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hash)
+* installing *binary* package ‘ade4’ ...
+* ‘ade4’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ade4’ as ‘ade4_1.7-20_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ade4)
+* installing *binary* package ‘seqinr’ ...
+* ‘seqinr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘seqinr’ as ‘seqinr_4.2-23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seqinr)
+* installing *source* package ‘GeneGA’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GeneGA’ as ‘GeneGA_1.48.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GeneGA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpBFu67u/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m25.010s
+user	0m11.195s
+sys	0m1.541s
