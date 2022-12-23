@@ -40459,7 +40459,6 @@
         "pillar",
         "progress",
         "purrr",
-        "rBiopaxParser",
         "rmarkdown",
         "sass",
         "shiny",
@@ -41382,7 +41381,6 @@
         "vroom"
     ],
     "RBGL": [],
-    "rBiopaxParser": [],
     "RBM": [],
     "Rbowtie2": [
         "BiocParallel",
