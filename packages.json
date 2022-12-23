@@ -6854,7 +6854,6 @@
         "BiocFileCache",
         "dbplyr"
     ],
-    "FGNet": [],
     "fgsea": [
         "cowplot"
     ],
@@ -9324,9 +9323,7 @@
     "InterMineR": [
         "SummarizedExperiment"
     ],
-    "IntramiRExploreR": [
-        "FGNet"
-    ],
+    "IntramiRExploreR": [],
     "IONiseR": [
         "GenomicAlignments",
         "Rsamtools",
