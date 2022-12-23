@@ -24438,7 +24438,6 @@
     "STRINGdb": [
         "sqldf"
     ],
-    "STROMA4": [],
     "struct": [
         "GenomicRanges",
         "SummarizedExperiment",
