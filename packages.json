@@ -2349,7 +2349,6 @@
         "dplyr",
         "enrichplot",
         "fgsea",
-        "geNetClassifier",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -3756,7 +3755,6 @@
         "bslib",
         "dbplyr",
         "dplyr",
-        "geNetClassifier",
         "genefilter",
         "ggplot2",
         "hgu133a.db",
@@ -12369,7 +12367,6 @@
         "tibble",
         "viridis"
     ],
-    "geNetClassifier": [],
     "GeneTonic": [
         "AnnotationDbi",
         "Biostrings",
