@@ -664,7 +664,6 @@
         "DT",
         "bigrquery",
         "dplyr",
-        "gargle",
         "ggplot2",
         "htmlwidgets",
         "knitr",
@@ -1051,7 +1050,6 @@
         "dtplyr",
         "fgsea",
         "forcats",
-        "gargle",
         "ggalluvial",
         "ggplot2",
         "googledrive",
@@ -1917,7 +1915,6 @@
         "curatedTCGAData",
         "dbplyr",
         "dplyr",
-        "gargle",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -6123,7 +6120,6 @@
         "dtplyr",
         "epiNEM",
         "forcats",
-        "gargle",
         "ggdendro",
         "ggforce",
         "ggplot2",
@@ -13341,7 +13337,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "ggplot2",
         "googledrive",
         "googlesheets4",
@@ -14428,7 +14423,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "genefilter",
         "gert",
         "ggplot2",
@@ -15283,7 +15277,6 @@
         "enrichplot",
         "fgsea",
         "forcats",
-        "gargle",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -15377,7 +15370,6 @@
         "enrichplot",
         "fgsea",
         "forcats",
-        "gargle",
         "ggforce",
         "ggfun",
         "ggnewscale",
@@ -16170,7 +16162,6 @@
         "dtplyr",
         "factoextra",
         "forcats",
-        "gargle",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -16540,7 +16531,6 @@
         "biomaRt",
         "dbplyr",
         "dplyr",
-        "gargle",
         "googleAuthR",
         "rtracklayer"
     ],
@@ -16860,7 +16850,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "ggplot2",
         "googledrive",
         "googlesheets4",
@@ -20878,7 +20867,6 @@
         "bigrquery",
         "dbplyr",
         "dplyr",
-        "gargle",
         "htmlwidgets",
         "interactiveDisplayBase",
         "knitr",
@@ -24776,7 +24764,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "ggplot2",
         "ggpubr",
         "ggrepel",
@@ -25113,7 +25100,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "ggplot2",
         "googledrive",
         "googlesheets4",
@@ -25446,7 +25432,6 @@
         "fields",
         "forcats",
         "furrr",
-        "gargle",
         "ggforce",
         "ggplot2",
         "ggrepel",
@@ -25928,7 +25913,6 @@
         "bigrquery",
         "dbplyr",
         "dplyr",
-        "gargle",
         "htmlwidgets",
         "interactiveDisplayBase",
         "knitr",
@@ -28125,13 +28109,10 @@
     "miniUI": [
         "shiny"
     ],
-    "bigrquery": [
-        "gargle"
-    ],
+    "bigrquery": [],
     "shinytoastr": [
         "shiny"
     ],
-    "gargle": [],
     "repmis": [],
     "org.Sc.sgd.db": [
         "AnnotationDbi",
@@ -28401,7 +28382,6 @@
         "dplyr",
         "dtplyr",
         "forcats",
-        "gargle",
         "ggplot2",
         "googledrive",
         "googlesheets4",
@@ -28491,12 +28471,9 @@
     "dtplyr": [
         "dplyr"
     ],
-    "googledrive": [
-        "gargle"
-    ],
+    "googledrive": [],
     "googlesheets4": [
         "cellranger",
-        "gargle",
         "googledrive",
         "rematch2"
     ],
@@ -30495,9 +30472,7 @@
         "usethis",
         "waldo"
     ],
-    "googleAuthR": [
-        "gargle"
-    ],
+    "googleAuthR": [],
     "blme": [
         "lme4",
         "nloptr",
