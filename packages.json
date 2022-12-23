@@ -346,7 +346,6 @@
         "radiant.data",
         "viridis"
     ],
-    "biocGraph": [],
     "BiocOncoTK": [
         "HDF5Array",
         "car",
