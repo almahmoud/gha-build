@@ -594,9 +594,7 @@
         "threejs",
         "viridis"
     ],
-    "banocc": [
-        "rstan"
-    ],
+    "banocc": [],
     "barcodetrackR": [
         "viridis"
     ],
@@ -625,7 +623,6 @@
         "colourpicker",
         "ggExtra",
         "glmGamPoi",
-        "rstan",
         "scran",
         "scuttle",
         "viridis"
@@ -5284,9 +5281,7 @@
     "idiogram": [
         "annotate"
     ],
-    "IgGeneUsage": [
-        "rstan"
-    ],
+    "IgGeneUsage": [],
     "igvR": [
         "BSgenome",
         "BiocFileCache",
@@ -5841,7 +5836,6 @@
         "densEstBayes",
         "htmlTable",
         "reldist",
-        "rstan",
         "viridis"
     ],
     "m6Aboost": [
@@ -8468,7 +8462,6 @@
         "benchmarkme",
         "ggdist",
         "posterior",
-        "rstan",
         "tidybayes"
     ],
     "PPInfer": [
@@ -9369,7 +9362,6 @@
         "densEstBayes",
         "geneplotter",
         "reldist",
-        "rstan",
         "rtracklayer"
     ],
     "RiboProfiling": [
@@ -9982,8 +9974,7 @@
         "viridis"
     ],
     "sccomp": [
-        "SingleCellExperiment",
-        "rstan"
+        "SingleCellExperiment"
     ],
     "scDataviz": [
         "Seurat",
@@ -10054,13 +10045,11 @@
         "densEstBayes",
         "htmlTable",
         "reldist",
-        "rstan",
         "viridis"
     ],
     "scMET": [
         "BiocStyle",
         "SingleCellExperiment",
-        "rstan",
         "viridis"
     ],
     "scmeth": [
@@ -10593,7 +10582,6 @@
         "org.Hs.eg.db",
         "plotly",
         "reldist",
-        "rstan",
         "rtracklayer",
         "scDblFinder",
         "scMerge",
@@ -12482,7 +12470,6 @@
         "viridis"
     ],
     "threejs": [],
-    "rstan": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "GenomicAlignments",
@@ -13036,12 +13023,9 @@
     ],
     "learnr": [],
     "reldist": [
-        "densEstBayes",
-        "rstan"
+        "densEstBayes"
     ],
-    "densEstBayes": [
-        "rstan"
-    ],
+    "densEstBayes": [],
     "adabag": [
         "caret",
         "recipes"
