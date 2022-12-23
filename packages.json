@@ -168,7 +168,6 @@
     ],
     "ddPCRclust": [],
     "debrowser": [],
-    "deconvR": [],
     "DeepPINCS": [
         "mlapi",
         "text2vec",
