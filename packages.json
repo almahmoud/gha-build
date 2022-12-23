@@ -1361,7 +1361,6 @@
     ],
     "BUMHMM": [
         "devtools",
-        "pkgdown",
         "profvis",
         "testthat"
     ],
@@ -2328,7 +2327,6 @@
     ],
     "cogena": [
         "devtools",
-        "pkgdown",
         "profvis",
         "testthat"
     ],
@@ -4778,7 +4776,6 @@
     ],
     "GCSscore": [
         "devtools",
-        "pkgdown",
         "profvis",
         "testthat"
     ],
@@ -5937,7 +5934,6 @@
     "immunotation": [],
     "INDEED": [
         "devtools",
-        "pkgdown",
         "profvis",
         "testthat",
         "visNetwork"
@@ -7170,7 +7166,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "pkgdown",
         "planet",
         "profvis",
         "reprex",
@@ -7288,7 +7283,6 @@
         "ChemmineR",
         "DT",
         "devtools",
-        "pkgdown",
         "profvis",
         "testthat"
     ],
@@ -8170,7 +8164,6 @@
         "gson",
         "mixOmics",
         "networkD3",
-        "pkgdown",
         "plotly",
         "profvis",
         "rWikiPathways",
@@ -8854,7 +8847,6 @@
     ],
     "oppti": [
         "devtools",
-        "pkgdown",
         "profvis",
         "testthat"
     ],
@@ -9036,7 +9028,6 @@
         "devtools",
         "geneplotter",
         "phyloseq",
-        "pkgdown",
         "plotly",
         "profvis",
         "rhdf5",
@@ -10576,7 +10567,6 @@
         "devtools",
         "geneplotter",
         "org.Mm.eg.db",
-        "pkgdown",
         "profvis",
         "rtracklayer",
         "testthat"
@@ -12281,7 +12271,6 @@
         "ensembldb",
         "geneplotter",
         "htmlTable",
-        "pkgdown",
         "profvis",
         "rtracklayer",
         "testthat",
@@ -14081,11 +14070,9 @@
         "rtracklayer"
     ],
     "devtools": [
-        "pkgdown",
         "profvis",
         "testthat"
     ],
-    "pkgdown": [],
     "profvis": [],
     "ggtext": [],
     "vcfR": [],
@@ -14695,7 +14682,6 @@
     ],
     "anyLib": [
         "devtools",
-        "pkgdown",
         "profvis",
         "testthat"
     ],
