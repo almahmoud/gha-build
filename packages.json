@@ -2958,9 +2958,7 @@
         "SingleCellExperiment",
         "SummarizedExperiment"
     ],
-    "ccImpute": [
-        "SIMLR"
-    ],
+    "ccImpute": [],
     "ccmap": [
         "AnnotationDbi",
         "Biostrings",
@@ -22334,7 +22332,6 @@
         "Rsamtools",
         "dplyr"
     ],
-    "SIMLR": [],
     "simpleSeg": [
         "BiocFileCache",
         "DelayedMatrixStats",
@@ -22389,7 +22386,6 @@
         "BiocSingular",
         "DelayedMatrixStats",
         "GenomicRanges",
-        "SIMLR",
         "ScaledMatrix",
         "SingleCellExperiment",
         "SummarizedExperiment",
