@@ -1985,7 +1985,6 @@
         "GenomicFeatures",
         "basilisk",
         "car",
-        "cmdfun",
         "ggpubr",
         "lme4",
         "megadepth",
@@ -4451,15 +4450,11 @@
         "nloptr",
         "pbkrtest"
     ],
-    "megadepth": [
-        "cmdfun"
-    ],
+    "megadepth": [],
     "Melissa": [
         "BPRMeth"
     ],
-    "memes": [
-        "cmdfun"
-    ],
+    "memes": [],
     "MeSHDbi": [],
     "meshes": [
         "AnnotationHub",
@@ -5656,7 +5651,6 @@
         "basilisk",
         "bumphunter",
         "car",
-        "cmdfun",
         "dasper",
         "derfinder",
         "ggpubr",
@@ -9257,7 +9251,6 @@
         "affy",
         "vsn"
     ],
-    "cmdfun": [],
     "rsq": [
         "lme4",
         "nloptr"
