@@ -9353,7 +9353,6 @@
         "S4Vectors",
         "XVector",
         "bitops",
-        "poibin",
         "zlibbioc"
     ],
     "BiGGR": [
@@ -45365,7 +45364,6 @@
         "plogr",
         "plyr",
         "png",
-        "poibin",
         "prettyunits",
         "prodlim",
         "progress",
@@ -157852,7 +157850,6 @@
     "datawizard": [
         "insight"
     ],
-    "poibin": [],
     "LIM": [
         "MASS",
         "diagram",
