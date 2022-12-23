@@ -4223,7 +4223,6 @@
         "viridis"
     ],
     "SplicingGraphs": [],
-    "splineTimeR": [],
     "SPLINTER": [
         "BSgenome.Mmusculus.UCSC.mm9",
         "Gviz",
