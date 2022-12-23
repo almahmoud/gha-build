@@ -734,7 +734,6 @@
         "reactome.db",
         "scatterpie",
         "testthat",
-        "tidygraph",
         "tidytree",
         "treeio",
         "visNetwork"
@@ -1348,7 +1347,6 @@
         "gson",
         "htmlTable",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -1371,8 +1369,7 @@
         "annotate"
     ],
     "ceRNAnetsim": [
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "CeTF": [
         "DESeq2",
@@ -1399,7 +1396,6 @@
         "rstatix",
         "scatterpie",
         "testthat",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -1587,7 +1583,6 @@
         "ggtree",
         "rtracklayer",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -1672,7 +1667,6 @@
     ],
     "CIMICE": [
         "ggraph",
-        "tidygraph",
         "visNetwork"
     ],
     "circRNAprofiler": [
@@ -1708,8 +1702,7 @@
         "plotly",
         "propr",
         "scran",
-        "scuttle",
-        "tidygraph"
+        "scuttle"
     ],
     "ClassifyR": [
         "MultiAssayExperiment",
@@ -1766,7 +1759,6 @@
         "ggtree",
         "gson",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -1997,7 +1989,6 @@
         "scran",
         "scuttle",
         "testthat",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -2471,7 +2462,6 @@
         "mnem",
         "modelr",
         "org.Hs.eg.db",
-        "tidygraph",
         "tidyverse"
     ],
     "ddPCRclust": [
@@ -2513,7 +2503,6 @@
         "plotly",
         "scatterpie",
         "sva",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -2972,7 +2961,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -3027,7 +3015,6 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -3128,7 +3115,6 @@
         "ggraph",
         "ggtree",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -3160,7 +3146,6 @@
         "rtracklayer",
         "scatterpie",
         "testthat",
-        "tidygraph",
         "tidytree",
         "treeio",
         "visNetwork"
@@ -3214,7 +3199,6 @@
         "plotly",
         "rtracklayer",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -3265,7 +3249,6 @@
         "htmlTable",
         "reactome.db",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -3415,7 +3398,6 @@
         "pipeFrame",
         "rtracklayer",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio",
         "visNetwork"
@@ -3562,7 +3544,6 @@
         "rWikiPathways",
         "reactome.db",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -3607,7 +3588,6 @@
         "ggtree",
         "gson",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -3750,8 +3730,7 @@
         "fgsea",
         "ggraph",
         "lexicon",
-        "textclean",
-        "tidygraph"
+        "textclean"
     ],
     "FoldGO": [
         "GO.db",
@@ -3906,7 +3885,6 @@
         "scatterpie",
         "survminer",
         "testthat",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -4337,7 +4315,6 @@
         "gson",
         "org.Hs.eg.db",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -4789,8 +4766,7 @@
         "cytomapper",
         "ggraph",
         "scuttle",
-        "svgPanZoom",
-        "tidygraph"
+        "svgPanZoom"
     ],
     "ImmuneSpaceR": [
         "dendextend",
@@ -4955,7 +4931,6 @@
         "scran",
         "scuttle",
         "testthat",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -5334,7 +5309,6 @@
         "org.Hs.eg.db",
         "pathview",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -5554,7 +5528,6 @@
         "ggtree",
         "interactiveDisplayBase",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -5650,7 +5623,6 @@
         "ggtree",
         "gson",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -5819,7 +5791,6 @@
         "reactome.db",
         "rtracklayer",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -5918,7 +5889,6 @@
         "mia",
         "scater",
         "scuttle",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -5979,7 +5949,6 @@
         "ggtree",
         "gson",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -6009,8 +5978,7 @@
     ],
     "miloR": [
         "SingleCellExperiment",
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "mimager": [
         "oligo",
@@ -6145,7 +6113,6 @@
         "scatterpie",
         "subspace",
         "testthat",
-        "tidygraph",
         "tidytree",
         "tidyverse",
         "treeio"
@@ -6182,7 +6149,6 @@
         "rstatix",
         "scatterpie",
         "testthat",
-        "tidygraph",
         "tidytree",
         "tidyverse",
         "treeio"
@@ -6320,7 +6286,6 @@
         "gson",
         "rgl",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -6610,7 +6575,6 @@
         "ropls",
         "scatterpie",
         "testthat",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -6823,7 +6787,6 @@
         "ggtree",
         "gson",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -7284,7 +7247,6 @@
         "metap",
         "org.Hs.eg.db",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -7299,8 +7261,7 @@
         "keras",
         "nloptr",
         "testthat",
-        "tfprobability",
-        "tidygraph"
+        "tfprobability"
     ],
     "PAST": [
         "GenomicAlignments",
@@ -7402,7 +7363,6 @@
         "ggtree",
         "gson",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -7512,7 +7472,6 @@
         "htmlTable",
         "reactome.db",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -7740,7 +7699,6 @@
         "rtracklayer",
         "scatterpie",
         "soGGi",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -8140,7 +8098,6 @@
         "gson",
         "reactome.db",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -8665,7 +8622,6 @@
         "sva",
         "systemPipeR",
         "testthat",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -8957,8 +8913,7 @@
         "annotate",
         "ggraph",
         "mixtools",
-        "plotly",
-        "tidygraph"
+        "plotly"
     ],
     "sccomp": [
         "SingleCellExperiment"
@@ -9110,8 +9065,7 @@
     "ScreenR": [],
     "scRepertoire": [
         "SingleCellExperiment",
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "scruff": [
         "BSgenome",
@@ -9168,7 +9122,6 @@
         "reactome.db",
         "scatterpie",
         "schex",
-        "tidygraph",
         "tidytree",
         "treeio",
         "visNetwork"
@@ -9203,8 +9156,7 @@
         "rtracklayer",
         "scater",
         "scran",
-        "scuttle",
-        "tidygraph"
+        "scuttle"
     ],
     "scuttle": [
         "SingleCellExperiment"
@@ -9226,7 +9178,6 @@
         "ggtree",
         "rtracklayer",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -9374,7 +9325,6 @@
         "org.Hs.eg.db",
         "reactome.db",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio",
         "visNetwork"
@@ -9887,8 +9837,7 @@
     "sSNAPPY": [
         "ggraph",
         "graphite",
-        "org.Hs.eg.db",
-        "tidygraph"
+        "org.Hs.eg.db"
     ],
     "ssPATHS": [
         "MESS",
@@ -10195,7 +10144,6 @@
         "sesame",
         "sesameData",
         "testthat",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -10315,7 +10263,6 @@
         "gson",
         "rWikiPathways",
         "scatterpie",
-        "tidygraph",
         "tidytree",
         "treeio"
     ],
@@ -10793,8 +10740,7 @@
         "org.Hs.eg.db",
         "org.Mm.eg.db",
         "textclean",
-        "textstem",
-        "tidygraph"
+        "textstem"
     ],
     "Voyager": [
         "DropletUtils",
@@ -11230,12 +11176,9 @@
     "visNetwork": [],
     "gson": [],
     "HDO.db": [],
-    "ggraph": [
-        "tidygraph"
-    ],
+    "ggraph": [],
     "aplot": [],
     "scatterpie": [],
-    "tidygraph": [],
     "rms": [
         "Hmisc",
         "htmlTable"
@@ -11939,8 +11882,7 @@
         "fields"
     ],
     "clustree": [
-        "ggraph",
-        "tidygraph"
+        "ggraph"
     ],
     "survivalAnalysis": [
         "car",
