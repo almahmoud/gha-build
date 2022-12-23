@@ -4597,7 +4597,6 @@
         "rstatix",
         "testthat"
     ],
-    "flowSpecs": [],
     "flowStats": [
         "fda",
         "fds",
