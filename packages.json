@@ -169,7 +169,6 @@
         "mlapi",
         "text2vec"
     ],
-    "uncoverappLib": [],
     "VAExprs": [
         "DeepPINCS",
         "mlapi",
