@@ -1021,7 +1021,6 @@
     ],
     "CAMERA": [
         "Hmisc",
-        "MsFeatures",
         "xcms"
     ],
     "canceR": [
@@ -1536,7 +1535,6 @@
         "rtracklayer"
     ],
     "cliqueMS": [
-        "MsFeatures",
         "xcms"
     ],
     "CluMSID": [
@@ -1869,7 +1867,6 @@
         "geneplotter"
     ],
     "cosmiq": [
-        "MsFeatures",
         "faahKO",
         "xcms"
     ],
@@ -3221,7 +3218,6 @@
     "flagme": [
         "CAMERA",
         "Hmisc",
-        "MsFeatures",
         "xcms"
     ],
     "FLAMES": [
@@ -4345,7 +4341,6 @@
     "IPO": [
         "CAMERA",
         "Hmisc",
-        "MsFeatures",
         "xcms"
     ],
     "IRISFGM": [
@@ -4580,7 +4575,6 @@
     "LOBSTAHS": [
         "CAMERA",
         "Hmisc",
-        "MsFeatures",
         "xcms"
     ],
     "LoomExperiment": [
@@ -4728,7 +4722,6 @@
     "MAIT": [
         "CAMERA",
         "Hmisc",
-        "MsFeatures",
         "agricolae",
         "caret",
         "fields",
@@ -4923,7 +4916,6 @@
     ],
     "MesKit": [],
     "Metab": [
-        "MsFeatures",
         "xcms"
     ],
     "metabCombiner": [
@@ -4980,7 +4972,6 @@
     "metaMS": [
         "CAMERA",
         "Hmisc",
-        "MsFeatures",
         "xcms"
     ],
     "MetaNeighbor": [
@@ -5553,7 +5544,6 @@
         "topGO"
     ],
     "MobilityTransformR": [
-        "MsFeatures",
         "xcms"
     ],
     "MODA": [
@@ -5666,7 +5656,6 @@
         "QFeatures",
         "plotly"
     ],
-    "MsFeatures": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
@@ -6010,7 +5999,6 @@
         "testthat"
     ],
     "ncGTW": [
-        "MsFeatures",
         "xcms"
     ],
     "nearBynding": [
@@ -6836,7 +6824,6 @@
     ],
     "procoil": [],
     "proFIA": [
-        "MsFeatures",
         "MultiAssayExperiment",
         "MultiDataSet",
         "plotly",
@@ -7513,7 +7500,6 @@
         "rtracklayer"
     ],
     "Risa": [
-        "MsFeatures",
         "xcms"
     ],
     "RITAN": [
@@ -9680,9 +9666,7 @@
     "wppi": [
         "OmnipathR"
     ],
-    "xcms": [
-        "MsFeatures"
-    ],
+    "xcms": [],
     "xcore": [
         "MultiAssayExperiment"
     ],
@@ -10185,7 +10169,6 @@
         "rtracklayer"
     ],
     "faahKO": [
-        "MsFeatures",
         "xcms"
     ],
     "dorothea": [
