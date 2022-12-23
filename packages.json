@@ -2929,7 +2929,6 @@
         "bumphunter",
         "derfinder"
     ],
-    "recount3": [],
     "recountmethylation": [
         "GenomicFeatures",
         "IlluminaHumanMethylation450kmanifest",
