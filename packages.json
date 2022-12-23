@@ -10362,7 +10362,6 @@
         "SingleCellExperiment",
         "glmGamPoi"
     ],
-    "transite": [],
     "tRanslatome": [
         "DESeq2",
         "GO.db",
