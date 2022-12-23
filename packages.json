@@ -6358,7 +6358,6 @@
         "pillar",
         "progress",
         "purrr",
-        "qlcMatrix",
         "reshape2",
         "restfulr",
         "rmarkdown",
@@ -6647,7 +6646,6 @@
         "affy",
         "ggplot2",
         "pillar",
-        "qlcMatrix",
         "tibble",
         "vsn",
         "xcms"
@@ -24016,7 +24014,6 @@
         "dplyr",
         "ggplot2",
         "pillar",
-        "qlcMatrix",
         "reshape2",
         "stringr",
         "tibble",
@@ -41357,7 +41354,6 @@
         "ggplot2",
         "monocle",
         "pillar",
-        "qlcMatrix",
         "reshape2",
         "stringr",
         "tibble",
@@ -45183,7 +45179,6 @@
         "bslib",
         "shiny"
     ],
-    "qlcMatrix": [],
     "propr": [],
     "BSgenome.Drerio.UCSC.danRer7": [
         "BSgenome",
