@@ -3419,7 +3419,6 @@
         "GenomicRanges",
         "IRanges",
         "RSQLite",
-        "RcppDist",
         "RcppEigen",
         "RcppML",
         "ScaledMatrix",
@@ -64602,7 +64601,6 @@
         "maxLik",
         "sandwich"
     ],
-    "RcppDist": [],
     "maxLik": [
         "sandwich"
     ],
