@@ -26889,7 +26889,6 @@
         "htmlwidgets",
         "httpuv",
         "knitr",
-        "magicaxis",
         "piano",
         "purrr",
         "reshape2",
@@ -29177,7 +29176,6 @@
         "htmlwidgets",
         "httpuv",
         "knitr",
-        "magicaxis",
         "piano",
         "purrr",
         "reshape2",
@@ -40163,7 +40161,6 @@
         "htmlwidgets",
         "httpuv",
         "knitr",
-        "magicaxis",
         "piano",
         "purrr",
         "reshape2",
@@ -44972,7 +44969,6 @@
         "knitr",
         "stringr"
     ],
-    "magicaxis": [],
     "PMCMRplus": [],
     "SmoothWin": [],
     "osfr": [
