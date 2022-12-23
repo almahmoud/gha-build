@@ -5740,7 +5740,6 @@
         "xcms"
     ],
     "IRISFGM": [
-        "AdaptGauss",
         "AnnotationDbi",
         "DEsingle",
         "DOSE",
@@ -13645,7 +13644,6 @@
         "rtracklayer"
     ],
     "wordcloud2": [],
-    "AdaptGauss": [],
     "datamods": [
         "haven",
         "reactable",
