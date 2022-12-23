@@ -1,0 +1,167 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   224af2df..eca529a5  main       -> origin/main
+Updating 224af2df..eca529a5
+Fast-forward
+ logs/run_ids/rstudio-binaries/a4Preproc | 2 ++
+ logs/run_ids/rstudio-binaries/edgeR     | 2 ++
+ logs/run_ids/rstudio-binaries/expm      | 2 ++
+ logs/run_ids/rstudio-binaries/kmlShape  | 2 ++
+ 4 files changed, 8 insertions(+)
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=basilisk.utils
++ PKG=basilisk.utils
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "basilisk.utils"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 53  329k   53  176k    0     0   193k      0  0:00:01 --:--:--  0:00:01  193k100  329k  100  329k    0     0   278k      0  0:00:01  0:00:01 --:--:--  278k
+built/
+built/dir.expiry/
+built/dir.expiry/NAMESPACE
+built/dir.expiry/DESCRIPTION
+built/dir.expiry/help/
+built/dir.expiry/help/dir.expiry.rdb
+built/dir.expiry/help/paths.rds
+built/dir.expiry/help/aliases.rds
+built/dir.expiry/help/dir.expiry.rdx
+built/dir.expiry/help/AnIndex
+built/dir.expiry/Meta/
+built/dir.expiry/Meta/package.rds
+built/dir.expiry/Meta/vignette.rds
+built/dir.expiry/Meta/features.rds
+built/dir.expiry/Meta/hsearch.rds
+built/dir.expiry/Meta/links.rds
+built/dir.expiry/Meta/nsInfo.rds
+built/dir.expiry/Meta/Rd.rds
+built/dir.expiry/html/
+built/dir.expiry/html/00Index.html
+built/dir.expiry/html/R.css
+built/dir.expiry/INDEX
+built/dir.expiry/doc/
+built/dir.expiry/doc/index.html
+built/dir.expiry/doc/userguide.Rmd
+built/dir.expiry/doc/userguide.html
+built/dir.expiry/doc/userguide.R
+built/dir.expiry/R/
+built/dir.expiry/R/dir.expiry.rdb
+built/dir.expiry/R/dir.expiry
+built/dir.expiry/R/dir.expiry.rdx
+built/filelock/
+built/filelock/libs/
+built/filelock/libs/filelock.so
+built/filelock/NAMESPACE
+built/filelock/DESCRIPTION
+built/filelock/help/
+built/filelock/help/paths.rds
+built/filelock/help/filelock.rdx
+built/filelock/help/aliases.rds
+built/filelock/help/filelock.rdb
+built/filelock/help/AnIndex
+built/filelock/Meta/
+built/filelock/Meta/package.rds
+built/filelock/Meta/features.rds
+built/filelock/Meta/hsearch.rds
+built/filelock/Meta/links.rds
+built/filelock/Meta/nsInfo.rds
+built/filelock/Meta/Rd.rds
+built/filelock/WORDLIST
+built/filelock/LICENSE
+built/filelock/html/
+built/filelock/html/00Index.html
+built/filelock/html/R.css
+built/filelock/INDEX
+built/filelock/R/
+built/filelock/R/filelock.rdx
+built/filelock/R/filelock.rdb
+built/filelock/R/filelock
+built/filelock/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''basilisk.utils'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv basilisk.utils_1.10.0_R_x86_64-pc-linux-gnu.tar.gz dir.expiry_1.6.0_R_x86_64-pc-linux-gnu.tar.gz filelock_1.0.2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/basilisk.utils
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'basilisk.utils'
+also installing the dependencies ‘filelock’, ‘dir.expiry’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/filelock_1.0.2.tar.gz'
+Content type 'binary/octet-stream' length 30533 bytes (29 KB)
+==================================================
+downloaded 29 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/dir.expiry_1.6.0.tar.gz'
+Content type 'application/x-gzip' length 292837 bytes (285 KB)
+==================================================
+downloaded 285 KB
+
+trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/basilisk.utils_1.10.0.tar.gz'
+Content type 'application/x-gzip' length 239861 bytes (234 KB)
+==================================================
+downloaded 234 KB
+
+* installing *binary* package ‘filelock’ ...
+* ‘filelock’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘filelock’ as ‘filelock_1.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (filelock)
+* installing *source* package ‘dir.expiry’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘dir.expiry’ as ‘dir.expiry_1.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dir.expiry)
+* installing *source* package ‘basilisk.utils’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘basilisk.utils’ as ‘basilisk.utils_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (basilisk.utils)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpm6otHM/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m11.707s
+user	0m6.807s
+sys	0m1.307s

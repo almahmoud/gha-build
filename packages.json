@@ -3475,10 +3475,8 @@
         "futile.logger"
     ],
     "basilisk": [
-        "basilisk.utils",
         "reticulate"
     ],
-    "basilisk.utils": [],
     "batchelor": [
         "BiocNeighbors",
         "BiocParallel",
@@ -4714,7 +4712,6 @@
         "SummarizedExperiment",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "reticulate"
     ],
     "BiocStyle": [
@@ -7487,7 +7484,6 @@
     "cbpManager": [
         "DT",
         "basilisk",
-        "basilisk.utils",
         "bslib",
         "crosstalk",
         "dplyr",
@@ -12690,7 +12686,6 @@
         "VariantAnnotation",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "blob",
         "bslib",
@@ -12745,7 +12740,6 @@
         "S4Vectors",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "blob",
         "bslib",
         "crisprScoreData",
@@ -12953,7 +12947,6 @@
         "VariantAnnotation",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "biovizBase",
         "blob",
@@ -13034,7 +13027,6 @@
         "VariantAnnotation",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "biovizBase",
         "blob",
@@ -14263,7 +14255,6 @@
         "SummarizedExperiment",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "blob",
         "broom",
@@ -15321,7 +15312,6 @@
     ],
     "densvis": [
         "basilisk",
-        "basilisk.utils",
         "irlba",
         "reticulate"
     ],
@@ -20771,7 +20761,6 @@
         "XVector",
         "bambu",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "biomaRt",
         "biovizBase",
@@ -30588,7 +30577,6 @@
         "S4Vectors",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "blob",
         "bslib",
         "crosstalk",
@@ -36141,7 +36129,6 @@
         "IRanges",
         "S4Vectors",
         "basilisk",
-        "basilisk.utils",
         "cowplot",
         "dplyr",
         "dqrng",
@@ -40271,7 +40258,6 @@
         "VariantAnnotation",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "biomaRt",
         "blob",
         "broom",
@@ -47146,7 +47132,6 @@
         "R.utils",
         "S4Vectors",
         "basilisk",
-        "basilisk.utils",
         "batchtools",
         "bslib",
         "dplyr",
@@ -47192,7 +47177,6 @@
         "Rcwl",
         "S4Vectors",
         "basilisk",
-        "basilisk.utils",
         "batchtools",
         "blob",
         "bslib",
@@ -55215,7 +55199,6 @@
         "ade4",
         "ape",
         "basilisk",
-        "basilisk.utils",
         "biomformat",
         "dplyr",
         "futile.logger",
@@ -56078,7 +56061,6 @@
     ],
     "snifter": [
         "basilisk",
-        "basilisk.utils",
         "irlba",
         "reticulate"
     ],
@@ -56601,7 +56583,6 @@
         "SummarizedExperiment",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "blob",
         "dbplyr",
@@ -63201,7 +63182,6 @@
         "SummarizedExperiment",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "cowplot",
         "futile.logger",
         "ggplot2",
@@ -63252,7 +63232,6 @@
         "SummarizedExperiment",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "beachmat",
         "futile.logger",
         "irlba",
@@ -64450,7 +64429,6 @@
         "SummarizedExperiment",
         "XVector",
         "basilisk",
-        "basilisk.utils",
         "reticulate"
     ],
     "zenith": [
