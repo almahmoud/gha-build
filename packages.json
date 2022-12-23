@@ -3055,7 +3055,6 @@
         "viridis"
     ],
     "OpenStats": [
-        "AICcmodavg",
         "Hmisc",
         "car",
         "viridis"
@@ -4995,7 +4994,6 @@
     "diceR": [
         "klaR"
     ],
-    "AICcmodavg": [],
     "verification": [
         "fields",
         "viridis"
