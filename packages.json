@@ -2530,7 +2530,6 @@
         "GSEABase",
         "GSVA",
         "HDF5Array",
-        "UCell",
         "annotate",
         "rhdf5"
     ],
@@ -7709,7 +7708,6 @@
         "ensembldb",
         "rtracklayer"
     ],
-    "UCell": [],
     "Ularcirc": [
         "AnnotationHub",
         "BSgenome",
