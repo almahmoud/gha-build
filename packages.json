@@ -2713,10 +2713,8 @@
     "msImpute": [
         "scran"
     ],
-    "msmsTests": [],
     "MSnID": [
-        "AnnotationHub",
-        "msmsTests"
+        "AnnotationHub"
     ],
     "MSPrep": [
         "VIM",
