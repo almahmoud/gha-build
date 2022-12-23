@@ -447,7 +447,6 @@
     "clipper": [
         "qpgraph"
     ],
-    "cliProfiler": [],
     "clusterExperiment": [],
     "clusterProfiler": [
         "enrichplot"
