@@ -3165,9 +3165,7 @@
         "annotate",
         "geneplotter"
     ],
-    "deltaGseg": [
-        "tseries"
-    ],
+    "deltaGseg": [],
     "DeMixT": [
         "AnnotationDbi",
         "BSgenome",
@@ -9358,7 +9356,6 @@
         "MSnbase",
         "forecast",
         "htmlTable",
-        "tseries",
         "viridis"
     ],
     "proActiv": [
@@ -9901,8 +9898,7 @@
         "plotly"
     ],
     "RCM": [
-        "phyloseq",
-        "tseries"
+        "phyloseq"
     ],
     "Rcpi": [
         "AnnotationDbi",
@@ -14182,7 +14178,6 @@
         "syuzhet"
     ],
     "syuzhet": [],
-    "tseries": [],
     "ggplot.multistats": [],
     "VIM": [
         "broom",
@@ -14598,9 +14593,7 @@
         "interactiveDisplayBase",
         "rtracklayer"
     ],
-    "forecast": [
-        "tseries"
-    ],
+    "forecast": [],
     "rhandsontable": [],
     "EnsDb.Mmusculus.v79": [
         "AnnotationDbi",
