@@ -44,7 +44,6 @@
         "Glimma",
         "Hmisc",
         "OrganismDbi",
-        "PFAM.db",
         "ReportingTools",
         "VariantAnnotation",
         "affy",
@@ -86,7 +85,6 @@
         "Glimma",
         "Hmisc",
         "OrganismDbi",
-        "PFAM.db",
         "ReportingTools",
         "VariantAnnotation",
         "affy",
@@ -5647,7 +5645,6 @@
         "GenomicFeatures",
         "Hmisc",
         "OrganismDbi",
-        "PFAM.db",
         "VariantAnnotation",
         "biovizBase",
         "ensembldb",
@@ -7508,7 +7505,6 @@
     "affydata": [
         "affy"
     ],
-    "PFAM.db": [],
     "Hmisc": [
         "viridis"
     ],
