@@ -3984,7 +3984,6 @@
         "treeio",
         "viridis"
     ],
-    "easyreporting": [],
     "easyRNASeq": [
         "AnnotationDbi",
         "BiocFileCache",
