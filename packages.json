@@ -2844,7 +2844,6 @@
         "rhdf5",
         "rtracklayer"
     ],
-    "DNABarcodeCompatibility": [],
     "DNAfusion": [],
     "DNAshapeR": [
         "fields",
