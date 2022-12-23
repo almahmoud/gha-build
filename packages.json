@@ -1102,7 +1102,6 @@
         "sass",
         "shiny",
         "shinyjs",
-        "stable",
         "stringr",
         "survival",
         "tibble",
@@ -9827,7 +9826,6 @@
         "modeest",
         "phylolm",
         "pillar",
-        "stable",
         "stringr",
         "tibble",
         "timeSeries",
@@ -29884,7 +29882,6 @@
         "purrr",
         "quantreg",
         "rematch2",
-        "stable",
         "survival",
         "testthat",
         "tibble",
@@ -56169,7 +56166,6 @@
         "ggrepel",
         "modeest",
         "pillar",
-        "stable",
         "tibble",
         "timeSeries",
         "vctrs",
@@ -56195,14 +56191,12 @@
     ],
     "modeest": [
         "fBasics",
-        "stable",
         "timeSeries"
     ],
     "reticulate": [],
     "fBasics": [
         "timeSeries"
     ],
-    "stable": [],
     "clock": [
         "vctrs"
     ],
