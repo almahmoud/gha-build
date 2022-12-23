@@ -1,11 +1,9 @@
 {
     "a4": [
         "a4Base",
-        "annaffy",
         "genefilter"
     ],
     "a4Base": [
-        "annaffy",
         "genefilter"
     ],
     "abseqR": [],
@@ -113,7 +111,6 @@
         "caret",
         "geneplotter"
     ],
-    "annaffy": [],
     "annmap": [
         "genefilter"
     ],
@@ -6022,9 +6019,7 @@
     "wavClusteR": [
         "GenomicFeatures"
     ],
-    "webbioc": [
-        "annaffy"
-    ],
+    "webbioc": [],
     "wiggleplotr": [],
     "wpm": [],
     "XDE": [
