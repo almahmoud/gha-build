@@ -8734,7 +8734,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "CORREP": [],
     "coseq": [
         "AnnotationDbi",
         "BiocParallel",
