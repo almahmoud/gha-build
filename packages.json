@@ -8458,7 +8458,6 @@
         "tidyr",
         "tidyselect"
     ],
-    "covEB": [],
     "CoverageView": [
         "Biostrings",
         "DelayedArray",
