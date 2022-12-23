@@ -4422,7 +4422,6 @@
         "reactome.db",
         "rqubic",
         "rstatix",
-        "s4vd",
         "scatterpie",
         "tidyverse",
         "treeio"
@@ -8421,7 +8420,6 @@
         "rtracklayer"
     ],
     "miRBaseVersions.db": [],
-    "s4vd": [],
     "BiBitR": [
         "dendextend"
     ],
