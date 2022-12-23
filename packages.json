@@ -1359,7 +1359,6 @@
         "WGCNA",
         "clusterProfiler",
         "enrichplot",
-        "ggpmisc",
         "ggraph",
         "ggtree",
         "scatterpie",
@@ -5719,7 +5718,6 @@
         "car",
         "devtools",
         "genefilter",
-        "ggpmisc",
         "ggpubr",
         "haven",
         "interactiveDisplayBase",
@@ -11234,7 +11232,6 @@
         "pbkrtest",
         "testthat"
     ],
-    "ggpmisc": [],
     "broom.mixed": [],
     "mice": [],
     "GenomicTools": [],
