@@ -96,7 +96,6 @@
         "Seurat"
     ],
     "appreci8R": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "COSMIC.67",
         "GenomicScores",
         "HDF5Array",
@@ -151,7 +150,6 @@
         "viridis"
     ],
     "ATACCoGAPS": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "CoGAPS",
         "Homo.sapiens",
         "Mus.musculus",
@@ -350,7 +348,6 @@
         "rhdf5"
     ],
     "brainflowprobes": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFiles",
         "GenomicState",
         "Hmisc",
@@ -537,9 +534,7 @@
         "biovizBase",
         "viridis"
     ],
-    "ChIPComp": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "ChIPComp": [],
     "chipenrich": [
         "Hmisc",
         "rms",
@@ -581,7 +576,6 @@
         "viridis"
     ],
     "circRNAprofiler": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "gwascat"
     ],
     "CircSeqAlignTk": [
@@ -646,9 +640,7 @@
         "bsseq",
         "rhdf5"
     ],
-    "CODEX": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "CODEX": [],
     "coexnet": [
         "affy",
         "vsn"
@@ -901,9 +893,7 @@
         "viridis"
     ],
     "DEComplexDisease": [],
-    "decompTumor2Sig": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "decompTumor2Sig": [],
     "deconvR": [
         "HDF5Array",
         "minfi",
@@ -1595,9 +1585,7 @@
         "rhdf5",
         "viridis"
     ],
-    "HiLDA": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "HiLDA": [],
     "hipathia": [
         "coin"
     ],
@@ -1625,7 +1613,6 @@
         "rhdf5"
     ],
     "iCNV": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "CODEX",
         "fields",
         "viridis"
@@ -1750,7 +1737,6 @@
         "viridis"
     ],
     "katdetectr": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38"
     ],
     "kissDE": [
@@ -1833,9 +1819,7 @@
     "MACSr": [
         "basilisk"
     ],
-    "MADSEQ": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "MADSEQ": [],
     "MAGAR": [
         "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
@@ -2391,7 +2375,6 @@
         "viridis"
     ],
     "musicatk": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "FactoMineR",
         "car",
@@ -2909,15 +2892,12 @@
     ],
     "R453Plus1Toolbox": [],
     "RareVariantVis": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicScores",
         "HDF5Array",
         "phastCons100way.UCSC.hg19",
         "rhdf5"
     ],
-    "RCAS": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "RCAS": [],
     "rcellminer": [],
     "rCGH": [
         "affy"
@@ -3257,9 +3237,7 @@
         "RUVSeq",
         "rhdf5"
     ],
-    "SCOPE": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "SCOPE": [],
     "scoreInvHap": [],
     "scPipe": [
         "scater",
@@ -3321,7 +3299,6 @@
         "viridis"
     ],
     "selectKSigs": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "HiLDA"
     ],
     "seq2pathway": [
@@ -3760,9 +3737,7 @@
     "TraRe": [
         "vbsr"
     ],
-    "traseR": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "traseR": [],
     "Travel": [],
     "traviz": [
         "viridis"
@@ -3775,7 +3750,6 @@
         "rstatix"
     ],
     "trena": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "Hmisc",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
@@ -3810,7 +3784,6 @@
     ],
     "UMI4Cats": [],
     "uncoverappLib": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "BSgenome.Hsapiens.UCSC.hg38",
         "EnsDb.Hsapiens.v75",
         "EnsDb.Hsapiens.v86",
@@ -3918,7 +3891,6 @@
     "XDE": [],
     "Xeva": [],
     "YAPSA": [
-        "BSgenome.Hsapiens.UCSC.hg19",
         "Hmisc",
         "SomaticSignatures",
         "biovizBase",
@@ -3957,7 +3929,6 @@
     ],
     "ReorderCluster": [],
     "Seurat": [],
-    "BSgenome.Hsapiens.UCSC.hg19": [],
     "Homo.sapiens": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
@@ -4158,9 +4129,7 @@
         "dendextend",
         "viridis"
     ],
-    "deconstructSigs": [
-        "BSgenome.Hsapiens.UCSC.hg19"
-    ],
+    "deconstructSigs": [],
     "mppa": [],
     "RcmdrMisc": [
         "Hmisc",
