@@ -40308,7 +40308,6 @@
         "IRanges",
         "KEGGREST",
         "RSQLite",
-        "RnaSeqSampleSizeData",
         "Rsamtools",
         "SummarizedExperiment",
         "VariantAnnotation",
@@ -58515,7 +58514,6 @@
         "IRanges",
         "XVector"
     ],
-    "RnaSeqSampleSizeData": [],
     "fission": [
         "DelayedArray",
         "GenomeInfoDb",
