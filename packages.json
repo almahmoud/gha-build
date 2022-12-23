@@ -664,9 +664,7 @@
         "viridis",
         "vsn"
     ],
-    "banocc": [
-        "rstan"
-    ],
+    "banocc": [],
     "barcodetrackR": [
         "viridis"
     ],
@@ -697,7 +695,6 @@
         "ggExtra",
         "glmGamPoi",
         "rhdf5",
-        "rstan",
         "scran",
         "scuttle",
         "viridis"
@@ -5531,9 +5528,7 @@
         "AnnotationDbi",
         "annotate"
     ],
-    "IgGeneUsage": [
-        "rstan"
-    ],
+    "IgGeneUsage": [],
     "igvR": [
         "AnnotationDbi",
         "BSgenome",
@@ -6105,7 +6100,6 @@
         "densEstBayes",
         "htmlTable",
         "reldist",
-        "rstan",
         "viridis"
     ],
     "m6Aboost": [
@@ -8891,7 +8885,6 @@
         "benchmarkme",
         "ggdist",
         "posterior",
-        "rstan",
         "tidybayes"
     ],
     "PPInfer": [
@@ -9854,7 +9847,6 @@
         "densEstBayes",
         "geneplotter",
         "reldist",
-        "rstan",
         "rtracklayer"
     ],
     "RiboProfiling": [
@@ -10489,8 +10481,7 @@
         "viridis"
     ],
     "sccomp": [
-        "SingleCellExperiment",
-        "rstan"
+        "SingleCellExperiment"
     ],
     "scDataviz": [
         "Seurat",
@@ -10560,13 +10551,11 @@
         "densEstBayes",
         "htmlTable",
         "reldist",
-        "rstan",
         "viridis"
     ],
     "scMET": [
         "BiocStyle",
         "SingleCellExperiment",
-        "rstan",
         "viridis"
     ],
     "scmeth": [
@@ -11130,7 +11119,6 @@
         "plotly",
         "reldist",
         "rhdf5",
-        "rstan",
         "rtracklayer",
         "scDblFinder",
         "scMerge",
@@ -13104,7 +13092,6 @@
         "viridis"
     ],
     "threejs": [],
-    "rstan": [],
     "BSgenome.Ecoli.NCBI.20080805": [
         "BSgenome",
         "GenomicAlignments",
@@ -13659,12 +13646,9 @@
     ],
     "learnr": [],
     "reldist": [
-        "densEstBayes",
-        "rstan"
+        "densEstBayes"
     ],
-    "densEstBayes": [
-        "rstan"
-    ],
+    "densEstBayes": [],
     "adabag": [
         "caret",
         "recipes"
