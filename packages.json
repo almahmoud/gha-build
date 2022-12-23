@@ -34382,8 +34382,7 @@
         "tibble",
         "tidyr",
         "tidyselect",
-        "vroom",
-        "webutils"
+        "vroom"
     ],
     "PharmacoGx": [
         "BiocParallel",
@@ -57847,10 +57846,8 @@
         "httpuv",
         "knitr",
         "openssl",
-        "stringr",
-        "webutils"
+        "stringr"
     ],
-    "webutils": [],
     "magicaxis": [],
     "PMCMRplus": [
         "BWStest"
