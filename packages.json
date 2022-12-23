@@ -996,7 +996,6 @@
         "tidyr",
         "topGO"
     ],
-    "bgx": [],
     "BicARE": [
         "AnnotationDbi",
         "GSEABase",
