@@ -2876,7 +2876,6 @@
     "motifbreakR": [
         "Gviz",
         "Hmisc",
-        "MotifDb",
         "TFBSTools",
         "VariantAnnotation",
         "biovizBase",
@@ -2884,7 +2883,6 @@
         "motifStack",
         "viridis"
     ],
-    "MotifDb": [],
     "motifmatchr": [
         "TFBSTools"
     ],
@@ -4025,9 +4023,7 @@
         "Hmisc",
         "viridis"
     ],
-    "rTRMui": [
-        "MotifDb"
-    ],
+    "rTRMui": [],
     "RUVnormalize": [],
     "RUVSeq": [
         "EDASeq"
@@ -4777,7 +4773,6 @@
         "BSgenome.Hsapiens.UCSC.hg38",
         "BSgenome.Mmusculus.UCSC.mm10",
         "Hmisc",
-        "MotifDb",
         "SNPlocs.Hsapiens.dbSNP150.GRCh38",
         "WGCNA",
         "viridis"
