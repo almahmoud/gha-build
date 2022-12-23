@@ -8025,7 +8025,6 @@
         "tibble",
         "viridis"
     ],
-    "consensus": [],
     "consensusDE": [
         "AnnotationDbi",
         "AnnotationFilter",
