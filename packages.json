@@ -1567,7 +1567,6 @@
         "topGO",
         "viridis"
     ],
-    "CompoundDb": [],
     "ComPrAn": [
         "rio"
     ],
@@ -4442,7 +4441,6 @@
     ],
     "metabCombiner": [],
     "MetaboAnnotation": [
-        "CompoundDb",
         "QFeatures"
     ],
     "metabolomicsWorkbenchR": [],
