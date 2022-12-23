@@ -18986,7 +18986,6 @@
         "shadowtext",
         "sna",
         "snow",
-        "splus2R",
         "statnet.common",
         "stringi",
         "stringr",
@@ -78317,7 +78316,6 @@
         "snow",
         "sourcetools",
         "sparseMatrixStats",
-        "splus2R",
         "stringdist",
         "stringi",
         "stringr",
@@ -160888,7 +160886,6 @@
         "quantreg",
         "rlang",
         "scales",
-        "splus2R",
         "stringi",
         "stringr",
         "survival",
@@ -160944,7 +160941,6 @@
         "boot"
     ],
     "lmodel2": [],
-    "splus2R": [],
     "broom.mixed": [
         "R6",
         "broom",
