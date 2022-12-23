@@ -11831,7 +11831,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "QuaternaryProd": [],
     "QUBIC": [
         "biclust",
         "tidyr"
