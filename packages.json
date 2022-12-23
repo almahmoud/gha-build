@@ -5483,7 +5483,6 @@
         "testthat",
         "viridis"
     ],
-    "GEOfastq": [],
     "GEOmetadb": [
         "GEOquery"
     ],
