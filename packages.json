@@ -590,7 +590,6 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "TxDb.Celegans.UCSC.ce6.ensGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene"
@@ -4310,7 +4309,6 @@
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
     "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
-    "TxDb.Celegans.UCSC.ce6.ensGene": [],
     "propr": [],
     "benchmarkme": [],
     "factoextra": [
