@@ -312,7 +312,6 @@
         "rtracklayer"
     ],
     "AlpsNMR": [
-        "cellranger",
         "dplyr",
         "ggplot2",
         "ggrepel",
@@ -379,7 +378,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "TreeSummarizedExperiment",
-        "cellranger",
         "decontam",
         "dplyr",
         "ggbeeswarm",
@@ -870,7 +868,6 @@
         "babelgene",
         "biomaRt",
         "broom",
-        "cellranger",
         "chromVAR",
         "cowplot",
         "dbplyr",
@@ -1032,7 +1029,6 @@
         "MultiAssayExperiment",
         "SummarizedExperiment",
         "assertive",
-        "cellranger",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -1330,7 +1326,6 @@
         "TreeSummarizedExperiment",
         "annotate",
         "biomformat",
-        "cellranger",
         "corncob",
         "cowplot",
         "dearseq",
@@ -1506,7 +1501,6 @@
         "aplot",
         "broom",
         "car",
-        "cellranger",
         "clusterProfiler",
         "cowplot",
         "dplyr",
@@ -4093,7 +4087,6 @@
     ],
     "ComPrAn": [
         "DT",
-        "cellranger",
         "dplyr",
         "forcats",
         "ggplot2",
@@ -4574,7 +4567,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "biomaRt",
-        "cellranger",
         "dbplyr",
         "dplyr",
         "ensembldb",
@@ -4691,7 +4683,6 @@
         "SummarizedExperiment",
         "affy",
         "annotate",
-        "cellranger",
         "dplyr",
         "genefilter",
         "htmlwidgets",
@@ -4753,7 +4744,6 @@
         "DT",
         "KEGGREST",
         "broom",
-        "cellranger",
         "cowplot",
         "dbplyr",
         "dplyr",
@@ -5132,7 +5122,6 @@
         "KEGGREST",
         "Linnorm",
         "broom",
-        "cellranger",
         "dbplyr",
         "dplyr",
         "dtplyr",
@@ -5288,7 +5277,6 @@
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
         "VariantAnnotation",
         "biomaRt",
-        "cellranger",
         "dbplyr",
         "dplyr",
         "ggplot2",
@@ -6030,7 +6018,6 @@
         "affy",
         "broom",
         "car",
-        "cellranger",
         "dplyr",
         "drc",
         "ggplot2",
@@ -8602,7 +8589,6 @@
         "GGally",
         "GeomxTools",
         "NanoStringNCTools",
-        "cellranger",
         "dplyr",
         "forcats",
         "ggbeeswarm",
@@ -8627,7 +8613,6 @@
         "GEOquery",
         "broom",
         "car",
-        "cellranger",
         "cowplot",
         "dendextend",
         "dplyr",
@@ -8672,7 +8657,6 @@
         "EnvStats",
         "GGally",
         "NanoStringNCTools",
-        "cellranger",
         "dplyr",
         "forcats",
         "ggbeeswarm",
@@ -9152,7 +9136,6 @@
     ],
     "gpuMagic": [
         "DescTools",
-        "cellranger",
         "readxl"
     ],
     "GRaNIE": [
@@ -9341,7 +9324,6 @@
         "Rsamtools",
         "SummarizedExperiment",
         "biomaRt",
-        "cellranger",
         "dbplyr",
         "dplyr",
         "ensembldb",
@@ -9714,7 +9696,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "cellranger",
         "dplyr",
         "ggplot2",
         "hiAnnotator",
@@ -9991,7 +9972,6 @@
         "DescTools",
         "SingleCellExperiment",
         "SummarizedExperiment",
-        "cellranger",
         "cowplot",
         "dendextend",
         "dplyr",
@@ -10256,7 +10236,6 @@
         "biomaRt",
         "broom",
         "car",
-        "cellranger",
         "colourpicker",
         "cowplot",
         "dbplyr",
@@ -10446,7 +10425,6 @@
         "waldo"
     ],
     "ISAnalytics": [
-        "cellranger",
         "datamods",
         "dplyr",
         "forcats",
@@ -10553,7 +10531,6 @@
         "ggplot2"
     ],
     "IsoCorrectoR": [
-        "cellranger",
         "dplyr",
         "readr",
         "readxl",
@@ -10561,7 +10538,6 @@
     ],
     "IsoCorrectoRGUI": [
         "IsoCorrectoR",
-        "cellranger",
         "dplyr",
         "readr",
         "readxl",
@@ -10873,7 +10849,6 @@
         "SummarizedExperiment",
         "broom",
         "car",
-        "cellranger",
         "cowplot",
         "dplyr",
         "forcats",
@@ -11178,7 +11153,6 @@
         "annotate"
     ],
     "MACSQuantifyR": [
-        "cellranger",
         "ggplot2",
         "ggrepel",
         "prettydoc",
@@ -11306,7 +11280,6 @@
         "SummarizedExperiment",
         "broom",
         "caret",
-        "cellranger",
         "dbplyr",
         "dplyr",
         "dtplyr",
@@ -12220,7 +12193,6 @@
         "broom",
         "bumphunter",
         "car",
-        "cellranger",
         "cowplot",
         "dbplyr",
         "devtools",
@@ -12599,7 +12571,6 @@
         "aplot",
         "biomformat",
         "caret",
-        "cellranger",
         "coin",
         "decontam",
         "dplyr",
@@ -12932,7 +12903,6 @@
         "broom",
         "car",
         "caret",
-        "cellranger",
         "clusterProfiler",
         "cowplot",
         "cvms",
@@ -13017,7 +12987,6 @@
         "broom",
         "car",
         "caret",
-        "cellranger",
         "clusterProfiler",
         "cowplot",
         "cvms",
@@ -13692,7 +13661,6 @@
         "MSstatsTMT",
         "broom",
         "car",
-        "cellranger",
         "cowplot",
         "dbplyr",
         "dendextend",
@@ -14073,7 +14041,6 @@
         "biomaRt",
         "broom",
         "car",
-        "cellranger",
         "cowplot",
         "dbplyr",
         "decompTumor2Sig",
@@ -14276,7 +14243,6 @@
         "AnnotationDbi",
         "KEGGREST",
         "broom",
-        "cellranger",
         "dbplyr",
         "dplyr",
         "dtplyr",
@@ -14646,7 +14612,6 @@
         "affy",
         "broom",
         "car",
-        "cellranger",
         "dplyr",
         "forcats",
         "ggforce",
@@ -15033,7 +14998,6 @@
         "vroom"
     ],
     "OmnipathR": [
-        "cellranger",
         "dplyr",
         "readr",
         "readxl",
@@ -16059,7 +16023,6 @@
         "Hmisc",
         "broom",
         "car",
-        "cellranger",
         "colourpicker",
         "cowplot",
         "dplyr",
@@ -19318,7 +19281,6 @@
         "GenomicAlignments",
         "Rsamtools",
         "SummarizedExperiment",
-        "cellranger",
         "readxl",
         "rtracklayer"
     ],
@@ -20635,7 +20597,6 @@
         "GGally",
         "GeomxTools",
         "NanoStringNCTools",
-        "cellranger",
         "dplyr",
         "forcats",
         "ggbeeswarm",
@@ -20923,7 +20884,6 @@
         "broom",
         "car",
         "caret",
-        "cellranger",
         "cowplot",
         "cvms",
         "dbplyr",
@@ -21208,7 +21168,6 @@
         "SingleCellExperiment",
         "SummarizedExperiment",
         "broom",
-        "cellranger",
         "concaveman",
         "dbplyr",
         "dplyr",
@@ -21475,7 +21434,6 @@
         "SpatialExtremes",
         "broom",
         "car",
-        "cellranger",
         "dbplyr",
         "dplyr",
         "drc",
@@ -21989,7 +21947,6 @@
         "KEGGREST",
         "Rsamtools",
         "annotate",
-        "cellranger",
         "dbplyr",
         "dplyr",
         "htmlwidgets",
@@ -22068,7 +22025,6 @@
         "SummarizedExperiment",
         "aplot",
         "biomaRt",
-        "cellranger",
         "clusterProfiler",
         "cowplot",
         "dbplyr",
@@ -23294,7 +23250,6 @@
     ],
     "wppi": [
         "OmnipathR",
-        "cellranger",
         "dplyr",
         "readr",
         "readxl",
@@ -23648,14 +23603,11 @@
         "ggplot2"
     ],
     "shinydashboard": [],
-    "readxl": [
-        "cellranger"
-    ],
+    "readxl": [],
     "speaq": [
         "ggplot2",
         "rvest"
     ],
-    "cellranger": [],
     "curatedTCGAData": [
         "AnnotationDbi",
         "AnnotationHub",
@@ -23685,7 +23637,6 @@
         "ggplot2"
     ],
     "DescTools": [
-        "cellranger",
         "readxl"
     ],
     "lmerTest": [
@@ -23950,7 +23901,6 @@
     ],
     "tidyverse": [
         "broom",
-        "cellranger",
         "dbplyr",
         "dplyr",
         "dtplyr",
@@ -24035,7 +23985,6 @@
     ],
     "googledrive": [],
     "googlesheets4": [
-        "cellranger",
         "googledrive",
         "rematch2"
     ],
@@ -24180,7 +24129,6 @@
         "DT",
         "broom",
         "car",
-        "cellranger",
         "dplyr",
         "ggplot2",
         "htmlwidgets",
@@ -24755,7 +24703,6 @@
         "dplyr"
     ],
     "rio": [
-        "cellranger",
         "forcats",
         "haven",
         "readr",
@@ -25220,7 +25167,6 @@
     ],
     "robust": [],
     "shinyHeatmaply": [
-        "cellranger",
         "dendextend",
         "dplyr",
         "egg",
@@ -25324,7 +25270,6 @@
         "ggplot2"
     ],
     "datamods": [
-        "cellranger",
         "forcats",
         "haven",
         "htmlwidgets",
@@ -25695,7 +25640,6 @@
         "Hmisc",
         "broom",
         "car",
-        "cellranger",
         "dplyr",
         "forcats",
         "ggplot2",
