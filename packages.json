@@ -366,9 +366,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "CexoR": [
-        "genomation"
-    ],
+    "CexoR": [],
     "cfDNAPro": [],
     "CGHcall": [],
     "CGHnormaliter": [
@@ -877,8 +875,7 @@
         "BRGenomics",
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "enrichplot",
-        "genomation"
+        "enrichplot"
     ],
     "epidecodeR": [
         "car",
@@ -991,9 +988,7 @@
         "enrichplot"
     ],
     "fastLiquidAssociation": [],
-    "fCCAC": [
-        "genomation"
-    ],
+    "fCCAC": [],
     "fcoex": [
         "clusterProfiler",
         "enrichplot"
@@ -1118,7 +1113,6 @@
         "ensembldb"
     ],
     "GeneTonic": [],
-    "genomation": [],
     "GenomicFiles": [
         "VariantAnnotation"
     ],
@@ -2228,8 +2222,7 @@
     ],
     "Rbec": [],
     "RCAS": [
-        "BSgenome.Hsapiens.UCSC.hg19",
-        "genomation"
+        "BSgenome.Hsapiens.UCSC.hg19"
     ],
     "rCGH": [
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
