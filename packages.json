@@ -7887,7 +7887,6 @@
         "slingshot",
         "viridis"
     ],
-    "TrajectoryGeometry": [],
     "TrajectoryUtils": [],
     "transcriptogramer": [
         "topGO"
