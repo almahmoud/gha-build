@@ -524,7 +524,6 @@
     ],
     "clusterExperiment": [
         "HDF5Array",
-        "benchmarkme",
         "mbkmeans",
         "rhdf5"
     ],
@@ -878,9 +877,7 @@
         "scater",
         "viridis"
     ],
-    "DMCFB": [
-        "benchmarkme"
-    ],
+    "DMCFB": [],
     "DMRcate": [
         "DSS",
         "Gviz",
@@ -1662,9 +1659,7 @@
         "phyloseq",
         "rhdf5"
     ],
-    "mbkmeans": [
-        "benchmarkme"
-    ],
+    "mbkmeans": [],
     "mbOmic": [
         "Hmisc",
         "WGCNA",
@@ -2185,7 +2180,6 @@
     ],
     "netSmooth": [
         "HDF5Array",
-        "benchmarkme",
         "clusterExperiment",
         "mbkmeans",
         "rhdf5",
@@ -2422,9 +2416,7 @@
         "rstatix",
         "viridis"
     ],
-    "ppcseq": [
-        "benchmarkme"
-    ],
+    "ppcseq": [],
     "prebs": [
         "RPA",
         "affy",
@@ -3594,7 +3586,6 @@
     ],
     "spp": [],
     "propr": [],
-    "benchmarkme": [],
     "factoextra": [
         "FactoMineR",
         "car",
