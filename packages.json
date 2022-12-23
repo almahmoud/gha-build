@@ -2328,7 +2328,6 @@
         "RUVSeq",
         "ShortRead",
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
-        "airway",
         "annotate",
         "biomaRt",
         "dendextend",
@@ -7711,7 +7710,6 @@
     "NetActivity": [
         "AnnotationDbi",
         "DESeq2",
-        "airway",
         "annotate",
         "geneplotter"
     ],
@@ -13025,7 +13023,6 @@
         "rms",
         "viridis"
     ],
-    "airway": [],
     "EnsDb.Hsapiens.v86": [
         "AnnotationDbi",
         "GenomicAlignments",
