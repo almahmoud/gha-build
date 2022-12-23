@@ -1781,7 +1781,6 @@
         "VariantAnnotation"
     ],
     "muscat": [
-        "blme",
         "lmerTest",
         "pbkrtest",
         "variancePartition"
@@ -3062,7 +3061,6 @@
         "OrganismDbi"
     ],
     "BSgenome.Hsapiens.UCSC.hg18": [],
-    "blme": [],
     "deconstructSigs": [
         "BSgenome.Hsapiens.UCSC.hg19"
     ],
