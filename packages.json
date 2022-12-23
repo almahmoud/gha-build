@@ -47246,7 +47246,6 @@
         "annotate",
         "blob",
         "bslib",
-        "copula",
         "cowplot",
         "crosstalk",
         "dplyr",
@@ -66573,7 +66572,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "copula": [],
     "proxyC": [],
     "extRemes": [],
     "torch": [],
