@@ -611,7 +611,6 @@
     "CoGAPS": [
         "rhdf5"
     ],
-    "Cogito": [],
     "comapr": [
         "Gviz",
         "Hmisc",
