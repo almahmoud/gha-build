@@ -1092,7 +1092,6 @@
     "chipenrich": [
         "Hmisc",
         "chipenrich.data",
-        "org.Dm.eg.db",
         "org.Dr.eg.db",
         "org.Hs.eg.db",
         "org.Mm.eg.db",
@@ -8125,7 +8124,6 @@
     "chipenrich.data": [
         "rtracklayer"
     ],
-    "org.Dm.eg.db": [],
     "org.Dr.eg.db": [],
     "org.Rn.eg.db": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [
