@@ -3440,7 +3440,6 @@
         "restfulr",
         "rhdf5",
         "rtracklayer",
-        "sjlabelled",
         "sjmisc",
         "stringr",
         "tibble",
@@ -58026,11 +58025,9 @@
         "dplyr",
         "pillar",
         "purrr",
-        "sjlabelled",
         "tibble",
         "tidyselect"
     ],
-    "sjlabelled": [],
     "LIM": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
         "AnnotationDbi",
