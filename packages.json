@@ -22042,9 +22042,7 @@
         "e1071",
         "minet"
     ],
-    "GeneticsPed": [
-        "genetics"
-    ],
+    "GeneticsPed": [],
     "GeneTonic": [
         "AnnotationDbi",
         "BiocParallel",
@@ -68591,7 +68589,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "genetics": [],
     "backbone": [
         "igraph"
     ],
