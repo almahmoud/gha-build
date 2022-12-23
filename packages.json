@@ -10790,7 +10790,6 @@
         "SingleCellExperiment",
         "plotly"
     ],
-    "scPCA": [],
     "scPipe": [
         "AnnotationDbi",
         "GGally",
