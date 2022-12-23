@@ -10467,7 +10467,6 @@
         "SingleCellExperiment"
     ],
     "SDAMS": [],
-    "sechm": [],
     "segmenter": [
         "AnnotationDbi",
         "ChIPseeker",
@@ -10566,7 +10565,6 @@
         "annotate",
         "genefilter",
         "geneplotter",
-        "sechm",
         "sva"
     ],
     "sevenC": [
