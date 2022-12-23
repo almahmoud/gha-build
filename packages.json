@@ -20828,8 +20828,7 @@
         "yeastExpData"
     ],
     "GSgalgoR": [
-        "matchingR",
-        "nsga2R"
+        "matchingR"
     ],
     "GSReg": [
         "AnnotationDbi",
@@ -57845,7 +57844,6 @@
     ],
     "yeastExpData": [],
     "matchingR": [],
-    "nsga2R": [],
     "GA": [],
     "BatchJobs": [
         "RSQLite",
