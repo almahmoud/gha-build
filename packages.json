@@ -1224,7 +1224,6 @@
     "cn.farms": [
         "oligo"
     ],
-    "cn.mops": [],
     "CNEr": [
         "rtracklayer"
     ],
@@ -1239,7 +1238,6 @@
         "Hmisc",
         "VariantAnnotation",
         "biovizBase",
-        "cn.mops",
         "ensembldb",
         "karyoploteR",
         "regioneR",
@@ -1254,7 +1252,6 @@
         "Hmisc",
         "VariantAnnotation",
         "biovizBase",
-        "cn.mops",
         "ensembldb",
         "karyoploteR",
         "regioneR",
@@ -1446,7 +1443,6 @@
         "Hmisc",
         "VariantAnnotation",
         "biovizBase",
-        "cn.mops",
         "ensembldb",
         "karyoploteR",
         "regioneR",
@@ -4987,9 +4983,7 @@
         "rtracklayer"
     ],
     "PAIRADISE": [],
-    "panelcn.mops": [
-        "cn.mops"
-    ],
+    "panelcn.mops": [],
     "PanomiR": [
         "DOSE",
         "GOSemSim",
