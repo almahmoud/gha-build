@@ -368,10 +368,7 @@
         "scater",
         "viridis"
     ],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "cbpManager": [
         "basilisk"
     ],
@@ -1594,9 +1591,7 @@
         "HDF5Array",
         "rhdf5"
     ],
-    "LowMACA": [
-        "cBioPortalData"
-    ],
+    "LowMACA": [],
     "lumi": [
         "HDF5Array",
         "affy",
