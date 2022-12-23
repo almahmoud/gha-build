@@ -1,0 +1,116 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   abf627e1..991e7e5b  main       -> origin/main
+Updating abf627e1..991e7e5b
+Fast-forward
+ lists/mlr3measures                              |   2 +-
+ lists/ppcor                                     |   2 +-
+ lists/princurve                                 |   2 +-
+ logs/run_ids/rstudio-binaries/pingr             |   2 +
+ logs/sizes/rstudio-binaries/binaries/ppcor      |   1 +
+ logs/sizes/rstudio-binaries/binaries/princurve  |   1 +
+ logs/sizes/rstudio-binaries/libraries/ppcor     |   1 +
+ logs/sizes/rstudio-binaries/libraries/princurve |   1 +
+ logs/times/rstudio-binary/ppcor                 | 148 +++++
+ logs/times/rstudio-binary/princurve             | 827 ++++++++++++++++++++++++
+ packages.json                                   |  30 +-
+ 11 files changed, 987 insertions(+), 30 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ppcor
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/princurve
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ppcor
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/princurve
+ create mode 100644 logs/times/rstudio-binary/ppcor
+ create mode 100644 logs/times/rstudio-binary/princurve
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=rebus.datetimes
++ PKG=rebus.datetimes
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "rebus.datetimes"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 84055  100 84055    0     0   200k      0 --:--:-- --:--:-- --:--:--  200k
+built/
+built/rebus.base/
+built/rebus.base/NEWS
+built/rebus.base/NAMESPACE
+built/rebus.base/DESCRIPTION
+built/rebus.base/help/
+built/rebus.base/help/paths.rds
+built/rebus.base/help/rebus.base.rdb
+built/rebus.base/help/aliases.rds
+built/rebus.base/help/rebus.base.rdx
+built/rebus.base/help/AnIndex
+built/rebus.base/Meta/
+built/rebus.base/Meta/package.rds
+built/rebus.base/Meta/features.rds
+built/rebus.base/Meta/hsearch.rds
+built/rebus.base/Meta/links.rds
+built/rebus.base/Meta/nsInfo.rds
+built/rebus.base/Meta/Rd.rds
+built/rebus.base/html/
+built/rebus.base/html/00Index.html
+built/rebus.base/html/R.css
+built/rebus.base/INDEX
+built/rebus.base/R/
+built/rebus.base/R/rebus.base
+built/rebus.base/R/rebus.base.rdb
+built/rebus.base/R/rebus.base.rdx
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''rebus.datetimes'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv rebus.base_0.0-3_R_x86_64-pc-linux-gnu.tar.gz rebus.datetimes_0.0-2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/rebus.datetimes
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'rebus.datetimes'
+also installing the dependency ‘rebus.base’
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/rebus.base_0.0-3.tar.gz'
+Content type 'binary/octet-stream' length 84585 bytes (82 KB)
+==================================================
+downloaded 82 KB
+
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/rebus.datetimes_0.0-2.tar.gz'
+Content type 'binary/octet-stream' length 36729 bytes (35 KB)
+==================================================
+downloaded 35 KB
+
+* installing *binary* package ‘rebus.base’ ...
+* ‘rebus.base’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rebus.base’ as ‘rebus.base_0.0-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rebus.base)
+* installing *binary* package ‘rebus.datetimes’ ...
+* ‘rebus.datetimes’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rebus.datetimes’ as ‘rebus.datetimes_0.0-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rebus.datetimes)
+
+The downloaded source packages are in
+	‘/tmp/RtmpKwQ2Go/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m7.563s
+user	0m4.899s
+sys	0m0.532s

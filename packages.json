@@ -29785,7 +29785,6 @@
         "pillar",
         "qvalue",
         "rebus",
-        "rebus.datetimes",
         "rebus.numbers",
         "reshape2",
         "restfulr",
@@ -63204,10 +63203,8 @@
         "xts"
     ],
     "rebus": [
-        "rebus.datetimes",
         "rebus.numbers"
     ],
-    "rebus.datetimes": [],
     "rebus.numbers": [],
     "ggmcmc": [
         "GGally",
