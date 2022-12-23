@@ -41535,7 +41535,6 @@
         "httpuv",
         "jquerylib",
         "pillar",
-        "rcellminerData",
         "sass",
         "shiny",
         "stringr",
@@ -64306,7 +64305,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "rcellminerData": [],
     "arrow": [
         "purrr",
         "tidyselect",
