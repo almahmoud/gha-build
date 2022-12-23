@@ -8223,7 +8223,6 @@
     "TPP": [
         "biobroom"
     ],
-    "tracktables": [],
     "trackViewer": [
         "BSgenome",
         "GenomicFeatures",
