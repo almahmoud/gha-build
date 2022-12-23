@@ -1582,9 +1582,7 @@
         "ensembldb",
         "viridis"
     ],
-    "factR": [
-        "wiggleplotr"
-    ],
+    "factR": [],
     "FamAgg": [
         "gap"
     ],
@@ -4881,7 +4879,6 @@
         "gcrma",
         "vsn"
     ],
-    "wiggleplotr": [],
     "xcms": [
         "MSnbase",
         "affy",
