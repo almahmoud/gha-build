@@ -1872,7 +1872,6 @@
         "biovizBase",
         "ensembldb"
     ],
-    "pwOmics": [],
     "pwrEWAS": [
         "pwrEWAS.data"
     ],
