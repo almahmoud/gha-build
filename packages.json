@@ -321,7 +321,6 @@
         "TCGAutils"
     ],
     "celda": [],
-    "cellHTS2": [],
     "CelliD": [],
     "cellmigRation": [
         "FactoMineR",
@@ -1112,9 +1111,7 @@
     "GeomxTools": [
         "lmerTest"
     ],
-    "gespeR": [
-        "cellHTS2"
-    ],
+    "gespeR": [],
     "GEWIST": [
         "car",
         "pbkrtest"
@@ -1255,9 +1252,7 @@
     "igvR": [
         "VariantAnnotation"
     ],
-    "imageHTS": [
-        "cellHTS2"
-    ],
+    "imageHTS": [],
     "IMAS": [
         "IVAS"
     ],
@@ -2239,9 +2234,7 @@
     "rnaEditr": [
         "bumphunter"
     ],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "Gviz",
         "VariantAnnotation",
@@ -2569,9 +2562,7 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "StarBioTrek": [],
     "stJoincount": [],
     "strandCheckR": [
