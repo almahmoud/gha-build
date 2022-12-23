@@ -336,7 +336,6 @@
     ],
     "bioCancer": [
         "DOSE",
-        "DiagrammeR",
         "ReactomePA",
         "car",
         "clusterProfiler",
@@ -1229,7 +1228,6 @@
     ],
     "DeepBlueR": [],
     "DeepPINCS": [
-        "DiagrammeR",
         "mlapi",
         "text2vec",
         "textstem",
@@ -1995,7 +1993,6 @@
     ],
     "GenProSeq": [
         "DeepPINCS",
-        "DiagrammeR",
         "mlapi",
         "text2vec",
         "textstem",
@@ -2100,9 +2097,7 @@
     "gmoviz": [
         "GenomicFeatures"
     ],
-    "GNET2": [
-        "DiagrammeR"
-    ],
+    "GNET2": [],
     "GOpro": [],
     "goProfiles": [],
     "goseq": [
@@ -3900,11 +3895,8 @@
         "GSEABase"
     ],
     "Rcpi": [],
-    "Rcwl": [
-        "DiagrammeR"
-    ],
+    "Rcwl": [],
     "RcwlPipelines": [
-        "DiagrammeR",
         "Rcwl"
     ],
     "ReactomePA": [
@@ -5066,7 +5058,6 @@
         "kmlShape"
     ],
     "ttgsea": [
-        "DiagrammeR",
         "mlapi",
         "text2vec",
         "textstem"
@@ -5127,7 +5118,6 @@
     "uSORT": [],
     "VAExprs": [
         "DeepPINCS",
-        "DiagrammeR",
         "mlapi",
         "scater",
         "text2vec",
@@ -5185,7 +5175,6 @@
     ],
     "viper": [],
     "ViSEAGO": [
-        "DiagrammeR",
         "heatmaply"
     ],
     "vissE": [
@@ -5398,7 +5387,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "DiagrammeR": [],
     "rms": [],
     "synaptome.db": [
         "AnnotationHub",
