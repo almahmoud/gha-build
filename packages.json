@@ -6276,7 +6276,6 @@
         "SummarizedExperiment",
         "XVector",
         "affy",
-        "biganalytics",
         "blob",
         "dplyr",
         "frma",
@@ -23693,7 +23692,6 @@
     ],
     "mina": [
         "Hmisc",
-        "biganalytics",
         "bslib",
         "ggplot2",
         "htmlTable",
@@ -46533,7 +46531,6 @@
         "tidyselect"
     ],
     "ChIPXpressData": [],
-    "biganalytics": [],
     "shinyhelper": [
         "bslib",
         "shiny"
