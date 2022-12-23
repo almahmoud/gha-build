@@ -1278,7 +1278,6 @@
     ],
     "condiments": [
         "Ecume",
-        "TrajectoryUtils",
         "caret",
         "distinct",
         "scater",
@@ -2347,8 +2346,7 @@
         "rtracklayer"
     ],
     "FEAST": [
-        "TSCAN",
-        "TrajectoryUtils"
+        "TSCAN"
     ],
     "ffpe": [
         "FDb.InfiniumMethylation.hg19",
@@ -6143,7 +6141,6 @@
         "SoupX",
         "TENxPBMCData",
         "TSCAN",
-        "TrajectoryUtils",
         "batchelor",
         "celda",
         "celldex",
@@ -6208,9 +6205,7 @@
     "slalom": [
         "GSEABase"
     ],
-    "slingshot": [
-        "TrajectoryUtils"
-    ],
+    "slingshot": [],
     "SMITE": [
         "GenomicFeatures",
         "Hmisc",
@@ -6735,10 +6730,8 @@
         "rtracklayer"
     ],
     "tradeSeq": [
-        "TrajectoryUtils",
         "slingshot"
     ],
-    "TrajectoryUtils": [],
     "transcriptogramer": [
         "topGO"
     ],
@@ -6765,7 +6758,6 @@
     ],
     "Travel": [],
     "traviz": [
-        "TrajectoryUtils",
         "slingshot"
     ],
     "treeio": [],
@@ -6812,9 +6804,7 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "TSCAN": [
-        "TrajectoryUtils"
-    ],
+    "TSCAN": [],
     "tscR": [
         "kmlShape"
     ],
