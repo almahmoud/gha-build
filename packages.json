@@ -14931,7 +14931,6 @@
         "pbkrtest",
         "plotly",
         "reprex",
-        "stars",
         "testthat",
         "tidyr",
         "tidyverse",
@@ -18100,14 +18099,11 @@
     "rsample": [
         "tidyr"
     ],
-    "gstat": [
-        "stars"
-    ],
+    "gstat": [],
     "SpatialExtremes": [
         "fields",
         "viridis"
     ],
-    "stars": [],
     "spsComps": [
         "shinytoastr"
     ],
