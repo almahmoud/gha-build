@@ -17992,7 +17992,6 @@
         "DelayedArray",
         "GEOmap",
         "GGally",
-        "IDPmisc",
         "IRanges",
         "MBA",
         "Matrix",
@@ -18489,7 +18488,6 @@
     "CytoML": [
         "Biobase",
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixGenerics",
@@ -19164,7 +19162,6 @@
         "Biobase",
         "DelayedArray",
         "GEOmap",
-        "IDPmisc",
         "IRanges",
         "MBA",
         "Matrix",
@@ -27740,7 +27737,6 @@
     ],
     "flowBin": [
         "Biobase",
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -27861,7 +27857,6 @@
         "Biobase",
         "DelayedArray",
         "GEOmap",
-        "IDPmisc",
         "IRanges",
         "MBA",
         "Matrix",
@@ -27936,7 +27931,6 @@
         "Biobase",
         "DelayedArray",
         "GEOmap",
-        "IDPmisc",
         "IRanges",
         "MBA",
         "Matrix",
@@ -27999,7 +27993,6 @@
     ],
     "flowFP": [
         "Biobase",
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -28235,7 +28228,6 @@
     "flowStats": [
         "Biobase",
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixGenerics",
@@ -28291,7 +28283,6 @@
     ],
     "flowTrans": [
         "Biobase",
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -28306,7 +28297,6 @@
     ],
     "flowViz": [
         "Biobase",
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -28319,7 +28309,6 @@
     "flowVS": [
         "Biobase",
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixGenerics",
@@ -29218,7 +29207,6 @@
     ],
     "GateFinder": [
         "Biobase",
-        "IDPmisc",
         "Matrix",
         "RcppEigen",
         "S4Vectors",
@@ -54765,7 +54753,6 @@
     "openCyto": [
         "Biobase",
         "DelayedArray",
-        "IDPmisc",
         "IRanges",
         "Matrix",
         "MatrixGenerics",
@@ -93077,7 +93064,6 @@
         "linprog",
         "magic"
     ],
-    "IDPmisc": [],
     "linprog": [],
     "GEOmap": [
         "MBA",
