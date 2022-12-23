@@ -11315,7 +11315,6 @@
         "tidyr",
         "visNetwork"
     ],
-    "PhenoGeneRanker": [],
     "phenomis": [
         "BiocFileCache",
         "MultiAssayExperiment",
