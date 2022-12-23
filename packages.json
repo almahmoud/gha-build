@@ -774,7 +774,6 @@
     ],
     "meshes": [],
     "MetaboSignal": [
-        "EnsDb.Hsapiens.v75",
         "MWASTools"
     ],
     "MetaCyto": [
@@ -1450,7 +1449,6 @@
     "Ularcirc": [],
     "UMI4Cats": [],
     "uncoverappLib": [
-        "EnsDb.Hsapiens.v75",
         "Gviz",
         "Homo.sapiens",
         "biovizBase"
@@ -1559,7 +1557,6 @@
         "ggpubr",
         "rstatix"
     ],
-    "EnsDb.Hsapiens.v75": [],
     "FlowSorted.Blood.450k": [
         "minfi"
     ],
