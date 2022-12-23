@@ -30680,7 +30680,6 @@
         "jquerylib",
         "knitr",
         "learnr",
-        "logr",
         "lubridate",
         "memoise",
         "openssl",
@@ -74044,7 +74043,6 @@
         "sass",
         "shiny"
     ],
-    "logr": [],
     "learnr": [
         "bslib",
         "fontawesome",
