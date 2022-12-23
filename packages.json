@@ -506,7 +506,6 @@
         "ggraph",
         "ggtree",
         "lme4",
-        "org.Bt.eg.db",
         "pbkrtest",
         "radiant.data",
         "reactome.db",
@@ -7658,7 +7657,6 @@
         "lme4",
         "pbkrtest"
     ],
-    "org.Bt.eg.db": [],
     "DiagrammeR": [
         "viridis"
     ],
