@@ -4347,7 +4347,6 @@
         "lubridate",
         "memoise",
         "mgcv",
-        "minet",
         "nloptr",
         "openssl",
         "org.Bt.eg.db",
@@ -5233,7 +5232,6 @@
         "latticeExtra",
         "memoise",
         "mgcv",
-        "minet",
         "network",
         "networkD3",
         "openssl",
@@ -5869,7 +5867,6 @@
         "lmtest",
         "memoise",
         "mgcv",
-        "minet",
         "mnem",
         "openssl",
         "pcalg",
@@ -6509,9 +6506,7 @@
         "IRanges",
         "S4Vectors"
     ],
-    "BUS": [
-        "minet"
-    ],
+    "BUS": [],
     "BUScorrect": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -6789,7 +6784,6 @@
         "latticeExtra",
         "memoise",
         "mgcv",
-        "minet",
         "network",
         "networkD3",
         "openssl",
@@ -6940,7 +6934,6 @@
         "latticeExtra",
         "memoise",
         "mgcv",
-        "minet",
         "openssl",
         "org.Hs.eg.db",
         "phenoTest",
@@ -10865,7 +10858,6 @@
         "knitr",
         "memoise",
         "mgcv",
-        "minet",
         "multtest",
         "pillar",
         "progress",
@@ -14309,7 +14301,6 @@
         "memoise",
         "metap",
         "mgcv",
-        "minet",
         "mnem",
         "modelr",
         "multcomp",
@@ -18772,7 +18763,6 @@
         "latticeExtra",
         "lmtest",
         "mgcv",
-        "minet",
         "mnem",
         "pcalg",
         "pillar",
@@ -22579,8 +22569,7 @@
     ],
     "geNetClassifier": [
         "EBarrays",
-        "e1071",
-        "minet"
+        "e1071"
     ],
     "GeneticsPed": [
         "genetics"
@@ -34777,7 +34766,6 @@
         "viridis",
         "vroom"
     ],
-    "minet": [],
     "minfi": [
         "AnnotationDbi",
         "BiocFileCache",
@@ -39053,7 +39041,6 @@
         "latticeExtra",
         "lmtest",
         "mgcv",
-        "minet",
         "mnem",
         "pcalg",
         "pillar",
@@ -39294,7 +39281,6 @@
         "knitr",
         "memoise",
         "mgcv",
-        "minet",
         "openssl",
         "pillar",
         "plotly",
@@ -39341,7 +39327,6 @@
         "knitr",
         "memoise",
         "mgcv",
-        "minet",
         "pillar",
         "qvalue",
         "reshape2",
@@ -50661,7 +50646,6 @@
         "lme4",
         "memoise",
         "mgcv",
-        "minet",
         "mixtools",
         "nloptr",
         "openssl",
@@ -50717,7 +50701,6 @@
         "lme4",
         "memoise",
         "mgcv",
-        "minet",
         "mixtools",
         "nloptr",
         "openssl",
@@ -50775,7 +50758,6 @@
         "lme4",
         "memoise",
         "mgcv",
-        "minet",
         "mixtools",
         "nloptr",
         "openssl",
