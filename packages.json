@@ -17787,7 +17787,6 @@
         "haven",
         "htmlwidgets",
         "knitr",
-        "phosphoricons",
         "progress",
         "purrr",
         "reactable",
@@ -43688,7 +43687,6 @@
         "haven",
         "htmlwidgets",
         "knitr",
-        "phosphoricons",
         "progress",
         "reactable",
         "readr",
@@ -43703,7 +43701,6 @@
         "tibble",
         "vroom"
     ],
-    "phosphoricons": [],
     "pd.mapping50k.xba240": [
         "Biostrings",
         "DelayedArray",
