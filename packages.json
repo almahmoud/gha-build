@@ -1729,7 +1729,6 @@
         "rstatix",
         "survminer"
     ],
-    "gemini": [],
     "genbankr": [
         "BSgenome",
         "GenomicFeatures",
