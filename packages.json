@@ -25784,7 +25784,6 @@
     ],
     "SIAMCAT": [
         "Biostrings",
-        "bbotk",
         "biomformat",
         "ggplot2",
         "lme4",
@@ -34089,10 +34088,8 @@
         "mlr3"
     ],
     "mlr3tuning": [
-        "bbotk",
         "mlr3"
     ],
-    "bbotk": [],
     "survivalAnalysis": [
         "broom",
         "car",
