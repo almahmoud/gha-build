@@ -21733,7 +21733,6 @@
         "treeio",
         "viridis"
     ],
-    "REBET": [],
     "rebook": [
         "BiocStyle",
         "bookdown",
