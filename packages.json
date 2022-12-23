@@ -207,8 +207,7 @@
         "rtracklayer"
     ],
     "AlpsNMR": [
-        "mixOmics",
-        "speaq"
+        "mixOmics"
     ],
     "altcdfenvs": [
         "affy",
@@ -13582,7 +13581,6 @@
     "htmlTable": [],
     "viridis": [],
     "ggrastr": [],
-    "speaq": [],
     "curatedTCGAData": [
         "AnnotationDbi",
         "AnnotationHub",
