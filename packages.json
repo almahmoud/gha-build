@@ -1868,7 +1868,6 @@
         "ewceData",
         "ggpubr",
         "ggtree",
-        "gprofiler2",
         "lme4",
         "nloptr",
         "orthogene",
@@ -1920,7 +1919,6 @@
         "clusterProfiler",
         "enrichplot",
         "ggtree",
-        "gprofiler2",
         "reactome.db",
         "treeio"
     ],
@@ -2450,8 +2448,7 @@
         "logistf"
     ],
     "GWENA": [
-        "WGCNA",
-        "gprofiler2"
+        "WGCNA"
     ],
     "HelloRanges": [
         "BSgenome",
@@ -3725,8 +3722,7 @@
         "treeio"
     ],
     "netOmics": [
-        "RandomWalkRestartMH",
-        "gprofiler2"
+        "RandomWalkRestartMH"
     ],
     "netresponse": [],
     "NetSAM": [
@@ -3922,7 +3918,6 @@
         "car",
         "ggpubr",
         "ggtree",
-        "gprofiler2",
         "lme4",
         "nloptr",
         "pbkrtest",
@@ -4392,8 +4387,7 @@
         "BSgenome",
         "BSgenome.Hsapiens.UCSC.hg19",
         "GenomicFeatures",
-        "genomation",
-        "gprofiler2"
+        "genomation"
     ],
     "rCGH": [
         "GenomicFeatures",
@@ -6249,7 +6243,6 @@
         "AnnotationHub",
         "ExperimentHub"
     ],
-    "gprofiler2": [],
     "SPARQL": [],
     "NHPoisson": [
         "car",
