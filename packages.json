@@ -15058,10 +15058,8 @@
         "ggdendro",
         "htmlwidgets",
         "plotly",
-        "sangerseqR",
         "tidyr"
     ],
-    "sangerseqR": [],
     "sarks": [],
     "satuRn": [
         "SummarizedExperiment"
@@ -15366,8 +15364,7 @@
         "ggforce"
     ],
     "scifer": [
-        "kableExtra",
-        "sangerseqR"
+        "kableExtra"
     ],
     "scMAGeCK": [
         "Seurat",
