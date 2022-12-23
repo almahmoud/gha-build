@@ -10236,7 +10236,6 @@
         "cowplot",
         "ggplot2"
     ],
-    "GraphAT": [],
     "graphite": [
         "AnnotationDbi",
         "Biostrings",
