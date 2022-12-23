@@ -4132,7 +4132,6 @@
         "ggraph",
         "viridis"
     ],
-    "segmentSeq": [],
     "selectKSigs": [
         "BSgenome.Hsapiens.UCSC.hg19",
         "HiLDA",
