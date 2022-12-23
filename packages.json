@@ -32605,7 +32605,6 @@
         "httr",
         "pillar",
         "purrr",
-        "rdist",
         "rhdf5",
         "scuttle",
         "tibble",
@@ -58907,10 +58906,7 @@
         "vroom"
     ],
     "sparseMVN": [],
-    "BRISC": [
-        "rdist"
-    ],
-    "rdist": [],
+    "BRISC": [],
     "RcmdrMisc": [
         "Hmisc",
         "broom",
