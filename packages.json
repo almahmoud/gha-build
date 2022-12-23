@@ -48,7 +48,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "shinyjs",
         "testthat"
     ],
     "adductomicsR": [
@@ -247,8 +246,7 @@
         "geneplotter",
         "ggrepel",
         "plotly",
-        "recipes",
-        "shinyjs"
+        "recipes"
     ],
     "annaffy": [
         "AnnotationDbi",
@@ -374,8 +372,7 @@
         "biomaRt",
         "interactiveDisplayBase",
         "org.Hs.eg.db",
-        "rtracklayer",
-        "shinyjs"
+        "rtracklayer"
     ],
     "ArrayExpress": [
         "oligo",
@@ -688,7 +685,6 @@
         "ggExtra",
         "scran",
         "scuttle",
-        "shinyjs",
         "viridis"
     ],
     "BASiCStan": [
@@ -700,7 +696,6 @@
         "rstan",
         "scran",
         "scuttle",
-        "shinyjs",
         "viridis"
     ],
     "BasicSTARRseq": [
@@ -1997,7 +1992,6 @@
         "shinyFiles",
         "shinyWidgets",
         "shinydashboardPlus",
-        "shinyjs",
         "viridis",
         "waiter"
     ],
@@ -2243,7 +2237,6 @@
     "CNVPanelizer": [
         "exomeCopy",
         "shinyFiles",
-        "shinyjs",
         "testthat"
     ],
     "CNVRanger": [
@@ -2394,8 +2387,7 @@
     "ComPrAn": [
         "DT",
         "haven",
-        "rio",
-        "shinyjs"
+        "rio"
     ],
     "conclus": [
         "AnnotationDbi",
@@ -2565,7 +2557,6 @@
         "MultiAssayExperiment",
         "fgsea",
         "piano",
-        "shinyjs",
         "visNetwork"
     ],
     "corral": [
@@ -2688,8 +2679,7 @@
         "keras",
         "regioneR",
         "rio",
-        "rtracklayer",
-        "shinyjs"
+        "rtracklayer"
     ],
     "CrispRVariants": [
         "AnnotationDbi",
@@ -2757,7 +2747,6 @@
         "oligoClasses",
         "shinyBS",
         "shinyWidgets",
-        "shinyjs",
         "shinypanel",
         "sva"
     ],
@@ -2874,7 +2863,6 @@
         "recipes",
         "rstatix",
         "shinyFeedback",
-        "shinyjs",
         "testthat",
         "viridis"
     ],
@@ -3065,7 +3053,6 @@
         "plotly",
         "scatterpie",
         "shinyBS",
-        "shinyjs",
         "sva",
         "tidygraph",
         "tidytree",
@@ -3397,7 +3384,6 @@
         "kableExtra",
         "plotly",
         "shinyBS",
-        "shinyjs",
         "viridis"
     ],
     "distinct": [
@@ -4267,8 +4253,7 @@
         "treeio"
     ],
     "ExploreModelMatrix": [
-        "DT",
-        "shinyjs"
+        "DT"
     ],
     "ExpressionAtlas": [
         "BiocStyle"
@@ -4667,8 +4652,7 @@
         "GenomicFeatures",
         "VariantAnnotation",
         "biomaRt",
-        "rtracklayer",
-        "shinyjs"
+        "rtracklayer"
     ],
     "gage": [
         "AnnotationDbi",
@@ -4875,7 +4859,6 @@
         "ggrepel",
         "plotly",
         "shinyWidgets",
-        "shinyjs",
         "tippy",
         "viridis",
         "visNetwork",
@@ -5610,7 +5593,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "shinyjs",
         "testthat"
     ],
     "HiContacts": [
@@ -5978,7 +5960,6 @@
         "rstatix",
         "shinyFeedback",
         "shinyFiles",
-        "shinyjs",
         "testthat",
         "viridis",
         "visNetwork",
@@ -6087,8 +6068,7 @@
         "SingleCellExperiment",
         "colourpicker",
         "ggrepel",
-        "shinyWidgets",
-        "shinyjs"
+        "shinyWidgets"
     ],
     "iSEEhex": [
         "DT",
@@ -6096,8 +6076,7 @@
         "colourpicker",
         "ggrepel",
         "iSEE",
-        "shinyWidgets",
-        "shinyjs"
+        "shinyWidgets"
     ],
     "iSEEhub": [
         "AnnotationDbi",
@@ -6110,8 +6089,7 @@
         "ggrepel",
         "iSEE",
         "interactiveDisplayBase",
-        "shinyWidgets",
-        "shinyjs"
+        "shinyWidgets"
     ],
     "iSEEu": [
         "DT",
@@ -6120,8 +6098,7 @@
         "ggrepel",
         "iSEE",
         "iSEEhex",
-        "shinyWidgets",
-        "shinyjs"
+        "shinyWidgets"
     ],
     "ISLET": [],
     "isobar": [
@@ -6283,7 +6260,6 @@
         "learnr",
         "shinyBS",
         "shinyFiles",
-        "shinyjs",
         "shinyvalidate",
         "sortable"
     ],
@@ -6293,7 +6269,6 @@
     "lefser": [],
     "levi": [
         "DT",
-        "shinyjs",
         "testthat"
     ],
     "LineagePulse": [
@@ -6629,7 +6604,6 @@
         "htmlTable",
         "plotly",
         "proDA",
-        "shinyjs",
         "viridis"
     ],
     "MatrixRider": [
@@ -7172,8 +7146,7 @@
         "viridis"
     ],
     "methylscaper": [
-        "shinyFiles",
-        "shinyjs"
+        "shinyFiles"
     ],
     "MethylSeekR": [
         "AnnotationDbi",
@@ -7285,7 +7258,6 @@
         "pbkrtest",
         "plotly",
         "shinyWidgets",
-        "shinyjs",
         "testthat",
         "viridis"
     ],
@@ -7959,16 +7931,14 @@
         "MSnbase",
         "colourpicker",
         "ggExtra",
-        "plotly",
-        "shinyjs"
+        "plotly"
     ],
     "MSstatsQCgui": [
         "MSnbase",
         "MSstatsQC",
         "colourpicker",
         "ggExtra",
-        "plotly",
-        "shinyjs"
+        "plotly"
     ],
     "MSstatsSampleSize": [
         "MSstats",
@@ -7992,7 +7962,6 @@
         "nloptr",
         "shinyBS",
         "shinybusy",
-        "shinyjs",
         "testthat",
         "viridis"
     ],
@@ -8180,7 +8149,6 @@
         "shinyBS",
         "shinybusy",
         "shinyjqui",
-        "shinyjs",
         "sortable",
         "testthat",
         "viridis"
@@ -8698,7 +8666,6 @@
         "rstatix",
         "shinyWidgets",
         "shinybusy",
-        "shinyjs",
         "survminer",
         "testthat"
     ],
@@ -8745,7 +8712,6 @@
         "htmlTable",
         "openPrimeR",
         "shinyBS",
-        "shinyjs",
         "viridis"
     ],
     "OpenStats": [
@@ -8962,7 +8928,6 @@
         "phyloseq",
         "plotly",
         "profvis",
-        "shinyjs",
         "testthat"
     ],
     "pathRender": [
@@ -9021,7 +8986,6 @@
         "piano",
         "recipes",
         "rstatix",
-        "shinyjs",
         "survcomp",
         "survminer",
         "testthat",
@@ -9099,7 +9063,6 @@
         "MultiAssayExperiment",
         "fgsea",
         "piano",
-        "shinyjs",
         "visNetwork"
     ],
     "phenomis": [
@@ -9175,7 +9138,6 @@
         "interactiveDisplayBase",
         "shinyBS",
         "shinyFiles",
-        "shinyjs",
         "topGO"
     ],
     "phyloseq": [],
@@ -9190,7 +9152,6 @@
     "piano": [
         "DT",
         "fgsea",
-        "shinyjs",
         "visNetwork"
     ],
     "PICS": [
@@ -9289,7 +9250,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "shinyjs",
         "testthat",
         "viridis"
     ],
@@ -9304,8 +9264,7 @@
     ],
     "pmp": [],
     "PoDCall": [
-        "DT",
-        "shinyjs"
+        "DT"
     ],
     "podkat": [
         "BSgenome",
@@ -9545,7 +9504,6 @@
         "recipes",
         "shinyWidgets",
         "shinydashboardPlus",
-        "shinyjs",
         "threejs",
         "viridis",
         "waiter"
@@ -9569,8 +9527,7 @@
         "highcharter",
         "rhandsontable",
         "shinyBS",
-        "shinyjqui",
-        "shinyjs"
+        "shinyjqui"
     ],
     "proteasy": [
         "AnnotationDbi",
@@ -9651,7 +9608,6 @@
         "recount",
         "rtracklayer",
         "shinyBS",
-        "shinyjs",
         "viridis"
     ],
     "PSMatch": [
@@ -9879,7 +9835,6 @@
         "MultiAssayExperiment",
         "fgsea",
         "piano",
-        "shinyjs",
         "visNetwork"
     ],
     "RaggedExperiment": [],
@@ -10875,8 +10830,7 @@
         "DT",
         "excelR",
         "plotly",
-        "shinyWidgets",
-        "shinyjs"
+        "shinyWidgets"
     ],
     "satuRn": [],
     "SBGNview": [
@@ -11461,7 +11415,6 @@
         "plotly",
         "rtracklayer",
         "shinyWidgets",
-        "shinyjs",
         "viridis"
     ],
     "shinyMethyl": [
@@ -11699,7 +11652,6 @@
         "scran",
         "sctransform",
         "scuttle",
-        "shinyjs",
         "sva",
         "tidytree",
         "treeio",
@@ -11834,8 +11786,7 @@
         "EBImage",
         "mixtools",
         "plotly",
-        "sampSurf",
-        "shinyjs"
+        "sampSurf"
     ],
     "SomaticSignatures": [
         "AnnotationDbi",
@@ -11892,8 +11843,7 @@
         "ggforce",
         "ggiraph",
         "ggrepel",
-        "shinyWidgets",
-        "shinyjs"
+        "shinyWidgets"
     ],
     "spatialDE": [
         "BiocFileCache",
@@ -12404,7 +12354,6 @@
         "shinyWidgets",
         "shinydashboardPlus",
         "shinyjqui",
-        "shinyjs",
         "shinytoastr",
         "spsComps",
         "waiter"
@@ -12550,7 +12499,6 @@
         "sesameData",
         "shinyBS",
         "shinyFiles",
-        "shinyjs",
         "testthat",
         "tidygraph",
         "tidytree",
@@ -12787,7 +12735,6 @@
         "MultiAssayExperiment",
         "fgsea",
         "piano",
-        "shinyjs",
         "visNetwork"
     ],
     "TPP": [
@@ -12958,8 +12905,7 @@
         "golem",
         "plotly",
         "shinyBS",
-        "shinyFiles",
-        "shinyjs"
+        "shinyFiles"
     ],
     "tRNA": [],
     "tRNAdbImport": [
@@ -13051,8 +12997,7 @@
         "plotgardener",
         "plyranges",
         "rtracklayer",
-        "shinyFiles",
-        "shinyjs"
+        "shinyFiles"
     ],
     "UMI4Cats": [
         "AnnotationDbi",
@@ -13102,7 +13047,6 @@
         "rtracklayer",
         "shinyBS",
         "shinyWidgets",
-        "shinyjs",
         "viridis"
     ],
     "UniProt.ws": [
@@ -13200,7 +13144,6 @@
         "interactiveDisplayBase",
         "rtracklayer",
         "shinyTree",
-        "shinyjs",
         "viridis"
     ],
     "VariantTools": [
@@ -13434,7 +13377,6 @@
         "PharmacoGx",
         "fgsea",
         "piano",
-        "shinyjs",
         "visNetwork"
     ],
     "XINA": [],
@@ -13529,7 +13471,6 @@
         "rstatix",
         "testthat"
     ],
-    "shinyjs": [],
     "testthat": [],
     "rstatix": [
         "broom",
@@ -13803,12 +13744,9 @@
         "rtracklayer"
     ],
     "ggExtra": [
-        "colourpicker",
-        "shinyjs"
+        "colourpicker"
     ],
-    "colourpicker": [
-        "shinyjs"
-    ],
+    "colourpicker": [],
     "heatmaply": [
         "dendextend",
         "plotly",
@@ -14202,8 +14140,7 @@
     ],
     "keras": [],
     "shinypanel": [
-        "shinyBS",
-        "shinyjs"
+        "shinyBS"
     ],
     "highcharter": [
         "broom"
