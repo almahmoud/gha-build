@@ -1223,7 +1223,6 @@
         "BSgenome.Hsapiens.UCSC.hg19",
         "rtracklayer"
     ],
-    "coexnet": [],
     "cogena": [
         "devtools"
     ],
