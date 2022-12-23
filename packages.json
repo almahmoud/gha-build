@@ -3544,7 +3544,6 @@
         "scran",
         "scuttle"
     ],
-    "flowBin": [],
     "flowcatchR": [
         "plotly"
     ],
