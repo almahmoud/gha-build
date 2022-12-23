@@ -69,9 +69,7 @@
     "epihet": [
         "EntropyExplorer"
     ],
-    "EWCE": [
-        "orthogene"
-    ],
+    "EWCE": [],
     "ffpe": [],
     "flowCL": [
         "SPARQL"
@@ -140,7 +138,6 @@
     "ODER": [],
     "OMICsPCA": [],
     "omicsViewer": [],
-    "orthogene": [],
     "PDATK": [],
     "peco": [
         "genlasso"
