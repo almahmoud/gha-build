@@ -2194,7 +2194,6 @@
         "cBioPortalData",
         "motifStack"
     ],
-    "LRcell": [],
     "lumi": [
         "FDb.InfiniumMethylation.hg19",
         "HDF5Array",
