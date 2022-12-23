@@ -1990,7 +1990,6 @@
         "vctrs",
         "waldo"
     ],
-    "ASGSCA": [],
     "ASICS": [
         "BiocParallel",
         "DelayedArray",
