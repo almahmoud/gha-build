@@ -21,8 +21,7 @@
         "multtest",
         "openssl",
         "pamr",
-        "survival",
-        "varSelRF"
+        "survival"
     ],
     "a4Base": [
         "AnnotationDbi",
@@ -49,8 +48,7 @@
         "a4Core",
         "glmnet",
         "pamr",
-        "survival",
-        "varSelRF"
+        "survival"
     ],
     "a4Core": [
         "glmnet",
@@ -51756,7 +51754,6 @@
     "pamr": [
         "survival"
     ],
-    "varSelRF": [],
     "GO.db": [
         "AnnotationDbi",
         "Biostrings",
