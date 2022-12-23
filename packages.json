@@ -6044,7 +6044,6 @@
         "igraph",
         "interp",
         "irlba",
-        "janeaustenr",
         "jpeg",
         "jquerylib",
         "knitr",
@@ -39431,7 +39430,6 @@
         "ggplot2",
         "ggwordcloud",
         "gridExtra",
-        "janeaustenr",
         "labeling",
         "lifecycle",
         "mgcv",
@@ -41660,7 +41658,6 @@
         "gert",
         "gh",
         "httr",
-        "janeaustenr",
         "lifecycle",
         "memoise",
         "openssl",
@@ -104966,7 +104963,6 @@
         "Matrix",
         "dplyr",
         "generics",
-        "janeaustenr",
         "lifecycle",
         "pillar",
         "purrr",
@@ -104996,7 +104992,6 @@
         "numDeriv",
         "survival"
     ],
-    "janeaustenr": [],
     "tokenizers": [],
     "softImpute": [
         "Matrix"
@@ -111476,7 +111471,6 @@
         "desc",
         "dplyr",
         "generics",
-        "janeaustenr",
         "lifecycle",
         "memoise",
         "pillar",
