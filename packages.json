@@ -2820,9 +2820,7 @@
     ],
     "Metab": [],
     "metabCombiner": [],
-    "MetaboAnnotation": [
-        "QFeatures"
-    ],
+    "MetaboAnnotation": [],
     "MetaboSignal": [
         "EnsDb.Hsapiens.v75",
         "GenomicFeatures",
@@ -3227,9 +3225,7 @@
         "pbkrtest",
         "rstatix"
     ],
-    "MsExperiment": [
-        "QFeatures"
-    ],
+    "MsExperiment": [],
     "msgbsR": [
         "BSgenome",
         "GenomicFeatures",
@@ -3257,7 +3253,6 @@
         "sva"
     ],
     "msqrob2": [
-        "QFeatures",
         "lme4"
     ],
     "MSstats": [
@@ -3946,9 +3941,7 @@
         "derfinder",
         "recount"
     ],
-    "PSMatch": [
-        "QFeatures"
-    ],
+    "PSMatch": [],
     "psygenet2r": [
         "BgeeDB",
         "topGO"
@@ -3989,7 +3982,6 @@
     "QDNAseq": [
         "CGHcall"
     ],
-    "QFeatures": [],
     "qmtools": [
         "VIM",
         "car",
@@ -4561,9 +4553,7 @@
         "GenomicFeatures",
         "VariantAnnotation"
     ],
-    "scp": [
-        "QFeatures"
-    ],
+    "scp": [],
     "scPipe": [
         "scater"
     ],
