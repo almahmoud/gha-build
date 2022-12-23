@@ -38138,7 +38138,6 @@
         "nloptr",
         "pbkrtest",
         "pillar",
-        "pingr",
         "purrr",
         "quantreg",
         "rematch2",
@@ -63996,7 +63995,6 @@
     "SmoothWin": [
         "Rfast"
     ],
-    "pingr": [],
     "osfr": [
         "crul",
         "httr",

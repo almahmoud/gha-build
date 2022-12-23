@@ -1,0 +1,197 @@
++ git pull origin main
+From https://github.com/almahmoud/gha-build
+ * branch              main       -> FETCH_HEAD
+   2d4e3244..ab3656a7  main       -> origin/main
+Updating 2d4e3244..ab3656a7
+Fast-forward
+ lists/mgcv                                      |    2 +-
+ lists/mlr3measures                              |    2 +-
+ lists/ppcor                                     |    2 +-
+ lists/princurve                                 |    2 +-
+ logs/run_ids/rstudio-binaries/Rgraphviz         |    2 +
+ logs/sizes/rstudio-binaries/binaries/mgcv       |    1 +
+ logs/sizes/rstudio-binaries/binaries/ppcor      |    1 +
+ logs/sizes/rstudio-binaries/binaries/princurve  |    1 +
+ logs/sizes/rstudio-binaries/libraries/mgcv      |    1 +
+ logs/sizes/rstudio-binaries/libraries/ppcor     |    1 +
+ logs/sizes/rstudio-binaries/libraries/princurve |    1 +
+ logs/times/rstudio-binary/mgcv                  |  374 +++++++
+ logs/times/rstudio-binary/ppcor                 |  148 +++
+ logs/times/rstudio-binary/princurve             |  827 +++++++++++++++
+ packages.json                                   | 1270 +----------------------
+ 15 files changed, 1371 insertions(+), 1264 deletions(-)
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/mgcv
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/ppcor
+ create mode 100644 logs/sizes/rstudio-binaries/binaries/princurve
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/mgcv
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/ppcor
+ create mode 100644 logs/sizes/rstudio-binaries/libraries/princurve
+ create mode 100644 logs/times/rstudio-binary/mgcv
+ create mode 100644 logs/times/rstudio-binary/ppcor
+ create mode 100644 logs/times/rstudio-binary/princurve
++ export LIBRARY=/__w/gha-build/gha-build/built/
++ LIBRARY=/__w/gha-build/gha-build/built/
++ export PKG=pingr
++ PKG=pingr
++ export runstart=2022-12-21-14-37
++ runstart=2022-12-21-14-37
++ mkdir -p /__w/gha-build/gha-build/built/
++ mkdir -p /tmp/tars/
++ sed -n '/^    "pingr"/,/^    "/p' directdeps.json
++ awk '-F"' '{print $2}'
++ grep '^        "'
++ export -f process_dep
++ '[' -s /tmp/deps ']'
++ process_deps
++ cat /tmp/deps
++ xargs -i bash -c 'process_dep {}'
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  5  868k    5 48960    0     0  56142      0  0:00:15 --:--:--  0:00:15 56146 45  868k   45  394k    0     0   211k      0  0:00:04  0:00:01  0:00:03  211k100  868k  100  868k    0     0   321k      0  0:00:02  0:00:02 --:--:--  321k
+built/
+built/ps/
+built/ps/libs/
+built/ps/libs/ps.so
+built/ps/NAMESPACE
+built/ps/internals.md
+built/ps/DESCRIPTION
+built/ps/help/
+built/ps/help/paths.rds
+built/ps/help/ps.rdx
+built/ps/help/ps.rdb
+built/ps/help/aliases.rds
+built/ps/help/AnIndex
+built/ps/Meta/
+built/ps/Meta/package.rds
+built/ps/Meta/features.rds
+built/ps/Meta/hsearch.rds
+built/ps/Meta/links.rds
+built/ps/Meta/nsInfo.rds
+built/ps/Meta/Rd.rds
+built/ps/WORDLIST
+built/ps/tools/
+built/ps/tools/error-codes.R
+built/ps/tools/winver.R
+built/ps/LICENSE
+built/ps/html/
+built/ps/html/00Index.html
+built/ps/html/R.css
+built/ps/INDEX
+built/ps/R/
+built/ps/R/ps
+built/ps/R/ps.rdx
+built/ps/R/ps.rdb
+built/ps/bin/
+built/ps/bin/px
+built/ps/NEWS.md
+built/processx/
+built/processx/libs/
+built/processx/libs/client.so
+built/processx/libs/processx.so
+built/processx/CODE_OF_CONDUCT.md
+built/processx/NAMESPACE
+built/processx/DESCRIPTION
+built/processx/help/
+built/processx/help/paths.rds
+built/processx/help/processx.rdx
+built/processx/help/aliases.rds
+built/processx/help/figures/
+built/processx/help/figures/lifecycle-experimental.svg
+built/processx/help/figures/lifecycle-deprecated.svg
+built/processx/help/figures/lifecycle-maturing.svg
+built/processx/help/figures/lifecycle-superseded.svg
+built/processx/help/figures/lifecycle-questioning.svg
+built/processx/help/figures/lifecycle-defunct.svg
+built/processx/help/figures/lifecycle-archived.svg
+built/processx/help/figures/lifecycle-stable.svg
+built/processx/help/AnIndex
+built/processx/help/processx.rdb
+built/processx/Meta/
+built/processx/Meta/package.rds
+built/processx/Meta/features.rds
+built/processx/Meta/hsearch.rds
+built/processx/Meta/links.rds
+built/processx/Meta/nsInfo.rds
+built/processx/Meta/Rd.rds
+built/processx/include/
+built/processx/include/processx/
+built/processx/include/processx/unix-sockets.h
+built/processx/include/processx/unix-sockets.c
+built/processx/LICENSE
+built/processx/html/
+built/processx/html/00Index.html
+built/processx/html/R.css
+built/processx/INDEX
+built/processx/R/
+built/processx/R/processx.rdx
+built/processx/R/processx
+built/processx/R/processx.rdb
+built/processx/bin/
+built/processx/bin/supervisor
+built/processx/bin/sock
+built/processx/bin/px
+built/processx/NEWS.md
+built/R6/
+built/R6/NAMESPACE
+built/R6/DESCRIPTION
+built/R6/help/
+built/R6/help/paths.rds
+built/R6/help/R6.rdx
+built/R6/help/R6.rdb
+built/R6/help/aliases.rds
+built/R6/help/figures/
+built/R6/help/figures/logo.svg
+built/R6/help/figures/logo.png
+built/R6/help/AnIndex
+built/R6/Meta/
+built/R6/Meta/package.rds
+built/R6/Meta/features.rds
+built/R6/Meta/hsearch.rds
+built/R6/Meta/links.rds
+built/R6/Meta/nsInfo.rds
+built/R6/Meta/Rd.rds
+built/R6/LICENSE
+built/R6/html/
+built/R6/html/00Index.html
+built/R6/html/R.css
+built/R6/INDEX
+built/R6/R/
+built/R6/R/R6.rdx
+built/R6/R/R6.rdb
+built/R6/R/R6
+built/R6/NEWS.md
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''pingr'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
++ mv pingr_2.0.2_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
++ echo '\n\nBinary Build log:\n'
+\n\nBinary Build log:\n
++ cat /tmp/pingr
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'?repositories' for details
+
+replacement repositories:
+    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
+
+Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
+Installing package(s) 'pingr'
+trying URL 'https://packagemanager.rstudio.com/cran/__linux__/jammy/latest/src/contrib/pingr_2.0.2.tar.gz'
+Content type 'binary/octet-stream' length 54521 bytes (53 KB)
+==================================================
+downloaded 53 KB
+
+* installing *binary* package ‘pingr’ ...
+* ‘pingr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pingr’ as ‘pingr_2.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pingr)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpe9h78A/downloaded_packages’
+Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
+  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
+  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
+  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
+  'foreign', 'Matrix', 'nlme'
+
+real	0m10.973s
+user	0m4.957s
+sys	0m0.425s
