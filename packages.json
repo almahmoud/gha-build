@@ -2219,7 +2219,6 @@
         "genlasso",
         "scater"
     ],
-    "pepStat": [],
     "periodicDNA": [],
     "PFP": [
         "clusterProfiler",
