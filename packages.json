@@ -1781,7 +1781,6 @@
         "ensembldb",
         "ggbio"
     ],
-    "RESOLVE": [],
     "rexposome": [
         "FactoMineR",
         "car"
