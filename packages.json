@@ -36056,7 +36056,6 @@
         "tidyselect",
         "viridis"
     ],
-    "SNAGEE": [],
     "snapCGH": [
         "AnnotationDbi",
         "Biostrings",
