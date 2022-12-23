@@ -1393,7 +1393,6 @@
         "SummarizedExperiment",
         "assertive",
         "assertive.data",
-        "assertive.data.uk",
         "assertive.data.us",
         "cellranger",
         "dbplyr",
@@ -18447,7 +18446,6 @@
         "VariantAnnotation",
         "assertive",
         "assertive.data",
-        "assertive.data.uk",
         "assertive.data.us",
         "bamsignals",
         "biomaRt",
@@ -32230,12 +32228,10 @@
     ],
     "assertive": [
         "assertive.data",
-        "assertive.data.uk",
         "assertive.data.us",
         "knitr"
     ],
     "assertive.data": [],
-    "assertive.data.uk": [],
     "assertive.data.us": [],
     "doBy": [
         "broom",
