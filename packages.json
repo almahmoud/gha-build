@@ -1089,7 +1089,6 @@
         "bumphunter",
         "regioneR"
     ],
-    "DNAshapeR": [],
     "DominoEffect": [
         "GenomicFeatures",
         "VariantAnnotation"
