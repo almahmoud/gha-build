@@ -2338,7 +2338,6 @@
         "bitops",
         "bslib",
         "cachem",
-        "clusterCrit",
         "codetools",
         "colorspace",
         "crayon",
@@ -93484,7 +93483,6 @@
         "clipr",
         "clue",
         "cluster",
-        "clusterCrit",
         "codetools",
         "colorspace",
         "combinat",
@@ -121081,7 +121079,6 @@
         "bit64",
         "callr",
         "cluster",
-        "clusterCrit",
         "codetools",
         "coro",
         "ellipsis",
@@ -151467,7 +151464,6 @@
         "viridisLite",
         "withr"
     ],
-    "clusterCrit": [],
     "extrafont": [
         "Rttf2pt1"
     ],
@@ -169750,7 +169746,6 @@
         "clipr",
         "clue",
         "cluster",
-        "clusterCrit",
         "codetools",
         "colorspace",
         "combinat",
