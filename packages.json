@@ -271,7 +271,6 @@
         "vctrs",
         "viridisLite",
         "vsn",
-        "waveslim",
         "zoo"
     ],
     "ADAM": [
@@ -17044,7 +17043,6 @@
         "vctrs",
         "viridis",
         "viridisLite",
-        "waveslim",
         "wavethresh",
         "yaml",
         "zoo"
@@ -93888,7 +93886,6 @@
     "globals": [],
     "R.oo": [],
     "ff": [],
-    "waveslim": [],
     "aws": [],
     "strucchange": [
         "sandwich",
