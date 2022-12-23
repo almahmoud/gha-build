@@ -22882,7 +22882,6 @@
         "vctrs",
         "zoo"
     ],
-    "DTA": [],
     "Dune": [
         "Biobase",
         "BiocParallel",
