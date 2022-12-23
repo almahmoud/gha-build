@@ -2818,7 +2818,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "DeconRNASeq": [],
     "deconvR": [
         "BiocFileCache",
         "GEOquery",
