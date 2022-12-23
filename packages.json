@@ -336,7 +336,6 @@
         "TxDb.Dmelanogaster.UCSC.dm3.ensGene",
         "TxDb.Hsapiens.UCSC.hg18.knownGene",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "TxDb.Rnorvegicus.UCSC.rn4.ensGene"
     ],
     "ChIPseeker": [
@@ -392,9 +391,7 @@
     ],
     "CODEX": [],
     "cogeqc": [],
-    "Cogito": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "Cogito": [],
     "comapr": [
         "Gviz",
         "VariantAnnotation",
@@ -1068,9 +1065,7 @@
     "InPAS": [
         "cleanUpdTSeq"
     ],
-    "INSPEcT": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "INSPEcT": [],
     "InTAD": [
         "car",
         "ggpubr",
@@ -1654,7 +1649,6 @@
     "profileplyr": [
         "ChIPseeker",
         "TxDb.Hsapiens.UCSC.hg19.knownGene",
-        "TxDb.Mmusculus.UCSC.mm9.knownGene",
         "enrichplot",
         "rGREAT"
     ],
@@ -1828,9 +1822,7 @@
         "ensembldb"
     ],
     "RLSeq": [],
-    "Rmmquant": [
-        "TxDb.Mmusculus.UCSC.mm9.knownGene"
-    ],
+    "Rmmquant": [],
     "RNAAgeCalc": [
         "GenomicFiles",
         "VariantAnnotation",
@@ -2395,7 +2387,6 @@
     "geneLenDataBase": [],
     "spp": [],
     "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
-    "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
     "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
     "TxDb.Celegans.UCSC.ce6.ensGene": [],
     "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
