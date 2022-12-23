@@ -513,7 +513,6 @@
         "htmlwidgets",
         "ipred",
         "knitr",
-        "modeest",
         "plotROC",
         "plotly",
         "prodlim",
@@ -4783,8 +4782,7 @@
     ],
     "compcodeR": [
         "ggplot2",
-        "knitr",
-        "modeest"
+        "knitr"
     ],
     "compEpiTools": [
         "AnnotationDbi",
@@ -14856,7 +14854,6 @@
         "MCMCpack",
         "dplyr",
         "ggplot2",
-        "modeest",
         "rematch2",
         "testthat",
         "tidyr",
@@ -27752,8 +27749,7 @@
     "umap": [],
     "GUniFrac": [
         "ggplot2",
-        "ggrepel",
-        "modeest"
+        "ggrepel"
     ],
     "recipes": [
         "dplyr",
@@ -27762,7 +27758,6 @@
         "prodlim",
         "tidyr"
     ],
-    "modeest": [],
     "hardhat": [],
     "ipred": [
         "prodlim"
