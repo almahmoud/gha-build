@@ -35,8 +35,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "adductomicsR": [
         "AnnotationHub",
@@ -186,7 +185,6 @@
         "nloptr",
         "scater",
         "scuttle",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis"
@@ -332,8 +330,7 @@
         "MSstats",
         "lme4",
         "nloptr",
-        "org.Hs.eg.db",
-        "testthat"
+        "org.Hs.eg.db"
     ],
     "ASICS": [
         "ropls"
@@ -352,7 +349,6 @@
         "mGSZ",
         "nloptr",
         "rtracklayer",
-        "testthat",
         "viridis"
     ],
     "ASpli": [
@@ -441,8 +437,7 @@
         "TFBSTools",
         "annotate",
         "motifStack",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "attract": [
         "AnnotationForge",
@@ -467,8 +462,7 @@
         "doBy",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "BadRegionFinder": [
         "BSgenome",
@@ -590,7 +584,6 @@
         "rhdf5",
         "scater",
         "scuttle",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis",
@@ -674,7 +667,6 @@
         "radiant.data",
         "reactome.db",
         "scatterpie",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis"
@@ -699,8 +691,7 @@
         "pbkrtest",
         "rhdf5",
         "rstatix",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "BioCor": [
         "GSEABase",
@@ -712,44 +703,33 @@
         "basilisk"
     ],
     "BiocWorkflowTools": [],
-    "biodb": [
-        "testthat"
-    ],
+    "biodb": [],
     "biodbChebi": [
-        "biodb",
-        "testthat"
+        "biodb"
     ],
     "biodbExpasy": [
-        "biodb",
-        "testthat"
+        "biodb"
     ],
     "biodbHmdb": [
-        "biodb",
-        "testthat"
+        "biodb"
     ],
     "biodbKegg": [
-        "biodb",
-        "testthat"
+        "biodb"
     ],
     "biodbLipidmaps": [
-        "biodb",
-        "testthat"
+        "biodb"
     ],
     "biodbMirbase": [
-        "biodb",
-        "testthat"
+        "biodb"
     ],
     "biodbNcbi": [
-        "biodb",
-        "testthat"
+        "biodb"
     ],
     "biodbNci": [
-        "biodb",
-        "testthat"
+        "biodb"
     ],
     "biodbUniprot": [
-        "biodb",
-        "testthat"
+        "biodb"
     ],
     "biomaRt": [],
     "biomformat": [
@@ -875,8 +855,7 @@
     "BloodGen3Module": [
         "AnnotationHub",
         "ExperimentHub",
-        "interactiveDisplayBase",
-        "testthat"
+        "interactiveDisplayBase"
     ],
     "bnbc": [
         "annotate",
@@ -979,8 +958,7 @@
     ],
     "bugsigdbr": [],
     "BUMHMM": [
-        "devtools",
-        "testthat"
+        "devtools"
     ],
     "bumphunter": [
         "GenomicFeatures",
@@ -1096,7 +1074,6 @@
         "rstatix",
         "scater",
         "scuttle",
-        "testthat",
         "viridis"
     ],
     "Category": [
@@ -1189,7 +1166,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viridis"
     ],
     "CellMixS": [
@@ -1232,8 +1208,7 @@
         "mice",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "Cepo": [
         "GSEABase",
@@ -1265,7 +1240,6 @@
         "pbkrtest",
         "rstatix",
         "scatterpie",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis"
@@ -1596,8 +1570,7 @@
         "rtracklayer"
     ],
     "CNORfuzzy": [
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "CNTools": [
         "annotate",
@@ -1635,9 +1608,7 @@
         "rtracklayer",
         "viridis"
     ],
-    "CNVPanelizer": [
-        "testthat"
-    ],
+    "CNVPanelizer": [],
     "CNVRanger": [],
     "CNVrd2": [
         "BSgenome",
@@ -1673,8 +1644,7 @@
         "rhdf5"
     ],
     "cogena": [
-        "devtools",
-        "testthat"
+        "devtools"
     ],
     "cogeqc": [
         "ggtree",
@@ -1726,8 +1696,7 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "compartmap": [
         "HDF5Array",
@@ -1781,7 +1750,6 @@
         "scatterpie",
         "scran",
         "scuttle",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis"
@@ -2086,7 +2054,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viridis"
     ],
     "cydar": [
@@ -2107,7 +2074,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "viridis"
     ],
     "CytoGLMM": [
@@ -2122,7 +2088,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "viridis"
     ],
     "cytomapper": [
@@ -2182,7 +2147,6 @@
         "plsVarSel",
         "rtracklayer",
         "sva",
-        "testthat",
         "viridis"
     ],
     "DAPAR": [
@@ -2205,8 +2169,7 @@
         "pbkrtest",
         "plyranges",
         "rstatix",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "dce": [
         "epiNEM",
@@ -2227,7 +2190,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viridis"
     ],
     "debCAM": [],
@@ -2285,8 +2247,7 @@
         "nloptr",
         "rhdf5",
         "rsq",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "decoupleR": [],
     "DeepBlueR": [
@@ -2408,15 +2369,13 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "DEsubs": [
         "DESeq2",
         "EBSeq",
         "annotate",
-        "geneplotter",
-        "testthat"
+        "geneplotter"
     ],
     "DEWSeq": [
         "DESeq2",
@@ -2458,8 +2417,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "DifferentialRegulation": [],
     "diffHic": [
@@ -2504,8 +2462,7 @@
         "benchmarkme",
         "lme4",
         "nloptr",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "DMCHMM": [
         "rtracklayer"
@@ -2593,7 +2550,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "vsn"
     ],
     "DOSE": [
@@ -2603,8 +2559,7 @@
     ],
     "doseR": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "dpeak": [
         "BSgenome",
@@ -2660,7 +2615,6 @@
         "pbkrtest",
         "progeny",
         "rstatix",
-        "testthat",
         "viper"
     ],
     "EasyCellType": [
@@ -2688,12 +2642,9 @@
         "annotate",
         "geneplotter"
     ],
-    "EBSeq": [
-        "testthat"
-    ],
+    "EBSeq": [],
     "EBSeqHMM": [
-        "EBSeq",
-        "testthat"
+        "EBSeq"
     ],
     "EDASeq": [
         "GenomicFeatures",
@@ -2707,8 +2658,7 @@
         "lme4",
         "nloptr",
         "snm",
-        "sva",
-        "testthat"
+        "sva"
     ],
     "eegc": [
         "DESeq2",
@@ -2769,7 +2719,6 @@
         "pbkrtest",
         "rstatix",
         "rtracklayer",
-        "testthat",
         "viridis"
     ],
     "enhancerHomologSearch": [
@@ -2840,7 +2789,6 @@
         "rstatix",
         "rtracklayer",
         "scatterpie",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis"
@@ -2897,8 +2845,7 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "epigenomix": [
         "beadarray"
@@ -2913,8 +2860,7 @@
         "pbkrtest",
         "rhdf5",
         "rstatix",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "epihet": [
         "DOSE",
@@ -3102,7 +3048,6 @@
         "orthogene",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "tidytree",
         "treeio"
     ],
@@ -3307,7 +3252,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viridis"
     ],
     "flowDensity": [
@@ -3318,7 +3262,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viridis"
     ],
     "flowGraph": [],
@@ -3326,8 +3269,7 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "FlowSOM": [
         "car",
@@ -3335,8 +3277,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "flowStats": [
         "fda",
@@ -3380,8 +3321,7 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "FRGEpistasis": [
         "fda",
@@ -3418,8 +3358,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "GA4GHclient": [
         "BSgenome",
@@ -3464,7 +3403,6 @@
         "plsVarSel",
         "rtracklayer",
         "sva",
-        "testthat",
         "viridis"
     ],
     "GBScleanR": [],
@@ -3476,8 +3414,7 @@
         "affy"
     ],
     "GCSscore": [
-        "devtools",
-        "testthat"
+        "devtools"
     ],
     "GDCRNATools": [
         "DESeq2",
@@ -3502,7 +3439,6 @@
         "rstatix",
         "scatterpie",
         "survminer",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis"
@@ -3524,8 +3460,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "geneAttribution": [
         "GenomicFeatures",
@@ -3548,8 +3483,7 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "GeneMeta": [
         "annotate",
@@ -3653,8 +3587,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "genotypeeval": [
         "BSgenome",
@@ -3687,8 +3620,7 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "robust",
-        "testthat"
+        "robust"
     ],
     "GEOexplorer": [
         "FactoMineR",
@@ -3702,7 +3634,6 @@
         "pbkrtest",
         "rstatix",
         "shinyHeatmaply",
-        "testthat",
         "viridis"
     ],
     "GEOmetadb": [],
@@ -3710,8 +3641,7 @@
         "NanoStringNCTools",
         "lme4",
         "lmerTest",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "GEOsubmission": [
         "affy"
@@ -3735,8 +3665,7 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "ggbio": [
         "BSgenome",
@@ -3808,8 +3737,7 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survminer",
-        "testthat"
+        "survminer"
     ],
     "GlobalAncova": [
         "GSEABase",
@@ -3939,8 +3867,7 @@
         "drc",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "groHMM": [
         "rtracklayer"
@@ -3949,8 +3876,7 @@
         "rhdf5"
     ],
     "gscreend": [
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "GSEABase": [
         "annotate"
@@ -4124,8 +4050,7 @@
         "nloptr",
         "pbkrtest",
         "rhdf5",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "HiContacts": [
         "AnnotationHub",
@@ -4291,8 +4216,7 @@
         "biomaRt",
         "lme4",
         "nloptr",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "imcRtools": [
         "DropletUtils",
@@ -4310,8 +4234,7 @@
         "viridis"
     ],
     "INDEED": [
-        "devtools",
-        "testthat"
+        "devtools"
     ],
     "infercnv": [
         "Seurat",
@@ -4342,8 +4265,7 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "intansv": [
         "BSgenome",
@@ -4377,7 +4299,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "viridis"
     ],
     "IntEREst": [
@@ -4401,8 +4322,7 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survminer",
-        "testthat"
+        "survminer"
     ],
     "ipdDb": [
         "AnnotationHub",
@@ -4442,7 +4362,6 @@
         "scatterpie",
         "scran",
         "scuttle",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis"
@@ -4500,8 +4419,7 @@
         "biomaRt",
         "lme4",
         "nloptr",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "ivygapSE": [
         "car",
@@ -4510,8 +4428,7 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survminer",
-        "testthat"
+        "survminer"
     ],
     "IWTomics": [
         "fda",
@@ -4566,7 +4483,6 @@
         "rhdf5",
         "rstatix",
         "rtracklayer",
-        "testthat",
         "viridis"
     ],
     "KnowSeq": [
@@ -4581,15 +4497,11 @@
         "biomaRt",
         "sortable"
     ],
-    "LedPred": [
-        "testthat"
-    ],
+    "LedPred": [],
     "lefser": [
         "coin"
     ],
-    "levi": [
-        "testthat"
-    ],
+    "levi": [],
     "LineagePulse": [],
     "lineagespot": [
         "BSgenome",
@@ -4605,8 +4517,7 @@
         "nloptr",
         "pbkrtest",
         "rio",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "LinTInd": [
         "ggtree",
@@ -4629,8 +4540,7 @@
         "nloptr",
         "rhdf5",
         "scuttle",
-        "spicyR",
-        "testthat"
+        "spicyR"
     ],
     "LOBSTAHS": [
         "CAMERA",
@@ -4711,8 +4621,7 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "Macarron": [
         "GO.db",
@@ -4725,7 +4634,6 @@
         "lmerTest",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viridis"
     ],
     "macat": [
@@ -4860,8 +4768,7 @@
         "nloptr",
         "phyloseq",
         "rhdf5",
-        "sva",
-        "testthat"
+        "sva"
     ],
     "mbkmeans": [
         "benchmarkme"
@@ -4963,20 +4870,17 @@
         "drc",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "megadepth": [
-        "cmdfun",
-        "testthat"
+        "cmdfun"
     ],
     "MEIGOR": [],
     "Melissa": [
         "BPRMeth"
     ],
     "memes": [
-        "cmdfun",
-        "testthat"
+        "cmdfun"
     ],
     "MeSHDbi": [],
     "meshes": [
@@ -5032,7 +4936,6 @@
         "org.Hs.eg.db",
         "pbkrtest",
         "rtracklayer",
-        "testthat",
         "viridis"
     ],
     "MetaCyto": [
@@ -5042,8 +4945,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "metagene": [
         "EnsDb.Hsapiens.v86",
@@ -5143,8 +5045,7 @@
         "pbkrtest",
         "rstatix",
         "sesame",
-        "sesameData",
-        "testthat"
+        "sesameData"
     ],
     "methrix": [
         "BSgenome",
@@ -5206,7 +5107,6 @@
         "rhdf5",
         "rstatix",
         "rtracklayer",
-        "testthat",
         "tidyverse"
     ],
     "methylGSA": [
@@ -5292,8 +5192,7 @@
     ],
     "MetID": [
         "ChemmineR",
-        "devtools",
-        "testthat"
+        "devtools"
     ],
     "MetNet": [],
     "mfa": [
@@ -5352,7 +5251,6 @@
         "nloptr",
         "pbkrtest",
         "rhdf5",
-        "testthat",
         "viridis"
     ],
     "microbiomeMarker": [
@@ -5374,7 +5272,6 @@
         "rhdf5",
         "scater",
         "scuttle",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis"
@@ -5425,9 +5322,7 @@
         "oligo",
         "oligoClasses"
     ],
-    "MIMOSA": [
-        "testthat"
-    ],
+    "MIMOSA": [],
     "mina": [
         "Hmisc",
         "viridis"
@@ -5544,7 +5439,6 @@
         "s4vd",
         "scatterpie",
         "subspace",
-        "testthat",
         "tidytree",
         "tidyverse",
         "treeio",
@@ -5575,7 +5469,6 @@
         "reactome.db",
         "rstatix",
         "scatterpie",
-        "testthat",
         "tidytree",
         "tidyverse",
         "treeio",
@@ -5625,8 +5518,7 @@
         "DESeq2",
         "annotate",
         "caret",
-        "geneplotter",
-        "testthat"
+        "geneplotter"
     ],
     "MMAPPR2": [
         "BSgenome",
@@ -5649,8 +5541,7 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "mnem": [],
     "moanin": [
@@ -5767,8 +5658,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "MsExperiment": [
         "QFeatures"
@@ -5827,19 +5717,16 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "sva",
-        "testthat"
+        "sva"
     ],
     "msqrob2": [
         "QFeatures",
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "MSstats": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "MSstatsLiP": [
         "FactoMineR",
@@ -5856,7 +5743,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "tidyverse",
         "viridis"
     ],
@@ -5865,8 +5751,7 @@
         "MSstatsTMT",
         "lme4",
         "lmerTest",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "MSstatsQC": [
         "MSnbase",
@@ -5885,8 +5770,7 @@
         "MSstats",
         "caret",
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "MSstatsShiny": [
         "Hmisc",
@@ -5896,15 +5780,13 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "testthat",
         "viridis"
     ],
     "MSstatsTMT": [
         "MSstats",
         "lme4",
         "lmerTest",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "MuData": [
         "rhdf5"
@@ -5967,7 +5849,6 @@
         "reactome.db",
         "ropls",
         "scatterpie",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis"
@@ -5996,7 +5877,6 @@
         "pbkrtest",
         "scater",
         "scuttle",
-        "testthat",
         "variancePartition",
         "viridis"
     ],
@@ -6025,7 +5905,6 @@
         "rstatix",
         "rtracklayer",
         "sortable",
-        "testthat",
         "viridis"
     ],
     "MutationalPatterns": [
@@ -6039,8 +5918,7 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "mygene": [
         "GenomicFeatures",
@@ -6098,7 +5976,6 @@
     "nanotatoR": [
         "modelr",
         "org.Hs.eg.db",
-        "testthat",
         "tidyverse"
     ],
     "NanoTube": [],
@@ -6113,8 +5990,7 @@
         "lme4",
         "mppa",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "ncGTW": [
         "MSnbase",
@@ -6225,8 +6101,7 @@
         "affy",
         "arm",
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "NoRCE": [
         "GO.db",
@@ -6243,7 +6118,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viridis",
         "vsn"
     ],
@@ -6318,7 +6192,6 @@
         "plyranges",
         "rstatix",
         "rtracklayer",
-        "testthat",
         "viridis"
     ],
     "OGRE": [
@@ -6368,7 +6241,6 @@
         "pbkrtest",
         "rexposome",
         "sva",
-        "testthat",
         "viridis"
     ],
     "OMICsPCA": [
@@ -6388,7 +6260,6 @@
         "pbkrtest",
         "rstatix",
         "rtracklayer",
-        "testthat",
         "viridis"
     ],
     "omicsPrint": [],
@@ -6399,8 +6270,7 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survminer",
-        "testthat"
+        "survminer"
     ],
     "OncoScore": [
         "biomaRt"
@@ -6409,8 +6279,7 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "oneSENSE": [],
     "ontoProc": [
@@ -6434,7 +6303,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "unmarked",
         "viridis"
     ],
@@ -6449,8 +6317,7 @@
         "rhdf5"
     ],
     "oppti": [
-        "devtools",
-        "testthat"
+        "devtools"
     ],
     "optimalFlow": [],
     "ORFhunteR": [
@@ -6488,13 +6355,11 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "tidytree",
         "treeio"
     ],
     "Oscope": [
-        "EBSeq",
-        "testthat"
+        "EBSeq"
     ],
     "OTUbase": [
         "ShortRead"
@@ -6520,8 +6385,7 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "PADOG": [
         "hgu133a.db",
@@ -6538,8 +6402,7 @@
         "rtracklayer"
     ],
     "PAIRADISE": [
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "panelcn.mops": [
         "cn.mops"
@@ -6571,7 +6434,6 @@
         "HDO.db",
         "ggraph",
         "nloptr",
-        "testthat",
         "tfprobability",
         "viridis"
     ],
@@ -6585,8 +6447,7 @@
         "devtools",
         "geneplotter",
         "phyloseq",
-        "rhdf5",
-        "testthat"
+        "rhdf5"
     ],
     "pathRender": [],
     "pathview": [
@@ -6624,7 +6485,6 @@
         "piano",
         "rstatix",
         "survminer",
-        "testthat",
         "verification",
         "viridis"
     ],
@@ -6688,8 +6548,7 @@
     "phenomis": [
         "biodb",
         "biodbChebi",
-        "ropls",
-        "testthat"
+        "ropls"
     ],
     "phenoTest": [
         "Category",
@@ -6708,8 +6567,7 @@
         "logistf",
         "mice",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "philr": [
         "ggtree",
@@ -6725,7 +6583,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "viridis"
     ],
     "PhyloProfile": [
@@ -6815,7 +6672,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "viridis"
     ],
     "plyranges": [
@@ -6823,8 +6679,7 @@
     ],
     "pmm": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "pmp": [],
     "PoDCall": [],
@@ -6936,7 +6791,6 @@
         "nloptr",
         "pvca",
         "sva",
-        "testthat",
         "viridis",
         "vsn"
     ],
@@ -7062,7 +6916,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "viridis",
         "vsn"
     ],
@@ -7102,7 +6955,6 @@
         "pbkrtest",
         "rhdf5",
         "rstatix",
-        "testthat",
         "viridis",
         "vsn"
     ],
@@ -7126,7 +6978,6 @@
         "affy",
         "lme4",
         "nloptr",
-        "testthat",
         "vsn"
     ],
     "Pviz": [
@@ -7164,7 +7015,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viridis"
     ],
     "qpcrNorm": [
@@ -7190,7 +7040,6 @@
         "biovizBase",
         "ensembldb",
         "rtracklayer",
-        "testthat",
         "viridis"
     ],
     "qsea": [
@@ -7267,8 +7116,7 @@
         "dnet"
     ],
     "RAREsim": [
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "RareVariantVis": [
         "AnnotationHub",
@@ -7529,7 +7377,6 @@
         "mice",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viridis"
     ],
     "rGADEM": [
@@ -7637,8 +7484,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "Ringo": [
         "affy",
@@ -7709,8 +7555,7 @@
         "devtools",
         "geneplotter",
         "org.Mm.eg.db",
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "rmspc": [
         "rtracklayer"
@@ -7730,8 +7575,7 @@
         "viridis"
     ],
     "RNAdecay": [
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "rnaEditr": [
         "GenomicFeatures",
@@ -7834,7 +7678,6 @@
         "scatterpie",
         "sva",
         "systemPipeR",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis"
@@ -7856,7 +7699,6 @@
         "recount",
         "rstatix",
         "rtracklayer",
-        "testthat",
         "viridis"
     ],
     "RnBeads": [
@@ -7908,8 +7750,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "ropls",
-        "testthat"
+        "ropls"
     ],
     "rqubic": [],
     "rrvgo": [
@@ -7927,7 +7768,6 @@
         "pbkrtest",
         "rstatix",
         "survminer",
-        "testthat",
         "viridis"
     ],
     "RTCGAToolbox": [
@@ -7942,7 +7782,6 @@
         "mixtools",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viper"
     ],
     "RTNduals": [
@@ -7952,7 +7791,6 @@
         "mixtools",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viper"
     ],
     "RTNsurvival": [
@@ -7963,7 +7801,6 @@
         "mixtools",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viper"
     ],
     "rtracklayer": [],
@@ -7979,9 +7816,7 @@
         "rTRM",
         "rtracklayer"
     ],
-    "runibic": [
-        "testthat"
-    ],
+    "runibic": [],
     "RUVnormalize": [],
     "RUVSeq": [
         "EDASeq",
@@ -8097,13 +7932,11 @@
         "nloptr",
         "scran",
         "scuttle",
-        "testthat",
         "viridis"
     ],
     "scDDboost": [
         "EBSeq",
-        "Oscope",
-        "testthat"
+        "Oscope"
     ],
     "scds": [],
     "scGPS": [
@@ -8177,7 +8010,6 @@
         "rtracklayer",
         "scater",
         "scuttle",
-        "testthat",
         "viridis"
     ],
     "scran": [
@@ -8397,8 +8229,7 @@
         "mlr3tuning",
         "nloptr",
         "phyloseq",
-        "rhdf5",
-        "testthat"
+        "rhdf5"
     ],
     "SICtools": [],
     "SigCheck": [
@@ -8443,7 +8274,6 @@
         "rtracklayer",
         "survivalAnalysis",
         "survminer",
-        "testthat",
         "tidytidbits"
     ],
     "signifinder": [
@@ -8469,7 +8299,6 @@
         "rstatix",
         "rtracklayer",
         "survminer",
-        "testthat",
         "viridis"
     ],
     "SigsPack": [
@@ -8653,8 +8482,7 @@
     ],
     "snm": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "SNPhood": [
         "BSgenome",
@@ -8729,8 +8557,7 @@
         "NanoStringNCTools",
         "lme4",
         "lmerTest",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "SpatialExperiment": [
         "DropletUtils",
@@ -8799,8 +8626,7 @@
         "lmerTest",
         "nloptr",
         "rhdf5",
-        "scuttle",
-        "testthat"
+        "scuttle"
     ],
     "SpidermiR": [
         "miRNAtap",
@@ -8866,7 +8692,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "tidyverse"
     ],
     "SpotClean": [
@@ -8905,7 +8730,6 @@
         "ensembldb",
         "geneplotter",
         "rtracklayer",
-        "testthat",
         "viridis"
     ],
     "sscore": [
@@ -9006,15 +8830,13 @@
     "subSeq": [],
     "SummarizedBenchmark": [],
     "Summix": [
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "supersigs": [
         "caret"
     ],
     "surfaltr": [
-        "biomaRt",
-        "testthat"
+        "biomaRt"
     ],
     "survtype": [
         "car",
@@ -9023,8 +8845,7 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "survminer",
-        "testthat"
+        "survminer"
     ],
     "sva": [
         "annotate",
@@ -9066,7 +8887,6 @@
         "modelr",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "tidyverse",
         "viridis"
     ],
@@ -9074,12 +8894,10 @@
         "doBy",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "syntenet": [
-        "rtracklayer",
-        "testthat"
+        "rtracklayer"
     ],
     "systemPipeR": [
         "ShortRead"
@@ -9102,8 +8920,7 @@
         "nloptr",
         "pbkrtest",
         "rhdf5",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "tanggle": [
         "ggtree",
@@ -9122,8 +8939,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "TarSeqQC": [
         "Hmisc",
@@ -9185,7 +9001,6 @@
         "scatterpie",
         "sesame",
         "sesameData",
-        "testthat",
         "tidytree",
         "treeio",
         "viridis"
@@ -9324,8 +9139,7 @@
         "nloptr",
         "pbkrtest",
         "rhdf5",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "TnT": [],
     "TOAST": [],
@@ -9422,7 +9236,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "tidytree",
         "treeio"
     ],
@@ -9604,8 +9417,7 @@
         "lme4",
         "lmerTest",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "VariantAnnotation": [
         "BSgenome",
@@ -9748,8 +9560,7 @@
     "waddR": [
         "arm",
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "wateRmelon": [
         "FDb.InfiniumMethylation.hg19",
@@ -9853,7 +9664,6 @@
         "pathview",
         "pbkrtest",
         "safe",
-        "testthat",
         "variancePartition"
     ],
     "zinbwave": [
@@ -9866,35 +9676,27 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
-    "testthat": [],
     "rstatix": [
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "car": [
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "pbkrtest": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "lme4": [
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
-    "nloptr": [
-        "testthat"
-    ],
+    "nloptr": [],
     "adductData": [
         "AnnotationHub",
         "ExperimentHub",
@@ -9917,8 +9719,7 @@
     ],
     "lmerTest": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "tidytree": [],
     "ReorderCluster": [],
@@ -10042,8 +9843,7 @@
     "doBy": [
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "pRolocdata": [
         "MSnbase",
@@ -10082,8 +9882,7 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "org.Bt.eg.db": [],
     "DiagrammeR": [
@@ -10152,22 +9951,18 @@
         "BSgenome",
         "rtracklayer"
     ],
-    "devtools": [
-        "testthat"
-    ],
+    "devtools": [],
     "drc": [
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "FactoMineR": [
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "broom.mixed": [],
     "mice": [],
@@ -10266,7 +10061,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "testthat",
         "viridis"
     ],
     "Ecume": [
@@ -10327,8 +10121,7 @@
     ],
     "mbest": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "plsVarSel": [
         "MSQC"
@@ -10338,8 +10131,7 @@
     ],
     "arm": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "RWeka": [],
     "MSQC": [],
@@ -10348,13 +10140,10 @@
         "affy",
         "vsn"
     ],
-    "cmdfun": [
-        "testthat"
-    ],
+    "cmdfun": [],
     "rsq": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "rcdk": [],
     "textstem": [
@@ -10369,8 +10158,7 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "hgu133a2.db": [
         "org.Hs.eg.db"
@@ -10408,8 +10196,7 @@
         "car",
         "lme4",
         "nloptr",
-        "pbkrtest",
-        "testthat"
+        "pbkrtest"
     ],
     "survminer": [
         "car",
@@ -10417,8 +10204,7 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "rstatix",
-        "testthat"
+        "rstatix"
     ],
     "logistf": [
         "mice"
@@ -10466,8 +10252,7 @@
     ],
     "glmmTMB": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "depmap": [
         "AnnotationHub",
@@ -10552,19 +10337,16 @@
     "SOMbrero": [],
     "cvms": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "echarts4r": [],
     "HiveR": [],
     "anyLib": [
-        "devtools",
-        "testthat"
+        "devtools"
     ],
     "blme": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "deconstructSigs": [
         "BSgenome",
@@ -10579,7 +10361,6 @@
         "lme4",
         "nloptr",
         "pbkrtest",
-        "testthat",
         "viridis"
     ],
     "qpcR": [],
@@ -10604,13 +10385,11 @@
     "AICcmodavg": [
         "lme4",
         "nloptr",
-        "testthat",
         "unmarked"
     ],
     "unmarked": [
         "lme4",
-        "nloptr",
-        "testthat"
+        "nloptr"
     ],
     "biomartr": [
         "biomaRt"
@@ -10713,7 +10492,6 @@
         "pbkrtest",
         "rstatix",
         "survminer",
-        "testthat",
         "tidytidbits"
     ],
     "tidytidbits": [],
