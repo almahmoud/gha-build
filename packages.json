@@ -3371,7 +3371,6 @@
         "bsseq",
         "cowplot",
         "dplyr",
-        "gamlss",
         "ggplot2",
         "rtracklayer",
         "tibble"
@@ -8809,9 +8808,7 @@
         "httr",
         "tibble"
     ],
-    "DEsingle": [
-        "gamlss"
-    ],
+    "DEsingle": [],
     "destiny": [
         "DelayedArray",
         "GenomeInfoDb",
@@ -16128,7 +16125,6 @@
         "enrichplot",
         "fgsea",
         "fitdistrplus",
-        "gamlss",
         "ggbeeswarm",
         "ggforce",
         "ggfun",
@@ -30092,7 +30088,6 @@
     "scRecover": [
         "Rmagic",
         "SAVER",
-        "gamlss",
         "glmnet",
         "penalized"
     ],
@@ -38080,7 +38075,6 @@
     ],
     "randomcoloR": [],
     "pcalg": [],
-    "gamlss": [],
     "GenomicState": [
         "AnnotationDbi",
         "AnnotationHub",
