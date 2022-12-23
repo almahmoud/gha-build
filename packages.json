@@ -10003,9 +10003,7 @@
         "viridis",
         "waldo"
     ],
-    "cycle": [
-        "Mfuzz"
-    ],
+    "cycle": [],
     "cydar": [
         "BiocNeighbors",
         "BiocParallel",
@@ -24978,7 +24976,6 @@
         "tidyselect",
         "vctrs"
     ],
-    "Mfuzz": [],
     "MGFM": [
         "AnnotationDbi",
         "Biostrings",
@@ -44393,7 +44390,6 @@
         "IRdisplay",
         "IRkernel",
         "KEGGREST",
-        "Mfuzz",
         "MultiAssayExperiment",
         "RCy3",
         "RSQLite",
