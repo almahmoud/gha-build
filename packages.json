@@ -1800,7 +1800,6 @@
         "org.Hs.eg.db",
         "plotly",
         "rtracklayer",
-        "ruv",
         "sva",
         "viridis",
         "wateRmelon"
@@ -3468,7 +3467,6 @@
         "missMethyl",
         "org.Hs.eg.db",
         "rtracklayer",
-        "ruv",
         "viridis"
     ],
     "DMRforPairs": [
@@ -6661,7 +6659,6 @@
         "lmerTest",
         "nloptr",
         "phyloseq",
-        "ruv",
         "sva",
         "testthat"
     ],
@@ -6758,7 +6755,6 @@
         "missMethyl",
         "org.Hs.eg.db",
         "rtracklayer",
-        "ruv",
         "sva",
         "viridis"
     ],
@@ -7152,7 +7148,6 @@
         "org.Hs.eg.db",
         "reactome.db",
         "rtracklayer",
-        "ruv",
         "scatterpie",
         "tidygraph",
         "tidytree",
@@ -7621,8 +7616,7 @@
         "methylumi",
         "minfi",
         "org.Hs.eg.db",
-        "rtracklayer",
-        "ruv"
+        "rtracklayer"
     ],
     "missRows": [
         "MultiAssayExperiment"
@@ -9176,7 +9170,6 @@
         "nloptr",
         "pbkrtest",
         "rstatix",
-        "ruv",
         "testthat",
         "viridis"
     ],
@@ -11114,7 +11107,6 @@
         "htmlTable",
         "reldist",
         "rstan",
-        "ruv",
         "viridis"
     ],
     "scMET": [
@@ -11716,7 +11708,6 @@
         "reldist",
         "rstan",
         "rtracklayer",
-        "ruv",
         "scDblFinder",
         "scMerge",
         "scRNAseq",
@@ -12235,7 +12226,6 @@
         "biomaRt",
         "ggalluvial",
         "rtracklayer",
-        "ruv",
         "scuttle"
     ],
     "staRank": [
@@ -14065,7 +14055,6 @@
         "biomaRt",
         "rtracklayer"
     ],
-    "ruv": [],
     "spp": [],
     "ChIC.data": [
         "caret",
