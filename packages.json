@@ -3530,7 +3530,6 @@
         "fields",
         "viridis"
     ],
-    "synlet": [],
     "systemPipeTools": [],
     "TADCompare": [
         "HiCcompare",
