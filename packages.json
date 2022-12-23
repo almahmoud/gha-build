@@ -4387,7 +4387,6 @@
     ],
     "netOmics": [
         "RandomWalkRestartMH",
-        "dnet",
         "gprofiler2"
     ],
     "netresponse": [],
@@ -4787,8 +4786,7 @@
         "topGO"
     ],
     "Pi": [
-        "caret",
-        "dnet"
+        "caret"
     ],
     "piano": [],
     "Pigengene": [
@@ -5140,9 +5138,7 @@
         "piano"
     ],
     "ramwas": [],
-    "RandomWalkRestartMH": [
-        "dnet"
-    ],
+    "RandomWalkRestartMH": [],
     "RAREsim": [
         "nloptr"
     ],
@@ -7523,7 +7519,6 @@
         "rtracklayer"
     ],
     "mppa": [],
-    "dnet": [],
     "RcmdrMisc": [
         "Hmisc",
         "car",
