@@ -378,7 +378,6 @@
         "tidyr",
         "viridis"
     ],
-    "AIMS": [],
     "airpart": [
         "BiocNeighbors",
         "BiocSingular",
@@ -6725,7 +6724,6 @@
         "viridis"
     ],
     "consensusOV": [
-        "AIMS",
         "AnnotationDbi",
         "BiocFileCache",
         "BiocSingular",
@@ -12729,7 +12727,6 @@
         "httr"
     ],
     "genefu": [
-        "AIMS",
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
@@ -24102,7 +24099,6 @@
     ],
     "pcxn": [],
     "PDATK": [
-        "AIMS",
         "AnnotationDbi",
         "BiocFileCache",
         "Biostrings",
@@ -31150,7 +31146,6 @@
         "waldo"
     ],
     "signifinder": [
-        "AIMS",
         "AnnotationDbi",
         "AnnotationFilter",
         "BiocFileCache",
