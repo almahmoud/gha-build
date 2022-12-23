@@ -7,7 +7,6 @@
         "vsn"
     ],
     "ADAMgui": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -224,7 +223,6 @@
     "bioCancer": [
         "DiagrammeR",
         "ReactomePA",
-        "car",
         "clusterProfiler",
         "enrichplot",
         "ggraph",
@@ -233,7 +231,6 @@
     ],
     "BiocOncoTK": [
         "HDF5Array",
-        "car",
         "curatedTCGAData",
         "ggpubr",
         "rhdf5",
@@ -361,7 +358,6 @@
     "CancerInSilico": [],
     "CATALYST": [
         "FlowSOM",
-        "car",
         "drc",
         "ggpubr",
         "rstatix",
@@ -387,7 +383,6 @@
     "cellmigRation": [
         "FactoMineR",
         "Hmisc",
-        "car",
         "viridis"
     ],
     "CellMixS": [
@@ -408,7 +403,6 @@
     ],
     "censcyt": [
         "FlowSOM",
-        "car",
         "diffcyt",
         "ggpubr",
         "rstatix"
@@ -423,7 +417,6 @@
     ],
     "CeTF": [
         "GenomicTools",
-        "car",
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
@@ -597,7 +590,6 @@
     ],
     "conclus": [
         "FactoMineR",
-        "car",
         "clusterProfiler",
         "dendextend",
         "enrichplot",
@@ -717,7 +709,6 @@
     "cyanoFilter": [
         "GEOmap",
         "RFOC",
-        "car",
         "fields",
         "flowDensity",
         "viridis"
@@ -729,7 +720,6 @@
         "CytoGLMM",
         "FactoMineR",
         "FlowSOM",
-        "car",
         "dendextend",
         "diffcyt",
         "factoextra",
@@ -739,7 +729,6 @@
     ],
     "CytoGLMM": [
         "FactoMineR",
-        "car",
         "dendextend",
         "factoextra",
         "ggpubr",
@@ -758,7 +747,6 @@
         "FactoMineR",
         "Hmisc",
         "RWeka",
-        "car",
         "viridis"
     ],
     "DAPAR": [
@@ -769,7 +757,6 @@
     ],
     "dasper": [
         "basilisk",
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -780,7 +767,6 @@
     "ddPCRclust": [
         "GEOmap",
         "RFOC",
-        "car",
         "fields",
         "flowDensity",
         "viridis"
@@ -847,8 +833,7 @@
         "gamlss"
     ],
     "destiny": [
-        "VIM",
-        "car"
+        "VIM"
     ],
     "DExMA": [],
     "diffcoexp": [
@@ -858,7 +843,6 @@
     ],
     "diffcyt": [
         "FlowSOM",
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -912,7 +896,6 @@
     ],
     "Doscheda": [
         "affy",
-        "car",
         "drc",
         "vsn"
     ],
@@ -931,7 +914,6 @@
         "rhdf5"
     ],
     "easier": [
-        "car",
         "coin",
         "ggpubr",
         "rstatix"
@@ -958,7 +940,6 @@
         "Gviz",
         "Hmisc",
         "biovizBase",
-        "car",
         "ggpubr",
         "rstatix",
         "viridis"
@@ -973,7 +954,6 @@
         "viridis"
     ],
     "enrichTF": [
-        "car",
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
@@ -988,12 +968,10 @@
         "viridis"
     ],
     "epidecodeR": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
     "epigraHMM": [
-        "car",
         "ggpubr",
         "rhdf5",
         "rstatix"
@@ -1046,7 +1024,6 @@
         "rhdf5"
     ],
     "EWCE": [
-        "car",
         "ggpubr",
         "orthogene",
         "rstatix"
@@ -1124,7 +1101,6 @@
     "flowCut": [
         "GEOmap",
         "RFOC",
-        "car",
         "fields",
         "flowDensity",
         "viridis"
@@ -1132,15 +1108,11 @@
     "flowDensity": [
         "GEOmap",
         "RFOC",
-        "car",
         "fields",
         "viridis"
     ],
-    "flowPloidy": [
-        "car"
-    ],
+    "flowPloidy": [],
     "FlowSOM": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -1157,8 +1129,7 @@
         "viridis"
     ],
     "frenchFISH": [
-        "NHPoisson",
-        "car"
+        "NHPoisson"
     ],
     "frma": [
         "affy",
@@ -1175,7 +1146,6 @@
         "rhdf5"
     ],
     "FuseSOM": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -1185,14 +1155,12 @@
         "FactoMineR",
         "Hmisc",
         "RWeka",
-        "car",
         "viridis"
     ],
     "gcrma": [
         "affy"
     ],
     "GDCRNATools": [
-        "car",
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
@@ -1202,7 +1170,6 @@
         "viridis"
     ],
     "GeneAccord": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -1210,8 +1177,7 @@
         "iC10"
     ],
     "GeneGeneInteR": [
-        "FactoMineR",
-        "car"
+        "FactoMineR"
     ],
     "GeneStructureTools": [
         "Gviz",
@@ -1240,7 +1206,6 @@
         "rhdf5"
     ],
     "GenomicSuperSignature": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -1259,7 +1224,6 @@
     ],
     "GEOexplorer": [
         "FactoMineR",
-        "car",
         "dendextend",
         "factoextra",
         "ggpubr",
@@ -1279,9 +1243,7 @@
         "cellHTS2",
         "vsn"
     ],
-    "GEWIST": [
-        "car"
-    ],
+    "GEWIST": [],
     "ggbio": [
         "Hmisc",
         "biovizBase",
@@ -1303,7 +1265,6 @@
         "rhdf5"
     ],
     "glmSparseNet": [
-        "car",
         "ggpubr",
         "rstatix",
         "survminer"
@@ -1335,7 +1296,6 @@
         "viridis"
     ],
     "GRmetrics": [
-        "car",
         "drc"
     ],
     "GSCA": [
@@ -1394,7 +1354,6 @@
     ],
     "HiCDOC": [
         "HiCcompare",
-        "car",
         "ggpubr",
         "multiHiCcompare",
         "rhdf5",
@@ -1464,7 +1423,6 @@
         "coin"
     ],
     "InTAD": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -1477,7 +1435,6 @@
     "interactiveDisplay": [],
     "InterCellar": [
         "FactoMineR",
-        "car",
         "dendextend",
         "factoextra",
         "ggpubr",
@@ -1488,7 +1445,6 @@
         "rhdf5"
     ],
     "iPath": [
-        "car",
         "ggpubr",
         "rstatix",
         "survminer"
@@ -1505,7 +1461,6 @@
     "IRISFGM": [
         "DEsingle",
         "Seurat",
-        "car",
         "clusterProfiler",
         "enrichplot",
         "gamlss",
@@ -1521,7 +1476,6 @@
         "pd.mapping50k.xba240"
     ],
     "ivygapSE": [
-        "car",
         "ggpubr",
         "rstatix",
         "survminer"
@@ -1536,7 +1490,6 @@
         "FactoMineR",
         "HDF5Array",
         "bsseq",
-        "car",
         "dendextend",
         "factoextra",
         "ggpubr",
@@ -1552,7 +1505,6 @@
         "coin"
     ],
     "LinkHD": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -1592,14 +1544,11 @@
         "Hmisc",
         "viridis"
     ],
-    "Maaslin2": [
-        "car"
-    ],
+    "Maaslin2": [],
     "Macarron": [
         "Hmisc",
         "Maaslin2",
         "WGCNA",
-        "car",
         "viridis"
     ],
     "MACSr": [
@@ -1702,7 +1651,6 @@
         "wateRmelon"
     ],
     "MEDME": [
-        "car",
         "drc"
     ],
     "meshes": [
@@ -1719,13 +1667,11 @@
     "MetaboSignal": [
         "Hmisc",
         "MWASTools",
-        "car",
         "mygene",
         "viridis"
     ],
     "MetaCyto": [
         "FlowSOM",
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -1773,7 +1719,6 @@
         "rhdf5"
     ],
     "MethReg": [
-        "car",
         "ggpubr",
         "rstatix",
         "sesame"
@@ -1798,7 +1743,6 @@
     ],
     "methylclock": [
         "HDF5Array",
-        "car",
         "ggpubr",
         "minfi",
         "rhdf5",
@@ -1861,7 +1805,6 @@
     ],
     "microbiomeExplorer": [
         "biomformat",
-        "car",
         "dendextend",
         "heatmaply",
         "rhdf5",
@@ -1930,7 +1873,6 @@
         "ReactomePA",
         "SPONGE",
         "WGCNA",
-        "car",
         "clusterProfiler",
         "dendextend",
         "enrichplot",
@@ -1943,7 +1885,6 @@
     "miRspongeR": [
         "ReactomePA",
         "SPONGE",
-        "car",
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
@@ -1962,8 +1903,7 @@
         "rhdf5"
     ],
     "MMUPHin": [
-        "Maaslin2",
-        "car"
+        "Maaslin2"
     ],
     "moanin": [
         "viridis"
@@ -2000,7 +1940,6 @@
         "viridis"
     ],
     "MQmetrics": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -2033,8 +1972,7 @@
         "vsn"
     ],
     "MSPrep": [
-        "VIM",
-        "car"
+        "VIM"
     ],
     "MSstats": [],
     "MSstatsLiP": [
@@ -2042,7 +1980,6 @@
         "MSstats",
         "MSstatsPTM",
         "MSstatsTMT",
-        "car",
         "dendextend",
         "factoextra",
         "ggpubr",
@@ -2114,16 +2051,13 @@
     ],
     "musicatk": [
         "FactoMineR",
-        "car",
         "dendextend",
         "factoextra",
         "ggpubr",
         "rstatix",
         "viridis"
     ],
-    "MWASTools": [
-        "car"
-    ],
+    "MWASTools": [],
     "mygene": [
         "Hmisc",
         "viridis"
@@ -2149,7 +2083,6 @@
         "rhdf5"
     ],
     "NBSplice": [
-        "car",
         "mppa"
     ],
     "ncGTW": [
@@ -2207,7 +2140,6 @@
         "Hmisc",
         "RcmdrMisc",
         "affy",
-        "car",
         "viridis",
         "vsn"
     ],
@@ -2224,7 +2156,6 @@
     "ODER": [
         "Hmisc",
         "basilisk",
-        "car",
         "dasper",
         "derfinder",
         "ggpubr",
@@ -2241,13 +2172,11 @@
     "omicRexposome": [
         "FactoMineR",
         "Hmisc",
-        "car",
         "rexposome",
         "viridis"
     ],
     "OMICsPCA": [
         "FactoMineR",
-        "car",
         "dendextend",
         "factoextra",
         "ggpubr",
@@ -2255,14 +2184,11 @@
         "viridis"
     ],
     "omicsViewer": [
-        "car",
         "ggpubr",
         "rstatix",
         "survminer"
     ],
-    "OncoSimulR": [
-        "car"
-    ],
+    "OncoSimulR": [],
     "openPrimeR": [
         "Hmisc",
         "viridis"
@@ -2274,7 +2200,6 @@
     ],
     "OpenStats": [
         "Hmisc",
-        "car",
         "viridis"
     ],
     "oppar": [
@@ -2287,7 +2212,6 @@
         "fst"
     ],
     "orthogene": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -2297,8 +2221,7 @@
         "viridis"
     ],
     "padma": [
-        "FactoMineR",
-        "car"
+        "FactoMineR"
     ],
     "PanomiR": [
         "clusterProfiler",
@@ -2324,7 +2247,6 @@
         "viridis"
     ],
     "PDATK": [
-        "car",
         "fields",
         "genefu",
         "ggpubr",
@@ -2371,11 +2293,8 @@
         "Hmisc",
         "viridis"
     ],
-    "PhenStat": [
-        "car"
-    ],
+    "PhenStat": [],
     "PhosR": [
-        "car",
         "dendextend",
         "ggpubr",
         "rstatix",
@@ -2410,7 +2329,6 @@
     ],
     "plotGrouper": [
         "Hmisc",
-        "car",
         "ggpubr",
         "rstatix",
         "viridis"
@@ -2498,7 +2416,6 @@
     "protGear": [
         "FactoMineR",
         "affy",
-        "car",
         "dendextend",
         "factoextra",
         "ggpubr",
@@ -2516,7 +2433,6 @@
         "Hmisc",
         "MSnbase",
         "affy",
-        "car",
         "ggpubr",
         "rhdf5",
         "rstatix",
@@ -2546,7 +2462,6 @@
     "pwrEWAS": [],
     "qmtools": [
         "VIM",
-        "car",
         "dendextend",
         "heatmaply",
         "viridis"
@@ -2669,7 +2584,6 @@
     "rexposome": [
         "FactoMineR",
         "Hmisc",
-        "car",
         "viridis"
     ],
     "RGMQL": [],
@@ -2687,9 +2601,7 @@
     "ribor": [
         "rhdf5"
     ],
-    "rifi": [
-        "car"
-    ],
+    "rifi": [],
     "Ringo": [
         "affy",
         "vsn"
@@ -2752,7 +2664,6 @@
     ],
     "RNASeqR": [
         "FactoMineR",
-        "car",
         "clusterProfiler",
         "dendextend",
         "enrichplot",
@@ -2764,7 +2675,6 @@
     ],
     "RnaSeqSampleSize": [
         "Hmisc",
-        "car",
         "derfinder",
         "ggpubr",
         "recount",
@@ -2790,27 +2700,20 @@
         "biovizBase",
         "viridis"
     ],
-    "rqt": [
-        "car"
-    ],
+    "rqt": [],
     "RTCGA": [
-        "car",
         "ggpubr",
         "rstatix",
         "survminer",
         "viridis"
     ],
-    "RTN": [
-        "car"
-    ],
+    "RTN": [],
     "RTNduals": [
-        "RTN",
-        "car"
+        "RTN"
     ],
     "RTNsurvival": [
         "RTN",
-        "RTNduals",
-        "car"
+        "RTNduals"
     ],
     "Rtreemix": [
         "Hmisc",
@@ -2980,7 +2883,6 @@
         "viridis"
     ],
     "signeR": [
-        "car",
         "ggpubr",
         "rstatix",
         "survivalAnalysis",
@@ -2989,7 +2891,6 @@
     "signifinder": [
         "GSVA",
         "HDF5Array",
-        "car",
         "consensusOV",
         "genefu",
         "ggpubr",
@@ -3163,7 +3064,6 @@
         "viridis"
     ],
     "SPONGE": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -3227,7 +3127,6 @@
         "rhdf5"
     ],
     "survtype": [
-        "car",
         "ggpubr",
         "rstatix",
         "survminer"
@@ -3239,20 +3138,17 @@
     ],
     "synergyfinder": [
         "SpatialExtremes",
-        "car",
         "drc",
         "fields",
         "viridis"
     ],
     "TADCompare": [
         "HiCcompare",
-        "car",
         "ggpubr",
         "rhdf5",
         "rstatix"
     ],
     "TargetDecoy": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -3270,7 +3166,6 @@
         "Gviz",
         "Hmisc",
         "biovizBase",
-        "car",
         "clusterProfiler",
         "enrichplot",
         "ggpubr",
@@ -3315,7 +3210,6 @@
     "TNBC.CMS": [
         "GSVA",
         "HDF5Array",
-        "car",
         "ggpubr",
         "rhdf5",
         "rstatix"
@@ -3349,7 +3243,6 @@
     ],
     "treekoR": [
         "FlowSOM",
-        "car",
         "diffcyt",
         "ggpubr",
         "rstatix"
@@ -3478,13 +3371,9 @@
         "basilisk"
     ],
     "ggpubr": [
-        "car",
         "rstatix"
     ],
-    "rstatix": [
-        "car"
-    ],
-    "car": [],
+    "rstatix": [],
     "affydata": [
         "affy"
     ],
@@ -3537,9 +3426,7 @@
         "minfi",
         "rhdf5"
     ],
-    "radiant.data": [
-        "car"
-    ],
+    "radiant.data": [],
     "DiagrammeR": [
         "viridis"
     ],
@@ -3561,12 +3448,8 @@
         "derfinder",
         "viridis"
     ],
-    "drc": [
-        "car"
-    ],
-    "FactoMineR": [
-        "car"
-    ],
+    "drc": [],
+    "FactoMineR": [],
     "GenomicTools": [],
     "IlluminaHumanMethylationEPICmanifest": [
         "HDF5Array",
@@ -3587,7 +3470,6 @@
     "propr": [],
     "factoextra": [
         "FactoMineR",
-        "car",
         "dendextend",
         "ggpubr",
         "rstatix",
@@ -3632,9 +3514,7 @@
         "vsn"
     ],
     "rcdk": [],
-    "VIM": [
-        "car"
-    ],
+    "VIM": [],
     "coin": [],
     "EntropyExplorer": [],
     "qgraph": [
@@ -3643,11 +3523,8 @@
     ],
     "gap": [],
     "SPARQL": [],
-    "NHPoisson": [
-        "car"
-    ],
+    "NHPoisson": [],
     "survminer": [
-        "car",
         "ggpubr",
         "rstatix"
     ],
@@ -3681,7 +3558,6 @@
     "mppa": [],
     "RcmdrMisc": [
         "Hmisc",
-        "car",
         "viridis"
     ],
     "fst": [],
@@ -3720,7 +3596,6 @@
         "mlr3"
     ],
     "survivalAnalysis": [
-        "car",
         "ggpubr",
         "rstatix",
         "survminer"
