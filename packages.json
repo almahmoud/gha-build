@@ -7041,7 +7041,6 @@
         "sva",
         "testthat"
     ],
-    "msPurity": [],
     "msqrob2": [
         "MultiAssayExperiment",
         "QFeatures",
