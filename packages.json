@@ -721,9 +721,7 @@
     "Cormotif": [
         "affy"
     ],
-    "coseq": [
-        "HTSFilter"
-    ],
+    "coseq": [],
     "cosmiq": [
         "MSnbase",
         "affy",
@@ -1565,7 +1563,6 @@
         "VariantTools",
         "gmapR"
     ],
-    "HTSFilter": [],
     "iCARE": [
         "Hmisc",
         "viridis"
