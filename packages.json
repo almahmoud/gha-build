@@ -11490,7 +11490,6 @@
         "clusterProfiler",
         "enrichplot",
         "fgsea",
-        "gghighlight",
         "ggraph",
         "ggtree",
         "gson",
@@ -13373,7 +13372,6 @@
     ],
     "drawer": [],
     "GenKern": [],
-    "gghighlight": [],
     "bestNormalize": [
         "recipes"
     ],
