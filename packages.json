@@ -7333,7 +7333,6 @@
         "dplyr",
         "ggplot2",
         "htmlwidgets",
-        "httpcache",
         "knitr",
         "motifStack",
         "progress",
@@ -8920,7 +8919,6 @@
         "dbplyr",
         "dplyr",
         "ensembldb",
-        "httpcache",
         "progress",
         "purrr",
         "rtracklayer",
@@ -33055,7 +33053,6 @@
         "XVector",
         "dbplyr",
         "dplyr",
-        "httpcache",
         "progress",
         "purrr",
         "tibble"
@@ -36393,7 +36390,6 @@
         "rmarkdown",
         "stringr"
     ],
-    "httpcache": [],
     "plsVarSel": [
         "MSQC",
         "htmlwidgets",
