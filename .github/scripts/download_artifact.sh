@@ -3,12 +3,18 @@ DEPNAME=$1
 LIBRARY=$2
 GITREPO=${3:-"almahmoud/gha-build"}
 
+# Get recorded runid
 RUNID=$(cat logs/run_ids/rstudio-binaries/$DEPNAME | grep "runs/" | head -n 1 | awk -F'runs/' '{print $2}' | awk -F'/' '{print $1}')
+
+# Use GH API to get artifact ID with package name
 ARTIFACT_ID=$(gh api -H "Accept: application/vnd.github+json" /repos/$GITREPO/actions/artifacts?name="artifact-$DEPNAME" --jq ".artifacts[] | select(.workflow_run.id==$RUNID) | .id")
 
 echo $RUNID
 echo $ARTIFACT_ID
 
+# Download artifact and unpackage as library
+# (artifact comes zipped by default, inside which is
+#  a tar of the library, tar-ed up in the github action)
 ( cd $(dirname $LIBRARY) && \
 curl -o $DEPNAME.zip -L \
   -H "Accept: application/vnd.github+json" \
