@@ -55,7 +55,6 @@
         "multiHiCcompare"
     ],
     "ISAnalytics": [],
-    "MPFE": [],
     "multiHiCcompare": [
         "HiCcompare",
         "QDNAseq"
