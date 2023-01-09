@@ -1,0 +1,61 @@
+---
+- name: Write R PACKAGES file for binary
+  hosts: js2pkgs
+  become: true
+  tasks:
+  - name: Install rclone
+    become: true
+    shell: sudo -v ; curl https://rclone.org/install.sh | sudo bash && mkdir -p /tmp/binaries
+    ignore_errors: true
+  - name: Add Rclone conf
+    copy:
+      src: ~/.rclone.conf
+      dest: /home/ubuntu/.rclone.conf
+  - name: Copy binaries
+    become: true
+    args:
+      executable: /bin/bash
+    shell: |
+      cd /home/ubuntu && git clone https://github.com/almahmoud/gha-build || true
+      cd gha-build && git pull
+      # Pull all the binaries 
+      # Note: rclone ls 
+      mkdir -p /tmp/binaries
+      grep -roh "^.*tar.gz$" lists > /tmp/tarlist
+      ls /tmp/binaries/ > /tmp/curtars
+      comm -2 -3 <(sort /tmp/tarlist) <(sort /tmp/curtars) > /tmp/missingtars
+      # Run through again and download any missing ones up to 10 times
+      i=0
+      while [ -s /tmp/missingtars ]; do
+        cat /tmp/missingtars | xargs -i -P 20 -n 1 rclone copyto js2:/gha-build/rstudio-binaries/$(cat runstarttime)/{} /tmp/binaries/{} -vvvvv
+        ls /tmp/binaries/ > /tmp/curtars
+        comm -2 -3 <(sort /tmp/tarlist) <(sort /tmp/curtars) > /tmp/missingtars
+        # If the counter is greater than 10, break out of the loop
+        i=$((i+1))
+        if [ $i -gt 10 ]; then
+          break
+        fi
+      done
+
+  - name: Make PACKAGES files
+    docker_container:
+      name: bioc
+      image: bioconductor/bioconductor_docker:RELEASE_3_16
+      command: Rscript -e 'tools::write_PACKAGES("/tmp/binaries", addFiles = TRUE, verbose = TRUE)'
+      volumes:
+        - /tmp/binaries:/tmp/binaries
+
+  - name: Wait for PACKAGES file to exist
+    wait_for:
+      path: /tmp/binaries/PACKAGES
+      state: present
+    become: true
+
+
+  - name: Upload PACKAGES files
+    become: true
+    args:
+      executable: /bin/bash
+    shell: |
+      cd /home/ubuntu/gha-build
+      rclone copyto js2:/gha-build/rstudio-binaries/$(cat runstarttime)/{} /tmp/binaries/{} -vvvvv
