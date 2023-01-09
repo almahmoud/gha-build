@@ -1,4 +1,5 @@
 #!/bin/bash
+set -xe
 DEPNAME=$1
 LIBRARY=$2
 GITREPO=${3:-"almahmoud/gha-build"}
