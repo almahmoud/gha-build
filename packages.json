@@ -1,6 +1,5 @@
 {
     "ACE": [
-        "CGHcall",
         "QDNAseq"
     ],
     "AneuFinder": [
@@ -11,7 +10,6 @@
         "mGSZ"
     ],
     "biscuiteer": [
-        "CGHcall",
         "QDNAseq"
     ],
     "BitSeq": [],
@@ -19,10 +17,7 @@
     "CeTF": [
         "GenomicTools"
     ],
-    "CGHcall": [],
-    "CGHnormaliter": [
-        "CGHcall"
-    ],
+    "CGHnormaliter": [],
     "ChIC": [
         "spp"
     ],
@@ -47,7 +42,6 @@
         "SPARQL"
     ],
     "GeneBreak": [
-        "CGHcall",
         "QDNAseq"
     ],
     "GenProSeq": [
@@ -57,11 +51,9 @@
         "ttgsea"
     ],
     "HiCcompare": [
-        "CGHcall",
         "QDNAseq"
     ],
     "HiCDOC": [
-        "CGHcall",
         "HiCcompare",
         "QDNAseq",
         "multiHiCcompare"
@@ -69,7 +61,6 @@
     "ISAnalytics": [],
     "MPFE": [],
     "multiHiCcompare": [
-        "CGHcall",
         "HiCcompare",
         "QDNAseq"
     ],
@@ -79,9 +70,7 @@
     "peco": [
         "genlasso"
     ],
-    "QDNAseq": [
-        "CGHcall"
-    ],
+    "QDNAseq": [],
     "scRecover": [
         "Rmagic"
     ],
@@ -89,12 +78,10 @@
         "sampSurf"
     ],
     "SpectralTAD": [
-        "CGHcall",
         "HiCcompare",
         "QDNAseq"
     ],
     "TADCompare": [
-        "CGHcall",
         "HiCcompare",
         "QDNAseq"
     ],
