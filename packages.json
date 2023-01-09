@@ -27,7 +27,6 @@
     ],
     "cTRAP": [],
     "DeepPINCS": [
-        "mlapi",
         "text2vec",
         "ttgsea"
     ],
@@ -42,7 +41,6 @@
     ],
     "GenProSeq": [
         "DeepPINCS",
-        "mlapi",
         "text2vec",
         "ttgsea"
     ],
@@ -92,12 +90,10 @@
         "kmlShape"
     ],
     "ttgsea": [
-        "mlapi",
         "text2vec"
     ],
     "VAExprs": [
         "DeepPINCS",
-        "mlapi",
         "text2vec",
         "ttgsea"
     ],
@@ -106,10 +102,7 @@
     "GenomicTools": [],
     "spp": [],
     "propr": [],
-    "text2vec": [
-        "mlapi"
-    ],
-    "mlapi": [],
+    "text2vec": [],
     "EntropyExplorer": [],
     "SPARQL": [],
     "mppa": [],
