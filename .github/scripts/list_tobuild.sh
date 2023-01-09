@@ -13,9 +13,23 @@ if [ ! -s tobuild.txt ]; then
       # Add list of packages to build
       grep -lr "readytobuild" lists/ | sed 's#lists/##g' > tobuild.txt
 
+      if [ ! -s tobuild.txt ]; then
+      else
+            mkdir -p logs
+            counter=0
+            if [ -f "logs/retries_counter" ]; then
+                counter=$(<logs/retries_counter)
+            fi
+            counter=$((counter+1))
+            echo $counter > logs/retries_counter
+            if [ $counter -gt 10 ]; then
+                echo "READY" > logs/write_PACKAGES
+            fi
+            git add logs
+      fi
+
       git add lists
       git add tobuild.txt
       git commit -m "Adding tobuild list"
       git push
-
 fi
