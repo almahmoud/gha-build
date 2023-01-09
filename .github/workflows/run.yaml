@@ -3,7 +3,7 @@ on:
   workflow_dispatch: {}
   push: {}
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/30 * * * *'
 
 jobs:
   getlistformatrix:
@@ -39,6 +39,8 @@ jobs:
       - name: Output list of up to 90 packages to build
         id: matrix
         run: |
+          # Exit if tobuild list is empty
+          if [ ! -s tobuild.txt ]; then exit 1; fi
           mkdir -p /tmp
           head -n90 tobuild.txt > /tmp/pkglist
           # Output it as json parsable list "['pkg1', 'pkg2']"

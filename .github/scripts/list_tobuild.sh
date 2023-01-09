@@ -25,10 +25,11 @@ if [ ! -s tobuild.txt ]; then
                 echo "READY" > logs/write_PACKAGES
             fi
             git add logs
+            git commit -m "Increment counter for empty tobuild lists"
+      else
+            git add lists
+            git add tobuild.txt
+            git commit -m "Adding tobuild list"
       fi
-
-      git add lists
-      git add tobuild.txt
-      git commit -m "Adding tobuild list"
       git push
 fi
