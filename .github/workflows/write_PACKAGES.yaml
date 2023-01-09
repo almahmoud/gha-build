@@ -12,11 +12,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Add rclone conf file
+      - name: Add rclone conf file and PEM key for ssh
         run: |
           echo "$RCLONE_CONF" > ~/.rclone.conf
+          echo "$VMKEY" > ~/packages.pem
+          chmod 400 ~/packages.pem
         env:
           RCLONE_CONF: ${{secrets.RCLONE_CONF}}
+          VMKEY: ${{secrets.VMKEY}}
 
       - name: Launch instance in cloudbridge
         shell: bash
@@ -34,8 +37,16 @@ jobs:
 
       - name: Run ansible playbook to create PACKAGES file in VM
         run: |
+          VMIP=$(python3 -c 'from cloudbridge.factory import CloudProviderFactory, ProviderList; prov = CloudProviderFactory().create_provider("openstack", {}); print(prov.compute.instances.find(label="gha-build-inst-0")[0].public_ips[0])')
+          sed -i "s/##IP##/$VMIP/g" .github/scripts/ansible/inventory
+          sed -i "s/##PEM##/$(realpath ~/packages.pem)/g" .github/scripts/ansible/inventory
           ansible-playbook .github/scripts/ansible/ansible-packages.yaml -i .github/scripts/ansible/inventory
 
       - name: Delete VM
-        run: |
-          python3 .github/scripts/instlaunch.py --delete "$(python3 -c 'from cloudbridge.factory import CloudProviderFactory, ProviderList; prov = CloudProviderFactory().create_provider("openstack", {}); print(prov.compute.instances.find(label="gha-build-inst-0")[0].id)')"
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 10
+          shell: bash
+          command: |
+            python3 .github/scripts/instlaunch.py --delete "$(python3 -c 'from cloudbridge.factory import CloudProviderFactory, ProviderList; prov = CloudProviderFactory().create_provider("openstack", {}); print(prov.compute.instances.find(label="gha-build-inst-0")[0].id)')"
