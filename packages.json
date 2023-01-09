@@ -21,15 +21,11 @@
     "ChIC": [
         "spp"
     ],
-    "ChromSCape": [
-        "qs"
-    ],
+    "ChromSCape": [],
     "CiteFuse": [
         "propr"
     ],
-    "cTRAP": [
-        "qs"
-    ],
+    "cTRAP": [],
     "DeepPINCS": [
         "mlapi",
         "text2vec",
@@ -110,7 +106,6 @@
     "mGSZ": [],
     "GenomicTools": [],
     "spp": [],
-    "qs": [],
     "propr": [],
     "text2vec": [
         "mlapi"
