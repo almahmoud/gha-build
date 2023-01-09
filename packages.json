@@ -67,9 +67,7 @@
     "NBSplice": [
         "mppa"
     ],
-    "peco": [
-        "genlasso"
-    ],
+    "peco": [],
     "QDNAseq": [],
     "scRecover": [
         "Rmagic"
@@ -121,7 +119,6 @@
     "EntropyExplorer": [],
     "SPARQL": [],
     "mppa": [],
-    "genlasso": [],
     "Rmagic": [],
     "sampSurf": [],
     "GenKern": [],
