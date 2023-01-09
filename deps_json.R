@@ -20,7 +20,7 @@ pkgdeps <- c()
 while (length(biocpkgs) > 0)
 {
     biocpkgs <- biocpkgs[!(biocpkgs %in% names(pkgdeps))]
-    pdeps <- tools::package_dependencies(biocpkgs, db = db, recursive ="strong", which ="strong")
+    pdeps <- tools::package_dependencies(biocpkgs, db = db, recursive ="strong", which ="most")
     pdeps <- lapply(pdeps, function(x){x[!(x %in% exclude)] } )
     for (p in names(pdeps)) {
         biocpkgs <- c(biocpkgs, pdeps[[p]][!(pdeps[[p]]) %in% c(names(pkgdeps), biocpkgs)])
