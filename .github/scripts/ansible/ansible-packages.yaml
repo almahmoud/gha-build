@@ -3,6 +3,8 @@
   hosts: js2pkgs
   become: true
   tasks:
+  - name: Reboot machine for updates to apply (otherwise will reboot itself)
+    ansible.builtin.reboot:
   - name: Install rclone
     become: true
     shell: sudo -v ; curl https://rclone.org/install.sh | sudo bash && mkdir -p /tmp/binaries
@@ -24,6 +26,8 @@
       grep -roh "^.*tar.gz$" lists > /tmp/tarlist
       ls /tmp/binaries/ > /tmp/curtars
       comm -2 -3 <(sort /tmp/tarlist) <(sort /tmp/curtars) > /tmp/missingtars
+      mkdir -p /tmp/tarpieces
+      split -l 200 /tmp/missingtars /tmp/tarpieces
       # Run through again and download any missing ones up to 10 times
       i=0
       while [ -s /tmp/missingtars ]; do
