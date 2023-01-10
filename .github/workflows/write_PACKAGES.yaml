@@ -51,4 +51,4 @@ jobs:
           max_attempts: 10
           shell: bash
           command: |
-            python3 .github/scripts/instlaunch.py --delete "$(python3 -c 'from cloudbridge.factory import CloudProviderFactory, ProviderList; prov = CloudProviderFactory().create_provider("openstack", {}); print(prov.compute.instances.find(label="gha-build-inst-0")[0].id)')"
+            python3 .github/scripts/instlaunch.py --delete "$(python3 -c 'from cloudbridge.factory import CloudProviderFactory, ProviderList; prov = CloudProviderFactory().create_provider("openstack", {}); inst = prov.compute.instances.find(label="gha-build-inst-0")[0]; inst.wait_till_ready(); print(inst.id)')"
