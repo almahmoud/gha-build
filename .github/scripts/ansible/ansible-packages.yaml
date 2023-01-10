@@ -29,6 +29,7 @@
       while [ -s /tmp/missingtars ]; do
         cat /tmp/missingtars | xargs -i -P 20 -n 1 rclone copyto js2:/gha-build/rstudio-binaries/$(cat runstarttime)/{} /tmp/binaries/{} -vvvvv
         ls /tmp/binaries/ > /tmp/curtars
+        # Everything in first that is not in second
         comm -2 -3 <(sort /tmp/tarlist) <(sort /tmp/curtars) > /tmp/missingtars
         # If the counter is greater than 10, break out of the loop
         i=$((i+1))
