@@ -352,6 +352,7 @@ def _create_instance(prefix, provider, i, subnet, gateway, firewall,
     """
     print('\nCreating Instance #' + str(i))
     curr_label = prefix + "-inst-" + str(i)
+    lc = None
     if vol_size:
         lc = provider.compute.instances.create_launch_config()
         lc.add_volume_device(source=image,
