@@ -28,15 +28,11 @@
     "GenProSeq": [
         "DeepPINCS"
     ],
-    "HiCcompare": [],
     "HiCDOC": [
-        "HiCcompare",
         "multiHiCcompare"
     ],
     "ISAnalytics": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "NBSplice": [
         "mppa"
     ],
@@ -46,12 +42,8 @@
     "sojourner": [
         "sampSurf"
     ],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
+    "TADCompare": [],
     "TDARACNE": [
         "GenKern"
     ],
