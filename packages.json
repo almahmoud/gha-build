@@ -17,16 +17,13 @@
     "CiteFuse": [
         "propr"
     ],
-    "DeepPINCS": [],
     "epihet": [
         "EntropyExplorer"
     ],
     "flowCL": [
         "SPARQL"
     ],
-    "GenProSeq": [
-        "DeepPINCS"
-    ],
+    "GenProSeq": [],
     "HiCDOC": [],
     "ISAnalytics": [],
     "NBSplice": [
@@ -53,9 +50,7 @@
     "tscR": [
         "kmlShape"
     ],
-    "VAExprs": [
-        "DeepPINCS"
-    ],
+    "VAExprs": [],
     "ReorderCluster": [],
     "mGSZ": [],
     "GenomicTools": [],
