@@ -16,8 +16,10 @@ jobs:
         run: |
           echo "$RCLONE_CONF" > ~/.rclone.conf
           echo "$VMKEY" > ~/packages.pem
+          echo "$CLOUDBRIDGE_CONF" > ~/.cloudbridge
           chmod 400 ~/packages.pem
         env:
+          CLOUDBRIDGE_CONF: ${{secrets.CLOUDBRIDGE_CONF}}
           RCLONE_CONF: ${{secrets.RCLONE_CONF}}
           VMKEY: ${{secrets.VMKEY}}
 
