@@ -27,11 +27,8 @@
     "GenProSeq": [
         "DeepPINCS"
     ],
-    "HiCDOC": [
-        "multiHiCcompare"
-    ],
+    "HiCDOC": [],
     "ISAnalytics": [],
-    "multiHiCcompare": [],
     "NBSplice": [
         "mppa"
     ],
