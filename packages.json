@@ -26,7 +26,6 @@
     ],
     "cTRAP": [],
     "DeepPINCS": [
-        "text2vec",
         "ttgsea"
     ],
     "epihet": [
@@ -40,7 +39,6 @@
     ],
     "GenProSeq": [
         "DeepPINCS",
-        "text2vec",
         "ttgsea"
     ],
     "HiCcompare": [
@@ -88,12 +86,9 @@
     "tscR": [
         "kmlShape"
     ],
-    "ttgsea": [
-        "text2vec"
-    ],
+    "ttgsea": [],
     "VAExprs": [
         "DeepPINCS",
-        "text2vec",
         "ttgsea"
     ],
     "ReorderCluster": [],
@@ -101,7 +96,6 @@
     "GenomicTools": [],
     "spp": [],
     "propr": [],
-    "text2vec": [],
     "EntropyExplorer": [],
     "SPARQL": [],
     "mppa": [],
