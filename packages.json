@@ -18,9 +18,7 @@
     "CiteFuse": [
         "propr"
     ],
-    "DeepPINCS": [
-        "ttgsea"
-    ],
+    "DeepPINCS": [],
     "epihet": [
         "EntropyExplorer"
     ],
@@ -28,8 +26,7 @@
         "SPARQL"
     ],
     "GenProSeq": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "HiCcompare": [],
     "HiCDOC": [
@@ -68,10 +65,8 @@
     "tscR": [
         "kmlShape"
     ],
-    "ttgsea": [],
     "VAExprs": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "ReorderCluster": [],
     "mGSZ": [],
