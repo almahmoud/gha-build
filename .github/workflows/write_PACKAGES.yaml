@@ -42,7 +42,7 @@ jobs:
           VMIP=$(python3 -c 'from cloudbridge.factory import CloudProviderFactory, ProviderList; prov = CloudProviderFactory().create_provider("openstack", {}); print(prov.compute.instances.find(label="gha-build-inst-0")[0].public_ips[0])')
           sed -i "s@##IP##@$VMIP@g" .github/scripts/ansible/inventory
           sed -i "s@##PEM##@$(realpath ~/packages.pem)@g" .github/scripts/ansible/inventory
-          ansible-playbook .github/scripts/ansible/ansible-packages.yaml -i .github/scripts/ansible/inventory
+          ansible-playbook -v .github/scripts/ansible/ansible-packages.yaml -i .github/scripts/ansible/inventory
 
       - name: Delete VM
         uses: nick-fields/retry@v2
