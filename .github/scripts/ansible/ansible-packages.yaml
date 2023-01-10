@@ -5,14 +5,18 @@
   tasks:
   - name: Reboot machine for updates to apply (otherwise will reboot itself)
     ansible.builtin.reboot:
+
   - name: Install rclone
     become: true
     shell: sudo -v ; curl https://rclone.org/install.sh | sudo bash && mkdir -p /tmp/binaries
     ignore_errors: true
+
   - name: Add Rclone conf
+    become: true
     copy:
       src: ~/.rclone.conf
       dest: /home/ubuntu/.rclone.conf
+
   - name: Copy binaries
     become: true
     args:
@@ -55,7 +59,6 @@
       path: /tmp/binaries/PACKAGES
       state: present
     become: true
-
 
   - name: Upload PACKAGES files
     become: true

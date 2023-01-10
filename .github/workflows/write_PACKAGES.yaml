@@ -39,7 +39,7 @@ jobs:
 
       - name: Run ansible playbook to create PACKAGES file in VM
         run: |
-          VMIP=$(python3 -c 'from cloudbridge.factory import CloudProviderFactory, ProviderList; prov = CloudProviderFactory().create_provider("openstack", {}); print(prov.compute.instances.find(label="gha-build-inst-0")[0].public_ips[0])')
+          VMIP=$(python3 -c 'from cloudbridge.factory import CloudProviderFactory, ProviderList; prov = CloudProviderFactory().create_provider("openstack", {}); inst = prov.compute.instances.find(label="gha-build-inst-0")[0]; inst.wait_till_ready(); print(inst.public_ips[0])')
           sed -i "s@##IP##@$VMIP@g" .github/scripts/ansible/inventory
           sed -i "s@##PEM##@$(realpath ~/packages.pem)@g" .github/scripts/ansible/inventory
           ansible-playbook -v .github/scripts/ansible/ansible-packages.yaml -i .github/scripts/ansible/inventory
@@ -51,4 +51,4 @@ jobs:
           max_attempts: 10
           shell: bash
           command: |
-            python3 .github/scripts/instlaunch.py --delete "$(python3 -c 'from cloudbridge.factory import CloudProviderFactory, ProviderList; prov = CloudProviderFactory().create_provider("openstack", {}); inst = prov.compute.instances.find(label="gha-build-inst-0")[0]; inst.wait_till_ready(); print(inst.id)')"
+            python3 .github/scripts/instlaunch.py --delete "$(python3 -c 'from cloudbridge.factory import CloudProviderFactory, ProviderList; prov = CloudProviderFactory().create_provider("openstack", {}); inst = prov.compute.instances.find(label="gha-build-inst-0")[0]; print(inst.id)')"
