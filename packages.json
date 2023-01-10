@@ -28,7 +28,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "GeneBreak": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
