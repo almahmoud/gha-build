@@ -22,7 +22,7 @@ if [ ! -s tobuild.txt ]; then
             counter=$((counter+1))
             echo $counter > logs/retries_counter
             if [ $counter -gt 10 ]; then
-                echo "READY" > logs/write_PACKAGES
+                echo "READY" > /tmp/write_PACKAGES
             fi
             git add logs
             git commit -m "Increment counter for empty tobuild lists"
