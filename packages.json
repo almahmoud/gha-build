@@ -1,7 +1,5 @@
 {
-    "ACE": [
-        "QDNAseq"
-    ],
+    "ACE": [],
     "AneuFinder": [
         "ReorderCluster"
     ],
@@ -9,9 +7,7 @@
     "ASpediaFI": [
         "mGSZ"
     ],
-    "biscuiteer": [
-        "QDNAseq"
-    ],
+    "biscuiteer": [],
     "BitSeq": [],
     "CancerInSilico": [],
     "CeTF": [
@@ -34,31 +30,24 @@
     "flowCL": [
         "SPARQL"
     ],
-    "GeneBreak": [
-        "QDNAseq"
-    ],
+    "GeneBreak": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
     ],
-    "HiCcompare": [
-        "QDNAseq"
-    ],
+    "HiCcompare": [],
     "HiCDOC": [
         "HiCcompare",
-        "QDNAseq",
         "multiHiCcompare"
     ],
     "ISAnalytics": [],
     "multiHiCcompare": [
-        "HiCcompare",
-        "QDNAseq"
+        "HiCcompare"
     ],
     "NBSplice": [
         "mppa"
     ],
     "peco": [],
-    "QDNAseq": [],
     "scRecover": [
         "Rmagic"
     ],
@@ -66,12 +55,10 @@
         "sampSurf"
     ],
     "SpectralTAD": [
-        "HiCcompare",
-        "QDNAseq"
+        "HiCcompare"
     ],
     "TADCompare": [
-        "HiCcompare",
-        "QDNAseq"
+        "HiCcompare"
     ],
     "TDARACNE": [
         "GenKern"
