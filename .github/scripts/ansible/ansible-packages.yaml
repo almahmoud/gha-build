@@ -8,38 +8,13 @@
     ansible.builtin.reboot:
     become_user: root
 
-  - name: Install rclone
-    shell: sudo -v ; curl https://rclone.org/install.sh | sudo bash && mkdir -p /tmp/binaries
-    ignore_errors: true
-    become_user: root
-
-  - name: Add Rclone conf
-    copy:
-      src: ~/.rclone.conf
-      dest: /home/ubuntu/.rclone.conf
-
-  - name: Split binaries file
+  - name: Copy binaries
     shell: |
       set -x
       cd /home/ubuntu && git clone https://github.com/almahmoud/gha-build || true
       cd gha-build && git pull
-      mkdir -p /tmp/binaries
-      grep -roh "^.*tar.gz$" lists > /tmp/tarlist
-      ls /tmp/binaries/ > /tmp/curtars
-      comm -2 -3 <(sort /tmp/tarlist) <(sort /tmp/curtars) > /tmp/missingtars
-      mkdir -p /tmp/tarpieces
-      split -l 200 /tmp/missingtars /tmp/tarpieces/tars
-    args:
-      executable: /bin/bash
-
-  - name: Copy binaries
-    shell: |
-      cd /home/ubuntu/gha-build
       cat {{ item }} | xargs -i -P 20 -n 1 rclone copyto js2:/gha-build/rstudio-binaries/$(cat runstarttime)/{} /tmp/binaries/{} -vvvvv
-      ls /tmp/binaries/ > /tmp/curtars
-      # Everything in first that is not in second
-      comm -2 -3 <(sort /tmp/tarlist) <(sort /tmp/curtars) > /tmp/missingtars
-    with_fileglob: "/tmp/tarpieces/tars*"
+    with_fileglob: "tars*"
     args:
       executable: /bin/bash
 
