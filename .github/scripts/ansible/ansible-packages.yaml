@@ -16,7 +16,7 @@
     file:
       path: /root/.config/rclone
       state: directory
-      
+
   - name: Add Rclone conf
     copy:
       src: ~/.rclone.conf

@@ -61,6 +61,10 @@ jobs:
           VMIP=$(python -c 'from cloudbridge.factory import CloudProviderFactory, ProviderList; prov = CloudProviderFactory().create_provider("openstack", {}); inst = prov.compute.instances.find(label="gha-build-inst-0")[0]; inst.wait_till_ready(); print(inst.public_ips[0])')
           sed -i "s@##IP##@$VMIP@g" .github/scripts/ansible/inventory
           sed -i "s@##PEM##@$(realpath ~/packages.pem)@g" .github/scripts/ansible/inventory
+          cat << "EOF" > ansible.cfg
+          [ssh_connection]
+          retries=10
+          EOF
           ansible-playbook -vvv -T60 .github/scripts/ansible/ansible-packages.yaml -i .github/scripts/ansible/inventory
 
       - name: Delete VM
