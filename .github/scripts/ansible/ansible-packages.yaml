@@ -60,7 +60,7 @@
     shell: |
       cd /home/ubuntu/gha-build
       rclone copyto /tmp/binaries/PACKAGES js2:/gha-build/rstudio-binaries/$(cat runstarttime)/PACKAGES -vvvvv
-      rclone copyto /tmp/binaries/PACKAGES js2:/gha-build/rstudio-binaries/$(cat runstarttime)/PACKAGES.gz -vvvvv
-      rclone copyto /tmp/binaries/PACKAGES js2:/gha-build/rstudio-binaries/$(cat runstarttime)/PACKAGES.rds -vvvvv
+      rclone copyto /tmp/binaries/PACKAGES.gz js2:/gha-build/rstudio-binaries/$(cat runstarttime)/PACKAGES.gz -vvvvv
+      rclone copyto /tmp/binaries/PACKAGES.rds js2:/gha-build/rstudio-binaries/$(cat runstarttime)/PACKAGES.rds -vvvvv
     args:
       executable: /bin/bash

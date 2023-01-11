@@ -46,7 +46,6 @@ jobs:
           max_attempts: 3
           shell: bash
           command: |
-            sudo -v ; curl https://rclone.org/install.sh | sudo bash
             echo "$RCLONE_CONF" > ~/.rclone.conf
             set -x
             mkdir -p /tmp/binaries
