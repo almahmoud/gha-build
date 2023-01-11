@@ -2,26 +2,23 @@
 - name: Write R PACKAGES file for binary
   hosts: js2pkgs
   become: true
+  become_user: ubuntu
   tasks:
   - name: Reboot machine for updates to apply (otherwise will reboot itself)
     ansible.builtin.reboot:
 
   - name: Install rclone
-    become: true
     shell: sudo -v ; curl https://rclone.org/install.sh | sudo bash && mkdir -p /tmp/binaries
     ignore_errors: true
 
   - name: Add Rclone conf
-    become: true
     copy:
       src: ~/.rclone.conf
       dest: /home/ubuntu/.rclone.conf
 
   - name: Copy binaries
-    become: true
-    args:
-      executable: /bin/bash
     shell: |
+      set -x
       cd /home/ubuntu && git clone https://github.com/almahmoud/gha-build || true
       cd gha-build && git pull
       # Pull all the binaries 
@@ -45,6 +42,8 @@
           break
         fi
       done
+    args:
+      executable: /bin/bash
 
   - name: Make PACKAGES files
     docker_container:
@@ -58,10 +57,8 @@
     wait_for:
       path: /tmp/binaries/PACKAGES
       state: present
-    become: true
 
   - name: Upload PACKAGES files
-    become: true
     args:
       executable: /bin/bash
     shell: |
