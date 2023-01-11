@@ -26,6 +26,7 @@ from cloudbridge.interfaces.resources import TrafficDirection
 
 
 def main():
+    DELETE_DEFAULT = "defaultdelete"
     parser = argparse.ArgumentParser(description='Bulk instance creation '
                                                  'with CloudBridge.')
 
@@ -124,7 +125,7 @@ def main():
                         required=False,
                         type=str,
                         metavar='[instance id]',
-                        default='')
+                        default=DELETE_DEFAULT)
     pwd_group = parser.add_mutually_exclusive_group()
     pwd_group.add_argument('--password',
                            help='SSH password access will be enabled if '
@@ -175,9 +176,12 @@ def main():
     provider = _init_provider(config, prov)
 
     # If delete arg was supplied, delete the give instance and exit
-    if delete_inst:
+    if delete_inst and delete_inst != DELETE_DEFAULT:
         _delete_instance(provider, delete_inst)
         exit(0)
+    elif not delete_inst:
+        print("Error: --delete was used but no instance ID was given. Use -h for more usage information.")
+        exit(1)
 
     # This Key Pair can be used for all instances
     # The private portion will be created in the current directory with the
