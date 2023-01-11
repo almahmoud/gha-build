@@ -1,6 +1,7 @@
 ---
 - name: Write R PACKAGES file for binary
   hosts: js2pkgs
+  become: yes
   tasks:
   - name: Reboot machine for updates to apply (otherwise will reboot itself)
     ansible.builtin.reboot:
