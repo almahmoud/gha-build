@@ -271,7 +271,7 @@ jobs:
           echo "RStudio package binary: [Jetstream2](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/$(cat runstarttime)/${{steps.tar.outputs.pkg}})" >> $GITHUB_STEP_SUMMARY
           echo "Size of package binary: $(cat /tmp/logs/sizes/rstudio-binaries/binaries/$PKG)" >> $GITHUB_STEP_SUMMARY
           echo "Size of package and dependencies: $(cat /tmp/logs/sizes/rstudio-binaries/libraries/$PKG)" >> $GITHUB_STEP_SUMMARY
-          echo "Build time: $(cat /tmp/logs/times/rstudio-binary/$PKG)" >> $GITHUB_STEP_SUMMARY
+          echo "Build time: \n$(cat /tmp/logs/times/rstudio-binary/$PKG)" >> $GITHUB_STEP_SUMMARY
 
       - name: Rclone mark as pushed
         uses: nick-fields/retry@v2
