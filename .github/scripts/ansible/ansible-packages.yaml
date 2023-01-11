@@ -12,10 +12,15 @@
     ignore_errors: true
     become_user: root
 
+  - name: Create directory
+    file:
+      path: /root/.config/rclone
+      state: directory
+      
   - name: Add Rclone conf
     copy:
       src: ~/.rclone.conf
-      dest: /home/ubuntu/.rclone.conf
+      dest: /root/.config/rclone/rclone.conf
 
   - name: Create directory
     file:
