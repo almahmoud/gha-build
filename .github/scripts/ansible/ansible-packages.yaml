@@ -4,17 +4,6 @@
   become: true
   become_user: ubuntu
   tasks:
-  - name: Update APT cache
-    apt:
-      update_cache: yes
-      cache_valid_time: 3600
-      autoremove: yes
-      autoclean: yes
-    retries: 50
-    delay: 10
-    become: yes
-    register: apt_action
-    until: apt_action is success or ('Failed to lock apt for exclusive operation' not in apt_action.msg and '/var/lib/dpkg/lock' not in apt_action.msg)
 
   - name: Reboot machine for updates to apply (otherwise will reboot itself)
     ansible.builtin.reboot:
@@ -56,6 +45,8 @@
       done
     args:
       executable: /bin/bash
+    retries: 50
+    delay: 10
 
   - name: Make PACKAGES files
     docker_container:
@@ -71,10 +62,10 @@
       state: present
 
   - name: Upload PACKAGES files
-    args:
-      executable: /bin/bash
     shell: |
       cd /home/ubuntu/gha-build
       rclone copyto /tmp/binaries/PACKAGES js2:/gha-build/rstudio-binaries/$(cat runstarttime)/PACKAGES -vvvvv
       rclone copyto /tmp/binaries/PACKAGES js2:/gha-build/rstudio-binaries/$(cat runstarttime)/PACKAGES.gz -vvvvv
       rclone copyto /tmp/binaries/PACKAGES js2:/gha-build/rstudio-binaries/$(cat runstarttime)/PACKAGES.rds -vvvvv
+    args:
+      executable: /bin/bash
