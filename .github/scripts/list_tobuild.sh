@@ -27,6 +27,10 @@ if [ ! -s tobuild.txt ]; then
             git add logs
             git commit -m "Increment counter for empty tobuild lists"
       else
+            if [ -f "logs/retries_counter" ]; then
+                rm logs/retries_counter
+                git add logs
+            fi
             git add lists
             git add tobuild.txt
             git commit -m "Adding tobuild list"
