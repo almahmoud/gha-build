@@ -8,12 +8,33 @@
     ansible.builtin.reboot:
     become_user: root
 
+  - name: Install rclone
+    shell: sudo -v ; curl https://rclone.org/install.sh | sudo bash && mkdir -p /tmp/binaries
+    ignore_errors: true
+    become_user: root
+
+  - name: Add Rclone conf
+    copy:
+      src: ~/.rclone.conf
+      dest: /home/ubuntu/.rclone.conf
+
+  - name: Create directory
+    file:
+      path: /tmp/tars/
+      state: directory
+
+  - name: Copy each tar list file
+    ansible.builtin.copy:
+      src: "{{ item }}"
+      dest: "/tmp/tars/{{ item | basename }}"
+    with_fileglob: "tars*"
+
   - name: Copy binaries
     shell: |
       set -x
       cd /home/ubuntu && git clone https://github.com/almahmoud/gha-build || true
       cd gha-build && git pull
-      cat {{ item }} | xargs -i -P 20 -n 1 rclone copyto js2:/gha-build/rstudio-binaries/$(cat runstarttime)/{} /tmp/binaries/{} -vvvvv
+      cat /tmp/tars/{{ item | basename }} | xargs -i -P 20 -n 1 rclone copyto js2:/gha-build/rstudio-binaries/$(cat runstarttime)/{} /tmp/binaries/{} -vvvvv
     with_fileglob: "tars*"
     args:
       executable: /bin/bash
