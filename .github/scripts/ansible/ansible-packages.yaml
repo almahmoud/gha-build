@@ -4,7 +4,6 @@
   become: true
   become_user: ubuntu
   tasks:
-
   - name: Reboot machine for updates to apply (otherwise will reboot itself)
     ansible.builtin.reboot:
     sudo: true
