@@ -72,7 +72,7 @@ jobs:
             set -x
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git pull origin main || git reset --hard origin/main
-            cp /tmp/write_PACKAGES $(cat runstarttime)/logs/write_PACKAGES
+            cp /tmp/write_PACKAGES lists/write_PACKAGES
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add $(cat runstarttime)/logs
