@@ -1,8 +1,0 @@
-Updating 54cd0431..b7ce082c
-Fast-forward
- lists/lmom                         |  2 +-
- logs/run_ids/rstudio-binaries/mppa |  2 ++
- packages.json                      | 12 ------------
- 3 files changed, 3 insertions(+), 13 deletions(-)
- create mode 100644 logs/run_ids/rstudio-binaries/mppa
-No dependencies

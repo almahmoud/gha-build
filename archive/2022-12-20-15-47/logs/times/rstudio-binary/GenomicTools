@@ -1,8 +1,0 @@
-Updating 89708f0..e428bc3
-Fast-forward
- lists/genalg                               | 2 +-
- logs/run_ids/rstudio-binaries/gridGraphics | 2 ++
- packages.json                              | 6 ------
- 3 files changed, 3 insertions(+), 7 deletions(-)
- create mode 100644 logs/run_ids/rstudio-binaries/gridGraphics
-No dependencies

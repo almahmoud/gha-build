@@ -1,7 +1,0 @@
-Updating 5fa329ab..f73284d6
-Fast-forward
- lists/confintr                      | 2 +-
- logs/run_ids/rstudio-binaries/mhsmm | 2 ++
- packages.json                       | 4 ----
- 3 files changed, 3 insertions(+), 5 deletions(-)
- create mode 100644 logs/run_ids/rstudio-binaries/mhsmm

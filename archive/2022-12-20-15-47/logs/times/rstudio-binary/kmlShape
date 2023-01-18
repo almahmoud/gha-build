@@ -1,9 +1,0 @@
-Updating 242bb9ea..da01b604
-Fast-forward
- lists/ISoLDE                      | 2 +-
- lists/LaplacesDemon               | 2 +-
- logs/run_ids/rstudio-binaries/NLP | 2 ++
- packages.json                     | 7 -------
- 4 files changed, 4 insertions(+), 9 deletions(-)
- create mode 100644 logs/run_ids/rstudio-binaries/NLP
-No dependencies
