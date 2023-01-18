@@ -29,7 +29,7 @@ jobs:
 
       - shell: sh
         run: |
-          Rscript deps_json.R packages.json directdeps.json
+          Rscript .github/scripts/deps_json.R packages.json directdeps.json
           python3 -c """
           import json
           f = open('packages.json', 'r')
