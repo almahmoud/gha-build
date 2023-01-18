@@ -3,7 +3,7 @@ on:
   workflow_dispatch: {}
   push:
     paths:
-      - logs/write_PACKAGES
+      - $(cat runstarttime)/logs/write_PACKAGES
 jobs:
   writepkgs:
     runs-on: ubuntu-latest

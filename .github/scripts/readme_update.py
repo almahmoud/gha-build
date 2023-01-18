@@ -14,8 +14,8 @@ def get_pkg_name_and_run_info(pkg, container_path_name="rstudio-binaries"):
     name = pkg
     runid = ""
     runurl = ""
-    if exists(f"logs/run_ids/{container_path_name}/{pkg}"):
-        with open(f"logs/run_ids/{container_path_name}/{pkg}", "r") as frun:
+    if exists(f"$(cat runstarttime)/logs/run_ids/{container_path_name}/{pkg}"):
+        with open(f"$(cat runstarttime)/logs/run_ids/{container_path_name}/{pkg}", "r") as frun:
             runid = frun.read()
             runurls = runid.strip().replace("null\n", "").split("\n")
             runurl = ""
@@ -49,8 +49,8 @@ def add_successful_size_and_url(pkg, status, tarname, container_path_name="rstud
     tartext = tarname
     if status == "Succeeded":
         sizeinfo = ""
-        if exists(f"logs/sizes/{container_path_name}/binaries/{pkg}"):
-            with open(f"logs/sizes/{container_path_name}/binaries/{pkg}", "r") as sf:
+        if exists(f"$(cat runstarttime)/logs/sizes/{container_path_name}/binaries/{pkg}"):
+            with open(f"$(cat runstarttime)/logs/sizes/{container_path_name}/binaries/{pkg}", "r") as sf:
                 sizeinfo = sf.read()
         if sizeinfo:
             size_b = int(sizeinfo.split(" ")[0])

@@ -14,8 +14,11 @@ jobs:
       - name: Copy old run
         run: |
           STARTTIME=$(cat runstarttime)
-          ARCHIVEDIR="archive/$STARTTIME"
-          mkdir -p "$ARCHIVEDIR"
+          ARCHIVEDIRBASE="archive/"
+          mkdir -p "$ARCHIVEDIRBASE"
+          ARCHIVEDIR="${ARCHIVEDIRBASE}/${STARTTIME}"
+
+          mv $STARTTIME $ARCHIVEDIR || true
           mv runstarttime "$ARCHIVEDIR"/ || true
           mv alldeps.json "$ARCHIVEDIR"/ || true
           mv directdeps.json "$ARCHIVEDIR"/ || true
@@ -23,9 +26,8 @@ jobs:
           mv tobuild.txt "$ARCHIVEDIR"/ || true
           mv README.md "$ARCHIVEDIR"/ || true
           mv lists "$ARCHIVEDIR"/lists || true
-          mv logs "$ARCHIVEDIR"/logs || true
           sed -i "s#/lists/#/$ARCHIVEDIR/lists/#g" "$ARCHIVEDIR/README.md"
-          sed -i "s#/logs/#/$ARCHIVEDIR/logs/#g" "$ARCHIVEDIR/README.md"
+          sed -i "s#/$(cat runstarttime)/logs/#/$ARCHIVEDIR/$(cat runstarttime)/logs/#g" "$ARCHIVEDIR/README.md"
 
       - shell: sh
         run: |
