@@ -9,13 +9,13 @@ def get_pkgs_dict():
         pkgs = json.load(f)
     return pkgs
 
-def get_pkg_name_and_run_info(pkg):
+def get_pkg_name_and_run_info(pkg, container_path_name="rstudio-binaries"):
     """Gets the name and run information for a package"""
     name = pkg
     runid = ""
     runurl = ""
-    if exists(f"logs/run_ids/rstudio-binaries/{pkg}"):
-        with open(f"logs/run_ids/rstudio-binaries/{pkg}", "r") as frun:
+    if exists(f"logs/run_ids/{container_path_name}/{pkg}"):
+        with open(f"logs/run_ids/{container_path_name}/{pkg}", "r") as frun:
             runid = frun.read()
             runurls = runid.strip().replace("null\n", "").split("\n")
             runurl = ""
@@ -44,18 +44,18 @@ def get_pkg_status_and_tarname(pkg, name):
             tarname = plog.strip()
     return status, tarname
 
-def add_successful_size_and_url(pkg, status, tarname):
+def add_successful_size_and_url(pkg, status, tarname, container_path_name="rstudio-binaries"):
     """Add size and URL to successful tars"""
     tartext = tarname
     if status == "Succeeded":
         sizeinfo = ""
-        if exists(f"logs/sizes/rstudio-binaries/binaries/{pkg}"):
-            with open(f"logs/sizes/rstudio-binaries/binaries/{pkg}", "r") as sf:
+        if exists(f"logs/sizes/{container_path_name}/binaries/{pkg}"):
+            with open(f"logs/sizes/{container_path_name}/binaries/{pkg}", "r") as sf:
                 sizeinfo = sf.read()
         if sizeinfo:
             size_b = int(sizeinfo.split(" ")[0])
             tartext = f"{humanize.naturalsize(size_b)} {tarname}"
-        tartext = f"[{tartext}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/rstudio-binaries/{tarname})"
+        tartext = f"[{tartext}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/{container_path_name}/{tarname})"
     return tartext
 
 def check_cran_archived(pkg, logtext, each):

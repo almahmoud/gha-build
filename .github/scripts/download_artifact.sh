@@ -5,7 +5,7 @@ LIBRARY=$2
 GITREPO=${3:-"almahmoud/gha-build"}
 
 # Get recorded runid
-RUNID=$(cat logs/run_ids/rstudio-binaries/$DEPNAME | grep "runs/" | head -n 1 | awk -F'runs/' '{print $2}' | awk -F'/' '{print $1}')
+RUNID=$(cat logs/run_ids/$(cat containername)/$DEPNAME | grep "runs/" | head -n 1 | awk -F'runs/' '{print $2}' | awk -F'/' '{print $1}')
 
 # Use GH API to get artifact ID with package name
 ARTIFACT_ID=$(gh api -H "Accept: application/vnd.github+json" /repos/$GITREPO/actions/artifacts?name="artifact-$DEPNAME" --jq ".artifacts[] | select(.workflow_run.id==$RUNID) | .id")

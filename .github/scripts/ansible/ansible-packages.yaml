@@ -38,7 +38,7 @@
       set -x
       cd /home/ubuntu && git clone https://github.com/almahmoud/gha-build || true
       cd gha-build && git pull
-      cat /tmp/tars/{{ item | basename }} | xargs -i -P 20 -n 1 rclone copyto js2:/gha-build/rstudio-binaries/$(cat runstarttime)/{} /tmp/binaries/{} -vvvvv
+      cat /tmp/tars/{{ item | basename }} | xargs -i -P 20 -n 1 rclone copyto js2:/gha-build/$(cat containername)/$(cat runstarttime)/{} /tmp/binaries/{} -vvvvv
     with_fileglob: "tars*"
     args:
       executable: /bin/bash
@@ -56,11 +56,12 @@
       path: /tmp/binaries/PACKAGES
       state: present
 
+
   - name: Upload PACKAGES files
     shell: |
       cd /home/ubuntu/gha-build
-      rclone copyto /tmp/binaries/PACKAGES js2:/gha-build/rstudio-binaries/$(cat runstarttime)/PACKAGES -vvvvv
-      rclone copyto /tmp/binaries/PACKAGES.gz js2:/gha-build/rstudio-binaries/$(cat runstarttime)/PACKAGES.gz -vvvvv
-      rclone copyto /tmp/binaries/PACKAGES.rds js2:/gha-build/rstudio-binaries/$(cat runstarttime)/PACKAGES.rds -vvvvv
+      rclone copyto /tmp/binaries/PACKAGES js2:/gha-build/$(cat containername)/$(cat runstarttime)/PACKAGES -vvvvv
+      rclone copyto /tmp/binaries/PACKAGES.gz js2:/gha-build/$(cat containername)/$(cat runstarttime)/PACKAGES.gz -vvvvv
+      rclone copyto /tmp/binaries/PACKAGES.rds js2:/gha-build/$(cat containername)/$(cat runstarttime)/PACKAGES.rds -vvvvv
     args:
       executable: /bin/bash
