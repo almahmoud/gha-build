@@ -115,7 +115,7 @@ jobs:
         pkg: ${{fromJson(needs.getlistformatrix.outputs.matrix)}}
     runs-on: ubuntu-latest
     container:
-      image: bioconductor/bioconductor_docker:RELEASE_3_16
+      image: ${{ secrets.CONTAINER_BASE_IMAGE }}
     steps:
       - uses: actions/checkout@v3
 
