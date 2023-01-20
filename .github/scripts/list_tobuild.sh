@@ -14,22 +14,22 @@ if [ ! -s tobuild.txt ]; then
       grep -lr "readytobuild" lists/ | sed 's#lists/##g' > tobuild.txt
 
       if [ ! -s tobuild.txt ]; then
-            mkdir -p $(cat runstarttime)/logs
+            mkdir -p logs/$(cat runstarttime)
             counter=0
-            if [ -f "$(cat runstarttime)/logs/retries_counter" ]; then
-                counter=$(<$(cat runstarttime)/logs/retries_counter)
+            if [ -f "logs/$(cat runstarttime)/retries_counter" ]; then
+                counter=$(<logs/$(cat runstarttime)/retries_counter)
             fi
             counter=$((counter+1))
-            echo $counter > "$(cat runstarttime)/logs/retries_counter"
+            echo $counter > "logs/$(cat runstarttime)/retries_counter"
             if [ $counter -gt 10 ]; then
                 echo "READY" > /tmp/write_PACKAGES
             fi
-            git add $(cat runstarttime)/logs
+            git add logs/$(cat runstarttime)
             git commit -m "Increment counter for empty tobuild lists"
       else
-            if [ -f "$(cat runstarttime)/logs/retries_counter" ]; then
-                rm $(cat runstarttime)/logs/retries_counter
-                git add $(cat runstarttime)/logs
+            if [ -f "logs/$(cat runstarttime)/retries_counter" ]; then
+                rm logs/$(cat runstarttime)/retries_counter
+                git add logs/$(cat runstarttime)
             fi
             git add lists
             git add tobuild.txt

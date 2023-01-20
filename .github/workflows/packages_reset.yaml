@@ -13,21 +13,14 @@ jobs:
 
       - name: Copy old run
         run: |
-          STARTTIME=$(cat runstarttime)
-          ARCHIVEDIRBASE="archive/"
-          mkdir -p "$ARCHIVEDIRBASE"
-          ARCHIVEDIR="${ARCHIVEDIRBASE}/${STARTTIME}"
-
-          mv $STARTTIME $ARCHIVEDIR || true
-          mv runstarttime "$ARCHIVEDIR"/ || true
-          mv alldeps.json "$ARCHIVEDIR"/ || true
-          mv directdeps.json "$ARCHIVEDIR"/ || true
-          mv packages.json "$ARCHIVEDIR"/ || true
-          mv tobuild.txt "$ARCHIVEDIR"/ || true
-          mv README.md "$ARCHIVEDIR"/ || true
-          mv lists "$ARCHIVEDIR"/lists || true
-          sed -i "s#/lists/#/$ARCHIVEDIR/lists/#g" "$ARCHIVEDIR/README.md"
-          sed -i "s#/$(cat runstarttime)/logs/#/$ARCHIVEDIR/$(cat runstarttime)/logs/#g" "$ARCHIVEDIR/README.md"
+          STARTTIME="$(cat runstarttime)"
+          LOGDIR="logs/$(cat runstarttime)"
+          mv runstarttime "$LOGDIR"/ || true
+          mv alldeps.json "$LOGDIR"/ || true
+          mv directdeps.json "$LOGDIR"/ || true
+          mv packages.json "$LOGDIR"/ || true
+          mv tobuild.txt "$LOGDIR"/ || true
+          mv lists "$LOGDIR"/lists || true
 
       - shell: sh
         run: |

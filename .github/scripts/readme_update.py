@@ -9,13 +9,13 @@ def get_pkgs_dict():
         pkgs = json.load(f)
     return pkgs
 
-def get_pkg_name_and_run_info(pkg, container_path_name="rstudio-binaries"):
+def get_pkg_name_and_run_info(pkg, container_path_name="rstudio-binaries", runstart=""):
     """Gets the name and run information for a package"""
     name = pkg
     runid = ""
     runurl = ""
-    if exists(f"$(cat runstarttime)/logs/run_ids/{container_path_name}/{pkg}"):
-        with open(f"$(cat runstarttime)/logs/run_ids/{container_path_name}/{pkg}", "r") as frun:
+    if exists(f"logs/{runstart}/run_ids/{container_path_name}/{pkg}"):
+        with open(f"logs/{runstart}/run_ids/{container_path_name}/{pkg}", "r") as frun:
             runid = frun.read()
             runurls = runid.strip().replace("null\n", "").split("\n")
             runurl = ""
@@ -44,13 +44,13 @@ def get_pkg_status_and_tarname(pkg, name):
             tarname = plog.strip()
     return status, tarname
 
-def add_successful_size_and_url(pkg, status, tarname, container_path_name="rstudio-binaries"):
+def add_successful_size_and_url(pkg, status, tarname, container_path_name="rstudio-binaries", runstart=""):
     """Add size and URL to successful tars"""
     tartext = tarname
     if status == "Succeeded":
         sizeinfo = ""
-        if exists(f"$(cat runstarttime)/logs/sizes/{container_path_name}/binaries/{pkg}"):
-            with open(f"$(cat runstarttime)/logs/sizes/{container_path_name}/binaries/{pkg}", "r") as sf:
+        if exists(f"logs/{runstart}/sizes/{container_path_name}/binaries/{pkg}"):
+            with open(f"logs/{runstart}/sizes/{container_path_name}/binaries/{pkg}", "r") as sf:
                 sizeinfo = sf.read()
         if sizeinfo:
             size_b = int(sizeinfo.split(" ")[0])
@@ -150,13 +150,21 @@ def process_failed_pkgs(tables):
         check_dependency_missing(logtext, each)
         add_bbs_status(pkg, each)
 
+def get_runmeta(filepath):
+    """Get timestamp or container name from the start of this run cycle from the given file path"""
+    with open("README.md", "w") as f:
+        runstart = f.read()
+    return runstart
+
 def main():
+    runstart = get_runmeta("runstarttime")
+    containername = get_runmeta("containername")
     pkgs = get_pkgs_dict()
     tables = {"Failed": [], "Unclaimed": [], "Succeeded": []}
     for pkg in list(pkgs):
-        name = get_pkg_name_and_run_info(pkg)
+        name = get_pkg_name_and_run_info(pkg, containername, runstart)
         status, tarname = get_pkg_status_and_tarname(pkg, name)
-        tartext = add_successful_size_and_url(pkg, status, tarname)
+        tartext = add_successful_size_and_url(pkg, status, tarname, containername, runstart)
         tables[status].append([name, status, tartext])
     process_failed_pkgs(tables)
 
@@ -167,7 +175,7 @@ def main():
     unclaimed_headers = ["Package", "Status", "Tarball"]
     succeeded_headers = ["Package", "Status", "Tarball"]
 
-    with open("README.md", "w") as f:
+    with open(f"{runstart}/README.md", "w") as f:
         f.write(f"# Summary\n\n{len(tables['Succeeded'])} built packages\n\n{len(tables['Failed'])} failed packages\n\n{len(tables['Unclaimed'])} unclaimed packages\n\n")
         f.write(f"\n\n## Failed ({len(tables['Failed'])})\n")
         f.write(tabulate(tables["Failed"], failed_headers, tablefmt="github"))

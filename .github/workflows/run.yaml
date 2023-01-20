@@ -75,7 +75,7 @@ jobs:
             cp /tmp/write_PACKAGES lists/write_PACKAGES
             git config user.name github-actions
             git config user.email github-actions@github.com
-            git add $(cat runstarttime)/logs
+            git add logs/$(cat runstarttime)
             git commit -m "Updating write_packages to trigger"
             git push
 
@@ -95,14 +95,14 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git pull origin main || git reset --hard origin/main
             cp /tmp/newtobuild tobuild.txt
-            mkdir -p $(cat runstarttime)/logs/logs/dispatchlists
+            mkdir -p logs/$(cat runstarttime)/logs/dispatchlists
             mkdir -p lists
-            cp /tmp/pkglist $(cat runstarttime)/logs/logs/dispatchlists/${{ steps.uniq.outputs.time }}_pkglist
+            cp /tmp/pkglist logs/$(cat runstarttime)/logs/dispatchlists/${{ steps.uniq.outputs.time }}_pkglist
             cat /tmp/pkglist | xargs -i sed -i 's/readytobuild/claimed/g' "lists/{}"
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add lists
-            git add $(cat runstarttime)/logs
+            git add logs/$(cat runstarttime)
             git add tobuild.txt
             git commit -m "Updating tobuild list"
             git push
@@ -141,11 +141,11 @@ jobs:
             git config user.email github-actions@github.com
             PKG="${{ matrix.pkg }}"
             sed -i 's/claimed/building/g' "lists/$PKG"
-            mkdir -p $(cat runstarttime)/logs/run_ids/$(cat containername)
-            echo "${{ steps.jobs.outputs.html_url }}" >> $(cat runstarttime)/logs/run_ids/$(cat containername)/$PKG
+            mkdir -p logs/$(cat runstarttime)/run_ids/$(cat containername)
+            echo "${{ steps.jobs.outputs.html_url }}" >> logs/$(cat runstarttime)/run_ids/$(cat containername)/$PKG
             # Add workflow URL as backup, in case above failed
-            echo "${{ github.repository }}/actions/runs/${{ github.run_id }}" >> $(cat runstarttime)/logs/run_ids/$(cat containername)/$PKG
-            git add $(cat runstarttime)/logs
+            echo "${{ github.repository }}/actions/runs/${{ github.run_id }}" >> logs/$(cat runstarttime)/run_ids/$(cat containername)/$PKG
+            git add logs/$(cat runstarttime)
             git commit -m "push run_id container $PKG"
             git push
 
@@ -185,7 +185,7 @@ jobs:
         id: pkgbuild
         run: |
           PKG="${{ matrix.pkg }}"
-          mkdir -p /tmp/$(cat runstarttime)/logs/times/rstudio-binary/
+          mkdir -p /tmp/logs/$(cat runstarttime)/times/rstudio-binary/
           bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG $(cat runstarttime)
         continue-on-error: true
         shell: bash
@@ -209,14 +209,14 @@ jobs:
             PKG="${{ matrix.pkg }}"
             git pull origin main || git reset --hard origin/main
             mkdir -p lists/failed
-            mkdir -p $(cat runstarttime)/logs/sizes/$(cat containername)/$(cat runstarttime)/libraries
-            mkdir -p $(cat runstarttime)/logs/sizes/$(cat containername)/$(cat runstarttime)/binaries
+            mkdir -p logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat runstarttime)/libraries
+            mkdir -p logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat runstarttime)/binaries
             cp /tmp/$PKG lists/failed/$PKG;
-            cp -r /tmp/$(cat runstarttime)/logs ./
+            cp -r /tmp/logs/$(cat runstarttime) ./
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add lists
-            git add $(cat runstarttime)/logs
+            git add logs/$(cat runstarttime)
             git commit -m "Marked failed $PKG"
             git push
         if: steps.pkgbuild.outcome=='failure'
@@ -245,10 +245,10 @@ jobs:
       - name: Save size and time
         run: |
           PKG="${{ matrix.pkg }}"
-          mkdir -p /tmp/$(cat runstarttime)/logs/sizes/$(cat containername)/$(cat runstarttime)/libraries
-          mkdir -p /tmp/$(cat runstarttime)/logs/sizes/$(cat containername)/$(cat runstarttime)/binaries
-          wc -c "${{steps.tar.outputs.name}}" > /tmp/$(cat runstarttime)/logs/sizes/$(cat containername)/$(cat runstarttime)/libraries/$PKG
-          wc -c "/tmp/tars/${{steps.tar.outputs.pkg}}" > /tmp/$(cat runstarttime)/logs/sizes/$(cat containername)/$(cat runstarttime)/binaries/$PKG
+          mkdir -p /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat runstarttime)/libraries
+          mkdir -p /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat runstarttime)/binaries
+          wc -c "${{steps.tar.outputs.name}}" > /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat runstarttime)/libraries/$PKG
+          wc -c "/tmp/tars/${{steps.tar.outputs.pkg}}" > /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat runstarttime)/binaries/$PKG
 
       - name: Rclone push package
         uses: nick-fields/retry@v2
@@ -268,8 +268,8 @@ jobs:
           PKG="${{ matrix.pkg }}"
           echo "# $PKG Build summary" >> $GITHUB_STEP_SUMMARY
           echo "RStudio package binary: [Jetstream2](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat containername)/$(cat runstarttime)/${{steps.tar.outputs.pkg}})" >> $GITHUB_STEP_SUMMARY
-          echo "Size of package binary: $(cat /tmp/$(cat runstarttime)/logs/sizes/$(cat containername)/$(cat runstarttime)/binaries/$PKG | awk '{print $1}' | numfmt --to=iec-i --suffix=B --format="%9.2f")" >> $GITHUB_STEP_SUMMARY
-          echo "Size of package library w/ dependencies ([see GitHub artifacts in job summary](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}#artifacts)): $(cat /tmp/$(cat runstarttime)/logs/sizes/$(cat containername)/$(cat runstarttime)/libraries/$PKG | awk '{print $1}' | numfmt --to=iec-i --suffix=B --format="%9.2f")" >> $GITHUB_STEP_SUMMARY
+          echo "Size of package binary: $(cat /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat runstarttime)/binaries/$PKG | awk '{print $1}' | numfmt --to=iec-i --suffix=B --format="%9.2f")" >> $GITHUB_STEP_SUMMARY
+          echo "Size of package library w/ dependencies ([see GitHub artifacts in job summary](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}#artifacts)): $(cat /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat runstarttime)/libraries/$PKG | awk '{print $1}' | numfmt --to=iec-i --suffix=B --format="%9.2f")" >> $GITHUB_STEP_SUMMARY
 
       - name: Rclone mark as pushed
         uses: nick-fields/retry@v2
@@ -282,7 +282,7 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.name github-actions
             git config user.email github-actions@github.com
-            cp -r /tmp/$(cat runstarttime)/logs ./
-            git add $(cat runstarttime)/logs
+            cp -r /tmp/logs/$(cat runstarttime) ./
+            git add logs/$(cat runstarttime)
             if bash -c "bash .github/scripts/rclone_push.sh ${{ matrix.pkg }} ${{steps.tar.outputs.pkg}} 2>&1 | grep -i 'error'"; then exit 1; else 
             echo "Marked pushed ${{ matrix.pkg }}"; fi
