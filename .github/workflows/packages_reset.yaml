@@ -12,8 +12,8 @@ jobs:
 
       - name: Copy old run
         run: |
-          STARTTIME="$(cat runstarttime)"
-          LOGDIR="logs/$(cat runstarttime)"
+          STARTTIME="$(cat runstarttime)" || true
+          LOGDIR="logs/$(cat runstarttime)" || true
           mv runstarttime "$LOGDIR"/ || true
           mv alldeps.json "$LOGDIR"/ || true
           mv directdeps.json "$LOGDIR"/ || true
