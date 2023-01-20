@@ -1,106 +1,0 @@
-+ git pull origin main
-From https://github.com/almahmoud/gha-build
- * branch              main       -> FETCH_HEAD
-   8de64c37..433dd505  main       -> origin/main
-Updating 8de64c37..433dd505
-Fast-forward
- lists/munsell                           |    2 +-
- logs/run_ids/rstudio-binaries/strawr    |    2 +
- logs/run_ids/rstudio-binaries/textshape |    2 +
- packages.json                           | 1208 +------------------------------
- 4 files changed, 6 insertions(+), 1208 deletions(-)
- create mode 100644 logs/run_ids/rstudio-binaries/strawr
- create mode 100644 logs/run_ids/rstudio-binaries/textshape
-+ export LIBRARY=/__w/gha-build/gha-build/built/
-+ LIBRARY=/__w/gha-build/gha-build/built/
-+ export PKG=SNAGEE
-+ PKG=SNAGEE
-+ export runstart=2022-12-23-11-26
-+ runstart=2022-12-23-11-26
-+ mkdir -p /__w/gha-build/gha-build/built/
-+ mkdir -p /tmp/tars/
-+ sed -n '/^    "SNAGEE"/,/^    "/p' directdeps.json
-+ awk '-F"' '{print $2}'
-+ grep '^        "'
-+ export -f process_dep
-+ '[' -s /tmp/deps ']'
-+ process_deps
-+ cat /tmp/deps
-+ xargs -i bash -c 'process_dep {}'
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 29.2M    0 16320    0     0  23428      0  0:21:47 --:--:--  0:21:47 23414  0 29.2M    0  270k    0     0   162k      0  0:03:04  0:00:01  0:03:03  162k  2 29.2M    2  749k    0     0   279k      0  0:01:46  0:00:02  0:01:44  279k  4 29.2M    4 1450k    0     0   395k      0  0:01:15  0:00:03  0:01:12  395k  7 29.2M    7 2358k    0     0   504k      0  0:00:59  0:00:04  0:00:55  504k 11 29.2M   11 3506k    0     0   618k      0  0:00:48  0:00:05  0:00:43  702k 16 29.2M   16 4860k    0     0   728k      0  0:00:41  0:00:06  0:00:35  917k 21 29.2M   21 6438k    0     0   840k      0  0:00:35  0:00:07  0:00:28 1141k 28 29.2M   28 8383k    0     0   967k      0  0:00:30  0:00:08  0:00:22 1386k 37 29.2M   37 11.0M    0     0  1171k      0  0:00:25  0:00:09  0:00:16 1796k 52 29.2M   52 15.3M    0     0  1476k      0  0:00:20  0:00:10  0:00:10 2447k 73 29.2M   73 21.5M    0     0  1893k      0  0:00:15  0:00:11  0:00:04 3450k100 29.2M  100 29.2M    0     0  2379k      0  0:00:12  0:00:12 --:--:-- 4780k
-built/
-built/SNAGEEdata/
-built/SNAGEEdata/extdata/
-built/SNAGEEdata/extdata/geneList.RData
-built/SNAGEEdata/extdata/ccComplete.RData
-built/SNAGEEdata/extdata/ccWoAffy.RData
-built/SNAGEEdata/NAMESPACE
-built/SNAGEEdata/DESCRIPTION
-built/SNAGEEdata/help/
-built/SNAGEEdata/help/paths.rds
-built/SNAGEEdata/help/SNAGEEdata.rdb
-built/SNAGEEdata/help/SNAGEEdata.rdx
-built/SNAGEEdata/help/aliases.rds
-built/SNAGEEdata/help/AnIndex
-built/SNAGEEdata/Meta/
-built/SNAGEEdata/Meta/package.rds
-built/SNAGEEdata/Meta/features.rds
-built/SNAGEEdata/Meta/hsearch.rds
-built/SNAGEEdata/Meta/links.rds
-built/SNAGEEdata/Meta/nsInfo.rds
-built/SNAGEEdata/Meta/Rd.rds
-built/SNAGEEdata/html/
-built/SNAGEEdata/html/00Index.html
-built/SNAGEEdata/html/R.css
-built/SNAGEEdata/INDEX
-built/SNAGEEdata/R/
-built/SNAGEEdata/R/SNAGEEdata.rdb
-built/SNAGEEdata/R/SNAGEEdata
-built/SNAGEEdata/R/SNAGEEdata.rdx
-+ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('\''/__w/gha-build/gha-build/built/'\'', p); .libPaths(p); if(BiocManager::install('\''SNAGEE'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
-+ mv SNAGEE_1.38.0_R_x86_64-pc-linux-gnu.tar.gz /tmp/tars/
-+ echo '\n\nBinary Build log:\n'
-\n\nBinary Build log:\n
-+ cat /tmp/SNAGEE
-'getOption("repos")' replaces Bioconductor standard repositories, see
-'?repositories' for details
-
-replacement repositories:
-    CRAN: https://packagemanager.rstudio.com/cran/__linux__/jammy/latest
-
-Bioconductor version 3.16 (BiocManager 1.30.19), R 4.2.2 (2022-10-31)
-Installing package(s) 'SNAGEE'
-trying URL 'https://bioconductor.org/packages/3.16/bioc/src/contrib/SNAGEE_1.38.0.tar.gz'
-Content type 'application/x-gzip' length 72356 bytes (70 KB)
-==================================================
-downloaded 70 KB
-
-* installing *source* package ‘SNAGEE’ ...
-** using staged installation
-** R
-** inst
-** byte-compile and prepare package for lazy loading
-** help
-*** installing help indices
-** building package indices
-** installing vignettes
-** testing if installed package can be loaded from temporary location
-** testing if installed package can be loaded from final location
-** testing if installed package keeps a record of temporary installation path
-* creating tarball
-packaged installation of ‘SNAGEE’ as ‘SNAGEE_1.38.0_R_x86_64-pc-linux-gnu.tar.gz’
-* DONE (SNAGEE)
-
-The downloaded source packages are in
-	‘/tmp/RtmpaN478t/downloaded_packages’
-Old packages: 'bslib', 'cli', 'digest', 'evaluate', 'gert', 'htmltools',
-  'htmlwidgets', 'httpuv', 'jsonlite', 'knitr', 'openssl', 'pkgbuild',
-  'pkgdown', 'pkgload', 'purrr', 'rmarkdown', 'roxygen2', 'sass', 'shiny',
-  'stringr', 'testthat', 'tinytex', 'vctrs', 'whisker', 'xfun', 'boot',
-  'foreign', 'Matrix', 'nlme'
-
-real	0m21.744s
-user	0m5.818s
-sys	0m1.200s
