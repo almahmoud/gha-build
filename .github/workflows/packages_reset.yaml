@@ -21,8 +21,7 @@ jobs:
           mv tobuild.txt "$LOGDIR"/ || true
           mv lists "$LOGDIR"/lists || true
 
-      - shell: sh
-        uses: "docker://${{ secrets.CONTAINER_BASE_IMAGE }}"
+      - uses: "docker://${{ secrets.CONTAINER_BASE_IMAGE }}"
         with:
           entrypoint: /bin/bash
           args: |
