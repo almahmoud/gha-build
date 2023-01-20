@@ -5,7 +5,7 @@ outputfiles <- commandArgs(trailingOnly = TRUE)
 outputs <- unlist(strsplit(outputfiles,' '))
 alldepsfile <- outputs[[1]]
 directdepsfile <- outputs[[2]]
-BiocManager::install(version = "3.16", ask = FALSE)
+#BiocManager::install(version = "3.16", ask = FALSE)
 
 .exlude_packages <- function() {
     inst <- installed.packages()
