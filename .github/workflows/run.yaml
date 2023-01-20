@@ -114,8 +114,6 @@ jobs:
       matrix:
         pkg: ${{fromJson(needs.getlistformatrix.outputs.matrix)}}
     runs-on: ubuntu-latest
-    container:
-      image: ${{ secrets.CONTAINER_BASE_IMAGE }}
     steps:
       - uses: actions/checkout@v3
 
@@ -150,6 +148,7 @@ jobs:
             git push
 
       - name: Get R, OS, and Bioc versions
+        uses: "${{ secrets.CONTAINER_BASE_IMAGE }}"
         id: versions
         run: |
           echo os=$(Rscript -e 'sessionInfo()$running') >> $GITHUB_OUTPUT
@@ -182,6 +181,7 @@ jobs:
         continue-on-error: true
 
       - name: Build claimed package
+        uses: "${{ secrets.CONTAINER_BASE_IMAGE }}"
         id: pkgbuild
         run: |
           PKG="${{ matrix.pkg }}"

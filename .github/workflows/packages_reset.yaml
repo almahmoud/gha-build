@@ -4,8 +4,6 @@ on:
 jobs:
   packages:
     runs-on: ubuntu-latest
-    container:
-      image: "${{ secrets.CONTAINER_BASE_IMAGE }}"
     steps:
       - uses: actions/checkout@v3
         with:
@@ -24,6 +22,7 @@ jobs:
           mv lists "$LOGDIR"/lists || true
 
       - shell: sh
+        uses: "${{ secrets.CONTAINER_BASE_IMAGE }}"
         run: |
           Rscript .github/scripts/deps_json.R packages.json directdeps.json
           python3 -c """
