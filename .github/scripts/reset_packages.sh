@@ -12,7 +12,7 @@ f.write(json.dumps(pkgs, indent=4))
 f.close()"""
 cp packages.json alldeps.json
 echo "$(TZ=EST date '+%Y-%m-%d-%H-%M')" > runstarttime
-bash .github/scripts/set_container_name.sh
+bash .github/scripts/get_container_name.sh > containername
 git config --global --add safe.directory "$GITHUB_WORKSPACE"
 git config user.email "action@github.com"
 git config user.name "GitHub Action"
