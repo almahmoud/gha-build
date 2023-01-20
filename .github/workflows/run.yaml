@@ -150,12 +150,15 @@ jobs:
       - name: Get R, OS, and Bioc versions
         uses: "${{ secrets.CONTAINER_BASE_IMAGE }}"
         id: versions
-        run: |
-          echo os=$(Rscript -e 'sessionInfo()$running') >> $GITHUB_OUTPUT
-          echo r=$(Rscript -e 'R.Version()$version.string') >> $GITHUB_OUTPUT
-          echo bioc=$(Rscript -e 'BiocManager::version()') >> $GITHUB_OUTPUT
-          echo runstart=${{ hashFiles('runstarttime') }} >> $GITHUB_OUTPUT
-          echo library=$(echo "$(pwd)/built/") >> $GITHUB_OUTPUT
+        with:
+          entrypoint: /bin/bash
+          args:
+            - -c
+            - echo os=$(Rscript -e 'sessionInfo()$running') >> $GITHUB_OUTPUT
+            - echo r=$(Rscript -e 'R.Version()$version.string') >> $GITHUB_OUTPUT
+            - echo bioc=$(Rscript -e 'BiocManager::version()') >> $GITHUB_OUTPUT
+            - echo runstart=${{ hashFiles('runstarttime') }} >> $GITHUB_OUTPUT
+            - echo library=$(echo "$(pwd)/built/") >> $GITHUB_OUTPUT
 
       - name: Get deps list
         id: deps
@@ -183,10 +186,12 @@ jobs:
       - name: Build claimed package
         uses: "${{ secrets.CONTAINER_BASE_IMAGE }}"
         id: pkgbuild
-        run: |
-          PKG="${{ matrix.pkg }}"
-          mkdir -p /tmp/logs/$(cat runstarttime)/times/rstudio-binary/
-          bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} $PKG $(cat runstarttime)
+        with:
+          entrypoint: /bin/bash
+          args:
+            - .github/scripts/build_package.sh 
+            - ${{ steps.versions.outputs.library }}
+            - ${{ matrix.pkg }}
         continue-on-error: true
         shell: bash
 
