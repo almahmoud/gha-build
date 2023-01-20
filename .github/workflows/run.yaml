@@ -148,7 +148,7 @@ jobs:
             git push
 
       - name: Get R, OS, and Bioc versions
-        uses: "${{ secrets.CONTAINER_BASE_IMAGE }}"
+        uses: "docker://${{ secrets.CONTAINER_BASE_IMAGE }}"
         id: versions
         with:
           entrypoint: /bin/bash
@@ -184,7 +184,7 @@ jobs:
         continue-on-error: true
 
       - name: Build claimed package
-        uses: "${{ secrets.CONTAINER_BASE_IMAGE }}"
+        uses: "docker://${{ secrets.CONTAINER_BASE_IMAGE }}"
         id: pkgbuild
         with:
           entrypoint: /bin/bash
