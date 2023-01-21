@@ -201,7 +201,7 @@ jobs:
         with:
           images: ghcr.io/${{ github.repository }}
           tags: |
-            type=raw,value=${{pkg}}-${{steps.versions.outputs.platform}}
+            type=raw,value=${{ matrix.pkg }}-${{steps.versions.outputs.platform}}
 
       - name: Build and push container image to GHCR
         id: ghcrpush
