@@ -195,7 +195,16 @@ jobs:
         with:
           platforms: ${{ steps.versions.outputs.platform }}
 
+      - name: Extract metadata for container image
+        id: meta
+        uses: docker/metadata-action@v4
+        with:
+          images: ghcr.io/${{ github.repository }}
+          tags: |
+            type=raw,value=${{pkg}}-${{steps.versions.outputs.platform}}
+
       - name: Build and push container image to GHCR
+        id: ghcrpush
         uses: docker/build-push-action@v3
         with:
           build-args: |
@@ -208,11 +217,17 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
           platforms: ${{ steps.versions.outputs.platform }}
           continue-on-error: true
-         
+
+      - uses: shrink/actions-docker-extract@v2
+        id: tarextract
+        with:
+          image: "ghcr.io/${{ github.repository }}:${{ steps.meta.outputs.tags }}"
+          path: /tmp/tars
 
       - name: Get tar name
         id: tar
         run: |
+          cp ${{ steps.extract.outputs.destination }}/tars /tmp/
           echo pkg=$(ls /tmp/tars/ | grep ${{matrix.pkg}} | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
           # make tar of library
           cd $(dirname ${{ steps.versions.outputs.library }}) && tar -zcvf "${{ matrix.pkg }}.tar.gz" "$(basename ${{ steps.versions.outputs.library }})"
