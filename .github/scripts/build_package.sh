@@ -17,7 +17,7 @@ function process_dep() {
     echo "Dependency $1 is already found."
     return
   else
-  	bash -c "curl -o $(dirname $LIBRARY)/$1.tar.gz https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/running/$runstart/$1.tar.gz && ( cd $(dirname $LIBRARY) && tar -xvf $1.tar.gz && rm $1.tar.gz )"
+  	bash -c "curl -o $(dirname $LIBRARY)/$1.tar.gz https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/libraries/$1.tar.gz && ( cd $(dirname $LIBRARY) && tar -xvf $1.tar.gz && rm $1.tar.gz )"
   fi
 }
 

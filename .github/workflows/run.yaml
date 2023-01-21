@@ -139,10 +139,10 @@ jobs:
             git config user.email github-actions@github.com
             PKG="${{ matrix.pkg }}"
             sed -i 's/claimed/building/g' "lists/$PKG"
-            mkdir -p logs/$(cat runstarttime)/run_ids/$(cat containername)
-            echo "${{ steps.jobs.outputs.html_url }}" >> logs/$(cat runstarttime)/run_ids/$(cat containername)/$PKG
+            mkdir -p logs/$(cat runstarttime)/run_ids/$(cat containername)/$(cat arch)
+            echo "${{ steps.jobs.outputs.html_url }}" >> logs/$(cat runstarttime)/run_ids/$(cat containername)/$(cat arch)/$PKG
             # Add workflow URL as backup, in case above failed
-            echo "${{ github.repository }}/actions/runs/${{ github.run_id }}" >> logs/$(cat runstarttime)/run_ids/$(cat containername)/$PKG
+            echo "${{ github.repository }}/actions/runs/${{ github.run_id }}" >> logs/$(cat runstarttime)/run_ids/$(cat containername)/$(cat arch)/$PKG
             git add logs/$(cat runstarttime)
             git commit -m "push run_id container $PKG"
             git push
@@ -228,8 +228,8 @@ jobs:
             PKG="${{ matrix.pkg }}"
             git pull origin main || git reset --hard origin/main
             mkdir -p lists/failed
-            mkdir -p logs/$(cat runstarttime)/sizes/$(cat containername)/libraries
-            mkdir -p logs/$(cat runstarttime)/sizes/$(cat containername)/binaries
+            mkdir -p logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat arch)/libraries
+            mkdir -p logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat arch)/binaries
             cp /tmp/$PKG lists/failed/$PKG;
             cp -r /tmp/logs/$(cat runstarttime) ./
             git config user.name github-actions
@@ -266,17 +266,18 @@ jobs:
           PKG="${{ matrix.pkg }}"
           runstarttime=$(cat runstarttime)
           containername=$(cat containername)
-          mkdir -p /tmp/logs/$runstarttime/sizes/$containername/libraries
-          mkdir -p /tmp/logs/$runstarttime/sizes/$containername/binaries
-          wc -c "${{steps.tar.outputs.name}}" > /tmp/logs/$runstarttime/sizes/$containername/libraries/$PKG
-          wc -c "/tmp/tars/${{steps.tar.outputs.pkg}}" > /tmp/logs/$runstarttime/sizes/$containername/binaries/$PKG
-          mkdir -p /tmp/logs/$runstarttime/times/$containername/
+          arch=$(cat arch)
+          mkdir -p /tmp/logs/$runstarttime/sizes/$containername/$arch/libraries
+          mkdir -p /tmp/logs/$runstarttime/sizes/$containername/$arch/binaries
+          wc -c "${{steps.tar.outputs.name}}" > /tmp/logs/$runstarttime/sizes/$containername/$arch/libraries/$PKG
+          wc -c "/tmp/tars/${{steps.tar.outputs.pkg}}" > /tmp/logs/$runstarttime/sizes/$containername/$arch/binaries/$PKG
+          mkdir -p /tmp/logs/$runstarttime/times/$containername/$arch/
 
           # Get the 3 lines of times into time log
-          echo "$(grep -A2 '^real' /tmp/$PKG)" > /tmp/logs/$runstarttime/times/$containername/$PKG
+          echo "$(grep -A2 '^real' /tmp/$PKG)" > /tmp/logs/$runstarttime/times/$containername/$arch/$PKG
           
           # Copy entire log
-          cp /tmp/$PKG > /tmp/logs/$runstart/build/$containername/$PKG
+          cp /tmp/$PKG > /tmp/logs/$runstart/build/$containername/$arch/$PKG
 
       - name: Rclone push package
         uses: nick-fields/retry@v2
@@ -287,17 +288,19 @@ jobs:
           command: |
             set -x
             # Push binary
-            rclone copy /tmp/tars/${{steps.tar.outputs.pkg}} js2:/gha-build/$(cat containername)/ -vvvvvv
+            rclone copy /tmp/tars/${{steps.tar.outputs.pkg}} js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/ -vvvvvv
             # Push copy of library
-            rclone copy ${{steps.tar.outputs.name}} js2:/gha-build/running/$(cat runstarttime)/ -vvvvvv
+            rclone copy ${{steps.tar.outputs.name}} js2:/gha-build/running/$(cat containername)/$(cat arch)/$(cat runstarttime)/libraries/ -vvvvvv
 
       - name: Add info to summary
         run: |
           PKG="${{ matrix.pkg }}"
-          echo "# $PKG Build summary" >> $GITHUB_STEP_SUMMARY
-          echo "RStudio package binary: [Jetstream2](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat containername)/${{steps.tar.outputs.pkg}})" >> $GITHUB_STEP_SUMMARY
-          echo "Size of package binary: $(cat /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/binaries/$PKG | awk '{print $1}' | numfmt --to=iec-i --suffix=B --format="%9.2f")" >> $GITHUB_STEP_SUMMARY
-          echo "Size of package library w/ dependencies ([see GitHub artifacts in job summary](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}#artifacts)): $(cat /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/libraries/$PKG | awk '{print $1}' | numfmt --to=iec-i --suffix=B --format="%9.2f")" >> $GITHUB_STEP_SUMMARY
+          PLATFORM=${{ steps.versions.outputs.platform }}
+          echo "# $PKG package build summary" >> $GITHUB_STEP_SUMMARY
+          echo "Platform: $PLATFORM" >> $GITHUB_STEP_SUMMARY
+          echo "Package binary: [Jetstream2](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat runstarttime)/$(cat containername)/$(cat arch)/binaries/${{steps.tar.outputs.pkg}})" >> $GITHUB_STEP_SUMMARY
+          echo "Size of package binary: $(cat /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat arch)/binaries/$PKG | awk '{print $1}' | numfmt --to=iec-i --suffix=B --format="%9.2f")" >> $GITHUB_STEP_SUMMARY
+          echo "Size of package library w/ dependencies ([see GitHub artifacts in job summary](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}#artifacts)): $(cat /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat arch)/libraries/$PKG | awk '{print $1}' | numfmt --to=iec-i --suffix=B --format="%9.2f")" >> $GITHUB_STEP_SUMMARY
 
       - name: Rclone mark as pushed
         uses: nick-fields/retry@v2
