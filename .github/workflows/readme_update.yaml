@@ -12,10 +12,9 @@ jobs:
           python -m pip install tabulate humanize
           python .github/scripts/readme_update.py
           mkdir -p /tmp
-          cp README.md /tmp/README.md
+          cp $(cat runstarttime)/README.md /tmp/README.md
           COMMIT=$(git rev-parse --short HEAD)
           sed -i "s#/main/#/$COMMIT/#g" /tmp/README.md
-          sed -i "s#/$(cat containername)/#/$(cat containername)/$(cat runstarttime)/#g" /tmp/README.md
 
       - name: Update README and push
         uses: nick-fields/retry@v2
