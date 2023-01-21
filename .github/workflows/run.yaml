@@ -114,7 +114,6 @@ jobs:
       matrix:
         pkg: ${{fromJson(needs.getlistformatrix.outputs.matrix)}}
     runs-on: ubuntu-latest
-    container: "&bioc.CONTAINER_BASE_IMAGE"
     steps:
       - uses: actions/checkout@v3
 
@@ -149,14 +148,17 @@ jobs:
             git push
 
       - name: Get R, OS, and Bioc versions
+        uses: "docker://&bioc.CONTAINER_BASE_IMAGE"
         id: versions
-        shell: bash
-        run: |
-          echo os=$(Rscript -e 'sessionInfo()$running') >> $GITHUB_OUTPUT
-          echo r=$(Rscript -e 'R.Version()$version.string') >> $GITHUB_OUTPUT
-          echo bioc=$(Rscript -e 'BiocManager::version()') >> $GITHUB_OUTPUT
-          echo runstart=${{ hashFiles('runstarttime') }} >> $GITHUB_OUTPUT
-          echo library=$(echo "$(pwd)/built/") >> $GITHUB_OUTPUT
+        with:
+          entrypoint: /bin/bash
+          args:
+            - -c
+            - echo os=$(Rscript -e 'sessionInfo()$running') >> $GITHUB_OUTPUT
+            - echo r=$(Rscript -e 'R.Version()$version.string') >> $GITHUB_OUTPUT
+            - echo bioc=$(Rscript -e 'BiocManager::version()') >> $GITHUB_OUTPUT
+            - echo runstart=${{ hashFiles('runstarttime') }} >> $GITHUB_OUTPUT
+            - echo library=$(echo "$(pwd)/built/") >> $GITHUB_OUTPUT
 
       - name: Get deps list
         id: deps
@@ -182,8 +184,14 @@ jobs:
         continue-on-error: true
 
       - name: Build claimed package
+        uses: "docker://&bioc.CONTAINER_BASE_IMAGE"
         id: pkgbuild
-        run: bash .github/scripts/build_package.sh ${{ steps.versions.outputs.library }} ${{ matrix.pkg }}
+        with:
+          entrypoint: /bin/bash
+          args:
+            - .github/scripts/build_package.sh 
+            - ${{ steps.versions.outputs.library }}
+            - ${{ matrix.pkg }}
         continue-on-error: true
         shell: bash
 
