@@ -194,7 +194,7 @@ jobs:
         with:
           images: ghcr.io/${{ github.repository }}
           tags: |
-            type=raw,value=${{ matrix.pkg }}-${{steps.versions.outputs.platform}}
+            type=raw,value=${{ matrix.pkg }}-${{steps.versions.outputs.sanitizedarch}}
 
       - name: Build and push container image to GHCR
         id: ghcrpush
@@ -204,7 +204,7 @@ jobs:
             LIBRARY=${{ steps.versions.outputs.library }}
             PKG=${{ matrix.pkg }}
             PLATFORM=${{ steps.versions.outputs.platform }}
-          file: Dockerfile
+          file: .github/scripts/build.Dockerfile
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}

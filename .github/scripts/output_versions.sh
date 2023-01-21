@@ -4,3 +4,4 @@ echo r=$(Rscript -e 'R.Version()$version.string') >> $GITHUB_OUTPUT
 echo bioc=$(Rscript -e 'BiocManager::version()') >> $GITHUB_OUTPUT
 echo library=$(echo "$(pwd)/built/") >> $GITHUB_OUTPUT
 echo platform=$(cat arch) >> $GITHUB_OUTPUT
+echo sanitizedarch=$(cat arch | sed "s/[^[:alnum:]]/-/g") >> $GITHUB_OUTPUT
