@@ -172,7 +172,7 @@ jobs:
           # Install gh cli, jq, time, collectl
           curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg && sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg && echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null && sudo apt-get update -y && DEBIAN_FRONTEND=noninteractive sudo apt-get --no-install-recommends install gh jq time -y
           PKG=${{ matrix.pkg }}
-          cat /tmp/directdeps | xargs -i bash .github/scripts/download_artifact.sh {} ${{ steps.versions.outputs.library }} ${{github.repository}}
+          cat /tmp/directdeps | xargs -i bash .github/scripts/download_artifact.sh {} /home/ubuntu/${{ steps.versions.outputs.library }} ${{github.repository}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
@@ -197,7 +197,7 @@ jobs:
             type=raw,value=${{ matrix.pkg }}-${{steps.versions.outputs.sanitizedarch}}
 
       - name: Build and push container image to GHCR
-        id: ghcrpush
+        id: pkgbuild
         uses: docker/build-push-action@v3
         with:
           build-args: |
@@ -217,10 +217,17 @@ jobs:
           image: "ghcr.io/${{ github.repository }}:${{ steps.meta.outputs.tags }}"
           path: /tmp/tars
 
+      - uses: shrink/actions-docker-extract@v2
+        id: libraryextract
+        with:
+          image: "ghcr.io/${{ github.repository }}:${{ steps.meta.outputs.tags }}"
+          path: ${{ steps.versions.outputs.library }}
+
       - name: Get tar name
         id: tar
         run: |
-          cp ${{ steps.extract.outputs.destination }}/tars /tmp/
+          cp -r ${{ steps.tarextract.outputs.destination }}/tars /tmp/
+          cp -r ${{ steps.libraryextract.outputs.destination }}/$(basename ${{ steps.versions.outputs.library }}) $(dirname ${{ steps.versions.outputs.library }})
           echo pkg=$(ls /tmp/tars/ | grep ${{matrix.pkg}} | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
           # make tar of library
           cd $(dirname ${{ steps.versions.outputs.library }}) && tar -zcvf "${{ matrix.pkg }}.tar.gz" "$(basename ${{ steps.versions.outputs.library }})"
