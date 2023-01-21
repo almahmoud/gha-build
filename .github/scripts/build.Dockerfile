@@ -4,6 +4,6 @@ ARG PKG
 ARG PLATFORM
 COPY . /home/ubuntu/
 RUN mkdir -p $LIBRARY
-COPY /home/ubuntu/$LIBRARY $LIBRARY
+COPY $LIBRARY $LIBRARY
 WORKDIR /home/ubuntu
 RUN mv $LIBRARY/$(basename $LIBRARY); bash .github/scripts/build_package.sh $LIBRARY $PKG $PLATFORM
