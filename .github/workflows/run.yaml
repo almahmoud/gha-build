@@ -114,7 +114,7 @@ jobs:
       matrix:
         pkg: ${{fromJson(needs.getlistformatrix.outputs.matrix)}}
     runs-on: ubuntu-latest
-    container: "bioc.CONTAINER_BASE_IMAGE"
+    container: "&bioc.CONTAINER_BASE_IMAGE"
     steps:
       - uses: actions/checkout@v3
 
