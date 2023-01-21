@@ -205,7 +205,7 @@ jobs:
             PKG=${{ matrix.pkg }}
             PLATFORM=${{ steps.versions.outputs.platform }}
           file: .github/scripts/build.Dockerfile
-          push: true
+          push: false
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           platforms: ${{ steps.versions.outputs.platform }}
