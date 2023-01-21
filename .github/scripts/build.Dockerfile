@@ -3,4 +3,4 @@ ARG LIBRARY
 ARG PKG
 ARG PLATFORM
 COPY . /home/ubuntu/
-RUN /home/ubuntu/.github/scripts/download_artifact.sh $LIBRARY $PKG $PLATFORM
+RUN bash /home/ubuntu/.github/scripts/download_artifact.sh $LIBRARY $PKG $PLATFORM
