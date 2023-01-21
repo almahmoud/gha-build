@@ -188,11 +188,12 @@ jobs:
         uses: docker/setup-qemu-action@v2
         with:
           platforms: arm64
+        if: contains(steps.versions.outputs.platform, 'arm64')
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v2
         with:
-          platforms: linux/amd64,linux/arm64
+          platforms: ${{ steps.versions.outputs.platform }}
 
       - name: Build and push container image to GHCR
         uses: docker/build-push-action@v3
