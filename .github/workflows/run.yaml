@@ -159,6 +159,7 @@ jobs:
             - echo bioc=$(Rscript -e 'BiocManager::version()') >> $GITHUB_OUTPUT
             - echo runstart=${{ hashFiles('runstarttime') }} >> $GITHUB_OUTPUT
             - echo library=$(echo "$(pwd)/built/") >> $GITHUB_OUTPUT
+            - echo platform=$(cat arch) >> $GITHUB_OUTPUT
 
       - name: Get deps list
         id: deps
@@ -183,17 +184,30 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
 
-      - name: Build claimed package
-        uses: "docker://&bioc.CONTAINER_BASE_IMAGE"
-        id: pkgbuild
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v2
         with:
-          entrypoint: /bin/bash
-          args:
-            - .github/scripts/build_package.sh 
-            - ${{ steps.versions.outputs.library }}
-            - ${{ matrix.pkg }}
-        continue-on-error: true
-        shell: bash
+          platforms: arm64
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+        with:
+          platforms: linux/amd64,linux/arm64
+
+      - name: Build and push container image to GHCR
+        uses: docker/build-push-action@v3
+        with:
+          build-args: |
+            LIBRARY=${{ steps.versions.outputs.library }}
+            PKG=${{ matrix.pkg }}
+            PLATFORM=${{ steps.versions.outputs.platform }}
+          file: Dockerfile
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          platforms: ${{ steps.versions.outputs.platform }}
+          continue-on-error: true
+         
 
       - name: Get tar name
         id: tar
