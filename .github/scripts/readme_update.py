@@ -152,7 +152,7 @@ def process_failed_pkgs(tables):
 
 def get_runmeta(filepath):
     """Get timestamp or container name from the start of this run cycle from the given file path"""
-    with open("README.md", "w") as f:
+    with open("README.md", "r") as f:
         runstart = f.read()
     return runstart
 
