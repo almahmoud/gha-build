@@ -228,10 +228,10 @@ jobs:
       - name: Copy artifacts from within built container
         run: |
           set -x
-          CONTAINERID=$(docker create ${{ steps.meta.outputs.tags }})
-          docker cp $CONTAINERID:/tmp /
-          docker cp $CONTAINERID:/${{ steps.versions.outputs.library }}) $(dirname /${{ steps.versions.outputs.library }})
-          docker rm $CONTAINERID
+          CONTAINERID=$(sudo docker create --user root ${{ steps.meta.outputs.tags }})
+          sudo docker cp $CONTAINERID:/tmp /
+          sudo docker cp $CONTAINERID:/${{ steps.versions.outputs.library }}) $(dirname /${{ steps.versions.outputs.library }})
+          sudo docker rm $CONTAINERID
 
       - name: Get tar name
         id: tar
