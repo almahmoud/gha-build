@@ -217,7 +217,7 @@ jobs:
         id: tarextract
         with:
           image: "${{ steps.meta.outputs.tags }}"
-          path: /tmp/tars
+          path: /tmp
 
       - uses: shrink/actions-docker-extract@v2
         id: libraryextract
@@ -228,7 +228,7 @@ jobs:
       - name: Get tar name
         id: tar
         run: |
-          cp -r ${{ steps.tarextract.outputs.destination }}/tars /tmp/
+          cp -r ${{ steps.tarextract.outputs.destination }}/tmp /
           cp -r ${{ steps.libraryextract.outputs.destination }}/$(basename ${{ steps.versions.outputs.library }}) $(dirname ${{ steps.versions.outputs.library }})
           echo pkg=$(ls /tmp/tars/ | grep ${{matrix.pkg}} | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
           # make tar of library
