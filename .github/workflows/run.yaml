@@ -197,6 +197,18 @@ jobs:
           tags: |
             type=raw,value=${{ matrix.pkg }}-${{steps.versions.outputs.sanitizedarch}}
 
+      - name: Install rclone & add rclone conf file
+        uses: nick-fields/retry@v2
+        env:
+            RCLONE_CONF: ${{secrets.RCLONE_CONF}}
+        with:
+          timeout_minutes: 20
+          max_attempts: 3
+          shell: bash
+          command: |
+            sudo -v ; curl https://rclone.org/install.sh | sudo bash
+            echo "$RCLONE_CONF" > ~/.rclone.conf
+
       - name: Build and push container image to GHCR
         id: pkgbuild
         uses: docker/build-push-action@v3
@@ -216,11 +228,10 @@ jobs:
       - name: Copy artifacts from within built container
         run: |
           set -x
-          docker run --rm --name copy --platform ${{ steps.versions.outputs.platform }} --entrypoint /bin/bash ${{ steps.meta.outputs.tags }} sleep 100000 
-          CONTAINERID=$(docker ps -aqf "name=copy")
-          docker cp CONTAINERID:/tmp /
-          docker cp CONTAINERID:/${{ steps.versions.outputs.library }}) $(dirname /${{ steps.versions.outputs.library }})
-          docker kill CONTAINERID
+          CONTAINERID=$(docker create ${{ steps.meta.outputs.tags }})
+          docker cp $CONTAINERID:/tmp /
+          docker cp $CONTAINERID:/${{ steps.versions.outputs.library }}) $(dirname /${{ steps.versions.outputs.library }})
+          docker rm $CONTAINERID
 
       - name: Get tar name
         id: tar
@@ -263,17 +274,6 @@ jobs:
           name: "artifact-${{ matrix.pkg }}"
           path: ${{steps.tar.outputs.name}}
 
-      - name: Install rclone & add rclone conf file
-        uses: nick-fields/retry@v2
-        env:
-            RCLONE_CONF: ${{secrets.RCLONE_CONF}}
-        with:
-          timeout_minutes: 20
-          max_attempts: 3
-          shell: bash
-          command: |
-            sudo -v ; curl https://rclone.org/install.sh | sudo bash
-            echo "$RCLONE_CONF" > ~/.rclone.conf
 
       - name: Save size and time
         run: |
