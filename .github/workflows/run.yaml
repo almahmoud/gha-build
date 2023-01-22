@@ -319,7 +319,7 @@ jobs:
             # Push binary
             rclone copy /tmp/tars/${{steps.tar.outputs.pkg}} js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/ -vvvvvv
             # Push copy of library
-            rclone copy ${{steps.tar.outputs.name}} js2:/gha-build/running/$(cat containername)/$(cat arch)/$(cat runstarttime)/libraries/ -vvvvvv
+            rclone copy ${{steps.tar.outputs.name}} js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/libraries/ -vvvvvv
 
       - name: Add info to summary
         run: |
