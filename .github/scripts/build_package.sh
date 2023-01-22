@@ -1,6 +1,5 @@
 #!/bin/bash
 set -xe
-git pull origin main || git reset --hard origin/main
 export LIBRARY=$1
 export PKG=$2
 
