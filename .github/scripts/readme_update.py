@@ -154,7 +154,7 @@ def get_runmeta(filepath):
     """Get timestamp or container name from the start of this run cycle from the given file path"""
     with open(filepath, "r") as f:
         meta = f.read()
-    return meta
+    return meta.strip()
 
 def main():
     runstart = get_runmeta("runstarttime")
