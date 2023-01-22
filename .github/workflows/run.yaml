@@ -304,9 +304,9 @@ jobs:
           # Get the 3 lines of times into time log
           echo "$(grep -A2 '^real' /tmp/$PKG)" > /tmp/logs/$runstarttime/times/$containername/$arch/$PKG
           
-          mkdir -p /tmp/logs/$runstart/build/$containername/$arch
+          mkdir -p /tmp/logs/$runstarttime/build/$containername/$arch
           # Copy entire log
-          cp /tmp/$PKG /tmp/logs/$runstart/build/$containername/$arch/$PKG
+          cp /tmp/$PKG /tmp/logs/$runstarttime/build/$containername/$arch/$PKG
 
       - name: Rclone push package
         uses: nick-fields/retry@v2
