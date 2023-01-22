@@ -4,4 +4,4 @@ ARG PKG
 ARG PLATFORM
 COPY . /home/ubuntu/
 WORKDIR /home/ubuntu
-RUN mkdir -p /$LIBRARY && ls ./$LIBRARY | xargs -i mv ./$LIBRARY /$LIBRARY && bash .github/scripts/build_package.sh $LIBRARY $PKG $PLATFORM
+RUN mkdir -p /$LIBRARY && ls ./$LIBRARY | xargs -i mv ./$LIBRARY/{} /$LIBRARY/{} && bash .github/scripts/build_package.sh $LIBRARY $PKG $PLATFORM
