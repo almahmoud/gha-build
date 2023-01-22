@@ -223,15 +223,31 @@ jobs:
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           platforms: ${{ steps.versions.outputs.platform }}
-          continue-on-error: true
+        continue-on-error: true
 
       - name: Copy artifacts from within built container
         run: |
           set -x
-          CONTAINERID=$(sudo docker create --user root ${{ steps.meta.outputs.tags }})
-          sudo docker cp $CONTAINERID:/tmp /
-          sudo docker cp $CONTAINERID:/${{ steps.versions.outputs.library }}) $(dirname /${{ steps.versions.outputs.library }})
-          sudo docker rm $CONTAINERID
+          CONTAINERID=$(docker create ${{ steps.meta.outputs.tags }})
+          docker cp $CONTAINERID:/tmp /
+          docker cp $CONTAINERID:/${{ steps.versions.outputs.library }}) $(dirname /${{ steps.versions.outputs.library }})
+          docker rm $CONTAINERID
+        if: ${{ contains(steps.versions.outputs.platform, 'linux/amd64') && steps.pkgbuild.outcome=='success' }}
+
+      - name: Copy artifacts from within built container
+        run: |
+          set -x
+          mkdir -p image
+          cd image
+          docker save ${{ steps.meta.outputs.tags }} > image.tar
+          tar -xvf image.tar
+          # Untar the last layer (Build layer)
+          cat manifest.json | awk -F'"' '{print $(NF-1)}' | xargs tar -xvf
+          cp -r tmp /
+          cp -r ${{ steps.versions.outputs.library }} $(dirname /${{ steps.versions.outputs.library }})
+          cd ..
+          rm -rf image
+        if: ${{ steps.pkgbuild.outcome=='failure' || !contains(steps.versions.outputs.platform, 'linux/amd64') }}
 
       - name: Get tar name
         id: tar
@@ -253,8 +269,6 @@ jobs:
             PKG="${{ matrix.pkg }}"
             git pull origin main || git reset --hard origin/main
             mkdir -p lists/failed
-            mkdir -p logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat arch)/libraries
-            mkdir -p logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat arch)/binaries
             cp /tmp/$PKG lists/failed/$PKG;
             cp -r /tmp/logs/$(cat runstarttime) ./
             git config user.name github-actions

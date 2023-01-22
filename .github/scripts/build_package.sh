@@ -1,5 +1,5 @@
 #!/bin/bash
-set -xe
+set -x
 export LIBRARY=$1
 export PKG=$2
 
