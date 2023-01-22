@@ -215,13 +215,13 @@ jobs:
       - uses: shrink/actions-docker-extract@v2
         id: tarextract
         with:
-          image: "ghcr.io/${{ github.repository }}:${{ steps.meta.outputs.tags }}"
+          image: "${{ steps.meta.outputs.tags }}"
           path: /tmp/tars
 
       - uses: shrink/actions-docker-extract@v2
         id: libraryextract
         with:
-          image: "ghcr.io/${{ github.repository }}:${{ steps.meta.outputs.tags }}"
+          image: "${{ steps.meta.outputs.tags }}"
           path: ${{ steps.versions.outputs.library }}
 
       - name: Get tar name
