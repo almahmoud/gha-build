@@ -296,7 +296,7 @@ jobs:
           
           mkdir -p /tmp/logs/$runstart/build/$containername/$arch
           # Copy entire log
-          cp /tmp/$PKG > /tmp/logs/$runstart/build/$containername/$arch/$PKG
+          cp /tmp/$PKG /tmp/logs/$runstart/build/$containername/$arch/$PKG
 
       - name: Rclone push package
         uses: nick-fields/retry@v2
