@@ -327,7 +327,7 @@ jobs:
           PLATFORM=${{ steps.versions.outputs.platform }}
           echo "# $PKG package build summary" >> $GITHUB_STEP_SUMMARY
           echo "Platform: $PLATFORM" >> $GITHUB_STEP_SUMMARY
-          echo "Package binary: [Jetstream2](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat runstarttime)/$(cat containername)/$(cat arch)/binaries/${{steps.tar.outputs.pkg}})" >> $GITHUB_STEP_SUMMARY
+          echo "Package binary: [Jetstream2](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/${{steps.tar.outputs.pkg}})" >> $GITHUB_STEP_SUMMARY
           echo "Size of package binary: $(cat /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat arch)/binaries/$PKG | awk '{print $1}' | numfmt --to=iec-i --suffix=B --format="%9.2f")" >> $GITHUB_STEP_SUMMARY
           echo "Size of package library w/ dependencies ([see GitHub artifacts in job summary](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}#artifacts)): $(cat /tmp/logs/$(cat runstarttime)/sizes/$(cat containername)/$(cat arch)/libraries/$PKG | awk '{print $1}' | numfmt --to=iec-i --suffix=B --format="%9.2f")" >> $GITHUB_STEP_SUMMARY
 
