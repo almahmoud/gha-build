@@ -213,23 +213,18 @@ jobs:
           platforms: ${{ steps.versions.outputs.platform }}
           continue-on-error: true
 
-      - uses: shrink/actions-docker-extract@v2
-        id: tarextract
-        with:
-          image: "${{ steps.meta.outputs.tags }}"
-          path: /tmp
-
-      - uses: shrink/actions-docker-extract@v2
-        id: libraryextract
-        with:
-          image: "${{ steps.meta.outputs.tags }}"
-          path: ${{ steps.versions.outputs.library }}
+      - name: Copy artifacts from within built container
+        run: |
+          set -x
+          docker run --rm --name copy --entrypoint /bin/bash ${{ steps.meta.outputs.tags }} sleep 100000
+          CONTAINERID=$(docker ps -aqf "name=copy")
+          docker cp CONTAINERID:/tmp /
+          docker cp /${{ steps.versions.outputs.library }}) $(dirname /${{ steps.versions.outputs.library }})
 
       - name: Get tar name
         id: tar
         run: |
-          cp -r ${{ steps.tarextract.outputs.destination }}/tmp /
-          cp -r ${{ steps.libraryextract.outputs.destination }}/$(basename ${{ steps.versions.outputs.library }}) $(dirname ${{ steps.versions.outputs.library }})
+          set -x
           echo pkg=$(ls /tmp/tars/ | grep ${{matrix.pkg}} | sed 's#/tmp/tars/##g') >> $GITHUB_OUTPUT
           # make tar of library
           cd $(dirname ${{ steps.versions.outputs.library }}) && tar -zcvf "${{ matrix.pkg }}.tar.gz" "$(basename ${{ steps.versions.outputs.library }})"
