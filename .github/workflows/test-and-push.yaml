@@ -103,6 +103,7 @@ jobs:
 
       - run: |
           rclone copyto js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/src/contrib js2:/${{steps.variables.outputs.biocver}}/container-binaries/$(cat containername)/$(cat arch)/binaries/src/contrib -vvvvvv
+          rclone purge js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/libraries -vvvvv
         if: steps.variables.outcome=='success'
 
       - name: Copy old run
