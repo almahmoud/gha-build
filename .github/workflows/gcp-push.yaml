@@ -57,12 +57,34 @@ jobs:
             fi
 
       - name: Copy js2 to gcp
+        id: rclonecopy
         run: |
           mkdir -p /tmp/
           rclone copyto js2-s3:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib --exclude PACKAGES --exclude PACKAGES.* -vvvvv 2>&1 | tee /tmp/js2s3log
           grep "Removing failed copy" /tmp/js2s3log | grep -oe '[^ ]*.tar.gz' | sort | uniq > /tmp/failedlist
           cat /tmp/failedlist | xargs -i rclone copy js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/{} gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/ -vvvvv
-        
+          grep "s differ" /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq > /tmp/differ
+          grep "Unchanged skipping" /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq > /tmp/skipped
+          grep "Copied (new)" /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq > /tmp/new
+          echo diffcount=$(cat /tmp/differ | wc -l) >> $GITHUB_OUTPUT
+          echo skipcount=$(cat /tmp/skipped | wc -l) >> $GITHUB_OUTPUT
+          echo newcount=$(cat /tmp/new | wc -l) >> $GITHUB_OUTPUT
+          echo totalcount=$(cat /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq | wc -l) >> $GITHUB_OUTPUT
+
+      - name: Notify slack channel that cluster is up
+        uses: slackapi/slack-github-action@v1.24.0
+        with:
+          channel-id: 'C024WH42AD7'
+          slack-message: |
+            Bioc container binaries for ${{ github.event.inputs.version }} successfully pushed.
+            Total binaries pushed: ${{ steps.rclonecopy.outputs.totalcount }}
+            Skipped: ${{ steps.rclonecopy.outputs.skipcount }}
+            Modified: ${{ steps.rclonecopy.outputs.diffcount }}
+            New: ${{ steps.rclonecopy.outputs.newcount }}
+
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        continue-on-error: true
 
       - name: Verify function of k8s, kubectl, and helm
         run: |
