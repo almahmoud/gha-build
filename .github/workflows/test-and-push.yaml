@@ -123,18 +123,11 @@ jobs:
             git pull origin main || git reset --hard origin/main
             STARTTIME="$(cat runstarttime)" || true
             LOGDIR="logs/$STARTTIME" || true
-            echo "${{steps.variables.outputs.biocver}}/container-binaries/$(cat containername)/$(cat arch)/binaries/src/contrib" > "$LOGDIR/copied"
-            mv runstarttime "$LOGDIR"/ || true
-            mv uniquedeps.json "$LOGDIR"/ || true
-            mv packages.json "$LOGDIR"/ || true
-            mv biocdeps.json "$LOGDIR"/ || true
-            mv tobuild.txt "$LOGDIR"/ || true
-            mv lists "$LOGDIR"/lists || true
-            mv bioc_build "$LOGDIR"/bioc_build || true
+            echo "${{steps.variables.outputs.biocver}}/container-binaries/$(cat containername)/$(cat arch)/binaries/src/contrib" > "$LOGDIR/js2copied"
 
             git config user.email "action@github.com"
             git config user.name "GitHub Action"
             git add .
-            git commit -m "Reset packages $STARTTIME"
+            git commit -m "Trigger copy to gcs $STARTTIME"
             git push
 

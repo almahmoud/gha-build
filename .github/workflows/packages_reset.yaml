@@ -3,7 +3,6 @@ on:
   workflow_dispatch: {}
   push:
     paths:
-      - .github/scripts/root.Dockerfile
       - last_bioc_set
 jobs:
   packages-reset:
