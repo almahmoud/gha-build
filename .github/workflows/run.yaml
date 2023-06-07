@@ -123,13 +123,6 @@ jobs:
         with:
           verbose: true
 
-      - name: Maximize build space
-        uses: easimon/maximize-build-space@v6
-        with:
-          root-reserve-mb: 71680
-          swap-size-mb: 1024
-          overprovision-lvm: true
-
       - uses: actions/checkout@v3
 
       - name: Free space check
