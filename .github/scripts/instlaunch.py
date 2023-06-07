@@ -453,15 +453,6 @@ def _set_password_access(ip, desired_password, kp_file_path):
                 && sudo service ssh restart\
                 && echo "ubuntu:' + desired_password + '" | sudo chpasswd \
                 && exit'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    # && sudo pip install -U cryptography\
-    # && sudo rm -rf /usr/lib/python2.7/dist-packages/OpenSSL\
-    # && sudo rm -rf /usr/lib/python2.7/dist-packages/\
-    # pyOpenSSL-0.15.1.egg-info\
-    # && sudo pip install pyopenssl\
-    # The cryprography and openssl fixes are needed to run the demo at:
-    # https://github.com/galaxyproject/dagobah-training/blob/2018-gccbosc/sessions/14-ansible/ex2-galaxy-ansible.md
-    # in June 2018
-
 
 def append_info_to_file(info_file_path, label, id, ip, password=None):
     table = '{},{},{},{}\n'

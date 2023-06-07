@@ -67,7 +67,6 @@ def add_successful_size_and_url(pkg, status, tarname, container_path_name="rstud
 
 def check_cran_archived(pkg, each):
     """Checks if a package has been archived on CRAN"""
-    #if f"package ‘{pkg}’ is not available for Bioconductor version" in logtext:
     cranurl = f"https://cran.r-project.org/web/packages/{pkg}/index.html"
     r = requests.get(cranurl)
     retries = 0

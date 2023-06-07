@@ -62,13 +62,7 @@ jobs:
           rclone copyto js2-s3:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib --exclude PACKAGES --exclude PACKAGES.* -vvvvv 2>&1 | tee /tmp/js2s3log
           grep "Removing failed copy" /tmp/js2s3log | grep -oe '[^ ]*.tar.gz' | sort | uniq > /tmp/failedlist
           cat /tmp/failedlist | xargs -i rclone copy js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/{} gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/ -vvvvv
-          #rclone copyto js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/PACKAGES gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES
-          #rclone copyto js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/PACKAGES.gz gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES.gz
-          #rclone copyto js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/PACKAGES.rds gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES.rds
         
-          #rclone copyto js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/PACKAGES /tmp/JS2PACKAGES -vvvv
-          #cat /tmp/JS2PACKAGES | grep -oe '[^ ]*.tar.gz' | sort | uniq > /tmp/js2tars
-          #cat /tmp/js2tars | xargs -i rclone copy js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/{} gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/ -vvvvv
 
       - name: Verify function of k8s, kubectl, and helm
         run: |
@@ -91,7 +85,6 @@ jobs:
           helm repo add wunderio https://storage.googleapis.com/charts.wdr.io
           echo "$GCP_RCLONE_VALS" > rclone-vals.yaml
           sed -i "s#GCPHOLDERPATH#bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib#g" rclone-vals.yaml
-          #sed -i "s#write_PACKAGES#update_PACKAGES#g" .github/scripts/k8s/k8s-resources.yaml
           helm upgrade --install --create-namespace -n rclone rclone wunderio/csi-rclone -f rclone-vals.yaml --set-file params.gcs-service-account-credentials="/tmp/gcs" --wait
           kubectl -n rclone apply -f .github/scripts/k8s/k8s-resources.yaml
           while [[ $(kubectl get pods -n rclone package-file --no-headers -o custom-columns=":status.phase") != "Running" ]]; do

@@ -274,8 +274,6 @@ jobs:
           rm -rf $repodir/${{ steps.versions.outputs.library }}
           cd /
           tar -xvf /tmp/image/${{ matrix.pkg }}.tar && rm /tmp/image/${{ matrix.pkg }}.tar
-          #cp -r tmp / || true
-          #cp -r ${{ steps.versions.outputs.library }} $(dirname /${{ steps.versions.outputs.library }})/ || true
           cd $repodir
           rm -rf image
           if (ls /tmp/tars | grep -q "^${{matrix.pkg}}_"); then exit 0; else exit 1; fi
