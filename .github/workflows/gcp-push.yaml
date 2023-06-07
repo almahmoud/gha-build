@@ -1,0 +1,142 @@
+name: Make GCS packages
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Binaries version
+        required: true
+        default: 3.17
+      container:
+        description: Container name
+        required: true
+        default: bioconductor_docker     
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Free root space
+        uses: almahmoud/free-root-space@main
+        with:
+          verbose: true
+ 
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
+          persist-credentials: true
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+
+      - name: Start a local k8s cluster
+        uses: jupyterhub/action-k3s-helm@v3
+        with:
+          k3s-channel: latest
+          metrics-enabled: false
+          traefik-enabled: false
+
+      - name: Install rclone & add rclone conf file
+        uses: nick-fields/retry@v2
+        env:
+            RCLONE_CONF: ${{secrets.RCLONE_CONF}}
+            GCP_SA: ${{secrets.GCP_SA}}
+        with:
+          timeout_minutes: 20
+          max_attempts: 10
+          shell: bash
+          command: |
+            set -xe
+            sudo -v ; curl https://rclone.org/install.sh | sudo bash || true
+            echo "$RCLONE_CONF" > ~/.rclone.conf
+            mkdir -p /tmp/
+            echo "$GCP_SA" > /tmp/gcs
+            if ! command -v rclone &> /dev/null
+            then
+                echo "rclone could not be found"
+                exit 1;
+            fi
+
+      - name: Copy js2 to gcp
+        run: |
+          mkdir -p /tmp/
+          rclone copyto js2-s3:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib --exclude PACKAGES --exclude PACKAGES.* -vvvvv 2>&1 | tee /tmp/js2s3log
+          grep "Removing failed copy" /tmp/js2s3log | grep -oe '[^ ]*.tar.gz' | sort | uniq > /tmp/failedlist
+          cat /tmp/failedlist | xargs -i rclone copy js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/{} gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/ -vvvvv
+          #rclone copyto js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/PACKAGES gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES
+          #rclone copyto js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/PACKAGES.gz gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES.gz
+          #rclone copyto js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/PACKAGES.rds gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES.rds
+        
+          #rclone copyto js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/PACKAGES /tmp/JS2PACKAGES -vvvv
+          #cat /tmp/JS2PACKAGES | grep -oe '[^ ]*.tar.gz' | sort | uniq > /tmp/js2tars
+          #cat /tmp/js2tars | xargs -i rclone copy js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/{} gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/ -vvvvv
+
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+          
+          git clone --depth=1 https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner.git
+          
+          cat << "EOF" > local.yaml
+          classes:
+          - name: local-storage
+            hostDir: /mnt/disks
+            volumeMode: Block
+            storageClass: true
+          EOF
+          
+          kubectl create ns rclone
+          helm install -n rclone static ./sig-storage-local-static-provisioner/helm/provisioner -f local.yaml
+  
+          helm repo add wunderio https://storage.googleapis.com/charts.wdr.io
+          echo "$GCP_RCLONE_VALS" > rclone-vals.yaml
+          sed -i "s#GCPHOLDERPATH#bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib#g" rclone-vals.yaml
+          #sed -i "s#write_PACKAGES#update_PACKAGES#g" .github/scripts/k8s/k8s-resources.yaml
+          helm upgrade --install --create-namespace -n rclone rclone wunderio/csi-rclone -f rclone-vals.yaml --set-file params.gcs-service-account-credentials="/tmp/gcs" --wait
+          kubectl -n rclone apply -f .github/scripts/k8s/k8s-resources.yaml
+          while [[ $(kubectl get pods -n rclone package-file --no-headers -o custom-columns=":status.phase") != "Running" ]]; do
+             
+            kubectl get events -n rclone > events.log
+            awk '{$1=""}1' events.log > newevents.log
+            if [ ! -f "oldevents.log" ]; then cat events.log && cp newevents.log oldevents.log; fi
+            # If different, cat new events
+            cmp --silent oldevents.log newevents.log || cat events.log
+            cp newevents.log oldevents.log
+            
+            kubectl logs -n rclone package-file -c copy-packages > copy.log || true
+            if [ -f "copy.log" ]; then
+              if [ ! -f "oldcopy.log" ]; then cat copy.log && cp copy.log oldcopy.log; fi
+              grep -A 99999999999 "$(tail -n 1 oldcopy.log)" copy.log || true
+              cp copy.log oldcopy.log
+            fi
+            kubectl logs -n rclone package-file -c sleep || true
+            sleep 10
+          done
+          mkdir -p /tmp
+          kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES.gz /tmp/GCPPACKAGES.gz
+          kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES.rds /tmp/GCPPACKAGES.rds
+          kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES /tmp/GCPPACKAGES
+        env:
+          GCP_RCLONE_VALS: ${{secrets.GCP_RCLONE_VALS}}
+
+      - run: |
+          rclone copyto /tmp/GCPPACKAGES gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES -vvvvv
+          rclone copyto /tmp/GCPPACKAGES.gz gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES.gz -vvvvv
+          rclone copyto /tmp/GCPPACKAGES.rds gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES.rds -vvvvv
+
+      - name: Add write_packages log
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 50
+          shell: bash
+          command: |
+            set -x
+            git config --global --add safe.directory "$GITHUB_WORKSPACE"
+            git pull origin main || git reset --hard origin/main
+            cp /tmp/GCPPACKAGES ./
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add ./GCPPACKAGES
+            git commit -m "Add GCPPACKAGES file"
+            git push
