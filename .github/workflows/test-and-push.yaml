@@ -95,21 +95,40 @@ jobs:
                 exit 1;
             fi
 
-
       - name: Use AWS CLI to copy
+        id: s3copy
         run: |
           mkdir -p ~/.aws
           echo "$S3_CREDS" > ~/.aws/credentials
           SRCBUCK="s3://gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/src/contrib"
           DSTBUCK="s3://${{steps.variables.outputs.biocver}}/container-binaries/$(cat containername)/$(cat arch)/binaries/src/contrib"
-          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 sync --delete $SRCBUCK $DSTBUCK --exclude "PACKAGES*"
-          
-          
+          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 sync --delete $SRCBUCK $DSTBUCK --exclude "PACKAGES*" 2>&1 | tee /tmp/synclog
+
+          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls gha-build | grep "$SRCBUCK" | grep -o "[\.A-Za-z0-9_-]\+.tar.gz" | sort | uniq > /tmp/cycletars
+          grep -o "[\.A-Za-z0-9_-]\+.tar.gz" /tmp/synclog  | sort | uniq > /tmp/newtars
+
           rclone purge js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/libraries -vvvvv
+
+          echo newcount=$(cat /tmp/newtars | wc -l) >> $GITHUB_OUTPUT
+          echo cyclecount=$(cat /tmp/cycletars | wc -l) >> $GITHUB_OUTPUT
         env:
           S3_CREDS: ${{ secrets.S3_CREDS }}
           AWS_EC2_METADATA_DISABLED: "true"
         if: steps.variables.outcome=='success'
+
+      - name: Notify slack channel with summary of binaries copied to GCS
+        uses: slackapi/slack-github-action@v1.24.0
+        with:
+          channel-id: '${{secrets.SLACK_CHANNEL_ID}}'
+          slack-message: |
+            Cycle has ended for ${{steps.variables.outputs.biocver}}.
+            New binaries copied: ${{ steps.s3copy.outputs.newcount }}
+            Total cycle binaries: ${{ steps.s3copy.outputs.cyclecount }}
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+        if: env.SLACK_BOT_TOKEN != null && env.SLACK_CHANNEL_ID != null
+        continue-on-error: true
 
       - name: Copy old run
         uses: nick-fields/retry@v2
