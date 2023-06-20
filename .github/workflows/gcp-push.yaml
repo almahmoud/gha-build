@@ -72,7 +72,7 @@ jobs:
       - name: Notify slack channel with summary of binaries copied to GCS
         uses: slackapi/slack-github-action@v1.24.0
         with:
-          channel-id: 'C024WH42AD7'
+          channel-id: '${{secrets.SLACK_CHANNEL_ID}}'
           slack-message: |
             Bioc container binaries for ${{ github.event.inputs.version }} successfully pushed.
             Total binaries pushed: ${{ steps.rclonecopy.outputs.totalcount }}
@@ -82,6 +82,8 @@ jobs:
 
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+        if: env.SLACK_BOT_TOKEN != null && env.SLACK_CHANNEL_ID != null
         continue-on-error: true
 
 
@@ -147,12 +149,14 @@ jobs:
       - name: Notify slack channel that GCS index has been changed
         uses: slackapi/slack-github-action@v1.24.0
         with:
-          channel-id: 'C024WH42AD7'
+          channel-id: '${{secrets.SLACK_CHANNEL_ID}}'
           slack-message: |
             Index changed for ${{ github.event.inputs.version }} Bioc container binaries
             Total binaries in new PACKAGES index: ${{ steps.packages.outputs.countpkgslist }}
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+        if: env.SLACK_BOT_TOKEN != null && env.SLACK_CHANNEL_ID != null
         continue-on-error: true
 
       - name: Add write_packages log and copy old run to trigger new cycle
