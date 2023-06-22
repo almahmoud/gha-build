@@ -107,7 +107,11 @@ jobs:
           helm install -n rclone static ./sig-storage-local-static-provisioner/helm/provisioner -f local.yaml
   
           helm repo add wunderio https://storage.googleapis.com/charts.wdr.io
-          echo "$GCP_RCLONE_VALS" > rclone-vals.yaml
+          cat << "EOF" > rclone-vals.yaml
+          params:
+            remote: "google cloud storage"
+            remotePath: "/GCPHOLDERPATH"
+          EOF
           sed -i "s#GCPHOLDERPATH#bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib#g" rclone-vals.yaml
           helm upgrade --install --create-namespace -n rclone rclone wunderio/csi-rclone -f rclone-vals.yaml --set-file params.gcs-service-account-credentials="/tmp/gcs" --wait
           kubectl -n rclone apply -f .github/scripts/k8s/k8s-resources.yaml
@@ -133,8 +137,6 @@ jobs:
           kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES.gz /tmp/GCPPACKAGES.gz
           kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES.rds /tmp/GCPPACKAGES.rds
           kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES /tmp/GCPPACKAGES
-        env:
-          GCP_RCLONE_VALS: ${{secrets.GCP_RCLONE_VALS}}
 
       - run: |
           rclone copyto /tmp/GCPPACKAGES gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib/PACKAGES -vvvvv
