@@ -19,9 +19,10 @@ jobs:
 
       - id: variables
         run: |
-          echo platform=$(cat PLATFORM.bioc) >> $GITHUB_OUTPUT
-          echo rootcontainer=$(cat ROOT_CONTAINER.bioc) >> $GITHUB_OUTPUT
-
+          echo arch=$(cat bioc_build/arch) >> $GITHUB_OUTPUT
+          biocver=$(cat bioc_build/bioc | sed 's/ /./g')
+          echo biocver=$biocver >> $GITHUB_OUTPUT
+          echo containername=$(cat bioc_build/containername | sed "s#-$biocver##") >> $GITHUB_OUTPUT
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10' 
@@ -58,9 +59,9 @@ jobs:
         id: rclonecopy
         run: |
           mkdir -p /tmp/
-          rclone copyto js2-s3:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib --exclude PACKAGES --exclude PACKAGES.* -vvvvv 2>&1 | tee /tmp/js2s3log
+          rclone copyto js2-s3:/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}-${{ steps.variables.outputs.biocver }}/x86_64/binaries/src/contrib gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib --exclude PACKAGES --exclude PACKAGES.* -vvvvv 2>&1 | tee /tmp/js2s3log
           grep "Removing failed copy" /tmp/js2s3log | grep -oe '[^ ]*.tar.gz' | sort | uniq > /tmp/failedlist
-          cat /tmp/failedlist | xargs -i rclone copy js2:/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}-${{ github.event.inputs.version }}/x86_64/binaries/src/contrib/{} gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/ -vvvvv
+          cat /tmp/failedlist | xargs -i rclone copy js2:/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}-${{ steps.variables.outputs.biocver }}/x86_64/binaries/src/contrib/{} gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib/ -vvvvv
           grep "s differ" /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq > /tmp/differ
           grep "Unchanged skipping" /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq > /tmp/skipped
           grep "Copied (new)" /tmp/js2s3log | grep -o '[^ ]*.tar.gz' | sort | uniq > /tmp/new
@@ -74,7 +75,7 @@ jobs:
         with:
           channel-id: '${{secrets.SLACK_CHANNEL_ID}}'
           slack-message: |
-            Bioc container binaries for ${{ github.event.inputs.version }} successfully pushed.
+            Bioc container binaries for ${{ steps.variables.outputs.biocver }} successfully pushed.
             Total binaries pushed: ${{ steps.rclonecopy.outputs.totalcount }}
             Skipped: ${{ steps.rclonecopy.outputs.skipcount }}
             Modified: ${{ steps.rclonecopy.outputs.diffcount }}
@@ -106,15 +107,9 @@ jobs:
           helm install -n rclone static ./sig-storage-local-static-provisioner/helm/provisioner -f local.yaml
   
           helm repo add wunderio https://storage.googleapis.com/charts.wdr.io
-          cat << "EOF" > rclone-vals.yaml
-          params:
-            remote: "google cloud storage"
-            remotePath: "/GCPHOLDERPATH"
-          EOF
-          sed -i "s#GCPHOLDERPATH#bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib#g" rclone-vals.yaml
-          
+          echo "$GCP_RCLONE_VALS" > rclone-vals.yaml
+          sed -i "s#GCPHOLDERPATH#bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib#g" rclone-vals.yaml
           helm upgrade --install --create-namespace -n rclone rclone wunderio/csi-rclone -f rclone-vals.yaml --set-file params.gcs-service-account-credentials="/tmp/gcs" --wait
-          
           kubectl -n rclone apply -f .github/scripts/k8s/k8s-resources.yaml
           while [[ $(kubectl get pods -n rclone package-file --no-headers -o custom-columns=":status.phase") != "Running" ]]; do
              
@@ -138,11 +133,13 @@ jobs:
           kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES.gz /tmp/GCPPACKAGES.gz
           kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES.rds /tmp/GCPPACKAGES.rds
           kubectl cp -c sleep -n rclone package-file:/mnt/results/PACKAGES /tmp/GCPPACKAGES
+        env:
+          GCP_RCLONE_VALS: ${{secrets.GCP_RCLONE_VALS}}
 
       - run: |
-          rclone copyto /tmp/GCPPACKAGES gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES -vvvvv
-          rclone copyto /tmp/GCPPACKAGES.gz gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES.gz -vvvvv
-          rclone copyto /tmp/GCPPACKAGES.rds gcp:bioconductor-packages/${{ github.event.inputs.version }}/container-binaries/${{ github.event.inputs.container }}/src/contrib/PACKAGES.rds -vvvvv
+          rclone copyto /tmp/GCPPACKAGES gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib/PACKAGES -vvvvv
+          rclone copyto /tmp/GCPPACKAGES.gz gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib/PACKAGES.gz -vvvvv
+          rclone copyto /tmp/GCPPACKAGES.rds gcp:bioconductor-packages/${{ steps.variables.outputs.biocver }}/container-binaries/${{ steps.variables.outputs.containername }}/src/contrib/PACKAGES.rds -vvvvv
 
       - name: Get PACKAGES info
         id: packages
@@ -155,7 +152,7 @@ jobs:
         with:
           channel-id: '${{secrets.SLACK_CHANNEL_ID}}'
           slack-message: |
-            Index changed for ${{ github.event.inputs.version }} Bioc container binaries
+            Index changed for ${{ steps.variables.outputs.biocver }} Bioc container binaries
             Total binaries in new PACKAGES index: ${{ steps.packages.outputs.countpkgslist }}
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
