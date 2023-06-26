@@ -103,9 +103,21 @@ jobs:
           SRCBUCK="s3://gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/src/contrib"
           DSTBUCK="s3://${{steps.variables.outputs.biocver}}/container-binaries/$(cat containername)/$(cat arch)/binaries/src/contrib"
 
-          rclone purge js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/libraries -vvvvv 2>&1 | tee /tmp/purge
-          while grep -q "Deleted" /tmp/purge; do rclone purge js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/libraries -vvvvv 2>&1 | tee /tmp/purge; done
+          purge_all () {
+              PURGEDIR="$1"  
+              rclone purge $PURGEDIR -vvvvv 2>&1 | tee /tmp/purge
+              while grep -q "Deleted" /tmp/purge; do rclone purge $PURGEDIR -vvvvv 2>&1 | tee /tmp/purge; done
+          }
 
+          # Purge libraries
+          purge_all js2:/gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/libraries
+          
+          
+          # Purge all but latest 3 run binaries
+          ls -d logs/*/ | sort -n | sed "s#logs#js2:/gha-build/$(cat containername)/$(cat arch)#" | head -n -3 > /tmp/purgelist
+          cat /tmp/purgelist
+          cat /tmp/purgelist | xargs -i -r purge_all {}
+          
           aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 sync --delete $SRCBUCK $DSTBUCK --exclude "PACKAGES*" 2>&1 | tee /tmp/synclog
 
           aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls gha-build | grep "$(echo $SRCBUCK | sed 's#s3://gha-build/##')" | grep -o "[\.A-Za-z0-9_-]\+.tar.gz" | sort | uniq > /tmp/cycletars
@@ -151,4 +163,3 @@ jobs:
             git add .
             git commit -m "Trigger copy to gcs $STARTTIME"
             git push
-
