@@ -75,7 +75,7 @@ jobs:
         with:
           channel-id: '${{secrets.SLACK_CHANNEL_ID}}'
           slack-message: |
-            Bioc container binaries for ${{ steps.variables.outputs.biocver }} successfully pushed.
+            Bioc container binaries for ${{ steps.variables.outputs.containername }} ${{ steps.variables.outputs.biocver }} successfully pushed.
             Total binaries pushed: ${{ steps.rclonecopy.outputs.totalcount }}
             Skipped: ${{ steps.rclonecopy.outputs.skipcount }}
             Modified: ${{ steps.rclonecopy.outputs.diffcount }}
@@ -154,7 +154,7 @@ jobs:
         with:
           channel-id: '${{secrets.SLACK_CHANNEL_ID}}'
           slack-message: |
-            Index changed for ${{ steps.variables.outputs.biocver }} Bioc container binaries
+            Index changed for ${{ steps.variables.outputs.containername }} ${{ steps.variables.outputs.biocver }} Bioc container binaries
             Total binaries in new PACKAGES index: ${{ steps.packages.outputs.countpkgslist }}
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
