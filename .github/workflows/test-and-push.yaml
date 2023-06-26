@@ -24,6 +24,7 @@ jobs:
         run: |
           if [ ! -f "runstarttime" ]; then exit 1; fi
           if [ ! -f "logs/$(cat runstarttime)/PACKAGES" ]; then exit 1; fi
+          echo containername=$(cat containername) >> $GITHUB_OUTPUT
           echo platform=$(cat PLATFORM.bioc) >> $GITHUB_OUTPUT
           echo testcontainer=$(cat ROOT_CONTAINER.bioc | sed "s#:#:test-#g") >> $GITHUB_OUTPUT
           echo biocver=$(cat bioc_build/bioc | sed 's/ /./g') >> $GITHUB_OUTPUT
@@ -135,7 +136,7 @@ jobs:
         with:
           channel-id: '${{secrets.SLACK_CHANNEL_ID}}'
           slack-message: |
-            Cycle has ended for ${{steps.variables.outputs.biocver}}.
+            Cycle has ended for ${{steps.variables.outputs.containername}}.
             New binaries copied: ${{ steps.s3copy.outputs.newcount }}
             Total cycle binaries: ${{ steps.s3copy.outputs.cyclecount }}
         env:
