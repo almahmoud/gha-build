@@ -126,16 +126,19 @@ jobs:
           (aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 sync --delete $SRCBUCK $DSTBUCK --exclude "PACKAGES*" 2>&1 | tee /tmp/synclog ) || true
           
           countsrc=$(aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls "$SRCBUCK/" | grep tar.gz | sort | uniq | wc -l)
-          countdst=$(aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls "$DSTBUCK/" | grep tar.gz | sort | uniq | wc -l)
-          
+          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls "$DSTBUCK/" | grep tar.gz | sort | uniq > /tmp/buildls
+          countdst=$(cat /tmp/buildls | wc -l)
+
           if [ $countsrc -eq $countdst ]; then echo "All $countdst binaries copied"; else exit 1; fi 
           
-          BUCKPREF="$(echo $SRCBUCK | sed 's#s3://##')"
-          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls "$BUCKPREF/" > /tmp/buildls
           cat /tmp/buildls | grep -o "[\.A-Za-z0-9_-]\+.tar.gz" | sort | uniq > /tmp/cycletars
-          cat /tmp/synclog | grep -o "[\.A-Za-z0-9_-]\+.tar.gz" | sort | uniq > /tmp/newtars
+          (cat /tmp/synclog | grep -o "[\.A-Za-z0-9_-]\+.tar.gz" | sort | uniq > /tmp/newtars) || true
 
-          echo newcount=$(cat /tmp/newtars | wc -l) >> $GITHUB_OUTPUT
+          if [ ! -f "/tmp/newtars" ]; then 
+            echo newcount="0" >> $GITHUB_OUTPUT
+          else
+            echo newcount=$(cat /tmp/newtars | wc -l) >> $GITHUB_OUTPUT
+          fi
           echo cyclecount=$(cat /tmp/cycletars | wc -l) >> $GITHUB_OUTPUT
         env:
           S3_CREDS: ${{ secrets.S3_CREDS }}
