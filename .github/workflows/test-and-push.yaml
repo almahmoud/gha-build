@@ -100,15 +100,16 @@ jobs:
         id: s3copy
         shell: bash
         run: |
+          set -x
           mkdir -p ~/.aws
           echo "$S3_CREDS" > ~/.aws/credentials
           SRCBUCK="s3://gha-build/$(cat containername)/$(cat arch)/$(cat runstarttime)/binaries/src/contrib"
           DSTBUCK="s3://${{steps.variables.outputs.biocver}}/container-binaries/$(cat containername)/$(cat arch)/binaries/src/contrib"
 
           purge_all () {
-              PURGEDIR="$1"  
-              rclone purge $PURGEDIR -vvvvv 2>&1 | tee /tmp/purge
-              while grep -q "Deleted" /tmp/purge; do rclone purge $PURGEDIR -vvvvv 2>&1 | tee /tmp/purge; done
+              PURGEDIR="$1"
+              ( rclone purge $PURGEDIR -vvvvv 2>&1 | tee /tmp/purge ) || true
+              while grep -q "Deleted" /tmp/purge; do ( rclone purge $PURGEDIR -vvvvv 2>&1 | tee /tmp/purge ) || true; done
           }
           
           export -f purge_all
@@ -120,12 +121,19 @@ jobs:
           # Purge all but latest 3 run binaries
           ls -d logs/*/ | sort -n | sed "s#logs#js2:/gha-build/$(cat containername)/$(cat arch)#" | head -n -3 > /tmp/purgelist
           cat /tmp/purgelist
-          cat /tmp/purgelist | xargs -i -r purge_all {}
+          cat /tmp/purgelist | xargs -i -r bash -c 'purge_all {}'
           
-          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 sync --delete $SRCBUCK $DSTBUCK --exclude "PACKAGES*" 2>&1 | tee /tmp/synclog
-
-          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls gha-build | grep "$(echo $SRCBUCK | sed 's#s3://gha-build/##')" | grep -o "[\.A-Za-z0-9_-]\+.tar.gz" | sort | uniq > /tmp/cycletars
-          grep -o "[\.A-Za-z0-9_-]\+.tar.gz" /tmp/synclog  | sort | uniq > /tmp/newtars
+          (aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 sync --delete $SRCBUCK $DSTBUCK --exclude "PACKAGES*" 2>&1 | tee /tmp/synclog ) || true
+          
+          countsrc=$(aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls "$SRCBUCK/" | grep tar.gz | sort | uniq | wc -l)
+          countdst=$(aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls "$DSTBUCK/" | grep tar.gz | sort | uniq | wc -l)
+          
+          if [ $countsrc -eq $countdst ]; then echo "All $countdst binaries copied"; else exit 1; fi 
+          
+          BUCKPREF="$(echo $SRCBUCK | sed 's#s3://##')"
+          aws --endpoint-url https://js2.jetstream-cloud.org:8001 s3 ls "$BUCKPREF/" > /tmp/buildls
+          cat /tmp/buildls | grep -o "[\.A-Za-z0-9_-]\+.tar.gz" | sort | uniq > /tmp/cycletars
+          cat /tmp/synclog | grep -o "[\.A-Za-z0-9_-]\+.tar.gz" | sort | uniq > /tmp/newtars
 
           echo newcount=$(cat /tmp/newtars | wc -l) >> $GITHUB_OUTPUT
           echo cyclecount=$(cat /tmp/cycletars | wc -l) >> $GITHUB_OUTPUT
