@@ -48,6 +48,28 @@ jobs:
           # Remove first 90 lines from to build
           sed '1,90d' tobuild.txt > /tmp/newtobuild
 
+      - name: Install rclone & add rclone conf file
+        uses: nick-fields/retry@v2
+        env:
+            RCLONE_CONF: ${{secrets.RCLONE_CONF}}
+        with:
+          timeout_minutes: 20
+          max_attempts: 10
+          shell: bash
+          command: |
+            set -xe
+            sudo -v ; curl https://rclone.org/install.sh | sudo bash || true
+            echo "$RCLONE_CONF" > ~/.rclone.conf
+            if ! command -v rclone &> /dev/null
+            then
+                echo "rclone could not be found"
+                exit 1;
+            fi
+            mkdir -p /tmp/image
+
+      - name: Cleanup libraries that aren't needed anymore
+        run: bash .github/scripts/cleanup_libraries.sh
+
       - name: Set token depending on whether a new workflow is needed
         id: tokenlist
         run: |
