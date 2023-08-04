@@ -1,7 +1,7 @@
 # (WIP) Building Linux Binaries for Docker Containers
 
 ## What is it?
-This repository is a template that sets up the base for dispatching GitHub Actions jobs to create pre-compiled binaries for R/Bioconductor packages.
+This repository is a template that sets up the base for dispatching GitHub Actions jobs to create pre-compiled binaries for R/Bioconductor packages. This is an evolution of [BiocKubeInstall](https://github.com/Bioconductor/BiocKubeInstall), the original GKE-based stack for building binaries.
 
 ## Getting started
 This repository is a young project that is still very much work in progress, and currently only used internally by the Bioconductor team.
