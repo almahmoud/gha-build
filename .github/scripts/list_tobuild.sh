@@ -25,7 +25,7 @@ if [ ! -s tobuild.txt ]; then
                 grep -Ervl "(failed|tar.gz$)" lists | grep -v "failed" > /tmp/resetpkgs || true
                 if [ -s /tmp/resetpkgs ]; then
                     mkdir -p logs/$(cat runstarttime)/retries
-                    cat /tmp/resetpkgs | xargs -i bash -c 'pkgcounter=0; retrypath="logs/$(cat runstarttime)/retries/{}"; if [ -f "$retrypath" ]; then pkgcounter=$(<$retrypath); fi; pkgcounter=$((pkgcounter+1)); mkdir -p $(dirname $retrypath); echo $pkgcounter > "$retrypath"; if [ $pkgcounter -lt 3 ]; then rm {} && rm "$retrypath"; fi'
+                    cat /tmp/resetpkgs | xargs -i bash -c 'pkgcounter=0; retrypath="logs/$(cat runstarttime)/retries/{}"; if [ -f "$retrypath" ]; then pkgcounter=$(<$retrypath); fi; pkgcounter=$((pkgcounter+1)); mkdir -p $(dirname $retrypath); echo $pkgcounter > "$retrypath"; if [ $pkgcounter -lt 3 ]; then rm {} && rm logs/$(cat runstarttime)/retries_counter || true; fi'
                     git add lists
                     git add logs
                 fi
