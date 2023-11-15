@@ -36,6 +36,7 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.name github-actions
             git config user.email github-actions@github.com
+            git pull origin main || git reset --hard origin/main
             bash .github/scripts/list_tobuild.sh
 
       - name: Output list of up to 90 packages to build
@@ -58,7 +59,7 @@ jobs:
           shell: bash
           command: |
             set -xe
-            sudo -v ; curl https://rclone.org/install.sh | sudo bash || true
+            curl https://rclone.org/install.sh | sudo bash || true
             echo "$RCLONE_CONF" > ~/.rclone.conf
             if ! command -v rclone &> /dev/null
             then
@@ -75,7 +76,7 @@ jobs:
         run: |
           # PAT will trigger a push workflow, GITHUB_TOKEN won't
           # Trigger a new workflow if tobuild is not empty
-          if [ -s /tmp/newtobuild ]; then TOK=${{secrets.PAT}}; elif [ -s /tmp/write_PACKAGES ]; then TOK=${{secrets.PAT}}; else TOK=${{secrets.GITHUB_TOKEN}}; fi
+          [ -s /tmp/newtobuild ] || [ -s /tmp/write_PACKAGES ] || [ -s lists/self-hosted ] && TOK=${{secrets.PAT}} || TOK=${{secrets.PAT}}
           echo tok=$(echo "$TOK") >> $GITHUB_OUTPUT
 
       - name: Checkout with new token
@@ -84,6 +85,24 @@ jobs:
           token: ${{ steps.tokenlist.outputs.tok }}
           persist-credentials: true
 
+      - name: Switch to self-hosted
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 50
+          shell: bash
+          command: |
+            set -x
+            git config --global --add safe.directory "$GITHUB_WORKSPACE"
+            git pull origin main || git reset --hard origin/main
+            if [ ! -s lists/self-hosted ]; then exit 0; fi
+            sed -i 's/runs-on: ubuntu-latest/runs-on: [self-hosted, js2]/g' .github/workflows/run.yaml
+            rm lists/self-hosted
+            git add .github/workflows/run.yaml
+            git add lists
+            git commit -m "Switch to self-hosted"
+            git push
+
       - name: Add write_packages log
         uses: nick-fields/retry@v2
         with:
@@ -91,10 +110,10 @@ jobs:
           max_attempts: 50
           shell: bash
           command: |
-            if [ ! -s /tmp/write_PACKAGES ]; then exit 0; fi
             set -x
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git pull origin main || git reset --hard origin/main
+            if [ ! -s /tmp/write_PACKAGES ]; then exit 0; fi
             cp /tmp/write_PACKAGES lists/write_PACKAGES
             git config user.name github-actions
             git config user.email github-actions@github.com
@@ -154,6 +173,7 @@ jobs:
 
       - name: Get Current Job Log URL
         uses: Tiryoh/gha-jobid-action@v0
+        continue-on-error: true
         id: jobs
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -231,7 +251,7 @@ jobs:
       - name: Set container image name
         id: meta
         run: |
-          echo image="ghcr.io/${{ github.repository }}:${{ matrix.pkg }}-${{steps.versions.outputs.sanitizedplatform}}" >> $GITHUB_OUTPUT
+          echo image="ghcr.io/${GITHUB_REPOSITORY,,}:${{ matrix.pkg }}-${{steps.versions.outputs.sanitizedplatform}}" >> $GITHUB_OUTPUT
           echo base="$(cat CONTAINER_BASE_IMAGE.bioc)" >> $GITHUB_OUTPUT
           echo workspace="$(echo $GITHUB_WORKSPACE)" >> $GITHUB_OUTPUT
           mkdir -p "$GITHUB_WORKSPACE/tmp/image"
@@ -246,7 +266,7 @@ jobs:
           shell: bash
           command: |
             set -xe
-            sudo -v ; curl https://rclone.org/install.sh | sudo bash || true
+            curl https://rclone.org/install.sh | sudo bash || true
             echo "$RCLONE_CONF" > ~/.rclone.conf
             if ! command -v rclone &> /dev/null
             then
