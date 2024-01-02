@@ -100,6 +100,8 @@ jobs:
             sed -i 's/runs-on: ubuntu-latest/runs-on: [self-hosted, js2]/g' .github/workflows/run.yaml
             sed -i '/steps:/a \ \ \ \ \ \ - uses: waycarbon/github-action-container-cleanup@v1' .github/workflows/run.yaml
             cp /tmp/self-hosted lists/self-hosted
+            git config user.name github-actions
+            git config user.email github-actions@github.com
             git add .github/workflows/run.yaml
             git add lists
             git commit -m "Switch to self-hosted"
