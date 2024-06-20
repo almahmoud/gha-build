@@ -26,7 +26,7 @@ if [ ! -s tobuild.txt ]; then
                 if [ -s /tmp/resetpkgs ]; then
                     mkdir -p logs/$(cat runstarttime)/retries
                     if [ $counter -gt 6 ]; then
-                        if ! grep -q 'switch' /tmp/self-hosted; then
+                        if ! grep -q 'switch' logs/$(cat runstarttime)/self-hosted; then
                             echo 'switch' > /tmp/self-hosted
                             rm -rf "logs/$(cat runstarttime)/retries" || true
                         fi
