@@ -67,7 +67,7 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git pull origin main || git reset --hard origin/main
             STARTTIME="$(cat runstarttime)" || true
-            LOGDIR="logs/$(cat runstarttime)" || true
+            LOGDIR="logs/$STARTTIME" || true
             mv README.md "$LOGDIR"/ || true
             mv runstarttime "$LOGDIR"/ || true
             mv uniquedeps.json "$LOGDIR"/ || true
@@ -99,6 +99,8 @@ jobs:
             ( cd .. && git clone https://github.com/almahmoud/gha-build && cp -r gha-build/.github ./ )
             rm -rf .github
             cp -r ../.github ./
+            echo "$STARTTIME" > $LOGDIR/copied || true
             git add .github
+            git add $LOGDIR
             git commit -m "Reset .github"
             git push
