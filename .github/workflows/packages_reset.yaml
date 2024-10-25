@@ -95,12 +95,3 @@ jobs:
             git add $LOGDIR
             git commit -m "Reset packages $STARTTIME"
             git push
-            
-            ( cd .. && git clone https://github.com/almahmoud/gha-build && cp -r gha-build/.github ./ )
-            rm -rf .github
-            cp -r ../.github ./
-            echo "$STARTTIME" > $LOGDIR/copied || true
-            git add .github
-            git add $LOGDIR
-            git commit -m "Reset .github"
-            git push
