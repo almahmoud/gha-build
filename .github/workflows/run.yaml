@@ -164,6 +164,7 @@ jobs:
     
       - name: Free root space
         uses: almahmoud/free-root-space@main
+        if: startsWith(runner.name, 'self-hosted')
         with:
           verbose: true
 
