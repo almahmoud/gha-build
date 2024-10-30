@@ -176,6 +176,7 @@ jobs:
             cp /tmp/GCPPACKAGES ./"${STARTTIME}-GCPPACKAGES"
             LOGDIR="logs/$STARTTIME" || true
             echo "${{steps.variables.outputs.biocver}}/container-binaries/$(cat containername)/$(cat arch)/binaries/src/contrib" > "$LOGDIR/copied"
+            mv ./"${STARTTIME}-GCPPACKAGES" "$LOGDIR"/GCPPACKAGES
             mv runstarttime "$LOGDIR"/ || true
             mv uniquedeps.json "$LOGDIR"/ || true
             mv packages.json "$LOGDIR"/ || true
@@ -186,7 +187,7 @@ jobs:
 
             git config user.name github-actions
             git config user.email github-actions@github.com
-            git add ./GCPPACKAGES
+            git add $LOGDIR
             git commit -m "Add GCPPACKAGES file and trigger a new cycle"
             git push
 
